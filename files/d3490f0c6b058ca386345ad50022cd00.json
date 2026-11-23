@@ -1,0 +1,26 @@
+{
+  "status": "saved_in_figma_visible_hud_review_passed",
+  "date": "2026-10-22",
+  "fileKey": "KUD4t84BL1S77c3cnb8co0",
+  "pageId": "11:711",
+  "previewId": "69:2948",
+  "previousRevision": "../../2026-10-21/figma-rounded-icons/design-system-state.json",
+  "direction": "stronger rounded controls with compact spacing, ARC Raiders information structure without retro styling",
+  "appliedManually": {
+    "quickSlot": {"id": "55:1184", "size": [80,80], "radius": 18},
+    "quickKey": {"id": "64:1484", "radius": 8},
+    "abilityKeys": {"ids": ["64:1438","64:1450","64:1462","64:1473"], "radius": 8},
+    "interactionKeys": {"ids": ["64:1541","64:1549","64:1557"], "radius": 9},
+    "interactionCards": {"ids": ["55:1193","55:1201","55:1209"], "size": [296,80], "radius": 14, "paddingY": 8, "paddingX": 12, "gap": 12},
+    "interactionDividers": {"ids": ["64:1544","64:1552","64:1560"], "y": 38},
+    "quickRows": {"compositions": ["Normal","Critical","Extraction","Project backdrop"], "width": 338, "height": 80, "gap": 6, "centeredByParent": true},
+    "abilityVectors": {"ids": ["86:2566","86:2564"], "cornerRadius": 2.2, "strokeWidthPreserved": true}
+  },
+  "notAppliedFromInitialProposal": ["extra water/energy vector curvature", "portrait radius 12"],
+  "preserved": {"survivalSize": 112, "survivalNumbers": false, "bottomUpFill": true, "hpStaminaAboveCharacter": true, "textSizesAndContrast": true, "portraitRadius": 8},
+  "unconfirmedNativeAiStage": "bag/lock geometry; not counted as verified changes",
+  "recoveredEditingError": "Extraction quick row temporarily removed by input-focus error, immediately restored with Undo and checked before subsequent spacing edit",
+  "proof": {"before": "before_project_native.png", "after": "after_project_native.png", "previousExport": "before_previous_export.png", "currentExport": "after_project_backdrop.png", "independentReview": "visual-audit.md", "record": "CHANGE_RECORD.md"},
+  "unityModified": false,
+  "appRestartedOrClosed": false
+}

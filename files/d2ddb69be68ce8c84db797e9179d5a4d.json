@@ -1,0 +1,495 @@
+{
+  "images": [
+    {
+      "file": "after_balanced_tiers.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2522253,
+      "sha256": "bedb0695f894664dd064475ae132658f168d77a5d8f8ea8c5b41275468e17541",
+      "decodePassed": true
+    },
+    {
+      "file": "after_heavy_tiers.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2380832,
+      "sha256": "9e6bb7d8eb6cef71790c016ed49dd5846e8bb002f01ec32a3a19f123c4f064ce",
+      "decodePassed": true
+    },
+    {
+      "file": "after_maintenance_tiers.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2461307,
+      "sha256": "472b5d416eb75b8daac6f4b10c76b8d522f92d36e9e57f3e588bd0e4fed60782",
+      "decodePassed": true
+    },
+    {
+      "file": "after_mobility_tiers.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2395037,
+      "sha256": "6dbef64ce9c6141f61df3c95e9f493848116023c4cae741987d1e039a86578a8",
+      "decodePassed": true
+    },
+    {
+      "file": "after_role_study.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2319600,
+      "sha256": "8c319f7d6388ee81a3e72d6b474ff26b23bed2f6e053576a0826e32e412b663f",
+      "decodePassed": true
+    },
+    {
+      "file": "armor_form_anchor_edel_a2.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2358182,
+      "sha256": "88624a79440ce0e6112ebe6efc2300683fa65debf799eeef45f0891e7a2a5353",
+      "decodePassed": true
+    },
+    {
+      "file": "before_advanced_balanced.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2554285,
+      "sha256": "fcb288435446d1e823f37b9e394134ba6a111d47df98b0a5193c3f3e246d7136",
+      "decodePassed": true
+    },
+    {
+      "file": "before_advanced_heavy.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2442812,
+      "sha256": "7916e90190181c4f211c6faf34517e64081e5230d6a30b82340f2f9613927cd8",
+      "decodePassed": true
+    },
+    {
+      "file": "before_advanced_maintenance.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2499132,
+      "sha256": "d3db606975213553310987b287b605ead9e583de1bbdde76c8f80684988c3eee",
+      "decodePassed": true
+    },
+    {
+      "file": "before_advanced_mobility.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2461547,
+      "sha256": "4399ab1d70fd118218c2418b19515ea3d69c116d89b70ccd3dd125abe4ac980f",
+      "decodePassed": true
+    },
+    {
+      "file": "before_balanced_tiers.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2621030,
+      "sha256": "d6266b1f58863cefa84b855978b6a275cb45b75dfc5eda83ec4c1ced9080b1d2",
+      "decodePassed": true
+    },
+    {
+      "file": "before_edel16.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "PNG",
+      "bytes": 2463003,
+      "sha256": "cb4f4b4164e54b1838483c474130c88b22e0185d616ba9dd9debd35537def2b8",
+      "decodePassed": true
+    },
+    {
+      "file": "before_heavy_tiers.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2547492,
+      "sha256": "b9f896577b54ef5421cfcfc7adac93fa1942658dac9814c4b31467acc11b842f",
+      "decodePassed": true
+    },
+    {
+      "file": "before_maintenance_tiers.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2288308,
+      "sha256": "91c62dbf9e55d40381ff0120388649a0f2e84546826c330ca1dc9e1c5c5d99af",
+      "decodePassed": true
+    },
+    {
+      "file": "before_mobility_tiers.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2557939,
+      "sha256": "aeeac9ac772c30415e47e845182771d002a17075b976897c7ae920a894e54b21",
+      "decodePassed": true
+    },
+    {
+      "file": "before_serin16.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "PNG",
+      "bytes": 2523406,
+      "sha256": "0d8d0e0d1a78aa575c00db7501cba89ba2a2eb67216164601a8fb36203f2301f",
+      "decodePassed": true
+    },
+    {
+      "file": "candidates/edel_carrier_uniformity_review.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "PNG",
+      "bytes": 2441786,
+      "sha256": "c5ef3b60ec2e1dc73f035d93f9c762b68eed508ad07571f4f8e6ff7ed65bfd45",
+      "decodePassed": true
+    },
+    {
+      "file": "candidates/edel_final16_wide_layout.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2234618,
+      "sha256": "441120377eac748727ffa9963da0e5b30457e07e9880f43088827e6448fae53e",
+      "decodePassed": true
+    },
+    {
+      "file": "candidates/edel_suit16_weak_role_tier.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "PNG",
+      "bytes": 2587177,
+      "sha256": "d10712e64c2c0487be4272ebbd3448a79db9f25c90d59772f792121a5b5d2e64",
+      "decodePassed": true
+    },
+    {
+      "file": "candidates/edel_tier_architecture_still_uniform_roles.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "PNG",
+      "bytes": 2356249,
+      "sha256": "f50394aabf563bd321dd668089406ae9dae3080078e4e3e07d2ea5abea11b02a",
+      "decodePassed": true
+    },
+    {
+      "file": "candidates/edel_tier_firststep_not_adopted.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "PNG",
+      "bytes": 2363514,
+      "sha256": "7cbd38b58640a6a87b7ca44fc9340c780899b69ba8e8145abbc133faf9feaca4",
+      "decodePassed": true
+    },
+    {
+      "file": "candidates/serin_suit16_weak_role_tier.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "format": "PNG",
+      "bytes": 2522647,
+      "sha256": "1d13acf4015455be936fe93dabce010a1b25d0c2e3ffdb3f55ae50b68c4d50f9",
+      "decodePassed": true
+    },
+    {
+      "file": "private_references/official_carrier_black.png",
+      "dimensions": [
+        687,
+        687
+      ],
+      "format": "PNG",
+      "bytes": 196852,
+      "sha256": "5fcfb7d47f4cc74614ec9e5a2a139d5b828dbe2e676760bd7cd8cffd11ad2d9c",
+      "decodePassed": true
+    },
+    {
+      "file": "private_references/official_carrier_side.png",
+      "dimensions": [
+        700,
+        700
+      ],
+      "format": "PNG",
+      "bytes": 388857,
+      "sha256": "2028277b553fbc37d7fc52d1c64105825b1b147a7d4e6be01943c9ad4ee8525e",
+      "decodePassed": true
+    },
+    {
+      "file": "private_references/official_heavy_carrier.png",
+      "dimensions": [
+        700,
+        700
+      ],
+      "format": "PNG",
+      "bytes": 531873,
+      "sha256": "fb65e95b691975859c5c6bff0d2586edd367e3f17947970cbd1d1d5b6ca23dff",
+      "decodePassed": true
+    },
+    {
+      "file": "private_references/official_soft_vest.png",
+      "dimensions": [
+        700,
+        700
+      ],
+      "format": "PNG",
+      "bytes": 126591,
+      "sha256": "e670662bcddc5109d1323b6e225ebdc0bbf3566faf641ff0ee8d7ba140be63e2",
+      "decodePassed": true
+    },
+    {
+      "file": "private_references/official_stellar_eve_suit.png",
+      "dimensions": [
+        1200,
+        608
+      ],
+      "format": "JPEG",
+      "bytes": 109051,
+      "sha256": "2294170c20ca6cf657f2641535e8102f9489d79acdb802be19e381573a580003",
+      "decodePassed": true
+    },
+    {
+      "file": "private_references/official_stellar_gameplay.jpg",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "format": "JPEG",
+      "bytes": 199021,
+      "sha256": "d19df77dcca4362a8cf949fe1ceac5d34537ba53dc9216aabe20901231ef32ce",
+      "decodePassed": true
+    },
+    {
+      "file": "private_references/official_stellar_suit_art.jpg",
+      "dimensions": [
+        400,
+        231
+      ],
+      "format": "JPEG",
+      "bytes": 10807,
+      "sha256": "bf0fc4f603e46787b938a31dc9858a1a26a4221f18166322d1e8e34a8a273aab",
+      "decodePassed": true
+    },
+    {
+      "file": "private_references/official_stellar_tachy_suit.png",
+      "dimensions": [
+        1200,
+        1941
+      ],
+      "format": "JPEG",
+      "bytes": 285282,
+      "sha256": "c494dd062a66c5d37012c225d0d790a6493559d4e8b7d814ef4bb2bc3f5ef837",
+      "decodePassed": true
+    },
+    {
+      "file": "reference_project_characters.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2291954,
+      "sha256": "d360d196a5ec4118d574db86e3c1dceeaa53663bfb738c98f586ebc394657240",
+      "decodePassed": true
+    },
+    {
+      "file": "role_architecture_study_edel_a.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "bytes": 2406061,
+      "sha256": "e8f31ddf21882a0ccca6daf195583fa1d7a9206bb0a99e1639d2e7ac19a4a942",
+      "decodePassed": true
+    }
+  ],
+  "publicImageAllowlist": [
+    "after_mobility_tiers.png",
+    "after_balanced_tiers.png",
+    "after_maintenance_tiers.png",
+    "after_heavy_tiers.png",
+    "before_advanced_mobility.png",
+    "before_advanced_balanced.png",
+    "before_advanced_heavy.png",
+    "before_advanced_maintenance.png"
+  ],
+  "privateSourceImagesExcluded": true,
+  "beforeAdvancedCopiesMatchGeneratedOriginal": {
+    "before_advanced_mobility.png": true,
+    "before_advanced_balanced.png": true,
+    "before_advanced_heavy.png": true,
+    "before_advanced_maintenance.png": true
+  },
+  "retentionArchiveMatches": {
+    "mobility": true,
+    "balanced": true,
+    "heavy": true,
+    "maintenance": true
+  },
+  "retentionArchive": "outputs/handoffs/2026-11-02/Armor16_Selected_Concepts",
+  "productCodes": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "S1",
+    "S2",
+    "S3",
+    "S4"
+  ],
+  "productCount": 16,
+  "primaryCharacterFrontViews": 32,
+  "latestAdvancedModifiedPrimaryViews": 8,
+  "CBAVisuallyRetainedPrimaryViews": 24,
+  "auxiliaryInsetScope": "Same-product rear/detail views; not additionalproducts",
+  "instructionQuoteCount": 13,
+  "CBARegionRasterAnalysis": [
+    {
+      "role": "mobility",
+      "sameDimensions": true,
+      "region": [
+        0,
+        0,
+        1170,
+        1024
+      ],
+      "pixelIdentical": false,
+      "meanAbsoluteChannelDifference": [
+        6.084329093215812,
+        5.605022202190171,
+        5.333769865117521
+      ],
+      "scope": "Left C/B/A region raster comparison only; design retention also visually reviewed"
+    },
+    {
+      "role": "balanced",
+      "sameDimensions": true,
+      "region": [
+        0,
+        0,
+        1170,
+        1024
+      ],
+      "pixelIdentical": false,
+      "meanAbsoluteChannelDifference": [
+        5.138101796207265,
+        5.117185830662393,
+        4.77268295940171
+      ],
+      "scope": "Left C/B/A region raster comparison only; design retention also visually reviewed"
+    },
+    {
+      "role": "heavy",
+      "sameDimensions": true,
+      "region": [
+        0,
+        0,
+        1170,
+        1024
+      ],
+      "pixelIdentical": false,
+      "meanAbsoluteChannelDifference": [
+        5.35817391159188,
+        5.352514022435898,
+        5.110790598290598
+      ],
+      "scope": "Left C/B/A region raster comparison only; design retention also visually reviewed"
+    },
+    {
+      "role": "maintenance",
+      "sameDimensions": true,
+      "region": [
+        0,
+        0,
+        1170,
+        1024
+      ],
+      "pixelIdentical": false,
+      "meanAbsoluteChannelDifference": [
+        5.729852764423077,
+        5.587096854967949,
+        5.404010583600427
+      ],
+      "scope": "Left C/B/A region raster comparison only; design retention also visually reviewed"
+    }
+  ],
+  "manualVisualReview": {
+    "status": "completed",
+    "scope": [
+      "All4 role sheets; each8primaryfrontviews with correctC/B/A/S codes",
+      "Original lavender braid/blue eyes and brown ponytail/pink cap/rose eyes; original hair visible",
+      "Full hair/feet; role-specific racingcapri/twopieceshorts/heavyupper/asymonesleeveoneleg families",
+      "Role palette and joint-opening differences",
+      "B onepiece/A splitpanels/S framedstructure direction",
+      "Latest S only near-future finishes, metal/inlay/seam-light/boot-glove ornament",
+      "C/B/A garment and armor design/placement visually retained againstbefore_advanced files"
+    ],
+    "limits": [
+      "C/B/A raster pixels are not identical; no pixel-preservation claim",
+      "Final aesthetics/next revisions can change at user request; user selected current armor for retention",
+      "No measured bodydimensions/UV/skinning/physicalfit or certified protection",
+      "No UnityAssets/Blender modeling/lighting shader or gameplay changes",
+      "No new faction/ability inferred from generated icons/text"
+    ]
+  },
+  "userSelection": "selected for retention",
+  "productionApproval": false
+}

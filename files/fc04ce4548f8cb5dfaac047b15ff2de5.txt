@@ -1,0 +1,122 @@
+STAGE_A_LANDSCAPE_V31_VALIDATION
+PASS live Stage A map exists
+PASS V31 physical root is active
+PASS existing physical terrain is active
+PASS B1-B4, inactive R1-R8 and X1-X7 retain their registered slots
+PASS matching pre-placement baseline was captured
+PASS root contains four independent masses, not closed room partitions
+PASS mass A is active direct child
+PASS mass A has visible and physical geometry, renderers=2 colliders=2
+PASS mass A retains expected primary physical lobes; primary=2
+PASS mass A primary collision follows authored meshes
+PASS mass A collider has finite 3D volume: A_1_GroundedMass
+PASS mass A collider has finite 3D volume: A_2_GroundedMass
+PASS mass A has a raised physical surface at its interior
+PASS mass B is active direct child
+PASS mass B has visible and physical geometry, renderers=3 colliders=1
+PASS mass B retains expected primary physical lobes; primary=1
+PASS mass B primary collision follows authored meshes
+PASS mass B collider has finite 3D volume: B_GroundedMass
+PASS mass B has a raised physical surface at its interior
+PASS mass C is active direct child
+PASS mass C has visible and physical geometry, renderers=3 colliders=1
+PASS mass C retains expected primary physical lobes; primary=1
+PASS mass C primary collision follows authored meshes
+PASS mass C collider has finite 3D volume: C_GroundedMass
+PASS mass C has a raised physical surface at its interior
+PASS mass D is active direct child
+PASS mass D has visible and physical geometry, renderers=1 colliders=1
+PASS mass D retains expected primary physical lobes; primary=1
+PASS mass D primary collision follows authored meshes
+PASS mass D collider has finite 3D volume: D_GroundedMass
+PASS mass D has a raised physical surface at its interior
+PASS every V31 solid belongs to A-D
+PASS 5m diagonal saddle S is physically clear at all nine centerline samples; clear=9
+PASS four masses plus split A create five primary physical solids
+NOTE physical penetration LandscapeV31_OrganicGuidance/C/C_GroundedMass <> StageA_Environment_v09/01_Collision_Replaceable_Separately/ENV09_VEHICLE_VAN_009__Collision/FactoryV12_VehicleCollision depth=0.914
+FAIL no V31 physical mass penetrates existing non-ground buildings or props >0.12m; count=1
+PASS no nonconvex existing-object overlap is left unverified; count=0
+NOTE visual-only embed candidate mass=D object=02_Visual_Replaceable/T3__Visual/Generated/ClearSite_8x6 map=(322.00,267.00) renderedY=0.82..1.02 massTopY=3.70
+NOTE visual-only embed candidate mass=D object=02_Visual_Replaceable/T3_CONSOLE__Visual/Generated/ReplaceableConsole_2x1 map=(322.00,264.70) renderedY=1.00..2.20 massTopY=3.63
+NOTE visual-only embed candidate mass=D object=02_Visual_Replaceable/T3_INTERACTION__Visual/Generated/InteractionSlot_2x2 map=(322.00,267.00) renderedY=1.01..1.05 massTopY=3.70
+NOTE visual-only embed candidate mass=A object=StageA_Environment_v09/02_Visual_Replaceable/ENV09_VEGETATION_ZONE_03__Visual/Generated/Override_ENV09_VEGETATION_ZONE_03/Combined_LowGrass map=(211.11,53.28) renderedY=8.21..9.52 massTopY=12.62
+NOTE visual-only embed candidates=4; these are visual inspection leads, not proven triangle penetrations
+PASS west bridge centerline keeps D mass clear; horizontal AABB gap=4.47m
+PASS east bridge centerline keeps D mass clear; horizontal AABB gap=105.00m
+PASS B4 and inactive R8 retain separate spawn policy; risky candidates are not activated
+PASS all B/R/X and stair anchor positions remain unchanged from baseline
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/B1
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/B2
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/B3
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/B4
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/R1
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/R2
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/R3
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/R4
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/R5
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/R6
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/R7
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/R8
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/X1
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/X2
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/X3
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/X4
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/X5
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/X6
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/X7
+PASS collision-derived NavMesh builds and activates
+NOTE MATRIX B1->X1=COMPLETE
+NOTE MATRIX B1->X2=COMPLETE
+NOTE MATRIX B1->X3=COMPLETE
+NOTE MATRIX B1->X4=COMPLETE
+NOTE MATRIX B1->X5=COMPLETE
+NOTE MATRIX B1->X6=COMPLETE
+NOTE MATRIX B1->X7=COMPLETE
+NOTE MATRIX B2->X1=COMPLETE
+NOTE MATRIX B2->X2=COMPLETE
+NOTE MATRIX B2->X3=COMPLETE
+NOTE MATRIX B2->X4=COMPLETE
+NOTE MATRIX B2->X5=COMPLETE
+NOTE MATRIX B2->X6=COMPLETE
+NOTE MATRIX B2->X7=COMPLETE
+NOTE MATRIX B3->X1=COMPLETE
+NOTE MATRIX B3->X2=COMPLETE
+NOTE MATRIX B3->X3=COMPLETE
+NOTE MATRIX B3->X4=COMPLETE
+NOTE MATRIX B3->X5=COMPLETE
+NOTE MATRIX B3->X6=COMPLETE
+NOTE MATRIX B3->X7=COMPLETE
+NOTE MATRIX B4->X1=COMPLETE
+NOTE MATRIX B4->X2=COMPLETE
+NOTE MATRIX B4->X3=COMPLETE
+NOTE MATRIX B4->X4=COMPLETE
+NOTE MATRIX B4->X5=COMPLETE
+NOTE MATRIX B4->X6=COMPLETE
+NOTE MATRIX B4->X7=COMPLETE
+PASS all 28 basic-entry to exit routes are complete; complete=28 regressions=0
+PASS stair pair 1 does not regress
+PASS stair pair 2 does not regress
+PASS stair pair 3 does not regress
+PASS stair pair 4 does not regress
+PASS open-land probe P3->P1 preserves connectivity
+PASS open-land probe P3->P2 preserves connectivity
+PASS open-land probe P3->P4 preserves connectivity
+PASS open-land probe P3->P5 preserves connectivity
+PASS open-land probe P3->P6 preserves connectivity
+PASS open-land probe P3->P7 preserves connectivity
+PASS open-land probe P3->P8 preserves connectivity
+PASS open-land probe P3->P9 preserves connectivity
+PASS west bridge traversal does not regress
+PASS east bridge traversal does not regress
+PASS T1 straight crossing contacts its intended physical mass at player height
+PASS T1 sampled=True complete=True direct=False length=80.88m — mass blocks direct crossing but a detour remains
+PASS T1 detour exceeds measured baseline by at least 1m: 74.33->80.88
+PASS T2 straight crossing contacts its intended physical mass at player height
+PASS T2 sampled=True complete=True direct=False length=57.99m — mass blocks direct crossing but a detour remains
+PASS T2 detour exceeds measured baseline by at least 1m: 35.00->57.99
+PASS T3 straight crossing contacts its intended physical mass at player height
+PASS T3 sampled=True complete=True direct=False length=105.92m — mass blocks direct crossing but a detour remains
+PASS T3 detour exceeds measured baseline by at least 1m: 79.16->105.92
+NOTE Navigation and geometry checks do not substitute for actual PlayerMotor movement.
+passed=83 failed=1
+RESULT FAIL

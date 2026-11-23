@@ -1,0 +1,209 @@
+2026-09-22 오전 3:06:58
+STAGE_A_COLLISION_V14_INDEPENDENT_VALIDATION
+generatedUtc=2026-09-21T18:07:00.5109095Z
+result=PASS
+passes=123 failures=0 warnings=1
+WARN B1->X6 public query remains Partial but a fresh 16384-node query proves complete topology: B1->X6_V14 begin=InProgress update=Success end=Success outOfNodes=False partial=False iterations=4414 updateCalls=5 polygons=94 copied=94
+NOTE excluded occupied lane NWC_01 interior -2.8 visual=Generated/Override_ENV11_BUILDING_NWC_01/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_Utility_C/SupplyCabinet_2/Cabinet
+NOTE excluded occupied lane NWC_01 interior -2.1 visual=Generated/Override_ENV11_BUILDING_NWC_01/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_Utility_C/SupplyCabinet_2/CabinetDoor
+NOTE excluded occupied lane NWC_01 interior -1.4 visual=Generated/Override_ENV11_BUILDING_NWC_01/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_Utility_C/SupplyCabinet_2/CabinetDoor
+NOTE excluded occupied lane NWC_01 interior 2.2 visual=Generated/Override_ENV11_BUILDING_NWC_01/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_WorkArea_A/UtilityVentAssembly
+NOTE excluded occupied lane NWC_01 interior 2.9 visual=Generated/Override_ENV11_BUILDING_NWC_01/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_WorkArea_A/UtilityVentAssembly
+NOTE excluded occupied lane NWC_02 interior -4.4 visual=Generated/Override_ENV11_BUILDING_NWC_02/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_Utility_C/MedicalStorage_2/CabinetDoor
+NOTE excluded occupied lane NWC_02 interior -3.6 visual=Generated/Override_ENV11_BUILDING_NWC_02/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_Utility_C/MedicalStorage_2/CabinetDoor
+NOTE excluded occupied lane NWC_02 interior 2.8 visual=Generated/Override_ENV11_BUILDING_NWC_02/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_WorkArea_A/UtilityVentAssembly
+NOTE excluded occupied lane NWC_02 interior 3.6 visual=Generated/Override_ENV11_BUILDING_NWC_02/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_Storage_B/SupplyCabinet_1/CabinetDoor
+NOTE excluded occupied lane NWC_02 interior 4.3 visual=Generated/Override_ENV11_BUILDING_NWC_02/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_Storage_B/SupplyCabinet_1/Cabinet
+NOTE excluded occupied lane NWC_03 interior -3.3 visual=Generated/Override_ENV11_BUILDING_NWC_03/FactoryFrame/Interior_Role_NW_CLINIC_ClinicAnnex/Interior_Utility_C/SafetyExtinguisher_2
+NOTE excluded occupied lane NWC_03 interior -2.6 visual=Generated/Override_ENV11_BUILDING_NWC_03/FactoryFrame/Interior_Role_NW_CLINIC_ClinicAnnex/Interior_Utility_C/SafetyExtinguisher_2
+NOTE excluded occupied lane NWC_03 interior 2.4 visual=Generated/Override_ENV11_BUILDING_NWC_03/FactoryFrame/Interior_Role_NW_CLINIC_ClinicAnnex/Interior_Storage_B/MedicalStorage_1/CabinetDoor
+NOTE excluded occupied lane NWC_03 interior 3.1 visual=Generated/Override_ENV11_BUILDING_NWC_03/FactoryFrame/Interior_Role_NW_CLINIC_ClinicAnnex/Interior_Storage_B/MedicalStorage_1/Cabinet
+NOTE excluded occupied lane NWC_03 interior 3.9 visual=Generated/Override_ENV11_BUILDING_NWC_03/FactoryFrame/Interior_Role_NW_CLINIC_ClinicAnnex/Interior_Storage_B/MedicalStorage_1/Cabinet
+NOTE excluded occupied lane WM_01 interior -5.0 visual=Generated/Override_ENV11_BUILDING_WM_01/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/StorageCabinet_2/Cabinet
+NOTE excluded occupied lane WM_01 interior -4.3 visual=Generated/Override_ENV11_BUILDING_WM_01/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/StorageCabinet_2/Cabinet
+NOTE excluded occupied lane WM_01 interior -3.6 visual=Generated/Override_ENV11_BUILDING_WM_01/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/StorageCabinet_2/Cabinet
+NOTE excluded occupied lane WM_01 interior -2.9 visual=Generated/Override_ENV11_BUILDING_WM_01/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_WorkArea_A/UtilityPanel_0
+NOTE excluded occupied lane WM_02 interior -4.3 visual=Generated/Override_ENV11_BUILDING_WM_02/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_Utility_C/ControlPanel_2
+NOTE excluded occupied lane WM_02 interior -3.6 visual=Generated/Override_ENV11_BUILDING_WM_02/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_Utility_C/ControlPanel_2
+NOTE excluded occupied lane WM_02 interior -2.8 visual=Generated/Override_ENV11_BUILDING_WM_02/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/SafetyExtinguisher_0
+NOTE excluded occupied lane WM_02 interior -2.1 visual=Generated/Override_ENV11_BUILDING_WM_02/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/SafetyExtinguisher_0
+NOTE excluded occupied lane WM_02 interior 4.4 visual=Generated/Override_ENV11_BUILDING_WM_02/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/UtilityVentAssembly
+NOTE excluded occupied lane WM_02 interior 5.1 visual=Generated/Override_ENV11_BUILDING_WM_02/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/UtilityVentAssembly
+NOTE excluded occupied lane WM_02 interior 5.8 visual=Generated/Override_ENV11_BUILDING_WM_02/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_Storage_B/PowerBank_1
+NOTE excluded occupied lane WM_02 interior 6.5 visual=Generated/Override_ENV11_BUILDING_WM_02/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_Storage_B/PowerBank_1
+NOTE excluded occupied lane WM_04 interior -3.6 visual=Generated/Override_ENV11_BUILDING_WM_04/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Storage_B/UtilityPanel_1
+NOTE excluded occupied lane WM_04 interior -2.8 visual=Generated/Override_ENV11_BUILDING_WM_04/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Storage_B/UtilityPanel_1
+NOTE excluded occupied lane WM_04 interior 2.9 visual=Generated/Override_ENV11_BUILDING_WM_04/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_WorkArea_A/RustBarrel_0
+NOTE excluded occupied lane WM_04 interior 3.6 visual=Generated/Override_ENV11_BUILDING_WM_04/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_WorkArea_A/RustBarrel_0
+NOTE excluded occupied lane WM_05 interior -3.5 visual=Generated/Override_ENV11_BUILDING_WM_05/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/VentMotor_0
+NOTE excluded occupied lane WM_05 interior -2.7 visual=Generated/Override_ENV11_BUILDING_WM_05/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/VentMotor_0
+NOTE excluded occupied lane WM_05 interior 2.3 visual=Generated/Override_ENV11_BUILDING_WM_05/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/UtilityVentAssembly
+NOTE excluded occupied lane WM_05 interior 3.0 visual=Generated/Override_ENV11_BUILDING_WM_05/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/UtilityVentAssembly
+NOTE excluded occupied lane WM_05 interior 3.7 visual=Generated/Override_ENV11_BUILDING_WM_05/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/UtilityVentAssembly
+NOTE excluded occupied lane WM_06 interior 3.2 visual=Generated/Override_ENV11_BUILDING_WM_06/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/RustBarrel_2
+NOTE excluded occupied lane WM_06 interior 4.0 visual=Generated/Override_ENV11_BUILDING_WM_06/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/RustBarrel_2
+NOTE excluded occupied lane WM_07 interior -2.8 visual=Generated/Override_ENV11_BUILDING_WM_07/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Storage_B/RustBarrel_1
+NOTE excluded occupied lane WM_07 interior -2.1 visual=Generated/Override_ENV11_BUILDING_WM_07/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Storage_B/RustBarrel_1
+NOTE excluded occupied lane WM_07 interior 2.2 visual=Generated/Override_ENV11_BUILDING_WM_07/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/UtilityPanel_2
+NOTE excluded occupied lane WM_07 interior 2.9 visual=Generated/Override_ENV11_BUILDING_WM_07/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/UtilityPanel_2
+NOTE excluded occupied lane WM_08 interior 2.0 visual=Generated/Override_ENV11_BUILDING_WM_08/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/ControlPanel_0
+NOTE excluded occupied lane WM_08 interior 2.7 visual=Generated/Override_ENV11_BUILDING_WM_08/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/ControlPanel_0
+NOTE excluded occupied lane WM_09 interior -2.9 visual=Generated/Override_ENV11_BUILDING_WM_09/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_WorkArea_A/UtilityPanel_0
+NOTE excluded occupied lane WM_09 interior 2.2 visual=Generated/Override_ENV11_BUILDING_WM_09/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/StorageCabinet_2/Cabinet
+NOTE excluded occupied lane WM_09 interior 2.9 visual=Generated/Override_ENV11_BUILDING_WM_09/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/StorageCabinet_2/Cabinet
+NOTE excluded occupied lane WM_09 interior 3.6 visual=Generated/Override_ENV11_BUILDING_WM_09/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/StorageCabinet_2/Cabinet
+NOTE excluded occupied lane SWR_02 facade West -3.5 visual=Generated/Override_ENV11_BUILDING_SWR_02/FactoryFrame/Interior_Role_SW_RUINS_RuinedHome/Interior_WorkArea_A/ScatteredDebris_0
+NOTE excluded occupied lane SWR_02 facade West -2.7 visual=Generated/Override_ENV11_BUILDING_SWR_02/FactoryFrame/Interior_Role_SW_RUINS_RuinedHome/Interior_WorkArea_A/ScatteredDebris_0
+NOTE excluded occupied lane SWR_02 facade West -2.0 visual=Generated/Override_ENV11_BUILDING_SWR_02/FactoryFrame/Interior_Role_SW_RUINS_RuinedHome/Interior_WorkArea_A/ScatteredDebris_0
+NOTE excluded occupied lane SWR_02 facade West -1.2 visual=Generated/Override_ENV11_BUILDING_SWR_02/FactoryFrame/Interior_Role_SW_RUINS_RuinedHome/Interior_WorkArea_A/ScatteredDebris_0
+NOTE excluded occupied lane SWR_03 facade West -1.1 visual=Generated/Override_ENV11_BUILDING_SWR_03/FactoryFrame/Interior_Role_SW_RUINS_RuinedHome/Interior_Storage_B/CollapsedMasonry_1
+NOTE excluded occupied lane SWR_04 facade East 1.8 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_04 facade East 2.5 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_04 facade East 3.3 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_04 facade East 4.0 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_04 interior -4.2 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Storage_B/ScatteredDebris_1
+NOTE excluded occupied lane SWR_04 interior -3.4 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Storage_B/ScatteredDebris_1
+NOTE excluded occupied lane SWR_04 interior -2.7 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Storage_B/ScatteredDebris_1
+NOTE excluded occupied lane SWR_04 interior -2.0 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Storage_B/ScatteredDebris_1
+NOTE excluded occupied lane SWR_04 interior 2.3 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_04 interior 3.0 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_04 interior 3.8 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_04 interior 4.5 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_05 facade East 1.8 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Storage_B/RustBarrel_1
+NOTE excluded occupied lane SWR_05 facade East 2.6 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Storage_B/RustBarrel_1
+NOTE excluded occupied lane SWR_05 facade West -3.3 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Utility_C/CollapsedMasonry_2
+NOTE excluded occupied lane SWR_05 facade West -2.6 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Utility_C/CollapsedMasonry_2
+NOTE excluded occupied lane SWR_05 facade West -1.8 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Utility_C/CollapsedMasonry_2
+NOTE excluded occupied lane SWR_05 interior -3.8 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Utility_C/CollapsedMasonry_2
+NOTE excluded occupied lane SWR_05 interior -3.1 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Utility_C/CollapsedMasonry_2
+NOTE excluded occupied lane SWR_05 interior -2.4 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Utility_C/CollapsedMasonry_2
+NOTE excluded occupied lane SWR_05 interior -1.7 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Utility_C/CollapsedMasonry_2
+NOTE excluded occupied lane SWR_05 interior 1.9 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Storage_B/RustBarrel_1
+NOTE excluded occupied lane SWR_05 interior 2.7 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Storage_B/RustBarrel_1
+NOTE excluded occupied lane SWR_05 interior 3.4 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Storage_B/RustBarrel_1
+NOTE excluded occupied lane SWR_07 facade West -3.1 visual=Generated/Override_ENV11_BUILDING_SWR_07/FactoryFrame/Interior_Role_SW_RUINS_RuinedHome/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_07 facade West -2.3 visual=Generated/Override_ENV11_BUILDING_SWR_07/FactoryFrame/Interior_Role_SW_RUINS_RuinedHome/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_07 facade West -1.6 visual=Generated/Override_ENV11_BUILDING_SWR_07/FactoryFrame/Interior_Role_SW_RUINS_RuinedHome/Interior_WorkArea_A/CollapsedMasonry_0
+PASS map reference is live
+PASS v11 district record set remains complete
+PASS NWC_01 has exactly one replace-on-rerun v14 collision root
+PASS NWC_01 v14 root contains active visible-structure boxes
+PASS NWC_02 has exactly one replace-on-rerun v14 collision root
+PASS NWC_02 v14 root contains active visible-structure boxes
+PASS NWC_03 has exactly one replace-on-rerun v14 collision root
+PASS NWC_03 v14 root contains active visible-structure boxes
+PASS WM_01 has exactly one replace-on-rerun v14 collision root
+PASS WM_01 v14 root contains active visible-structure boxes
+PASS WM_02 has exactly one replace-on-rerun v14 collision root
+PASS WM_02 v14 root contains active visible-structure boxes
+PASS WM_03 has exactly one replace-on-rerun v14 collision root
+PASS WM_03 v14 root contains active visible-structure boxes
+PASS WM_04 has exactly one replace-on-rerun v14 collision root
+PASS WM_04 v14 root contains active visible-structure boxes
+PASS WM_05 has exactly one replace-on-rerun v14 collision root
+PASS WM_05 v14 root contains active visible-structure boxes
+PASS WM_06 has exactly one replace-on-rerun v14 collision root
+PASS WM_06 v14 root contains active visible-structure boxes
+PASS WM_07 has exactly one replace-on-rerun v14 collision root
+PASS WM_07 v14 root contains active visible-structure boxes
+PASS WM_08 has exactly one replace-on-rerun v14 collision root
+PASS WM_08 v14 root contains active visible-structure boxes
+PASS WM_09 has exactly one replace-on-rerun v14 collision root
+PASS WM_09 v14 root contains active visible-structure boxes
+PASS SWR_01 has exactly one replace-on-rerun v14 collision root
+PASS SWR_01 v14 root contains active visible-structure boxes
+PASS SWR_02 has exactly one replace-on-rerun v14 collision root
+PASS SWR_02 v14 root contains active visible-structure boxes
+PASS SWR_03 has exactly one replace-on-rerun v14 collision root
+PASS SWR_03 v14 root contains active visible-structure boxes
+PASS SWR_04 has exactly one replace-on-rerun v14 collision root
+PASS SWR_04 v14 root contains active visible-structure boxes
+PASS SWR_05 has exactly one replace-on-rerun v14 collision root
+PASS SWR_05 v14 root contains active visible-structure boxes
+PASS SWR_06 has exactly one replace-on-rerun v14 collision root
+PASS SWR_06 v14 root contains active visible-structure boxes
+PASS SWR_07 has exactly one replace-on-rerun v14 collision root
+PASS SWR_07 v14 root contains active visible-structure boxes
+PASS SWR_08 has exactly one replace-on-rerun v14 collision root
+PASS SWR_08 v14 root contains active visible-structure boxes
+PASS SWR_09 has exactly one replace-on-rerun v14 collision root
+PASS SWR_09 v14 root contains active visible-structure boxes
+PASS SWR_10 has exactly one replace-on-rerun v14 collision root
+PASS SWR_10 v14 root contains active visible-structure boxes
+PASS SWR_11 has exactly one replace-on-rerun v14 collision root
+PASS SWR_11 v14 root contains active visible-structure boxes
+PASS SWR_12 has exactly one replace-on-rerun v14 collision root
+PASS SWR_12 v14 root contains active visible-structure boxes
+PASS SWR_13 has exactly one replace-on-rerun v14 collision root
+PASS SWR_13 v14 root contains active visible-structure boxes
+PASS SWR_14 has exactly one replace-on-rerun v14 collision root
+PASS SWR_14 v14 root contains active visible-structure boxes
+PASS SS_01 has exactly one replace-on-rerun v14 collision root
+PASS SS_01 v14 root contains active visible-structure boxes
+PASS SS_02 has exactly one replace-on-rerun v14 collision root
+PASS SS_02 v14 root contains active visible-structure boxes
+PASS SS_03 has exactly one replace-on-rerun v14 collision root
+PASS SS_03 v14 root contains active visible-structure boxes
+PASS SS_04 has exactly one replace-on-rerun v14 collision root
+PASS SS_04 v14 root contains active visible-structure boxes
+PASS SS_05 has exactly one replace-on-rerun v14 collision root
+PASS SS_05 v14 root contains active visible-structure boxes
+PASS EU_01 has exactly one replace-on-rerun v14 collision root
+PASS EU_01 v14 root contains active visible-structure boxes
+PASS EU_02 has exactly one replace-on-rerun v14 collision root
+PASS EU_02 v14 root contains active visible-structure boxes
+PASS NWC_04 has exactly one replace-on-rerun v14 collision root
+PASS NWC_04 v14 root contains active visible-structure boxes
+PASS SS_06 has exactly one replace-on-rerun v14 collision root
+PASS SS_06 v14 root contains active visible-structure boxes
+PASS EU_03 has exactly one replace-on-rerun v14 collision root
+PASS EU_03 v14 root contains active visible-structure boxes
+PASS EU_04 has exactly one replace-on-rerun v14 collision root
+PASS EU_04 v14 root contains active visible-structure boxes
+PASS EU_05 has exactly one replace-on-rerun v14 collision root
+PASS EU_05 v14 root contains active visible-structure boxes
+PASS EU_06 has exactly one replace-on-rerun v14 collision root
+PASS EU_06 v14 root contains active visible-structure boxes
+PASS legacy structural collider inventory was inspected (count=362)
+PASS no old wall, partition, ruin support, or shed post remains active
+PASS replacement visible-structure colliders exist (count=532)
+PASS at least three old-collider/visible-facade gaps were independently derived (actual=44)
+PASS orphan interior partition passages were independently derived (actual=157)
+PASS candidate lanes excluded for visible doors/props/debris=146
+PASS all independently sampled visual gaps pass the player capsule (201/201)
+PASS representative walk SWR_01 facade East gap 1.2 (-171.48, 0.04, -150.50) -> (-168.91, 0.03, -150.08) evidence=old=StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_01__Collision/East_Broken__Collision; factoryWallOrColumnAtLane=false
+PASS representative walk SWR_02 facade East gap 1.2 (-159.29, 0.03, -182.06) -> (-156.70, 0.03, -181.91) evidence=old=StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_02__Collision/East_Broken__Collision; factoryWallOrColumnAtLane=false
+PASS representative walk SWR_03 facade East gap 1.1 (-100.46, 0.18, -172.86) -> (-97.92, 0.18, -172.28) evidence=old=StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_03__Collision/East_Broken__Collision; factoryWallOrColumnAtLane=false
+PASS representative walk SWR_04 facade West gap -4.7 (-243.94, 0.13, -64.67) -> (-246.54, 0.14, -64.58) evidence=old=StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_04__Collision/West_Broken__Collision; factoryWallOrColumnAtLane=false
+PASS representative walk NWC_01 removed interior partition -3.5 (-138.76, 5.03, 164.48) -> (-139.34, 5.05, 167.01) evidence=old=StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_NWC_01__Collision/InteriorPartition_L__Collision; currentVisibleGeometryAtLane=false
+PASS representative walk NWC_02 removed interior partition -5.8 (-232.89, 4.76, 173.39) -> (-233.69, 4.73, 175.86) evidence=old=StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_NWC_02__Collision/InteriorPartition_L__Collision; currentVisibleGeometryAtLane=false
+PASS visible factory wall meshes were ray-tested (rays=376)
+PASS every visible factory wall ray hits its replacement collision (376/376)
+PASS v08 gameplay structure remains present
+PASS four basic entry references are populated
+PASS seven extraction references are populated
+PASS B1 identity and ordered reference are preserved
+PASS B2 identity and ordered reference are preserved
+PASS B3 identity and ordered reference are preserved
+PASS B4 identity and ordered reference are preserved
+PASS X1 identity and ordered reference are preserved
+PASS X2 identity and ordered reference are preserved
+PASS X3 identity and ordered reference are preserved
+PASS X4 identity and ordered reference are preserved
+PASS X5 identity and ordered reference are preserved
+PASS X6 identity and ordered reference are preserved
+PASS X7 identity and ordered reference are preserved
+PASS twelve authored B/R marker references remain intact
+PASS B/R tier metadata remains 4 basic plus 8 risk
+PASS risk entries remain excluded from default random spawning
+PASS spawn array still points to ordered B1-B4 then disabled-risk R1-R8 identities
+PASS V13 hall root remains present
+PASS V13 hall layer controller still targets the same hall
+PASS v14 district repair created no object inside HALLV13
+PASS HALLV13 retains non-degenerate authored collision
+PASS HALLV13 comparison signature=1210:1E1FC000EAC2C6DA
+PASS v13 vegetation zone inventory remains present
+PASS vegetation zones were inspected (zones=20)
+PASS vegetation remains render-only with zero enabled colliders
+PASS temporary collision-based NavMesh builds
+PASS basic-entry/extraction matrix remains reachable (complete=27/28, knownWarn=1)

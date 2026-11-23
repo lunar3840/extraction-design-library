@@ -1,0 +1,34 @@
+{
+  "capturedAtKst": "2026-10-30T05:56:34.8841069+09:00",
+  "scope": "Explicitly returned after03-pending UI checkpoint. Candidate01 saved, visual fail; fresh pre-candidate02 backups.",
+  "maps": [
+    {
+      "path": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+      "sha256": "DD20EB17936D0327ADA86786FB715230D00A4ACC28058B87C597A2E86A610853",
+      "bytes": 34308,
+      "backup": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\a-map-clinic-reclaimed-mood-trial\\rounds\\post_ui_checkpoint\\backup\\StageA_Relay_Blockout_v08.unity"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab",
+      "sha256": "672B748B465FD634831575478ABB85CBE09799F4DF32501F6B186B20EBAC1657",
+      "bytes": 95735438,
+      "backup": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\a-map-clinic-reclaimed-mood-trial\\rounds\\post_ui_checkpoint\\backup\\StageA_Relay_Blockout_v08.prefab"
+    }
+  ],
+  "protectedFiles": 29,
+  "authorizedUIChanges": [
+    {
+      "path": "Assets/Escape/Art/BuildingV33/Reveal/BuildingV33LocalReveal.shader",
+      "sha256": "9834B4769BA6D067BB622BE495A06AB331ADBA1AA1D451B4EDCD07E2494DCE48",
+      "originalSha256": "F7FDC3748202AACB7F260BE24EAB288A3C3D69C16508574B3071C67B7A65D133",
+      "changedSinceOriginal": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageABuildingV33Reveal.cs",
+      "sha256": "F111015D27458340EAD4746CBEBAB46E52DF9694C402371A61ADE166A07F02E1",
+      "originalSha256": "511048A46DC983DA3A1340CFB902C0FA14BD78830B3A7435E2AD955365E75139",
+      "changedSinceOriginal": true
+    }
+  ],
+  "currentUnityOwner": "01a0c547-4360-7c33-8815-0f4244f312fa"
+}

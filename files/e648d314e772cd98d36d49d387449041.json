@@ -1,0 +1,78 @@
+{
+  "utc": "2026-11-03T21:52:29.378611+00:00",
+  "implementationVerified": true,
+  "scope": "EDEL original authored motion; other three legacy paths regression-tested",
+  "gpu": {
+    "source": "GPU_SOURCE_REVIEW.json",
+    "frames": 352,
+    "allArmedRollFrames": 292,
+    "maximumErrorUnits": 1.7266807844862342e-05,
+    "thresholdUnits": 9.999999747378752e-05,
+    "shaderErrors": []
+  },
+  "actualRuntime": {
+    "mainCaptures": 33,
+    "familyAndFallbackCaptures": 63,
+    "nativeAssertionsPassed": true,
+    "weaponVisibilityAssertionsPassed": true,
+    "driverDisableResume": {
+      "disabledAnimatorReleased": true,
+      "sourceBodyMorphsCleared": true,
+      "sourceResumed": true
+    },
+    "maximumRightPalmAnchorErrorUnits": 2.4038948254201387e-07,
+    "rightAnchorMetricIsNotFullMeshContactProof": true,
+    "independentLeftPalmContactVerified": false,
+    "magazineMovementClaimed": false
+  },
+  "portrait": {
+    "manualAccepted": true,
+    "automaticObserved": true,
+    "fixedYawCamera": true,
+    "legacyActorsUnaffected": true
+  },
+  "editorRestored": {
+    "utc": "2026-11-03T21:48:51.9866196Z",
+    "scene": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+    "graphicsDevice": "Direct3D12",
+    "assemblyMvid": "3c67587a-bc2b-4d5a-a389-cf60c96ab7e9",
+    "dirty": false,
+    "playing": false,
+    "shaderSupported": true,
+    "sourceAvailable": true,
+    "passed": true,
+    "serializationMode": 2,
+    "bodyShapes": 78,
+    "shaderErrors": []
+  },
+  "cleanup": {
+    "utc": "2026-11-03T21:51:54.243477+00:00",
+    "passed": true,
+    "scriptReloadFinished": true,
+    "errors": [],
+    "verificationToolsRemaining": [],
+    "ownRequestFilesRemaining": [],
+    "toolsArchivedTo": "work/pro-animation-sync-20261104/validation-tools",
+    "sourceCodeRemaining": [
+      "OriginalMotionDataset.cs",
+      "OriginalDqSkin.cs",
+      "EdelOriginalMotion.cs"
+    ],
+    "serializationModeFileIsForceText": true,
+    "screenshot": "after_editor_native.jpg",
+    "freeBytes": 7804420096,
+    "existingWarnings": [
+      "Map V04 Shot Checks duplicate menu item; no compilation error"
+    ]
+  },
+  "limitations": [
+    "Newly reissued Pro Unitypackage/ZIP was not downloaded locally; preserved original r18 blend is the actual verified source.",
+    "Other three heroes have no newly recovered compatible native files.",
+    "Melee retains the existing animator; no native melee attack clip recovered.",
+    "Roll uses original source poses retimed to current 0.3-second gameplay duration.",
+    "Existing S4 garment surface artifacts occur before and after; this motion task does not repair them.",
+    "Weapon family visuals remain pre-existing temporary models; individual firearm mesh fitting is separate.",
+    "Whole inventory UI composite and Weapon2-slot pixel boundaries were not captured; the actual portrait texture and identical production camera parameters were checked.",
+    "Validation performed in Unity 6000.1.0f1 Windows DX12; standalone player/platform testing not performed."
+  ]
+}

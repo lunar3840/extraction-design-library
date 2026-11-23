@@ -1,0 +1,10 @@
+PASS isolated profile load/create
+CAPTURE camp_inventory 1600x900
+CAPTURE camp_detail 1600x900
+PASS stash panel opened
+CAPTURE camp_stash 1600x900
+PASS predeployment panel opened
+CAPTURE camp_predeploy 1600x900
+CAPTURE camp_stash_720p 1280x720
+CAPTURE camp_inventory_1440p 2400x1440
+PASS no runtime errors while rendering panels

@@ -1,0 +1,207 @@
+Stage A machine role visual model validation
+UTC 2026-10-16 06:19:19Z
+Scout assembly=Legs_Spider_Lt+Cockpit_Gunbot+Weapon_DoubleGun_lvl1 paint=Yellow bodyScale=0.316 weaponScale=1.000
+Scout bounds=(1.346, 1.188, 1.418) minY=0.000 renderers=4
+  material MachinePaint_Yellow_URP / Universal Render Pipeline/Lit
+  animator Chassis states=Idle,Walk,Transform_to_Roller,Transform_to_Spider,Death,Roller_Idle,Roller_Roll,Roller_Death,Turn_L,Turn_R,Walk_Back,Strafe_L,Strafe_R,Walk_Turn_R,Walk_Turn_L,Turn_45deg_L,Turn_45deg_R,Roller_Roll_Turn_R,Roller_Roll_Turn_L,Deactivate,Activate,Roller_Deactivate,Roller_Activate,Strafe_L_Faster rootMotion=False
+  animator Weapon states=Shoot_Single,Shoot_Round rootMotion=False
+  muzzleCount=2
+  muzzle Barrel_End_1 rootLocalPosition=(-0.075, 0.884, 0.709) rootLocalForward=(0.000, 0.000, 1.000)
+  muzzle Barrel_End_2 rootLocalPosition=(0.087, 0.884, 0.709) rootLocalForward=(0.000, 0.000, 1.000)
+Suppressor assembly=Legs_Spider_Hvy+Cockpit_Gun_2x+Weapon_DoubleGun_lvl3 paint=Red bodyScale=0.483 weaponScale=1.000
+Suppressor bounds=(2.343, 1.943, 2.460) minY=0.000 renderers=4
+  material MachinePaint_Red_URP / Universal Render Pipeline/Lit
+  animator Chassis states=Idle,Walk,Death,Transform_to_Roller,Transform_to_Spider,Roller_Idle,Roller_Roll,Roller_Death,Walk_Back,Turn_L,Turn_R,Strafe_L,Strafe_R,Walk_Turn_R,Walk_Turn_L,Turn_45deg_L,Turn_45deg_R,Roller_Roll_Turn_L,Roller_Roll_Turn_R,Deactivate,Activate,Roller_Deactivate,Roller_Activate,Strafe_L_Faster,Strafe_R_Faster rootMotion=False
+  animator Weapon states=Shoot_Single,Shoot_Round rootMotion=False
+  muzzleCount=2
+  muzzle Barrel_End_1 rootLocalPosition=(-0.156, 1.692, 1.028) rootLocalForward=(0.000, 0.000, 1.000)
+  muzzle Barrel_End_2 rootLocalPosition=(0.161, 1.692, 1.028) rootLocalForward=(0.000, 0.000, 1.000)
+  buggyInPlace=Idle sample=0.00 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Idle sample=0.25 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Idle sample=0.50 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Idle sample=0.75 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Idle sample=0.99 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward sample=0.00 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward sample=0.25 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward sample=0.50 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward sample=0.75 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward sample=0.99 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Backwards sample=0.00 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Backwards sample=0.25 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Backwards sample=0.50 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Backwards sample=0.75 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Backwards sample=0.99 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_L sample=0.00 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_L sample=0.25 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_L sample=0.50 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_L sample=0.75 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_L sample=0.99 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_R sample=0.00 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_R sample=0.25 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_R sample=0.50 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_R sample=0.75 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_R sample=0.99 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_L sample=0.00 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_L sample=0.25 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_L sample=0.50 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_L sample=0.75 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_L sample=0.99 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_R sample=0.00 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_R sample=0.25 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_R sample=0.50 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_R sample=0.75 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_R sample=0.99 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Death sample=0.00 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Death sample=0.25 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Death sample=0.50 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Death sample=0.75 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Death sample=0.99 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+Sniper assembly=Buggies/Buggy_Chassis_Lvl1+Cockpit_Gun_Flat_Part+Weapon_Sniper_lvl1 paint=White bodyScale=0.324 weaponScale=1.000
+Sniper bounds=(1.841, 0.814, 1.800) minY=-0.020 renderers=8
+  material MachinePaint_White_URP / Universal Render Pipeline/Lit
+  animator Chassis states=Idle,Move_Forward,Move_Backwards,Turn_L,Turn_R,Move_Forward_Turn_L,Move_Forward_Turn_R,Death rootMotion=False
+  animator Weapon states=Shoot rootMotion=False
+  muzzleCount=1
+  muzzle Barrel_end rootLocalPosition=(-0.238, 0.345, 0.731) rootLocalForward=(-0.203, 0.068, 0.977)
+Grenadier assembly=Legs_Tracks_Lvl2+Cockpit_Gun+Weapon_GLauncher_lvl1 paint=Green bodyScale=0.585 weaponScale=1.000
+Grenadier bounds=(2.127, 2.167, 1.788) minY=0.000 renderers=7
+  material MachinePaint_Green_URP / Universal Render Pipeline/Lit
+  material A_Spiders_Tracks_Mat_8edb0cb1_URP / Universal Render Pipeline/Lit
+  animator Chassis states=Idle,Move_Forward,Move_Forward_Turn_L,Move_Forward_Turn_R,Turn_L,Turn_R,Move_Backwards,Death rootMotion=False
+  animator Weapon states=Demo,Fold,Unfold,Shoot rootMotion=False
+  muzzleCount=2
+  muzzle Barrel_end_1 rootLocalPosition=(0.072, 1.545, 0.516) rootLocalForward=(0.000, 0.000, 1.000)
+  muzzle Barrel_end_2 rootLocalPosition=(0.071, 1.863, 0.513) rootLocalForward=(0.000, 0.000, 1.000)
+  buggyInPlace=Idle sample=0.00 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Idle sample=0.25 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Idle sample=0.50 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Idle sample=0.75 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Idle sample=0.99 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward sample=0.00 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward sample=0.25 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward sample=0.50 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward sample=0.75 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward sample=0.99 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Backwards sample=0.00 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Backwards sample=0.25 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Backwards sample=0.50 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Backwards sample=0.75 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Backwards sample=0.99 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_L sample=0.00 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_L sample=0.25 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_L sample=0.50 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_L sample=0.75 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_L sample=0.99 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_R sample=0.00 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_R sample=0.25 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_R sample=0.50 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_R sample=0.75 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Turn_R sample=0.99 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_L sample=0.00 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_L sample=0.25 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_L sample=0.50 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_L sample=0.75 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_L sample=0.99 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_R sample=0.00 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_R sample=0.25 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_R sample=0.50 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_R sample=0.75 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Move_Forward_Turn_R sample=0.99 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Death sample=0.00 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Death sample=0.25 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Death sample=0.50 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Death sample=0.75 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+  buggyInPlace=Death sample=0.99 rigShift=0.000 rootXZ=0.000 rootYaw=0.00
+Discharger assembly=Buggies/Buggy_Chassis_Lvl3+Cockpit_Moto+Weapon_Shocker_lvl1 paint=Blue bodyScale=0.301 weaponScale=1.000
+Discharger bounds=(1.744, 0.872, 1.723) minY=-0.045 renderers=7
+  material MachinePaint_Blue_URP / Universal Render Pipeline/Lit
+  animator Chassis states=Idle,Move_Forward,Move_Backwards,Turn_L,Turn_R,Move_Forward_Turn_L,Move_Forward_Turn_R,Death rootMotion=False
+  muzzleCount=1
+  muzzle Barrel_end rootLocalPosition=(-0.020, 0.646, 0.420) rootLocalForward=(-0.203, 0.068, 0.977)
+  tankInPlace=Idle sample=0.00 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Idle sample=0.25 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.008
+  tankInPlace=Idle sample=0.50 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.004
+  tankInPlace=Idle sample=0.75 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.007
+  tankInPlace=Idle sample=0.99 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Move_Forward sample=0.00 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Move_Forward sample=0.25 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.008
+  tankInPlace=Move_Forward sample=0.50 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.004
+  tankInPlace=Move_Forward sample=0.75 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.007
+  tankInPlace=Move_Forward sample=0.99 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Move_Forward_Turn_L sample=0.00 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Move_Forward_Turn_L sample=0.25 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.008
+  tankInPlace=Move_Forward_Turn_L sample=0.50 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.004
+  tankInPlace=Move_Forward_Turn_L sample=0.75 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.007
+  tankInPlace=Move_Forward_Turn_L sample=0.99 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Move_Forward_Turn_R sample=0.00 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Move_Forward_Turn_R sample=0.25 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.008
+  tankInPlace=Move_Forward_Turn_R sample=0.50 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.004
+  tankInPlace=Move_Forward_Turn_R sample=0.75 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.007
+  tankInPlace=Move_Forward_Turn_R sample=0.99 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Turn_L sample=0.00 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Turn_L sample=0.25 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.008
+  tankInPlace=Turn_L sample=0.50 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.004
+  tankInPlace=Turn_L sample=0.75 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.007
+  tankInPlace=Turn_L sample=0.99 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Turn_R sample=0.00 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Turn_R sample=0.25 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.008
+  tankInPlace=Turn_R sample=0.50 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.004
+  tankInPlace=Turn_R sample=0.75 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.007
+  tankInPlace=Turn_R sample=0.99 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Move_Backwards sample=0.00 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Move_Backwards sample=0.25 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.008
+  tankInPlace=Move_Backwards sample=0.50 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.004
+  tankInPlace=Move_Backwards sample=0.75 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.007
+  tankInPlace=Move_Backwards sample=0.99 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+ArcRifle assembly=Tanks/Chassis_Carrier_Lvl1+Cockpit_Flyer+Weapon_Shock_Rifle_lvl1 paint=Camo_Albedo_Teal bodyScale=0.529 weaponScale=1.000
+ArcRifle bounds=(2.039, 1.249, 2.460) minY=0.000 renderers=11
+  material MachinePaint_Camo_Albedo_Teal_URP / Universal Render Pipeline/Lit
+  material A_Spiders_Tracks_Mat_8edb0cb1_URP / Universal Render Pipeline/Lit
+  animator TankRig states=Idle,Move_Forward,Move_Forward_Turn_L,Move_Forward_Turn_R,Turn_L,Turn_R,Move_Backwards rootMotion=False
+  muzzleCount=1
+  muzzle Barrel_end rootLocalPosition=(0.003, 0.957, 0.257) rootLocalForward=(0.000, 0.000, 1.000)
+  tankInPlace=Idle sample=0.00 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Idle sample=0.25 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.008
+  tankInPlace=Idle sample=0.50 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.004
+  tankInPlace=Idle sample=0.75 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.007
+  tankInPlace=Idle sample=0.99 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Move_Forward sample=0.00 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Move_Forward sample=0.25 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.008
+  tankInPlace=Move_Forward sample=0.50 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.004
+  tankInPlace=Move_Forward sample=0.75 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.007
+  tankInPlace=Move_Forward sample=0.99 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Move_Forward_Turn_L sample=0.00 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Move_Forward_Turn_L sample=0.25 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.008
+  tankInPlace=Move_Forward_Turn_L sample=0.50 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.004
+  tankInPlace=Move_Forward_Turn_L sample=0.75 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.007
+  tankInPlace=Move_Forward_Turn_L sample=0.99 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Move_Forward_Turn_R sample=0.00 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Move_Forward_Turn_R sample=0.25 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.008
+  tankInPlace=Move_Forward_Turn_R sample=0.50 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.004
+  tankInPlace=Move_Forward_Turn_R sample=0.75 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.007
+  tankInPlace=Move_Forward_Turn_R sample=0.99 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Turn_L sample=0.00 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Turn_L sample=0.25 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.008
+  tankInPlace=Turn_L sample=0.50 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.004
+  tankInPlace=Turn_L sample=0.75 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.007
+  tankInPlace=Turn_L sample=0.99 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Turn_R sample=0.00 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Turn_R sample=0.25 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.008
+  tankInPlace=Turn_R sample=0.50 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.004
+  tankInPlace=Turn_R sample=0.75 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.007
+  tankInPlace=Turn_R sample=0.99 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Move_Backwards sample=0.00 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+  tankInPlace=Move_Backwards sample=0.25 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.008
+  tankInPlace=Move_Backwards sample=0.50 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.004
+  tankInPlace=Move_Backwards sample=0.75 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.007
+  tankInPlace=Move_Backwards sample=0.99 rigShift=0.000 rootXZ=(0.000, 0.000) rootYaw=0.00 mountXZ=0.000
+GuardTank assembly=Tanks/Chassis_Tank_Lvl3+Cockpit_Gun_Flat_Full+Weapon_GLauncher_lvl1 paint=Black bodyScale=0.493 weaponScale=1.000
+GuardTank bounds=(2.128, 1.801, 2.460) minY=0.000 renderers=7
+  material MachinePaint_Black_URP / Universal Render Pipeline/Lit
+  material A_Spiders_Tracks_Mat_8edb0cb1_URP / Universal Render Pipeline/Lit
+  animator TankRig states=Idle,Move_Forward,Move_Forward_Turn_L,Move_Forward_Turn_R,Turn_L,Turn_R,Move_Backwards rootMotion=False
+  animator Weapon states=Demo,Fold,Unfold,Shoot rootMotion=False
+  muzzleCount=2
+  muzzle Barrel_end_1 rootLocalPosition=(-0.140, 1.069, 0.551) rootLocalForward=(0.000, 0.000, 1.000)
+  muzzle Barrel_end_2 rootLocalPosition=(0.129, 1.070, 0.548) rootLocalForward=(0.000, 0.000, 1.000)
+FAILURES 0

@@ -1,0 +1,37 @@
+SAME-SESSION PAIRED A-MAP COMPARISON
+4 rounds AB/BA; same seed 61030, 2 s warmup + 12 s measured each; same saved layout and camera.
+V1 = preserved previous role models; V2 = current models. Both use identical current role AI and profiles.
+Frame timings include Editor overhead; this is not a standalone build benchmark.
+SPAWN 0 renderers=725 animators=119 lights=100
+ROUND 0 model=v1 actors=72 frames=423 avgMs=28.387 medianMs=27.161 p95Ms=38.004 maxMs=53.036 roleStarts=1 roleShots=3
+  Main Thread valid=True meanMs=28.322
+  Render Thread valid=False meanMs=0.000
+  PlayerLoop valid=True meanMs=23.712
+  Gfx.WaitForPresentOnGfxThread valid=True meanMs=0.001
+  Animation.Update valid=True meanMs=0.000
+  Animator.Update valid=False meanMs=0.000
+SPAWN 1 renderers=533 animators=119 lights=100
+ROUND 1 model=v2 actors=72 frames=416 avgMs=28.911 medianMs=27.914 p95Ms=37.125 maxMs=45.349 roleStarts=1 roleShots=3
+  Main Thread valid=True meanMs=28.814
+  Render Thread valid=False meanMs=0.000
+  PlayerLoop valid=True meanMs=24.122
+  Gfx.WaitForPresentOnGfxThread valid=True meanMs=0.001
+  Animation.Update valid=True meanMs=0.000
+  Animator.Update valid=False meanMs=0.000
+SPAWN 2 renderers=533 animators=119 lights=100
+ROUND 2 model=v2 actors=72 frames=418 avgMs=28.743 medianMs=27.531 p95Ms=37.759 maxMs=65.332 roleStarts=1 roleShots=0
+  Main Thread valid=True meanMs=28.632
+  Render Thread valid=False meanMs=0.000
+  PlayerLoop valid=True meanMs=23.979
+  Gfx.WaitForPresentOnGfxThread valid=True meanMs=0.001
+  Animation.Update valid=True meanMs=0.000
+  Animator.Update valid=False meanMs=0.000
+SPAWN 3 renderers=725 animators=119 lights=100
+ROUND 3 model=v1 actors=72 frames=401 avgMs=29.957 medianMs=28.709 p95Ms=42.256 maxMs=58.705 roleStarts=1 roleShots=3
+  Main Thread valid=True meanMs=29.853
+  Render Thread valid=False meanMs=0.000
+  PlayerLoop valid=True meanMs=24.893
+  Gfx.WaitForPresentOnGfxThread valid=True meanMs=0.001
+  Animation.Update valid=True meanMs=0.000
+  Animator.Update valid=False meanMs=0.000
+COMPLETE comparison

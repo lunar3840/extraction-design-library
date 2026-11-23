@@ -1,0 +1,504 @@
+{
+  "samples": [
+    {
+      "character": "Edel",
+      "role": "before",
+      "sha256": "d57e7f6c0b1c4d8c67a7a08e05d0353a8a9701889a746e5f4433273d6696e64e",
+      "rig": "EDEL_V16_RIG",
+      "bones": 52,
+      "actions": 92,
+      "packed_images": 9,
+      "missing_images": [],
+      "mesh_count": 50,
+      "dimensions": [
+        0.6977539658546448,
+        0.5658690929412842,
+        0.99951171875
+      ],
+      "uv_channels": {
+        "Eyebrow_L": [
+          "UVMap"
+        ],
+        "Eyebrow_R": [
+          "UVMap"
+        ],
+        "Eyelashes_L": [
+          "UVMap"
+        ],
+        "Eyelashes_R": [
+          "UVMap"
+        ],
+        "Eyelid_Fold_L": [
+          "UVMap"
+        ],
+        "Eyelid_Fold_R": [
+          "UVMap"
+        ],
+        "FACE_MouthCavity": [],
+        "Face_Skin": [
+          "UVMap"
+        ],
+        "Iris_L": [
+          "UVMap"
+        ],
+        "Iris_R": [
+          "UVMap"
+        ],
+        "Rest_Original": [
+          "UVMap"
+        ],
+        "RIFLE | barrel": [
+          "UVMap"
+        ],
+        "RIFLE | buffer": [
+          "UVMap"
+        ],
+        "RIFLE | buttpad": [
+          "UVMap"
+        ],
+        "RIFLE | eject port": [
+          "UVMap"
+        ],
+        "RIFLE | handguard": [
+          "UVMap"
+        ],
+        "RIFLE | lower receiver": [
+          "UVMap"
+        ],
+        "RIFLE | mag base": [
+          "UVMap"
+        ],
+        "RIFLE | magazine": [
+          "UVMap"
+        ],
+        "RIFLE | muzzle": [
+          "UVMap"
+        ],
+        "RIFLE | optic": [
+          "UVMap"
+        ],
+        "RIFLE | optic lens": [
+          "UVMap"
+        ],
+        "RIFLE | pistol grip": [
+          "UVMap"
+        ],
+        "RIFLE | selector mark": [
+          "UVMap"
+        ],
+        "RIFLE | sight base": [
+          "UVMap"
+        ],
+        "RIFLE | stock": [
+          "UVMap"
+        ],
+        "RIFLE | top rail 00": [
+          "UVMap"
+        ],
+        "RIFLE | top rail 01": [
+          "UVMap"
+        ],
+        "RIFLE | top rail 02": [
+          "UVMap"
+        ],
+        "RIFLE | top rail 03": [
+          "UVMap"
+        ],
+        "RIFLE | top rail 04": [
+          "UVMap"
+        ],
+        "RIFLE | top rail 05": [
+          "UVMap"
+        ],
+        "RIFLE | top rail 06": [
+          "UVMap"
+        ],
+        "RIFLE | top rail 07": [
+          "UVMap"
+        ],
+        "RIFLE | trigger": [
+          "UVMap"
+        ],
+        "RIFLE | trigger guard bottom": [
+          "UVMap"
+        ],
+        "RIFLE | trigger guard front": [
+          "UVMap"
+        ],
+        "RIFLE | upper receiver": [
+          "UVMap"
+        ],
+        "RIFLE | vent -1 0": [
+          "UVMap"
+        ],
+        "RIFLE | vent -1 1": [
+          "UVMap"
+        ],
+        "RIFLE | vent -1 2": [
+          "UVMap"
+        ],
+        "RIFLE | vent -1 3": [
+          "UVMap"
+        ],
+        "RIFLE | vent -1 4": [
+          "UVMap"
+        ],
+        "RIFLE | vent 1 0": [
+          "UVMap"
+        ],
+        "RIFLE | vent 1 1": [
+          "UVMap"
+        ],
+        "RIFLE | vent 1 2": [
+          "UVMap"
+        ],
+        "RIFLE | vent 1 3": [
+          "UVMap"
+        ],
+        "RIFLE | vent 1 4": [
+          "UVMap"
+        ],
+        "Sclera_L": [
+          "UVMap"
+        ],
+        "Sclera_R": [
+          "UVMap"
+        ]
+      }
+    },
+    {
+      "character": "Edel",
+      "role": "after",
+      "sha256": "d57e7f6c0b1c4d8c67a7a08e05d0353a8a9701889a746e5f4433273d6696e64e",
+      "rig": "EDEL_V16_RIG",
+      "bones": 52,
+      "actions": 92,
+      "packed_images": 9,
+      "missing_images": [],
+      "mesh_count": 50,
+      "dimensions": [
+        0.6977539658546448,
+        0.5658690929412842,
+        0.99951171875
+      ],
+      "uv_channels": {
+        "Eyebrow_L": [
+          "UVMap"
+        ],
+        "Eyebrow_R": [
+          "UVMap"
+        ],
+        "Eyelashes_L": [
+          "UVMap"
+        ],
+        "Eyelashes_R": [
+          "UVMap"
+        ],
+        "Eyelid_Fold_L": [
+          "UVMap"
+        ],
+        "Eyelid_Fold_R": [
+          "UVMap"
+        ],
+        "FACE_MouthCavity": [],
+        "Face_Skin": [
+          "UVMap"
+        ],
+        "Iris_L": [
+          "UVMap"
+        ],
+        "Iris_R": [
+          "UVMap"
+        ],
+        "Rest_Original": [
+          "UVMap"
+        ],
+        "RIFLE | barrel": [
+          "UVMap"
+        ],
+        "RIFLE | buffer": [
+          "UVMap"
+        ],
+        "RIFLE | buttpad": [
+          "UVMap"
+        ],
+        "RIFLE | eject port": [
+          "UVMap"
+        ],
+        "RIFLE | handguard": [
+          "UVMap"
+        ],
+        "RIFLE | lower receiver": [
+          "UVMap"
+        ],
+        "RIFLE | mag base": [
+          "UVMap"
+        ],
+        "RIFLE | magazine": [
+          "UVMap"
+        ],
+        "RIFLE | muzzle": [
+          "UVMap"
+        ],
+        "RIFLE | optic": [
+          "UVMap"
+        ],
+        "RIFLE | optic lens": [
+          "UVMap"
+        ],
+        "RIFLE | pistol grip": [
+          "UVMap"
+        ],
+        "RIFLE | selector mark": [
+          "UVMap"
+        ],
+        "RIFLE | sight base": [
+          "UVMap"
+        ],
+        "RIFLE | stock": [
+          "UVMap"
+        ],
+        "RIFLE | top rail 00": [
+          "UVMap"
+        ],
+        "RIFLE | top rail 01": [
+          "UVMap"
+        ],
+        "RIFLE | top rail 02": [
+          "UVMap"
+        ],
+        "RIFLE | top rail 03": [
+          "UVMap"
+        ],
+        "RIFLE | top rail 04": [
+          "UVMap"
+        ],
+        "RIFLE | top rail 05": [
+          "UVMap"
+        ],
+        "RIFLE | top rail 06": [
+          "UVMap"
+        ],
+        "RIFLE | top rail 07": [
+          "UVMap"
+        ],
+        "RIFLE | trigger": [
+          "UVMap"
+        ],
+        "RIFLE | trigger guard bottom": [
+          "UVMap"
+        ],
+        "RIFLE | trigger guard front": [
+          "UVMap"
+        ],
+        "RIFLE | upper receiver": [
+          "UVMap"
+        ],
+        "RIFLE | vent -1 0": [
+          "UVMap"
+        ],
+        "RIFLE | vent -1 1": [
+          "UVMap"
+        ],
+        "RIFLE | vent -1 2": [
+          "UVMap"
+        ],
+        "RIFLE | vent -1 3": [
+          "UVMap"
+        ],
+        "RIFLE | vent -1 4": [
+          "UVMap"
+        ],
+        "RIFLE | vent 1 0": [
+          "UVMap"
+        ],
+        "RIFLE | vent 1 1": [
+          "UVMap"
+        ],
+        "RIFLE | vent 1 2": [
+          "UVMap"
+        ],
+        "RIFLE | vent 1 3": [
+          "UVMap"
+        ],
+        "RIFLE | vent 1 4": [
+          "UVMap"
+        ],
+        "Sclera_L": [
+          "UVMap"
+        ],
+        "Sclera_R": [
+          "UVMap"
+        ]
+      }
+    },
+    {
+      "character": "Serin",
+      "role": "before",
+      "sha256": "853cbe6166bf31dff289b5afcc823af32a9d0f908c14d4514c63a84e6c829983",
+      "rig": "SERIN_BodyRig_Original78",
+      "bones": 81,
+      "actions": 95,
+      "packed_images": 2,
+      "missing_images": [],
+      "mesh_count": 22,
+      "dimensions": [
+        0.685700535774231,
+        0.41434842348098755,
+        0.9990237951278687
+      ],
+      "uv_channels": {
+        "Basewear_Bottom_Surface": [
+          "UVMap"
+        ],
+        "Basewear_Top_Surface": [
+          "UVMap"
+        ],
+        "Body_Base": [
+          "UVMap"
+        ],
+        "Eyebrow_L": [
+          "UVMap"
+        ],
+        "Eyebrow_R": [
+          "UVMap"
+        ],
+        "Eyelashes_L": [
+          "UVMap"
+        ],
+        "Eyelashes_R": [
+          "UVMap"
+        ],
+        "Eyelid_Fold_L": [
+          "UVMap"
+        ],
+        "Eyelid_Fold_R": [
+          "UVMap"
+        ],
+        "Eyelid_Rim_L": [
+          "UVMap"
+        ],
+        "Eyelid_Rim_R": [
+          "UVMap"
+        ],
+        "Face_Ears": [
+          "UVMap"
+        ],
+        "FACE_MouthCavity": [],
+        "Face_Nose": [
+          "UVMap"
+        ],
+        "Face_Skin": [
+          "UVMap"
+        ],
+        "Hair_Main": [
+          "UVMap"
+        ],
+        "Hair_SideTail_L": [
+          "UVMap"
+        ],
+        "Head_Neck_Skin": [
+          "UVMap"
+        ],
+        "Iris_L": [
+          "UVMap"
+        ],
+        "Iris_R": [
+          "UVMap"
+        ],
+        "Sclera_L": [
+          "UVMap"
+        ],
+        "Sclera_R": [
+          "UVMap"
+        ]
+      }
+    },
+    {
+      "character": "Serin",
+      "role": "after",
+      "sha256": "853cbe6166bf31dff289b5afcc823af32a9d0f908c14d4514c63a84e6c829983",
+      "rig": "SERIN_BodyRig_Original78",
+      "bones": 81,
+      "actions": 95,
+      "packed_images": 2,
+      "missing_images": [],
+      "mesh_count": 22,
+      "dimensions": [
+        0.685700535774231,
+        0.41434842348098755,
+        0.9990237951278687
+      ],
+      "uv_channels": {
+        "Basewear_Bottom_Surface": [
+          "UVMap"
+        ],
+        "Basewear_Top_Surface": [
+          "UVMap"
+        ],
+        "Body_Base": [
+          "UVMap"
+        ],
+        "Eyebrow_L": [
+          "UVMap"
+        ],
+        "Eyebrow_R": [
+          "UVMap"
+        ],
+        "Eyelashes_L": [
+          "UVMap"
+        ],
+        "Eyelashes_R": [
+          "UVMap"
+        ],
+        "Eyelid_Fold_L": [
+          "UVMap"
+        ],
+        "Eyelid_Fold_R": [
+          "UVMap"
+        ],
+        "Eyelid_Rim_L": [
+          "UVMap"
+        ],
+        "Eyelid_Rim_R": [
+          "UVMap"
+        ],
+        "Face_Ears": [
+          "UVMap"
+        ],
+        "FACE_MouthCavity": [],
+        "Face_Nose": [
+          "UVMap"
+        ],
+        "Face_Skin": [
+          "UVMap"
+        ],
+        "Hair_Main": [
+          "UVMap"
+        ],
+        "Hair_SideTail_L": [
+          "UVMap"
+        ],
+        "Head_Neck_Skin": [
+          "UVMap"
+        ],
+        "Iris_L": [
+          "UVMap"
+        ],
+        "Iris_R": [
+          "UVMap"
+        ],
+        "Sclera_L": [
+          "UVMap"
+        ],
+        "Sclera_R": [
+          "UVMap"
+        ]
+      }
+    }
+  ],
+  "source_copy_identical": true,
+  "unity_executed": false,
+  "source_saved": false,
+  "note": "Before/after are original and byte-identical delivery-copy Blender renders with same camera/pose/lighting. Historical game screenshots are separate; runtime corrections are not baked."
+}

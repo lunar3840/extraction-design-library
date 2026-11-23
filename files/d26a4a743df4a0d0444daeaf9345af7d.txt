@@ -1,0 +1,4 @@
+scene=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity
+playing=False
+dirty=False
+activeEnemies=0

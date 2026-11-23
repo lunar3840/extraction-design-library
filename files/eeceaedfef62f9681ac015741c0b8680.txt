@@ -1,0 +1,184 @@
+Actual generic Surface Ruin Tool applied through the same public API for both fixtures. No A-map/Play/FPS.
+car source=95314 result=90667 cut=5898 cap=0 fragments=14 changed=True; Source colliders are unchanged; rebake collision before using this variant for gameplay.
+kind=Vehicle; local center=(0.78, 0.90, 1.51); radii=(0.62, 0.50, 1.48); seed=731
+open edge ribbons: segments=603; worldThickness=0.020m; no polygon-fan fill
+종류: Vehicle / 사용 시드: 731 / 숨긴 충돌용 보조 렌더러: 0
+{"sourceTriangles":95314,"resultTriangles":90667,"changedVertices":5898,"cutTriangles":5898,"capTriangles":0,"newFragments":14,"geometryChanged":true,"generatedRoot":{"instanceID":-4218770}}
+90664 source triangles, 92 paths, 801 stem segments, 1206 leaves, 0 excluded samples. 
+15 eligible slots, 1 skipped slots.
+SKIP Model[0]: disabled, shadow-only, or no static MeshFilter
+AGED __RuinGenerated_Model[0] 17e38f9b0e47c3c4f968b61c02deaa24_URP -> metal
+AGED __RuinGenerated_Fragment_00[0] RuinGenerated_ironCore -> metal
+AGED __RuinGenerated_Fragment_01[0] RuinGenerated_rustCore -> metal
+AGED __RuinGenerated_Fragment_02[0] RuinGenerated_ironCore -> metal
+AGED __RuinGenerated_Fragment_03[0] RuinGenerated_rustCore -> metal
+AGED __RuinGenerated_Fragment_04[0] RuinGenerated_ironCore -> metal
+AGED __RuinGenerated_Fragment_05[0] RuinGenerated_rustCore -> metal
+AGED __RuinGenerated_Fragment_06[0] RuinGenerated_ironCore -> metal
+AGED __RuinGenerated_Fragment_07[0] RuinGenerated_rustCore -> metal
+AGED __RuinGenerated_Fragment_08[0] RuinGenerated_ironCore -> metal
+AGED __RuinGenerated_Fragment_09[0] RuinGenerated_rustCore -> metal
+AGED __RuinGenerated_Fragment_10[0] RuinGenerated_ironCore -> metal
+AGED __RuinGenerated_Fragment_11[0] RuinGenerated_rustCore -> metal
+AGED __RuinGenerated_Fragment_12[0] RuinGenerated_ironCore -> metal
+AGED __RuinGenerated_Fragment_13[0] RuinGenerated_rustCore -> metal
+
+PROFILE PASS Assets/Escape/Art/SurfaceRuin/Generated/CombinedReclaimed_car_WithIvy_RuinPreview_WeatheringPrev_Ruin_884e98ea3c3b/car_ReusableProfile.asset
+PERSIST PASS car Assets/Escape/Art/SurfaceRuin/Generated/CombinedReclaimed_car_WithIvy_RuinPreview_WeatheringPrev_Ruin_884e98ea3c3b/CombinedReclaimed_car_WithIvy_RuinPreview_WeatheringPrev_Ruin.prefab
+FIXTURE CLEANUP: omitted original S06_Interior two counter planks/no-floor group; source FBX unchanged. Baseline still preserves the original group.
+building source=26397 result=27515 cut=536 cap=56 fragments=27 changed=True; Source colliders are unchanged; rebake collision before using this variant for gameplay.
+kind=Building; local center=(11.61, 5.92, 9.80); radii=(7.02, 3.27, 6.03); seed=731
+open edge ribbons: segments=190; worldThickness=0.145m; no polygon-fan fill
+종류: Building / 사용 시드: 731 / 숨긴 충돌용 보조 렌더러: 1
+{"sourceTriangles":26397,"resultTriangles":27515,"changedVertices":536,"cutTriangles":536,"capTriangles":56,"newFragments":27,"geometryChanged":true,"generatedRoot":{"instanceID":-4221220}}
+27258 source triangles, 173 paths, 2237 stem segments, 3305 leaves, 0 excluded samples. Skipped: S06_ShellStain_renderStain: transparent/glass submesh; S06_ShellStain_renderStain: transparent/glass submesh; __RuinGenerated_S06_Shell_renderOpaque: transparent/glass submesh; __RuinGenerated_S06_Shell_renderOpaque: transparent/glass submesh; __RuinGenerated_S06_Shell_renderOpaque: transparent/glass submesh; __RuinGenerated_S06_Shell_renderOpaque: transparent/glass submesh; __RuinGenerated_S06_Shell_renderOpaque: transparent/glass submesh; __RuinGenerated_S06_Shell_renderOpaque: transparent/glass submesh; __RuinGenerated_S06_Shell_renderOpaque: transparent/glass submesh; __RuinGenerated_S06_Shell_renderOpaque: transparent/glass submesh
+69 eligible slots, 76 skipped slots.
+SKIP S06_Shell_colliderOnly[0]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[0]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[1]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[2]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[3]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[4]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[5]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[6]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[7]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[8]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[9]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[10]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[11]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[12]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[13]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[14]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[15]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[16]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[17]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[18]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[19]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[20]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[21]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[22]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[23]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[24]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[25]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[26]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[27]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[28]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[29]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[30]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[31]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[32]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[33]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[34]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[35]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[36]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[37]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[38]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[39]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[40]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[41]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[42]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[43]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[44]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[45]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[46]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[47]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[48]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[49]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[50]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[51]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_Shell_renderOpaque[52]: disabled, shadow-only, or no static MeshFilter
+SKIP S06_ShellStain_renderStain[0]: unsupported shader Escape/BuildingD10/StainOverlay
+SKIP S06_ShellStain_renderStain[1]: unsupported shader Escape/BuildingD10/StainOverlay
+AGED S06_Roof_renderOpaque[0] D09_BrickRed -> masonry (D09 retained)
+AGED S06_Roof_renderOpaque[1] D09_TerracottaRoof -> masonry (D09 retained)
+SKIP S06_Roof_renderOpaque[2]: protected glass/rubber/wood/foliage/overlay material
+SKIP S06_Roof_renderOpaque[3]: protected glass/rubber/wood/foliage/overlay material
+AGED S06_Roof_renderOpaque[4] D15_building_D09_PlasterIvory_87f80386ff6b -> painted plaster (D09 retained)
+AGED S06_Roof_renderOpaque[5] D15_building_D09_BrickRed_51fee3fc4c8f -> masonry (D09 retained)
+SKIP S06_Roof_renderOpaque[6]: protected glass/rubber/wood/foliage/overlay material
+AGED S06_Roof_renderOpaque[7] D09_SheetPatina -> metal (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[0] D15_building_D09_PlasterIvory_9f113c4cbba6 -> painted plaster (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[1] D15_building_D09_BrickRed_de338e222dad -> masonry (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[2] D15_building_D09_IronDark_e4171e09cf67 -> metal (D09 retained)
+SKIP __RuinGenerated_S06_Shell_renderOpaque[3]: protected glass/rubber/wood/foliage/overlay material
+SKIP __RuinGenerated_S06_Shell_renderOpaque[4]: protected glass/rubber/wood/foliage/overlay material
+AGED __RuinGenerated_S06_Shell_renderOpaque[5] D15_building_D09_IronDark_b876761c9ebb -> metal (D09 retained)
+SKIP __RuinGenerated_S06_Shell_renderOpaque[6]: protected glass/rubber/wood/foliage/overlay material
+SKIP __RuinGenerated_S06_Shell_renderOpaque[7]: protected glass/rubber/wood/foliage/overlay material
+AGED __RuinGenerated_S06_Shell_renderOpaque[8] D09_ConcreteLight -> masonry (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[9] D15_building_D09_PlasterIvory_3fb28663560c -> painted plaster (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[10] D15_building_D09_BrickRed_191bc821034a -> masonry (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[11] D15_building_D09_PlasterIvory_bccdd39cf85f -> painted plaster (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[12] D15_building_D09_BrickRed_c7ce3a702aaf -> masonry (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[13] D15_building_D09_IronDark_14b4507ae2a5 -> metal (D09 retained)
+SKIP __RuinGenerated_S06_Shell_renderOpaque[14]: protected glass/rubber/wood/foliage/overlay material
+SKIP __RuinGenerated_S06_Shell_renderOpaque[15]: protected glass/rubber/wood/foliage/overlay material
+AGED __RuinGenerated_S06_Shell_renderOpaque[16] D15_building_D09_IronDark_3313804ab674 -> metal (D09 retained)
+SKIP __RuinGenerated_S06_Shell_renderOpaque[17]: protected glass/rubber/wood/foliage/overlay material
+SKIP __RuinGenerated_S06_Shell_renderOpaque[18]: protected glass/rubber/wood/foliage/overlay material
+AGED __RuinGenerated_S06_Shell_renderOpaque[19] D15_building_D09_IronDark_a6093ec31d6c -> metal (D09 retained)
+SKIP __RuinGenerated_S06_Shell_renderOpaque[20]: protected glass/rubber/wood/foliage/overlay material
+SKIP __RuinGenerated_S06_Shell_renderOpaque[21]: protected glass/rubber/wood/foliage/overlay material
+AGED __RuinGenerated_S06_Shell_renderOpaque[22] D15_building_D09_PlasterIvory_ba9a2d58e0fd -> painted plaster (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[23] D15_building_D09_BrickRed_c65643c15164 -> masonry (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[24] D15_building_D09_IronDark_e116e070ccd0 -> metal (D09 retained)
+SKIP __RuinGenerated_S06_Shell_renderOpaque[25]: protected glass/rubber/wood/foliage/overlay material
+SKIP __RuinGenerated_S06_Shell_renderOpaque[26]: protected glass/rubber/wood/foliage/overlay material
+AGED __RuinGenerated_S06_Shell_renderOpaque[27] D15_building_D09_IronDark_fc808d1b51ef -> metal (D09 retained)
+SKIP __RuinGenerated_S06_Shell_renderOpaque[28]: protected glass/rubber/wood/foliage/overlay material
+SKIP __RuinGenerated_S06_Shell_renderOpaque[29]: protected glass/rubber/wood/foliage/overlay material
+AGED __RuinGenerated_S06_Shell_renderOpaque[30] D15_building_D09_IronDark_f210f1ade065 -> metal (D09 retained)
+SKIP __RuinGenerated_S06_Shell_renderOpaque[31]: protected glass/rubber/wood/foliage/overlay material
+SKIP __RuinGenerated_S06_Shell_renderOpaque[32]: protected glass/rubber/wood/foliage/overlay material
+SKIP __RuinGenerated_S06_Shell_renderOpaque[33]: protected glass/rubber/wood/foliage/overlay material
+AGED __RuinGenerated_S06_Shell_renderOpaque[34] D09_TripoDetail_T09_e1fb014fdacbc5945bf2d33ebe900491 -> metal
+AGED __RuinGenerated_S06_Shell_renderOpaque[35] D15_building_D09_PlasterIvory_4fe6b5087344 -> painted plaster (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[36] D15_building_D09_BrickRed_00142d492a3f -> masonry (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[37] D15_building_D09_ConcreteLight_1cc15c743d88 -> masonry (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[38] D15_building_D09_PlasterIvory_7037cceaac42 -> painted plaster (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[39] D15_building_D09_BrickRed_81be6dba4104 -> masonry (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[40] D15_building_D09_ConcreteLight_b7ca78f7832d -> masonry (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[41] D15_building_D09_PlasterIvory_9d28ae5d9711 -> painted plaster (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[42] D15_building_D09_BrickRed_22cfd91b7a1d -> masonry (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[43] D15_building_D09_ConcreteLight_2a13c9fd08e5 -> masonry (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[44] D15_building_D09_PlasterIvory_dcdc847c9ea0 -> painted plaster (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[45] D15_building_D09_BrickRed_b02c0024037a -> masonry (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[46] D15_building_D09_ConcreteLight_f6b6b7d3614f -> masonry (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[47] D09_PlasterIvory -> painted plaster (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[48] D09_StoneBase -> masonry (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[49] D09_BrickRed -> masonry (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[50] D09_TerracottaRoof -> masonry (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[51] D09_SheetPatina -> metal (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[52] D09_IronDark -> metal (D09 retained)
+AGED __RuinGenerated_S06_Shell_renderOpaque[53] RuinGenerated_brickTornRim -> masonry
+AGED __RuinGenerated_Fragment_00[0] RuinGenerated_brickCore -> masonry (D09 retained)
+AGED __RuinGenerated_Fragment_01[0] RuinGenerated_plasterCore -> painted plaster (D09 retained)
+AGED __RuinGenerated_Fragment_02[0] RuinGenerated_concreteCore -> masonry (D09 retained)
+AGED __RuinGenerated_Fragment_03[0] RuinGenerated_terracottaTileCore -> masonry (D09 retained)
+AGED __RuinGenerated_Fragment_04[0] RuinGenerated_brickCore -> masonry (D09 retained)
+AGED __RuinGenerated_Fragment_05[0] RuinGenerated_plasterCore -> painted plaster (D09 retained)
+AGED __RuinGenerated_Fragment_06[0] RuinGenerated_concreteCore -> masonry (D09 retained)
+AGED __RuinGenerated_Fragment_07[0] RuinGenerated_terracottaTileCore -> masonry (D09 retained)
+AGED __RuinGenerated_Fragment_08[0] RuinGenerated_brickCore -> masonry (D09 retained)
+AGED __RuinGenerated_Fragment_09[0] RuinGenerated_plasterCore -> painted plaster (D09 retained)
+AGED __RuinGenerated_Fragment_10[0] RuinGenerated_concreteCore -> masonry (D09 retained)
+AGED __RuinGenerated_Fragment_11[0] RuinGenerated_terracottaTileCore -> masonry (D09 retained)
+AGED __RuinGenerated_Fragment_12[0] RuinGenerated_brickCore -> masonry (D09 retained)
+AGED __RuinGenerated_Fragment_13[0] RuinGenerated_plasterCore -> painted plaster (D09 retained)
+AGED __RuinGenerated_Fragment_14[0] RuinGenerated_concreteCore -> masonry (D09 retained)
+AGED __RuinGenerated_Fragment_15[0] RuinGenerated_terracottaTileCore -> masonry (D09 retained)
+AGED __RuinGenerated_Fragment_16[0] RuinGenerated_brickCore -> masonry (D09 retained)
+AGED __RuinGenerated_Fragment_17[0] RuinGenerated_plasterCore -> painted plaster (D09 retained)
+AGED __RuinGenerated_Fragment_18[0] RuinGenerated_concreteCore -> masonry (D09 retained)
+AGED __RuinGenerated_Fragment_19[0] RuinGenerated_terracottaTileCore -> masonry (D09 retained)
+AGED __RuinGenerated_Fragment_20[0] RuinGenerated_brickCore -> masonry (D09 retained)
+AGED __RuinGenerated_Fragment_21[0] RuinGenerated_plasterCore -> painted plaster (D09 retained)
+AGED __RuinGenerated_Fragment_22[0] RuinGenerated_concreteCore -> masonry (D09 retained)
+AGED __RuinGenerated_Fragment_23[0] RuinGenerated_terracottaTileCore -> masonry (D09 retained)
+AGED __RuinGenerated_Fragment_24[0] RuinGenerated_brickCore -> masonry (D09 retained)
+AGED __RuinGenerated_Fragment_25[0] RuinGenerated_plasterCore -> painted plaster (D09 retained)
+AGED __RuinGenerated_Fragment_26[0] RuinGenerated_concreteCore -> masonry (D09 retained)
+
+PROFILE PASS Assets/Escape/Art/SurfaceRuin/Generated/S06_Ruin_Building_Original_RuinPreview_WeatheringPreview_Ruin_c89fb734cd67/building_ReusableProfile.asset
+PERSIST PASS building Assets/Escape/Art/SurfaceRuin/Generated/S06_Ruin_Building_Original_RuinPreview_WeatheringPreview_Ruin_c89fb734cd67/S06_Ruin_Building_Original_RuinPreview_WeatheringPreview_Ruin.prefab
+RESULT PASS (generic tool sample only)

@@ -1,0 +1,35 @@
+{
+  "status": "saved_in_figma_visible_hud_review_passed",
+  "verifiedLocalDate": "2026-10-22",
+  "fileKey": "KUD4t84BL1S77c3cnb8co0",
+  "pageId": "11:711",
+  "previewId": "69:2948",
+  "previousRevision": "../figma-nikke-stellar-hud/design-system-state.json",
+  "editingPath": "Existing native Figma Agents UI; official MCP blocked by View-seat tool call limit",
+  "nativeEditorReport": {
+    "sourceComponents": 53,
+    "iconVectorLayers": 81,
+    "clockSource": "not located; unchanged",
+    "countsIndividuallyAuditedByMain": false
+  },
+  "corners": {
+    "quickSlot": 10,
+    "quickSlotInputKey": 5,
+    "abilityInputKey": 5,
+    "interactionInputKey": 6,
+    "portraitClip": 8
+  },
+  "directPropertyCheck": {
+    "componentId": "55:1184",
+    "width": 80,
+    "height": 80,
+    "cornerRadius": 10,
+    "screenshot": "after_quickslot_properties.png"
+  },
+  "preserved": ["existing layout and text contrast", "112px water and energy circles with bottom-up fill and no numbers", "HP and stamina above character", "editable source components and linked instances"],
+  "actualExport": {"file": "after_project_backdrop.png", "width": 1920, "height": 1080},
+  "proof": {"before": "before_project_native.png", "after": "after_project_native.png", "independentReview": "figma-visual-audit.md", "propertyRead": "native-properties-audit.txt", "editorReport": "native-agent-report.txt", "changeRecord": "CHANGE_RECORD.md"},
+  "localProposalSvgs": {"count": 12, "directory": "icons", "importedIntoFigma": false, "audit": "audit.json"},
+  "unityModified": false,
+  "appRestartedOrClosed": false
+}

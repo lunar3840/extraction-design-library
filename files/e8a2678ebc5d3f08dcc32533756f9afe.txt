@@ -1,0 +1,165 @@
+BUILDING_V33_ACTUAL_PLAY
+prefix=after startedUtc=2026-10-07T13:53:53.2895217Z
+pairedShots=14
+SHOT W03_outside feet=(-135.0944, 2.4727, 31.6402) eye=(-130.7442, 17.5298, 39.1751) cyanBefore=True cyanNow=False visualTriangle=True visualSurface=FactoryRoof legacyBlocker=D04_RoofMesh colliderOnlyFalsePositive=False unnecessaryReveal=False localReveal=True blocker=D04_RoofMesh roof=4/4 visible
+SHOT W03_inside feet=(-136.0000, 2.9400, 42.0000) eye=(-131.6497, 17.9971, 49.5349) cyanBefore=False cyanNow=False visualTriangle=False visualSurface=none legacyBlocker=none colliderOnlyFalsePositive=False unnecessaryReveal=False localReveal=False blocker= roof=0/4 visible
+SHOT W04_outside feet=(-100.6480, 1.9279, 17.3676) eye=(-96.2977, 16.9850, 24.9025) cyanBefore=True cyanNow=False visualTriangle=True visualSurface=FactoryRoof legacyBlocker=D04_RoofMesh colliderOnlyFalsePositive=False unnecessaryReveal=False localReveal=True blocker=D04_RoofMesh roof=4/4 visible
+SHOT W04_inside feet=(-99.0000, 2.2800, 31.0000) eye=(-94.6497, 17.3371, 38.5349) cyanBefore=False cyanNow=False visualTriangle=False visualSurface=none legacyBlocker=none colliderOnlyFalsePositive=False unnecessaryReveal=False localReveal=False blocker= roof=0/4 visible
+SHOT E08_outside feet=(95.5292, 1.4211, -66.2825) eye=(99.8795, 16.4783, -58.7476) cyanBefore=True cyanNow=False visualTriangle=True visualSurface=FactoryRoof legacyBlocker=D04_RoofMesh colliderOnlyFalsePositive=False unnecessaryReveal=False localReveal=True blocker=D04_RoofMesh roof=4/4 visible
+SHOT E08_inside feet=(97.0000, 1.8600, -57.0000) eye=(101.3503, 16.9171, -49.4651) cyanBefore=False cyanNow=False visualTriangle=False visualSurface=none legacyBlocker=none colliderOnlyFalsePositive=False unnecessaryReveal=False localReveal=False blocker= roof=0/4 visible
+SHOT POWER_outside feet=(102.3654, 12.0744, 114.4670) eye=(106.7157, 27.1315, 122.0019) cyanBefore=False cyanNow=False visualTriangle=False visualSurface=none legacyBlocker=none colliderOnlyFalsePositive=False unnecessaryReveal=False localReveal=False blocker= roof=2/2 visible
+SHOT POWER_inside feet=(128.5000, 12.0600, 107.0000) eye=(132.8503, 27.1171, 114.5349) cyanBefore=False cyanNow=False visualTriangle=False visualSurface=none legacyBlocker=none colliderOnlyFalsePositive=False unnecessaryReveal=False localReveal=False blocker= roof=0/2 visible
+SHOT PARTS_outside feet=(152.7379, 2.9967, -22.1389) eye=(157.0882, 18.0539, -14.6040) cyanBefore=True cyanNow=False visualTriangle=True visualSurface=D04_FacadeMesh legacyBlocker=D04_RoofMesh colliderOnlyFalsePositive=False unnecessaryReveal=False localReveal=True blocker=D04_RoofMesh roof=4/4 visible
+SHOT PARTS_inside feet=(174.5000, 3.0600, -2.5000) eye=(178.8503, 18.1171, 5.0349) cyanBefore=False cyanNow=False visualTriangle=False visualSurface=none legacyBlocker=none colliderOnlyFalsePositive=False unnecessaryReveal=False localReveal=False blocker= roof=0/4 visible
+SHOT TOOLS_outside feet=(-155.3019, 1.0200, 4.9191) eye=(-150.9516, 16.0771, 12.4540) cyanBefore=False cyanNow=False visualTriangle=False visualSurface=none legacyBlocker=none colliderOnlyFalsePositive=False unnecessaryReveal=False localReveal=False blocker= roof=2/2 visible
+SHOT TOOLS_inside feet=(-167.5000, 1.0200, 5.5000) eye=(-163.1497, 16.0771, 13.0349) cyanBefore=True cyanNow=False visualTriangle=False visualSurface=none legacyBlocker=Roof_Collision colliderOnlyFalsePositive=True unnecessaryReveal=False localReveal=False blocker= roof=0/2 visible
+SHOT HALL_outside feet=(18.0000, 1.8979, -40.0000) eye=(22.3503, 16.9551, -32.4651) cyanBefore=False cyanNow=False visualTriangle=False visualSurface=none legacyBlocker=none colliderOnlyFalsePositive=False unnecessaryReveal=False localReveal=True blocker=LoadingCanopy_Roof roof=n/a
+SHOT HALL_inside feet=(0.0000, 2.0950, -28.0000) eye=(4.3503, 17.1521, -20.4651) cyanBefore=False cyanNow=False visualTriangle=False visualSurface=none legacyBlocker=none colliderOnlyFalsePositive=False unnecessaryReveal=False localReveal=False blocker=SouthLobbyRoof__Collision roof=n/a
+SWEEP C01_outside geometryBlocker=D04_FacadeMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_FacadeMesh roof=4/4 visible
+SWEEP C01_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP C02_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP C02_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP C03_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=3/3 visible
+SWEEP C03_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/3 visible
+SWEEP C04_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=3/3 visible
+SWEEP C04_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/3 visible
+SWEEP CLINIC_outside geometryBlocker=D04_FacadeMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=FactoryRoof roof=4/4 visible
+SWEEP CLINIC_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP E01_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP E01_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP E02_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=3/3 visible
+SWEEP E02_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/3 visible
+SWEEP E03_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP E03_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP E04_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP E04_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP E05_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP E05_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP E06_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP E06_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP E07_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP E07_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP E08_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP E08_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP E09_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP E09_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP E10_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP E10_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP E11_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP E11_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP E12_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP E12_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP F01_outside geometryBlocker=D04_FacadeMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=BrokenRoof_A roof=4/4 visible
+SWEEP F01_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP F02_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP F02_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP F03_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP F03_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP N01_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP N01_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP N02_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=3/3 visible
+SWEEP N02_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/3 visible
+SWEEP N03_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP N03_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP N04_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=3/3 visible
+SWEEP N04_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/3 visible
+SWEEP N05_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP N05_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP N06_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP N06_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP N07_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP N07_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP N08_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP N08_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP N09_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP N09_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP N10_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP N10_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP N11_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=3/3 visible
+SWEEP N11_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/3 visible
+SWEEP N12_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP N12_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP N13_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP N13_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP N14_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=3/3 visible
+SWEEP N14_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/3 visible
+SWEEP N15_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP N15_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP N16_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=3/3 visible
+SWEEP N16_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/3 visible
+SWEEP N17_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=3/3 visible
+SWEEP N17_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/3 visible
+SWEEP PARTS_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP PARTS_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP POWER_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP POWER_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP S01_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP S01_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP S02_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP S02_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP S03_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP S03_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP S04_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP S04_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP S05_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP S05_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP S06_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP S06_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP S07_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP S07_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP S08_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP S08_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP S09_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP S09_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP S10_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP S10_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP S11_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP S11_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP S12_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP S12_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP TOOLS_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP TOOLS_inside geometryBlocker=Roof_Collision scoped=True visualTriangle=False colliderOnlyFalsePositive=True localReveal=False surface= roof=0/2 visible
+SWEEP W01_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP W01_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP W02_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP W02_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP W03_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP W03_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP W04_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP W04_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP W05_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP W05_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP W06_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP W06_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP W07_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP W07_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP W08_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP W08_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP W09_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=3/3 visible
+SWEEP W09_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/3 visible
+SWEEP W10_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP W10_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP W11_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP W11_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP Y01_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP Y01_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP Y02_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=4/4 visible
+SWEEP Y02_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/4 visible
+SWEEP Y03_outside geometryBlocker=D04_RoofMesh scoped=True visualTriangle=True colliderOnlyFalsePositive=False localReveal=True surface=D04_RoofMesh roof=3/3 visible
+SWEEP Y03_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/3 visible
+SWEEP Y04_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP Y04_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP Y05_outside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=2/2 visible
+SWEEP Y05_inside geometryBlocker=none scoped=False visualTriangle=False colliderOnlyFalsePositive=False localReveal=False surface= roof=0/2 visible
+SWEEP buildings=68 samples=136 eligibleOccluded=29 missingReveal=0
+PASS transition=0 pose=W03_clear expectedReveal=False actualReveal=False roof=4/4 visible
+PASS transition=1 pose=W03_outside expectedReveal=True actualReveal=True roof=6/6 visible
+PASS transition=2 pose=W03_inside expectedReveal=False actualReveal=False roof=0/6 visible
+PASS transition=3 pose=W03_outside expectedReveal=True actualReveal=True roof=8/8 visible
+HALL 2F positive reveal at feet=(38.5000, 8.0400, 20.5000) actualVisibleSurface=Factory2Wall04 blocker=EastWingRoof__Collision tested=1
+BENCH W03_outside warmedRefreshCalls=100 updateMsPerCall=1.1802 allocatedBytesPerCall=0.0 (CPU update only; managed-thread allocations only; excludes rendering/native allocations) revealing=True activeRenderers=2
+BENCH W03_inside warmedRefreshCalls=100 updateMsPerCall=0.1126 allocatedBytesPerCall=0.0 (CPU update only; managed-thread allocations only; excludes rendering/native allocations) revealing=False activeRenderers=0
+PASS B exit: A inactive, look zero, ambient/fog/sun restored; active=False weight=0 fog=True
+PASS B exit reveal cleanup: activeRenderers=0 originalMaterialReferenceMismatches=0 checkedRenderers=13525
+failures=0
+RESULT PASS

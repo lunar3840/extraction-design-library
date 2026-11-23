@@ -1,0 +1,36 @@
+PASS legacy removed nodes refunded, retained ranks and high point balance preserved
+PASS migration is idempotent after JSON round trip
+PASS invalid legacy ranks rejected before refund
+PASS failed research save rolls back money, both inventories and rank
+PASS independent research consumes storage first with exact price
+PASS protected research material never consumed
+PASS training material fixture 0 trade_c_026
+PASS training material fixture 0 trade_c_005
+PASS training material fixture 1 trade_c_026
+PASS training material fixture 1 trade_b_012
+PASS training material fixture 1 trade_b_013
+PASS training material fixture 1 trade_m_001
+PASS training material fixture 2 trade_b_016
+PASS training material fixture 2 trade_b_017
+PASS training material fixture 2 trade_m_002
+PASS training material fixture 2 trade_m_003
+PASS training material fixture 2 trade_a_006
+PASS training material fixture 2 trade_m_004
+PASS advanced choice locked before training
+PASS training save failure preserves materials, money and rank
+PASS first training opens exactly first pair
+PASS three training ranks cap with twelve stage-specific material units
+PASS character training and choices independent
+PASS choice save failure keeps old choice
+PASS UI cannot mutate persistent choices through returned data
+PASS research target allows current projects only
+PASS target and individual choices survive save/load
+PASS research fixture departure
+PASS all growth mutations prohibited during sortie
+PASS death preserves common and character growth
+PASS waiting cannot farm ultimate charge
+PASS ultimate capped, consumes exactly once, blocked attempt free
+PASS active ultimate cannot be retriggered
+PASS tactical cooldown prevents repeat use
+PASS timed effects expire and tactical becomes available
+PASS invalid numeric input cannot corrupt resources

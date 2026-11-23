@@ -1,0 +1,97 @@
+{
+  "source_sha256": "61c3c29985a19116f0f7b1f4e08be58a2b7293ceccb6546ff345eaf95dd31519",
+  "source_sha256_after": "61c3c29985a19116f0f7b1f4e08be58a2b7293ceccb6546ff345eaf95dd31519",
+  "comparisons": [
+    {
+      "a": "Idle_1",
+      "b": "Idle_121",
+      "body_max_delta_native_mm": 0.0,
+      "body_p95_delta_native_mm": 0.0,
+      "face_skin_max_delta_native_mm": 0.0,
+      "maximum_bone_principal_angle_deg": 0.0,
+      "maximum_angle_bone": "Root",
+      "gun_mag_max_corresponding_vertex_delta_mm": 0.0
+    },
+    {
+      "a": "Aim_1",
+      "b": "Aim_121",
+      "body_max_delta_native_mm": 0.0,
+      "body_p95_delta_native_mm": 0.0,
+      "face_skin_max_delta_native_mm": 0.0,
+      "maximum_bone_principal_angle_deg": 0.0,
+      "maximum_angle_bone": "Root",
+      "gun_mag_max_corresponding_vertex_delta_mm": 0.0
+    },
+    {
+      "a": "Fire_1",
+      "b": "Fire_31",
+      "body_max_delta_native_mm": 0.0,
+      "body_p95_delta_native_mm": 0.0,
+      "face_skin_max_delta_native_mm": 0.0,
+      "maximum_bone_principal_angle_deg": 0.0,
+      "maximum_angle_bone": "Root",
+      "gun_mag_max_corresponding_vertex_delta_mm": 0.0
+    },
+    {
+      "a": "Walk_1",
+      "b": "Walk_33",
+      "body_max_delta_native_mm": 0.0,
+      "body_p95_delta_native_mm": 0.0,
+      "face_skin_max_delta_native_mm": 0.0,
+      "maximum_bone_principal_angle_deg": 0.0,
+      "maximum_angle_bone": "Root",
+      "gun_mag_max_corresponding_vertex_delta_mm": 0.0
+    },
+    {
+      "a": "Run_1",
+      "b": "Run_23",
+      "body_max_delta_native_mm": 0.0,
+      "body_p95_delta_native_mm": 0.0,
+      "face_skin_max_delta_native_mm": 0.0,
+      "maximum_bone_principal_angle_deg": 0.0,
+      "maximum_angle_bone": "Root",
+      "gun_mag_max_corresponding_vertex_delta_mm": 0.0
+    },
+    {
+      "a": "Idle_1",
+      "b": "Reload_1",
+      "body_max_delta_native_mm": 0.0005383011884987354,
+      "body_p95_delta_native_mm": 0.00021696418116334826,
+      "face_skin_max_delta_native_mm": 0.0,
+      "maximum_bone_principal_angle_deg": 0.0,
+      "maximum_angle_bone": "Root",
+      "gun_mag_max_corresponding_vertex_delta_mm": 3.332001142553054e-05
+    },
+    {
+      "a": "Idle_1",
+      "b": "Reload_271",
+      "body_max_delta_native_mm": 0.000527256925124675,
+      "body_p95_delta_native_mm": 0.00021696418116334826,
+      "face_skin_max_delta_native_mm": 0.0,
+      "maximum_bone_principal_angle_deg": 135.09649883042792,
+      "maximum_angle_bone": "EF_Load",
+      "gun_mag_max_corresponding_vertex_delta_mm": 0.00012644054368138313
+    },
+    {
+      "a": "Aim_1",
+      "b": "Fire_1",
+      "body_max_delta_native_mm": 0.0003990062396042049,
+      "body_p95_delta_native_mm": 0.000176941481186077,
+      "face_skin_max_delta_native_mm": 5.9604644775390625e-05,
+      "maximum_bone_principal_angle_deg": 0.03956468205889273,
+      "maximum_angle_bone": "Index1.L",
+      "gun_mag_max_corresponding_vertex_delta_mm": 0.0
+    },
+    {
+      "a": "Aim_1",
+      "b": "Fire_31",
+      "body_max_delta_native_mm": 0.0003990062396042049,
+      "body_p95_delta_native_mm": 0.000176941481186077,
+      "face_skin_max_delta_native_mm": 5.9604644775390625e-05,
+      "maximum_bone_principal_angle_deg": 0.03956468205889273,
+      "maximum_angle_bone": "Index1.L",
+      "gun_mag_max_corresponding_vertex_delta_mm": 0.0
+    }
+  ],
+  "scope": "Saved endpoints only; runtime state transitions/blend durations are not tested. Reload spare1->0 is intentionally nonlooping. Per-bone float quaternion precision can yield small numerical residuals."
+}

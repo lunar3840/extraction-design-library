@@ -1,0 +1,60 @@
+[
+  {
+    "thread": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+    "title": "블렌더 애니메이션 비교",
+    "name": "image(20261020-152639).png",
+    "sourcePath": "C:\\Users\\ehoji\\AppData\\Local\\Temp\\codex-file-preview-DjNv77\\image(20261020-152639).png",
+    "exists": true,
+    "role": "user_reference",
+    "file": "sources/6ad518f3-eb50-83ee-8fbe-503d87819c4d/reference_image(20261020-152639).png",
+    "sha256": "8ba04e99abca9ce19d1512c8519267e2dc7afce14f2cfe52628d91ccb46ba3f6"
+  },
+  {
+    "thread": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+    "title": "블렌더 애니메이션 비교",
+    "name": "image(20261020-131935).png",
+    "sourcePath": "C:\\Users\\ehoji\\AppData\\Local\\Temp\\codex-file-preview-AUrk9s\\image(20261020-131935).png",
+    "exists": true,
+    "role": "user_reference",
+    "file": "sources/6ad518f3-eb50-83ee-8fbe-503d87819c4d/reference_image(20261020-131935).png",
+    "sha256": "e016229a58c2b239ff4d9cd8f7602d921c6aa7e4918457425a161648a3a3dafe"
+  },
+  {
+    "thread": "6ad19e97-fff8-83ee-a88e-b2ce41f587df",
+    "title": "히로인 컨셉 리스트(2)",
+    "name": "CADAC97B-0E90-4D22-AD03-0C0919924CC9.jpeg",
+    "sourcePath": "C:\\Users\\ehoji\\AppData\\Local\\Temp\\codex-file-preview-HIvklo\\CADAC97B-0E90-4D22-AD03-0C0919924CC9.jpeg",
+    "exists": true,
+    "role": "user_reference",
+    "file": "sources/6ad19e97-fff8-83ee-a88e-b2ce41f587df/reference_CADAC97B-0E90-4D22-AD03-0C0919924CC9.jpeg",
+    "sha256": "13342833d42b74b5821919e5f583a5ca37b9f0ad30a0d260d0265bcf3f17b3e3"
+  },
+  {
+    "thread": "6ad822ac-0b28-83ee-92f6-de3cfe7e06da",
+    "title": "리브 모델 작업 완료",
+    "name": "image(20261022-094936).png",
+    "sourcePath": "C:\\Users\\ehoji\\AppData\\Local\\Temp\\codex-file-preview-h6Hsij\\image(20261022-094936).png",
+    "exists": true,
+    "role": "user_reference",
+    "file": "sources/6ad822ac-0b28-83ee-92f6-de3cfe7e06da/reference_image(20261022-094936).png",
+    "sha256": "7f7294f2940f02089a57d1e468db5b573248b4f113063058b4e6f20b6bd520bf"
+  },
+  {
+    "thread": "6ad822ac-0b28-83ee-92f6-de3cfe7e06da",
+    "title": "리브 모델 작업 완료",
+    "name": "image(20261022-094915).png",
+    "sourcePath": "C:\\Users\\ehoji\\AppData\\Local\\Temp\\codex-file-preview-pPUNyr\\image(20261022-094915).png",
+    "exists": true,
+    "role": "user_reference",
+    "file": "sources/6ad822ac-0b28-83ee-92f6-de3cfe7e06da/reference_image(20261022-094915).png",
+    "sha256": "e117d3c107c8388f26e4d7beb73f38fe7715dea7b79bca56517a785c88aac53b"
+  },
+  {
+    "thread": "6ae3a330-8400-83ee-966a-3947d7c326dc",
+    "title": "3D 장비 제작 plan",
+    "name": "Edel_Serin_Equipment_Art_Handoff_2026-10-30(1).zip",
+    "sourcePath": "C:\\Users\\ehoji\\AppData\\Local\\Temp\\codex-file-preview-4lN6oU\\Edel_Serin_Equipment_Art_Handoff_2026-10-30(1).zip",
+    "exists": true,
+    "role": "private_local_attachment_not_uploaded"
+  }
+]

@@ -1,0 +1,6 @@
+STARTED 2026-10-29T17:42:31.8199109+09:00
+playing=False
+Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity dirty=True
+FAILED
+System.ArgumentException: audit
+  at Escape.EditorTools.Ivy.SurfaceIvyDemoWorkflow.Poll () [0x002c0] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\SurfaceIvyDemoWorkflow.cs:64 

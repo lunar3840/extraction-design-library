@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "total": 120,
+  "passed": 120,
+  "decimal": 18,
+  "worker": 29,
+  "transfer": 28,
+  "bridge": 20,
+  "local": 25,
+  "semanticGuidePassed": true,
+  "independentOracle": true,
+  "allSourceHashesUnchangedDuringAudit": true,
+  "realUnitySourceWrites": 0,
+  "fixtureOnlyApplyTests": true
+}

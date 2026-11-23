@@ -1,0 +1,16 @@
+[
+  {
+    "surface": "lobby",
+    "click": "Manual Joy",
+    "dragYaw": 292.2916259765625,
+    "dragReaction": "None",
+    "cameraUnchanged": true
+  },
+  {
+    "surface": "inventory",
+    "click": "Manual Joy",
+    "dragYaw": 311.25,
+    "dragReaction": "None",
+    "cameraUnchanged": true
+  }
+]

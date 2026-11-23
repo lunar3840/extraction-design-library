@@ -1,0 +1,134 @@
+{
+  "utc": "2026-11-03T21:52:28.752414+00:00",
+  "preservedOriginal": {
+    "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\character-sync-20261102\\EDEL_ShoulderConnection_r18.blend",
+    "sha256": "73fa5c397c9004cb788717df6cac7caf3bd58f105780b63fa3bdf85ac8a49908"
+  },
+  "files": [
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\OriginalMotionDataset.cs",
+      "bytes": 10318,
+      "sha256": "9a3f579aea7a6588a8406caaab23149ff4b7257ef78641904a7373d383ea7bfc"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\OriginalDqSkin.cs",
+      "bytes": 9417,
+      "sha256": "8356a64e62c736f0051f4bcf7bb453a492ee27c53fcd3c8ae94297c84b91f0e9"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\EdelOriginalMotion.cs",
+      "bytes": 13908,
+      "sha256": "deecd4ceb21c90a5423ac2cade501335627c600150632654fb1c831f604d62fe"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\SdCharacterVisual.cs",
+      "bytes": 15320,
+      "sha256": "700b9f955d18353948818a17d61f7953bef7dc1028f495ee2995f7b1ce660ee5"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\SdWeaponPose.cs",
+      "bytes": 113281,
+      "sha256": "10629afad08d0cce62fbf2e8a79ff1f0b90cb8489021b9c8e481bfd6a6bcb236"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\SdIdlePresentation.cs",
+      "bytes": 19590,
+      "sha256": "ec809313c951ddea5d60fe8669cc2a08f26b17beba089693e37fd3364473b8c1"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\UI\\InventoryPortrait.cs",
+      "bytes": 47309,
+      "sha256": "452691d4fa7297ff472b9353620888518ba1424650c0a138c25d3aa18134f98f"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\ProMotion\\Edel\\HybridToonOriginalDq.shader",
+      "bytes": 23826,
+      "sha256": "f245a1ded8653d4e792d808e7edc2e3589b34b2465ebae86b189d6eb8cc4112f"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\ProMotion\\Edel\\HybridToonOriginalDq.shader.meta",
+      "bytes": 204,
+      "sha256": "010146cda9e2f47d2813ad40c0f0914ad7f09acf6b4a4d6fa2d0e5b36bb58108"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\ProMotion\\Edel\\OriginalDq.hlsl",
+      "bytes": 1690,
+      "sha256": "b8618f78315eb2607b0ec856bb6b562d4413776bb89adca25e868b3b62a634fd"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\ProMotion\\Edel\\OriginalDq.hlsl.meta",
+      "bytes": 161,
+      "sha256": "a869b565ef241f6ca3bd952b448d5c2f9b391c30f4e7d2b4d6fade28d9559eb3"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\ProMotion\\Edel\\OriginalDqRender.hlsl",
+      "bytes": 607,
+      "sha256": "a1e2b0e67021f777668a9c8b800fa14424f929233528ba0bcb8969d71b12fda1"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\ProMotion\\Edel\\OriginalDqRender.hlsl.meta",
+      "bytes": 161,
+      "sha256": "5d86afe7140fa84f80a20ea7b51fea6713409a0c52ca50575a21bde8658de694"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\ProMotion\\Edel\\OriginalDqVerify.compute",
+      "bytes": 268,
+      "sha256": "72e54070ac7014e00524bc20f6654511d1634734e9210f0a24fbdfa9b7965a43"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\ProMotion\\Edel\\OriginalDqVerify.compute.meta",
+      "bytes": 161,
+      "sha256": "7e8975c8c79fdfec0d050074b3ea8d4d4497878e1a00e3ebe2217b80de7b24da"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\ProMotion\\Edel\\OriginalMotionFrames.bytes",
+      "bytes": 36550340,
+      "sha256": "04c9b219ae36662ece6b42f6e8cd075914b87172fadbe4cb1a1f28e464ae7c1e"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\ProMotion\\Edel\\OriginalMotionFrames.bytes.meta",
+      "bytes": 158,
+      "sha256": "aecefa320a99173ed39194e31aa63cf1e67c9f8bad7e2580db9a30bab1782807"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\ProMotion\\Edel\\OriginalMotionSamples.json",
+      "bytes": 60988,
+      "sha256": "5f806f60492a8c8a1a68f1c29a24da4fde0dce583014f822fb67301b41c1bb89"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\ProMotion\\Edel\\OriginalMotionSamples.json.meta",
+      "bytes": 158,
+      "sha256": "b7d20591edf6e535706020f32bd12717a8020ad81a99202156c207a17a334813"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\ProMotion\\Edel\\Player_Edel.prefab",
+      "bytes": 112260,
+      "sha256": "3e505d3eee80890489895094cac7bea7a74fca46c4c5307bb581767392eb38ae"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\ProMotion\\Edel\\Player_Edel.prefab.meta",
+      "bytes": 154,
+      "sha256": "a654c40784bdbb38c26a7173a6c0514c7aa76f0dc5e81fefa0fcb9ae627903c4"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\ProMotion\\Edel\\SourceDeformOrder.bytes",
+      "bytes": 447328,
+      "sha256": "9fcb13a7eb629593e56cb54980671297ff85ca0c6256cb716ee7315fed1ac62a"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\ProMotion\\Edel\\SourceDeformOrder.bytes.meta",
+      "bytes": 158,
+      "sha256": "25e2f831fe2c181b2998550495da79c7b6802e2958ba9b22cbe10d84c35a2481"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ProAuthoredMotion\\EdelSourceBodyNative.asset",
+      "bytes": 14964925,
+      "sha256": "2321129e9562ab88da101116062d20cafa010197f24fdd108dab641195c785d0"
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ProAuthoredMotion\\EdelSourceBodyNative.asset.meta",
+      "bytes": 182,
+      "sha256": "c931200874caecf1d6461cdf39f09a3fa38e29a55d4002fb9f739c009a5342e8"
+    }
+  ]
+}

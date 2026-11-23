@@ -1,0 +1,19 @@
+A_MAP_LARGE_IVY_EXTERIOR_PROBES
+V13_HallRoot[8]/Exterior[4]/Facade[1]/BlenderExpansion_HALL_Shell[61]/HALL_Shell[0]/HALL_Shell_renderOpaque[0]
+meshes=2; 376 source triangles, 143 paths, 488 stem segments, 698 leaves, 344 excluded samples. 668 hidden facade samples, 0 roof rim roots, 100/100 planned patch roots across 3 active patches. 
+probeGroups=1; probeLeaves=698; newlyCreatedMeshes=2; newlyCreatedMaterials=2
+V13_HallRoot[8]/Roof[3]/TallCentralRoof[1]/BlenderExpansion_HALL_Roof[25]/HALL_Roof[0]/HALL_Roof_renderOpaque[0]
+meshes=2; 4275 source triangles, 236 paths, 6728 stem segments, 9647 leaves, 0 excluded samples. 0 hidden facade samples, 111 roof rim roots, 92/92 planned patch roots across 12 active patches. Skipped: HALL_Roof_renderOpaque: transparent/glass submesh
+probeGroups=1; probeLeaves=9647; newlyCreatedMeshes=2; newlyCreatedMaterials=0
+EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/S06[48]/BlenderExpansion_S06_Shell[13]/S06_Shell[0]/S06_Shell_renderOpaque[1]
+meshes=2; 21654 source triangles, 99 paths, 623 stem segments, 819 leaves, 359 excluded samples. 664 hidden facade samples, 0 roof rim roots, 53/53 planned patch roots across 6 active patches. Skipped: S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh
+probeGroups=1; probeLeaves=819; newlyCreatedMeshes=2; newlyCreatedMaterials=0
+EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/S06[48]/Visual[0]/Generated[0]/Override_ENV11_BUILDING_SWR_06[2]/RoofCutaway[1]/BlenderExpansion_S06_Roof[4]/S06_Roof[0]/S06_Roof_renderOpaque[0]
+meshes=2; 11832 source triangles, 128 paths, 1108 stem segments, 1672 leaves, 0 excluded samples. 0 hidden facade samples, 52 roof rim roots, 43/43 planned patch roots across 3 active patches. 
+probeGroups=1; probeLeaves=1672; newlyCreatedMeshes=2; newlyCreatedMaterials=0
+02_Visual_Replaceable[2]/CLINIC__Visual[54]/BlenderExpansion_CLINIC_Shell[8]/CLINIC_Shell[0]/CLINIC_Shell_renderOpaque[1]
+meshes=2; 29392 source triangles, 152 paths, 832 stem segments, 1106 leaves, 870 excluded samples. 404 hidden facade samples, 0 roof rim roots, 73/73 planned patch roots across 8 active patches. Skipped: CLINIC_Shell_renderOpaque: transparent/glass submesh
+probeGroups=1; probeLeaves=1106; newlyCreatedMeshes=2; newlyCreatedMaterials=0
+02_Visual_Replaceable[2]/RoofVisualRoot_CutawayCapable[0]/ROOF_CLINIC__Visual[0]/Generated[0]/Override_ROOF_CLINIC[0]/RoofCutaway[0]/BlenderExpansion_CLINIC_Roof[4]/CLINIC_Roof[0]/CLINIC_Roof_renderOpaque[0]
+meshes=2; 3308 source triangles, 177 paths, 3409 stem segments, 4966 leaves, 0 excluded samples. 0 hidden facade samples, 65 roof rim roots, 63/63 planned patch roots across 8 active patches. Skipped: CLINIC_Roof_renderOpaque: transparent/glass submesh
+probeGroups=1; probeLeaves=4966; newlyCreatedMeshes=2; newlyCreatedMaterials=0

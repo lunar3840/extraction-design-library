@@ -1,0 +1,22 @@
+[
+  {
+    "Path": "Assets/Escape/Runtime/Mapping/TacticalMapView.cs",
+    "SHA256": "C381B46C4BBB71F33A43C9C34B8D2F87616A7BAA84CA9CD2816DCC6971A61221"
+  },
+  {
+    "Path": "Assets/Escape/Runtime/Mapping/TacticalMapData.cs",
+    "SHA256": "87F5044482D147378D65CCF3322BD96BC0EA8A14ED202429210E79A18FE66BCE"
+  },
+  {
+    "Path": "Assets/Escape/Runtime/Stage/SessionGlassView.cs",
+    "SHA256": "F839B214DF16B41D7C115A510BF999BBC103ED5A6AA426B01CD81B7CE61BBAA8"
+  },
+  {
+    "Path": "Assets/Escape/Editor/TacticalMapChecks.cs",
+    "SHA256": "E0C664580311562768AEDAE2DFE7CBA4A66C0C185DE8A4F9CCD557B3D0369A19"
+  },
+  {
+    "Path": "Assets/Escape/Editor/TacticalMapEvidence.cs",
+    "SHA256": "C3AFE6F4732A0F1345C7E50A815E3AFDF4A0BB9D17B751304EB463D03342662B"
+  }
+]

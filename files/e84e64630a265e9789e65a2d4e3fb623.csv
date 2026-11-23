@@ -1,0 +1,48 @@
+﻿kind,id,group_or_purpose,index,map_x,map_y,width_m,yaw_deg,max_width_m,max_depth_m,prefab
+route,P0_Approach,WS to south gate along W05 exterior,0,107.000,220.000,3.60,,,,
+route,P0_Approach,WS to south gate along W05 exterior,1,119.000,220.000,3.60,,,,
+route,P0_Approach,WS to south gate along W05 exterior,2,135.000,221.000,3.60,,,,
+route,P0_Approach,WS to south gate along W05 exterior,3,144.000,222.000,3.60,,,,
+route,P0_Approach,WS to south gate along W05 exterior,4,155.500,216.000,3.60,,,,
+route,P0_Approach,WS to south gate along W05 exterior,5,155.500,209.000,3.60,,,,
+route,B2_Bypass,A to C around W04 south without entering B1,0,155.500,209.000,3.60,,,,
+route,B2_Bypass,A to C around W04 south without entering B1,1,164.000,204.000,3.60,,,,
+route,B2_Bypass,A to C around W04 south without entering B1,2,164.000,188.000,3.60,,,,
+route,B2_Bypass,A to C around W04 south without entering B1,3,155.000,185.000,3.60,,,,
+route,B2_Bypass,A to C around W04 south without entering B1,4,144.000,183.000,3.60,,,,
+route,B2_Bypass,A to C around W04 south without entering B1,5,143.000,176.000,3.60,,,,
+route,B2_Bypass,A to C around W04 south without entering B1,6,142.000,157.000,3.60,,,,
+route,B2_Bypass,A to C around W04 south without entering B1,7,142.000,150.000,3.60,,,,
+route,B1_Workface,Optional W05 east repair walk reconnecting to B2,0,155.500,209.000,2.80,,,,
+route,B1_Workface,Optional W05 east repair walk reconnecting to B2,1,148.000,205.000,2.80,,,,
+route,B1_Workface,Optional W05 east repair walk reconnecting to B2,2,145.500,202.000,2.80,,,,
+route,B1_Workface,Optional W05 east repair walk reconnecting to B2,3,145.500,194.000,2.80,,,,
+route,B1_Workface,Optional W05 east repair walk reconnecting to B2,4,145.500,186.000,2.80,,,,
+route,B1_Workface,Optional W05 east repair walk reconnecting to B2,5,144.000,183.000,2.80,,,,
+route,C_Service,Side gate to service workface and tool point,0,143.000,174.000,2.80,,,,
+route,C_Service,Side gate to service workface and tool point,1,133.000,172.000,2.80,,,,
+route,C_Service,Side gate to service workface and tool point,2,124.000,173.000,2.80,,,,
+item,A_ReceivingCar,A_Receiving,0,166.500,208.000,,90.00,5.30,3.00,StageA_v12_RustyVehicle_Car.prefab
+item,A_InboundCrates,A_Receiving,0,168.000,200.000,,90.00,2.60,2.10,MAV16_WeatheredMilitaryCrates.prefab
+item,A_OilDrums,A_Receiving,0,168.000,195.500,,0.00,2.20,2.00,MAV16_RustyOilBarrels.prefab
+item,B1_IndustrialEngine,B1_Repair,0,149.500,193.500,,-12.00,3.10,2.80,MAV16_IndustrialEngine.prefab
+item,B1_WaitingPipes,B1_Repair,0,152.000,199.000,,84.00,3.50,2.10,MAV16_IndustrialPipeBundle.prefab
+item,B1_ToolCart,B1_Repair,0,153.000,188.500,,6.00,1.50,1.50,MAV16_ToolCart.prefab
+item,B1_RepairPump,B1_WorkCell,0,155.000,194.000,,90.00,3.80,3.30,MAV16_IndustrialPump.prefab
+item,B1_PipeRack,B1_WorkCell,0,158.500,199.000,,0.00,3.20,2.20,MAV16_IndustrialPipeRack.prefab
+item,B1_CableReel,B1_WorkCell,0,159.000,190.000,,23.00,2.20,2.20,MAV16_IndustrialCableReel.prefab
+item,B1_SpareFlywheel,B1_WorkCell,0,156.500,202.000,,-17.00,2.00,2.00,MAV16_IndustrialFlywheel.prefab
+item,C_ServiceGenerator,C_Service,0,129.500,176.800,,8.00,3.40,2.50,MAV16_WeatheredIndustrialGenerator.prefab
+item,C_ToolPoint,C_Service,0,121.500,174.000,,-20.00,1.50,1.50,MAV16_ToolCart.prefab
+item,C_SpareCouplings,C_Service,0,114.500,175.000,,25.00,2.10,1.80,MAV16_IndustrialPipeCoupling.prefab
+anchor,P0,ValidationAnchors,0,107.000,220.000,,,,,
+anchor,G1,ValidationAnchors,0,155.500,216.000,,,,,
+anchor,A,ValidationAnchors,0,155.500,209.000,,,,,
+anchor,B1,ValidationAnchors,0,145.500,194.000,,,,,
+anchor,B2_SOUTH,ValidationAnchors,0,164.000,204.000,,,,,
+anchor,B2_EAST,ValidationAnchors,0,164.000,188.000,,,,,
+anchor,B2_WEST,ValidationAnchors,0,144.000,183.000,,,,,
+anchor,B2_NORTH,ValidationAnchors,0,143.000,176.000,,,,,
+anchor,C,ValidationAnchors,0,143.000,174.000,,,,,
+anchor,C_WORKFACE,ValidationAnchors,0,124.000,173.000,,,,,
+anchor,G2,ValidationAnchors,0,142.000,150.000,,,,,

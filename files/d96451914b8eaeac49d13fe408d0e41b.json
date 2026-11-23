@@ -1,0 +1,6606 @@
+{
+  "schema": "W10_ROUNDTRIP_VALIDATION_1",
+  "blenderVersion": "5.2.3 LTS",
+  "manifest": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\EXPORT_MANIFEST.json",
+  "manifestSHA256": "723c89237ab4cfbcebde0054e0dfe33345845892986c6c530e1fe030581e837c",
+  "fbxGeometryMirroredXForUnity": true,
+  "fbx": [
+    {
+      "fbx": "W10_Shell.fbx",
+      "expectedObjects": 52,
+      "actualObjects": 52,
+      "objects": [
+        {
+          "name": "W10_Back_BrickHeader",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_BrickRed"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.09822,
+              3.828617,
+              -7.41716
+            ],
+            "max": [
+              11.09822,
+              3.998617,
+              -7.19716
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.09822,
+              3.828617,
+              -7.41716
+            ],
+            "max": [
+              11.09822,
+              3.998617,
+              -7.19716
+            ]
+          }
+        },
+        {
+          "name": "W10_Back_PortalLintel",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -2.01,
+              3.089999,
+              -7.52216
+            ],
+            "max": [
+              2.01,
+              3.289999,
+              -7.09216
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -2.01,
+              3.089999,
+              -7.52216
+            ],
+            "max": [
+              2.01,
+              3.289999,
+              -7.09216
+            ]
+          }
+        },
+        {
+          "name": "W10_Back_PortalQuoin_-1",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              1.75,
+              -1e-06,
+              -7.50716
+            ],
+            "max": [
+              2.01,
+              3.059999,
+              -7.107159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -2.01,
+              -1e-06,
+              -7.50716
+            ],
+            "max": [
+              -1.75,
+              3.059999,
+              -7.107159
+            ]
+          }
+        },
+        {
+          "name": "W10_Back_PortalQuoin_1",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -2.01,
+              -1e-06,
+              -7.50716
+            ],
+            "max": [
+              -1.75,
+              3.059999,
+              -7.107159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              1.75,
+              -1e-06,
+              -7.50716
+            ],
+            "max": [
+              2.01,
+              3.059999,
+              -7.107159
+            ]
+          }
+        },
+        {
+          "name": "W10_Back_SteelHead",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -1.735,
+              3.059999,
+              -7.28216
+            ],
+            "max": [
+              1.735,
+              3.129999,
+              -7.09216
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -1.735,
+              3.059999,
+              -7.28216
+            ],
+            "max": [
+              1.735,
+              3.129999,
+              -7.09216
+            ]
+          }
+        },
+        {
+          "name": "W10_Back_SteelJamb_-1",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              1.71,
+              -1e-06,
+              -7.28216
+            ],
+            "max": [
+              1.78,
+              3.059999,
+              -7.092159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -1.78,
+              -1e-06,
+              -7.28216
+            ],
+            "max": [
+              -1.71,
+              3.059999,
+              -7.092159
+            ]
+          }
+        },
+        {
+          "name": "W10_Back_SteelJamb_1",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -1.78,
+              -1e-06,
+              -7.28216
+            ],
+            "max": [
+              -1.71,
+              3.059999,
+              -7.092159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              1.71,
+              -1e-06,
+              -7.28216
+            ],
+            "max": [
+              1.78,
+              3.059999,
+              -7.092159
+            ]
+          }
+        },
+        {
+          "name": "W10_Back_StonePlinthCap_0",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              2.03,
+              0.834999,
+              -7.437159
+            ],
+            "max": [
+              11.498219,
+              1.004999,
+              -7.177159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.498219,
+              0.834999,
+              -7.437159
+            ],
+            "max": [
+              -2.03,
+              1.004999,
+              -7.177159
+            ]
+          }
+        },
+        {
+          "name": "W10_Back_StonePlinthCap_1",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.498219,
+              0.834999,
+              -7.437159
+            ],
+            "max": [
+              -2.03,
+              1.004999,
+              -7.177159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              2.03,
+              0.834999,
+              -7.437159
+            ],
+            "max": [
+              11.498219,
+              1.004999,
+              -7.177159
+            ]
+          }
+        },
+        {
+          "name": "W10_Back_WindowDrip_+8",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -9.12,
+              2.019999,
+              -7.63216
+            ],
+            "max": [
+              -6.21,
+              2.119999,
+              -7.15216
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              6.21,
+              2.019999,
+              -7.63216
+            ],
+            "max": [
+              9.12,
+              2.119999,
+              -7.15216
+            ]
+          }
+        },
+        {
+          "name": "W10_Back_WindowDrip_-8",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              6.21,
+              2.019999,
+              -7.63216
+            ],
+            "max": [
+              9.12,
+              2.119999,
+              -7.15216
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -9.12,
+              2.019999,
+              -7.63216
+            ],
+            "max": [
+              -6.21,
+              2.119999,
+              -7.15216
+            ]
+          }
+        },
+        {
+          "name": "W10_Canopy_FrontFascia",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -8.55,
+              3.905002,
+              10.157158
+            ],
+            "max": [
+              8.55,
+              4.135002,
+              10.287158
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -8.55,
+              3.905002,
+              10.157158
+            ],
+            "max": [
+              8.55,
+              4.135002,
+              10.287158
+            ]
+          }
+        },
+        {
+          "name": "W10_Canopy_RakingStrut_+4.6",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -4.66,
+              3.166949,
+              7.460344
+            ],
+            "max": [
+              -4.54,
+              4.003054,
+              9.803973
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              4.54,
+              3.166949,
+              7.460344
+            ],
+            "max": [
+              4.66,
+              4.003054,
+              9.803973
+            ]
+          }
+        },
+        {
+          "name": "W10_Canopy_RakingStrut_+7.6",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -7.66,
+              3.166949,
+              7.460344
+            ],
+            "max": [
+              -7.54,
+              4.003054,
+              9.803973
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.54,
+              3.166949,
+              7.460344
+            ],
+            "max": [
+              7.66,
+              4.003054,
+              9.803973
+            ]
+          }
+        },
+        {
+          "name": "W10_Canopy_RakingStrut_-4.6",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              4.54,
+              3.166949,
+              7.460344
+            ],
+            "max": [
+              4.66,
+              4.003054,
+              9.803973
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -4.66,
+              3.166949,
+              7.460344
+            ],
+            "max": [
+              -4.54,
+              4.003054,
+              9.803973
+            ]
+          }
+        },
+        {
+          "name": "W10_Canopy_RakingStrut_-7.6",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              7.54,
+              3.166949,
+              7.460344
+            ],
+            "max": [
+              7.66,
+              4.003054,
+              9.803973
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -7.66,
+              3.166949,
+              7.460344
+            ],
+            "max": [
+              -7.54,
+              4.003054,
+              9.803973
+            ]
+          }
+        },
+        {
+          "name": "W10_CornerPierCap_+11.5_+7.0",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.988219,
+              4.428619,
+              6.512158
+            ],
+            "max": [
+              -11.00822,
+              4.57862,
+              7.492158
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              11.00822,
+              4.428619,
+              6.512158
+            ],
+            "max": [
+              11.988219,
+              4.57862,
+              7.492158
+            ]
+          }
+        },
+        {
+          "name": "W10_CornerPierCap_+11.5_-7.0",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.988219,
+              4.428617,
+              -7.49216
+            ],
+            "max": [
+              -11.00822,
+              4.578618,
+              -6.51216
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              11.00822,
+              4.428617,
+              -7.49216
+            ],
+            "max": [
+              11.988219,
+              4.578618,
+              -6.51216
+            ]
+          }
+        },
+        {
+          "name": "W10_CornerPierCap_-11.5_+7.0",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              11.00822,
+              4.428619,
+              6.512158
+            ],
+            "max": [
+              11.988219,
+              4.57862,
+              7.492158
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.988219,
+              4.428619,
+              6.512158
+            ],
+            "max": [
+              -11.00822,
+              4.57862,
+              7.492158
+            ]
+          }
+        },
+        {
+          "name": "W10_CornerPierCap_-11.5_-7.0",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              11.00822,
+              4.428617,
+              -7.49216
+            ],
+            "max": [
+              11.988219,
+              4.578618,
+              -6.51216
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.988219,
+              4.428617,
+              -7.49216
+            ],
+            "max": [
+              -11.00822,
+              4.578618,
+              -6.51216
+            ]
+          }
+        },
+        {
+          "name": "W10_Detail_LocalizedPlasterScarsAndRainRuns",
+          "vertices": 216,
+          "sourceTriangles": 120,
+          "fbxTriangles": 120,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.73822,
+              2.143619,
+              -6.542161
+            ],
+            "max": [
+              11.73822,
+              4.043621,
+              7.242159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.73822,
+              2.143619,
+              -6.542161
+            ],
+            "max": [
+              11.73822,
+              4.043621,
+              7.242159
+            ]
+          }
+        },
+        {
+          "name": "W10_Detail_Logistics_BrickStructuralPilasters",
+          "vertices": 672,
+          "sourceTriangles": 336,
+          "fbxTriangles": 336,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_BrickRed",
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -12.15822,
+              0.749999,
+              -7.662161
+            ],
+            "max": [
+              12.15822,
+              4.543622,
+              7.662159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -12.15822,
+              0.749999,
+              -7.662161
+            ],
+            "max": [
+              12.15822,
+              4.543622,
+              7.662159
+            ]
+          }
+        },
+        {
+          "name": "W10_Detail_Logistics_DeepSteelLoadingCanopy",
+          "vertices": 24,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_SheetPatina"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -8.73865,
+              3.930001,
+              7.00216
+            ],
+            "max": [
+              8.73864,
+              4.170002,
+              10.252159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -8.73864,
+              3.930001,
+              7.00216
+            ],
+            "max": [
+              8.73865,
+              4.170002,
+              10.252159
+            ]
+          }
+        },
+        {
+          "name": "W10_Detail_Logistics_DeepSteelLoadingCanopy_SupportedColumns",
+          "vertices": 144,
+          "sourceTriangles": 72,
+          "fbxTriangles": 72,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_IronDark",
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -8.70865,
+              2e-06,
+              7.13287
+            ],
+            "max": [
+              8.70864,
+              4.050002,
+              10.20216
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -8.70864,
+              2e-06,
+              7.13287
+            ],
+            "max": [
+              8.70865,
+              4.050002,
+              10.20216
+            ]
+          }
+        },
+        {
+          "name": "W10_Detail_Logistics_StoneLoadingArcade",
+          "vertices": 432,
+          "sourceTriangles": 216,
+          "fbxTriangles": 216,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.97822,
+              -1e-06,
+              -7.88716
+            ],
+            "max": [
+              11.97822,
+              4.330001,
+              7.88716
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.97822,
+              -1e-06,
+              -7.88716
+            ],
+            "max": [
+              11.97822,
+              4.330001,
+              7.88716
+            ]
+          }
+        },
+        {
+          "name": "W10_Entrance_OpenFrame_B_01",
+          "vertices": 144,
+          "sourceTriangles": 72,
+          "fbxTriangles": 72,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_ConcreteLight"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -1.93001,
+              -0.322201,
+              -7.232161
+            ],
+            "max": [
+              1.92999,
+              3.077799,
+              -6.69216
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -1.92999,
+              -0.322201,
+              -7.232161
+            ],
+            "max": [
+              1.93001,
+              3.077799,
+              -6.69216
+            ]
+          }
+        },
+        {
+          "name": "W10_Entrance_OpenFrame_F_00",
+          "vertices": 144,
+          "sourceTriangles": 72,
+          "fbxTriangles": 72,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_ConcreteLight"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -1.93001,
+              -0.213959,
+              6.69216
+            ],
+            "max": [
+              1.92999,
+              3.186041,
+              7.23216
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -1.92999,
+              -0.213959,
+              6.69216
+            ],
+            "max": [
+              1.93001,
+              3.186041,
+              7.23216
+            ]
+          }
+        },
+        {
+          "name": "W10_Front_BrickHeader",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_BrickRed"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.09822,
+              3.82862,
+              7.197159
+            ],
+            "max": [
+              11.09822,
+              3.99862,
+              7.417159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.09822,
+              3.82862,
+              7.197159
+            ],
+            "max": [
+              11.09822,
+              3.99862,
+              7.417159
+            ]
+          }
+        },
+        {
+          "name": "W10_Front_PortalLintel",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -2.01,
+              3.090001,
+              7.092159
+            ],
+            "max": [
+              2.01,
+              3.290001,
+              7.522159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -2.01,
+              3.090001,
+              7.092159
+            ],
+            "max": [
+              2.01,
+              3.290001,
+              7.522159
+            ]
+          }
+        },
+        {
+          "name": "W10_Front_PortalQuoin_-1",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              1.75,
+              1e-06,
+              7.107159
+            ],
+            "max": [
+              2.01,
+              3.060001,
+              7.507159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -2.01,
+              1e-06,
+              7.107159
+            ],
+            "max": [
+              -1.75,
+              3.060001,
+              7.507159
+            ]
+          }
+        },
+        {
+          "name": "W10_Front_PortalQuoin_1",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -2.01,
+              1e-06,
+              7.107159
+            ],
+            "max": [
+              -1.75,
+              3.060001,
+              7.507159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              1.75,
+              1e-06,
+              7.107159
+            ],
+            "max": [
+              2.01,
+              3.060001,
+              7.507159
+            ]
+          }
+        },
+        {
+          "name": "W10_Front_SteelHead",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -1.735,
+              3.060001,
+              7.092159
+            ],
+            "max": [
+              1.735,
+              3.130001,
+              7.282159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -1.735,
+              3.060001,
+              7.092159
+            ],
+            "max": [
+              1.735,
+              3.130001,
+              7.282159
+            ]
+          }
+        },
+        {
+          "name": "W10_Front_SteelJamb_-1",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              1.71,
+              1e-06,
+              7.092159
+            ],
+            "max": [
+              1.78,
+              3.060001,
+              7.282159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -1.78,
+              1e-06,
+              7.092159
+            ],
+            "max": [
+              -1.71,
+              3.060001,
+              7.282159
+            ]
+          }
+        },
+        {
+          "name": "W10_Front_SteelJamb_1",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -1.78,
+              1e-06,
+              7.092159
+            ],
+            "max": [
+              -1.71,
+              3.060001,
+              7.282159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              1.71,
+              1e-06,
+              7.092159
+            ],
+            "max": [
+              1.78,
+              3.060001,
+              7.282159
+            ]
+          }
+        },
+        {
+          "name": "W10_Front_StonePlinthCap_0",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              2.03,
+              0.835001,
+              7.177159
+            ],
+            "max": [
+              11.498219,
+              1.005001,
+              7.437159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.498219,
+              0.835001,
+              7.177159
+            ],
+            "max": [
+              -2.03,
+              1.005001,
+              7.437159
+            ]
+          }
+        },
+        {
+          "name": "W10_Front_StonePlinthCap_1",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.498219,
+              0.835001,
+              7.177159
+            ],
+            "max": [
+              -2.03,
+              1.005001,
+              7.437159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              2.03,
+              0.835001,
+              7.177159
+            ],
+            "max": [
+              11.498219,
+              1.005001,
+              7.437159
+            ]
+          }
+        },
+        {
+          "name": "W10_Front_WindowDrip_+8",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -9.12,
+              2.020001,
+              7.152159
+            ],
+            "max": [
+              -6.21,
+              2.120001,
+              7.632159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              6.21,
+              2.020001,
+              7.152159
+            ],
+            "max": [
+              9.12,
+              2.120001,
+              7.632159
+            ]
+          }
+        },
+        {
+          "name": "W10_Front_WindowDrip_-8",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              6.21,
+              2.020001,
+              7.152159
+            ],
+            "max": [
+              9.12,
+              2.120001,
+              7.632159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -9.12,
+              2.020001,
+              7.152159
+            ],
+            "max": [
+              -6.21,
+              2.120001,
+              7.632159
+            ]
+          }
+        },
+        {
+          "name": "W10_Shell_Logistics_B",
+          "vertices": 672,
+          "sourceTriangles": 336,
+          "fbxTriangles": 336,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_BrickRed",
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.49822,
+              -1e-06,
+              -7.277161
+            ],
+            "max": [
+              11.49822,
+              4.143619,
+              -6.72716
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.49822,
+              -1e-06,
+              -7.277161
+            ],
+            "max": [
+              11.49822,
+              4.143619,
+              -6.72716
+            ]
+          }
+        },
+        {
+          "name": "W10_Shell_Logistics_F",
+          "vertices": 672,
+          "sourceTriangles": 336,
+          "fbxTriangles": 336,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_BrickRed",
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.49822,
+              1e-06,
+              6.72716
+            ],
+            "max": [
+              11.49822,
+              4.143621,
+              7.27716
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.49822,
+              1e-06,
+              6.72716
+            ],
+            "max": [
+              11.49822,
+              4.143621,
+              7.27716
+            ]
+          }
+        },
+        {
+          "name": "W10_Shell_Logistics_InspectionOfficeProjection",
+          "vertices": 72,
+          "sourceTriangles": 36,
+          "fbxTriangles": 36,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_PlasterCream"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -13.19822,
+              -1e-06,
+              -5.306601
+            ],
+            "max": [
+              -11.49822,
+              3.1,
+              -1.41548
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              11.49822,
+              -1e-06,
+              -5.306601
+            ],
+            "max": [
+              13.19822,
+              3.1,
+              -1.41548
+            ]
+          }
+        },
+        {
+          "name": "W10_Shell_Logistics_L",
+          "vertices": 432,
+          "sourceTriangles": 216,
+          "fbxTriangles": 216,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_BrickRed",
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              11.22322,
+              -1e-06,
+              -7.002161
+            ],
+            "max": [
+              11.77322,
+              4.143621,
+              7.00216
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.77322,
+              -1e-06,
+              -7.002161
+            ],
+            "max": [
+              -11.22322,
+              4.143621,
+              7.00216
+            ]
+          }
+        },
+        {
+          "name": "W10_Shell_Logistics_R",
+          "vertices": 432,
+          "sourceTriangles": 216,
+          "fbxTriangles": 216,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_BrickRed",
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.77322,
+              -1e-06,
+              -7.002161
+            ],
+            "max": [
+              -11.22322,
+              4.143621,
+              7.00216
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              11.22322,
+              -1e-06,
+              -7.002161
+            ],
+            "max": [
+              11.77322,
+              4.143621,
+              7.00216
+            ]
+          }
+        },
+        {
+          "name": "W10_Window_ArchedSecurityWindow_Shell_Logistics_B_00",
+          "vertices": 815,
+          "sourceTriangles": 413,
+          "fbxTriangles": 413,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_BrickRed",
+            "D09_IronDark",
+            "D09_StoneBase",
+            "D09_GlassMuted"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              6.27548,
+              2.069999,
+              -7.342161
+            ],
+            "max": [
+              9.05548,
+              4.073619,
+              -6.58216
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -9.05548,
+              2.069999,
+              -7.342161
+            ],
+            "max": [
+              -6.27548,
+              4.073619,
+              -6.58216
+            ]
+          }
+        },
+        {
+          "name": "W10_Window_ArchedSecurityWindow_Shell_Logistics_B_01",
+          "vertices": 815,
+          "sourceTriangles": 413,
+          "fbxTriangles": 413,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_BrickRed",
+            "D09_IronDark",
+            "D09_StoneBase",
+            "D09_GlassMuted"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -9.05548,
+              2.069999,
+              -7.342161
+            ],
+            "max": [
+              -6.27548,
+              4.073619,
+              -6.58216
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              6.27548,
+              2.069999,
+              -7.342161
+            ],
+            "max": [
+              9.05548,
+              4.073619,
+              -6.58216
+            ]
+          }
+        },
+        {
+          "name": "W10_Window_ArchedSecurityWindow_Shell_Logistics_F_00",
+          "vertices": 815,
+          "sourceTriangles": 413,
+          "fbxTriangles": 413,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_BrickRed",
+            "D09_IronDark",
+            "D09_StoneBase",
+            "D09_GlassMuted"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              6.27548,
+              2.070001,
+              6.58216
+            ],
+            "max": [
+              9.05548,
+              4.073621,
+              7.34216
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -9.05548,
+              2.070001,
+              6.58216
+            ],
+            "max": [
+              -6.27548,
+              4.073621,
+              7.34216
+            ]
+          }
+        },
+        {
+          "name": "W10_Window_ArchedSecurityWindow_Shell_Logistics_F_01",
+          "vertices": 815,
+          "sourceTriangles": 413,
+          "fbxTriangles": 413,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_BrickRed",
+            "D09_IronDark",
+            "D09_StoneBase",
+            "D09_GlassMuted"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -9.05548,
+              2.070001,
+              6.58216
+            ],
+            "max": [
+              -6.27548,
+              4.073621,
+              7.34216
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              6.27548,
+              2.070001,
+              6.58216
+            ],
+            "max": [
+              9.05548,
+              4.073621,
+              7.34216
+            ]
+          }
+        },
+        {
+          "name": "W10_Window_ArchedSecurityWindow_Shell_Logistics_L_00",
+          "vertices": 815,
+          "sourceTriangles": 413,
+          "fbxTriangles": 413,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_BrickRed",
+            "D09_IronDark",
+            "D09_StoneBase",
+            "D09_GlassMuted"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              11.07822,
+              2.069999,
+              -4.89108
+            ],
+            "max": [
+              11.83822,
+              4.073619,
+              -2.11108
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.83822,
+              2.069999,
+              -4.89108
+            ],
+            "max": [
+              -11.07822,
+              4.073619,
+              -2.11108
+            ]
+          }
+        },
+        {
+          "name": "W10_Window_ArchedSecurityWindow_Shell_Logistics_L_01",
+          "vertices": 815,
+          "sourceTriangles": 413,
+          "fbxTriangles": 413,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_BrickRed",
+            "D09_IronDark",
+            "D09_StoneBase",
+            "D09_GlassMuted"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              11.07822,
+              2.07,
+              2.111079
+            ],
+            "max": [
+              11.83822,
+              4.07362,
+              4.891079
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.83822,
+              2.07,
+              2.111079
+            ],
+            "max": [
+              -11.07822,
+              4.07362,
+              4.891079
+            ]
+          }
+        },
+        {
+          "name": "W10_Window_ArchedSecurityWindow_Shell_Logistics_R_00",
+          "vertices": 815,
+          "sourceTriangles": 413,
+          "fbxTriangles": 413,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_BrickRed",
+            "D09_IronDark",
+            "D09_StoneBase",
+            "D09_GlassMuted"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.83822,
+              2.069999,
+              -4.89108
+            ],
+            "max": [
+              -11.07822,
+              4.073619,
+              -2.11108
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              11.07822,
+              2.069999,
+              -4.89108
+            ],
+            "max": [
+              11.83822,
+              4.073619,
+              -2.11108
+            ]
+          }
+        },
+        {
+          "name": "W10_Window_ArchedSecurityWindow_Shell_Logistics_R_01",
+          "vertices": 815,
+          "sourceTriangles": 413,
+          "fbxTriangles": 413,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_BrickRed",
+            "D09_IronDark",
+            "D09_StoneBase",
+            "D09_GlassMuted"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.83822,
+              2.07,
+              2.111079
+            ],
+            "max": [
+              -11.07822,
+              4.07362,
+              4.891079
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              11.07822,
+              2.07,
+              2.111079
+            ],
+            "max": [
+              11.83822,
+              4.07362,
+              4.891079
+            ]
+          }
+        },
+        {
+          "name": "W10_Window_Logistics_InspectionBay",
+          "vertices": 312,
+          "sourceTriangles": 156,
+          "fbxTriangles": 156,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_ConcreteLight",
+            "D09_IronDark",
+            "D09_GlassMuted"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -13.44822,
+              1.049999,
+              -4.858251
+            ],
+            "max": [
+              -12.90822,
+              2.75,
+              -1.86382
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              12.90822,
+              1.049999,
+              -4.858251
+            ],
+            "max": [
+              13.44822,
+              2.75,
+              -1.86382
+            ]
+          }
+        }
+      ],
+      "problems": []
+    },
+    {
+      "fbx": "W10_Roof.fbx",
+      "expectedObjects": 39,
+      "actualObjects": 39,
+      "objects": [
+        {
+          "name": "W10_Detail_LocalizedRoofRepairPlates",
+          "vertices": 360,
+          "sourceTriangles": 180,
+          "fbxTriangles": 180,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_SheetPatina",
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -12.67172,
+              3.379999,
+              -3.84392
+            ],
+            "max": [
+              9.86166,
+              6.52771,
+              1.127499
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -9.86166,
+              3.379999,
+              -3.84392
+            ],
+            "max": [
+              12.67172,
+              6.52771,
+              1.127499
+            ]
+          }
+        },
+        {
+          "name": "W10_Detail_Logistics_SteppedGable_0",
+          "vertices": 768,
+          "sourceTriangles": 384,
+          "fbxTriangles": 384,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_BrickRed",
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              0.77482,
+              4.193619,
+              -7.617161
+            ],
+            "max": [
+              11.87322,
+              6.959811,
+              7.617159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.87322,
+              4.193619,
+              -7.617161
+            ],
+            "max": [
+              -0.77482,
+              6.959811,
+              7.617159
+            ]
+          }
+        },
+        {
+          "name": "W10_Detail_Logistics_SteppedGable_1",
+          "vertices": 768,
+          "sourceTriangles": 384,
+          "fbxTriangles": 384,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_BrickRed",
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.87322,
+              4.943619,
+              -7.617161
+            ],
+            "max": [
+              1.52482,
+              8.146751,
+              7.617159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -1.52482,
+              4.943619,
+              -7.617161
+            ],
+            "max": [
+              11.87322,
+              8.146751,
+              7.617159
+            ]
+          }
+        },
+        {
+          "name": "W10_Detail_Roof_Logistics_UnequalGable_0_RafterRidge",
+          "vertices": 552,
+          "sourceTriangles": 276,
+          "fbxTriangles": 276,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_SlateRoof",
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              0.67342,
+              4.048099,
+              -7.452161
+            ],
+            "max": [
+              11.97462,
+              6.389812,
+              7.452159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.97462,
+              4.048099,
+              -7.452161
+            ],
+            "max": [
+              -0.67342,
+              6.389812,
+              7.452159
+            ]
+          }
+        },
+        {
+          "name": "W10_Detail_Roof_Logistics_UnequalGable_1_RafterRidge",
+          "vertices": 552,
+          "sourceTriangles": 276,
+          "fbxTriangles": 276,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_SlateRoof",
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.97497,
+              4.798219,
+              -7.452161
+            ],
+            "max": [
+              1.62657,
+              7.576751,
+              7.452158
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -1.62657,
+              4.798219,
+              -7.452161
+            ],
+            "max": [
+              11.97497,
+              7.576751,
+              7.452158
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_Ceiling",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_PlasterCream"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -10.91,
+              3.02,
+              1.19
+            ],
+            "max": [
+              -7.27,
+              3.140001,
+              6.17
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.27,
+              3.02,
+              1.19
+            ],
+            "max": [
+              10.91,
+              3.140001,
+              6.17
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_0_Back_Rake_-11.5",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              6.306907,
+              4.231903,
+              -7.43716
+            ],
+            "max": [
+              11.515422,
+              6.321523,
+              -7.307159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.515422,
+              4.231903,
+              -7.43716
+            ],
+            "max": [
+              -6.306907,
+              6.321523,
+              -7.307159
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_0_Back_Rake_-6.3",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              1.132798,
+              4.231903,
+              -7.43716
+            ],
+            "max": [
+              6.341312,
+              6.321523,
+              -7.307159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -6.341312,
+              4.231903,
+              -7.43716
+            ],
+            "max": [
+              -1.132798,
+              6.321523,
+              -7.307159
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_0_EaveGutter_-1.1",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              1.08,
+              4.103616,
+              -7.55216
+            ],
+            "max": [
+              1.22,
+              4.223621,
+              7.552159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -1.22,
+              4.103616,
+              -7.55216
+            ],
+            "max": [
+              -1.08,
+              4.223621,
+              7.552159
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_0_EaveGutter_-11.5",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              11.42822,
+              4.103616,
+              -7.55216
+            ],
+            "max": [
+              11.568219,
+              4.223621,
+              7.552159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.568219,
+              4.103616,
+              -7.55216
+            ],
+            "max": [
+              -11.42822,
+              4.223621,
+              7.552159
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_0_Front_Rake_-11.5",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              6.306907,
+              4.231906,
+              7.307158
+            ],
+            "max": [
+              11.515422,
+              6.321526,
+              7.437159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.515422,
+              4.231906,
+              7.307158
+            ],
+            "max": [
+              -6.306907,
+              6.321526,
+              7.437159
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_0_Front_Rake_-6.3",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              1.132798,
+              4.231906,
+              7.307158
+            ],
+            "max": [
+              6.341312,
+              6.321526,
+              7.437159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -6.341312,
+              4.231906,
+              7.307158
+            ],
+            "max": [
+              -1.132798,
+              6.321526,
+              7.437159
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_0_King_+0.0",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_WoodAged"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              6.254109,
+              4.123618,
+              -0.080001
+            ],
+            "max": [
+              6.39411,
+              5.98981,
+              0.079999
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -6.39411,
+              4.123618,
+              -0.080001
+            ],
+            "max": [
+              -6.254109,
+              5.98981,
+              0.079999
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_0_King_+4.8",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_WoodAged"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              6.254109,
+              4.123619,
+              4.719999
+            ],
+            "max": [
+              6.39411,
+              5.989811,
+              4.88
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -6.39411,
+              4.123619,
+              4.719999
+            ],
+            "max": [
+              -6.254109,
+              5.989811,
+              4.88
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_0_King_-4.8",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_WoodAged"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              6.254109,
+              4.123617,
+              -4.880001
+            ],
+            "max": [
+              6.39411,
+              5.989809,
+              -4.720001
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -6.39411,
+              4.123617,
+              -4.880001
+            ],
+            "max": [
+              -6.254109,
+              5.989809,
+              -4.720001
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_0_RidgeCap",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_SheetPatina"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              6.22911,
+              6.249808,
+              -7.482161
+            ],
+            "max": [
+              6.419109,
+              6.409812,
+              7.482159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -6.419109,
+              6.249808,
+              -7.482161
+            ],
+            "max": [
+              -6.22911,
+              6.409812,
+              7.482159
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_0_Tie_+0.0",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_WoodAged"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              1.399999,
+              4.043618,
+              -0.090001
+            ],
+            "max": [
+              11.24822,
+              4.203619,
+              0.089999
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.24822,
+              4.043618,
+              -0.090001
+            ],
+            "max": [
+              -1.399999,
+              4.203619,
+              0.089999
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_0_Tie_+4.8",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_WoodAged"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              1.399999,
+              4.043619,
+              4.71
+            ],
+            "max": [
+              11.24822,
+              4.20362,
+              4.89
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.24822,
+              4.043619,
+              4.71
+            ],
+            "max": [
+              -1.399999,
+              4.20362,
+              4.89
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_0_Tie_-4.8",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_WoodAged"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              1.399999,
+              4.043617,
+              -4.890001
+            ],
+            "max": [
+              11.24822,
+              4.203618,
+              -4.710001
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.24822,
+              4.043617,
+              -4.890001
+            ],
+            "max": [
+              -1.399999,
+              4.203618,
+              -4.710001
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_1_Back_Rake_+5.2",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.515393,
+              4.981882,
+              -7.43716
+            ],
+            "max": [
+              -5.156936,
+              7.508483,
+              -7.30716
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              5.156936,
+              4.981882,
+              -7.43716
+            ],
+            "max": [
+              11.515393,
+              7.508483,
+              -7.30716
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_1_Back_Rake_-1.1",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -5.191284,
+              4.981882,
+              -7.43716
+            ],
+            "max": [
+              1.167174,
+              7.508483,
+              -7.30716
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -1.167174,
+              4.981882,
+              -7.43716
+            ],
+            "max": [
+              5.191284,
+              7.508483,
+              -7.30716
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_1_EaveGutter_+11.5",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.568219,
+              4.853616,
+              -7.55216
+            ],
+            "max": [
+              -11.42822,
+              4.973621,
+              7.552158
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              11.42822,
+              4.853616,
+              -7.55216
+            ],
+            "max": [
+              11.568219,
+              4.973621,
+              7.552158
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_1_EaveGutter_-1.1",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              1.08,
+              4.853616,
+              -7.55216
+            ],
+            "max": [
+              1.22,
+              4.973621,
+              7.552158
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -1.22,
+              4.853616,
+              -7.55216
+            ],
+            "max": [
+              -1.08,
+              4.973621,
+              7.552158
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_1_Front_Rake_+5.2",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.515393,
+              4.981885,
+              7.307158
+            ],
+            "max": [
+              -5.156936,
+              7.508486,
+              7.437158
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              5.156936,
+              4.981885,
+              7.307158
+            ],
+            "max": [
+              11.515393,
+              7.508486,
+              7.437158
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_1_Front_Rake_-1.1",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -5.191284,
+              4.981884,
+              7.307158
+            ],
+            "max": [
+              1.167174,
+              7.508486,
+              7.437158
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -1.167174,
+              4.981884,
+              7.307158
+            ],
+            "max": [
+              5.191284,
+              7.508486,
+              7.437158
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_1_King_+0.0",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_WoodAged"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -5.24411,
+              4.873619,
+              -0.080001
+            ],
+            "max": [
+              -5.10411,
+              7.17675,
+              0.079999
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              5.10411,
+              4.873619,
+              -0.080001
+            ],
+            "max": [
+              5.24411,
+              7.17675,
+              0.079999
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_1_King_+4.8",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_WoodAged"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -5.24411,
+              4.87362,
+              4.719999
+            ],
+            "max": [
+              -5.10411,
+              7.176751,
+              4.879999
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              5.10411,
+              4.87362,
+              4.719999
+            ],
+            "max": [
+              5.24411,
+              7.176751,
+              4.879999
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_1_King_-4.8",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_WoodAged"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -5.24411,
+              4.873618,
+              -4.880001
+            ],
+            "max": [
+              -5.10411,
+              7.176749,
+              -4.720001
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              5.10411,
+              4.873618,
+              -4.880001
+            ],
+            "max": [
+              5.24411,
+              7.176749,
+              -4.720001
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_1_RidgeCap",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_SheetPatina"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -5.26911,
+              7.436748,
+              -7.482161
+            ],
+            "max": [
+              -5.07911,
+              7.596752,
+              7.482158
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              5.07911,
+              7.436748,
+              -7.482161
+            ],
+            "max": [
+              5.26911,
+              7.596752,
+              7.482158
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_1_Tie_+0.0",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_WoodAged"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.24822,
+              4.793618,
+              -0.090001
+            ],
+            "max": [
+              0.9,
+              4.953619,
+              0.089999
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -0.9,
+              4.793618,
+              -0.090001
+            ],
+            "max": [
+              11.24822,
+              4.953619,
+              0.089999
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_1_Tie_+4.8",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_WoodAged"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.24822,
+              4.793619,
+              4.709999
+            ],
+            "max": [
+              0.9,
+              4.95362,
+              4.889999
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -0.9,
+              4.793619,
+              4.709999
+            ],
+            "max": [
+              11.24822,
+              4.95362,
+              4.889999
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_1_Tie_-4.8",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_WoodAged"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.24822,
+              4.793617,
+              -4.890001
+            ],
+            "max": [
+              0.9,
+              4.953618,
+              -4.710001
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -0.9,
+              4.793617,
+              -4.890001
+            ],
+            "max": [
+              11.24822,
+              4.953618,
+              -4.710001
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_Logistics_InspectionOfficeFlat",
+          "vertices": 24,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_SlateRoof"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -13.34822,
+              3.159999,
+              -5.4066
+            ],
+            "max": [
+              -11.34822,
+              3.38,
+              -1.31548
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              11.34822,
+              3.159999,
+              -5.4066
+            ],
+            "max": [
+              13.34822,
+              3.38,
+              -1.31548
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_Logistics_UnequalGable_0",
+          "vertices": 48,
+          "sourceTriangles": 24,
+          "fbxTriangles": 24,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_SlateRoof"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              0.69982,
+              4.063619,
+              -7.452161
+            ],
+            "max": [
+              11.94822,
+              6.209811,
+              7.452159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.94822,
+              4.063619,
+              -7.452161
+            ],
+            "max": [
+              -0.69982,
+              6.209811,
+              7.452159
+            ]
+          }
+        },
+        {
+          "name": "W10_Roof_Logistics_UnequalGable_1",
+          "vertices": 48,
+          "sourceTriangles": 24,
+          "fbxTriangles": 24,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_SlateRoof"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.94822,
+              4.813619,
+              -7.452161
+            ],
+            "max": [
+              1.59982,
+              7.396751,
+              7.452159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -1.59982,
+              4.813619,
+              -7.452161
+            ],
+            "max": [
+              11.94822,
+              7.396751,
+              7.452159
+            ]
+          }
+        },
+        {
+          "name": "W10_Shell_LogisticsUnequalWing_0",
+          "vertices": 96,
+          "sourceTriangles": 48,
+          "fbxTriangles": 48,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_BrickRed"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              1.00982,
+              4.093619,
+              -7.14216
+            ],
+            "max": [
+              11.63822,
+              4.243621,
+              7.142159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.63822,
+              4.093619,
+              -7.14216
+            ],
+            "max": [
+              -1.00982,
+              4.243621,
+              7.142159
+            ]
+          }
+        },
+        {
+          "name": "W10_Shell_LogisticsUnequalWing_1",
+          "vertices": 96,
+          "sourceTriangles": 48,
+          "fbxTriangles": 48,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_BrickRed"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.63822,
+              4.093619,
+              -7.142161
+            ],
+            "max": [
+              1.28982,
+              4.993621,
+              7.142159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -1.28982,
+              4.093619,
+              -7.142161
+            ],
+            "max": [
+              11.63822,
+              4.993621,
+              7.142159
+            ]
+          }
+        },
+        {
+          "name": "W10_Shell_Roof_Logistics_UnequalGable_0_GableEnd",
+          "vertices": 36,
+          "sourceTriangles": 16,
+          "fbxTriangles": 16,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_BrickRed"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              1.14982,
+              4.143619,
+              -7.222161
+            ],
+            "max": [
+              11.49822,
+              6.109811,
+              7.00216
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -11.49822,
+              4.143619,
+              -7.222161
+            ],
+            "max": [
+              -1.14982,
+              6.109811,
+              7.00216
+            ]
+          }
+        },
+        {
+          "name": "W10_Shell_Roof_Logistics_UnequalGable_1_GableEnd",
+          "vertices": 36,
+          "sourceTriangles": 16,
+          "fbxTriangles": 16,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_BrickRed"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -11.49822,
+              4.893619,
+              -7.222161
+            ],
+            "max": [
+              1.14982,
+              7.296751,
+              7.002159
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -1.14982,
+              4.893619,
+              -7.222161
+            ],
+            "max": [
+              11.49822,
+              7.296751,
+              7.002159
+            ]
+          }
+        }
+      ],
+      "problems": []
+    },
+    {
+      "fbx": "W10_Interior.fbx",
+      "expectedObjects": 52,
+      "actualObjects": 52,
+      "objects": [
+        {
+          "name": "W10_Inspection_DoorHead",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -7.285,
+              2.385,
+              1.92
+            ],
+            "max": [
+              -7.155,
+              2.455,
+              3.579999
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.155,
+              2.385,
+              1.92
+            ],
+            "max": [
+              7.285,
+              2.455,
+              3.579999
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_DoorJamb_1.95",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -7.285,
+              0.03,
+              1.915
+            ],
+            "max": [
+              -7.155,
+              2.41,
+              1.985
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.155,
+              0.03,
+              1.915
+            ],
+            "max": [
+              7.285,
+              2.41,
+              1.985
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_DoorJamb_3.55",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -7.285,
+              0.030001,
+              3.515
+            ],
+            "max": [
+              -7.155,
+              2.410001,
+              3.585
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.155,
+              0.030001,
+              3.515
+            ],
+            "max": [
+              7.285,
+              2.410001,
+              3.585
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_FloorFinish",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_ConcreteLight"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -10.77,
+              0.052984,
+              1.33
+            ],
+            "max": [
+              -7.41,
+              0.070985,
+              6.03
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.41,
+              0.052984,
+              1.33
+            ],
+            "max": [
+              10.77,
+              0.070985,
+              6.03
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_FloorJoint_2.48",
+          "vertices": 8,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -10.755,
+              0.070984,
+              2.472
+            ],
+            "max": [
+              -7.425,
+              0.074984,
+              2.488
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.425,
+              0.070984,
+              2.472
+            ],
+            "max": [
+              10.755,
+              0.074984,
+              2.488
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_FloorJoint_3.68",
+          "vertices": 8,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -10.755,
+              0.070984,
+              3.672
+            ],
+            "max": [
+              -7.425,
+              0.074984,
+              3.688
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.425,
+              0.070984,
+              3.672
+            ],
+            "max": [
+              10.755,
+              0.074984,
+              3.688
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_FloorJoint_4.88",
+          "vertices": 8,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -10.755,
+              0.070984,
+              4.872
+            ],
+            "max": [
+              -7.425,
+              0.074984,
+              4.888
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.425,
+              0.070984,
+              4.872
+            ],
+            "max": [
+              10.755,
+              0.074984,
+              4.888
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_North",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_PlasterCream"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -10.82,
+              0.052984,
+              5.969999
+            ],
+            "max": [
+              -7.36,
+              3.020001,
+              6.19
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.36,
+              0.052984,
+              5.969999
+            ],
+            "max": [
+              10.82,
+              3.020001,
+              6.19
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_Skirting_1.38",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_WoodAged"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -10.79,
+              0.04,
+              1.33
+            ],
+            "max": [
+              -7.39,
+              0.26,
+              1.43
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.39,
+              0.04,
+              1.33
+            ],
+            "max": [
+              10.79,
+              0.26,
+              1.43
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_Skirting_5.98",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_WoodAged"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -10.79,
+              0.040001,
+              5.93
+            ],
+            "max": [
+              -7.39,
+              0.260001,
+              6.03
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.39,
+              0.040001,
+              5.93
+            ],
+            "max": [
+              10.79,
+              0.260001,
+              6.03
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_South",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_PlasterCream"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -10.82,
+              0.052984,
+              1.169999
+            ],
+            "max": [
+              -7.36,
+              3.02,
+              1.39
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.36,
+              0.052984,
+              1.169999
+            ],
+            "max": [
+              10.82,
+              3.02,
+              1.39
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_TableLeg_10.18_3.02",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -10.215,
+              0.02,
+              2.985
+            ],
+            "max": [
+              -10.145,
+              0.84,
+              3.055
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              10.145,
+              0.02,
+              2.985
+            ],
+            "max": [
+              10.215,
+              0.84,
+              3.055
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_TableLeg_10.18_3.62",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -10.215,
+              0.020001,
+              3.585
+            ],
+            "max": [
+              -10.145,
+              0.840001,
+              3.655
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              10.145,
+              0.020001,
+              3.585
+            ],
+            "max": [
+              10.215,
+              0.840001,
+              3.655
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_TableLeg_8.88_3.02",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -8.915,
+              0.02,
+              2.985
+            ],
+            "max": [
+              -8.845,
+              0.84,
+              3.055
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              8.845,
+              0.02,
+              2.985
+            ],
+            "max": [
+              8.915,
+              0.84,
+              3.055
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_TableLeg_8.88_3.62",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -8.915,
+              0.020001,
+              3.585
+            ],
+            "max": [
+              -8.845,
+              0.840001,
+              3.655
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              8.845,
+              0.020001,
+              3.585
+            ],
+            "max": [
+              8.915,
+              0.840001,
+              3.655
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_WallShelf",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_WoodAged"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -10.72,
+              1.527501,
+              5.079999
+            ],
+            "max": [
+              -10.18,
+              1.592501,
+              6.0
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              10.18,
+              1.527501,
+              5.079999
+            ],
+            "max": [
+              10.72,
+              1.592501,
+              6.0
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_WestDoorLintel",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_PlasterCream"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -7.47,
+              2.42,
+              1.95
+            ],
+            "max": [
+              -7.25,
+              3.02,
+              3.549999
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.25,
+              2.42,
+              1.95
+            ],
+            "max": [
+              7.47,
+              3.02,
+              3.549999
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_WestGlazingHead",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_PlasterCream"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -7.47,
+              2.400001,
+              3.549999
+            ],
+            "max": [
+              -7.25,
+              3.020001,
+              5.639999
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.25,
+              2.400001,
+              3.549999
+            ],
+            "max": [
+              7.47,
+              3.020001,
+              5.639999
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_WestGlazingKnee",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_PlasterCream"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -7.47,
+              0.052984,
+              3.55
+            ],
+            "max": [
+              -7.25,
+              1.050001,
+              5.64
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.25,
+              0.052984,
+              3.55
+            ],
+            "max": [
+              7.47,
+              1.050001,
+              5.64
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_WestNorth",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_PlasterCream"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -7.47,
+              0.052984,
+              5.639999
+            ],
+            "max": [
+              -7.25,
+              3.020001,
+              6.08
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.25,
+              0.052984,
+              5.639999
+            ],
+            "max": [
+              7.47,
+              3.020001,
+              6.08
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_WestSouth",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_PlasterCream"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -7.47,
+              0.052984,
+              1.279999
+            ],
+            "max": [
+              -7.25,
+              3.02,
+              1.95
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.25,
+              0.052984,
+              1.279999
+            ],
+            "max": [
+              7.47,
+              3.02,
+              1.95
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_WindowGlass",
+          "vertices": 8,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_GlassMuted"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -7.2625,
+              1.065001,
+              3.5825
+            ],
+            "max": [
+              -7.2375,
+              2.385001,
+              5.6075
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.2375,
+              1.065001,
+              3.5825
+            ],
+            "max": [
+              7.2625,
+              2.385001,
+              5.6075
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_WindowMullion_3.55",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -7.27,
+              1.020001,
+              3.517499
+            ],
+            "max": [
+              -7.15,
+              2.440001,
+              3.5825
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.15,
+              1.020001,
+              3.517499
+            ],
+            "max": [
+              7.27,
+              2.440001,
+              3.5825
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_WindowMullion_5.64",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -7.27,
+              1.020001,
+              5.6075
+            ],
+            "max": [
+              -7.15,
+              2.440001,
+              5.6725
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.15,
+              1.020001,
+              5.6075
+            ],
+            "max": [
+              7.27,
+              2.440001,
+              5.6725
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_WindowRail_1.05",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -7.27,
+              1.017501,
+              3.53
+            ],
+            "max": [
+              -7.15,
+              1.082501,
+              5.66
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.15,
+              1.017501,
+              3.53
+            ],
+            "max": [
+              7.27,
+              1.082501,
+              5.66
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_WindowRail_2.40",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -7.27,
+              2.367501,
+              3.529999
+            ],
+            "max": [
+              -7.15,
+              2.432501,
+              5.659999
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              7.15,
+              2.367501,
+              3.529999
+            ],
+            "max": [
+              7.27,
+              2.432501,
+              5.659999
+            ]
+          }
+        },
+        {
+          "name": "W10_Inspection_Worktop",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_WoodAged"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -10.305,
+              0.83,
+              2.93
+            ],
+            "max": [
+              -8.755,
+              0.930001,
+              3.71
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              8.755,
+              0.83,
+              2.93
+            ],
+            "max": [
+              10.305,
+              0.930001,
+              3.71
+            ]
+          }
+        },
+        {
+          "name": "W10_Interior_SteelWallPost_+11_+0.0",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -10.93,
+              0.24,
+              -0.085001
+            ],
+            "max": [
+              -10.77,
+              3.86,
+              0.085
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              10.77,
+              0.24,
+              -0.085001
+            ],
+            "max": [
+              10.93,
+              3.86,
+              0.085
+            ]
+          }
+        },
+        {
+          "name": "W10_Interior_SteelWallPost_+11_-3.5",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -10.93,
+              0.239999,
+              -3.585001
+            ],
+            "max": [
+              -10.77,
+              3.859999,
+              -3.415
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              10.77,
+              0.239999,
+              -3.585001
+            ],
+            "max": [
+              10.93,
+              3.859999,
+              -3.415
+            ]
+          }
+        },
+        {
+          "name": "W10_Interior_SteelWallPost_-11_+0.0",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              10.77,
+              0.24,
+              -0.085001
+            ],
+            "max": [
+              10.93,
+              3.86,
+              0.085
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -10.93,
+              0.24,
+              -0.085001
+            ],
+            "max": [
+              -10.77,
+              3.86,
+              0.085
+            ]
+          }
+        },
+        {
+          "name": "W10_Interior_SteelWallPost_-11_+3.5",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              10.77,
+              0.240001,
+              3.414999
+            ],
+            "max": [
+              10.93,
+              3.86,
+              3.585
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -10.93,
+              0.240001,
+              3.414999
+            ],
+            "max": [
+              -10.77,
+              3.86,
+              3.585
+            ]
+          }
+        },
+        {
+          "name": "W10_Interior_SteelWallPost_-11_-3.5",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_IronDark"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              10.77,
+              0.239999,
+              -3.585001
+            ],
+            "max": [
+              10.93,
+              3.859999,
+              -3.415
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -10.93,
+              0.239999,
+              -3.585001
+            ],
+            "max": [
+              -10.77,
+              3.859999,
+              -3.415
+            ]
+          }
+        },
+        {
+          "name": "W10_Interior_WallBase_+11_+0.0",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -10.915,
+              0.035,
+              -1.375
+            ],
+            "max": [
+              -10.785,
+              0.225,
+              1.375
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              10.785,
+              0.035,
+              -1.375
+            ],
+            "max": [
+              10.915,
+              0.225,
+              1.375
+            ]
+          }
+        },
+        {
+          "name": "W10_Interior_WallBase_+11_-3.5",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -10.915,
+              0.034999,
+              -4.875
+            ],
+            "max": [
+              -10.785,
+              0.225,
+              -2.125
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              10.785,
+              0.034999,
+              -4.875
+            ],
+            "max": [
+              10.915,
+              0.225,
+              -2.125
+            ]
+          }
+        },
+        {
+          "name": "W10_Interior_WallBase_-11_+0.0",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              10.785,
+              0.035,
+              -1.375
+            ],
+            "max": [
+              10.915,
+              0.225,
+              1.375
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -10.915,
+              0.035,
+              -1.375
+            ],
+            "max": [
+              -10.785,
+              0.225,
+              1.375
+            ]
+          }
+        },
+        {
+          "name": "W10_Interior_WallBase_-11_+3.5",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              10.785,
+              0.035,
+              2.125
+            ],
+            "max": [
+              10.915,
+              0.225001,
+              4.875
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -10.915,
+              0.035,
+              2.125
+            ],
+            "max": [
+              -10.785,
+              0.225001,
+              4.875
+            ]
+          }
+        },
+        {
+          "name": "W10_Interior_WallBase_-11_-3.5",
+          "vertices": 56,
+          "sourceTriangles": 12,
+          "fbxTriangles": 108,
+          "bevelModifierBaked": true,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              10.785,
+              0.034999,
+              -4.875
+            ],
+            "max": [
+              10.915,
+              0.225,
+              -2.125
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -10.915,
+              0.034999,
+              -4.875
+            ],
+            "max": [
+              -10.785,
+              0.225,
+              -2.125
+            ]
+          }
+        },
+        {
+          "name": "W10_LoadingGuide_+2.42",
+          "vertices": 8,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -2.429,
+              0.056483,
+              -5.85
+            ],
+            "max": [
+              -2.411,
+              0.057484,
+              5.85
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              2.411,
+              0.056483,
+              -5.85
+            ],
+            "max": [
+              2.429,
+              0.057484,
+              5.85
+            ]
+          }
+        },
+        {
+          "name": "W10_LoadingGuide_-2.42",
+          "vertices": 8,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              2.411,
+              0.056483,
+              -5.85
+            ],
+            "max": [
+              2.429,
+              0.057484,
+              5.85
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -2.429,
+              0.056483,
+              -5.85
+            ],
+            "max": [
+              -2.411,
+              0.057484,
+              5.85
+            ]
+          }
+        },
+        {
+          "name": "W10_MainFloor_ExpansionX_+4.2_+0.0",
+          "vertices": 8,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -4.2045,
+              0.056484,
+              -0.0
+            ],
+            "max": [
+              -4.1955,
+              0.057485,
+              6.25
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              4.1955,
+              0.056484,
+              -0.0
+            ],
+            "max": [
+              4.2045,
+              0.057485,
+              6.25
+            ]
+          }
+        },
+        {
+          "name": "W10_MainFloor_ExpansionX_+4.2_-6.2",
+          "vertices": 8,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -4.2045,
+              0.056483,
+              -6.25
+            ],
+            "max": [
+              -4.1955,
+              0.057484,
+              -0.0
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              4.1955,
+              0.056483,
+              -6.25
+            ],
+            "max": [
+              4.2045,
+              0.057484,
+              -0.0
+            ]
+          }
+        },
+        {
+          "name": "W10_MainFloor_ExpansionX_+8.2_-6.2",
+          "vertices": 8,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -8.2045,
+              0.056483,
+              -6.25
+            ],
+            "max": [
+              -8.1955,
+              0.057484,
+              -0.0
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              8.1955,
+              0.056483,
+              -6.25
+            ],
+            "max": [
+              8.2045,
+              0.057484,
+              -0.0
+            ]
+          }
+        },
+        {
+          "name": "W10_MainFloor_ExpansionX_-4.2_+0.0",
+          "vertices": 8,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              4.1955,
+              0.056484,
+              -0.0
+            ],
+            "max": [
+              4.2045,
+              0.057485,
+              6.25
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -4.2045,
+              0.056484,
+              -0.0
+            ],
+            "max": [
+              -4.1955,
+              0.057485,
+              6.25
+            ]
+          }
+        },
+        {
+          "name": "W10_MainFloor_ExpansionX_-4.2_-6.2",
+          "vertices": 8,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              4.1955,
+              0.056483,
+              -6.25
+            ],
+            "max": [
+              4.2045,
+              0.057484,
+              -0.0
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -4.2045,
+              0.056483,
+              -6.25
+            ],
+            "max": [
+              -4.1955,
+              0.057484,
+              -0.0
+            ]
+          }
+        },
+        {
+          "name": "W10_MainFloor_ExpansionX_-8.2_+0.0",
+          "vertices": 8,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              8.1955,
+              0.056484,
+              -0.0
+            ],
+            "max": [
+              8.2045,
+              0.057485,
+              6.25
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -8.2045,
+              0.056484,
+              -0.0
+            ],
+            "max": [
+              -8.1955,
+              0.057485,
+              6.25
+            ]
+          }
+        },
+        {
+          "name": "W10_MainFloor_ExpansionX_-8.2_-6.2",
+          "vertices": 8,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              8.1955,
+              0.056483,
+              -6.25
+            ],
+            "max": [
+              8.2045,
+              0.057484,
+              -0.0
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -8.2045,
+              0.056483,
+              -6.25
+            ],
+            "max": [
+              -8.1955,
+              0.057484,
+              -0.0
+            ]
+          }
+        },
+        {
+          "name": "W10_MainFloor_ExpansionZ_+0.0_+2.6",
+          "vertices": 8,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -10.9,
+              0.056484,
+              -0.0045
+            ],
+            "max": [
+              -2.65,
+              0.057484,
+              0.0045
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              2.65,
+              0.056484,
+              -0.0045
+            ],
+            "max": [
+              10.9,
+              0.057484,
+              0.0045
+            ]
+          }
+        },
+        {
+          "name": "W10_MainFloor_ExpansionZ_+0.0_-10.9",
+          "vertices": 8,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              2.65,
+              0.056484,
+              -0.0045
+            ],
+            "max": [
+              10.9,
+              0.057484,
+              0.0045
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -10.9,
+              0.056484,
+              -0.0045
+            ],
+            "max": [
+              -2.65,
+              0.057484,
+              0.0045
+            ]
+          }
+        },
+        {
+          "name": "W10_MainFloor_ExpansionZ_+4.0_+2.6",
+          "vertices": 8,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -6.65,
+              0.056484,
+              3.9955
+            ],
+            "max": [
+              -2.65,
+              0.057484,
+              4.0045
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              2.65,
+              0.056484,
+              3.9955
+            ],
+            "max": [
+              6.65,
+              0.057484,
+              4.0045
+            ]
+          }
+        },
+        {
+          "name": "W10_MainFloor_ExpansionZ_+4.0_-10.9",
+          "vertices": 8,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              2.65,
+              0.056484,
+              3.9955
+            ],
+            "max": [
+              10.9,
+              0.057484,
+              4.0045
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -10.9,
+              0.056484,
+              3.9955
+            ],
+            "max": [
+              -2.65,
+              0.057484,
+              4.0045
+            ]
+          }
+        },
+        {
+          "name": "W10_MainFloor_ExpansionZ_-4.0_+2.6",
+          "vertices": 8,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              -10.9,
+              0.056483,
+              -4.0045
+            ],
+            "max": [
+              -2.65,
+              0.057483,
+              -3.9955
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              2.65,
+              0.056483,
+              -4.0045
+            ],
+            "max": [
+              10.9,
+              0.057483,
+              -3.9955
+            ]
+          }
+        },
+        {
+          "name": "W10_MainFloor_ExpansionZ_-4.0_-10.9",
+          "vertices": 8,
+          "sourceTriangles": 12,
+          "fbxTriangles": 12,
+          "bevelModifierBaked": false,
+          "materialSlots": [
+            "D09_StoneBase"
+          ],
+          "locationBlender": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scaleBlender": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fbxRawBoundsUnityBasis": {
+            "min": [
+              2.65,
+              0.056483,
+              -4.0045
+            ],
+            "max": [
+              10.9,
+              0.057483,
+              -3.9955
+            ]
+          },
+          "predictedUnityImportedBounds": {
+            "min": [
+              -10.9,
+              0.056483,
+              -4.0045
+            ],
+            "max": [
+              -2.65,
+              0.057483,
+              -3.9955
+            ]
+          }
+        }
+      ],
+      "problems": []
+    }
+  ],
+  "blend": {
+    "blend": "W10_WarehouseSample.blend",
+    "meshObjects": 144,
+    "images": [
+      {
+        "image": "D09_BrickRed_BaseColor.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_BrickRed_BaseColor.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_BrickRed_MetalSmooth.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_BrickRed_MetalSmooth.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_BrickRed_Normal.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_BrickRed_Normal.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_ConcreteLight_BaseColor.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_ConcreteLight_BaseColor.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_ConcreteLight_MetalSmooth.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_ConcreteLight_MetalSmooth.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_ConcreteLight_Normal.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_ConcreteLight_Normal.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_GlassMuted_BaseColor.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_GlassMuted_BaseColor.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_GlassMuted_MetalSmooth.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_GlassMuted_MetalSmooth.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_GlassMuted_Normal.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_GlassMuted_Normal.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_IronDark_BaseColor.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_IronDark_BaseColor.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_IronDark_MetalSmooth.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_IronDark_MetalSmooth.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_IronDark_Normal.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_IronDark_Normal.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_PlasterCream_BaseColor.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_PlasterCream_BaseColor.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_PlasterCream_MetalSmooth.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_PlasterCream_MetalSmooth.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_PlasterCream_Normal.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_PlasterCream_Normal.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_PlasterIvory_BaseColor.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_PlasterIvory_BaseColor.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_PlasterIvory_MetalSmooth.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_PlasterIvory_MetalSmooth.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_PlasterIvory_Normal.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_PlasterIvory_Normal.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_PlasterOchre_BaseColor.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_PlasterOchre_BaseColor.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_PlasterOchre_MetalSmooth.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_PlasterOchre_MetalSmooth.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_PlasterOchre_Normal.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_PlasterOchre_Normal.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_SheetPatina_BaseColor.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_SheetPatina_BaseColor.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_SheetPatina_MetalSmooth.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_SheetPatina_MetalSmooth.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_SheetPatina_Normal.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_SheetPatina_Normal.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_SlateRoof_BaseColor.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_SlateRoof_BaseColor.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_SlateRoof_MetalSmooth.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_SlateRoof_MetalSmooth.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_SlateRoof_Normal.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_SlateRoof_Normal.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_StoneBase_BaseColor.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_StoneBase_BaseColor.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_StoneBase_MetalSmooth.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_StoneBase_MetalSmooth.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_StoneBase_Normal.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_StoneBase_Normal.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_TerracottaRoof_BaseColor.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_TerracottaRoof_BaseColor.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_TerracottaRoof_MetalSmooth.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_TerracottaRoof_MetalSmooth.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_TerracottaRoof_Normal.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_TerracottaRoof_Normal.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_TileGreen_BaseColor.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_TileGreen_BaseColor.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_TileGreen_MetalSmooth.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_TileGreen_MetalSmooth.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_TileGreen_Normal.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_TileGreen_Normal.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_WoodAged_BaseColor.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_WoodAged_BaseColor.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_WoodAged_MetalSmooth.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_WoodAged_MetalSmooth.png",
+        "packed": false,
+        "exists": true
+      },
+      {
+        "image": "D09_WoodAged_Normal.png",
+        "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\a-map-blender-warehouse-sample\\blender\\export\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingD09\\Textures\\D09_WoodAged_Normal.png",
+        "packed": false,
+        "exists": true
+      }
+    ],
+    "libraries": [],
+    "missingExternal": []
+  },
+  "result": "PASS",
+  "errors": []
+}

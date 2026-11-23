@@ -1,0 +1,1243 @@
+2026-10-07 오후 7:48:47
+STAGE_A_BUILDING_D04_INDEPENDENT_VALIDATION
+PASS active Stage A map exists
+PASS authoritative 69 buildings yield exactly 68 D04 targets excluding HALL
+PASS active scene contains 64 V33 auxiliaries and four retained landmarks
+PASS active target IDs exactly match V33 plan; no omitted or duplicate building
+PASS HALL has no D04 additions
+PASS exactly three correctly identified D04 roots per target building
+PASS N01 active visual, roof and interior center exist
+PASS N01 facade belongs to correct building frame
+PASS N01 architecture belongs to its roof cutaway
+PASS N01 interior is directly under correct visible shell
+PASS N01 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/24
+PASS N01 new roof has measurable vertical silhouette, not a flat cap
+PASS N01 D04 facade/roof/interior use supported URP materials; invalid=
+PASS N01 interior props have physical colliders
+PASS N01 architectural detail adds no door-blocking colliders
+PASS N01 added roof reveals interior and returns outside→inside→outside
+PASS N01 entry anchor pairs are present
+PASS N01 entry 0 has no new D04 collider in doorway
+PASS N01 entry 0 reaches central aisle without new solid
+PASS N01 entry 1 has no new D04 collider in doorway
+PASS N01 entry 1 reaches central aisle without new solid
+PASS N02 active visual, roof and interior center exist
+PASS N02 facade belongs to correct building frame
+PASS N02 architecture belongs to its roof cutaway
+PASS N02 interior is directly under correct visible shell
+PASS N02 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/36
+PASS N02 new roof has measurable vertical silhouette, not a flat cap
+PASS N02 D04 facade/roof/interior use supported URP materials; invalid=
+PASS N02 interior props have physical colliders
+PASS N02 architectural detail adds no door-blocking colliders
+PASS N02 added roof reveals interior and returns outside→inside→outside
+PASS N02 entry anchor pairs are present
+PASS N02 entry 0 has no new D04 collider in doorway
+PASS N02 entry 0 reaches central aisle without new solid
+PASS N02 entry 1 has no new D04 collider in doorway
+PASS N02 entry 1 reaches central aisle without new solid
+PASS N03 active visual, roof and interior center exist
+PASS N03 facade belongs to correct building frame
+PASS N03 architecture belongs to its roof cutaway
+PASS N03 interior is directly under correct visible shell
+PASS N03 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/20
+PASS N03 new roof has measurable vertical silhouette, not a flat cap
+PASS N03 D04 facade/roof/interior use supported URP materials; invalid=
+PASS N03 interior props have physical colliders
+PASS N03 architectural detail adds no door-blocking colliders
+PASS N03 added roof reveals interior and returns outside→inside→outside
+PASS N03 entry anchor pairs are present
+PASS N03 entry 0 has no new D04 collider in doorway
+PASS N03 entry 0 reaches central aisle without new solid
+PASS N03 entry 1 has no new D04 collider in doorway
+PASS N03 entry 1 reaches central aisle without new solid
+PASS N04 active visual, roof and interior center exist
+PASS N04 facade belongs to correct building frame
+PASS N04 architecture belongs to its roof cutaway
+PASS N04 interior is directly under correct visible shell
+PASS N04 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/30
+PASS N04 new roof has measurable vertical silhouette, not a flat cap
+PASS N04 D04 facade/roof/interior use supported URP materials; invalid=
+PASS N04 interior props have physical colliders
+PASS N04 architectural detail adds no door-blocking colliders
+PASS N04 added roof reveals interior and returns outside→inside→outside
+PASS N04 entry anchor pairs are present
+PASS N04 entry 0 has no new D04 collider in doorway
+PASS N04 entry 0 reaches central aisle without new solid
+PASS N04 entry 1 has no new D04 collider in doorway
+PASS N04 entry 1 reaches central aisle without new solid
+PASS N05 active visual, roof and interior center exist
+PASS N05 facade belongs to correct building frame
+PASS N05 architecture belongs to its roof cutaway
+PASS N05 interior is directly under correct visible shell
+PASS N05 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/20
+PASS N05 new roof has measurable vertical silhouette, not a flat cap
+PASS N05 D04 facade/roof/interior use supported URP materials; invalid=
+PASS N05 interior props have physical colliders
+PASS N05 architectural detail adds no door-blocking colliders
+PASS N05 added roof reveals interior and returns outside→inside→outside
+PASS N05 entry anchor pairs are present
+PASS N05 entry 0 has no new D04 collider in doorway
+PASS N05 entry 0 reaches central aisle without new solid
+PASS N05 entry 1 has no new D04 collider in doorway
+PASS N05 entry 1 reaches central aisle without new solid
+PASS N06 active visual, roof and interior center exist
+PASS N06 facade belongs to correct building frame
+PASS N06 architecture belongs to its roof cutaway
+PASS N06 interior is directly under correct visible shell
+PASS N06 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/30
+PASS N06 new roof has measurable vertical silhouette, not a flat cap
+PASS N06 D04 facade/roof/interior use supported URP materials; invalid=
+PASS N06 interior props have physical colliders
+PASS N06 architectural detail adds no door-blocking colliders
+PASS N06 added roof reveals interior and returns outside→inside→outside
+PASS N06 entry anchor pairs are present
+PASS N06 entry 0 has no new D04 collider in doorway
+PASS N06 entry 0 reaches central aisle without new solid
+PASS N06 entry 1 has no new D04 collider in doorway
+PASS N06 entry 1 reaches central aisle without new solid
+PASS N07 active visual, roof and interior center exist
+PASS N07 facade belongs to correct building frame
+PASS N07 architecture belongs to its roof cutaway
+PASS N07 interior is directly under correct visible shell
+PASS N07 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/20
+PASS N07 new roof has measurable vertical silhouette, not a flat cap
+PASS N07 D04 facade/roof/interior use supported URP materials; invalid=
+PASS N07 interior props have physical colliders
+PASS N07 architectural detail adds no door-blocking colliders
+PASS N07 added roof reveals interior and returns outside→inside→outside
+PASS N07 entry anchor pairs are present
+PASS N07 entry 0 has no new D04 collider in doorway
+PASS N07 entry 0 reaches central aisle without new solid
+PASS N07 entry 1 has no new D04 collider in doorway
+PASS N07 entry 1 reaches central aisle without new solid
+PASS N08 active visual, roof and interior center exist
+PASS N08 facade belongs to correct building frame
+PASS N08 architecture belongs to its roof cutaway
+PASS N08 interior is directly under correct visible shell
+PASS N08 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/30
+PASS N08 new roof has measurable vertical silhouette, not a flat cap
+PASS N08 D04 facade/roof/interior use supported URP materials; invalid=
+PASS N08 interior props have physical colliders
+PASS N08 architectural detail adds no door-blocking colliders
+PASS N08 added roof reveals interior and returns outside→inside→outside
+PASS N08 entry anchor pairs are present
+PASS N08 entry 0 has no new D04 collider in doorway
+PASS N08 entry 0 reaches central aisle without new solid
+PASS N08 entry 1 has no new D04 collider in doorway
+PASS N08 entry 1 reaches central aisle without new solid
+PASS N09 active visual, roof and interior center exist
+PASS N09 facade belongs to correct building frame
+PASS N09 architecture belongs to its roof cutaway
+PASS N09 interior is directly under correct visible shell
+PASS N09 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/52
+PASS N09 new roof has measurable vertical silhouette, not a flat cap
+PASS N09 D04 facade/roof/interior use supported URP materials; invalid=
+PASS N09 interior props have physical colliders
+PASS N09 architectural detail adds no door-blocking colliders
+PASS N09 added roof reveals interior and returns outside→inside→outside
+PASS N09 entry anchor pairs are present
+PASS N09 entry 0 has no new D04 collider in doorway
+PASS N09 entry 0 reaches central aisle without new solid
+PASS N09 entry 1 has no new D04 collider in doorway
+PASS N09 entry 1 reaches central aisle without new solid
+PASS N10 active visual, roof and interior center exist
+PASS N10 facade belongs to correct building frame
+PASS N10 architecture belongs to its roof cutaway
+PASS N10 interior is directly under correct visible shell
+PASS N10 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/65
+PASS N10 new roof has measurable vertical silhouette, not a flat cap
+PASS N10 D04 facade/roof/interior use supported URP materials; invalid=
+PASS N10 interior props have physical colliders
+PASS N10 architectural detail adds no door-blocking colliders
+PASS N10 added roof reveals interior and returns outside→inside→outside
+PASS N10 entry anchor pairs are present
+PASS N10 entry 0 has no new D04 collider in doorway
+PASS N10 entry 0 reaches central aisle without new solid
+PASS N10 entry 1 has no new D04 collider in doorway
+PASS N10 entry 1 reaches central aisle without new solid
+PASS N11 active visual, roof and interior center exist
+PASS N11 facade belongs to correct building frame
+PASS N11 architecture belongs to its roof cutaway
+PASS N11 interior is directly under correct visible shell
+PASS N11 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/30
+PASS N11 new roof has measurable vertical silhouette, not a flat cap
+PASS N11 D04 facade/roof/interior use supported URP materials; invalid=
+PASS N11 interior props have physical colliders
+PASS N11 architectural detail adds no door-blocking colliders
+PASS N11 added roof reveals interior and returns outside→inside→outside
+PASS N11 entry anchor pairs are present
+PASS N11 entry 0 has no new D04 collider in doorway
+PASS N11 entry 0 reaches central aisle without new solid
+PASS N11 entry 1 has no new D04 collider in doorway
+PASS N11 entry 1 reaches central aisle without new solid
+PASS N12 active visual, roof and interior center exist
+PASS N12 facade belongs to correct building frame
+PASS N12 architecture belongs to its roof cutaway
+PASS N12 interior is directly under correct visible shell
+PASS N12 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/40
+PASS N12 new roof has measurable vertical silhouette, not a flat cap
+PASS N12 D04 facade/roof/interior use supported URP materials; invalid=
+PASS N12 interior props have physical colliders
+PASS N12 architectural detail adds no door-blocking colliders
+PASS N12 added roof reveals interior and returns outside→inside→outside
+PASS N12 entry anchor pairs are present
+PASS N12 entry 0 has no new D04 collider in doorway
+PASS N12 entry 0 reaches central aisle without new solid
+PASS N12 entry 1 has no new D04 collider in doorway
+PASS N12 entry 1 reaches central aisle without new solid
+PASS N13 active visual, roof and interior center exist
+PASS N13 facade belongs to correct building frame
+PASS N13 architecture belongs to its roof cutaway
+PASS N13 interior is directly under correct visible shell
+PASS N13 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/30
+PASS N13 new roof has measurable vertical silhouette, not a flat cap
+PASS N13 D04 facade/roof/interior use supported URP materials; invalid=
+PASS N13 interior props have physical colliders
+PASS N13 architectural detail adds no door-blocking colliders
+PASS N13 added roof reveals interior and returns outside→inside→outside
+PASS N13 entry anchor pairs are present
+PASS N13 entry 0 has no new D04 collider in doorway
+PASS N13 entry 0 reaches central aisle without new solid
+PASS N13 entry 1 has no new D04 collider in doorway
+PASS N13 entry 1 reaches central aisle without new solid
+PASS N14 active visual, roof and interior center exist
+PASS N14 facade belongs to correct building frame
+PASS N14 architecture belongs to its roof cutaway
+PASS N14 interior is directly under correct visible shell
+PASS N14 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/20
+PASS N14 new roof has measurable vertical silhouette, not a flat cap
+PASS N14 D04 facade/roof/interior use supported URP materials; invalid=
+PASS N14 interior props have physical colliders
+PASS N14 architectural detail adds no door-blocking colliders
+PASS N14 added roof reveals interior and returns outside→inside→outside
+PASS N14 entry anchor pairs are present
+PASS N14 entry 0 has no new D04 collider in doorway
+PASS N14 entry 0 reaches central aisle without new solid
+PASS N14 entry 1 has no new D04 collider in doorway
+PASS N14 entry 1 reaches central aisle without new solid
+PASS N15 active visual, roof and interior center exist
+PASS N15 facade belongs to correct building frame
+PASS N15 architecture belongs to its roof cutaway
+PASS N15 interior is directly under correct visible shell
+PASS N15 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/39
+PASS N15 new roof has measurable vertical silhouette, not a flat cap
+PASS N15 D04 facade/roof/interior use supported URP materials; invalid=
+PASS N15 interior props have physical colliders
+PASS N15 architectural detail adds no door-blocking colliders
+PASS N15 added roof reveals interior and returns outside→inside→outside
+PASS N15 entry anchor pairs are present
+PASS N15 entry 0 has no new D04 collider in doorway
+PASS N15 entry 0 reaches central aisle without new solid
+PASS N15 entry 1 has no new D04 collider in doorway
+PASS N15 entry 1 reaches central aisle without new solid
+PASS N16 active visual, roof and interior center exist
+PASS N16 facade belongs to correct building frame
+PASS N16 architecture belongs to its roof cutaway
+PASS N16 interior is directly under correct visible shell
+PASS N16 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/40
+PASS N16 new roof has measurable vertical silhouette, not a flat cap
+PASS N16 D04 facade/roof/interior use supported URP materials; invalid=
+PASS N16 interior props have physical colliders
+PASS N16 architectural detail adds no door-blocking colliders
+PASS N16 added roof reveals interior and returns outside→inside→outside
+PASS N16 entry anchor pairs are present
+PASS N16 entry 0 has no new D04 collider in doorway
+PASS N16 entry 0 reaches central aisle without new solid
+PASS N16 entry 1 has no new D04 collider in doorway
+PASS N16 entry 1 reaches central aisle without new solid
+PASS W01 active visual, roof and interior center exist
+PASS W01 facade belongs to correct building frame
+PASS W01 architecture belongs to its roof cutaway
+PASS W01 interior is directly under correct visible shell
+PASS W01 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/39
+PASS W01 new roof has measurable vertical silhouette, not a flat cap
+PASS W01 D04 facade/roof/interior use supported URP materials; invalid=
+PASS W01 interior props have physical colliders
+PASS W01 architectural detail adds no door-blocking colliders
+PASS W01 added roof reveals interior and returns outside→inside→outside
+PASS W01 entry anchor pairs are present
+PASS W01 entry 0 has no new D04 collider in doorway
+PASS W01 entry 0 reaches central aisle without new solid
+PASS W01 entry 1 has no new D04 collider in doorway
+PASS W01 entry 1 reaches central aisle without new solid
+PASS W02 active visual, roof and interior center exist
+PASS W02 facade belongs to correct building frame
+PASS W02 architecture belongs to its roof cutaway
+PASS W02 interior is directly under correct visible shell
+PASS W02 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/52
+PASS W02 new roof has measurable vertical silhouette, not a flat cap
+PASS W02 D04 facade/roof/interior use supported URP materials; invalid=
+PASS W02 interior props have physical colliders
+PASS W02 architectural detail adds no door-blocking colliders
+PASS W02 added roof reveals interior and returns outside→inside→outside
+PASS W02 entry anchor pairs are present
+PASS W02 entry 0 has no new D04 collider in doorway
+PASS W02 entry 0 reaches central aisle without new solid
+PASS W02 entry 1 has no new D04 collider in doorway
+PASS W02 entry 1 reaches central aisle without new solid
+PASS W03 active visual, roof and interior center exist
+PASS W03 facade belongs to correct building frame
+PASS W03 architecture belongs to its roof cutaway
+PASS W03 interior is directly under correct visible shell
+PASS W03 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/48
+PASS W03 new roof has measurable vertical silhouette, not a flat cap
+PASS W03 D04 facade/roof/interior use supported URP materials; invalid=
+PASS W03 interior props have physical colliders
+PASS W03 architectural detail adds no door-blocking colliders
+PASS W03 added roof reveals interior and returns outside→inside→outside
+PASS W03 entry anchor pairs are present
+PASS W03 entry 0 has no new D04 collider in doorway
+PASS W03 entry 0 reaches central aisle without new solid
+PASS W03 entry 1 has no new D04 collider in doorway
+PASS W03 entry 1 reaches central aisle without new solid
+PASS W04 active visual, roof and interior center exist
+PASS W04 facade belongs to correct building frame
+PASS W04 architecture belongs to its roof cutaway
+PASS W04 interior is directly under correct visible shell
+PASS W04 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/40
+PASS W04 new roof has measurable vertical silhouette, not a flat cap
+PASS W04 D04 facade/roof/interior use supported URP materials; invalid=
+PASS W04 interior props have physical colliders
+PASS W04 architectural detail adds no door-blocking colliders
+PASS W04 added roof reveals interior and returns outside→inside→outside
+PASS W04 entry anchor pairs are present
+PASS W04 entry 0 has no new D04 collider in doorway
+PASS W04 entry 0 reaches central aisle without new solid
+PASS W04 entry 1 has no new D04 collider in doorway
+PASS W04 entry 1 reaches central aisle without new solid
+PASS W05 active visual, roof and interior center exist
+PASS W05 facade belongs to correct building frame
+PASS W05 architecture belongs to its roof cutaway
+PASS W05 interior is directly under correct visible shell
+PASS W05 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/78
+PASS W05 new roof has measurable vertical silhouette, not a flat cap
+PASS W05 D04 facade/roof/interior use supported URP materials; invalid=
+PASS W05 interior props have physical colliders
+PASS W05 architectural detail adds no door-blocking colliders
+PASS W05 added roof reveals interior and returns outside→inside→outside
+PASS W05 entry anchor pairs are present
+PASS W05 entry 0 has no new D04 collider in doorway
+PASS W05 entry 0 reaches central aisle without new solid
+PASS W05 entry 1 has no new D04 collider in doorway
+PASS W05 entry 1 reaches central aisle without new solid
+PASS W06 active visual, roof and interior center exist
+PASS W06 facade belongs to correct building frame
+PASS W06 architecture belongs to its roof cutaway
+PASS W06 interior is directly under correct visible shell
+PASS W06 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/39
+PASS W06 new roof has measurable vertical silhouette, not a flat cap
+PASS W06 D04 facade/roof/interior use supported URP materials; invalid=
+PASS W06 interior props have physical colliders
+PASS W06 architectural detail adds no door-blocking colliders
+PASS W06 added roof reveals interior and returns outside→inside→outside
+PASS W06 entry anchor pairs are present
+PASS W06 entry 0 has no new D04 collider in doorway
+PASS W06 entry 0 reaches central aisle without new solid
+PASS W06 entry 1 has no new D04 collider in doorway
+PASS W06 entry 1 reaches central aisle without new solid
+PASS W07 active visual, roof and interior center exist
+PASS W07 facade belongs to correct building frame
+PASS W07 architecture belongs to its roof cutaway
+PASS W07 interior is directly under correct visible shell
+PASS W07 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/30
+PASS W07 new roof has measurable vertical silhouette, not a flat cap
+PASS W07 D04 facade/roof/interior use supported URP materials; invalid=
+PASS W07 interior props have physical colliders
+PASS W07 architectural detail adds no door-blocking colliders
+PASS W07 added roof reveals interior and returns outside→inside→outside
+PASS W07 entry anchor pairs are present
+PASS W07 entry 0 has no new D04 collider in doorway
+PASS W07 entry 0 reaches central aisle without new solid
+PASS W07 entry 1 has no new D04 collider in doorway
+PASS W07 entry 1 reaches central aisle without new solid
+PASS W08 active visual, roof and interior center exist
+PASS W08 facade belongs to correct building frame
+PASS W08 architecture belongs to its roof cutaway
+PASS W08 interior is directly under correct visible shell
+PASS W08 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/31
+PASS W08 new roof has measurable vertical silhouette, not a flat cap
+PASS W08 D04 facade/roof/interior use supported URP materials; invalid=
+PASS W08 interior props have physical colliders
+PASS W08 architectural detail adds no door-blocking colliders
+PASS W08 added roof reveals interior and returns outside→inside→outside
+PASS W08 entry anchor pairs are present
+PASS W08 entry 0 has no new D04 collider in doorway
+PASS W08 entry 0 reaches central aisle without new solid
+PASS W08 entry 1 has no new D04 collider in doorway
+PASS W08 entry 1 reaches central aisle without new solid
+PASS W09 active visual, roof and interior center exist
+PASS W09 facade belongs to correct building frame
+PASS W09 architecture belongs to its roof cutaway
+PASS W09 interior is directly under correct visible shell
+PASS W09 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/40
+PASS W09 new roof has measurable vertical silhouette, not a flat cap
+PASS W09 D04 facade/roof/interior use supported URP materials; invalid=
+PASS W09 interior props have physical colliders
+PASS W09 architectural detail adds no door-blocking colliders
+PASS W09 added roof reveals interior and returns outside→inside→outside
+PASS W09 entry anchor pairs are present
+PASS W09 entry 0 has no new D04 collider in doorway
+PASS W09 entry 0 reaches central aisle without new solid
+PASS W09 entry 1 has no new D04 collider in doorway
+PASS W09 entry 1 reaches central aisle without new solid
+PASS W10 active visual, roof and interior center exist
+PASS W10 facade belongs to correct building frame
+PASS W10 architecture belongs to its roof cutaway
+PASS W10 interior is directly under correct visible shell
+PASS W10 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/52
+PASS W10 new roof has measurable vertical silhouette, not a flat cap
+PASS W10 D04 facade/roof/interior use supported URP materials; invalid=
+PASS W10 interior props have physical colliders
+PASS W10 architectural detail adds no door-blocking colliders
+PASS W10 added roof reveals interior and returns outside→inside→outside
+PASS W10 entry anchor pairs are present
+PASS W10 entry 0 has no new D04 collider in doorway
+PASS W10 entry 0 reaches central aisle without new solid
+PASS W10 entry 1 has no new D04 collider in doorway
+PASS W10 entry 1 reaches central aisle without new solid
+PASS W11 active visual, roof and interior center exist
+PASS W11 facade belongs to correct building frame
+PASS W11 architecture belongs to its roof cutaway
+PASS W11 interior is directly under correct visible shell
+PASS W11 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/36
+PASS W11 new roof has measurable vertical silhouette, not a flat cap
+PASS W11 D04 facade/roof/interior use supported URP materials; invalid=
+PASS W11 interior props have physical colliders
+PASS W11 architectural detail adds no door-blocking colliders
+PASS W11 added roof reveals interior and returns outside→inside→outside
+PASS W11 entry anchor pairs are present
+PASS W11 entry 0 has no new D04 collider in doorway
+PASS W11 entry 0 reaches central aisle without new solid
+PASS W11 entry 1 has no new D04 collider in doorway
+PASS W11 entry 1 reaches central aisle without new solid
+PASS C01 active visual, roof and interior center exist
+PASS C01 facade belongs to correct building frame
+PASS C01 architecture belongs to its roof cutaway
+PASS C01 interior is directly under correct visible shell
+PASS C01 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/50
+PASS C01 new roof has measurable vertical silhouette, not a flat cap
+PASS C01 D04 facade/roof/interior use supported URP materials; invalid=
+PASS C01 interior props have physical colliders
+PASS C01 architectural detail adds no door-blocking colliders
+PASS C01 added roof reveals interior and returns outside→inside→outside
+PASS C01 entry anchor pairs are present
+PASS C01 entry 0 has no new D04 collider in doorway
+PASS C01 entry 0 reaches central aisle without new solid
+PASS C01 entry 1 has no new D04 collider in doorway
+PASS C01 entry 1 reaches central aisle without new solid
+PASS C02 active visual, roof and interior center exist
+PASS C02 facade belongs to correct building frame
+PASS C02 architecture belongs to its roof cutaway
+PASS C02 interior is directly under correct visible shell
+PASS C02 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/52
+PASS C02 new roof has measurable vertical silhouette, not a flat cap
+PASS C02 D04 facade/roof/interior use supported URP materials; invalid=
+PASS C02 interior props have physical colliders
+PASS C02 architectural detail adds no door-blocking colliders
+PASS C02 added roof reveals interior and returns outside→inside→outside
+PASS C02 entry anchor pairs are present
+PASS C02 entry 0 has no new D04 collider in doorway
+PASS C02 entry 0 reaches central aisle without new solid
+PASS C02 entry 1 has no new D04 collider in doorway
+PASS C02 entry 1 reaches central aisle without new solid
+PASS C03 active visual, roof and interior center exist
+PASS C03 facade belongs to correct building frame
+PASS C03 architecture belongs to its roof cutaway
+PASS C03 interior is directly under correct visible shell
+PASS C03 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/39
+PASS C03 new roof has measurable vertical silhouette, not a flat cap
+PASS C03 D04 facade/roof/interior use supported URP materials; invalid=
+PASS C03 interior props have physical colliders
+PASS C03 architectural detail adds no door-blocking colliders
+PASS C03 added roof reveals interior and returns outside→inside→outside
+PASS C03 entry anchor pairs are present
+PASS C03 entry 0 has no new D04 collider in doorway
+PASS C03 entry 0 reaches central aisle without new solid
+PASS C03 entry 1 has no new D04 collider in doorway
+PASS C03 entry 1 reaches central aisle without new solid
+PASS C04 active visual, roof and interior center exist
+PASS C04 facade belongs to correct building frame
+PASS C04 architecture belongs to its roof cutaway
+PASS C04 interior is directly under correct visible shell
+PASS C04 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/36
+PASS C04 new roof has measurable vertical silhouette, not a flat cap
+PASS C04 D04 facade/roof/interior use supported URP materials; invalid=
+PASS C04 interior props have physical colliders
+PASS C04 architectural detail adds no door-blocking colliders
+PASS C04 added roof reveals interior and returns outside→inside→outside
+PASS C04 entry anchor pairs are present
+PASS C04 entry 0 has no new D04 collider in doorway
+PASS C04 entry 0 reaches central aisle without new solid
+PASS C04 entry 1 has no new D04 collider in doorway
+PASS C04 entry 1 reaches central aisle without new solid
+PASS E01 active visual, roof and interior center exist
+PASS E01 facade belongs to correct building frame
+PASS E01 architecture belongs to its roof cutaway
+PASS E01 interior is directly under correct visible shell
+PASS E01 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/50
+PASS E01 new roof has measurable vertical silhouette, not a flat cap
+PASS E01 D04 facade/roof/interior use supported URP materials; invalid=
+PASS E01 interior props have physical colliders
+PASS E01 architectural detail adds no door-blocking colliders
+PASS E01 added roof reveals interior and returns outside→inside→outside
+PASS E01 entry anchor pairs are present
+PASS E01 entry 0 has no new D04 collider in doorway
+PASS E01 entry 0 reaches central aisle without new solid
+PASS E01 entry 1 has no new D04 collider in doorway
+PASS E01 entry 1 reaches central aisle without new solid
+PASS E02 active visual, roof and interior center exist
+PASS E02 facade belongs to correct building frame
+PASS E02 architecture belongs to its roof cutaway
+PASS E02 interior is directly under correct visible shell
+PASS E02 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/30
+PASS E02 new roof has measurable vertical silhouette, not a flat cap
+PASS E02 D04 facade/roof/interior use supported URP materials; invalid=
+PASS E02 interior props have physical colliders
+PASS E02 architectural detail adds no door-blocking colliders
+PASS E02 added roof reveals interior and returns outside→inside→outside
+PASS E02 entry anchor pairs are present
+PASS E02 entry 0 has no new D04 collider in doorway
+PASS E02 entry 0 reaches central aisle without new solid
+PASS E02 entry 1 has no new D04 collider in doorway
+PASS E02 entry 1 reaches central aisle without new solid
+PASS E03 active visual, roof and interior center exist
+PASS E03 facade belongs to correct building frame
+PASS E03 architecture belongs to its roof cutaway
+PASS E03 interior is directly under correct visible shell
+PASS E03 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/30
+PASS E03 new roof has measurable vertical silhouette, not a flat cap
+PASS E03 D04 facade/roof/interior use supported URP materials; invalid=
+PASS E03 interior props have physical colliders
+PASS E03 architectural detail adds no door-blocking colliders
+PASS E03 added roof reveals interior and returns outside→inside→outside
+PASS E03 entry anchor pairs are present
+PASS E03 entry 0 has no new D04 collider in doorway
+PASS E03 entry 0 reaches central aisle without new solid
+PASS E03 entry 1 has no new D04 collider in doorway
+PASS E03 entry 1 reaches central aisle without new solid
+PASS E04 active visual, roof and interior center exist
+PASS E04 facade belongs to correct building frame
+PASS E04 architecture belongs to its roof cutaway
+PASS E04 interior is directly under correct visible shell
+PASS E04 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/36
+PASS E04 new roof has measurable vertical silhouette, not a flat cap
+PASS E04 D04 facade/roof/interior use supported URP materials; invalid=
+PASS E04 interior props have physical colliders
+PASS E04 architectural detail adds no door-blocking colliders
+PASS E04 added roof reveals interior and returns outside→inside→outside
+PASS E04 entry anchor pairs are present
+PASS E04 entry 0 has no new D04 collider in doorway
+PASS E04 entry 0 reaches central aisle without new solid
+PASS E04 entry 1 has no new D04 collider in doorway
+PASS E04 entry 1 reaches central aisle without new solid
+PASS E05 active visual, roof and interior center exist
+PASS E05 facade belongs to correct building frame
+PASS E05 architecture belongs to its roof cutaway
+PASS E05 interior is directly under correct visible shell
+PASS E05 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/52
+PASS E05 new roof has measurable vertical silhouette, not a flat cap
+PASS E05 D04 facade/roof/interior use supported URP materials; invalid=
+PASS E05 interior props have physical colliders
+PASS E05 architectural detail adds no door-blocking colliders
+PASS E05 added roof reveals interior and returns outside→inside→outside
+PASS E05 entry anchor pairs are present
+PASS E05 entry 0 has no new D04 collider in doorway
+PASS E05 entry 0 reaches central aisle without new solid
+PASS E05 entry 1 has no new D04 collider in doorway
+PASS E05 entry 1 reaches central aisle without new solid
+PASS E06 active visual, roof and interior center exist
+PASS E06 facade belongs to correct building frame
+PASS E06 architecture belongs to its roof cutaway
+PASS E06 interior is directly under correct visible shell
+PASS E06 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/39
+PASS E06 new roof has measurable vertical silhouette, not a flat cap
+PASS E06 D04 facade/roof/interior use supported URP materials; invalid=
+PASS E06 interior props have physical colliders
+PASS E06 architectural detail adds no door-blocking colliders
+PASS E06 added roof reveals interior and returns outside→inside→outside
+PASS E06 entry anchor pairs are present
+PASS E06 entry 0 has no new D04 collider in doorway
+PASS E06 entry 0 reaches central aisle without new solid
+PASS E06 entry 1 has no new D04 collider in doorway
+PASS E06 entry 1 reaches central aisle without new solid
+PASS E07 active visual, roof and interior center exist
+PASS E07 facade belongs to correct building frame
+PASS E07 architecture belongs to its roof cutaway
+PASS E07 interior is directly under correct visible shell
+PASS E07 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/30
+PASS E07 new roof has measurable vertical silhouette, not a flat cap
+PASS E07 D04 facade/roof/interior use supported URP materials; invalid=
+PASS E07 interior props have physical colliders
+PASS E07 architectural detail adds no door-blocking colliders
+PASS E07 added roof reveals interior and returns outside→inside→outside
+PASS E07 entry anchor pairs are present
+PASS E07 entry 0 has no new D04 collider in doorway
+PASS E07 entry 0 reaches central aisle without new solid
+PASS E07 entry 1 has no new D04 collider in doorway
+PASS E07 entry 1 reaches central aisle without new solid
+PASS E08 active visual, roof and interior center exist
+PASS E08 facade belongs to correct building frame
+PASS E08 architecture belongs to its roof cutaway
+PASS E08 interior is directly under correct visible shell
+PASS E08 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/10
+PASS E08 new roof has measurable vertical silhouette, not a flat cap
+PASS E08 D04 facade/roof/interior use supported URP materials; invalid=
+PASS E08 interior props have physical colliders
+PASS E08 architectural detail adds no door-blocking colliders
+PASS E08 added roof reveals interior and returns outside→inside→outside
+PASS E08 entry anchor pairs are present
+PASS E08 entry 0 has no new D04 collider in doorway
+PASS E08 entry 0 reaches central aisle without new solid
+PASS E08 entry 1 has no new D04 collider in doorway
+PASS E08 entry 1 reaches central aisle without new solid
+PASS E09 active visual, roof and interior center exist
+PASS E09 facade belongs to correct building frame
+PASS E09 architecture belongs to its roof cutaway
+PASS E09 interior is directly under correct visible shell
+PASS E09 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/30
+PASS E09 new roof has measurable vertical silhouette, not a flat cap
+PASS E09 D04 facade/roof/interior use supported URP materials; invalid=
+PASS E09 interior props have physical colliders
+PASS E09 architectural detail adds no door-blocking colliders
+PASS E09 added roof reveals interior and returns outside→inside→outside
+PASS E09 entry anchor pairs are present
+PASS E09 entry 0 has no new D04 collider in doorway
+PASS E09 entry 0 reaches central aisle without new solid
+PASS E09 entry 1 has no new D04 collider in doorway
+PASS E09 entry 1 reaches central aisle without new solid
+PASS E10 active visual, roof and interior center exist
+PASS E10 facade belongs to correct building frame
+PASS E10 architecture belongs to its roof cutaway
+PASS E10 interior is directly under correct visible shell
+PASS E10 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/17
+PASS E10 new roof has measurable vertical silhouette, not a flat cap
+PASS E10 D04 facade/roof/interior use supported URP materials; invalid=
+PASS E10 interior props have physical colliders
+PASS E10 architectural detail adds no door-blocking colliders
+PASS E10 added roof reveals interior and returns outside→inside→outside
+PASS E10 entry anchor pairs are present
+PASS E10 entry 0 has no new D04 collider in doorway
+PASS E10 entry 0 reaches central aisle without new solid
+PASS E10 entry 1 has no new D04 collider in doorway
+PASS E10 entry 1 reaches central aisle without new solid
+PASS E11 active visual, roof and interior center exist
+PASS E11 facade belongs to correct building frame
+PASS E11 architecture belongs to its roof cutaway
+PASS E11 interior is directly under correct visible shell
+PASS E11 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/30
+PASS E11 new roof has measurable vertical silhouette, not a flat cap
+PASS E11 D04 facade/roof/interior use supported URP materials; invalid=
+PASS E11 interior props have physical colliders
+PASS E11 architectural detail adds no door-blocking colliders
+PASS E11 added roof reveals interior and returns outside→inside→outside
+PASS E11 entry anchor pairs are present
+PASS E11 entry 0 has no new D04 collider in doorway
+PASS E11 entry 0 reaches central aisle without new solid
+PASS E11 entry 1 has no new D04 collider in doorway
+PASS E11 entry 1 reaches central aisle without new solid
+PASS E12 active visual, roof and interior center exist
+PASS E12 facade belongs to correct building frame
+PASS E12 architecture belongs to its roof cutaway
+PASS E12 interior is directly under correct visible shell
+PASS E12 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/36
+PASS E12 new roof has measurable vertical silhouette, not a flat cap
+PASS E12 D04 facade/roof/interior use supported URP materials; invalid=
+PASS E12 interior props have physical colliders
+PASS E12 architectural detail adds no door-blocking colliders
+PASS E12 added roof reveals interior and returns outside→inside→outside
+PASS E12 entry anchor pairs are present
+PASS E12 entry 0 has no new D04 collider in doorway
+PASS E12 entry 0 reaches central aisle without new solid
+PASS E12 entry 1 has no new D04 collider in doorway
+PASS E12 entry 1 reaches central aisle without new solid
+PASS S01 active visual, roof and interior center exist
+PASS S01 facade belongs to correct building frame
+PASS S01 architecture belongs to its roof cutaway
+PASS S01 interior is directly under correct visible shell
+PASS S01 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/8
+PASS S01 ruin roof has raised sheet/truss profile and leaves most original roof area open; vertical=0.72m newPlanCoverage=22.4 %
+PASS S01 D04 facade/roof/interior use supported URP materials; invalid=
+PASS S01 interior props have physical colliders
+PASS S01 architectural detail adds no door-blocking colliders
+PASS S01 added roof reveals interior and returns outside→inside→outside
+PASS S01 entry anchor pairs are present
+PASS S01 entry 0 has no new D04 collider in doorway
+PASS S01 entry 0 reaches central aisle without new solid
+PASS S01 entry 1 has no new D04 collider in doorway
+PASS S01 entry 1 reaches central aisle without new solid
+PASS S02 active visual, roof and interior center exist
+PASS S02 facade belongs to correct building frame
+PASS S02 architecture belongs to its roof cutaway
+PASS S02 interior is directly under correct visible shell
+PASS S02 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/24
+PASS S02 ruin roof has raised sheet/truss profile and leaves most original roof area open; vertical=0.78m newPlanCoverage=22.7 %
+PASS S02 D04 facade/roof/interior use supported URP materials; invalid=
+PASS S02 interior props have physical colliders
+PASS S02 architectural detail adds no door-blocking colliders
+PASS S02 added roof reveals interior and returns outside→inside→outside
+PASS S02 entry anchor pairs are present
+PASS S02 entry 0 has no new D04 collider in doorway
+PASS S02 entry 0 reaches central aisle without new solid
+PASS S02 entry 1 has no new D04 collider in doorway
+PASS S02 entry 1 reaches central aisle without new solid
+PASS S03 active visual, roof and interior center exist
+PASS S03 facade belongs to correct building frame
+PASS S03 architecture belongs to its roof cutaway
+PASS S03 interior is directly under correct visible shell
+PASS S03 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/26
+PASS S03 ruin roof has raised sheet/truss profile and leaves most original roof area open; vertical=0.69m newPlanCoverage=22.6 %
+PASS S03 D04 facade/roof/interior use supported URP materials; invalid=
+PASS S03 interior props have physical colliders
+PASS S03 architectural detail adds no door-blocking colliders
+PASS S03 added roof reveals interior and returns outside→inside→outside
+PASS S03 entry anchor pairs are present
+PASS S03 entry 0 has no new D04 collider in doorway
+PASS S03 entry 0 reaches central aisle without new solid
+PASS S03 entry 1 has no new D04 collider in doorway
+PASS S03 entry 1 reaches central aisle without new solid
+PASS S04 active visual, roof and interior center exist
+PASS S04 facade belongs to correct building frame
+PASS S04 architecture belongs to its roof cutaway
+PASS S04 interior is directly under correct visible shell
+PASS S04 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/18
+PASS S04 ruin roof has raised sheet/truss profile and leaves most original roof area open; vertical=0.74m newPlanCoverage=21.6 %
+PASS S04 D04 facade/roof/interior use supported URP materials; invalid=
+PASS S04 interior props have physical colliders
+PASS S04 architectural detail adds no door-blocking colliders
+PASS S04 added roof reveals interior and returns outside→inside→outside
+PASS S04 entry anchor pairs are present
+PASS S04 entry 0 has no new D04 collider in doorway
+PASS S04 entry 0 reaches central aisle without new solid
+PASS S04 entry 1 has no new D04 collider in doorway
+PASS S04 entry 1 reaches central aisle without new solid
+PASS S05 active visual, roof and interior center exist
+PASS S05 facade belongs to correct building frame
+PASS S05 architecture belongs to its roof cutaway
+PASS S05 interior is directly under correct visible shell
+PASS S05 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/27
+PASS S05 ruin roof has raised sheet/truss profile and leaves most original roof area open; vertical=0.75m newPlanCoverage=22.4 %
+PASS S05 D04 facade/roof/interior use supported URP materials; invalid=
+PASS S05 interior props have physical colliders
+PASS S05 architectural detail adds no door-blocking colliders
+PASS S05 added roof reveals interior and returns outside→inside→outside
+PASS S05 entry anchor pairs are present
+PASS S05 entry 0 has no new D04 collider in doorway
+PASS S05 entry 0 reaches central aisle without new solid
+PASS S05 entry 1 has no new D04 collider in doorway
+PASS S05 entry 1 reaches central aisle without new solid
+PASS S06 active visual, roof and interior center exist
+PASS S06 facade belongs to correct building frame
+PASS S06 architecture belongs to its roof cutaway
+PASS S06 interior is directly under correct visible shell
+PASS S06 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/24
+PASS S06 ruin roof has raised sheet/truss profile and leaves most original roof area open; vertical=0.74m newPlanCoverage=22.1 %
+PASS S06 D04 facade/roof/interior use supported URP materials; invalid=
+PASS S06 interior props have physical colliders
+PASS S06 architectural detail adds no door-blocking colliders
+PASS S06 added roof reveals interior and returns outside→inside→outside
+PASS S06 entry anchor pairs are present
+PASS S06 entry 0 has no new D04 collider in doorway
+PASS S06 entry 0 reaches central aisle without new solid
+PASS S06 entry 1 has no new D04 collider in doorway
+PASS S06 entry 1 reaches central aisle without new solid
+PASS S07 active visual, roof and interior center exist
+PASS S07 facade belongs to correct building frame
+PASS S07 architecture belongs to its roof cutaway
+PASS S07 interior is directly under correct visible shell
+PASS S07 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/27
+PASS S07 ruin roof has raised sheet/truss profile and leaves most original roof area open; vertical=0.69m newPlanCoverage=23.7 %
+PASS S07 D04 facade/roof/interior use supported URP materials; invalid=
+PASS S07 interior props have physical colliders
+PASS S07 architectural detail adds no door-blocking colliders
+PASS S07 added roof reveals interior and returns outside→inside→outside
+PASS S07 entry anchor pairs are present
+PASS S07 entry 0 has no new D04 collider in doorway
+PASS S07 entry 0 reaches central aisle without new solid
+PASS S07 entry 1 has no new D04 collider in doorway
+PASS S07 entry 1 reaches central aisle without new solid
+PASS S08 active visual, roof and interior center exist
+PASS S08 facade belongs to correct building frame
+PASS S08 architecture belongs to its roof cutaway
+PASS S08 interior is directly under correct visible shell
+PASS S08 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/24
+PASS S08 ruin roof has raised sheet/truss profile and leaves most original roof area open; vertical=0.75m newPlanCoverage=22.7 %
+PASS S08 D04 facade/roof/interior use supported URP materials; invalid=
+PASS S08 interior props have physical colliders
+PASS S08 architectural detail adds no door-blocking colliders
+PASS S08 added roof reveals interior and returns outside→inside→outside
+PASS S08 entry anchor pairs are present
+PASS S08 entry 0 has no new D04 collider in doorway
+PASS S08 entry 0 reaches central aisle without new solid
+PASS S08 entry 1 has no new D04 collider in doorway
+PASS S08 entry 1 reaches central aisle without new solid
+PASS S09 active visual, roof and interior center exist
+PASS S09 facade belongs to correct building frame
+PASS S09 architecture belongs to its roof cutaway
+PASS S09 interior is directly under correct visible shell
+PASS S09 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/8
+PASS S09 ruin roof has raised sheet/truss profile and leaves most original roof area open; vertical=0.75m newPlanCoverage=22.7 %
+PASS S09 D04 facade/roof/interior use supported URP materials; invalid=
+PASS S09 interior props have physical colliders
+PASS S09 architectural detail adds no door-blocking colliders
+PASS S09 added roof reveals interior and returns outside→inside→outside
+PASS S09 entry anchor pairs are present
+PASS S09 entry 0 has no new D04 collider in doorway
+PASS S09 entry 0 reaches central aisle without new solid
+PASS S09 entry 1 has no new D04 collider in doorway
+PASS S09 entry 1 reaches central aisle without new solid
+PASS S10 active visual, roof and interior center exist
+PASS S10 facade belongs to correct building frame
+PASS S10 architecture belongs to its roof cutaway
+PASS S10 interior is directly under correct visible shell
+PASS S10 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/39
+PASS S10 ruin roof has raised sheet/truss profile and leaves most original roof area open; vertical=0.76m newPlanCoverage=23.6 %
+PASS S10 D04 facade/roof/interior use supported URP materials; invalid=
+PASS S10 interior props have physical colliders
+PASS S10 architectural detail adds no door-blocking colliders
+PASS S10 added roof reveals interior and returns outside→inside→outside
+PASS S10 entry anchor pairs are present
+PASS S10 entry 0 has no new D04 collider in doorway
+PASS S10 entry 0 reaches central aisle without new solid
+PASS S10 entry 1 has no new D04 collider in doorway
+PASS S10 entry 1 reaches central aisle without new solid
+PASS S11 active visual, roof and interior center exist
+PASS S11 facade belongs to correct building frame
+PASS S11 architecture belongs to its roof cutaway
+PASS S11 interior is directly under correct visible shell
+PASS S11 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/12
+PASS S11 ruin roof has raised sheet/truss profile and leaves most original roof area open; vertical=0.71m newPlanCoverage=21.8 %
+PASS S11 D04 facade/roof/interior use supported URP materials; invalid=
+PASS S11 interior props have physical colliders
+PASS S11 architectural detail adds no door-blocking colliders
+PASS S11 added roof reveals interior and returns outside→inside→outside
+PASS S11 entry anchor pairs are present
+PASS S11 entry 0 has no new D04 collider in doorway
+PASS S11 entry 0 reaches central aisle without new solid
+PASS S11 entry 1 has no new D04 collider in doorway
+PASS S11 entry 1 reaches central aisle without new solid
+PASS S12 active visual, roof and interior center exist
+PASS S12 facade belongs to correct building frame
+PASS S12 architecture belongs to its roof cutaway
+PASS S12 interior is directly under correct visible shell
+PASS S12 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/17
+PASS S12 ruin roof has raised sheet/truss profile and leaves most original roof area open; vertical=0.65m newPlanCoverage=13.7 %
+PASS S12 D04 facade/roof/interior use supported URP materials; invalid=
+PASS S12 interior props have physical colliders
+PASS S12 architectural detail adds no door-blocking colliders
+PASS S12 added roof reveals interior and returns outside→inside→outside
+PASS S12 entry anchor pairs are present
+PASS S12 entry 0 has no new D04 collider in doorway
+PASS S12 entry 0 reaches central aisle without new solid
+PASS S12 entry 1 has no new D04 collider in doorway
+PASS S12 entry 1 reaches central aisle without new solid
+PASS Y01 active visual, roof and interior center exist
+PASS Y01 facade belongs to correct building frame
+PASS Y01 architecture belongs to its roof cutaway
+PASS Y01 interior is directly under correct visible shell
+PASS Y01 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/30
+PASS Y01 new roof has measurable vertical silhouette, not a flat cap
+PASS Y01 D04 facade/roof/interior use supported URP materials; invalid=
+PASS Y01 interior props have physical colliders
+PASS Y01 architectural detail adds no door-blocking colliders
+PASS Y01 added roof reveals interior and returns outside→inside→outside
+PASS Y01 entry anchor pairs are present
+PASS Y01 entry 0 has no new D04 collider in doorway
+PASS Y01 entry 0 reaches central aisle without new solid
+PASS Y01 entry 1 has no new D04 collider in doorway
+PASS Y01 entry 1 reaches central aisle without new solid
+PASS Y02 active visual, roof and interior center exist
+PASS Y02 facade belongs to correct building frame
+PASS Y02 architecture belongs to its roof cutaway
+PASS Y02 interior is directly under correct visible shell
+PASS Y02 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/20
+PASS Y02 new roof has measurable vertical silhouette, not a flat cap
+PASS Y02 D04 facade/roof/interior use supported URP materials; invalid=
+PASS Y02 interior props have physical colliders
+PASS Y02 architectural detail adds no door-blocking colliders
+PASS Y02 added roof reveals interior and returns outside→inside→outside
+PASS Y02 entry anchor pairs are present
+PASS Y02 entry 0 has no new D04 collider in doorway
+PASS Y02 entry 0 reaches central aisle without new solid
+PASS Y02 entry 1 has no new D04 collider in doorway
+PASS Y02 entry 1 reaches central aisle without new solid
+PASS Y03 active visual, roof and interior center exist
+PASS Y03 facade belongs to correct building frame
+PASS Y03 architecture belongs to its roof cutaway
+PASS Y03 interior is directly under correct visible shell
+PASS Y03 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/40
+PASS Y03 new roof has measurable vertical silhouette, not a flat cap
+PASS Y03 D04 facade/roof/interior use supported URP materials; invalid=
+PASS Y03 interior props have physical colliders
+PASS Y03 architectural detail adds no door-blocking colliders
+PASS Y03 added roof reveals interior and returns outside→inside→outside
+PASS Y03 entry anchor pairs are present
+PASS Y03 entry 0 has no new D04 collider in doorway
+PASS Y03 entry 0 reaches central aisle without new solid
+PASS Y03 entry 1 has no new D04 collider in doorway
+PASS Y03 entry 1 reaches central aisle without new solid
+PASS Y04 active visual, roof and interior center exist
+PASS Y04 facade belongs to correct building frame
+PASS Y04 architecture belongs to its roof cutaway
+PASS Y04 interior is directly under correct visible shell
+PASS Y04 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/20
+PASS Y04 new roof has measurable vertical silhouette, not a flat cap
+PASS Y04 D04 facade/roof/interior use supported URP materials; invalid=
+PASS Y04 interior props have physical colliders
+PASS Y04 architectural detail adds no door-blocking colliders
+PASS Y04 added roof reveals interior and returns outside→inside→outside
+PASS Y04 entry anchor pairs are present
+PASS Y04 entry 0 has no new D04 collider in doorway
+PASS Y04 entry 0 reaches central aisle without new solid
+PASS Y04 entry 1 has no new D04 collider in doorway
+PASS Y04 entry 1 reaches central aisle without new solid
+PASS Y05 active visual, roof and interior center exist
+PASS Y05 facade belongs to correct building frame
+PASS Y05 architecture belongs to its roof cutaway
+PASS Y05 interior is directly under correct visible shell
+PASS Y05 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/31
+PASS Y05 new roof has measurable vertical silhouette, not a flat cap
+PASS Y05 D04 facade/roof/interior use supported URP materials; invalid=
+PASS Y05 interior props have physical colliders
+PASS Y05 architectural detail adds no door-blocking colliders
+PASS Y05 added roof reveals interior and returns outside→inside→outside
+PASS Y05 entry anchor pairs are present
+PASS Y05 entry 0 has no new D04 collider in doorway
+PASS Y05 entry 0 reaches central aisle without new solid
+PASS Y05 entry 1 has no new D04 collider in doorway
+PASS Y05 entry 1 reaches central aisle without new solid
+PASS F01 active visual, roof and interior center exist
+PASS F01 facade belongs to correct building frame
+PASS F01 architecture belongs to its roof cutaway
+PASS F01 interior is directly under correct visible shell
+PASS F01 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/30
+PASS F01 new roof has measurable vertical silhouette, not a flat cap
+PASS F01 D04 facade/roof/interior use supported URP materials; invalid=
+PASS F01 interior props have physical colliders
+PASS F01 architectural detail adds no door-blocking colliders
+PASS F01 added roof reveals interior and returns outside→inside→outside
+PASS F01 entry anchor pairs are present
+PASS F01 entry 0 has no new D04 collider in doorway
+PASS F01 entry 0 reaches central aisle without new solid
+PASS F01 entry 1 has no new D04 collider in doorway
+PASS F01 entry 1 reaches central aisle without new solid
+PASS F02 active visual, roof and interior center exist
+PASS F02 facade belongs to correct building frame
+PASS F02 architecture belongs to its roof cutaway
+PASS F02 interior is directly under correct visible shell
+PASS F02 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/39
+PASS F02 new roof has measurable vertical silhouette, not a flat cap
+PASS F02 D04 facade/roof/interior use supported URP materials; invalid=
+PASS F02 interior props have physical colliders
+PASS F02 architectural detail adds no door-blocking colliders
+PASS F02 added roof reveals interior and returns outside→inside→outside
+PASS F02 entry anchor pairs are present
+PASS F02 entry 0 has no new D04 collider in doorway
+PASS F02 entry 0 reaches central aisle without new solid
+PASS F02 entry 1 has no new D04 collider in doorway
+PASS F02 entry 1 reaches central aisle without new solid
+PASS F03 active visual, roof and interior center exist
+PASS F03 facade belongs to correct building frame
+PASS F03 architecture belongs to its roof cutaway
+PASS F03 interior is directly under correct visible shell
+PASS F03 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/9
+PASS F03 new roof has measurable vertical silhouette, not a flat cap
+PASS F03 D04 facade/roof/interior use supported URP materials; invalid=
+PASS F03 interior props have physical colliders
+PASS F03 architectural detail adds no door-blocking colliders
+PASS F03 added roof reveals interior and returns outside→inside→outside
+PASS F03 entry anchor pairs are present
+PASS F03 entry 0 has no new D04 collider in doorway
+PASS F03 entry 0 reaches central aisle without new solid
+PASS F03 entry 1 has no new D04 collider in doorway
+PASS F03 entry 1 reaches central aisle without new solid
+PASS N17 active visual, roof and interior center exist
+PASS N17 facade belongs to correct building frame
+PASS N17 architecture belongs to its roof cutaway
+PASS N17 interior is directly under correct visible shell
+PASS N17 has multi-surface facade, shaped roof and modeled interior; renderers=1/1/30
+PASS N17 new roof has measurable vertical silhouette, not a flat cap
+PASS N17 D04 facade/roof/interior use supported URP materials; invalid=
+PASS N17 interior props have physical colliders
+PASS N17 architectural detail adds no door-blocking colliders
+PASS N17 added roof reveals interior and returns outside→inside→outside
+PASS N17 entry anchor pairs are present
+PASS N17 entry 0 has no new D04 collider in doorway
+PASS N17 entry 0 reaches central aisle without new solid
+PASS N17 entry 1 has no new D04 collider in doorway
+PASS N17 entry 1 reaches central aisle without new solid
+PASS CLINIC active visual, roof and interior center exist
+PASS CLINIC facade belongs to correct building frame
+PASS CLINIC architecture belongs to its roof cutaway
+PASS CLINIC interior is directly under correct visible shell
+PASS CLINIC has multi-surface facade, shaped roof and modeled interior; renderers=1/1/154
+PASS CLINIC new roof has measurable vertical silhouette, not a flat cap
+PASS CLINIC D04 facade/roof/interior use supported URP materials; invalid=
+PASS CLINIC interior props have physical colliders
+PASS CLINIC architectural detail adds no door-blocking colliders
+PASS CLINIC added roof reveals interior and returns outside→inside→outside
+PASS CLINIC entry anchor pairs are present
+PASS CLINIC entry 0 has no new D04 collider in doorway
+PASS CLINIC entry 0 reaches central aisle without new solid
+PASS POWER active visual, roof and interior center exist
+PASS POWER facade belongs to correct building frame
+PASS POWER architecture belongs to its roof cutaway
+PASS POWER interior is directly under correct visible shell
+PASS POWER has multi-surface facade, shaped roof and modeled interior; renderers=1/1/140
+PASS POWER new roof has measurable vertical silhouette, not a flat cap
+PASS POWER D04 facade/roof/interior use supported URP materials; invalid=
+PASS POWER interior props have physical colliders
+PASS POWER architectural detail adds no door-blocking colliders
+PASS POWER added roof reveals interior and returns outside→inside→outside
+PASS POWER entry anchor pairs are present
+PASS POWER entry 0 has no new D04 collider in doorway
+PASS POWER entry 0 reaches central aisle without new solid
+PASS PARTS active visual, roof and interior center exist
+PASS PARTS facade belongs to correct building frame
+PASS PARTS architecture belongs to its roof cutaway
+PASS PARTS interior is directly under correct visible shell
+PASS PARTS has multi-surface facade, shaped roof and modeled interior; renderers=1/1/246
+PASS PARTS new roof has measurable vertical silhouette, not a flat cap
+PASS PARTS D04 facade/roof/interior use supported URP materials; invalid=
+PASS PARTS interior props have physical colliders
+PASS PARTS architectural detail adds no door-blocking colliders
+PASS PARTS added roof reveals interior and returns outside→inside→outside
+PASS PARTS entry anchor pairs are present
+PASS PARTS entry 0 has no new D04 collider in doorway
+PASS PARTS entry 0 reaches central aisle without new solid
+PASS TOOLS active visual, roof and interior center exist
+PASS TOOLS facade belongs to correct building frame
+PASS TOOLS architecture belongs to its roof cutaway
+PASS TOOLS interior is directly under correct visible shell
+PASS TOOLS has multi-surface facade, shaped roof and modeled interior; renderers=1/1/39
+PASS TOOLS new roof has measurable vertical silhouette, not a flat cap
+PASS TOOLS D04 facade/roof/interior use supported URP materials; invalid=
+PASS TOOLS interior props have physical colliders
+PASS TOOLS architectural detail adds no door-blocking colliders
+PASS TOOLS added roof reveals interior and returns outside→inside→outside
+PASS TOOLS entry anchor pairs are present
+PASS TOOLS entry 0 has no new D04 collider in doorway
+PASS TOOLS entry 0 reaches central aisle without new solid
+PASS exactly E04 and W11 have dedicated D04 physical threshold ramps
+PASS E04 access ramp belongs to its V33 building, without replacing original foundation
+PASS E04 access ramp is a visible solid mesh with exactly one matching collider
+PASS E04 access ramp material renders in URP
+PASS E04 ramp is broad, gradual and meets retained walkable floor; width=2.30 run=1.82 rise=0.25
+PASS E04 ramp presents continuous walkable support along door approach
+PASS W11 access ramp belongs to its V33 building, without replacing original foundation
+PASS W11 access ramp is a visible solid mesh with exactly one matching collider
+PASS W11 access ramp material renders in URP
+PASS W11 ramp is broad, gradual and meets retained walkable floor; width=2.30 run=1.82 rise=0.31
+PASS W11 ramp presents continuous walkable support along door approach
+PASS collision-derived navigation builds with D04 interiors
+PASS N01 at least one physically open building entry; metadata_1
+PASS N01 real entry reaches central interior
+NOTE N01 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS N02 at least one physically open building entry; metadata_0
+PASS N02 real entry reaches central interior
+NOTE N02 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS N03 at least one physically open building entry; metadata_1
+PASS N03 real entry reaches central interior
+NOTE N03 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS N04 at least one physically open building entry; metadata_0
+PASS N04 real entry reaches central interior
+NOTE N04 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS N05 at least one physically open building entry; scanned_Zminus_0
+PASS N05 real entry reaches central interior
+NOTE N05 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS N06 at least one physically open building entry; scanned_Zminus_0
+PASS N06 real entry reaches central interior
+NOTE N06 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS N07 at least one physically open building entry; metadata_0,metadata_1
+PASS N07 real entry reaches central interior
+PASS N07 two physically open entries connect through interior
+PASS N08 at least one physically open building entry; metadata_1
+PASS N08 real entry reaches central interior
+NOTE N08 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS N09 at least one physically open building entry; metadata_0,scanned_Zplus_-3,scanned_Zplus_3
+PASS N09 real entry reaches central interior
+NOTE N09 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS N10 at least one physically open building entry; metadata_0,scanned_Zplus_-16
+PASS N10 real entry reaches central interior
+PASS N10 two physically open entries connect through interior
+PASS N11 at least one physically open building entry; metadata_1
+PASS N11 real entry reaches central interior
+NOTE N11 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS N12 at least one physically open building entry; metadata_1
+PASS N12 real entry reaches central interior
+NOTE N12 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS N13 at least one physically open building entry; metadata_0,scanned_Zplus_-17
+PASS N13 real entry reaches central interior
+PASS N13 two physically open entries connect through interior
+PASS N14 at least one physically open building entry; scanned_Xminus_-1
+PASS N14 real entry reaches central interior
+NOTE N14 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS N15 at least one physically open building entry; metadata_0,scanned_Zplus_-17
+PASS N15 real entry reaches central interior
+PASS N15 two physically open entries connect through interior
+PASS N16 at least one physically open building entry; scanned_Xminus_-1
+PASS N16 real entry reaches central interior
+NOTE N16 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS W01 at least one physically open building entry; scanned_Zminus_-1
+PASS W01 real entry reaches central interior
+NOTE W01 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS W02 at least one physically open building entry; metadata_1
+PASS W02 real entry reaches central interior
+NOTE W02 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS W03 at least one physically open building entry; metadata_1
+PASS W03 real entry reaches central interior
+NOTE W03 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS W04 at least one physically open building entry; scanned_Zminus_-1
+PASS W04 real entry reaches central interior
+NOTE W04 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS W05 at least one physically open building entry; metadata_0,scanned_Zplus_-12
+PASS W05 real entry reaches central interior
+PASS W05 two physically open entries connect through interior
+PASS W06 at least one physically open building entry; metadata_0,metadata_1
+PASS W06 real entry reaches central interior
+PASS W06 two physically open entries connect through interior
+PASS W07 at least one physically open building entry; metadata_1
+PASS W07 real entry reaches central interior
+NOTE W07 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS W08 at least one physically open building entry; metadata_0,scanned_Zplus_-17
+PASS W08 real entry reaches central interior
+PASS W08 two physically open entries connect through interior
+PASS W09 at least one physically open building entry; metadata_0
+PASS W09 real entry reaches central interior
+NOTE W09 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS W10 at least one physically open building entry; metadata_0,metadata_1
+PASS W10 real entry reaches central interior
+PASS W10 two physically open entries connect through interior
+PASS W11 at least one physically open building entry; metadata_0,metadata_1
+PASS W11 real entry reaches central interior
+PASS W11 two physically open entries connect through interior
+PASS C01 at least one physically open building entry; scanned_Xminus_-1
+PASS C01 real entry reaches central interior
+NOTE C01 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS C02 at least one physically open building entry; metadata_0,scanned_Zplus_-19
+PASS C02 real entry reaches central interior
+PASS C02 two physically open entries connect through interior
+PASS C03 at least one physically open building entry; metadata_0
+PASS C03 real entry reaches central interior
+NOTE C03 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS C04 at least one physically open building entry; metadata_0
+PASS C04 real entry reaches central interior
+NOTE C04 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS E01 at least one physically open building entry; metadata_0,scanned_Zplus_-17
+PASS E01 real entry reaches central interior
+PASS E01 two physically open entries connect through interior
+PASS E02 at least one physically open building entry; scanned_Xminus_0
+PASS E02 real entry reaches central interior
+NOTE E02 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS E03 at least one physically open building entry; metadata_1
+PASS E03 real entry reaches central interior
+NOTE E03 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS E04 at least one physically open building entry; metadata_0,scanned_Zminus_0
+PASS E04 real entry reaches central interior
+PASS E04 two physically open entries connect through interior
+PASS E05 at least one physically open building entry; metadata_1
+PASS E05 real entry reaches central interior
+NOTE E05 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS E06 at least one physically open building entry; scanned_Zminus_0
+PASS E06 real entry reaches central interior
+NOTE E06 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS E07 at least one physically open building entry; metadata_0,metadata_1
+PASS E07 real entry reaches central interior
+PASS E07 two physically open entries connect through interior
+PASS E08 at least one physically open building entry; metadata_1
+PASS E08 real entry reaches central interior
+NOTE E08 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS E09 at least one physically open building entry; metadata_0,scanned_Zminus_-2
+PASS E09 real entry reaches central interior
+PASS E09 two physically open entries connect through interior
+PASS E10 at least one physically open building entry; scanned_Zminus_-2
+PASS E10 real entry reaches central interior
+NOTE E10 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS E11 at least one physically open building entry; metadata_0,metadata_1
+PASS E11 real entry reaches central interior
+PASS E11 two physically open entries connect through interior
+PASS E12 at least one physically open building entry; metadata_0,metadata_1
+PASS E12 real entry reaches central interior
+PASS E12 two physically open entries connect through interior
+PASS S01 at least one physically open building entry; metadata_0,metadata_1
+PASS S01 real entry reaches central interior
+PASS S01 two physically open entries connect through interior
+PASS S02 at least one physically open building entry; metadata_0,metadata_1
+PASS S02 real entry reaches central interior
+PASS S02 two physically open entries connect through interior
+PASS S03 at least one physically open building entry; metadata_0,metadata_1
+PASS S03 real entry reaches central interior
+PASS S03 two physically open entries connect through interior
+PASS S04 at least one physically open building entry; metadata_0,metadata_1
+PASS S04 real entry reaches central interior
+PASS S04 two physically open entries connect through interior
+PASS S05 at least one physically open building entry; metadata_0,metadata_1
+PASS S05 real entry reaches central interior
+PASS S05 two physically open entries connect through interior
+PASS S06 at least one physically open building entry; metadata_0,metadata_1
+PASS S06 real entry reaches central interior
+PASS S06 two physically open entries connect through interior
+PASS S07 at least one physically open building entry; metadata_0,metadata_1
+PASS S07 real entry reaches central interior
+PASS S07 two physically open entries connect through interior
+PASS S08 at least one physically open building entry; metadata_0,metadata_1
+PASS S08 real entry reaches central interior
+PASS S08 two physically open entries connect through interior
+PASS S09 at least one physically open building entry; metadata_0,metadata_1
+PASS S09 real entry reaches central interior
+PASS S09 two physically open entries connect through interior
+PASS S10 at least one physically open building entry; metadata_0,metadata_1
+PASS S10 real entry reaches central interior
+PASS S10 two physically open entries connect through interior
+PASS S11 at least one physically open building entry; metadata_0,metadata_1
+PASS S11 real entry reaches central interior
+PASS S11 two physically open entries connect through interior
+PASS S12 at least one physically open building entry; metadata_0,metadata_1
+PASS S12 real entry reaches central interior
+PASS S12 two physically open entries connect through interior
+PASS Y01 at least one physically open building entry; metadata_1
+PASS Y01 real entry reaches central interior
+NOTE Y01 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS Y02 at least one physically open building entry; metadata_1
+PASS Y02 real entry reaches central interior
+NOTE Y02 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS Y03 at least one physically open building entry; scanned_Xminus_-1
+PASS Y03 real entry reaches central interior
+NOTE Y03 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS Y04 at least one physically open building entry; metadata_0,metadata_1
+PASS Y04 real entry reaches central interior
+PASS Y04 two physically open entries connect through interior
+PASS Y05 at least one physically open building entry; metadata_0,scanned_Zplus_-17
+PASS Y05 real entry reaches central interior
+PASS Y05 two physically open entries connect through interior
+PASS F01 at least one physically open building entry; scanned_Xminus_0
+PASS F01 real entry reaches central interior
+NOTE F01 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS F02 at least one physically open building entry; scanned_Zminus_0
+PASS F02 real entry reaches central interior
+NOTE F02 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS F03 at least one physically open building entry; metadata_1
+PASS F03 real entry reaches central interior
+NOTE F03 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS N17 at least one physically open building entry; metadata_0
+PASS N17 real entry reaches central interior
+NOTE N17 has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS CLINIC at least one physically open building entry; metadata_0
+PASS CLINIC real entry reaches central interior
+NOTE CLINIC has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS POWER at least one physically open building entry; metadata_0
+PASS POWER real entry reaches central interior
+NOTE POWER has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS PARTS at least one physically open building entry; metadata_0
+PASS PARTS real entry reaches central interior
+NOTE PARTS has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS TOOLS at least one physically open building entry; metadata_0
+PASS TOOLS real entry reaches central interior
+NOTE TOOLS has one confirmed physical entry; nominal closed-wall metadata is not a door
+PASS D03 alternative outdoor routes avoid new D04 interior/access solids; 0/3765 samples
+NOTE Existing outdoor obstacles are not counted as D04 regressions; D03 baseline validation remains separate.
+PASS retained V33 gate approaches avoid new D04 interior/access solids; 0/457 samples
+NOTE B4–R8 remain approximately 62.2m apart; R8 is an inactive risk-entry candidate. D04 does not alter spawn policy.
+NOTE Edit-mode geometry and NavMesh do not establish actual player passage; run D04 Play.
+passed=1198 failed=0
+RESULT PASS

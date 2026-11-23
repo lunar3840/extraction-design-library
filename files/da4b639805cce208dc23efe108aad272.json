@@ -1,0 +1,28 @@
+{
+  "thread": "01a1aa62-ae2b-7ac3-a99c-8fb67424d0b4",
+  "host": "DESKTOP-2TKQ90L",
+  "turns": [
+    {
+      "id": "01a1da2c-9405-7523-b3cc-9d670cd8c714",
+      "date": "2026-11-14",
+      "startedAt": 1794661717,
+      "contentSHA256": "354aaec33ec67694ab17ea637834eca5ba34ba1f792d8b0bb2d2b4164396fd65",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1da22-a1e3-7a01-955c-44d515d64af0",
+      "date": "2026-11-14",
+      "startedAt": 1794661065,
+      "contentSHA256": "5750d435122534b122cd474caf84d6f67f72963f83ff1e40fc3e8b86b12b22ff",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1d6e5-0dc8-78b3-af60-ba2a1139c4d0",
+      "date": "2026-11-14",
+      "startedAt": 1794606697,
+      "contentSHA256": "43e7586c11f30ec9cfde1667ce8052058bea1cff67e8353e7fa3265b504748a9",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    }
+  ],
+  "originals": "Local archive preserved; public owner reports are the source documents. Excluded retouch chats and private references are not included."
+}

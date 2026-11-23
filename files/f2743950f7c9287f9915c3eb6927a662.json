@@ -1,0 +1,70 @@
+{
+  "thread": "01a1aa62-ae2b-7ac3-a99c-8fb67424d0b4",
+  "host": "DESKTOP-2TKQ90L",
+  "turns": [
+    {
+      "id": "01a1def2-e9b5-7ab0-999b-a45b98190b9c",
+      "date": "2026-11-15",
+      "startedAt": 1794741824,
+      "contentSHA256": "14d79f63704cb41806825c822e59c06c11d2e826ce0ecd548a43752704879bf6",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1de1d-9c70-7232-95b4-7e5646def8ce",
+      "date": "2026-11-15",
+      "startedAt": 1794727845,
+      "contentSHA256": "b6b3d0b71988ca66561cfe4e982654c76668199f294feb50eb0042bae131475f",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1dbae-704c-7c03-ba10-86c68cb8e5e7",
+      "date": "2026-11-15",
+      "startedAt": 1794687004,
+      "contentSHA256": "e5aefdf914327389a13bf15803506b9c63e326db345619412c66ddaabe7e4297",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1db9d-c8e5-7bb3-bb89-191fab50f950",
+      "date": "2026-11-15",
+      "startedAt": 1794685913,
+      "contentSHA256": "be499335241b11829adc85be7c69546d258676014492757cb0f869594001b8f8",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1db97-affc-7c93-a3d2-1575090a1145",
+      "date": "2026-11-15",
+      "startedAt": 1794685513,
+      "contentSHA256": "fc62628f87c924dd02056024dec12945d4aa1382d8f9c5f4d80431dec3a54c09",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1db84-e166-7973-8959-d63fc95b2f4e",
+      "date": "2026-11-15",
+      "startedAt": 1794684281,
+      "contentSHA256": "6fbe84f2f99932c123d316722b714b3e036244106c5ca38b623e0f97801dff05",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1db7b-d81f-7580-9735-cf250003709e",
+      "date": "2026-11-15",
+      "startedAt": 1794683689,
+      "contentSHA256": "cbcc88b83356d90939d4c3f03b5c3d8d6344ebc55c98a31fecc40473160110a0",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1db51-80d8-7683-86ba-3e8ddd741858",
+      "date": "2026-11-15",
+      "startedAt": 1794680914,
+      "contentSHA256": "117cdbff4d8f5f2faefb570e99020e9023c6fca81306ad97b1fa14c040f1efd1",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1db49-7618-7b20-b4c9-85d7bcbffc49",
+      "date": "2026-11-15",
+      "startedAt": 1794680387,
+      "contentSHA256": "22606dd36ded96bf519702dab8058cd313325c3a0c42b657867451d73d9d2363",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    }
+  ],
+  "originals": "Local archive preserved; public owner reports are the source documents. Excluded retouch chats and private references are not included."
+}

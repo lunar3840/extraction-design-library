@@ -1,0 +1,14 @@
+STARTED 2026-10-14T03:04:40.5627421+09:00
+playing=False
+Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity dirty=False
+FAILED
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.InvalidOperationException: D11 broad vegetation coverage was filtered too heavily: low=65001, shrubs=907, trees=165
+  at Escape.EditorTools.StageAOutdoorD11Vegetation.Apply (Escape.Stage.Blockout.StageABlockoutMap map) [0x00454] in C:\UnityProject\escape\Assets\Escape\Editor\StageAOutdoorD11Vegetation.cs:220 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <8db6ec373e6d40bd9d38c8037d358c4e>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <8db6ec373e6d40bd9d38c8037d358c4e>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <8db6ec373e6d40bd9d38c8037d358c4e>:0 
+  at Escape.EditorTools.StageAOutdoorD11Workflow.Invoke (System.String type, System.String method, System.Object[] args) [0x00000] in C:\UnityProject\escape\Assets\Escape\Editor\StageAOutdoorD11Workflow.cs:49 
+  at Escape.EditorTools.StageAOutdoorD11Workflow.Apply (System.String label) [0x0004f] in C:\UnityProject\escape\Assets\Escape\Editor\StageAOutdoorD11Workflow.cs:102 
+  at Escape.EditorTools.StageAOutdoorD11Workflow.Poll () [0x001ee] in C:\UnityProject\escape\Assets\Escape\Editor\StageAOutdoorD11Workflow.cs:39 

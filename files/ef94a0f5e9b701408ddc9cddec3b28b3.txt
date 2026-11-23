@@ -1,0 +1,1200 @@
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(338,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(340,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(343,42): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(351,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(356,50): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(361,70): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(362,68): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(363,73): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAInteriorV36bValidation.cs(678,17): warning CS0219: The variable 'originalIndex' is assigned but its value is never used
+[802/808    1s] ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Assembly-CSharp.dll (+pdb)
+Processing assembly Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll, with 129 defines and 292 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+
+running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[803/808    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb
+[804/808    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll
+[805/808    0s] ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll, with 127 defines and 314 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+
+running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[806/808    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+[807/808    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+*** Tundra build success (10.54 seconds), 11 items updated, 808 evaluated
+Assets\Escape\Runtime\UI\WeaponModelThumbnails.cs(230,21): warning CS0108: 'WeaponModelThumbnails.DestroyObject(Object)' hides inherited member 'Object.DestroyObject(Object)'. Use the new keyword if hiding was intended.
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(120,34): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(120,66): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(177,36): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Story\CutsceneContext.cs(77,36): warning CS0618: 'Object.FindObjectsOfType<T>()' is obsolete: 'Object.FindObjectsOfType has been deprecated. Use Object.FindObjectsByType instead which lets you decide whether you need the results sorted or not.  FindObjectsOfType sorts the results by InstanceID but if you do not need this using FindObjectSortMode.None is considerably faster.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(38,29): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(38,42): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(42,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(43,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(50,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(51,30): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(57,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(59,34): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(70,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(77,48): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(89,66): warning CS0618: 'NavMeshPolyTypes' is obsolete: 'The experimental NavMeshPolyTypes enum has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(179,30): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(180,31): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(180,57): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(181,24): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(181,56): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(373,31): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(374,13): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(177,17): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(177,38): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(179,33): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(182,21): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(184,21): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(188,21): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(189,21): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(191,38): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(197,21): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(200,50): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(207,39): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(208,39): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(209,40): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(209,72): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(210,33): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(210,62): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(211,40): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(211,72): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(212,33): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(321,13): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(322,17): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(324,29): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(327,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(329,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(338,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(340,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(343,42): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(351,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(356,50): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(361,70): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(362,68): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(363,73): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAInteriorV36bValidation.cs(678,17): warning CS0219: The variable 'originalIndex' is assigned but its value is never used
+Reloading assemblies after finishing script compilation.
+Reloading assemblies after forced synchronous recompile.
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.334 seconds
+Refreshing native plugins compatible for Editor in 2.01 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+Cannot add menu item 'Escape/Stage A/Run Density V04 Shot Checks' for method 'Escape.Tests.StageAMachineRolesChecks.RunShotChecks' because a menu item with the same name already exists.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEditor.MenuItemScriptCommand:Update (UnityEditor.MenuItem,System.Reflection.MethodInfo)
+UnityEditor.MenuService:ExtractMenuItemsFromAttributes ()
+UnityEditor.MenuService:GetMenuItemsFromAttributesById (string)
+UnityEditor.MenuService:GetMenuItemsFromAttributes ()
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.265 seconds
+Domain Reload Profiling: 4604ms
+	BeginReloadAssembly (800ms)
+		ExecutionOrderSort (1ms)
+		DisableScriptedObjects (117ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (9ms)
+		CreateAndSetChildDomain (421ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (1471ms)
+		LoadAssemblies (1281ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (315ms)
+			TypeCache.Refresh (33ms)
+				TypeCache.ScanAssembly (17ms)
+			BuildScriptInfoCaches (262ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (2266ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1021ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (29ms)
+			SetLoadedEditorAssemblies (13ms)
+			BeforeProcessingInitializeOnLoad (304ms)
+			ProcessInitializeOnLoadAttributes (601ms)
+			ProcessInitializeOnLoadMethodAttributes (69ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (1ms)
+		AwakeInstancesAfterBackupRestoration (612ms)
+Asset Pipeline Refresh (id=7c1e88f88cfdb54419541f47f7fdc4ef): Total: 4.872 seconds - Initiated by StopAssetImportingV2(ForceSynchronousImport | ForceDomainReload)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=2479 ms
+		Asset DB Callback time: managed=24 ms, native=0 ms
+		Scripting: domain reloads=1, domain reload time=2366 ms, compile time=1 ms, other=0 ms
+		Project Asset Count: scripts=1899, non-scripts=12430
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokeCustomDependenciesCallbacks: 0.002ms
+	InvokePackagesCallback: 1.954ms
+	ApplyChangesToAssetFolders: 0.490ms
+	Scan: 0.000ms
+	OnSourceAssetsModified: 0.002ms
+	CategorizeAssetsWithTransientArtifact: 0.009ms
+	ProcessAssetsWithTransientArtifactChanges: 7.043ms
+	CategorizeAssets: 132.627ms
+	ImportOutOfDateAssets: 2284.140ms (2268.137ms without children)
+		CompileScripts: 1.202ms
+		CollectScriptTypesHashes: 5.618ms
+		ReloadNativeAssets: 5.500ms
+		UnloadImportedAssets: 0.140ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 2.401ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 1.140ms
+	PostProcessAllAssets: 24.296ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.682ms
+	UnloadStreamsBegin: 0.164ms
+	PersistCurrentRevisions: 0.465ms
+	UnloadStreamsEnd: 0.002ms
+	GenerateScriptTypeHashes: 3.441ms
+	Untracked: 2420.578ms
+
+[ScriptCompilation] Requested script compilation because: Assetdatabase observed changes in script compilation related files
+AssetDatabase: script compilation time: 0.000829s
+Start importing Assets/EdelValidationTemporary using Guid(4b69687c5646e99499b08c56bc090d35) (DefaultImporter) -> (artifact id: '0aa8335ff4c9b7ac4785341d3f383141') in 0.0154766 seconds
+[Licensing::Client] Successfully resolved entitlement details
+Refreshing native plugins compatible for Editor in 5.83 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=74811ea6f7c77f646bf638cf9a056b34): Total: 0.498 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=2 ms, native=173 ms
+		Asset DB Callback time: managed=251 ms, native=69 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=1 ms, other=0 ms
+		Project Asset Count: scripts=1900, non-scripts=12430
+		Asset File Changes: new=6, changed=7, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.001ms
+	ApplyChangesToAssetFolders: 0.214ms
+	Scan: 54.651ms
+	OnSourceAssetsModified: 0.795ms
+	CategorizeAssetsWithTransientArtifact: 0.082ms
+	ProcessAssetsWithTransientArtifactChanges: 1.441ms
+	CategorizeAssets: 20.227ms
+	ImportOutOfDateAssets: 31.758ms (0.079ms without children)
+		ImportManagerImport: 20.677ms (1.681ms without children)
+			ImportInProcess: 18.954ms
+			UpdateCategorizedAssets: 0.041ms
+		CompileScripts: 0.866ms
+		ReloadNativeAssets: 6.572ms
+		UnloadImportedAssets: 0.324ms
+		ReloadImportedAssets: 0.000ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 2.222ms
+		InitializingProgressBar: 0.001ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 1.017ms
+	PostProcessAllAssets: 247.063ms
+	Hotreload: 73.229ms
+	GatherAllCurrentPrimaryArtifactRevisions: 1.011ms
+	UnloadStreamsBegin: 0.257ms
+	PersistCurrentRevisions: 0.917ms
+	UnloadStreamsEnd: 0.002ms
+	Untracked: 66.288ms
+
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping application/grpc -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping application/grpc - - 200 - application/grpc 0.0818ms
+Starting: C:\Program Files\Unity\Hub\Editor\6000.1.0f1\Editor\Data\bee_backend.exe --dont-print-to-structured-log --ipc --defer-dag-verification --dagfile="Library/Bee/1900b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: C:/UnityProject/escape
+Starting: C:\Program Files\Unity\Hub\Editor\6000.1.0f1\Editor\Data\Tools\netcorerun\netcorerun.exe "C:\Program Files\Unity\Hub\Editor\6000.1.0f1\Editor\Data\Tools\BuildPipeline\ScriptCompilationBuildProgram.exe" "Library/Bee/1900b0aE.dag.json" "Library/Bee/1900b0aE-inputdata.json" "Library\Bee\buildprogram0.traceevents"
+WorkingDir: C:/UnityProject/escapeExitCode: 4 Duration: 0s192ms
+Rebuilding DAG because FileSignature timestamp changed: Library/Bee/1900b0aE-inputdata.json
+*** Tundra requires additional run (0.16 seconds), 0 items updated, 448 evaluated
+
+ExitCode: 0 Duration: 0s669ms
+Starting: C:\Program Files\Unity\Hub\Editor\6000.1.0f1\Editor\Data\bee_backend.exe --dont-print-to-structured-log --ipc --defer-dag-verification --dagfile="Library/Bee/1900b0aE.dag" --continue-on-failure --dagfilejson="Library\Bee\1900b0aE.dag.json" --profile="Library/Bee/backend2.traceevents" ScriptAssemblies
+WorkingDir: C:/UnityProject/escape
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors application/grpc -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+info: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Current configuration matches the requested one, skipping
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors application/grpc - - 200 - application/grpc 0.6356ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      Processing assembly Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll, with 129 defines and 292 references
+info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running Unity.Jobs.CodeGen.JobsILPostProcessor
+info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc - - 200 - application/grpc 681.5648ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      Processing assembly Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll, with 127 defines and 314 references
+info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running Unity.Jobs.CodeGen.JobsILPostProcessor
+info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc - - 200 - application/grpc 432.9558ms
+ExitCode: 0 Duration: 6s698ms
+Finished compiling graph: 811 nodes, 13686 flattened edges (11222 ToBuild, 126 ToUse), maximum node priority 863
+[445/808    0s] WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp
+[446/808    0s] WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp
+[634/808    0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[800/808    0s] Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll (+2 others)
+Assets\Escape\Runtime\UI\WeaponModelThumbnails.cs(230,21): warning CS0108: 'WeaponModelThumbnails.DestroyObject(Object)' hides inherited member 'Object.DestroyObject(Object)'. Use the new keyword if hiding was intended.
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(120,34): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(120,66): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(177,36): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Story\CutsceneContext.cs(77,36): warning CS0618: 'Object.FindObjectsOfType<T>()' is obsolete: 'Object.FindObjectsOfType has been deprecated. Use Object.FindObjectsByType instead which lets you decide whether you need the results sorted or not.  FindObjectsOfType sorts the results by InstanceID but if you do not need this using FindObjectSortMode.None is considerably faster.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(38,29): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(38,42): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(42,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(43,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(50,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(51,30): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(57,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(59,34): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(70,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(77,48): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(89,66): warning CS0618: 'NavMeshPolyTypes' is obsolete: 'The experimental NavMeshPolyTypes enum has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(179,30): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(180,31): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(180,57): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(181,24): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(181,56): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+[801/808    0s] ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Assembly-CSharp.dll (+pdb)
+Processing assembly Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll, with 129 defines and 292 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+
+running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[802/808    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb
+[803/808    1s] Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(373,31): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(374,13): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(177,17): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(177,38): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(179,33): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(182,21): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(184,21): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(188,21): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(189,21): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(191,38): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(197,21): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(200,50): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(207,39): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(208,39): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(209,40): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(209,72): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(210,33): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(210,62): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(211,40): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(211,72): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(212,33): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(321,13): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(322,17): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(324,29): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(327,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(329,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(338,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(340,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(343,42): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(351,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(356,50): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(361,70): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(362,68): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(363,73): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAInteriorV36bValidation.cs(678,17): warning CS0219: The variable 'originalIndex' is assigned but its value is never used
+[804/808    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll
+[805/808    0s] ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll, with 127 defines and 314 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+
+running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[806/808    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+[807/808    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+*** Tundra build success (6.68 seconds), 11 items updated, 808 evaluated
+Assets\Escape\Runtime\UI\WeaponModelThumbnails.cs(230,21): warning CS0108: 'WeaponModelThumbnails.DestroyObject(Object)' hides inherited member 'Object.DestroyObject(Object)'. Use the new keyword if hiding was intended.
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(120,34): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(120,66): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(177,36): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Story\CutsceneContext.cs(77,36): warning CS0618: 'Object.FindObjectsOfType<T>()' is obsolete: 'Object.FindObjectsOfType has been deprecated. Use Object.FindObjectsByType instead which lets you decide whether you need the results sorted or not.  FindObjectsOfType sorts the results by InstanceID but if you do not need this using FindObjectSortMode.None is considerably faster.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(38,29): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(38,42): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(42,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(43,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(50,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(51,30): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(57,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(59,34): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(70,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(77,48): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(89,66): warning CS0618: 'NavMeshPolyTypes' is obsolete: 'The experimental NavMeshPolyTypes enum has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(179,30): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(180,31): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(180,57): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(181,24): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(181,56): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(373,31): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(374,13): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(177,17): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(177,38): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(179,33): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(182,21): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(184,21): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(188,21): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(189,21): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(191,38): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(197,21): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(200,50): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(207,39): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(208,39): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(209,40): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(209,72): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(210,33): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(210,62): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(211,40): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(211,72): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(212,33): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(321,13): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(322,17): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(324,29): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(327,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(329,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(338,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(340,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(343,42): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(351,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(356,50): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(361,70): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(362,68): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(363,73): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAInteriorV36bValidation.cs(678,17): warning CS0219: The variable 'originalIndex' is assigned but its value is never used
+Reloading assemblies after finishing script compilation.
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+Total cache size 268409013
+Total cache size after purge 268409013, took 00:00:00.3816766
+- Loaded All Assemblies, in  1.942 seconds
+Refreshing native plugins compatible for Editor in 1.95 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+Cannot add menu item 'Escape/Stage A/Run Density V04 Shot Checks' for method 'Escape.Tests.StageAMachineRolesChecks.RunShotChecks' because a menu item with the same name already exists.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEditor.MenuItemScriptCommand:Update (UnityEditor.MenuItem,System.Reflection.MethodInfo)
+UnityEditor.MenuService:ExtractMenuItemsFromAttributes ()
+UnityEditor.MenuService:GetMenuItemsFromAttributesById (string)
+UnityEditor.MenuService:GetMenuItemsFromAttributes ()
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.071 seconds
+Domain Reload Profiling: 4018ms
+	BeginReloadAssembly (1086ms)
+		ExecutionOrderSort (1ms)
+		DisableScriptedObjects (110ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (26ms)
+		CreateAndSetChildDomain (429ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (790ms)
+		LoadAssemblies (629ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (287ms)
+			TypeCache.Refresh (32ms)
+				TypeCache.ScanAssembly (16ms)
+			BuildScriptInfoCaches (235ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (2071ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (930ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (29ms)
+			SetLoadedEditorAssemblies (15ms)
+			BeforeProcessingInitializeOnLoad (272ms)
+			ProcessInitializeOnLoadAttributes (554ms)
+			ProcessInitializeOnLoadMethodAttributes (57ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (1ms)
+		AwakeInstancesAfterBackupRestoration (548ms)
+Refreshing native plugins compatible for Editor in 1.50 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=743956bb052953f479b5857839d23556): Total: 4.357 seconds - Initiated by StopAssetImportingV2(ForceSynchronousImport | ForceDomainReload)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=2280 ms
+		Asset DB Callback time: managed=52 ms, native=60 ms
+		Scripting: domain reloads=1, domain reload time=1961 ms, compile time=1 ms, other=0 ms
+		Project Asset Count: scripts=1900, non-scripts=12430
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 2.216ms
+	ApplyChangesToAssetFolders: 0.488ms
+	Scan: 0.001ms
+	OnSourceAssetsModified: 0.002ms
+	CategorizeAssetsWithTransientArtifact: 0.004ms
+	ProcessAssetsWithTransientArtifactChanges: 11.552ms
+	CategorizeAssets: 130.935ms
+	ImportOutOfDateAssets: 2088.207ms (2074.654ms without children)
+		CompileScripts: 1.426ms
+		CollectScriptTypesHashes: 3.164ms
+		ReloadNativeAssets: 5.394ms
+		UnloadImportedAssets: 0.005ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 2.723ms
+		InitializingProgressBar: 0.001ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.001ms
+		OnDemandSchedulerStart: 0.840ms
+	PostProcessAllAssets: 54.141ms
+	Hotreload: 58.834ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.688ms
+	UnloadStreamsBegin: 0.131ms
+	PersistCurrentRevisions: 0.714ms
+	UnloadStreamsEnd: 0.004ms
+	GenerateScriptTypeHashes: 3.386ms
+	Untracked: 2008.588ms
+
+PASS prototype offers exactly Serin and the temporary second companion
+PASS new profile starts with Serin connected in camp
+PASS old schema-three JSON has no chip version or selection
+PASS pre-chip schema-three save migrates to Serin without a disk write
+PASS camp chip swap commits once and notifies after success
+PASS chip selection preserves backpack contents, positions and live ownership
+PASS selected companion is persisted in profile metadata
+PASS selecting the connected chip does not write or notify again
+PASS chip selection survives JSON save and reload
+PASS camp can intentionally disconnect the chip
+PASS version-one empty selection stays disconnected after reload
+PASS no-chip departure stays in camp without a save or lock
+PASS serin clean chip cannot enter backpack or storage item grids
+PASS prototype clean chip cannot enter backpack or storage item grids
+PASS inventory restore rejects a forged clean chip cargo entry
+PASS full-backpack fixture occupies every item entry
+PASS full backpack permits roster equip and disconnect without moving any cargo
+PASS connect Serin for persistence failure fixture
+PASS failed save preserves chip, profile revision and backpack and sends no notification
+PASS unknown, empty-string and unpurified cargo ids cannot connect
+PASS departure enters the chip-locked surface session
+PASS stage rejects disconnect, swap and redundant equip below the UI layer
+PASS extraction retains the chip and restores camp selection
+PASS another chip can deploy after returning to camp
+PASS death fixture reaches the locked return state
+PASS dead session also rejects chip removal and swapping
+PASS death return clears ordinary equipment but retains the clean roster chip
+PASS clean chips never become grave loot
+PASS chip disconnect is available after death return
+PASS reject malformed companion version -1
+PASS reject malformed companion version 2
+PASS reject malformed companion version 2147483647
+PASS validation rejects unknown companion id 7
+PASS validation rejects unknown companion id 1
+PASS validation rejects unknown companion id 5
+PASS validation rejects unknown companion id 256
+PASS migration rejects a selection with missing version
+PASS inventory chip selector reaches authoritative camp API
+PASS chip slot stays above armor/weapons and does not start portrait drag
+PASS frozen inventory cannot change chip
+PASS Escape cancels a queued chip selection before late update
+PASS same inventory selector rejects removal and swap in raid
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Escape.Tests.CompanionChipChecks:Run () (at Assets/Escape/Editor/CompanionChipChecks.cs:139)
+EdelPlayModeValidation:Poll () (at Assets/Escape/Editor/EdelPlayModeValidation.cs:36)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Escape/Editor/CompanionChipChecks.cs Line: 139)
+
+PASS legacy removed nodes refunded, retained ranks and high point balance preserved
+PASS migration is idempotent after JSON round trip
+PASS invalid legacy ranks rejected before refund
+PASS failed research save rolls back money, both inventories and rank
+PASS independent research consumes storage first with exact price
+PASS protected research material never consumed
+PASS training material fixture 0 trade_c_026
+PASS training material fixture 0 trade_c_005
+PASS training material fixture 1 trade_c_026
+PASS training material fixture 1 trade_b_012
+PASS training material fixture 1 trade_b_013
+PASS training material fixture 1 trade_m_001
+PASS training material fixture 2 trade_b_016
+PASS training material fixture 2 trade_b_017
+PASS training material fixture 2 trade_m_002
+PASS training material fixture 2 trade_m_003
+PASS training material fixture 2 trade_a_006
+PASS training material fixture 2 trade_m_004
+PASS advanced choice locked before training
+PASS training save failure preserves materials, money and rank
+PASS first training opens exactly first pair
+PASS three training ranks cap with twelve stage-specific material units
+PASS character training and choices independent
+PASS choice save failure keeps old choice
+PASS UI cannot mutate persistent choices through returned data
+PASS research target allows current projects only
+PASS target and individual choices survive save/load
+PASS research fixture departure
+PASS all growth mutations prohibited during sortie
+PASS death preserves common and character growth
+PASS waiting cannot farm ultimate charge
+PASS ultimate capped, consumes exactly once, blocked attempt free
+PASS active ultimate cannot be retriggered
+PASS tactical cooldown prevents repeat use
+PASS timed effects expire and tactical becomes available
+PASS invalid numeric input cannot corrupt resources
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Escape.Tests.GrowthReworkChecks:Run () (at Assets/Escape/Editor/GrowthReworkChecks.cs:60)
+EdelPlayModeValidation:Poll () (at Assets/Escape/Editor/EdelPlayModeValidation.cs:37)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Escape/Editor/GrowthReworkChecks.cs Line: 60)
+
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 163407 unused Assets / (Unknown). Loaded Objects now: 11511.
+Memory consumption went from 3.78 GB to 1.48 GB.
+Total: 257.203700 ms (FindLiveObjects: 8.620100 ms CreateObjectMapping: 8.250800 ms MarkObjects: 14.933700 ms  DeleteObjects: 225.396800 ms)
+
+Reloading assemblies for play mode.
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.096 seconds
+Refreshing native plugins compatible for Editor in 3.22 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.714 seconds
+Domain Reload Profiling: 3814ms
+	BeginReloadAssembly (716ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (74ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (456ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (302ms)
+		LoadAssemblies (172ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (233ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (206ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (2715ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1174ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (36ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (162ms)
+			ProcessInitializeOnLoadAttributes (882ms)
+			ProcessInitializeOnLoadMethodAttributes (86ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (933ms)
+Asset Pipeline Refresh (id=849665c631510a14a9e8d4134c6c8c54): Total: 4.116 seconds - Initiated by StopAssetImportingV2(ForceSynchronousImport | ForceDomainReload)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=2961 ms
+		Asset DB Callback time: managed=37 ms, native=0 ms
+		Scripting: domain reloads=1, domain reload time=1115 ms, compile time=2 ms, other=0 ms
+		Project Asset Count: scripts=1900, non-scripts=12430
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 2.271ms
+	ApplyChangesToAssetFolders: 0.636ms
+	Scan: 0.001ms
+	OnSourceAssetsModified: 0.003ms
+	CategorizeAssetsWithTransientArtifact: 0.006ms
+	ProcessAssetsWithTransientArtifactChanges: 8.360ms
+	CategorizeAssets: 162.670ms
+	ImportOutOfDateAssets: 2732.140ms (2723.760ms without children)
+		CompileScripts: 1.719ms
+		CollectScriptTypesHashes: 0.781ms
+		ReloadNativeAssets: 1.097ms
+		UnloadImportedAssets: 0.239ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 3.294ms
+		InitializingProgressBar: 0.001ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.001ms
+		OnDemandSchedulerStart: 1.248ms
+	PostProcessAllAssets: 37.202ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.635ms
+	UnloadStreamsBegin: 0.139ms
+	PersistCurrentRevisions: 0.556ms
+	UnloadStreamsEnd: 0.002ms
+	GenerateScriptTypeHashes: 4.395ms
+	Untracked: 1171.408ms
+
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            0.532 ms
+	Integration:            317.920 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.063 ms
+	Total Operation Time:   318.517 ms
+Unloading 5796 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            0.474 ms
+	Integration:            292.981 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       0.040 ms
+	Total Operation Time:   293.498 ms
+Unloading 163370 unused Assets / (1.29 GB). Loaded Objects now: 11860.
+Memory consumption went from 3.18 GB to 1.88 GB.
+Total: 232.059900 ms (FindLiveObjects: 10.992400 ms CreateObjectMapping: 9.847200 ms MarkObjects: 16.292900 ms  DeleteObjects: 194.919000 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity'
+	Deserialize:            12.153 ms
+	Integration:            11768.905 ms
+	Integration of assets:  0.023 ms
+	Thread Wait Time:       0.015 ms
+	Total Operation Time:   11781.097 ms
+Unloading 20 unused Assets / (0.5 KB). Loaded Objects now: 319543.
+Memory consumption went from 3.19 GB to 3.19 GB.
+Total: 70.539000 ms (FindLiveObjects: 28.031400 ms CreateObjectMapping: 15.537400 ms MarkObjects: 26.304000 ms  DeleteObjects: 0.665000 ms)
+
+Request Asset Garbage Collect because used heap size increased from 3.19 GB to 4.33 GB, exceeding the threshold of 0.79 GB.
+Unloading 6501 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4 unused Assets / (0.5 KB). Loaded Objects now: 320460.
+Memory consumption went from 4.31 GB to 4.31 GB.
+Total: 79.292600 ms (FindLiveObjects: 27.184200 ms CreateObjectMapping: 18.932100 ms MarkObjects: 32.124100 ms  DeleteObjects: 1.050700 ms)
+
+Scanning for USB devices : 2.199ms
+Cannot add menu item 'Escape/Stage A/Run Density V04 Shot Checks' for method 'Escape.Tests.StageAMachineRolesChecks.RunShotChecks' because a menu item with the same name already exists.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEditor.MenuItemScriptCommand:Update (UnityEditor.MenuItem,System.Reflection.MethodInfo)
+UnityEditor.MenuService:ExtractMenuItemsFromAttributes ()
+UnityEditor.MenuService:GetMenuItemsFromAttributesById (string)
+UnityEditor.MenuService:GetMenuItemsFromAttributes ()
+UnityEditor.EditorApplication:ExecuteMenuItemInternal (string,bool)
+UnityEditor.EditorApplication:ExecuteMenuItem (string)
+UnityEditor.ShortcutManagement.MenuItemEntryDiscoveryInfo:<.ctor>b__7_0 (UnityEditor.ShortcutManagement.ShortcutArguments)
+UnityEditor.ShortcutManagement.Trigger:ExecuteShortcut (UnityEditor.ShortcutManagement.ShortcutEntry,UnityEditor.ShortcutManagement.ShortcutStage,object,bool)
+UnityEditor.ShortcutManagement.Trigger:HandleKeyEvent (UnityEngine.Event,UnityEditor.ShortcutManagement.IContextManager)
+UnityEditor.ShortcutManagement.ShortcutController:HandleKeyEvent (UnityEngine.Event)
+UnityEditor.ShortcutManagement.ShortcutIntegration:EventHandler ()
+UnityEditor.EditorApplication:Internal_CallGlobalEventHandler ()
+
+[ScriptCompilation] Requested script compilation because: Assetdatabase observed changes in script compilation related files
+AssetDatabase: script compilation time: 0.000815s
+[Licensing::Client] Successfully resolved entitlement details
+Refreshing native plugins compatible for Editor in 1.66 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=01d30828784a5be439db629417b20789): Total: 0.452 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=143 ms
+		Asset DB Callback time: managed=241 ms, native=66 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=1 ms, other=0 ms
+		Project Asset Count: scripts=1899, non-scripts=12430
+		Asset File Changes: new=0, changed=0, moved=0, deleted=6
+		Scan Filter Count: 0
+	InvokeCustomDependenciesCallbacks: 0.001ms
+	InvokePackagesCallback: 0.002ms
+	ApplyChangesToAssetFolders: 0.252ms
+	Scan: 26.916ms
+	OnSourceAssetsModified: 1.122ms
+	CategorizeAssetsWithTransientArtifact: 0.105ms
+	ProcessAssetsWithTransientArtifactChanges: 0.300ms
+	UnregisterDeletedAssets: 0.011ms
+	CategorizeAssets: 30.057ms
+	ImportOutOfDateAssets: 9.067ms (0.084ms without children)
+		CompileScripts: 0.849ms
+		ReloadNativeAssets: 4.714ms
+		UnloadImportedAssets: 0.365ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 2.011ms
+		InitializingProgressBar: 0.000ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.001ms
+		OnDemandSchedulerStart: 1.042ms
+	PostProcessAllAssets: 239.738ms
+	Hotreload: 67.151ms
+	GatherAllCurrentPrimaryArtifactRevisions: 1.050ms
+	UnloadStreamsBegin: 0.004ms
+	PersistCurrentRevisions: 1.572ms
+	UnloadStreamsEnd: 0.003ms
+	Untracked: 74.678ms
+
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping application/grpc -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/Ping'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/Ping application/grpc - - 200 - application/grpc 0.1199ms
+Starting: C:\Program Files\Unity\Hub\Editor\6000.1.0f1\Editor\Data\bee_backend.exe --dont-print-to-structured-log --ipc --defer-dag-verification --dagfile="Library/Bee/1900b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: C:/UnityProject/escape
+ExitCode: 4 Duration: 0s142ms
+Rebuilding DAG because FileSignature timestamp changed: Library/Bee/1900b0aE-inputdata.json
+*** Tundra requires additional run (0.11 seconds), 0 items updated, 188 evaluated
+Starting: C:\Program Files\Unity\Hub\Editor\6000.1.0f1\Editor\Data\Tools\netcorerun\netcorerun.exe "C:\Program Files\Unity\Hub\Editor\6000.1.0f1\Editor\Data\Tools\BuildPipeline\ScriptCompilationBuildProgram.exe" "Library/Bee/1900b0aE.dag.json" "Library/Bee/1900b0aE-inputdata.json" "Library\Bee\buildprogram0.traceevents"
+WorkingDir: C:/UnityProject/escape
+ExitCode: 0 Duration: 0s697ms
+Starting: C:\Program Files\Unity\Hub\Editor\6000.1.0f1\Editor\Data\bee_backend.exe --dont-print-to-structured-log --ipc --defer-dag-verification --dagfile="Library/Bee/1900b0aE.dag" --continue-on-failure --dagfilejson="Library\Bee\1900b0aE.dag.json" --profile="Library/Bee/backend2.traceevents" ScriptAssemblies
+WorkingDir: C:/UnityProject/escape
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors application/grpc -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+info: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Current configuration matches the requested one, skipping
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/ConfigurePostProcessors'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/ConfigurePostProcessors application/grpc - - 200 - application/grpc 0.8282ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      Processing assembly Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll, with 129 defines and 292 references
+info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running Unity.Jobs.CodeGen.JobsILPostProcessor
+info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc - - 200 - application/grpc 114.6943ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      Processing assembly Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll, with 127 defines and 314 references
+info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running Unity.Jobs.CodeGen.JobsILPostProcessor
+info: Unity.ILPP.Runner.PostProcessingPipeline[0]
+      running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc - - 200 - application/grpc 418.3467ms
+ExitCode: 0 Duration: 6s893ms
+Finished compiling graph: 811 nodes, 13686 flattened edges (11222 ToBuild, 126 ToUse), maximum node priority 863
+[445/808    0s] WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp
+[446/808    0s] WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp
+[634/808    0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[800/808    0s] Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll (+2 others)
+Assets\Escape\Runtime\UI\WeaponModelThumbnails.cs(230,21): warning CS0108: 'WeaponModelThumbnails.DestroyObject(Object)' hides inherited member 'Object.DestroyObject(Object)'. Use the new keyword if hiding was intended.
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(120,34): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(120,66): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(177,36): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Story\CutsceneContext.cs(77,36): warning CS0618: 'Object.FindObjectsOfType<T>()' is obsolete: 'Object.FindObjectsOfType has been deprecated. Use Object.FindObjectsByType instead which lets you decide whether you need the results sorted or not.  FindObjectsOfType sorts the results by InstanceID but if you do not need this using FindObjectSortMode.None is considerably faster.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(38,29): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(38,42): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(42,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(43,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(50,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(51,30): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(57,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(59,34): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(70,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(77,48): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(89,66): warning CS0618: 'NavMeshPolyTypes' is obsolete: 'The experimental NavMeshPolyTypes enum has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(179,30): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(180,31): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(180,57): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(181,24): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(181,56): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+[801/808    0s] ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Assembly-CSharp.dll (+pdb)
+Processing assembly Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll, with 129 defines and 292 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+
+running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[802/808    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb
+[803/808    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll
+[804/808    1s] Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(373,31): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(374,13): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(321,13): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(322,17): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(324,29): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(327,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(329,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(338,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(340,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(343,42): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(351,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(356,50): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(361,70): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(362,68): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(363,73): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAInteriorV36bValidation.cs(678,17): warning CS0219: The variable 'originalIndex' is assigned but its value is never used
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(177,17): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(177,38): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(179,33): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(182,21): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(184,21): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(188,21): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(189,21): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(191,38): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(197,21): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(200,50): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(207,39): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(208,39): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(209,40): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(209,72): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(210,33): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(210,62): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(211,40): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(211,72): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(212,33): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+[805/808    0s] ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll, with 127 defines and 314 references
+
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+
+running zzzUnity.Burst.CodeGen.BurstILPostProcessor
+[806/808    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+[807/808    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+*** Tundra build success (6.87 seconds), 11 items updated, 808 evaluated
+Assets\Escape\Runtime\UI\WeaponModelThumbnails.cs(230,21): warning CS0108: 'WeaponModelThumbnails.DestroyObject(Object)' hides inherited member 'Object.DestroyObject(Object)'. Use the new keyword if hiding was intended.
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(120,34): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(120,66): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(177,36): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Story\CutsceneContext.cs(77,36): warning CS0618: 'Object.FindObjectsOfType<T>()' is obsolete: 'Object.FindObjectsOfType has been deprecated. Use Object.FindObjectsByType instead which lets you decide whether you need the results sorted or not.  FindObjectsOfType sorts the results by InstanceID but if you do not need this using FindObjectSortMode.None is considerably faster.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(38,29): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(38,42): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(42,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(43,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(50,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(51,30): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(57,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(59,34): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(70,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(77,48): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(89,66): warning CS0618: 'NavMeshPolyTypes' is obsolete: 'The experimental NavMeshPolyTypes enum has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(179,30): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(180,31): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(180,57): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(181,24): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Runtime\Stage\Blockout\StageALongRouteV17.cs(181,56): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(373,31): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(374,13): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(321,13): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(322,17): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(324,29): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(327,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(329,17): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(338,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(340,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(343,42): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(351,17): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(356,50): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(361,70): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(362,68): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAFactoryV12Validation.cs(363,73): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAInteriorV36bValidation.cs(678,17): warning CS0219: The variable 'originalIndex' is assigned but its value is never used
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(177,17): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(177,38): warning CS0618: 'NavMeshWorld' is obsolete: 'The experimental NavMeshWorld struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(179,33): warning CS0618: 'NavMeshQuery' is obsolete: 'The experimental NavMeshQuery struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(182,21): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(184,21): warning CS0618: 'NavMeshLocation' is obsolete: 'The experimental NavMeshLocation struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(188,21): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(189,21): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(191,38): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(197,21): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(200,50): warning CS0618: 'PolygonId' is obsolete: 'The experimental PolygonId struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(207,39): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(208,39): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(209,40): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(209,72): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(210,33): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(210,62): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(211,40): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(211,72): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Assets\Escape\Editor\StageAAssetsV16Validation.cs(212,33): warning CS0618: 'PathQueryStatus' is obsolete: 'The experimental PathQueryStatus struct has been deprecated without replacement.'
+Reloading assemblies after finishing script compilation.
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+Total cache size 268409013
+Total cache size after purge 268409013, took 00:00:00.3730566
+- Loaded All Assemblies, in  2.230 seconds
+Refreshing native plugins compatible for Editor in 2.80 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+Cannot add menu item 'Escape/Stage A/Run Density V04 Shot Checks' for method 'Escape.Tests.StageAMachineRolesChecks.RunShotChecks' because a menu item with the same name already exists.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEditor.MenuItemScriptCommand:Update (UnityEditor.MenuItem,System.Reflection.MethodInfo)
+UnityEditor.MenuService:ExtractMenuItemsFromAttributes ()
+UnityEditor.MenuService:GetMenuItemsFromAttributesById (string)
+UnityEditor.MenuService:GetMenuItemsFromAttributes ()
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.179 seconds
+Domain Reload Profiling: 4414ms
+	BeginReloadAssembly (1031ms)
+		ExecutionOrderSort (1ms)
+		DisableScriptedObjects (81ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (10ms)
+		CreateAndSetChildDomain (440ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (1134ms)
+		LoadAssemblies (968ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (287ms)
+			TypeCache.Refresh (31ms)
+				TypeCache.ScanAssembly (18ms)
+			BuildScriptInfoCaches (236ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (2179ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1025ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (28ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (306ms)
+			ProcessInitializeOnLoadAttributes (611ms)
+			ProcessInitializeOnLoadMethodAttributes (69ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (1ms)
+		AwakeInstancesAfterBackupRestoration (588ms)
+Asset Pipeline Refresh (id=5f126ae0046868d4eae8647236d3a286): Total: 4.666 seconds - Initiated by StopAssetImportingV2(ForceSynchronousImport | ForceDomainReload)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=2389 ms
+		Asset DB Callback time: managed=26 ms, native=0 ms
+		Scripting: domain reloads=1, domain reload time=2248 ms, compile time=1 ms, other=0 ms
+		Project Asset Count: scripts=1899, non-scripts=12430
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokeCustomDependenciesCallbacks: 0.002ms
+	InvokePackagesCallback: 2.037ms
+	ApplyChangesToAssetFolders: 0.571ms
+	Scan: 0.001ms
+	OnSourceAssetsModified: 0.001ms
+	CategorizeAssetsWithTransientArtifact: 0.005ms
+	ProcessAssetsWithTransientArtifactChanges: 8.563ms
+	CategorizeAssets: 126.225ms
+	ImportOutOfDateAssets: 2199.683ms (2183.444ms without children)
+		CompileScripts: 1.200ms
+		CollectScriptTypesHashes: 3.740ms
+		ReloadNativeAssets: 6.544ms
+		UnloadImportedAssets: 0.353ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 3.192ms
+		InitializingProgressBar: 0.001ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.001ms
+		OnDemandSchedulerStart: 1.208ms
+	PostProcessAllAssets: 26.822ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.679ms
+	UnloadStreamsBegin: 0.249ms
+	PersistCurrentRevisions: 0.530ms
+	UnloadStreamsEnd: 0.002ms
+	GenerateScriptTypeHashes: 3.261ms
+	Untracked: 2300.868ms
+

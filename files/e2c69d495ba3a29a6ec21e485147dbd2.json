@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "url": "https://extraction-balance-editor.ehojin0415.chatgpt.site",
+  "version": 7,
+  "rows": 12931,
+  "datasets": 103,
+  "sourceFingerprint": "7dae3ef2c6cfcc501fd08cdacdaba5ce0cddde4710f4ae120bdbf41d8d773f8e",
+  "valuesUnchanged": true,
+  "appliedValuesUnchanged": true,
+  "publicAuthenticated": false,
+  "impactAssetSha256": "99fcaf98ecb73bab79a3f29159f419a682bbe6fcca5780397e3a121d3e5f8df3",
+  "impactScriptPresent": true,
+  "verifiedAt": "2026-10-27T10:22:29.152Z"
+}

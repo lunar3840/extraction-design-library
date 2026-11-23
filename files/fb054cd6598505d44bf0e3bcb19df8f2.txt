@@ -1,0 +1,1451 @@
+STAGE_A_FACTORY_V12_VALIDATION BEFORE
+generatedUtc=2026-09-21T11:38:39.9077679Z
+scene=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity
+appliedAssetContract=False
+result=PASS
+passes=1439
+failures=0
+navigationPaths=219
+playerCapsuleRoutes=93
+roofVisibilityChecks=58
+
+
+PASS active retained scene is loaded
+PASS active scene contains exactly one StageABlockoutMap (actual=1)
+PASS retained map has StageABlockoutStructureV08
+PASS retained map has a referenced v09 walkable surface root
+PASS retained map has StageAEnvironmentV09
+PASS retained map has StageADistrictV11
+PASS map spawn references count=12 expected=12
+PASS map spawn references contain no missing objects
+PASS basic B entry references count=4 expected=4
+PASS basic B entry references contain no missing objects
+PASS map exit references count=7 expected=7
+PASS map exit references contain no missing objects
+PASS landmark interior references count=5 expected=5
+PASS landmark interior references contain no missing objects
+PASS roof visibility zones are retained
+PASS roof zone 0 has a live roof reference
+PASS roof zone 1 has a live roof reference
+PASS roof zone 2 has a live roof reference
+PASS roof zone 3 has a live roof reference
+PASS roof zone 4 has a live roof reference
+PASS roof zone 5 has a live roof reference
+PASS roof zone 6 has a live roof reference
+PASS roof zone 7 has a live roof reference
+PASS roof zone 8 has a live roof reference
+PASS roof zone 9 has a live roof reference
+PASS roof zone 10 has a live roof reference
+PASS roof zone 11 has a live roof reference
+PASS roof zone 12 has a live roof reference
+PASS roof zone 13 has a live roof reference
+PASS roof zone 14 has a live roof reference
+PASS roof zone 15 has a live roof reference
+PASS roof zone 16 has a live roof reference
+PASS roof zone 17 has a live roof reference
+PASS roof zone 18 has a live roof reference
+PASS roof zone 19 has a live roof reference
+PASS roof zone 20 has a live roof reference
+PASS roof zone 21 has a live roof reference
+PASS roof zone 22 has a live roof reference
+PASS roof zone 23 has a live roof reference
+PASS roof zone 24 has a live roof reference
+PASS roof zone 25 has a live roof reference
+PASS roof zone 26 has a live roof reference
+PASS roof zone 27 has a live roof reference
+PASS roof zone 28 has a live roof reference
+PASS roof zone 29 has a live roof reference
+PASS roof zone 30 has a live roof reference
+PASS roof zone 31 has a live roof reference
+PASS roof zone 32 has a live roof reference
+PASS roof zone 33 has a live roof reference
+PASS roof zone 34 has a live roof reference
+PASS roof zone 35 has a live roof reference
+PASS roof zone 36 has a live roof reference
+PASS roof zone 37 has a live roof reference
+PASS roof zone 38 has a live roof reference
+PASS roof zone 39 has a live roof reference
+PASS roof zone 40 has a live roof reference
+PASS roof zone 41 has a live roof reference
+PASS roof zone 42 has a live roof reference
+PASS roof zone 43 has a live roof reference
+PASS roof zone 44 has a live roof reference
+PASS roof zone 45 has a live roof reference
+PASS roof zone 46 has a live roof reference
+PASS roof zone 47 has a live roof reference
+PASS roof zone 48 has a live roof reference
+PASS roof zone 49 has a live roof reference
+PASS roof zone 50 has a live roof reference
+PASS roof zone 51 has a live roof reference
+PASS roof zone 52 has a live roof reference
+PASS roof zone 53 has a live roof reference
+PASS roof zone 54 has a live roof reference
+PASS CLINIC landmark anchor exists
+PASS CLINIC interior anchor exists
+PASS CLINIC roof anchor exists
+PASS CLINIC doorway anchor exists
+PASS TOOLS landmark anchor exists
+PASS TOOLS interior anchor exists
+PASS TOOLS roof anchor exists
+PASS TOOLS doorway anchor exists
+PASS HALL landmark anchor exists
+PASS HALL interior anchor exists
+PASS HALL roof anchor exists
+PASS HALL doorway anchor exists
+PASS POWER landmark anchor exists
+PASS POWER interior anchor exists
+PASS POWER roof anchor exists
+PASS POWER doorway anchor exists
+PASS PARTS landmark anchor exists
+PASS PARTS interior anchor exists
+PASS PARTS roof anchor exists
+PASS PARTS doorway anchor exists
+PASS v09 environment records are retained
+PASS v09 accessible building count remains 10 (actual=10)
+PASS ENV09_BUILDING_W_REPAIR_BAY v09 gameplay references are complete
+PASS ENV09_BUILDING_W_REPAIR_BAY v09 visual/roof references are complete
+PASS ENV09_BUILDING_W_PARTS_LOCKER v09 gameplay references are complete
+PASS ENV09_BUILDING_W_PARTS_LOCKER v09 visual/roof references are complete
+PASS ENV09_BUILDING_SW_RUIN_HOME_A v09 gameplay references are complete
+PASS ENV09_BUILDING_SW_RUIN_HOME_A v09 visual/roof references are complete
+PASS ENV09_BUILDING_SW_RUIN_HOME_B v09 gameplay references are complete
+PASS ENV09_BUILDING_SW_RUIN_HOME_B v09 visual/roof references are complete
+PASS ENV09_BUILDING_SW_RUIN_ROW v09 gameplay references are complete
+PASS ENV09_BUILDING_SW_RUIN_ROW v09 visual/roof references are complete
+PASS ENV09_BUILDING_S_OPEN_SCRAP_SHED v09 gameplay references are complete
+PASS ENV09_BUILDING_S_OPEN_SCRAP_SHED v09 visual/roof references are complete
+PASS ENV09_BUILDING_S_DISPATCH_SHACK v09 gameplay references are complete
+PASS ENV09_BUILDING_S_DISPATCH_SHACK v09 visual/roof references are complete
+PASS ENV09_BUILDING_E_CABLE_WAREHOUSE v09 gameplay references are complete
+PASS ENV09_BUILDING_E_CABLE_WAREHOUSE v09 visual/roof references are complete
+PASS ENV09_BUILDING_E_CONTROL_HUT v09 gameplay references are complete
+PASS ENV09_BUILDING_E_CONTROL_HUT v09 visual/roof references are complete
+PASS ENV09_BUILDING_E_MAINT_GARAGE v09 gameplay references are complete
+PASS ENV09_BUILDING_E_MAINT_GARAGE v09 visual/roof references are complete
+PASS v11 district retains 39 records (actual=39)
+PASS ENV11_BUILDING_NWC_01 gameplay/door references are complete
+PASS ENV11_BUILDING_NWC_01 roof reference is complete
+PASS ENV11_BUILDING_NWC_02 gameplay/door references are complete
+PASS ENV11_BUILDING_NWC_02 roof reference is complete
+PASS ENV11_BUILDING_NWC_03 gameplay/door references are complete
+PASS ENV11_BUILDING_NWC_03 roof reference is complete
+PASS ENV11_BUILDING_WM_01 gameplay/door references are complete
+PASS ENV11_BUILDING_WM_01 roof reference is complete
+PASS ENV11_BUILDING_WM_02 gameplay/door references are complete
+PASS ENV11_BUILDING_WM_02 roof reference is complete
+PASS ENV11_BUILDING_WM_03 gameplay/door references are complete
+PASS ENV11_BUILDING_WM_03 roof reference is complete
+PASS ENV11_BUILDING_WM_04 gameplay/door references are complete
+PASS ENV11_BUILDING_WM_04 roof reference is complete
+PASS ENV11_BUILDING_WM_05 gameplay/door references are complete
+PASS ENV11_BUILDING_WM_05 roof reference is complete
+PASS ENV11_BUILDING_WM_06 gameplay/door references are complete
+PASS ENV11_BUILDING_WM_06 roof reference is complete
+PASS ENV11_BUILDING_WM_07 gameplay/door references are complete
+PASS ENV11_BUILDING_WM_07 roof reference is complete
+PASS ENV11_BUILDING_WM_08 gameplay/door references are complete
+PASS ENV11_BUILDING_WM_08 roof reference is complete
+PASS ENV11_BUILDING_WM_09 gameplay/door references are complete
+PASS ENV11_BUILDING_WM_09 roof reference is complete
+PASS ENV11_BUILDING_SWR_01 gameplay/door references are complete
+PASS ENV11_BUILDING_SWR_01 roof reference is complete
+PASS ENV11_BUILDING_SWR_02 gameplay/door references are complete
+PASS ENV11_BUILDING_SWR_02 roof reference is complete
+PASS ENV11_BUILDING_SWR_03 gameplay/door references are complete
+PASS ENV11_BUILDING_SWR_03 roof reference is complete
+PASS ENV11_BUILDING_SWR_04 gameplay/door references are complete
+PASS ENV11_BUILDING_SWR_04 roof reference is complete
+PASS ENV11_BUILDING_SWR_05 gameplay/door references are complete
+PASS ENV11_BUILDING_SWR_05 roof reference is complete
+PASS ENV11_BUILDING_SWR_06 gameplay/door references are complete
+PASS ENV11_BUILDING_SWR_06 roof reference is complete
+PASS ENV11_BUILDING_SWR_07 gameplay/door references are complete
+PASS ENV11_BUILDING_SWR_07 roof reference is complete
+PASS ENV11_BUILDING_SWR_08 gameplay/door references are complete
+PASS ENV11_BUILDING_SWR_08 roof reference is complete
+PASS ENV11_BUILDING_SWR_09 gameplay/door references are complete
+PASS ENV11_BUILDING_SWR_09 roof reference is complete
+PASS ENV11_BUILDING_SWR_10 gameplay/door references are complete
+PASS ENV11_BUILDING_SWR_10 roof reference is complete
+PASS ENV11_BUILDING_SWR_11 gameplay/door references are complete
+PASS ENV11_BUILDING_SWR_11 roof reference is complete
+PASS ENV11_BUILDING_SWR_12 gameplay/door references are complete
+PASS ENV11_BUILDING_SWR_12 roof reference is complete
+PASS ENV11_BUILDING_SWR_13 gameplay/door references are complete
+PASS ENV11_BUILDING_SWR_13 roof reference is complete
+PASS ENV11_BUILDING_SWR_14 gameplay/door references are complete
+PASS ENV11_BUILDING_SWR_14 roof reference is complete
+PASS ENV11_BUILDING_SS_01 gameplay/door references are complete
+PASS ENV11_BUILDING_SS_01 roof reference is complete
+PASS ENV11_BUILDING_SS_02 gameplay/door references are complete
+PASS ENV11_BUILDING_SS_02 roof reference is complete
+PASS ENV11_BUILDING_SS_03 gameplay/door references are complete
+PASS ENV11_BUILDING_SS_03 roof reference is complete
+PASS ENV11_BUILDING_SS_04 gameplay/door references are complete
+PASS ENV11_BUILDING_SS_04 roof reference is complete
+PASS ENV11_BUILDING_SS_05 gameplay/door references are complete
+PASS ENV11_BUILDING_SS_05 roof reference is complete
+PASS ENV11_BUILDING_EU_01 gameplay/door references are complete
+PASS ENV11_BUILDING_EU_01 roof reference is complete
+PASS ENV11_BUILDING_EU_02 gameplay/door references are complete
+PASS ENV11_BUILDING_EU_02 roof reference is complete
+PASS ENV11_BUILDING_NWC_04 gameplay/door references are complete
+PASS ENV11_BUILDING_NWC_04 roof reference is complete
+PASS ENV11_BUILDING_SS_06 gameplay/door references are complete
+PASS ENV11_BUILDING_SS_06 roof reference is complete
+PASS ENV11_BUILDING_EU_03 gameplay/door references are complete
+PASS ENV11_BUILDING_EU_03 roof reference is complete
+PASS ENV11_BUILDING_EU_04 gameplay/door references are complete
+PASS ENV11_BUILDING_EU_04 roof reference is complete
+PASS ENV11_BUILDING_EU_05 gameplay/door references are complete
+PASS ENV11_BUILDING_EU_05 roof reference is complete
+PASS ENV11_BUILDING_EU_06 gameplay/door references are complete
+PASS ENV11_BUILDING_EU_06 roof reference is complete
+PASS retained map has active mesh renderers
+PASS render inventory: factory meshes=0, rusty vehicle meshes=0, barricade meshes=0, converted materials=0
+PASS roof cases include v08 landmarks
+PASS roof cases include v09 buildings
+PASS roof cases include v11 buildings
+PASS v08 CLINIC current roof is registered in map visibility zones
+PASS v08 CLINIC has active roof renderers
+PASS v08 CLINIC is visible from exterior
+PASS v08 CLINIC hides from its interior
+PASS v08 CLINIC restores after leaving its interior
+PASS v08 TOOLS current roof is registered in map visibility zones
+PASS v08 TOOLS has active roof renderers
+PASS v08 TOOLS is visible from exterior
+PASS v08 TOOLS hides from its interior
+PASS v08 TOOLS restores after leaving its interior
+PASS v08 HALL current roof is registered in map visibility zones
+PASS v08 HALL has active roof renderers
+PASS v08 HALL is visible from exterior
+PASS v08 HALL hides from its interior
+PASS v08 HALL restores after leaving its interior
+PASS v08 POWER current roof is registered in map visibility zones
+PASS v08 POWER has active roof renderers
+PASS v08 POWER is visible from exterior
+PASS v08 POWER hides from its interior
+PASS v08 POWER restores after leaving its interior
+PASS v08 PARTS current roof is registered in map visibility zones
+PASS v08 PARTS has active roof renderers
+PASS v08 PARTS is visible from exterior
+PASS v08 PARTS hides from its interior
+PASS v08 PARTS restores after leaving its interior
+PASS v09 ENV09_BUILDING_W_REPAIR_BAY current roof is registered in map visibility zones
+PASS v09 ENV09_BUILDING_W_REPAIR_BAY has active roof renderers
+PASS v09 ENV09_BUILDING_W_REPAIR_BAY is visible from exterior
+PASS v09 ENV09_BUILDING_W_REPAIR_BAY hides from its interior
+PASS v09 ENV09_BUILDING_W_REPAIR_BAY restores after leaving its interior
+PASS v09 ENV09_BUILDING_W_PARTS_LOCKER current roof is registered in map visibility zones
+PASS v09 ENV09_BUILDING_W_PARTS_LOCKER has active roof renderers
+PASS v09 ENV09_BUILDING_W_PARTS_LOCKER is visible from exterior
+PASS v09 ENV09_BUILDING_W_PARTS_LOCKER hides from its interior
+PASS v09 ENV09_BUILDING_W_PARTS_LOCKER restores after leaving its interior
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_A current roof is registered in map visibility zones
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_A has active roof renderers
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_A is visible from exterior
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_A hides from its interior
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_A restores after leaving its interior
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_B current roof is registered in map visibility zones
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_B has active roof renderers
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_B is visible from exterior
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_B hides from its interior
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_B restores after leaving its interior
+PASS v09 ENV09_BUILDING_SW_RUIN_ROW current roof is registered in map visibility zones
+PASS v09 ENV09_BUILDING_SW_RUIN_ROW has active roof renderers
+PASS v09 ENV09_BUILDING_SW_RUIN_ROW is visible from exterior
+PASS v09 ENV09_BUILDING_SW_RUIN_ROW hides from its interior
+PASS v09 ENV09_BUILDING_SW_RUIN_ROW restores after leaving its interior
+PASS v09 ENV09_BUILDING_S_OPEN_SCRAP_SHED current roof is registered in map visibility zones
+PASS v09 ENV09_BUILDING_S_OPEN_SCRAP_SHED has active roof renderers
+PASS v09 ENV09_BUILDING_S_OPEN_SCRAP_SHED is visible from exterior
+PASS v09 ENV09_BUILDING_S_OPEN_SCRAP_SHED hides from its interior
+PASS v09 ENV09_BUILDING_S_OPEN_SCRAP_SHED restores after leaving its interior
+PASS v09 ENV09_BUILDING_S_DISPATCH_SHACK current roof is registered in map visibility zones
+PASS v09 ENV09_BUILDING_S_DISPATCH_SHACK has active roof renderers
+PASS v09 ENV09_BUILDING_S_DISPATCH_SHACK is visible from exterior
+PASS v09 ENV09_BUILDING_S_DISPATCH_SHACK hides from its interior
+PASS v09 ENV09_BUILDING_S_DISPATCH_SHACK restores after leaving its interior
+PASS v09 ENV09_BUILDING_E_CABLE_WAREHOUSE current roof is registered in map visibility zones
+PASS v09 ENV09_BUILDING_E_CABLE_WAREHOUSE has active roof renderers
+PASS v09 ENV09_BUILDING_E_CABLE_WAREHOUSE is visible from exterior
+PASS v09 ENV09_BUILDING_E_CABLE_WAREHOUSE hides from its interior
+PASS v09 ENV09_BUILDING_E_CABLE_WAREHOUSE restores after leaving its interior
+PASS v09 ENV09_BUILDING_E_CONTROL_HUT current roof is registered in map visibility zones
+PASS v09 ENV09_BUILDING_E_CONTROL_HUT has active roof renderers
+PASS v09 ENV09_BUILDING_E_CONTROL_HUT is visible from exterior
+PASS v09 ENV09_BUILDING_E_CONTROL_HUT hides from its interior
+PASS v09 ENV09_BUILDING_E_CONTROL_HUT restores after leaving its interior
+PASS v09 ENV09_BUILDING_E_MAINT_GARAGE current roof is registered in map visibility zones
+PASS v09 ENV09_BUILDING_E_MAINT_GARAGE has active roof renderers
+PASS v09 ENV09_BUILDING_E_MAINT_GARAGE is visible from exterior
+PASS v09 ENV09_BUILDING_E_MAINT_GARAGE hides from its interior
+PASS v09 ENV09_BUILDING_E_MAINT_GARAGE restores after leaving its interior
+PASS v11 ENV11_BUILDING_NWC_01 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_NWC_01 has active roof renderers
+PASS v11 ENV11_BUILDING_NWC_01 is visible from exterior
+PASS v11 ENV11_BUILDING_NWC_01 hides from its interior
+PASS v11 ENV11_BUILDING_NWC_01 restores after leaving its interior
+PASS v11 ENV11_BUILDING_NWC_02 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_NWC_02 has active roof renderers
+PASS v11 ENV11_BUILDING_NWC_02 is visible from exterior
+PASS v11 ENV11_BUILDING_NWC_02 hides from its interior
+PASS v11 ENV11_BUILDING_NWC_02 restores after leaving its interior
+PASS v11 ENV11_BUILDING_NWC_03 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_NWC_03 has active roof renderers
+PASS v11 ENV11_BUILDING_NWC_03 is visible from exterior
+PASS v11 ENV11_BUILDING_NWC_03 hides from its interior
+PASS v11 ENV11_BUILDING_NWC_03 restores after leaving its interior
+PASS v11 ENV11_BUILDING_WM_01 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_WM_01 has active roof renderers
+PASS v11 ENV11_BUILDING_WM_01 is visible from exterior
+PASS v11 ENV11_BUILDING_WM_01 hides from its interior
+PASS v11 ENV11_BUILDING_WM_01 restores after leaving its interior
+PASS v11 ENV11_BUILDING_WM_02 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_WM_02 has active roof renderers
+PASS v11 ENV11_BUILDING_WM_02 is visible from exterior
+PASS v11 ENV11_BUILDING_WM_02 hides from its interior
+PASS v11 ENV11_BUILDING_WM_02 restores after leaving its interior
+PASS v11 ENV11_BUILDING_WM_03 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_WM_03 has active roof renderers
+PASS v11 ENV11_BUILDING_WM_03 is visible from exterior
+PASS v11 ENV11_BUILDING_WM_03 hides from its interior
+PASS v11 ENV11_BUILDING_WM_03 restores after leaving its interior
+PASS v11 ENV11_BUILDING_WM_04 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_WM_04 has active roof renderers
+PASS v11 ENV11_BUILDING_WM_04 is visible from exterior
+PASS v11 ENV11_BUILDING_WM_04 hides from its interior
+PASS v11 ENV11_BUILDING_WM_04 restores after leaving its interior
+PASS v11 ENV11_BUILDING_WM_05 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_WM_05 has active roof renderers
+PASS v11 ENV11_BUILDING_WM_05 is visible from exterior
+PASS v11 ENV11_BUILDING_WM_05 hides from its interior
+PASS v11 ENV11_BUILDING_WM_05 restores after leaving its interior
+PASS v11 ENV11_BUILDING_WM_06 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_WM_06 has active roof renderers
+PASS v11 ENV11_BUILDING_WM_06 is visible from exterior
+PASS v11 ENV11_BUILDING_WM_06 hides from its interior
+PASS v11 ENV11_BUILDING_WM_06 restores after leaving its interior
+PASS v11 ENV11_BUILDING_WM_07 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_WM_07 has active roof renderers
+PASS v11 ENV11_BUILDING_WM_07 is visible from exterior
+PASS v11 ENV11_BUILDING_WM_07 hides from its interior
+PASS v11 ENV11_BUILDING_WM_07 restores after leaving its interior
+PASS v11 ENV11_BUILDING_WM_08 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_WM_08 has active roof renderers
+PASS v11 ENV11_BUILDING_WM_08 is visible from exterior
+PASS v11 ENV11_BUILDING_WM_08 hides from its interior
+PASS v11 ENV11_BUILDING_WM_08 restores after leaving its interior
+PASS v11 ENV11_BUILDING_WM_09 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_WM_09 has active roof renderers
+PASS v11 ENV11_BUILDING_WM_09 is visible from exterior
+PASS v11 ENV11_BUILDING_WM_09 hides from its interior
+PASS v11 ENV11_BUILDING_WM_09 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SWR_01 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SWR_01 has active roof renderers
+PASS v11 ENV11_BUILDING_SWR_01 is visible from exterior
+PASS v11 ENV11_BUILDING_SWR_01 hides from its interior
+PASS v11 ENV11_BUILDING_SWR_01 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SWR_02 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SWR_02 has active roof renderers
+PASS v11 ENV11_BUILDING_SWR_02 is visible from exterior
+PASS v11 ENV11_BUILDING_SWR_02 hides from its interior
+PASS v11 ENV11_BUILDING_SWR_02 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SWR_03 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SWR_03 has active roof renderers
+PASS v11 ENV11_BUILDING_SWR_03 is visible from exterior
+PASS v11 ENV11_BUILDING_SWR_03 hides from its interior
+PASS v11 ENV11_BUILDING_SWR_03 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SWR_04 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SWR_04 has active roof renderers
+PASS v11 ENV11_BUILDING_SWR_04 is visible from exterior
+PASS v11 ENV11_BUILDING_SWR_04 hides from its interior
+PASS v11 ENV11_BUILDING_SWR_04 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SWR_05 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SWR_05 has active roof renderers
+PASS v11 ENV11_BUILDING_SWR_05 is visible from exterior
+PASS v11 ENV11_BUILDING_SWR_05 hides from its interior
+PASS v11 ENV11_BUILDING_SWR_05 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SWR_06 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SWR_06 has active roof renderers
+PASS v11 ENV11_BUILDING_SWR_06 is visible from exterior
+PASS v11 ENV11_BUILDING_SWR_06 hides from its interior
+PASS v11 ENV11_BUILDING_SWR_06 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SWR_07 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SWR_07 has active roof renderers
+PASS v11 ENV11_BUILDING_SWR_07 is visible from exterior
+PASS v11 ENV11_BUILDING_SWR_07 hides from its interior
+PASS v11 ENV11_BUILDING_SWR_07 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SWR_08 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SWR_08 has active roof renderers
+PASS v11 ENV11_BUILDING_SWR_08 is visible from exterior
+PASS v11 ENV11_BUILDING_SWR_08 hides from its interior
+PASS v11 ENV11_BUILDING_SWR_08 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SWR_09 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SWR_09 has active roof renderers
+PASS v11 ENV11_BUILDING_SWR_09 is visible from exterior
+PASS v11 ENV11_BUILDING_SWR_09 hides from its interior
+PASS v11 ENV11_BUILDING_SWR_09 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SWR_10 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SWR_10 has active roof renderers
+PASS v11 ENV11_BUILDING_SWR_10 is visible from exterior
+PASS v11 ENV11_BUILDING_SWR_10 hides from its interior
+PASS v11 ENV11_BUILDING_SWR_10 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SWR_11 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SWR_11 has active roof renderers
+PASS v11 ENV11_BUILDING_SWR_11 is visible from exterior
+PASS v11 ENV11_BUILDING_SWR_11 hides from its interior
+PASS v11 ENV11_BUILDING_SWR_11 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SWR_12 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SWR_12 has active roof renderers
+PASS v11 ENV11_BUILDING_SWR_12 is visible from exterior
+PASS v11 ENV11_BUILDING_SWR_12 hides from its interior
+PASS v11 ENV11_BUILDING_SWR_12 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SWR_13 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SWR_13 has active roof renderers
+PASS v11 ENV11_BUILDING_SWR_13 is visible from exterior
+PASS v11 ENV11_BUILDING_SWR_13 hides from its interior
+PASS v11 ENV11_BUILDING_SWR_13 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SWR_14 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SWR_14 has active roof renderers
+PASS v11 ENV11_BUILDING_SWR_14 is visible from exterior
+PASS v11 ENV11_BUILDING_SWR_14 hides from its interior
+PASS v11 ENV11_BUILDING_SWR_14 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SS_01 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SS_01 has active roof renderers
+PASS v11 ENV11_BUILDING_SS_01 is visible from exterior
+PASS v11 ENV11_BUILDING_SS_01 hides from its interior
+PASS v11 ENV11_BUILDING_SS_01 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SS_02 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SS_02 has active roof renderers
+PASS v11 ENV11_BUILDING_SS_02 is visible from exterior
+PASS v11 ENV11_BUILDING_SS_02 hides from its interior
+PASS v11 ENV11_BUILDING_SS_02 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SS_03 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SS_03 has active roof renderers
+PASS v11 ENV11_BUILDING_SS_03 is visible from exterior
+PASS v11 ENV11_BUILDING_SS_03 hides from its interior
+PASS v11 ENV11_BUILDING_SS_03 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SS_04 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SS_04 has active roof renderers
+PASS v11 ENV11_BUILDING_SS_04 is visible from exterior
+PASS v11 ENV11_BUILDING_SS_04 hides from its interior
+PASS v11 ENV11_BUILDING_SS_04 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SS_05 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SS_05 has active roof renderers
+PASS v11 ENV11_BUILDING_SS_05 is visible from exterior
+PASS v11 ENV11_BUILDING_SS_05 hides from its interior
+PASS v11 ENV11_BUILDING_SS_05 restores after leaving its interior
+PASS v11 ENV11_BUILDING_EU_01 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_EU_01 has active roof renderers
+PASS v11 ENV11_BUILDING_EU_01 is visible from exterior
+PASS v11 ENV11_BUILDING_EU_01 hides from its interior
+PASS v11 ENV11_BUILDING_EU_01 restores after leaving its interior
+PASS v11 ENV11_BUILDING_EU_02 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_EU_02 has active roof renderers
+PASS v11 ENV11_BUILDING_EU_02 is visible from exterior
+PASS v11 ENV11_BUILDING_EU_02 hides from its interior
+PASS v11 ENV11_BUILDING_EU_02 restores after leaving its interior
+PASS v11 ENV11_BUILDING_NWC_04 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_NWC_04 has active roof renderers
+PASS v11 ENV11_BUILDING_NWC_04 is visible from exterior
+PASS v11 ENV11_BUILDING_NWC_04 hides from its interior
+PASS v11 ENV11_BUILDING_NWC_04 restores after leaving its interior
+PASS v11 ENV11_BUILDING_SS_06 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_SS_06 has active roof renderers
+PASS v11 ENV11_BUILDING_SS_06 is visible from exterior
+PASS v11 ENV11_BUILDING_SS_06 hides from its interior
+PASS v11 ENV11_BUILDING_SS_06 restores after leaving its interior
+PASS v11 ENV11_BUILDING_EU_03 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_EU_03 has active roof renderers
+PASS v11 ENV11_BUILDING_EU_03 is visible from exterior
+PASS v11 ENV11_BUILDING_EU_03 hides from its interior
+PASS v11 ENV11_BUILDING_EU_03 restores after leaving its interior
+PASS v11 ENV11_BUILDING_EU_04 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_EU_04 has active roof renderers
+PASS v11 ENV11_BUILDING_EU_04 is visible from exterior
+PASS v11 ENV11_BUILDING_EU_04 hides from its interior
+PASS v11 ENV11_BUILDING_EU_04 restores after leaving its interior
+PASS v11 ENV11_BUILDING_EU_05 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_EU_05 has active roof renderers
+PASS v11 ENV11_BUILDING_EU_05 is visible from exterior
+PASS v11 ENV11_BUILDING_EU_05 hides from its interior
+PASS v11 ENV11_BUILDING_EU_05 restores after leaving its interior
+PASS v11 ENV11_BUILDING_EU_06 current roof is registered in map visibility zones
+PASS v11 ENV11_BUILDING_EU_06 has active roof renderers
+PASS v11 ENV11_BUILDING_EU_06 is visible from exterior
+PASS v11 ENV11_BUILDING_EU_06 hides from its interior
+PASS v11 ENV11_BUILDING_EU_06 restores after leaving its interior
+PASS v09 supplies a rotated rectangular roof footprint case
+PASS v09 ENV09_BUILDING_W_REPAIR_BAY rotated near-edge inside point hides roof
+PASS v09 ENV09_BUILDING_W_REPAIR_BAY rotated near-edge outside point keeps roof visible
+PASS v11 supplies a rotated rectangular roof footprint case
+PASS v11 ENV11_BUILDING_NWC_01 rotated near-edge inside point hides roof
+PASS v11 ENV11_BUILDING_NWC_01 rotated near-edge outside point keeps roof visible
+PASS v08 CLINIC obeys global cutaway
+PASS v08 TOOLS obeys global cutaway
+PASS v08 HALL obeys global cutaway
+PASS v08 POWER obeys global cutaway
+PASS v08 PARTS obeys global cutaway
+PASS v09 ENV09_BUILDING_W_REPAIR_BAY obeys global cutaway
+PASS v09 ENV09_BUILDING_W_PARTS_LOCKER obeys global cutaway
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_A obeys global cutaway
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_B obeys global cutaway
+PASS v09 ENV09_BUILDING_SW_RUIN_ROW obeys global cutaway
+PASS v09 ENV09_BUILDING_S_OPEN_SCRAP_SHED obeys global cutaway
+PASS v09 ENV09_BUILDING_S_DISPATCH_SHACK obeys global cutaway
+PASS v09 ENV09_BUILDING_E_CABLE_WAREHOUSE obeys global cutaway
+PASS v09 ENV09_BUILDING_E_CONTROL_HUT obeys global cutaway
+PASS v09 ENV09_BUILDING_E_MAINT_GARAGE obeys global cutaway
+PASS v11 ENV11_BUILDING_NWC_01 obeys global cutaway
+PASS v11 ENV11_BUILDING_NWC_02 obeys global cutaway
+PASS v11 ENV11_BUILDING_NWC_03 obeys global cutaway
+PASS v11 ENV11_BUILDING_WM_01 obeys global cutaway
+PASS v11 ENV11_BUILDING_WM_02 obeys global cutaway
+PASS v11 ENV11_BUILDING_WM_03 obeys global cutaway
+PASS v11 ENV11_BUILDING_WM_04 obeys global cutaway
+PASS v11 ENV11_BUILDING_WM_05 obeys global cutaway
+PASS v11 ENV11_BUILDING_WM_06 obeys global cutaway
+PASS v11 ENV11_BUILDING_WM_07 obeys global cutaway
+PASS v11 ENV11_BUILDING_WM_08 obeys global cutaway
+PASS v11 ENV11_BUILDING_WM_09 obeys global cutaway
+PASS v11 ENV11_BUILDING_SWR_01 obeys global cutaway
+PASS v11 ENV11_BUILDING_SWR_02 obeys global cutaway
+PASS v11 ENV11_BUILDING_SWR_03 obeys global cutaway
+PASS v11 ENV11_BUILDING_SWR_04 obeys global cutaway
+PASS v11 ENV11_BUILDING_SWR_05 obeys global cutaway
+PASS v11 ENV11_BUILDING_SWR_06 obeys global cutaway
+PASS v11 ENV11_BUILDING_SWR_07 obeys global cutaway
+PASS v11 ENV11_BUILDING_SWR_08 obeys global cutaway
+PASS v11 ENV11_BUILDING_SWR_09 obeys global cutaway
+PASS v11 ENV11_BUILDING_SWR_10 obeys global cutaway
+PASS v11 ENV11_BUILDING_SWR_11 obeys global cutaway
+PASS v11 ENV11_BUILDING_SWR_12 obeys global cutaway
+PASS v11 ENV11_BUILDING_SWR_13 obeys global cutaway
+PASS v11 ENV11_BUILDING_SWR_14 obeys global cutaway
+PASS v11 ENV11_BUILDING_SS_01 obeys global cutaway
+PASS v11 ENV11_BUILDING_SS_02 obeys global cutaway
+PASS v11 ENV11_BUILDING_SS_03 obeys global cutaway
+PASS v11 ENV11_BUILDING_SS_04 obeys global cutaway
+PASS v11 ENV11_BUILDING_SS_05 obeys global cutaway
+PASS v11 ENV11_BUILDING_EU_01 obeys global cutaway
+PASS v11 ENV11_BUILDING_EU_02 obeys global cutaway
+PASS v11 ENV11_BUILDING_NWC_04 obeys global cutaway
+PASS v11 ENV11_BUILDING_SS_06 obeys global cutaway
+PASS v11 ENV11_BUILDING_EU_03 obeys global cutaway
+PASS v11 ENV11_BUILDING_EU_04 obeys global cutaway
+PASS v11 ENV11_BUILDING_EU_05 obeys global cutaway
+PASS v11 ENV11_BUILDING_EU_06 obeys global cutaway
+PASS v08 CLINIC restores after global cutaway
+PASS v08 TOOLS restores after global cutaway
+PASS v08 HALL restores after global cutaway
+PASS v08 POWER restores after global cutaway
+PASS v08 PARTS restores after global cutaway
+PASS v09 ENV09_BUILDING_W_REPAIR_BAY restores after global cutaway
+PASS v09 ENV09_BUILDING_W_PARTS_LOCKER restores after global cutaway
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_A restores after global cutaway
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_B restores after global cutaway
+PASS v09 ENV09_BUILDING_SW_RUIN_ROW restores after global cutaway
+PASS v09 ENV09_BUILDING_S_OPEN_SCRAP_SHED restores after global cutaway
+PASS v09 ENV09_BUILDING_S_DISPATCH_SHACK restores after global cutaway
+PASS v09 ENV09_BUILDING_E_CABLE_WAREHOUSE restores after global cutaway
+PASS v09 ENV09_BUILDING_E_CONTROL_HUT restores after global cutaway
+PASS v09 ENV09_BUILDING_E_MAINT_GARAGE restores after global cutaway
+PASS v11 ENV11_BUILDING_NWC_01 restores after global cutaway
+PASS v11 ENV11_BUILDING_NWC_02 restores after global cutaway
+PASS v11 ENV11_BUILDING_NWC_03 restores after global cutaway
+PASS v11 ENV11_BUILDING_WM_01 restores after global cutaway
+PASS v11 ENV11_BUILDING_WM_02 restores after global cutaway
+PASS v11 ENV11_BUILDING_WM_03 restores after global cutaway
+PASS v11 ENV11_BUILDING_WM_04 restores after global cutaway
+PASS v11 ENV11_BUILDING_WM_05 restores after global cutaway
+PASS v11 ENV11_BUILDING_WM_06 restores after global cutaway
+PASS v11 ENV11_BUILDING_WM_07 restores after global cutaway
+PASS v11 ENV11_BUILDING_WM_08 restores after global cutaway
+PASS v11 ENV11_BUILDING_WM_09 restores after global cutaway
+PASS v11 ENV11_BUILDING_SWR_01 restores after global cutaway
+PASS v11 ENV11_BUILDING_SWR_02 restores after global cutaway
+PASS v11 ENV11_BUILDING_SWR_03 restores after global cutaway
+PASS v11 ENV11_BUILDING_SWR_04 restores after global cutaway
+PASS v11 ENV11_BUILDING_SWR_05 restores after global cutaway
+PASS v11 ENV11_BUILDING_SWR_06 restores after global cutaway
+PASS v11 ENV11_BUILDING_SWR_07 restores after global cutaway
+PASS v11 ENV11_BUILDING_SWR_08 restores after global cutaway
+PASS v11 ENV11_BUILDING_SWR_09 restores after global cutaway
+PASS v11 ENV11_BUILDING_SWR_10 restores after global cutaway
+PASS v11 ENV11_BUILDING_SWR_11 restores after global cutaway
+PASS v11 ENV11_BUILDING_SWR_12 restores after global cutaway
+PASS v11 ENV11_BUILDING_SWR_13 restores after global cutaway
+PASS v11 ENV11_BUILDING_SWR_14 restores after global cutaway
+PASS v11 ENV11_BUILDING_SS_01 restores after global cutaway
+PASS v11 ENV11_BUILDING_SS_02 restores after global cutaway
+PASS v11 ENV11_BUILDING_SS_03 restores after global cutaway
+PASS v11 ENV11_BUILDING_SS_04 restores after global cutaway
+PASS v11 ENV11_BUILDING_SS_05 restores after global cutaway
+PASS v11 ENV11_BUILDING_EU_01 restores after global cutaway
+PASS v11 ENV11_BUILDING_EU_02 restores after global cutaway
+PASS v11 ENV11_BUILDING_NWC_04 restores after global cutaway
+PASS v11 ENV11_BUILDING_SS_06 restores after global cutaway
+PASS v11 ENV11_BUILDING_EU_03 restores after global cutaway
+PASS v11 ENV11_BUILDING_EU_04 restores after global cutaway
+PASS v11 ENV11_BUILDING_EU_05 restores after global cutaway
+PASS v11 ENV11_BUILDING_EU_06 restores after global cutaway
+PASS temporary physics-collider NavMesh builds successfully
+PASS temporary physics-collider NavMesh is active for checks
+PASS v08 CLINIC door-to-interior start samples authored floor (horizontal=0.00m, vertical=0.02m)
+PASS v08 CLINIC door-to-interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v08 CLINIC door-to-interior has a complete NavMesh path (status=PathComplete, corners=5)
+PASS v08 CLINIC door-to-interior keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v08 CLINIC ingress remains local
+PASS B1 to v08 CLINIC interior start samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS B1 to v08 CLINIC interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS B1 to v08 CLINIC interior has a complete NavMesh path (status=PathComplete, corners=11)
+PASS B2 to v08 CLINIC interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B2 to v08 CLINIC interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS B2 to v08 CLINIC interior has a complete NavMesh path (status=PathComplete, corners=12)
+PASS B3 to v08 CLINIC interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B3 to v08 CLINIC interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS B3 to v08 CLINIC interior has a complete NavMesh path (status=PathComplete, corners=15)
+PASS B4 to v08 CLINIC interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B4 to v08 CLINIC interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS B4 to v08 CLINIC interior has a complete NavMesh path (status=PathComplete, corners=10)
+PASS v08 TOOLS door-to-interior start samples authored floor (horizontal=0.00m, vertical=0.02m)
+PASS v08 TOOLS door-to-interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v08 TOOLS door-to-interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v08 TOOLS door-to-interior keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v08 TOOLS ingress remains local
+PASS B1 to v08 TOOLS interior start samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS B1 to v08 TOOLS interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS B1 to v08 TOOLS interior has a complete NavMesh path (status=PathComplete, corners=8)
+PASS B2 to v08 TOOLS interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B2 to v08 TOOLS interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS B2 to v08 TOOLS interior has a complete NavMesh path (status=PathComplete, corners=7)
+PASS B3 to v08 TOOLS interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B3 to v08 TOOLS interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS B3 to v08 TOOLS interior has a complete NavMesh path (status=PathComplete, corners=8)
+PASS B4 to v08 TOOLS interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B4 to v08 TOOLS interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS B4 to v08 TOOLS interior has a complete NavMesh path (status=PathComplete, corners=6)
+PASS v08 HALL door-to-interior start samples authored floor (horizontal=0.00m, vertical=0.02m)
+PASS v08 HALL door-to-interior end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v08 HALL door-to-interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v08 HALL door-to-interior keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v08 HALL ingress remains local
+PASS B1 to v08 HALL interior start samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS B1 to v08 HALL interior end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS B1 to v08 HALL interior has a complete NavMesh path (status=PathComplete, corners=9)
+PASS B2 to v08 HALL interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B2 to v08 HALL interior end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS B2 to v08 HALL interior has a complete NavMesh path (status=PathComplete, corners=4)
+PASS B3 to v08 HALL interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B3 to v08 HALL interior end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS B3 to v08 HALL interior has a complete NavMesh path (status=PathComplete, corners=6)
+PASS B4 to v08 HALL interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B4 to v08 HALL interior end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS B4 to v08 HALL interior has a complete NavMesh path (status=PathComplete, corners=11)
+PASS v08 POWER door-to-interior start samples authored floor (horizontal=0.00m, vertical=0.00m)
+PASS v08 POWER door-to-interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v08 POWER door-to-interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v08 POWER door-to-interior keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v08 POWER ingress remains local
+PASS B1 to v08 POWER interior start samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS B1 to v08 POWER interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B1 to v08 POWER interior has a complete NavMesh path (status=PathComplete, corners=9)
+PASS B2 to v08 POWER interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B2 to v08 POWER interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B2 to v08 POWER interior has a complete NavMesh path (status=PathComplete, corners=12)
+PASS B3 to v08 POWER interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B3 to v08 POWER interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B3 to v08 POWER interior has a complete NavMesh path (status=PathComplete, corners=15)
+PASS B4 to v08 POWER interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B4 to v08 POWER interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B4 to v08 POWER interior has a complete NavMesh path (status=PathComplete, corners=22)
+PASS v08 PARTS door-to-interior start samples authored floor (horizontal=0.00m, vertical=0.00m)
+PASS v08 PARTS door-to-interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v08 PARTS door-to-interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v08 PARTS door-to-interior keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v08 PARTS ingress remains local
+PASS B1 to v08 PARTS interior start samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS B1 to v08 PARTS interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B1 to v08 PARTS interior has a complete NavMesh path (status=PathComplete, corners=13)
+PASS B2 to v08 PARTS interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B2 to v08 PARTS interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B2 to v08 PARTS interior has a complete NavMesh path (status=PathComplete, corners=8)
+PASS B3 to v08 PARTS interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B3 to v08 PARTS interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B3 to v08 PARTS interior has a complete NavMesh path (status=PathComplete, corners=17)
+PASS B4 to v08 PARTS interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B4 to v08 PARTS interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B4 to v08 PARTS interior has a complete NavMesh path (status=PathComplete, corners=13)
+PASS v09 ENV09_BUILDING_W_REPAIR_BAY door-to-interior start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v09 ENV09_BUILDING_W_REPAIR_BAY door-to-interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v09 ENV09_BUILDING_W_REPAIR_BAY door-to-interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v09 ENV09_BUILDING_W_REPAIR_BAY door-to-interior keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v09 ENV09_BUILDING_W_REPAIR_BAY door-to-interior remains inside its local building approach
+PASS v09 ENV09_BUILDING_W_PARTS_LOCKER door-to-interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v09 ENV09_BUILDING_W_PARTS_LOCKER door-to-interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v09 ENV09_BUILDING_W_PARTS_LOCKER door-to-interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v09 ENV09_BUILDING_W_PARTS_LOCKER door-to-interior keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v09 ENV09_BUILDING_W_PARTS_LOCKER door-to-interior remains inside its local building approach
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_A door-to-interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_A door-to-interior end samples authored floor (horizontal=0.00m, vertical=0.09m)
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_A door-to-interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_A door-to-interior keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_A door-to-interior remains inside its local building approach
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_B door-to-interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_B door-to-interior end samples authored floor (horizontal=0.00m, vertical=0.09m)
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_B door-to-interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_B door-to-interior keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v09 ENV09_BUILDING_SW_RUIN_HOME_B door-to-interior remains inside its local building approach
+PASS v09 ENV09_BUILDING_SW_RUIN_ROW door-to-interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v09 ENV09_BUILDING_SW_RUIN_ROW door-to-interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v09 ENV09_BUILDING_SW_RUIN_ROW door-to-interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v09 ENV09_BUILDING_SW_RUIN_ROW door-to-interior keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v09 ENV09_BUILDING_SW_RUIN_ROW door-to-interior remains inside its local building approach
+PASS v09 ENV09_BUILDING_S_OPEN_SCRAP_SHED door-to-interior start samples authored floor (horizontal=0.00m, vertical=0.07m)
+PASS v09 ENV09_BUILDING_S_OPEN_SCRAP_SHED door-to-interior end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v09 ENV09_BUILDING_S_OPEN_SCRAP_SHED door-to-interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v09 ENV09_BUILDING_S_OPEN_SCRAP_SHED door-to-interior keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v09 ENV09_BUILDING_S_OPEN_SCRAP_SHED door-to-interior remains inside its local building approach
+PASS v09 ENV09_BUILDING_S_DISPATCH_SHACK door-to-interior start samples authored floor (horizontal=0.00m, vertical=0.09m)
+PASS v09 ENV09_BUILDING_S_DISPATCH_SHACK door-to-interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v09 ENV09_BUILDING_S_DISPATCH_SHACK door-to-interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v09 ENV09_BUILDING_S_DISPATCH_SHACK door-to-interior keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v09 ENV09_BUILDING_S_DISPATCH_SHACK door-to-interior remains inside its local building approach
+PASS v09 ENV09_BUILDING_E_CABLE_WAREHOUSE door-to-interior start samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS v09 ENV09_BUILDING_E_CABLE_WAREHOUSE door-to-interior end samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS v09 ENV09_BUILDING_E_CABLE_WAREHOUSE door-to-interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v09 ENV09_BUILDING_E_CABLE_WAREHOUSE door-to-interior keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v09 ENV09_BUILDING_E_CABLE_WAREHOUSE door-to-interior remains inside its local building approach
+PASS v09 ENV09_BUILDING_E_CONTROL_HUT door-to-interior start samples authored floor (horizontal=0.00m, vertical=0.09m)
+PASS v09 ENV09_BUILDING_E_CONTROL_HUT door-to-interior end samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS v09 ENV09_BUILDING_E_CONTROL_HUT door-to-interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v09 ENV09_BUILDING_E_CONTROL_HUT door-to-interior keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v09 ENV09_BUILDING_E_CONTROL_HUT door-to-interior remains inside its local building approach
+PASS v09 ENV09_BUILDING_E_MAINT_GARAGE door-to-interior start samples authored floor (horizontal=0.00m, vertical=0.00m)
+PASS v09 ENV09_BUILDING_E_MAINT_GARAGE door-to-interior end samples authored floor (horizontal=0.00m, vertical=0.07m)
+PASS v09 ENV09_BUILDING_E_MAINT_GARAGE door-to-interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v09 ENV09_BUILDING_E_MAINT_GARAGE door-to-interior keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v09 ENV09_BUILDING_E_MAINT_GARAGE door-to-interior remains inside its local building approach
+PASS v11 NWC_01 door 1 start samples authored floor (horizontal=0.00m, vertical=0.09m)
+PASS v11 NWC_01 door 1 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 NWC_01 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 NWC_01 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 NWC_01 door 1 remains a direct local ingress
+PASS v11 NWC_01 door 2 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 NWC_01 door 2 end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 NWC_01 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 NWC_01 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 NWC_01 door 2 remains a direct local ingress
+PASS v11 NWC_01 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 NWC_01 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 NWC_01 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 NWC_01 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 NWC_01 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 NWC_01 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 NWC_02 door 1 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 NWC_02 door 1 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 NWC_02 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 NWC_02 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 NWC_02 door 1 remains a direct local ingress
+PASS v11 NWC_02 door 2 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 NWC_02 door 2 end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 NWC_02 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 NWC_02 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 NWC_02 door 2 remains a direct local ingress
+PASS v11 NWC_02 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 NWC_02 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 NWC_02 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 NWC_02 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 NWC_02 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 NWC_02 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 NWC_03 door 1 start samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS v11 NWC_03 door 1 end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 NWC_03 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 NWC_03 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 NWC_03 door 1 remains a direct local ingress
+PASS v11 NWC_03 door 2 start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 NWC_03 door 2 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 NWC_03 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 NWC_03 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 NWC_03 door 2 remains a direct local ingress
+PASS v11 NWC_03 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 NWC_03 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 NWC_03 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 NWC_03 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 NWC_03 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 NWC_03 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_01 door 1 start samples authored floor (horizontal=0.00m, vertical=0.07m)
+PASS v11 WM_01 door 1 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_01 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_01 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 WM_01 door 1 remains a direct local ingress
+PASS v11 WM_01 door 2 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_01 door 2 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 WM_01 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_01 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 WM_01 door 2 remains a direct local ingress
+PASS v11 WM_01 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_01 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_01 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_01 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 WM_01 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_01 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_02 door 1 start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 WM_02 door 1 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 WM_02 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_02 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 WM_02 door 1 remains a direct local ingress
+PASS v11 WM_02 door 2 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_02 door 2 end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 WM_02 door 2 has a complete NavMesh path (status=PathComplete, corners=3)
+PASS v11 WM_02 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 WM_02 door 2 remains a direct local ingress
+PASS v11 WM_02 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 WM_02 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 WM_02 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_02 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 WM_02 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 WM_02 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_03 door 1 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_03 door 1 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_03 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_03 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 WM_03 door 1 remains a direct local ingress
+PASS v11 WM_03 door 2 start samples authored floor (horizontal=0.00m, vertical=0.07m)
+PASS v11 WM_03 door 2 end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 WM_03 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_03 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 WM_03 door 2 remains a direct local ingress
+PASS v11 WM_03 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_03 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 WM_03 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_03 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 WM_03 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 WM_03 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_04 door 1 start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 WM_04 door 1 end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 WM_04 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_04 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 WM_04 door 1 remains a direct local ingress
+PASS v11 WM_04 door 2 start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 WM_04 door 2 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 WM_04 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_04 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 WM_04 door 2 remains a direct local ingress
+PASS v11 WM_04 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 WM_04 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_04 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_04 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 WM_04 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_04 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_05 door 1 start samples authored floor (horizontal=0.00m, vertical=0.09m)
+PASS v11 WM_05 door 1 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_05 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_05 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 WM_05 door 1 remains a direct local ingress
+PASS v11 WM_05 door 2 start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 WM_05 door 2 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_05 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_05 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 WM_05 door 2 remains a direct local ingress
+PASS v11 WM_05 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_05 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_05 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_05 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_05 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_05 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_06 door 1 start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 WM_06 door 1 end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 WM_06 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_06 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 WM_06 door 1 remains a direct local ingress
+PASS v11 WM_06 door 2 start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 WM_06 door 2 end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 WM_06 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_06 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 WM_06 door 2 remains a direct local ingress
+PASS v11 WM_06 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 WM_06 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 WM_06 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_06 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 WM_06 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 WM_06 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_07 door 1 start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 WM_07 door 1 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 WM_07 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_07 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 WM_07 door 1 remains a direct local ingress
+PASS v11 WM_07 door 2 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 WM_07 door 2 end samples authored floor (horizontal=0.00m, vertical=0.09m)
+PASS v11 WM_07 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_07 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 WM_07 door 2 remains a direct local ingress
+PASS v11 WM_07 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 WM_07 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 WM_07 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_07 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.09m)
+PASS v11 WM_07 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 WM_07 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_08 door 1 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_08 door 1 end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 WM_08 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_08 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 WM_08 door 1 remains a direct local ingress
+PASS v11 WM_08 door 2 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 WM_08 door 2 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_08 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_08 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 WM_08 door 2 remains a direct local ingress
+PASS v11 WM_08 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 WM_08 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_08 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_08 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_08 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_08 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_09 door 1 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 WM_09 door 1 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 WM_09 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_09 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 WM_09 door 1 remains a direct local ingress
+PASS v11 WM_09 door 2 start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 WM_09 door 2 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 WM_09 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_09 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 WM_09 door 2 remains a direct local ingress
+PASS v11 WM_09 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 WM_09 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_09 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 WM_09 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 WM_09 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 WM_09 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_01 door 1 start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_01 door 1 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_01 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_01 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_01 door 1 remains a direct local ingress
+PASS v11 SWR_01 door 2 start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_01 door 2 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_01 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_01 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_01 door 2 remains a direct local ingress
+PASS v11 SWR_01 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_01 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_01 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_01 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_01 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_01 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_02 door 1 start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 SWR_02 door 1 end samples authored floor (horizontal=0.00m, vertical=0.15m)
+PASS v11 SWR_02 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_02 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_02 door 1 remains a direct local ingress
+PASS v11 SWR_02 door 2 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SWR_02 door 2 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_02 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_02 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_02 door 2 remains a direct local ingress
+PASS v11 SWR_02 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.15m)
+PASS v11 SWR_02 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_02 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_02 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_02 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_02 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_03 door 1 start samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SWR_03 door 1 end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 SWR_03 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_03 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_03 door 1 remains a direct local ingress
+PASS v11 SWR_03 door 2 start samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SWR_03 door 2 end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_03 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_03 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_03 door 2 remains a direct local ingress
+PASS v11 SWR_03 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 SWR_03 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SWR_03 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_03 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_03 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SWR_03 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_04 door 1 start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_04 door 1 end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_04 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_04 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_04 door 1 remains a direct local ingress
+PASS v11 SWR_04 door 2 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_04 door 2 end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_04 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_04 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_04 door 2 remains a direct local ingress
+PASS v11 SWR_04 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_04 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SWR_04 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_04 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_04 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SWR_04 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_05 door 1 start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 SWR_05 door 1 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_05 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_05 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_05 door 1 remains a direct local ingress
+PASS v11 SWR_05 door 2 start samples authored floor (horizontal=0.00m, vertical=0.09m)
+PASS v11 SWR_05 door 2 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SWR_05 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_05 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_05 door 2 remains a direct local ingress
+PASS v11 SWR_05 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_05 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 SWR_05 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_05 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SWR_05 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 SWR_05 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_06 door 1 start samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SWR_06 door 1 end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_06 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_06 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_06 door 1 remains a direct local ingress
+PASS v11 SWR_06 door 2 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_06 door 2 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_06 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_06 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_06 door 2 remains a direct local ingress
+PASS v11 SWR_06 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_06 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_06 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_06 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_06 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_06 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_07 door 1 start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 SWR_07 door 1 end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 SWR_07 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_07 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_07 door 1 remains a direct local ingress
+PASS v11 SWR_07 door 2 start samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SWR_07 door 2 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_07 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_07 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_07 door 2 remains a direct local ingress
+PASS v11 SWR_07 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 SWR_07 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SWR_07 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_07 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_07 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SWR_07 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_08 door 1 start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_08 door 1 end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SWR_08 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_08 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_08 door 1 remains a direct local ingress
+PASS v11 SWR_08 door 2 start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 SWR_08 door 2 end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 SWR_08 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_08 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_08 door 2 remains a direct local ingress
+PASS v11 SWR_08 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SWR_08 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.15m)
+PASS v11 SWR_08 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_08 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 SWR_08 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.15m)
+PASS v11 SWR_08 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_09 door 1 start samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SWR_09 door 1 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_09 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_09 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_09 door 1 remains a direct local ingress
+PASS v11 SWR_09 door 2 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_09 door 2 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_09 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_09 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_09 door 2 remains a direct local ingress
+PASS v11 SWR_09 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_09 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_09 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_09 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_09 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_09 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_10 door 1 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_10 door 1 end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_10 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_10 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_10 door 1 remains a direct local ingress
+PASS v11 SWR_10 door 2 start samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SWR_10 door 2 end samples authored floor (horizontal=0.00m, vertical=0.09m)
+PASS v11 SWR_10 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_10 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_10 door 2 remains a direct local ingress
+PASS v11 SWR_10 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_10 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_10 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_10 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.09m)
+PASS v11 SWR_10 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_10 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_11 door 1 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_11 door 1 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_11 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_11 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_11 door 1 remains a direct local ingress
+PASS v11 SWR_11 door 2 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_11 door 2 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SWR_11 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_11 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_11 door 2 remains a direct local ingress
+PASS v11 SWR_11 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_11 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_11 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_11 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SWR_11 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_11 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_12 door 1 start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_12 door 1 end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SWR_12 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_12 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_12 door 1 remains a direct local ingress
+PASS v11 SWR_12 door 2 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_12 door 2 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_12 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_12 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_12 door 2 remains a direct local ingress
+PASS v11 SWR_12 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SWR_12 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_12 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_12 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_12 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_12 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_13 door 1 start samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SWR_13 door 1 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_13 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_13 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_13 door 1 remains a direct local ingress
+PASS v11 SWR_13 door 2 start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 SWR_13 door 2 end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_13 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_13 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_13 door 2 remains a direct local ingress
+PASS v11 SWR_13 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_13 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_13 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_13 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 SWR_13 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_13 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_14 door 1 start samples authored floor (horizontal=0.00m, vertical=0.15m)
+PASS v11 SWR_14 door 1 end samples authored floor (horizontal=0.00m, vertical=0.15m)
+PASS v11 SWR_14 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_14 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_14 door 1 remains a direct local ingress
+PASS v11 SWR_14 door 2 start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 SWR_14 door 2 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_14 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_14 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SWR_14 door 2 remains a direct local ingress
+PASS v11 SWR_14 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.15m)
+PASS v11 SWR_14 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SWR_14 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SWR_14 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SWR_14 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SWR_14 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_01 door 1 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SS_01 door 1 end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 SS_01 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_01 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SS_01 door 1 remains a direct local ingress
+PASS v11 SS_01 door 2 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SS_01 door 2 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SS_01 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_01 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SS_01 door 2 remains a direct local ingress
+PASS v11 SS_01 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 SS_01 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SS_01 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_01 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SS_01 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SS_01 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_02 door 1 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SS_02 door 1 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SS_02 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_02 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SS_02 door 1 remains a direct local ingress
+PASS v11 SS_02 door 2 start samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SS_02 door 2 end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SS_02 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_02 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SS_02 door 2 remains a direct local ingress
+PASS v11 SS_02 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 SS_02 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SS_02 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_02 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SS_02 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SS_02 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_03 door 1 start samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SS_03 door 1 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SS_03 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_03 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SS_03 door 1 remains a direct local ingress
+PASS v11 SS_03 door 2 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SS_03 door 2 end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SS_03 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_03 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SS_03 door 2 remains a direct local ingress
+PASS v11 SS_03 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SS_03 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SS_03 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_03 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SS_03 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SS_03 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_04 door 1 start samples authored floor (horizontal=0.00m, vertical=0.09m)
+PASS v11 SS_04 door 1 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SS_04 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_04 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SS_04 door 1 remains a direct local ingress
+PASS v11 SS_04 door 2 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SS_04 door 2 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SS_04 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_04 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SS_04 door 2 remains a direct local ingress
+PASS v11 SS_04 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SS_04 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SS_04 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_04 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SS_04 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 SS_04 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_05 door 1 start samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SS_05 door 1 end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SS_05 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_05 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SS_05 door 1 remains a direct local ingress
+PASS v11 SS_05 door 2 start samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SS_05 door 2 end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SS_05 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_05 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SS_05 door 2 remains a direct local ingress
+PASS v11 SS_05 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SS_05 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SS_05 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_05 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SS_05 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.14m)
+PASS v11 SS_05 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_01 door 1 start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 EU_01 door 1 end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 EU_01 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_01 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 EU_01 door 1 remains a direct local ingress
+PASS v11 EU_01 door 2 start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 EU_01 door 2 end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 EU_01 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_01 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 EU_01 door 2 remains a direct local ingress
+PASS v11 EU_01 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 EU_01 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 EU_01 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_01 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 EU_01 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 EU_01 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_02 door 1 start samples authored floor (horizontal=0.00m, vertical=0.05m)
+PASS v11 EU_02 door 1 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 EU_02 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_02 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 EU_02 door 1 remains a direct local ingress
+PASS v11 EU_02 door 2 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 EU_02 door 2 end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 EU_02 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_02 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 EU_02 door 2 remains a direct local ingress
+PASS v11 EU_02 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 EU_02 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 EU_02 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_02 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 EU_02 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 EU_02 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 NWC_04 door 1 start samples authored floor (horizontal=0.00m, vertical=0.09m)
+PASS v11 NWC_04 door 1 end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 NWC_04 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 NWC_04 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 NWC_04 door 1 remains a direct local ingress
+PASS v11 NWC_04 door 2 start samples authored floor (horizontal=0.00m, vertical=0.09m)
+PASS v11 NWC_04 door 2 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 NWC_04 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 NWC_04 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 NWC_04 door 2 remains a direct local ingress
+PASS v11 NWC_04 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 NWC_04 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 NWC_04 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 NWC_04 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 NWC_04 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 NWC_04 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_06 door 1 start samples authored floor (horizontal=0.00m, vertical=0.07m)
+PASS v11 SS_06 door 1 end samples authored floor (horizontal=0.00m, vertical=0.05m)
+PASS v11 SS_06 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_06 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SS_06 door 1 remains a direct local ingress
+PASS v11 SS_06 door 2 start samples authored floor (horizontal=0.00m, vertical=0.09m)
+PASS v11 SS_06 door 2 end samples authored floor (horizontal=0.00m, vertical=0.07m)
+PASS v11 SS_06 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_06 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 SS_06 door 2 remains a direct local ingress
+PASS v11 SS_06 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.05m)
+PASS v11 SS_06 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.07m)
+PASS v11 SS_06 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 SS_06 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.07m)
+PASS v11 SS_06 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.07m)
+PASS v11 SS_06 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_03 door 1 start samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS v11 EU_03 door 1 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 EU_03 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_03 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 EU_03 door 1 remains a direct local ingress
+PASS v11 EU_03 door 2 start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 EU_03 door 2 end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 EU_03 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_03 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 EU_03 door 2 remains a direct local ingress
+PASS v11 EU_03 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 EU_03 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 EU_03 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_03 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 EU_03 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 EU_03 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_04 door 1 start samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS v11 EU_04 door 1 end samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 EU_04 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_04 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 EU_04 door 1 remains a direct local ingress
+PASS v11 EU_04 door 2 start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 EU_04 door 2 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 EU_04 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_04 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 EU_04 door 2 remains a direct local ingress
+PASS v11 EU_04 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.13m)
+PASS v11 EU_04 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 EU_04 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_04 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 EU_04 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 EU_04 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_05 door 1 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 EU_05 door 1 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 EU_05 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_05 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 EU_05 door 1 remains a direct local ingress
+PASS v11 EU_05 door 2 start samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS v11 EU_05 door 2 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 EU_05 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_05 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 EU_05 door 2 remains a direct local ingress
+PASS v11 EU_05 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 EU_05 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 EU_05 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_05 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS v11 EU_05 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS v11 EU_05 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_06 door 1 start samples authored floor (horizontal=0.00m, vertical=0.09m)
+PASS v11 EU_06 door 1 end samples authored floor (horizontal=0.00m, vertical=0.09m)
+PASS v11 EU_06 door 1 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_06 door 1 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 EU_06 door 1 remains a direct local ingress
+PASS v11 EU_06 door 2 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 EU_06 door 2 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 EU_06 door 2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_06 door 2 keeps a 0.8m x 2.0m PlayerMotor capsule clear
+PASS v11 EU_06 door 2 remains a direct local ingress
+PASS v11 EU_06 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.09m)
+PASS v11 EU_06 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS v11 EU_06 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS v11 EU_06 doorway to center interior start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS v11 EU_06 doorway to center interior end samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS v11 EU_06 doorway to center interior has a complete NavMesh path (status=PathComplete, corners=2)
+PASS X1 exit identity/reference is preserved
+PASS B1 to X1 start samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS B1 to X1 end samples authored floor (horizontal=0.00m, vertical=0.05m)
+PASS B1 to X1 has a complete NavMesh path (status=PathComplete, corners=3)
+PASS B2 to X1 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B2 to X1 end samples authored floor (horizontal=0.00m, vertical=0.05m)
+PASS B2 to X1 has a complete NavMesh path (status=PathComplete, corners=4)
+PASS B3 to X1 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B3 to X1 end samples authored floor (horizontal=0.00m, vertical=0.05m)
+PASS B3 to X1 has a complete NavMesh path (status=PathComplete, corners=8)
+PASS B4 to X1 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B4 to X1 end samples authored floor (horizontal=0.00m, vertical=0.05m)
+PASS B4 to X1 has a complete NavMesh path (status=PathComplete, corners=15)
+PASS X1 extraction capsule remains clear
+PASS X2 exit identity/reference is preserved
+PASS B1 to X2 start samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS B1 to X2 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B1 to X2 has a complete NavMesh path (status=PathComplete, corners=8)
+PASS B2 to X2 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B2 to X2 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B2 to X2 has a complete NavMesh path (status=PathComplete, corners=2)
+PASS B3 to X2 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B3 to X2 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B3 to X2 has a complete NavMesh path (status=PathComplete, corners=8)
+PASS B4 to X2 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B4 to X2 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B4 to X2 has a complete NavMesh path (status=PathComplete, corners=8)
+PASS X2 extraction capsule remains clear
+PASS X3 exit identity/reference is preserved
+PASS B1 to X3 start samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS B1 to X3 end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS B1 to X3 has a complete NavMesh path (status=PathComplete, corners=15)
+PASS B2 to X3 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B2 to X3 end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS B2 to X3 has a complete NavMesh path (status=PathComplete, corners=5)
+PASS B3 to X3 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B3 to X3 end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS B3 to X3 has a complete NavMesh path (status=PathComplete, corners=3)
+PASS B4 to X3 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B4 to X3 end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS B4 to X3 has a complete NavMesh path (status=PathComplete, corners=3)
+PASS X3 extraction capsule remains clear
+PASS X4 exit identity/reference is preserved
+PASS B1 to X4 start samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS B1 to X4 end samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS B1 to X4 has a complete NavMesh path (status=PathComplete, corners=7)
+PASS B2 to X4 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B2 to X4 end samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS B2 to X4 has a complete NavMesh path (status=PathComplete, corners=13)
+PASS B3 to X4 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B3 to X4 end samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS B3 to X4 has a complete NavMesh path (status=PathComplete, corners=14)
+PASS B4 to X4 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B4 to X4 end samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS B4 to X4 has a complete NavMesh path (status=PathComplete, corners=20)
+PASS X4 extraction capsule remains clear
+PASS X5 exit identity/reference is preserved
+PASS B1 to X5 start samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS B1 to X5 end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS B1 to X5 has a complete NavMesh path (status=PathComplete, corners=19)
+PASS B2 to X5 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B2 to X5 end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS B2 to X5 has a complete NavMesh path (status=PathComplete, corners=6)
+PASS B3 to X5 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B3 to X5 end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS B3 to X5 has a complete NavMesh path (status=PathComplete, corners=13)
+PASS B4 to X5 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B4 to X5 end samples authored floor (horizontal=0.00m, vertical=0.10m)
+PASS B4 to X5 has a complete NavMesh path (status=PathComplete, corners=10)
+PASS X5 extraction capsule remains clear
+PASS X6 exit identity/reference is preserved
+PASS B1 to X6 start samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS B1 to X6 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B1 to X6 has a complete NavMesh path (status=PathComplete, corners=20)
+PASS B2 to X6 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B2 to X6 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B2 to X6 has a complete NavMesh path (status=PathComplete, corners=14)
+PASS B3 to X6 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B3 to X6 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B3 to X6 has a complete NavMesh path (status=PathComplete, corners=15)
+PASS B4 to X6 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B4 to X6 end samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B4 to X6 has a complete NavMesh path (status=PathComplete, corners=13)
+PASS X6 extraction capsule remains clear
+PASS X7 exit identity/reference is preserved
+PASS B1 to X7 start samples authored floor (horizontal=0.00m, vertical=0.08m)
+PASS B1 to X7 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B1 to X7 has a complete NavMesh path (status=PathComplete, corners=18)
+PASS B2 to X7 start samples authored floor (horizontal=0.00m, vertical=0.11m)
+PASS B2 to X7 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B2 to X7 has a complete NavMesh path (status=PathComplete, corners=14)
+PASS B3 to X7 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B3 to X7 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B3 to X7 has a complete NavMesh path (status=PathComplete, corners=14)
+PASS B4 to X7 start samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B4 to X7 end samples authored floor (horizontal=0.00m, vertical=0.12m)
+PASS B4 to X7 has a complete NavMesh path (status=PathComplete, corners=11)
+PASS X7 extraction capsule remains clear

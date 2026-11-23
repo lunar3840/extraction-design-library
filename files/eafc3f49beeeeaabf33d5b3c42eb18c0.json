@@ -1,0 +1,91 @@
+{
+    "character": "yui",
+    "reaction": "Joy",
+    "gesture": "None",
+    "reactionOrigin": "Manual",
+    "yaw": 0.0,
+    "ortho": 1.159999966621399,
+    "frameHeight": 2.0,
+    "reactionWeight": 0.7310245037078857,
+    "quiet": 1.5102343559265137,
+    "nextAuto": 10.716938972473145,
+    "autoCount": 7,
+    "camera": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 8.0
+    },
+    "frameCenter": {
+        "x": 10000.0,
+        "y": -9999.0,
+        "z": 10000.0
+    },
+    "root": {
+        "x": 0.0,
+        "y": 0.05000000074505806,
+        "z": -2.5999999046325685
+    },
+    "hips": {
+        "x": 0.0,
+        "y": 0.732421875,
+        "z": 0.0
+    },
+    "leftFoot": {
+        "x": -0.12890625,
+        "y": 0.11328125,
+        "z": -0.013671875
+    },
+    "rightFoot": {
+        "x": 0.150390625,
+        "y": 0.11328125,
+        "z": -0.021484375
+    },
+    "headEuler": {
+        "x": 352.0495300292969,
+        "y": 11.631482124328614,
+        "z": 7.325220108032227
+    },
+    "chestEuler": {
+        "x": 356.10870361328127,
+        "y": 350.5175476074219,
+        "z": 347.92974853515627
+    },
+    "inventory": false,
+    "lobby": true,
+    "frozen": false,
+    "portraitVisible": true,
+    "faceWeights": [
+        "Eyebrow_L.001/LidArc_L=30.70",
+        "Eyebrow_L.001/LidArc_R=30.70",
+        "Eyebrow_L.001/Smile=49.71",
+        "Eyebrow_L.001/MouthWide=14.62",
+        "Eyebrow_R.001/LidArc_L=30.70",
+        "Eyebrow_R.001/LidArc_R=30.70",
+        "Eyebrow_R.001/Smile=49.71",
+        "Eyebrow_R.001/MouthWide=14.62",
+        "Eyelashes_L.001/LidArc_L=30.70",
+        "Eyelashes_L.001/LidArc_R=30.70",
+        "Eyelashes_L.001/Smile=49.71",
+        "Eyelashes_L.001/MouthWide=14.62",
+        "Eyelashes_R.001/LidArc_L=30.70",
+        "Eyelashes_R.001/LidArc_R=30.70",
+        "Eyelashes_R.001/Smile=49.71",
+        "Eyelashes_R.001/MouthWide=14.62",
+        "FACE_MouthCavity.001/LidArc_L=30.70",
+        "FACE_MouthCavity.001/LidArc_R=30.70",
+        "FACE_MouthCavity.001/Smile=49.71",
+        "FACE_MouthCavity.001/MouthWide=14.62",
+        "Face_Skin.001/LidArc_L=30.70",
+        "Face_Skin.001/LidArc_R=30.70",
+        "Face_Skin.001/Smile=49.71",
+        "Face_Skin.001/MouthWide=14.62",
+        "Iris_L.001/LidArc_L=30.70",
+        "Iris_L.001/LidArc_R=30.70",
+        "Iris_L.001/Smile=49.71",
+        "Iris_L.001/MouthWide=14.62",
+        "Iris_R.001/LidArc_L=30.70",
+        "Iris_R.001/LidArc_R=30.70",
+        "Iris_R.001/Smile=49.71",
+        "Iris_R.001/MouthWide=14.62"
+    ]
+}

@@ -1,0 +1,19 @@
+Actual isolated Unity tool study; no A-map/Play/FPS claim.
+FULLER car seed=731 95314 source triangles, 30 paths, 308 stem segments, 448 leaves, 0 excluded samples. 
+VARIANTS PASS car seedA=1206771994 seedB=1247020204 shapeA=f30f7b08e8d2ca1ed809fa89985081b7 shapeB=87f8eb4a2a7aef52be366cadf9c313e4 replayExact=True
+ZERO car_iso PASS meanRGBErrorByte=0.000000 max=0 changedPixels=0/1600000
+ZERO car_top PASS meanRGBErrorByte=0.000000 max=0 changedPixels=0/1600000
+WEATHER car settings={"seed":731,"strength":0.6499999761581421,"rust":0.550000011920929,"dirt":0.6000000238418579,"streaks":0.44999998807907107,"moss":0.23999999463558198,"fading":0.44999998807907107,"noiseScale":1.7999999523162842}
+1 eligible slots, 2 skipped slots.
+AGED Model[0] 17e38f9b0e47c3c4f968b61c02deaa24_URP -> metal
+SKIP Stems[0]: generated ivy
+SKIP Leaves[0]: generated ivy
+
+RESULT FAIL
+UnityEngine.UnassignedReferenceException: The variable sourceRenderers of EnvironmentWeatheringInstance has not been assigned.
+You probably need to assign the sourceRenderers variable of the EnvironmentWeatheringInstance script in the inspector.
+  at UnityEngine.Object+MarshalledUnityObject.TryThrowEditorNullExceptionObject (UnityEngine.Object unityObj, System.String parameterName) [0x000cd] in <b33129f0f2f84d4d9540790ac6d74c38>:0 
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00010] in <b33129f0f2f84d4d9540790ac6d74c38>:0 
+  at UnityEngine.Renderer.GetSharedMaterialArray () [0x00006] in <b33129f0f2f84d4d9540790ac6d74c38>:0 
+  at UnityEngine.Renderer.get_sharedMaterials () [0x00001] in <b33129f0f2f84d4d9540790ac6d74c38>:0 
+  at Escape.EditorTools.Ivy.EnvironmentAgingStudy.Run () [0x00785] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\EnvironmentAgingStudy.cs:96 

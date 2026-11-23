@@ -1,0 +1,9 @@
+PASS Inventory region swaps + loot exchanges + 2000-action independent oracle
+PASS Inventory legacy
+PASS Equipment
+PASS Loot
+PASS Session and save
+PASS Basecamp
+PASS Tetris inventory
+PASS Weapons
+PASS Body and medical

@@ -1,0 +1,33 @@
+﻿CLINIC_MOOD_TRIAL_PLAY_PAIR
+afterHudLoadout=weapon=AR_001 ammo=item_018 magazine=30 reserve=70 weightKg=19.8 reloading=False expected=weapon=AR_001 ammo=item_018 magazine=30 reserve=70 weightKg=19.8 reloading=False
+afterOperationTimer=29:57 expected=29:57
+beforeHudLoadout=weapon=AR_001 ammo=item_018 magazine=30 reserve=70 weightKg=19.8 reloading=False expected=weapon=AR_001 ammo=item_018 magazine=30 reserve=70 weightKg=19.8 reloading=False
+beforeOperationTimer=29:57 expected=29:57
+expectedViews=12 order=clinic_gameplay,clinic_true_exterior,clinic_roof_near_north,clinic_roof_near_west,clinic_entrance,clinic_approach,clinic_north_seam_close,clinic_outside_inside,clinic_inside_out,remote_w05_control,remote_bridge_control,HALL1_control
+contextBefore=strengthening_candidate02_actual_before after=strengthening_candidate02_actual_before
+beforeReconstructed=False ownedRootHidden=False ownedRootRestored=False hiddenRoot=
+sessionStatusBefore=CAPTURED_STATIC_AND_MOVEMENT_REVIEW_REQUIRED after=CAPTURED_STATIC_AND_MOVEMENT_REVIEW_REQUIRED
+viewCountBefore=12 after=12
+openingSame=True
+resolutionFullHdBoth=True
+seedSame=True
+environmentFingerprintSame=True
+shaderTimeLimit=Time.timeScale=0 after runtime warmup; Unity shader _Time/unscaled effects and load-time weather phases are not proven identical by seed alone
+beforeMovement=PASS_ACTUAL_PLAYER_MOTOR afterMovement=PASS_ACTUAL_PLAYER_MOTOR
+beforeRootRenderers=6 afterRootRenderers=6
+beforeRootTriangles=4735 afterRootTriangles=7996
+clinic_gameplay expectedOrder=True poseSame=True navSource=original_pose_y->original_pose_y samples=90->90 before=CAPTURED_REVIEW_REQUIRED after=CAPTURED_REVIEW_REQUIRED newRootActive=6->6 newRootShadows=2->2 reveal=False->False editorP95Ms=53.422->61.764 gpuMedianMs=6.769->6.817 drawsMedian=1195.0->1195.0 sceneTrianglesMedian=3172173.0->3185413.0
+clinic_true_exterior expectedOrder=True poseSame=True navSource=original_pose_y->original_pose_y samples=90->90 before=CAPTURED_REVIEW_REQUIRED after=CAPTURED_REVIEW_REQUIRED newRootActive=6->6 newRootShadows=2->2 reveal=False->False editorP95Ms=57.762->150.275 gpuMedianMs=13.364->14.654 drawsMedian=7016.0->7016.0 sceneTrianglesMedian=14941730.0->14957440.0
+clinic_roof_near_north expectedOrder=True poseSame=True navSource=original_pose_y->original_pose_y samples=90->90 before=CAPTURED_REVIEW_REQUIRED after=CAPTURED_REVIEW_REQUIRED newRootActive=6->6 newRootShadows=2->2 reveal=False->False editorP95Ms=54.482->151.700 gpuMedianMs=13.586->14.577 drawsMedian=7815.0->7815.0 sceneTrianglesMedian=17128760.0->17141650.0
+clinic_roof_near_west expectedOrder=True poseSame=True navSource=original_pose_y->original_pose_y samples=90->90 before=CAPTURED_REVIEW_REQUIRED after=CAPTURED_REVIEW_REQUIRED newRootActive=6->6 newRootShadows=2->2 reveal=False->False editorP95Ms=54.725->160.052 gpuMedianMs=9.739->9.788 drawsMedian=4006.0->4008.0 sceneTrianglesMedian=9431558.0->9446315.0
+clinic_entrance expectedOrder=True poseSame=True navSource=original_pose_y->original_pose_y samples=90->90 before=CAPTURED_REVIEW_REQUIRED after=CAPTURED_REVIEW_REQUIRED newRootActive=6->6 newRootShadows=2->2 reveal=False->False editorP95Ms=42.746->164.150 gpuMedianMs=3.853->3.866 drawsMedian=1245.0->1246.0 sceneTrianglesMedian=3314776.0->3319893.0
+clinic_approach expectedOrder=True poseSame=True navSource=original_pose_y->original_pose_y samples=90->90 before=CAPTURED_REVIEW_REQUIRED after=CAPTURED_REVIEW_REQUIRED newRootActive=6->6 newRootShadows=2->2 reveal=False->False editorP95Ms=53.842->63.252 gpuMedianMs=4.977->5.037 drawsMedian=1477.0->1479.0 sceneTrianglesMedian=3622366.0->3638671.0
+clinic_north_seam_close expectedOrder=True poseSame=True navSource=original_pose_y->original_pose_y samples=90->90 before=CAPTURED_REVIEW_REQUIRED after=CAPTURED_REVIEW_REQUIRED newRootActive=6->6 newRootShadows=2->2 reveal=False->False editorP95Ms=56.431->155.985 gpuMedianMs=12.929->13.026 drawsMedian=6738.0->6741.0 sceneTrianglesMedian=14431060.0->14445760.0
+clinic_outside_inside expectedOrder=True poseSame=True navSource=original_pose_y->original_pose_y samples=90->90 before=CAPTURED_REVIEW_REQUIRED after=CAPTURED_REVIEW_REQUIRED newRootActive=6->6 newRootShadows=2->2 reveal=False->False editorP95Ms=55.935->58.887 gpuMedianMs=4.671->4.711 drawsMedian=1781.0->1782.0 sceneTrianglesMedian=4496189.0->4505610.0
+clinic_inside_out expectedOrder=True poseSame=True navSource=original_pose_y->original_pose_y samples=90->90 before=CAPTURED_REVIEW_REQUIRED after=CAPTURED_REVIEW_REQUIRED newRootActive=6->6 newRootShadows=2->2 reveal=False->False editorP95Ms=53.515->71.168 gpuMedianMs=4.960->4.988 drawsMedian=1261.0->1261.0 sceneTrianglesMedian=3999211.0->3999435.0
+remote_w05_control expectedOrder=True poseSame=True navSource=original_pose_y->original_pose_y samples=90->90 before=CAPTURED_REVIEW_REQUIRED after=CAPTURED_REVIEW_REQUIRED newRootActive=6->6 newRootShadows=2->2 reveal=True->True editorP95Ms=50.264->75.477 gpuMedianMs=7.667->7.757 drawsMedian=3139.0->3141.0 sceneTrianglesMedian=7554181.0->7560795.0
+remote_bridge_control expectedOrder=True poseSame=True navSource=original_pose_y->original_pose_y samples=90->90 before=CAPTURED_REVIEW_REQUIRED after=CAPTURED_REVIEW_REQUIRED newRootActive=6->6 newRootShadows=2->2 reveal=False->False editorP95Ms=51.590->157.940 gpuMedianMs=10.344->10.592 drawsMedian=4462.0->4465.0 sceneTrianglesMedian=11151550.0->11152170.0
+HALL1_control expectedOrder=True poseSame=True navSource=original_pose_y->original_pose_y samples=90->90 before=CAPTURED_REVIEW_REQUIRED after=CAPTURED_REVIEW_REQUIRED newRootActive=6->6 newRootShadows=2->2 reveal=False->False editorP95Ms=52.702->145.294 gpuMedianMs=9.789->9.909 drawsMedian=4768.0->4768.0 sceneTrianglesMedian=12979790.0->12979400.0
+fixtureResult=MATCHED_REVIEW_REQUIRED
+Performance samples are Editor Play only; root renderer/triangle counts are scoped to the new root; UnityStats covers the entire Game view.
+Inspect every PNG pair, including roots/ivy/window/entrance/shadow/interior and remote controls. No automatic visual or standalone FPS PASS.

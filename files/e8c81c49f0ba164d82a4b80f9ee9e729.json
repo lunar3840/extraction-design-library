@@ -1,0 +1,78 @@
+{
+  "verifiedAtKST": "2026-11-20",
+  "scope": "기존 완료 산출물의 자체요약·선택 화면 인계 검증. 새 게임 실행·추가 Figma 편집·공개 게시는 하지 않음.",
+  "localDraft": {
+    "pptxPages": 66,
+    "pdfPages": 66,
+    "mainPages": 58,
+    "appendixGuidePages": 8,
+    "pictureInstances": 99,
+    "pptxSha256": "8dd87c2541a645c04e436ebb2907b982fc5f1f5dcf6fbbc94de13c066eb8ff2a",
+    "pdfSha256": "70af547248e44aea141a2de616e4f2b59cba785ef402741ee6282eeb65fa5376",
+    "status": "문서 초안 완료"
+  },
+  "figma": {
+    "pagesCreated": 60,
+    "imagesPlaced": 90,
+    "missingAppendixPages": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "finalEditorialUpdatePending": true,
+    "status": "일부 반영, 전체 완료 아님"
+  },
+  "selectedScreens": [
+    {
+      "file": "after_06_outline.png",
+      "page": 6,
+      "role": "verification",
+      "caption": "본편58쪽과 별첨 안내8쪽의 최종 목차. 문서 구성 결과이며 게임 개발 완료 표시는 아님.",
+      "sha256": "e0920ef239bafb39b8b890446c8c062770927f186cb65aefa53e8fd8f06d1414",
+      "sourceRole": "66쪽 로컬 최종 초안 PDF의 실제 렌더",
+      "comparisonEligible": false
+    },
+    {
+      "file": "after_27_rig_backpack.png",
+      "page": 27,
+      "role": "verification",
+      "caption": "기존 Unity 리그·배낭 화면을 사용한 기획서27쪽. 당시 적용된 준비 공간과 회수 공간의 역할을 설명하며 이번 작업에서 게임을 새로 수정한 화면이 아님.",
+      "sha256": "e05fd17a003fa5dbb1ae19038b917d9f0bc05b4625cc8de6d6d94e6e02a18cc5",
+      "sourceRole": "66쪽 로컬 최종 초안 PDF의 실제 렌더",
+      "comparisonEligible": false
+    },
+    {
+      "file": "after_40_tripo_workflow.png",
+      "page": 40,
+      "role": "verification",
+      "caption": "기획서40쪽의 Tripo 입력·형상·텍스처 제작 과정. 생성물 확인 단계와 이후 피팅·리깅·게임 적용을 구분한 설명이며 전 장비 완성을 뜻하지 않음.",
+      "sha256": "705a0bf77bc1e9ec43f86375a6821cb3a48d440a8f32c192396eaf5c0aaabfe9",
+      "sourceRole": "66쪽 로컬 최종 초안 PDF의 실제 렌더",
+      "comparisonEligible": false
+    }
+  ],
+  "publicDocuments": [
+    "CHANGE_RECORD.md",
+    "REPORT.md",
+    "VERIFICATION.json",
+    "IMAGE_CAPTIONS.json"
+  ],
+  "comparisons": 0,
+  "gameImplementationChanges": 0,
+  "additionalFigmaEdits": 0,
+  "libraryPublishStatus": "pending",
+  "libraryPublishedByThisTask": false,
+  "excludedContent": [
+    "전체 PPTX/PDF",
+    "비공개 참고 PDF",
+    "개별 설문 응답",
+    "제외된 리터칭 두 채팅의 원문",
+    "내부 추론·도구 로그",
+    "모델·모션 원본·ZIP",
+    "기타 비선택 화면"
+  ],
+  "publicSafetyReview": "선택3장은 직접 만든 초안의 목차·자체 게임 UX·Tripo 과정 설명 화면. 비공개 참고 PDF 페이지·개별 응답 화면·비밀값을 포함하지 않음."
+}

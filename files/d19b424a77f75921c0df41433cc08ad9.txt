@@ -1,0 +1,43 @@
+STAGE_A_SHADER_D15_ACTUAL_PLAY
+label=after utc=2026-10-14T02:11:44.8481086Z
+Method: actual StageScenePreview world, enabled PlayerMotor and CharacterController, actual player camera with unchanged TopDownCamera settings for environment shots. Combat/world ticks frozen only in Play. Character closeups use this same camera at recorded full-body positions. Runtime pose and lighting are recorded, not a frame-time benchmark.
+Capture readiness: async shader compilation disabled temporarily and restored at finish; wait for shader compilation to drain, then submit two 1600x1000 render/readback warmups per pose before its saved image. No FPS claim.
+PASS D15 profile state matches after; profiled=True
+PASS actual A preview uses basic spawn while R8 remains dormant
+PASS player runtime shader active with original texture/color/UV/cull/cutoff/queue bindings; styledMaterials=15
+PASS D15 player-only gate leaves enemies on their original toon style; visual=0 D15=0
+PROFILE D15 active=True, Stage A root=True, player same scene=True, player styled=True, router Stage A=True, copied materials=15, original bindings intact=True, roles [skin/hair/fabric/equipment/unclassified]=1:intact/1:intact/1:intact/1:intact/11:intact
+ROLE Unclassified count=11 originalBindingsIntact=True
+ROLE Skin count=1 originalBindingsIntact=True
+ROLE Hair count=1 originalBindingsIntact=True
+ROLE Fabric count=1 originalBindingsIntact=True
+ROLE Equipment count=1 originalBindingsIntact=True
+PASS original V34 shadow copies and V35 second-floor lights active; shadow=81 hallLights=4
+poses=10 cameraFov=60 cameraYaw=30 cameraPitch=25 cameraDistance=24 resolution=1244x700
+SHOT pavers_west image=after_pavers_west.png feet=(-165.00000, 0.16054, -98.00000) actual=(-165.00000, 0.20054, -98.00000) actorRotation=(0.000, 180.000, 0.000) eye=(-160.64970, 15.21767, -90.46510) fov=60 floor=99 nearbyD15Renderers=61 close=False tonemapping=Neutral
+PASS pavers_west sees assigned D15 pilot materials
+SHOT grass_west image=after_grass_west.png feet=(-185.00000, 0.22017, -60.00000) actual=(-185.00000, 0.26017, -60.00000) actorRotation=(0.000, 180.000, 0.000) eye=(-180.64970, 15.27731, -52.46510) fov=60 floor=99 nearbyD15Renderers=29 close=False tonemapping=Neutral
+PASS grass_west sees assigned D15 pilot materials
+SHOT west_shadow image=after_west_shadow.png feet=(-158.00000, 0.27166, -102.00000) actual=(-158.00000, 0.31166, -102.00000) actorRotation=(0.000, 180.000, 0.000) eye=(-153.64970, 15.32879, -94.46510) fov=60 floor=99 nearbyD15Renderers=61 close=False tonemapping=Neutral
+PASS west_shadow sees assigned D15 pilot materials
+SHOT courtyard_day image=after_courtyard_day.png feet=(-140.00000, 0.06000, -86.00000) actual=(-140.00000, 0.10000, -86.00000) actorRotation=(0.000, 180.000, 0.000) eye=(-135.64970, 15.11714, -78.46510) fov=60 floor=99 nearbyD15Renderers=31 close=False tonemapping=Neutral
+PASS courtyard_day sees assigned D15 pilot materials
+SHOT hall_2f image=after_hall_2f.png feet=(-22.00000, 8.04000, -27.00000) actual=(-22.00000, 8.08000, -27.00000) actorRotation=(0.000, 180.000, 0.000) eye=(-17.64972, 23.09714, -19.46510) fov=60 floor=1 nearbyD15Renderers=0 close=False tonemapping=Neutral
+PASS 2F hall remains visible under original lighting
+SHOT player_front image=after_player_front.png feet=(-165.00000, 0.16054, -98.00000) actual=(-165.00000, 0.20054, -98.00000) actorRotation=(0.000, 180.000, 0.000) eye=(-165.00000, 1.56054, -102.50000) fov=40 floor=99 nearbyD15Renderers=61 close=True tonemapping=Neutral
+SHOT player_side image=after_player_side.png feet=(-165.00000, 0.16054, -98.00000) actual=(-165.00000, 0.20054, -98.00000) actorRotation=(0.000, 180.000, 0.000) eye=(-169.50000, 1.56054, -98.00000) fov=40 floor=99 nearbyD15Renderers=61 close=True tonemapping=Neutral
+SHOT player_back image=after_player_back.png feet=(-165.00000, 0.16054, -98.00000) actual=(-165.00000, 0.20054, -98.00000) actorRotation=(0.000, 180.000, 0.000) eye=(-165.00000, 1.56054, -93.50000) fov=40 floor=99 nearbyD15Renderers=61 close=True tonemapping=Neutral
+SHOT building_outside image=after_building_outside.png feet=(18.00000, 1.89988, -40.00000) actual=(18.00000, 1.93988, -40.00000) actorRotation=(0.000, 0.000, 0.000) eye=(22.35028, 16.95702, -32.46510) fov=60 floor=99 nearbyD15Renderers=0 close=False tonemapping=Neutral
+SHOT building_inside image=after_building_inside.png feet=(-0.00001, 2.09329, -28.00000) actual=(-0.00001, 2.13329, -28.00000) actorRotation=(0.000, 0.000, 0.000) eye=(4.35027, 17.15043, -20.46510) fov=60 floor=0 nearbyD15Renderers=0 close=False tonemapping=Neutral
+PASS original 1F/roof cutaway remains active inside building
+PASS actual PlayerMotor short route pavers_short steps=145 goal=(-155.000, 0.241, -98.000) actual=(-155.400, 0.174, -98.000)
+PASS actual PlayerMotor short route grass_short steps=115 goal=(-177.000, 0.358, -60.000) actual=(-177.400, 0.265, -60.000)
+NOTE Motor route checks use true enabled CharacterController and PlayerMotor.Simulate; initial reposition only. No extraction/save transaction.
+PASS A profile remains bound after short actual movement
+PASS isolated preview router A→B releases D15 player copies and original toon resumes
+SHOT stage_b_player_back image=after_stage_b_player_back.png activeStage=StageB profileEnabled=False d15ShaderOnPlayer=False
+PASS isolated preview router B→A reapplies player-only D15 with original texture bindings
+SHOT stage_a_reentry_player_back image=after_stage_a_reentry_player_back.png feet=(-165.00000, 0.16054, -98.00000) actual=(-165.00000, 0.20054, -98.00000) actorRotation=(0.000, 180.000, 0.000) eye=(-165.00000, 1.56054, -93.50000) fov=40 floor=99 nearbyD15Renderers=61 close=True tonemapping=Neutral
+NOTE A→B→A is a runtime StageMapRouter transition inside StageScenePreview's isolated temporary slot. It does not call Session.Depart, Extract, or save; the user's normal slot is untouched.
+passed=16 failed=0 captured=10 expected=10
+RESULT PASS

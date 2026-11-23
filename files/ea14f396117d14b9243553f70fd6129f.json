@@ -1,0 +1,30 @@
+{
+  "BOARD17_motion_peak_front.png": [
+    "MOTION_Reload_131_front.png",
+    "MOTION_Reload_131p5_front.png",
+    "MOTION_Reload_132_front.png",
+    "MOTION_Reload_132p25_front.png",
+    "MOTION_Reload_132p375_front.png",
+    "MOTION_Reload_132p5_front.png",
+    "MOTION_Reload_132p625_front.png",
+    "MOTION_Reload_132p75_front.png",
+    "MOTION_Reload_133_front.png",
+    "MOTION_Reload_133p5_front.png",
+    "MOTION_Reload_134_front.png",
+    "MOTION_Reload_135_front.png"
+  ],
+  "BOARD17_motion_peak_side.png": [
+    "MOTION_Reload_131_side.png",
+    "MOTION_Reload_131p5_side.png",
+    "MOTION_Reload_132_side.png",
+    "MOTION_Reload_132p25_side.png",
+    "MOTION_Reload_132p375_side.png",
+    "MOTION_Reload_132p5_side.png",
+    "MOTION_Reload_132p625_side.png",
+    "MOTION_Reload_132p75_side.png",
+    "MOTION_Reload_133_side.png",
+    "MOTION_Reload_133p5_side.png",
+    "MOTION_Reload_134_side.png",
+    "MOTION_Reload_135_side.png"
+  ]
+}

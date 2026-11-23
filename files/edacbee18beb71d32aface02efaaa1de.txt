@@ -1,0 +1,13 @@
+PASS trade_a_006 preserved base color/normal; glTF B metallic to URP R, 1-G roughness to A with source factors; FBX material remap
+PASS trade_b_023 preserved base color/normal; glTF B metallic to URP R, 1-G roughness to A with source factors; FBX material remap
+PASS trade_c_018 preserved base color/normal; glTF B metallic to URP R, 1-G roughness to A with source factors; FBX material remap
+PASS trade_b_009 preserved base color/normal; glTF B metallic to URP R, 1-G roughness to A with source factors; FBX material remap
+PASS normalized local bounds: trade_a_006 Center: (0.00, 0.34, 0.00), Extents: (0.37, 0.34, 0.13)
+PASS runtime Resources override, native icon, PBR maps and collider-free model: trade_a_006 triangles=7685
+PASS normalized local bounds: trade_b_023 Center: (0.00, 0.15, 0.00), Extents: (0.23, 0.15, 0.16)
+PASS runtime Resources override, native icon, PBR maps and collider-free model: trade_b_023 triangles=5000
+PASS normalized local bounds: trade_c_018 Center: (0.00, 0.08, 0.00), Extents: (0.11, 0.08, 0.08)
+PASS runtime Resources override, native icon, PBR maps and collider-free model: trade_c_018 triangles=4999
+PASS normalized local bounds: trade_b_009 Center: (0.00, 0.09, 0.00), Extents: (0.06, 0.09, 0.03)
+PASS runtime Resources override, native icon, PBR maps and collider-free model: trade_b_009 triangles=5000
+RESULT PASS 4 Tripo overrides; 2 corrected native models. Food/ammunition/container art unchanged.

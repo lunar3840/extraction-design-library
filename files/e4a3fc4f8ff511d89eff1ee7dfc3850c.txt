@@ -1,0 +1,231 @@
+W10_BLENDER_SAMPLE_INDEPENDENT_EDITOR_VALIDATION
+PASS retained active Stage A map
+PASS pre-application state captured before sample installation
+PASS completed W10 sample contract exists
+PASS original D09 opening survey exists
+PASS sample facade, roof and interior paths are explicitly contracted
+PASS W10 has exactly the two surveyed original doors
+PASS pre-application snapshot matches current retained scene and map
+PASS baseline paths are unique and current scene snapshot is nonempty
+NOTE DECLARED W10 original change T|EnclosuresV33_ConnectedFacilities/Buildings/W10/D09_Facade_W10 before=D09_Facade_W10|True|0.0000,0.0000,0.0000|0.00000,0.00000,0.00000,1.00000|1.0000,1.0000,1.0000 after=D09_Facade_W10|False|0.0000,0.0000,0.0000|0.00000,0.00000,0.00000,1.00000|1.0000,1.0000,1.0000
+NOTE DECLARED W10 original change T|EnclosuresV33_ConnectedFacilities/Buildings/W10/Visual/Generated/Override_ENV11_BUILDING_WM_06/RoofCutaway/D09_Roof_W10 before=D09_Roof_W10|True|0.0000,0.0000,0.0000|0.00000,0.00000,0.00000,1.00000|0.7439,1.0000,0.7044 after=D09_Roof_W10|False|0.0000,0.0000,0.0000|0.00000,0.00000,0.00000,1.00000|0.7439,1.0000,0.7044
+NOTE DECLARED W10 original change T|EnclosuresV33_ConnectedFacilities/Buildings/W10/Visual/V36_InteriorSurfaces_W10/V36_InteriorFloor_W10 before=V36_InteriorFloor_W10|True|0.0000,0.0300,0.0000|0.00000,0.00000,0.00000,1.00000|22.2864,0.0100,13.2943 after=V36_InteriorFloor_W10|False|0.0000,0.0300,0.0000|0.00000,0.00000,0.00000,1.00000|22.2864,0.0100,13.2943
+PASS all pre-existing map points and non-W10 geometry/state preserved
+PASS W10 original changes exactly match declared existing-component allowlist
+PASS retained W10 owner and foundation exist
+PASS sample facade is active under W10: EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell
+PASS sample cutaway roof is active under W10: EnclosuresV33_ConnectedFacilities/Buildings/W10/Visual/Generated/Override_ENV11_BUILDING_WM_06/RoofCutaway/W10_BlenderSample_Roof
+PASS sample interior is active under W10: EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Interior
+PASS three sample roots have exact W10 owner/cutaway parents
+PASS facade has readable visible, nonempty imported meshes with materials; count=52
+PASS roof has readable visible, nonempty imported meshes with materials; count=39
+PASS interior has readable visible, nonempty imported meshes with materials; count=52
+PASS metadata_0 original 3.4m width, 3.1m height and floor contract
+PASS metadata_0 full 0.4m-radius, 2m-high player capsule clear at center and sides
+PASS metadata_0 opening clear to 2.95m under 3.1m header at center and sides
+PASS metadata_0 supported floor/ramp and threshold stay in step envelope
+PASS metadata_0 standing sight line through both directions is unblocked
+PASS metadata_0 actual W10 imported render triangles leave the opening visually clear
+PASS metadata_1 original 3.4m width, 3.1m height and floor contract
+PASS metadata_1 full 0.4m-radius, 2m-high player capsule clear at center and sides
+PASS metadata_1 opening clear to 2.95m under 3.1m header at center and sides
+PASS metadata_1 supported floor/ramp and threshold stay in step envelope
+PASS metadata_1 standing sight line through both directions is unblocked
+PASS metadata_1 actual W10 imported render triangles leave the opening visually clear
+PASS contract names at least four representative visual/collision pairs
+PASS visible/collision bounds agree: EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Detail_Logistics_BrickStructuralPilasters <-> EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Detail_Logistics_BrickStructuralPilasters
+PASS visible/collision bounds agree: EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Detail_Logistics_DeepSteelLoadingCanopy_SupportedColumns <-> EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Detail_Logistics_DeepSteelLoadingCanopy_SupportedColumns
+PASS visible/collision bounds agree: EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Detail_Logistics_StoneLoadingArcade <-> EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Detail_Logistics_StoneLoadingArcade
+PASS visible/collision bounds agree: EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Entrance_OpenFrame_B_01 <-> EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Entrance_OpenFrame_B_01
+PASS visible/collision bounds agree: EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Entrance_OpenFrame_F_00 <-> EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Entrance_OpenFrame_F_00
+PASS visible/collision bounds agree: EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Shell_Logistics_B <-> EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Shell_Logistics_B
+PASS visible/collision bounds agree: EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Shell_Logistics_F <-> EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Shell_Logistics_F
+PASS visible/collision bounds agree: EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Shell_Logistics_InspectionOfficeProjection <-> EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Shell_Logistics_InspectionOfficeProjection
+PASS visible/collision bounds agree: EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Shell_Logistics_L <-> EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Shell_Logistics_L
+PASS visible/collision bounds agree: EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Shell_Logistics_R <-> EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Shell/W10_Shell_FBX/W10_Shell_Logistics_R
+PASS visible/collision bounds agree: EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Interior/W10_Interior_FBX/W10_Inspection_North <-> EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Interior/W10_Interior_FBX/W10_Inspection_North
+PASS visible/collision bounds agree: EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Interior/W10_Interior_FBX/W10_Inspection_South <-> EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Interior/W10_Interior_FBX/W10_Inspection_South
+PASS visible/collision bounds agree: EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Interior/W10_Interior_FBX/W10_Inspection_WestDoorLintel <-> EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Interior/W10_Interior_FBX/W10_Inspection_WestDoorLintel
+PASS visible/collision bounds agree: EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Interior/W10_Interior_FBX/W10_Inspection_WestGlazingHead <-> EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Interior/W10_Interior_FBX/W10_Inspection_WestGlazingHead
+PASS visible/collision bounds agree: EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Interior/W10_Interior_FBX/W10_Inspection_WestGlazingKnee <-> EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Interior/W10_Interior_FBX/W10_Inspection_WestGlazingKnee
+PASS visible/collision bounds agree: EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Interior/W10_Interior_FBX/W10_Inspection_WestNorth <-> EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Interior/W10_Interior_FBX/W10_Inspection_WestNorth
+PASS visible/collision bounds agree: EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Interior/W10_Interior_FBX/W10_Inspection_WestSouth <-> EnclosuresV33_ConnectedFacilities/Buildings/W10/W10_BlenderSample_Interior/W10_Interior_FBX/W10_Inspection_WestSouth
+PASS frozen W10 Blender export manifest exists for full collision audit
+PASS manifest names exactly three W10 sample groups
+PASS W10_Shell manifest has an active matching root and object list
+PASS W10_Shell every exported visible object was imported; expected=52 actual=52
+PASS W10_Shell/W10_Back_BrickHeader intentionally visual-only
+PASS W10_Shell/W10_Back_PortalLintel intentionally visual-only
+PASS W10_Shell/W10_Back_PortalQuoin_-1 intentionally visual-only
+PASS W10_Shell/W10_Back_PortalQuoin_1 intentionally visual-only
+PASS W10_Shell/W10_Back_SteelHead intentionally visual-only
+PASS W10_Shell/W10_Back_SteelJamb_-1 intentionally visual-only
+PASS W10_Shell/W10_Back_SteelJamb_1 intentionally visual-only
+PASS W10_Shell/W10_Back_StonePlinthCap_0 intentionally visual-only
+PASS W10_Shell/W10_Back_StonePlinthCap_1 intentionally visual-only
+PASS W10_Shell/W10_Back_WindowDrip_+8 intentionally visual-only
+PASS W10_Shell/W10_Back_WindowDrip_-8 intentionally visual-only
+PASS W10_Shell/W10_Canopy_FrontFascia intentionally visual-only
+PASS W10_Shell/W10_Canopy_RakingStrut_+4.6 intentionally visual-only
+PASS W10_Shell/W10_Canopy_RakingStrut_+7.6 intentionally visual-only
+PASS W10_Shell/W10_Canopy_RakingStrut_-4.6 intentionally visual-only
+PASS W10_Shell/W10_Canopy_RakingStrut_-7.6 intentionally visual-only
+PASS W10_Shell/W10_CornerPierCap_+11.5_+7.0 intentionally visual-only
+PASS W10_Shell/W10_CornerPierCap_+11.5_-7.0 intentionally visual-only
+PASS W10_Shell/W10_CornerPierCap_-11.5_+7.0 intentionally visual-only
+PASS W10_Shell/W10_CornerPierCap_-11.5_-7.0 intentionally visual-only
+PASS W10_Shell/W10_Detail_LocalizedPlasterScarsAndRainRuns intentionally visual-only
+PASS W10_Shell/W10_Detail_Logistics_BrickStructuralPilasters exact visual MeshCollider
+PASS W10_Shell/W10_Detail_Logistics_DeepSteelLoadingCanopy intentionally visual-only
+PASS W10_Shell/W10_Detail_Logistics_DeepSteelLoadingCanopy_SupportedColumns exact visual MeshCollider
+PASS W10_Shell/W10_Detail_Logistics_StoneLoadingArcade exact visual MeshCollider
+PASS W10_Shell/W10_Entrance_OpenFrame_B_01 exact visual MeshCollider
+PASS W10_Shell/W10_Entrance_OpenFrame_F_00 exact visual MeshCollider
+PASS W10_Shell/W10_Front_BrickHeader intentionally visual-only
+PASS W10_Shell/W10_Front_PortalLintel intentionally visual-only
+PASS W10_Shell/W10_Front_PortalQuoin_-1 intentionally visual-only
+PASS W10_Shell/W10_Front_PortalQuoin_1 intentionally visual-only
+PASS W10_Shell/W10_Front_SteelHead intentionally visual-only
+PASS W10_Shell/W10_Front_SteelJamb_-1 intentionally visual-only
+PASS W10_Shell/W10_Front_SteelJamb_1 intentionally visual-only
+PASS W10_Shell/W10_Front_StonePlinthCap_0 intentionally visual-only
+PASS W10_Shell/W10_Front_StonePlinthCap_1 intentionally visual-only
+PASS W10_Shell/W10_Front_WindowDrip_+8 intentionally visual-only
+PASS W10_Shell/W10_Front_WindowDrip_-8 intentionally visual-only
+PASS W10_Shell/W10_Shell_Logistics_B exact visual MeshCollider
+PASS W10_Shell/W10_Shell_Logistics_F exact visual MeshCollider
+PASS W10_Shell/W10_Shell_Logistics_InspectionOfficeProjection exact visual MeshCollider
+PASS W10_Shell/W10_Shell_Logistics_L exact visual MeshCollider
+PASS W10_Shell/W10_Shell_Logistics_R exact visual MeshCollider
+PASS W10_Shell/W10_Window_ArchedSecurityWindow_Shell_Logistics_B_00 intentionally visual-only
+PASS W10_Shell/W10_Window_ArchedSecurityWindow_Shell_Logistics_B_01 intentionally visual-only
+PASS W10_Shell/W10_Window_ArchedSecurityWindow_Shell_Logistics_F_00 intentionally visual-only
+PASS W10_Shell/W10_Window_ArchedSecurityWindow_Shell_Logistics_F_01 intentionally visual-only
+PASS W10_Shell/W10_Window_ArchedSecurityWindow_Shell_Logistics_L_00 intentionally visual-only
+PASS W10_Shell/W10_Window_ArchedSecurityWindow_Shell_Logistics_L_01 intentionally visual-only
+PASS W10_Shell/W10_Window_ArchedSecurityWindow_Shell_Logistics_R_00 intentionally visual-only
+PASS W10_Shell/W10_Window_ArchedSecurityWindow_Shell_Logistics_R_01 intentionally visual-only
+PASS W10_Shell/W10_Window_Logistics_InspectionBay intentionally visual-only
+PASS W10_Roof manifest has an active matching root and object list
+PASS W10_Roof every exported visible object was imported; expected=39 actual=39
+PASS W10_Roof/W10_Detail_LocalizedRoofRepairPlates intentionally visual-only
+PASS W10_Roof/W10_Detail_Logistics_SteppedGable_0 intentionally visual-only
+PASS W10_Roof/W10_Detail_Logistics_SteppedGable_1 intentionally visual-only
+PASS W10_Roof/W10_Detail_Roof_Logistics_UnequalGable_0_RafterRidge intentionally visual-only
+PASS W10_Roof/W10_Detail_Roof_Logistics_UnequalGable_1_RafterRidge intentionally visual-only
+PASS W10_Roof/W10_Inspection_Ceiling intentionally visual-only
+PASS W10_Roof/W10_Roof_0_Back_Rake_-11.5 intentionally visual-only
+PASS W10_Roof/W10_Roof_0_Back_Rake_-6.3 intentionally visual-only
+PASS W10_Roof/W10_Roof_0_EaveGutter_-1.1 intentionally visual-only
+PASS W10_Roof/W10_Roof_0_EaveGutter_-11.5 intentionally visual-only
+PASS W10_Roof/W10_Roof_0_Front_Rake_-11.5 intentionally visual-only
+PASS W10_Roof/W10_Roof_0_Front_Rake_-6.3 intentionally visual-only
+PASS W10_Roof/W10_Roof_0_King_+0.0 intentionally visual-only
+PASS W10_Roof/W10_Roof_0_King_+4.8 intentionally visual-only
+PASS W10_Roof/W10_Roof_0_King_-4.8 intentionally visual-only
+PASS W10_Roof/W10_Roof_0_RidgeCap intentionally visual-only
+PASS W10_Roof/W10_Roof_0_Tie_+0.0 intentionally visual-only
+PASS W10_Roof/W10_Roof_0_Tie_+4.8 intentionally visual-only
+PASS W10_Roof/W10_Roof_0_Tie_-4.8 intentionally visual-only
+PASS W10_Roof/W10_Roof_1_Back_Rake_+5.2 intentionally visual-only
+PASS W10_Roof/W10_Roof_1_Back_Rake_-1.1 intentionally visual-only
+PASS W10_Roof/W10_Roof_1_EaveGutter_+11.5 intentionally visual-only
+PASS W10_Roof/W10_Roof_1_EaveGutter_-1.1 intentionally visual-only
+PASS W10_Roof/W10_Roof_1_Front_Rake_+5.2 intentionally visual-only
+PASS W10_Roof/W10_Roof_1_Front_Rake_-1.1 intentionally visual-only
+PASS W10_Roof/W10_Roof_1_King_+0.0 intentionally visual-only
+PASS W10_Roof/W10_Roof_1_King_+4.8 intentionally visual-only
+PASS W10_Roof/W10_Roof_1_King_-4.8 intentionally visual-only
+PASS W10_Roof/W10_Roof_1_RidgeCap intentionally visual-only
+PASS W10_Roof/W10_Roof_1_Tie_+0.0 intentionally visual-only
+PASS W10_Roof/W10_Roof_1_Tie_+4.8 intentionally visual-only
+PASS W10_Roof/W10_Roof_1_Tie_-4.8 intentionally visual-only
+PASS W10_Roof/W10_Roof_Logistics_InspectionOfficeFlat intentionally visual-only
+PASS W10_Roof/W10_Roof_Logistics_UnequalGable_0 intentionally visual-only
+PASS W10_Roof/W10_Roof_Logistics_UnequalGable_1 intentionally visual-only
+PASS W10_Roof/W10_Shell_LogisticsUnequalWing_0 intentionally visual-only
+PASS W10_Roof/W10_Shell_LogisticsUnequalWing_1 intentionally visual-only
+PASS W10_Roof/W10_Shell_Roof_Logistics_UnequalGable_0_GableEnd intentionally visual-only
+PASS W10_Roof/W10_Shell_Roof_Logistics_UnequalGable_1_GableEnd intentionally visual-only
+PASS W10_Interior manifest has an active matching root and object list
+PASS W10_Interior every exported visible object was imported; expected=52 actual=52
+PASS W10_Interior/W10_Inspection_DoorHead intentionally visual-only
+PASS W10_Interior/W10_Inspection_DoorJamb_1.95 intentionally visual-only
+PASS W10_Interior/W10_Inspection_DoorJamb_3.55 intentionally visual-only
+PASS W10_Interior/W10_Inspection_FloorFinish intentionally visual-only
+PASS W10_Interior/W10_Inspection_FloorJoint_2.48 intentionally visual-only
+PASS W10_Interior/W10_Inspection_FloorJoint_3.68 intentionally visual-only
+PASS W10_Interior/W10_Inspection_FloorJoint_4.88 intentionally visual-only
+PASS W10_Interior/W10_Inspection_North exact visual MeshCollider
+PASS W10_Interior/W10_Inspection_Skirting_1.38 intentionally visual-only
+PASS W10_Interior/W10_Inspection_Skirting_5.98 intentionally visual-only
+PASS W10_Interior/W10_Inspection_South exact visual MeshCollider
+PASS W10_Interior/W10_Inspection_TableLeg_10.18_3.02 intentionally visual-only
+PASS W10_Interior/W10_Inspection_TableLeg_10.18_3.62 intentionally visual-only
+PASS W10_Interior/W10_Inspection_TableLeg_8.88_3.02 intentionally visual-only
+PASS W10_Interior/W10_Inspection_TableLeg_8.88_3.62 intentionally visual-only
+PASS W10_Interior/W10_Inspection_WallShelf intentionally visual-only
+PASS W10_Interior/W10_Inspection_WestDoorLintel exact visual MeshCollider
+PASS W10_Interior/W10_Inspection_WestGlazingHead exact visual MeshCollider
+PASS W10_Interior/W10_Inspection_WestGlazingKnee exact visual MeshCollider
+PASS W10_Interior/W10_Inspection_WestNorth exact visual MeshCollider
+PASS W10_Interior/W10_Inspection_WestSouth exact visual MeshCollider
+PASS W10_Interior/W10_Inspection_WindowGlass intentionally visual-only
+PASS W10_Interior/W10_Inspection_WindowMullion_3.55 intentionally visual-only
+PASS W10_Interior/W10_Inspection_WindowMullion_5.64 intentionally visual-only
+PASS W10_Interior/W10_Inspection_WindowRail_1.05 intentionally visual-only
+PASS W10_Interior/W10_Inspection_WindowRail_2.40 intentionally visual-only
+PASS W10_Interior/W10_Inspection_Worktop intentionally visual-only
+PASS W10_Interior/W10_Interior_SteelWallPost_+11_+0.0 intentionally visual-only
+PASS W10_Interior/W10_Interior_SteelWallPost_+11_-3.5 intentionally visual-only
+PASS W10_Interior/W10_Interior_SteelWallPost_-11_+0.0 intentionally visual-only
+PASS W10_Interior/W10_Interior_SteelWallPost_-11_+3.5 intentionally visual-only
+PASS W10_Interior/W10_Interior_SteelWallPost_-11_-3.5 intentionally visual-only
+PASS W10_Interior/W10_Interior_WallBase_+11_+0.0 intentionally visual-only
+PASS W10_Interior/W10_Interior_WallBase_+11_-3.5 intentionally visual-only
+PASS W10_Interior/W10_Interior_WallBase_-11_+0.0 intentionally visual-only
+PASS W10_Interior/W10_Interior_WallBase_-11_+3.5 intentionally visual-only
+PASS W10_Interior/W10_Interior_WallBase_-11_-3.5 intentionally visual-only
+PASS W10_Interior/W10_LoadingGuide_+2.42 intentionally visual-only
+PASS W10_Interior/W10_LoadingGuide_-2.42 intentionally visual-only
+PASS W10_Interior/W10_MainFloor_ExpansionX_+4.2_+0.0 intentionally visual-only
+PASS W10_Interior/W10_MainFloor_ExpansionX_+4.2_-6.2 intentionally visual-only
+PASS W10_Interior/W10_MainFloor_ExpansionX_+8.2_-6.2 intentionally visual-only
+PASS W10_Interior/W10_MainFloor_ExpansionX_-4.2_+0.0 intentionally visual-only
+PASS W10_Interior/W10_MainFloor_ExpansionX_-4.2_-6.2 intentionally visual-only
+PASS W10_Interior/W10_MainFloor_ExpansionX_-8.2_+0.0 intentionally visual-only
+PASS W10_Interior/W10_MainFloor_ExpansionX_-8.2_-6.2 intentionally visual-only
+PASS W10_Interior/W10_MainFloor_ExpansionZ_+0.0_+2.6 intentionally visual-only
+PASS W10_Interior/W10_MainFloor_ExpansionZ_+0.0_-10.9 intentionally visual-only
+PASS W10_Interior/W10_MainFloor_ExpansionZ_+4.0_+2.6 intentionally visual-only
+PASS W10_Interior/W10_MainFloor_ExpansionZ_+4.0_-10.9 intentionally visual-only
+PASS W10_Interior/W10_MainFloor_ExpansionZ_-4.0_+2.6 intentionally visual-only
+PASS W10_Interior/W10_MainFloor_ExpansionZ_-4.0_-10.9 intentionally visual-only
+PASS all manifest-declared W10 physical meshes match their visible mesh; 17/17
+FAIL new interior collision leaves protected W10 central corridor clear; hits=7
+FAIL new interior collision leaves both loot approach keepouts clear; hits=7
+PASS inspection room has contracted 1.6m doorway and separate points on both sides
+PASS inspection room door capsule and sight line clear
+PASS inspection room door has a real rendered opening
+PASS inspection room threshold and floor are supported
+PASS sample roof contains active renderers
+PASS W10 roof closes outside, cuts away inside and closes again
+PASS temporary collider-derived NavMesh activated
+PASS metadata_0 local NavMesh ingress, egress and interior route
+PASS metadata_1 local NavMesh ingress, egress and interior route
+PASS loot preflight still resolves exactly the two original W10 containers; no reward roll performed
+PASS loot_w10_shipping retains original floor, approach, orientation, support and chosen door
+PASS loot_w10_shipping approach is physically supported
+PASS loot_w10_shipping approach fits player capsule
+PASS loot_w10_shipping future box location is in sight
+PASS loot_w10_shipping future box has unobstructed W10 render geometry
+PASS loot_w10_weapons retains original floor, approach, orientation, support and chosen door
+PASS loot_w10_weapons approach is physically supported
+PASS loot_w10_weapons approach fits player capsule
+PASS loot_w10_weapons future box location is in sight
+PASS loot_w10_weapons future box has unobstructed W10 render geometry
+PASS inspection room doorway and interior link have local two-way NavMesh paths
+NOTE Editor geometry/NavMesh results do not establish actual PlayerMotor and CharacterController passage.
+NOTE Visual/material acceptance requires matched outside, inside and cutaway game captures.
+passed=221 failed=2
+RESULT FAIL

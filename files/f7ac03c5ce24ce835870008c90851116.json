@@ -1,0 +1,9 @@
+{
+  "reason": "Independent QA correctly distinguished solver support1575 from actually nonzero frozen key coefficients521 (516 above0.00001mm).",
+  "native06_and_frozen_provenance_modified": false,
+  "original_bake28_record_modified": false,
+  "old_mutable_profile_metadata_sha256": "ebc38d26b4cfa0b6d427a0270b8b384240ef26c6a779619f568830cf5b306dbf",
+  "new_mutable_profile_metadata_sha256": "7933fcb2260d4c7a8332edd2bc76ee5858cffcf4f2768a0510b89ab50c837dea",
+  "profile_npz_sha256_unchanged": "db0ea950c394148803e5574969ea674876e803d0a7ecf5a5da794624021c4a7f",
+  "actual_model_shape_coordinates_changed": false
+}

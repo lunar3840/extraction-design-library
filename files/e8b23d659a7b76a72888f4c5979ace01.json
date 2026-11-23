@@ -1,0 +1,14 @@
+{
+  "design": "A-map V31 organic guidance",
+  "source_plan_sha256": "2d9495e3712e530499d28dafa524732a75416e38af280565696564228379be8c",
+  "coordinates": "northwest origin, meters, x=east, y=south; Unity local=(x-260,elevation,200-y)",
+  "root": "LandscapeV31_OrganicGuidance",
+  "preserve_existing_map_objects": true,
+  "masses": {
+    "A": {"polygon": [[190,40],[205,44],[221,65],[234,81],[265,93],[284,112],[280,125],[260,127],[238,116],[218,101],[202,85],[195,63],[183,52]], "rise_m": [3,5], "saddle_center": [221,90], "saddle_width_m": 5},
+    "B": {"polygon": [[173,145],[182,154],[184,179],[190,193],[185,215],[176,222],[171,210],[177,194],[170,177]], "rise_m": 2.65},
+    "C": {"polygon": [[338,152],[352,155],[360,174],[361,193],[376,208],[382,221],[381,229],[371,231],[357,217],[344,204],[346,182],[335,167]], "rise_m": 3.45, "revision_reason": "Shorten southeast tip to preserve existing VAN_009 visual and collision, centered near (387.8,231.7)."},
+    "D": {"polygon": [[330,260],[338,263],[345,279],[341,291],[330,291],[325,276],[330,274]], "rise_m": [2,3], "revision_reason": "Open northwest notch to preserve live T3 relay site (322,267), console and interaction approach; remove the leftover 1m-wide west spur without moving the relay or bridges."}
+  },
+  "limitations": ["Risk entries remain inactive.", "B4/R8 experience differentiation is not resolved by this implementation.", "Representative route lines are not exclusive allowed movement areas.", "This is a traversal-ready structural implementation, not final environment art."]
+}

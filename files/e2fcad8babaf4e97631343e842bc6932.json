@@ -1,0 +1,41 @@
+{
+  "checkedAt": "2026-10-29T07:14:43.801Z",
+  "scope": "Read-only catalog and prior design review; no game or Unity modification/execution",
+  "sources": [
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Resources/WeaponCatalog.json",
+      "bytes": 23404,
+      "sha256": "58c052b1dbcf5afaa1ec40105521ee1a8e90c1a0dea6fcaa5f86d99c58617884"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Resources/ArmorCatalog.json",
+      "bytes": 6919,
+      "sha256": "ff6086111251ea2e0ba0fb6210f51a8b48dae15705dee29f716d6f59f66dac6c"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Resources/AmmoCatalog.json",
+      "bytes": 3662,
+      "sha256": "8aead8581292f4f71a026ae0288f2752ac631a5cc15f07c3b768bb806a4243d0"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Equipment/Core/ArmorState.cs",
+      "bytes": 6912,
+      "sha256": "143f28748c2b0c444f66538ba09db649ed603da21569cfea58154f8f0bab3cac"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Inventory/Core/InventoryEquipment.cs",
+      "bytes": 2941,
+      "sha256": "129536acda5e0ab44052b41ba496e9f6ef0670137a7a65de693a7287df3e2ede"
+    },
+    {
+      "path": "outputs/change_records/2026-10-29/equipment-weapon-archetypes/DESIGN_PROPOSAL.md",
+      "bytes": 17459,
+      "sha256": "084ce2ccdc02716c3517e95e2e85bd0d5ec93a99c37a1b1c9baced78979e41d1"
+    },
+    {
+      "path": "outputs/change_records/2026-10-29/equipment-weapon-no-tiers/DESIGN_AMENDMENT.md",
+      "bytes": 4206,
+      "sha256": "18d8dc72330e8b5b254e4b90d622307afd0903b16767bd8203b29dd95fc8b26d"
+    }
+  ]
+}

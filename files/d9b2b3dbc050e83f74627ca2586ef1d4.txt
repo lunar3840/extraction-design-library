@@ -1,0 +1,35 @@
+ACTUAL UNITY PLAY VALIDATION
+Temporary StageScenePreview profile; normal user save slots untouched.
+PASS raid count=47
+PASS selected named count
+PASS 37 ordinary machines
+PASS 7 ordinary humans
+PASS all actors on actual runtime NavMesh
+PASS all actors use new visual bindings
+PASS all actors have visible asset renderers
+PASS current B-only entry selection preserved
+Shots are runtime model closeups with the actual camera repositioned and visibility enabled only for inspection; not normal player visibility examples.
+30-second live simulation: alive=47, moved=47, shots=0
+SpiderTransformer: count=1, moved=1, shots=0
+Tank: count=1, moved=1, shots=0
+SpiderHeavy: count=1, moved=1, shots=0
+SpiderLight: count=29, moved=29, shots=0
+SpiderMedium: count=8, moved=8, shots=0
+Scavenger: count=6, moved=6, shots=0
+Suppressor: count=1, moved=1, shots=0
+PASS actual patrol agents moved
+PASS all live actors remain on NavMesh after patrol
+PASS all live actors remain inside configured activity radius
+PASS temporary profile extracted and returned to camp
+PASS raid root detached on cleanup
+PASS no enemy registrations remain after return
+PASS second departure starts
+PASS second departure count=47
+PASS no duplicate actor IDs on second departure
+PASS registered actors match new generation
+PASS second generation returned to camp
+PASS invalid encounter data rejects departure
+PASS failed departure restores camp
+PASS failed departure preserves inventory and scrap
+One expected InvalidOperationException was injected for missing encounter data; normal user profiles were not used.
+RESULT PASS

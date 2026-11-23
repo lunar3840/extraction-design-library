@@ -1,0 +1,3 @@
+command=verify-narrow-apply utc=2026-10-20T14:14:18.4529044Z scene=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity dirty=False
+Two YAML fields only; all other deserialized settings match baseline; effectiveAngle=50
+RESULT PASS

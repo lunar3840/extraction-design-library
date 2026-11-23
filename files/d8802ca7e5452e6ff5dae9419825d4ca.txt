@@ -1,0 +1,107 @@
+﻿EDITMODE BASE CAMP EXPANSION CHECKS
+Project: C:\Users\ehoji\AppData\Local\Temp\tetris-unity-validation-20261012
+Scope: base geometry and actual player collision only; no A-map, profile, housing or NPC runtime.
+PASS actual SmallBaseCampView created
+PASS base root scale remains one
+PASS 32 x 28 solid slab at y=0 surface
+PASS walkable slab top is y=0
+PASS arrival spawn coordinate unchanged
+PASS Departure interaction coordinate unchanged
+PASS Departure remains individually selectable
+PASS Storage interaction coordinate unchanged
+PASS Storage remains individually selectable
+PASS Supply interaction coordinate unchanged
+PASS Supply remains individually selectable
+PASS Quest interaction coordinate unchanged
+PASS Quest remains individually selectable
+PASS Workbench interaction coordinate unchanged
+PASS Workbench remains individually selectable
+PASS actual player begins at the arrival point
+PASS South sheltered wall moved to the 32 x 28 boundary with a solid collider
+PASS West sheltered wall moved to the 32 x 28 boundary with a solid collider
+PASS North low rail moved to the 32 x 28 boundary with a solid collider
+PASS East low rail moved to the 32 x 28 boundary with a solid collider
+PASS South sheltered wall is absent from the old boundary
+PASS West sheltered wall is absent from the old boundary
+PASS North low rail is absent from the old boundary
+PASS East low rail is absent from the old boundary
+PASS Departure plinth original solid position and size retained at (0.00, 0.12, 5.82)
+PASS Relay console original solid position and size retained at (0.00, 0.76, 6.18)
+PASS Left equipment frame original solid position and size retained at (-1.72, 0.98, 6.23)
+PASS Right equipment frame original solid position and size retained at (1.72, 0.98, 6.23)
+PASS Olive locker body original solid position and size retained at (-6.58, 1.00, -2.42)
+PASS Olive locker body original solid position and size retained at (-6.58, 1.00, -1.12)
+PASS Olive locker body original solid position and size retained at (-6.58, 1.00, 0.18)
+PASS Side supply chest original solid position and size retained at (-6.70, 0.42, 1.78)
+PASS Counter base original solid position and size retained at (6.14, 0.57, -0.80)
+PASS Price board original solid position and size retained at (6.89, 1.82, -0.80)
+PASS Board leg one original solid position and size retained at (-6.97, 0.95, 3.76)
+PASS Board leg two original solid position and size retained at (-6.97, 0.95, 5.37)
+PASS Notice backing original solid position and size retained at (-6.76, 1.38, 4.56)
+PASS Bench legs original solid position and size retained at (6.45, 0.52, 4.46)
+PASS Bench top original solid position and size retained at (6.06, 1.11, 4.46)
+PASS Tool pegboard original solid position and size retained at (6.95, 1.83, 4.46)
+PASS Crate off aisle original solid position and size retained at (-6.61, 0.36, -4.89)
+PASS south connector is walkable without a fall
+PASS south reserve is walkable without a fall
+PASS south return is walkable without a fall
+PASS west connector is walkable without a fall
+PASS west lateral connector is walkable without a fall
+PASS west reserve is walkable without a fall
+PASS west lateral return is walkable without a fall
+PASS west connector return is walkable without a fall
+PASS west spawn return is walkable without a fall
+PASS east connector is walkable without a fall
+PASS east lateral connector is walkable without a fall
+PASS east reserve is walkable without a fall
+PASS east lateral return is walkable without a fall
+PASS east connector return is walkable without a fall
+PASS east spawn return is walkable without a fall
+PASS north central aisle is walkable without a fall
+PASS north workbench bypass is walkable without a fall
+PASS north reserve is walkable without a fall
+PASS north upper strip is walkable without a fall
+PASS north upper strip return is walkable without a fall
+PASS north workbench return is walkable without a fall
+PASS north central aisle return is walkable without a fall
+PASS north spawn return is walkable without a fall
+PASS west south corner connector is walkable without a fall
+PASS west south corner side entry is walkable without a fall
+PASS west south corner side strip is walkable without a fall
+PASS west south corner reserve is walkable without a fall
+PASS west south corner corner return is walkable without a fall
+PASS west south corner side return is walkable without a fall
+PASS west south corner connector return is walkable without a fall
+PASS west south corner spawn return is walkable without a fall
+PASS west north corner connector is walkable without a fall
+PASS west north corner side entry is walkable without a fall
+PASS west north corner side strip is walkable without a fall
+PASS west north corner reserve is walkable without a fall
+PASS west north corner corner return is walkable without a fall
+PASS west north corner side return is walkable without a fall
+PASS west north corner connector return is walkable without a fall
+PASS west north corner spawn return is walkable without a fall
+PASS east south corner connector is walkable without a fall
+PASS east south corner side entry is walkable without a fall
+PASS east south corner side strip is walkable without a fall
+PASS east south corner reserve is walkable without a fall
+PASS east south corner corner return is walkable without a fall
+PASS east south corner side return is walkable without a fall
+PASS east south corner connector return is walkable without a fall
+PASS east south corner spawn return is walkable without a fall
+PASS east north corner connector is walkable without a fall
+PASS east north corner side entry is walkable without a fall
+PASS east north corner side strip is walkable without a fall
+PASS east north corner reserve is walkable without a fall
+PASS east north corner corner return is walkable without a fall
+PASS east north corner side return is walkable without a fall
+PASS east north corner connector return is walkable without a fall
+PASS east north corner spawn return is walkable without a fall
+PASS south perimeter stops the actual player capsule
+PASS north perimeter stops the actual player capsule
+PASS west perimeter stops the actual player capsule
+PASS east perimeter stops the actual player capsule
+PASS boundary test return to spawn is walkable without a fall
+PASS no housing or companion NPC behaviour was installed in the camp
+PASS no companion NPC actor was spawned inside the camp
+RESULT PASS

@@ -1,0 +1,5 @@
+command=apply utc=2026-10-20T14:12:38.2884668Z scene=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity dirty=False
+RESULT FAIL
+System.InvalidOperationException: Saved YAML differs beyond cameraDistance and cameraHeight.
+  at Escape.EditorTools.StageACameraV39Workflow.Apply (System.String report) [0x001e1] in C:\UnityProject\escape\Assets\Escape\Editor\StageACameraV39Workflow.cs:712 
+  at Escape.EditorTools.StageACameraV39Workflow.Poll () [0x00362] in C:\UnityProject\escape\Assets\Escape\Editor\StageACameraV39Workflow.cs:121 

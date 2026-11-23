@@ -1,0 +1,194 @@
+{
+  "scope": "Actual capped captures; lower ROI x250..530,y700..800. External background and natural central opening are not classified as skin holes.",
+  "images": {
+    "capped_liv_135_portrait.png": {
+      "sha256": "3b8574bc8e739967bdb0c6c074fb16e5f0762048db5bfa0da1dc16cab72f560c",
+      "dimensions": [
+        768,
+        1152
+      ],
+      "known_points": [
+        {
+          "xy": [
+            358,
+            721
+          ],
+          "rgba": [
+            186,
+            174,
+            193,
+            255
+          ],
+          "opaque": true
+        }
+      ],
+      "transparent_components_intersecting_roi": [
+        {
+          "count": 580493,
+          "touches_image_edge": true,
+          "roi_count": 5582,
+          "bounds": [
+            0,
+            0,
+            767,
+            1151
+          ],
+          "roi_pixels": null
+        }
+      ],
+      "enclosed_transparent_pixel_count": 0
+    },
+    "capped_liv_180_portrait.png": {
+      "sha256": "034e6637f17a66139074594c5ee6ae206ed2592df1f6308a017ec0963bf2d430",
+      "dimensions": [
+        768,
+        1152
+      ],
+      "known_points": [
+        {
+          "xy": [
+            347,
+            780
+          ],
+          "rgba": [
+            159,
+            148,
+            167,
+            255
+          ],
+          "opaque": true
+        },
+        {
+          "xy": [
+            351,
+            782
+          ],
+          "rgba": [
+            158,
+            148,
+            166,
+            255
+          ],
+          "opaque": true
+        }
+      ],
+      "transparent_components_intersecting_roi": [
+        {
+          "count": 585334,
+          "touches_image_edge": true,
+          "roi_count": 4513,
+          "bounds": [
+            0,
+            0,
+            767,
+            1151
+          ],
+          "roi_pixels": null
+        },
+        {
+          "count": 2,
+          "touches_image_edge": false,
+          "roi_count": 2,
+          "bounds": [
+            383,
+            785,
+            383,
+            786
+          ],
+          "roi_pixels": [
+            [
+              383,
+              785
+            ],
+            [
+              383,
+              786
+            ]
+          ]
+        }
+      ],
+      "enclosed_transparent_pixel_count": 2
+    },
+    "capped_liv_225_portrait.png": {
+      "sha256": "66499bdf0d8ae8e993901d221fefd36bf79cf850f94c0e69fd11373992c4bbbb",
+      "dimensions": [
+        768,
+        1152
+      ],
+      "known_points": [
+        {
+          "xy": [
+            289,
+            719
+          ],
+          "rgba": [
+            125,
+            117,
+            129,
+            255
+          ],
+          "opaque": true
+        },
+        {
+          "xy": [
+            361,
+            772
+          ],
+          "rgba": [
+            158,
+            150,
+            168,
+            255
+          ],
+          "opaque": true
+        },
+        {
+          "xy": [
+            313,
+            783
+          ],
+          "rgba": [
+            139,
+            131,
+            150,
+            255
+          ],
+          "opaque": true
+        }
+      ],
+      "transparent_components_intersecting_roi": [
+        {
+          "count": 595084,
+          "touches_image_edge": true,
+          "roi_count": 7403,
+          "bounds": [
+            0,
+            0,
+            767,
+            1151
+          ],
+          "roi_pixels": null
+        },
+        {
+          "count": 1,
+          "touches_image_edge": false,
+          "roi_count": 1,
+          "bounds": [
+            474,
+            708,
+            474,
+            708
+          ],
+          "roi_pixels": [
+            [
+              474,
+              708
+            ]
+          ]
+        }
+      ],
+      "enclosed_transparent_pixel_count": 1
+    }
+  },
+  "all_six_known_points_opaque": true
+}

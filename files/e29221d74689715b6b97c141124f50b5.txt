@@ -1,0 +1,57 @@
+PASS title still hides all gameplay glass UI
+PASS explicit profile activation works after glass rewrite
+PASS lobby starts unobstructed with facilities shortcuts only
+PASS inventory dock opens the left equipment and bag layout
+PASS inventory still blocks gameplay attack
+PASS reference header character quickslots and bag widths match
+PASS reference character and quickslots sit above bag without overlap
+PASS reference inventory root and lower bag heights match
+PASS four-column cell bounds 0
+PASS four-column cell bounds 1
+PASS four-column cell bounds 2
+PASS four-column cell bounds 3
+PASS four-column cell bounds 4
+PASS four-column cell bounds 5
+PASS four-column cell bounds 6
+PASS four-column cell bounds 7
+PASS four-column cell bounds 8
+PASS four-column cell bounds 9
+PASS four-column cell bounds 10
+PASS four-column cell bounds 11
+PASS four-column cell bounds 12
+PASS four-column cell bounds 13
+PASS four-column cell bounds 14
+PASS four-column cell bounds 15
+PASS scaled reference layout fits (800.00, 600.00)
+PASS scaled reference layout fits (960.00, 600.00)
+PASS scaled reference layout fits (1280.00, 800.00)
+PASS scaled reference layout fits (1600.00, 900.00)
+PASS scaled reference layout fits (1920.00, 1080.00)
+PASS scaled reference layout fits (2560.00, 1080.00)
+PASS right navigation dock blocks weapon pointer
+PASS transparent inventory gutter blocks click-through
+PASS drag moves existing stack without cloning or spending
+PASS stale drag source identity cannot affect replacement slot
+PASS empty drag source cannot initiate a transaction
+PASS drag registers real consumable quickslot
+PASS ammo cannot be assigned to a consumable quickslot
+PASS character equipment drop equips the original weapon
+PASS equipped swap returns previous weapon without duplication
+PASS closed inventory rejects delayed drop
+PASS opening growth cancels commands from the now-hidden inventory
+PASS growth is an independent modal and still blocks firing
+PASS growth uses the large three-tree reference footprint
+PASS close growth restores unobstructed HUD state
+PASS quest opens its own centered reference panel
+PASS changing glass panels discards previous panel queued command
+PASS shop provides source-sized window alongside selectable inventory
+PASS storage opens alongside the real bag
+PASS growth fixture grants one real persisted point
+PASS departure remains available after modal navigation
+PASS hidden camp shortcuts do not block shooting into empty stage screen
+PASS growth can be inspected during a run
+PASS stage growth upgrade preserves stage player rules instead of camp protection
+PASS upgraded stage player remains vulnerable to incoming damage
+PASS stage cannot access camp facilities but can inspect quests
+PASS extraction restores clean lobby without stale panels
+PASS frozen or menu-locked player discards drag state and its pending transaction

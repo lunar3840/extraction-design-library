@@ -1,0 +1,87 @@
+2026-10-07 오후 7:27:28
+D04_ACTUAL_PLAYER_STALL_GEOMETRY
+PlayerTestWorld CharacterController height=2 radius=.4 stepOffset=.25 skinWidth=.02
+SITE E04 stalled=(379.00,136.47,7.14) target=(379.00,138.40,7.50) bearing=(0.000, 0.000, -1.000)
+CAST distance=0.035 normal=(0.00, 0.28, 0.96) point=(379.00,136.88,7.43) collider=EnclosuresV33_ConnectedFacilities/Buildings/E04/Foundation/Skirt_N@(379.00,137.00,6.89) [RETAINED] boundsY=6.35..7.43
+CAST distance=0.330 normal=(0.00, 0.22, 0.97) point=(379.00,137.18,7.45) collider=EnclosuresV33_ConnectedFacilities/Buildings/E04/Foundation/WalkableFloor@(379.00,146.00,7.39) [RETAINED] boundsY=7.33..7.45
+SAMPLE 0 feet=(379.00,136.47,7.14)
+  SURFACE y=7.116 deltaFromFeet=-0.024 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_06@(325.00,150.00,6.89) [RETAINED]
+SAMPLE 1 feet=(379.00,136.67,7.18)
+  SURFACE y=7.108 deltaFromFeet=-0.068 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_06@(325.00,150.00,6.89) [RETAINED]
+  BODY_OVERLAP EnclosuresV33_ConnectedFacilities/Buildings/E04/Foundation/Skirt_N@(379.00,137.00,6.89) [RETAINED] top=7.433
+SAMPLE 2 feet=(379.00,136.87,7.21)
+  SURFACE y=7.100 deltaFromFeet=-0.112 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_06@(325.00,150.00,6.89) [RETAINED]
+  BODY_OVERLAP EnclosuresV33_ConnectedFacilities/Buildings/E04/Foundation/Skirt_N@(379.00,137.00,6.89) [RETAINED] top=7.433
+  BODY_OVERLAP EnclosuresV33_ConnectedFacilities/Buildings/E04/Foundation/WalkableFloor@(379.00,146.00,7.39) [RETAINED] top=7.453
+SAMPLE 3 feet=(379.00,137.07,7.25)
+  SURFACE y=7.433 deltaFromFeet=0.185 collider=EnclosuresV33_ConnectedFacilities/Buildings/E04/Foundation/Skirt_N@(379.00,137.00,6.89) [RETAINED]
+  SURFACE y=7.090 deltaFromFeet=-0.158 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_06@(325.00,150.00,6.89) [RETAINED]
+  BODY_OVERLAP EnclosuresV33_ConnectedFacilities/Buildings/E04/Foundation/Skirt_N@(379.00,137.00,6.89) [RETAINED] top=7.433
+  BODY_OVERLAP EnclosuresV33_ConnectedFacilities/Buildings/E04/Foundation/WalkableFloor@(379.00,146.00,7.39) [RETAINED] top=7.453
+SAMPLE 4 feet=(379.00,137.27,7.28)
+  SURFACE y=7.453 deltaFromFeet=0.169 collider=EnclosuresV33_ConnectedFacilities/Buildings/E04/Foundation/WalkableFloor@(379.00,146.00,7.39) [RETAINED]
+  SURFACE y=7.077 deltaFromFeet=-0.207 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_06@(325.00,150.00,6.89) [RETAINED]
+  BODY_OVERLAP EnclosuresV33_ConnectedFacilities/Buildings/E04/Foundation/Skirt_N@(379.00,137.00,6.89) [RETAINED] top=7.433
+  BODY_OVERLAP EnclosuresV33_ConnectedFacilities/Buildings/E04/Foundation/WalkableFloor@(379.00,146.00,7.39) [RETAINED] top=7.453
+SAMPLE 5 feet=(379.00,137.47,7.32)
+  SURFACE y=7.453 deltaFromFeet=0.133 collider=EnclosuresV33_ConnectedFacilities/Buildings/E04/Foundation/WalkableFloor@(379.00,146.00,7.39) [RETAINED]
+  SURFACE y=7.064 deltaFromFeet=-0.256 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_06@(325.00,150.00,6.89) [RETAINED]
+  BODY_OVERLAP EnclosuresV33_ConnectedFacilities/Buildings/E04/Foundation/WalkableFloor@(379.00,146.00,7.39) [RETAINED] top=7.453
+SAMPLE 6 feet=(379.00,137.67,7.36)
+  SURFACE y=7.453 deltaFromFeet=0.097 collider=EnclosuresV33_ConnectedFacilities/Buildings/E04/Foundation/WalkableFloor@(379.00,146.00,7.39) [RETAINED]
+  SURFACE y=7.051 deltaFromFeet=-0.305 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_06@(325.00,150.00,6.89) [RETAINED]
+SAMPLE 7 feet=(379.00,137.87,7.39)
+  SURFACE y=7.453 deltaFromFeet=0.061 collider=EnclosuresV33_ConnectedFacilities/Buildings/E04/Foundation/WalkableFloor@(379.00,146.00,7.39) [RETAINED]
+  SURFACE y=7.037 deltaFromFeet=-0.355 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_06@(325.00,150.00,6.89) [RETAINED]
+SAMPLE 8 feet=(379.00,138.07,7.43)
+  SURFACE y=7.453 deltaFromFeet=0.025 collider=EnclosuresV33_ConnectedFacilities/Buildings/E04/Foundation/WalkableFloor@(379.00,146.00,7.39) [RETAINED]
+  SURFACE y=7.028 deltaFromFeet=-0.400 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_06@(325.00,150.00,6.89) [RETAINED]
+SAMPLE 9 feet=(379.00,138.27,7.46)
+  SURFACE y=7.453 deltaFromFeet=-0.011 collider=EnclosuresV33_ConnectedFacilities/Buildings/E04/Foundation/WalkableFloor@(379.00,146.00,7.39) [RETAINED]
+  SURFACE y=7.027 deltaFromFeet=-0.437 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_06@(325.00,150.00,6.89) [RETAINED]
+SAMPLE 10 feet=(379.00,138.47,7.50)
+  SURFACE y=7.453 deltaFromFeet=-0.047 collider=EnclosuresV33_ConnectedFacilities/Buildings/E04/Foundation/WalkableFloor@(379.00,146.00,7.39) [RETAINED]
+  SURFACE y=7.025 deltaFromFeet=-0.475 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_06@(325.00,150.00,6.89) [RETAINED]
+SITE W11 stalled=(177.65,113.63,5.02) target=(177.32,115.51,5.32) bearing=(-0.173, 0.000, -0.985)
+CAST distance=0.032 normal=(0.16, 0.38, 0.91) point=(177.58,114.02,5.27) collider=EnclosuresV33_ConnectedFacilities/Buildings/W11/Foundation/Skirt_N@(177.56,114.13,5.01) [RETAINED] boundsY=4.75..5.27
+CAST distance=0.324 normal=(0.16, 0.33, 0.93) point=(177.53,114.31,5.29) collider=EnclosuresV33_ConnectedFacilities/Buildings/W11/Foundation/WalkableFloor@(176.00,123.00,5.23) [RETAINED] boundsY=5.17..5.29
+SAMPLE 0 feet=(177.65,113.63,5.02)
+  SURFACE y=4.999 deltaFromFeet=-0.021 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_05@(195.00,150.00,4.97) [RETAINED]
+SAMPLE 1 feet=(177.62,113.83,5.05)
+  SURFACE y=4.999 deltaFromFeet=-0.051 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_05@(195.00,150.00,4.97) [RETAINED]
+  BODY_OVERLAP EnclosuresV33_ConnectedFacilities/Buildings/W11/Foundation/Skirt_N@(177.56,114.13,5.01) [RETAINED] top=5.271
+SAMPLE 2 feet=(177.58,114.02,5.08)
+  SURFACE y=5.271 deltaFromFeet=0.191 collider=EnclosuresV33_ConnectedFacilities/Buildings/W11/Foundation/Skirt_N@(177.56,114.13,5.01) [RETAINED]
+  SURFACE y=4.999 deltaFromFeet=-0.081 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_05@(195.00,150.00,4.97) [RETAINED]
+  BODY_OVERLAP EnclosuresV33_ConnectedFacilities/Buildings/W11/Foundation/Skirt_N@(177.56,114.13,5.01) [RETAINED] top=5.271
+  BODY_OVERLAP EnclosuresV33_ConnectedFacilities/Buildings/W11/Foundation/WalkableFloor@(176.00,123.00,5.23) [RETAINED] top=5.291
+SAMPLE 3 feet=(177.55,114.22,5.11)
+  SURFACE y=5.271 deltaFromFeet=0.161 collider=EnclosuresV33_ConnectedFacilities/Buildings/W11/Foundation/Skirt_N@(177.56,114.13,5.01) [RETAINED]
+  SURFACE y=4.999 deltaFromFeet=-0.111 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_05@(195.00,150.00,4.97) [RETAINED]
+  BODY_OVERLAP EnclosuresV33_ConnectedFacilities/Buildings/W11/Foundation/Skirt_N@(177.56,114.13,5.01) [RETAINED] top=5.271
+  BODY_OVERLAP EnclosuresV33_ConnectedFacilities/Buildings/W11/Foundation/WalkableFloor@(176.00,123.00,5.23) [RETAINED] top=5.291
+SAMPLE 4 feet=(177.51,114.42,5.14)
+  SURFACE y=5.291 deltaFromFeet=0.151 collider=EnclosuresV33_ConnectedFacilities/Buildings/W11/Foundation/WalkableFloor@(176.00,123.00,5.23) [RETAINED]
+  SURFACE y=4.999 deltaFromFeet=-0.141 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_05@(195.00,150.00,4.97) [RETAINED]
+  BODY_OVERLAP EnclosuresV33_ConnectedFacilities/Buildings/W11/Foundation/Skirt_N@(177.56,114.13,5.01) [RETAINED] top=5.271
+  BODY_OVERLAP EnclosuresV33_ConnectedFacilities/Buildings/W11/Foundation/WalkableFloor@(176.00,123.00,5.23) [RETAINED] top=5.291
+SAMPLE 5 feet=(177.48,114.61,5.17)
+  SURFACE y=5.291 deltaFromFeet=0.121 collider=EnclosuresV33_ConnectedFacilities/Buildings/W11/Foundation/WalkableFloor@(176.00,123.00,5.23) [RETAINED]
+  SURFACE y=4.999 deltaFromFeet=-0.171 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_05@(195.00,150.00,4.97) [RETAINED]
+  BODY_OVERLAP EnclosuresV33_ConnectedFacilities/Buildings/W11/Foundation/WalkableFloor@(176.00,123.00,5.23) [RETAINED] top=5.291
+SAMPLE 6 feet=(177.44,114.81,5.20)
+  SURFACE y=5.291 deltaFromFeet=0.091 collider=EnclosuresV33_ConnectedFacilities/Buildings/W11/Foundation/WalkableFloor@(176.00,123.00,5.23) [RETAINED]
+  SURFACE y=4.999 deltaFromFeet=-0.201 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_05@(195.00,150.00,4.97) [RETAINED]
+SAMPLE 7 feet=(177.41,115.01,5.23)
+  SURFACE y=5.291 deltaFromFeet=0.061 collider=EnclosuresV33_ConnectedFacilities/Buildings/W11/Foundation/WalkableFloor@(176.00,123.00,5.23) [RETAINED]
+  SURFACE y=4.999 deltaFromFeet=-0.231 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_05@(195.00,150.00,4.97) [RETAINED]
+SAMPLE 8 feet=(177.37,115.21,5.26)
+  SURFACE y=5.291 deltaFromFeet=0.031 collider=EnclosuresV33_ConnectedFacilities/Buildings/W11/Foundation/WalkableFloor@(176.00,123.00,5.23) [RETAINED]
+  SURFACE y=4.999 deltaFromFeet=-0.261 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_05@(195.00,150.00,4.97) [RETAINED]
+SAMPLE 9 feet=(177.34,115.40,5.29)
+  SURFACE y=5.291 deltaFromFeet=0.001 collider=EnclosuresV33_ConnectedFacilities/Buildings/W11/Foundation/WalkableFloor@(176.00,123.00,5.23) [RETAINED]
+  SURFACE y=4.999 deltaFromFeet=-0.291 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_05@(195.00,150.00,4.97) [RETAINED]
+SAMPLE 10 feet=(177.30,115.60,5.32)
+  SURFACE y=5.291 deltaFromFeet=-0.029 collider=EnclosuresV33_ConnectedFacilities/Buildings/W11/Foundation/WalkableFloor@(176.00,123.00,5.23) [RETAINED]
+  SURFACE y=4.999 deltaFromFeet=-0.321 collider=StageA_Landform_v09/SurfaceTiles/LandSurface_05@(195.00,150.00,4.97) [RETAINED]
+RESULT DIAGNOSED

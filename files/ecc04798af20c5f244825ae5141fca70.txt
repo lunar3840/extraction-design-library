@@ -1,0 +1,60 @@
+Unified Figma UI actual-screen route after_r02 / 1600x900
+UTC=2026-10-22T23:14:58.0849444Z; seed=20261023; route version=2026-10-23-rig
+Library-only save=C:\UnityProject\escape\Library\UnifiedUiEvidence\after-1600x900-28830382966743bdb7e02d650fd46c8b; previous override=<null>
+No scene asset save/open, app Exit, Play start/automatic stop, normal-profile load/write, fake keyboard, or medical-wheel restoration.
+Screenshots prove presentation of API-prepared runtime states, not native input correctness. Inspect every PNG before claiming visual success.
+SKIP removed medical wheel and quickslot bar by latest chest-rig policy; replaced by rig recommendation/treatment/status screens.
+Operation timers use real monotonic time, not synthetic future times. Framing/layout/seed match; elapsed seconds can differ slightly.
+PASS geometry operator inside actual logical canvas
+PASS geometry portrait inside actual logical canvas
+PASS geometry carried inside actual logical canvas
+PASS geometry context inside actual logical canvas
+PASS geometry rig/backpack inside carried panel
+PASS geometry rig above backpack without overlap
+PASS geometry deleted quickslot bar remains absent
+PASS geometry two-weapon HUD inside screen
+PASS geometry separate HP/stamina directly adjacent
+Geometry checks do not prove text fit, contrast, visual fidelity or native input.
+CAPTURE after_r02_title_1600x900.png bytes=1056408 verified PNG dimensions=1600x900
+CAPTURE after_r02_new_slots_1600x900.png bytes=908289 verified PNG dimensions=1600x900
+CAPTURE after_r02_load_slots_empty_1600x900.png bytes=907284 verified PNG dimensions=1600x900
+CAPTURE after_r02_new_slot_confirmation_1600x900.png bytes=909008 verified PNG dimensions=1600x900
+CAPTURE after_r02_loading_1600x900.png bytes=961882 verified PNG dimensions=1600x900
+Fixture seeded by public APIs only: unchanged starter backpack; rig injector verified; extra tier examples in isolated storage.
+CAPTURE after_r02_camp_hud_1600x900.png bytes=1088310 verified PNG dimensions=1600x900
+CAPTURE after_r02_lobby_1600x900.png bytes=875746 verified PNG dimensions=1600x900
+CAPTURE after_r02_inventory_1600x900.png bytes=626805 verified PNG dimensions=1600x900
+CAPTURE after_r02_inventory_side_1600x900.png bytes=630780 verified PNG dimensions=1600x900
+CAPTURE after_r02_inventory_medical_1600x900.png bytes=679210 verified PNG dimensions=1600x900
+CAPTURE after_r02_weapon_modding_1600x900.png bytes=745502 verified PNG dimensions=1600x900
+CAPTURE after_r02_storage_1600x900.png bytes=686587 verified PNG dimensions=1600x900
+CAPTURE after_r02_storage_details_1600x900.png bytes=732457 verified PNG dimensions=1600x900
+CAPTURE after_r02_supply_1600x900.png bytes=693348 verified PNG dimensions=1600x900
+CAPTURE after_r02_research_1600x900.png bytes=821365 verified PNG dimensions=1600x900
+CAPTURE after_r02_companion_abilities_1600x900.png bytes=919038 verified PNG dimensions=1600x900
+CAPTURE after_r02_chip_recovery_1600x900.png bytes=863356 verified PNG dimensions=1600x900
+CAPTURE after_r02_quests_1600x900.png bytes=872648 verified PNG dimensions=1600x900
+CAPTURE after_r02_save_records_1600x900.png bytes=1101708 verified PNG dimensions=1600x900
+CAPTURE after_r02_departure_1600x900.png bytes=1018472 verified PNG dimensions=1600x900
+CAPTURE after_r02_departing_1600x900.png bytes=967164 verified PNG dimensions=1600x900
+CAPTURE after_r02_combat_hud_1600x900.png bytes=2351746 verified PNG dimensions=1600x900
+CAPTURE after_r02_medical_recommendation_1600x900.png bytes=2353367 verified PNG dimensions=1600x900
+CAPTURE after_r02_medical_treatment_1600x900.png bytes=2353141 verified PNG dimensions=1600x900
+CAPTURE after_r02_medical_status_1600x900.png bytes=2358492 verified PNG dimensions=1600x900
+CAPTURE after_r02_loot_prompt_group_1600x900.png bytes=2350505 verified PNG dimensions=1600x900
+CAPTURE after_r02_loot_search_1600x900.png bytes=681598 verified PNG dimensions=1600x900
+CAPTURE after_r02_loot_revealed_1600x900.png bytes=753423 verified PNG dimensions=1600x900
+CAPTURE after_r02_tactical_map_1600x900.png bytes=1558158 verified PNG dimensions=1600x900
+CAPTURE after_r02_extraction_1600x900.png bytes=2490433 verified PNG dimensions=1600x900
+CAPTURE after_r02_extracted_camp_1600x900.png bytes=1237231 verified PNG dimensions=1600x900
+CAPTURE after_r02_story_dialogue_1600x900.png bytes=213393 verified PNG dimensions=1600x900
+CAPTURE after_r02_story_history_1600x900.png bytes=130985 verified PNG dimensions=1600x900
+CAPTURE after_r02_story_skip_confirmation_1600x900.png bytes=160546 verified PNG dimensions=1600x900
+CAPTURE after_r02_death_1600x900.png bytes=2481547 verified PNG dimensions=1600x900
+CAPTURE after_r02_lobby_result_1600x900.png bytes=874629 verified PNG dimensions=1600x900
+CAPTURE after_r02_saving_1600x900.png bytes=965290 verified PNG dimensions=1600x900
+CAPTURE after_r02_title_return_1600x900.png bytes=1061407 verified PNG dimensions=1600x900
+CLEANUP_REQUESTED All route steps reached.
+COMPLETE All route steps reached.
+captures=38; geometryFailures=0; titleNoSession=True
+Play was not stopped by route. Main must inspect PNGs, send stop_play explicitly if desired, then restore original scene through normal UI.

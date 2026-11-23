@@ -1,0 +1,5 @@
+/* Shared card content treatment in White and Black; workspace geometry is unchanged. */
+.card .work-summary{display:grid;grid-template-columns:max-content minmax(0,1fr);align-items:start;gap:12px;margin:14px 0;padding:12px 14px;border:1px solid var(--border-soft,#768b9450);border-left:3px solid var(--green,#91d7b1);border-radius:12px;background:var(--accent-wash,#91d7b112);color:var(--text,inherit)}
+.work-summary-label{font-size:11px;font-weight:700;line-height:24px;color:var(--muted,inherit);white-space:nowrap}
+.work-summary-text{min-width:0;font-size:14px;font-weight:650;line-height:24px;letter-spacing:-.15px;word-break:keep-all;overflow-wrap:anywhere}
+@media(max-width:700px){.card .work-summary{grid-template-columns:1fr;gap:2px;padding:10px 12px}.work-summary-label{line-height:18px}.work-summary-text{font-size:13px;line-height:22px}}

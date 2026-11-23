@@ -1,0 +1,100 @@
+{
+  "appliedAt": "2026-10-19T06:36:34.713Z",
+  "files": [
+    {
+      "file": "Runtime/Basecamp/MainQuestRules.cs",
+      "before": "6374e3de7429390667098da3a4c808fbc73fc512aafe2aa4d04f05952dfafd46",
+      "after": "521abd3a94463ef7a6236cfcadc3fe73cbaf56be729f40f548bef7c5c3aa2b24"
+    },
+    {
+      "file": "Runtime/Basecamp/QuestCatalog.cs",
+      "before": "ebbf788b873f040e3e5f239bbb984fe63ff2a3a9edb3ad1d8d1999b5b946d29e",
+      "after": "235448be84cb7a0c78529703f554b38e3a934802e8d0e5826a6252b9c3b09098"
+    },
+    {
+      "file": "Runtime/Basecamp/QuestDefinitionAsset.cs",
+      "before": "6a7ac084c515268a6f3c4265ea8e0d060acdfffbe84e097016340557883b9446",
+      "after": "ae2f1de5821f154b398b86499e34858db1900d389863a8009c8c6f258a8edf39"
+    },
+    {
+      "file": "Runtime/Save/ProfileSession.cs",
+      "before": "910bb473ecbe029495e8e1fde987be2d8565728b557b60baf9f508b41e7c0454",
+      "after": "cec5ae962c6e265e88c5892a3f52eb570595f77ef9252c0c063b140991f5a87a"
+    },
+    {
+      "file": "Runtime/Save/ProfileStory.cs",
+      "before": "31bff16dcfc333db52f526b812326c4dd524011b3f549b8cf62067d2fdf7c1f5",
+      "after": "6405f221838a8212d433a487c293395ac9324d0a9741a879857ee30bf4fb5fc2"
+    },
+    {
+      "file": "Runtime/Stage/SessionStory.cs",
+      "before": "fc4f029cfe5a86a31f60d097fc470901bb64748f2a2807bef519db3eddd878c7",
+      "after": "4dbc2bcda13666735ceed9d845a8f3b5d00eefdb14db413d585e8d9345a09080"
+    },
+    {
+      "file": "Runtime/Story/CinematicActorPose.cs",
+      "before": null,
+      "after": "33b34158bc77c7111206ed859f76f154c8a7b4852a0a32784c4d065c0b88b713"
+    },
+    {
+      "file": "Runtime/Story/CinematicShotPlanner.cs",
+      "before": null,
+      "after": "7d224f26461f49ea71b1782ea505e7cf4ce7dee20da7548df2df3bc4bb3d995f"
+    },
+    {
+      "file": "Runtime/Story/CinematicShotTypes.cs",
+      "before": null,
+      "after": "1f937fabeca8012df014ba3567ab82b19a366ca8b5d2fc36695a622591315212"
+    },
+    {
+      "file": "Runtime/Story/CutsceneActor.cs",
+      "before": null,
+      "after": "744a31f1f2f38c8000121fccfa7c9b3f5319bf5b07fe0312e026932f6f9a8266"
+    },
+    {
+      "file": "Runtime/Story/CutsceneCatalog.cs",
+      "before": "7611de8334a6f573c9c83192e3839ddb2ccd040ecffe9a3dd369086d6e26128d",
+      "after": "f30ae821f40223b5b31ad97813fb3c6ed2f215ee1e0d6dac2e147715c1bba1f8"
+    },
+    {
+      "file": "Runtime/Story/CutsceneContext.cs",
+      "before": null,
+      "after": "551a958a0469e2df8812d368d6b32a75dfac9ab7e4c8c227536e89be0812d1b8"
+    },
+    {
+      "file": "Runtime/Story/CutsceneDefinition.cs",
+      "before": "f71c8ce209d7a04938c0ab71d922b298d843a59d71d820032c2f28d698593c87",
+      "after": "b594e1b8dbd9b89216748ace24ab3f48088b57d44f19da52f8d5c5cd62c95e41"
+    },
+    {
+      "file": "Runtime/Story/CutsceneDirector.cs",
+      "before": "2c897103cad862fb4c5efa125ac199684fdb614fdb8265725f2c3c6d360deb0b",
+      "after": "9192de4d9276fe8d571e129d0d4d5d7b10870d563fb69ef9b19adf4fb04aad3b"
+    },
+    {
+      "file": "Runtime/Story/CutsceneStage.cs",
+      "before": "2881ebe2381b8218cf8ce1ce16c9ad072fef6693d5377ea364d1a7e43e2c1b2b",
+      "after": "54caa2f9713fc1982625a4ee98e76aa5722b6bf9095cf6ee1c663f3576a25db8"
+    },
+    {
+      "file": "Runtime/Enemy/EnemyController.cs",
+      "before": "7a2887a419f8c5e2678706678c4a177467c4112ec5d2d64a483f1d61d7ab8727",
+      "after": "69c24712f4c368835466f5dd4dd51af72d8d58cb17226396cb67fc5da28d0c2c"
+    },
+    {
+      "file": "Runtime/Companions/CompanionAbilityController.cs",
+      "before": "adf2aa0c90f312ef443dd044d1ef8f0866401c7d7fdd2f01b43136a2a3a4f72a",
+      "after": "75a7913645784e88558d75d247573715d4ed9a994989051f10db0c7865231a7c"
+    },
+    {
+      "file": "Editor/CinematicDirectionChecks.cs",
+      "before": null,
+      "after": "7544a5fddfc89e9d6b2eeff8aa89df3623bdd1a32534f8d893c8700bce03551e"
+    },
+    {
+      "file": "StorySystem_README.txt",
+      "before": "2e55cb83e52ed66d9a304cbc55eaf02f56093cdba67ad7cf91959a0b051e4a59",
+      "after": "5ecba987ec7e47ca4e8a071302cd6b5f7e976250f25c7da1a7d4dd410cb76da1"
+    }
+  ]
+}

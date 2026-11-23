@@ -1,0 +1,43 @@
+---
+library_verified_at: 2026-11-20T01:55:59.055Z
+library_publish_url: https://extraction-design-library-ehoji.ehojin0415.chatgpt.site/#outputs%2Fchange_records%2F2026-11-19%2Fpc-ux-2026-11-07%2FCHANGE_RECORD.md
+library_ready: true
+library_topic_id: topic:outputs/change_records/2026-11-19/inventory-ux-research
+library_category: UI·UX
+library_subcategory: 인벤토리·툴팁
+library_kind: 검토·검증
+library_instruction_date: 2026-11-07
+library_round_order: 2026-11-07-01
+library_round_summary: 8개 테마 목업과 우측 탭·UI Kit 배치를 검토했습니다.
+library_card_summary: 8개 테마 목업과 우측 탭·UI Kit 배치를 검토했습니다.
+library_publish_status: published
+library_source: Codex
+library_chat_thread: 01a1aa62-ae2b-7ac3-a99c-8fb67424d0b4
+library_source_status: PC 문서 수정 기록 · 게임 구현과 구별
+library_implementation_status: remote_evidence_review_only
+library_game_implementation_completed: 0
+---
+# 인벤토리 UI Kit·탭 배치 목업
+
+## 사용자 지시·기획 의도
+
+8개 테마 목업과 우측 탭·UI Kit 배치를 검토했습니다.
+
+## 변경 전 상태·실제 변경과 검증
+
+기존 문서의 인벤토리 화면 비교를 위한8개 테마 목업, 우측 탭과 UI Kit 구성에 대한 수정 흐름을 보존합니다. 게임 런타임 구현 기록이 아닙니다.
+
+## 원문·전후 증빙과 한계
+
+PC 원문 대화의 해당 작업일을 SOURCE_INDEX.json으로 추적합니다. 공개 원문은 담당자가 선정한 OWNER_REPORT.md와 검증 요약입니다. 원문 캐시207턴은 로컬에 보존하며 비공개 참고 PDF·개인 응답과 원문 인계의 민감한 내용을 게시하지 않습니다. 최종3장 이외의 이전 날짜별 대응 전후 이미지는 수신하지 못했습니다.
+
+기존 게임 인벤토리 구현과 달리 플레이 경험·설문·형태 비교라는 독립 목적입니다. 두 제외된 원본 리터칭 채팅은 수집하지 않았고, 별도 PC 채팅의 실제 작업과 담당자가 공개 대상으로 선정한 자체 보고서·이미지에 한정했습니다. 이 연구의12개 작업일은 하나의 대표 주제에 이어 붙였습니다.
+
+## 변경 파일과 게시 확인
+
+이 회차는 기존 자료의 아카이브·후속 연결입니다. 게임·Figma·Blender·Assets는 실행·수정하지 않았습니다. 선택 원문과 이미지만 LIBRARY_EVIDENCE.json 허용목록으로 게시합니다. 라이브러리 전후 화면은 library-full-sync의 before_library.jpg와 게시 후 화면으로 기록합니다. 실제 게시·화면 검증은 PUBLICATION_VERIFICATION.json에 남깁니다.
+
+
+## 라이브러리 게시 검증 — 2026-11-20
+
+기존 본문에서 대기로 기록한 당시 상태는 원문 이력으로 보존합니다. 공개 사이트에서 기존 주제의 후속 회차·분류·원문 열람과 확보된 이미지·대표 썸네일을 확인했습니다. 이미지·결과물 미확보 및 미완료 구현의 사유는 그대로 유지합니다. 이번 검증은 기록의 게시·열람 확인이며 게임 구현이나 미완료 파지·장전의 합격 판정을 추가하지 않습니다. 검증 영수증은 같은 폴더의 PUBLICATION_VERIFICATION.json에 보관합니다.

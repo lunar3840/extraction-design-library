@@ -1,0 +1,52 @@
+PASS 57 source products plus surgery kit and two analgesics
+PASS ordinary purchases remain session-only
+PASS per-cycle purchase cap enforced
+PASS ordinary and premium analgesics are purchasable at configured prices with independent charges
+PASS retired legacy healing consumable cannot be purchased
+PASS shop requires previous main quest completion
+PASS source ammo unlimited-purchase override
+PASS failed gene purchase rolls back bag money and stock
+PASS gene injection 15000 override with persistence
+PASS bag expansion save failure preserves currency capacity and contents
+PASS bag upgrade level 1
+PASS bag upgrade level 2
+PASS bag upgrade level 3
+PASS bag upgrade level 4
+PASS bag upgrade level 5
+PASS bag upgrade stops at five
+PASS growth requires research materials or a research credit
+PASS gene starts timed use without early consumption
+PASS failed timed gene save keeps item and points
+PASS gene completion commits exactly one item and point
+PASS growth upgrade consumes one point
+PASS selective growth save preserves live weapon object and time axis
+PASS growth max stamina and needs capacities
+PASS growth sprint drain recovery and delay
+PASS growth idle and extra activity needs reduction order
+PASS weapon growth applies precision before minimum spread clamp
+PASS precision cannot reduce source minimum spread floor
+PASS locked next stage cannot deploy
+PASS quest acceptance persists once
+PASS accepted quest can deploy
+PASS wrong-stage objective rejected
+PASS validated unique kill counted exactly once
+PASS extraction commits objective history and token
+PASS quest reward and consumption roll back on save failure
+PASS A turn-in consumes token and awards source armor
+PASS no duplicate quest rewards and B unlocked
+PASS B quest chain
+PASS collection history alone cannot submit missing items
+PASS B submission consumes actual ten food and water, grants two genes
+PASS C chain
+PASS C source weapon reward
+PASS D chain
+PASS D vaccine submission without invented reward
+PASS observer exception cannot turn committed extraction into failed transaction
+PASS D infection starts at source 15 plus entry 5
+PASS infection passive .03 per second
+PASS infection danger attributes match source
+PASS pure inhibitor reduces40 and pauses120seconds
+PASS paused infection does not accumulate passive increase
+PASS infection resumes after pause
+PASS whole-run freeze stops infection
+PASS infection death is terminal and one-shot

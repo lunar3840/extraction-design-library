@@ -1,0 +1,58 @@
+{
+  "threadId": "6ae3a330-8400-83ee-966a-3947d7c326dc",
+  "topicId": "topic:outputs/change_records/2026-10-19/weapon-ammo-tiers",
+  "archiveDateKst": "2026-11-09",
+  "publishedScope": "selected returned turns and verified available review images",
+  "rows": [
+    {
+      "id": "378cdd52-d411-4d65-a8fe-41101a59c365",
+      "kind": "v17 검토본 보고",
+      "sha256": "6651ee8d05f41a13a8d37749dfe2a346df24160d4b194d0aa4424de95cee284a",
+      "priorReferenceSHA256": "b1e24f5d9234663490ebad9e09a0dd9cfaab40020cf4cdd6634de5aaff36203e",
+      "sourceMessageIds": [
+        "378cdd52-d411-4d65-a8fe-41101a59c365",
+        "9649e354-dba3-4981-8e81-b9bd9147ddd3"
+      ],
+      "instructionTimeUtc": "2026-10-31T20:25:20.850Z",
+      "sandboxReferences": [
+        "sandbox:/mnt/data/FaceShoulder_Repair_v17/PREVIEW/Face_RealGLB_BeforeAfter_v17.png",
+        "sandbox:/mnt/data/FaceShoulder_Repair_v17/PREVIEW/Armor16_All_Edel_Serin_Turntable_v17.mp4",
+        "sandbox:/mnt/data/FaceShoulder_Repair_v17/PREVIEW/Armor16_All_Review_v17.gif",
+        "sandbox:/mnt/data/FaceShoulder_Repair_v17/PREVIEW/Armor16_All_Front_Back_ContactSheet_v17.jpg",
+        "sandbox:/mnt/data/FaceShoulder_Repair_v17/PREVIEW/A_Assault_ArmSweep_SkinnedMesh_v17.mp4",
+        "sandbox:/mnt/data/FaceShoulder_Repair_v17/PREVIEW/A_Assault_ArmSweep_SkinnedMesh_v17.gif",
+        "sandbox:/mnt/data/Armor16_FaceShoulder_v17_C_Dressed.zip",
+        "sandbox:/mnt/data/Armor16_FaceShoulder_v17_B_Dressed.zip",
+        "sandbox:/mnt/data/Armor16_FaceShoulder_v17_A_Dressed.zip",
+        "sandbox:/mnt/data/Armor16_FaceShoulder_v17_S_Dressed.zip",
+        "sandbox:/mnt/data/Armor16_FaceShoulder_v17_Videos_QA_Source.zip",
+        "sandbox:/mnt/data/FaceShoulder_Repair_v17/README_KO.md",
+        "sandbox:/mnt/data/FaceShoulder_Repair_v17/VALIDATION.json"
+      ]
+    },
+    {
+      "id": "9856e681-008f-4f3a-b6e1-5f64c501ccfa",
+      "kind": "v18 검토본 보고",
+      "sha256": "a97c20ed7c735a447e3cd119a51aba714cc94e102731986edadc1e2f229f4b82",
+      "priorReferenceSHA256": "c5b0789cf705c38b2916d4ba8e07c7792fbdcf296fbeea3181eddc1cbe2e4f2f",
+      "sourceMessageIds": [
+        "9856e681-008f-4f3a-b6e1-5f64c501ccfa",
+        "350df346-f719-408d-a8e2-72473f2763eb"
+      ],
+      "instructionTimeUtc": "2026-10-31T23:33:02.545Z",
+      "sandboxReferences": [
+        "sandbox:/mnt/data/Armor16_ColorIdentity_v18/PREVIEW/Armor16_All_Edel_Serin_ActualGLB_v18.mp4",
+        "sandbox:/mnt/data/Armor16_ColorIdentity_v18/PREVIEW/Armor16_All_QuickReview_v18.gif",
+        "sandbox:/mnt/data/Armor16_ColorIdentity_v18/PREVIEW/Armor16_All_Front_ActualGLB_v18.jpg",
+        "sandbox:/mnt/data/Armor16_ColorIdentity_v18/PREVIEW/Serin_Face_ActualGLB_BeforeAfter_v18.png",
+        "sandbox:/mnt/data/Armor16_v18_C_Grade_Dressed_Source.zip",
+        "sandbox:/mnt/data/Armor16_v18_B_Grade_Dressed_Source.zip",
+        "sandbox:/mnt/data/Armor16_v18_A_Grade_Dressed_Source.zip",
+        "sandbox:/mnt/data/Armor16_v18_S_Grade_Dressed_Source.zip",
+        "sandbox:/mnt/data/Armor16_v18_Videos_QA_Tools.zip"
+      ]
+    }
+  ],
+  "images": [],
+  "missing": "동일 버전의 v17·v18 비교 화면, 모델 및 영상 실물을 이 조회에서 확보하지 못했습니다. 다른 버전의 Unity 증빙을 대신 연결하지 않았습니다."
+}

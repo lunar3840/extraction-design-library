@@ -1,0 +1,66 @@
+W10_BLENDER_SAMPLE_ACTUAL_PLAYER_VALIDATION
+startedUtc=2026-10-26T13:45:49.7558459Z
+METHOD actual PlayerMotor.Simulate and enabled CharacterController; no physical keyboard/mouse automation.
+SCOPE W10 traversal, inspection room and two actual raid loot containers only. This does not measure AI threat, survival rate or whole-map balance.
+PASS isolated StageScenePreview ready; actual W10 loot IDs=loot_w10_shipping,loot_w10_weapons
+PASS PlayerMotor.State.SimulationFrozen=false, actual CharacterController enabled; AI frozen only for deterministic route check
+PASS ROOF north_to_south start expected=closed count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_north_to_south_start.png
+LANE north_to_south waypoints=4 corners=4 from=(-139.412, 0.930, -37.618) to=(-140.588, 0.849, -54.382)
+PASS ROOF north_to_south waypoint 1 expected=cutaway count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_north_to_south_waypoint_1.png
+PASS ROOF north_to_south waypoint 2 expected=cutaway count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_north_to_south_waypoint_2.png
+PASS ROOF north_to_south waypoint 3 expected=closed count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_north_to_south_waypoint_3.png
+PASS ROOF north_to_south finish expected=closed count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_north_to_south_finish.png
+PASS north_to_south actualSteps=123 end=(-140.560, 0.842, -53.978)
+PASS ROOF south_to_north start expected=closed count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_south_to_north_start.png
+LANE south_to_north waypoints=4 corners=4 from=(-140.588, 0.849, -54.382) to=(-139.412, 0.930, -37.618)
+PASS ROOF south_to_north waypoint 1 expected=cutaway count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_south_to_north_waypoint_1.png
+PASS ROOF south_to_north waypoint 2 expected=cutaway count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_south_to_north_waypoint_2.png
+PASS ROOF south_to_north waypoint 3 expected=closed count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_south_to_north_waypoint_3.png
+PASS ROOF south_to_north finish expected=closed count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_south_to_north_finish.png
+PASS south_to_north actualSteps=123 end=(-139.440, 0.923, -38.022)
+PASS ROOF inspection_in start expected=cutaway count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_inspection_in_start.png
+LANE inspection_in waypoints=2 corners=2 from=(-133.623, 1.080, -43.691) to=(-131.727, 1.080, -43.824)
+PASS ROOF inspection_in waypoint 1 expected=cutaway count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_inspection_in_waypoint_1.png
+PASS ROOF inspection_in finish expected=cutaway count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_inspection_in_finish.png
+PASS inspection_in actualSteps=11 end=(-132.160, 1.067, -43.794)
+PASS ROOF inspection_out start expected=cutaway count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_inspection_out_start.png
+LANE inspection_out waypoints=2 corners=2 from=(-131.727, 1.080, -43.824) to=(-133.623, 1.080, -43.691)
+PASS ROOF inspection_out waypoint 1 expected=cutaway count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_inspection_out_waypoint_1.png
+PASS ROOF inspection_out finish expected=cutaway count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_inspection_out_finish.png
+PASS inspection_out actualSteps=11 end=(-133.190, 1.067, -43.721)
+PASS ROOF loot_loot_w10_shipping start expected=cutaway count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_loot_loot_w10_shipping_start.png
+LANE loot_loot_w10_shipping waypoints=2 corners=2 from=(-140.000, 1.087, -46.000) to=(-142.170, 1.115, -44.722)
+PASS ROOF loot_loot_w10_shipping waypoint 1 expected=cutaway count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_loot_loot_w10_shipping_waypoint_1.png
+PASS ROOF loot_loot_w10_shipping finish expected=cutaway count=39 oldActive=False
+PASS LOOT_INTERACT loot_w10_shipping inRange=True canOpen=True opened=True promptVisibleBeforeOpen=True
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_loot_loot_w10_shipping_finish.png
+PASS loot_loot_w10_shipping actualSteps=16 end=(-141.838, 1.067, -44.918)
+PASS ROOF loot_loot_w10_weapons start expected=cutaway count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_loot_loot_w10_weapons_start.png
+LANE loot_loot_w10_weapons waypoints=2 corners=2 from=(-140.000, 1.087, -46.000) to=(-135.327, 1.080, -47.208)
+PASS ROOF loot_loot_w10_weapons waypoint 1 expected=cutaway count=39 oldActive=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_loot_loot_w10_weapons_waypoint_1.png
+PASS ROOF loot_loot_w10_weapons finish expected=cutaway count=39 oldActive=False
+PASS LOOT_INTERACT loot_w10_weapons inRange=True canOpen=True opened=True promptVisibleBeforeOpen=True
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-26/a-map-blender-warehouse-sample/validation\play_attempt_01\after_play_loot_loot_w10_weapons_finish.png
+PASS loot_loot_w10_weapons actualSteps=33 end=(-135.740, 1.067, -47.101)
+passed=6 failed=0 W10Lanes=6
+RESULT PASS

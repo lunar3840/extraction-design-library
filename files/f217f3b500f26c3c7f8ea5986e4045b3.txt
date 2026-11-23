@@ -1,0 +1,4 @@
+Retained A scene preview references: PASS
+Missing scripts: 0
+Active mesh/material references: PASS
+Scene opened read-only in isolated validation project; not saved.

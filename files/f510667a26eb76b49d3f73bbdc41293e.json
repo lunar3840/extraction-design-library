@@ -1,0 +1,22 @@
+[
+  {
+    "file": "SdHairCollisionMotion.cs",
+    "sha256": "32183682DD67C6625CA47B602B42A9C18D1E3C9A0A15ECE4A0AE4421B6763CF7",
+    "purpose": "read-only phase2 plan provenance"
+  },
+  {
+    "file": "CurrentSourceClearanceFieldBudget.cs",
+    "sha256": "3B945AA150F68F695B91E1265C0F9D9DB0E4EB75FB32CAC774DFEB6BE2931628",
+    "purpose": "read-only phase2 plan provenance"
+  },
+  {
+    "file": "HeadSourceClearanceFieldBudget.cs",
+    "sha256": "BAD7CBBDB27940C7E09798080008F7BABABCE53B25E5007DEF3D14DC56AA9EA0",
+    "purpose": "read-only phase2 plan provenance"
+  },
+  {
+    "file": "BodySurfaceProjector.cs",
+    "sha256": "6C295E67279BC9ED5314CF7123AB3F7DAE67E4DC21F7C316E0BA0466688DF33C",
+    "purpose": "read-only phase2 plan provenance"
+  }
+]

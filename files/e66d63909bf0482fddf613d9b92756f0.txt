@@ -1,0 +1,15 @@
+﻿CONTAINER ART BUILD
+PASS weaponcase bounds=(1.060, 0.273, 0.402) renderers=24 triangles=1116
+PASS medical bounds=(0.813, 0.780, 0.539) renderers=17 triangles=808
+PASS drawer bounds=(0.615, 0.780, 0.758) renderers=23 triangles=1212
+PASS safe bounds=(0.769, 0.780, 0.767) renderers=12 triangles=648
+PASS toolbox bounds=(1.038, 0.780, 0.583) renderers=16 triangles=764
+PASS computercase bounds=(0.380, 0.780, 0.692) renderers=16 triangles=724
+PASS locker bounds=(0.561, 0.780, 0.541) renderers=15 triangles=720
+PASS duffel bounds=(1.060, 0.671, 0.650) renderers=10 triangles=680
+PASS electronics bounds=(1.060, 0.495, 0.727) renderers=18 triangles=852
+PASS rations bounds=(1.060, 0.648, 0.790) renderers=19 triangles=956
+PASS valuables bounds=(1.060, 0.498, 0.763) renderers=13 triangles=632
+PASS salvage bounds=(1.060, 0.537, 0.716) renderers=8 triangles=432
+PASS ammo bounds=(1.060, 0.509, 0.636) renderers=1 triangles=9087
+RESULT PASS

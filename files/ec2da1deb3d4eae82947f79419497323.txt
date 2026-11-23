@@ -1,0 +1,54 @@
+PASS 3x3 onto 1x2 + 2x3 (one empty cell): preview is read-only
+PASS contained group swaps atomically and preserves relative positions
+PASS empty cell in group is preserved, no item or cell duplicated
+PASS swap works in a completely full grid without temporary space
+PASS nine-item group has no arbitrary swap-count limit
+PASS single contained item keeps its offset instead of snapping to source origin
+PASS displaced item rotations are retained
+PASS same-inventory page swap preserves group offsets
+PASS crossing edge 0 preview
+PASS crossing edge 0 atomic rejection
+PASS crossing edge 1 preview
+PASS crossing edge 1 atomic rejection
+PASS crossing edge 2 preview
+PASS crossing edge 2 atomic rejection
+PASS crossing edge 3 preview
+PASS crossing edge 3 atomic rejection
+PASS one contained and one crossing item preview
+PASS one contained and one crossing item atomic rejection
+PASS small item cannot swap a partly covered larger item preview
+PASS small item cannot swap a partly covered larger item atomic rejection
+PASS rotated source changes swap rectangle dimensions preview
+PASS rotated source changes swap rectangle dimensions atomic rejection
+PASS rotation into empty space still works
+PASS grid boundary preview
+PASS grid boundary atomic rejection
+PASS overlapping region previews bounded return without changing inventory
+PASS overlapping region exchanges item into free part of former source rectangle
+PASS three-item overlap preview remains read-only
+PASS contained group fits old rectangle; unrelated item stays put and identities are retained
+PASS overlapping regions are accepted only when final occupancy is valid
+PASS live weapon loaded for transaction fixture False
+PASS failed disk commit preserves whole group False
+PASS camp layout transaction swaps full group False
+PASS live objects, cooldown, durability, charges and protection preserved False
+PASS saved group round-trip retains exact inventory snapshot False
+PASS live weapon loaded for transaction fixture True
+PASS failed disk commit preserves whole group True
+PASS camp layout transaction swaps full group True
+PASS live objects, cooldown, durability, charges and protection preserved True
+PASS saved group round-trip retains exact inventory snapshot True
+PASS existing partial stack merge stays separate from region swaps
+PASS bag-to-loot group swap preview is non-mutating
+PASS bag-to-loot swap preserves identities/relative positions and publishes once per side
+PASS loot-to-bag swap returns the whole group to vacated loot region
+PASS insufficient loot entry capacity rejects without loss
+PASS unsearched member blocks whole exchange without revealing it
+PASS boundary-crossing loot member blocks deposit exchange
+PASS insufficient bag entry capacity blocks return group
+PASS multi-stack loot pile cannot masquerade as one swappable item
+PASS normal multi-stack looting remains supported
+PASS partial quantity drag cannot swap a whole region
+PASS loot exchange preserves exact live equipment/resources and publishes only final ownership
+PASS loot capture after exchange contains all returned item identities
+PASS 2000 deterministic actions match independent rectangle oracle; allowed=545, swaps=36

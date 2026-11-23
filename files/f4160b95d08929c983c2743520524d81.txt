@@ -1,0 +1,2 @@
+PASS shared editor compile, ground drop rules and previous direct equipment rules.
+scene=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity dirty=False roots=4 time=2026-10-16T04:16:36.0263025+09:00

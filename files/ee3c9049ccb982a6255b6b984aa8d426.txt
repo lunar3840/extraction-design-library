@@ -1,0 +1,14 @@
+west (-27,-55) SAFE: clear
+west (-33,-56) SAFE: clear
+west (-25,-58) SAFE: clear
+west (-35,-59) SAFE: clear
+east (34,-80) REJECT: authored door clearance
+east (36,-83) REJECT: authored door clearance
+east (31,-84) REJECT: authored door clearance
+east (37,-76) REJECT: authored door clearance
+east-alternate (18,-65) REJECT: terrain grade >0.55m across footprint
+east-alternate (20,-66) REJECT: terrain grade >0.55m across footprint
+east-alternate (16,-70) SAFE: clear
+east-alternate (18,-71) REJECT: fixed before/after observer radius
+east-alternate (21,-60) REJECT: loading-door approach axis
+east-alternate (16,-62) REJECT: terrain grade >0.55m across footprint

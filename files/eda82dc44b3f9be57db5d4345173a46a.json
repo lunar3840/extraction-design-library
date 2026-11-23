@@ -1,0 +1,365 @@
+{
+    "id": "geometry-clinic-20261030-07",
+    "status": "captured_review_required",
+    "startedUtc": "2026-10-29T22:52:11.9643632Z",
+    "completedUtc": "2026-10-29T22:52:26.0434764Z",
+    "error": "",
+    "poseFile": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/soft-area-occlusion/staging/geometry_evidence/clinic_validation/POSES.json",
+    "scene": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+    "expected": 6,
+    "captured": 6,
+    "transientScreenWaits": 0,
+    "transientScreenFrames": 0,
+    "temporaryPreviewSave": true,
+    "playKeptRunning": true,
+    "callerFlagsRestored": true,
+    "scalarStateRestored": true,
+    "enemyFlagsRestored": true,
+    "cameraRestored": true,
+    "resolutionRestored": true,
+    "finalClinicOriginal": true,
+    "rows": [
+        {
+            "id": "clinic_north_reveal",
+            "png": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/soft-area-occlusion/staging/geometry_evidence/clinic_validation/captures/clinic_after06\\current_clinic_north_reveal.png",
+            "captureUtc": "2026-10-29T22:52:14.8587005Z",
+            "blocker": "CLINIC_Shell_renderOpaque",
+            "sourceShaders": "Hidden/Escape/BuildingV33LocalReveal",
+            "shellShaders": "Hidden/Escape/BuildingV33LocalReveal",
+            "growthStates": "A34_GrowthStem:False | A34_GrowthLeaf:False | A34_PlasterLoss:False",
+            "groundStates": "A34_Ground:True | A34_Debris:True | A34_Roots:True",
+            "outlineFrontState": "last-rendered-state valid=1 texture=Stage A nearest selected building depth (runtime) 1920x1080 (not per-pixel UV proof)",
+            "poseSource": "sourceRevealReport",
+            "navSource": "original_pose_y",
+            "issue": "none; visual review still required",
+            "requestedFeet": {
+                "x": -168.35000610351563,
+                "y": 4.039999961853027,
+                "z": 139.60000610351563
+            },
+            "actualFeet": {
+                "x": -168.35000610351563,
+                "y": 4.019999980926514,
+                "z": 139.60000610351563
+            },
+            "eye": {
+                "x": -162.0,
+                "y": 11.0,
+                "z": 151.0
+            },
+            "target": {
+                "x": -168.35000610351563,
+                "y": 5.300000190734863,
+                "z": 139.60000610351563
+            },
+            "eyeRotation": {
+                "x": -0.051398150622844699,
+                "y": 0.9474408030509949,
+                "z": -0.19789665937423707,
+                "w": -0.24607135355472566
+            },
+            "frame": 2566,
+            "width": 1920,
+            "height": 1080,
+            "activeReveals": 1,
+            "actorMaskDraws": 36,
+            "frontMaskDraws": 10,
+            "growthActive": 0,
+            "groundActive": 3,
+            "cyanSamples": 0,
+            "pixelSamples": 1222,
+            "revealActive": true,
+            "actorMaskReady": true,
+            "frontMaskReady": true,
+            "sourceBinding": true,
+            "clinicContractPass": true,
+            "revealShaderHealthy": true,
+            "outlineShaderHealthy": true
+        },
+        {
+            "id": "clinic_north_reveal_restored",
+            "png": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/soft-area-occlusion/staging/geometry_evidence/clinic_validation/captures/clinic_after06\\current_clinic_north_reveal_restored.png",
+            "captureUtc": "2026-10-29T22:52:17.0652297Z",
+            "blocker": "",
+            "sourceShaders": "Escape/BuildingD09/WeatheredLit,Escape/Environment/Weathered Lit",
+            "shellShaders": "Escape/BuildingD09/WeatheredLit,Escape/Environment/Weathered Lit",
+            "growthStates": "A34_GrowthStem:True | A34_GrowthLeaf:True | A34_PlasterLoss:True",
+            "groundStates": "A34_Ground:True | A34_Debris:True | A34_Roots:True",
+            "outlineFrontState": "last-rendered-state valid=0 texture=UnityBlack 4x4 (not per-pixel UV proof)",
+            "poseSource": "sourceRevealReport; also clinic_north_seam_close in sourceHudMatchedReport",
+            "navSource": "original_pose_y",
+            "issue": "none; visual review still required",
+            "requestedFeet": {
+                "x": -168.35000610351563,
+                "y": 4.039999961853027,
+                "z": 145.0
+            },
+            "actualFeet": {
+                "x": -168.35000610351563,
+                "y": 4.074374198913574,
+                "z": 145.0
+            },
+            "eye": {
+                "x": -162.0,
+                "y": 11.0,
+                "z": 151.0
+            },
+            "target": {
+                "x": -168.35000610351563,
+                "y": 5.300000190734863,
+                "z": 141.9499969482422
+            },
+            "eyeRotation": {
+                "x": -0.07100830227136612,
+                "y": 0.9266871809959412,
+                "z": -0.22482830286026,
+                "w": -0.2926788032054901
+            },
+            "frame": 2592,
+            "width": 1920,
+            "height": 1080,
+            "activeReveals": 0,
+            "actorMaskDraws": 36,
+            "frontMaskDraws": 10,
+            "growthActive": 3,
+            "groundActive": 3,
+            "cyanSamples": 0,
+            "pixelSamples": 1222,
+            "revealActive": false,
+            "actorMaskReady": false,
+            "frontMaskReady": false,
+            "sourceBinding": true,
+            "clinicContractPass": true,
+            "revealShaderHealthy": true,
+            "outlineShaderHealthy": true
+        },
+        {
+            "id": "clinic_true_exterior",
+            "png": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/soft-area-occlusion/staging/geometry_evidence/clinic_validation/captures/clinic_after06\\current_clinic_true_exterior.png",
+            "captureUtc": "2026-10-29T22:52:19.2707980Z",
+            "blocker": "",
+            "sourceShaders": "Escape/BuildingD09/WeatheredLit,Escape/Environment/Weathered Lit",
+            "shellShaders": "Escape/BuildingD09/WeatheredLit,Escape/Environment/Weathered Lit",
+            "growthStates": "A34_GrowthStem:True | A34_GrowthLeaf:True | A34_PlasterLoss:True",
+            "groundStates": "A34_Ground:True | A34_Debris:True | A34_Roots:True",
+            "outlineFrontState": "last-rendered-state valid=0 texture=UnityBlack 4x4 (not per-pixel UV proof)",
+            "poseSource": "sourceHudMatchedReport",
+            "navSource": "original_pose_y",
+            "issue": "none; visual review still required",
+            "requestedFeet": {
+                "x": -166.0,
+                "y": 4.598100185394287,
+                "z": 155.0
+            },
+            "actualFeet": {
+                "x": -166.0,
+                "y": 4.541766166687012,
+                "z": 155.0
+            },
+            "eye": {
+                "x": -158.0,
+                "y": 17.0,
+                "z": 167.0
+            },
+            "target": {
+                "x": -166.0,
+                "y": 4.0,
+                "z": 149.0
+            },
+            "eyeRotation": {
+                "x": -0.059694912284612659,
+                "y": 0.9368984699249268,
+                "z": -0.2812952399253845,
+                "w": -0.19882337749004365
+            },
+            "frame": 2618,
+            "width": 1920,
+            "height": 1080,
+            "activeReveals": 0,
+            "actorMaskDraws": 36,
+            "frontMaskDraws": 10,
+            "growthActive": 3,
+            "groundActive": 3,
+            "cyanSamples": 0,
+            "pixelSamples": 1222,
+            "revealActive": false,
+            "actorMaskReady": false,
+            "frontMaskReady": false,
+            "sourceBinding": true,
+            "clinicContractPass": true,
+            "revealShaderHealthy": true,
+            "outlineShaderHealthy": true
+        },
+        {
+            "id": "remote_w05_control",
+            "png": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/soft-area-occlusion/staging/geometry_evidence/clinic_validation/captures/clinic_after06\\current_remote_w05_control.png",
+            "captureUtc": "2026-10-29T22:52:21.7208209Z",
+            "blocker": "RoomPartition_1__Collision",
+            "sourceShaders": "Escape/BuildingD09/WeatheredLit,Escape/Environment/Weathered Lit",
+            "shellShaders": "Escape/BuildingD09/WeatheredLit,Escape/Environment/Weathered Lit",
+            "growthStates": "A34_GrowthStem:True | A34_GrowthLeaf:True | A34_PlasterLoss:True",
+            "groundStates": "A34_Ground:True | A34_Debris:True | A34_Roots:True",
+            "outlineFrontState": "last-rendered-state valid=1 texture=Stage A nearest selected building depth (runtime) 1920x1080 (not per-pixel UV proof)",
+            "poseSource": "sourceHudMatchedReport",
+            "navSource": "original_pose_y",
+            "issue": "none; visual review still required",
+            "requestedFeet": {
+                "x": -132.0,
+                "y": 1.7999999523162842,
+                "z": 9.0
+            },
+            "actualFeet": {
+                "x": -132.0,
+                "y": 1.760568618774414,
+                "z": 9.0
+            },
+            "eye": {
+                "x": -121.0,
+                "y": 16.799999237060548,
+                "z": -6.0
+            },
+            "target": {
+                "x": -132.0,
+                "y": 2.799999952316284,
+                "z": 9.0
+            },
+            "eyeRotation": {
+                "x": 0.3012951910495758,
+                "y": -0.29507389664649966,
+                "z": 0.09863515198230744,
+                "w": 0.9013454914093018
+            },
+            "frame": 2644,
+            "width": 1920,
+            "height": 1080,
+            "activeReveals": 1,
+            "actorMaskDraws": 36,
+            "frontMaskDraws": 3,
+            "growthActive": 3,
+            "groundActive": 3,
+            "cyanSamples": 0,
+            "pixelSamples": 1222,
+            "revealActive": true,
+            "actorMaskReady": true,
+            "frontMaskReady": true,
+            "sourceBinding": true,
+            "clinicContractPass": true,
+            "revealShaderHealthy": true,
+            "outlineShaderHealthy": true
+        },
+        {
+            "id": "remote_bridge_control",
+            "png": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/soft-area-occlusion/staging/geometry_evidence/clinic_validation/captures/clinic_after06\\current_remote_bridge_control.png",
+            "captureUtc": "2026-10-29T22:52:23.8838966Z",
+            "blocker": "",
+            "sourceShaders": "Escape/BuildingD09/WeatheredLit,Escape/Environment/Weathered Lit",
+            "shellShaders": "Escape/BuildingD09/WeatheredLit,Escape/Environment/Weathered Lit",
+            "growthStates": "A34_GrowthStem:True | A34_GrowthLeaf:True | A34_PlasterLoss:True",
+            "groundStates": "A34_Ground:True | A34_Debris:True | A34_Roots:True",
+            "outlineFrontState": "last-rendered-state valid=0 texture=UnityBlack 4x4 (not per-pixel UV proof)",
+            "poseSource": "sourceHudMatchedReport",
+            "navSource": "original_pose_y",
+            "issue": "none; visual review still required",
+            "requestedFeet": {
+                "x": 102.5,
+                "y": 0.20000000298023225,
+                "z": -125.0
+            },
+            "actualFeet": {
+                "x": 102.5,
+                "y": 0.019999898970127107,
+                "z": -125.0
+            },
+            "eye": {
+                "x": 115.5,
+                "y": 19.200000762939454,
+                "z": -146.0
+            },
+            "target": {
+                "x": 102.5,
+                "y": 1.2000000476837159,
+                "z": -125.0
+            },
+            "eyeRotation": {
+                "x": 0.29789891839027407,
+                "y": -0.2601648271083832,
+                "z": 0.08474486321210861,
+                "w": 0.9145429730415344
+            },
+            "frame": 2670,
+            "width": 1920,
+            "height": 1080,
+            "activeReveals": 0,
+            "actorMaskDraws": 36,
+            "frontMaskDraws": 3,
+            "growthActive": 3,
+            "groundActive": 3,
+            "cyanSamples": 0,
+            "pixelSamples": 1222,
+            "revealActive": false,
+            "actorMaskReady": false,
+            "frontMaskReady": false,
+            "sourceBinding": true,
+            "clinicContractPass": true,
+            "revealShaderHealthy": true,
+            "outlineShaderHealthy": true
+        },
+        {
+            "id": "HALL1_control",
+            "png": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/soft-area-occlusion/staging/geometry_evidence/clinic_validation/captures/clinic_after06\\current_HALL1_control.png",
+            "captureUtc": "2026-10-29T22:52:26.0323413Z",
+            "blocker": "",
+            "sourceShaders": "Escape/BuildingD09/WeatheredLit,Escape/Environment/Weathered Lit",
+            "shellShaders": "Escape/BuildingD09/WeatheredLit,Escape/Environment/Weathered Lit",
+            "growthStates": "A34_GrowthStem:True | A34_GrowthLeaf:True | A34_PlasterLoss:True",
+            "groundStates": "A34_Ground:True | A34_Debris:True | A34_Roots:True",
+            "outlineFrontState": "last-rendered-state valid=0 texture=UnityBlack 4x4 (not per-pixel UV proof)",
+            "poseSource": "sourceHudMatchedReport",
+            "navSource": "original_pose_y",
+            "issue": "none; visual review still required",
+            "requestedFeet": {
+                "x": 0.0,
+                "y": 2.0,
+                "z": -42.0
+            },
+            "actualFeet": {
+                "x": -0.00000762939453125,
+                "y": 2.017526149749756,
+                "z": -42.0
+            },
+            "eye": {
+                "x": 14.0,
+                "y": 19.0,
+                "z": -60.0
+            },
+            "target": {
+                "x": 0.0,
+                "y": 3.0,
+                "z": -42.0
+            },
+            "eyeRotation": {
+                "x": 0.28486472368240359,
+                "y": -0.3094687759876251,
+                "z": 0.09773928672075272,
+                "w": 0.9019579887390137
+            },
+            "frame": 2696,
+            "width": 1920,
+            "height": 1080,
+            "activeReveals": 0,
+            "actorMaskDraws": 36,
+            "frontMaskDraws": 3,
+            "growthActive": 3,
+            "groundActive": 3,
+            "cyanSamples": 0,
+            "pixelSamples": 1222,
+            "revealActive": false,
+            "actorMaskReady": false,
+            "frontMaskReady": false,
+            "sourceBinding": true,
+            "clinicContractPass": true,
+            "revealShaderHealthy": true,
+            "outlineShaderHealthy": true
+        }
+    ]
+}

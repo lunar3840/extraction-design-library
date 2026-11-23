@@ -1,0 +1,167 @@
+{
+  "status": "PASS",
+  "geometryChecks": [
+    {
+      "character": "serin",
+      "pose": "final",
+      "vertices": 100,
+      "faces": 96,
+      "maxRestGap": 1.2605580922729247e-07,
+      "maxPosedGap": 0.0,
+      "weightError": 5.960464477539063e-08,
+      "joined_boundary_edges": 100,
+      "internal_edges": 94,
+      "status": "PASS"
+    },
+    {
+      "character": "serin",
+      "pose": "idle_8",
+      "vertices": 100,
+      "faces": 96,
+      "maxRestGap": 1.2605580922729247e-07,
+      "maxPosedGap": 0.0,
+      "weightError": 5.960464477539063e-08,
+      "joined_boundary_edges": 100,
+      "internal_edges": 94,
+      "status": "PASS"
+    },
+    {
+      "character": "serin",
+      "pose": "idle_20",
+      "vertices": 100,
+      "faces": 96,
+      "maxRestGap": 1.2605580922729247e-07,
+      "maxPosedGap": 0.0,
+      "weightError": 5.960464477539063e-08,
+      "joined_boundary_edges": 100,
+      "internal_edges": 94,
+      "status": "PASS"
+    },
+    {
+      "character": "serin",
+      "pose": "idle_34",
+      "vertices": 100,
+      "faces": 96,
+      "maxRestGap": 1.2605580922729247e-07,
+      "maxPosedGap": 0.0,
+      "weightError": 5.960464477539063e-08,
+      "joined_boundary_edges": 100,
+      "internal_edges": 94,
+      "status": "PASS"
+    },
+    {
+      "character": "liv",
+      "pose": "final",
+      "vertices": 100,
+      "faces": 96,
+      "maxRestGap": 1.2605580922729247e-07,
+      "maxPosedGap": 0.0,
+      "weightError": 5.960464477539063e-08,
+      "joined_boundary_edges": 100,
+      "internal_edges": 94,
+      "status": "PASS"
+    },
+    {
+      "character": "liv",
+      "pose": "idle_8",
+      "vertices": 100,
+      "faces": 96,
+      "maxRestGap": 1.2605580922729247e-07,
+      "maxPosedGap": 0.0,
+      "weightError": 5.960464477539063e-08,
+      "joined_boundary_edges": 100,
+      "internal_edges": 94,
+      "status": "PASS"
+    },
+    {
+      "character": "liv",
+      "pose": "idle_20",
+      "vertices": 100,
+      "faces": 96,
+      "maxRestGap": 1.2605580922729247e-07,
+      "maxPosedGap": 0.0,
+      "weightError": 5.960464477539063e-08,
+      "joined_boundary_edges": 100,
+      "internal_edges": 94,
+      "status": "PASS"
+    },
+    {
+      "character": "liv",
+      "pose": "idle_34",
+      "vertices": 100,
+      "faces": 96,
+      "maxRestGap": 1.2605580922729247e-07,
+      "maxPosedGap": 0.0,
+      "weightError": 5.960464477539063e-08,
+      "joined_boundary_edges": 100,
+      "internal_edges": 94,
+      "status": "PASS"
+    },
+    {
+      "character": "yui",
+      "pose": "final",
+      "vertices": 100,
+      "faces": 96,
+      "maxRestGap": 1.2605580922729247e-07,
+      "maxPosedGap": 0.0,
+      "weightError": 5.960464477539063e-08,
+      "joined_boundary_edges": 100,
+      "internal_edges": 94,
+      "status": "PASS"
+    },
+    {
+      "character": "yui",
+      "pose": "idle_8",
+      "vertices": 100,
+      "faces": 96,
+      "maxRestGap": 1.2605580922729247e-07,
+      "maxPosedGap": 0.0,
+      "weightError": 5.960464477539063e-08,
+      "joined_boundary_edges": 100,
+      "internal_edges": 94,
+      "status": "PASS"
+    },
+    {
+      "character": "yui",
+      "pose": "idle_20",
+      "vertices": 100,
+      "faces": 96,
+      "maxRestGap": 1.2605580922729247e-07,
+      "maxPosedGap": 0.0,
+      "weightError": 5.960464477539063e-08,
+      "joined_boundary_edges": 100,
+      "internal_edges": 94,
+      "status": "PASS"
+    },
+    {
+      "character": "yui",
+      "pose": "idle_34",
+      "vertices": 100,
+      "faces": 96,
+      "maxRestGap": 1.2605580922729247e-07,
+      "maxPosedGap": 0.0009765625,
+      "weightError": 5.960464477539063e-08,
+      "joined_boundary_edges": 100,
+      "internal_edges": 94,
+      "status": "PASS"
+    }
+  ],
+  "finalViews": 24,
+  "idleSamples": 9,
+  "portraitBoundsFallback": 0,
+  "finalRuntimeErrors": 0,
+  "scope": "Actual Unity inventory rendering and rear seam skinning; no standalone build or full combat animation benchmark.",
+  "cleanupCompile": {
+    "Runtime": {
+      "errors": 0,
+      "warnings": 21
+    },
+    "Editor": {
+      "errors": 0,
+      "warnings": 35
+    },
+    "method": "Unity compiler and project response options, independent output directory after temporary scripts removed"
+  },
+  "temporaryScriptsRemoved": true,
+  "originalSceneRestored": "2026-10-23T05:58:43+09:00"
+}

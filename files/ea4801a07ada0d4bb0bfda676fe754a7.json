@@ -1,0 +1,30 @@
+{
+  "kind": "exact source preservation outside explicitly allowed presentation changes",
+  "files": [
+    {
+      "path": "Assets/Escape/Runtime/UI/ItemTierPresentation.cs",
+      "unchanged_outside_allowed_changes": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Inventory/InventoryHoverTooltip.cs",
+      "unchanged_outside_allowed_changes": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/SessionTestWorld.cs",
+      "unchanged_outside_allowed_changes": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/SessionGlassView.cs",
+      "unchanged_outside_allowed_changes": true
+    }
+  ],
+  "transaction_expressions_preserved": {
+    "int price=product.id==\"item_021\"?15000:item.ShopBuyPrice;": true,
+    "bool unlocked=string.IsNullOrEmpty(product.requiredStage)||Session.QuestCompleted(\"MQ_STAGE_\"+product.requiredStage.Substring(5)+\"_BOSS\");": true,
+    "bool stock=ShopCatalog.Unlimited(product.id)||Session.Purchased(product.id)<product.limit;": true,
+    "product.enabled && item.ShopTradable && unlocked && stock && price>0 && Session.Scrap>=price": true,
+    "Queue(()=>CampMutation(()=>Session.Buy(product,1,Time.timeAsDouble)));": true,
+    "Queue(()=>CampMutation(()=>Session.SellInstance(selected.InstanceId,Time.timeAsDouble)));": true
+  },
+  "pass": true
+}

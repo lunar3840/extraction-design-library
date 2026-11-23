@@ -1,0 +1,1 @@
+PASS catalog; non-shop test item; once-only existing-profile grant; reload idempotence; failed save rollback; full/overweight bag fallback to storage; appearance-only toggle preserves inventory

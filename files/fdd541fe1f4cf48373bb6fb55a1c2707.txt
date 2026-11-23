@@ -1,0 +1,63 @@
+DENSITY / CQB ACTUAL UNITY VALIDATION
+PASS variant 0 creates 55 normal + 3/4 named actors
+PASS machines remain the main faction
+PASS spawned named actors have real display identities
+PASS CQB room range is applied after weapon initialization: G12_01
+PASS CQB room range is applied after weapon initialization: G12_04
+PASS CQB room range is applied after weapon initialization: D_HALL_01
+PASS CQB room range is applied after weapon initialization: D_HALL_02
+PASS CQB room range is applied after weapon initialization: D_POWER_01
+PASS CQB room range is applied after weapon initialization: D_PARTS_01
+PASS CQB room range is applied after weapon initialization: D_TOOLS_01
+PASS B1-B4 entry policy and inactive risk entries unchanged
+PASS retained physical doors exist
+PASS both exterior doors reach navigation
+PASS door-to-door route complete: DOOR_P1 / DOOR_P2
+PASS retained physical doors exist
+PASS both exterior doors reach navigation
+PASS door-to-door route complete: DOOR_L1 / DOOR_L2
+INDOOR variant=0 id=G12_01 moved=0.368 health=90 mode=Patrol
+INDOOR variant=0 id=G12_04 moved=0.713 health=140 mode=Patrol
+INDOOR variant=0 id=D_HALL_01 moved=0.368 health=90 mode=Patrol
+INDOOR variant=0 id=D_HALL_02 moved=0.368 health=90 mode=Patrol
+INDOOR variant=0 id=D_POWER_01 moved=0.368 health=90 mode=Patrol
+INDOOR variant=0 id=D_PARTS_01 moved=0.368 health=90 mode=Patrol
+INDOOR variant=0 id=D_TOOLS_01 moved=0.345 health=90 mode=Patrol
+PASS variant 0 live movement: samples=63510 offNav=0 jumps=0 rolls=0 maxSpeed=2.275675 animatorDrift=0
+PASS variant 1 creates 55 normal + 3/4 named actors
+PASS machines remain the main faction
+PASS spawned named actors have real display identities
+PASS CQB room range is applied after weapon initialization: G12_01
+PASS CQB room range is applied after weapon initialization: G12_04
+PASS CQB room range is applied after weapon initialization: D_HALL_01
+PASS CQB room range is applied after weapon initialization: D_HALL_02
+PASS CQB room range is applied after weapon initialization: D_POWER_01
+PASS CQB room range is applied after weapon initialization: D_PARTS_01
+PASS CQB room range is applied after weapon initialization: D_TOOLS_01
+INDOOR variant=1 id=G12_01 moved=0.354 health=90 mode=Patrol
+INDOOR variant=1 id=G12_04 moved=0.875 health=140 mode=Patrol
+INDOOR variant=1 id=D_HALL_01 moved=0.354 health=90 mode=Patrol
+INDOOR variant=1 id=D_HALL_02 moved=0.354 health=90 mode=Patrol
+INDOOR variant=1 id=D_POWER_01 moved=0.354 health=90 mode=Patrol
+INDOOR variant=1 id=D_PARTS_01 moved=0.354 health=90 mode=Patrol
+INDOOR variant=1 id=D_TOOLS_01 moved=0.354 health=90 mode=Patrol
+PASS variant 1 live movement: samples=128934 offNav=0 jumps=0 rolls=0 maxSpeed=2.275675 animatorDrift=0
+PASS variant 2 creates 55 normal + 3/4 named actors
+PASS machines remain the main faction
+PASS spawned named actors have real display identities
+PASS CQB room range is applied after weapon initialization: G12_01
+PASS CQB room range is applied after weapon initialization: G12_04
+PASS CQB room range is applied after weapon initialization: D_HALL_01
+PASS CQB room range is applied after weapon initialization: D_HALL_02
+PASS CQB room range is applied after weapon initialization: D_POWER_01
+PASS CQB room range is applied after weapon initialization: D_PARTS_01
+PASS CQB room range is applied after weapon initialization: D_TOOLS_01
+INDOOR variant=2 id=G12_01 moved=0.284 health=90 mode=Patrol
+INDOOR variant=2 id=G12_04 moved=1.027 health=140 mode=Patrol
+INDOOR variant=2 id=D_HALL_01 moved=0.284 health=90 mode=Patrol
+INDOOR variant=2 id=D_HALL_02 moved=0.284 health=90 mode=Patrol
+INDOOR variant=2 id=D_POWER_01 moved=0.284 health=90 mode=Patrol
+INDOOR variant=2 id=D_PARTS_01 moved=0.284 health=90 mode=Patrol
+INDOOR variant=2 id=D_TOOLS_01 moved=0.284 health=90 mode=Patrol
+PASS variant 2 live movement: samples=194590 offNav=0 jumps=0 rolls=0 maxSpeed=2.275675 animatorDrift=0
+COMPLETE PASS

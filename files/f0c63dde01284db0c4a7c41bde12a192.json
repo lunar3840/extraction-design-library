@@ -1,0 +1,4802 @@
+[
+  {
+    "path": "Assets/Escape/AGENTS.md",
+    "sha256": "DBAA14A0282D0483BCB3224D156184418BF133412D32C181705BB565A3EC24BA",
+    "bytes": 1975
+  },
+  {
+    "path": "Assets/Escape/AGENTS.md.meta",
+    "sha256": "D90205E2336C9BC2D98453C41BC608669BF36D7D29A8C07D5CC092F2D2779F5F",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/Arsenal_README.md",
+    "sha256": "469761E8ACCFE4A1425EC01C5D3F0A6BD95D29E37425FE82CBD024B81AA1DFF2",
+    "bytes": 4609
+  },
+  {
+    "path": "Assets/Escape/Arsenal_README.md.meta",
+    "sha256": "AF8F8DC91D5A633B084B5BBC4C8143B4DACF55B93F39B5D171A7A2C8792A750E",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/Art.meta",
+    "sha256": "11B2E5F05D137E327D3300BB3FA94876A3D9AB8A7B78DAC3D57A20093B26C0C5",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/BODY_HIT_README.md",
+    "sha256": "787FDC78FD8980B4F35B476808EE93DC88B5DE5CC3BF9267AE047B8C4563BCDE",
+    "bytes": 5808
+  },
+  {
+    "path": "Assets/Escape/BODY_HIT_README.md.meta",
+    "sha256": "FA77F7D98C3E24C7D83B1C939DC5708D6C26DC7995D65254327EEE181B5EBFE4",
+    "bytes": 60
+  },
+  {
+    "path": "Assets/Escape/Combat_README.md",
+    "sha256": "3F0C5AA4DE1D37E3280F40F9D9CDA1366F0EBC11C48186794B98FA9354517D7D",
+    "bytes": 3807
+  },
+  {
+    "path": "Assets/Escape/Combat_README.md.meta",
+    "sha256": "CBBBDA053A593112079C2E9A18A0388D774AE2906345A46ABE926C357A68C9BE",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/Editor.meta",
+    "sha256": "07F0D71D748107CA7DF73965DB5934DDA9E5E3AE12038737D1857CA212C398E5",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/INTELLIGENT_COMBAT_AI_README.md",
+    "sha256": "F183E1D68105EA53D6BA54A04CA01A3CA1FA18BAC7271A2EC53E0FFCB0E85C9B",
+    "bytes": 3247
+  },
+  {
+    "path": "Assets/Escape/INTELLIGENT_COMBAT_AI_README.md.meta",
+    "sha256": "708CF85C35E4181E920F31E507855130F6556862D671A01EB6EE503FF0CF5965",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/Inventory_Equipment_README.md",
+    "sha256": "EC24D7152F3A7D8A77C6ADDC13B907CA5C6702206CE1DEE71C6936E277D05C9A",
+    "bytes": 3550
+  },
+  {
+    "path": "Assets/Escape/Inventory_Equipment_README.md.meta",
+    "sha256": "325B8CDA7102BA488AFAD7E48B8FD30E2E3C88C6F60E07EABA2411E66F7D2D67",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/LOW_POLY_WEAPONS_README.md",
+    "sha256": "D5F02462B3EF9169193EDF7E9F95931DE1E49CD22CDBCA9D7C877D4066D4FC03",
+    "bytes": 1816
+  },
+  {
+    "path": "Assets/Escape/LOW_POLY_WEAPONS_README.md.meta",
+    "sha256": "F2C32808668998E79B2BFBB9F6C2BE83336FDE2BD69EF24E6CCA32FE3AAF3927",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/MEDICAL_REPAIR_README.md",
+    "sha256": "70E43DF067618826816CF87DEC6E16FD32A9A8CED616AA8F7F8CE5F3BF04DDCE",
+    "bytes": 6941
+  },
+  {
+    "path": "Assets/Escape/MEDICAL_REPAIR_README.md.meta",
+    "sha256": "58278BA0E330A14DED89D95789F5853DEEFF018D20FDB0F094045F4449E37832",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/README.md",
+    "sha256": "E67A07FC55DAAAFD99A9568ADA9F08B856A9CA086163351BAA3D07A946A28139",
+    "bytes": 4098
+  },
+  {
+    "path": "Assets/Escape/README.md.meta",
+    "sha256": "056D36C403AE1236B3BBC644F942141FBBC9BD3DB2BAF02E06C0A8577D0FB096",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/Resources.meta",
+    "sha256": "0B51F9DC204CF59B078D9794D134195C1CBC5F53054F9FEBA926E483B6BE2579",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime.meta",
+    "sha256": "42374EB68EF3304A4EDFE8299E3D3C0B68DB9AA018191398D0ED50EC72DD679B",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/SCENARIO_COPY_README.md",
+    "sha256": "E4A0487884B7F9542287A5018A6C82A5B02ADB6023690E20C9DEF8763453096D",
+    "bytes": 2695
+  },
+  {
+    "path": "Assets/Escape/SCENARIO_COPY_README.md.meta",
+    "sha256": "A1888AAF964E16400DEC6A16CB273B1881A6E5C206A41A478324F1D5BCD9E8D0",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/Scenes.meta",
+    "sha256": "00A8B8883046459CBEE807A6B1E008A22980627E99E21CE7BEEFB45845614163",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/SD_ARMOR_README.md",
+    "sha256": "F8EAF32C085446BFE2C6B392CB314E34A0128B1EA80C34205C390AE3EB1BC0E7",
+    "bytes": 2271
+  },
+  {
+    "path": "Assets/Escape/SD_ARMOR_README.md.meta",
+    "sha256": "C1732FBDF5BD4AAFC59CB23BA4902C40330067ECB1EDD2C58A05D126E1718EA9",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/SD_CHARACTERS_README.md",
+    "sha256": "E749103D44473181023C338CDEFD552C3041E80A9E4169DC41375412D40A2CB8",
+    "bytes": 3580
+  },
+  {
+    "path": "Assets/Escape/SD_CHARACTERS_README.md.meta",
+    "sha256": "694FB707B167F42AD7A56EEE1EEA8D4212D5DFC2DC65233A6CC2363669176BCB",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/SD_GUNS_README.md",
+    "sha256": "AAD57C5091507BC189E2F2421EEBFD532007D95622DAB6BE2F77ADCD9A49E1B8",
+    "bytes": 3486
+  },
+  {
+    "path": "Assets/Escape/SD_GUNS_README.md.meta",
+    "sha256": "7D5542B91D09986D081501F81CEB8D695C55901ABE3224CA3C16D1E77BAB9598",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/Settings.meta",
+    "sha256": "D3E97956E731F7A0DAE2DA7733220CEDCEF619BF48569CE2BBA09F8F03E7F7CE",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/SYSTEMS_README.md",
+    "sha256": "B2D9BCE50E4CE6258384E972DE4780EE8D20BB5FBDD8E65A88DB7E16928FD829",
+    "bytes": 12500
+  },
+  {
+    "path": "Assets/Escape/SYSTEMS_README.md.meta",
+    "sha256": "6E0FCD0A84F519C58FD52BEECE18F43399EACE6506E65E88FDF41A1DB71498CD",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/Tests.meta",
+    "sha256": "4B1D60502442DA609E25306978F6BCE55A7344561133F5DB5F52207426272696",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Weapon_README.md",
+    "sha256": "0AB36267639F38614EA274C0BB8342BA39AFDAD16B24095038C7D3F437457EA3",
+    "bytes": 4730
+  },
+  {
+    "path": "Assets/Escape/Weapon_README.md.meta",
+    "sha256": "779AC735DB9F6A706A08FE05484DAD64C084E7F74968F33B5A8332C4550CE6B0",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/Art/Serin.meta",
+    "sha256": "66110CBE9A23D9F28BB733F43A7EDEA1928C9B55B6F6DF1E828D4A2BF466092F",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Art/StageA.meta",
+    "sha256": "C8F9616698E9845DEC9F8D8D2F17701C56C38174A85F60D65347CAD3C5D7092F",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Art/Toon.meta",
+    "sha256": "611F729F839D397899EE8DC2AD7BF7AD6369F14C9E7903DD26BB17EFDC4F3998",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/material_map.json",
+    "sha256": "8F03BD8B099133073446909608372CE2889B52094D4A4AF439B75D2FC8065FD9",
+    "bytes": 3112
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/material_map.json.meta",
+    "sha256": "97E7C0328495A2B883B6D5059AAA302AC2A4E5AEEA248084919D06B2A5AD307D",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials.meta",
+    "sha256": "36977538E9658935B83108419D6C78D2E15F8854A339BC2AB274D31B5331ADF4",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/README.md",
+    "sha256": "FC56F92E11BF7F8BEF61D8870B9B47D97D9D866B436CB6FB836243CEB928B99E",
+    "bytes": 2399
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/README.md.meta",
+    "sha256": "E27F6C97C88D7CC1AC256C8E8382893CF68E9A5C93178F005EA804C3039F0557",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Serin_RifleAnimations.fbx",
+    "sha256": "1351BDD3F57574CFFDDF32250ECEB2538BDD33E04A8373D7B2818C8676D1FA0C",
+    "bytes": 751116
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Serin_RifleAnimations.fbx.meta",
+    "sha256": "8BAB7FD0F80BCAF6C996D8D93114A8C3812FD235991743D0674A4BA56C563BBD",
+    "bytes": 30015
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Serin_RifleUpperBody.mask",
+    "sha256": "D0D15D2ED9041A0899F817ED8562D71E0EADE741591EBD0E055B50EF56C118D3",
+    "bytes": 364
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Serin_RifleUpperBody.mask.meta",
+    "sha256": "50021EB1D5832C402935EED4CEF6163B5EE458F76DC5A755656D14B27527B407",
+    "bytes": 189
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Serin_RunCalm.anim",
+    "sha256": "08ECDB97B3870F264FF65F41305AF26954E55F943660907327B140480981705A",
+    "bytes": 943204
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Serin_RunCalm.anim.meta",
+    "sha256": "E2F890549EBA5CD8525E03AFEC99B6DC31E72DB978B6C82F71071B67F73D6752",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Serin.controller",
+    "sha256": "6CC18FE90FCF6B912FE91BFA2A7EBB7923BC33ABE3CD23A946039AF5EBF3DF96",
+    "bytes": 12875
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Serin.controller.meta",
+    "sha256": "48FBF34A5F5B7592F77BF990955939E4A3912BA3B6C3615999AF481C8B1997BC",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Serin.fbx",
+    "sha256": "5CE106A558DBE82396D8A14D7D55ECEE3B9148AC9E57D9B436F3640A200DE840",
+    "bytes": 2933148
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Serin.fbx.meta",
+    "sha256": "AA85B47F76668D306AF29CE6E0AB024C17228A77B1B442BEF397F9CF4C088789",
+    "bytes": 26692
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Textures.meta",
+    "sha256": "74D0FE7FF9BC0E063834EAE3843A03A0CDEA966FAE49287EC5F5DDBFA4C3D8A6",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Bunny_Eyes_Black.mat",
+    "sha256": "6FC6C1A84132CED29D72E22A17EC1C6E33A7E06D68F7A81592D9B14D70B5C1D9",
+    "bytes": 3779
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Bunny_Eyes_Black.mat.meta",
+    "sha256": "EFA8C107A69ABEDB578A8D33A1DB9BA6507E3788D77DE99C2A605095F6C7E5C4",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Bunny_Nose_Pink.mat",
+    "sha256": "A2F094B57DE7012ED0780081005BECF8FE4240A533D360077AB7388810A88233",
+    "bytes": 3773
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Bunny_Nose_Pink.mat.meta",
+    "sha256": "D90E3C2713690E747AD77C9E16EB49C20E1ED83EFA2B0B462F7EB4AD85B081CB",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Bunny_Pink.mat",
+    "sha256": "6E7199426EBEBE37DD9BC1FEA7F65EDC2C3139F37F7C421D4A37434391C77983",
+    "bytes": 3770
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Bunny_Pink.mat.meta",
+    "sha256": "77DB2393FF751839820DA3777D839D2DDEFEEA2ABE13E5DA5D889C2FD3F7A3C2",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Bunny_White.mat",
+    "sha256": "11377CE4D76889344D7792CB41106FCF6605A7C6E0B2CFC44610DB885A6495F2",
+    "bytes": 3769
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Bunny_White.mat.meta",
+    "sha256": "EC66AEE3D0C632312B39C66DF79055D2FD79E7BF13ABF0157B58175812D89C0A",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Serin_Accessories.mat",
+    "sha256": "5C097565C17DC458E7DB4B7A4F028D4068DAE9A2F0435B55F1FD94B4AB85925E",
+    "bytes": 3836
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Serin_Accessories.mat.meta",
+    "sha256": "D8658FC2D9F4DB152C01A216AAE3C0F9EAF398CDE8A251F117435E4243AE90F2",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Serin_Boots.mat",
+    "sha256": "019DB6F3CFCB9D75154DD02A956676DBD5AF308940DC8C9DFA08F20F16C7A4DB",
+    "bytes": 3831
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Serin_Boots.mat.meta",
+    "sha256": "6B5761706C4CF91C292C6E7B1E533C6B6CE75EE8A0FE61352ED798F5AAB1922C",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Serin_Cap.mat",
+    "sha256": "2743B0019904EB4BB327726053BA0232623D4056FFA8A899C60817B9502D78A7",
+    "bytes": 3828
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Serin_Cap.mat.meta",
+    "sha256": "73C87E90A7089BF3583D94699BAB5A5BE697FE6B07FF1B3EA09A9AFFAACC7CF9",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Serin_Clothes.mat",
+    "sha256": "B066192CDB843252D8432A3C99BD44D096F11B01A7F1DD4F714972B0F8ADCB7B",
+    "bytes": 3832
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Serin_Clothes.mat.meta",
+    "sha256": "3731A9C33B217E7C4308944DD1637CC231E289F71EBC5F843E0FA1DC9AFBB114",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Serin_Eyebrows.mat",
+    "sha256": "F31729816253619E31498DADCE18C3320CCDE4D738BA21F8D7048750E9C7DFD9",
+    "bytes": 3832
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Serin_Eyebrows.mat.meta",
+    "sha256": "724FCE65AB05CD1E78BC9A56BADFC7F3C3AD7A583B57F690465E24657C262C65",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Serin_Eyelashes.mat",
+    "sha256": "F1C277D92FE4FA847ADBB294CACFF5DC6378D66971D7CD3AF85A5D04555176B7",
+    "bytes": 3834
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Serin_Eyelashes.mat.meta",
+    "sha256": "D323F69A91CF2D31D113F293C3E165F54DD2545040219A248C1F8DB11F61D3C7",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Serin_Eyes.mat",
+    "sha256": "5DAAC10C98630A7EC78DC12BF66150B1726097FCFF6386407413B2FA2FD5A0F1",
+    "bytes": 3829
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Serin_Eyes.mat.meta",
+    "sha256": "52A4C95CAF34690115033A742F7289CC7E471960406D7E94F95966DFE8745B11",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Serin_Hair.mat",
+    "sha256": "52839C03881C5F803025E0EB34AE93F0D0A8FD95A1A9C63D469435E674E78595",
+    "bytes": 3830
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Serin_Hair.mat.meta",
+    "sha256": "6F70F1FFF3DE512206C9D331D048F6C68D82FCE8C58252C702EB00E2FEB14E4D",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Serin_Skin.mat",
+    "sha256": "53146C9539B29EDA1EB95187DC4604725D82C4191EB413E99CFB52756767D4FC",
+    "bytes": 3829
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Materials/Serin_Skin.mat.meta",
+    "sha256": "2AEAED322DC716DCE2614D4F7468538333B645815342380D9466295001AA72AC",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Textures/Serin_basecolor_cleanup_v2.png",
+    "sha256": "4E2631FD7027C6F2A3F856E4DF937F4E45CCE7507CD573656CCAF47E6593D127",
+    "bytes": 18530069
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Textures/Serin_basecolor_cleanup_v2.png.meta",
+    "sha256": "13E199C5AB5467B30D543BC1AFE52897FDFE0089F523445D6F611C6B627BFC08",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Textures/Serin_face_clothes_cleanup_v3.png",
+    "sha256": "A79AE773E77BCE819EB17F3F3F63979A1B51079EFA60DB6000DE559A58819B18",
+    "bytes": 20851792
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Textures/Serin_face_clothes_cleanup_v3.png.meta",
+    "sha256": "84A3CE5699150E3F8A2948203DA12355A9701BC4BE9A4E9DE905F3BF03856450",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Textures/Serin_skin_cleanup_v4.png",
+    "sha256": "37E039BEFD5F0E8B4C7FA2FCAEF69B759FABCDD7C476732B7A951FBE89D3E0C0",
+    "bytes": 20829021
+  },
+  {
+    "path": "Assets/Escape/Art/Serin/Textures/Serin_skin_cleanup_v4.png.meta",
+    "sha256": "2CA62E740F8742E0FFEB7F93CB00A0DF336CE26B3FEB29E5CBF306357E5CDB3C",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Art/StageA/Preview.meta",
+    "sha256": "0BCDB8FC7D5DFBF800B44404FDEA7CEA1E2EE7376EC379BBD0BA07007AA80A29",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Art/StageA/WarmApocalypseFlat.shader",
+    "sha256": "CCC73B028CF27371E5B40ADD90BB006F74F2D43C2D59F8158937E536DCAA75DF",
+    "bytes": 1746
+  },
+  {
+    "path": "Assets/Escape/Art/StageA/WarmApocalypseFlat.shader.meta",
+    "sha256": "76ED8BB9B5D2B8C022DE3D449127D5B00FA05416FF06CD611F7EA53C4DF32A90",
+    "bytes": 204
+  },
+  {
+    "path": "Assets/Escape/Art/StageA/Preview/A_Extraction_ArtPass_Preview.png",
+    "sha256": "BAAAAF139AD8AD5E83538266889073022F0C7366A1653BAB7648324A967721A0",
+    "bytes": 1403314
+  },
+  {
+    "path": "Assets/Escape/Art/StageA/Preview/A_Extraction_ArtPass_Preview.png.meta",
+    "sha256": "9A033694009EFDEFBF05C23763BE2FB3DFB87A3A2A53788FBD58C42A78DB6B90",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Art/Toon/HybridToon.shader",
+    "sha256": "CF95ED2372D85D01015E5D527FF977EC0D59D59457994DD6DC21D6E7664AB96F",
+    "bytes": 19311
+  },
+  {
+    "path": "Assets/Escape/Art/Toon/HybridToon.shader.meta",
+    "sha256": "2B76FF498BB22E6DE660B3CE22C78B27D2F47A71A80100C5BD9D5431151368C5",
+    "bytes": 204
+  },
+  {
+    "path": "Assets/Escape/Art/Toon/Preview.meta",
+    "sha256": "9EB54A4DCAF56A9B9569A2A4EE4C1CF032F5086ADFC52213DB08FBF6D2E96B05",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Art/Toon/ToonOutline.shader",
+    "sha256": "326171A4EFB712DBE1D2939E4BDF7F73E288DB2E679C3523AEAD5CEA588DB3D9",
+    "bytes": 4244
+  },
+  {
+    "path": "Assets/Escape/Art/Toon/ToonOutline.shader.meta",
+    "sha256": "7C3E24EC99857F852ABD099EA564ADAE20F5F8706FC5ADB8194D3DEDEF6E46A0",
+    "bytes": 204
+  },
+  {
+    "path": "Assets/Escape/Art/Toon/WetStone.shader",
+    "sha256": "3E556780C476C2FE8A640B5DA7EC01BA44E67601C8A7AD1C444C5283E95F56CC",
+    "bytes": 21393
+  },
+  {
+    "path": "Assets/Escape/Art/Toon/WetStone.shader.meta",
+    "sha256": "D0365C3D44DEF6947920E51CEE1C3964688E7EA3F5F3C7902633A04C65281C2C",
+    "bytes": 204
+  },
+  {
+    "path": "Assets/Escape/Art/Toon/Preview/Toon_Overview.png",
+    "sha256": "20C3098C4676DC208CAEA5C6D2497862740460AB88D9FD0F0987CB7528C21D16",
+    "bytes": 1366561
+  },
+  {
+    "path": "Assets/Escape/Art/Toon/Preview/Toon_Overview.png.meta",
+    "sha256": "0EE00FAE86048EAB12A2064D4CCB893BB05DE33174B0C93E43EF91FA6C70C108",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Editor/ArsenalChecks.cs",
+    "sha256": "8F7838F340B9DC41676FC2D302ADD6574DF217C29F0BC9486AF4166316C6337F",
+    "bytes": 10407
+  },
+  {
+    "path": "Assets/Escape/Editor/ArsenalChecks.cs.meta",
+    "sha256": "4F46AFFE3585DAE5E696AE12A865BC8CE322DB7EB74458A11C0F8256B5F40216",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/BasecampChecks.cs",
+    "sha256": "84C8E0CBBC31A86D8E02765F2376FFFD2AA73FDBAC189E8F96309913F83F4FB8",
+    "bytes": 10373
+  },
+  {
+    "path": "Assets/Escape/Editor/BasecampChecks.cs.meta",
+    "sha256": "F51E81D76832B66856184B8C1CD582C6B3D7F64995519187CB5695C91737AA9A",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/BodyHitChecks.cs",
+    "sha256": "C17771B011CB174117ED1FE9B84DEF254289E2F483EB487C1BC09751C6CB0BBE",
+    "bytes": 26671
+  },
+  {
+    "path": "Assets/Escape/Editor/BodyHitChecks.cs.meta",
+    "sha256": "3F178342B027A2229DA48EC0B1FFA8A0C1274EF903D945D4CA88E8F8F57F5725",
+    "bytes": 60
+  },
+  {
+    "path": "Assets/Escape/Editor/CombatChecks.cs",
+    "sha256": "B741F5EC30936132D3B3E911CF11AE3E2619E0FAD1F8F4D060EE8B8E37DC7971",
+    "bytes": 14391
+  },
+  {
+    "path": "Assets/Escape/Editor/CombatChecks.cs.meta",
+    "sha256": "5B1B8288C06E00575963A6A7FA8DB044E3387FC4A7ECD3B667F62D7280F41FD1",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/CursorAimChecks.cs",
+    "sha256": "7C535EE14731F6C1AFF005A675DD328EE76696B816BA1BD47708F8C71BC9AC1B",
+    "bytes": 4784
+  },
+  {
+    "path": "Assets/Escape/Editor/CursorAimChecks.cs.meta",
+    "sha256": "35089E42E80782A3617EFC7E234AECB027629FD27682453FCB3DDCA512AFC87D",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/EnemyChecks.cs",
+    "sha256": "CDCE537985F5F8AD00E9366DCB14DEEE6E7BDA5D425FB5BF2BEDACB3BFAF5AC4",
+    "bytes": 19159
+  },
+  {
+    "path": "Assets/Escape/Editor/EnemyChecks.cs.meta",
+    "sha256": "7A68CCC3E87045E41D13DAA61D694615AFF95A3D7B46AA00982310AA2AEBB420",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/EquipmentChecks.cs",
+    "sha256": "E9C72306496DDBD4822941D318EB3AEC9525F403C77C8F7F10ABA96D0A45DAA0",
+    "bytes": 9800
+  },
+  {
+    "path": "Assets/Escape/Editor/EquipmentChecks.cs.meta",
+    "sha256": "AB7A3067ED894AF88EF23C7EFF112E9722097AF4AA13F88647ACD354E63CD103",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/FrontEndChecks.cs",
+    "sha256": "53C34F15DEAE3023F9ED24EB1A992CB54EA550FE4AC74D97B9FA11819181973D",
+    "bytes": 11761
+  },
+  {
+    "path": "Assets/Escape/Editor/FrontEndChecks.cs.meta",
+    "sha256": "1406307B3CC7A2ED670C28E55524A92792C218FCBAD6A096C1CEC5C929ECFDCD",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/GlassLayoutChecks.cs",
+    "sha256": "1BE5F52B799E906EACC77D86F917FA5796DD7E7532A0A8E039AD9A5594BB534D",
+    "bytes": 15111
+  },
+  {
+    "path": "Assets/Escape/Editor/GlassLayoutChecks.cs.meta",
+    "sha256": "82D4D5EB6AABFDE40A7666DBAD1A1D0C47E03DFD3F701CDD128D1C2DF98503A6",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/InventoryChecks.cs",
+    "sha256": "56E1FFB916BFD31CD5E8523F95706BCEB32CF7FFF55FADB3D645D32A545701B7",
+    "bytes": 15237
+  },
+  {
+    "path": "Assets/Escape/Editor/InventoryChecks.cs.meta",
+    "sha256": "5AF64A575071370BACA6B5D8219813B1DBA59201661E97B83A6E31822DEF6CD8",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/LootChecks.cs",
+    "sha256": "7BA3ECBE0D41B96F8D892D8BFAAC3D6E4451343FFCD17333A809FD59CEA36F3E",
+    "bytes": 8345
+  },
+  {
+    "path": "Assets/Escape/Editor/LootChecks.cs.meta",
+    "sha256": "3092690F7A36CCEFADFAB450782185A429F86450F13579DBA834379C3F592B6F",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/LowPolyWeaponSetup.cs",
+    "sha256": "A740C2E2E9CBC406B1DDA1060CB8F4F0849C8D5E89889E3AA02818D5337D11A4",
+    "bytes": 12774
+  },
+  {
+    "path": "Assets/Escape/Editor/LowPolyWeaponSetup.cs.meta",
+    "sha256": "F3EB64F25F2982A4A344FEA585513103CB572A2E22FCCAB14DAF972BD79546B1",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/PlayerPhaseChecks.cs",
+    "sha256": "3BC1034D31423D9333E50753C4FC823B2E897AFCE1A9B447E2C45D5B1920CC61",
+    "bytes": 9436
+  },
+  {
+    "path": "Assets/Escape/Editor/PlayerPhaseChecks.cs.meta",
+    "sha256": "225CA3DAD4BCF47B736ABAA1515378DFB4A1041630F189B15EEF76A706C4291A",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/RainCourtyardPlayChecks.cs",
+    "sha256": "59AE5CBFB89EF43A4473E34447AC47679B1858B035C062B500F925768EDDC2AF",
+    "bytes": 17055
+  },
+  {
+    "path": "Assets/Escape/Editor/RainCourtyardPlayChecks.cs.meta",
+    "sha256": "90C0748331DF4D95A40468350090BFAA8C75DBB33A8110B7E063BDC2CCC8A6E0",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/RainCourtyardValidation.cs",
+    "sha256": "6F848AE43D536F537C9052F8C5323336C762BB3AA20F6382571F91509CDB2944",
+    "bytes": 12176
+  },
+  {
+    "path": "Assets/Escape/Editor/RainCourtyardValidation.cs.meta",
+    "sha256": "F20B59D511A2DE6F6EABAAD11D57744AC274F447FF3EE3BAC82A9E422D1926F5",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/SerinCharacterSetup.cs",
+    "sha256": "C8D5452609C8CA9D70FB7BB2BA70477DB51ED763714AE8C2F965ABA694894A3D",
+    "bytes": 11143
+  },
+  {
+    "path": "Assets/Escape/Editor/SerinCharacterSetup.cs.meta",
+    "sha256": "4EC837C15E2BB84091C1DDAEB0D382413FF53CB198C7D1AD8B0AB41E7C0FD6BE",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/SerinGunChecks.cs",
+    "sha256": "DBD8CAF6463B6684641E587F499B8253215767F64CEDBDD537FAE533321F2EA6",
+    "bytes": 19896
+  },
+  {
+    "path": "Assets/Escape/Editor/SerinGunChecks.cs.meta",
+    "sha256": "7CC32505D899E02B1C24469843AAF2144EDD2EF0CE2C441F7B27C6A75A7F8D95",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/SerinRifleAnimationSetup.cs",
+    "sha256": "B629516EF05F96F2495FA06D58B7651F6F6BB0EDA67D6AC2DF25FC52ABAFA173",
+    "bytes": 7087
+  },
+  {
+    "path": "Assets/Escape/Editor/SerinRifleAnimationSetup.cs.meta",
+    "sha256": "C9C296BE028A370F859AA951192704D24CA482BED3843A2DCBE5DEB3ADA6F97B",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/SerinUnityChecks.cs",
+    "sha256": "50956C4B85C89F1EE03462F9B8D0A5A00461E594188AD4026B26514A5912581F",
+    "bytes": 7332
+  },
+  {
+    "path": "Assets/Escape/Editor/SerinUnityChecks.cs.meta",
+    "sha256": "ADB40E41EF97D39CE9ED578B0FE6A3836804BB91C7D5101E206CE1C623F536AB",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/SessionChecks.cs",
+    "sha256": "7F455E7C81E5210082CA5DE3C7229DBCDEF21159249698512C3B541B89DB232F",
+    "bytes": 7456
+  },
+  {
+    "path": "Assets/Escape/Editor/SessionChecks.cs.meta",
+    "sha256": "576577B07955FC0E0D89F4A811242C5CC64048162C2779D3C950345B5AC0CB92",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/StageAArtBuild.cs",
+    "sha256": "9790E1C92FDE3F886EE83BFB6A14959C5DD8F07879FFEA2DBE1AE0CDE7910B61",
+    "bytes": 21015
+  },
+  {
+    "path": "Assets/Escape/Editor/StageAArtBuild.cs.meta",
+    "sha256": "6B4E177CC54353DCE231B4949C89B0EEED07FA76603F2AEF16A082D06029FD8C",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/StageABlockoutBuild.cs",
+    "sha256": "6186C331C830B121D6A4BFEDB2FE9D7AA5F2B9E2E3A98DBD01355867BD02CF43",
+    "bytes": 10145
+  },
+  {
+    "path": "Assets/Escape/Editor/StageABlockoutBuild.cs.meta",
+    "sha256": "219BEAB65EB20A047C3D8F09480BF40CBC0D98E21518ED5E4CE3064EF9688F26",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/StageABlockoutPlayChecks.cs",
+    "sha256": "D454E7D3F388E59DE302198EEE64BD6FBDA73D58086571D7276F6FBAFDE33257",
+    "bytes": 37230
+  },
+  {
+    "path": "Assets/Escape/Editor/StageABlockoutPlayChecks.cs.meta",
+    "sha256": "18F9AFC2528EF9F5F0B1DA91EC08A28C22B6ED8749B86895F7A49A0CC7637926",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/StageABlockoutSemanticAnchorEditor.cs",
+    "sha256": "D3D10D7D0CE53CAC3EA69EFA959774892615CC73717C5F2081ED1E02D6D16310",
+    "bytes": 2380
+  },
+  {
+    "path": "Assets/Escape/Editor/StageABlockoutSemanticAnchorEditor.cs.meta",
+    "sha256": "0772010CD7F949A4B94F89533F2BCF98FAA8BF8CA951B436A154574BC0775B55",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/StageABlockoutV08PlayChecks.cs",
+    "sha256": "267A8CDFB3FB07C03501F1EB44A32E4FC48D09D4490B465A34021E1BE6DFBAEA",
+    "bytes": 30489
+  },
+  {
+    "path": "Assets/Escape/Editor/StageABlockoutV08PlayChecks.cs.meta",
+    "sha256": "84D775896ED67F336878C6C09A7C5AEDBDC5B1C17FD73F7245B6690C3B4B55B2",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/StageABlockoutV08StructureChecks.cs",
+    "sha256": "6ABDD846B426D31119648E8481F520E11C7B26713BB86333D753D516ECA59AB7",
+    "bytes": 40769
+  },
+  {
+    "path": "Assets/Escape/Editor/StageABlockoutV08StructureChecks.cs.meta",
+    "sha256": "13B5FA22DAEA6C8C9CA7A1353C9C5F74418EE1534C40264CC3C10E6ADFA58E8E",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/StageACoverPlacement.cs",
+    "sha256": "B8F54338840FF298E9EE43C153CA6DE83736E81FF7E4B58465036822815DC9BD",
+    "bytes": 27667
+  },
+  {
+    "path": "Assets/Escape/Editor/StageACoverPlacement.cs.meta",
+    "sha256": "9A20D469B9105EA047E72FBF3D3D701F49A5AE90C1870AC66B509EE31F04F849",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/StageACoverWorkflow.cs",
+    "sha256": "E070A4D6B5171425B44E166D808AC135F6D892C9CF8A14A51849CEA935CC40EC",
+    "bytes": 6120
+  },
+  {
+    "path": "Assets/Escape/Editor/StageACoverWorkflow.cs.meta",
+    "sha256": "C2C5E3B59C9F6F6117704185544FFE50B682FCA29D3C2CBE7FB3896F4B7A4E09",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/StageMapGizmos.cs",
+    "sha256": "40EB7FFF59342001D90CD7CF30B8659A52CACF38DB5EB3DDF7108753FEA9C979",
+    "bytes": 1854
+  },
+  {
+    "path": "Assets/Escape/Editor/StageMapGizmos.cs.meta",
+    "sha256": "F41E287457DACD223E60E3B7EE75307A4CF127E5EC308DFA95367C68AF0CE780",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/StageRetainedSceneChecks.cs",
+    "sha256": "26D94D00CE5EEB70CC7C50FFA8DF6B7287854C09597960C41BCE5500141B964A",
+    "bytes": 14246
+  },
+  {
+    "path": "Assets/Escape/Editor/StageRetainedSceneChecks.cs.meta",
+    "sha256": "195E40A010F904048859118C59E8658CF4C50060A26FFC98CD7EE5F44E565DC7",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/StageV08Build.cs",
+    "sha256": "45D14EC9359F6BB9412078C371BDE7CD400C0C24DBCC805CD70878579BFEC894",
+    "bytes": 4586
+  },
+  {
+    "path": "Assets/Escape/Editor/StageV08Build.cs.meta",
+    "sha256": "46F199792D675557FD509558B26F08F4C57E987415AAC14A88613AEB7F7F56F5",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/StageV08Evidence.cs",
+    "sha256": "83E02E6A028C1C428B433FF4A22D384C47046447E0A5A4BDB3010696CDD61247",
+    "bytes": 2184
+  },
+  {
+    "path": "Assets/Escape/Editor/StageV08Evidence.cs.meta",
+    "sha256": "8E97B59467B9D41D8060BF3E5C97240ECC7678006BC6828509A749E3F80B00F5",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/StageV08ImportReceipt.cs",
+    "sha256": "503F399D3740C6C6392D47946BC8044E0F883D94CB54D43FA5E9C7AF1040F054",
+    "bytes": 2708
+  },
+  {
+    "path": "Assets/Escape/Editor/StageV08ImportReceipt.cs.meta",
+    "sha256": "0C5C0637EB123605B5219A92BF91E8AC6C330548F08C084ACB041EA5005A72B0",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/SystemsChecks.cs",
+    "sha256": "0005E039CB5D095146AECA0C5225E12AB423F8525B4B66740C9CFB975CA0780B",
+    "bytes": 7283
+  },
+  {
+    "path": "Assets/Escape/Editor/SystemsChecks.cs.meta",
+    "sha256": "C8377D8DE022516980566D0ED9CCA833B56E13BAE32246093213CBCA25D5D552",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/ToonArtBuild.cs",
+    "sha256": "B49BAAB4B565A2BB249D858D6C683A7DF76B9340E5E0A7B4486CEBAAD7CF30F0",
+    "bytes": 5676
+  },
+  {
+    "path": "Assets/Escape/Editor/ToonArtBuild.cs.meta",
+    "sha256": "4BE3F3BA1D82D0CA0E42D6DD56222E32F18AB0B0C9CE7A91665A3BA1AB8D8AAC",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/ToonOutlineSetup.cs",
+    "sha256": "025C8E7AEEB7AE2F1953D6281DD83C70975207022F8CD15B7462E023CE272FD1",
+    "bytes": 2298
+  },
+  {
+    "path": "Assets/Escape/Editor/ToonOutlineSetup.cs.meta",
+    "sha256": "B0BF2FDF52EEAA37EA9AB0590D2A8A15C7784C6DB936203DA14B192A8CB0FCF1",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Editor/WeaponChecks.cs",
+    "sha256": "62022608443A0AC9066E4150C3495A95C26C8F6AC90A5525750FFD5669947E33",
+    "bytes": 10528
+  },
+  {
+    "path": "Assets/Escape/Editor/WeaponChecks.cs.meta",
+    "sha256": "E86D804B956A39AAC54915AE14EE21D5E8DFE3670BBA43E8DE419B59FB243499",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Resources/ArmorCatalog.json",
+    "sha256": "FF6086111251EA2E0BA0FB6210F51A8B48DAE15705DEE29F716D6F59F66DAC6C",
+    "bytes": 6919
+  },
+  {
+    "path": "Assets/Escape/Resources/ArmorCatalog.json.meta",
+    "sha256": "79CA9F4FFA9202854EB18C4F2B7E726B063E21E95D1DBA929B33A01684B42A7C",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/Resources/EnemyWeaponReserves.json",
+    "sha256": "3A47EC4E2F13358D8803B669D3C4DB5F48ADDA4F68314C454B94614CC630DDAC",
+    "bytes": 1722
+  },
+  {
+    "path": "Assets/Escape/Resources/EnemyWeaponReserves.json.meta",
+    "sha256": "13B58381F6C73D6853623F4DCFF140FBFD649ADBC3F7B28BDEA6ABC1E344FD55",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/Resources/EscapeVision.meta",
+    "sha256": "961E0969D53078103DA3F5082B33D753B9111300162212C9BA861170C9C52C66",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Resources/ItemCatalog.json",
+    "sha256": "2C63F049C958867B6818BF0EF2E9FD55E601D1DE62FABBB87382B16C81128C42",
+    "bytes": 160702
+  },
+  {
+    "path": "Assets/Escape/Resources/ItemCatalog.json.meta",
+    "sha256": "69335F247F721F22FE7BC55FF28B31565EBE06A8EEC73ABDA3B2FFEE9E42104A",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/Resources/ItemUseCatalog.json",
+    "sha256": "DE6A58CD9BAE95B8A8C24535E7A01D2A3A53E680BBE2F41743048602894CAB8B",
+    "bytes": 12850
+  },
+  {
+    "path": "Assets/Escape/Resources/ItemUseCatalog.json.meta",
+    "sha256": "F392ED6780B77D05DD0880C861446D6E9B3713CFB86A94EF3C04268F3BF426DD",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/Resources/PrototypeItems.json",
+    "sha256": "5972F4DE46ABEF26999DF64CC9E6C32A5204CCA39FEB1009762B58090889F364",
+    "bytes": 322
+  },
+  {
+    "path": "Assets/Escape/Resources/PrototypeItems.json.meta",
+    "sha256": "6C900F5AD40A1854E4E8B7B6E1574060359BF8A64DB44DCD5C33BD56D55B294E",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/Resources/SD.meta",
+    "sha256": "DD142792C5DE8D4978475860989C08A774346EED0F1D2D3B6098BB9ACCB4ABD3",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Resources/ShopCatalog.json",
+    "sha256": "A65DE4872CEE0352198F8B1D4FF796256B83600E31D429E84EFFAD3C6B4CF234",
+    "bytes": 4538
+  },
+  {
+    "path": "Assets/Escape/Resources/ShopCatalog.json.meta",
+    "sha256": "276C1206E3779090CCD580497B85C23A7DF5B11995904E2BAF55497A96EBB7A8",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt.meta",
+    "sha256": "6DED3E4066F85C3429D6ABDBF7C434729466DFA86C8CACA2041DE82A1252AA9F",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps.meta",
+    "sha256": "9908A6B02543D9FD7713EB13FAF8E8060D01BDB377639030492927A097C88414",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Resources/Toon.meta",
+    "sha256": "307214C308955934FDB6187343D223753E8458375D814873A5ADD1C80C1A26F0",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Resources/UI.meta",
+    "sha256": "3EBD961BA94233327FBAA032DFEFF3BA18B377160EC67AC1694D3300F313E31C",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponCatalog.json",
+    "sha256": "CEC9F62A5CF471D7F41B56B78E876F2269A9097DC92D49C9C6D3D570C744EF7F",
+    "bytes": 17713
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponCatalog.json.meta",
+    "sha256": "896C8314C4DC2213C9715D73EC1CAF379E354A5F93D565A20975EF4696C117A3",
+    "bytes": 158
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails.meta",
+    "sha256": "720ED383DF51F635D652920DE51B21F33FAE3DE0BB96FFFEFD17FB1C5F9867CF",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Resources/EscapeVision/PlayerVisionOverlay.shader",
+    "sha256": "D3B4B3531932CB71D3789BA1E2D8E87E0900F73B5CDFC2EE36478FEEC9167B20",
+    "bytes": 2719
+  },
+  {
+    "path": "Assets/Escape/Resources/EscapeVision/PlayerVisionOverlay.shader.meta",
+    "sha256": "13F41FEF1A505072622E129FCDA99ECE89D9E05AF7BA2F59F91BB67BEADAE994",
+    "bytes": 148
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Animations.meta",
+    "sha256": "E2DD16F6C971A238F2B7FF5ECB8B3C2CB5B16295C8FB74F1721FA579858EF0BC",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor.meta",
+    "sha256": "A336640EBAC8F8EA303E905FB6E4495BDED0E616D06BD321D16909F15C69D2E7",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Characters.asset",
+    "sha256": "170B5EE125477F194FAB1548F5799D9D5BED798E6BB8F4D6B45760820AB9A36B",
+    "bytes": 927
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Characters.asset.meta",
+    "sha256": "10A4E125FBE117DA0825F28CB3FB41086D314AAA0BA7D75B0EB9E52D5D08EBFB",
+    "bytes": 189
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Guns.asset",
+    "sha256": "9F9D25780EF5A881BA852519876B1D3C1755C749EF55624C06A4D6D7F404DC18",
+    "bytes": 3748
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Guns.asset.meta",
+    "sha256": "7075D026536AA3D1B9B996EB707925386C12AE7CD4DB12D5255B3DFCDC8250F2",
+    "bytes": 189
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons.meta",
+    "sha256": "0FF4535C054414C22E80EDA5DC1E72B698A8F7983214E12B016C60515C09D365",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials.meta",
+    "sha256": "F77B413705ED04EBDD122C5D73450CFCB75CE81CF966C757B6F9850527F06546",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Melee_Yuko.prefab",
+    "sha256": "A65558621EB3755EA1BE91E0BD6B5F4310A797E7AF180ADE3162905C20C7A799",
+    "bytes": 197537
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Melee_Yuko.prefab.meta",
+    "sha256": "F5DBE3FB43E3E02F33BF8F2BABC79E642F70BAF37A164DF86266A3A621E827EA",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Player_Serin.prefab",
+    "sha256": "B58DA177EDEE2DCA50E83647C6B557E0EFA738D4CB067A316667027398AF34B2",
+    "bytes": 8201
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Player_Serin.prefab.meta",
+    "sha256": "67C1EE686B489E6A616FB4935B2F3A3724DB793117648126C4767495E68CF7D6",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Player_UnityChan.prefab",
+    "sha256": "CF32612E44012C9D40664437CAD8D8CDA03C350D28EEF1FA599A2024324D49E3",
+    "bytes": 207324
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Player_UnityChan.prefab.meta",
+    "sha256": "2386BAEE9C27F95DB655A9249AE2727B6EDB39924AAA76A8B765634B1EA1B881",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Ranged_Misaki.prefab",
+    "sha256": "0EA45354B5B1E5D953C8A3858FFC00CE2CB3CC8FEAE1CD8DFB25634D160D6303",
+    "bytes": 197975
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Ranged_Misaki.prefab.meta",
+    "sha256": "BC21DA0B070C96404B81321F9723ED653F4D2BD26BA0CC9F9575CAAB8EDBBC5E",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/SD.controller",
+    "sha256": "7095B7F6BA498AB8C647EC407E68D0E1874493B6EC5F1828A17586F91F12CCCC",
+    "bytes": 4384
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/SD.controller.meta",
+    "sha256": "5DB8EDD742210BF72BF5CF3DEAC367E5AEB49445A4FD008DD03A9BAE7B6D1A88",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Weapons.meta",
+    "sha256": "FCCBE3074F5B4D094002CDE4BE687EF564FA69E5110F08561182B632B44F6873",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Animations/Attack.anim",
+    "sha256": "CCCCAD04D6E93E68DDA0C5879C2102242BF09DC7F7063F9B3125C4D52EDDB2A5",
+    "bytes": 1011702
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Animations/Attack.anim.meta",
+    "sha256": "B89954F95AB5AC3DC06E81BE39DF0555A346E62D381EC2D4F9FD20ADC3C9A540",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Animations/Idle.anim",
+    "sha256": "273BDFFCC9AE322CE92A9FC590B3A8E5A9E418D25CE98B30F0EB300496938301",
+    "bytes": 363075
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Animations/Idle.anim.meta",
+    "sha256": "2FB4AAC9716A52CDE866A463868F3B4E493466FE3A0EFFA73F96541ADAA61076",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Animations/Run.anim",
+    "sha256": "E6A1AAF8039D22CFAB5D1D429393FA5D8E9AD4F129FAF03B4FB4EF1267CDA085",
+    "bytes": 485340
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Animations/Run.anim.meta",
+    "sha256": "72123352716B312AD6F0FCB1BB70B8E1D531AC8F8BB8558F6B373ACD65CF0322",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Animations/Walk.anim",
+    "sha256": "45211611496A515C5300969EADECF8BB37DB246FF1B919C84616C4B02B8C0B7A",
+    "bytes": 594349
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Animations/Walk.anim.meta",
+    "sha256": "39F3D432EBF56CB2094B7E5884101D0E2F88817F64D68E2633E1988E4CBBCACB",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/AE_Special_Forces_Helmet_URP.mat",
+    "sha256": "C6AB0F3F1DCDD4C9DEBC9F8633C488E0116DD54571435EEDB342C83F9A753E50",
+    "bytes": 3848
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/AE_Special_Forces_Helmet_URP.mat.meta",
+    "sha256": "5691D3FFAB8453DE23AFCEBA2A473B94D2E0A0DBD1CABA19DEE6BAFCD8D037A0",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/AE_Vest_Body_URP.mat",
+    "sha256": "9610AA0BC50EB04E914FA460871EF75F0856DA7C09390B28856CED564ADA9684",
+    "bytes": 3835
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/AE_Vest_Body_URP.mat.meta",
+    "sha256": "CBFEBE6963FC70D7F73E9EA7B7304DD9A995744A8E264B6F0055126245228E15",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/ArmorLibrary.asset",
+    "sha256": "6E6234EB744D829A37DCFAD59E865E97E15A617174F647DB3747ACE92DDC9E2F",
+    "bytes": 2710
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/ArmorLibrary.asset.meta",
+    "sha256": "306F0BFCC85CB3AC79E9E525B2C3569A263DD4844795978741B4DBE801079563",
+    "bytes": 189
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/GoggleSeal.mat",
+    "sha256": "B5306C19D1E2085827894E74BFFFFD78114779B1BD66526B50C07F76E1B451C5",
+    "bytes": 3759
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/GoggleSeal.mat.meta",
+    "sha256": "02AAAC37F3ABE924ADF4F381B379D438A0D3379297AD68132248E124A969229E",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/HelmetCap.mat",
+    "sha256": "64C3D2845512933D0A1174E7D8E65E1EA1EE625CC80C5FF2BF824DAEF8DF058E",
+    "bytes": 3752
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/HelmetCap.mat.meta",
+    "sha256": "0228E42C3F17DE959A76319275F4D6FE07FA06FE92ABDE80D57600FB7D18B8B0",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_GoggleSeal.asset",
+    "sha256": "0F1D4D1B24F27BCF5495B01FD890F766C72CBE906AB268B8B446E410CA958CB5",
+    "bytes": 7663
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_GoggleSeal.asset.meta",
+    "sha256": "61593E059C3B9813D776F07F80D53D9797829F01AF56A855075610BB81C9BDFF",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_Helmet.prefab",
+    "sha256": "0E7E00325D704FD94CB83601378A1605ADCC21F0E53CC547477B69293D1F7FC1",
+    "bytes": 12178
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_Helmet.prefab.meta",
+    "sha256": "51CC558A3309DCE796227C943E490FAD953D1A0D02F7F2248A5295F69F6D0EC6",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_HelmetCap.asset",
+    "sha256": "0D54943DF5329E77A02255CA028A167ABA1647287AAAD8B2DA64EB39E401374E",
+    "bytes": 42468
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_HelmetCap.asset.meta",
+    "sha256": "E4E7CD72FCAC1E37DB3D1E874E776F1D650CB66FBFF01EEC5E09221B61B51AEE",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_HelmetHair.asset",
+    "sha256": "B7F6780B8177D17A56ABCC17C3C8D1E63D7A8B06911CF25B4179423A5F4B4645",
+    "bytes": 31755
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_HelmetHair.asset.meta",
+    "sha256": "CDF0EE334E6D3BA6936A8537AFF9BCAB69B12914226A0195EB8CDF7815466BAD",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_HelmetShell.asset",
+    "sha256": "588B9B4267C42A1B1216CB597FD36F5A2474A6BAF1710D7B5C5AD09A232C2C25",
+    "bytes": 333717
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_HelmetShell.asset.meta",
+    "sha256": "EF88EDD89CD664196364C33BFBBE0D71E184F1BBB4DA42104E641621DA69EFC5",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_Mesh_Costume_03_Covered.asset",
+    "sha256": "591ABAD5C34D23E9EEC02036792B41A12865D5F915B61C8FB3CB91FB52D40B55",
+    "bytes": 283788
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_Mesh_Costume_03_Covered.asset.meta",
+    "sha256": "8824B452E1D9EF5CCAC495921BF4B5B96F3A5B35B90973D6139CCB05BB0B11EA",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_Mesh_Costume_03_Skin_Covered.asset",
+    "sha256": "8FBFE515633239BC424924F81E954B3A5D0B76C7877841C9F063E1988795E5FB",
+    "bytes": 136276
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_Mesh_Costume_03_Skin_Covered.asset.meta",
+    "sha256": "62D2D4F1D319B51B712008E69D92B106D9AD93ED72997BB62F6A4D88B2C506FA",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_Vest.prefab",
+    "sha256": "A18D6D336147B750D15390B80A27FD86CAA87A4600459345C910C48E276E7FE5",
+    "bytes": 4530
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_Vest.prefab.meta",
+    "sha256": "789FA53DF052230EAA2412D76C324B1A26B2538F322581F68995240E3ECE0744",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_GoggleSeal.asset",
+    "sha256": "9EAE0473A3561576AB5CDE4582EDEE235072641916DB27232529CE51D88578E0",
+    "bytes": 7635
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_GoggleSeal.asset.meta",
+    "sha256": "E02396A730ECC8ABC9A23B0BE8DB4A6491ADAE929B685F28BB462690FE410B6F",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_Helmet.prefab",
+    "sha256": "E4417E3B034B057D89F7D1806533D3C80E7AF5BEBF8DC3E38FC123E3A0C322B2",
+    "bytes": 12248
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_Helmet.prefab.meta",
+    "sha256": "DD6546567C97E82C469FA95CCA229F652F0D72F44F6A90E7DEB9FC2B45167796",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_HelmetCap.asset",
+    "sha256": "B765A85E2CAB37E94C70CAF46A693998BCC4EC7A675326886CD29B69C75A3D64",
+    "bytes": 42476
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_HelmetCap.asset.meta",
+    "sha256": "E202A752F4F187AB8EAB6C4E15510AE03D7128AB112F79BBA83DC93F8BDC0E0C",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_HelmetHair.asset",
+    "sha256": "C4505DEA4131B4431DD435A95C36661A323C35CAB7AE93EC6806345B8824B189",
+    "bytes": 44131
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_HelmetHair.asset.meta",
+    "sha256": "5566D8D1E17B02BA50F0FF994EFACBD6FE6132CA295A31AE90A35B0B7551E922",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_HelmetShell.asset",
+    "sha256": "FB4C169D6EB920C9C19A5283042B5E67597F01273CFA5477D189B4296ECED508",
+    "bytes": 333719
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_HelmetShell.asset.meta",
+    "sha256": "7C351D9E342CF76D6B35954111C6BA99B911A322302FA67E5A7BDE81F3579148",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_Mesh_Costume_01_Covered.asset",
+    "sha256": "BB9337A5A7A41E0DF36583BD8C5A3999B0D749B20EB2B32EB072EFA8DEF5485E",
+    "bytes": 227809
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_Mesh_Costume_01_Covered.asset.meta",
+    "sha256": "5D189CA50E16DC8F657E31DB6ADD6BBF72558B7092A833BF09071832A0914395",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_Mesh_Costume_01_Skin_Covered.asset",
+    "sha256": "1B2BB21329A8D35C3A98897F161E341197DE6E601B3CF6868A567981D29C9F71",
+    "bytes": 173519
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_Mesh_Costume_01_Skin_Covered.asset.meta",
+    "sha256": "2499E9441F8CDEED2A4351A9DCA171B6F0C7D057411746E0B3F06405D5F3692E",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_Vest.prefab",
+    "sha256": "659144320889158C5A5C6C0D46E8030CEB807FFFB63B2FED13116C117478B6D7",
+    "bytes": 4546
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_Vest.prefab.meta",
+    "sha256": "F52229EF05563440E39A7A5CAFA6D678731986D7D4D122809AF9757003ED9454",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_GoggleSeal.asset",
+    "sha256": "3FF463D8501A7A777265FF6C3EFD2FA3EA89D06DFFB566EA9704D1898F3F2184",
+    "bytes": 7668
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_GoggleSeal.asset.meta",
+    "sha256": "3409D00938810D1F97BC3A30B55A61C40903B58DB7A17D2210E9F1777DE9923A",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_Helmet.prefab",
+    "sha256": "02590FF242B183D6536D67B6F3B212FDA525EB0675C48115414C2B95D4905C6A",
+    "bytes": 12183
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_Helmet.prefab.meta",
+    "sha256": "576BA62E2ED1A66CDBD7350EECB1911D4D52B47582DEB7AD717CF2572F84466A",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_HelmetCap.asset",
+    "sha256": "941FA32C8880CCE1D79BC2F13604447873E709F106C51DCEC826D45E257E0F1F",
+    "bytes": 42473
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_HelmetCap.asset.meta",
+    "sha256": "1547BFA4E5D6AA4BC0FD20FB4A67BB620EEBA7D14CAAE73944BB4F5D77889D02",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_HelmetHair.asset",
+    "sha256": "C292DF19DA08D892E528D9A2E6CFF4C2F29B89E4F41BFD4A7A5A1057A07C51C6",
+    "bytes": 44162
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_HelmetHair.asset.meta",
+    "sha256": "D306C60D510BC251F83F4C684C7D61624EA839EB84A336D78DF2EC5FCAE54259",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_HelmetShell.asset",
+    "sha256": "7E7D6C741433E5994FB3D37960AE340050192B460532284118E73DEA22162544",
+    "bytes": 333716
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_HelmetShell.asset.meta",
+    "sha256": "AA530FC8DFCF00D09DBAD89A21A7A125BD032660B76E4BB322CD0929AC95EC8E",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_Mesh_Costume_02_Covered.asset",
+    "sha256": "F4C5CA11F034F30B551763B727EA37AB6B606A2D3CE91077C79E233017AAC475",
+    "bytes": 214944
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_Mesh_Costume_02_Covered.asset.meta",
+    "sha256": "50B3B6A9669EFA4A08993D3CE10FFDAD148D212732DDC757A318021BC3CCD51E",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_Mesh_Costume_02_Skin_Covered.asset",
+    "sha256": "784F698397080B5571CFA09B29ADF0DCC4283B548741DC2AF23409FFB74E9A8A",
+    "bytes": 164867
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_Mesh_Costume_02_Skin_Covered.asset.meta",
+    "sha256": "1705AB86DBF0F7CAB30B56B95A58C867BC9F1DA42B609874B10FC2E2FFF46AA5",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_Vest.prefab",
+    "sha256": "37956CF9A26F4D1BC76A3330C35BEA20D356DE6E7EDE5AC2FA04843B65495A5C",
+    "bytes": 4538
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_Vest.prefab.meta",
+    "sha256": "297D07E00A63679807A0D54FF13B040E2AA4F10926C1614482F683CE302564F9",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored.meta",
+    "sha256": "8071BAB173BE8504AC865BB68F4FA3274D89461556A593050C16CDC13555A193",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/BaseLayer.mat",
+    "sha256": "E4E72E5FBA7D9A98150D9A73C96F2C4A75F14D739C8B66BF2C97230C07D1D591",
+    "bytes": 3755
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/BaseLayer.mat.meta",
+    "sha256": "59E3848A9D4AEE6008B957FCF6A7DB8830C47D7767BF5F9F961D87B3200C0FAF",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_ActualGoggles.asset",
+    "sha256": "A065319CE4782A4F970941C4096336E71518F0165DE3196DC0D4620978C237BF",
+    "bytes": 40409
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_ActualGoggles.asset.meta",
+    "sha256": "6889A7FD08A87124B362390DBD37AD0D12FEE3A3D4CC4BE0F16ED05D79EA0B7D",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_FullHeadHelmet.asset",
+    "sha256": "6CDB392263F0361BBD3D02757030CBDC5BA64B60ABBD9F104684C5017D6AD0CF",
+    "bytes": 328777
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_FullHeadHelmet.asset.meta",
+    "sha256": "7BEBA1D8C34D2209B4D7BFE28D1EE90F0D25E831FF2E90DAC9D6276F7BD43952",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_GoggleSideSeal.asset",
+    "sha256": "3234B4465FF200AD1B9B1A0B35B8A3A801ECD243C2B2F2F7B1CE43E73A2643C9",
+    "bytes": 7651
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_GoggleSideSeal.asset.meta",
+    "sha256": "A9C3A46AF6C67F572F2FE7D199A9B7C84AC00AC8E03A95DE50409376286801AC",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Helmet.prefab",
+    "sha256": "C2E51FD9426BC4C702C388344BE5D45B88C2CC249E6A507B529375784E68BB4F",
+    "bytes": 8679
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Helmet.prefab.meta",
+    "sha256": "33C338E797D741B2F8445C2B1F2B02AAF5906AFCEE905AC201AA9E51C47DA1B3",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Mesh_Costume_03_Skin_Tucked.asset",
+    "sha256": "A4748E019AE595182A364514938FAA1F47922D0B41439AFC368025020FD89EC9",
+    "bytes": 136294
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Mesh_Costume_03_Skin_Tucked.asset.meta",
+    "sha256": "EA576F122A9D7FC6027D0FA54324D65F30C58BC13B051EC032A13B6670F09F07",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Mesh_Costume_03_Tucked.asset",
+    "sha256": "CED15453E27C3C10DFBF4DF9BF398A6F52B28FB1433A70E74C0C66BBC8F8A010",
+    "bytes": 286314
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Mesh_Costume_03_Tucked.asset.meta",
+    "sha256": "C09F9DCC4BFAEF620DC5D2C12F7145DAC0D5B14BAB9103A7DDF3D52949E15EF7",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Nape.asset",
+    "sha256": "708A442A445C4CF9B34D8E0A9D3AA83C2BB5FA9F20EC84F9F09B3562F7978E76",
+    "bytes": 51422
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Nape.asset.meta",
+    "sha256": "B0434A508CB5ACF11E34C581A4F5854C77D376C8225291F8E690D50BD21D3103",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_OriginalScalp.asset",
+    "sha256": "9C69D417B279253AC4F26E7F12F8E8E5AD18F27811AABFBF5C1BE3E0CAE642E7",
+    "bytes": 8165
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_OriginalScalp.asset.meta",
+    "sha256": "97466AB4A086AE0183370D89A4B33CF1667D3A6D6CFD55F75EC4346E1E5B6879",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_SkinnedVest.asset",
+    "sha256": "1CAC3BE9D613465619BA37F53CB641B91081498E24778B800F234E5C0AE71620",
+    "bytes": 1138344
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_SkinnedVest.asset.meta",
+    "sha256": "66B99247252D56BF939807687B52E38749D0AE3AA94C72B3399577CB85562A6E",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Vest.prefab",
+    "sha256": "BFBFF0EEC1AE854C6C1D629E0914F75D8C4509529B32767022598CEF2B04E8C7",
+    "bytes": 3161
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Vest.prefab.meta",
+    "sha256": "67819CECCF647059D86D71E87C714DEAAD6FDC51757BC8816C43C434A86D0AA0",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_ActualGoggles.asset",
+    "sha256": "93BA36022E7E773E4AD9753E2260D8901461F2FEE2ED688E7D5B757DED7A7187",
+    "bytes": 40415
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_ActualGoggles.asset.meta",
+    "sha256": "2C715066E196BBC0E7290EEF3F888C0A9BEC1F57A520A78FD78DE2ADE738BB32",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_BaseLayer.asset",
+    "sha256": "AFB841BC3B007604CAC8730DCB995D74C2A5CC595899B0ABBB804A72A9BF8385",
+    "bytes": 184185
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_BaseLayer.asset.meta",
+    "sha256": "81C252C1FE1329F5B393CCDAFE38AAEE8B4C73036AF6CADD0B63916E697AB7D6",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_FullHeadHelmet.asset",
+    "sha256": "9A155D1DDC20546D9B761E72E41FADDDAB69B07C985596395D7D8FC7C567DBA2",
+    "bytes": 328779
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_FullHeadHelmet.asset.meta",
+    "sha256": "5B62DEFF1E9693CE81F6E36F468065A8D0130BD7FE74ABF04B227360DA46B330",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_GoggleSideSeal.asset",
+    "sha256": "FBCD6958FD35ED755D8B4E1EDFCEA0FBA875B9BD47F8AF8FD8A5561EA7319479",
+    "bytes": 7653
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_GoggleSideSeal.asset.meta",
+    "sha256": "41880F3D3E1534B73E507B45D049C4D4B5ED91D03FEADC3751F728952BF5E1FC",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_Helmet.prefab",
+    "sha256": "24CCD09D2A896C64B28F07C0E21D10FEB269116BDBF9FFD6069F497660A00686",
+    "bytes": 8688
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_Helmet.prefab.meta",
+    "sha256": "38F17AB27A3AB60C3E7F9E762616DB9DE6F7C87E5412F4DCF2F449F5E80288F1",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_Mesh_Costume_01_Skin_Tucked.asset",
+    "sha256": "3F4691FBF8ED932778A46E948688CA95CCFD331847DD43DEE39F7BA080200B89",
+    "bytes": 170761
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_Mesh_Costume_01_Skin_Tucked.asset.meta",
+    "sha256": "A4D8CD6A153B5877E712CB2C4A28EEEBB3D03ED321F46DBFA45B00312F584FA5",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_Mesh_Costume_01_Tucked.asset",
+    "sha256": "B5F84C9271EB50E880C3AF6B492AB28CB50CED96E14CE2879BD85104BC3F1897",
+    "bytes": 230566
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_Mesh_Costume_01_Tucked.asset.meta",
+    "sha256": "4805029570B192C6BC3EF9D65219FAAF0A1B24268A2BC733A7DAE7E94A874092",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_Nape.asset",
+    "sha256": "E6482CA1FFED8BAD35E6CD4AD7D768A2F780699728DCB21153EF69E6C89618C5",
+    "bytes": 51422
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_Nape.asset.meta",
+    "sha256": "4035E83CC6523432C94939EA92BC7DBA2420C445B0A71A38887C4B0DFF344C6E",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_OriginalScalp.asset",
+    "sha256": "75AE4B041CDED24EAF70BFDFC46A7EF2A801E90498264487B72B1B587A55C7BB",
+    "bytes": 3339
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_OriginalScalp.asset.meta",
+    "sha256": "EBA80C28CFE79321E2ACC23D82B21F0F3A5AE9D31C7485C6D665C7069EC1A99D",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_OuterwearRemoved.asset",
+    "sha256": "FBAC007D1E8B404AA49ADACFB9DBBB69236DBE46D43D541E816AB28FA8A4CBE3",
+    "bytes": 223804
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_OuterwearRemoved.asset.meta",
+    "sha256": "3621EC24E8FBC0CBAAEAFB54AE2D72EEDAE0791FA8A4E02CCD45B8135407FFF5",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_SkinnedVest.asset",
+    "sha256": "92BD99F14288CC8D142A93CCF45C8C232E7F9453F1D53BF20BB62E4327846A07",
+    "bytes": 1138334
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_SkinnedVest.asset.meta",
+    "sha256": "A6E74125ECFA1AC94C11ED73EF6249D09B424B2D94E407E9F83769BE2D77ACCE",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_Vest.prefab",
+    "sha256": "D5A7CF5F4CD55FDBAB2EE167398BE2FEA23F87DD0D2C4D4A0793DBB0D73FE262",
+    "bytes": 6464
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_Vest.prefab.meta",
+    "sha256": "96C4ECDB1BEA0CB08F97EA512265CC6B30D28C42A831938541A535F377AE7F80",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_ActualGoggles.asset",
+    "sha256": "BB89D563156F0A12133732B15AAC10FF8C8DE486E350616637BD8261269C3DA9",
+    "bytes": 40412
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_ActualGoggles.asset.meta",
+    "sha256": "E329C27F085C25B63D48FF8178EBF201DD2AC0F1B67506D00C6CEF04300EB595",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_FullHeadHelmet.asset",
+    "sha256": "2A3C46ED8639F76EA8B274090D5A7DB3F2DC10FF884CECC80FFA0FDAA701A19C",
+    "bytes": 328773
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_FullHeadHelmet.asset.meta",
+    "sha256": "5E2E4CBAEC6499C4F30885E70321FF7762B06FF792A070F2B020EB0F21D84E6A",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_GoggleSideSeal.asset",
+    "sha256": "CEE2EFDFBB222FED88A18E81C7E9C67C9A7C192B4EFD74B78F520C9855D049AC",
+    "bytes": 7653
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_GoggleSideSeal.asset.meta",
+    "sha256": "58C6BBF7C0BCE37D3F48D4131795A8456EE4F49311520142F0F99291889F647D",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Helmet.prefab",
+    "sha256": "A48471357B5F5C77CCFC3CD690EA61EA19A9E5EFD1C173A93AEE63F5A3DC7EFC",
+    "bytes": 8691
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Helmet.prefab.meta",
+    "sha256": "AA34AB3F1927A5275F29DEED12DA381F4B483763185041E80550468397E3CB86",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Mesh_Costume_02_Skin_Tucked.asset",
+    "sha256": "F3F820E1215E579099E36E4C7145EBCF3E5F049BBB9FA6B13FEC23CDD8D9E040",
+    "bytes": 164889
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Mesh_Costume_02_Skin_Tucked.asset.meta",
+    "sha256": "39ECA390A314CD4D7A0B3C5CA41534FB22BF2E724A66D9A3EACC86AA99A1B749",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Mesh_Costume_02_Tucked.asset",
+    "sha256": "6F674AD47B3BA3F528CB58F84617DB29EFD57122CBBDDF782F961961CD07FBC5",
+    "bytes": 217113
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Mesh_Costume_02_Tucked.asset.meta",
+    "sha256": "D9D22771202F5B4C90EC619EC8BFA0E638127E4CB49B0C95C121051DACBB2E4A",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Nape.asset",
+    "sha256": "AC0E98B832C75C5A4D6816050458DD8377FB4EB37B69BBD2AD5FC951217205FD",
+    "bytes": 51417
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Nape.asset.meta",
+    "sha256": "4AA05CAA5954594C93121C2D43DB869FFDD640D26C6F0AABEC54B74442745A79",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_OriginalScalp.asset",
+    "sha256": "B1573ECC91F47D95A63F202D7F561AC05F93BAC5C3141E843F07063269AD715B",
+    "bytes": 3119
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_OriginalScalp.asset.meta",
+    "sha256": "A1A1AD2B8C5FD8FF49E597FF39375F46157C6BA3123924376198A142D2BB9AA8",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_SkinnedVest.asset",
+    "sha256": "FACEB567055778E48D03D17594ACDAC3391454CDFB9A31A043AF50A07F10693F",
+    "bytes": 1138349
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_SkinnedVest.asset.meta",
+    "sha256": "2E17A601824B0F70A42B42603375B4FC63105F3516EE0F56295875718239917D",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Vest.prefab",
+    "sha256": "37A60AD96BE63556D6EDF179C58FD67F6DF81E5C93E00DEB4CB6C7289B107F2A",
+    "bytes": 3168
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Vest.prefab.meta",
+    "sha256": "12DD339DE0C9411750AED788D8C6ECBCB60759AC245FC31BC877A06DFF8D053B",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_1_AR_A_Bolt_SDRear.asset",
+    "sha256": "49BC17B036D45251D3CF3A731621C03EBB2EFCC270FADB5DFC2852CA1A43FC87",
+    "bytes": 30906
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_1_AR_A_Bolt_SDRear.asset.meta",
+    "sha256": "2D272FF51B9E04EE3B8F81E3AD0FA9BBAF6128E5DEC49BDAC04069203D40F755",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_1_AR_A_Grip_SDRear.asset",
+    "sha256": "7BBA56D0D8FFC7B2DCD851B241DFF472920BD1927E5133859C53357B6F5D982F",
+    "bytes": 32000
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_1_AR_A_Grip_SDRear.asset.meta",
+    "sha256": "BB9EF803CC9729E4667D785D44F06E72406783B48410E6B5B61474EFB0A9A63A",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_1_AR_A_Rail_SDRear.asset",
+    "sha256": "9FF8452FE1DF46F9128E1C0DBB263D6961A12D653C90D5CC26F4E3D9769E8285",
+    "bytes": 51754
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_1_AR_A_Rail_SDRear.asset.meta",
+    "sha256": "22A9690D215969BFF79F46C458C72A3B5B6EE1A19B159CFC6E8566F4E9A1DFDC",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_1_AR_A_Receiver_Down_SDRear.asset",
+    "sha256": "9515A21AC705D0B869707C8436D234F9DB1384C8F9FA42E8573CC9109A41C3C5",
+    "bytes": 302854
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_1_AR_A_Receiver_Down_SDRear.asset.meta",
+    "sha256": "8B509A676BBF6603050F6F6E90C40DF8FB70B2C12E4C212EC57EAE09694C9343",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_1_AR_A_Receiver_Up_SDRear.asset",
+    "sha256": "05C6801B57E891675ECF532753BF92922C6200AD8B6A5A20A3F2D3B15D468AC5",
+    "bytes": 98681
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_1_AR_A_Receiver_Up_SDRear.asset.meta",
+    "sha256": "B15085F5C7E18AC9619AE5976F2FB88C2E04E04B369F9775E91FB20150599A30",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_1_AR_A_Sight_SDRear.asset",
+    "sha256": "7D8B565A3D0BFFBB2FDDEBC8A17424BF4EC888B022A78539BD6B2478147623DD",
+    "bytes": 180785
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_1_AR_A_Sight_SDRear.asset.meta",
+    "sha256": "014C5B44AF979A613E7E32D6DDF046A9A76F2270EEDBB1D398F6EBC30DB2EC41",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_1_AR_A_Stock_SDRear.asset",
+    "sha256": "F252DC8D2BBEFED6F363E04FB879E7712815C92AD4B906146B2C44D1EA85F17C",
+    "bytes": 356276
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_1_AR_A_Stock_SDRear.asset.meta",
+    "sha256": "3ED9E48AA3DFC21E187BB48700090CF80E7594A512C87924CF3E93B14DDEB74D",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_2_AR_A_Bolt_SDRear.asset",
+    "sha256": "0DE225A134F26172112FD2494F99188C6EAF462DB10E6AB1006C13CC5E859685",
+    "bytes": 30902
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_2_AR_A_Bolt_SDRear.asset.meta",
+    "sha256": "7D2CFBD0E13FD963F042465B5DE817F32773E405A7436F8A1BF119022631F94D",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_2_AR_A_Grip_SDRear.asset",
+    "sha256": "50287B0923D72FA238CCB8986F0D85C78AB3F93062A612F3DA8B625EFE333473",
+    "bytes": 32004
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_2_AR_A_Grip_SDRear.asset.meta",
+    "sha256": "3E0A8D13BD63BB341BF4C56AF38718E539A754B0B8327F52AA7F16C62D9B63AB",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_2_AR_A_Rail_SDRear.asset",
+    "sha256": "EC5D39684003211E357DDC71A979381F63C402F08503B326C39A01480A44AAAA",
+    "bytes": 51752
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_2_AR_A_Rail_SDRear.asset.meta",
+    "sha256": "E115C991FE54131251C3E92820E70D14366E9DB8A65B88F523D14A7CBE42A967",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_2_AR_A_Receiver_Down_SDRear.asset",
+    "sha256": "DCCCA25CE9122EAD5E202076972F97D6B500BC522578668EAD9D4C1BF12081E6",
+    "bytes": 302854
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_2_AR_A_Receiver_Down_SDRear.asset.meta",
+    "sha256": "B7E91CE10BD674F793032E55211E5B95208A165A405D53D4E836CB3035FAD554",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_2_AR_A_Receiver_Up_SDRear.asset",
+    "sha256": "7F8D31480C082A3EB0650408EEEA31B590BCF957F538926282EDCFC4A8CCBC80",
+    "bytes": 98685
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_2_AR_A_Receiver_Up_SDRear.asset.meta",
+    "sha256": "50C2CB8AEEC2624E8AC5A99E2ACF522096280A44558BDCB61CCCA66AA6BF7E26",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_2_AR_A_Sight_SDRear.asset",
+    "sha256": "A90CCDEBF40DE84C012E939861B7A8841A62FAFAE37F9FC127B5A2223E62CF61",
+    "bytes": 180785
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_2_AR_A_Sight_SDRear.asset.meta",
+    "sha256": "843DF1B30968CA9116075F1F0FC19C421750EAF7BB573AD2EE467F5997824CA1",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_2_AR_A_Stock_2_SDRear.asset",
+    "sha256": "1EB359356214A4938E649FD76D725C4DDF8434893310AD48D5F4DBFFB376E3A2",
+    "bytes": 82495
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_A_2_AR_A_Stock_2_SDRear.asset.meta",
+    "sha256": "9E33A608737641A7544265D26349200F3F07CD95E7E82D6F0B0999489105ABD8",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_B_AR_B_Grip_SDRear.asset",
+    "sha256": "759B8920509A554DA33D080692324276E9F8F405323745112E01C37EBAD90081",
+    "bytes": 28156
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_B_AR_B_Grip_SDRear.asset.meta",
+    "sha256": "739F14C2051457A390CAFD85868D73489FA4D764303277A6F755FAA0DA3A4CE6",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_B_AR_B_Rail_SDRear.asset",
+    "sha256": "B4C61555A3FC394ABE423A9FD8D9F056122CBC2C76CB860AA6529AA3EC60737C",
+    "bytes": 98799
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_B_AR_B_Rail_SDRear.asset.meta",
+    "sha256": "259B60F2F5EC41C237C2573DD188F65028EFD40E155D4368CC6281DD2D146A8B",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_B_AR_B_Receiver_SDRear.asset",
+    "sha256": "6B561EBAA0A8175BEF165077978D0465DBDAAD2A8C7C5D902F6502F0C1196036",
+    "bytes": 335459
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_B_AR_B_Receiver_SDRear.asset.meta",
+    "sha256": "564F509FB7DF89A2ACCEF590EBFFC230277A71D5D0E9B88E0B9CEF6AE39F1F7D",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_B_AR_B_Stock_SDRear.asset",
+    "sha256": "9789E842E005A8D620938E47CBC1BED3FA020F44CD5B02FE7C81314F3641C8B6",
+    "bytes": 81849
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_B_AR_B_Stock_SDRear.asset.meta",
+    "sha256": "AEB8CA562267DA5B61906933E2C1A91F3CAF4C2C5FC064C5ABE4653BE1CB7162",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_C_AR_C_Grip_SDRear.asset",
+    "sha256": "EFC60D3A2FA4ABCF26A92F1535B1CF99620D8E347D6DB51B7E51308CF09B87E0",
+    "bytes": 35790
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_C_AR_C_Grip_SDRear.asset.meta",
+    "sha256": "21132319C663831721A06039D6AA5A901E08EEB29D0D8D82B2136E4048B52BBB",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_C_AR_C_Receiver_Down_SDRear.asset",
+    "sha256": "E70B2CFFA285C165E62FA2FF902325C34B2771DDC9F0230422589DFE5701C505",
+    "bytes": 240742
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_C_AR_C_Receiver_Down_SDRear.asset.meta",
+    "sha256": "1040F020B3F87EF075AD89DAFE2EC5FE68C776F39218D5A14D55A8B1D8EF1AB6",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_C_AR_C_Receiver_Up_SDRear.asset",
+    "sha256": "1FFE64CAE819DEF33FCA4C85F3B60147FF1BAE5C5FF4CBDAB0EF531F1C076FBF",
+    "bytes": 481134
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_C_AR_C_Receiver_Up_SDRear.asset.meta",
+    "sha256": "C4BC6B152DBB6DC3BE548F326D0E75A4C3CB3C2CC26548C50CE623F32DA7CCD5",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_C_AR_C_Sight_Back_Part_SDRear.asset",
+    "sha256": "13B0D8F149FE9FF24223A834B8B2667171068AA3EE838F36ADA7FB1400837C7C",
+    "bytes": 20606
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_C_AR_C_Sight_Back_Part_SDRear.asset.meta",
+    "sha256": "405AA56A28067AF9B0B09EEBB42872D4E5F3F4C276D06EEE048462B357D2A9B8",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_C_AR_C_Sight_Back_SDRear.asset",
+    "sha256": "BB2CDB6B412CC001B6772CB2A5CA3855D0FBC576763D31D102FD38435290C1E5",
+    "bytes": 170204
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_C_AR_C_Sight_Back_SDRear.asset.meta",
+    "sha256": "DE4CA855439C31717697AFF6BD8F45FFB8715920658D0F1C02397BC55744C005",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_C_AR_C_Stock_Part_SDRear.asset",
+    "sha256": "14A7FAEE77036C4D0CEA13A458FCD578819A59E243CF45AC4B6CD98BCA53C648",
+    "bytes": 59311
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_C_AR_C_Stock_Part_SDRear.asset.meta",
+    "sha256": "CF85663FCB8735830F4FECF725B8C65EC6BC5B446CECA03F105EE010D4F4E1D0",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_C_AR_C_Stock_SDRear.asset",
+    "sha256": "49B812BCCE0326312BF3715D49D8D09A146036F151A4245ED76104551ABAE138",
+    "bytes": 87981
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_C_AR_C_Stock_SDRear.asset.meta",
+    "sha256": "4632C4ACCA8E8332CE1D6B9B8C2BB0897D65C0933291728868B0A6CB4CF2F109",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_D_AR_D_Rail_SDRear.asset",
+    "sha256": "19806726C3269C443A98FC68EC57AC9F01B693E7D70BF71ABC3537D8A12C45B8",
+    "bytes": 230115
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_D_AR_D_Rail_SDRear.asset.meta",
+    "sha256": "E94B27E45CA59E7A6528D456ED794A194BB3A6264FF810732740D44F0907024F",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_D_AR_D_Receiver_Down_SDRear.asset",
+    "sha256": "28A12BF1A85565E9609984BF63DD8B7B1B62C2C030787A5A842368F03A3C5D54",
+    "bytes": 94963
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_D_AR_D_Receiver_Down_SDRear.asset.meta",
+    "sha256": "1DC440FE3CA202D03A5257DFAC16E428A9A65B3E010D34939EAB9B69EF92FF68",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_D_AR_D_Receiver_Up_SDRear.asset",
+    "sha256": "61F8D5BF4EF9A0190581B9DFD8DB6602AAB42FCCF996071428F759B711600FDA",
+    "bytes": 207761
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_D_AR_D_Receiver_Up_SDRear.asset.meta",
+    "sha256": "7C344559907EC03CAB1D50CC0CBF18BC83AC905ECCA31583E5DB37811DEE2F5B",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_D_AR_D_Sight_SDRear.asset",
+    "sha256": "85103442D59F8779095A823CF3CA39FAE0CB41A55CE8091419698FC082E4C403",
+    "bytes": 95735
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_D_AR_D_Sight_SDRear.asset.meta",
+    "sha256": "A52E6000D90216BC9C7FBDDA6982C4BF5460D24478CE7FF6C91EAC9BADF60239",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_D_AR_D_Stock_SDRear.asset",
+    "sha256": "B30F9B13B6E0F11864B290A13AB5E00CC4156A6D733AE88495A43028FDC4CBEA",
+    "bytes": 137511
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_D_AR_D_Stock_SDRear.asset.meta",
+    "sha256": "47BF14451A87ED79EC546FE276B92F33BDC0E0E7868ED0DDB0B0DC901472DCBB",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_E_AR_E_Barrel_SDRear.asset",
+    "sha256": "6324672DCCBC6EF9400C6467CEA3E950A3D2FA001CEA5F181BD525C806A7A588",
+    "bytes": 93139
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_E_AR_E_Barrel_SDRear.asset.meta",
+    "sha256": "BC9274992574AC575DF40E663759F1D5CBD66872AAE91861024811994FFB48AB",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_E_AR_E_Mag_SDRear.asset",
+    "sha256": "53791D327EF614720BD76857D476F3A1F6351754C3C788B9D745F9876CDA0780",
+    "bytes": 57267
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_E_AR_E_Mag_SDRear.asset.meta",
+    "sha256": "D950A83B5E17E02B8109AD1F7A0E30D2F070386EDC7F20B6312D8F7C8AB948A3",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_E_AR_E_Rail_SDRear.asset",
+    "sha256": "C1EC8DDD04EA037E667E89F06A2A9C3E0D750E604C1F60AA10A6C7B6F6CE2F09",
+    "bytes": 54759
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_E_AR_E_Rail_SDRear.asset.meta",
+    "sha256": "38CB480BA6712B9718E5DEDC2062118404C5B8297C865F5EBD44AACD307CAEA2",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_E_AR_E_Receiver_SDRear.asset",
+    "sha256": "09B7E1ABFBB1764858EE019BAFF9D5DF2466C72BDA06235227947DFBF4E6BE3A",
+    "bytes": 451811
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/AR_E_AR_E_Receiver_SDRear.asset.meta",
+    "sha256": "A78BCF50F47CDD09C393EAD397306D254E7E2AB179AE8061E14C47D7F3DA1A7E",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/LP_AR_A_1.prefab",
+    "sha256": "D90359A68393DA2705F8223D22EDF958656FE836C966D74FF83F05D2C59504FC",
+    "bytes": 37992
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/LP_AR_A_1.prefab.meta",
+    "sha256": "8085EE41231D4D2C86E048302415A57445A7A342C2674B0707C497CF0E33D02C",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/LP_AR_A_2.prefab",
+    "sha256": "2409074BDF8E6E00237F7F4B45F3F8461236451B056BD5C656243D2C4B5FEEF4",
+    "bytes": 35399
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/LP_AR_A_2.prefab.meta",
+    "sha256": "8645466518C6F969C83D6273C2288941233D260AB1C2D4CD7E5AA3909023DBB4",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/LP_AR_B.prefab",
+    "sha256": "3C030030E804C560442BBDC2847F22808FA1271A73B385A1BCF19E4974EACF9B",
+    "bytes": 30266
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/LP_AR_B.prefab.meta",
+    "sha256": "62A1206F87D8FAE872CD7B0E4EBAC0BD5C5591983A4956C1BE758FEE45F169E8",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/LP_AR_C.prefab",
+    "sha256": "2D64D92DF85A8405A8024CAEA9163DF24C74BCE9EB5BAF4027BA07C1A53571B8",
+    "bytes": 40668
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/LP_AR_C.prefab.meta",
+    "sha256": "EA57678DF44CC7866ABFF0736A906C3FF8858A302F72E6C63767EBE24385A40F",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/LP_AR_D.prefab",
+    "sha256": "F430B9940557705F30280330D8A914AEB53113B90F6C0AD7278CEB4D4EEFE6F5",
+    "bytes": 38049
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/LP_AR_D.prefab.meta",
+    "sha256": "FC96CCD709D2D865F73C5775572A84FF4D1B313F09F878980E6372A062CD9A89",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/LP_AR_E.prefab",
+    "sha256": "92C23FE2C5A47136A7BFEEE46CE65633DB512E6787BB684546D0C587607D4EB7",
+    "bytes": 22447
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/LP_AR_E.prefab.meta",
+    "sha256": "4A585690735BADB02A4AB6E81C561BCB6E1ACE3E862F40C27981FFC2CA9775F3",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/Weapon_URP.mat",
+    "sha256": "3DA34849F1C1378D171D4C519EBA1D88D7677FF86AD6F4E36411EEE56ED0404A",
+    "bytes": 3830
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/LowPolyWeapons/Weapon_URP.mat.meta",
+    "sha256": "C653C78159279D71B002437766D8B5A2CB6B281E247A5637F4564EA3740E9D0D",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_AccHead0_F2DA71_URP.mat",
+    "sha256": "643AE98D541282579C8BC7352DC3290A3201430C2740EA8BC5570B59935FA343",
+    "bytes": 3808
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_AccHead0_F2DA71_URP.mat.meta",
+    "sha256": "806C69AB69A1F2A53B2274DA472B4D5988A1C3B15C3280AAF6210F5350402AB3",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_AccHead1_717171_URP.mat",
+    "sha256": "62F52EA27CC10D59CB40EBF1B6330F614763EF54D4CB3AABBFFD36AC15F927CA",
+    "bytes": 3922
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_AccHead1_717171_URP.mat.meta",
+    "sha256": "B78DBFE59E167C64BEDC790EF4AEE613283BF06F17356DB4080988AFD60CBAC2",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_AccHead2_FF88BB_URP.mat",
+    "sha256": "578B9C60A4EBC75166D32E617A3B0163A91D46477E6B6F3F606C8996D00D826A",
+    "bytes": 3906
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_AccHead2_FF88BB_URP.mat.meta",
+    "sha256": "3DE10EDE83E568E67A109A7F9A524B325105D9F06FBE39845F783274B78D88CD",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Costume1_v0_URP.mat",
+    "sha256": "DD0C09B75380BE41EC603FA4B5F1514012EE6CA579E98CB4A04B7A9FC4535DA2",
+    "bytes": 3866
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Costume1_v0_URP.mat.meta",
+    "sha256": "DA2CA9C0951A380F359E52E8E3C4A8528699B5707CED898F7A293DE55770C571",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Costume2_v0_URP.mat",
+    "sha256": "39F41AB4677938409F5F447374929D6BEB8B7E25D0BBE2C65DCEA0AD515D2C92",
+    "bytes": 3867
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Costume2_v0_URP.mat.meta",
+    "sha256": "58DE7D0D18270FC278422082B29E32DC112CD8D05727580F7195C2320F126FEB",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Eye0_D4_URP.mat",
+    "sha256": "FD69B4D71B40C375EB958AD1108BF3BE023A8C0CA3CD971F77CC309A1215B4A4",
+    "bytes": 3896
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Eye0_D4_URP.mat.meta",
+    "sha256": "ED79CEF5E81F1D0A7FB8F2311700D518C3AE4375F0406EEC7C9456671B89A2FD",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Eye1_A4_URP.mat",
+    "sha256": "CDCC70AB97CB16C8FD67FD7EA62C79306BD4881F887116CFC7A72285180E2BC4",
+    "bytes": 3899
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Eye1_A4_URP.mat.meta",
+    "sha256": "85C0F25814B02A165EFBAADA0985EB076EA1CE4DBB5D398953CCCE98F7C98194",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Eye2_C7_URP.mat",
+    "sha256": "628E7D448B2998CFE6CDFE7EDA367B38C8D4CF3B71405B7B2201E9E805F48205",
+    "bytes": 3912
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Eye2_C7_URP.mat.meta",
+    "sha256": "E3D45E9B7AD219C5E8121E67C237D64AA3158DDE6296C1840C28CAA3F43AD8B1",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_EyeblowEyelLid_A4_URP.mat",
+    "sha256": "AA48869D918F4FA0ABC04D19BB41F2DC798EAA9020DA3EF735831312142132EA",
+    "bytes": 3901
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_EyeblowEyelLid_A4_URP.mat.meta",
+    "sha256": "8DDAE47CE07A68402B45A563D7A697E2916F994501A5AE984AA079ACF8072EA7",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_EyeblowEyelLid_C5_URP.mat",
+    "sha256": "1CE5E496D829B749539F230A0E68DCB1E0E6D3534834A7BFE0E0D7524A6EEB81",
+    "bytes": 3904
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_EyeblowEyelLid_C5_URP.mat.meta",
+    "sha256": "0B0C5CB27AAFB474B3B7E07B6CC13A34DF2E5FAB8515DE1F540B842A2B01D9B5",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_EyeblowEyelLid_C6_URP.mat",
+    "sha256": "EE84E04E907F530FAD5ED3EE74C5EB5EEC9E17FD830575469B09916497BB5C60",
+    "bytes": 3924
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_EyeblowEyelLid_C6_URP.mat.meta",
+    "sha256": "6E6D55FD75EDE5EE4BAE4CF8E895D4AADD273946438C7FDA70C3D2180C933D4C",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_EyeblowEyelLid_C7_URP.mat",
+    "sha256": "4568520AEF4945051DC9B655674DEB962E448A75B881BB2CD261946B37E6C9A8",
+    "bytes": 3924
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_EyeblowEyelLid_C7_URP.mat.meta",
+    "sha256": "FD290CA5FCA6DF56408CAD841B4FFD740A712AF19F481C9243DC2C46E145F5A8",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_EyeLightMat0_0 NoLine_URP.mat",
+    "sha256": "67907E013CFBC286AB66DA168EB0928560DD0E88C04E3624BE088CEE7B6E7811",
+    "bytes": 3876
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_EyeLightMat0_0 NoLine_URP.mat.meta",
+    "sha256": "E7DDE83C54067B576D0060AB90096BF4A736A166867EFF22EE36253DF7BB332B",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_EyeLightMat0_1 MintLine_URP.mat",
+    "sha256": "C8C5BC07F5EB83001F8560C21F00BB609B32202DF4E0074B33B4D3D1A1EFCA6E",
+    "bytes": 3878
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_EyeLightMat0_1 MintLine_URP.mat.meta",
+    "sha256": "F7D0ACC38C85F89D1F9C240803F436D505D22F67324D7019BD0B7AACC310EAE9",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_EyeLightMat0_2 PastelRedLine_URP.mat",
+    "sha256": "18670652363CBE44E090B1C14FA7778845D32E81C2D293006A03EB7E5D22FA40",
+    "bytes": 3884
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_EyeLightMat0_2 PastelRedLine_URP.mat.meta",
+    "sha256": "B6B4288D35CA4E9E7B834D9CF21B8953003F83F6E3B0B685B419D3C5122C4950",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_FaceSkin1_v1_99_FCE1BB_default_URP.mat",
+    "sha256": "4E1D91D76A0574FC1D44AA6947F0B554C0CDA249D699CA331C6A5B60A68DC13E",
+    "bytes": 3935
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_FaceSkin1_v1_99_FCE1BB_default_URP.mat.meta",
+    "sha256": "5686AA778B60539D80F77E483B6F35A2BF0CE9B505DEFAC6368B3741C6172BF7",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_FaceSub_EyeBallEyeLightOral1_v1_URP.mat",
+    "sha256": "49F765D8AA100E1701592E8689AE3FDFFB0237F6E8A66A9C70DA241026EA54C3",
+    "bytes": 3886
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_FaceSub_EyeBallEyeLightOral1_v1_URP.mat.meta",
+    "sha256": "A1DA60C00F5507650324802C5D3291E6DBEA1C9AF76919AA645A671932621F70",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Hair0_C5_URP.mat",
+    "sha256": "962D99811E99A29C8E29A90D5406873B466672D76B19275C9AD237949A56E205",
+    "bytes": 3895
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Hair0_C5_URP.mat.meta",
+    "sha256": "221F90C2AD6A65F3FC03413B32699FF8C30BF64BE9D9427214D547FE1492532B",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Hair0_subA_subB_353535_URP.mat",
+    "sha256": "7CCC6ACE67D6C4D24E55FD27BAAC86B597DF523719023021D3037DC402B739C9",
+    "bytes": 3932
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Hair0_subA_subB_353535_URP.mat.meta",
+    "sha256": "D1B383709C38C6B5E02275FC89E3FADCE1684B2FC3D6E751C8F25CB1B597A6EE",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Hair0_subA_subB_FF7936_URP.mat",
+    "sha256": "856F0A55C6745C4BFC72D7785023F6D23575437377F7637D0C569082501AC172",
+    "bytes": 3913
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Hair0_subA_subB_FF7936_URP.mat.meta",
+    "sha256": "FBC0C2EE30C3E081C7BECFDA5560158A1B84495E6B09E96904C441CD1EB58735",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Hair1_A4_URP.mat",
+    "sha256": "666DF3ABB1F16A7ED4C7B4ECB117C5FFD664147E058997E78B3E5D22D89B88E3",
+    "bytes": 3892
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Hair1_A4_URP.mat.meta",
+    "sha256": "662B0BCB30C2B47DE855A800558BE0677AEF722F74E77DCB2DE10ADA35B4AE6C",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Hair2_C7_URP.mat",
+    "sha256": "B54AFEF4CF18101FE0EB3C104484C35749E3B030325CB2F881B5EFD17BCF96AB",
+    "bytes": 3914
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Hair2_C7_URP.mat.meta",
+    "sha256": "54DCA96F295FEA3F70359194AA79EA3A4066FCF38CC35F845B9E2973475977AE",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Weapons/Flash_URP.mat",
+    "sha256": "4ADC87AF2A19DE004D075EF1CDA05D9857C4AA79A7F3A3F1E7E5B2E1A3957A93",
+    "bytes": 3734
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Weapons/Flash_URP.mat.meta",
+    "sha256": "47E948FC82FFFAE0C0C3BD1D46CC675A9EA823AB541826B6035E86E50DA78F4C",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Weapons/FN_Five_Seven.prefab",
+    "sha256": "21D2532ABEC41BAAD6B6964237A7C2B500B6AD3D07AC1F2A511732D04ECA6548",
+    "bytes": 11959
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Weapons/FN_Five_Seven.prefab.meta",
+    "sha256": "853F67F3790F32FE57690D289E74F1B6764B1DA95D59CD3F2FF0AD9AD8397A3D",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Weapons/Gun_URP.mat",
+    "sha256": "1678D160E8E8093DADCEDE964126264A61CA34DBCA65BE84EE6DFB214063D2BB",
+    "bytes": 3826
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Weapons/Gun_URP.mat.meta",
+    "sha256": "2F1EA0F5C75C132F5908676373BFE276C8458BD59E98CE347179AE21B78A3F3C",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Weapons/SM_Ak47.prefab",
+    "sha256": "2CAACBA88DE88EED524C543073AAA9208EB7AA528F6994FEC81C0BB84A0EF109",
+    "bytes": 12892
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Weapons/SM_Ak47.prefab.meta",
+    "sha256": "0617D706B0C0B841789451C717E43C7DA38AB3061EABF77DF844F5F32EA23212",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Weapons/SM_Barrett_M82A1.prefab",
+    "sha256": "1CF5DE8C804179DC40EBA9977543DC8CA3FA442028A65FF45594DF66E153597A",
+    "bytes": 12914
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Weapons/SM_Barrett_M82A1.prefab.meta",
+    "sha256": "A83911E2D387C6DCC3F64DD6BE473E6107B46523204F08D9D16510624902CF71",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Weapons/SM_HK_MP5.prefab",
+    "sha256": "5169FBD1FDF36C055DF323F0AF97484366568BCC3CB49E39827CF4416C35082E",
+    "bytes": 12897
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Weapons/SM_HK_MP5.prefab.meta",
+    "sha256": "35B5A9D7EC083F6C1A4BE297D16FCC4201647A29FDD2442688C077246A4B0152",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Weapons/SM_M16A1.prefab",
+    "sha256": "1CB5FB45493316B5BBACBA5EA510767713BD03C95701BB4F5AE302588BC058DE",
+    "bytes": 13004
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Weapons/SM_M16A1.prefab.meta",
+    "sha256": "F43F7B76114B1782E8EF7D067E41A8F7D13843E1A843EED0C56E3B701DEC87D7",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Atmosphere.meta",
+    "sha256": "3885FDE0DA20372659735D540674FAD5D58E41B29E1493596D506AA925C1E4BF",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials.meta",
+    "sha256": "E9DFE006FD0964FEAFB6D63822FCA4EB059BA87382FA576B3ABFECEE5D04F247",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/StageA_TestArea.prefab",
+    "sha256": "21AB2C3B1DBEAEF6D2220E7F02ED9904FA4F849C2D5DEA6E751370A1AF1C9D67",
+    "bytes": 2210060
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/StageA_TestArea.prefab.meta",
+    "sha256": "28960ABF175234FC6B7ADCBDB30232A4ECFB502F1C0C328257ABAE7E82E2E6F4",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Textures.meta",
+    "sha256": "AEEB6FE1F2A79539E82700221D06374750AAA018BFD7F9D2B12FDEE2623C8711",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Atmosphere/Drizzle.mat",
+    "sha256": "31D1672BFCD4AE4E598FC85DEA0C9A6C699DDF04A11FBFBC609342E1FF012CE9",
+    "bytes": 2534
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Atmosphere/Drizzle.mat.meta",
+    "sha256": "E4DE1C87FFA250F8FF16C0B2C89B703173E8B931AE7E7CADAAA23E230BE38A9C",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/Concrete.mat",
+    "sha256": "602B8DEB945D8C526163B2450ECFDF7F92514786A05C00573A84B4851A4FF34F",
+    "bytes": 4626
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/Concrete.mat.meta",
+    "sha256": "DF9B4AE4DC3C4EF5E6263D8EE62FD6314708856596DB00197A0806331033B854",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/DarkStone.mat",
+    "sha256": "92140F2A35A7840498F092D4DA796AA62DE8FE41F093BFB43158622575B555E3",
+    "bytes": 4443
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/DarkStone.mat.meta",
+    "sha256": "26BF279D406AEDB4DCD99DD6F6B8090C91AFEEEE07CE349F72F0460B78B1F55F",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/Fabric.mat",
+    "sha256": "2BDD8511CCE60B719BAD235DAA0C014D4DCB1122A345038C7BFD4A6142FCAF0A",
+    "bytes": 4151
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/Fabric.mat.meta",
+    "sha256": "A8D44CB7941DC2456F920AC53C1C2873881E6724E21843D882B1F7C949B80BED",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/FlowerWhite.mat",
+    "sha256": "ACA5B9EB0CA4827AB1B07694E901FE84ACA42B6DE05B773D260B674EBFB906F3",
+    "bytes": 4142
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/FlowerWhite.mat.meta",
+    "sha256": "2F97A83BA7CA19C39C39D1F94F14B8489760A7A5177B812DA6D69E875E8D5E44",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/FlowerYellow.mat",
+    "sha256": "16824F5044529D810AA285DBC984FDD1BC5331F26CB81F88A73F10CA9A0809FD",
+    "bytes": 4151
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/FlowerYellow.mat.meta",
+    "sha256": "E7EAC401D3604648F38915F8B140EFD9CD9D21CC0DAE40A352C01509D4BFE376",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/GrassDark.mat",
+    "sha256": "DCF288876E12A985F921E6CDBFAA77973DFF041C97B512EA1B9E1E91F9DF4186",
+    "bytes": 4158
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/GrassDark.mat.meta",
+    "sha256": "8EDBD0BED468770D1161E1B3BEAD41295F5B3F337818F38249DA92E82503EF5C",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/GrassLight.mat",
+    "sha256": "F0861064C1FB259243C729D25817C30CAA9C7AC64A5F676C59926E6C2A03B2EF",
+    "bytes": 4160
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/GrassLight.mat.meta",
+    "sha256": "67B57C69CA2CC0D33E86412DB191FE1942747D7141473C9758038E99394DB1AB",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/Ground.mat",
+    "sha256": "BC1890BB56EE628B2A3722B6494214F7E24C15546848B13AB55A96ABFE675E2D",
+    "bytes": 4624
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/Ground.mat.meta",
+    "sha256": "703779ABAF0462BCF788CB6037E3D475D2DE14B50DE1AA4ED9103122D6BD3BD5",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/Lamp.mat",
+    "sha256": "36C6D5EBE2E58C4CC2233DE4635EE10A336E09B939574FF7B4191DFDC12A0878",
+    "bytes": 3976
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/Lamp.mat.meta",
+    "sha256": "A90FC757F3223C3C2620A8E2364116A401D804BF9D97D6527B7CC0FE6BFAA06B",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/Marker.mat",
+    "sha256": "5D5935EF53FF076EAC8EAC1D5A424BFFF3845398AA78732E5FFC7978205BA83F",
+    "bytes": 4157
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/Marker.mat.meta",
+    "sha256": "B2F1E0C0A66F38BC0D2422FAF11387BD9A839D9D4FF05F146E38A26A627770A2",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/Metal.mat",
+    "sha256": "C68837391F6A8E5C6D417C74D04C02B722836BC905873CE0D9982B59B5AB3FD4",
+    "bytes": 4158
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/Metal.mat.meta",
+    "sha256": "0928BBAE8A45926617A67C4DECC5A1790672E6403683AFC26EE129B31364A812",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/Military.mat",
+    "sha256": "527D04C37079AB2360E8D3A93F32EB6699F42B34AD796A1C8D053F034B8B3F79",
+    "bytes": 4158
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/Military.mat.meta",
+    "sha256": "26358004F1381E7B045EA2AF56B6DFCD7636F9F46D7022EC43877BE842A941E0",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/Rust.mat",
+    "sha256": "8830DB94F3DFEC9A00CF164354C3A55D77273A83C51519201C356C05D02B0588",
+    "bytes": 4156
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/Rust.mat.meta",
+    "sha256": "22233D50BE72485A797ED4628725F33FF53AD35D41AB8CFA231E73C8E10C11A7",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/WetGround.mat",
+    "sha256": "B2A238D28A72B0CEDD7C70CA12C35E14FEEC3F1222AA606D643496533EDCA9AD",
+    "bytes": 4448
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Materials/WetGround.mat.meta",
+    "sha256": "33E82084E66172C3495B79196B592A5C64A41A435C45080D8575EB3D9CF92C0D",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Textures/GroundNormal.png",
+    "sha256": "8AEF423552B69B5BF93388F447A562150DD2F5EFB7E12222ECDAA87433505669",
+    "bytes": 8618
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Textures/GroundNormal.png.meta",
+    "sha256": "57A8CD4100C89F03A0138367790B1B977DF31CC0DEDDAA253A1F773188082274",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Textures/GroundSurface.png",
+    "sha256": "B087223AB5CA8CCA8BA3B149C8670637DAE459D4DAF8CE0BA96618342426BBBD",
+    "bytes": 27310
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Textures/GroundSurface.png.meta",
+    "sha256": "8A76E4CCC7E8949B03CB245BCABA91E3D0C8586EDBE3821ED670DFC149F0904F",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Textures/StoneNormal.png",
+    "sha256": "0BA881A9C6A7D9A9B2C7FB4E025FDF46E41289CFCE96C09BA966C22CA5D46001",
+    "bytes": 18258
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Textures/StoneNormal.png.meta",
+    "sha256": "116561FDB83BE1DA9F2819C03FC3731E0067392CCCE974B6A4A028B889DB2A9A",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Textures/StoneSurface.png",
+    "sha256": "421BBD72ED61F1F5192C2AE72F3E3DCF332009934C272D47388F2582E9F40AA2",
+    "bytes": 22556
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Textures/StoneSurface.png.meta",
+    "sha256": "B9D3E2AC6E0058C29BBA903E87FF9F24DB08A90211E30FD85BC6FF8A9FAF230F",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Textures/WetGroundSurface.png",
+    "sha256": "6F27EC71A58E56C6D64B445AF1029C19274A99699A487329179AD2A88E6465FC",
+    "bytes": 28366
+  },
+  {
+    "path": "Assets/Escape/Resources/StageAArt/Textures/WetGroundSurface.png.meta",
+    "sha256": "2EE71DD2872B520B0D5982857BD7924BBBF85C22AB21B950CFF467462A1C9CEC",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08.meta",
+    "sha256": "40DE8D337BC616F74B1167934EFCA560A15012158D097D2E82ECC5A1F1691793",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated.meta",
+    "sha256": "2D02DD6E3BCB275D4B4BBB004120BD030E25DBBE3039B532C4FD14B5B97FA17E",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/StageA_Blockout.prefab",
+    "sha256": "F367CCB92AEB3B84094A67EAD1A588596B807FB0250E9E6FCB260166A78DD26A",
+    "bytes": 2293888
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/StageA_Blockout.prefab.meta",
+    "sha256": "8C5300345DDC9A4CCF9118D84738F3A3DA5C0AFB535E5A630392854DE537E931",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab",
+    "sha256": "863CD11793220D3F0F0ED81DD67E263F7237DB6FA34BB73B3224F219BF2D1180",
+    "bytes": 10933878
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab.meta",
+    "sha256": "15C2C87C133385B0DFFA5B30299480472AEE49A48D95287C18439859ACCE185D",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/StageB_Legacy.prefab",
+    "sha256": "C47723C1185BC7607DB8F510D313E3A1372B882769DC03BAE3E67CFAB609FBF5",
+    "bytes": 25413
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/StageB_Legacy.prefab.meta",
+    "sha256": "EDE38E4CDD8B657467405B1F87588351B636F1C6EE05BF45E23A4EAC2CD1F998",
+    "bytes": 154
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_0.asset",
+    "sha256": "731307914F4FE4516B8D07EABF15B8CC5DF31E8A75620DF7256F356AB70401DB",
+    "bytes": 3373
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_0.asset.meta",
+    "sha256": "162CEA827834EAC4CB4CA302F9293058DEF81E56F144B20C58453A452DEB5F82",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_1.asset",
+    "sha256": "02128C10FF33F40921371079883C1DC02935A7E6E5DA15A077000B399CF81901",
+    "bytes": 3375
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_1.asset.meta",
+    "sha256": "0EBF6455E4CD749DF088BA2C2D793F8B4F80262C50A041E832A70AB5DAA570DC",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_10.asset",
+    "sha256": "BCE42CAD46C98A70442524F9F95A0668A7BB07BB6C4FE9722672DB3D5BF312A6",
+    "bytes": 3361
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_10.asset.meta",
+    "sha256": "385D03FBFB745F47BB2BE7C6FB820D7CE0B6E1180E25BEADA38730E9FE330702",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_11.asset",
+    "sha256": "36E939F08B1B123EE15B0DD2192E458D1B2926E8BC13F6CAFB294C2027E85181",
+    "bytes": 3374
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_11.asset.meta",
+    "sha256": "F8FEF982C968EEA5E4EF5FF28448A011308824CDCCD57DC9D4DBD572EABF7F9C",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_12.asset",
+    "sha256": "A76BB7CE646730511E655A8685DD37331AF1474A292CB87BDB9CB61A720AEDF5",
+    "bytes": 3375
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_12.asset.meta",
+    "sha256": "B746F85E872E2BC50E979059BF2EDFA5462E511B95EA995FA139F37E7894C792",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_13.asset",
+    "sha256": "66B01B939C30607B9833FD5D07519B52CD8753C5D6C60B24D8EC08E94B006F5A",
+    "bytes": 3375
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_13.asset.meta",
+    "sha256": "C6521EAD4BC2E3BB0E69CA9A0BF7ABD1029B547C51D64B78A657BB2F52C8B321",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_14.asset",
+    "sha256": "E22156E2791A6D64B9224EC90B2158770B3C06E53597BD1672074BFCDFBE7B57",
+    "bytes": 3363
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_14.asset.meta",
+    "sha256": "9FA2DB2A8BF7C8AF83088E402F1E43325535DC8DC51988339B0C0BE8B363288D",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_15.asset",
+    "sha256": "3C1AF06967DD7F08E152DBB18B7E3864302E0306875B7373A427CA1ED3B216BF",
+    "bytes": 3369
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_15.asset.meta",
+    "sha256": "50EAAEF7C2DFBF54245F1DC6A2686CB7609029436E70E7AEF10E0514392E378E",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_16.asset",
+    "sha256": "F596132056F9A83D1F5820183B54E1DCB4F78D4DB9FEF0F04915EC97595EBB78",
+    "bytes": 3375
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_16.asset.meta",
+    "sha256": "D04F195E1F2D9727F3F261DC0EB41CCB38A0B9AD5C03CF42702E986DB569A805",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_17.asset",
+    "sha256": "A97956D1D0F6BD0D7E9ED464F2BD13152974E676A1BBC830173B0D818F957B03",
+    "bytes": 3375
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_17.asset.meta",
+    "sha256": "F5BA5B76988179EC38E5C81C2D3AD26D2427071B82956D8EF8431859242B066A",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_18.asset",
+    "sha256": "2CBE9859E8B4E1A5B39C4B9D6DF3CE36DF3D49C1ACC3C1057CAF47CAB3B3907D",
+    "bytes": 3375
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_18.asset.meta",
+    "sha256": "320B2188D6D2BD4A816249CACA49E06C78CE7195D3E9B272780E866DF6A39878",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_19.asset",
+    "sha256": "E0FDB4889FD1C810DE503E202384AE752F14AC93B16525A2C1573193F8026B35",
+    "bytes": 3374
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_19.asset.meta",
+    "sha256": "A0E357ED237D069C80E3AC78A8C26C5A2309565DEAAF52B50D83A92993CC507C",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_2.asset",
+    "sha256": "3E6BBE1BF6F7E803904455EB189F158B2DE9965EB5105053D0549DB7C86D0017",
+    "bytes": 3374
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_2.asset.meta",
+    "sha256": "53AE2BFAF34A23719DDB275264BA5564265F1E2EE7CB0972661A70CDAAB49AC6",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_20.asset",
+    "sha256": "912C1E27CE08A989486E3D0482264049E78549C4F2E447177371AB22A519CB7A",
+    "bytes": 3375
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_20.asset.meta",
+    "sha256": "4FD2C68B2FD33C872A5E52DCF927D48F1E5EB4E92265B62892D06BE7C2C5C4AD",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_21.asset",
+    "sha256": "F5241ABF66365D916934E829DEEB1BD61D40B085A2CE242068386F0058AB02BE",
+    "bytes": 3375
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_21.asset.meta",
+    "sha256": "1129FCCA756831D8C27326470C787A377A0C0285CE1384FCA7BA8EC15E2F4765",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_22.asset",
+    "sha256": "3DAD607B72C03AD98526E4833D3DF8B56903D4A55D389E5D523993EE77619CFC",
+    "bytes": 3375
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_22.asset.meta",
+    "sha256": "0F738A8FF8D8CF80A2EE1EF6A55274EFEEDF92B521544203E9CCBF71088B68F9",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_23.asset",
+    "sha256": "5695BEAFC838604C37032BBF9A120560AC7E6C3396A8B5E1EC6E7E2278D12E64",
+    "bytes": 3374
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_23.asset.meta",
+    "sha256": "59A451B50DF08986C7F6BB73B313F09BDFAAF11F88788AC68D1D228910B7D4EC",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_24.asset",
+    "sha256": "E1698FD13D9332670BAAC396954CD071B3D836E92B25C770887BEAA180ECE02B",
+    "bytes": 3375
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_24.asset.meta",
+    "sha256": "D6E8765CF30A7808E5DE77D3E58416CD0B14E483A276CAC6DF59C84F55FE391C",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_25.asset",
+    "sha256": "3F66B3A94525BE43947A7E8451015F3E4501B8AF8F2DF2E42DB85CB9C1AAFE3A",
+    "bytes": 3375
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_25.asset.meta",
+    "sha256": "5A0EAA62DC90D5B468A6C25048199D2820F6F91A1F47F8825B2D2F37F4373FCE",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_26.asset",
+    "sha256": "DD7294ACC92A6234549DA28BD17C4ACF61888A80350231A9894516CDE5B6E2EC",
+    "bytes": 3375
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_26.asset.meta",
+    "sha256": "62A4223D92CB837D334135A2B6D898E1155215160ACAE54747025624EEBE022C",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_27.asset",
+    "sha256": "200EDFF1841BE3C656C553E89F2CAC33B624EC19C344A769A2DB863C92BAC170",
+    "bytes": 3374
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_27.asset.meta",
+    "sha256": "E8C2DE4E2E74E151C71E9F9228A28030C2E5FA6C9AC3E5E95EEF86937F2AACEA",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_28.asset",
+    "sha256": "6C82471B09183E0F125291C40CC2A30F24EBC414FCF59B2E767E8AD6168FEEF0",
+    "bytes": 3375
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_28.asset.meta",
+    "sha256": "E6FCC96C7A41D08F03F51EDA16AB4D8BBB152FBDC303B9A59BE42A7CAFC13DB1",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_29.asset",
+    "sha256": "3505FC70BB7DBC602F3566A7EC49FA1DE3165FF3AE89FA49D115911CF83D43E3",
+    "bytes": 3375
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_29.asset.meta",
+    "sha256": "6B68F01427899567F94503C4377628113524AD2C9F79300D9932D44AD6EB2484",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_3.asset",
+    "sha256": "40BA523528CE8F8C3F50A53F672654EFF4E5CB05995385B48B138F5FD9DAD207",
+    "bytes": 3374
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_3.asset.meta",
+    "sha256": "3C17D580244BA33F9E948E7C13BDC287956C5E3423F0BAB755167C237FA3B3F1",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_30.asset",
+    "sha256": "9B4F7B6F492E05A9C37A13DF006B4A583CC26ACA85BE0E945B999CBCBC148EFB",
+    "bytes": 3361
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_30.asset.meta",
+    "sha256": "940A39684ABD795DE3101AA1B527126B0846CA3770C9FD44C5FC8C0EF3401DF5",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_31.asset",
+    "sha256": "5A84B2B6C18F3D09C7A858F99300887E6DE9B823230FC65FAE190DC6C9C0204A",
+    "bytes": 3369
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_31.asset.meta",
+    "sha256": "93D74C408383703BE2BA988875CB8C1C68E105D46F0F268BA55FB95FE546C812",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_32.asset",
+    "sha256": "2994F7BC7DACDAA85507393B8739878D2CAC084405A162E6BBE46F957204F419",
+    "bytes": 3363
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_32.asset.meta",
+    "sha256": "44E47A4C11059CF26943D0BEB63C1ABB980D1F1FD8D4F2E940D6019803CAF6AE",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_33.asset",
+    "sha256": "BF6B8A9B0EA71CEA3001596E78E00F9C9F32AAC3EEC295BD5322A286F321C2D7",
+    "bytes": 3368
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_33.asset.meta",
+    "sha256": "F14DF0AF62EAE1831A0701CA801CDFFA7F53AE85980092BC2A21F246AB4B118B",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_4.asset",
+    "sha256": "51E67D9666C6CEE418BEA892BF1C9C4F6CBAD27FD72F01C24D0B5DE7B4C26E97",
+    "bytes": 3373
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_4.asset.meta",
+    "sha256": "2270D1FEA812505681A4811489B8E3AB28B447B72BCD5C79E9DDE801E0677F61",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_5.asset",
+    "sha256": "2FBC93F3AE24440657546605AB6E2CFA95EA0FED00685A3B08BEEAE3FA44B770",
+    "bytes": 3374
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_5.asset.meta",
+    "sha256": "64610187195078377D68205A393ED8354C95E3F13C557279E905B4E6F09DECE3",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_6.asset",
+    "sha256": "39F04FD839303C1DF924BD619E9C8166E5D1C6CC8508B1E07B974CA33A34330C",
+    "bytes": 3374
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_6.asset.meta",
+    "sha256": "0DD703904D6251A76CE5EED98249F4E592AD9A7BF5C1AEC47028BDF795F0EE75",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_7.asset",
+    "sha256": "5D1F1AEBF4746915F7254D1DC97AD32ECC6BCBD4C0415B5E221BAFB44E07675F",
+    "bytes": 3374
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_7.asset.meta",
+    "sha256": "672101EC35DF3863B09487B804BFD2392EC4CB1931ECBC374702F8F0472EC706",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_8.asset",
+    "sha256": "E83CC7517EFEA1AF7754D5C022D331B9702F61972A001753B36F42A275B34C0B",
+    "bytes": 3374
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_8.asset.meta",
+    "sha256": "9A595CE80AA467A544D51C1B8D04916737E9DDAFA0F6358E3150F3B31FB8EA3F",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_9.asset",
+    "sha256": "2A8ACB26E3C6750939979BB7E1043458FB34F0199410604C4AE18E3D5DE989DD",
+    "bytes": 3374
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated/A_9.asset.meta",
+    "sha256": "9E3C8059A79241756E04AB74C7FC4BB435F109CA40C2D5848B35FEC65BE3E4A4",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Boundary.mat",
+    "sha256": "CE43CDB16C57E8CFBE1A97BED6AF48896C61C85B4756F1391B4C9A8CC9525C15",
+    "bytes": 3764
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Boundary.mat.meta",
+    "sha256": "FF9444553DD7434BB283C10CBC8F565CD2ABA82288410369EB974B4321ACCC9D",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Bridge.mat",
+    "sha256": "CA35E98C6B71555628B8A2DEA1694A4A4E50A3D2933A44AF0E8AF785F563706C",
+    "bytes": 3761
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Bridge.mat.meta",
+    "sha256": "473E74FC6662F12E56D309CC7CD7E67320C1B2E8DE18818C750EAC02F47C4EE2",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Building.mat",
+    "sha256": "D537AF0E7C4A49EA33FE1C5BDAD01089F34379613808B6251018FC74C914CDD1",
+    "bytes": 3758
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Building.mat.meta",
+    "sha256": "0CDDBFB4D9429B14C452BA97B726F5E8056233141C7C2C91B4E383034BCB40A8",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_ChannelBed.mat",
+    "sha256": "98D7E9D05C38FD6AE7454DC30FF29040A5D11EFB78A67533F67102DE003D6EEE",
+    "bytes": 3766
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_ChannelBed.mat.meta",
+    "sha256": "238BF68FC5A0299519673B2B30C83A863F6F612A4635FCCE3BA43B1F5CC0FDC6",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Ground.mat",
+    "sha256": "39C897E1139F226E42CA8364959239EE0247BA89035D4B129620E6F2E0B56B17",
+    "bytes": 3761
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Ground.mat.meta",
+    "sha256": "F4AA793741B787C145C100AB5BBFB44096739D4BD829692E3914DB5678501506",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Interior.mat",
+    "sha256": "9F11AA6718E275F71CDDF67CE6FBECA2E2E40F6E1C0FEA1254494DFF33B2AD31",
+    "bytes": 3763
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Interior.mat.meta",
+    "sha256": "01A3B6BB4FDE7E85B96413013DD921E475D0CF135D2E69D665B8ECEAE592CD0C",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerBasic.mat",
+    "sha256": "FD52786A9E1151AC138DF61F78BCE6586BA53E3EC3235E0937E86BA0A048EA0A",
+    "bytes": 3761
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerBasic.mat.meta",
+    "sha256": "BC4F2AF36442780AD42C5D3F0DA763ED7C55CE84B6730D3D8CCF2E88F467418F",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerDoor.mat",
+    "sha256": "BFC46A0264C2F036F5A5FD8975861AEFC6E4E6AB87CD7C7D90C06600B9F60B6A",
+    "bytes": 3753
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerDoor.mat.meta",
+    "sha256": "0E8D32B3F4ABAAC0B1A27B28B46EDA9D30EE0C39D66556DBA8F9681225138890",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerExit.mat",
+    "sha256": "D136E2D2E86FA0F0C041F59DD03897C25BC1A3FCD1B605C4A6D97EF93E946CD9",
+    "bytes": 3758
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerExit.mat.meta",
+    "sha256": "6B1ED98637A98CDAD8D1CA98278B6898D6FDF99345D903C3046E7DB0F0DBC41D",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerGate.mat",
+    "sha256": "8C32B2E0DE59EAF249F1BC3991DEDF85DC3E4CC5D02A1B0E96831FF9C58E0447",
+    "bytes": 3753
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerGate.mat.meta",
+    "sha256": "273333AE85AAAE4641DA0308317C8AAF4DE1BE9CE76906B2B0C07A995FD6E60C",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerRelay.mat",
+    "sha256": "BF91F07F716156A7E8F675B2B39A69FC0F22D5F60D69B430DA5B470D816ACF6A",
+    "bytes": 3754
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerRelay.mat.meta",
+    "sha256": "583BE9D3F3DB153C69882C4CC294F9C5DEE82401BF4438F0C203B5E043AE1AA5",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerRisk.mat",
+    "sha256": "6D74329E204E23E2A4C0EF75E783976FD48D4860A3772D76D63706920C2D4F12",
+    "bytes": 3759
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerRisk.mat.meta",
+    "sha256": "5065453ED3B1F5B08F04B61ECB6B1B3DF3EDBFB6416AF0836360FC416A17623D",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Metal.mat",
+    "sha256": "D20B6108B98BCCEF9F8628992B8A17A545D3A20098491C49F1D1AA0F251FB0CC",
+    "bytes": 3760
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Metal.mat.meta",
+    "sha256": "6C32856CC557163CE2CE3C434275D8F152B0F3DC8AFC394D5702BEE3DB3BD60B",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Roof.mat",
+    "sha256": "3B5B88560DAC59EB95ED3499CE56AA0490935EBEBD61E56DFC8F893F2CD04439",
+    "bytes": 3760
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Roof.mat.meta",
+    "sha256": "BD94924A0178E6B24A7D2F10800FD233BDA9B41F757009933C9CC2BB135391CB",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Route.mat",
+    "sha256": "DC3862C6CEDC08F4C9AEEDC4CC896C24F06D58C160EF49A443A6EC83F69D0357",
+    "bytes": 3760
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Route.mat.meta",
+    "sha256": "F698CE3B69CD2704477D9D64437E1BBBCAE8DF11AEB554D881CCCFF5AD0B6474",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Upper.mat",
+    "sha256": "FA5AA19AEEFC284822DCBCFDE786501D53B5A21CD9A3A50CF88B687B549956FA",
+    "bytes": 3755
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Upper.mat.meta",
+    "sha256": "D644F68A510A4C1AD5D5EEC9F697BDC204095CC4DE08A71CAA013FBBCEAEB8A7",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Water.mat",
+    "sha256": "92A34F220B65861C58BCAAF6B49E69F484BDA0DBB1CF0DC641FA41191566199F",
+    "bytes": 3760
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Water.mat.meta",
+    "sha256": "7A2A183D058F0F5B820C0BE7ABAE0D2316EA2194BB2E5C3F8C847DCA441EBBEB",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/Toon/HybridReference.mat",
+    "sha256": "4A82A30C58C575869368DD6387BA581C61086E617A6CFC276F577E7AE14B76D1",
+    "bytes": 2403
+  },
+  {
+    "path": "Assets/Escape/Resources/Toon/HybridReference.mat.meta",
+    "sha256": "EB4EF13EB622D3C619E4C709DFB2D399277C06DFEA581639F21955356D4D8BD1",
+    "bytes": 188
+  },
+  {
+    "path": "Assets/Escape/Resources/UI/HudIcons.meta",
+    "sha256": "658D0BD339F6240E3DB34683410F5275FD0BF927715A1E03970E8D9CE74B2BA0",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Resources/UI/HudIcons/ExtractionHudAtlas.png",
+    "sha256": "55DE8EB62FF58EC352B715CFDC804D75B6F25FE3E9232389820E8157F8B0D367",
+    "bytes": 1005846
+  },
+  {
+    "path": "Assets/Escape/Resources/UI/HudIcons/ExtractionHudAtlas.png.meta",
+    "sha256": "2588534A7F6002A0391C88E07D0C4D8163FD5B67E8B417B8348619F16F09B7C1",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/UI/HudIcons/WeaponHudAtlas.png",
+    "sha256": "B4F39307ADF5DF70029B47E9DDD00854CE800368FF094A1860554EDB367E71EB",
+    "bytes": 509788
+  },
+  {
+    "path": "Assets/Escape/Resources/UI/HudIcons/WeaponHudAtlas.png.meta",
+    "sha256": "39EDA491C409ADE9DCB1F1737682220243C11E840E0E312E2EBB50AB5FF8990F",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/AR_001.png",
+    "sha256": "71ECE37926279141E9D3ACEE68479BF984FE3906F82665A7629F5CBD21BD6C93",
+    "bytes": 21600
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/AR_001.png.meta",
+    "sha256": "9A5028BB8D5556D3931819EF2EA931404792313F3C0EA7897A8C71D0B174695E",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/AR_002.png",
+    "sha256": "06458CE73BEFC24EDE1B79D1002C448819785EEB86E18A8B6B4EA71D9C9E6080",
+    "bytes": 18621
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/AR_002.png.meta",
+    "sha256": "6DF006102F950F870BAFAEF5A942798A46F464A9F22D924A1170DA5983E3DDDA",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/AR_003.png",
+    "sha256": "298F620EEE00D31D6C19907AEE85197C91AE903B92B0AFFEBAA3C165492C3505",
+    "bytes": 20688
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/AR_003.png.meta",
+    "sha256": "C462C6805E1DCC3738EE307B44B639B120DE45AC05D82BE6ECC19FF10640FAD4",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/AR_004.png",
+    "sha256": "F64A291A4B59F48CDA76AD040B24333DDC8DDBFB1DE147DE4656F656D67FACFB",
+    "bytes": 21410
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/AR_004.png.meta",
+    "sha256": "E3A4BCD3A2D458E1B61186AEDDE94A690377737CFF85437E7DCDB8A1CE9C87D4",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/AR_011.png",
+    "sha256": "19F9763CB42AFA87F4EC533CFD9FF0899C99B6D95BDC1A00B406BCB685D1BCF9",
+    "bytes": 20203
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/AR_011.png.meta",
+    "sha256": "F2639BE3E6036B74B8BFA091825BB02FBB16833726C9D5B6CCE5C75F7F37B27F",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/AR_012.png",
+    "sha256": "401C2CE1340EE2E7A72035D600CF586E0469E13C28C5F691359A94B2483A34C1",
+    "bytes": 17781
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/AR_012.png.meta",
+    "sha256": "F5ED75D986CDDB5B87493B4F17777E57D3945C7A999BA34E77CBD076FC347DFC",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/AR_013.png",
+    "sha256": "298F620EEE00D31D6C19907AEE85197C91AE903B92B0AFFEBAA3C165492C3505",
+    "bytes": 20688
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/AR_013.png.meta",
+    "sha256": "9BB8E34AF305985BCA444C197A71DE19E26FD943745AE90A50323A48C225BB0A",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/P_001.png",
+    "sha256": "401C2CE1340EE2E7A72035D600CF586E0469E13C28C5F691359A94B2483A34C1",
+    "bytes": 17781
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/P_001.png.meta",
+    "sha256": "AB265F9C215CA2B3820F11BE68447185C2754D43FE9755B34F3A04C9F9947C85",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/P_002.png",
+    "sha256": "401C2CE1340EE2E7A72035D600CF586E0469E13C28C5F691359A94B2483A34C1",
+    "bytes": 17781
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/P_002.png.meta",
+    "sha256": "6276D2723155A21C07DBE0D86A0FA4CD1FC598409726D4557CF144314A105379",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/P_003.png",
+    "sha256": "401C2CE1340EE2E7A72035D600CF586E0469E13C28C5F691359A94B2483A34C1",
+    "bytes": 17781
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/P_003.png.meta",
+    "sha256": "77E10EE94E5163498B83AAE008EAE3DF0F40D74C0F45AA65F5CAB483152789AF",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/P_004.png",
+    "sha256": "401C2CE1340EE2E7A72035D600CF586E0469E13C28C5F691359A94B2483A34C1",
+    "bytes": 17781
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/P_004.png.meta",
+    "sha256": "220718AF9A92D9FA2F5F59A268F6E6A8C5E50E236B168D7C33EF256D21517002",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/P_011.png",
+    "sha256": "401C2CE1340EE2E7A72035D600CF586E0469E13C28C5F691359A94B2483A34C1",
+    "bytes": 17781
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/P_011.png.meta",
+    "sha256": "FC073FEEC4EAB4619F9236BF5427A4F5DBFB564AEE6C5C2C897787EC029C9856",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SG_001.png",
+    "sha256": "298F620EEE00D31D6C19907AEE85197C91AE903B92B0AFFEBAA3C165492C3505",
+    "bytes": 20688
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SG_001.png.meta",
+    "sha256": "9961013BE4B993FF1B6E3CB1107DB070283F50E3012262E3AC8993DC49A9F7D2",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SG_002.png",
+    "sha256": "298F620EEE00D31D6C19907AEE85197C91AE903B92B0AFFEBAA3C165492C3505",
+    "bytes": 20688
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SG_002.png.meta",
+    "sha256": "36118C2B349CDE811FF1F8E38D427EF7DFAC7724574A0BBE1D892986ED4F5466",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SG_003.png",
+    "sha256": "298F620EEE00D31D6C19907AEE85197C91AE903B92B0AFFEBAA3C165492C3505",
+    "bytes": 20688
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SG_003.png.meta",
+    "sha256": "F5C1FA8599BC0FC56585A95147FB1ECBA204BFAE311F8B873E4378CE4EB534DC",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SG_004.png",
+    "sha256": "298F620EEE00D31D6C19907AEE85197C91AE903B92B0AFFEBAA3C165492C3505",
+    "bytes": 20688
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SG_004.png.meta",
+    "sha256": "5AB8E77D13B2FF6A2C8373D69A7AD03BD355FD845B1AB6AD533E6703267EA9A4",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SG_011.png",
+    "sha256": "298F620EEE00D31D6C19907AEE85197C91AE903B92B0AFFEBAA3C165492C3505",
+    "bytes": 20688
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SG_011.png.meta",
+    "sha256": "08DBFDA7631254769132DB199D5EF52D1E27C71B6DF740D2F31B595FE3A7266D",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SG_012.png",
+    "sha256": "298F620EEE00D31D6C19907AEE85197C91AE903B92B0AFFEBAA3C165492C3505",
+    "bytes": 20688
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SG_012.png.meta",
+    "sha256": "D975236A9AFB1AD2E835CDC24E1CB1E3743E6F3585A5FE63237D149E2C1AA187",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SG_013.png",
+    "sha256": "298F620EEE00D31D6C19907AEE85197C91AE903B92B0AFFEBAA3C165492C3505",
+    "bytes": 20688
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SG_013.png.meta",
+    "sha256": "F9A39814B1CDC13517C9112A8FE61FD5975E1B10374A38F4E63C3B55CF19F4E0",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SR_001.png",
+    "sha256": "19F9763CB42AFA87F4EC533CFD9FF0899C99B6D95BDC1A00B406BCB685D1BCF9",
+    "bytes": 20203
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SR_001.png.meta",
+    "sha256": "7F25081759B29ED02F8107BB9F44444490F43749850A2D8873360AFCF90804B0",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SR_002.png",
+    "sha256": "19F9763CB42AFA87F4EC533CFD9FF0899C99B6D95BDC1A00B406BCB685D1BCF9",
+    "bytes": 20203
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SR_002.png.meta",
+    "sha256": "CCA5ACCA3618F81590D5B136D29F12AF18851DF52A8AF88A09432CF430CB1C85",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SR_003.png",
+    "sha256": "19F9763CB42AFA87F4EC533CFD9FF0899C99B6D95BDC1A00B406BCB685D1BCF9",
+    "bytes": 20203
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SR_003.png.meta",
+    "sha256": "39B05AD6842DD80377DA27E4ECCD554E29EAB2F951F7F0D85DF2543BDBF169FB",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SR_004.png",
+    "sha256": "19F9763CB42AFA87F4EC533CFD9FF0899C99B6D95BDC1A00B406BCB685D1BCF9",
+    "bytes": 20203
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SR_004.png.meta",
+    "sha256": "7CBA3416130F56E5ACC4609C536AEF9564994424644137B4789ADD3913CC259E",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SR_011.png",
+    "sha256": "19F9763CB42AFA87F4EC533CFD9FF0899C99B6D95BDC1A00B406BCB685D1BCF9",
+    "bytes": 20203
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SR_011.png.meta",
+    "sha256": "EE439941975B894F35AF59410B7FE507DFC11E179944891497BBA6FE5F966055",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SR_012.png",
+    "sha256": "19F9763CB42AFA87F4EC533CFD9FF0899C99B6D95BDC1A00B406BCB685D1BCF9",
+    "bytes": 20203
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SR_012.png.meta",
+    "sha256": "A6EDE1B039401A18D6A00498F729791048E36667BB34E624431D3BD373416DDE",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SR_013.png",
+    "sha256": "19F9763CB42AFA87F4EC533CFD9FF0899C99B6D95BDC1A00B406BCB685D1BCF9",
+    "bytes": 20203
+  },
+  {
+    "path": "Assets/Escape/Resources/WeaponThumbnails/SR_013.png.meta",
+    "sha256": "2ADEB18AF041055C6FBB8D92C202DA85B8FAA4F658D5DD47642622D93048E421",
+    "bytes": 3007
+  },
+  {
+    "path": "Assets/Escape/Runtime/Basecamp.meta",
+    "sha256": "3920004DC22D3E782613DB6B239144F586A3C5869D9D803501E1978D705362E5",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat.meta",
+    "sha256": "E53D1F51E86F7FF1F9F1199C00BF1B51C905F32995E830222D58A0A3234B2EC6",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/Core.meta",
+    "sha256": "75677135FB43F89F4DF82A24B11AF8286114776E727F8C0254BB84E68428613B",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/Enemy.meta",
+    "sha256": "71D20BE043456A7CF3DBA770BF3A131D17EC748973546F24226C1B73EA99286C",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/Equipment.meta",
+    "sha256": "F79C05399FA2B4F39ED3C31C264C5B3497BF3C7E53A5BF7BFD698D1787334D3B",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory.meta",
+    "sha256": "882C91865CC22813D9630FFC6CD0DEF2949271C8782BA48CD2B9D70D87447915",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/Loot.meta",
+    "sha256": "56E1DF14960CE71D09DD47B030EF86A697D5D9ADA26EFC85A9790D46E1048B81",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/PlayerDebugHud.cs",
+    "sha256": "D7C9ECA1A2ABD68DCA5494531ADF0CBF5A39D7684984DAE0D41C340B0F14D197",
+    "bytes": 3339
+  },
+  {
+    "path": "Assets/Escape/Runtime/PlayerDebugHud.cs.meta",
+    "sha256": "A8078FDBE22CD42715C7802DA0A9F889C287138C325290B5CF7894EA8694187A",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/PlayerMotor.cs",
+    "sha256": "9F3D4A08FF60AEB936ECB2BDBA24324CAD0E55AC2E39FFA8656BFE60A3723279",
+    "bytes": 8284
+  },
+  {
+    "path": "Assets/Escape/Runtime/PlayerMotor.cs.meta",
+    "sha256": "6C8E717F94F5D9A55621DB8D2C65BAA0B0FD3852FA60E5E0779AD1F18A28712E",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/PlayerSettings.cs",
+    "sha256": "7191221E422F7F01047A79D5EC0B0B8CE7D17DBAD9652C8722ADD058DEA5B9B9",
+    "bytes": 1257
+  },
+  {
+    "path": "Assets/Escape/Runtime/PlayerSettings.cs.meta",
+    "sha256": "3A5836CE329FADA2411C30F3A4C86ACF857D8B38749AF19CD4FD31AE06A5A529",
+    "bytes": 60
+  },
+  {
+    "path": "Assets/Escape/Runtime/PlayerTestWorld.cs",
+    "sha256": "927F1C95AEB57F42639E9047BC54581E3E98F5A13B5C19AA54ECAE707C7C7E88",
+    "bytes": 7133
+  },
+  {
+    "path": "Assets/Escape/Runtime/PlayerTestWorld.cs.meta",
+    "sha256": "E9855546BB62D72C60D988E7C718D292054FCCEA19B6E6741CAD4D4A6ED673BC",
+    "bytes": 60
+  },
+  {
+    "path": "Assets/Escape/Runtime/Save.meta",
+    "sha256": "D69365295D0E59F1214EF18E092B1C386141D7C7337418FFD5B1DF4A091EDF76",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdArmorLibrary.cs",
+    "sha256": "76780B34992A10CD6E5EC73617E4AF108CFBAB9CA1A9A4691577155AD73DFEC0",
+    "bytes": 612
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdArmorLibrary.cs.meta",
+    "sha256": "4214EE4DDA62CABD3CF2E240F69895867AEBF0823A6BC37FA995527F0F6D7E1B",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdArmorRig.cs",
+    "sha256": "4FB2AFD2470B700ADBA331AF006DA5552F8D26149096EAD919140B0B8BC0F6C4",
+    "bytes": 926
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdArmorRig.cs.meta",
+    "sha256": "B60AAF9FF5D1565CADF76C1E21776D32DF020793F983B02B14D6B46F8A863055",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdArmorVisual.cs",
+    "sha256": "E7245C60A8C88A959D572BF60940A1E5846EF516BFA6B7A7AF7C1B91B6554D6E",
+    "bytes": 3500
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdArmorVisual.cs.meta",
+    "sha256": "037144511B71190366C11C26DFF915D78BC45508A632796C54DEE06BF938A9BC",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdCharacterLibrary.cs",
+    "sha256": "AF40618C5A618EA36D824A5B9DB820096DA4779BC2FD334C5268C7D439909774",
+    "bytes": 450
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdCharacterLibrary.cs.meta",
+    "sha256": "08504EF990A87F751025EA7910DE66FD7F8BE53EFF7F666FC79FCB48ACCC8A85",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdCharacterVisual.cs",
+    "sha256": "A5E56939B5FD5CA46D6F3AF373B17E3F6D419D8AB7668611BB131860509391EF",
+    "bytes": 7333
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdCharacterVisual.cs.meta",
+    "sha256": "885E72069A9D5700C7F3854469FD5F9C7C82B8CBE49AB39223DF444E8A2E4CD5",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdGunLibrary.cs",
+    "sha256": "56A55A71352328E71FFC046639E78A8F5B842AE81BF26496462879037E922665",
+    "bytes": 944
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdGunLibrary.cs.meta",
+    "sha256": "55F09DB7F137626B323E7F23824F41A48050FD748D263C49BEEF2D0FF2C9112B",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdGunModel.cs",
+    "sha256": "FE43BAD10415C448B8B89212C219D1E90EE95EF37AEC769E51BA0FE53AABEFCD",
+    "bytes": 380
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdGunModel.cs.meta",
+    "sha256": "64066F4C80A4D43E2D2BD156987C611A1B3F221ACA04AE1C530E5E5BD531E750",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdWeaponPose.cs",
+    "sha256": "241A3E95FC0900F45DC4D47B79D759A87A995B52AA4A90F7E5DF780803344B76",
+    "bytes": 17191
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdWeaponPose.cs.meta",
+    "sha256": "ACF2C78158D7D4F56825B2C4E588146EB5EEA33609A060ED47BD836F644B1C3D",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/SerinLateCapture.cs",
+    "sha256": "306F266B3F3BF01C365F3964FA664D7F24DDA2E5F05A893729DC0120F4E4E9D6",
+    "bytes": 361
+  },
+  {
+    "path": "Assets/Escape/Runtime/SerinLateCapture.cs.meta",
+    "sha256": "F5C3561295A6042E9AC377015576D1F496C2972BA3248390F49E4DD8C2F3B94C",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage.meta",
+    "sha256": "851C37455404978DFD5ED201A3ABCF8944A1FA7CBC054888CCF60B79BCD16F8F",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/TopDownCamera.cs",
+    "sha256": "AA94005636811328CCE56FD90C17B8DA9AE2AB02B4ACFE06B607831BBECB7DB0",
+    "bytes": 3035
+  },
+  {
+    "path": "Assets/Escape/Runtime/TopDownCamera.cs.meta",
+    "sha256": "AAB9846A0B4BE779BE5CA3E54A3B5E17A554B3FDC8BE588520FD9BF580D04C6B",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/UI.meta",
+    "sha256": "F7B1BFBBF8453F4BE31B9C59F272B7B9C14BA9620837910E1BD2458A68EB647B",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/Vision.meta",
+    "sha256": "48D553B4A61BC64A9A49443BA0361C0928658F06924D6CA6BB4713F4C9BBA981",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/Visuals.meta",
+    "sha256": "1070B3213B745EEEB96F2C41EEDE5A967B70462ABC59648E45AD33DC73BBE19F",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/Weapon.meta",
+    "sha256": "280ECF73D2EA8317472FA8C891FA4877A65638B4DD0D40AAC0E2F585E5321DE7",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/Basecamp/GrowthRules.cs",
+    "sha256": "F805FC3CFAD35DCE887A639869B6C411C2FA10AE2BCA13479F11CC9C09245F6B",
+    "bytes": 4625
+  },
+  {
+    "path": "Assets/Escape/Runtime/Basecamp/GrowthRules.cs.meta",
+    "sha256": "D99B2D2774D70E1AA96E20D456E5DD3BDC431DCCEC3E9DEE73179B441D0231EB",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Basecamp/MainQuestRules.cs",
+    "sha256": "85921952426492E5DA4A2BB9398F450BECE7BA57304ADA991E10C30CA853D3D4",
+    "bytes": 2610
+  },
+  {
+    "path": "Assets/Escape/Runtime/Basecamp/MainQuestRules.cs.meta",
+    "sha256": "FEEA006DBA6E70E6390CC718871CC7EA2EEFDD59F1F9C6BC2FDB3DCB5FBED0E5",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Basecamp/ShopCatalog.cs",
+    "sha256": "E2B42EA16D0B71B3AE3A41FA0DF83C326FC5280E30BA3E50A1C71C493C1D3C56",
+    "bytes": 685
+  },
+  {
+    "path": "Assets/Escape/Runtime/Basecamp/ShopCatalog.cs.meta",
+    "sha256": "2510A06F71FA235CFE268DFEFB4CB908FC5076DE21A7D6D614F200DDD4941E71",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/AimTarget.cs",
+    "sha256": "6E918D13D84EAEDA8D425E2E02AF884272EA9B652EF49C82DD07266216D1AC17",
+    "bytes": 375
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/AimTarget.cs.meta",
+    "sha256": "92EA2009D3860CAE4E94C56FC8BFFE2D36054773CBF2F8D937239E3EFBCC40FF",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/BodyHitboxRig.cs",
+    "sha256": "DB68A40A4E6CF0522924F70FA797AE7A38613D0A6039B4D4CD8970C59E175F92",
+    "bytes": 9017
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/BodyHitboxRig.cs.meta",
+    "sha256": "2CF0E777939DA0B7BE725DE7224557282B60AE7CD21CF44141A49B109344A464",
+    "bytes": 60
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/CombatDummy.cs",
+    "sha256": "1476595D66B1560FE590C02CA8C8F21A5FC711A597189FBCA18425EA69041257",
+    "bytes": 2506
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/CombatDummy.cs.meta",
+    "sha256": "87C059D686EF1FDDFB76EC933C11F5C7272CE876B3DBA3D93791E44BAD875751",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/CombatSignals.cs",
+    "sha256": "AC241350D728BDCD79FE7D6F0218C2929D3654AC09FC98505CF223D98DC63473",
+    "bytes": 582
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/CombatSignals.cs.meta",
+    "sha256": "4E7A39F39DAB93C9046EA215223AF650E3ED836AE72F76587B072FE83CC64D30",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/CombatTestShooter.cs",
+    "sha256": "1BB7E8F77D9E5FDC898056426298BC9522963E3A89E836A92CA1AD96E6E54D7A",
+    "bytes": 4509
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/CombatTestShooter.cs.meta",
+    "sha256": "CC0BD87E9E00B851429BC05782A521C0B67F71B56C03A9EF56D458B06D693543",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/CombatTestWorld.cs",
+    "sha256": "4C4B7F7550D683D4D7209CB65005DEACA0F1FF041B7531FF26E4BFCAFC128EAA",
+    "bytes": 4233
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/CombatTestWorld.cs.meta",
+    "sha256": "C8C557AE259FC2E874A51C816AFCD9FB4331887E5624C3846BBC56346B0F4AAF",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/Core.meta",
+    "sha256": "E9B3DE83550FAEBC41D79CD4EAFBE6E5D2921077E14BCAD1A3758FDD8A188465",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/DamageReceiver.cs",
+    "sha256": "C66DEDD806F636F82B800939BE13807BB72A217354A581913D099C5992FB54CE",
+    "bytes": 1711
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/DamageReceiver.cs.meta",
+    "sha256": "6DF2E9209C84675B94CF92F02DA7D6E4D39E2F450CD0F1887A4B899F6EC9AA78",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/Hitbox.cs",
+    "sha256": "5E6291DCF326F9F439D8103D08F487513C6AE0D62F8F6F67AF718F3C230469F8",
+    "bytes": 221
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/Hitbox.cs.meta",
+    "sha256": "D116E0257C3D694B6959512044EE010BFF83EE4564247CDCFA45E26120E313F9",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/HitscanService.cs",
+    "sha256": "A7A99EA902F58995C0449BA37B5AE6ACD7FA5B31B5B6B56505383045076B2796",
+    "bytes": 4081
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/HitscanService.cs.meta",
+    "sha256": "BEA83591685A8500282F62DE636964C8F8E722D75AECF065A57827DD1FEDC95C",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/Core/DamageRules.cs",
+    "sha256": "4D30397B465E27F819257FD9A26DE39FF5113E281D42F0AC50115B9BE4AB8E8A",
+    "bytes": 5384
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/Core/DamageRules.cs.meta",
+    "sha256": "F83E61A8B8F77B6905FC1800B5630C2B279FB05F5E6B40D0471B62DC6CB9F0AC",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/Core/InjuryState.cs",
+    "sha256": "18A72E37E633BFA319996F3100260C0BB918E53B1F04616ACE6381DE3E16FF21",
+    "bytes": 8292
+  },
+  {
+    "path": "Assets/Escape/Runtime/Combat/Core/InjuryState.cs.meta",
+    "sha256": "63989C27FF96A84806CA0A421A32D4AC347AF11287B46749A80F5721A618A011",
+    "bytes": 60
+  },
+  {
+    "path": "Assets/Escape/Runtime/Core/PlayerRules.cs",
+    "sha256": "8D277090D9DF53CF998C7A18880544875154CDC204481BF82518580ACEE386B0",
+    "bytes": 14650
+  },
+  {
+    "path": "Assets/Escape/Runtime/Core/PlayerRules.cs.meta",
+    "sha256": "9216AE4B7BB85472F4514C688AA3E9D20B5BAFC03AFE97CA4390A40F6221272B",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Enemy/Core.meta",
+    "sha256": "EEABA392408E56ED137E050B1AF48A7D7A69F12CFD249EB6D3108696AF3BA5A5",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/Enemy/EnemyController.cs",
+    "sha256": "14DD58D94DCDAE8A0599C4CF4A0B7A3E1583323AD98DB2D20A17C08534F3A64A",
+    "bytes": 25498
+  },
+  {
+    "path": "Assets/Escape/Runtime/Enemy/EnemyController.cs.meta",
+    "sha256": "801F82B2E4EC3BDC7949A5B9D6F9CA0BE40C42DC5C34F280D9FFACEDA2A5399E",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Enemy/EnemyTestWorld.cs",
+    "sha256": "FCF27491AB65D2170012B2F6A974D4C8A11DE4B6249492121CD36828768AA959",
+    "bytes": 4857
+  },
+  {
+    "path": "Assets/Escape/Runtime/Enemy/EnemyTestWorld.cs.meta",
+    "sha256": "25F3ED5391FEB2DB8D69C4EB182321CC487BE22CD2514F54D6D2C0B819FC6209",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Enemy/PlayerNoiseEmitter.cs",
+    "sha256": "F6747420F743E76BFFF3E3AD6CFDB0E1782862AEB50DDCF3252448CC28D7C6CA",
+    "bytes": 1090
+  },
+  {
+    "path": "Assets/Escape/Runtime/Enemy/PlayerNoiseEmitter.cs.meta",
+    "sha256": "2063358D977DAAC7A53B33D1112599DA2069BF6F47FA9BA36C56D969DCD05EF5",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Enemy/Core/EnemyBrain.cs",
+    "sha256": "C7FD3A33034B522DC27524F001E5B2F2B02E0746420E3A4D134FBB3BEC37F229",
+    "bytes": 17847
+  },
+  {
+    "path": "Assets/Escape/Runtime/Enemy/Core/EnemyBrain.cs.meta",
+    "sha256": "7E498D06E4560545284FA30BF557702523A3EFE9FF519B0B945CD5877D60A37B",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Enemy/Core/EnemyTargetPerception.cs",
+    "sha256": "1F13B0CF013D119D0E0E284E04953DD0A8B2D5EBEA157D6ADE426310F0488510",
+    "bytes": 2164
+  },
+  {
+    "path": "Assets/Escape/Runtime/Enemy/Core/EnemyTargetPerception.cs.meta",
+    "sha256": "E7B1DED9459493D6260736AB27F25D93EECEC6B69BBF1485B525DF2DB184E302",
+    "bytes": 60
+  },
+  {
+    "path": "Assets/Escape/Runtime/Enemy/Core/EnemyWeaponState.cs",
+    "sha256": "9E934AF5CB4FFB20F97C3B3A98471DF70E0361E0067796DE9F17A9A3A7DE8596",
+    "bytes": 3905
+  },
+  {
+    "path": "Assets/Escape/Runtime/Enemy/Core/EnemyWeaponState.cs.meta",
+    "sha256": "CF0BB879AFC9B3ACBDF8D32810D38DE8BDA774BBE6B0080CB0F2A9CD94DE26DF",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Equipment/ArmorCatalog.cs",
+    "sha256": "582C99FCF5E17C1D2CBA121E18B1A219FC445D503278BFF5E7DDC946123EC8B2",
+    "bytes": 783
+  },
+  {
+    "path": "Assets/Escape/Runtime/Equipment/ArmorCatalog.cs.meta",
+    "sha256": "FD57CF220BDC888D12B3193023A93454A533091FE1478F38F5AB49A89EC0989D",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Equipment/Core.meta",
+    "sha256": "8B5375CF475D19092376663B3B07C933A02D7FD375D40D82B39F600D9193338B",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/Equipment/Core/ArmorState.cs",
+    "sha256": "0887C294155552FCD8AC15EF1E1218F15C14ABB59535904E14E50345C0576785",
+    "bytes": 5819
+  },
+  {
+    "path": "Assets/Escape/Runtime/Equipment/Core/ArmorState.cs.meta",
+    "sha256": "770C803C9A0C907972EC204CD81E31853A2F36CFEC22595CB523BE98353B5EA9",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Equipment/Core/RepairCalculator.cs",
+    "sha256": "7194E415E7F6FE03A54E9E2C9E4AA54EF34BE141F90914C21BFFC75722A907E9",
+    "bytes": 3158
+  },
+  {
+    "path": "Assets/Escape/Runtime/Equipment/Core/RepairCalculator.cs.meta",
+    "sha256": "A091416698A45545196FA3AC8586AB7868598DB01560B00323DF481A2D9F7CE0",
+    "bytes": 243
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/Core.meta",
+    "sha256": "1B0C0B746344718249E7B601EA530B435A8F23E472114C6BB20E96451E32E934",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/GameDefinitions.cs",
+    "sha256": "52D7B2CF85128EDF0DC459A7E3B1A906299AA035A63BF7BFAD0AB65BB922DBDB",
+    "bytes": 1101
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/GameDefinitions.cs.meta",
+    "sha256": "86A5DCCFA4436B9DD0B1D8C47E12FB7698494B06889A714128EACAE1282548F5",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/InventoryController.cs",
+    "sha256": "AA493BD51DD83EEBEB54DA80423D439D29F33E9DBD739242203BEACDC8D844F5",
+    "bytes": 20598
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/InventoryController.cs.meta",
+    "sha256": "12F3DB0BA03F4401BA2305CDEF460FD11CDCBDF6CB32F36D1A2DC3E46600B5FE",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/InventoryGlassView.cs",
+    "sha256": "0ACF25780ED06EAD4DE03C3726ECBC402D34D21157144CC084FD4485B69CB097",
+    "bytes": 34177
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/InventoryGlassView.cs.meta",
+    "sha256": "0E5D8B7B0603D4E5C0577E1E33DAF570972C92CD776230821B8D1F6AD740D515",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/InventoryInjuryView.cs",
+    "sha256": "1EA264D1A5DC56194E657B12ABC1B4975FCEAA530C6EBD1A83AA9926D52A897A",
+    "bytes": 3216
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/InventoryInjuryView.cs.meta",
+    "sha256": "35576CEDF04F330872138889103688612D07307BA37212398555F4C1CDEDCDE2",
+    "bytes": 60
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/InventoryTestWorld.cs",
+    "sha256": "FC1C0284179061A460BCDB7918FFCE2C59C1E4A7ECF5270E74A7E3BC51C9B4B1",
+    "bytes": 15300
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/InventoryTestWorld.cs.meta",
+    "sha256": "7D78397ACE6AFC0A610F7BCC032B9CC333FE81A26A58D8E11E44B7F66D36B9BA",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/ItemCatalog.cs",
+    "sha256": "544ACF4E8C949E9654F9EB82705D3415BA0A8554D9348832B78E57521E620271",
+    "bytes": 1221
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/ItemCatalog.cs.meta",
+    "sha256": "EAE4EC012EEA4B607C66979C7C63750E06AB5FC44054AC475276DB38BBE84522",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/PrototypeItems.cs",
+    "sha256": "884A9F2CA77DED8FCA53D3DF00B87467DC5E8BDBB7C309E86FAD9B69CBA76D12",
+    "bytes": 906
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/PrototypeItems.cs.meta",
+    "sha256": "958382FEAF8ACEB9AD95F8E4C219343505C00592C33D9F7BF776119F41734AD4",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/Core/InventoryEquipment.cs",
+    "sha256": "4EA5F896C4D735C6DC58BAE8323DD4DD15D66A7017E2554913AA899F133A0196",
+    "bytes": 2638
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/Core/InventoryEquipment.cs.meta",
+    "sha256": "BE1E5CDF8594C28C58153DA7E3E4CB4B9865A8AFEF3C2749D6FF3B7E9224B885",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/Core/InventorySnapshot.cs",
+    "sha256": "253ECE4C8D4737160BD37AF76130F9C85E25E8197F8F5FAA97D0DDE6B825B8B0",
+    "bytes": 6922
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/Core/InventorySnapshot.cs.meta",
+    "sha256": "E0EC2ACB238F4D95E8F6E546988D97D225138F7759B2503F8923B7E64C37FCDE",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/Core/InventoryState.cs",
+    "sha256": "645DF6CD6887430AF144294D585D38E122F4F0BEABFD919A88F0D076D9684F11",
+    "bytes": 16823
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/Core/InventoryState.cs.meta",
+    "sha256": "C40D392AC97DCB8F198CCAD6888C480D20DD49EB78C5D30047EC4EAB83CA5885",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/Core/ItemDefinition.cs",
+    "sha256": "6794860219B404F63D4D9CD65B3A148A11C39758924F2553A84FBD8311D0BD45",
+    "bytes": 3432
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/Core/ItemDefinition.cs.meta",
+    "sha256": "0ACA9D324B20D9DACD8D2E28B640CCA04AA1C5B8399770002A77ABCD358BDA67",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/Core/ItemResourceState.cs",
+    "sha256": "D1370AA49DD1C5508BA41C091C749A6481FF83A42346BE9C81D87192332022D9",
+    "bytes": 2611
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/Core/ItemResourceState.cs.meta",
+    "sha256": "B32770A4801F35016C8D29BD7C933F750FB8FCB645DF37AADBD2780A87CA55DE",
+    "bytes": 243
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/Core/ItemUseState.cs",
+    "sha256": "DEE6E650355570DEE12183485A3BC89899326CF5A021DC90187ED9A695937512",
+    "bytes": 20763
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/Core/ItemUseState.cs.meta",
+    "sha256": "3137670DAFCCA44CE8CC32BD70881F03D364899D3E6915A3B3E2CEAD21994D20",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Loot/Core.meta",
+    "sha256": "EAAED77287E42BCEEE47B012B948B841E7B05FB762F1429BD3FCC97174E7C38E",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/Loot/LootContainer.cs",
+    "sha256": "82D35B23D9F1F3EC99A999B613F48FDE7D900E714567638ADF883970AB9F1DC9",
+    "bytes": 1280
+  },
+  {
+    "path": "Assets/Escape/Runtime/Loot/LootContainer.cs.meta",
+    "sha256": "2EEC51FD20441CE8A944082B3ACE6C3F9D617A55045A4E5881807F23C5B34DCA",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Loot/LootInteractor.cs",
+    "sha256": "BADDEC513701370F40923AB964D3F77680C4BBF77D8A2BBE5A64D5EE557BE5C0",
+    "bytes": 9705
+  },
+  {
+    "path": "Assets/Escape/Runtime/Loot/LootInteractor.cs.meta",
+    "sha256": "C06DE699FC9985A5671C7867C9AEE16A2CE16F64A58749C68B320BC1AE00B5B4",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Loot/LootTestWorld.cs",
+    "sha256": "0A7C86D1D0EC350BB2274CC014835DD084D89C2F82BC1B88EB72340DF8E58FAA",
+    "bytes": 2709
+  },
+  {
+    "path": "Assets/Escape/Runtime/Loot/LootTestWorld.cs.meta",
+    "sha256": "38446BA442D9348816DA346FCAEF8B7BD9BDA0C9373411715BC7C7CBBA3609F3",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Loot/Core/LootState.cs",
+    "sha256": "CF77293FB97F96B9EDD634E9594D9EA1B26FBC25D19611507ADD0D6BF4C89896",
+    "bytes": 8875
+  },
+  {
+    "path": "Assets/Escape/Runtime/Loot/Core/LootState.cs.meta",
+    "sha256": "B0698E2BEF278444AEEB973D0FBDA1FD81815BC27498F7344E505012D1E66C5A",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Save/BasecampTransactions.cs",
+    "sha256": "70CB9AEB6759B1CEA1EC32D5A7A4D6590847FFA407E19EB65ED2C6A19CEC84AB",
+    "bytes": 6208
+  },
+  {
+    "path": "Assets/Escape/Runtime/Save/BasecampTransactions.cs.meta",
+    "sha256": "F9FCFC7C688BD07861653D6CD24FEFEED2DD18FE7309967C6D277489BE5E0986",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Save/Core.meta",
+    "sha256": "5202F6AEBED17FC9600C8A2A65D8173BD9E668ADAFD5DC429A892A7F37E0F02D",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/Save/LocalProfileStore.cs",
+    "sha256": "482D49217E38399833D0A984BB73FA5216E6277A07955A4426488AAD79606DEF",
+    "bytes": 5998
+  },
+  {
+    "path": "Assets/Escape/Runtime/Save/LocalProfileStore.cs.meta",
+    "sha256": "4150DD8AE36805BBA471115A0F923104E2D2C5C8F162C2FF1385BC0EE47F5C0E",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Save/ProfileMigration.cs",
+    "sha256": "35CBADC9FD3B13E9CEE0CB4501CB30F21EDBB84DE217EE8FDA169DFB7677BC7A",
+    "bytes": 6453
+  },
+  {
+    "path": "Assets/Escape/Runtime/Save/ProfileMigration.cs.meta",
+    "sha256": "BA3689E64EA91DF6D275058D573DF9BA1010F6438AC34811E49971B694223905",
+    "bytes": 243
+  },
+  {
+    "path": "Assets/Escape/Runtime/Save/ProfileSession.cs",
+    "sha256": "F6F64D5A1DA244478DDA2C0D93EEC749A3726720CACA7404AFD601CB90B606D3",
+    "bytes": 9769
+  },
+  {
+    "path": "Assets/Escape/Runtime/Save/ProfileSession.cs.meta",
+    "sha256": "85198C362A294F04377900879F6CCB5F34BA406D73CA90D2861F47E3EC1F8CB6",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Save/QuestTransactions.cs",
+    "sha256": "0277B76693DBD6608E604FD586A6BA7CD0BFD270F2B9086EAD776CFA38904ED8",
+    "bytes": 4444
+  },
+  {
+    "path": "Assets/Escape/Runtime/Save/QuestTransactions.cs.meta",
+    "sha256": "8DD84192FEEE0F1E55F0647BDEA3BA5567E6B1DCCDA269903B675280806A7842",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Save/Core/ProfileData.cs",
+    "sha256": "74B77A08EA2E21C853AD69C1A28AAC738C401175FFBE85C8D9B23F2CBCF80819",
+    "bytes": 6203
+  },
+  {
+    "path": "Assets/Escape/Runtime/Save/Core/ProfileData.cs.meta",
+    "sha256": "3609ED7AE30861C294F0587B5F789D234E7FAD2904F57C3004C160830F5E96AF",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Blockout.meta",
+    "sha256": "C46D7EB81475DAD8AEB082E0738EB081F012D74D0896DD1E6CC77AFDED61A554",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Core.meta",
+    "sha256": "AD26C9D52B133619C93FA62AF5B703B78B3288260F3E9F0A84972C473256C314",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/SessionGlassView.cs",
+    "sha256": "26434CBA5305F509F065E41AD10CC829CC4931990FA7F62D816BB79B6696A660",
+    "bytes": 23411
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/SessionGlassView.cs.meta",
+    "sha256": "F1EE740C220D26DEFA8E5D2DF6DE76DFD321C079DEE67C98C8E288EFFA7D2AC3",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/SessionTestWorld.cs",
+    "sha256": "46B6C780D4B490CDB35553C27FA7FE3EF2B7E435A863A71446D25EA9ECE152D2",
+    "bytes": 31304
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/SessionTestWorld.cs.meta",
+    "sha256": "95550C2055D3ABFDAF7564941CFF82A8630BE8F2276165093EA1640DDD5CF6F2",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Blockout/BlockoutSurface.cs",
+    "sha256": "F0E08FB3A24FD67655D58DFF648506E43BCBBB199079B92B23F001BD9D9271AC",
+    "bytes": 727
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Blockout/BlockoutSurface.cs.meta",
+    "sha256": "A7CC32140DFB896B86F377E1D6DBF4C709B2F68566DBE7A3B62A6E961CCC2EFF",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Blockout/StageABlockoutMap.cs",
+    "sha256": "5FE9BA4E3F3514EF82CA7BFFA2CD43F1C415365DFA8F04AAB156479D1470DD91",
+    "bytes": 45482
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Blockout/StageABlockoutMap.cs.meta",
+    "sha256": "CD4A613E3422C1D4AB427A4437270BDA7A8E8F07CC8ED44D892D38C63294CBCC",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Blockout/StageABlockoutSemanticAnchor.cs",
+    "sha256": "62FB4158C153992A424C9AA1FEE49F3880663A76F437E1D1E035CE4B4D24DA0A",
+    "bytes": 7823
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Blockout/StageABlockoutSemanticAnchor.cs.meta",
+    "sha256": "2EB2EA01346C01B8FA8C28EB5C49905D5E0D2EA605CE94EA20BED7E281BBE53A",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Blockout/StageABlockoutStructureV08.cs",
+    "sha256": "7E9DB304E3B876690A3B8A35E91402D4FA73CC2D03979C9CFA47D14FF7CEFBE0",
+    "bytes": 46998
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Blockout/StageABlockoutStructureV08.cs.meta",
+    "sha256": "8849D8E860DB4C13CCB8C45676AC1CB55BDCE96E926582BD68D8C46CB4697CCA",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Blockout/StageATerrainFoundationV08.cs",
+    "sha256": "3CA63B5D3DE01339C63943EA2B99A6BF99FC814DE4962BA82680CFB3EDC6D2DB",
+    "bytes": 17028
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Blockout/StageATerrainFoundationV08.cs.meta",
+    "sha256": "9F3C1A6F5F01F8998306B4B0ED9FDDCA9B94E11183DA0337E969831F463D833E",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Blockout/StageMapRouter.cs",
+    "sha256": "91C8EF1356E2EF0BE9F03710260F71029103A04C16897D0D0938ADE767C1CAA8",
+    "bytes": 11778
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Blockout/StageMapRouter.cs.meta",
+    "sha256": "26B32B11146165EC7D858D9305C6B569C7EB6630DD29FCB04C40CAC7192919F1",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Blockout/StageScenePreview.cs",
+    "sha256": "554A882AF9037A3AEEFC9910E2F056C2B34FC63254BC177ACEACFA2AF1765B87",
+    "bytes": 2448
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Blockout/StageScenePreview.cs.meta",
+    "sha256": "F37A7CDAA1371924A57302B382B80AAA824E45A8CC3514281699D8D84B708AE0",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Core/ExtractionState.cs",
+    "sha256": "7D3D3964C0E500BA21E2B1DF241A5839C1409E6F3590F564211CC401C166E260",
+    "bytes": 1514
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Core/ExtractionState.cs.meta",
+    "sha256": "3D66E1BB904789936EE23FDC53515C8B5FC81D0DD80E6609B3985E862EEDCE4B",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Core/InfectionState.cs",
+    "sha256": "193A7E0C33728FC2696509F29CAE045DBBEA46E0D164B34E6EC322E863419C60",
+    "bytes": 2461
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/Core/InfectionState.cs.meta",
+    "sha256": "5D62B5C8F128F5982707DB2D6FBA0C6474A088CCD87FF01CDCF89499CE9CFB33",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/UI/FrontEndController.cs",
+    "sha256": "91CE07F765291DF5A77BEA8BED95A7695BD432170A082637A85F24F9969914E9",
+    "bytes": 13321
+  },
+  {
+    "path": "Assets/Escape/Runtime/UI/FrontEndController.cs.meta",
+    "sha256": "3CFDDFFA6DC0A8B8D035524384C82DAFAEC96E9F50EDCCCBFBEACA5CCF63F580",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/UI/GlassIcons.cs",
+    "sha256": "D6D86D698949DABF950CD282E44503D2DAA5F1EEE7A4A0FB5C6BD61D26C5BEAF",
+    "bytes": 6341
+  },
+  {
+    "path": "Assets/Escape/Runtime/UI/GlassIcons.cs.meta",
+    "sha256": "28DDA330071BFF0CAF955737DB5023126D4D0E78C46AE090972A51A8B79285A2",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/UI/InjuryScreenEffect.cs",
+    "sha256": "D678A97BEE2C696F06212226D56B8C6C305BC291CDE4B1ADCE29FCD1263C00CF",
+    "bytes": 2333
+  },
+  {
+    "path": "Assets/Escape/Runtime/UI/InjuryScreenEffect.cs.meta",
+    "sha256": "8EDC796D805B7DF1E942F9DC19482CF846B4C9A9D392F9FBBC6118CD3E3FB4B9",
+    "bytes": 243
+  },
+  {
+    "path": "Assets/Escape/Runtime/UI/InventoryPortrait.cs",
+    "sha256": "09C73CD3EAD5562DBD89E194C7D42E4FD72A946AC7FDE48FDE4B7798CEEA724C",
+    "bytes": 18695
+  },
+  {
+    "path": "Assets/Escape/Runtime/UI/InventoryPortrait.cs.meta",
+    "sha256": "009B696DEBD8AB105B773C5EF9EE9D4F740CE97033864958CF91EC81826522E8",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/UI/UiTheme.cs",
+    "sha256": "2C687E9E52D53D67CE905AF9AE5EB4B09E1A04274A415E65D32D53A92A97214E",
+    "bytes": 30043
+  },
+  {
+    "path": "Assets/Escape/Runtime/UI/UiTheme.cs.meta",
+    "sha256": "1F4B202BCFCD02518B316C7005CFC06F52E0D624AA7332B460E23101F22DB66F",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Vision/PlayerVisionController.cs",
+    "sha256": "56D210790564C5505166624C38702030068519ABB6C11A9C5DA6814FDDD50A41",
+    "bytes": 10878
+  },
+  {
+    "path": "Assets/Escape/Runtime/Vision/PlayerVisionController.cs.meta",
+    "sha256": "BAAAF5B89C2CE9214BA85EB2ACCD27E859620EBFFBE03E725174175474DE600D",
+    "bytes": 60
+  },
+  {
+    "path": "Assets/Escape/Runtime/Visuals/RainCourtyardAtmosphere.cs",
+    "sha256": "F7425563777B596870B0CD9C30CCFA6F66DECAAC5EA604FF5D70EA5732111D15",
+    "bytes": 18961
+  },
+  {
+    "path": "Assets/Escape/Runtime/Visuals/RainCourtyardAtmosphere.cs.meta",
+    "sha256": "BD8CDC8C3A5CE2FEAC9F6A777A879D028C5CFF64DB3E3B9B15C4BCC526AF07BF",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Visuals/StageAArtPass.cs",
+    "sha256": "45587A89A0CF149620A4748B1062E65058847D70D395125AF9BB4668514B4A2E",
+    "bytes": 29752
+  },
+  {
+    "path": "Assets/Escape/Runtime/Visuals/StageAArtPass.cs.meta",
+    "sha256": "F507F619CB70D902B69CCED79022B94E1878D25BD516A3EB3D8B0205674FCF29",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Visuals/ToonCharacterStyle.cs",
+    "sha256": "799A5B650976472F6BE2E035E7832489FC545AAD677D32295790FF902C1149E1",
+    "bytes": 6666
+  },
+  {
+    "path": "Assets/Escape/Runtime/Visuals/ToonCharacterStyle.cs.meta",
+    "sha256": "BF67F089F9E4029207A7D707F20C23BE04009D2E76C5D75A5C2E92CAD45161FC",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Visuals/ToonOutlineCamera.cs",
+    "sha256": "F46FE3AA3FAC3FA6463E42B0B64EA0733453FF689FD273CAC9C1B7447859D30B",
+    "bytes": 289
+  },
+  {
+    "path": "Assets/Escape/Runtime/Visuals/ToonOutlineCamera.cs.meta",
+    "sha256": "6CF25D6C07563EF456E6CDA970A21EA133652854EA12CE5D073187AF3F4CB6F4",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Visuals/ToonOutlineFeature.cs",
+    "sha256": "413E735EAF936B386BC599AD3BC1B020C6C5ED4BCE9C450F8742C77A2F8C5321",
+    "bytes": 7431
+  },
+  {
+    "path": "Assets/Escape/Runtime/Visuals/ToonOutlineFeature.cs.meta",
+    "sha256": "3C0EAE59201B1614E2F1FF5A03089DADF324246305464F3CBFEC85EBCB6A52CA",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Weapon/Core.meta",
+    "sha256": "D09E39FC4B4F60265CD615A51BE47E8699184C33DBE81E7C4C38F38F1871B856",
+    "bytes": 172
+  },
+  {
+    "path": "Assets/Escape/Runtime/Weapon/MeleeService.cs",
+    "sha256": "B672059BCA97A5BB11B6EAA2579C634A2A645DB4F583748DD3D686767509D99E",
+    "bytes": 2092
+  },
+  {
+    "path": "Assets/Escape/Runtime/Weapon/MeleeService.cs.meta",
+    "sha256": "2D393320BA176944E1B33E90FB4E55F05585D4B20B5D84934142292610CFBC9A",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Weapon/RifleController.cs",
+    "sha256": "336EF2E63056C5B9DA2A6EDF55B406F2F3FCC4A3467C525E88574224EBED20F9",
+    "bytes": 15698
+  },
+  {
+    "path": "Assets/Escape/Runtime/Weapon/RifleController.cs.meta",
+    "sha256": "E879A85CF01FB4C1060B1086BF114AF08B64CAE9D0402786849EB274AA3ABE83",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Weapon/RifleSettings.cs",
+    "sha256": "7FDF207A45CCD412D953C40DF6BDA25CE059E03053381871E13148266253883E",
+    "bytes": 223
+  },
+  {
+    "path": "Assets/Escape/Runtime/Weapon/RifleSettings.cs.meta",
+    "sha256": "D118A45A2689330E4D7F53C16BA8E441DE7EF112EFCE214B297AE8A73F5822E2",
+    "bytes": 60
+  },
+  {
+    "path": "Assets/Escape/Runtime/Weapon/WeaponCatalog.cs",
+    "sha256": "310801568FF5CD00947F94FECC925BFA0596AD008BAA85AC58AF5B9FCE892A3D",
+    "bytes": 1006
+  },
+  {
+    "path": "Assets/Escape/Runtime/Weapon/WeaponCatalog.cs.meta",
+    "sha256": "0D5B300E1452F516BFE31DEC2CDEF62AAED3A80EB8A590ADD6569C526AC8B558",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Weapon/WeaponTestWorld.cs",
+    "sha256": "D20530D99984789A40FAC4A51B99B7FFEA0D9C830831FB25EBB9225C262D348D",
+    "bytes": 4330
+  },
+  {
+    "path": "Assets/Escape/Runtime/Weapon/WeaponTestWorld.cs.meta",
+    "sha256": "61B6A947802EB14362F1E4439BCB3D198A7A76F0CA1ABB90E4BB89A9F8314E37",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Runtime/Weapon/Core/RifleState.cs",
+    "sha256": "FBBD4F2DD927666DBA6D4DD6ACC733F8502894771CD039642DAFF23C14498761",
+    "bytes": 12750
+  },
+  {
+    "path": "Assets/Escape/Runtime/Weapon/Core/RifleState.cs.meta",
+    "sha256": "D32A053FCDB159CF9C8CC5167267BCD96F8ACF57D5A427BBEF671AE486B48A95",
+    "bytes": 59
+  },
+  {
+    "path": "Assets/Escape/Scenes/CombatTest.unity",
+    "sha256": "D1E07720E1267F6C6A9459BE4BD2193CCE2651E56FFB35F0B9CDF38FA67B9673",
+    "bytes": 1186
+  },
+  {
+    "path": "Assets/Escape/Scenes/CombatTest.unity.meta",
+    "sha256": "DBBC71A90724E9772CD7A1F421049DDA3C6ED20FAA0733DE43CE98233A7590E0",
+    "bytes": 155
+  },
+  {
+    "path": "Assets/Escape/Scenes/EnemyTest.unity",
+    "sha256": "49B0093AD216573EA9AD3D0CEDAC553B1045F78294584678B51578B2C8D90063",
+    "bytes": 1346
+  },
+  {
+    "path": "Assets/Escape/Scenes/EnemyTest.unity.meta",
+    "sha256": "EC56EA72AFBDF967A2208090C17BB44269AEF5B5CBCA70191D75443506ADEE06",
+    "bytes": 155
+  },
+  {
+    "path": "Assets/Escape/Scenes/InventoryTest.unity",
+    "sha256": "5BEE091D9A894280D621CFA0722FA4881BBB122F98E79B7C7AE0FCE6C92F5F47",
+    "bytes": 1328
+  },
+  {
+    "path": "Assets/Escape/Scenes/InventoryTest.unity.meta",
+    "sha256": "AC38CFE91D1C6AE1A4026A0F5DA47FC9FB852A0AEC04BFE3F88C3170675711BA",
+    "bytes": 155
+  },
+  {
+    "path": "Assets/Escape/Scenes/LootTest.unity",
+    "sha256": "DDCB14A634C182A4C4E94D91935BB22CBF82BFDCCF89B942985B555D36608EE7",
+    "bytes": 1359
+  },
+  {
+    "path": "Assets/Escape/Scenes/LootTest.unity.meta",
+    "sha256": "AB83C238C5F2A4FFEF5250CFF25A5611913553735BCE4D549C9F09C4BA9E4C4B",
+    "bytes": 155
+  },
+  {
+    "path": "Assets/Escape/Scenes/PlayerTest.unity",
+    "sha256": "EA9C579A7E034B98D795F7ABDAFCE605B4A3FCF2C13F73A5C01507CEA6C91C09",
+    "bytes": 1171
+  },
+  {
+    "path": "Assets/Escape/Scenes/PlayerTest.unity.meta",
+    "sha256": "98E84DB1C4AC14E3BDB13B8E6E7ADC04FA4CA2B6065F1760995F6F72AD7870F6",
+    "bytes": 155
+  },
+  {
+    "path": "Assets/Escape/Scenes/StageA_Blockout.unity",
+    "sha256": "95CEB3AEAA962B78E8CAD697C9E0AD2C31B048EE09E37E130A98E4F165C12D0B",
+    "bytes": 2192097
+  },
+  {
+    "path": "Assets/Escape/Scenes/StageA_Blockout.unity.meta",
+    "sha256": "FB395C8447F7B1B2C39A172A5148474911AB5A8C60C834C44A02E0DC91F70184",
+    "bytes": 155
+  },
+  {
+    "path": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+    "sha256": "8B85555034639B1217F217DEEDF099C0EEC9CA3D596F28C62E7CEF9CBA8AFC2A",
+    "bytes": 12156
+  },
+  {
+    "path": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity.meta",
+    "sha256": "94DE2F65BE9AF1466D35441FC59A5DF87041DD0B62373EBE88D452D04CD33582",
+    "bytes": 155
+  },
+  {
+    "path": "Assets/Escape/Scenes/StageB_Legacy.unity",
+    "sha256": "C6B8940E1B05947B1E50B90E3EE59A2FDEA5CAA604F2434BCF1376FFBBA3B4FC",
+    "bytes": 33831
+  },
+  {
+    "path": "Assets/Escape/Scenes/StageB_Legacy.unity.meta",
+    "sha256": "3493EFE618BA048C484C6612153F5A1F0DEF970133243D4B9A4854D9F97BEB3C",
+    "bytes": 155
+  },
+  {
+    "path": "Assets/Escape/Scenes/SystemsTest.unity",
+    "sha256": "65AD51F77A468A55BB80DBFD4CC07CE49A27A708898806C244836DD8536531B3",
+    "bytes": 5059
+  },
+  {
+    "path": "Assets/Escape/Scenes/SystemsTest.unity.meta",
+    "sha256": "FE55D65F8E42DEB372DF91B979D02D5D55B43EFC35E746E21C80826094CAD490",
+    "bytes": 155
+  },
+  {
+    "path": "Assets/Escape/Scenes/WeaponArsenalTest.unity",
+    "sha256": "D7ABA2EE3AA4EAFA6E7807E41686CB15DE2CCCB83A2CB87CDD889C704A3E41E5",
+    "bytes": 1315
+  },
+  {
+    "path": "Assets/Escape/Scenes/WeaponArsenalTest.unity.meta",
+    "sha256": "88C7FF8F7057A6F62FDC8E362EBBE79119727F08F6C809FFC3A7890F65065F5F",
+    "bytes": 155
+  },
+  {
+    "path": "Assets/Escape/Scenes/WeaponTest.unity",
+    "sha256": "7EB0B1AB8DEA3EE2DED0F9B4B855A9078F64289FADF5E402B72506516B4E010B",
+    "bytes": 1286
+  },
+  {
+    "path": "Assets/Escape/Scenes/WeaponTest.unity.meta",
+    "sha256": "EDCB151EE4A2898A5E33C58B52226C1FB1D0A605619AEEB01FCDDF9C9751E50B",
+    "bytes": 155
+  },
+  {
+    "path": "Assets/Escape/Settings/AR_001.asset",
+    "sha256": "46628F7E121383256460427CB94998FD59D1621993D7BD64DE2A0393E2BD29AA",
+    "bytes": 665
+  },
+  {
+    "path": "Assets/Escape/Settings/AR_001.asset.meta",
+    "sha256": "BFA5BD78F764225BD22B5CFDD6B96AE4DED4F727F427D23F91212DC49224CBC3",
+    "bytes": 186
+  },
+  {
+    "path": "Assets/Escape/Settings/PlayerDefaults.asset",
+    "sha256": "08A19E8EF729EB4846BAAC0129669D7993EC2B7C7806168EB2AF1504CC93B4E8",
+    "bytes": 1407
+  },
+  {
+    "path": "Assets/Escape/Settings/PlayerDefaults.asset.meta",
+    "sha256": "FCB9110158692529E9369DF799E4F17C2E1824B65268F95BFFE28937BF8F8B4F",
+    "bytes": 186
+  },
+  {
+    "path": "Assets/Escape/Tests/PlayerRuleChecks.cs",
+    "sha256": "102870FF25E5D619EF69C47AEDF1E14C676749829132E848774DD47696004E02",
+    "bytes": 5689
+  },
+  {
+    "path": "Assets/Escape/Tests/PlayerRuleChecks.cs.meta",
+    "sha256": "879718EE6BAB52F261024BAD8C2EF92B37538F3C79220B133E054FE497A13590",
+    "bytes": 59
+  },
+  {
+    "path": "ProjectSettings/AudioManager.asset",
+    "sha256": "AEEDEB3243F07B61DBBE854AA08B5EF6F0B5274DD9852AD9F6129DDE3E105A31",
+    "bytes": 413
+  },
+  {
+    "path": "ProjectSettings/ClusterInputManager.asset",
+    "sha256": "40E65DD214BF254955D2C8829CA8CE2130FD3510485560CE012E9A1DDD93E623",
+    "bytes": 114
+  },
+  {
+    "path": "ProjectSettings/DynamicsManager.asset",
+    "sha256": "B7C9A9DC08B98990109D4346F68745E15E238DE400F96C583E53E1C83C743A78",
+    "bytes": 1254
+  },
+  {
+    "path": "ProjectSettings/EditorBuildSettings.asset",
+    "sha256": "348BA1ECA4B0698957F264F877F76227B78583ACD3138FD5FC85BE92F158E261",
+    "bytes": 401
+  },
+  {
+    "path": "ProjectSettings/EditorSettings.asset",
+    "sha256": "1EF9414984AE135D74E2D05DFBEB10A04CA7F8434B867C2B2053F46B78A365A6",
+    "bytes": 1545
+  },
+  {
+    "path": "ProjectSettings/GraphicsSettings.asset",
+    "sha256": "9C1BB28A2AAC0FEE9D3CFD844F6F345FE573F18D35A5C9FD3048B9E9A066C4DF",
+    "bytes": 2568
+  },
+  {
+    "path": "ProjectSettings/InputManager.asset",
+    "sha256": "7A1BB836A1008D26D0860D143E9D9DF7CA41731D30A72901B518063819C62DF2",
+    "bytes": 9731
+  },
+  {
+    "path": "ProjectSettings/MemorySettings.asset",
+    "sha256": "1E8379A461B10AE09F3F696911088C16875D63E87ED5F2D95DF9E1892703F9FD",
+    "bytes": 1192
+  },
+  {
+    "path": "ProjectSettings/MultiplayerManager.asset",
+    "sha256": "ABA89FD1A1DDAD182727AD82727E536D27372E90328A8196DA2A4560398983DD",
+    "bytes": 157
+  },
+  {
+    "path": "ProjectSettings/NavMeshAreas.asset",
+    "sha256": "80106CFA7E6181A1928B142C075F3E510D527441E3D79BC83590E4AC91E7CD66",
+    "bytes": 1308
+  },
+  {
+    "path": "ProjectSettings/PackageManagerSettings.asset",
+    "sha256": "A7DABBA589ABE7FC2B45BD3D3FBA3FE9BE97043492703F716DA2D9131C13A807",
+    "bytes": 1003
+  },
+  {
+    "path": "ProjectSettings/Physics2DSettings.asset",
+    "sha256": "E3CBDBF0BE15244B7B67D2F07BDB8E8981911C11A8C7FE8035F5261272FEC658",
+    "bytes": 2028
+  },
+  {
+    "path": "ProjectSettings/PresetManager.asset",
+    "sha256": "29C125923FE6E29F90190D4FCE1C82D660E7051546E2C9D02908D18C9CF2436C",
+    "bytes": 146
+  },
+  {
+    "path": "ProjectSettings/ProjectSettings.asset",
+    "sha256": "7D7EB0197C4C0EB2FEC70B7EFF2239B2A696CE6F518790B5B3AFF8C081B6C6EF",
+    "bytes": 25010
+  },
+  {
+    "path": "ProjectSettings/ProjectVersion.txt",
+    "sha256": "1A47686C7A9AC92EAE6B23CF3358D1329FBBE8237051ED631FAF6E15A945402A",
+    "bytes": 83
+  },
+  {
+    "path": "ProjectSettings/QualitySettings.asset",
+    "sha256": "6814D6CC3EB850DD7D2A069A8B17BA9F7591DEBA8B1758A855978BD9C8627643",
+    "bytes": 3662
+  },
+  {
+    "path": "ProjectSettings/SceneTemplateSettings.json",
+    "sha256": "BB9098B3BFCDE78D93E264B96F7B77B5430E64E8C57A7AAD7F5A5D9C3945E16A",
+    "bytes": 3535
+  },
+  {
+    "path": "ProjectSettings/ShaderGraphSettings.asset",
+    "sha256": "773803237466FFE9BBFED9ECEF9BBE25F63196DD47AB6B3003F0CD1649FD2BD0",
+    "bytes": 524
+  },
+  {
+    "path": "ProjectSettings/TagManager.asset",
+    "sha256": "23FC56B484AA3D7EDF5914CD3591F7A823CCEF5E3F3496F8A51F30388EAD63DC",
+    "bytes": 657
+  },
+  {
+    "path": "ProjectSettings/TimeManager.asset",
+    "sha256": "1A83E54ADBBDA7C9F4851103A0C6AB7F6448A3343D4EA5B7620452FA08416ECD",
+    "bytes": 202
+  },
+  {
+    "path": "ProjectSettings/UnityConnectSettings.asset",
+    "sha256": "D6034ACBEF6C9E3179866486C31EAB81FCBE5E7ED350CE71E0FA2B1449B77109",
+    "bytes": 943
+  },
+  {
+    "path": "ProjectSettings/URPProjectSettings.asset",
+    "sha256": "A3A626CB529CCFC0A82E388B8CD32BC60888F7226C33412FAD3BC50ABA802CD7",
+    "bytes": 410
+  },
+  {
+    "path": "ProjectSettings/VersionControlSettings.asset",
+    "sha256": "E7BDA45BF7A394745FEE1316E6C71FA676004D591AD1F3AA247FD3E4CEB86071",
+    "bytes": 188
+  },
+  {
+    "path": "ProjectSettings/VFXManager.asset",
+    "sha256": "F066C6483919961332415EE64204F74FE52F38C02E82892EB02B7A5B2E381F0E",
+    "bytes": 308
+  },
+  {
+    "path": "ProjectSettings/XRSettings.asset",
+    "sha256": "EDD2BEB4A2E388312B4B7DA241AA51070434005D82C59363F1237DD2E567585F",
+    "bytes": 158
+  },
+  {
+    "path": "Packages/manifest.json",
+    "sha256": "F91DE270193838EEC1547C56D5404CB040EE4DE13A86321BCAEAA010A38A3C27",
+    "bytes": 1915
+  },
+  {
+    "path": "Packages/packages-lock.json",
+    "sha256": "60FCF74AD5A0ED5749EDFA274E08934D6AD0E3E4BEE0BE85CBC85B9B3EF60A4D",
+    "bytes": 12313
+  }
+]

@@ -1,0 +1,4 @@
+V13 long-route search budget diagnosis
+B1_X6_pool2048 begin=InProgress update=OutOfNodes, Success end=OutOfNodes, PartialResult, Success outOfNodes=True partial=True iterations=2162 updateCalls=3 polygons=136 copied=136
+B1_X6_pool4096 begin=InProgress update=OutOfNodes, Success end=OutOfNodes, PartialResult, Success outOfNodes=True partial=True iterations=4243 updateCalls=5 polygons=136 copied=136
+B1_X6_pool16384 begin=InProgress update=Success end=Success outOfNodes=False partial=False iterations=4441 updateCalls=5 polygons=96 copied=96

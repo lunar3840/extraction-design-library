@@ -1,0 +1,118 @@
+{
+  "utc": "2026-11-03T21:38:45.475105+00:00",
+  "keptOriginalRevisions": [
+    1,
+    14
+  ],
+  "rows": [
+    {
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\Edel_S4_Fitting_Master_r2.blend",
+      "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\intermediate-archives\\Edel_S4_Fitting_Master_r2.blend.xz",
+      "sha256": "285901098765b116843d1501faabd0ec9a21c7662b8016139001d1a62d3ff5bb",
+      "originalBytes": 58160777,
+      "archiveBytes": 57094368,
+      "verifiedRestoreSHA256": "285901098765b116843d1501faabd0ec9a21c7662b8016139001d1a62d3ff5bb",
+      "restore": "XZ decompress archive to source path; verify SHA256"
+    },
+    {
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\Edel_S4_Fitting_Master_r3.blend",
+      "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\intermediate-archives\\Edel_S4_Fitting_Master_r3.blend.xz",
+      "sha256": "9a2d5fdf183cc31c5a0a7a505bfc78829be14c2bc026765e012b8e62b0fa29f9",
+      "originalBytes": 57841383,
+      "archiveBytes": 56789112,
+      "verifiedRestoreSHA256": "9a2d5fdf183cc31c5a0a7a505bfc78829be14c2bc026765e012b8e62b0fa29f9",
+      "restore": "XZ decompress archive to source path; verify SHA256"
+    },
+    {
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\Edel_S4_Fitting_Master_r4.blend",
+      "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\intermediate-archives\\Edel_S4_Fitting_Master_r4.blend.xz",
+      "sha256": "a77a4fe02d6b6c7edf283d5c8601b5d2d2edb2fa415cae654c47f03f170d61f2",
+      "originalBytes": 57834540,
+      "archiveBytes": 56774716,
+      "verifiedRestoreSHA256": "a77a4fe02d6b6c7edf283d5c8601b5d2d2edb2fa415cae654c47f03f170d61f2",
+      "restore": "XZ decompress archive to source path; verify SHA256"
+    },
+    {
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\Edel_S4_Fitting_Master_r5.blend",
+      "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\intermediate-archives\\Edel_S4_Fitting_Master_r5.blend.xz",
+      "sha256": "f975c3a2978588c73c84c23b26dd1bc39715b3ac6d9cfb40fde2d153eeeab0f5",
+      "originalBytes": 57792603,
+      "archiveBytes": 56733572,
+      "verifiedRestoreSHA256": "f975c3a2978588c73c84c23b26dd1bc39715b3ac6d9cfb40fde2d153eeeab0f5",
+      "restore": "XZ decompress archive to source path; verify SHA256"
+    },
+    {
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\Edel_S4_Fitting_Master_r6.blend",
+      "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\intermediate-archives\\Edel_S4_Fitting_Master_r6.blend.xz",
+      "sha256": "c2feb1db6497dfdd3430338b0f4470f867b38baeaf7a1471409a4c8aa95bea3f",
+      "originalBytes": 57846582,
+      "archiveBytes": 56802552,
+      "verifiedRestoreSHA256": "c2feb1db6497dfdd3430338b0f4470f867b38baeaf7a1471409a4c8aa95bea3f",
+      "restore": "XZ decompress archive to source path; verify SHA256"
+    },
+    {
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\Edel_S4_Fitting_Master_r7.blend",
+      "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\intermediate-archives\\Edel_S4_Fitting_Master_r7.blend.xz",
+      "sha256": "4f531bfec1df213a0854c6119d56d9bd06788d8d662a717fe37e9b6ccbe5f3ae",
+      "originalBytes": 58182079,
+      "archiveBytes": 57115484,
+      "verifiedRestoreSHA256": "4f531bfec1df213a0854c6119d56d9bd06788d8d662a717fe37e9b6ccbe5f3ae",
+      "restore": "XZ decompress archive to source path; verify SHA256"
+    },
+    {
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\Edel_S4_Fitting_Master_r8.blend",
+      "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\intermediate-archives\\Edel_S4_Fitting_Master_r8.blend.xz",
+      "sha256": "d7fc82a4d1371944f5bdd464c94292434cc3737d91f2095372ef7e9e789727cb",
+      "originalBytes": 58183614,
+      "archiveBytes": 57108232,
+      "verifiedRestoreSHA256": "d7fc82a4d1371944f5bdd464c94292434cc3737d91f2095372ef7e9e789727cb",
+      "restore": "XZ decompress archive to source path; verify SHA256"
+    },
+    {
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\Edel_S4_Fitting_Master_r9.blend",
+      "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\intermediate-archives\\Edel_S4_Fitting_Master_r9.blend.xz",
+      "sha256": "44c1f1061bf5ac2fc2f9de669868f2ee4892bcc51442b3a9149e2e35f8da286f",
+      "originalBytes": 58182105,
+      "archiveBytes": 57106672,
+      "verifiedRestoreSHA256": "44c1f1061bf5ac2fc2f9de669868f2ee4892bcc51442b3a9149e2e35f8da286f",
+      "restore": "XZ decompress archive to source path; verify SHA256"
+    },
+    {
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\Edel_S4_Fitting_Master_r10.blend",
+      "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\intermediate-archives\\Edel_S4_Fitting_Master_r10.blend.xz",
+      "sha256": "87b0d51a255a43791df15afe6363bf56157615129e42492a3482ee76d71ef075",
+      "originalBytes": 58298993,
+      "archiveBytes": 57240496,
+      "verifiedRestoreSHA256": "87b0d51a255a43791df15afe6363bf56157615129e42492a3482ee76d71ef075",
+      "restore": "XZ decompress archive to source path; verify SHA256"
+    },
+    {
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\Edel_S4_Fitting_Master_r11.blend",
+      "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\intermediate-archives\\Edel_S4_Fitting_Master_r11.blend.xz",
+      "sha256": "11c6a6ed3786e48a1a6666efd47c466991f88c1968cebe719be6c7f34324950a",
+      "originalBytes": 59273471,
+      "archiveBytes": 58191420,
+      "verifiedRestoreSHA256": "11c6a6ed3786e48a1a6666efd47c466991f88c1968cebe719be6c7f34324950a",
+      "restore": "XZ decompress archive to source path; verify SHA256"
+    },
+    {
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\Edel_S4_Fitting_Master_r12.blend",
+      "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\intermediate-archives\\Edel_S4_Fitting_Master_r12.blend.xz",
+      "sha256": "0dbff880e46f9c8ee4167c605bca5e36593762e30de9a8fe9973e9ce474188f8",
+      "originalBytes": 60243577,
+      "archiveBytes": 59131044,
+      "verifiedRestoreSHA256": "0dbff880e46f9c8ee4167c605bca5e36593762e30de9a8fe9973e9ce474188f8",
+      "restore": "XZ decompress archive to source path; verify SHA256"
+    },
+    {
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\Edel_S4_Fitting_Master_r13.blend",
+      "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\intermediate-archives\\Edel_S4_Fitting_Master_r13.blend.xz",
+      "sha256": "f483d1c633fe072ad31eeff21641e18d20eb12eab3bccd9781f1aad2c45d1ca8",
+      "originalBytes": 60748050,
+      "archiveBytes": 59625236,
+      "verifiedRestoreSHA256": "f483d1c633fe072ad31eeff21641e18d20eb12eab3bccd9781f1aad2c45d1ca8",
+      "restore": "XZ decompress archive to source path; verify SHA256"
+    }
+  ],
+  "savedBytes": 12874870
+}

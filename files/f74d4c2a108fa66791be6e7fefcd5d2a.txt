@@ -1,0 +1,69 @@
+UI kit actual Game View evidence: after_r05 / 1920x1080
+UTC 2026-10-21T22:17:20.3830590Z
+Isolated save directory=C:\UnityProject\escape\Library\UiKitEvidence\after-1920x1080-e106cfd3e86a436d9422933463089c93
+Scene=Assets/Escape/Scenes/SystemsTest.unity; no scene asset writes or EditorApplication.Exit.
+Fixture route only. Hover, drag, text focus and active keyboard input still need separate human verification.
+Medical wheel API fixture pauses only InventoryController.Update during its capture; it does not prove V-key input.
+Game View targetRenderSize is the resolution authority; Editor update Screen dimensions are diagnostic only.
+PASS 16:9 logical canvas (1600.00, 900.00)
+PASS hover clamp (1600.00, 900.00) (0.00, 0.00)
+PASS hover clamp (1600.00, 900.00) (1599.00, 0.00)
+PASS hover clamp (1600.00, 900.00) (0.00, 899.00)
+PASS hover clamp (1600.00, 900.00) (1599.00, 899.00)
+PASS 16:9 logical canvas (1920.00, 1080.00)
+PASS hover clamp (1920.00, 1080.00) (0.00, 0.00)
+PASS hover clamp (1920.00, 1080.00) (1599.00, 0.00)
+PASS hover clamp (1920.00, 1080.00) (0.00, 899.00)
+PASS hover clamp (1920.00, 1080.00) (1599.00, 899.00)
+PASS character inside actual logical viewport: (x:24.00, y:92.00, width:600.00, height:776.00)
+PASS portrait inside actual logical viewport: (x:28.00, y:104.00, width:460.00, height:710.00)
+PASS bag inside actual logical viewport: (x:648.00, y:92.00, width:412.00, height:728.00)
+PASS right inside actual logical viewport: (x:1076.00, y:92.00, width:500.00, height:776.00)
+PASS survival HUD inside actual logical viewport: (x:280.00, y:766.67, width:203.33, height:93.33)
+PASS action bar inside actual logical viewport: (x:600.00, y:773.33, width:400.00, height:86.67)
+PASS portrait inside character column
+PASS three inventory columns have no overlap
+PASS external context/detail reflow 6 columns
+PASS external context/detail reflow 10 columns
+PASS bag grid viewport inside bag
+PASS equipped weapon 0 inside character area
+PASS equipped weapon 1 inside character area
+Geometry checks do not prove text contrast, exact Figma fidelity or live input correctness.
+CAPTURE after_r05_title_1920x1080.png / 1687867 bytes
+CAPTURE after_r05_new_slots_1920x1080.png / 1582542 bytes
+CAPTURE after_r05_load_slots_empty_1920x1080.png / 1580895 bytes
+CAPTURE after_r05_new_slot_confirmation_1920x1080.png / 1589138 bytes
+CAPTURE after_r05_loading_1920x1080.png / 1613666 bytes
+Catalog items were added only to the fresh temporary session's storage for UI coverage.
+CAPTURE after_r05_camp_hud_1920x1080.png / 1575370 bytes
+CAPTURE after_r05_lobby_1920x1080.png / 347996 bytes
+CAPTURE after_r05_inventory_1920x1080.png / 1323504 bytes
+CAPTURE after_r05_inventory_side_1920x1080.png / 1317031 bytes
+CAPTURE after_r05_inventory_medical_1920x1080.png / 1215607 bytes
+CAPTURE after_r05_weapon_modding_1920x1080.png / 1283569 bytes
+CAPTURE after_r05_storage_1920x1080.png / 1303798 bytes
+CAPTURE after_r05_storage_details_1920x1080.png / 1310652 bytes
+CAPTURE after_r05_supply_1920x1080.png / 1267440 bytes
+CAPTURE after_r05_research_1920x1080.png / 1072113 bytes
+CAPTURE after_r05_companion_abilities_1920x1080.png / 1198468 bytes
+CAPTURE after_r05_chip_recovery_1920x1080.png / 1074082 bytes
+CAPTURE after_r05_quests_1920x1080.png / 1187914 bytes
+CAPTURE after_r05_save_records_1920x1080.png / 1478776 bytes
+CAPTURE after_r05_departure_1920x1080.png / 1359064 bytes
+CAPTURE after_r05_departing_1920x1080.png / 912677 bytes
+CAPTURE after_r05_combat_hud_1920x1080.png / 3535121 bytes
+CAPTURE after_r05_medical_wheel_api_fixture_1920x1080.png / 2796512 bytes
+CAPTURE after_r05_loot_search_1920x1080.png / 2726020 bytes
+CAPTURE after_r05_loot_revealed_1920x1080.png / 2730445 bytes
+CAPTURE after_r05_tactical_map_1920x1080.png / 571398 bytes
+CAPTURE after_r05_extraction_1920x1080.png / 3590127 bytes
+CAPTURE after_r05_extracted_camp_1920x1080.png / 1587496 bytes
+CAPTURE after_r05_story_dialogue_1920x1080.png / 390539 bytes
+CAPTURE after_r05_story_history_1920x1080.png / 221128 bytes
+CAPTURE after_r05_story_skip_confirmation_1920x1080.png / 292721 bytes
+CAPTURE after_r05_death_1920x1080.png / 3617197 bytes
+CAPTURE after_r05_saving_1920x1080.png / 916072 bytes
+CAPTURE after_r05_title_return_1920x1080.png / 122846 bytes
+COMPLETE Actual screen sequence completed.
+Bounds failures=0; actual bounds sampled=True; temporary session cleared=True
+During this capture sequence: no app/Editor closure, no Play stop, no scene save, no normal-profile modification was requested.

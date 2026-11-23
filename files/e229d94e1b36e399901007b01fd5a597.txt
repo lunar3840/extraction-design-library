@@ -1,0 +1,66 @@
+Actual grid/UI renderer evidence; isolated fixture, not a full gameplay screen.
+Oriented draw overload available
+PASS actual SdGunLibrary available
+PASS AR_001 uses a live model RenderTexture rather than a PNG/pictogram
+PASS AR_001 contains visible model pixels
+PASS AR_001 uses tight visible framing (0.965,0.960)
+PASS AR_001 background remains transparent
+PASS AR_002 uses a live model RenderTexture rather than a PNG/pictogram
+PASS AR_002 contains visible model pixels
+PASS AR_002 uses tight visible framing (0.961,0.928)
+PASS AR_002 background remains transparent
+PASS AR_003 uses a live model RenderTexture rather than a PNG/pictogram
+PASS AR_003 contains visible model pixels
+PASS AR_003 uses tight visible framing (0.965,0.957)
+PASS AR_003 background remains transparent
+PASS AR_004 uses a live model RenderTexture rather than a PNG/pictogram
+PASS AR_004 contains visible model pixels
+PASS AR_004 uses tight visible framing (0.965,0.947)
+PASS AR_004 background remains transparent
+PASS AR_011 uses a live model RenderTexture rather than a PNG/pictogram
+PASS AR_011 contains visible model pixels
+PASS AR_011 uses tight visible framing (0.961,0.965)
+PASS AR_011 background remains transparent
+PASS AR_012 uses a live model RenderTexture rather than a PNG/pictogram
+PASS AR_012 contains visible model pixels
+PASS AR_012 uses tight visible framing (0.965,0.962)
+PASS AR_012 background remains transparent
+PASS P_001 uses a live model RenderTexture rather than a PNG/pictogram
+PASS P_001 contains visible model pixels
+PASS P_001 uses tight visible framing (0.969,0.976)
+PASS P_001 background remains transparent
+PASS SG_001 uses a live model RenderTexture rather than a PNG/pictogram
+PASS SG_001 contains visible model pixels
+PASS SG_001 uses tight visible framing (0.969,0.976)
+PASS SG_001 background remains transparent
+PASS SR_001 uses a live model RenderTexture rather than a PNG/pictogram
+PASS SR_001 contains visible model pixels
+PASS SR_001 uses tight visible framing (0.969,0.970)
+PASS SR_001 background remains transparent
+PASS DMR_001 uses a live model RenderTexture rather than a PNG/pictogram
+PASS DMR_001 contains visible model pixels
+PASS DMR_001 uses tight visible framing (0.969,0.960)
+PASS DMR_001 background remains transparent
+PASS MG_001 uses a live model RenderTexture rather than a PNG/pictogram
+PASS MG_001 contains visible model pixels
+PASS MG_001 uses tight visible framing (0.967,0.973)
+PASS MG_001 background remains transparent
+PASS replacement test uses the same resolver as the equipped weapon
+PASS runtime prefab replacement updates the open thumbnail without baking or reopening
+PASS editing the existing model transform updates framing/content without changing its prefab identity
+PASS thumbnail copies have no gameplay colliders
+PASS thumbnail copies have no animator/gameplay pose
+PASS actual weapon muzzle axis projects right in horizontal slots
+PASS grid rotation turns the muzzle upward in vertical slots
+PASS non-weapons retain their existing icon path
+PASS AR_001 rotated grid footprint swaps dimensions
+PASS AR_001 icon uses the full slot excluding border and name strip
+PASS AR_004 rotated grid footprint swaps dimensions
+PASS AR_004 icon uses the full slot excluding border and name strip
+PASS SR_001 rotated grid footprint swaps dimensions
+PASS SR_001 icon uses the full slot excluding border and name strip
+PASS SG_001 rotated grid footprint swaps dimensions
+PASS SG_001 icon uses the full slot excluding border and name strip
+PASS P_001 rotated grid footprint swaps dimensions
+PASS P_001 icon uses the full slot excluding border and name strip
+RESULT PASS

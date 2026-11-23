@@ -1,0 +1,17 @@
+{
+  "beforeBrightInkBounds": [
+    60,
+    902,
+    667,
+    930
+  ],
+  "afterBrightInkBounds": [
+    60,
+    918,
+    667,
+    946
+  ],
+  "measuredVerticalShift": 16,
+  "method": "Bright foreground pixels within unchanged footer region; full original screenshots retained",
+  "actualSameRepaint": "1920x1080 GameView/rawScreen/lastPaint confirmed in copied state files"
+}

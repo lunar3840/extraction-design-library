@@ -1,0 +1,24 @@
+STAGE_A_LOOK_V19_VALIDATION
+generatedUtc=2026-09-22T17:08:02.2227297Z
+PASS map reference is live
+PASS pre-change V18 baseline exists for this map
+PASS pre-existing structure, controllers and repair root remain present
+PASS all pre-V19 collider geometry/state is unchanged
+PASS all pre-V19 renderer meshes/materials/state and all but eleven transforms are unchanged
+PASS the eleven permitted V17 panel objects remain present
+PASS all anchors and B4/R8 risky-entry policy remain unchanged
+PASS V16 atmosphere and V17 roof serialized settings remain unchanged
+PASS R1-R8, including R8, remain excluded from default spawn selection
+PASS B1-B4 and inactive R1-R8 remain correctly ordered
+PASS both V19 roots are direct children of the hall Exterior
+PASS new facade and weathering are visual-only with zero colliders
+PASS new facade and weathering have a bounded renderer count
+PASS new renderers have supported materials and valid, bounded meshes
+PASS new V19 geometry and adjusted V17 repair panels stay inside south facade bounds
+PASS new facade and adjusted panels do not cover main or loading visual apertures
+NOTE newRenderers=28 newColliders=0 vertices=352 badMaterials=0 badMeshes=0 outOfBounds=0 doorVisualHits=0
+PASS V14 collision regression passes (known warning allowed)
+PASS V15 overlap regression passes
+NOTE post colliders=4665:43525D51EC75A825 renderers=5990:117FC7C47E872C53 anchors=46:86E2F0F4D46F8D4B settings=28942B7387F2A992 allowedOldTransforms=4A9DE29C12D5BE40 (before=E8BAB187D7ECFF1A)
+SUMMARY passed=18 failed=0
+RESULT PASS

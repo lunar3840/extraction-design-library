@@ -1,0 +1,188 @@
+{
+  "scope": "16 product concepts; 32 character outfit presentations; not fitted 3D",
+  "columns": [
+    {
+      "index": 1,
+      "key": "mobility",
+      "label": "기동형"
+    },
+    {
+      "index": 2,
+      "key": "balanced",
+      "label": "균형형"
+    },
+    {
+      "index": 3,
+      "key": "heavy",
+      "label": "중장형"
+    },
+    {
+      "index": 4,
+      "key": "maintenance",
+      "label": "정비형"
+    }
+  ],
+  "products": [
+    {
+      "id": "C1",
+      "tier": "C",
+      "column": 1,
+      "name": "탐색 경량복",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "C2",
+      "tier": "C",
+      "column": 2,
+      "name": "회수 방탄조끼",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "C3",
+      "tier": "C",
+      "column": 3,
+      "name": "철판 보강복",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "C4",
+      "tier": "C",
+      "column": 4,
+      "name": "작업반 정비복",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "B1",
+      "tier": "B",
+      "column": 1,
+      "name": "훈련 경량복",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "B2",
+      "tier": "B",
+      "column": 2,
+      "name": "순찰 방탄복",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "B3",
+      "tier": "B",
+      "column": 3,
+      "name": "구문명 진압복",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "B4",
+      "tier": "B",
+      "column": 4,
+      "name": "수색대 야전복",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "A1",
+      "tier": "A",
+      "column": 1,
+      "name": "군용 정찰복",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "A2",
+      "tier": "A",
+      "column": 2,
+      "name": "군용 전투복",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "A3",
+      "tier": "A",
+      "column": 3,
+      "name": "돌입 방탄복",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "A4",
+      "tier": "A",
+      "column": 4,
+      "name": "공병 정비복",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "S1",
+      "tier": "S",
+      "column": 1,
+      "name": "특수부대 경량복",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "S2",
+      "tier": "S",
+      "column": 2,
+      "name": "특수작전 방탄복",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "S3",
+      "tier": "S",
+      "column": 3,
+      "name": "저거넛 방탄복",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "S4",
+      "tier": "S",
+      "column": 4,
+      "name": "원정대 장기작전복",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    }
+  ],
+  "namesStatus": "Inherited design candidate names; not new balance/drop approval"
+}

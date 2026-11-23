@@ -1,0 +1,679 @@
+{
+  "checkedAt": "2026-10-30T03:22:43.015Z",
+  "scope": [
+    {
+      "id": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+      "title": "블렌더 애니메이션 비교"
+    },
+    {
+      "id": "6a9aa012-2568-83ee-b24a-38588f3e743a",
+      "title": "세계관 설정 작성"
+    },
+    {
+      "id": "6a9cfb2c-d738-83e8-92f4-a2f5fee2435f",
+      "title": "주인공 캐릭터 제작"
+    },
+    {
+      "id": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+      "title": "히로인 컨셉 리스트(1 - 메인부관)"
+    },
+    {
+      "id": "6ad19e97-fff8-83ee-a88e-b2ce41f587df",
+      "title": "히로인 컨셉 리스트(2)"
+    },
+    {
+      "id": "6ad822ac-0b28-83ee-92f6-de3cfe7e06da",
+      "title": "리브 모델 작업 완료"
+    },
+    {
+      "id": "6ad1a2cb-b0b0-83e8-86b5-3421dc898b6b",
+      "title": "히로인 컨셉 리스트(3)"
+    },
+    {
+      "id": "6ab1142e-9aac-83ee-8525-8814ed92ed3d",
+      "title": "익스트랙션 게임 에셋 분석"
+    },
+    {
+      "id": "6ab11e2e-dabc-83e8-9094-4aed2579ba47",
+      "title": "맵 구조와 메인 미션 구상"
+    },
+    {
+      "id": "6ae3a330-8400-83ee-966a-3947d7c326dc",
+      "title": "3D 장비 제작 plan"
+    }
+  ],
+  "excluded": [
+    {
+      "id": "01a160e3-a94c-77d2-bf60-ca7e6a528240",
+      "title": "Figma 자기 PR 포트폴리오 리터칭"
+    },
+    {
+      "id": "01a17862-52ec-7b41-8e9b-ccf1f95c5922",
+      "title": "Figma 기획서 포트폴리오 리터칭"
+    }
+  ],
+  "returnedTurns": 45,
+  "newMessages": 13,
+  "existingMessagesPreserved": 32,
+  "referenceOnlyAnswers": 8,
+  "truncatedAnswers": 3,
+  "noAnswerBodies": 14,
+  "images": 5,
+  "pairs": 0,
+  "gameImplementationVerifiedByThisSync": 0,
+  "chatQueries": [
+    {
+      "id": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+      "title": "블렌더 애니메이션 비교",
+      "snapshot": "outputs/change_records/2026-10-30/scenario-chat-daily-sync/sources/6ad518f3-eb50-83ee-8fbe-503d87819c4d/page-001.json",
+      "updatedAt": 1792518097.306167,
+      "returnedTurns": 5,
+      "previouslyIndexed": 0,
+      "newTurns": 5,
+      "turns": [
+        {
+          "id": "a4eacdff-eb39-44ed-98fa-a3df478b5b8f",
+          "contentSHA256": "d0c40fad7bbe033215c5a92b34721cd578be8de38585b809d3cce31a147015a4",
+          "startedAt": 1792502438.791,
+          "instructionDateKst": "2026-10-20",
+          "isNew": true,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        },
+        {
+          "id": "735cfcec-997a-4375-8bde-0f4e66ba9cef",
+          "contentSHA256": "5629f2cc414447d89e76565b76c1ecc02d72b5d103ae289040aac116c53b47ce",
+          "startedAt": 1792510008.697,
+          "instructionDateKst": "2026-10-21",
+          "isNew": true,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        },
+        {
+          "id": "8206bf97-65af-45ef-9c6e-d318e6d85a2d",
+          "contentSHA256": "73f2f3a43d9bb84aee0bec1782ede325223aa49e7779f1b78673120db566c659",
+          "startedAt": 1792510669.876,
+          "instructionDateKst": "2026-10-21",
+          "isNew": true,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        },
+        {
+          "id": "20bea937-f7e5-47e4-a0a3-028fc9d4610d",
+          "contentSHA256": "64e390f447fd245dfd7636a3fe7bddb012ec03cf25283a31107f2c401176ec2b",
+          "startedAt": 1792512657.625,
+          "instructionDateKst": "2026-10-21",
+          "isNew": true,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        },
+        {
+          "id": "3fe6873b-dd83-4aa6-9530-8183b63de92e",
+          "contentSHA256": "ed1bdcddd17badc83e243e56bf7cc6f6a4ff7c6b2db4593bdfc8642dc11456d7",
+          "startedAt": 1792516572.611,
+          "instructionDateKst": "2026-10-21",
+          "isNew": true,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        }
+      ]
+    },
+    {
+      "id": "6a9aa012-2568-83ee-b24a-38588f3e743a",
+      "title": "세계관 설정 작성",
+      "snapshot": "outputs/change_records/2026-10-30/scenario-chat-daily-sync/sources/6a9aa012-2568-83ee-b24a-38588f3e743a/page-001.json",
+      "updatedAt": 1788525922.299702,
+      "returnedTurns": 5,
+      "previouslyIndexed": 5,
+      "newTurns": 0,
+      "turns": [
+        {
+          "id": "09f66325-f2c6-49ff-8a86-b22f709fb0e3",
+          "contentSHA256": "ebe0601a7ac33758b6aba3f69faffad4192f0535863ee69f52b4291eddebd4cb",
+          "startedAt": 1788521696.248,
+          "instructionDateKst": "2026-09-04",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": true,
+          "answerAvailable": true,
+          "status": "응답 일부 생략"
+        },
+        {
+          "id": "4eb8d9fe-9ecd-4bb2-875c-7183be238c14",
+          "contentSHA256": "03b8bc36775b9b4af994d62f4d23fa1094b95133afbf9d0850157d64281ef1c6",
+          "startedAt": 1788522756.452,
+          "instructionDateKst": "2026-09-04",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        },
+        {
+          "id": "373db6f3-15af-459b-8a7f-20ca040b6d43",
+          "contentSHA256": "6097eba605478a099ffa4aab53065ceeda366394bdc4650b82c441b0b036117a",
+          "startedAt": 1788523323.387,
+          "instructionDateKst": "2026-09-04",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": true,
+          "answerAvailable": true,
+          "status": "응답 일부 생략"
+        },
+        {
+          "id": "97f15dcf-34b2-4c22-a965-c25d3bdcfbfd",
+          "contentSHA256": "5e1b8a17be8b74c01f1e1d1c3114d6acc9c405fc24f3cf0dbe24c342c04f37da",
+          "startedAt": 1788523919.756,
+          "instructionDateKst": "2026-09-04",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        },
+        {
+          "id": "bc128041-dfa2-4df4-8997-7fcf83ef6d9c",
+          "contentSHA256": "a1cf5ce6dff31e1f7307de3174bab4c524c6ec8a9b56e712bd2bc20143e67844",
+          "startedAt": 1788525416.7,
+          "instructionDateKst": "2026-09-04",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": true,
+          "answerAvailable": true,
+          "status": "응답 일부 생략"
+        }
+      ]
+    },
+    {
+      "id": "6a9cfb2c-d738-83e8-92f4-a2f5fee2435f",
+      "title": "주인공 캐릭터 제작",
+      "snapshot": "outputs/change_records/2026-10-30/scenario-chat-daily-sync/sources/6a9cfb2c-d738-83e8-92f4-a2f5fee2435f/page-001.json",
+      "updatedAt": 1792662862.555089,
+      "returnedTurns": 5,
+      "previouslyIndexed": 10,
+      "newTurns": 0,
+      "turns": [
+        {
+          "id": "5e891f40-4d10-4f99-8915-55d506fff752",
+          "contentSHA256": "4fa82efd56d3bfd3ba5a2e4fb534abd52d8ea48cb7296324486f3ecf11a56f25",
+          "startedAt": 1792643134.979465,
+          "instructionDateKst": "2026-10-22",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        },
+        {
+          "id": "97dd89a6-9404-4962-a7df-a2f1691302c1",
+          "contentSHA256": "eca7309ed1237593cfcd074de3b187c16a57d0bb0ae04564c3f0c5818def0125",
+          "startedAt": 1792644114.54067,
+          "instructionDateKst": "2026-10-22",
+          "isNew": false,
+          "referenceOnly": true,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "참조 전용 · 본문 미확보"
+        },
+        {
+          "id": "4f42a846-123f-4a72-929e-bf63ee0c207b",
+          "contentSHA256": "82ea4f6b936dd5df3d5220011d82088994e0faf936e5d41f5dd05d115c930bf7",
+          "startedAt": 1792653390.749,
+          "instructionDateKst": "2026-10-22",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        },
+        {
+          "id": "81f89acd-9f6d-40c1-98cb-34d97cd87507",
+          "contentSHA256": "8d9afbea60d74a37ed5488a98020f0ced24c3dfe1d79cb6675aa436da72c11a7",
+          "startedAt": 1792653876.374,
+          "instructionDateKst": "2026-10-22",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "답변 본문 미반환"
+        },
+        {
+          "id": "0df856a5-0a8f-4baa-b554-8796e83188c8",
+          "contentSHA256": "941d9595660c4c392f907ef2c3350fa8ffefc49184df6daa89d7c662fca8229c",
+          "startedAt": 1792658982.348238,
+          "instructionDateKst": "2026-10-22",
+          "isNew": false,
+          "referenceOnly": true,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "참조 전용 · 본문 미확보"
+        }
+      ]
+    },
+    {
+      "id": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+      "title": "히로인 컨셉 리스트(1 - 메인부관)",
+      "snapshot": "outputs/change_records/2026-10-30/scenario-chat-daily-sync/sources/6a9d0fc0-0d14-83ee-b952-0959548603e3/page-001.json",
+      "updatedAt": 1793330088.53111,
+      "returnedTurns": 5,
+      "previouslyIndexed": 11,
+      "newTurns": 5,
+      "turns": [
+        {
+          "id": "20fb2279-8c57-4ae7-a96c-dce5954c4268",
+          "contentSHA256": "2bb95a7076ecdbe2ba6163ed7b71f0c72466ea520ed81a08b3392eb627c3e6cd",
+          "startedAt": 1793262258.456,
+          "instructionDateKst": "2026-10-29",
+          "isNew": true,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        },
+        {
+          "id": "5bb081e4-3d77-4b86-b8c5-787a65487ee4",
+          "contentSHA256": "a63c74cab7a7c3c9b3e507b58d08f9097b340715554531366e8894fbd7a4ce64",
+          "startedAt": 1793290208.791,
+          "instructionDateKst": "2026-10-30",
+          "isNew": true,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        },
+        {
+          "id": "ad4c0f76-3b67-499e-bc48-b0000c336f3b",
+          "contentSHA256": "741f0b610d48b141edb11728e96c9de00d1c803451c24ae8fd040f3e4f79d258",
+          "startedAt": 1793293175.399,
+          "instructionDateKst": "2026-10-30",
+          "isNew": true,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        },
+        {
+          "id": "d9ebcc8b-3d33-4621-8553-5ef10568e107",
+          "contentSHA256": "a53414b4f08cf33c0cb62f9e8a7f62f446c24b5eba337d2903128f94c1e93b88",
+          "startedAt": 1793298877.795,
+          "instructionDateKst": "2026-10-30",
+          "isNew": true,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        },
+        {
+          "id": "81b7e3f1-3b50-439f-91df-b25dcd0e7f29",
+          "contentSHA256": "8abb0fda683c99b60518c67c034e1553a361ac32870ea919c3efb465d22f7695",
+          "startedAt": 1793329070.2,
+          "instructionDateKst": "2026-10-30",
+          "isNew": true,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "답변 본문 미반환"
+        }
+      ]
+    },
+    {
+      "id": "6ad19e97-fff8-83ee-a88e-b2ce41f587df",
+      "title": "히로인 컨셉 리스트(2)",
+      "snapshot": "outputs/change_records/2026-10-30/scenario-chat-daily-sync/sources/6ad19e97-fff8-83ee-a88e-b2ce41f587df/page-001.json",
+      "updatedAt": 1792125882.890208,
+      "returnedTurns": 5,
+      "previouslyIndexed": 5,
+      "newTurns": 0,
+      "turns": [
+        {
+          "id": "aa7c4902-5e30-415e-bdcd-b735d0dc79c0",
+          "contentSHA256": "1ff26e616457d81091c70d9f51315fd6f92901e98e3b697cac2b769cf91b5961",
+          "startedAt": 1792124301.183844,
+          "instructionDateKst": "2026-10-16",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "답변 본문 미반환"
+        },
+        {
+          "id": "782f79d8-4c76-4567-8387-180da18c6493",
+          "contentSHA256": "fefac6f8c838f79ed76773ae34d6545ba257e1abec8c8582c465a316a7b6b7f5",
+          "startedAt": 1792124490.282646,
+          "instructionDateKst": "2026-10-16",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "답변 본문 미반환"
+        },
+        {
+          "id": "17b7506a-1b36-4402-acb2-0d0a1b9938c1",
+          "contentSHA256": "3a6b263cd3cbdc304253c0a487294fdc43aa135c951b7db338dbe61b61ca4bba",
+          "startedAt": 1792124621.4698548,
+          "instructionDateKst": "2026-10-16",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        },
+        {
+          "id": "33487f38-ae7f-4107-b6fa-eb0414af7da2",
+          "contentSHA256": "8bb3b19dcbfa22030a37942b9d78b439da58bf62b5cb32db3d1c0c5d312f8b66",
+          "startedAt": 1792124691.7011719,
+          "instructionDateKst": "2026-10-16",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "답변 본문 미반환"
+        },
+        {
+          "id": "ac745371-b48c-4f97-b2e1-3511b9a5c562",
+          "contentSHA256": "33f13d82d6d21d51c06845021b1c14e454ae53264728eba836c866a656559d51",
+          "startedAt": 1792125740.477515,
+          "instructionDateKst": "2026-10-16",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        }
+      ]
+    },
+    {
+      "id": "6ad822ac-0b28-83ee-92f6-de3cfe7e06da",
+      "title": "리브 모델 작업 완료",
+      "snapshot": "outputs/change_records/2026-10-30/scenario-chat-daily-sync/sources/6ad822ac-0b28-83ee-92f6-de3cfe7e06da/page-001.json",
+      "updatedAt": 1792663302.001586,
+      "returnedTurns": 5,
+      "previouslyIndexed": 5,
+      "newTurns": 0,
+      "turns": [
+        {
+          "id": "43ab82cd-c751-4e54-b57c-c572f57857f7",
+          "contentSHA256": "c4ed90bd8e0f133b5079f4ffe3b5633ad520ccce27b8f64ea15c5f87b50a9ed4",
+          "startedAt": 1792658970.133481,
+          "instructionDateKst": "2026-10-22",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "답변 본문 미반환"
+        },
+        {
+          "id": "3ca86a32-c42b-4de4-adf4-bd6150079f2e",
+          "contentSHA256": "1e7608b93ef85061ad6678c48f8572c2b8d45ab6b06c145a08feabc79a5b3286",
+          "startedAt": 1792659282.994601,
+          "instructionDateKst": "2026-10-22",
+          "isNew": false,
+          "referenceOnly": true,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "참조 전용 · 본문 미확보"
+        },
+        {
+          "id": "28e9fa5a-a197-47ca-90f4-1187b58e2556",
+          "contentSHA256": "de207dce6633cf93ec1a1fb12db323474432f72563bd3b8181e39452518616c0",
+          "startedAt": 1792660791.314,
+          "instructionDateKst": "2026-10-22",
+          "isNew": false,
+          "referenceOnly": true,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "참조 전용 · 본문 미확보"
+        },
+        {
+          "id": "3f927d9f-7f45-4d0d-82a7-879107b8ab17",
+          "contentSHA256": "b627e87375737d758a7e20b6de86a7c6dc3c75d4b599caf2089b1140c3e592ff",
+          "startedAt": 1792662596.188,
+          "instructionDateKst": "2026-10-22",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        },
+        {
+          "id": "f5eec2e3-9f17-49e2-9cf4-0aa684d47633",
+          "contentSHA256": "741411c9572ebc945c7f45933a537c3f76ec0e75f16b1efaef8d7fd7d20c9d89",
+          "startedAt": 1792662744.603,
+          "instructionDateKst": "2026-10-22",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        }
+      ]
+    },
+    {
+      "id": "6ad1a2cb-b0b0-83e8-86b5-3421dc898b6b",
+      "title": "히로인 컨셉 리스트(3)",
+      "snapshot": "outputs/change_records/2026-10-30/scenario-chat-daily-sync/sources/6ad1a2cb-b0b0-83e8-86b5-3421dc898b6b/page-001.json",
+      "updatedAt": 1792639624.264059,
+      "returnedTurns": 5,
+      "previouslyIndexed": 11,
+      "newTurns": 0,
+      "turns": [
+        {
+          "id": "2c46639a-0b54-407b-acda-08bc28bf3512",
+          "contentSHA256": "bd86a5b34c800e63d2d8c0ec130692cf877ee78627970ef10f5f2dea3647be6b",
+          "startedAt": 1792629627.756,
+          "instructionDateKst": "2026-10-22",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "답변 본문 미반환"
+        },
+        {
+          "id": "62c5877f-12c4-4551-9290-c001746ab9e4",
+          "contentSHA256": "438028edd39e6d8b3d151eab2f4c927273bf05660cfb66c93ae493ab2af73816",
+          "startedAt": 1792629988.517,
+          "instructionDateKst": "2026-10-22",
+          "isNew": false,
+          "referenceOnly": true,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "참조 전용 · 본문 미확보"
+        },
+        {
+          "id": "402e7333-e4b7-4b8b-a224-defa18895721",
+          "contentSHA256": "fe7d610e7f15dfae56e685cca38a654750e2a266f6155aaa83d75b00fe16ed03",
+          "startedAt": 1792633086.754,
+          "instructionDateKst": "2026-10-22",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        },
+        {
+          "id": "c0e05ff9-7237-4212-bf1e-98d9fd3ad6b7",
+          "contentSHA256": "8f55d5a25ebd5de993133144d011ac7644552374789e95003d4c80041d826b04",
+          "startedAt": 1792634707.139,
+          "instructionDateKst": "2026-10-22",
+          "isNew": false,
+          "referenceOnly": true,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "참조 전용 · 본문 미확보"
+        },
+        {
+          "id": "1758481c-3757-4eab-9f73-8d887e505c47",
+          "contentSHA256": "d3e632a8c16e41a5dd4f28f6646a474a372565917c4a537169254e9a7e122c12",
+          "startedAt": 1792638709.718,
+          "instructionDateKst": "2026-10-22",
+          "isNew": false,
+          "referenceOnly": true,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "참조 전용 · 본문 미확보"
+        }
+      ]
+    },
+    {
+      "id": "6ab1142e-9aac-83ee-8525-8814ed92ed3d",
+      "title": "익스트랙션 게임 에셋 분석",
+      "snapshot": "outputs/change_records/2026-10-30/scenario-chat-daily-sync/sources/6ab1142e-9aac-83ee-8525-8814ed92ed3d/page-001.json",
+      "updatedAt": 1790159556.474866,
+      "returnedTurns": 5,
+      "previouslyIndexed": 5,
+      "newTurns": 0,
+      "turns": [
+        {
+          "id": "252a69aa-ff43-4fc9-a9c6-60023e47a109",
+          "contentSHA256": "b236bb84fe42d9b3c39c0c8aab6effad2e6d20dcac2ab6ded709e3d2ff249f5c",
+          "startedAt": 1790152773.69,
+          "instructionDateKst": "2026-09-23",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        },
+        {
+          "id": "5574099c-3994-4165-b0e0-34db98d76343",
+          "contentSHA256": "6624d4f2a07256a66de97777da80e5b60b19b5bbfbdcc7e81893fb23843fb723",
+          "startedAt": 1790153776.22,
+          "instructionDateKst": "2026-09-23",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "답변 본문 미반환"
+        },
+        {
+          "id": "9a2ae8e9-08ad-4fb7-b722-f38a0ef05b01",
+          "contentSHA256": "fe8c3db6f15366d4e0888febdae88be5db70c210d93928e446023ca4860fe77a",
+          "startedAt": 1790154578.297,
+          "instructionDateKst": "2026-09-23",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "답변 본문 미반환"
+        },
+        {
+          "id": "61a7685f-65f2-487f-b429-3b3d7004a8ae",
+          "contentSHA256": "f91a29b0d49b5f1d544cb57c54fb34da13705caeb2165ec3c5ad21503cad225e",
+          "startedAt": 1790155270.241,
+          "instructionDateKst": "2026-09-23",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "답변 본문 미반환"
+        },
+        {
+          "id": "1514d4af-8c4d-4cbb-bcd6-7a05c8fc341a",
+          "contentSHA256": "c0b433d82cac35e0e521063fe31e283d9846f9ecbe4a70f28a7145fcfe6f1d5a",
+          "startedAt": 1790159464.184,
+          "instructionDateKst": "2026-09-23",
+          "isNew": false,
+          "referenceOnly": true,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "참조 전용 · 본문 미확보"
+        }
+      ]
+    },
+    {
+      "id": "6ab11e2e-dabc-83e8-9094-4aed2579ba47",
+      "title": "맵 구조와 메인 미션 구상",
+      "snapshot": "outputs/change_records/2026-10-30/scenario-chat-daily-sync/sources/6ab11e2e-dabc-83e8-9094-4aed2579ba47/page-001.json",
+      "updatedAt": 1790006076.684528,
+      "returnedTurns": 2,
+      "previouslyIndexed": 2,
+      "newTurns": 0,
+      "turns": [
+        {
+          "id": "07943b4d-a6ff-47f5-b492-6b21b7ec9d29",
+          "contentSHA256": "8ce97b828611833ffa6bcf4e63c0a219bc8ce679fa14de3274d16c6134dc6b34",
+          "startedAt": 1789992494.103,
+          "instructionDateKst": "2026-09-21",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": true,
+          "status": "응답 본문 확보 · 실제 파일/구현 미검증"
+        },
+        {
+          "id": "b3ab5287-41b8-42a0-9528-f5168f04810f",
+          "contentSHA256": "f6933b8c3e88d44264e2d1b25b4809ad9e590799556d715e4572f005333bfb81",
+          "startedAt": 1790005886.997,
+          "instructionDateKst": "2026-09-22",
+          "isNew": false,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "답변 본문 미반환"
+        }
+      ]
+    },
+    {
+      "id": "6ae3a330-8400-83ee-966a-3947d7c326dc",
+      "title": "3D 장비 제작 plan",
+      "snapshot": "outputs/change_records/2026-10-30/scenario-chat-daily-sync/sources/6ae3a330-8400-83ee-966a-3947d7c326dc/page-001.json",
+      "updatedAt": 1793330256.976777,
+      "returnedTurns": 3,
+      "previouslyIndexed": 0,
+      "newTurns": 3,
+      "turns": [
+        {
+          "id": "32c56ff3-9c74-4e95-88ad-9e5adc6d81d1",
+          "contentSHA256": "912f5d598191602b77015e448a06d55411a9124967114e4c883dc9c8e59878d7",
+          "startedAt": 1793303359.421,
+          "instructionDateKst": "2026-10-30",
+          "isNew": true,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "답변 본문 미반환"
+        },
+        {
+          "id": "c66f4e2e-2afd-4e83-b702-22b07b6c5989",
+          "contentSHA256": "8b1a0f7e78a84ba0608716bd48c093e91de7e3530846a631fe3911c1ff602168",
+          "startedAt": 1793329088.055,
+          "instructionDateKst": "2026-10-30",
+          "isNew": true,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "답변 본문 미반환"
+        },
+        {
+          "id": "74fbe6a5-9597-47a6-a9b0-0789fecb929b",
+          "contentSHA256": "a344996a2ea811746bf92befe1dfcd5aa9cf7cafee6d80e3d6f93d2781fa6fe4",
+          "startedAt": 1793329846.597,
+          "instructionDateKst": "2026-10-30",
+          "isNew": true,
+          "referenceOnly": false,
+          "truncated": false,
+          "answerAvailable": false,
+          "status": "답변 본문 미반환"
+        }
+      ]
+    }
+  ],
+  "missingArtifacts": "Remote sandbox model/video/image outputs are references only. Web access was logged out; no authentication or desktop app automation attempted. Original archive and previously longer text remain unchanged.",
+  "automaticSync": {
+    "id": "automation-2",
+    "name": "익스트랙션 라이브러리 — Codex·시나리오 채팅 매일 동기화",
+    "status": "ACTIVE",
+    "frequency": "daily"
+  },
+  "publicationStatus": "pending"
+}

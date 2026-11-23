@@ -1,0 +1,95 @@
+PASS Production source outside Line method is unchanged
+PASS Parent matrix is multiplied before logical local transform
+PASS Stroke rectangle starts at logical local origin
+PASS Parent matrix is restored even if drawing throws
+PASS Arc repaint-only behavior is retained
+PASS Scale 0.5 line start matches parent-transformed A [0 0 100 0]
+PASS Scale 0.5 line end matches parent-transformed B [0 0 100 0]
+PASS Scale 0.5 line start matches parent-transformed A [110 45 110 -25]
+PASS Scale 0.5 line end matches parent-transformed B [110 45 110 -25]
+PASS Scale 0.5 line start matches parent-transformed A [1325.625 772.6667 1361.625 772.6667]
+PASS Scale 0.5 line end matches parent-transformed B [1325.625 772.6667 1361.625 772.6667]
+PASS Scale 0.5 line start matches parent-transformed A [-35 80 120 -95]
+PASS Scale 0.5 line end matches parent-transformed B [-35 80 120 -95]
+PASS Scale 0.5 line start matches parent-transformed A [9 7 9 7]
+PASS Scale 0.5 line end matches parent-transformed B [9 7 9 7]
+PASS Scale 0.5 ratio 0 all 0 arc segment endpoints match scaled circle
+PASS Scale 0.5 ratio 0 all stroke corners stay inside own 76-logical rect (maxOffset=0, halfExtent=19)
+PASS Scale 0.5 ratio 0.01 all 1 arc segment endpoints match scaled circle
+PASS Scale 0.5 ratio 0.01 all stroke corners stay inside own 76-logical rect (maxOffset=18.4995241107909, halfExtent=19)
+PASS Scale 0.5 ratio 0.25 all 18 arc segment endpoints match scaled circle
+PASS Scale 0.5 ratio 0.25 all stroke corners stay inside own 76-logical rect (maxOffset=18.499524110791, halfExtent=19)
+PASS Scale 0.5 ratio 0.5 all 36 arc segment endpoints match scaled circle
+PASS Scale 0.5 ratio 0.5 all stroke corners stay inside own 76-logical rect (maxOffset=18.499524110791, halfExtent=19)
+PASS Scale 0.5 ratio 0.999 all 72 arc segment endpoints match scaled circle
+PASS Scale 0.5 ratio 0.999 all stroke corners stay inside own 76-logical rect (maxOffset=18.499524110791, halfExtent=19)
+PASS Scale 0.5 ratio 1 all 72 arc segment endpoints match scaled circle
+PASS Scale 0.5 ratio 1 all stroke corners stay inside own 76-logical rect (maxOffset=18.499524110791, halfExtent=19)
+PASS Scale 1 line start matches parent-transformed A [0 0 100 0]
+PASS Scale 1 line end matches parent-transformed B [0 0 100 0]
+PASS Scale 1 line start matches parent-transformed A [110 45 110 -25]
+PASS Scale 1 line end matches parent-transformed B [110 45 110 -25]
+PASS Scale 1 line start matches parent-transformed A [1325.625 772.6667 1361.625 772.6667]
+PASS Scale 1 line end matches parent-transformed B [1325.625 772.6667 1361.625 772.6667]
+PASS Scale 1 line start matches parent-transformed A [-35 80 120 -95]
+PASS Scale 1 line end matches parent-transformed B [-35 80 120 -95]
+PASS Scale 1 line start matches parent-transformed A [9 7 9 7]
+PASS Scale 1 line end matches parent-transformed B [9 7 9 7]
+PASS Scale 1 ratio 0 all 0 arc segment endpoints match scaled circle
+PASS Scale 1 ratio 0 all stroke corners stay inside own 76-logical rect (maxOffset=0, halfExtent=38)
+PASS Scale 1 ratio 0.01 all 1 arc segment endpoints match scaled circle
+PASS Scale 1 ratio 0.01 all stroke corners stay inside own 76-logical rect (maxOffset=36.9990482215818, halfExtent=38)
+PASS Scale 1 ratio 0.25 all 18 arc segment endpoints match scaled circle
+PASS Scale 1 ratio 0.25 all stroke corners stay inside own 76-logical rect (maxOffset=36.9990482215819, halfExtent=38)
+PASS Scale 1 ratio 0.5 all 36 arc segment endpoints match scaled circle
+PASS Scale 1 ratio 0.5 all stroke corners stay inside own 76-logical rect (maxOffset=36.9990482215819, halfExtent=38)
+PASS Scale 1 ratio 0.999 all 72 arc segment endpoints match scaled circle
+PASS Scale 1 ratio 0.999 all stroke corners stay inside own 76-logical rect (maxOffset=36.9990482215819, halfExtent=38)
+PASS Scale 1 ratio 1 all 72 arc segment endpoints match scaled circle
+PASS Scale 1 ratio 1 all stroke corners stay inside own 76-logical rect (maxOffset=36.9990482215819, halfExtent=38)
+PASS Scale 1.2 line start matches parent-transformed A [0 0 100 0]
+PASS Scale 1.2 line end matches parent-transformed B [0 0 100 0]
+PASS Scale 1.2 line start matches parent-transformed A [110 45 110 -25]
+PASS Scale 1.2 line end matches parent-transformed B [110 45 110 -25]
+PASS Scale 1.2 line start matches parent-transformed A [1325.625 772.6667 1361.625 772.6667]
+PASS Scale 1.2 line end matches parent-transformed B [1325.625 772.6667 1361.625 772.6667]
+PASS Scale 1.2 line start matches parent-transformed A [-35 80 120 -95]
+PASS Scale 1.2 line end matches parent-transformed B [-35 80 120 -95]
+PASS Scale 1.2 line start matches parent-transformed A [9 7 9 7]
+PASS Scale 1.2 line end matches parent-transformed B [9 7 9 7]
+PASS Scale 1.2 ratio 0 all 0 arc segment endpoints match scaled circle
+PASS Scale 1.2 ratio 0 all stroke corners stay inside own 76-logical rect (maxOffset=0, halfExtent=45.6)
+PASS Scale 1.2 ratio 0.01 all 1 arc segment endpoints match scaled circle
+PASS Scale 1.2 ratio 0.01 all stroke corners stay inside own 76-logical rect (maxOffset=44.3988578658981, halfExtent=45.6)
+PASS Scale 1.2 ratio 0.25 all 18 arc segment endpoints match scaled circle
+PASS Scale 1.2 ratio 0.25 all stroke corners stay inside own 76-logical rect (maxOffset=44.3988578658982, halfExtent=45.6)
+PASS Scale 1.2 ratio 0.5 all 36 arc segment endpoints match scaled circle
+PASS Scale 1.2 ratio 0.5 all stroke corners stay inside own 76-logical rect (maxOffset=44.3988578658982, halfExtent=45.6)
+PASS Scale 1.2 ratio 0.999 all 72 arc segment endpoints match scaled circle
+PASS Scale 1.2 ratio 0.999 all stroke corners stay inside own 76-logical rect (maxOffset=44.3988578658984, halfExtent=45.6)
+PASS Scale 1.2 ratio 1 all 72 arc segment endpoints match scaled circle
+PASS Scale 1.2 ratio 1 all stroke corners stay inside own 76-logical rect (maxOffset=44.3988578658984, halfExtent=45.6)
+PASS Scale 1.5 line start matches parent-transformed A [0 0 100 0]
+PASS Scale 1.5 line end matches parent-transformed B [0 0 100 0]
+PASS Scale 1.5 line start matches parent-transformed A [110 45 110 -25]
+PASS Scale 1.5 line end matches parent-transformed B [110 45 110 -25]
+PASS Scale 1.5 line start matches parent-transformed A [1325.625 772.6667 1361.625 772.6667]
+PASS Scale 1.5 line end matches parent-transformed B [1325.625 772.6667 1361.625 772.6667]
+PASS Scale 1.5 line start matches parent-transformed A [-35 80 120 -95]
+PASS Scale 1.5 line end matches parent-transformed B [-35 80 120 -95]
+PASS Scale 1.5 line start matches parent-transformed A [9 7 9 7]
+PASS Scale 1.5 line end matches parent-transformed B [9 7 9 7]
+PASS Scale 1.5 ratio 0 all 0 arc segment endpoints match scaled circle
+PASS Scale 1.5 ratio 0 all stroke corners stay inside own 76-logical rect (maxOffset=0, halfExtent=57)
+PASS Scale 1.5 ratio 0.01 all 1 arc segment endpoints match scaled circle
+PASS Scale 1.5 ratio 0.01 all stroke corners stay inside own 76-logical rect (maxOffset=55.4985723323728, halfExtent=57)
+PASS Scale 1.5 ratio 0.25 all 18 arc segment endpoints match scaled circle
+PASS Scale 1.5 ratio 0.25 all stroke corners stay inside own 76-logical rect (maxOffset=55.498572332373, halfExtent=57)
+PASS Scale 1.5 ratio 0.5 all 36 arc segment endpoints match scaled circle
+PASS Scale 1.5 ratio 0.5 all stroke corners stay inside own 76-logical rect (maxOffset=55.498572332373, halfExtent=57)
+PASS Scale 1.5 ratio 0.999 all 72 arc segment endpoints match scaled circle
+PASS Scale 1.5 ratio 0.999 all stroke corners stay inside own 76-logical rect (maxOffset=55.498572332373, halfExtent=57)
+PASS Scale 1.5 ratio 1 all 72 arc segment endpoints match scaled circle
+PASS Scale 1.5 ratio 1 all stroke corners stay inside own 76-logical rect (maxOffset=55.498572332373, halfExtent=57)
+TOTAL PASS 93
+Scope: independent double-precision mathematical/source checks, not Unity render or live input verification.

@@ -1,0 +1,10 @@
+samples=240
+raw_unscaled_seconds=25.613212000578642
+accepted_animator_seconds=25.613212000578642
+ui_clock_delta_seconds=25.613212000578642
+animator_policy_mismatches=0
+stable_clip_pairs=239
+normalized_advance=12.742011070251465
+state_duration_weighted_phase_seconds=25.484025178435104
+authored_speed_weighted_expected_phase_seconds=25.484027590602636
+Review state length/speed and transition rows before claiming clip elapsed.

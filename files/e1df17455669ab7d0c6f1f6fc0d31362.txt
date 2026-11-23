@@ -1,0 +1,4 @@
+														1804 그룹 HUD/QuickSlotCompact, Component definition ID: 55:1184
+																	1872 콤보 상자 (settable, string) Width Value: 80
+																	1877 콤보 상자 (settable, string) Height Value: 80
+																1190 편집 (settable, string) Corner radius Value: 10

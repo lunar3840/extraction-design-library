@@ -1,0 +1,13 @@
+PASS swap serin: one presentation, fresh humanoid/hitboxes/portrait, unchanged gameplay
+PASS swap prototype: one presentation, fresh humanoid/hitboxes/portrait, unchanged gameplay
+PASS swap unbound: one presentation, fresh humanoid/hitboxes/portrait, unchanged gameplay
+PASS swap prototype: one presentation, fresh humanoid/hitboxes/portrait, unchanged gameplay
+PASS swap serin: one presentation, fresh humanoid/hitboxes/portrait, unchanged gameplay
+PASS swap unbound: one presentation, fresh humanoid/hitboxes/portrait, unchanged gameplay
+PASS swap serin: one presentation, fresh humanoid/hitboxes/portrait, unchanged gameplay
+PASS swap prototype: one presentation, fresh humanoid/hitboxes/portrait, unchanged gameplay
+PASS swap serin: one presentation, fresh humanoid/hitboxes/portrait, unchanged gameplay
+PASS invalid selection leaves the current model and animator intact
+PASS prototype armor equipped: intended hair hiding, original exposed-hair texture/color/UV binding, covered clothing mesh
+PASS prototype armor unequipped: original body/hair meshes, material texture/color/UV bindings and visibility restored
+PASS visual acceptance complete

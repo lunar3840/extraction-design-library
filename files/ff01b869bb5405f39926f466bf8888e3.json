@@ -1,0 +1,145 @@
+{
+  "scope": "Presentation only; no Unity/Figma/native app control",
+  "status": "pass",
+  "compilation": "Syntax parsed using Unity-bundled Roslyn; full runtime compilation and actual screen QA belong to root integration",
+  "failures": [],
+  "files": [
+    {
+      "file": "Assets/Escape/Runtime/Stage/SessionGlassView.cs",
+      "beforeSha256": "66667b9c0660c6cebe51dba63d1d66040a10b49c7a9e8e5d0d00a60f91e4527b",
+      "afterSha256": "fc9440b9422ebcf713fbff3bcfd2971b34161327b5a17610148e6c6b03101845",
+      "changedMethods": [
+        "DrawLobby()",
+        "DrawControlHelp()",
+        "DrawOperationMeta()"
+      ],
+      "unchangedOtherMethods": 13,
+      "fieldsChanged": false,
+      "callbacksUnchanged": true,
+      "actualTextUnchanged": true,
+      "propertiesUnchanged": true,
+      "syntaxErrors": []
+    },
+    {
+      "file": "Assets/Escape/Runtime/Stage/SessionGrowthView.cs",
+      "beforeSha256": "48baf16098f25f57d11550dcf9d84e4c117c577d7f0f54ebded280d1dfb56dfa",
+      "afterSha256": "da1a1aa38ef29d4dc4124fb4e3e414b28198118c7b615e2b085c7e6897da556b",
+      "changedMethods": [
+        "DrawGrowthTree()",
+        "DrawResearch(Rect r)",
+        "DrawCompanionAbilities(Rect r)"
+      ],
+      "unchangedOtherMethods": 3,
+      "fieldsChanged": true,
+      "callbacksUnchanged": true,
+      "actualTextUnchanged": true,
+      "propertiesUnchanged": true,
+      "syntaxErrors": []
+    },
+    {
+      "file": "Assets/Escape/Runtime/Stage/SessionQuestView.cs",
+      "beforeSha256": "a47458b4cda2e68583cf733f8948e3e621ee9ef9c752ae932e1e953085064861",
+      "afterSha256": "93226fc62d5c2012dd3fffaa7c54c6242f9d9bc3dadb2d3bdf8f11acad7af870",
+      "changedMethods": [
+        "DrawQuestJournal()"
+      ],
+      "unchangedOtherMethods": 1,
+      "fieldsChanged": false,
+      "callbacksUnchanged": true,
+      "actualTextUnchanged": true,
+      "propertiesUnchanged": true,
+      "syntaxErrors": []
+    },
+    {
+      "file": "Assets/Escape/Runtime/Stage/SessionChipRecoveryView.cs",
+      "beforeSha256": "d219f48a73550ecbd0edc437a0872aa69e9248eba197ef83f0bb03ba31d96fae",
+      "afterSha256": "e7dde251bbaea562f5fd4a9ecfead76b2876ce203d723a478472da7a416f72a9",
+      "changedMethods": [
+        "DrawChipRecovery(Rect r)"
+      ],
+      "unchangedOtherMethods": 1,
+      "fieldsChanged": false,
+      "callbacksUnchanged": true,
+      "actualTextUnchanged": true,
+      "propertiesUnchanged": true,
+      "syntaxErrors": []
+    },
+    {
+      "file": "Assets/Escape/Runtime/Stage/SessionInventoryPresentation.cs",
+      "beforeSha256": "ad09279a7975cb29e883e04a0d6b27b829babfa9115575444248b95d1632e527",
+      "afterSha256": "5053b7f27e7d147e53658c033f78c08dc55a8c020088bd9028fa3499cded420e",
+      "changedMethods": [
+        "DrawStoragePanel(Rect rect)"
+      ],
+      "unchangedOtherMethods": 7,
+      "fieldsChanged": false,
+      "callbacksUnchanged": true,
+      "actualTextUnchanged": true,
+      "propertiesUnchanged": true,
+      "syntaxErrors": []
+    },
+    {
+      "file": "Assets/Escape/Runtime/Stage/SessionTestWorld.cs",
+      "beforeSha256": "88d21a858411595adbd5096237ff476dc16358eb1ea89eddce031314a8965e29",
+      "afterSha256": "23ad8b213331192e0026def35e58da9ce76d608dacac23f418bfecc8d610d102",
+      "changedMethods": [
+        "DrawDeparture()",
+        "DrawShop()",
+        "DrawGrowth()",
+        "DrawSave()"
+      ],
+      "unchangedOtherMethods": 32,
+      "fieldsChanged": false,
+      "callbacksUnchanged": true,
+      "actualTextUnchanged": true,
+      "propertiesUnchanged": true,
+      "syntaxErrors": []
+    },
+    {
+      "file": "Assets/Escape/Runtime/UI/FrontEndController.cs",
+      "beforeSha256": "3d87f3f1a0a19b734a0b6eca3aeffaa40a2ee905326eca6acd28e6024ab90e9d",
+      "afterSha256": "892c3d1b047f34800a10d3f0599bfb7c8ed6e6ed3fa0536b16c66a3818e38c96",
+      "changedMethods": [
+        "OnGUI()"
+      ],
+      "unchangedOtherMethods": 18,
+      "fieldsChanged": false,
+      "callbacksUnchanged": true,
+      "actualTextUnchanged": true,
+      "propertiesUnchanged": true,
+      "syntaxErrors": []
+    },
+    {
+      "file": "Assets/Escape/Runtime/Story/CutsceneDirector.cs",
+      "beforeSha256": "9192de4d9276fe8d571e129d0d4d5d7b10870d563fb69ef9b19adf4fb04aad3b",
+      "afterSha256": "136d50638cbce505bfadf5bec56b1e7d3a4e0e594bed128dbb4e55d73eb9cf58",
+      "changedMethods": [
+        "OnGUI()"
+      ],
+      "unchangedOtherMethods": 12,
+      "fieldsChanged": false,
+      "callbacksUnchanged": true,
+      "actualTextUnchanged": true,
+      "propertiesUnchanged": true,
+      "syntaxErrors": []
+    },
+    {
+      "file": "Assets/Escape/Runtime/Mapping/TacticalMapView.cs",
+      "beforeSha256": "c381b46c4bbb71f33a43c9c34b8d2f87616a7baa84ca9cd2816dcc6971a61221",
+      "afterSha256": "69176beed5a28190d5683d7520cb6de5f02c0ef8948d06d2bf115b3392330e91",
+      "changedMethods": [
+        "DrawMini()",
+        "Panel(Rect rect,string title)",
+        "FlatButton(Rect rect,string text,bool active=false)",
+        "DrawMap(Rect viewport,Rect world,bool full)",
+        "DrawSymbol(Rect rect,TacticalPoiKind kind,Color color)"
+      ],
+      "unchangedOtherMethods": 30,
+      "fieldsChanged": false,
+      "callbacksUnchanged": true,
+      "actualTextUnchanged": true,
+      "propertiesUnchanged": true,
+      "syntaxErrors": []
+    }
+  ]
+}

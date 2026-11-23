@@ -1,0 +1,373 @@
+{
+  "reference": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-16\\a-map-density-v04\\AFTER_ROSTER.txt",
+  "tolerance_world_m": 0.00015,
+  "current_count": 73,
+  "old_count": 73,
+  "results": [
+    {
+      "id": "N1",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "N2",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "N3",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "N4",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "N5",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G1_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G1_02",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G2_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G2_02",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G3_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G3_02",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G4_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G4_02",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G5_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G5_02",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G5_03",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G6_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G6_02",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G6_03",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G7_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G7_02",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G7_03",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G8_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G8_02",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G8_03",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G9_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G9_02",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G9_03",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G9_04",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G10_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G10_02",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G10_03",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G10_04",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G11_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G11_02",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G11_03",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G12_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G12_02",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G12_03",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G12_04",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G12_05",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "G12_06",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "H1_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "H1_02",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "H1_03",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "H2_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "H2_02",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "H2_03",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "H3_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "D_HALL_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "D_HALL_02",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "D_POWER_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "D_PARTS_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "D_TOOLS_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "D_G5_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "D_G7_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "D_G9_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "D_G11_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "H1_04",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "H2_04",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "H4_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "H4_02",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "H5_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "H5_02",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "H6_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "V4_G5_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "V4_G7_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "V4_G8_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "V4_G9_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "V4_G10_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "V4_G10_02",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "V4_G11_01",
+      "matches_old": true,
+      "differences": []
+    },
+    {
+      "id": "V4_G12_01",
+      "matches_old": true,
+      "differences": []
+    }
+  ]
+}

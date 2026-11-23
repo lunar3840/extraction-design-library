@@ -1,0 +1,27 @@
+source=95314 result=94709 cut=5898 cap=652 fragments=14 vehicleBacking=3390 vehicleStitch=652 changed=True; Source colliders are unchanged; rebake collision before using this variant for gameplay.
+kind=Vehicle; local center=(0.78, 0.90, 1.51); radii=(0.62, 0.50, 1.48); seed=731
+vehicle lining source boundary segments=603; surface-only inverse clip
+종류: Vehicle / 사용 시드: 731 / 숨긴 충돌용 보조 렌더러: 0
+{"sourceTriangles":95314,"resultTriangles":94709,"changedVertices":5898,"cutTriangles":5898,"capTriangles":652,"newFragments":14,"vehicleBackingTriangles":3390,"vehicleBackingMeshes":1,"vehicleStitchTriangles":652,"vehicleBackingMinRecessWorld":0.041999999433755878,"vehicleBackingMaxRecessWorld":0.14751678705215455,"geometryChanged":true,"generatedRoot":{"instanceID":-4243338}}
+94706 source triangles, 92 paths, 734 stem segments, 1090 leaves, 0 excluded samples. 
+16 eligible slots, 1 skipped slots.
+SKIP Model[0]: disabled, shadow-only, or no static MeshFilter
+AGED __RuinGenerated_Model[0] 17e38f9b0e47c3c4f968b61c02deaa24_URP -> metal
+AGED __RuinGenerated_VehicleBacking_Model[0] RuinGenerated_ironBacking -> metal
+AGED __RuinGenerated_Fragment_00[0] RuinGenerated_ironCore -> metal
+AGED __RuinGenerated_Fragment_01[0] RuinGenerated_rustCore -> metal
+AGED __RuinGenerated_Fragment_02[0] RuinGenerated_ironCore -> metal
+AGED __RuinGenerated_Fragment_03[0] RuinGenerated_rustCore -> metal
+AGED __RuinGenerated_Fragment_04[0] RuinGenerated_ironCore -> metal
+AGED __RuinGenerated_Fragment_05[0] RuinGenerated_rustCore -> metal
+AGED __RuinGenerated_Fragment_06[0] RuinGenerated_ironCore -> metal
+AGED __RuinGenerated_Fragment_07[0] RuinGenerated_rustCore -> metal
+AGED __RuinGenerated_Fragment_08[0] RuinGenerated_ironCore -> metal
+AGED __RuinGenerated_Fragment_09[0] RuinGenerated_rustCore -> metal
+AGED __RuinGenerated_Fragment_10[0] RuinGenerated_ironCore -> metal
+AGED __RuinGenerated_Fragment_11[0] RuinGenerated_rustCore -> metal
+AGED __RuinGenerated_Fragment_12[0] RuinGenerated_ironCore -> metal
+AGED __RuinGenerated_Fragment_13[0] RuinGenerated_rustCore -> metal
+
+BAKE/RELOAD RENDER COMPLETE
+BUILDING CORE EXACT MATCH

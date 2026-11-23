@@ -1,0 +1,15 @@
+PASS actual-A-map-controller-and-components
+PASS single-local-controller
+PASS 36-preloaded-clips-18-bounded-voices
+save=C:/Users/ehoji/AppData/Local/Temp/DefaultCompany/escape\StageMapPreview\0040abec3cfe44ec8bfd9cff0428a1b0 weapon=AR_001 magazine=0 reserve=100 frozen=False
+PASS isolated-preview-save
+PASS actual-reload-request
+PASS actual-A-map-body-fire
+PASS actual-A-map-body-hit-and-audio
+PASS actual-A-map-head-fire
+PASS actual-A-map-head-marker
+PASS actual-A-map-kill-fire
+PASS actual-A-map-kill-marker
+PASS actual-A-map-incoming-arc-and-sound
+COMPLETE failures=0
+Editor stopped; scene=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity

@@ -1,0 +1,161 @@
+2026-09-22 오전 3:03:02
+STAGE_A_COLLISION_V14_INDEPENDENT_VALIDATION
+generatedUtc=2026-09-21T18:03:03.1992943Z
+result=FAIL
+passes=121 failures=34 warnings=1
+FAIL NWC_01 removed interior partition -2.8 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_NWC_01__Collision/V12_FactoryInteriorCollision/SupplyCabinet_2__Collision at (-138.35, 5.07, 165.91)
+FAIL NWC_02 removed interior partition -4.4 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_NWC_02__Collision/V12_FactoryInteriorCollision/MedicalStorage_2__Collision at (-232.25, 4.73, 176.10)
+FAIL WM_01 removed interior partition -2.9 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_WM_01__Collision/V12_FactoryInteriorCollision/UtilityPanel_0__Collision at (-166.01, 0.40, -35.59)
+FAIL WM_02 removed interior partition -4.3 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_WM_02__Collision/V12_FactoryInteriorCollision/ControlPanel_2__Collision at (-140.08, 0.05, -69.54)
+FAIL WM_02 removed interior partition -3.6 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_WM_02__Collision/V12_FactoryInteriorCollision/ControlPanel_2__Collision at (-139.48, 0.05, -69.99)
+FAIL WM_02 removed interior partition 5.8 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_WM_02__Collision/V12_FactoryInteriorCollision/PowerBank_1__Collision at (-130.59, 0.04, -72.94)
+FAIL WM_04 removed interior partition -3.6 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_WM_04__Collision/V12_FactoryInteriorCollision/UtilityPanel_1__Collision at (-122.79, 0.90, -50.93)
+FAIL WM_04 removed interior partition -2.8 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_WM_04__Collision/V12_FactoryInteriorCollision/UtilityPanel_1__Collision at (-122.05, 0.91, -50.81)
+FAIL WM_06 removed interior partition 3.2 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_WM_06__Collision/V12_FactoryInteriorCollision/RustBarrel_2__Collision at (-218.39, 0.34, -74.93)
+FAIL WM_06 removed interior partition 4.0 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_WM_06__Collision/V12_FactoryInteriorCollision/RustBarrel_2__Collision at (-217.70, 0.02, -75.23)
+FAIL WM_07 removed interior partition -2.8 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_WM_07__Collision/V12_FactoryInteriorCollision/RustBarrel_1__Collision at (-217.00, 1.22, 55.65)
+FAIL WM_07 removed interior partition -2.1 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_WM_07__Collision/V12_FactoryInteriorCollision/RustBarrel_1__Collision at (-216.31, 1.22, 55.34)
+FAIL WM_07 removed interior partition 2.2 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_WM_07__Collision/V12_FactoryInteriorCollision/UtilityPanel_2__Collision at (-212.03, 1.26, 54.75)
+FAIL SWR_02 facade West gap -2.7 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_02__Collision/V12_FactoryInteriorCollision/ScatteredDebris_0__Collision at (-169.25, 0.02, -186.58)
+FAIL SWR_04 facade East gap 2.5 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_04__Collision/V12_FactoryInteriorCollision/CollapsedMasonry_0__Collision at (-234.29, 0.03, -57.75)
+FAIL SWR_04 facade East gap 3.3 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_04__Collision/V12_FactoryInteriorCollision/CollapsedMasonry_0__Collision at (-234.48, 0.03, -57.01)
+FAIL SWR_04 removed interior partition 3.8 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_04__Collision/V12_FactoryInteriorCollision/CollapsedMasonry_0__Collision at (-235.38, 0.04, -58.96)
+FAIL SWR_05 facade West gap -2.6 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_05__Collision/V12_FactoryInteriorCollision/CollapsedMasonry_2__Collision at (-98.12, 0.06, -79.39)
+FAIL SWR_05 facade West gap -1.8 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_05__Collision/V12_FactoryInteriorCollision/CollapsedMasonry_2__Collision at (-98.19, 0.07, -78.66)
+FAIL SWR_05 removed interior partition -3.8 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_05__Collision/V12_FactoryInteriorCollision/CollapsedMasonry_2__Collision at (-98.14, 0.07, -78.14)
+FAIL SWR_05 removed interior partition -3.1 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_05__Collision/V12_FactoryInteriorCollision/CollapsedMasonry_2__Collision at (-97.42, 0.09, -78.07)
+FAIL SWR_05 removed interior partition -2.4 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_05__Collision/V12_FactoryInteriorCollision/CollapsedMasonry_2__Collision at (-96.70, 0.10, -78.00)
+FAIL SWR_05 removed interior partition -1.7 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_05__Collision/V12_FactoryInteriorCollision/CollapsedMasonry_2__Collision at (-95.99, 0.11, -77.94)
+FAIL SWR_05 removed interior partition 2.7 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_05__Collision/V12_FactoryInteriorCollision/RustBarrel_1__Collision at (-91.92, 0.27, -74.96)
+FAIL SWR_07 facade West gap -2.3 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_07__Collision/V12_FactoryInteriorCollision/CollapsedMasonry_0__Collision at (-89.56, -0.03, -146.62)
+FAIL SWR_07 facade West gap -1.6 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_07__Collision/V12_FactoryInteriorCollision/CollapsedMasonry_0__Collision at (-89.72, -0.04, -145.86)
+FAIL SWR_09 facade East gap 1.2 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_09__Collision/V12_FactoryInteriorCollision/ScatteredDebris_2__Collision at (-185.98, 0.11, -143.18)
+FAIL SWR_09 facade West gap -2.8 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_09__Collision/V12_FactoryInteriorCollision/CollapsedMasonry_1__Collision at (-191.54, 0.16, -148.70)
+FAIL SWR_09 facade West gap -2.0 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_09__Collision/V12_FactoryInteriorCollision/CollapsedMasonry_1__Collision at (-192.15, 0.16, -148.05)
+FAIL SWR_09 facade West gap -1.2 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_09__Collision/V12_FactoryInteriorCollision/CollapsedMasonry_1__Collision at (-191.93, 0.16, -147.17)
+FAIL SS_03 removed interior partition 4.5 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SS_03__Collision/V12_FactoryInteriorCollision/PartsCabinet_2__Collision at (-37.71, 0.45, -81.01)
+FAIL EU_01 removed interior partition 1.8 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_EU_01__Collision/V12_FactoryInteriorCollision/PowerBank_2__Collision at (238.70, 4.29, 107.26)
+FAIL NWC_04 removed interior partition 1.2 blocks a radius 0.40m, height 2.00m capsule: StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_NWC_04__Collision/V12_FactoryInteriorCollision/MedicalStorage_0__Collision at (-218.66, 2.33, 148.75)
+FAIL all independently sampled visual gaps pass the player capsule (232/265)
+WARN B1->X6 public query remains Partial but a fresh 16384-node query proves complete topology: B1->X6_V14 begin=InProgress update=Success end=Success outOfNodes=False partial=False iterations=4414 updateCalls=5 polygons=94 copied=94
+PASS map reference is live
+PASS v11 district record set remains complete
+PASS NWC_01 has exactly one replace-on-rerun v14 collision root
+PASS NWC_01 v14 root contains active visible-structure boxes
+PASS NWC_02 has exactly one replace-on-rerun v14 collision root
+PASS NWC_02 v14 root contains active visible-structure boxes
+PASS NWC_03 has exactly one replace-on-rerun v14 collision root
+PASS NWC_03 v14 root contains active visible-structure boxes
+PASS WM_01 has exactly one replace-on-rerun v14 collision root
+PASS WM_01 v14 root contains active visible-structure boxes
+PASS WM_02 has exactly one replace-on-rerun v14 collision root
+PASS WM_02 v14 root contains active visible-structure boxes
+PASS WM_03 has exactly one replace-on-rerun v14 collision root
+PASS WM_03 v14 root contains active visible-structure boxes
+PASS WM_04 has exactly one replace-on-rerun v14 collision root
+PASS WM_04 v14 root contains active visible-structure boxes
+PASS WM_05 has exactly one replace-on-rerun v14 collision root
+PASS WM_05 v14 root contains active visible-structure boxes
+PASS WM_06 has exactly one replace-on-rerun v14 collision root
+PASS WM_06 v14 root contains active visible-structure boxes
+PASS WM_07 has exactly one replace-on-rerun v14 collision root
+PASS WM_07 v14 root contains active visible-structure boxes
+PASS WM_08 has exactly one replace-on-rerun v14 collision root
+PASS WM_08 v14 root contains active visible-structure boxes
+PASS WM_09 has exactly one replace-on-rerun v14 collision root
+PASS WM_09 v14 root contains active visible-structure boxes
+PASS SWR_01 has exactly one replace-on-rerun v14 collision root
+PASS SWR_01 v14 root contains active visible-structure boxes
+PASS SWR_02 has exactly one replace-on-rerun v14 collision root
+PASS SWR_02 v14 root contains active visible-structure boxes
+PASS SWR_03 has exactly one replace-on-rerun v14 collision root
+PASS SWR_03 v14 root contains active visible-structure boxes
+PASS SWR_04 has exactly one replace-on-rerun v14 collision root
+PASS SWR_04 v14 root contains active visible-structure boxes
+PASS SWR_05 has exactly one replace-on-rerun v14 collision root
+PASS SWR_05 v14 root contains active visible-structure boxes
+PASS SWR_06 has exactly one replace-on-rerun v14 collision root
+PASS SWR_06 v14 root contains active visible-structure boxes
+PASS SWR_07 has exactly one replace-on-rerun v14 collision root
+PASS SWR_07 v14 root contains active visible-structure boxes
+PASS SWR_08 has exactly one replace-on-rerun v14 collision root
+PASS SWR_08 v14 root contains active visible-structure boxes
+PASS SWR_09 has exactly one replace-on-rerun v14 collision root
+PASS SWR_09 v14 root contains active visible-structure boxes
+PASS SWR_10 has exactly one replace-on-rerun v14 collision root
+PASS SWR_10 v14 root contains active visible-structure boxes
+PASS SWR_11 has exactly one replace-on-rerun v14 collision root
+PASS SWR_11 v14 root contains active visible-structure boxes
+PASS SWR_12 has exactly one replace-on-rerun v14 collision root
+PASS SWR_12 v14 root contains active visible-structure boxes
+PASS SWR_13 has exactly one replace-on-rerun v14 collision root
+PASS SWR_13 v14 root contains active visible-structure boxes
+PASS SWR_14 has exactly one replace-on-rerun v14 collision root
+PASS SWR_14 v14 root contains active visible-structure boxes
+PASS SS_01 has exactly one replace-on-rerun v14 collision root
+PASS SS_01 v14 root contains active visible-structure boxes
+PASS SS_02 has exactly one replace-on-rerun v14 collision root
+PASS SS_02 v14 root contains active visible-structure boxes
+PASS SS_03 has exactly one replace-on-rerun v14 collision root
+PASS SS_03 v14 root contains active visible-structure boxes
+PASS SS_04 has exactly one replace-on-rerun v14 collision root
+PASS SS_04 v14 root contains active visible-structure boxes
+PASS SS_05 has exactly one replace-on-rerun v14 collision root
+PASS SS_05 v14 root contains active visible-structure boxes
+PASS EU_01 has exactly one replace-on-rerun v14 collision root
+PASS EU_01 v14 root contains active visible-structure boxes
+PASS EU_02 has exactly one replace-on-rerun v14 collision root
+PASS EU_02 v14 root contains active visible-structure boxes
+PASS NWC_04 has exactly one replace-on-rerun v14 collision root
+PASS NWC_04 v14 root contains active visible-structure boxes
+PASS SS_06 has exactly one replace-on-rerun v14 collision root
+PASS SS_06 v14 root contains active visible-structure boxes
+PASS EU_03 has exactly one replace-on-rerun v14 collision root
+PASS EU_03 v14 root contains active visible-structure boxes
+PASS EU_04 has exactly one replace-on-rerun v14 collision root
+PASS EU_04 v14 root contains active visible-structure boxes
+PASS EU_05 has exactly one replace-on-rerun v14 collision root
+PASS EU_05 v14 root contains active visible-structure boxes
+PASS EU_06 has exactly one replace-on-rerun v14 collision root
+PASS EU_06 v14 root contains active visible-structure boxes
+PASS legacy structural collider inventory was inspected (count=362)
+PASS no old wall, partition, ruin support, or shed post remains active
+PASS replacement visible-structure colliders exist (count=532)
+PASS at least three old-collider/visible-facade gaps were independently derived (actual=67)
+PASS orphan interior partition passages were independently derived (actual=198)
+PASS representative walk SWR_01 facade East gap 1.2 (-171.48, 0.04, -150.50) -> (-168.91, 0.03, -150.08) evidence=old=StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_01__Collision/East_Broken__Collision; factoryWallOrColumnAtLane=false
+PASS representative walk SWR_02 facade East gap 1.2 (-159.29, 0.03, -182.06) -> (-156.70, 0.03, -181.91) evidence=old=StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_02__Collision/East_Broken__Collision; factoryWallOrColumnAtLane=false
+PASS representative walk SWR_03 facade East gap 1.1 (-100.46, 0.18, -172.86) -> (-97.92, 0.18, -172.28) evidence=old=StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_03__Collision/East_Broken__Collision; factoryWallOrColumnAtLane=false
+PASS representative walk SWR_04 facade East gap 1.8 (-234.54, 0.03, -58.47) -> (-231.94, 0.03, -58.56) evidence=old=StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_04__Collision/East_Broken__Collision; factoryWallOrColumnAtLane=false
+PASS representative walk NWC_01 removed interior partition -3.5 (-138.76, 5.03, 164.48) -> (-139.34, 5.05, 167.01) evidence=old=StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_NWC_01__Collision/InteriorPartition_L__Collision; currentVisibleGeometryAtLane=false
+PASS representative walk NWC_02 removed interior partition -5.8 (-232.89, 4.76, 173.39) -> (-233.69, 4.73, 175.86) evidence=old=StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_NWC_02__Collision/InteriorPartition_L__Collision; currentVisibleGeometryAtLane=false
+PASS visible factory wall meshes were ray-tested (rays=376)
+PASS every visible factory wall ray hits its replacement collision (376/376)
+PASS v08 gameplay structure remains present
+PASS four basic entry references are populated
+PASS seven extraction references are populated
+PASS B1 identity and ordered reference are preserved
+PASS B2 identity and ordered reference are preserved
+PASS B3 identity and ordered reference are preserved
+PASS B4 identity and ordered reference are preserved
+PASS X1 identity and ordered reference are preserved
+PASS X2 identity and ordered reference are preserved
+PASS X3 identity and ordered reference are preserved
+PASS X4 identity and ordered reference are preserved
+PASS X5 identity and ordered reference are preserved
+PASS X6 identity and ordered reference are preserved
+PASS X7 identity and ordered reference are preserved
+PASS twelve authored B/R marker references remain intact
+PASS B/R tier metadata remains 4 basic plus 8 risk
+PASS risk entries remain excluded from default random spawning
+PASS spawn array still points to ordered B1-B4 then disabled-risk R1-R8 identities
+PASS V13 hall root remains present
+PASS V13 hall layer controller still targets the same hall
+PASS v14 district repair created no object inside HALLV13
+PASS HALLV13 retains non-degenerate authored collision
+PASS HALLV13 comparison signature=1210:1E1FC000EAC2C6DA
+PASS v13 vegetation zone inventory remains present
+PASS vegetation zones were inspected (zones=20)
+PASS vegetation remains render-only with zero enabled colliders
+PASS temporary collision-based NavMesh builds
+PASS basic-entry/extraction matrix remains reachable (complete=27/28, knownWarn=1)

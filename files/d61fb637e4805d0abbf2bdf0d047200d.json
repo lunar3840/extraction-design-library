@@ -1,0 +1,94 @@
+[
+  {
+    "role": "before_reconstructed",
+    "file": "before_reconstructed_magazine_supply_front.png",
+    "source_native": "C:\\Users\\ehoji\\OneDrive\\\ubb38\uc11c\\ChatGPT\\\uc775\uc2a4\ud2b8\ub799\uc158\\work\\weapon-grip-reload-20261119\\qa_inputs\\AR_013_A_pass_10.blend",
+    "source_sha256": "f9ffd829ccaf7e7a01cd1f4446889cdbcfd2cf92c1fc7bff95132329d57793de",
+    "action": "GR_AR_013_A_Reload",
+    "frame": 127,
+    "camera": {
+      "view": "front",
+      "target": [
+        0.17000000178813934,
+        -0.02500000037252903,
+        0.4399999976158142
+      ],
+      "camera": [
+        1.3700000047683716,
+        -2.0250000953674316,
+        0.9399999976158142
+      ],
+      "scale": 0.45
+    },
+    "meaning": "same camera; rewritten pickup/carry event timing differs; before reconstructed exactly from archived failed pass10"
+  },
+  {
+    "role": "before_reconstructed",
+    "file": "before_reconstructed_magazine_supply_top.png",
+    "source_native": "C:\\Users\\ehoji\\OneDrive\\\ubb38\uc11c\\ChatGPT\\\uc775\uc2a4\ud2b8\ub799\uc158\\work\\weapon-grip-reload-20261119\\qa_inputs\\AR_013_A_pass_10.blend",
+    "source_sha256": "f9ffd829ccaf7e7a01cd1f4446889cdbcfd2cf92c1fc7bff95132329d57793de",
+    "action": "GR_AR_013_A_Reload",
+    "frame": 127,
+    "camera": {
+      "view": "top",
+      "target": [
+        0.17000000178813934,
+        -0.02500000037252903,
+        0.4399999976158142
+      ],
+      "camera": [
+        0.6700000166893005,
+        -0.824999988079071,
+        2.440000057220459
+      ],
+      "scale": 0.4
+    },
+    "meaning": "same camera; rewritten pickup/carry event timing differs; before reconstructed exactly from archived failed pass10"
+  },
+  {
+    "role": "after",
+    "file": "after_magazine_supply_front.png",
+    "source_native": "C:\\Users\\ehoji\\OneDrive\\\ubb38\uc11c\\ChatGPT\\\uc775\uc2a4\ud2b8\ub799\uc158\\work\\weapon-grip-reload-20261119\\qa_inputs\\AR_013_A_pass_17.blend",
+    "source_sha256": "61c3c29985a19116f0f7b1f4e08be58a2b7293ceccb6546ff345eaf95dd31519",
+    "action": "GR_AR_013_A_Reload",
+    "frame": 162,
+    "camera": {
+      "view": "front",
+      "target": [
+        0.17000000178813934,
+        -0.02500000037252903,
+        0.4399999976158142
+      ],
+      "camera": [
+        1.3700000047683716,
+        -2.0250000953674316,
+        0.9399999976158142
+      ],
+      "scale": 0.45
+    },
+    "meaning": "same camera; rewritten pickup/carry event timing differs; before reconstructed exactly from archived failed pass10"
+  },
+  {
+    "role": "after",
+    "file": "after_magazine_supply_top.png",
+    "source_native": "C:\\Users\\ehoji\\OneDrive\\\ubb38\uc11c\\ChatGPT\\\uc775\uc2a4\ud2b8\ub799\uc158\\work\\weapon-grip-reload-20261119\\qa_inputs\\AR_013_A_pass_17.blend",
+    "source_sha256": "61c3c29985a19116f0f7b1f4e08be58a2b7293ceccb6546ff345eaf95dd31519",
+    "action": "GR_AR_013_A_Reload",
+    "frame": 162,
+    "camera": {
+      "view": "top",
+      "target": [
+        0.17000000178813934,
+        -0.02500000037252903,
+        0.4399999976158142
+      ],
+      "camera": [
+        0.6700000166893005,
+        -0.824999988079071,
+        2.440000057220459
+      ],
+      "scale": 0.4
+    },
+    "meaning": "same camera; rewritten pickup/carry event timing differs; before reconstructed exactly from archived failed pass10"
+  }
+]

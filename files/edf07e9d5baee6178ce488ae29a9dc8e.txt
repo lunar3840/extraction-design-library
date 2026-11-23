@@ -1,0 +1,40 @@
+Synthetic crop contracts for image-based minimap — 2026-10-22
+
+Target: staged Assembly-CSharp.dll in this validation directory, copied unchanged into
+work/image-based-minimap/crop_contracts/ for assembly resolution by a separate .NET 6 process.
+Runner: work/image-based-minimap/crop_contracts/CropContractChecks.cs
+Host: Unity-bundled dotnet.exe and Roslyn csc.dll; no Unity native player/editor execution.
+
+RESULT: 15/15 PASS after the crop optimization
+- Top-left and north/east/south colour orientation from an asymmetric 8x4 grid.
+- Exact texel centres, clamped image edges, horizontal and vertical bilinear midpoints.
+- Safe outside colour at all four map boundaries.
+- Rectangular map with nonzero origin and independent X/Y metre scales.
+- Circular crop transparent corners, opaque centre, antialiased edge, and north-up rows.
+- Moving crop 10 metres east shifts sampled RGB by exactly one 10-metre source texel.
+- On a varied colour grid and a crop crossing map boundaries, the cached crop
+  differs from SampleImage by at most 2 levels in any RGB channel (observed max=2).
+- Invalid destination buffer rejected with ArgumentException.
+
+PERF BEFORE: 2600x2000 synthetic Color32 source, 256x256 circular crop,
+3 warmups then 100 measured calls: 700.2 ms total, 7.002 ms/call average.
+PERF AFTER: same setup, new process: 136.6 ms total, 1.366 ms/call average.
+The measured call is 5.13x faster (about 80.5% less time). These are managed
+standalone .NET host measurements, not Unity frame timing or GPU/readback cost.
+
+Implementation: staging Runtime/TacticalMapImage.cs now retains a mask by crop
+resolution, recomputes X/Y source indices and fixed-point weights only once per
+axis, and performs the 4-source RGB blend in the destination loop. SampleImage
+remains unchanged. The mask and axis arrays belong to TacticalMapData and are
+reused between crops; they have no Unity/native resources and are collected with
+the data instance. Invalid calibration JSON now reaches the unavailable-image
+fallback through a caught exception.
+
+Verification: the staging runtime.rsp compiled to this validation directory
+with no errors (existing project warnings only). The staged DLL was copied to
+the contract runner's directory before the final standalone run.
+
+First run failed with MissingMethodException for TacticalMapData.SampleImage because
+the standalone resolver found the older Unity Library/ScriptAssemblies copy of
+Assembly-CSharp.dll. Copying the staged validation DLL next to the runner fixed
+assembly resolution. The final run above passed; no product code was changed.

@@ -1,0 +1,5 @@
+PASS Space advances one line
+PASS Enter advances one line
+PASS Esc opens skip confirmation
+PASS Skip button restores quest journal
+PASS Bond tab selects companion quest

@@ -1,0 +1,10 @@
+PASS Escape.Tests.LootEconomyChecks|Run
+PASS Escape.Tests.GrowthReworkChecks|Run
+PASS Escape.Tests.BasecampChecks|Run
+PASS Escape.Tests.SessionChecks|Run
+PASS Escape.Tests.InventoryChecks|Run
+PASS Escape.Tests.LootChecks|Run
+PASS Escape.Tests.GroundLootChecks|RunRules
+PASS Escape.Tests.LootEquipmentChecks|RunRules
+PASS Escape.EditorTools.StageALootChecks|RunBatch
+Failed groups: 0

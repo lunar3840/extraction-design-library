@@ -1,0 +1,4 @@
+large
+System.InvalidOperationException: Fixture restore transfer failed
+  at Escape.EditorTools.ChestRigReviewBridge.ConfigurePack (System.Boolean large) [0x00256] in C:\UnityProject\escape\Assets\Escape\Editor\ChestRigReviewBridge.cs:109 
+  at Escape.EditorTools.ChestRigReviewBridge.Poll () [0x00126] in C:\UnityProject\escape\Assets\Escape\Editor\ChestRigReviewBridge.cs:46 

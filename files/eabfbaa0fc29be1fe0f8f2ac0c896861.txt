@@ -1,0 +1,76 @@
+STAGE_A_LANDSCAPE_V31_VALIDATION
+PASS live Stage A map exists
+PASS baseline contains no V31 physical root
+PASS existing physical terrain is active
+PASS B1-B4, inactive R1-R8 and X1-X7 retain their registered slots
+PASS B4 and inactive R8 retain separate spawn policy; risky candidates are not activated
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/B1
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/B2
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/B3
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/B4
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/R1
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/R2
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/R3
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/R4
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/R5
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/R6
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/R7
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/R8
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/X1
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/X2
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/X3
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/X4
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/X5
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/X6
+PASS new mass leaves anchor clear: 00_Structural_Anchors_Preserved/X7
+PASS collision-derived NavMesh builds and activates
+NOTE MATRIX B1->X1=COMPLETE
+NOTE MATRIX B1->X2=COMPLETE
+NOTE MATRIX B1->X3=COMPLETE
+NOTE MATRIX B1->X4=COMPLETE
+NOTE MATRIX B1->X5=COMPLETE
+NOTE MATRIX B1->X6=COMPLETE
+NOTE MATRIX B1->X7=COMPLETE
+NOTE MATRIX B2->X1=COMPLETE
+NOTE MATRIX B2->X2=COMPLETE
+NOTE MATRIX B2->X3=COMPLETE
+NOTE MATRIX B2->X4=COMPLETE
+NOTE MATRIX B2->X5=COMPLETE
+NOTE MATRIX B2->X6=COMPLETE
+NOTE MATRIX B2->X7=COMPLETE
+NOTE MATRIX B3->X1=COMPLETE
+NOTE MATRIX B3->X2=COMPLETE
+NOTE MATRIX B3->X3=COMPLETE
+NOTE MATRIX B3->X4=COMPLETE
+NOTE MATRIX B3->X5=COMPLETE
+NOTE MATRIX B3->X6=COMPLETE
+NOTE MATRIX B3->X7=COMPLETE
+NOTE MATRIX B4->X1=COMPLETE
+NOTE MATRIX B4->X2=COMPLETE
+NOTE MATRIX B4->X3=COMPLETE
+NOTE MATRIX B4->X4=COMPLETE
+NOTE MATRIX B4->X5=COMPLETE
+NOTE MATRIX B4->X6=COMPLETE
+NOTE MATRIX B4->X7=COMPLETE
+PASS all 28 basic-entry to exit routes are complete; complete=28 regressions=0
+NOTE BASELINE stair pair 1=True
+NOTE BASELINE stair pair 2=True
+NOTE BASELINE stair pair 3=True
+NOTE BASELINE stair pair 4=True
+NOTE BASELINE open-land probe P3->P1=True
+NOTE BASELINE open-land probe P3->P2=True
+NOTE BASELINE open-land probe P3->P4=True
+NOTE BASELINE open-land probe P3->P5=True
+NOTE BASELINE open-land probe P3->P6=True
+NOTE BASELINE open-land probe P3->P7=True
+NOTE BASELINE open-land probe P3->P8=True
+NOTE BASELINE open-land probe P3->P9=True
+NOTE BASELINE west bridge=True
+NOTE BASELINE east bridge=True
+PASS BASELINE T1 sampled=True complete=True direct=True length=74.33m
+PASS BASELINE T2 sampled=True complete=True direct=False length=35.00m
+PASS BASELINE T3 sampled=True complete=True direct=True length=79.16m
+NOTE Pre-placement anchor and collision-derived route metrics persisted.
+NOTE Navigation and geometry checks do not substitute for actual PlayerMotor movement.
+passed=29 failed=0
+RESULT PASS

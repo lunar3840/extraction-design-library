@@ -1,0 +1,849 @@
+{
+  "status": "PASS",
+  "utc": "2026-09-14T17:51:50.2697147Z",
+  "preservedFiles": 39,
+  "newFiles": 167,
+  "updatedFiles": 1,
+  "files": [
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageAEnvironmentSlotV09.cs",
+      "action": "new",
+      "sha256": "A48D63C328EA537FD480D21921AF305A3D6E3F2D398A4F1926A9AA3E02FF436E"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageAEnvironmentSlotV09.cs.meta",
+      "action": "new",
+      "sha256": "EB5EA74D696AC39F2917A15752598B102B04ECF7CE36D1BD15773E76ADC6CA9F"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageAEnvironmentV09.cs",
+      "action": "new",
+      "sha256": "290982435B5FBE0DF16607B253A64436678C802E24E3FD4387E9463849BF14C9"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageAEnvironmentV09.cs.meta",
+      "action": "new",
+      "sha256": "0A93CDF1EB90425E7869D9B0C38296F702D1E747A8E80E716C5BB144E17BE2A9"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageALandformV09.cs",
+      "action": "new",
+      "sha256": "98F06946104A62C3617E29E5851D5D7CDA1AE57B6D29A06F408C02F8D3264D22"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageALandformV09.cs.meta",
+      "action": "new",
+      "sha256": "17D8587D7F4BF66564DF1437090D1D418A2FEE2F1A86F0DB8417AB5EF2EC9B8B"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0000_StageA_v09_LandTile_00.asset",
+      "action": "new",
+      "sha256": "BAC283D02E3458FB8DAA09716FD1ED087FF5CF84D57672A827E738D249BC83F2"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0000_StageA_v09_LandTile_00.asset.meta",
+      "action": "new",
+      "sha256": "1D57C1FD9455F5EC05A82395C7166C2BC4DADDFC594C16CA76AFE6819F2F2260"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0001_StageA_v09_LandTile_01.asset",
+      "action": "new",
+      "sha256": "5556082E87C1714EEF4B009602ECE487D5D7BE1E66B6373AC4384916BBDD26B1"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0001_StageA_v09_LandTile_01.asset.meta",
+      "action": "new",
+      "sha256": "F4CA1D063D20004FDAE06DD3BFBA0F58A90FE7DB08AE927E5A524FC985022376"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0002_StageA_v09_LandTile_02.asset",
+      "action": "new",
+      "sha256": "CF317519D646B1A7C46A9FC188A41B658FB50B9B8428DE6BE32B5DF400907003"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0002_StageA_v09_LandTile_02.asset.meta",
+      "action": "new",
+      "sha256": "A5154802147E83CEF172CDEDB9E817A150FE56D69913E65B40A996CA7B6195A1"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0003_StageA_v09_LandTile_03.asset",
+      "action": "new",
+      "sha256": "AD1717EE7C0DDCBB2CBA7E3AFD53099EC62E91C8CCABB23240676C5A560CB574"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0003_StageA_v09_LandTile_03.asset.meta",
+      "action": "new",
+      "sha256": "5F279E3C8DD33EAF60178E0F1C63E7E024E4D9BCE434A8CA09A12DCD3BC12CF7"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0004_StageA_v09_LandTile_04.asset",
+      "action": "new",
+      "sha256": "765104CC30577B5B35EF25932283B75B163BE624140464E28E18B5279D63F6B3"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0004_StageA_v09_LandTile_04.asset.meta",
+      "action": "new",
+      "sha256": "E05A0E4F9FCC89EFDDF918A9A7657B5BA0F35F1E24BDF73005F4DAA73DA70789"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0005_StageA_v09_LandTile_05.asset",
+      "action": "new",
+      "sha256": "3B8BB547D86E00C39D8FCF030773B07D0812E4631BFD041D340EF0D249322ACF"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0005_StageA_v09_LandTile_05.asset.meta",
+      "action": "new",
+      "sha256": "F4CF4B5D728F3FBEF7585521FEDE5D26CD998CAAE105B4B6B82B6B32FE6BEB27"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0006_StageA_v09_LandTile_06.asset",
+      "action": "new",
+      "sha256": "C1FE0CC3E8CF2189D3E3A1B0C83F501C41A91F623FC493B87C0CB5F809D0B566"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0006_StageA_v09_LandTile_06.asset.meta",
+      "action": "new",
+      "sha256": "F19A21786709B5D69C727F0DCE1FAF0E6A0570A5110E8F0AC584AA012969BB8C"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0007_StageA_v09_LandTile_07.asset",
+      "action": "new",
+      "sha256": "0FF51A8841DE4153F16B0F439731C74567BE178873076549EE238279DE411D53"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0007_StageA_v09_LandTile_07.asset.meta",
+      "action": "new",
+      "sha256": "DE8D4E23F263682151B3752C435400C3983BA5557716E2FC3E78AEC4339B09D0"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0008_StageA_v09_LandTile_08.asset",
+      "action": "new",
+      "sha256": "4F6D70431616CC414262A4219DC08E2867CABA85D9DABDB7AC8195E8295A1B33"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0008_StageA_v09_LandTile_08.asset.meta",
+      "action": "new",
+      "sha256": "3B15D18C915DA549A05ED7F6A1A8B80AEE565C732657EAF0A20176EBE27369D8"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0009_StageA_v09_LandTile_09.asset",
+      "action": "new",
+      "sha256": "808B91D7B4B7CA409A470819890F0CF275B8D032B5F618626FC7C951569A1EB8"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0009_StageA_v09_LandTile_09.asset.meta",
+      "action": "new",
+      "sha256": "CB347CF4E85619E760A2679D553006BEEB5036D968C9477C31EC17492560024B"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0010_StageA_v09_LandTile_10.asset",
+      "action": "new",
+      "sha256": "1B62311810D8A2B7B3D62C2A196456267A239A64379E300960EBBA425A591DBE"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0010_StageA_v09_LandTile_10.asset.meta",
+      "action": "new",
+      "sha256": "1D688113E85E74DCAAE1C94EB444E94F3D2714FAF127A4EABE15D6CDF582C098"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0011_StageA_v09_ChannelTile_10.asset",
+      "action": "new",
+      "sha256": "6FBFBB309A60C6955D78025EA29AEA3749F66944CDBE04E170DB2DB1E194E519"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0011_StageA_v09_ChannelTile_10.asset.meta",
+      "action": "new",
+      "sha256": "D272E9CA54048863BF520050A590D7D6FE38455EA71B622D0C9665E7426B7A5D"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0012_StageA_v09_LandTile_11.asset",
+      "action": "new",
+      "sha256": "46F6547CC62305B854682482ACB94578EF8202A9E10F384B635778D4E8C95F6F"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0012_StageA_v09_LandTile_11.asset.meta",
+      "action": "new",
+      "sha256": "CC8DDB49ED6467D16B99964DFF6DB29E0D8144EADEF3A1146B989551D10A1F8E"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0013_StageA_v09_ChannelTile_11.asset",
+      "action": "new",
+      "sha256": "60321C19D548F71D46C0C3806E3389CF93CF1719348DB7F693A970BF27D22B9D"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0013_StageA_v09_ChannelTile_11.asset.meta",
+      "action": "new",
+      "sha256": "25105CCB1F58A59B5E36C34580FB08A060B95B87E549CBF25731A2A7B226F377"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0014_StageA_v09_LandTile_12.asset",
+      "action": "new",
+      "sha256": "DBCF4C5251F7E7BCD52A7B2D7369573627520E7809C735011849E19DEE3F9F46"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0014_StageA_v09_LandTile_12.asset.meta",
+      "action": "new",
+      "sha256": "7C9ABC0BB5992730CC0161F3799D308CABCBDD088C83E385CD4C3333A81F3F6F"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0015_StageA_v09_LandTile_13.asset",
+      "action": "new",
+      "sha256": "A9FEA042B6D703C9BF9B8D3E7E56BC73CB98FFBAB53298DDD04A0837868409AE"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0015_StageA_v09_LandTile_13.asset.meta",
+      "action": "new",
+      "sha256": "5B835359FA93884A2AE0ADC4C2DA3CA6F46FB6A65D91D03A3A147CEB1AD7A85C"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0016_StageA_v09_ChannelTile_13.asset",
+      "action": "new",
+      "sha256": "C3429A3391989221C48FB2D9D080D14281DDDD11E6957DDD99CCE02EDBC17AAC"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0016_StageA_v09_ChannelTile_13.asset.meta",
+      "action": "new",
+      "sha256": "296756D98556FBB041BC9561368779E53D60F3B4D88B8315444BD82313E5B818"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0017_StageA_v09_LandTile_14.asset",
+      "action": "new",
+      "sha256": "2EDB671C428C78C846554EE13939415E0051723A30EB68B0BB216CD137562FDA"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0017_StageA_v09_LandTile_14.asset.meta",
+      "action": "new",
+      "sha256": "9CEF1A5F49629A04DC38836D86B729095BCD0639DAA5C2A7AA45CCB35A8E5496"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0018_StageA_v09_ChannelTile_14.asset",
+      "action": "new",
+      "sha256": "09EE9C604D76BBF0CA8597419A61EE986611DF38695B9EFD5CEC796A0887E4E4"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0018_StageA_v09_ChannelTile_14.asset.meta",
+      "action": "new",
+      "sha256": "2A5386D262E411E5BB914F96FF0549EF52CADD962A0B655863A20E911117C29A"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0019_StageA_v09_LandTile_15.asset",
+      "action": "new",
+      "sha256": "290E2915919C49A3D049407A97C2E4B2120D406F7BF8C9489C5E24370BE96CEE"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0019_StageA_v09_LandTile_15.asset.meta",
+      "action": "new",
+      "sha256": "22E45F0E27FBB587574C4F7B85E1CB3835A5E04E9D6ED75FF37888BA3A33259E"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0020_StageA_v09_ChannelTile_15.asset",
+      "action": "new",
+      "sha256": "B67D39DE9D31C96F4B024962F5C24FF5C7FBC2DD7ABFED42FFC518B33EE573AB"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0020_StageA_v09_ChannelTile_15.asset.meta",
+      "action": "new",
+      "sha256": "602BC1193E15703782E8D413EEB9B7CA088698C2E64A9F253A5AC51BDA9C5F8E"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0021_StageA_v09_WaterSurface.asset",
+      "action": "new",
+      "sha256": "1A6AF0FEDA02035201BB0B1E5A68E4DF088A495D03CBD1904CA3B42AA22E16EE"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0021_StageA_v09_WaterSurface.asset.meta",
+      "action": "new",
+      "sha256": "7887D6BA92ED044D9D87C98F79F1D2CCEB326B3E0341C9BE4B22514076769919"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0022_ENV09_VEGETATION_ZONE_01_GrassMesh.asset",
+      "action": "new",
+      "sha256": "EAC8C907062BBC06808E6A1CAE1493AA8E738FC70B260D79E0E773078255559A"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0022_ENV09_VEGETATION_ZONE_01_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "BB3B856DC2C6A7A4428422D65F0F0C912857807D56A3A03EA273B8A13B92388D"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0023_ENV09_VEGETATION_ZONE_01_BushMesh.asset",
+      "action": "new",
+      "sha256": "8CF2A8E1B3AE0D1BF2D6437824B364520B846BC06BECBA7F7CB9DC6D5C77A2A3"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0023_ENV09_VEGETATION_ZONE_01_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "1E08E6C467419F550123E8E937CF4E077B9B7A10E1ABFDD138E0629EB3432ADF"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0024_ENV09_VEGETATION_ZONE_02_GrassMesh.asset",
+      "action": "new",
+      "sha256": "56CBA1DA3795D47D95B5C938AFF3E1791646513E30116E100B163EF351C02AB3"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0024_ENV09_VEGETATION_ZONE_02_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "67118AA47C40A6C721C0882AE91AE012F087A986D41264A7DA98468ACC8087BD"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0025_ENV09_VEGETATION_ZONE_02_BushMesh.asset",
+      "action": "new",
+      "sha256": "3E74AD5AD47020796C8ABAD785F29D32A4456E4286163AA3E760B46214C7F322"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0025_ENV09_VEGETATION_ZONE_02_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "B39FC35B917D0CF5DC502D3E0E39FE901EF01EA0A89A5ECB0D0BC3806AC946E3"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0026_ENV09_VEGETATION_ZONE_03_GrassMesh.asset",
+      "action": "new",
+      "sha256": "8C2304A3156BC6BC899176FFC49C632058055F451B2150E4D9A8ADEFE87DAA1D"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0026_ENV09_VEGETATION_ZONE_03_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "7A716E1402BA6E862E03A9B32939F893DBE73BB9DAEAF8D54B42DA347F2A75F6"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0027_ENV09_VEGETATION_ZONE_03_BushMesh.asset",
+      "action": "new",
+      "sha256": "024127EBBA52E404DB0F3881042C48945752680FEB1B620C6A4425224B03660E"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0027_ENV09_VEGETATION_ZONE_03_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "BF85706791F8C1AA48E08D9E77806D45E46238989040392DDE7E2DD28CD9678D"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0028_ENV09_VEGETATION_ZONE_04_GrassMesh.asset",
+      "action": "new",
+      "sha256": "A5637E9CA75C49901B907494E22621986EDD9AA00181E14A002128263C3B04FF"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0028_ENV09_VEGETATION_ZONE_04_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "E1629B5FF37F61909F43E8DA6970DDD50E80E43B368C9B1C2FD5E6EDF8E1F4E6"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0029_ENV09_VEGETATION_ZONE_04_BushMesh.asset",
+      "action": "new",
+      "sha256": "18AF0C64466C2FD70075CD8701AD5193A1BB9B8C32D1408704D36B9B3600C48D"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0029_ENV09_VEGETATION_ZONE_04_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "9BF2B087B6A10CBF7A03342D675D3DB9D2649DF8BAC0610916A20BAF2A7490C9"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0030_ENV09_VEGETATION_ZONE_05_GrassMesh.asset",
+      "action": "new",
+      "sha256": "A3AFA2991CEEE62FCC388875AE21933A64DFB58198F569ABA118DB8E4F93AE68"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0030_ENV09_VEGETATION_ZONE_05_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "7E3BF3B231B5506B71B57C3C68CC8A05D9252D21A7EB7ADE7315A08E86C8401E"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0031_ENV09_VEGETATION_ZONE_05_BushMesh.asset",
+      "action": "new",
+      "sha256": "2DA1A7EFDBAFB624B09E9D0B75672A369984FBE6D6D9E76A0D5337D86AA7997E"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0031_ENV09_VEGETATION_ZONE_05_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "27593F98336506426AFAB6BAB1D47D1375F643ED67D88B91BC19C278B99ADDC7"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0032_ENV09_VEGETATION_ZONE_06_GrassMesh.asset",
+      "action": "new",
+      "sha256": "CC2C3FED0A73D410EB63FD02D887D9C7D44AEE3F7DCB958AED4568724E3CB502"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0032_ENV09_VEGETATION_ZONE_06_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "2F949758336159B6AC6EC6CAB267E7F426253E9FB4A08AE03E12627CA38B5D9F"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0033_ENV09_VEGETATION_ZONE_06_BushMesh.asset",
+      "action": "new",
+      "sha256": "3C16EFDEB136CD2D0081DCCBE6256CF0097D044F99533386E41264760BD836C7"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0033_ENV09_VEGETATION_ZONE_06_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "5770C475A9A6083803A92DD73972BD81737C4A387CAC60D2F2AAC98C139146B1"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0034_ENV09_VEGETATION_ZONE_07_GrassMesh.asset",
+      "action": "new",
+      "sha256": "8E13648DF32C2AE842299D7FB3597C3CDCAFB608ACC87D336D0B96E6666E1E3E"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0034_ENV09_VEGETATION_ZONE_07_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "8D152FDD813FE3F6BFBA40ED656066C1997342A71187FABD9F51F80572158761"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0035_ENV09_VEGETATION_ZONE_07_BushMesh.asset",
+      "action": "new",
+      "sha256": "5862F2B02754D773D51A80EFEB36463A0675D4523F4B88AC0706270B51E574E7"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0035_ENV09_VEGETATION_ZONE_07_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "FBF937B04528028B8A8879E466CA40EC24958329CACA77F50543808DE32C8F38"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0036_ENV09_VEGETATION_ZONE_08_GrassMesh.asset",
+      "action": "new",
+      "sha256": "37ED7FDD7A2D0BEF3A8BDE16E54A9DCC433B00D9B7D0ED923F83AC2EF1BA6160"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0036_ENV09_VEGETATION_ZONE_08_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "8AF32C626434E3E3E713CED276C1F5D7A22845685C550639CB273E3FC485CAB2"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0037_ENV09_VEGETATION_ZONE_08_BushMesh.asset",
+      "action": "new",
+      "sha256": "B4E5AD82EBAA83ED262902B706C97980F557BFC0E4EE396A471CD505EC28E058"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0037_ENV09_VEGETATION_ZONE_08_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "CC0F7F54DB71C46330ABE1D112FB64143B655943059398BC96032DE19CBBCF30"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0038_ENV09_VEGETATION_ZONE_09_GrassMesh.asset",
+      "action": "new",
+      "sha256": "92E6A36BAF7BDF2AF358528000CEF09687743080B4013B71F1241D49A5A38E2C"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0038_ENV09_VEGETATION_ZONE_09_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "0BA191DDE2F5112989020B50301F6FD07556D83B84F31E614B8FF8CA4E736C55"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0039_ENV09_VEGETATION_ZONE_09_BushMesh.asset",
+      "action": "new",
+      "sha256": "83DFB3401D54D30F1587E288F55F817B67DD3300B4577210F8E7B123F1C356F1"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0039_ENV09_VEGETATION_ZONE_09_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "641FE297DECBDBB2F47CCC2A70BD56A5F1C8CD2693DDF1D66110B5E9D432642B"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0040_ENV09_VEGETATION_ZONE_10_GrassMesh.asset",
+      "action": "new",
+      "sha256": "F5D40DBE00C3340C5F0C0AED6887653B951EC10E113B792DAD19A916146A06E3"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0040_ENV09_VEGETATION_ZONE_10_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "486F6C2D246CF8BE9588F9B48BF9BEED143CDC1EA6C2B2CBA712AEE5939E9601"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0041_ENV09_VEGETATION_ZONE_10_BushMesh.asset",
+      "action": "new",
+      "sha256": "0A4E115239CAC927AD0234CCC1D48FD5C917A098F84CBA39B4228216689402F3"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0041_ENV09_VEGETATION_ZONE_10_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "A6649BB148BDE5FD5E96FF852F60A250A1B89C899DEDA4901E7CE03243E03F94"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0042_ENV09_VEGETATION_ZONE_11_GrassMesh.asset",
+      "action": "new",
+      "sha256": "BFEA4CD893874A0CAA97970A8B51AD3C535C4389054CC42347CE51A81A0AEF23"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0042_ENV09_VEGETATION_ZONE_11_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "8ABE4CFBDCB8A8251DB8CD1514A701791A6C6803927B942B27409FF1E1042274"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0043_ENV09_VEGETATION_ZONE_11_BushMesh.asset",
+      "action": "new",
+      "sha256": "D5146A3945E6F3FDBC431DD9F40B0202499631856FBA43A133C20B7084604566"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0043_ENV09_VEGETATION_ZONE_11_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "DDBF9B192396E8127FACF2FF76E418146C2F9D659909E7D387581A8D08AAD617"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0044_ENV09_VEGETATION_ZONE_12_GrassMesh.asset",
+      "action": "new",
+      "sha256": "7A4F23F70F8584A83B3AB0AA369FD02F589294B4156ACBC5069B61C8F9997C43"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0044_ENV09_VEGETATION_ZONE_12_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "D73186AF5AD2FF3788A3FBFA47245E92C3D1B98E1DF1C54E78A0C81F45DFC64A"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0045_ENV09_VEGETATION_ZONE_12_BushMesh.asset",
+      "action": "new",
+      "sha256": "0D6497926D3DB48DA6E34C999942597CE80F2A4DB270A4520CED01522BEA96B8"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0045_ENV09_VEGETATION_ZONE_12_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "C3B486FBD718B8EB3894AFF29A4A572F7B973F93F56B48B1F3CE798EC4929656"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0046_ENV09_VEGETATION_ZONE_13_GrassMesh.asset",
+      "action": "new",
+      "sha256": "0CD4305CFF68100F1B4A912720E335DBB85CB3B520234DB522A88510F6920DD7"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0046_ENV09_VEGETATION_ZONE_13_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "61A2E63A889D8A79AF96EEE2D3C88B3F6222F67673C4F5E15458F494A46C9519"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0047_ENV09_VEGETATION_ZONE_13_BushMesh.asset",
+      "action": "new",
+      "sha256": "6BCE51404047A4A6DA7503F29A9C9C8157A7024B96BEBAD952F6C07B177657FF"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0047_ENV09_VEGETATION_ZONE_13_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "05DED0411B87705895CDC463FA714158F853BC6C7670AC88F259F1B47897A1C0"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0048_ENV09_VEGETATION_ZONE_14_GrassMesh.asset",
+      "action": "new",
+      "sha256": "9053456CE0B06D92F9363CEF905F526F2536943E61A00DFA7A57B57C703334FC"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0048_ENV09_VEGETATION_ZONE_14_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "19A4AFEE93AF7FF7CF60E6B0466F5F2948F74FAA60CA4058752B6B5BCDE6DFD6"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0049_ENV09_VEGETATION_ZONE_14_BushMesh.asset",
+      "action": "new",
+      "sha256": "F465D3B04EDD1067744E1D25EED0A2343E8DE04DBA0E671351D5423CF4E1E2EB"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0049_ENV09_VEGETATION_ZONE_14_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "630EC79BF588ACC2803BECB3B3F535B71AD24AF1678F872EBE853B5EDDF8A809"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0050_ENV09_VEGETATION_ZONE_15_GrassMesh.asset",
+      "action": "new",
+      "sha256": "B65DA0D3617FFCF24EDC8518000FDCE4DF5B40145D1734725104D661A780BCAD"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0050_ENV09_VEGETATION_ZONE_15_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "09732C622EBBBF9059AD91052150D90FF11AF64E2C9E1AA2AF5B50139432665D"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0051_ENV09_VEGETATION_ZONE_15_BushMesh.asset",
+      "action": "new",
+      "sha256": "F64069C0C22B5CD335605FCF2FC45690B8C936A1FDBB8C80D34723067BEE2D65"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0051_ENV09_VEGETATION_ZONE_15_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "250A67217583C319EF7A82EF88F73FD64B0282532C48E85996962A80BF7B5FA0"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0052_ENV09_VEGETATION_ZONE_16_GrassMesh.asset",
+      "action": "new",
+      "sha256": "13F5153DB02080DF3AF24302AFF8F53B8D63D06A590BF33F4108D076A7D5B944"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0052_ENV09_VEGETATION_ZONE_16_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "A797B8CD5C004978297315890B115D706ED5428FEBB5931DDED1AE2D18A8C5BF"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0053_ENV09_VEGETATION_ZONE_16_BushMesh.asset",
+      "action": "new",
+      "sha256": "79E3D3DAEF13D7E43ADB416D9E253EF9A6FB90622FA61CD43233371C4BC55E75"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0053_ENV09_VEGETATION_ZONE_16_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "22F57C3AA9DCEE801AABE10D324190F919ED36963607BDFF9B136F3320428A27"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0054_ENV09_VEGETATION_ZONE_17_GrassMesh.asset",
+      "action": "new",
+      "sha256": "EB032A4B7FC30414535271BE50180FFE43F9E849DA5EB50F96D28E62E2AC1D97"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0054_ENV09_VEGETATION_ZONE_17_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "7E8DEC0710341E7F297117CBED3025FC68A8469A5AD350D097217E8BC53B99A0"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0055_ENV09_VEGETATION_ZONE_17_BushMesh.asset",
+      "action": "new",
+      "sha256": "6CA9FD4B516A186CF39D82A92714412A52DB17888D88EA024984204B4F4BB228"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0055_ENV09_VEGETATION_ZONE_17_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "5F65FA64D735B1F70DDB10AADA86104C4AC6CE140F5F95AF0ECEF9A4D13811EE"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0056_ENV09_VEGETATION_ZONE_18_GrassMesh.asset",
+      "action": "new",
+      "sha256": "6487C300A06572DB774A8640119FCF46B24AED076279F0E23088B4238AB85C19"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0056_ENV09_VEGETATION_ZONE_18_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "8750907473A26D2C74BABAA61D838E4C41A41331E4D3230807699AD07A6A8DB8"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0057_ENV09_VEGETATION_ZONE_18_BushMesh.asset",
+      "action": "new",
+      "sha256": "AF094C8F0DAAAD2F2F4DB0505FB493026A0D0419E221F864626150827254B7AB"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0057_ENV09_VEGETATION_ZONE_18_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "C5B91553D4F51F34EA1BF1E9B01ECCCA1D87E38FB7C20BFCC605561059FE35C6"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0058_ENV09_VEGETATION_ZONE_19_GrassMesh.asset",
+      "action": "new",
+      "sha256": "7BA86B7B4A836F6A2C34BA10D3FB7D0F3955329C23056C09F3C91462E76D0EF1"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0058_ENV09_VEGETATION_ZONE_19_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "5FF74ED65207C195F41EDDD4E794A0761A0F1F61456ADB40B1BB607D8268FCEA"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0059_ENV09_VEGETATION_ZONE_19_BushMesh.asset",
+      "action": "new",
+      "sha256": "9B95126D286DC2147B6311254CD32659E0EF96D81F8081E2DF82E1B531EFAD94"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0059_ENV09_VEGETATION_ZONE_19_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "CCE36F8B9A79BEEBBBE89868B698970FB47A072FE909275A82E86076339E9EB8"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0060_ENV09_VEGETATION_ZONE_20_GrassMesh.asset",
+      "action": "new",
+      "sha256": "C2521E859CC013BD3340AA18C314B082DAF4B9F2F1AEC4241B2F337F933E659C"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0060_ENV09_VEGETATION_ZONE_20_GrassMesh.asset.meta",
+      "action": "new",
+      "sha256": "88E0D536B3B76B149C9AB5B51D4B25F73FF83AFA9A611CDCB546F8976BAFA7C9"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0061_ENV09_VEGETATION_ZONE_20_BushMesh.asset",
+      "action": "new",
+      "sha256": "685ECA26D4F87737BB7083C4A9F186095666574B468A897787DC8C4F82ACA97C"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0061_ENV09_VEGETATION_ZONE_20_BushMesh.asset.meta",
+      "action": "new",
+      "sha256": "FE48A47B41B025C5963457E37B798BA5B094526DEA6BBE501053E96916A9CB67"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0062_StageA_v09_Ground.mat",
+      "action": "new",
+      "sha256": "57E85C4406B8C31D7B8AD073FBDB559E240FE08EC5708D2AE5F2A8FCE6FE1C07"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0062_StageA_v09_Ground.mat.meta",
+      "action": "new",
+      "sha256": "ECAF076C4A4A1A1825D9CA6486CB74781419459AADCF487F8CB4BB0173D1F501"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0063_StageA_v09_IntegratedRoute.mat",
+      "action": "new",
+      "sha256": "1F2583F04550AA255DCEB06A391BA91FEF2E3DCB1B307135AFC3786D55E3A517"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0063_StageA_v09_IntegratedRoute.mat.meta",
+      "action": "new",
+      "sha256": "71D493DD7FE0B8116C92CA5BBD315EC6AFF1BA712DA6B0ED39B6014F998847D1"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0064_StageA_v09_ChannelBed.mat",
+      "action": "new",
+      "sha256": "005DB4365A7484532CA3D25D8FEBD9FF5CDCD9B143B8A2CE73A72ABA61C71267"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0064_StageA_v09_ChannelBed.mat.meta",
+      "action": "new",
+      "sha256": "E3E19CAA9DCE327E0919E4DB13F7BE0255DDCF2739A8BAF49F12B1E08B8FE814"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0065_StageA_v09_Water.mat",
+      "action": "new",
+      "sha256": "028BEDCB090097704EC02700914C7F0A12AC9EBF77BF890B9F36683C6A5AB15C"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0065_StageA_v09_Water.mat.meta",
+      "action": "new",
+      "sha256": "448371F719AF2D198B17C5B18663BE9A2B6B7398075F9E73D23F2E6BB2F7FACE"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0066_StageA_v09_Boundary.mat",
+      "action": "new",
+      "sha256": "46EE25C86934E4D381B2C2339B0A50AC740917066A9CDCDA98EBA6F9B8305A89"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0066_StageA_v09_Boundary.mat.meta",
+      "action": "new",
+      "sha256": "ECEEE848F3755DBF838A24FFC940499582D745314428B54E888339728C238C5B"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0067_StageA_v09_Interior.mat",
+      "action": "new",
+      "sha256": "556FA5108AD73FD610B89DBB1AE35AA68EDDD8ED3808D6FF0327A8AE2EBA6D0A"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0067_StageA_v09_Interior.mat.meta",
+      "action": "new",
+      "sha256": "214CD0DB2E03725326B11FF8755272C3CC2D6C1AC62CDD738FB8A5234087171E"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0068_StageA_v09_Concrete.mat",
+      "action": "new",
+      "sha256": "F122A02EE90B2C27544E2FBD82D232F761DADDE8D545A221530608354D5532DF"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0068_StageA_v09_Concrete.mat.meta",
+      "action": "new",
+      "sha256": "2F5A4F4EB97AA605EE6EFF113D8F5E0E8570F01638B083AA68C5BDC2B1D872A6"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0069_StageA_v09_ConcreteDark.mat",
+      "action": "new",
+      "sha256": "2131F7543EDAA1DCE0D14702A8FDA49F4DB83E506E7C8AE16883CFA0F60917AD"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0069_StageA_v09_ConcreteDark.mat.meta",
+      "action": "new",
+      "sha256": "A3D899D94CFBFF84BDF06AD47994ABFB36BD2A254C7C31DC0708F0E2E8AA5CD2"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0070_StageA_v09_Roof.mat",
+      "action": "new",
+      "sha256": "69ABA7E9D9676E4FA39A95CC7703BDAF98BAAC027C0E1F33C0AF72D702F6008C"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0070_StageA_v09_Roof.mat.meta",
+      "action": "new",
+      "sha256": "ADC5ECC3CD118757150AA901FC51A4B5EFBB594F4A8442CCBE3488642B6D31A6"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0071_StageA_v09_RustMetal.mat",
+      "action": "new",
+      "sha256": "2677E0155D9422503B5D65F89BC9D55A13772F172A78DB6E4FBD444FBBFD39BC"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0071_StageA_v09_RustMetal.mat.meta",
+      "action": "new",
+      "sha256": "C4AFF99016666291F5F53600DEF3E2EA4F6F6CD5B10A0B725C2C224856B815EA"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0072_StageA_v09_FadedVehicle.mat",
+      "action": "new",
+      "sha256": "387917BEC5856E1FA6C6F8D5410D4D1A863F88C13563B08176E0FDA6293906DF"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0072_StageA_v09_FadedVehicle.mat.meta",
+      "action": "new",
+      "sha256": "50BA4FC518D4C47D72B22AF710027A060E62B10CD3A8ED6888192A8234ABA6F1"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0073_StageA_v09_DarkMetal.mat",
+      "action": "new",
+      "sha256": "67C7855D85C71F512A19A2172FD3EA10906FE951481880C0C8554566D3A843C4"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0073_StageA_v09_DarkMetal.mat.meta",
+      "action": "new",
+      "sha256": "9394511085EC129C7FC61E18BF21F8CA097E7D3F62428468296AC89AB96AD173"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0074_StageA_v09_Wood.mat",
+      "action": "new",
+      "sha256": "A14BEC7852320B47E0131EBE1B1AB8C6D4B4EB6E46D48C09520673CBAF7E4803"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0074_StageA_v09_Wood.mat.meta",
+      "action": "new",
+      "sha256": "FD7E94CB63A55D3A366CDDAEF8A3C76D6BC98D43963CB2F935C0026DC408FEAE"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0075_StageA_v09_Bark.mat",
+      "action": "new",
+      "sha256": "4E23BDBF1546A342AAE1CB96501823E2F775A94DFF84767889937808BD63FFE7"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0075_StageA_v09_Bark.mat.meta",
+      "action": "new",
+      "sha256": "8AC30067958DAAA1C63EFFAEF578BEF488FF8DD2115A71E3D0D9810B00ABF3AE"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0076_StageA_v09_Leaf.mat",
+      "action": "new",
+      "sha256": "5CA140C99E0073F8DE90295B96E7EF6ED601F17959AB3B99BA13ECBB909D64F6"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0076_StageA_v09_Leaf.mat.meta",
+      "action": "new",
+      "sha256": "AA6B16FE797DE37DC58065883693F93B18319DFA3B101DA536D3CC597FC5646F"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0077_StageA_v09_Rock.mat",
+      "action": "new",
+      "sha256": "62EA6473C32144A4C21C513E939A1D901D935998AB3C9732EAE9B47024FABE1A"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0077_StageA_v09_Rock.mat.meta",
+      "action": "new",
+      "sha256": "26D636FD5E1967E84094D89851EC269B67EF28BB01A85357FF503AE78B6990A4"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0078_StageA_v09_Grass.mat",
+      "action": "new",
+      "sha256": "83DF428C731B00426FFAF98208D269E23C5E72305F95E958DB3239C998AC9062"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0078_StageA_v09_Grass.mat.meta",
+      "action": "new",
+      "sha256": "7C08229A8E90D9815E7FF65D8DCC9F628BFFC2E437DB11959225B5EC031CABBD"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0079_StageA_v09_Bush.mat",
+      "action": "new",
+      "sha256": "EBA6B71181C2580299FAD4384B15D29EEB82C9A5817E10973E6B67E85A16944C"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09/0079_StageA_v09_Bush.mat.meta",
+      "action": "new",
+      "sha256": "3E374710B8851AFB31486712C66BB3630603E8126EEDCDA75C4254E38117487A"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v09.meta",
+      "action": "new",
+      "sha256": "39B931F9501BF3EC3CEDB4B30242B7791D894AD3AD45580B764C49BE6CA48B89"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab",
+      "action": "updated-with-backup",
+      "sha256": "BC8C305BA0DAAB04833B72F63278418C532DA1659DE7F1DCE8F2C290547490C3"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "viewports": ["1280x720", "960x720"],
+  "publicReadonly": true,
+  "anonymousSaveHttpStatus": 401,
+  "anonymousCsvHttpStatus": 200,
+  "incorrectPasswordRejected": true,
+  "correctPasswordUnlocksEditableFields": true,
+  "logoutRestoresReadonly": true,
+  "previewSaveSurvivesReload": true,
+  "previewReviewShows100to110": true,
+  "previewRestoredTo100": true,
+  "actualGameBalanceChanged": false,
+  "livePendingValues": 0,
+  "liveBridgeOnline": true,
+  "liveLatestJob": null,
+  "libraryEditorRoundTrip": true,
+  "stripeGradientRemoved": true,
+  "pageHorizontalOverflowAt960": false,
+  "liveConsoleErrors": [],
+  "finalBrowserState": "public readonly, project PC connected, MaxHealth 100"
+}

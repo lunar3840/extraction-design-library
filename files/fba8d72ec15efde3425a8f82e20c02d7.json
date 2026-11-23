@@ -1,0 +1,23 @@
+{
+  "checkedUTC": "2026-11-03T08:11:00.4279775Z",
+  "experimentClosed": true,
+  "implementationApplied": false,
+  "visualVerdict": "failed; prototype retained outside Unity Assets",
+  "ownPlayEverStarted": false,
+  "inventoryCombatHairPerformanceBuildValidation": "not run",
+  "unityScene": "StageA_Relay_Blockout_v08, clean Edit",
+  "compile": {
+    "segmentBytes": 21493,
+    "compileErrors": 0,
+    "exceptions": 0,
+    "meshStrideErrors": 0,
+    "reloadEvidence": 5
+  },
+  "remainingOwnAssetPaths": [],
+  "selectorCurrent": "9A8FF63D02873ADF5DEF77F8A4FFA944556E40E23360AAEB14033131743D04C6",
+  "selectorBaseline": "9A8FF63D02873ADF5DEF77F8A4FFA944556E40E23360AAEB14033131743D04C6",
+  "originalSourcesMatch": true,
+  "protected11Match": true,
+  "restoredImagesIdentical": true,
+  "unityReturnStatus": "explicit return sent successfully to S4/UI/map chats; no further Unity access reserved"
+}

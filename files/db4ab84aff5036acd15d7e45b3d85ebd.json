@@ -1,0 +1,57 @@
+{
+  "unity_process_exited": true,
+  "owned_tools_removed": true,
+  "removed": [
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\AnimationFullReviewTemp_20261120\\Editor\\AnimationFullReview20261120.cs",
+      "sha256": "f89d2dce165f8772bbf80a435959e8fea5f89dfa836d78d23e37a6ebe3415048",
+      "bytes": 3617
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\AnimationFullReviewTemp_20261120\\Editor\\AnimationFullReview20261120.cs.meta",
+      "sha256": "996936f3280190c3609aba4764ef8ecb45259eaa33c7eda6c9c259a108a5bdca",
+      "bytes": 59
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\AnimationFullReviewTemp_20261120\\Editor.meta",
+      "sha256": "7fd415bd0f9d81578a4315a03b0860d62473c0cb4924fa03a60033c93e452117",
+      "bytes": 172
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\AnimationFullReviewTemp_20261120\\Runtime\\AnimationFullRuntimeReview20261120.cs",
+      "sha256": "284bcbb05218ee163c0dd4abbb1f9862e38f1b8e91edc29e1aa701bd4b917525",
+      "bytes": 28948
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\AnimationFullReviewTemp_20261120\\Runtime\\AnimationFullRuntimeReview20261120.cs.meta",
+      "sha256": "ffdf45788108bfd21e7b0f43755111e8736f775273ec1ded9b93bb35768942d1",
+      "bytes": 59
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\AnimationFullReviewTemp_20261120\\Runtime\\AnimationFullSurfaceExport20261120.cs",
+      "sha256": "cb75a5a51062640e1cecda67628b35ebbd4d5cc99c05495f2d2ca16ab0c792ad",
+      "bytes": 5410
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\AnimationFullReviewTemp_20261120\\Runtime\\AnimationFullSurfaceExport20261120.cs.meta",
+      "sha256": "77bc0edb6e16f7341c1b95f29b97bd40142cd68650b464ce2aa6589009d6d91d",
+      "bytes": 59
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\AnimationFullReviewTemp_20261120\\Runtime.meta",
+      "sha256": "d7f60ef73ace4a6607d2e7a842918fd3145fc3751f3bfe520c005bd19f1d9311",
+      "bytes": 172
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\AnimationFullReviewTemp_20261120.meta",
+      "sha256": "120573cb3dabd0d3ee80046dc598ec52bfeb4c9c8a41833bf257623cf9a415a3",
+      "bytes": 172
+    }
+  ],
+  "protected_checked": 596,
+  "protected_differences": [],
+  "new_weapon_or_motion_applied": false,
+  "game_saves_written": false,
+  "editor_after_state": "2026-11-20T02:40:04.3420964Z\nscene=\ndirty=False\nserialization=2\nplaying=False",
+  "scope": "Only the exact owned three validation sources, generated metadata and empty owned directories were removed. All596 protected production files unchanged."
+}

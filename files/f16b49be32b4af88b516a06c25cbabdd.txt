@@ -1,0 +1,11 @@
+START 2026-10-29T21:22:03.4530822Z
+command=apply_candidate02
+CANDIDATE02_REPLACED A34_CLINIC_MOOD_TRIAL_AUDIT
+root=__A34_ClinicMoodTrial
+renderers=6 vertices=5724 triangles=4735 colliders=0 lights=0
+v33DirectNameEligible=False
+wetRadialAndColorChannels=True
+profileLeaves=160 valid=True originalLeafTintAndTexture=True
+RESULT PASS
+
+COMPLETE

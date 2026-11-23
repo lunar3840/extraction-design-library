@@ -1,0 +1,72 @@
+{
+  "capturedAt": "2026-10-30T03:18:26.178Z",
+  "section": {
+    "sectionId": "83c06e5d-0edf-4f18-b774-bcbf73919451",
+    "name": "익스트랙션 시나리오",
+    "itemKeys": [
+      "chatgpt:conversation:6a9aa012-2568-83ee-b24a-38588f3e743a",
+      "chatgpt:conversation:6a9cfb2c-d738-83e8-92f4-a2f5fee2435f",
+      "chatgpt:conversation:6a9d0fc0-0d14-83ee-b952-0959548603e3",
+      "chatgpt:conversation:6ad19e97-fff8-83ee-a88e-b2ce41f587df",
+      "chatgpt:conversation:6ad822ac-0b28-83ee-92f6-de3cfe7e06da",
+      "chatgpt:conversation:6ad1a2cb-b0b0-83e8-86b5-3421dc898b6b",
+      "chatgpt:conversation:6ab1142e-9aac-83ee-8525-8814ed92ed3d",
+      "chatgpt:conversation:6ab11e2e-dabc-83e8-9094-4aed2579ba47",
+      "codex:project:dfda25fc-828c-4ecc-b338-f6f2be609e5e",
+      "chatgpt:conversation:6ad91fc0-16dc-83ee-b8ac-dd312914deb5",
+      "codex:thread:local:01a1816b-6c1b-7442-8503-43825ceef871"
+    ]
+  },
+  "targets": [
+    {
+      "id": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+      "title": "블렌더 애니메이션 비교"
+    },
+    {
+      "id": "6a9aa012-2568-83ee-b24a-38588f3e743a",
+      "title": "세계관 설정 작성"
+    },
+    {
+      "id": "6a9cfb2c-d738-83e8-92f4-a2f5fee2435f",
+      "title": "주인공 캐릭터 제작"
+    },
+    {
+      "id": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+      "title": "히로인 컨셉 리스트(1 - 메인부관)"
+    },
+    {
+      "id": "6ad19e97-fff8-83ee-a88e-b2ce41f587df",
+      "title": "히로인 컨셉 리스트(2)"
+    },
+    {
+      "id": "6ad822ac-0b28-83ee-92f6-de3cfe7e06da",
+      "title": "리브 모델 작업 완료"
+    },
+    {
+      "id": "6ad1a2cb-b0b0-83e8-86b5-3421dc898b6b",
+      "title": "히로인 컨셉 리스트(3)"
+    },
+    {
+      "id": "6ab1142e-9aac-83ee-8525-8814ed92ed3d",
+      "title": "익스트랙션 게임 에셋 분석"
+    },
+    {
+      "id": "6ab11e2e-dabc-83e8-9094-4aed2579ba47",
+      "title": "맵 구조와 메인 미션 구상"
+    },
+    {
+      "id": "6ae3a330-8400-83ee-966a-3947d7c326dc",
+      "title": "3D 장비 제작 plan"
+    }
+  ],
+  "excluded": [
+    {
+      "id": "01a160e3-a94c-77d2-bf60-ca7e6a528240",
+      "title": "Figma 자기 PR 포트폴리오 리터칭"
+    },
+    {
+      "id": "01a17862-52ec-7b41-8e9b-ccf1f95c5922",
+      "title": "Figma 기획서 포트폴리오 리터칭"
+    }
+  ]
+}

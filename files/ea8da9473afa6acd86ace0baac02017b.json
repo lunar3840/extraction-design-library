@@ -1,0 +1,357 @@
+{
+  "scope": "Static source/serialized-data/signature assertions only; no gameplay PASS",
+  "captured_utc": "2026-10-29T08:25:16.091408+00:00",
+  "checks": [
+    {
+      "check": "serialized Basic4/Risk8/disjoint",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "all12 spawn references remain Basic+Risk",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "risk entry flags remain off/unimplemented",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "BasicEntrySlots reference order protected",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "RiskEntrySlots reference order protected",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "SpawnPoints reference order protected",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "ExitPoints reference order protected",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "spawn tiers protected",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "router retained V08 selects Basic list only",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "value thresholds remain bypassed for retained V08",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "73 slots,54 ordinary machines,14 ordinary humans,5 named",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "named one fixed candidate / ordinary three variants / total209",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "five stable named IDs",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "seven indoor ordinary actors",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "all ordinary machines have roles1..7 and humans none",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "normal roster/role/body/leash/variant references unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "G1..G12 retain authored machine patrol presence",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "prefab full protected YAML signature excluding exactly approved transform fields",
+      "pass": true,
+      "detail": {
+        "before": "9f45d7c733622eb4e61b0eb6fd9b417e9b480202230d41f1cf3efc5d1f223765",
+        "after": "9f45d7c733622eb4e61b0eb6fd9b417e9b480202230d41f1cf3efc5d1f223765",
+        "allowed_fields": {
+          "LookV16_SouthYardDressing/ConcreteApron_And_Drainage/Curb_WestEdge_Tile_01": [
+            "m_LocalPosition.y",
+            "m_LocalRotation"
+          ],
+          "StageA_EncounterLayout_V01/G12_02_B/WP_01": [
+            "m_LocalPosition.x"
+          ],
+          "LookV16_SouthYardDressing/ConcreteApron_And_Drainage/Curb_WestEdge_Tile_02": [
+            "m_LocalPosition.y",
+            "m_LocalRotation"
+          ]
+        }
+      }
+    },
+    {
+      "check": "N1 named home parent chain unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "N2 named home parent chain unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "N3 named home parent chain unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "N4 named home parent chain unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "N5 named home parent chain unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "retained scene still references actual Resources map prefab",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "all critical sources are present in baseline",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "check": "critical behavior/catalog source files unchanged",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "compared baseline files have no unscoped changes",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "prefab did not change during evidence collection",
+      "pass": true,
+      "detail": null
+    }
+  ],
+  "warnings": [],
+  "unimplemented_value_threshold_note": "10k/30k legacy constants exist but current V08 branch forces equipmentValue/tier0 and selects only Basic4. R slots are serialized inactive candidates, not live spawn pool or boss positions.",
+  "roster": {
+    "ordinary_machine": 54,
+    "ordinary_human": 14,
+    "named": 5,
+    "role_counts": {
+      "1": 33,
+      "2": 4,
+      "3": 4,
+      "4": 2,
+      "7": 3,
+      "6": 4,
+      "5": 4
+    },
+    "group_counts": {
+      "D_TOOLS": {
+        "machine": 1,
+        "human": 0
+      },
+      "G1": {
+        "machine": 2,
+        "human": 0
+      },
+      "G10": {
+        "machine": 7,
+        "human": 0
+      },
+      "G11": {
+        "machine": 5,
+        "human": 0
+      },
+      "G12": {
+        "machine": 9,
+        "human": 0
+      },
+      "G2": {
+        "machine": 2,
+        "human": 0
+      },
+      "G3": {
+        "machine": 2,
+        "human": 0
+      },
+      "G4": {
+        "machine": 2,
+        "human": 0
+      },
+      "G5": {
+        "machine": 5,
+        "human": 0
+      },
+      "G6": {
+        "machine": 3,
+        "human": 0
+      },
+      "G7": {
+        "machine": 5,
+        "human": 0
+      },
+      "G8": {
+        "machine": 4,
+        "human": 0
+      },
+      "G9": {
+        "machine": 7,
+        "human": 0
+      },
+      "H1": {
+        "machine": 0,
+        "human": 4
+      },
+      "H2": {
+        "machine": 0,
+        "human": 4
+      },
+      "H3": {
+        "machine": 0,
+        "human": 1
+      },
+      "H4": {
+        "machine": 0,
+        "human": 2
+      },
+      "H5": {
+        "machine": 0,
+        "human": 2
+      },
+      "H6": {
+        "machine": 0,
+        "human": 1
+      },
+      "N1": {
+        "machine": 0,
+        "human": 1
+      },
+      "N2": {
+        "machine": 1,
+        "human": 0
+      },
+      "N3": {
+        "machine": 1,
+        "human": 0
+      },
+      "N4": {
+        "machine": 1,
+        "human": 0
+      },
+      "N5": {
+        "machine": 1,
+        "human": 0
+      }
+    }
+  },
+  "regional_limit": "G groups and H groups are actor groups, not an approved disjoint spatial region partition. Presence of machine patrols in all G areas and global majority are static facts; per-spatial-region majority requires approved area mapping and cannot be inferred as gameplay PASS from these counts.",
+  "selected_adjacent_route_proposal": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\routes\\CURB02_PROPOSAL_639288554291611528.json",
+  "changed_prefab_documents": [
+    {
+      "file_id": "285791522515627408",
+      "type_before": "4",
+      "path": "StageA_Relay_Blockout_v08/LookV16_SouthYardDressing/ConcreteApron_And_Drainage/Curb_WestEdge_Tile_02",
+      "permitted_transform_fields": [
+        "m_LocalPosition.y",
+        "m_LocalRotation"
+      ]
+    },
+    {
+      "file_id": "4677304910981208223",
+      "type_before": "4",
+      "path": "StageA_Relay_Blockout_v08/LookV16_SouthYardDressing/ConcreteApron_And_Drainage/Curb_WestEdge_Tile_01",
+      "permitted_transform_fields": [
+        "m_LocalPosition.y",
+        "m_LocalRotation"
+      ]
+    },
+    {
+      "file_id": "66451909479057936",
+      "type_before": "4",
+      "path": "StageA_Relay_Blockout_v08/StageA_EncounterLayout_V01/G12_02_B/WP_01",
+      "permitted_transform_fields": [
+        "m_LocalPosition.x"
+      ]
+    }
+  ],
+  "scene": {
+    "before_sha256": "8670cf85f4de5dc9e6dafca3ce8b2bac927ed016efd5141e6aa2c391fd525150",
+    "current_sha256": "c9e3d324a6da7849188d1d92f9d79843b8e4820dcbe8325c3a0b227cd13d1874",
+    "unchanged": false,
+    "limitation": "Scene byte difference is reported, not auto-approved as semantic equivalence. Actual retained scene/prefab typed/native signature verification remains coordinator-owned."
+  },
+  "baseline_file_comparison": {
+    "baseline_count": 9065,
+    "checked": 9065,
+    "all9065_requested": true,
+    "changed": [
+      {
+        "path": "Assets/Escape/Art/BuildingV33/Reveal/BuildingV33LocalReveal.shader",
+        "before": "3735380dc0157b1c8f6737c9d5b0f4dffe7d84e8f7d0875014eb2498255dc86c",
+        "after": "1e443568bb3977cd4d8ea64189fb8dfce6601ad58c7ace3c0585913b93729909",
+        "expected_scoped_change": true
+      },
+      {
+        "path": "Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab",
+        "before": "9489641679e2d21554e7475f47b779d3e1d6d95d6a79dfeb3f30000bd3af7568",
+        "after": "b849090f053449e3c64b1f8bf65d50b78311bc1bcf046d14fe0250422cad04b7",
+        "expected_scoped_change": true
+      },
+      {
+        "path": "Assets/Escape/Runtime/Enemy/EnemyController.cs",
+        "before": "cee92151bc7f88cfa035be83b34a4f8e8f078beb7869bcead58ae2ce79254b4c",
+        "after": "9282d7efa7e3dca2848d613fd211494143eb8ac6693e29d41ce02abb356de841",
+        "expected_scoped_change": true
+      },
+      {
+        "path": "Assets/Escape/Runtime/Stage/Blockout/StageABuildingV33Reveal.cs",
+        "before": "fa1e2cfdb26aea135a179f01d97291d8df51890d74aff3df0eae63d6c96272a9",
+        "after": "a4d706077dbfe0f7759ac0ae829deb50465e425049feea485311276e6758139a",
+        "expected_scoped_change": true
+      },
+      {
+        "path": "Assets/Escape/Runtime/Stage/Blockout/StageAWestD02OccludedPlayerSilhouette.cs",
+        "before": "ac12c6c5c423000e5236f6a0b2e3a01e40374109e23d90c8609dfd91bdb1776d",
+        "after": "fece045974a89ae68eab7f33729b357768372f2e6eeaddfcee7645d2d1e29c3f",
+        "expected_scoped_change": true
+      },
+      {
+        "path": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+        "before": "8670cf85f4de5dc9e6dafca3ce8b2bac927ed016efd5141e6aa2c391fd525150",
+        "after": "c9e3d324a6da7849188d1d92f9d79843b8e4820dcbe8325c3a0b227cd13d1874",
+        "expected_scoped_change": true
+      }
+    ]
+  },
+  "static_assertion_result": "PASS",
+  "gameplay_result": "NOT_EVALUATED_BY_THIS_HELPER"
+}

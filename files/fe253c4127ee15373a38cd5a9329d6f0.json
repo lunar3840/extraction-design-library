@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-19",
+  "provider": "Tripo Studio",
+  "model": "H3.1 – Best Quality",
+  "privacy": "Private",
+  "input": "Text prompts, no user files uploaded",
+  "initialCredits": 1180,
+  "remainingCredits": 1060,
+  "creditsUsed": 120,
+  "purchaseMade": false,
+  "export": {
+    "format": "GLB",
+    "textureResolution": "1k"
+  },
+  "models": [
+    {
+      "id": "trade_a_006",
+      "name": "로봇 팔 부품",
+      "taskId": "dda4a2cb-2a85-4070-a844-9e7d117407d7",
+      "facesInProvider": 7685,
+      "prompt": "Single salvageable industrial robot forearm assembly, a compact detached articulated robot arm from an abandoned military maintenance depot. Two chunky articulated segments, exposed circular steel hinge joints, dark graphite mechanical housing, faded safety orange armor panels, visible copper power cable, short two-finger gripper, a broken mounting flange. Worn painted metal with restrained scratches and grime, readable bold silhouette, believable mechanical construction. Semi-realistic stylized hard-surface game prop for an isometric extraction game. Only the detached arm, resting horizontally. No robot body, no human, no pedestal, no ground plane, no environment, no text, no logo. Realistic proportions, clean connected geometry, PBR materials, all sides fully modeled.",
+      "url": "https://studio.tripo3d.ai/workspace/generate/dda4a2cb-2a85-4070-a844-9e7d117407d7"
+    },
+    {
+      "id": "trade_b_023",
+      "name": "발전기 부품",
+      "taskId": "42de6c33-5910-433c-9453-646bf5cb3bd0",
+      "facesInProvider": 7480,
+      "prompt": "One salvaged compact industrial alternator generator component, detached from an abandoned maintenance machine. A squat cylindrical cast aluminum housing with radial cooling vents, visible copper windings inside, a ribbed dark steel pulley on one end, two mounting lugs, three bolts, and a small dark connector block. Used metal with restrained oil stains and scratches, faded muted blue paint on an access cover. Semi-realistic stylized hard-surface loot prop for an isometric extraction game, bold easily recognized silhouette and believable mechanical construction. Only the portable component, no engine, no vehicle, no cables trailing far outside its body, no floor, no stand, no environment, no labels, no logos. Fully modeled all sides, clean connected geometry, PBR materials.",
+      "url": "https://studio.tripo3d.ai/workspace/generate/42de6c33-5910-433c-9453-646bf5cb3bd0"
+    },
+    {
+      "id": "trade_c_018",
+      "name": "폐탄피 주머니",
+      "taskId": "f199506a-753e-4809-b0da-b6376459f92c",
+      "facesInProvider": 7810,
+      "prompt": "One small open drawstring salvage pouch filled with spent brass cartridge cases. Worn olive drab canvas fabric, soft folded wrinkles, stitched seams and a dark drawstring loop around the rolled opening. Clearly visible hollow empty brass cases of varied lengths at the open top, tarnished gold brass, no pointed bullets, no live ammunition. The pouch has a stable flattened bottom and a compact rounded silhouette. Semi-realistic stylized inventory loot prop for an isometric extraction game. Restrained dirt and fabric wear, convincing canvas and metal PBR materials. Single self-contained object, no table, no ground plane, no environment, no text, no logo, fully modeled back and bottom, no loose cases far outside the pouch.",
+      "url": "https://studio.tripo3d.ai/workspace/generate/f199506a-753e-4809-b0da-b6376459f92c"
+    },
+    {
+      "id": "trade_b_009",
+      "name": "향수",
+      "taskId": "dfbaec0a-92bb-4e8f-9044-9bc025a7841d",
+      "facesInProvider": 7376,
+      "prompt": "One collectible vintage luxury perfume bottle, compact elegant flacon with a rounded rectangular body, thick faceted violet smoked glass, beveled glass edges, narrow polished brass atomizer neck, and a small dark purple rounded cap. A little amber liquid visible through the smoky glass, tactile raised gold trim around a small blank central label plate. Slightly worn valuable loot found in an abandoned apartment. Semi-realistic stylized game prop for an isometric extraction game with bold readable silhouette, restrained surface detail, rich purple glass and aged gold metal PBR material. Single closed bottle only, no packaging, no pedestal, no floor, no environment, no lettering, no logo, fully modeled back and bottom.",
+      "url": "https://studio.tripo3d.ai/workspace/generate/dfbaec0a-92bb-4e8f-9044-9bc025a7841d"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "status": "DRAFT_FILES_READABLE",
+  "files": [
+    {
+      "path": "after_tier_structure.png",
+      "bytes": 2155147,
+      "sha256": "c74e92c57a1697f976aa3a5a19f117714370acbe765cbe0ce3b653e8dd26123b"
+    },
+    {
+      "path": "before_tier_structure.png",
+      "bytes": 2104374,
+      "sha256": "80a614ffb39f80428f068a6bdf0fce2ffccde3e9596f619501bef080e3e18252"
+    },
+    {
+      "path": "concepts/draft01_full-cover_replaced.png",
+      "bytes": 2149529,
+      "sha256": "4966889788d1d6491a83387349b0d878d03d7324b78616d5f96630b76c5e6364"
+    },
+    {
+      "path": "concepts/draft02_exposure_mannequin_reference.png",
+      "bytes": 2115914,
+      "sha256": "1182a1ea91bc948495cbfc78fe2710f39472e942970a7a4b30ac49062087ba93"
+    },
+    {
+      "path": "concepts/draft03_edel_serin_tier_reference.png",
+      "bytes": 2104374,
+      "sha256": "80a614ffb39f80428f068a6bdf0fce2ffccde3e9596f619501bef080e3e18252"
+    },
+    {
+      "path": "concepts/helmet14_design_draft.png",
+      "bytes": 2297610,
+      "sha256": "fe61a7f192e9bd9401216884f1a56400c8bd53ca307025f0511a02010a0dbc5c"
+    }
+  ],
+  "threeDimensionalFitting": false,
+  "unityEquipmentInsertion": false
+}

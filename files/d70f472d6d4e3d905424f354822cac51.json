@@ -1,0 +1,311 @@
+{
+  "file": "C:\\Users\\ehoji\\Downloads\\edel_eye_cleanup_20261016\\edel_eyes_clean_sclera_v11.blend",
+  "poses": [
+    {
+      "side": "L",
+      "delta_xz": [
+        0,
+        0
+      ],
+      "min_distance": 0.00034995839814655483,
+      "max_distance": 0.0003500468737911433,
+      "mean_distance": 0.0003499998558882321,
+      "min_signed_offset": 0.00034992085511476034,
+      "max_signed_offset": 0.0003500468978927529,
+      "inside_vertices": 0,
+      "finite_vertices": true,
+      "max_edge_length": 0.0015695662294370858,
+      "zero_area_faces": 0,
+      "vertex_count": 2561
+    },
+    {
+      "side": "L",
+      "delta_xz": [
+        -0.003,
+        0
+      ],
+      "min_distance": 0.00034996611066162586,
+      "max_distance": 0.00035004186793230474,
+      "mean_distance": 0.0003499998855261821,
+      "min_signed_offset": 0.00034983500745511265,
+      "max_signed_offset": 0.0003500418433759478,
+      "inside_vertices": 0,
+      "finite_vertices": true,
+      "max_edge_length": 0.0016011387142789851,
+      "zero_area_faces": 0,
+      "vertex_count": 2561
+    },
+    {
+      "side": "L",
+      "delta_xz": [
+        0.003,
+        0
+      ],
+      "min_distance": 0.000349955604178831,
+      "max_distance": 0.00035003956872969866,
+      "mean_distance": 0.00034999984417169596,
+      "min_signed_offset": 0.0003498699370538816,
+      "max_signed_offset": 0.000350039543263847,
+      "inside_vertices": 0,
+      "finite_vertices": true,
+      "max_edge_length": 0.0015380809517545682,
+      "zero_area_faces": 0,
+      "vertex_count": 2561
+    },
+    {
+      "side": "L",
+      "delta_xz": [
+        0,
+        -0.002
+      ],
+      "min_distance": 0.00034995313035324216,
+      "max_distance": 0.00035004023811779916,
+      "mean_distance": 0.00035000022948777383,
+      "min_signed_offset": 0.0003498762989693205,
+      "max_signed_offset": 0.0003500402440295147,
+      "inside_vertices": 0,
+      "finite_vertices": true,
+      "max_edge_length": 0.0015221448876242237,
+      "zero_area_faces": 0,
+      "vertex_count": 2561
+    },
+    {
+      "side": "L",
+      "delta_xz": [
+        0,
+        0.002
+      ],
+      "min_distance": 0.0003499558079056442,
+      "max_distance": 0.00035003662924282253,
+      "mean_distance": 0.0003499999092547248,
+      "min_signed_offset": 0.00034982317993126344,
+      "max_signed_offset": 0.0003500366146909073,
+      "inside_vertices": 0,
+      "finite_vertices": true,
+      "max_edge_length": 0.0016173418448530536,
+      "zero_area_faces": 0,
+      "vertex_count": 2561
+    },
+    {
+      "side": "L",
+      "delta_xz": [
+        -0.003,
+        -0.002
+      ],
+      "min_distance": 0.00034995682653971016,
+      "max_distance": 0.00035005089011974633,
+      "mean_distance": 0.00034999997882663035,
+      "min_signed_offset": 0.00034988142897418584,
+      "max_signed_offset": 0.000350050872839347,
+      "inside_vertices": 0,
+      "finite_vertices": true,
+      "max_edge_length": 0.0015511177034259588,
+      "zero_area_faces": 0,
+      "vertex_count": 2561
+    },
+    {
+      "side": "L",
+      "delta_xz": [
+        -0.003,
+        0.002
+      ],
+      "min_distance": 0.0003499554004520178,
+      "max_distance": 0.0003500344173517078,
+      "mean_distance": 0.00035000001195340343,
+      "min_signed_offset": 0.0003498333226161776,
+      "max_signed_offset": 0.0003500344000713085,
+      "inside_vertices": 0,
+      "finite_vertices": true,
+      "max_edge_length": 0.0016512682223586755,
+      "zero_area_faces": 0,
+      "vertex_count": 2561
+    },
+    {
+      "side": "L",
+      "delta_xz": [
+        0.003,
+        -0.002
+      ],
+      "min_distance": 0.00034996052272617817,
+      "max_distance": 0.00035004314850084484,
+      "mean_distance": 0.00034999972962011024,
+      "min_signed_offset": 0.0003498793303151615,
+      "max_signed_offset": 0.00035004315577680245,
+      "inside_vertices": 0,
+      "finite_vertices": true,
+      "max_edge_length": 0.0015130913640184023,
+      "zero_area_faces": 0,
+      "vertex_count": 2561
+    },
+    {
+      "side": "L",
+      "delta_xz": [
+        0.003,
+        0.002
+      ],
+      "min_distance": 0.0003499629383441061,
+      "max_distance": 0.000350032962160185,
+      "mean_distance": 0.00034999988862862086,
+      "min_signed_offset": 0.000349835672750487,
+      "max_signed_offset": 0.00035003295852220617,
+      "inside_vertices": 0,
+      "finite_vertices": true,
+      "max_edge_length": 0.0015765676706033912,
+      "zero_area_faces": 0,
+      "vertex_count": 2561
+    },
+    {
+      "side": "R",
+      "delta_xz": [
+        0,
+        0
+      ],
+      "min_distance": 0.00034995621535927057,
+      "max_distance": 0.00035003741504624486,
+      "mean_distance": 0.0003500000254768545,
+      "min_signed_offset": 0.00034988068273378303,
+      "max_signed_offset": 0.0003500374414215912,
+      "inside_vertices": 0,
+      "finite_vertices": true,
+      "max_edge_length": 0.001569570521027845,
+      "zero_area_faces": 0,
+      "vertex_count": 2561
+    },
+    {
+      "side": "R",
+      "delta_xz": [
+        -0.003,
+        0
+      ],
+      "min_distance": 0.00034995621535927057,
+      "max_distance": 0.00035003997618332505,
+      "mean_distance": 0.00034999978627086963,
+      "min_signed_offset": 0.00034986992613994516,
+      "max_signed_offset": 0.00035004002347704954,
+      "inside_vertices": 0,
+      "finite_vertices": true,
+      "max_edge_length": 0.0015380809517545682,
+      "zero_area_faces": 0,
+      "vertex_count": 2561
+    },
+    {
+      "side": "R",
+      "delta_xz": [
+        0.003,
+        0
+      ],
+      "min_distance": 0.00034996255999431014,
+      "max_distance": 0.0003500441962387413,
+      "mean_distance": 0.00035000016671168655,
+      "min_signed_offset": 0.00034983500745511265,
+      "max_signed_offset": 0.00035004418532480486,
+      "inside_vertices": 0,
+      "finite_vertices": true,
+      "max_edge_length": 0.001601143256293066,
+      "zero_area_faces": 0,
+      "vertex_count": 2561
+    },
+    {
+      "side": "R",
+      "delta_xz": [
+        0,
+        -0.002
+      ],
+      "min_distance": 0.0003499496669974178,
+      "max_distance": 0.00035004253732040524,
+      "mean_distance": 0.00034999974300719037,
+      "min_signed_offset": 0.00034988711468031397,
+      "max_signed_offset": 0.0003500425148104114,
+      "inside_vertices": 0,
+      "finite_vertices": true,
+      "max_edge_length": 0.0015221448876242237,
+      "zero_area_faces": 0,
+      "vertex_count": 2561
+    },
+    {
+      "side": "R",
+      "delta_xz": [
+        0,
+        0.002
+      ],
+      "min_distance": 0.00034996395697817206,
+      "max_distance": 0.00035003863740712404,
+      "mean_distance": 0.00034999988274194213,
+      "min_signed_offset": 0.00034975597918673884,
+      "max_signed_offset": 0.00035003864923055517,
+      "inside_vertices": 0,
+      "finite_vertices": true,
+      "max_edge_length": 0.0016173418448530536,
+      "zero_area_faces": 0,
+      "vertex_count": 2561
+    },
+    {
+      "side": "R",
+      "delta_xz": [
+        -0.003,
+        -0.002
+      ],
+      "min_distance": 0.0003499533631838858,
+      "max_distance": 0.000350034621078521,
+      "mean_distance": 0.00034999987135496906,
+      "min_signed_offset": 0.0003498570749798091,
+      "max_signed_offset": 0.0003500346138025634,
+      "inside_vertices": 0,
+      "finite_vertices": true,
+      "max_edge_length": 0.0015130913640184023,
+      "zero_area_faces": 0,
+      "vertex_count": 2561
+    },
+    {
+      "side": "R",
+      "delta_xz": [
+        -0.003,
+        0.002
+      ],
+      "min_distance": 0.0003499664308037609,
+      "max_distance": 0.0003500424209050834,
+      "mean_distance": 0.0003499997458482515,
+      "min_signed_offset": 0.00034983043815373094,
+      "max_signed_offset": 0.00035004239543923177,
+      "inside_vertices": 0,
+      "finite_vertices": true,
+      "max_edge_length": 0.0015765676706033912,
+      "zero_area_faces": 0,
+      "vertex_count": 2561
+    },
+    {
+      "side": "R",
+      "delta_xz": [
+        0.003,
+        -0.002
+      ],
+      "min_distance": 0.00034995045280084014,
+      "max_distance": 0.0003500351740512997,
+      "mean_distance": 0.00034999980476049564,
+      "min_signed_offset": 0.0003498973937894334,
+      "max_signed_offset": 0.0003500351713228156,
+      "inside_vertices": 0,
+      "finite_vertices": true,
+      "max_edge_length": 0.0015511223209092742,
+      "zero_area_faces": 0,
+      "vertex_count": 2561
+    },
+    {
+      "side": "R",
+      "delta_xz": [
+        0.003,
+        0.002
+      ],
+      "min_distance": 0.0003499607846606523,
+      "max_distance": 0.00035004562232643366,
+      "mean_distance": 0.0003500003232314276,
+      "min_signed_offset": 0.00034983922114406596,
+      "max_signed_offset": 0.0003500455950415926,
+      "inside_vertices": 0,
+      "finite_vertices": true,
+      "max_edge_length": 0.0016512643967074323,
+      "zero_area_faces": 0,
+      "vertex_count": 2561
+    }
+  ]
+}

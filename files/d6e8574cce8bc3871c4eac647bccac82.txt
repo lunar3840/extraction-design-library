@@ -1,0 +1,42 @@
+PASS prototype offers exactly Serin and the temporary second companion
+PASS new profile starts with Serin connected in camp
+PASS old schema-three JSON has no chip version or selection
+PASS pre-chip schema-three save migrates to Serin without a disk write
+PASS camp chip swap commits once and notifies after success
+PASS chip selection preserves backpack contents, positions and live ownership
+PASS selected companion is persisted in profile metadata
+PASS selecting the connected chip does not write or notify again
+PASS chip selection survives JSON save and reload
+PASS camp can intentionally disconnect the chip
+PASS version-one empty selection stays disconnected after reload
+PASS no-chip departure stays in camp without a save or lock
+PASS serin clean chip cannot enter backpack or storage item grids
+PASS prototype clean chip cannot enter backpack or storage item grids
+PASS inventory restore rejects a forged clean chip cargo entry
+PASS full-backpack fixture occupies every item entry
+PASS full backpack permits roster equip and disconnect without moving any cargo
+PASS connect Serin for persistence failure fixture
+PASS failed save preserves chip, profile revision and backpack and sends no notification
+PASS unknown, empty-string and unpurified cargo ids cannot connect
+PASS departure enters the chip-locked surface session
+PASS stage rejects disconnect, swap and redundant equip below the UI layer
+PASS extraction retains the chip and restores camp selection
+PASS another chip can deploy after returning to camp
+PASS death fixture reaches the locked return state
+PASS dead session also rejects chip removal and swapping
+PASS death return clears ordinary equipment but retains the clean roster chip
+PASS clean chips never become grave loot
+PASS chip disconnect is available after death return
+PASS reject malformed companion version -1
+PASS reject malformed companion version 2
+PASS reject malformed companion version 2147483647
+PASS validation rejects unknown companion id 7
+PASS validation rejects unknown companion id 1
+PASS validation rejects unknown companion id 5
+PASS validation rejects unknown companion id 256
+PASS migration rejects a selection with missing version
+PASS inventory chip selector reaches authoritative camp API
+PASS chip slot stays above armor/weapons and does not start portrait drag
+PASS frozen inventory cannot change chip
+PASS Escape cancels a queued chip selection before late update
+PASS same inventory selector rejects removal and swap in raid

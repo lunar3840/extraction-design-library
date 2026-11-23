@@ -1,0 +1,42 @@
+{
+  "thread": "01a1aa62-ae2b-7ac3-a99c-8fb67424d0b4",
+  "host": "DESKTOP-2TKQ90L",
+  "turns": [
+    {
+      "id": "01a1b53b-b60d-7581-ad7d-b472bf8a96ff",
+      "date": "2026-11-07",
+      "startedAt": 1794041951,
+      "contentSHA256": "30ec38efef8d8c42dc0ff90e853c04fd3a4d0e3b834ed826802b18021bdbe38f",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1b525-4bd0-7533-88e3-bd0beb3044ee",
+      "date": "2026-11-07",
+      "startedAt": 1794040482,
+      "contentSHA256": "58e7c209fa2c9aa776bc823f1a437b1c4b0e54b5a982f26adf5ee389e7b33f37",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1b516-d904-7103-a4d2-a4a80f7a1dfe",
+      "date": "2026-11-07",
+      "startedAt": 1794039535,
+      "contentSHA256": "364ef8215436971b19ab8077d63569ae3ff7ed15384149e4f322f89d74baed0d",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1b50c-9c86-7ae3-8252-af4ce15280c6",
+      "date": "2026-11-07",
+      "startedAt": 1794038865,
+      "contentSHA256": "986a7ecfbc85b3d864359327391a0635fec16ce7f0928d808e10733d91333bd8",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1b50a-9654-7563-8e91-8c893e41e7a9",
+      "date": "2026-11-07",
+      "startedAt": 1794038732,
+      "contentSHA256": "d8f2f115b8b9d3a460a16a1dafb49e98a98cf92c3b96baf831161a624cb6b83c",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    }
+  ],
+  "originals": "Local archive preserved; public owner reports are the source documents. Excluded retouch chats and private references are not included."
+}

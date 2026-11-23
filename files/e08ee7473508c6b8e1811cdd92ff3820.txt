@@ -1,0 +1,26 @@
+D06 PLACED 14 instances; disabled retained Renderers=8
+D06_YardWall_SC source=RustyMetalBarrier replaces=EnclosuresV33_ConnectedFacilities/Boundaries/SC_W6/SC_W6_1_8/Wall length=3.308m originalCollider=kept
+D06_YardWall_WC source=RustyMetalBarrier replaces=EnclosuresV33_ConnectedFacilities/Boundaries/WC_W3/WC_W3_1_3/Wall length=3.467m originalCollider=kept
+D06_YardWall_CN source=RustyMetalBarrier replaces=EnclosuresV33_ConnectedFacilities/Boundaries/CN_W5/CN_W5_1_3/Wall length=3.272m originalCollider=kept
+D06_IndustrialMasonryBay_SC source=ConcreteBrickWall replaces=EnclosuresV33_ConnectedFacilities/Boundaries/SC_W6/SC_W6_1_11/Wall length=3.308m originalCollider=kept
+D06_YardGateShoulder_SC_G1_A source=MetalGate replaces=EnclosuresV33_ConnectedFacilities/Boundaries/SC_W2/SC_W2_1_8/Wall gate=SC_G1 open; originalCollider=kept; newMeshCollider=exact
+D06_YardGateShoulder_SC_G1_B source=MetalGate replaces=EnclosuresV33_ConnectedFacilities/Boundaries/SC_W3/SC_W3_1_0/Wall gate=SC_G1 open; originalCollider=kept; newMeshCollider=exact
+D06_BoundaryJunctionPier_SC source=ConcretePillar map=(350,160) trim=0.30m on SC_W5/SC_W6 visual only; originalColliders=kept
+D06_LoadingDock_E05 source=IndustrialPlatform map=(369.50,204.18) size=(2.50, 0.66, 5.00) bottomOffset=0.00 newMeshCollider=True
+D06_CantileverCanopy_E05 source=IndustrialMetalPlatform map=(369.50,204.00) size=(3.16, 2.10, 5.00) bottomOffset=2.60 newMeshCollider=True
+D06_MaintenancePortal_W02 source=RustedMetalArchway anchor=EnclosuresV33_ConnectedFacilities/Buildings/W02/DOOR_EXTERIOR_A
+D06_RoofWaterTank_Ground_EN2 source=IndustrialSilo map=(57.00,126.00) size=(2.20, 3.00, 2.20) bottomOffset=0.00 newMeshCollider=True
+D06_TurbineCradle_Y01 source=IndustrialTurbine map=(253.00,293.00) size=(2.10, 2.40, 5.00) bottomOffset=0.00 newMeshCollider=True
+D06_MachinePowerCoupler_PC source=RustedIndustrialMachine map=(446.00,113.00) size=(1.80, 3.30, 1.80) bottomOffset=0.00 newMeshCollider=True
+D06_ReclamationBasin_NorthBank source=ConcreteDrainageTrough map=(385.00,282.00) size=(3.30, 1.20, 6.00) bottomOffset=0.00 newMeshCollider=True
+RENDERER_ALLOWLIST=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-12/a-map-tripo-assembly-d06/RENDERER_ALLOWLIST.txt
+DISABLED_RENDERER=EnclosuresV33_ConnectedFacilities/Boundaries/CN_W5/CN_W5_1_3/Wall
+DISABLED_RENDERER=EnclosuresV33_ConnectedFacilities/Boundaries/SC_W2/SC_W2_1_8/Wall
+DISABLED_RENDERER=EnclosuresV33_ConnectedFacilities/Boundaries/SC_W3/SC_W3_1_0/Wall
+DISABLED_RENDERER=EnclosuresV33_ConnectedFacilities/Boundaries/SC_W5/SC_W5_1_4/Wall
+DISABLED_RENDERER=EnclosuresV33_ConnectedFacilities/Boundaries/SC_W6/SC_W6_1_0/Wall
+DISABLED_RENDERER=EnclosuresV33_ConnectedFacilities/Boundaries/SC_W6/SC_W6_1_11/Wall
+DISABLED_RENDERER=EnclosuresV33_ConnectedFacilities/Boundaries/SC_W6/SC_W6_1_8/Wall
+DISABLED_RENDERER=EnclosuresV33_ConnectedFacilities/Boundaries/WC_W3/WC_W3_1_3/Wall
+OMITTED_PENDING_SITE_FIT=ServiceFacade,DrainHeadwall,ClinicPlasterCorner
+Original colliders/transforms, 12 open gates, roof cutaway and spawn metadata are not edited.

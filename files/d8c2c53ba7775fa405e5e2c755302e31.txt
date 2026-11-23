@@ -1,0 +1,144 @@
+PASS exact active pool
+PASS resolved trade_c_001
+PASS resolved trade_c_005
+PASS resolved trade_c_006
+PASS resolved trade_c_018
+PASS resolved trade_c_025
+PASS resolved trade_c_027
+PASS resolved trade_b_003
+PASS resolved trade_b_006
+PASS resolved trade_b_023
+PASS resolved trade_c_017
+PASS resolved trade_c_026
+PASS resolved trade_b_012
+PASS resolved trade_b_013
+PASS resolved trade_b_016
+PASS resolved trade_b_017
+PASS resolved trade_a_006
+PASS resolved trade_c_004
+PASS resolved trade_c_008
+PASS resolved trade_c_015
+PASS resolved trade_c_016
+PASS resolved trade_b_005
+PASS resolved trade_b_008
+PASS resolved trade_b_009
+PASS resolved trade_a_018
+PASS resolved trade_a_015
+PASS resolved trade_a_016
+PASS resolved trade_s_001
+PASS resolved trade_s_002
+PASS resolved trade_m_001
+PASS resolved trade_m_002
+PASS resolved trade_m_003
+PASS resolved trade_m_004
+PASS resolved item_003
+PASS resolved item_001
+PASS resolved item_010
+PASS resolved item_012
+PASS resolved item_016
+PASS resolved med_injector_c
+PASS resolved med_field_kit_b
+PASS resolved med_tourniquet_b
+PASS resolved med_analgesic_b
+PASS resolved SURGERY_KIT
+PASS resolved item_022
+PASS resolved item_023
+PASS resolved item_017
+PASS resolved item_018
+PASS resolved item_019
+PASS resolved item_020
+PASS step budget Endurance 0
+PASS step budget Endurance 1
+PASS step budget Endurance 2
+PASS step budget Endurance 3
+PASS step budget Endurance 4
+PASS step budget SprintEfficiency 0
+PASS step budget SprintEfficiency 1
+PASS step budget SprintEfficiency 2
+PASS step budget SprintEfficiency 3
+PASS step budget SprintEfficiency 4
+PASS step budget FastRecovery 0
+PASS step budget FastRecovery 1
+PASS step budget FastRecovery 2
+PASS step budget FastRecovery 3
+PASS step budget FastRecovery 4
+PASS step budget CarryPower 0
+PASS step budget CarryPower 1
+PASS step budget CarryPower 2
+PASS step budget WeightAdaptation 0
+PASS step budget WeightAdaptation 1
+PASS step budget WeightAdaptation 2
+PASS step budget Reserve 0
+PASS step budget Reserve 1
+PASS step budget Reserve 2
+PASS step budget Reserve 3
+PASS step budget Reserve 4
+PASS step budget Conservation 0
+PASS step budget Conservation 1
+PASS step budget Conservation 2
+PASS step budget Conservation 3
+PASS step budget Conservation 4
+PASS step budget ActivityAdaptation 0
+PASS step budget ActivityAdaptation 1
+PASS step budget ActivityAdaptation 2
+PASS step budget ActivityAdaptation 3
+PASS step budget ActivityAdaptation 4
+PASS step budget FastReload 0
+PASS step budget FastReload 1
+PASS step budget FastReload 2
+PASS step budget FastReload 3
+PASS step budget FastReload 4
+PASS step budget Precision 0
+PASS step budget Precision 1
+PASS step budget Precision 2
+PASS step budget Precision 3
+PASS step budget Precision 4
+PASS 132 units /198000 blank /20material types
+DISTRIBUTION power tier0 mean=1287.6 rows=2.50
+DISTRIBUTION power tier1 mean=1417.6 rows=2.50
+DISTRIBUTION power tier2 mean=2110.8 rows=3.50
+DISTRIBUTION electronics tier0 mean=1300.7 rows=2.50
+DISTRIBUTION electronics tier1 mean=1899.9 rows=2.50
+DISTRIBUTION electronics tier2 mean=3257.7 rows=3.50
+DISTRIBUTION tools tier0 mean=1317.2 rows=2.50
+DISTRIBUTION tools tier1 mean=1439.5 rows=2.50
+DISTRIBUTION tools tier2 mean=2160.4 rows=3.50
+DISTRIBUTION industrial tier0 mean=1510.8 rows=2.50
+DISTRIBUTION industrial tier1 mean=1605.2 rows=2.50
+DISTRIBUTION industrial tier2 mean=2355.9 rows=3.50
+DISTRIBUTION medical tier0 mean=527.7 rows=2.50
+DISTRIBUTION medical tier1 mean=531.7 rows=2.50
+DISTRIBUTION medical tier2 mean=745.2 rows=3.50
+DISTRIBUTION food tier0 mean=376.4 rows=2.50
+DISTRIBUTION food tier1 mean=427.0 rows=2.50
+DISTRIBUTION food tier2 mean=731.1 rows=3.50
+DISTRIBUTION ammo tier0 mean=300.4 rows=2.50
+DISTRIBUTION ammo tier1 mean=300.4 rows=2.50
+DISTRIBUTION ammo tier2 mean=430.3 rows=3.50
+DISTRIBUTION residential tier0 mean=938.5 rows=2.50
+DISTRIBUTION residential tier1 mean=1056.4 rows=2.50
+DISTRIBUTION residential tier2 mean=1774.5 rows=3.50
+DISTRIBUTION office tier0 mean=1365.0 rows=2.50
+DISTRIBUTION office tier1 mean=2121.4 rows=2.50
+DISTRIBUTION office tier2 mean=3560.5 rows=3.50
+DISTRIBUTION valuables tier0 mean=1816.7 rows=2.50
+DISTRIBUTION valuables tier1 mean=3278.9 rows=2.50
+DISTRIBUTION valuables tier2 mean=5632.2 rows=3.50
+DISTRIBUTION general tier0 mean=439.0 rows=2.50
+DISTRIBUTION general tier1 mean=439.0 rows=2.50
+DISTRIBUTION general tier2 mean=614.1 rows=3.50
+PASS all48 reachable
+PASS risk/value and jackpot frequency
+DISTRIBUTION machine mean=784.9
+DISTRIBUTION human mean=308.0
+DISTRIBUTION named_machine mean=3579.9
+DISTRIBUTION named_human mean=3700.5
+PASS role bias Scout 589->1153
+PASS role bias Suppressor 412->883
+PASS role bias Sniper 143->341
+PASS role bias Grenadier 506->1013
+PASS role bias Discharger 620->1156
+PASS role bias ArcRifle 620->1156
+PASS role bias GuardTank 412->803
+PASS None fallback
+ALL PURE LOOT RULE CHECKS PASSED

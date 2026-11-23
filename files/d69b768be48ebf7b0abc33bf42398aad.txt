@@ -1,0 +1,6 @@
+STAGE_A_LANDSCAPE_V31_ACTUAL_PLAYER_MOTOR
+successes=0 failures=0 expected=11
+RESULT FAIL
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Escape.EditorTools.StageALandscapeV31Play.Initialize () [0x0013b] in C:\UnityProject\escape\Assets\Escape\Editor\StageALandscapeV31Play.cs:145 
+  at Escape.EditorTools.StageALandscapeV31Play.Poll () [0x000ad] in C:\UnityProject\escape\Assets\Escape\Editor\StageALandscapeV31Play.cs:99 

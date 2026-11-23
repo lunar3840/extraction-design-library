@@ -1,0 +1,11 @@
+STAGE_A_LOOK_V23_GLOBAL_REFERENCE
+generatedUtc=2026-09-24T01:49:44.9548041Z
+PASS protected scene, original baseline and proven component reference are available
+PASS global reference has not been written before
+PASS active protected scene copy is byte-identical to backup used for component reference
+PASS protected backup is active while reading its own RenderSettings
+PASS protected scene reproduces original hierarchy and verified normalized components
+PASS protected scene reproduces all original material slots
+NOTE originalLegacyGlobalHash=9F83EC58AB84838C4262C86B8D42A96A45109DC88B6775B0BEEAF5088C36D8A7 normalizedBackupGlobalHash=A1A4A8B5A77FD6175B8CABE0D1A36CE833270891B6A8C03F398CC0CD7BC52BBE
+SUMMARY passed=6 failed=0
+RESULT PASS

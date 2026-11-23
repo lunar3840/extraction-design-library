@@ -1,0 +1,4 @@
+phase,frame,s4_visible,appearance_hidden,live_body_tris,preview_body_tris,visible_parts,source_visible_parts,preview_visible_parts,missing_visible_mirrors,extra_visible_mirrors,registered_parts,preview_optin,preview_refit,preview_distance,live_optin,live_refit,live_distance,hair_slots,material_color_failures,uv_compared,uv_failures,uv_unreadable,prefs_key_exists,prefs_raw_value
+covered_before,2309,1,0,31505,31505,75,75,75,0,0,78,1,1,1,0,0,0,1,0,1,0,0,1,0
+full_hidden,2315,0,1,45631,45631,25,25,25,0,0,78,1,1,1,0,0,0,1,0,1,0,0,1,1
+covered_restored,2321,1,0,31505,31505,75,75,75,0,0,78,1,1,1,0,0,0,1,0,1,0,0,1,0

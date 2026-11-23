@@ -1,0 +1,13 @@
+STAGE_A_LOOK_V18_BASELINE
+generatedUtc=2026-09-22T16:31:51.6922010Z
+PASS map reference is live
+PASS V18 surface root is absent before capture
+PASS existing structure is present
+PASS V16 atmosphere component is present
+PASS V17 roof visibility component is present
+PASS all current colliders, including V17, inventoried: 4665
+PASS all current renderers inventoried: 5962
+PASS all 46 gameplay anchors inventoried
+NOTE colliders=4665:43525D51EC75A825 renderers=5962:0878694F59E573FB anchors=46:86E2F0F4D46F8D4B settings=28942B7387F2A992
+SUMMARY passed=8 failed=0
+RESULT BASELINE_CAPTURED

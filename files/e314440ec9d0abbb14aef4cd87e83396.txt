@@ -1,0 +1,17 @@
+V25 physical CharacterController walks / normal StageMapRouter.LateUpdate / normal follow camera. No manual atmosphere Evaluate or volume stack Update.
+PASS interior floor 0
+PASS interior consistent tone 0
+PASS interior exterior veil 0
+INTERIOR feet=(0.0000, 2.0200, -28.0000) weight=1 tone=Neutral
+INTERIOR camera=(4.3503, 17.0771, -20.4651) (authored gameplay pose settled after teleport)
+PASS interior floor 1
+PASS interior consistent tone 1
+PASS interior exterior veil 1
+INTERIOR feet=(-22.0000, 8.0200, -27.0000) weight=1 tone=Neutral
+INTERIOR camera=(-17.6497, 23.0771, -19.4651) (authored gameplay pose settled after teleport)
+PASS Leave disables A look
+PASS Leave restores B visibility
+PASS Leave resets hall exterior veil
+LEAVE tone=ACES ambient=Trilight farClip=150
+samples=0 failures=0
+RESULT PASS

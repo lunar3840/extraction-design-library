@@ -1,0 +1,69 @@
+{
+  "runId": "chest-rig-backpack-2026-10-23",
+  "scope": "targeted-inventory-reconciliation",
+  "fileKey": "KUD4t84BL1S77c3cnb8co0",
+  "pageId": "105:2985",
+  "mainFrameId": "105:2987",
+  "originalArchiveId": "139:584",
+  "noBackpackFrameId": "144:799",
+  "carriedCompositionId": "141:763",
+  "rigGridId": "141:768",
+  "backpackGridId": "141:830",
+  "variables": {
+    "tooltipPrimitive": "VariableID:143:799",
+    "tooltipSurface": "VariableID:143:800"
+  },
+  "reusedComponents": [
+    "3:83",
+    "3:173",
+    "11:429",
+    "105:2984",
+    "4:138",
+    "4:143",
+    "4:148"
+  ],
+  "reusedFont": "Noto Sans KR",
+  "layout": {
+    "rigColumns": 6,
+    "rigRows": 2,
+    "backpackColumns": 6,
+    "backpackRows": [
+      3,
+      4,
+      6
+    ],
+    "pitchPx": 90,
+    "visibleSingleCardPx": 82,
+    "gapPx": 8
+  },
+  "tooltip": {
+    "baseOpacity": 0.98,
+    "tierLayerOpacity": 0.24,
+    "compositeOpacity": 0.9848
+  },
+  "completedSteps": [
+    "source-and-code-discovery",
+    "existing-component-token-style-reuse",
+    "editable-rig-and-backpack-composition",
+    "no-backpack-state",
+    "opaque-hover-surface",
+    "visual-review",
+    "Unity-final-visual-and-functional-checks",
+    "temporary-session-cleanup-and-editor-restore"
+  ],
+  "pendingValidations": [],
+  "validation": {
+    "ruleChecksPassed": 359,
+    "playEvidenceChecksPassed": 9,
+    "osVKeyVerified": false,
+    "inputSystemVEventsVerified": true,
+    "editorRestored": true,
+    "scope": "Windows Unity Editor 1920x1080"
+  },
+  "hud": {
+    "pageId": "11:711",
+    "frameId": "103:2538",
+    "hiddenLegacyQuickslotsId": "103:2546",
+    "contextualVHintId": "148:2282"
+  }
+}

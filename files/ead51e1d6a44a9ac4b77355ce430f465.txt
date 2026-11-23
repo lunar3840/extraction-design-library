@@ -1,0 +1,4 @@
+2026-10-07 오후 7:34:40
+Visible short ramps over two confirmed retained V33 threshold steps. Controller and original geometry unchanged.
+E04 start=(119.000, 7.234, 64.600) end=(119.000, 7.488, 62.776) width=2.30m rise=0.253m mesh=Assets/Escape/Art/BuildingD04/Access/D04_Access_E04.asset
+W11 start=(-82.160, 5.017, 87.441) end=(-82.477, 5.326, 85.645) width=2.30m rise=0.309m mesh=Assets/Escape/Art/BuildingD04/Access/D04_Access_W11.asset

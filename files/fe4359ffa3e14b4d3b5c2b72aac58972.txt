@@ -1,0 +1,171 @@
+Shader "Escape/StageA/WaterV37"
+{
+    Properties
+    {
+        _DeepColor("Deep Water", Color) = (0.025, 0.16, 0.22, 1)
+        _ShallowColor("Shallow Water", Color) = (0.09, 0.29, 0.32, 1)
+        _DeepOpacity("Deep Opacity", Range(0.75, 1)) = 0.94
+        _ShallowOpacity("Shallow Opacity", Range(0.55, 0.95)) = 0.76
+        _DepthFadeMeters("Shore Depth Range (m)", Range(0.2, 5)) = 1.6
+        _WaveStrength("Ripple Slope", Range(0, 0.2)) = 0.065
+        _WaveSpeed("Ripple Speed", Range(0, 2)) = 0.48
+        _RingStrength("Rain Ring Highlight", Range(0, 0.15)) = 0.045
+        _ReflectionStrength("Probe Reflection", Range(0, 1)) = 0.32
+    }
+
+    SubShader
+    {
+        Tags { "RenderPipeline"="UniversalPipeline" "RenderType"="Transparent" "Queue"="Transparent-50" }
+        LOD 200
+
+        Pass
+        {
+            Name "WaterForward"
+            Tags { "LightMode"="UniversalForward" }
+            Blend SrcAlpha OneMinusSrcAlpha
+            ZWrite Off
+            ZTest LEqual
+            Cull Back
+
+            HLSLPROGRAM
+            #pragma target 3.5
+            #pragma vertex WaterVertex
+            #pragma fragment WaterFragment
+            #pragma multi_compile _ _MAIN_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS_CASCADE _MAIN_LIGHT_SHADOWS_SCREEN
+            #pragma multi_compile_fragment _ _SHADOWS_SOFT _SHADOWS_SOFT_LOW _SHADOWS_SOFT_MEDIUM _SHADOWS_SOFT_HIGH
+            #pragma multi_compile_fragment _ _REFLECTION_PROBE_BLENDING
+            #pragma multi_compile_fragment _ _REFLECTION_PROBE_BOX_PROJECTION
+            #pragma multi_compile_fragment _ _REFLECTION_PROBE_ATLAS
+            #pragma multi_compile _ _CLUSTER_LIGHT_LOOP
+            #pragma multi_compile_fog
+            #pragma multi_compile_instancing
+
+            #include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Core.hlsl"
+            #include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Lighting.hlsl"
+            #include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/DeclareDepthTexture.hlsl"
+
+            CBUFFER_START(UnityPerMaterial)
+                half4 _DeepColor;
+                half4 _ShallowColor;
+                half _DeepOpacity;
+                half _ShallowOpacity;
+                float _DepthFadeMeters;
+                float _WaveStrength;
+                float _WaveSpeed;
+                half _RingStrength;
+                half _ReflectionStrength;
+            CBUFFER_END
+
+            struct Attributes
+            {
+                float4 positionOS : POSITION;
+                UNITY_VERTEX_INPUT_INSTANCE_ID
+            };
+
+            struct Varyings
+            {
+                float4 positionCS : SV_POSITION;
+                float3 positionWS : TEXCOORD0;
+                half fogFactor : TEXCOORD1;
+                UNITY_VERTEX_INPUT_INSTANCE_ID
+                UNITY_VERTEX_OUTPUT_STEREO
+            };
+
+            float Hash21(float2 value)
+            {
+                float3 p = frac(float3(value.xyx) * 0.1031);
+                p += dot(p, p.yzx + 33.33);
+                return frac((p.x + p.y) * p.z);
+            }
+
+            half RainRing(float2 worldXZ, float time)
+            {
+                float2 p = worldXZ * 0.9;
+                float2 cell = floor(p);
+                float2 local = frac(p);
+                float2 center = float2(Hash21(cell + 17.1), Hash21(cell + 41.7));
+                center = lerp(float2(0.27, 0.27), float2(0.73, 0.73), center);
+                float age = frac(time * 0.38 + Hash21(cell + 7.3));
+                float radius = age * 0.47;
+                float distanceToRing = abs(length(local - center) - radius);
+                float life = smoothstep(0.05, 0.18, age) * (1.0 - smoothstep(0.65, 0.96, age));
+                return half((1.0 - smoothstep(0.006, 0.035, distanceToRing)) * life);
+            }
+
+            Varyings WaterVertex(Attributes input)
+            {
+                Varyings output = (Varyings)0;
+                UNITY_SETUP_INSTANCE_ID(input);
+                UNITY_TRANSFER_INSTANCE_ID(input, output);
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(output);
+                VertexPositionInputs position = GetVertexPositionInputs(input.positionOS.xyz);
+                output.positionCS = position.positionCS;
+                output.positionWS = position.positionWS;
+                output.fogFactor = ComputeFogFactor(position.positionCS.z);
+                return output;
+            }
+
+            half4 WaterFragment(Varyings input) : SV_Target
+            {
+                UNITY_SETUP_INSTANCE_ID(input);
+                UNITY_SETUP_STEREO_EYE_INDEX_POST_VERTEX(input);
+
+                float2 p = input.positionWS.xz;
+                float t = _Time.y * _WaveSpeed;
+                float phaseA = dot(p, float2(1.27, 0.82)) + t * 1.3;
+                float phaseB = dot(p, float2(-0.67, 1.68)) - t * 1.7;
+                float2 slope = _WaveStrength *
+                    (float2(1.27, 0.82) * cos(phaseA) * 0.55 +
+                     float2(-0.67, 1.68) * cos(phaseB) * 0.31);
+                half3 normalWS = normalize(half3(-slope.x, 1.0, -slope.y));
+                half3 viewWS = GetWorldSpaceNormalizeViewDir(input.positionWS);
+                float2 screenUV = GetNormalizedScreenSpaceUV(input.positionCS);
+
+                // A missing depth copy resolves to a far value on the PC's reversed-Z path.
+                // Mobile uses the stable deep-water palette without a depth texture sample.
+                half depthFactor = 1.0h;
+                #if !defined(SHADER_API_MOBILE)
+                    float rawDepth = SampleSceneDepth(screenUV);
+                    #if UNITY_REVERSED_Z
+                        bool validDepth = rawDepth > 0.00001;
+                    #else
+                        bool validDepth = rawDepth < 0.99999;
+                    #endif
+                    if (validDepth)
+                    {
+                        float sceneEye = (unity_OrthoParams.w == 0.0)
+                            ? LinearEyeDepth(rawDepth, _ZBufferParams)
+                            : LinearDepthToEyeDepth(rawDepth);
+                        float waterEye = -TransformWorldToView(input.positionWS).z;
+                        float waterColumn = max(0.0, sceneEye - waterEye);
+                        depthFactor = half(smoothstep(0.05, max(_DepthFadeMeters, 0.2), waterColumn));
+                    }
+                #endif
+
+                half3 waterColor = lerp(_ShallowColor.rgb, _DeepColor.rgb, depthFactor);
+                half opacity = lerp(_ShallowOpacity, _DeepOpacity, depthFactor);
+                half3 ambient = SampleSH(normalWS);
+                Light mainLight = GetMainLight(TransformWorldToShadowCoord(input.positionWS));
+                half attenuation = mainLight.distanceAttenuation * mainLight.shadowAttenuation;
+                half diffuse = saturate(dot(normalWS, mainLight.direction));
+                waterColor *= 0.73h + 0.27h * ambient +
+                    0.25h * mainLight.color * diffuse * attenuation;
+
+                half facing = saturate(dot(normalWS, viewWS));
+                half fresnel = 0.05h + 0.52h * Pow4(1.0h - facing);
+                half3 reflectedDirection = reflect(-viewWS, normalWS);
+                half3 reflected = GlossyEnvironmentReflection(
+                    reflectedDirection, input.positionWS, 0.18h, 1.0h, screenUV);
+                waterColor = lerp(waterColor, reflected, saturate(_ReflectionStrength * fresnel));
+                half3 halfDirection = SafeNormalize(mainLight.direction + viewWS);
+                half sunGlint = pow(saturate(dot(normalWS, halfDirection)), 72.0h);
+                waterColor += mainLight.color * sunGlint * attenuation * 0.12h;
+                waterColor += RainRing(p, _Time.y) * _RingStrength * half3(0.42h, 0.61h, 0.62h);
+                waterColor = MixFog(waterColor, input.fogFactor);
+                return half4(waterColor, opacity);
+            }
+            ENDHLSL
+        }
+    }
+    FallBack "Hidden/Universal Render Pipeline/FallbackError"
+}

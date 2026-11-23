@@ -1,0 +1,1415 @@
+STAGE_A_BUILDING_D08_INDEPENDENT_VALIDATION
+PASS active retained Stage A map exists
+PASS fresh D08 before capture and physical baseline exist
+PASS 10 fixed identity families exactly cover authoritative 69 IDs; S11 is garage
+PASS active scene exposes exactly the 69 expected building identities
+PASS one D08 application identity root prevents duplicate construction
+PASS exact 136 old D04 visual roots are allowlisted for deactivation
+PASS all original transforms/colliders and spawn tiers exactly match before, except approved D04 visual deactivation
+PASS every allowlisted old visual root is inactive; no unlisted source change
+PASS original spawn arrays remain valid
+FAIL only four basic entry slots are active spawn candidates; R8 remains inactive
+NOTE B4/R8 distance=62.2m; both approach W5, so entry differentiation remains unresolved and R8 stays inactive.
+PASS C01 assigned to intended identity family F7
+PASS C01 has active facade and cutaway roof at retained owner
+PASS C01 visible geometry has matching unique role marker
+PASS C01 added facade and roof have real renderable meshes and supported materials
+PASS C01 added architecture has no gameplay collider or hidden doorway obstruction
+PASS C01 old repeated D04 facade and roof are exactly deactivated
+PASS C01 has nonduplicate facade/roof mesh topology and local silhouette within F7
+PASS C01 is not a geometry duplicate of another family/building
+PASS C01 D08 roof cuts away inside and returns outside
+PASS C02 assigned to intended identity family F5
+PASS C02 has active facade and cutaway roof at retained owner
+PASS C02 visible geometry has matching unique role marker
+PASS C02 added facade and roof have real renderable meshes and supported materials
+PASS C02 added architecture has no gameplay collider or hidden doorway obstruction
+PASS C02 old repeated D04 facade and roof are exactly deactivated
+PASS C02 has nonduplicate facade/roof mesh topology and local silhouette within F5
+PASS C02 is not a geometry duplicate of another family/building
+PASS C02 D08 roof cuts away inside and returns outside
+PASS C03 assigned to intended identity family F5
+PASS C03 has active facade and cutaway roof at retained owner
+PASS C03 visible geometry has matching unique role marker
+PASS C03 added facade and roof have real renderable meshes and supported materials
+PASS C03 added architecture has no gameplay collider or hidden doorway obstruction
+PASS C03 old repeated D04 facade and roof are exactly deactivated
+PASS C03 has nonduplicate facade/roof mesh topology and local silhouette within F5
+PASS C03 is not a geometry duplicate of another family/building
+PASS C03 D08 roof cuts away inside and returns outside
+PASS C04 assigned to intended identity family F4
+PASS C04 has active facade and cutaway roof at retained owner
+PASS C04 visible geometry has matching unique role marker
+PASS C04 added facade and roof have real renderable meshes and supported materials
+PASS C04 added architecture has no gameplay collider or hidden doorway obstruction
+PASS C04 old repeated D04 facade and roof are exactly deactivated
+PASS C04 has nonduplicate facade/roof mesh topology and local silhouette within F4
+PASS C04 is not a geometry duplicate of another family/building
+PASS C04 D08 roof cuts away inside and returns outside
+PASS CLINIC assigned to intended identity family F2
+PASS CLINIC has active facade and cutaway roof at retained owner
+PASS CLINIC visible geometry has matching unique role marker
+PASS CLINIC added facade and roof have real renderable meshes and supported materials
+PASS CLINIC added architecture has no gameplay collider or hidden doorway obstruction
+PASS CLINIC old repeated D04 facade and roof are exactly deactivated
+PASS CLINIC has nonduplicate facade/roof mesh topology and local silhouette within F2
+PASS CLINIC is not a geometry duplicate of another family/building
+PASS CLINIC D08 roof cuts away inside and returns outside
+PASS E01 assigned to intended identity family F3
+PASS E01 has active facade and cutaway roof at retained owner
+PASS E01 visible geometry has matching unique role marker
+PASS E01 added facade and roof have real renderable meshes and supported materials
+PASS E01 added architecture has no gameplay collider or hidden doorway obstruction
+PASS E01 old repeated D04 facade and roof are exactly deactivated
+PASS E01 has nonduplicate facade/roof mesh topology and local silhouette within F3
+PASS E01 is not a geometry duplicate of another family/building
+PASS E01 D08 roof cuts away inside and returns outside
+PASS E02 assigned to intended identity family F3
+PASS E02 has active facade and cutaway roof at retained owner
+PASS E02 visible geometry has matching unique role marker
+PASS E02 added facade and roof have real renderable meshes and supported materials
+PASS E02 added architecture has no gameplay collider or hidden doorway obstruction
+PASS E02 old repeated D04 facade and roof are exactly deactivated
+PASS E02 has nonduplicate facade/roof mesh topology and local silhouette within F3
+PASS E02 is not a geometry duplicate of another family/building
+PASS E02 D08 roof cuts away inside and returns outside
+PASS E03 assigned to intended identity family F3
+PASS E03 has active facade and cutaway roof at retained owner
+PASS E03 visible geometry has matching unique role marker
+PASS E03 added facade and roof have real renderable meshes and supported materials
+PASS E03 added architecture has no gameplay collider or hidden doorway obstruction
+PASS E03 old repeated D04 facade and roof are exactly deactivated
+PASS E03 has nonduplicate facade/roof mesh topology and local silhouette within F3
+PASS E03 is not a geometry duplicate of another family/building
+PASS E03 D08 roof cuts away inside and returns outside
+PASS E04 assigned to intended identity family F4
+PASS E04 has active facade and cutaway roof at retained owner
+PASS E04 visible geometry has matching unique role marker
+PASS E04 added facade and roof have real renderable meshes and supported materials
+PASS E04 added architecture has no gameplay collider or hidden doorway obstruction
+PASS E04 old repeated D04 facade and roof are exactly deactivated
+PASS E04 has nonduplicate facade/roof mesh topology and local silhouette within F4
+PASS E04 is not a geometry duplicate of another family/building
+PASS E04 D08 roof cuts away inside and returns outside
+PASS E05 assigned to intended identity family F4
+PASS E05 has active facade and cutaway roof at retained owner
+PASS E05 visible geometry has matching unique role marker
+PASS E05 added facade and roof have real renderable meshes and supported materials
+PASS E05 added architecture has no gameplay collider or hidden doorway obstruction
+PASS E05 old repeated D04 facade and roof are exactly deactivated
+PASS E05 has nonduplicate facade/roof mesh topology and local silhouette within F4
+PASS E05 is not a geometry duplicate of another family/building
+PASS E05 D08 roof cuts away inside and returns outside
+PASS E06 assigned to intended identity family F4
+PASS E06 has active facade and cutaway roof at retained owner
+PASS E06 visible geometry has matching unique role marker
+PASS E06 added facade and roof have real renderable meshes and supported materials
+PASS E06 added architecture has no gameplay collider or hidden doorway obstruction
+PASS E06 old repeated D04 facade and roof are exactly deactivated
+PASS E06 has nonduplicate facade/roof mesh topology and local silhouette within F4
+PASS E06 is not a geometry duplicate of another family/building
+PASS E06 D08 roof cuts away inside and returns outside
+PASS E07 assigned to intended identity family F7
+PASS E07 has active facade and cutaway roof at retained owner
+PASS E07 visible geometry has matching unique role marker
+PASS E07 added facade and roof have real renderable meshes and supported materials
+PASS E07 added architecture has no gameplay collider or hidden doorway obstruction
+PASS E07 old repeated D04 facade and roof are exactly deactivated
+PASS E07 has nonduplicate facade/roof mesh topology and local silhouette within F7
+PASS E07 is not a geometry duplicate of another family/building
+PASS E07 D08 roof cuts away inside and returns outside
+PASS E08 assigned to intended identity family F5
+PASS E08 has active facade and cutaway roof at retained owner
+PASS E08 visible geometry has matching unique role marker
+PASS E08 added facade and roof have real renderable meshes and supported materials
+PASS E08 added architecture has no gameplay collider or hidden doorway obstruction
+PASS E08 old repeated D04 facade and roof are exactly deactivated
+PASS E08 has nonduplicate facade/roof mesh topology and local silhouette within F5
+PASS E08 is not a geometry duplicate of another family/building
+PASS E08 D08 roof cuts away inside and returns outside
+PASS E09 assigned to intended identity family F10
+PASS E09 has active facade and cutaway roof at retained owner
+PASS E09 visible geometry has matching unique role marker
+PASS E09 added facade and roof have real renderable meshes and supported materials
+PASS E09 added architecture has no gameplay collider or hidden doorway obstruction
+PASS E09 old repeated D04 facade and roof are exactly deactivated
+PASS E09 has nonduplicate facade/roof mesh topology and local silhouette within F10
+PASS E09 is not a geometry duplicate of another family/building
+PASS E09 D08 roof cuts away inside and returns outside
+PASS E10 assigned to intended identity family F9
+PASS E10 has active facade and cutaway roof at retained owner
+PASS E10 visible geometry has matching unique role marker
+PASS E10 added facade and roof have real renderable meshes and supported materials
+PASS E10 added architecture has no gameplay collider or hidden doorway obstruction
+PASS E10 old repeated D04 facade and roof are exactly deactivated
+PASS E10 has nonduplicate facade/roof mesh topology and local silhouette within F9
+PASS E10 is not a geometry duplicate of another family/building
+PASS E10 D08 roof cuts away inside and returns outside
+PASS E11 assigned to intended identity family F3
+PASS E11 has active facade and cutaway roof at retained owner
+PASS E11 visible geometry has matching unique role marker
+PASS E11 added facade and roof have real renderable meshes and supported materials
+PASS E11 added architecture has no gameplay collider or hidden doorway obstruction
+PASS E11 old repeated D04 facade and roof are exactly deactivated
+PASS E11 has nonduplicate facade/roof mesh topology and local silhouette within F3
+PASS E11 is not a geometry duplicate of another family/building
+PASS E11 D08 roof cuts away inside and returns outside
+PASS E12 assigned to intended identity family F4
+PASS E12 has active facade and cutaway roof at retained owner
+PASS E12 visible geometry has matching unique role marker
+PASS E12 added facade and roof have real renderable meshes and supported materials
+PASS E12 added architecture has no gameplay collider or hidden doorway obstruction
+PASS E12 old repeated D04 facade and roof are exactly deactivated
+PASS E12 has nonduplicate facade/roof mesh topology and local silhouette within F4
+PASS E12 is not a geometry duplicate of another family/building
+PASS E12 D08 roof cuts away inside and returns outside
+PASS F01 assigned to intended identity family F10
+PASS F01 has active facade and cutaway roof at retained owner
+PASS F01 visible geometry has matching unique role marker
+PASS F01 added facade and roof have real renderable meshes and supported materials
+PASS F01 added architecture has no gameplay collider or hidden doorway obstruction
+PASS F01 old repeated D04 facade and roof are exactly deactivated
+PASS F01 has nonduplicate facade/roof mesh topology and local silhouette within F10
+PASS F01 is not a geometry duplicate of another family/building
+PASS F01 D08 roof cuts away inside and returns outside
+PASS F02 assigned to intended identity family F10
+PASS F02 has active facade and cutaway roof at retained owner
+PASS F02 visible geometry has matching unique role marker
+PASS F02 added facade and roof have real renderable meshes and supported materials
+PASS F02 added architecture has no gameplay collider or hidden doorway obstruction
+PASS F02 old repeated D04 facade and roof are exactly deactivated
+PASS F02 has nonduplicate facade/roof mesh topology and local silhouette within F10
+PASS F02 is not a geometry duplicate of another family/building
+PASS F02 D08 roof cuts away inside and returns outside
+PASS F03 assigned to intended identity family F10
+PASS F03 has active facade and cutaway roof at retained owner
+PASS F03 visible geometry has matching unique role marker
+PASS F03 added facade and roof have real renderable meshes and supported materials
+PASS F03 added architecture has no gameplay collider or hidden doorway obstruction
+PASS F03 old repeated D04 facade and roof are exactly deactivated
+PASS F03 has nonduplicate facade/roof mesh topology and local silhouette within F10
+PASS F03 is not a geometry duplicate of another family/building
+PASS F03 D08 roof cuts away inside and returns outside
+PASS HALL assigned to intended identity family F1
+PASS HALL has active facade and cutaway roof at retained owner
+PASS HALL D08 roof uses exact V13 HighBayRoof camera-cutaway wrapper
+PASS HALL visible geometry has matching unique role marker
+PASS HALL added facade and roof have real renderable meshes and supported materials
+PASS HALL added architecture has no gameplay collider or hidden doorway obstruction
+PASS HALL has nonduplicate facade/roof mesh topology and local silhouette within F1
+PASS HALL is not a geometry duplicate of another family/building
+PASS HALL D08 roof cuts away inside and returns outside
+PASS N01 assigned to intended identity family F7
+PASS N01 has active facade and cutaway roof at retained owner
+PASS N01 visible geometry has matching unique role marker
+PASS N01 added facade and roof have real renderable meshes and supported materials
+PASS N01 added architecture has no gameplay collider or hidden doorway obstruction
+PASS N01 old repeated D04 facade and roof are exactly deactivated
+PASS N01 has nonduplicate facade/roof mesh topology and local silhouette within F7
+PASS N01 is not a geometry duplicate of another family/building
+PASS N01 D08 roof cuts away inside and returns outside
+PASS N02 assigned to intended identity family F7
+PASS N02 has active facade and cutaway roof at retained owner
+PASS N02 visible geometry has matching unique role marker
+PASS N02 added facade and roof have real renderable meshes and supported materials
+PASS N02 added architecture has no gameplay collider or hidden doorway obstruction
+PASS N02 old repeated D04 facade and roof are exactly deactivated
+PASS N02 has nonduplicate facade/roof mesh topology and local silhouette within F7
+PASS N02 is not a geometry duplicate of another family/building
+PASS N02 D08 roof cuts away inside and returns outside
+PASS N03 assigned to intended identity family F7
+PASS N03 has active facade and cutaway roof at retained owner
+PASS N03 visible geometry has matching unique role marker
+PASS N03 added facade and roof have real renderable meshes and supported materials
+PASS N03 added architecture has no gameplay collider or hidden doorway obstruction
+PASS N03 old repeated D04 facade and roof are exactly deactivated
+PASS N03 has nonduplicate facade/roof mesh topology and local silhouette within F7
+PASS N03 is not a geometry duplicate of another family/building
+PASS N03 D08 roof cuts away inside and returns outside
+PASS N04 assigned to intended identity family F2
+PASS N04 has active facade and cutaway roof at retained owner
+PASS N04 visible geometry has matching unique role marker
+PASS N04 added facade and roof have real renderable meshes and supported materials
+PASS N04 added architecture has no gameplay collider or hidden doorway obstruction
+PASS N04 old repeated D04 facade and roof are exactly deactivated
+PASS N04 has nonduplicate facade/roof mesh topology and local silhouette within F2
+PASS N04 is not a geometry duplicate of another family/building
+PASS N04 D08 roof cuts away inside and returns outside
+PASS N05 assigned to intended identity family F2
+PASS N05 has active facade and cutaway roof at retained owner
+PASS N05 visible geometry has matching unique role marker
+PASS N05 added facade and roof have real renderable meshes and supported materials
+PASS N05 added architecture has no gameplay collider or hidden doorway obstruction
+PASS N05 old repeated D04 facade and roof are exactly deactivated
+PASS N05 has nonduplicate facade/roof mesh topology and local silhouette within F2
+PASS N05 is not a geometry duplicate of another family/building
+PASS N05 D08 roof cuts away inside and returns outside
+PASS N06 assigned to intended identity family F2
+PASS N06 has active facade and cutaway roof at retained owner
+PASS N06 visible geometry has matching unique role marker
+PASS N06 added facade and roof have real renderable meshes and supported materials
+PASS N06 added architecture has no gameplay collider or hidden doorway obstruction
+PASS N06 old repeated D04 facade and roof are exactly deactivated
+PASS N06 has nonduplicate facade/roof mesh topology and local silhouette within F2
+PASS N06 is not a geometry duplicate of another family/building
+PASS N06 D08 roof cuts away inside and returns outside
+PASS N07 assigned to intended identity family F9
+PASS N07 has active facade and cutaway roof at retained owner
+PASS N07 visible geometry has matching unique role marker
+PASS N07 added facade and roof have real renderable meshes and supported materials
+PASS N07 added architecture has no gameplay collider or hidden doorway obstruction
+PASS N07 old repeated D04 facade and roof are exactly deactivated
+PASS N07 has nonduplicate facade/roof mesh topology and local silhouette within F9
+PASS N07 is not a geometry duplicate of another family/building
+PASS N07 D08 roof cuts away inside and returns outside
+PASS N08 assigned to intended identity family F3
+PASS N08 has active facade and cutaway roof at retained owner
+PASS N08 visible geometry has matching unique role marker
+PASS N08 added facade and roof have real renderable meshes and supported materials
+PASS N08 added architecture has no gameplay collider or hidden doorway obstruction
+PASS N08 old repeated D04 facade and roof are exactly deactivated
+PASS N08 has nonduplicate facade/roof mesh topology and local silhouette within F3
+PASS N08 is not a geometry duplicate of another family/building
+PASS N08 D08 roof cuts away inside and returns outside
+PASS N09 assigned to intended identity family F5
+PASS N09 has active facade and cutaway roof at retained owner
+PASS N09 visible geometry has matching unique role marker
+PASS N09 added facade and roof have real renderable meshes and supported materials
+PASS N09 added architecture has no gameplay collider or hidden doorway obstruction
+PASS N09 old repeated D04 facade and roof are exactly deactivated
+PASS N09 has nonduplicate facade/roof mesh topology and local silhouette within F5
+PASS N09 is not a geometry duplicate of another family/building
+PASS N09 D08 roof cuts away inside and returns outside
+PASS N10 assigned to intended identity family F4
+PASS N10 has active facade and cutaway roof at retained owner
+PASS N10 visible geometry has matching unique role marker
+PASS N10 added facade and roof have real renderable meshes and supported materials
+PASS N10 added architecture has no gameplay collider or hidden doorway obstruction
+PASS N10 old repeated D04 facade and roof are exactly deactivated
+PASS N10 has nonduplicate facade/roof mesh topology and local silhouette within F4
+PASS N10 is not a geometry duplicate of another family/building
+PASS N10 D08 roof cuts away inside and returns outside
+PASS N11 assigned to intended identity family F7
+PASS N11 has active facade and cutaway roof at retained owner
+PASS N11 visible geometry has matching unique role marker
+PASS N11 added facade and roof have real renderable meshes and supported materials
+PASS N11 added architecture has no gameplay collider or hidden doorway obstruction
+PASS N11 old repeated D04 facade and roof are exactly deactivated
+PASS N11 has nonduplicate facade/roof mesh topology and local silhouette within F7
+PASS N11 is not a geometry duplicate of another family/building
+PASS N11 D08 roof cuts away inside and returns outside
+PASS N12 assigned to intended identity family F3
+PASS N12 has active facade and cutaway roof at retained owner
+PASS N12 visible geometry has matching unique role marker
+PASS N12 added facade and roof have real renderable meshes and supported materials
+PASS N12 added architecture has no gameplay collider or hidden doorway obstruction
+PASS N12 old repeated D04 facade and roof are exactly deactivated
+PASS N12 has nonduplicate facade/roof mesh topology and local silhouette within F3
+PASS N12 is not a geometry duplicate of another family/building
+PASS N12 D08 roof cuts away inside and returns outside
+PASS N13 assigned to intended identity family F9
+PASS N13 has active facade and cutaway roof at retained owner
+PASS N13 visible geometry has matching unique role marker
+PASS N13 added facade and roof have real renderable meshes and supported materials
+PASS N13 added architecture has no gameplay collider or hidden doorway obstruction
+PASS N13 old repeated D04 facade and roof are exactly deactivated
+PASS N13 has nonduplicate facade/roof mesh topology and local silhouette within F9
+PASS N13 is not a geometry duplicate of another family/building
+PASS N13 D08 roof cuts away inside and returns outside
+PASS N14 assigned to intended identity family F3
+PASS N14 has active facade and cutaway roof at retained owner
+PASS N14 visible geometry has matching unique role marker
+PASS N14 added facade and roof have real renderable meshes and supported materials
+PASS N14 added architecture has no gameplay collider or hidden doorway obstruction
+PASS N14 old repeated D04 facade and roof are exactly deactivated
+PASS N14 has nonduplicate facade/roof mesh topology and local silhouette within F3
+PASS N14 is not a geometry duplicate of another family/building
+PASS N14 D08 roof cuts away inside and returns outside
+PASS N15 assigned to intended identity family F5
+PASS N15 has active facade and cutaway roof at retained owner
+PASS N15 visible geometry has matching unique role marker
+PASS N15 added facade and roof have real renderable meshes and supported materials
+PASS N15 added architecture has no gameplay collider or hidden doorway obstruction
+PASS N15 old repeated D04 facade and roof are exactly deactivated
+PASS N15 has nonduplicate facade/roof mesh topology and local silhouette within F5
+PASS N15 is not a geometry duplicate of another family/building
+PASS N15 D08 roof cuts away inside and returns outside
+PASS N16 assigned to intended identity family F5
+PASS N16 has active facade and cutaway roof at retained owner
+PASS N16 visible geometry has matching unique role marker
+PASS N16 added facade and roof have real renderable meshes and supported materials
+PASS N16 added architecture has no gameplay collider or hidden doorway obstruction
+PASS N16 old repeated D04 facade and roof are exactly deactivated
+PASS N16 has nonduplicate facade/roof mesh topology and local silhouette within F5
+PASS N16 is not a geometry duplicate of another family/building
+PASS N16 D08 roof cuts away inside and returns outside
+PASS N17 assigned to intended identity family F9
+PASS N17 has active facade and cutaway roof at retained owner
+PASS N17 visible geometry has matching unique role marker
+PASS N17 added facade and roof have real renderable meshes and supported materials
+PASS N17 added architecture has no gameplay collider or hidden doorway obstruction
+PASS N17 old repeated D04 facade and roof are exactly deactivated
+PASS N17 has nonduplicate facade/roof mesh topology and local silhouette within F9
+PASS N17 is not a geometry duplicate of another family/building
+PASS N17 D08 roof cuts away inside and returns outside
+PASS PARTS assigned to intended identity family F4
+PASS PARTS has active facade and cutaway roof at retained owner
+PASS PARTS visible geometry has matching unique role marker
+PASS PARTS added facade and roof have real renderable meshes and supported materials
+PASS PARTS added architecture has no gameplay collider or hidden doorway obstruction
+PASS PARTS old repeated D04 facade and roof are exactly deactivated
+PASS PARTS has nonduplicate facade/roof mesh topology and local silhouette within F4
+PASS PARTS is not a geometry duplicate of another family/building
+PASS PARTS D08 roof cuts away inside and returns outside
+PASS POWER assigned to intended identity family F3
+PASS POWER has active facade and cutaway roof at retained owner
+PASS POWER visible geometry has matching unique role marker
+PASS POWER added facade and roof have real renderable meshes and supported materials
+PASS POWER added architecture has no gameplay collider or hidden doorway obstruction
+PASS POWER old repeated D04 facade and roof are exactly deactivated
+PASS POWER has nonduplicate facade/roof mesh topology and local silhouette within F3
+PASS POWER is not a geometry duplicate of another family/building
+PASS POWER D08 roof cuts away inside and returns outside
+PASS S01 assigned to intended identity family F8
+PASS S01 has active facade and cutaway roof at retained owner
+PASS S01 visible geometry has matching unique role marker
+PASS S01 added facade and roof have real renderable meshes and supported materials
+PASS S01 added architecture has no gameplay collider or hidden doorway obstruction
+PASS S01 old repeated D04 facade and roof are exactly deactivated
+PASS S01 has nonduplicate facade/roof mesh topology and local silhouette within F8
+PASS S01 is not a geometry duplicate of another family/building
+PASS S01 D08 roof cuts away inside and returns outside
+PASS S02 assigned to intended identity family F8
+PASS S02 has active facade and cutaway roof at retained owner
+PASS S02 visible geometry has matching unique role marker
+PASS S02 added facade and roof have real renderable meshes and supported materials
+PASS S02 added architecture has no gameplay collider or hidden doorway obstruction
+PASS S02 old repeated D04 facade and roof are exactly deactivated
+PASS S02 has nonduplicate facade/roof mesh topology and local silhouette within F8
+PASS S02 is not a geometry duplicate of another family/building
+PASS S02 D08 roof cuts away inside and returns outside
+PASS S03 assigned to intended identity family F8
+PASS S03 has active facade and cutaway roof at retained owner
+PASS S03 visible geometry has matching unique role marker
+PASS S03 added facade and roof have real renderable meshes and supported materials
+PASS S03 added architecture has no gameplay collider or hidden doorway obstruction
+PASS S03 old repeated D04 facade and roof are exactly deactivated
+PASS S03 has nonduplicate facade/roof mesh topology and local silhouette within F8
+PASS S03 is not a geometry duplicate of another family/building
+PASS S03 D08 roof cuts away inside and returns outside
+PASS S04 assigned to intended identity family F8
+PASS S04 has active facade and cutaway roof at retained owner
+PASS S04 visible geometry has matching unique role marker
+PASS S04 added facade and roof have real renderable meshes and supported materials
+PASS S04 added architecture has no gameplay collider or hidden doorway obstruction
+PASS S04 old repeated D04 facade and roof are exactly deactivated
+PASS S04 has nonduplicate facade/roof mesh topology and local silhouette within F8
+PASS S04 is not a geometry duplicate of another family/building
+PASS S04 D08 roof cuts away inside and returns outside
+PASS S05 assigned to intended identity family F8
+PASS S05 has active facade and cutaway roof at retained owner
+PASS S05 visible geometry has matching unique role marker
+PASS S05 added facade and roof have real renderable meshes and supported materials
+PASS S05 added architecture has no gameplay collider or hidden doorway obstruction
+PASS S05 old repeated D04 facade and roof are exactly deactivated
+PASS S05 has nonduplicate facade/roof mesh topology and local silhouette within F8
+PASS S05 is not a geometry duplicate of another family/building
+PASS S05 D08 roof cuts away inside and returns outside
+PASS S06 assigned to intended identity family F8
+PASS S06 has active facade and cutaway roof at retained owner
+PASS S06 visible geometry has matching unique role marker
+PASS S06 added facade and roof have real renderable meshes and supported materials
+PASS S06 added architecture has no gameplay collider or hidden doorway obstruction
+PASS S06 old repeated D04 facade and roof are exactly deactivated
+PASS S06 has nonduplicate facade/roof mesh topology and local silhouette within F8
+PASS S06 is not a geometry duplicate of another family/building
+PASS S06 D08 roof cuts away inside and returns outside
+PASS S07 assigned to intended identity family F8
+PASS S07 has active facade and cutaway roof at retained owner
+PASS S07 visible geometry has matching unique role marker
+PASS S07 added facade and roof have real renderable meshes and supported materials
+PASS S07 added architecture has no gameplay collider or hidden doorway obstruction
+PASS S07 old repeated D04 facade and roof are exactly deactivated
+PASS S07 has nonduplicate facade/roof mesh topology and local silhouette within F8
+PASS S07 is not a geometry duplicate of another family/building
+PASS S07 D08 roof cuts away inside and returns outside
+PASS S08 assigned to intended identity family F8
+PASS S08 has active facade and cutaway roof at retained owner
+PASS S08 visible geometry has matching unique role marker
+PASS S08 added facade and roof have real renderable meshes and supported materials
+PASS S08 added architecture has no gameplay collider or hidden doorway obstruction
+PASS S08 old repeated D04 facade and roof are exactly deactivated
+PASS S08 has nonduplicate facade/roof mesh topology and local silhouette within F8
+PASS S08 is not a geometry duplicate of another family/building
+PASS S08 D08 roof cuts away inside and returns outside
+PASS S09 assigned to intended identity family F8
+PASS S09 has active facade and cutaway roof at retained owner
+PASS S09 visible geometry has matching unique role marker
+PASS S09 added facade and roof have real renderable meshes and supported materials
+PASS S09 added architecture has no gameplay collider or hidden doorway obstruction
+PASS S09 old repeated D04 facade and roof are exactly deactivated
+PASS S09 has nonduplicate facade/roof mesh topology and local silhouette within F8
+PASS S09 is not a geometry duplicate of another family/building
+PASS S09 D08 roof cuts away inside and returns outside
+PASS S10 assigned to intended identity family F8
+PASS S10 has active facade and cutaway roof at retained owner
+PASS S10 visible geometry has matching unique role marker
+PASS S10 added facade and roof have real renderable meshes and supported materials
+PASS S10 added architecture has no gameplay collider or hidden doorway obstruction
+PASS S10 old repeated D04 facade and roof are exactly deactivated
+PASS S10 has nonduplicate facade/roof mesh topology and local silhouette within F8
+PASS S10 is not a geometry duplicate of another family/building
+PASS S10 D08 roof cuts away inside and returns outside
+PASS S11 assigned to intended identity family F6
+PASS S11 has active facade and cutaway roof at retained owner
+PASS S11 visible geometry has matching unique role marker
+PASS S11 added facade and roof have real renderable meshes and supported materials
+PASS S11 added architecture has no gameplay collider or hidden doorway obstruction
+PASS S11 old repeated D04 facade and roof are exactly deactivated
+PASS S11 has nonduplicate facade/roof mesh topology and local silhouette within F6
+PASS S11 is not a geometry duplicate of another family/building
+PASS S11 D08 roof cuts away inside and returns outside
+PASS S12 assigned to intended identity family F8
+PASS S12 has active facade and cutaway roof at retained owner
+PASS S12 visible geometry has matching unique role marker
+PASS S12 added facade and roof have real renderable meshes and supported materials
+PASS S12 added architecture has no gameplay collider or hidden doorway obstruction
+PASS S12 old repeated D04 facade and roof are exactly deactivated
+PASS S12 has nonduplicate facade/roof mesh topology and local silhouette within F8
+PASS S12 is not a geometry duplicate of another family/building
+PASS S12 D08 roof cuts away inside and returns outside
+PASS TOOLS assigned to intended identity family F5
+PASS TOOLS has active facade and cutaway roof at retained owner
+PASS TOOLS visible geometry has matching unique role marker
+PASS TOOLS added facade and roof have real renderable meshes and supported materials
+PASS TOOLS added architecture has no gameplay collider or hidden doorway obstruction
+PASS TOOLS old repeated D04 facade and roof are exactly deactivated
+PASS TOOLS has nonduplicate facade/roof mesh topology and local silhouette within F5
+PASS TOOLS is not a geometry duplicate of another family/building
+PASS TOOLS D08 roof cuts away inside and returns outside
+PASS W01 assigned to intended identity family F5
+PASS W01 has active facade and cutaway roof at retained owner
+PASS W01 visible geometry has matching unique role marker
+PASS W01 added facade and roof have real renderable meshes and supported materials
+PASS W01 added architecture has no gameplay collider or hidden doorway obstruction
+PASS W01 old repeated D04 facade and roof are exactly deactivated
+FAIL W01 has nonduplicate facade/roof mesh topology and local silhouette within F5
+FAIL W01 is not a geometry duplicate of another family/building matched=E08
+PASS W01 D08 roof cuts away inside and returns outside
+PASS W02 assigned to intended identity family F5
+PASS W02 has active facade and cutaway roof at retained owner
+PASS W02 visible geometry has matching unique role marker
+PASS W02 added facade and roof have real renderable meshes and supported materials
+PASS W02 added architecture has no gameplay collider or hidden doorway obstruction
+PASS W02 old repeated D04 facade and roof are exactly deactivated
+PASS W02 has nonduplicate facade/roof mesh topology and local silhouette within F5
+PASS W02 is not a geometry duplicate of another family/building
+PASS W02 D08 roof cuts away inside and returns outside
+PASS W03 assigned to intended identity family F4
+PASS W03 has active facade and cutaway roof at retained owner
+PASS W03 visible geometry has matching unique role marker
+PASS W03 added facade and roof have real renderable meshes and supported materials
+PASS W03 added architecture has no gameplay collider or hidden doorway obstruction
+PASS W03 old repeated D04 facade and roof are exactly deactivated
+PASS W03 has nonduplicate facade/roof mesh topology and local silhouette within F4
+PASS W03 is not a geometry duplicate of another family/building
+PASS W03 D08 roof cuts away inside and returns outside
+PASS W04 assigned to intended identity family F5
+PASS W04 has active facade and cutaway roof at retained owner
+PASS W04 visible geometry has matching unique role marker
+PASS W04 added facade and roof have real renderable meshes and supported materials
+PASS W04 added architecture has no gameplay collider or hidden doorway obstruction
+PASS W04 old repeated D04 facade and roof are exactly deactivated
+PASS W04 has nonduplicate facade/roof mesh topology and local silhouette within F5
+PASS W04 is not a geometry duplicate of another family/building
+PASS W04 D08 roof cuts away inside and returns outside
+PASS W05 assigned to intended identity family F5
+PASS W05 has active facade and cutaway roof at retained owner
+PASS W05 visible geometry has matching unique role marker
+PASS W05 added facade and roof have real renderable meshes and supported materials
+PASS W05 added architecture has no gameplay collider or hidden doorway obstruction
+PASS W05 old repeated D04 facade and roof are exactly deactivated
+PASS W05 has nonduplicate facade/roof mesh topology and local silhouette within F5
+PASS W05 is not a geometry duplicate of another family/building
+PASS W05 D08 roof cuts away inside and returns outside
+PASS W06 assigned to intended identity family F5
+PASS W06 has active facade and cutaway roof at retained owner
+PASS W06 visible geometry has matching unique role marker
+PASS W06 added facade and roof have real renderable meshes and supported materials
+PASS W06 added architecture has no gameplay collider or hidden doorway obstruction
+PASS W06 old repeated D04 facade and roof are exactly deactivated
+PASS W06 has nonduplicate facade/roof mesh topology and local silhouette within F5
+PASS W06 is not a geometry duplicate of another family/building
+PASS W06 D08 roof cuts away inside and returns outside
+PASS W07 assigned to intended identity family F7
+PASS W07 has active facade and cutaway roof at retained owner
+PASS W07 visible geometry has matching unique role marker
+PASS W07 added facade and roof have real renderable meshes and supported materials
+PASS W07 added architecture has no gameplay collider or hidden doorway obstruction
+PASS W07 old repeated D04 facade and roof are exactly deactivated
+PASS W07 has nonduplicate facade/roof mesh topology and local silhouette within F7
+PASS W07 is not a geometry duplicate of another family/building
+PASS W07 D08 roof cuts away inside and returns outside
+PASS W08 assigned to intended identity family F6
+PASS W08 has active facade and cutaway roof at retained owner
+PASS W08 visible geometry has matching unique role marker
+PASS W08 added facade and roof have real renderable meshes and supported materials
+PASS W08 added architecture has no gameplay collider or hidden doorway obstruction
+PASS W08 old repeated D04 facade and roof are exactly deactivated
+PASS W08 has nonduplicate facade/roof mesh topology and local silhouette within F6
+PASS W08 is not a geometry duplicate of another family/building
+PASS W08 D08 roof cuts away inside and returns outside
+PASS W09 assigned to intended identity family F7
+PASS W09 has active facade and cutaway roof at retained owner
+PASS W09 visible geometry has matching unique role marker
+PASS W09 added facade and roof have real renderable meshes and supported materials
+PASS W09 added architecture has no gameplay collider or hidden doorway obstruction
+PASS W09 old repeated D04 facade and roof are exactly deactivated
+PASS W09 has nonduplicate facade/roof mesh topology and local silhouette within F7
+PASS W09 is not a geometry duplicate of another family/building
+PASS W09 D08 roof cuts away inside and returns outside
+PASS W10 assigned to intended identity family F4
+PASS W10 has active facade and cutaway roof at retained owner
+PASS W10 visible geometry has matching unique role marker
+PASS W10 added facade and roof have real renderable meshes and supported materials
+PASS W10 added architecture has no gameplay collider or hidden doorway obstruction
+PASS W10 old repeated D04 facade and roof are exactly deactivated
+PASS W10 has nonduplicate facade/roof mesh topology and local silhouette within F4
+PASS W10 is not a geometry duplicate of another family/building
+PASS W10 D08 roof cuts away inside and returns outside
+PASS W11 assigned to intended identity family F4
+PASS W11 has active facade and cutaway roof at retained owner
+PASS W11 visible geometry has matching unique role marker
+PASS W11 added facade and roof have real renderable meshes and supported materials
+PASS W11 added architecture has no gameplay collider or hidden doorway obstruction
+PASS W11 old repeated D04 facade and roof are exactly deactivated
+PASS W11 has nonduplicate facade/roof mesh topology and local silhouette within F4
+PASS W11 is not a geometry duplicate of another family/building
+PASS W11 D08 roof cuts away inside and returns outside
+PASS Y01 assigned to intended identity family F6
+PASS Y01 has active facade and cutaway roof at retained owner
+PASS Y01 visible geometry has matching unique role marker
+PASS Y01 added facade and roof have real renderable meshes and supported materials
+PASS Y01 added architecture has no gameplay collider or hidden doorway obstruction
+PASS Y01 old repeated D04 facade and roof are exactly deactivated
+PASS Y01 has nonduplicate facade/roof mesh topology and local silhouette within F6
+PASS Y01 is not a geometry duplicate of another family/building
+PASS Y01 D08 roof cuts away inside and returns outside
+PASS Y02 assigned to intended identity family F6
+PASS Y02 has active facade and cutaway roof at retained owner
+PASS Y02 visible geometry has matching unique role marker
+PASS Y02 added facade and roof have real renderable meshes and supported materials
+PASS Y02 added architecture has no gameplay collider or hidden doorway obstruction
+PASS Y02 old repeated D04 facade and roof are exactly deactivated
+PASS Y02 has nonduplicate facade/roof mesh topology and local silhouette within F6
+PASS Y02 is not a geometry duplicate of another family/building
+PASS Y02 D08 roof cuts away inside and returns outside
+PASS Y03 assigned to intended identity family F7
+PASS Y03 has active facade and cutaway roof at retained owner
+PASS Y03 visible geometry has matching unique role marker
+PASS Y03 added facade and roof have real renderable meshes and supported materials
+PASS Y03 added architecture has no gameplay collider or hidden doorway obstruction
+PASS Y03 old repeated D04 facade and roof are exactly deactivated
+PASS Y03 has nonduplicate facade/roof mesh topology and local silhouette within F7
+PASS Y03 is not a geometry duplicate of another family/building
+PASS Y03 D08 roof cuts away inside and returns outside
+PASS Y04 assigned to intended identity family F10
+PASS Y04 has active facade and cutaway roof at retained owner
+PASS Y04 visible geometry has matching unique role marker
+PASS Y04 added facade and roof have real renderable meshes and supported materials
+PASS Y04 added architecture has no gameplay collider or hidden doorway obstruction
+PASS Y04 old repeated D04 facade and roof are exactly deactivated
+PASS Y04 has nonduplicate facade/roof mesh topology and local silhouette within F10
+PASS Y04 is not a geometry duplicate of another family/building
+PASS Y04 D08 roof cuts away inside and returns outside
+PASS Y05 assigned to intended identity family F6
+PASS Y05 has active facade and cutaway roof at retained owner
+PASS Y05 visible geometry has matching unique role marker
+PASS Y05 added facade and roof have real renderable meshes and supported materials
+PASS Y05 added architecture has no gameplay collider or hidden doorway obstruction
+PASS Y05 old repeated D04 facade and roof are exactly deactivated
+PASS Y05 has nonduplicate facade/roof mesh topology and local silhouette within F6
+PASS Y05 is not a geometry duplicate of another family/building
+PASS Y05 D08 roof cuts away inside and returns outside
+PASS all 10 architectural identities have distinct physical mesh families
+PASS D08 selective Tripo facade installation marker exists
+PASS 32 received GLB imports have measured prefab bounds
+PASS CLINIC/T01 placement is visual-only and matches received GLB hash
+PASS CLINIC/T02 placement is visual-only and matches received GLB hash
+PASS N04/T01 placement is visual-only and matches received GLB hash
+PASS N04/T02 placement is visual-only and matches received GLB hash
+PASS N05/T02 placement is visual-only and matches received GLB hash
+PASS N06/T02 placement is visual-only and matches received GLB hash
+PASS E01/T03 placement is visual-only and matches received GLB hash
+PASS E02/T03 placement is visual-only and matches received GLB hash
+PASS E03/T03 placement is visual-only and matches received GLB hash
+PASS E11/T03 placement is visual-only and matches received GLB hash
+PASS N08/T03 placement is visual-only and matches received GLB hash
+PASS N12/T03 placement is visual-only and matches received GLB hash
+PASS N14/T03 placement is visual-only and matches received GLB hash
+PASS POWER/T03 placement is visual-only and matches received GLB hash
+PASS C04/T04 placement is visual-only and matches received GLB hash
+PASS E04/T04 placement is visual-only and matches received GLB hash
+PASS E05/T04 placement is visual-only and matches received GLB hash
+PASS E06/T04 placement is visual-only and matches received GLB hash
+PASS E12/T04 placement is visual-only and matches received GLB hash
+PASS N10/T04 placement is visual-only and matches received GLB hash
+PASS PARTS/T04 placement is visual-only and matches received GLB hash
+PASS W03/T04 placement is visual-only and matches received GLB hash
+PASS W10/T04 placement is visual-only and matches received GLB hash
+PASS W11/T04 placement is visual-only and matches received GLB hash
+PASS C02/T05 placement is visual-only and matches received GLB hash
+PASS C03/T05 placement is visual-only and matches received GLB hash
+PASS E08/T05 placement is visual-only and matches received GLB hash
+PASS E08/T06 placement is visual-only and matches received GLB hash
+PASS N09/T05 placement is visual-only and matches received GLB hash
+PASS N15/T05 placement is visual-only and matches received GLB hash
+PASS N16/T05 placement is visual-only and matches received GLB hash
+PASS TOOLS/T05 placement is visual-only and matches received GLB hash
+PASS TOOLS/T06 placement is visual-only and matches received GLB hash
+PASS W01/T05 placement is visual-only and matches received GLB hash
+PASS W01/T06 placement is visual-only and matches received GLB hash
+PASS W02/T05 placement is visual-only and matches received GLB hash
+PASS W04/T05 placement is visual-only and matches received GLB hash
+PASS W05/T05 placement is visual-only and matches received GLB hash
+PASS W06/T05 placement is visual-only and matches received GLB hash
+PASS W06/T06 placement is visual-only and matches received GLB hash
+PASS C01/T07 placement is visual-only and matches received GLB hash
+PASS E07/T07 placement is visual-only and matches received GLB hash
+PASS N01/T07 placement is visual-only and matches received GLB hash
+PASS N01/T08 placement is visual-only and matches received GLB hash
+PASS N02/T07 placement is visual-only and matches received GLB hash
+PASS N02/T08 placement is visual-only and matches received GLB hash
+PASS N03/T07 placement is visual-only and matches received GLB hash
+PASS N11/T07 placement is visual-only and matches received GLB hash
+PASS W07/T07 placement is visual-only and matches received GLB hash
+PASS W07/T08 placement is visual-only and matches received GLB hash
+PASS W09/T07 placement is visual-only and matches received GLB hash
+PASS Y03/T07 placement is visual-only and matches received GLB hash
+PASS Y03/T08 placement is visual-only and matches received GLB hash
+PASS S01/T09 placement is visual-only and matches received GLB hash
+PASS S01/T11 placement is visual-only and matches received GLB hash
+PASS S02/T09 placement is visual-only and matches received GLB hash
+PASS S03/T09 placement is visual-only and matches received GLB hash
+PASS S04/T09 placement is visual-only and matches received GLB hash
+PASS S04/T11 placement is visual-only and matches received GLB hash
+PASS S05/T09 placement is visual-only and matches received GLB hash
+PASS S06/T09 placement is visual-only and matches received GLB hash
+PASS S07/T09 placement is visual-only and matches received GLB hash
+PASS S07/T11 placement is visual-only and matches received GLB hash
+PASS S08/T09 placement is visual-only and matches received GLB hash
+PASS S09/T09 placement is visual-only and matches received GLB hash
+PASS S09/T11 placement is visual-only and matches received GLB hash
+PASS S10/T09 placement is visual-only and matches received GLB hash
+PASS S12/T09 placement is visual-only and matches received GLB hash
+PASS N07/T12 placement is visual-only and matches received GLB hash
+PASS N17/T12 placement is visual-only and matches received GLB hash
+PASS E09/T13 placement is visual-only and matches received GLB hash
+PASS E09/T14 placement is visual-only and matches received GLB hash
+PASS F01/T13 placement is visual-only and matches received GLB hash
+PASS F01/T14 placement is visual-only and matches received GLB hash
+PASS F02/T13 placement is visual-only and matches received GLB hash
+PASS F02/T14 placement is visual-only and matches received GLB hash
+PASS F03/T13 placement is visual-only and matches received GLB hash
+PASS F03/T14 placement is visual-only and matches received GLB hash
+PASS Y04/T13 placement is visual-only and matches received GLB hash
+PASS Y04/T14 placement is visual-only and matches received GLB hash
+PASS exact intended 13 T models populate the approved building slots, no omissions/duplicates
+PASS N01/T07 has exactly one installed Tripo module
+PASS N01/T07 cutaway owner correct, visible mesh present, no collider
+PASS N01/T07 live instance comes from the inspected imported prefab
+PASS N01/T08 has exactly one installed Tripo module
+PASS N01/T08 cutaway owner correct, visible mesh present, no collider
+PASS N01/T08 live instance comes from the inspected imported prefab
+PASS N02/T07 has exactly one installed Tripo module
+PASS N02/T07 cutaway owner correct, visible mesh present, no collider
+PASS N02/T07 live instance comes from the inspected imported prefab
+PASS N02/T08 has exactly one installed Tripo module
+PASS N02/T08 cutaway owner correct, visible mesh present, no collider
+PASS N02/T08 live instance comes from the inspected imported prefab
+PASS N03/T07 has exactly one installed Tripo module
+PASS N03/T07 cutaway owner correct, visible mesh present, no collider
+PASS N03/T07 live instance comes from the inspected imported prefab
+PASS N03/T08 unused/unsafe slot remains empty
+PASS N04/T01 has exactly one installed Tripo module
+PASS N04/T01 cutaway owner correct, visible mesh present, no collider
+PASS N04/T01 live instance comes from the inspected imported prefab
+PASS N04/T02 has exactly one installed Tripo module
+PASS N04/T02 cutaway owner correct, visible mesh present, no collider
+PASS N04/T02 live instance comes from the inspected imported prefab
+PASS N05/T01 unused/unsafe slot remains empty
+PASS N05/T02 has exactly one installed Tripo module
+PASS N05/T02 cutaway owner correct, visible mesh present, no collider
+PASS N05/T02 live instance comes from the inspected imported prefab
+PASS N06/T01 unused/unsafe slot remains empty
+PASS N06/T02 has exactly one installed Tripo module
+PASS N06/T02 cutaway owner correct, visible mesh present, no collider
+PASS N06/T02 live instance comes from the inspected imported prefab
+PASS N07/T12 has exactly one installed Tripo module
+PASS N07/T12 cutaway owner correct, visible mesh present, no collider
+PASS N07/T12 live instance comes from the inspected imported prefab
+PASS N08/T03 has exactly one installed Tripo module
+PASS N08/T03 cutaway owner correct, visible mesh present, no collider
+PASS N08/T03 live instance comes from the inspected imported prefab
+PASS N09/T05 has exactly one installed Tripo module
+PASS N09/T05 cutaway owner correct, visible mesh present, no collider
+PASS N09/T05 live instance comes from the inspected imported prefab
+PASS N09/T06 unused/unsafe slot remains empty
+PASS N10/T04 has exactly one installed Tripo module
+PASS N10/T04 cutaway owner correct, visible mesh present, no collider
+PASS N10/T04 live instance comes from the inspected imported prefab
+PASS N11/T07 has exactly one installed Tripo module
+PASS N11/T07 cutaway owner correct, visible mesh present, no collider
+PASS N11/T07 live instance comes from the inspected imported prefab
+PASS N11/T08 unused/unsafe slot remains empty
+PASS N12/T03 has exactly one installed Tripo module
+PASS N12/T03 cutaway owner correct, visible mesh present, no collider
+PASS N12/T03 live instance comes from the inspected imported prefab
+PASS N13/T12 unused/unsafe slot remains empty
+PASS N14/T03 has exactly one installed Tripo module
+PASS N14/T03 cutaway owner correct, visible mesh present, no collider
+PASS N14/T03 live instance comes from the inspected imported prefab
+PASS N15/T05 has exactly one installed Tripo module
+PASS N15/T05 cutaway owner correct, visible mesh present, no collider
+PASS N15/T05 live instance comes from the inspected imported prefab
+PASS N15/T06 unused/unsafe slot remains empty
+PASS N16/T05 has exactly one installed Tripo module
+PASS N16/T05 cutaway owner correct, visible mesh present, no collider
+PASS N16/T05 live instance comes from the inspected imported prefab
+PASS N16/T06 unused/unsafe slot remains empty
+PASS W01/T05 has exactly one installed Tripo module
+PASS W01/T05 cutaway owner correct, visible mesh present, no collider
+PASS W01/T05 live instance comes from the inspected imported prefab
+PASS W01/T06 has exactly one installed Tripo module
+PASS W01/T06 cutaway owner correct, visible mesh present, no collider
+PASS W01/T06 live instance comes from the inspected imported prefab
+PASS W02/T05 has exactly one installed Tripo module
+PASS W02/T05 cutaway owner correct, visible mesh present, no collider
+PASS W02/T05 live instance comes from the inspected imported prefab
+PASS W02/T06 unused/unsafe slot remains empty
+PASS W03/T04 has exactly one installed Tripo module
+PASS W03/T04 cutaway owner correct, visible mesh present, no collider
+PASS W03/T04 live instance comes from the inspected imported prefab
+PASS W04/T05 has exactly one installed Tripo module
+PASS W04/T05 cutaway owner correct, visible mesh present, no collider
+PASS W04/T05 live instance comes from the inspected imported prefab
+PASS W04/T06 unused/unsafe slot remains empty
+PASS W05/T05 has exactly one installed Tripo module
+PASS W05/T05 cutaway owner correct, visible mesh present, no collider
+PASS W05/T05 live instance comes from the inspected imported prefab
+PASS W05/T06 unused/unsafe slot remains empty
+PASS W06/T05 has exactly one installed Tripo module
+PASS W06/T05 cutaway owner correct, visible mesh present, no collider
+PASS W06/T05 live instance comes from the inspected imported prefab
+PASS W06/T06 has exactly one installed Tripo module
+PASS W06/T06 cutaway owner correct, visible mesh present, no collider
+PASS W06/T06 live instance comes from the inspected imported prefab
+PASS W07/T07 has exactly one installed Tripo module
+PASS W07/T07 cutaway owner correct, visible mesh present, no collider
+PASS W07/T07 live instance comes from the inspected imported prefab
+PASS W07/T08 has exactly one installed Tripo module
+PASS W07/T08 cutaway owner correct, visible mesh present, no collider
+PASS W07/T08 live instance comes from the inspected imported prefab
+PASS W09/T07 has exactly one installed Tripo module
+PASS W09/T07 cutaway owner correct, visible mesh present, no collider
+PASS W09/T07 live instance comes from the inspected imported prefab
+PASS W09/T08 unused/unsafe slot remains empty
+PASS W10/T04 has exactly one installed Tripo module
+PASS W10/T04 cutaway owner correct, visible mesh present, no collider
+PASS W10/T04 live instance comes from the inspected imported prefab
+PASS W11/T04 has exactly one installed Tripo module
+PASS W11/T04 cutaway owner correct, visible mesh present, no collider
+PASS W11/T04 live instance comes from the inspected imported prefab
+PASS C01/T07 has exactly one installed Tripo module
+PASS C01/T07 cutaway owner correct, visible mesh present, no collider
+PASS C01/T07 live instance comes from the inspected imported prefab
+PASS C01/T08 unused/unsafe slot remains empty
+PASS C02/T05 has exactly one installed Tripo module
+PASS C02/T05 cutaway owner correct, visible mesh present, no collider
+PASS C02/T05 live instance comes from the inspected imported prefab
+PASS C02/T06 unused/unsafe slot remains empty
+PASS C03/T05 has exactly one installed Tripo module
+PASS C03/T05 cutaway owner correct, visible mesh present, no collider
+PASS C03/T05 live instance comes from the inspected imported prefab
+PASS C03/T06 unused/unsafe slot remains empty
+PASS C04/T04 has exactly one installed Tripo module
+PASS C04/T04 cutaway owner correct, visible mesh present, no collider
+PASS C04/T04 live instance comes from the inspected imported prefab
+PASS E01/T03 has exactly one installed Tripo module
+PASS E01/T03 cutaway owner correct, visible mesh present, no collider
+PASS E01/T03 live instance comes from the inspected imported prefab
+PASS E02/T03 has exactly one installed Tripo module
+PASS E02/T03 cutaway owner correct, visible mesh present, no collider
+PASS E02/T03 live instance comes from the inspected imported prefab
+PASS E03/T03 has exactly one installed Tripo module
+PASS E03/T03 cutaway owner correct, visible mesh present, no collider
+PASS E03/T03 live instance comes from the inspected imported prefab
+PASS E04/T04 has exactly one installed Tripo module
+PASS E04/T04 cutaway owner correct, visible mesh present, no collider
+PASS E04/T04 live instance comes from the inspected imported prefab
+PASS E05/T04 has exactly one installed Tripo module
+PASS E05/T04 cutaway owner correct, visible mesh present, no collider
+PASS E05/T04 live instance comes from the inspected imported prefab
+PASS E06/T04 has exactly one installed Tripo module
+PASS E06/T04 cutaway owner correct, visible mesh present, no collider
+PASS E06/T04 live instance comes from the inspected imported prefab
+PASS E07/T07 has exactly one installed Tripo module
+PASS E07/T07 cutaway owner correct, visible mesh present, no collider
+PASS E07/T07 live instance comes from the inspected imported prefab
+PASS E07/T08 unused/unsafe slot remains empty
+PASS E08/T05 has exactly one installed Tripo module
+PASS E08/T05 cutaway owner correct, visible mesh present, no collider
+PASS E08/T05 live instance comes from the inspected imported prefab
+PASS E08/T06 has exactly one installed Tripo module
+PASS E08/T06 cutaway owner correct, visible mesh present, no collider
+PASS E08/T06 live instance comes from the inspected imported prefab
+PASS E09/T13 has exactly one installed Tripo module
+PASS E09/T13 cutaway owner correct, visible mesh present, no collider
+PASS E09/T13 live instance comes from the inspected imported prefab
+PASS E09/T14 has exactly one installed Tripo module
+PASS E09/T14 cutaway owner correct, visible mesh present, no collider
+PASS E09/T14 live instance comes from the inspected imported prefab
+PASS E10/T12 unused/unsafe slot remains empty
+PASS E11/T03 has exactly one installed Tripo module
+PASS E11/T03 cutaway owner correct, visible mesh present, no collider
+PASS E11/T03 live instance comes from the inspected imported prefab
+PASS E12/T04 has exactly one installed Tripo module
+PASS E12/T04 cutaway owner correct, visible mesh present, no collider
+PASS E12/T04 live instance comes from the inspected imported prefab
+PASS S01/T09 has exactly one installed Tripo module
+PASS S01/T09 cutaway owner correct, visible mesh present, no collider
+PASS S01/T09 live instance comes from the inspected imported prefab
+PASS S01/T10 unused/unsafe slot remains empty
+PASS S01/T08 unused/unsafe slot remains empty
+PASS S01/T11 has exactly one installed Tripo module
+PASS S01/T11 cutaway owner correct, visible mesh present, no collider
+PASS S01/T11 live instance comes from the inspected imported prefab
+PASS S02/T09 has exactly one installed Tripo module
+PASS S02/T09 cutaway owner correct, visible mesh present, no collider
+PASS S02/T09 live instance comes from the inspected imported prefab
+PASS S02/T10 unused/unsafe slot remains empty
+PASS S02/T08 unused/unsafe slot remains empty
+PASS S02/T11 unused/unsafe slot remains empty
+PASS S03/T09 has exactly one installed Tripo module
+PASS S03/T09 cutaway owner correct, visible mesh present, no collider
+PASS S03/T09 live instance comes from the inspected imported prefab
+PASS S03/T10 unused/unsafe slot remains empty
+PASS S03/T08 unused/unsafe slot remains empty
+PASS S03/T11 unused/unsafe slot remains empty
+PASS S04/T09 has exactly one installed Tripo module
+PASS S04/T09 cutaway owner correct, visible mesh present, no collider
+PASS S04/T09 live instance comes from the inspected imported prefab
+PASS S04/T10 unused/unsafe slot remains empty
+PASS S04/T08 unused/unsafe slot remains empty
+PASS S04/T11 has exactly one installed Tripo module
+PASS S04/T11 cutaway owner correct, visible mesh present, no collider
+PASS S04/T11 live instance comes from the inspected imported prefab
+PASS S05/T09 has exactly one installed Tripo module
+PASS S05/T09 cutaway owner correct, visible mesh present, no collider
+PASS S05/T09 live instance comes from the inspected imported prefab
+PASS S05/T10 unused/unsafe slot remains empty
+PASS S05/T08 unused/unsafe slot remains empty
+PASS S05/T11 unused/unsafe slot remains empty
+PASS S06/T09 has exactly one installed Tripo module
+PASS S06/T09 cutaway owner correct, visible mesh present, no collider
+PASS S06/T09 live instance comes from the inspected imported prefab
+PASS S06/T10 unused/unsafe slot remains empty
+PASS S06/T08 unused/unsafe slot remains empty
+PASS S06/T11 unused/unsafe slot remains empty
+PASS S07/T09 has exactly one installed Tripo module
+PASS S07/T09 cutaway owner correct, visible mesh present, no collider
+PASS S07/T09 live instance comes from the inspected imported prefab
+PASS S07/T10 unused/unsafe slot remains empty
+PASS S07/T08 unused/unsafe slot remains empty
+PASS S07/T11 has exactly one installed Tripo module
+PASS S07/T11 cutaway owner correct, visible mesh present, no collider
+PASS S07/T11 live instance comes from the inspected imported prefab
+PASS S08/T09 has exactly one installed Tripo module
+PASS S08/T09 cutaway owner correct, visible mesh present, no collider
+PASS S08/T09 live instance comes from the inspected imported prefab
+PASS S08/T10 unused/unsafe slot remains empty
+PASS S08/T08 unused/unsafe slot remains empty
+PASS S08/T11 unused/unsafe slot remains empty
+PASS S09/T09 has exactly one installed Tripo module
+PASS S09/T09 cutaway owner correct, visible mesh present, no collider
+PASS S09/T09 live instance comes from the inspected imported prefab
+PASS S09/T10 unused/unsafe slot remains empty
+PASS S09/T08 unused/unsafe slot remains empty
+PASS S09/T11 has exactly one installed Tripo module
+PASS S09/T11 cutaway owner correct, visible mesh present, no collider
+PASS S09/T11 live instance comes from the inspected imported prefab
+PASS S10/T09 has exactly one installed Tripo module
+PASS S10/T09 cutaway owner correct, visible mesh present, no collider
+PASS S10/T09 live instance comes from the inspected imported prefab
+PASS S10/T10 unused/unsafe slot remains empty
+PASS S10/T08 unused/unsafe slot remains empty
+PASS S10/T11 unused/unsafe slot remains empty
+PASS S12/T09 has exactly one installed Tripo module
+PASS S12/T09 cutaway owner correct, visible mesh present, no collider
+PASS S12/T09 live instance comes from the inspected imported prefab
+PASS S12/T10 unused/unsafe slot remains empty
+PASS S12/T08 unused/unsafe slot remains empty
+PASS S12/T11 unused/unsafe slot remains empty
+PASS Y03/T07 has exactly one installed Tripo module
+PASS Y03/T07 cutaway owner correct, visible mesh present, no collider
+PASS Y03/T07 live instance comes from the inspected imported prefab
+PASS Y03/T08 has exactly one installed Tripo module
+PASS Y03/T08 cutaway owner correct, visible mesh present, no collider
+PASS Y03/T08 live instance comes from the inspected imported prefab
+PASS Y04/T13 has exactly one installed Tripo module
+PASS Y04/T13 cutaway owner correct, visible mesh present, no collider
+PASS Y04/T13 live instance comes from the inspected imported prefab
+PASS Y04/T14 has exactly one installed Tripo module
+PASS Y04/T14 cutaway owner correct, visible mesh present, no collider
+PASS Y04/T14 live instance comes from the inspected imported prefab
+PASS F01/T13 has exactly one installed Tripo module
+PASS F01/T13 cutaway owner correct, visible mesh present, no collider
+PASS F01/T13 live instance comes from the inspected imported prefab
+PASS F01/T14 has exactly one installed Tripo module
+PASS F01/T14 cutaway owner correct, visible mesh present, no collider
+PASS F01/T14 live instance comes from the inspected imported prefab
+PASS F02/T13 has exactly one installed Tripo module
+PASS F02/T13 cutaway owner correct, visible mesh present, no collider
+PASS F02/T13 live instance comes from the inspected imported prefab
+PASS F02/T14 has exactly one installed Tripo module
+PASS F02/T14 cutaway owner correct, visible mesh present, no collider
+PASS F02/T14 live instance comes from the inspected imported prefab
+PASS F03/T13 has exactly one installed Tripo module
+PASS F03/T13 cutaway owner correct, visible mesh present, no collider
+PASS F03/T13 live instance comes from the inspected imported prefab
+PASS F03/T14 has exactly one installed Tripo module
+PASS F03/T14 cutaway owner correct, visible mesh present, no collider
+PASS F03/T14 live instance comes from the inspected imported prefab
+PASS N17/T12 has exactly one installed Tripo module
+PASS N17/T12 cutaway owner correct, visible mesh present, no collider
+PASS N17/T12 live instance comes from the inspected imported prefab
+PASS CLINIC/T01 has exactly one installed Tripo module
+PASS CLINIC/T01 cutaway owner correct, visible mesh present, no collider
+PASS CLINIC/T01 live instance comes from the inspected imported prefab
+PASS CLINIC/T02 has exactly one installed Tripo module
+PASS CLINIC/T02 cutaway owner correct, visible mesh present, no collider
+PASS CLINIC/T02 live instance comes from the inspected imported prefab
+PASS POWER/T03 has exactly one installed Tripo module
+PASS POWER/T03 cutaway owner correct, visible mesh present, no collider
+PASS POWER/T03 live instance comes from the inspected imported prefab
+PASS PARTS/T04 has exactly one installed Tripo module
+PASS PARTS/T04 cutaway owner correct, visible mesh present, no collider
+PASS PARTS/T04 live instance comes from the inspected imported prefab
+PASS TOOLS/T05 has exactly one installed Tripo module
+PASS TOOLS/T05 cutaway owner correct, visible mesh present, no collider
+PASS TOOLS/T05 live instance comes from the inspected imported prefab
+PASS TOOLS/T06 has exactly one installed Tripo module
+PASS TOOLS/T06 cutaway owner correct, visible mesh present, no collider
+PASS TOOLS/T06 live instance comes from the inspected imported prefab
+PASS all declared Tripo facade placements exist in scene hierarchy
+PASS D08 has an active root for separately imported zone props
+PASS 18 imported zone prop identities are present in the placement audit
+PASS every Z prop is assigned to its independently approved building
+PASS exactly 18 active visible Z prop instances and no extra staged duplicates
+PASS Z01 scene instance, audit and imported source prefab agree
+PASS Z01 collision is exactly the visible mesh; no proxy box, missing solid or extra solid
+PASS Z01 saved placement size/position match live scene and declared clearance
+PASS Z02 scene instance, audit and imported source prefab agree
+PASS Z02 collision is exactly the visible mesh; no proxy box, missing solid or extra solid
+PASS Z02 saved placement size/position match live scene and declared clearance
+PASS Z03 scene instance, audit and imported source prefab agree
+PASS Z03 collision is exactly the visible mesh; no proxy box, missing solid or extra solid
+FAIL Z03 saved placement size/position match live scene and declared clearance
+PASS Z04 scene instance, audit and imported source prefab agree
+PASS Z04 collision is exactly the visible mesh; no proxy box, missing solid or extra solid
+FAIL Z04 saved placement size/position match live scene and declared clearance
+PASS Z05 scene instance, audit and imported source prefab agree
+PASS Z05 collision is exactly the visible mesh; no proxy box, missing solid or extra solid
+FAIL Z05 saved placement size/position match live scene and declared clearance
+PASS Z06 scene instance, audit and imported source prefab agree
+PASS Z06 collision is exactly the visible mesh; no proxy box, missing solid or extra solid
+FAIL Z06 saved placement size/position match live scene and declared clearance
+PASS Z07r scene instance, audit and imported source prefab agree
+PASS Z07r collision is exactly the visible mesh; no proxy box, missing solid or extra solid
+PASS Z07r saved placement size/position match live scene and declared clearance
+PASS Z08 scene instance, audit and imported source prefab agree
+PASS Z08 collision is exactly the visible mesh; no proxy box, missing solid or extra solid
+PASS Z08 saved placement size/position match live scene and declared clearance
+PASS Z09r scene instance, audit and imported source prefab agree
+PASS Z09r collision is exactly the visible mesh; no proxy box, missing solid or extra solid
+FAIL Z09r saved placement size/position match live scene and declared clearance
+PASS Z10b scene instance, audit and imported source prefab agree
+PASS Z10b collision is exactly the visible mesh; no proxy box, missing solid or extra solid
+FAIL Z10b saved placement size/position match live scene and declared clearance
+PASS Z11 scene instance, audit and imported source prefab agree
+PASS Z11 collision is exactly the visible mesh; no proxy box, missing solid or extra solid
+FAIL Z11 saved placement size/position match live scene and declared clearance
+PASS Z13 scene instance, audit and imported source prefab agree
+PASS Z13 collision is exactly the visible mesh; no proxy box, missing solid or extra solid
+FAIL Z13 saved placement size/position match live scene and declared clearance
+PASS Z14 scene instance, audit and imported source prefab agree
+PASS Z14 collision is exactly the visible mesh; no proxy box, missing solid or extra solid
+FAIL Z14 saved placement size/position match live scene and declared clearance
+PASS Z15 scene instance, audit and imported source prefab agree
+PASS Z15 collision is exactly the visible mesh; no proxy box, missing solid or extra solid
+FAIL Z15 saved placement size/position match live scene and declared clearance
+PASS Z16 scene instance, audit and imported source prefab agree
+PASS Z16 collision is exactly the visible mesh; no proxy box, missing solid or extra solid
+FAIL Z16 saved placement size/position match live scene and declared clearance
+PASS Z18 scene instance, audit and imported source prefab agree
+PASS Z18 collision is exactly the visible mesh; no proxy box, missing solid or extra solid
+FAIL Z18 saved placement size/position match live scene and declared clearance
+PASS Z19r scene instance, audit and imported source prefab agree
+PASS Z19r collision is exactly the visible mesh; no proxy box, missing solid or extra solid
+PASS Z19r saved placement size/position match live scene and declared clearance
+PASS Z20 scene instance, audit and imported source prefab agree
+PASS Z20 collision is exactly the visible mesh; no proxy box, missing solid or extra solid
+PASS Z20 saved placement size/position match live scene and declared clearance
+PASS collision-derived NavMesh builds and activates
+PASS historical D04 actual-player record defines all 68 prior real opening sets
+PASS N01 retains at least one truly open doorway
+PASS N01 retains every prior real opening, not merely one remaining door previous=metadata_1 current=metadata_1
+PASS N01/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS N01/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS N02 retains at least one truly open doorway
+PASS N02 retains every prior real opening, not merely one remaining door previous=metadata_0 current=metadata_0
+PASS N02/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS N02/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS N03 retains at least one truly open doorway
+PASS N03 retains every prior real opening, not merely one remaining door previous=metadata_1 current=metadata_1
+PASS N03/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS N03/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS N04 retains at least one truly open doorway
+PASS N04 retains every prior real opening, not merely one remaining door previous=metadata_0 current=metadata_0
+PASS N04/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS N04/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS N05 retains at least one truly open doorway
+PASS N05 retains every prior real opening, not merely one remaining door previous=scanned_Zminus_0 current=scanned_Zminus_0
+PASS N05/scanned_Zminus_0 true doorway, threshold and central aisle remain traversable
+PASS N05/scanned_Zminus_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS N06 retains at least one truly open doorway
+PASS N06 retains every prior real opening, not merely one remaining door previous=scanned_Zminus_0 current=scanned_Zminus_0
+PASS N06/scanned_Zminus_0 true doorway, threshold and central aisle remain traversable
+PASS N06/scanned_Zminus_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS N07 retains at least one truly open doorway
+PASS N07 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS N07/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS N07/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS N07/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS N07/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS N08 retains at least one truly open doorway
+PASS N08 retains every prior real opening, not merely one remaining door previous=metadata_1 current=metadata_1
+PASS N08/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS N08/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS N09 retains at least one truly open doorway
+PASS N09 retains every prior real opening, not merely one remaining door previous=metadata_0,scanned_Zplus_-3,scanned_Zplus_3 current=metadata_0,scanned_Zplus_-3,scanned_Zplus_3
+PASS N09/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS N09/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS N09/scanned_Zplus_-3 true doorway, threshold and central aisle remain traversable
+PASS N09/scanned_Zplus_-3 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS N09/scanned_Zplus_3 true doorway, threshold and central aisle remain traversable
+PASS N09/scanned_Zplus_3 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS N10 retains at least one truly open doorway
+PASS N10 retains every prior real opening, not merely one remaining door previous=metadata_0,scanned_Zplus_-16 current=metadata_0,scanned_Zplus_-16
+PASS N10/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS N10/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS N10/scanned_Zplus_-16 true doorway, threshold and central aisle remain traversable
+FAIL N10/scanned_Zplus_-16 new facade mesh does not intersect 0.4m player capsule at door/aisle blocker=D08_FacadeMesh_N10 submesh=1 step=3/11
+PASS N11 retains at least one truly open doorway
+PASS N11 retains every prior real opening, not merely one remaining door previous=metadata_1 current=metadata_1
+PASS N11/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS N11/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS N12 retains at least one truly open doorway
+PASS N12 retains every prior real opening, not merely one remaining door previous=metadata_1 current=metadata_1
+PASS N12/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS N12/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS N13 retains at least one truly open doorway
+PASS N13 retains every prior real opening, not merely one remaining door previous=metadata_0,scanned_Zplus_-17 current=metadata_0,scanned_Zplus_-17
+PASS N13/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS N13/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS N13/scanned_Zplus_-17 true doorway, threshold and central aisle remain traversable
+FAIL N13/scanned_Zplus_-17 new facade mesh does not intersect 0.4m player capsule at door/aisle blocker=D08_FacadeMesh_N13 submesh=2 step=3/11
+PASS N14 retains at least one truly open doorway
+PASS N14 retains every prior real opening, not merely one remaining door previous=scanned_Xminus_-1 current=scanned_Xminus_-1
+PASS N14/scanned_Xminus_-1 true doorway, threshold and central aisle remain traversable
+FAIL N14/scanned_Xminus_-1 new facade mesh does not intersect 0.4m player capsule at door/aisle blocker=D08_FacadeMesh_N14 submesh=2 step=3/11
+PASS N15 retains at least one truly open doorway
+PASS N15 retains every prior real opening, not merely one remaining door previous=metadata_0,scanned_Zplus_-17 current=metadata_0,scanned_Zplus_-17
+PASS N15/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS N15/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS N15/scanned_Zplus_-17 true doorway, threshold and central aisle remain traversable
+FAIL N15/scanned_Zplus_-17 new facade mesh does not intersect 0.4m player capsule at door/aisle blocker=D08_FacadeMesh_N15 submesh=0 step=3/11
+PASS N16 retains at least one truly open doorway
+PASS N16 retains every prior real opening, not merely one remaining door previous=scanned_Xminus_-1 current=scanned_Xminus_-1
+PASS N16/scanned_Xminus_-1 true doorway, threshold and central aisle remain traversable
+FAIL N16/scanned_Xminus_-1 new facade mesh does not intersect 0.4m player capsule at door/aisle blocker=D08_FacadeMesh_N16 submesh=0 step=3/11
+PASS W01 retains at least one truly open doorway
+PASS W01 retains every prior real opening, not merely one remaining door previous=scanned_Zminus_-1 current=scanned_Zminus_-1
+PASS W01/scanned_Zminus_-1 true doorway, threshold and central aisle remain traversable
+PASS W01/scanned_Zminus_-1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS W02 retains at least one truly open doorway
+PASS W02 retains every prior real opening, not merely one remaining door previous=metadata_1 current=metadata_1
+PASS W02/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS W02/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS W03 retains at least one truly open doorway
+PASS W03 retains every prior real opening, not merely one remaining door previous=metadata_1 current=metadata_1
+PASS W03/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS W03/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS W04 retains at least one truly open doorway
+PASS W04 retains every prior real opening, not merely one remaining door previous=scanned_Zminus_-1 current=scanned_Zminus_-1
+PASS W04/scanned_Zminus_-1 true doorway, threshold and central aisle remain traversable
+PASS W04/scanned_Zminus_-1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS W05 retains at least one truly open doorway
+PASS W05 retains every prior real opening, not merely one remaining door previous=metadata_0,scanned_Zplus_-12 current=metadata_0,scanned_Zplus_-12
+PASS W05/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS W05/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS W05/scanned_Zplus_-12 true doorway, threshold and central aisle remain traversable
+FAIL W05/scanned_Zplus_-12 new facade mesh does not intersect 0.4m player capsule at door/aisle blocker=D08_FacadeMesh_W05 submesh=0 step=3/11
+PASS W06 retains at least one truly open doorway
+PASS W06 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS W06/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS W06/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS W06/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS W06/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS W07 retains at least one truly open doorway
+PASS W07 retains every prior real opening, not merely one remaining door previous=metadata_1 current=metadata_1
+PASS W07/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS W07/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS W08 retains at least one truly open doorway
+PASS W08 retains every prior real opening, not merely one remaining door previous=metadata_0,scanned_Zplus_-17 current=metadata_0,scanned_Zplus_-17
+PASS W08/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS W08/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS W08/scanned_Zplus_-17 true doorway, threshold and central aisle remain traversable
+FAIL W08/scanned_Zplus_-17 new facade mesh does not intersect 0.4m player capsule at door/aisle blocker=D08_FacadeMesh_W08 submesh=0 step=3/11
+PASS W09 retains at least one truly open doorway
+PASS W09 retains every prior real opening, not merely one remaining door previous=metadata_0 current=metadata_0
+PASS W09/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS W09/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS W10 retains at least one truly open doorway
+PASS W10 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS W10/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS W10/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS W10/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS W10/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS W11 retains at least one truly open doorway
+PASS W11 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS W11/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS W11/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS W11/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS W11/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS C01 retains at least one truly open doorway
+PASS C01 retains every prior real opening, not merely one remaining door previous=scanned_Xminus_-1 current=scanned_Xminus_-1
+PASS C01/scanned_Xminus_-1 true doorway, threshold and central aisle remain traversable
+FAIL C01/scanned_Xminus_-1 new facade mesh does not intersect 0.4m player capsule at door/aisle blocker=D08_FacadeMesh_C01 submesh=0 step=4/9
+PASS C02 retains at least one truly open doorway
+PASS C02 retains every prior real opening, not merely one remaining door previous=metadata_0,scanned_Zplus_-19 current=metadata_0,scanned_Zplus_-19
+PASS C02/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS C02/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS C02/scanned_Zplus_-19 true doorway, threshold and central aisle remain traversable
+FAIL C02/scanned_Zplus_-19 new facade mesh does not intersect 0.4m player capsule at door/aisle blocker=D08_FacadeMesh_C02 submesh=0 step=3/11
+PASS C03 retains at least one truly open doorway
+PASS C03 retains every prior real opening, not merely one remaining door previous=metadata_0 current=metadata_0
+PASS C03/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS C03/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS C04 retains at least one truly open doorway
+PASS C04 retains every prior real opening, not merely one remaining door previous=metadata_0 current=metadata_0
+PASS C04/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS C04/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS E01 retains at least one truly open doorway
+PASS E01 retains every prior real opening, not merely one remaining door previous=metadata_0,scanned_Zplus_-17 current=metadata_0,scanned_Zplus_-17
+PASS E01/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS E01/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS E01/scanned_Zplus_-17 true doorway, threshold and central aisle remain traversable
+FAIL E01/scanned_Zplus_-17 new facade mesh does not intersect 0.4m player capsule at door/aisle blocker=D08_FacadeMesh_E01 submesh=2 step=3/11
+PASS E02 retains at least one truly open doorway
+PASS E02 retains every prior real opening, not merely one remaining door previous=scanned_Xminus_0 current=scanned_Xminus_0
+PASS E02/scanned_Xminus_0 true doorway, threshold and central aisle remain traversable
+FAIL E02/scanned_Xminus_0 new facade mesh does not intersect 0.4m player capsule at door/aisle blocker=D08_FacadeMesh_E02 submesh=2 step=3/11
+PASS E03 retains at least one truly open doorway
+PASS E03 retains every prior real opening, not merely one remaining door previous=metadata_1 current=metadata_1
+PASS E03/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS E03/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS E04 retains at least one truly open doorway
+PASS E04 retains every prior real opening, not merely one remaining door previous=metadata_0,scanned_Zminus_0 current=metadata_0,scanned_Zminus_0
+PASS E04/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS E04/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS E04/scanned_Zminus_0 true doorway, threshold and central aisle remain traversable
+PASS E04/scanned_Zminus_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS E05 retains at least one truly open doorway
+PASS E05 retains every prior real opening, not merely one remaining door previous=metadata_1 current=metadata_1
+PASS E05/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS E05/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS E06 retains at least one truly open doorway
+PASS E06 retains every prior real opening, not merely one remaining door previous=scanned_Zminus_0 current=scanned_Zminus_0
+PASS E06/scanned_Zminus_0 true doorway, threshold and central aisle remain traversable
+PASS E06/scanned_Zminus_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS E07 retains at least one truly open doorway
+PASS E07 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS E07/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS E07/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS E07/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS E07/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS E08 retains at least one truly open doorway
+PASS E08 retains every prior real opening, not merely one remaining door previous=metadata_1 current=metadata_1
+PASS E08/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS E08/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS E09 retains at least one truly open doorway
+PASS E09 retains every prior real opening, not merely one remaining door previous=metadata_0,scanned_Zminus_-2 current=metadata_0,scanned_Zminus_-2
+PASS E09/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS E09/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS E09/scanned_Zminus_-2 true doorway, threshold and central aisle remain traversable
+PASS E09/scanned_Zminus_-2 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS E10 retains at least one truly open doorway
+PASS E10 retains every prior real opening, not merely one remaining door previous=scanned_Zminus_-2 current=scanned_Zminus_-2
+PASS E10/scanned_Zminus_-2 true doorway, threshold and central aisle remain traversable
+PASS E10/scanned_Zminus_-2 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS E11 retains at least one truly open doorway
+PASS E11 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS E11/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS E11/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS E11/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS E11/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS E12 retains at least one truly open doorway
+PASS E12 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS E12/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS E12/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS E12/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS E12/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S01 retains at least one truly open doorway
+PASS S01 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS S01/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS S01/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S01/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS S01/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S02 retains at least one truly open doorway
+PASS S02 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS S02/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS S02/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S02/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS S02/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S03 retains at least one truly open doorway
+PASS S03 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS S03/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS S03/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S03/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS S03/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S04 retains at least one truly open doorway
+PASS S04 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS S04/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS S04/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S04/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS S04/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S05 retains at least one truly open doorway
+PASS S05 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS S05/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS S05/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S05/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS S05/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S06 retains at least one truly open doorway
+PASS S06 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS S06/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS S06/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S06/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS S06/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S07 retains at least one truly open doorway
+PASS S07 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS S07/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS S07/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S07/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS S07/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S08 retains at least one truly open doorway
+PASS S08 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS S08/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS S08/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S08/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS S08/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S09 retains at least one truly open doorway
+PASS S09 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS S09/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS S09/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S09/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS S09/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S10 retains at least one truly open doorway
+PASS S10 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS S10/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS S10/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S10/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS S10/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S11 retains at least one truly open doorway
+PASS S11 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS S11/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS S11/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S11/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS S11/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S12 retains at least one truly open doorway
+PASS S12 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS S12/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS S12/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS S12/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS S12/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS Y01 retains at least one truly open doorway
+PASS Y01 retains every prior real opening, not merely one remaining door previous=metadata_1 current=metadata_1
+PASS Y01/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS Y01/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS Y02 retains at least one truly open doorway
+PASS Y02 retains every prior real opening, not merely one remaining door previous=metadata_1 current=metadata_1
+PASS Y02/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS Y02/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS Y03 retains at least one truly open doorway
+PASS Y03 retains every prior real opening, not merely one remaining door previous=scanned_Xminus_-1 current=scanned_Xminus_-1
+PASS Y03/scanned_Xminus_-1 true doorway, threshold and central aisle remain traversable
+FAIL Y03/scanned_Xminus_-1 new facade mesh does not intersect 0.4m player capsule at door/aisle blocker=D08_FacadeMesh_Y03 submesh=0 step=4/9
+PASS Y04 retains at least one truly open doorway
+PASS Y04 retains every prior real opening, not merely one remaining door previous=metadata_0,metadata_1 current=metadata_0,metadata_1
+PASS Y04/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS Y04/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS Y04/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS Y04/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS Y05 retains at least one truly open doorway
+PASS Y05 retains every prior real opening, not merely one remaining door previous=metadata_0,scanned_Zplus_-17 current=metadata_0,scanned_Zplus_-17
+PASS Y05/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS Y05/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS Y05/scanned_Zplus_-17 true doorway, threshold and central aisle remain traversable
+FAIL Y05/scanned_Zplus_-17 new facade mesh does not intersect 0.4m player capsule at door/aisle blocker=D08_FacadeMesh_Y05 submesh=0 step=3/11
+PASS F01 retains at least one truly open doorway
+PASS F01 retains every prior real opening, not merely one remaining door previous=scanned_Xminus_0 current=scanned_Xminus_0
+PASS F01/scanned_Xminus_0 true doorway, threshold and central aisle remain traversable
+FAIL F01/scanned_Xminus_0 new facade mesh does not intersect 0.4m player capsule at door/aisle blocker=D08_FacadeMesh_F01 submesh=1 step=3/12
+PASS F02 retains at least one truly open doorway
+PASS F02 retains every prior real opening, not merely one remaining door previous=scanned_Zminus_0 current=scanned_Zminus_0
+PASS F02/scanned_Zminus_0 true doorway, threshold and central aisle remain traversable
+PASS F02/scanned_Zminus_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS F03 retains at least one truly open doorway
+PASS F03 retains every prior real opening, not merely one remaining door previous=metadata_1 current=metadata_1
+PASS F03/metadata_1 true doorway, threshold and central aisle remain traversable
+PASS F03/metadata_1 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS N17 retains at least one truly open doorway
+PASS N17 retains every prior real opening, not merely one remaining door previous=metadata_0 current=metadata_0
+PASS N17/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS N17/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS CLINIC retains at least one truly open doorway
+PASS CLINIC retains every prior real opening, not merely one remaining door previous=metadata_0 current=metadata_0
+PASS CLINIC/metadata_0 true doorway, threshold and central aisle remain traversable
+PASS CLINIC/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle
+PASS POWER retains at least one truly open doorway
+PASS POWER retains every prior real opening, not merely one remaining door previous=metadata_0 current=metadata_0
+PASS POWER/metadata_0 true doorway, threshold and central aisle remain traversable
+FAIL POWER/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle blocker=D08_FacadeMesh_POWER submesh=2 step=2/14
+PASS PARTS retains at least one truly open doorway
+PASS PARTS retains every prior real opening, not merely one remaining door previous=metadata_0 current=metadata_0
+PASS PARTS/metadata_0 true doorway, threshold and central aisle remain traversable
+FAIL PARTS/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle blocker=D08_FacadeMesh_PARTS submesh=1 step=6/14
+PASS TOOLS retains at least one truly open doorway
+PASS TOOLS retains every prior real opening, not merely one remaining door previous=metadata_0 current=metadata_0
+PASS TOOLS/metadata_0 true doorway, threshold and central aisle remain traversable
+FAIL TOOLS/metadata_0 new facade mesh does not intersect 0.4m player capsule at door/aisle blocker=D08_FacadeMesh_TOOLS submesh=8 step=3/14
+PASS HALL/DOOR_HS wide original opening remains passable
+PASS HALL/DOOR_HS new facade mesh leaves entry and aisle visually clear
+PASS HALL/DOOR_HN wide original opening remains passable
+PASS HALL/DOOR_HN new facade mesh leaves entry and aisle visually clear
+PASS B1-B4, X1-X7 and three relays remain present
+PASS all 28 basic-entry to exit routes remain connected
+PASS relay T1 remains reachable
+PASS relay T2 remains reachable
+PASS relay T3 remains reachable
+PASS west bridge remains traversable
+PASS east bridge remains traversable
+PASS all original indoor targets remain reachable
+NOTE Edit-mode passage and roof tests require D08 PlayerMotor Play proof and matched screenshots.
+passed=1378 failed=32
+RESULT FAIL

@@ -1,0 +1,5 @@
+Diagnostic render only: temporary RGB cubes above the map; never used as the runtime image.
+PASS noncollinear GPU probe (52.00, 40.00) expectedPixel=(260.00, 200.00) actualCentroid=(260.00, 200.00) errorPixels=0
+PASS noncollinear GPU probe (468.00, 60.00) expectedPixel=(2340.00, 300.00) actualCentroid=(2340.00, 300.00) errorPixels=0
+PASS noncollinear GPU probe (300.00, 350.00) expectedPixel=(1500.00, 1750.00) actualCentroid=(1500.00, 1750.00) errorPixels=0
+Temporary probes and materials destroyed.

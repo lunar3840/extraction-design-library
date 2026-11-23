@@ -1,0 +1,266 @@
+contained=False
+crossingRejected=True
+{
+    "schema": 3,
+    "capacity": 4,
+    "gridWidth": 6,
+    "gridHeight": 6,
+    "maxPages": 1,
+    "maxWeight": 50.0,
+    "slots": [
+        {
+            "id": "Armor 3x3",
+            "instanceId": "3971cc2ce0d54ce7966d853e4520ca75",
+            "quantity": 1,
+            "weapon": {
+                "schema": 1,
+                "instanceId": "",
+                "definitionId": "",
+                "loadedAmmoId": "",
+                "magazine": 0,
+                "ammoMultiplier": 0.0
+            },
+            "armor": {
+                "schema": 1,
+                "id": "",
+                "instanceId": "",
+                "durability": 0.0,
+                "maximum": 0.0,
+                "originalMaximum": 0.0
+            },
+            "resource": {
+                "schema": 1,
+                "remainingCapacity": 0.0,
+                "charges": 0
+            },
+            "gridX": 0,
+            "gridY": 0,
+            "gridPage": 0,
+            "rotated": false,
+            "isProtected": false
+        },
+        {
+            "id": "Med 1x2",
+            "instanceId": "50d1f1a057cb4ca4939229241d909e81",
+            "quantity": 1,
+            "weapon": {
+                "schema": 1,
+                "instanceId": "",
+                "definitionId": "",
+                "loadedAmmoId": "",
+                "magazine": 0,
+                "ammoMultiplier": 0.0
+            },
+            "armor": {
+                "schema": 1,
+                "id": "",
+                "instanceId": "",
+                "durability": 0.0,
+                "maximum": 0.0,
+                "originalMaximum": 0.0
+            },
+            "resource": {
+                "schema": 1,
+                "remainingCapacity": 0.0,
+                "charges": 0
+            },
+            "gridX": 3,
+            "gridY": 1,
+            "gridPage": 0,
+            "rotated": false,
+            "isProtected": false
+        },
+        {
+            "id": "Small 1x2",
+            "instanceId": "1761e305bcfd4f1a9f7caf6ce69130ea",
+            "quantity": 1,
+            "weapon": {
+                "schema": 1,
+                "instanceId": "",
+                "definitionId": "",
+                "loadedAmmoId": "",
+                "magazine": 0,
+                "ammoMultiplier": 0.0
+            },
+            "armor": {
+                "schema": 1,
+                "id": "",
+                "instanceId": "",
+                "durability": 0.0,
+                "maximum": 0.0,
+                "originalMaximum": 0.0
+            },
+            "resource": {
+                "schema": 1,
+                "remainingCapacity": 0.0,
+                "charges": 0
+            },
+            "gridX": 4,
+            "gridY": 1,
+            "gridPage": 0,
+            "rotated": false,
+            "isProtected": false
+        },
+        {
+            "id": "Bandage 1x1",
+            "instanceId": "747530a512684e2786650d8bb369dc88",
+            "quantity": 1,
+            "weapon": {
+                "schema": 1,
+                "instanceId": "",
+                "definitionId": "",
+                "loadedAmmoId": "",
+                "magazine": 0,
+                "ammoMultiplier": 0.0
+            },
+            "armor": {
+                "schema": 1,
+                "id": "",
+                "instanceId": "",
+                "durability": 0.0,
+                "maximum": 0.0,
+                "originalMaximum": 0.0
+            },
+            "resource": {
+                "schema": 1,
+                "remainingCapacity": 0.0,
+                "charges": 0
+            },
+            "gridX": 4,
+            "gridY": 3,
+            "gridPage": 0,
+            "rotated": false,
+            "isProtected": false
+        }
+    ],
+    "weapon": {
+        "id": "",
+        "instanceId": "",
+        "quantity": 0,
+        "weapon": {
+            "schema": 1,
+            "instanceId": "",
+            "definitionId": "",
+            "loadedAmmoId": "",
+            "magazine": 0,
+            "ammoMultiplier": 0.0
+        },
+        "armor": {
+            "schema": 1,
+            "id": "",
+            "instanceId": "",
+            "durability": 0.0,
+            "maximum": 0.0,
+            "originalMaximum": 0.0
+        },
+        "resource": {
+            "schema": 1,
+            "remainingCapacity": 0.0,
+            "charges": 0
+        },
+        "gridX": 0,
+        "gridY": 0,
+        "gridPage": 0,
+        "rotated": false,
+        "isProtected": false
+    },
+    "secondaryWeapon": {
+        "id": "",
+        "instanceId": "",
+        "quantity": 0,
+        "weapon": {
+            "schema": 1,
+            "instanceId": "",
+            "definitionId": "",
+            "loadedAmmoId": "",
+            "magazine": 0,
+            "ammoMultiplier": 0.0
+        },
+        "armor": {
+            "schema": 1,
+            "id": "",
+            "instanceId": "",
+            "durability": 0.0,
+            "maximum": 0.0,
+            "originalMaximum": 0.0
+        },
+        "resource": {
+            "schema": 1,
+            "remainingCapacity": 0.0,
+            "charges": 0
+        },
+        "gridX": 0,
+        "gridY": 0,
+        "gridPage": 0,
+        "rotated": false,
+        "isProtected": false
+    },
+    "helmet": {
+        "id": "",
+        "instanceId": "",
+        "quantity": 0,
+        "weapon": {
+            "schema": 1,
+            "instanceId": "",
+            "definitionId": "",
+            "loadedAmmoId": "",
+            "magazine": 0,
+            "ammoMultiplier": 0.0
+        },
+        "armor": {
+            "schema": 1,
+            "id": "",
+            "instanceId": "",
+            "durability": 0.0,
+            "maximum": 0.0,
+            "originalMaximum": 0.0
+        },
+        "resource": {
+            "schema": 1,
+            "remainingCapacity": 0.0,
+            "charges": 0
+        },
+        "gridX": 0,
+        "gridY": 0,
+        "gridPage": 0,
+        "rotated": false,
+        "isProtected": false
+    },
+    "bodyArmor": {
+        "id": "",
+        "instanceId": "",
+        "quantity": 0,
+        "weapon": {
+            "schema": 1,
+            "instanceId": "",
+            "definitionId": "",
+            "loadedAmmoId": "",
+            "magazine": 0,
+            "ammoMultiplier": 0.0
+        },
+        "armor": {
+            "schema": 1,
+            "id": "",
+            "instanceId": "",
+            "durability": 0.0,
+            "maximum": 0.0,
+            "originalMaximum": 0.0
+        },
+        "resource": {
+            "schema": 1,
+            "remainingCapacity": 0.0,
+            "charges": 0
+        },
+        "gridX": 0,
+        "gridY": 0,
+        "gridPage": 0,
+        "rotated": false,
+        "isProtected": false
+    },
+    "activeWeaponSlot": 0,
+    "quick": [
+        "",
+        "",
+        ""
+    ]
+}

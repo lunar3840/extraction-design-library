@@ -1,0 +1,17 @@
+{
+  "id": "appgdep_6ae09f3ee1388191ac144bdc7afb69df",
+  "project_id": "appgprj_6ada7933c358819183fbd5135edb9562",
+  "title": "익스트랙션 데이터 편집기",
+  "version_id": "appgprj_6ada7933c358819183fbd5135edb9562~appgver_9ea463234d64819183666f62154f14e0",
+  "type": "publish",
+  "status": "succeeded",
+  "url": "https://extraction-balance-editor.ehojin0415.chatgpt.site",
+  "has_mcp": false,
+  "screenshot_asset_pointer": null,
+  "provider_deployment_id": "site---6ada7933c358819183fbd5135edb9562",
+  "failure_message": null,
+  "env_set_revision": 1,
+  "updated_at": "2026-10-27T12:55:43.715817+00:00",
+  "version_number": 10,
+  "commit_sha": "a6ab2b64afa5541276115826bade7421563f5559"
+}

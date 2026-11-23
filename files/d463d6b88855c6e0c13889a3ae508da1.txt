@@ -1,0 +1,80 @@
+V17 actual gameplay camera and physical walks
+PASS live basic spawn B2
+PASS roof game_main_entrance_start 73/73
+CAPTURE game_main_entrance_start camera=(4.350, 17.109, -30.465) player=(0.000, 2.051, -38.000)
+RENDER_SAMPLE game_main_entrance_start drawCalls=1021 batches=1022 triangles=1123757 (Editor counters, not standalone FPS benchmark)
+PASS walk main_entrance steps=89 final=(0.00, 2.02, -26.13)
+PASS roof game_main_entrance_end 0/73
+CAPTURE game_main_entrance_end camera=(4.350, 17.077, -18.598) player=(0.000, 2.020, -26.133)
+RENDER_SAMPLE game_main_entrance_end drawCalls=1028 batches=1028 triangles=1086139 (Editor counters, not standalone FPS benchmark)
+PASS roof game_west_up_to_2F_start 0/73
+CAPTURE game_west_up_to_2F_start camera=(-26.650, 17.077, 10.535) player=(-31.000, 2.020, 3.000)
+RENDER_SAMPLE game_west_up_to_2F_start drawCalls=1713 batches=1701 triangles=989894 (Editor counters, not standalone FPS benchmark)
+PASS walk west_up_to_2F steps=119 final=(-31.00, 8.02, 18.87)
+PASS roof game_west_up_to_2F_end 0/73
+CAPTURE game_west_up_to_2F_end camera=(-26.650, 23.077, 26.402) player=(-31.000, 8.020, 18.867)
+RENDER_SAMPLE game_west_up_to_2F_end drawCalls=2151 batches=2138 triangles=1021362 (Editor counters, not standalone FPS benchmark)
+PASS roof game_east_up_to_2F_start 0/73
+CAPTURE game_east_up_to_2F_start camera=(35.350, 17.077, 10.535) player=(31.000, 2.020, 3.000)
+RENDER_SAMPLE game_east_up_to_2F_start drawCalls=1720 batches=1713 triangles=1205773 (Editor counters, not standalone FPS benchmark)
+PASS walk east_up_to_2F steps=119 final=(31.00, 8.02, 18.87)
+PASS roof game_east_up_to_2F_end 0/73
+CAPTURE game_east_up_to_2F_end camera=(35.350, 23.077, 26.402) player=(31.000, 8.020, 18.867)
+RENDER_SAMPLE game_east_up_to_2F_end drawCalls=1819 batches=1805 triangles=1104442 (Editor counters, not standalone FPS benchmark)
+PASS roof game_west_from_B1_start 0/73
+CAPTURE game_west_from_B1_start camera=(-26.650, 11.077, -11.465) player=(-31.000, -3.980, -19.000)
+RENDER_SAMPLE game_west_from_B1_start drawCalls=963 batches=958 triangles=1060424 (Editor counters, not standalone FPS benchmark)
+PASS walk west_from_B1 steps=119 final=(-31.00, 2.02, -3.13)
+PASS roof game_west_from_B1_end 0/73
+CAPTURE game_west_from_B1_end camera=(-26.650, 17.077, 4.402) player=(-31.000, 2.020, -3.133)
+RENDER_SAMPLE game_west_from_B1_end drawCalls=1633 batches=1629 triangles=1018006 (Editor counters, not standalone FPS benchmark)
+PASS roof game_east_from_B1_start 0/73
+CAPTURE game_east_from_B1_start camera=(35.350, 11.077, -11.465) player=(31.000, -3.980, -19.000)
+RENDER_SAMPLE game_east_from_B1_start drawCalls=865 batches=863 triangles=905498 (Editor counters, not standalone FPS benchmark)
+PASS walk east_from_B1 steps=119 final=(31.00, 2.02, -3.13)
+PASS roof game_east_from_B1_end 0/73
+CAPTURE game_east_from_B1_end camera=(35.350, 17.077, 4.402) player=(31.000, 2.020, -3.133)
+RENDER_SAMPLE game_east_from_B1_end drawCalls=1648 batches=1647 triangles=1187156 (Editor counters, not standalone FPS benchmark)
+PASS roof game_secret_descent_start 73/73
+CAPTURE game_secret_descent_start camera=(-60.650, 17.018, 13.535) player=(-65.000, 1.961, 6.000)
+RENDER_SAMPLE game_secret_descent_start drawCalls=1175 batches=1175 triangles=1101609 (Editor counters, not standalone FPS benchmark)
+PASS walk secret_descent steps=120 final=(-49.07, -3.98, 5.92)
+PASS roof game_secret_descent_end 0/73
+CAPTURE game_secret_descent_end camera=(-44.720, 11.077, 13.459) player=(-49.070, -3.980, 5.924)
+RENDER_SAMPLE game_secret_descent_end drawCalls=986 batches=985 triangles=886089 (Editor counters, not standalone FPS benchmark)
+PASS roof game_south_yard_start 73/73
+CAPTURE game_south_yard_start camera=(4.350, 16.837, -50.465) player=(0.000, 1.780, -58.000)
+RENDER_SAMPLE game_south_yard_start drawCalls=592 batches=593 triangles=1286711 (Editor counters, not standalone FPS benchmark)
+PASS walk south_yard steps=119 final=(0.00, 2.02, -42.13)
+PASS roof game_south_yard_end 73/73
+CAPTURE game_south_yard_end camera=(4.350, 17.073, -34.598) player=(0.000, 2.016, -42.133)
+RENDER_SAMPLE game_south_yard_end drawCalls=828 batches=827 triangles=1379181 (Editor counters, not standalone FPS benchmark)
+PASS roof game_west_work_start 73/73
+CAPTURE game_west_work_start camera=(-12.650, 16.545, -49.465) player=(-17.000, 1.488, -57.000)
+RENDER_SAMPLE game_west_work_start drawCalls=568 batches=565 triangles=1461848 (Editor counters, not standalone FPS benchmark)
+PASS walk west_work steps=0 final=(-17.00, 1.49, -57.00)
+PASS roof game_west_work_end 73/73
+CAPTURE game_west_work_end camera=(-12.650, 16.545, -49.465) player=(-17.000, 1.488, -57.000)
+RENDER_SAMPLE game_west_work_end drawCalls=571 batches=570 triangles=1488878 (Editor counters, not standalone FPS benchmark)
+PASS roof game_east_service_start 73/73
+CAPTURE game_east_service_start camera=(27.350, 15.072, -67.465) player=(23.000, 0.015, -75.000)
+RENDER_SAMPLE game_east_service_start drawCalls=535 batches=531 triangles=1137705 (Editor counters, not standalone FPS benchmark)
+PASS walk east_service steps=0 final=(23.00, 0.01, -75.00)
+PASS roof game_east_service_end 73/73
+CAPTURE game_east_service_end camera=(27.350, 15.072, -67.465) player=(23.000, 0.015, -75.000)
+RENDER_SAMPLE game_east_service_end drawCalls=538 batches=535 triangles=1140257 (Editor counters, not standalone FPS benchmark)
+PASS roof under_LoadingCanopy 0/73
+CAPTURE under_LoadingCanopy camera=(33.350, 16.908, -30.060) player=(29.000, 1.850, -37.595)
+RENDER_SAMPLE under_LoadingCanopy drawCalls=729 batches=731 triangles=927392 (Editor counters, not standalone FPS benchmark)
+PASS camera-to-player sight line clear: LoadingCanopy
+PASS new roof hide / physical bullet collision retained / pointer skips roof: LoadingCanopy
+PASS new roof restored outside: LoadingCanopy
+PASS roof under_RepairShelter 73/73
+CAPTURE under_RepairShelter camera=(20.350, 15.064, -62.465) player=(16.000, 0.007, -70.000)
+RENDER_SAMPLE under_RepairShelter drawCalls=511 batches=511 triangles=1137113 (Editor counters, not standalone FPS benchmark)
+PASS camera-to-player sight line clear: RepairShelter
+PASS new roof hide / physical bullet collision retained / pointer skips roof: RepairShelter
+PASS new roof restored outside: RepairShelter
+PASS remote A restores base look / zero Volume weight / fog off
+PASS actual router Leave deactivates slice and restores B state
+RESULT PASS

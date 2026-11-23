@@ -1,0 +1,126 @@
+[
+  {
+    "item_id": "trade_a_006",
+    "status": "PASS",
+    "triangles": 7685,
+    "objects": [
+      {
+        "name": "trade_a_006_Mesh_00",
+        "triangles": 7685,
+        "vertices": 6359,
+        "uv_layers": [
+          "UVMap"
+        ],
+        "has_custom_normals": true,
+        "bounds_min": [
+          -0.5000000596046448,
+          -0.1843719631433487,
+          -3.003800230771958e-08
+        ],
+        "bounds_max": [
+          0.5000000596046448,
+          0.18437211215496063,
+          0.9249878525733948
+        ],
+        "material_names": [
+          "trade_a_006_Material_00"
+        ]
+      }
+    ],
+    "world_bounds_roundtrip_max_delta": 1.4901161193847656e-07,
+    "scope": "Blender factory-empty FBX reimport; geometry, mesh-only objects, materials, UVs and world extent. Unity import/gameplay orientation remains a separate check."
+  },
+  {
+    "item_id": "trade_b_023",
+    "status": "PASS",
+    "triangles": 5000,
+    "objects": [
+      {
+        "name": "trade_b_023_Mesh_00",
+        "triangles": 5000,
+        "vertices": 5100,
+        "uv_layers": [
+          "UVMap"
+        ],
+        "has_custom_normals": true,
+        "bounds_min": [
+          -0.5010478496551514,
+          -0.341128408908844,
+          -0.0012832805514335632
+        ],
+        "bounds_max": [
+          0.5017131567001343,
+          0.35452285408973694,
+          0.6596069931983948
+        ],
+        "material_names": [
+          "trade_b_023_Material_00"
+        ]
+      }
+    ],
+    "world_bounds_roundtrip_max_delta": 1.1920928955078125e-07,
+    "scope": "Blender factory-empty FBX reimport; geometry, mesh-only objects, materials, UVs and world extent. Unity import/gameplay orientation remains a separate check."
+  },
+  {
+    "item_id": "trade_c_018",
+    "status": "PASS",
+    "triangles": 4999,
+    "objects": [
+      {
+        "name": "trade_c_018_Mesh_00",
+        "triangles": 4999,
+        "vertices": 4122,
+        "uv_layers": [
+          "UVMap"
+        ],
+        "has_custom_normals": true,
+        "bounds_min": [
+          -0.5000000596046448,
+          -0.3504333794116974,
+          -5.709284067734188e-08
+        ],
+        "bounds_max": [
+          0.5000000596046448,
+          0.35043349862098694,
+          0.6918014883995056
+        ],
+        "material_names": [
+          "trade_c_018_Material_00"
+        ]
+      }
+    ],
+    "world_bounds_roundtrip_max_delta": 1.1920928955078125e-07,
+    "scope": "Blender factory-empty FBX reimport; geometry, mesh-only objects, materials, UVs and world extent. Unity import/gameplay orientation remains a separate check."
+  },
+  {
+    "item_id": "trade_b_009",
+    "status": "PASS",
+    "triangles": 5000,
+    "objects": [
+      {
+        "name": "trade_b_009_Mesh_00",
+        "triangles": 5000,
+        "vertices": 3654,
+        "uv_layers": [
+          "UVMap"
+        ],
+        "has_custom_normals": true,
+        "bounds_min": [
+          -0.3272705376148224,
+          -0.18782904744148254,
+          9.152214624918997e-05
+        ],
+        "bounds_max": [
+          0.3273771405220032,
+          0.18774433434009552,
+          1.0
+        ],
+        "material_names": [
+          "trade_b_009_Material_00"
+        ]
+      }
+    ],
+    "world_bounds_roundtrip_max_delta": 1.6391277313232422e-07,
+    "scope": "Blender factory-empty FBX reimport; geometry, mesh-only objects, materials, UVs and world extent. Unity import/gameplay orientation remains a separate check."
+  }
+]

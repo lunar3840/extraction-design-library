@@ -1,0 +1,145 @@
+{
+  "files": [
+    {
+      "file": "before_edel16.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "bytes": 2336940,
+      "sha256": "199b4dda9672ed303cfaec491ed31c333520ea77705802dec65e2344565eb3e1",
+      "decodePassed": true
+    },
+    {
+      "file": "before_serin16.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "bytes": 2294644,
+      "sha256": "1f5afebf294255c6d9b46fc546bcbbd542f65496168441472629d1c69f1b04d1",
+      "decodePassed": true
+    },
+    {
+      "file": "reference_s3_refinement.png",
+      "dimensions": [
+        1429,
+        1100
+      ],
+      "bytes": 1882219,
+      "sha256": "da5e2dc21fa34f2edca366aea32d70b9b69dc584247b99c96261a9a72f867b64",
+      "decodePassed": true
+    },
+    {
+      "file": "before_tactical_edel16.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "bytes": 2353538,
+      "sha256": "f8155701d7d44078f1e54a944fd58ca2f98bfb21d1e4832089cf21a4955d8404",
+      "decodePassed": true
+    },
+    {
+      "file": "before_tactical_serin16.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "bytes": 2280633,
+      "sha256": "a12961d126843e3a3288c6ccc46b560c689a939be0971b5e2f042d93b45e4a02",
+      "decodePassed": true
+    },
+    {
+      "file": "reference_project_characters.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "bytes": 2291954,
+      "sha256": "d360d196a5ec4118d574db86e3c1dceeaa53663bfb738c98f586ebc394657240",
+      "decodePassed": true
+    },
+    {
+      "file": "reference_project_keyvisual.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 2688897,
+      "sha256": "7c67e2ab6bc7598a3a5f2a5ac4aada335a0765a9c27b499134ebf05256ace6a1",
+      "decodePassed": true
+    },
+    {
+      "file": "after_edel16.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "bytes": 2463003,
+      "sha256": "cb4f4b4164e54b1838483c474130c88b22e0185d616ba9dd9debd35537def2b8",
+      "decodePassed": true
+    },
+    {
+      "file": "after_serin16.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "bytes": 2523406,
+      "sha256": "0d8d0e0d1a78aa575c00db7501cba89ba2a2eb67216164601a8fb36203f2301f",
+      "decodePassed": true
+    }
+  ],
+  "sourceCopiesMatch": {
+    "before_edel16.png": true,
+    "before_serin16.png": true,
+    "reference_s3_refinement.png": true,
+    "reference_project_characters.png": true,
+    "reference_project_keyvisual.png": true,
+    "before_tactical_edel16.png": true,
+    "before_tactical_serin16.png": true
+  },
+  "productCodes": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "S1",
+    "S2",
+    "S3",
+    "S4"
+  ],
+  "productCount": 16,
+  "finalCharacterOutfitViews": 32,
+  "rejectedIntermediateOutfitViews": 32,
+  "finalUserApproval": false,
+  "manualVisualReview": {
+    "status": "completed",
+    "scope": [
+      "16 figures each,4x4 and C1..S4 labels",
+      "Original lavender braid/Edel vs brown ponytail/Serin",
+      "Full hair/feet inside panels",
+      "Role-specific garment cuts: light shrug, collared jacket, broad heavy/burgundy accents, utility apron/tools",
+      "Tier hem/collar/closure/side-panel direction",
+      "Open shoulders/midriff/upper-leg joints with opaque tops/shorts",
+      "Same-code garment-role correspondence with character colorway variation"
+    ],
+    "limitations": [
+      "Aesthetic/recognition adequacy awaits user; not an automatic acceptance",
+      "Small sleeves/panel details vary; not exact shared meshes",
+      "No measured body/coverage/armor values or gameplay fitting",
+      "Historical concept costume/coverage is a reference, not current mandatory canonical outfit",
+      "No external franchise image used as generation input"
+    ]
+  },
+  "productionAssetsModified": false
+}

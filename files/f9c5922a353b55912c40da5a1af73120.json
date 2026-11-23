@@ -1,0 +1,10 @@
+{
+  "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted_r14.zip",
+  "bytes": 130948454,
+  "sha256": "eaee9fde996c7a99d72c8aab7da51b5e137e2bec02166593e5937181ed090004",
+  "archive_files": 43,
+  "crc_verified": true,
+  "revision": "r14",
+  "validation": "six representative Blender poses; GLB reimport against linear-skin reference passed; no Unity application; not universal collision clearance",
+  "original_sources_preserved": true
+}

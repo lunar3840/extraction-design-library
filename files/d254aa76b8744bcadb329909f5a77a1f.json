@@ -1,0 +1,1649 @@
+{
+    "frame": 202,
+    "instances": [
+        {
+            "context": "portrait",
+            "model": "Player_Edel",
+            "note": "4 weighted ordinary-hair bones; 1 private hair collision meshes / 5110 vertices. C6 coherent connected-lock constraints; face/body/scalp excluded. Rigid source cap renderers=0; mesh weapon locks=40. Edel topology guard source=27958/4 UVmatches=174 enabled=True wholeBraid=3033.",
+            "chains": 4,
+            "vertices": 5110,
+            "residuals": 0,
+            "chainResiduals": 0,
+            "protectedVertices": 17334,
+            "protectedRestChanges": 0,
+            "protectedWeightChanges": 0,
+            "maxCorrection": 0.00855101365596056,
+            "neckRadius": 0.07399018108844757,
+            "weaponMaxCorrection": 0.0,
+            "weaponCached": 12,
+            "weaponActive": 12,
+            "weaponResiduals": 0,
+            "weaponChainResiduals": 0,
+            "neckSamples": 51,
+            "wholeBraid": 3033,
+            "lastStepMs": 14.8751,
+            "averageStepMs": 20.47709020979021,
+            "peakStepMs": 46.4173,
+            "lastChainMs": 0.0536,
+            "lastPointMs": 0.0,
+            "lastTriangleMs": 0.0,
+            "independentMeshes": true,
+            "extended": [
+                {
+                    "name": "SourceCurveBoneCount",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidSurfaceEvaluations",
+                    "value": "2"
+                },
+                {
+                    "name": "BraidWarmStartResetCount",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartProjectionCount",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartProjectionTotal",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartProjectionFailures",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartProjectionMaximumDegrees",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartProjectionPeakDegrees",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartResetTotal",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartFailureLink",
+                    "value": "None"
+                },
+                {
+                    "name": "BraidWarmStartFailureConstraint",
+                    "value": "None"
+                },
+                {
+                    "name": "BraidWarmStartFailureValue",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartFailureLimit",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartFailureSourceValue",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartFailureFrame",
+                    "value": "-1"
+                },
+                {
+                    "name": "BraidHardProjectionCount",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidHardProjectionMaximumDegrees",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidHardProjectionThreshold",
+                    "value": "0.006116521"
+                },
+                {
+                    "name": "BraidCollectionCacheHits",
+                    "value": "1"
+                },
+                {
+                    "name": "BraidCollectionCacheMisses",
+                    "value": "1"
+                },
+                {
+                    "name": "LastBraidCollectionCacheCheckMs",
+                    "value": "0.0254"
+                },
+                {
+                    "name": "BraidPreservedDescendantTrials",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidTrialSourceAngleRejects",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidTrialCorridorRejects",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidTrialLengthRejects",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidRootValidTrials",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidFineTrialEvaluations",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidSurfaceOuterPasses",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidSurfaceResidualDepth",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidSurfaceMaximumPointMovement",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidAppliedSegmentLengthError",
+                    "value": "2.980232E-08"
+                },
+                {
+                    "name": "LastBraidSurfaceMs",
+                    "value": "4.4374"
+                },
+                {
+                    "name": "LastBraidSkinMatrixMs",
+                    "value": "0.0418"
+                },
+                {
+                    "name": "LastBraidSelectedSkinMs",
+                    "value": "0.3168"
+                },
+                {
+                    "name": "LastBraidFixedSkinMs",
+                    "value": "0.0173"
+                },
+                {
+                    "name": "LastBraidPopulateMs",
+                    "value": "1.4956"
+                },
+                {
+                    "name": "LastBraidAdaptiveMs",
+                    "value": "2.1999"
+                },
+                {
+                    "name": "LastBraidCandidateScoreMs",
+                    "value": "0.1497"
+                },
+                {
+                    "name": "LastBraidPoseValidationMs",
+                    "value": "0.0422"
+                },
+                {
+                    "name": "BraidResidualVertexA",
+                    "value": "-1"
+                },
+                {
+                    "name": "BraidResidualVertexB",
+                    "value": "-1"
+                },
+                {
+                    "name": "BraidResidualVertexC",
+                    "value": "-1"
+                },
+                {
+                    "name": "BraidResidualProxy",
+                    "value": "-1"
+                },
+                {
+                    "name": "BraidResidualBary",
+                    "value": "(0.00, 0.00, 0.00)"
+                },
+                {
+                    "name": "BraidResidualPoint",
+                    "value": "(0.00, 0.00, 0.00)"
+                },
+                {
+                    "name": "BraidResidualProxyInfluence",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidResidualMobility",
+                    "value": "0"
+                },
+                {
+                    "name": "SegmentedBraidBoneCount",
+                    "value": "4"
+                },
+                {
+                    "name": "BraidChainMaximumSwing",
+                    "value": "52.05815"
+                },
+                {
+                    "name": "BraidChainMaximumTipDisplacement",
+                    "value": "0.2574165"
+                },
+                {
+                    "name": "BraidChainLengthError",
+                    "value": "2.980232E-08"
+                },
+                {
+                    "name": "BraidFieldRotationLimit",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidFieldTranslationLimit",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidFieldDisplacementLimit",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidChainSwingLimit",
+                    "value": "55"
+                },
+                {
+                    "name": "ProximalHairBindingEnabled",
+                    "value": "True"
+                },
+                {
+                    "name": "ProximalHairAttachmentRingVertices",
+                    "value": "113"
+                },
+                {
+                    "name": "ProximalHairFiniteScalpConstraints",
+                    "value": "0"
+                },
+                {
+                    "name": "ProximalHairPinnedVertices",
+                    "value": "113"
+                },
+                {
+                    "name": "ProximalShapeDiagnosticsValid",
+                    "value": "True"
+                },
+                {
+                    "name": "ProximalShapeDiagnosticsFrame",
+                    "value": "202"
+                },
+                {
+                    "name": "ProximalMaximumPinnedMovement",
+                    "value": "0"
+                },
+                {
+                    "name": "ProximalMaximumEdgeExtension",
+                    "value": "0.01894215"
+                },
+                {
+                    "name": "ProximalMaximumEdgeContraction",
+                    "value": "0.0150116"
+                },
+                {
+                    "name": "ProximalMinimumEdgeRatio",
+                    "value": "0.1114143"
+                },
+                {
+                    "name": "ProximalMaximumEdgeRatio",
+                    "value": "2.001724"
+                },
+                {
+                    "name": "ProximalMinimumTriangleAreaRatio",
+                    "value": "0.07900447"
+                },
+                {
+                    "name": "ProximalMaximumTriangleAreaRatio",
+                    "value": "2090.403"
+                },
+                {
+                    "name": "ProximalHairReboundVertices",
+                    "value": "1932"
+                },
+                {
+                    "name": "ProximalHairBindingStatus",
+                    "value": "Private proximal source-geodesic gradient; exact pinned attachment and original rig preserved; native surface/shape acceptance pending"
+                },
+                {
+                    "name": "FixedAttachmentVertexCount",
+                    "value": "0"
+                },
+                {
+                    "name": "LivFaceProtectedVertexCount",
+                    "value": "0"
+                },
+                {
+                    "name": "LivFaceGuardEnabled",
+                    "value": "False"
+                },
+                {
+                    "name": "LivFaceGuardNote",
+                    "value": "Not bound to guarded source"
+                },
+                {
+                    "name": "CoherentLockCount",
+                    "value": "40"
+                },
+                {
+                    "name": "CoherentActiveLocks",
+                    "value": "1"
+                },
+                {
+                    "name": "CoherentBodyQueries",
+                    "value": "612"
+                },
+                {
+                    "name": "CoherentUnverifiedQueries",
+                    "value": "0"
+                },
+                {
+                    "name": "CoherentResidualLocks",
+                    "value": "1"
+                },
+                {
+                    "name": "CoherentAdaptiveBodyWitnesses",
+                    "value": "6"
+                },
+                {
+                    "name": "CoherentBodyTriangleTests",
+                    "value": "119"
+                },
+                {
+                    "name": "CoherentProxyOverlaps",
+                    "value": "59"
+                },
+                {
+                    "name": "CoherentMaximumProbeCount",
+                    "value": "8"
+                },
+                {
+                    "name": "CoherentScoreCacheHits",
+                    "value": "3"
+                },
+                {
+                    "name": "CoherentBodyBvhNodeTests",
+                    "value": "505"
+                },
+                {
+                    "name": "BraidFieldRotation",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidFieldTranslation",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidMaximumPointDisplacement",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidResidualDepth",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidProbeCount",
+                    "value": "8"
+                },
+                {
+                    "name": "BraidSeedDegrees",
+                    "value": "0"
+                },
+                {
+                    "name": "MaximumCoherentRotation",
+                    "value": "8.001228"
+                },
+                {
+                    "name": "MaximumCoherentTranslation",
+                    "value": "0.01715444"
+                },
+                {
+                    "name": "LastCoherentSolveMs",
+                    "value": "12.3436"
+                },
+                {
+                    "name": "MaximumCorrection",
+                    "value": "0.008551014"
+                },
+                {
+                    "name": "MaximumWeaponCorrection",
+                    "value": "0"
+                },
+                {
+                    "name": "MeshWeaponLockCount",
+                    "value": "40"
+                },
+                {
+                    "name": "ActiveMeshWeaponLocks",
+                    "value": "0"
+                },
+                {
+                    "name": "LastMeshWeaponMs",
+                    "value": "0"
+                },
+                {
+                    "name": "CoherentAdaptiveWeaponWitnesses",
+                    "value": "0"
+                },
+                {
+                    "name": "CoherentWeaponTriangleTests",
+                    "value": "0"
+                },
+                {
+                    "name": "CoherentMobilityFacesSkipped",
+                    "value": "131"
+                },
+                {
+                    "name": "CoherentMobilityNodesSkipped",
+                    "value": "24"
+                },
+                {
+                    "name": "CurrentRootBudgetAvailable",
+                    "value": "True"
+                },
+                {
+                    "name": "CurrentRootBudgetStatus",
+                    "value": "Finite current source registry ready; source contacts remain unresolved"
+                },
+                {
+                    "name": "CurrentRootBudgetUnverifiedGroups",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetBodyParts",
+                    "value": "42"
+                },
+                {
+                    "name": "CurrentRootBudgetWeaponParts",
+                    "value": "12"
+                },
+                {
+                    "name": "CurrentRootBudgetBodyTriangles",
+                    "value": "29186"
+                },
+                {
+                    "name": "CurrentRootBudgetWeaponTriangles",
+                    "value": "8104"
+                },
+                {
+                    "name": "CurrentRootBudgetUnavailableParts",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetAmbiguousParts",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetLimitedVertices",
+                    "value": "293"
+                },
+                {
+                    "name": "CurrentRootBudgetCurrentSourceContactPairs",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetZeroLowerBoundPairs",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetUnprovenHairTriangles",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetInvalidQueries",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetFrameInvalidQueries",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetDistanceQueries",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetCapOnlyCacheReuses",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetPartEpochRequeries",
+                    "value": "1"
+                },
+                {
+                    "name": "CurrentRootBudgetHairShapeRequeries",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetCachedDistancePairs",
+                    "value": "15384"
+                },
+                {
+                    "name": "CurrentRootBudgetRootPrunedFacePairs",
+                    "value": "1282"
+                },
+                {
+                    "name": "CurrentRootBudgetSeedQueries",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetDistanceNodes",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetEligibleVertices",
+                    "value": "1207"
+                },
+                {
+                    "name": "CurrentRootBudgetSourceLocalVerticesRebuilt",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetSourceGeometryReuses",
+                    "value": "1"
+                },
+                {
+                    "name": "CurrentRootBudgetSourceGeometryChanges",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetTriangleTests",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetRefitParts",
+                    "value": "5"
+                },
+                {
+                    "name": "CurrentRootBudgetReusedParts",
+                    "value": "49"
+                },
+                {
+                    "name": "CurrentRootBudgetRefreshMs",
+                    "value": "1.5965"
+                },
+                {
+                    "name": "CurrentRootBudgetApplyMs",
+                    "value": "1.1115"
+                },
+                {
+                    "name": "HeadRootBudgetAvailable",
+                    "value": "True"
+                },
+                {
+                    "name": "HeadRootBudgetFullySourceClear",
+                    "value": "False"
+                },
+                {
+                    "name": "HeadRootBudgetStatus",
+                    "value": "Head source-clearance root budgets applied; source contacts remain unresolved diagnostics"
+                },
+                {
+                    "name": "HeadRootBudgetUnverifiedGroups",
+                    "value": "0"
+                },
+                {
+                    "name": "HeadRootBudgetUnavailableBodyParts",
+                    "value": "0"
+                },
+                {
+                    "name": "HeadRootBudgetBodyTriangles",
+                    "value": "2861"
+                },
+                {
+                    "name": "HeadRootBudgetPreparedHairTriangles",
+                    "value": "3344"
+                },
+                {
+                    "name": "HeadRootBudgetSourceContactTriangles",
+                    "value": "0"
+                },
+                {
+                    "name": "HeadRootBudgetUnprovenTriangles",
+                    "value": "3869"
+                },
+                {
+                    "name": "HeadRootBudgetLimitedVertices",
+                    "value": "223"
+                },
+                {
+                    "name": "HeadRootBudgetInvalidQueries",
+                    "value": "0"
+                },
+                {
+                    "name": "HeadRootBudgetFrameInvalidQueries",
+                    "value": "0"
+                },
+                {
+                    "name": "HeadRootBudgetBindMs",
+                    "value": "27.588"
+                },
+                {
+                    "name": "HeadRootBudgetPrepareMs",
+                    "value": "297.4194"
+                },
+                {
+                    "name": "HeadRootBudgetMorphBound",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceAvailable",
+                    "value": "True"
+                },
+                {
+                    "name": "BodySurfaceSupportPlaneCount",
+                    "value": "26"
+                },
+                {
+                    "name": "BodySurfaceTriangleClipQueries",
+                    "value": "119"
+                },
+                {
+                    "name": "BodySurfaceTriangleClipOverflows",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceLocalProxyCount",
+                    "value": "43"
+                },
+                {
+                    "name": "BodySurfaceSourceVerticesFitted",
+                    "value": "20999"
+                },
+                {
+                    "name": "BodySurfaceBindFitMs",
+                    "value": "618.6489"
+                },
+                {
+                    "name": "BodySurfaceMaximumFitInflation",
+                    "value": "1"
+                },
+                {
+                    "name": "BodySurfaceProxyPoseApproximation",
+                    "value": "True"
+                },
+                {
+                    "name": "BodySurfaceComplete",
+                    "value": "False"
+                },
+                {
+                    "name": "BodySurfaceTriangleCount",
+                    "value": "32047"
+                },
+                {
+                    "name": "BodySurfaceActiveTriangleCount",
+                    "value": "32047"
+                },
+                {
+                    "name": "BodySurfaceUnavailableParts",
+                    "value": "1"
+                },
+                {
+                    "name": "BodySurfaceAmbiguousTriangles",
+                    "value": "1723"
+                },
+                {
+                    "name": "BodySurfaceUnverifiedQueries",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceProjectionFailures",
+                    "value": "0"
+                },
+                {
+                    "name": "LastBodySurfaceRefreshMs",
+                    "value": "0.1911"
+                },
+                {
+                    "name": "LastBodySurfaceQueryMs",
+                    "value": "3.89930000000001"
+                },
+                {
+                    "name": "BodySurfaceStatus",
+                    "value": "Head source-renderer/component whole-triangle26-support proxies; other bones unchanged; outside plane value is conservative, pose/joint/concavity require actual mesh QA"
+                },
+                {
+                    "name": "BodySurfaceRadialQueries",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceRadialHits",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceRadialNoHit",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceRadialInwardRejected",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceProfileBuildRays",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceProfileMissingSamples",
+                    "value": "1"
+                },
+                {
+                    "name": "BodySurfaceProfileQueries",
+                    "value": "612"
+                },
+                {
+                    "name": "BodySurfaceProfileRefinements",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceApproximateQueries",
+                    "value": "612"
+                },
+                {
+                    "name": "BodySurfaceCcdBudgetSkipped",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceMaximumProfileMargin",
+                    "value": "0"
+                },
+                {
+                    "name": "LastBodySurfaceProfileBuildMs",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceProfileReused",
+                    "value": "False"
+                },
+                {
+                    "name": "BodySurfaceUnchangedRefreshes",
+                    "value": "3"
+                },
+                {
+                    "name": "BodySurfaceChangedParts",
+                    "value": "34"
+                },
+                {
+                    "name": "ActualBodyChainResiduals",
+                    "value": "0"
+                },
+                {
+                    "name": "ActualBodyChainUnverifiedSamples",
+                    "value": "0"
+                },
+                {
+                    "name": "ChainBoundRejects",
+                    "value": "0"
+                },
+                {
+                    "name": "MaximumFinalChainSwing",
+                    "value": "52.05815"
+                },
+                {
+                    "name": "MaximumWeaponCoreRadius",
+                    "value": "0.05425946"
+                },
+                {
+                    "name": "MaximumCorrectionDifferenceLimited",
+                    "value": "0"
+                },
+                {
+                    "name": "LastCoherenceMs",
+                    "value": "0"
+                },
+                {
+                    "name": "FinalCoherenceResidualEdges",
+                    "value": "0"
+                },
+                {
+                    "name": "LastCoherentPopulateMs",
+                    "value": "1.56"
+                },
+                {
+                    "name": "LastCoherentAdaptiveMs",
+                    "value": "4.2457"
+                },
+                {
+                    "name": "LastCoherentScoreMs",
+                    "value": "3.9333"
+                },
+                {
+                    "name": "CurrentRootBudgetRelevantFaces",
+                    "value": "1282"
+                },
+                {
+                    "name": "CurrentRootBudgetOmittedZeroFieldFaces",
+                    "value": "5931"
+                },
+                {
+                    "name": "CurrentRootBudgetOmittedMaximumFieldMovement",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "context": "live",
+            "model": "Player_Edel",
+            "note": "4 weighted ordinary-hair bones; 1 private hair collision meshes / 5113 vertices. C6 coherent connected-lock constraints; face/body/scalp excluded. Rigid source cap renderers=0; mesh weapon locks=40. Edel topology guard source=27958/4 UVmatches=174 enabled=True wholeBraid=3033.",
+            "chains": 4,
+            "vertices": 5113,
+            "residuals": 0,
+            "chainResiduals": 0,
+            "protectedVertices": 17334,
+            "protectedRestChanges": 0,
+            "protectedWeightChanges": 0,
+            "maxCorrection": 0.008549501188099385,
+            "neckRadius": 0.07399003207683563,
+            "weaponMaxCorrection": 0.0,
+            "weaponCached": 12,
+            "weaponActive": 12,
+            "weaponResiduals": 0,
+            "weaponChainResiduals": 0,
+            "neckSamples": 51,
+            "wholeBraid": 3033,
+            "lastStepMs": 33.6507,
+            "averageStepMs": 35.96378541666671,
+            "peakStepMs": 67.2933,
+            "lastChainMs": 0.0172,
+            "lastPointMs": 0.0,
+            "lastTriangleMs": 0.0,
+            "independentMeshes": true,
+            "extended": [
+                {
+                    "name": "SourceCurveBoneCount",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidSurfaceEvaluations",
+                    "value": "101"
+                },
+                {
+                    "name": "BraidWarmStartResetCount",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartProjectionCount",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartProjectionTotal",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartProjectionFailures",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartProjectionMaximumDegrees",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartProjectionPeakDegrees",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartResetTotal",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartFailureLink",
+                    "value": "None"
+                },
+                {
+                    "name": "BraidWarmStartFailureConstraint",
+                    "value": "None"
+                },
+                {
+                    "name": "BraidWarmStartFailureValue",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartFailureLimit",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartFailureSourceValue",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidWarmStartFailureFrame",
+                    "value": "-1"
+                },
+                {
+                    "name": "BraidHardProjectionCount",
+                    "value": "5"
+                },
+                {
+                    "name": "BraidHardProjectionMaximumDegrees",
+                    "value": "15.99997"
+                },
+                {
+                    "name": "BraidHardProjectionThreshold",
+                    "value": "0.006116509"
+                },
+                {
+                    "name": "BraidCollectionCacheHits",
+                    "value": "1"
+                },
+                {
+                    "name": "BraidCollectionCacheMisses",
+                    "value": "3"
+                },
+                {
+                    "name": "LastBraidCollectionCacheCheckMs",
+                    "value": "0.08"
+                },
+                {
+                    "name": "BraidPreservedDescendantTrials",
+                    "value": "104"
+                },
+                {
+                    "name": "BraidTrialSourceAngleRejects",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidTrialCorridorRejects",
+                    "value": "20"
+                },
+                {
+                    "name": "BraidTrialLengthRejects",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidRootValidTrials",
+                    "value": "11"
+                },
+                {
+                    "name": "BraidFineTrialEvaluations",
+                    "value": "32"
+                },
+                {
+                    "name": "BraidSurfaceOuterPasses",
+                    "value": "2"
+                },
+                {
+                    "name": "BraidSurfaceResidualDepth",
+                    "value": "0.0762559"
+                },
+                {
+                    "name": "BraidSurfaceMaximumPointMovement",
+                    "value": "6.626863E-06"
+                },
+                {
+                    "name": "BraidAppliedSegmentLengthError",
+                    "value": "5.960464E-08"
+                },
+                {
+                    "name": "LastBraidSurfaceMs",
+                    "value": "23.6327"
+                },
+                {
+                    "name": "LastBraidSkinMatrixMs",
+                    "value": "1.1277"
+                },
+                {
+                    "name": "LastBraidSelectedSkinMs",
+                    "value": "0.8024"
+                },
+                {
+                    "name": "LastBraidFixedSkinMs",
+                    "value": "0.0638"
+                },
+                {
+                    "name": "LastBraidPopulateMs",
+                    "value": "4.4498"
+                },
+                {
+                    "name": "LastBraidAdaptiveMs",
+                    "value": "9.4063"
+                },
+                {
+                    "name": "LastBraidCandidateScoreMs",
+                    "value": "7.6347"
+                },
+                {
+                    "name": "LastBraidPoseValidationMs",
+                    "value": "0.4728"
+                },
+                {
+                    "name": "BraidResidualVertexA",
+                    "value": "2395"
+                },
+                {
+                    "name": "BraidResidualVertexB",
+                    "value": "2396"
+                },
+                {
+                    "name": "BraidResidualVertexC",
+                    "value": "2397"
+                },
+                {
+                    "name": "BraidResidualProxy",
+                    "value": "5"
+                },
+                {
+                    "name": "BraidResidualBary",
+                    "value": "(0.33, 0.33, 0.33)"
+                },
+                {
+                    "name": "BraidResidualPoint",
+                    "value": "(0.13, 1.10, -2.50)"
+                },
+                {
+                    "name": "BraidResidualProxyInfluence",
+                    "value": "1"
+                },
+                {
+                    "name": "BraidResidualMobility",
+                    "value": "1"
+                },
+                {
+                    "name": "SegmentedBraidBoneCount",
+                    "value": "4"
+                },
+                {
+                    "name": "BraidChainMaximumSwing",
+                    "value": "32.95763"
+                },
+                {
+                    "name": "BraidChainMaximumTipDisplacement",
+                    "value": "0.09262509"
+                },
+                {
+                    "name": "BraidChainLengthError",
+                    "value": "5.960464E-08"
+                },
+                {
+                    "name": "BraidFieldRotationLimit",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidFieldTranslationLimit",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidFieldDisplacementLimit",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidChainSwingLimit",
+                    "value": "55"
+                },
+                {
+                    "name": "ProximalHairBindingEnabled",
+                    "value": "True"
+                },
+                {
+                    "name": "ProximalHairAttachmentRingVertices",
+                    "value": "113"
+                },
+                {
+                    "name": "ProximalHairFiniteScalpConstraints",
+                    "value": "0"
+                },
+                {
+                    "name": "ProximalHairPinnedVertices",
+                    "value": "113"
+                },
+                {
+                    "name": "ProximalShapeDiagnosticsValid",
+                    "value": "True"
+                },
+                {
+                    "name": "ProximalShapeDiagnosticsFrame",
+                    "value": "202"
+                },
+                {
+                    "name": "ProximalMaximumPinnedMovement",
+                    "value": "0"
+                },
+                {
+                    "name": "ProximalMaximumEdgeExtension",
+                    "value": "0.01642325"
+                },
+                {
+                    "name": "ProximalMaximumEdgeContraction",
+                    "value": "0.01775593"
+                },
+                {
+                    "name": "ProximalMinimumEdgeRatio",
+                    "value": "0.3030868"
+                },
+                {
+                    "name": "ProximalMaximumEdgeRatio",
+                    "value": "1.719952"
+                },
+                {
+                    "name": "ProximalMinimumTriangleAreaRatio",
+                    "value": "0.180359"
+                },
+                {
+                    "name": "ProximalMaximumTriangleAreaRatio",
+                    "value": "77.42763"
+                },
+                {
+                    "name": "ProximalHairReboundVertices",
+                    "value": "1932"
+                },
+                {
+                    "name": "ProximalHairBindingStatus",
+                    "value": "Private proximal source-geodesic gradient; exact pinned attachment and original rig preserved; native surface/shape acceptance pending"
+                },
+                {
+                    "name": "FixedAttachmentVertexCount",
+                    "value": "0"
+                },
+                {
+                    "name": "LivFaceProtectedVertexCount",
+                    "value": "0"
+                },
+                {
+                    "name": "LivFaceGuardEnabled",
+                    "value": "False"
+                },
+                {
+                    "name": "LivFaceGuardNote",
+                    "value": "Not bound to guarded source"
+                },
+                {
+                    "name": "CoherentLockCount",
+                    "value": "40"
+                },
+                {
+                    "name": "CoherentActiveLocks",
+                    "value": "2"
+                },
+                {
+                    "name": "CoherentBodyQueries",
+                    "value": "1862"
+                },
+                {
+                    "name": "CoherentUnverifiedQueries",
+                    "value": "0"
+                },
+                {
+                    "name": "CoherentResidualLocks",
+                    "value": "2"
+                },
+                {
+                    "name": "CoherentAdaptiveBodyWitnesses",
+                    "value": "21"
+                },
+                {
+                    "name": "CoherentBodyTriangleTests",
+                    "value": "1119"
+                },
+                {
+                    "name": "CoherentProxyOverlaps",
+                    "value": "93"
+                },
+                {
+                    "name": "CoherentMaximumProbeCount",
+                    "value": "8"
+                },
+                {
+                    "name": "CoherentScoreCacheHits",
+                    "value": "3"
+                },
+                {
+                    "name": "CoherentBodyBvhNodeTests",
+                    "value": "1859"
+                },
+                {
+                    "name": "BraidFieldRotation",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidFieldTranslation",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidMaximumPointDisplacement",
+                    "value": "0"
+                },
+                {
+                    "name": "BraidResidualDepth",
+                    "value": "0.0762559"
+                },
+                {
+                    "name": "BraidProbeCount",
+                    "value": "14"
+                },
+                {
+                    "name": "BraidSeedDegrees",
+                    "value": "0"
+                },
+                {
+                    "name": "MaximumCoherentRotation",
+                    "value": "8.001228"
+                },
+                {
+                    "name": "MaximumCoherentTranslation",
+                    "value": "0.01716357"
+                },
+                {
+                    "name": "LastCoherentSolveMs",
+                    "value": "31.5863"
+                },
+                {
+                    "name": "MaximumCorrection",
+                    "value": "0.008549501"
+                },
+                {
+                    "name": "MaximumWeaponCorrection",
+                    "value": "0"
+                },
+                {
+                    "name": "MeshWeaponLockCount",
+                    "value": "40"
+                },
+                {
+                    "name": "ActiveMeshWeaponLocks",
+                    "value": "0"
+                },
+                {
+                    "name": "LastMeshWeaponMs",
+                    "value": "0"
+                },
+                {
+                    "name": "CoherentAdaptiveWeaponWitnesses",
+                    "value": "0"
+                },
+                {
+                    "name": "CoherentWeaponTriangleTests",
+                    "value": "0"
+                },
+                {
+                    "name": "CoherentMobilityFacesSkipped",
+                    "value": "137"
+                },
+                {
+                    "name": "CoherentMobilityNodesSkipped",
+                    "value": "55"
+                },
+                {
+                    "name": "CurrentRootBudgetAvailable",
+                    "value": "True"
+                },
+                {
+                    "name": "CurrentRootBudgetStatus",
+                    "value": "Finite current source registry ready; source contacts remain unresolved"
+                },
+                {
+                    "name": "CurrentRootBudgetUnverifiedGroups",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetBodyParts",
+                    "value": "42"
+                },
+                {
+                    "name": "CurrentRootBudgetWeaponParts",
+                    "value": "12"
+                },
+                {
+                    "name": "CurrentRootBudgetBodyTriangles",
+                    "value": "29186"
+                },
+                {
+                    "name": "CurrentRootBudgetWeaponTriangles",
+                    "value": "8104"
+                },
+                {
+                    "name": "CurrentRootBudgetUnavailableParts",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetAmbiguousParts",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetLimitedVertices",
+                    "value": "291"
+                },
+                {
+                    "name": "CurrentRootBudgetCurrentSourceContactPairs",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetZeroLowerBoundPairs",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetUnprovenHairTriangles",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetInvalidQueries",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetFrameInvalidQueries",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetDistanceQueries",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetCapOnlyCacheReuses",
+                    "value": "13"
+                },
+                {
+                    "name": "CurrentRootBudgetPartEpochRequeries",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetHairShapeRequeries",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetCachedDistancePairs",
+                    "value": "16679"
+                },
+                {
+                    "name": "CurrentRootBudgetRootPrunedFacePairs",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetSeedQueries",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetDistanceNodes",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetEligibleVertices",
+                    "value": "1208"
+                },
+                {
+                    "name": "CurrentRootBudgetSourceLocalVerticesRebuilt",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetSourceGeometryReuses",
+                    "value": "1"
+                },
+                {
+                    "name": "CurrentRootBudgetSourceGeometryChanges",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetTriangleTests",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetRefitParts",
+                    "value": "0"
+                },
+                {
+                    "name": "CurrentRootBudgetReusedParts",
+                    "value": "54"
+                },
+                {
+                    "name": "CurrentRootBudgetRefreshMs",
+                    "value": "0.2144"
+                },
+                {
+                    "name": "CurrentRootBudgetApplyMs",
+                    "value": "1.0597"
+                },
+                {
+                    "name": "HeadRootBudgetAvailable",
+                    "value": "True"
+                },
+                {
+                    "name": "HeadRootBudgetFullySourceClear",
+                    "value": "False"
+                },
+                {
+                    "name": "HeadRootBudgetStatus",
+                    "value": "Head source-clearance root budgets applied; source contacts remain unresolved diagnostics"
+                },
+                {
+                    "name": "HeadRootBudgetUnverifiedGroups",
+                    "value": "0"
+                },
+                {
+                    "name": "HeadRootBudgetUnavailableBodyParts",
+                    "value": "0"
+                },
+                {
+                    "name": "HeadRootBudgetBodyTriangles",
+                    "value": "2861"
+                },
+                {
+                    "name": "HeadRootBudgetPreparedHairTriangles",
+                    "value": "3346"
+                },
+                {
+                    "name": "HeadRootBudgetSourceContactTriangles",
+                    "value": "0"
+                },
+                {
+                    "name": "HeadRootBudgetUnprovenTriangles",
+                    "value": "3869"
+                },
+                {
+                    "name": "HeadRootBudgetLimitedVertices",
+                    "value": "224"
+                },
+                {
+                    "name": "HeadRootBudgetInvalidQueries",
+                    "value": "0"
+                },
+                {
+                    "name": "HeadRootBudgetFrameInvalidQueries",
+                    "value": "0"
+                },
+                {
+                    "name": "HeadRootBudgetBindMs",
+                    "value": "28.164"
+                },
+                {
+                    "name": "HeadRootBudgetPrepareMs",
+                    "value": "282.2684"
+                },
+                {
+                    "name": "HeadRootBudgetMorphBound",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceAvailable",
+                    "value": "True"
+                },
+                {
+                    "name": "BodySurfaceSupportPlaneCount",
+                    "value": "26"
+                },
+                {
+                    "name": "BodySurfaceTriangleClipQueries",
+                    "value": "1119"
+                },
+                {
+                    "name": "BodySurfaceTriangleClipOverflows",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceLocalProxyCount",
+                    "value": "43"
+                },
+                {
+                    "name": "BodySurfaceSourceVerticesFitted",
+                    "value": "20999"
+                },
+                {
+                    "name": "BodySurfaceBindFitMs",
+                    "value": "690.5138"
+                },
+                {
+                    "name": "BodySurfaceMaximumFitInflation",
+                    "value": "1"
+                },
+                {
+                    "name": "BodySurfaceProxyPoseApproximation",
+                    "value": "True"
+                },
+                {
+                    "name": "BodySurfaceComplete",
+                    "value": "False"
+                },
+                {
+                    "name": "BodySurfaceTriangleCount",
+                    "value": "32047"
+                },
+                {
+                    "name": "BodySurfaceActiveTriangleCount",
+                    "value": "32047"
+                },
+                {
+                    "name": "BodySurfaceUnavailableParts",
+                    "value": "1"
+                },
+                {
+                    "name": "BodySurfaceAmbiguousTriangles",
+                    "value": "1723"
+                },
+                {
+                    "name": "BodySurfaceUnverifiedQueries",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceProjectionFailures",
+                    "value": "0"
+                },
+                {
+                    "name": "LastBodySurfaceRefreshMs",
+                    "value": "0.1359"
+                },
+                {
+                    "name": "LastBodySurfaceQueryMs",
+                    "value": "9.50920000000004"
+                },
+                {
+                    "name": "BodySurfaceStatus",
+                    "value": "Head source-renderer/component whole-triangle26-support proxies; other bones unchanged; outside plane value is conservative, pose/joint/concavity require actual mesh QA"
+                },
+                {
+                    "name": "BodySurfaceRadialQueries",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceRadialHits",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceRadialNoHit",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceRadialInwardRejected",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceProfileBuildRays",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceProfileMissingSamples",
+                    "value": "1"
+                },
+                {
+                    "name": "BodySurfaceProfileQueries",
+                    "value": "1862"
+                },
+                {
+                    "name": "BodySurfaceProfileRefinements",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceApproximateQueries",
+                    "value": "1862"
+                },
+                {
+                    "name": "BodySurfaceCcdBudgetSkipped",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceMaximumProfileMargin",
+                    "value": "0"
+                },
+                {
+                    "name": "LastBodySurfaceProfileBuildMs",
+                    "value": "0"
+                },
+                {
+                    "name": "BodySurfaceProfileReused",
+                    "value": "False"
+                },
+                {
+                    "name": "BodySurfaceUnchangedRefreshes",
+                    "value": "3"
+                },
+                {
+                    "name": "BodySurfaceChangedParts",
+                    "value": "43"
+                },
+                {
+                    "name": "ActualBodyChainResiduals",
+                    "value": "0"
+                },
+                {
+                    "name": "ActualBodyChainUnverifiedSamples",
+                    "value": "0"
+                },
+                {
+                    "name": "ChainBoundRejects",
+                    "value": "0"
+                },
+                {
+                    "name": "MaximumFinalChainSwing",
+                    "value": "32.95763"
+                },
+                {
+                    "name": "MaximumWeaponCoreRadius",
+                    "value": "0.05425935"
+                },
+                {
+                    "name": "MaximumCorrectionDifferenceLimited",
+                    "value": "0"
+                },
+                {
+                    "name": "LastCoherenceMs",
+                    "value": "0"
+                },
+                {
+                    "name": "FinalCoherenceResidualEdges",
+                    "value": "0"
+                },
+                {
+                    "name": "LastCoherentPopulateMs",
+                    "value": "4.5348"
+                },
+                {
+                    "name": "LastCoherentAdaptiveMs",
+                    "value": "11.5753"
+                },
+                {
+                    "name": "LastCoherentScoreMs",
+                    "value": "3.9005"
+                },
+                {
+                    "name": "CurrentRootBudgetRelevantFaces",
+                    "value": "1283"
+                },
+                {
+                    "name": "CurrentRootBudgetOmittedZeroFieldFaces",
+                    "value": "5932"
+                },
+                {
+                    "name": "CurrentRootBudgetOmittedMaximumFieldMovement",
+                    "value": "0"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+V37 ACTUAL UNITY PLAY CAPTURES, 1600x1000. Combat ticks frozen; scaled time runs normally for water/rain. Same camera and position pairs, 0.8s second view for animation. Editor observed frame intervals are not a GPU or production FPS benchmark.
+bridge_west player=(102.50000, 0.10000, -125.00000) camera=(132.50000, 49.10000, -177.00000) rotation=(0.31962, -0.24409, 0.08559, 0.91156) fov=48 time=4.500
+observedEditorFrameMs samples=259 median=12.937 p95=17.313
+frameTiming cpuMs=12.8481 gpuMs=4.1472 (zero may mean unavailable; editor observation only)
+bridge_west_t1 player=(102.50000, 0.10000, -125.00000) camera=(132.50000, 49.10000, -177.00000) rotation=(0.31962, -0.24409, 0.08559, 0.91156) fov=48 time=5.465
+observedEditorFrameMs samples=323 median=12.875 p95=16.788
+frameTiming cpuMs=12.5027 gpuMs=4.180992 (zero may mean unavailable; editor observation only)
+bridge_east player=(196.50000, 1.06000, -88.50000) camera=(221.50000, 44.06000, -135.50000) rotation=(0.31807, -0.22863, 0.07933, 0.91666) fov=48 time=9.080
+observedEditorFrameMs samples=283 median=12.016 p95=13.711
+frameTiming cpuMs=11.9927 gpuMs=3.622912 (zero may mean unavailable; editor observation only)
+bridge_east_t1 player=(196.50000, 1.06000, -88.50000) camera=(221.50000, 44.06000, -135.50000) rotation=(0.31807, -0.22863, 0.07933, 0.91666) fov=48 time=9.984
+observedEditorFrameMs samples=349 median=12.023 p95=13.677
+frameTiming cpuMs=12.8332 gpuMs=3.623936 (zero may mean unavailable; editor observation only)
+bank_north player=(141.80880, 0.13136, -91.75857) camera=(146.15910, 15.18850, -84.22366) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=13.597
+observedEditorFrameMs samples=288 median=12.032 p95=13.653
+frameTiming cpuMs=11.5186 gpuMs=2.413568 (zero may mean unavailable; editor observation only)
+bank_north_t1 player=(141.80880, 0.13136, -91.75857) camera=(146.15910, 15.18850, -84.22366) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=14.511
+observedEditorFrameMs samples=356 median=11.975 p95=13.505
+frameTiming cpuMs=11.6565 gpuMs=2.409472 (zero may mean unavailable; editor observation only)
+bank_south player=(62.08067, 0.16000, -170.20470) camera=(66.43095, 15.21714, -162.66980) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=18.129
+observedEditorFrameMs samples=275 median=12.564 p95=14.353
+frameTiming cpuMs=12.4857 gpuMs=2.276352 (zero may mean unavailable; editor observation only)
+bank_south_t1 player=(62.08067, 0.16000, -170.20470) camera=(66.43095, 15.21714, -162.66980) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=19.035
+observedEditorFrameMs samples=340 median=12.551 p95=14.165
+frameTiming cpuMs=11.9283 gpuMs=2.259968 (zero may mean unavailable; editor observation only)
+bridge_entry player=(89.00000, 0.10000, -93.00000) camera=(93.35028, 15.15714, -85.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=22.640
+observedEditorFrameMs samples=294 median=11.720 p95=13.376
+frameTiming cpuMs=12.8908 gpuMs=2.274304 (zero may mean unavailable; editor observation only)
+bridge_entry_t1 player=(89.00000, 0.10000, -93.00000) camera=(93.35028, 15.15714, -85.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=23.569
+observedEditorFrameMs samples=364 median=11.640 p95=13.268
+frameTiming cpuMs=10.6941 gpuMs=2.286592 (zero may mean unavailable; editor observation only)
+hall_1f player=(-22.00000, 2.08000, -27.00000) camera=(-17.64972, 17.13713, -19.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=27.201
+observedEditorFrameMs samples=206 median=14.661 p95=17.817
+frameTiming cpuMs=14.0651 gpuMs=2.028544 (zero may mean unavailable; editor observation only)
+hall_1f_t1 player=(-22.00000, 2.08000, -27.00000) camera=(-17.64972, 17.13713, -19.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=28.137
+observedEditorFrameMs samples=258 median=14.848 p95=17.817
+frameTiming cpuMs=15.1568 gpuMs=2.060288 (zero may mean unavailable; editor observation only)
+hall_2f player=(-22.00000, 8.08000, -27.00000) camera=(-17.64972, 23.13713, -19.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=31.780
+observedEditorFrameMs samples=218 median=15.674 p95=18.013
+frameTiming cpuMs=15.6979 gpuMs=2.240512 (zero may mean unavailable; editor observation only)
+hall_2f_t1 player=(-22.00000, 8.08000, -27.00000) camera=(-17.64972, 23.13713, -19.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=32.707
+observedEditorFrameMs samples=269 median=15.672 p95=18.013
+frameTiming cpuMs=15.5293 gpuMs=2.2272 (zero may mean unavailable; editor observation only)
+inside_N03 player=(-115.00000, 6.70000, 146.00000) camera=(-110.64970, 21.75714, 153.53490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=36.330
+observedEditorFrameMs samples=304 median=11.282 p95=12.957
+frameTiming cpuMs=11.4872 gpuMs=1.980416 (zero may mean unavailable; editor observation only)
+inside_N03_t1 player=(-115.00000, 6.70000, 146.00000) camera=(-110.64970, 21.75714, 153.53490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=37.253
+observedEditorFrameMs samples=373 median=11.342 p95=12.990
+frameTiming cpuMs=12.0611 gpuMs=1.965056 (zero may mean unavailable; editor observation only)
+inside_E01 player=(188.00000, 6.76000, 115.00000) camera=(192.35030, 21.81713, 122.53490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=40.877
+observedEditorFrameMs samples=308 median=11.276 p95=12.463
+frameTiming cpuMs=11.1553 gpuMs=1.851392 (zero may mean unavailable; editor observation only)
+inside_E01_t1 player=(188.00000, 6.76000, 115.00000) camera=(192.35030, 21.81713, 122.53490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=41.794
+observedEditorFrameMs samples=379 median=11.268 p95=12.519
+frameTiming cpuMs=10.8277 gpuMs=1.855488 (zero may mean unavailable; editor observation only)
+inside_TOOLS player=(-167.50000, 1.06000, 5.50000) camera=(-163.14970, 16.11714, 13.03490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=45.408
+observedEditorFrameMs samples=300 median=11.562 p95=12.928
+frameTiming cpuMs=10.6665 gpuMs=1.816576 (zero may mean unavailable; editor observation only)
+inside_TOOLS_t1 player=(-167.50000, 1.06000, 5.50000) camera=(-163.14970, 16.11714, 13.03490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=46.358
+observedEditorFrameMs samples=372 median=11.443 p95=12.910
+frameTiming cpuMs=11.3796 gpuMs=1.815552 (zero may mean unavailable; editor observation only)
+capturedPairs=10 expected=10
+RESULT PASS

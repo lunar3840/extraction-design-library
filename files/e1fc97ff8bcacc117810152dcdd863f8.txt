@@ -1,0 +1,60 @@
+PASS edel ordinary full chip near1%, observed=205/20000
+PASS edel safe full chip near3%, observed=596/20000
+PASS edel boss full chip near8%, observed=1598/20000
+PASS edel safes improve chip chance; bosses and containers retain both hit and miss outcomes
+PASS edel safes raise high-value frequency without a high-value guarantee: ordinary=10949, safe=14133, safeMisses=5867
+PASS liv ordinary full chip near1%, observed=209/20000
+PASS liv safe full chip near3%, observed=610/20000
+PASS liv boss full chip near8%, observed=1615/20000
+PASS liv safes improve chip chance; bosses and containers retain both hit and miss outcomes
+PASS liv safes raise high-value frequency without a high-value guarantee: ordinary=10949, safe=14133, safeMisses=5867
+PASS uui ordinary full chip near1%, observed=202/20000
+PASS uui safe full chip near3%, observed=592/20000
+PASS uui boss full chip near8%, observed=1597/20000
+PASS uui safes improve chip chance; bosses and containers retain both hit and miss outcomes
+PASS uui safes raise high-value frequency without a high-value guarantee: ordinary=10949, safe=14133, safeMisses=5867
+PASS only Edel/Liv/Uui are surface chip cargo; Serin excluded
+PASS unselected/unknown boss grants no companion bonus: N1
+PASS unselected/unknown boss grants no companion bonus: N5
+PASS unselected/unknown boss grants no companion bonus: unknown
+PASS unselected/unknown boss grants no companion bonus: 
+PASS unmapped low-risk residential stock remains outside the chip acquisition pools
+PASS unique one-cell unsellable cargo definition: chip_cargo_edel
+PASS cargo fits real loot state and has native inventory/world art: chip_cargo_edel
+PASS unique one-cell unsellable cargo definition: chip_fragment_edel
+PASS cargo fits real loot state and has native inventory/world art: chip_fragment_edel
+PASS protected fragments cannot satisfy restoration: edel
+PASS failed save restores all fragments, bag, storage and profile revision: edel
+PASS five fragments restore one matching cargo, storage first, one save/notice, selected companion preserved: edel
+PASS cargo identity/grid quantities persist through actual profile JSON: edel
+PASS chip cargo test sortie starts: edel
+PASS surface restoration is rejected without saving unextracted cargo: edel
+PASS extraction makes recovered fragments eligible for camp restoration: edel
+PASS normal death clears carried chip cargo, retains base storage and equipped clean roster chip: edel
+PASS unique one-cell unsellable cargo definition: chip_cargo_liv
+PASS cargo fits real loot state and has native inventory/world art: chip_cargo_liv
+PASS unique one-cell unsellable cargo definition: chip_fragment_liv
+PASS cargo fits real loot state and has native inventory/world art: chip_fragment_liv
+PASS protected fragments cannot satisfy restoration: liv
+PASS failed save restores all fragments, bag, storage and profile revision: liv
+PASS five fragments restore one matching cargo, storage first, one save/notice, selected companion preserved: liv
+PASS cargo identity/grid quantities persist through actual profile JSON: liv
+PASS chip cargo test sortie starts: liv
+PASS surface restoration is rejected without saving unextracted cargo: liv
+PASS extraction makes recovered fragments eligible for camp restoration: liv
+PASS normal death clears carried chip cargo, retains base storage and equipped clean roster chip: liv
+PASS unique one-cell unsellable cargo definition: chip_cargo_uui
+PASS cargo fits real loot state and has native inventory/world art: chip_cargo_uui
+PASS unique one-cell unsellable cargo definition: chip_fragment_uui
+PASS cargo fits real loot state and has native inventory/world art: chip_fragment_uui
+PASS protected fragments cannot satisfy restoration: uui
+PASS failed save restores all fragments, bag, storage and profile revision: uui
+PASS five fragments restore one matching cargo, storage first, one save/notice, selected companion preserved: uui
+PASS cargo identity/grid quantities persist through actual profile JSON: uui
+PASS chip cargo test sortie starts: uui
+PASS surface restoration is rejected without saving unextracted cargo: uui
+PASS extraction makes recovered fragments eligible for camp restoration: uui
+PASS normal death clears carried chip cargo, retains base storage and equipped clean roster chip: uui
+PASS full-grid and full-storage fixture has no output destination
+PASS blocked output rolls back candidate spending instead of destroying fragments
+PASS unknown/Serin restoration is excluded

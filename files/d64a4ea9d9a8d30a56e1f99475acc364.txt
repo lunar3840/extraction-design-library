@@ -1,0 +1,196 @@
+before shader path=Assets/Escape/Art/SurfaceWeathering/WeatheredLit.shader count=70
+_WeatherStrength
+_WeatherRust
+_WeatherDirt
+_WeatherStreaks
+_WeatherMoss
+_WeatherFading
+_WeatherScale
+_WeatherSeed
+_WeatherMinY
+_WeatherHeight
+_WeatherMaterial
+_WeatherPreserveD09
+_D09WeatherTint
+_D09WeatherAmount
+_D09WeatherScale
+_D09RainAmount
+_D09FootDamp
+_D09MapContrast
+_D09MapMean
+_D09AgeSeed
+fresh strength=0.65 D09=True
+after forceimport shader path=Assets/Escape/Art/SurfaceWeathering/WeatheredLit.shader count=70
+_WeatherStrength
+_WeatherRust
+_WeatherDirt
+_WeatherStreaks
+_WeatherMoss
+_WeatherFading
+_WeatherScale
+_WeatherSeed
+_WeatherMinY
+_WeatherHeight
+_WeatherMaterial
+_WeatherPreserveD09
+_D09WeatherTint
+_D09WeatherAmount
+_D09WeatherScale
+_D09RainAmount
+_D09FootDamp
+_D09MapContrast
+_D09MapMean
+_D09AgeSeed
+fresh strength=0.65 D09=True
+copy source then assign shader shader=Escape/Environment/Weathered Lit path=Assets/Escape/Art/SurfaceWeathering/WeatheredLit.shader count=70 D09=True strength=0
+copy properties shader=Escape/Environment/Weathered Lit path=Assets/Escape/Art/SurfaceWeathering/WeatheredLit.shader count=70 D09=False strength=0
+set strength shader=Escape/Environment/Weathered Lit path=Assets/Escape/Art/SurfaceWeathering/WeatheredLit.shader count=70 D09=False strength=0.65
+fresh then copy shader=Escape/Environment/Weathered Lit path=Assets/Escape/Art/SurfaceWeathering/WeatheredLit.shader count=70 D09=False strength=0.65
+after create shader=Escape/Environment/Weathered Lit path=Assets/Escape/Art/SurfaceWeathering/WeatheredLit.shader count=70 D09=True strength=0
+after save shader=Escape/Environment/Weathered Lit path=Assets/Escape/Art/SurfaceWeathering/WeatheredLit.shader count=70 D09=True strength=0.65
+YAML=%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DiagnosticTemporary
+  m_Shader: {fileID: 4800000, guid: 969f13e7a398ce848b7493896bc7dd79, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    RenderType: Opaque
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 20457f5d65bd37f448e03895e613f311, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 20457f5d65bd37f448e03895e613f311, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AddPrecomputedVelocity: 0
+    - _AlphaClip: 0
+    - _AlphaToMask: 0
+    - _Blend: 0
+    - _BlendModePreserveSpecular: 1
+    - _BumpScale: 1
+    - _ClearCoatMask: 0
+    - _ClearCoatSmoothness: 0
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _D09AgeSeed: 0
+    - _D09FootDamp: 0.3
+    - _D09MapContrast: 0.8
+    - _D09RainAmount: 0.35
+    - _D09WeatherAmount: 0.5
+    - _D09WeatherScale: 5.5
+    - _DetailAlbedoMapScale: 1
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _DstBlendAlpha: 0
+    - _EnvironmentReflections: 1
+    - _GlossMapScale: 0
+    - _Glossiness: 0
+    - _GlossyReflections: 0
+    - _Metallic: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.005
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _Smoothness: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _SrcBlendAlpha: 1
+    - _Surface: 0
+    - _WeatherDirt: 0.3
+    - _WeatherFading: 0.25
+    - _WeatherHeight: 1
+    - _WeatherMaterial: 0
+    - _WeatherMinY: 0
+    - _WeatherMoss: 0.08
+    - _WeatherPreserveD09: 0
+    - _WeatherRust: 0.3
+    - _WeatherScale: 1.5
+    - _WeatherSeed: 731
+    - _WeatherStreaks: 0.35
+    - _WeatherStrength: 0.65
+    - _WorkflowMode: 1
+    - _XRMotionVectorsPass: 1
+    - _ZWrite: 1
+    m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _D09MapMean: {r: 0.25, g: 0.25, b: 0.23, a: 1}
+    - _D09WeatherTint: {r: 0.45, g: 0.43, b: 0.34, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+
+after import shader=Escape/Environment/Weathered Lit path=Assets/Escape/Art/SurfaceWeathering/WeatheredLit.shader count=70 D09=True strength=0.65
+actual preview shader=Escape/Environment/Weathered Lit path=Assets/Escape/Art/SurfaceWeathering/WeatheredLit.shader count=70 D09=False strength=0.32

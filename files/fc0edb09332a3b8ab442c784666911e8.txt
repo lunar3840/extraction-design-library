@@ -1,0 +1,4 @@
+source=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity
+copy=Assets/Escape/Art/SurfaceIvy/Audit_OpenScene.unity
+identical=True
+roots=StageA_Relay_Blockout_v08;Edit overview camera;Edit overview light;Press Play - isolated A v08 preview

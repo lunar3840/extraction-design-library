@@ -1,0 +1,363 @@
+{
+  "scope": "Narrow Edel braid seam/kink and skin-lighting correction. Broader all-motion hair clearance remains REVIEW.",
+  "candidate": "C10: C3 inward seam binding +24degree joint continuity +Edel-specific idle direction adaptation",
+  "beforeAdjacentCorrectionDegrees": [
+    52.12943963690304,
+    53.54692127336642,
+    0.9981167011856653
+  ],
+  "beforeOpenedCoincidentGroups": 57,
+  "beforeMaximumGapMm": 159.0467,
+  "nativeSurfaceProofs": [
+    {
+      "tag": "r26_braidshade_c10_skin",
+      "sourceFingerprintEqual": true,
+      "sourcePositionsEqual": true,
+      "sourceWeightsEqual": true,
+      "uv0Equal": true,
+      "topologyMaterialsEqual": true,
+      "outsideRegionWeightsEqual": true,
+      "openedCoincidentGroups": 0,
+      "maxCoincidentGapMm": 0,
+      "rows": [],
+      "limits": "Native exported surface seam check only; visual shape and collision results require separate review.",
+      "adjacentCorrectionDegrees": [
+        19.873805855904624,
+        23.20224822672932,
+        22.462745435483036
+      ]
+    },
+    {
+      "tag": "r26_braidshade_c10_curious_skin",
+      "sourceFingerprintEqual": true,
+      "sourcePositionsEqual": true,
+      "sourceWeightsEqual": true,
+      "uv0Equal": true,
+      "topologyMaterialsEqual": true,
+      "outsideRegionWeightsEqual": true,
+      "openedCoincidentGroups": 0,
+      "maxCoincidentGapMm": 0,
+      "rows": [],
+      "limits": "Native exported surface seam check only; visual shape and collision results require separate review.",
+      "adjacentCorrectionDegrees": [
+        23.118448610863133,
+        23.26041147605283,
+        14.580079964903003
+      ]
+    },
+    {
+      "tag": "r26_braidshade_c10_joy_skin",
+      "sourceFingerprintEqual": true,
+      "sourcePositionsEqual": true,
+      "sourceWeightsEqual": true,
+      "uv0Equal": true,
+      "topologyMaterialsEqual": true,
+      "outsideRegionWeightsEqual": true,
+      "openedCoincidentGroups": 0,
+      "maxCoincidentGapMm": 0,
+      "rows": [],
+      "limits": "Native exported surface seam check only; visual shape and collision results require separate review.",
+      "adjacentCorrectionDegrees": [
+        22.943186630658726,
+        23.63913929249882,
+        23.993635683823396
+      ]
+    },
+    {
+      "tag": "r26_braidshade_c10_inspection_skin",
+      "sourceFingerprintEqual": true,
+      "sourcePositionsEqual": true,
+      "sourceWeightsEqual": true,
+      "uv0Equal": true,
+      "topologyMaterialsEqual": true,
+      "outsideRegionWeightsEqual": true,
+      "openedCoincidentGroups": 0,
+      "maxCoincidentGapMm": 0,
+      "rows": [],
+      "limits": "Native exported surface seam check only; visual shape and collision results require separate review.",
+      "adjacentCorrectionDegrees": [
+        23.954877046547246,
+        23.208824685764853,
+        6.272759136585331
+      ]
+    },
+    {
+      "tag": "r26_braidshade_c10_shy_skin",
+      "sourceFingerprintEqual": true,
+      "sourcePositionsEqual": true,
+      "sourceWeightsEqual": true,
+      "uv0Equal": true,
+      "topologyMaterialsEqual": true,
+      "outsideRegionWeightsEqual": true,
+      "openedCoincidentGroups": 0,
+      "maxCoincidentGapMm": 0,
+      "rows": [],
+      "limits": "Native exported surface seam check only; visual shape and collision results require separate review.",
+      "adjacentCorrectionDegrees": [
+        15.02638918528164,
+        11.473619580690931,
+        7.733515883659708
+      ]
+    },
+    {
+      "tag": "r26_braidshade_c10_live",
+      "sourceFingerprintEqual": true,
+      "sourcePositionsEqual": true,
+      "sourceWeightsEqual": true,
+      "uv0Equal": true,
+      "topologyMaterialsEqual": true,
+      "outsideRegionWeightsEqual": true,
+      "openedCoincidentGroups": 0,
+      "maxCoincidentGapMm": 0,
+      "rows": [],
+      "limits": "Native exported surface seam check only; visual shape and collision results require separate review.",
+      "adjacentCorrectionDegrees": [
+        23.628386766638695,
+        22.734370635590015,
+        6.473941725210414
+      ]
+    }
+  ],
+  "continuousSamples": {
+    "curious": [
+      {
+        "phase": 0.15000000596046448,
+        "newPairs": 0,
+        "authoredPairs": 0,
+        "unknown": 0
+      },
+      {
+        "phase": 0.30000001192092896,
+        "newPairs": 0,
+        "authoredPairs": 0,
+        "unknown": 0
+      },
+      {
+        "phase": 0.5,
+        "newPairs": 0,
+        "authoredPairs": 4,
+        "unknown": 0
+      },
+      {
+        "phase": 0.699999988079071,
+        "newPairs": 0,
+        "authoredPairs": 1,
+        "unknown": 0
+      },
+      {
+        "phase": 0.8500000238418579,
+        "newPairs": 0,
+        "authoredPairs": 0,
+        "unknown": 0
+      },
+      {
+        "phase": 1.0,
+        "newPairs": 0,
+        "authoredPairs": 0,
+        "unknown": 0
+      }
+    ],
+    "joy": [
+      {
+        "phase": 0.15000000596046448,
+        "newPairs": 0,
+        "authoredPairs": 0,
+        "unknown": 0
+      },
+      {
+        "phase": 0.30000001192092896,
+        "newPairs": 0,
+        "authoredPairs": 1,
+        "unknown": 0
+      },
+      {
+        "phase": 0.5,
+        "newPairs": 0,
+        "authoredPairs": 1,
+        "unknown": 0
+      },
+      {
+        "phase": 0.699999988079071,
+        "newPairs": 0,
+        "authoredPairs": 1,
+        "unknown": 0
+      },
+      {
+        "phase": 0.8500000238418579,
+        "newPairs": 4,
+        "authoredPairs": 0,
+        "unknown": 0
+      },
+      {
+        "phase": 1.0,
+        "newPairs": 0,
+        "authoredPairs": 0,
+        "unknown": 0
+      }
+    ],
+    "inspection": [
+      {
+        "phase": 0.15000000596046448,
+        "newPairs": 6,
+        "authoredPairs": 0,
+        "unknown": 0
+      },
+      {
+        "phase": 0.30000001192092896,
+        "newPairs": 0,
+        "authoredPairs": 1,
+        "unknown": 0
+      },
+      {
+        "phase": 0.5,
+        "newPairs": 0,
+        "authoredPairs": 1,
+        "unknown": 0
+      },
+      {
+        "phase": 0.699999988079071,
+        "newPairs": 0,
+        "authoredPairs": 1,
+        "unknown": 0
+      },
+      {
+        "phase": 0.8500000238418579,
+        "newPairs": 0,
+        "authoredPairs": 1,
+        "unknown": 0
+      },
+      {
+        "phase": 1.0,
+        "newPairs": 0,
+        "authoredPairs": 1,
+        "unknown": 0
+      }
+    ],
+    "shy_sweep": [
+      {
+        "phase": 0.15000000596046448,
+        "newPairs": 0,
+        "authoredPairs": 1,
+        "unknown": 0
+      },
+      {
+        "phase": 0.30000001192092896,
+        "newPairs": 0,
+        "authoredPairs": 1,
+        "unknown": 0
+      },
+      {
+        "phase": 0.5,
+        "newPairs": 0,
+        "authoredPairs": 2,
+        "unknown": 0
+      },
+      {
+        "phase": 0.699999988079071,
+        "newPairs": 0,
+        "authoredPairs": 2,
+        "unknown": 0
+      },
+      {
+        "phase": 0.8500000238418579,
+        "newPairs": 0,
+        "authoredPairs": 2,
+        "unknown": 0
+      },
+      {
+        "phase": 1.0,
+        "newPairs": 0,
+        "authoredPairs": 2,
+        "unknown": 0
+      }
+    ]
+  },
+  "staticSamples": {
+    "skin": {
+      "newMovableInteriorIntersections": 0,
+      "authoredMovableInteriorIntersections": 0,
+      "newUnclassifiedInteriorIntersections": 0,
+      "newRootProxyMovedIntersections": 0
+    },
+    "curious_skin": {
+      "newMovableInteriorIntersections": 0,
+      "authoredMovableInteriorIntersections": 3,
+      "newUnclassifiedInteriorIntersections": 0,
+      "newRootProxyMovedIntersections": 0
+    },
+    "joy_skin": {
+      "newMovableInteriorIntersections": 0,
+      "authoredMovableInteriorIntersections": 0,
+      "newUnclassifiedInteriorIntersections": 0,
+      "newRootProxyMovedIntersections": 0
+    },
+    "inspection_skin": {
+      "newMovableInteriorIntersections": 0,
+      "authoredMovableInteriorIntersections": 2,
+      "newUnclassifiedInteriorIntersections": 0,
+      "newRootProxyMovedIntersections": 0
+    },
+    "stretch": {
+      "newMovableInteriorIntersections": 0,
+      "authoredMovableInteriorIntersections": 0,
+      "newUnclassifiedInteriorIntersections": 0,
+      "newRootProxyMovedIntersections": 0
+    },
+    "shy": {
+      "newMovableInteriorIntersections": 29,
+      "authoredMovableInteriorIntersections": 1,
+      "newUnclassifiedInteriorIntersections": 0,
+      "newRootProxyMovedIntersections": 0
+    },
+    "shy_skin": {
+      "newMovableInteriorIntersections": 0,
+      "authoredMovableInteriorIntersections": 2,
+      "newUnclassifiedInteriorIntersections": 0,
+      "newRootProxyMovedIntersections": 0
+    },
+    "neck": {
+      "newMovableInteriorIntersections": 0,
+      "authoredMovableInteriorIntersections": 4,
+      "newUnclassifiedInteriorIntersections": 0,
+      "newRootProxyMovedIntersections": 0
+    },
+    "surprise": {
+      "newMovableInteriorIntersections": 0,
+      "authoredMovableInteriorIntersections": 0,
+      "newUnclassifiedInteriorIntersections": 0,
+      "newRootProxyMovedIntersections": 0
+    },
+    "determined": {
+      "newMovableInteriorIntersections": 0,
+      "authoredMovableInteriorIntersections": 2,
+      "newUnclassifiedInteriorIntersections": 0,
+      "newRootProxyMovedIntersections": 0
+    }
+  },
+  "skin": {
+    "scope": "Edel skin shading only; hair candidates rejected and production Hair restored to EC7BF1",
+    "sourceFingerprintEqual": true,
+    "uv0Equal": true,
+    "sourcePositionsEqual": true,
+    "sourceWeightsEqual": true,
+    "topologyMaterialsEqual": true,
+    "currentNormalsEqual": true,
+    "headImageRectangle": [
+      0,
+      0,
+      768,
+      350
+    ],
+    "headRectanglePixelDifferences": 2593,
+    "sourceFbxSha256": "779ED67BABB89920E190573C05E63FAF484111A1A46A16C5861CB4E536F4949B",
+    "productionHairSha256": "EC7BF1BE6DD556F15E9DAF989D39DC29570207FE58FADFBA0A40D13E3B288F72",
+    "limits": "No player build performed for new skin shader; Unity Editor actual rendering verified. Exact comparison rectangle covers head hair only, not complete animated braid. UV4 is the new shader mask stream, UV0 is preserved. New hair continuity candidates did not pass visual/collision acceptance."
+  },
+  "limits": [
+    "Sampled surfaces and actual screenshots, not all-frame or closed-volume clearance certification.",
+    "Joy transition sample4 still has4 new triangle pairs; Inspection entry sample0 has6. Sequential Shy peak first had29, fresh Shy sweep0/0/0/0/0/0. These are not erased or waived.",
+    "No Player build performed for new skin shader.",
+    "One diagnostic export reused an occupied output path and was correctly refused; retried with a fresh file. This was an evidence-file guard, not an in-game exception.",
+    "Original atlas contains a small pink patch on braid UV around(.49,.90); source texture was not repainted in this task."
+  ]
+}

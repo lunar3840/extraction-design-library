@@ -1,0 +1,286 @@
+{
+  "currency": "Tripo Studio credits",
+  "spending_cap": 2000,
+  "target_spend": null,
+  "user_reported_starting_balance": 3200,
+  "verified_starting_balance": 3200,
+  "verified_current_balance": 2750,
+  "confirmed_spend": 450,
+  "pending_exposure": 0,
+  "remaining_authorized_cap": 1550,
+  "actions": [
+    {
+      "asset": "YardWall_3m_v01",
+      "operation": "HD H3.1 geometry and texture, single image, private, no 8K",
+      "quoted_cost": 55,
+      "confirmed_cost": 55,
+      "status": "complete_in_tripo",
+      "task_id": "553852e7-21e4-4c53-be55-23d1467e9f8a",
+      "faces": 1897800,
+      "evidence": "before_wall_generation.jpg"
+    },
+    {
+      "asset": "YardWall_3m_v01_Low",
+      "operation": "Basic triangle retopology, smart mesh off, 10000 target faces",
+      "quoted_cost": 5,
+      "confirmed_cost": 5,
+      "status": "complete_in_tripo",
+      "task_id": "553852e7-21e4-4c53-be55-23d1467e9f8a",
+      "faces_ui_verified": 10000,
+      "vertices_ui_verified": 8169,
+      "evidence": "after_wall_10k_tripo.jpg",
+      "additional_views": [
+        "after_wall_tripo_angle.jpg",
+        "after_wall_tripo_back.jpg"
+      ]
+    },
+    {
+      "asset": "ServiceFacade_3m_v01",
+      "service_title": "industrial machinery 3d model",
+      "operation": "HD H3.1, single image, private, ultra off, AI enhancement off, 2K, PBR and delight on, triangles target 10000",
+      "quoted_cost": 30,
+      "confirmed_cost": 30,
+      "status": "complete_in_tripo",
+      "task_id": "224e9db7-e95b-4a63-9d7d-eb9d6ed4011c",
+      "faces_ui_verified": 8704,
+      "vertices_ui_verified": 7636,
+      "evidence": "after_facade_tripo_front.jpg",
+      "additional_views": [
+        "after_facade_tripo_angle.jpg",
+        "after_facade_tripo_back.jpg"
+      ]
+    },
+    {
+      "asset": "DrainHeadwall_5m_v01",
+      "service_title": "sluice gate 3d model",
+      "operation": "HD H3.1, single image, private, ultra off, AI enhancement off, 2K, PBR and delight on, triangles target 6000",
+      "quoted_cost": 30,
+      "confirmed_cost": 30,
+      "status": "complete_in_tripo",
+      "task_id": "da8a1e9c-e9b1-40a2-9fac-75bcff992d89",
+      "faces_ui_verified": 5060,
+      "vertices_ui_verified": 4320,
+      "evidence": "after_drain_tripo_front.jpg",
+      "additional_views": [
+        "after_drain_tripo_angle.jpg",
+        "after_drain_tripo_back.jpg"
+      ]
+    },
+    {
+      "asset": "LoadingDock_5m",
+      "service_title": "industrial platform 3d model",
+      "operation": "HD H3.1, single image, private, ultra off, AI enhancement off, 2K, PBR and delight on, triangles",
+      "target_faces": 8000,
+      "quoted_cost": 30,
+      "confirmed_cost": 30,
+      "status": "complete_in_tripo",
+      "task_id": "7c202f3a-a745-4ba8-9263-627bf38510f7",
+      "faces_ui_verified": 7409,
+      "vertices_ui_verified": 4785,
+      "before_settings": "before_dock_settings.png",
+      "before_generation": "before_dock_generation.png",
+      "evidence": "after_dock_tripo_front.png",
+      "additional_views": [
+        "after_dock_tripo_angle.png",
+        "after_dock_tripo_back.png"
+      ]
+    },
+    {
+      "asset": "CantileverCanopy_5m",
+      "service_title": "industrial metal platform 3d model",
+      "operation": "HD H3.1, single image, private, ultra off, AI enhancement off, 2K, PBR and delight on, triangles",
+      "target_faces": 8000,
+      "quoted_cost": 30,
+      "confirmed_cost": 30,
+      "status": "complete_in_tripo",
+      "task_id": "975c1ed8-df8d-4853-8752-c3aaf5197cf7",
+      "faces_ui_verified": 6073,
+      "vertices_ui_verified": 5658,
+      "before_settings": "before_canopy_settings.png",
+      "before_generation": "before_canopy_generation.png",
+      "evidence": "after_canopy_tripo_front.png",
+      "additional_views": [
+        "after_canopy_tripo_angle.png",
+        "after_canopy_tripo_back.png"
+      ]
+    },
+    {
+      "asset": "MaintenancePortal_5m",
+      "service_title": "rusted metal archway 3d model",
+      "operation": "HD H3.1, single image, private, ultra off, AI enhancement off, 2K, PBR and delight on, triangles",
+      "target_faces": 10000,
+      "quoted_cost": 30,
+      "confirmed_cost": 30,
+      "status": "complete_in_tripo",
+      "task_id": "004a83be-6be0-4ca7-a5aa-71909c78d835",
+      "faces_ui_verified": 8110,
+      "vertices_ui_verified": 7084,
+      "before_settings": "before_portal_settings.png",
+      "before_generation": "before_portal_generation.png",
+      "evidence": "after_portal_tripo_front.png",
+      "additional_views": [
+        "after_portal_tripo_angle.png",
+        "after_portal_tripo_back.png"
+      ]
+    },
+    {
+      "asset": "RoofWaterTank_3m",
+      "service_title": "industrial silo 3d model",
+      "operation": "HD H3.1, single image, private, ultra off, AI enhancement off, 2K, PBR and delight on, triangles",
+      "target_faces": 8000,
+      "quoted_cost": 30,
+      "confirmed_cost": 30,
+      "status": "complete_in_tripo",
+      "task_id": "04908742-ee47-4975-b150-51837c6c3fac",
+      "faces_ui_verified": 7344,
+      "vertices_ui_verified": 5341,
+      "before_settings": "before_tank_settings.png",
+      "before_generation": "before_tank_generation.png",
+      "evidence": "after_tank_tripo_front.png",
+      "additional_views": [
+        "after_tank_tripo_angle2.png",
+        "after_tank_tripo_back.png"
+      ]
+    },
+    {
+      "asset": "TurbineCradle_5m",
+      "service_title": "industrial turbine 3d model",
+      "operation": "HD H3.1, single image, private, ultra off, AI enhancement off, 2K, PBR and delight on, triangles",
+      "target_faces": 16000,
+      "quoted_cost": 30,
+      "confirmed_cost": 30,
+      "status": "complete_in_tripo",
+      "task_id": "84f4c10f-d378-4de1-a981-a26b0558943e",
+      "faces_ui_verified": 14756,
+      "vertices_ui_verified": 12975,
+      "before_settings": "before_turbine_settings.png",
+      "before_generation": "before_turbine_generation.png",
+      "evidence": "after_turbine_tripo_front.png",
+      "additional_views": [
+        "after_turbine_tripo_angle.png",
+        "after_turbine_tripo_back.png"
+      ]
+    },
+    {
+      "asset": "MachinePowerCoupler_3m",
+      "service_title": "rusted industrial machine 3d model",
+      "operation": "HD H3.1, single image, private, ultra off, AI enhancement off, 2K, PBR and delight on, triangles",
+      "target_faces": 10000,
+      "quoted_cost": 30,
+      "confirmed_cost": 30,
+      "status": "complete_in_tripo",
+      "task_id": "1955ddca-9131-4afe-b4dd-be200266d924",
+      "faces_ui_verified": 9296,
+      "vertices_ui_verified": 7408,
+      "before_settings": "before_coupler_settings.png",
+      "before_generation": "before_coupler_generation.png",
+      "evidence": "after_coupler_tripo_front.png",
+      "additional_views": [
+        "after_coupler_tripo_angle.png",
+        "after_coupler_tripo_back.png"
+      ]
+    },
+    {
+      "asset": "ReclamationBasin_6m",
+      "service_title": "concrete drainage trough 3d model",
+      "operation": "HD H3.1, single image, private, ultra off, AI enhancement off, 2K, PBR and delight on, triangles",
+      "target_faces": 10000,
+      "quoted_cost": 30,
+      "confirmed_cost": 30,
+      "status": "complete_in_tripo",
+      "task_id": "3fcf94a6-93da-4792-9d12-86bac517bb4f",
+      "faces_ui_verified": 8336,
+      "vertices_ui_verified": 6711,
+      "before_settings": "before_basin_settings.png",
+      "before_generation": "before_basin_generation.png",
+      "evidence": "after_basin_tripo_front.png",
+      "additional_views": [
+        "after_basin_tripo_angle.png",
+        "after_basin_tripo_back.png"
+      ]
+    },
+    {
+      "asset": "ClinicPlasterCorner_3m",
+      "service_title": "ruined wall section 3d model",
+      "operation": "HD H3.1 single image private; ultra off, AI enhancement off, 2K, delight and PBR on, triangles",
+      "target_faces": 10000,
+      "quoted_cost": 30,
+      "confirmed_cost": 30,
+      "status": "complete_in_tripo",
+      "task_id": "09040bd6-a1c2-4463-8eb8-374f0dbf63a8",
+      "faces_ui_verified": 7607,
+      "vertices_ui_verified": 5301,
+      "before_generation": "batch2/before_clinic_generation.png",
+      "evidence": "batch2/after_clinic_tripo_front.png",
+      "additional_views": [
+        "batch2/after_clinic_tripo_angle.png",
+        "batch2/after_clinic_tripo_back.png"
+      ]
+    },
+    {
+      "asset": "YardGateShoulder_2m",
+      "service_title": "metal gate 3d model",
+      "operation": "HD H3.1 single image private; ultra off, AI enhancement off, 2K, delight and PBR on, triangles",
+      "target_faces": 8000,
+      "quoted_cost": 30,
+      "confirmed_cost": 30,
+      "status": "complete_in_tripo",
+      "task_id": "f3e5adf6-95a2-4aac-9d98-e007bc4c230c",
+      "faces_ui_verified": 5834,
+      "vertices_ui_verified": 5484,
+      "before_generation": "batch2/before_shoulder_generation.png",
+      "evidence": "batch2/after_shoulder_tripo_front.png",
+      "additional_views": [
+        "batch2/after_shoulder_tripo_angle.png",
+        "batch2/after_shoulder_tripo_back.png"
+      ]
+    },
+    {
+      "asset": "BoundaryJunctionPier_2m",
+      "service_title": "concrete pillar 3d model",
+      "operation": "HD H3.1 single image private; ultra off, AI enhancement off, 2K, delight and PBR on, triangles",
+      "target_faces": 4000,
+      "quoted_cost": 30,
+      "confirmed_cost": 30,
+      "status": "complete_in_tripo",
+      "task_id": "6cde2c58-c083-4a54-95b7-e8cb76a0e4e3",
+      "faces_ui_verified": 3372,
+      "vertices_ui_verified": 2307,
+      "before_generation": "batch2/before_pier_generation.png",
+      "evidence": "batch2/after_pier_tripo_front.png",
+      "additional_views": [
+        "batch2/after_pier_tripo_angle.png",
+        "batch2/after_pier_tripo_back.png"
+      ]
+    },
+    {
+      "asset": "IndustrialMasonryBay_3m",
+      "service_title": "concrete brick wall 3d model",
+      "operation": "HD H3.1 single image private; ultra off, AI enhancement off, 2K, delight and PBR on, triangles",
+      "target_faces": 8000,
+      "quoted_cost": 30,
+      "confirmed_cost": 30,
+      "status": "complete_in_tripo",
+      "task_id": "d0527d7e-4760-48e3-85f7-06c58a1835e7",
+      "faces_ui_verified": 7546,
+      "vertices_ui_verified": 4818,
+      "before_generation": "batch2/before_masonry_generation.png",
+      "evidence": "batch2/after_masonry_tripo_front.png",
+      "additional_views": [
+        "batch2/after_masonry_tripo_angle.png",
+        "batch2/after_masonry_tripo_back.png"
+      ]
+    }
+  ],
+  "export": {
+    "requested_filename": "D05_YardWall_10k_1k_v01",
+    "format": "GLB",
+    "texture_resolution_selected": "1k",
+    "status": "user_will_download_per_latest_request",
+    "local_model_verified": false,
+    "unity_imported": false,
+    "unity_placed": false,
+    "scope": "All 14 model types; user handles download. See MODEL_HANDOFF.md. No Unity import or placement."
+  },
+  "note": "14 distinct model types complete in Tripo (original3 + expansion7 + batch2 4). All D05 operations total450, balance2750, authorized remaining cap1550. Latestbatch120. No binary GLB download/validation or Unity import/placement this turn. 90degree YardCorner concept was not modeled; generic junctionpier substituted following measured V33 angles. Existinglowruinwall and wiremesh shoulder excluded/deferred as redundant or unverified. UI counts and rotations are not actual mesh/UV/size/collision/performance validation."
+}

@@ -1,0 +1,182 @@
+{
+  "status": "saved_in_figma_final_visible_hud_review_passed",
+  "date": "2026-10-22",
+  "fileKey": "KUD4t84BL1S77c3cnb8co0",
+  "pageId": "11:711",
+  "previewId": "69:2948",
+  "previousRevision": "../figma-rounded-icons-stronger/design-system-state.json",
+  "scope": "HUD large corner radius refinement; editable source components and existing HUD compositions",
+  "direction": "ARC reference interpreted as rounded compact modules, without retro palette or decorations; radii are project choices, not measured ARC values",
+  "appliedManually": {
+    "quickSlot": {
+      "id": "55:1184",
+      "size": [
+        80,
+        80
+      ],
+      "radius": 32,
+      "before": 18
+    },
+    "quickKey": {
+      "id": "64:1484",
+      "size": [
+        24,
+        24
+      ],
+      "radius": 12,
+      "before": 8
+    },
+    "weapons": {
+      "ids": [
+        "55:1103",
+        "55:1112",
+        "55:1121",
+        "55:1130"
+      ],
+      "radius": 32,
+      "before": 3,
+      "selectedEdgeX": 32,
+      "selectedEdgeBeforeX": 12
+    },
+    "interaction": {
+      "ids": [
+        "55:1193",
+        "55:1201",
+        "55:1209"
+      ],
+      "size": [
+        296,
+        80
+      ],
+      "radius": 40,
+      "beforeRadius": 14,
+      "paddingX": 20,
+      "beforePaddingX": 12,
+      "paddingY": 8,
+      "gap": 12,
+      "childRowsWidth": 256,
+      "beforeChildRowsWidth": 272,
+      "dividerWidth": 256,
+      "dividerX": 12,
+      "dividerY": 38
+    },
+    "interactionKeys": {
+      "ids": [
+        "64:1541",
+        "64:1549",
+        "64:1557"
+      ],
+      "size": [
+        28,
+        28
+      ],
+      "radius": 14,
+      "before": 9
+    },
+    "conditions": {
+      "componentSetId": "55:1230",
+      "variants": 3,
+      "size": [
+        112,
+        40
+      ],
+      "radius": 20,
+      "before": 2
+    },
+    "objectivePanels": {
+      "rootId": "64:1713",
+      "childNames": [
+        "Tracked objective · fine divisions",
+        "Extraction availability"
+      ],
+      "radius": 32,
+      "before": 3,
+      "visualExfilClamp": 22
+    },
+    "navigation": {
+      "rootId": "64:1577",
+      "clockRadius": 22,
+      "areaBackingRadius": 16,
+      "areaTextAlign": "CENTER",
+      "clockSpacing": "Auto / space between",
+      "clockNumberAlignmentRestored": true
+    },
+    "abilityCaption": {
+      "componentSetId": "55:1183",
+      "variants": 4,
+      "captionSize": [
+        128,
+        48
+      ],
+      "captionRadius": 24,
+      "before": 3,
+      "unfilledSkillContainerRadius": 24
+    },
+    "carryBackings": {
+      "compositions": [
+        "13:708",
+        "13:855",
+        "13:1423",
+        "69:2948"
+      ],
+      "name": "Carry weight · contrast backing",
+      "count": 4,
+      "size": [
+        244,
+        32
+      ],
+      "radius": 16,
+      "before": 3
+    },
+    "companionHeaders": {
+      "compositions": [
+        "13:708",
+        "13:855",
+        "13:1423",
+        "69:2948"
+      ],
+      "name": "Manifest identity · companion",
+      "count": 4,
+      "size": [
+        300,
+        56
+      ],
+      "radius": 28,
+      "before": 3
+    }
+  },
+  "preserved": {
+    "survivalSize": 112,
+    "survivalNumbers": false,
+    "bottomUpFill": true,
+    "hpStaminaAboveCharacter": true,
+    "textSizesAndContrast": true,
+    "abilityKeyRadius": 8,
+    "portraitRadius": 8,
+    "quickRowsWidth": 338,
+    "quickGap": 6,
+    "vectorCornerRadiusFromPreviousRevision": 2.2
+  },
+  "proof": {
+    "before": "before_project_native.png",
+    "after": "after_project_native.png",
+    "previousActualExport": "before_previous_export.png",
+    "intermediateActualExport": "after_project_backdrop.png",
+    "finalActualExport": "after_project_final.png",
+    "review": "visual-audit.md",
+    "record": "CHANGE_RECORD.md"
+  },
+  "unityModified": false,
+  "appsRestartedOrClosed": false,
+  "validation": {
+    "review": "PASS",
+    "scope": "actual final 1920x1080 normal HUD export, clipping/legibility/rounding",
+    "clockDigitBoundsBeforeAndFinal": [
+      209,
+      365,
+      262,
+      384
+    ],
+    "allRuntimeStatesVerified": false
+  }
+}
