@@ -1,0 +1,59 @@
+Unified Figma UI actual-screen route after / 1600x900
+UTC=2026-10-22T22:52:43.0789049Z; seed=20261023; route version=2026-10-23-rig
+Library-only save=C:\UnityProject\escape\Library\UnifiedUiEvidence\after-1600x900-eefbbfb27dd54aebba7077c431215833; previous override=<null>
+No scene asset save/open, app Exit, Play start/automatic stop, normal-profile load/write, fake keyboard, or medical-wheel restoration.
+Screenshots prove presentation of API-prepared runtime states, not native input correctness. Inspect every PNG before claiming visual success.
+SKIP removed medical wheel and quickslot bar by latest chest-rig policy; replaced by rig recommendation/treatment/status screens.
+Operation timers use real monotonic time, not synthetic future times. Framing/layout/seed match; elapsed seconds can differ slightly.
+PASS geometry operator inside actual logical canvas
+PASS geometry portrait inside actual logical canvas
+PASS geometry carried inside actual logical canvas
+PASS geometry context inside actual logical canvas
+PASS geometry rig/backpack inside carried panel
+PASS geometry rig above backpack without overlap
+PASS geometry deleted quickslot bar remains absent
+PASS geometry two-weapon HUD inside screen
+PASS geometry separate HP/stamina directly adjacent
+Geometry checks do not prove text fit, contrast, visual fidelity or native input.
+CAPTURE after_title_1600x900.png bytes=1024345 verified PNG dimensions=1600x900
+CAPTURE after_new_slots_1600x900.png bytes=908289 verified PNG dimensions=1600x900
+CAPTURE after_load_slots_empty_1600x900.png bytes=907284 verified PNG dimensions=1600x900
+CAPTURE after_new_slot_confirmation_1600x900.png bytes=909008 verified PNG dimensions=1600x900
+CAPTURE after_loading_1600x900.png bytes=961882 verified PNG dimensions=1600x900
+Fixture seeded by public APIs only: unchanged starter backpack; rig injector verified; extra tier examples in isolated storage.
+CAPTURE after_camp_hud_1600x900.png bytes=1060465 verified PNG dimensions=1600x900
+CAPTURE after_lobby_1600x900.png bytes=866398 verified PNG dimensions=1600x900
+CAPTURE after_inventory_1600x900.png bytes=619566 verified PNG dimensions=1600x900
+CAPTURE after_inventory_side_1600x900.png bytes=627819 verified PNG dimensions=1600x900
+CAPTURE after_inventory_medical_1600x900.png bytes=677815 verified PNG dimensions=1600x900
+CAPTURE after_weapon_modding_1600x900.png bytes=741158 verified PNG dimensions=1600x900
+CAPTURE after_storage_1600x900.png bytes=683490 verified PNG dimensions=1600x900
+CAPTURE after_storage_details_1600x900.png bytes=728679 verified PNG dimensions=1600x900
+CAPTURE after_supply_1600x900.png bytes=691184 verified PNG dimensions=1600x900
+CAPTURE after_research_1600x900.png bytes=817817 verified PNG dimensions=1600x900
+CAPTURE after_companion_abilities_1600x900.png bytes=918256 verified PNG dimensions=1600x900
+CAPTURE after_chip_recovery_1600x900.png bytes=866874 verified PNG dimensions=1600x900
+CAPTURE after_quests_1600x900.png bytes=876599 verified PNG dimensions=1600x900
+CAPTURE after_save_records_1600x900.png bytes=1104696 verified PNG dimensions=1600x900
+CAPTURE after_departure_1600x900.png bytes=1020249 verified PNG dimensions=1600x900
+CAPTURE after_departing_1600x900.png bytes=967164 verified PNG dimensions=1600x900
+CAPTURE after_combat_hud_1600x900.png bytes=2320292 verified PNG dimensions=1600x900
+CAPTURE after_medical_recommendation_1600x900.png bytes=2318984 verified PNG dimensions=1600x900
+CAPTURE after_medical_treatment_1600x900.png bytes=2319440 verified PNG dimensions=1600x900
+CAPTURE after_medical_status_1600x900.png bytes=2325270 verified PNG dimensions=1600x900
+CAPTURE after_loot_prompt_group_1600x900.png bytes=2316004 verified PNG dimensions=1600x900
+CAPTURE after_loot_search_1600x900.png bytes=669280 verified PNG dimensions=1600x900
+CAPTURE after_loot_revealed_1600x900.png bytes=746837 verified PNG dimensions=1600x900
+CAPTURE after_tactical_map_1600x900.png bytes=1559513 verified PNG dimensions=1600x900
+CAPTURE after_extraction_1600x900.png bytes=2480303 verified PNG dimensions=1600x900
+CAPTURE after_extracted_camp_1600x900.png bytes=1202314 verified PNG dimensions=1600x900
+CAPTURE after_story_dialogue_1600x900.png bytes=213637 verified PNG dimensions=1600x900
+CAPTURE after_story_history_1600x900.png bytes=130958 verified PNG dimensions=1600x900
+CAPTURE after_story_skip_confirmation_1600x900.png bytes=160542 verified PNG dimensions=1600x900
+CAPTURE after_death_1600x900.png bytes=2482602 verified PNG dimensions=1600x900
+CAPTURE after_saving_1600x900.png bytes=965290 verified PNG dimensions=1600x900
+CAPTURE after_title_return_1600x900.png bytes=1032311 verified PNG dimensions=1600x900
+CLEANUP_REQUESTED All route steps reached.
+COMPLETE All route steps reached.
+captures=37; geometryFailures=0; titleNoSession=True
+Play was not stopped by route. Main must inspect PNGs, send stop_play explicitly if desired, then restore original scene through normal UI.

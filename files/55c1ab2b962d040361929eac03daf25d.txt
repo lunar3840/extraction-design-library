@@ -1,0 +1,1125 @@
+STAGE_A_BUILDING_D09_ACTUAL_PLAYER_VALIDATION
+startedUtc=2026-10-13T20:37:55.9072255Z
+Evidence=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01
+NOTE original D09 door/control test reused against current retained architecture; evidence record=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12
+METHOD actual PlayerMotor.Simulate with enabled CharacterController. This is a deterministic movement/control seam, not physical keyboard/mouse automation.
+NOTE restored the new attempt header after normal Enter Play domain reload; project editor settings were not changed.
+PASS runtime selected B4 from original B1-B4; risk slots including R8 remain ineligible
+ORIGINAL_OPENINGS C01 count=1 scanned_Xminus_-1
+ORIGINAL_OPENINGS C02 count=2 metadata_0,scanned_Zplus_-19
+ORIGINAL_OPENINGS C03 count=1 metadata_0
+ORIGINAL_OPENINGS C04 count=1 metadata_0
+ORIGINAL_OPENINGS CLINIC count=1 metadata_0
+ORIGINAL_OPENINGS E01 count=2 metadata_0,scanned_Zplus_-17
+ORIGINAL_OPENINGS E02 count=1 scanned_Xminus_0
+ORIGINAL_OPENINGS E03 count=1 metadata_1
+ORIGINAL_OPENINGS E04 count=2 metadata_0,scanned_Zminus_0
+ORIGINAL_OPENINGS E05 count=1 metadata_1
+ORIGINAL_OPENINGS E06 count=1 scanned_Zminus_0
+ORIGINAL_OPENINGS E07 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS E08 count=1 metadata_1
+ORIGINAL_OPENINGS E09 count=2 metadata_0,scanned_Zminus_-2
+ORIGINAL_OPENINGS E10 count=1 scanned_Zminus_-2
+ORIGINAL_OPENINGS E11 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS E12 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS F01 count=1 scanned_Xminus_0
+ORIGINAL_OPENINGS F02 count=1 scanned_Zminus_0
+ORIGINAL_OPENINGS F03 count=1 metadata_1
+ORIGINAL_OPENINGS HALL count=2 DOOR_HS,DOOR_HN
+ORIGINAL_OPENINGS N01 count=1 metadata_1
+ORIGINAL_OPENINGS N02 count=1 metadata_0
+ORIGINAL_OPENINGS N03 count=1 metadata_1
+ORIGINAL_OPENINGS N04 count=1 metadata_0
+ORIGINAL_OPENINGS N05 count=1 scanned_Zminus_0
+ORIGINAL_OPENINGS N06 count=1 scanned_Zminus_0
+ORIGINAL_OPENINGS N07 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS N08 count=1 metadata_1
+ORIGINAL_OPENINGS N09 count=3 metadata_0,scanned_Zplus_-3,scanned_Zplus_3
+ORIGINAL_OPENINGS N10 count=2 metadata_0,scanned_Zplus_-16
+ORIGINAL_OPENINGS N11 count=1 metadata_1
+ORIGINAL_OPENINGS N12 count=1 metadata_1
+ORIGINAL_OPENINGS N13 count=2 metadata_0,scanned_Zplus_-17
+ORIGINAL_OPENINGS N14 count=1 scanned_Xminus_-1
+ORIGINAL_OPENINGS N15 count=2 metadata_0,scanned_Zplus_-17
+ORIGINAL_OPENINGS N16 count=1 scanned_Xminus_-1
+ORIGINAL_OPENINGS N17 count=1 metadata_0
+ORIGINAL_OPENINGS PARTS count=1 metadata_0
+ORIGINAL_OPENINGS POWER count=1 metadata_0
+ORIGINAL_OPENINGS S01 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS S02 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS S03 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS S04 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS S05 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS S06 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS S07 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS S08 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS S09 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS S10 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS S11 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS S12 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS TOOLS count=1 metadata_0
+ORIGINAL_OPENINGS W01 count=1 scanned_Zminus_-1
+ORIGINAL_OPENINGS W02 count=1 metadata_1
+ORIGINAL_OPENINGS W03 count=1 metadata_1
+ORIGINAL_OPENINGS W04 count=1 scanned_Zminus_-1
+ORIGINAL_OPENINGS W05 count=2 metadata_0,scanned_Zplus_-12
+ORIGINAL_OPENINGS W06 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS W07 count=1 metadata_1
+ORIGINAL_OPENINGS W08 count=2 metadata_0,scanned_Zplus_-17
+ORIGINAL_OPENINGS W09 count=1 metadata_0
+ORIGINAL_OPENINGS W10 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS W11 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS Y01 count=1 metadata_1
+ORIGINAL_OPENINGS Y02 count=1 metadata_1
+ORIGINAL_OPENINGS Y03 count=1 scanned_Xminus_-1
+ORIGINAL_OPENINGS Y04 count=2 metadata_0,metadata_1
+ORIGINAL_OPENINGS Y05 count=2 metadata_0,scanned_Zplus_-17
+PASS CONTROL walk=0.800 sprintDistance=1.440 sprintState=True aimState=True rollDistance=2.889 rollBlocked=True; actual simulation seam, enabled CharacterController
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_controls.png
+VISIBILITY HALL_VIEW outside_north_behind roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS HALL_VIEW outside_north_behind actualPosition=(0.000, 2.020, 29.000) visibleFloor=99; initial placement only, not claimed as a stair traversal
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_HALL_VIEW_outside_north_behind.png
+VISIBILITY HALL_VIEW outside_south roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS HALL_VIEW outside_south actualPosition=(0.000, 2.051, -38.000) visibleFloor=99; initial placement only, not claimed as a stair traversal
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_HALL_VIEW_outside_south.png
+VISIBILITY HALL_VIEW inside_first_south roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS HALL_VIEW inside_first_south actualPosition=(0.000, 2.020, -28.000) visibleFloor=0; initial placement only, not claimed as a stair traversal
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_HALL_VIEW_inside_first_south.png
+VISIBILITY HALL_VIEW inside_second_west roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS HALL_VIEW inside_second_west actualPosition=(-36.000, 8.020, -11.000) visibleFloor=1; initial placement only, not claimed as a stair traversal
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_HALL_VIEW_inside_second_west.png
+VISIBILITY HALL_VIEW inside_second_east roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS HALL_VIEW inside_second_east actualPosition=(36.000, 8.020, -11.000) visibleFloor=1; initial placement only, not claimed as a stair traversal
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_HALL_VIEW_inside_second_east.png
+VISIBILITY HALL_VIEW inside_second_north roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS HALL_VIEW inside_second_north actualPosition=(0.000, 8.020, 18.000) visibleFloor=1; initial placement only, not claimed as a stair traversal
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_HALL_VIEW_inside_second_north.png
+VISIBILITY CLINIC_VIEW outdoor_court roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS CLINIC_VIEW outdoor_court remains outside; roof stays closed; initial camera placement, not an additional traversal
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_CLINIC_VIEW_outdoor_court.png
+confirmed original-door lanes=204; each lane uses actual CharacterController movement; combat is frozen only for deterministic passage testing
+LANE C01_scanned_Xminus_-1_in actualCorners=8 start=(-60.265, 0.960, -69.677) goal=(-47.000, 1.080, -68.000)
+VISIBILITY C01_scanned_Xminus_-1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_C01_outside.png
+PASS C01_scanned_Xminus_-1_in actualSteps=99 end=(-47.440, 1.086, -67.998)
+VISIBILITY C01_scanned_Xminus_-1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_C01_inside.png
+LANE C01_scanned_Xminus_-1_out actualCorners=8 start=(-47.000, 1.080, -68.000) goal=(-60.265, 0.960, -69.677)
+VISIBILITY C01_scanned_Xminus_-1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS C01_scanned_Xminus_-1_out actualSteps=99 end=(-59.840, 0.958, -69.570)
+VISIBILITY C01_scanned_Xminus_-1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_C01_returned_outside.png
+LANE C02_metadata_0_in actualCorners=3 start=(8.087, 1.816, -55.657) goal=(7.000, 1.860, -66.000)
+VISIBILITY C02_metadata_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_C02_outside.png
+PASS C02_metadata_0_in actualSteps=75 end=(7.042, 1.836, -65.602)
+VISIBILITY C02_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_C02_inside.png
+LANE C02_metadata_0_out actualCorners=3 start=(7.000, 1.860, -66.000) goal=(8.087, 1.816, -55.657)
+VISIBILITY C02_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS C02_metadata_0_out actualSteps=75 end=(8.045, 1.748, -56.055)
+VISIBILITY C02_metadata_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_C02_returned_outside.png
+LANE C02_scanned_Zplus_-19_in actualCorners=5 start=(-6.090, 1.809, -54.218) goal=(7.000, 1.860, -66.000)
+VISIBILITY C02_scanned_Zplus_-19_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS C02_scanned_Zplus_-19_in actualSteps=137 end=(6.648, 1.836, -65.667)
+VISIBILITY C02_scanned_Zplus_-19_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE C02_scanned_Zplus_-19_out actualCorners=5 start=(7.000, 1.860, -66.000) goal=(-6.090, 1.809, -54.218)
+VISIBILITY C02_scanned_Zplus_-19_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS C02_scanned_Zplus_-19_out actualSteps=143 end=(-6.086, 1.779, -54.620)
+VISIBILITY C02_scanned_Zplus_-19_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE C03_metadata_0_in actualCorners=3 start=(69.000, 2.460, -4.100) goal=(69.000, 2.520, -19.000)
+VISIBILITY C03_metadata_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_C03_outside.png
+PASS C03_metadata_0_in actualSteps=108 end=(69.000, 2.538, -18.500)
+VISIBILITY C03_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_C03_inside.png
+LANE C03_metadata_0_out actualCorners=3 start=(69.000, 2.520, -19.000) goal=(69.000, 2.460, -4.100)
+VISIBILITY C03_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS C03_metadata_0_out actualSteps=108 end=(69.000, 2.478, -4.600)
+VISIBILITY C03_metadata_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_C03_returned_outside.png
+LANE C04_metadata_0_in actualCorners=3 start=(64.627, 4.140, 34.272) goal=(63.000, 4.200, 24.000)
+VISIBILITY C04_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_C04_outside.png
+PASS C04_metadata_0_in actualSteps=75 end=(63.063, 4.160, 24.395)
+VISIBILITY C04_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_C04_inside.png
+LANE C04_metadata_0_out actualCorners=3 start=(63.000, 4.200, 24.000) goal=(64.627, 4.140, 34.272)
+VISIBILITY C04_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS C04_metadata_0_out actualSteps=75 end=(64.565, 4.100, 33.877)
+VISIBILITY C04_metadata_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_C04_returned_outside.png
+LANE CLINIC_metadata_0_in actualCorners=7 start=(-160.588, 4.044, 99.351) goal=(-166.000, 4.020, 121.000)
+VISIBILITY CLINIC_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F02_CLINIC_outside.png
+PASS CLINIC_metadata_0_in actualSteps=181 end=(-166.334, 4.020, 120.658)
+VISIBILITY CLINIC_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F02_CLINIC_inside.png
+LANE CLINIC_metadata_0_out actualCorners=7 start=(-166.000, 4.020, 121.000) goal=(-160.588, 4.044, 99.351)
+VISIBILITY CLINIC_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS CLINIC_metadata_0_out actualSteps=182 end=(-160.686, 4.020, 99.721)
+VISIBILITY CLINIC_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F02_CLINIC_returned_outside.png
+LANE E01_metadata_0_in actualCorners=3 start=(186.547, 6.660, 126.809) goal=(188.000, 6.720, 115.000)
+VISIBILITY E01_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_E01_outside.png
+PASS E01_metadata_0_in actualSteps=86 end=(187.947, 6.686, 115.428)
+VISIBILITY E01_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_E01_inside.png
+LANE E01_metadata_0_out actualCorners=3 start=(188.000, 6.720, 115.000) goal=(186.547, 6.660, 126.809)
+VISIBILITY E01_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS E01_metadata_0_out actualSteps=86 end=(186.600, 6.626, 126.381)
+VISIBILITY E01_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_E01_returned_outside.png
+LANE E01_scanned_Zplus_-17_in actualCorners=4 start=(173.899, 6.691, 125.203) goal=(188.000, 6.720, 115.000)
+VISIBILITY E01_scanned_Zplus_-17_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS E01_scanned_Zplus_-17_in actualSteps=133 end=(187.584, 6.686, 115.244)
+VISIBILITY E01_scanned_Zplus_-17_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE E01_scanned_Zplus_-17_out actualCorners=4 start=(188.000, 6.720, 115.000) goal=(173.899, 6.691, 125.203)
+VISIBILITY E01_scanned_Zplus_-17_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS E01_scanned_Zplus_-17_out actualSteps=133 end=(174.021, 6.626, 124.742)
+VISIBILITY E01_scanned_Zplus_-17_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE E02_scanned_Xminus_0_in actualCorners=5 start=(175.700, 8.348, 84.078) goal=(188.000, 8.432, 83.000)
+VISIBILITY E02_scanned_Xminus_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_E02_outside.png
+PASS E02_scanned_Xminus_0_in actualSteps=90 end=(187.620, 8.414, 83.048)
+VISIBILITY E02_scanned_Xminus_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_E02_inside.png
+LANE E02_scanned_Xminus_0_out actualCorners=5 start=(188.000, 8.432, 83.000) goal=(175.700, 8.348, 84.078)
+VISIBILITY E02_scanned_Xminus_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS E02_scanned_Xminus_0_out actualSteps=90 end=(176.083, 8.354, 84.102)
+VISIBILITY E02_scanned_Xminus_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_E02_returned_outside.png
+LANE E03_metadata_1_in actualCorners=3 start=(200.279, 6.608, 147.252) goal=(202.000, 6.660, 157.000)
+VISIBILITY E03_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_E03_outside.png
+PASS E03_metadata_1_in actualSteps=71 end=(201.925, 6.679, 156.574)
+VISIBILITY E03_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_E03_inside.png
+LANE E03_metadata_1_out actualCorners=3 start=(202.000, 6.660, 157.000) goal=(200.279, 6.608, 147.252)
+VISIBILITY E03_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS E03_metadata_1_out actualSteps=71 end=(200.354, 6.619, 147.678)
+VISIBILITY E03_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_E03_returned_outside.png
+LANE E04_metadata_0_in actualCorners=3 start=(119.000, 7.279, 64.400) goal=(119.000, 7.500, 54.000)
+VISIBILITY E04_metadata_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_E04_outside.png
+PASS E04_metadata_0_in actualSteps=75 end=(119.000, 7.473, 54.400)
+VISIBILITY E04_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_E04_inside.png
+LANE E04_metadata_0_out actualCorners=3 start=(119.000, 7.500, 54.000) goal=(119.000, 7.279, 64.400)
+VISIBILITY E04_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS E04_metadata_0_out actualSteps=75 end=(119.000, 7.342, 64.000)
+VISIBILITY E04_metadata_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_E04_returned_outside.png
+LANE E04_scanned_Zminus_0_in actualCorners=3 start=(119.000, 7.015, 43.650) goal=(119.000, 7.500, 54.000)
+VISIBILITY E04_scanned_Zminus_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS E04_scanned_Zminus_0_in actualSteps=74 end=(119.000, 7.473, 53.517)
+VISIBILITY E04_scanned_Zminus_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE E04_scanned_Zminus_0_out actualCorners=3 start=(119.000, 7.500, 54.000) goal=(119.000, 7.015, 43.650)
+VISIBILITY E04_scanned_Zminus_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS E04_scanned_Zminus_0_out actualSteps=74 end=(119.000, 7.146, 44.133)
+VISIBILITY E04_scanned_Zminus_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE E05_metadata_1_in actualCorners=3 start=(102.864, 2.940, -5.267) goal=(101.000, 3.000, 8.000)
+VISIBILITY E05_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_E05_outside.png
+PASS E05_metadata_1_in actualSteps=97 end=(101.065, 3.012, 7.541)
+VISIBILITY E05_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_E05_inside.png
+LANE E05_metadata_1_out actualCorners=3 start=(101.000, 3.000, 8.000) goal=(102.864, 2.940, -5.267)
+VISIBILITY E05_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS E05_metadata_1_out actualSteps=97 end=(102.799, 2.952, -4.808)
+VISIBILITY E05_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_E05_returned_outside.png
+LANE E06_scanned_Zminus_0_in actualCorners=3 start=(121.404, 2.654, -37.333) goal=(122.000, 3.060, -26.000)
+VISIBILITY E06_scanned_Zminus_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_E06_outside.png
+PASS E06_scanned_Zminus_0_in actualSteps=82 end=(121.978, 3.079, -26.415)
+VISIBILITY E06_scanned_Zminus_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_E06_inside.png
+LANE E06_scanned_Zminus_0_out actualCorners=3 start=(122.000, 3.060, -26.000) goal=(121.404, 2.654, -37.333)
+VISIBILITY E06_scanned_Zminus_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS E06_scanned_Zminus_0_out actualSteps=82 end=(121.426, 2.750, -36.918)
+VISIBILITY E06_scanned_Zminus_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_E06_returned_outside.png
+LANE E07_metadata_0_in actualCorners=3 start=(222.000, 3.926, 29.400) goal=(222.000, 3.960, 17.000)
+VISIBILITY E07_metadata_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_E07_outside.png
+PASS E07_metadata_0_in actualSteps=90 end=(222.000, 3.955, 17.400)
+VISIBILITY E07_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_E07_inside.png
+LANE E07_metadata_0_out actualCorners=3 start=(222.000, 3.960, 17.000) goal=(222.000, 3.926, 29.400)
+VISIBILITY E07_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS E07_metadata_0_out actualSteps=90 end=(222.000, 3.894, 29.000)
+VISIBILITY E07_metadata_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_E07_returned_outside.png
+LANE E07_metadata_1_in actualCorners=3 start=(222.000, 3.899, 4.600) goal=(222.000, 3.960, 17.000)
+VISIBILITY E07_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS E07_metadata_1_in actualSteps=90 end=(222.000, 3.955, 16.600)
+VISIBILITY E07_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE E07_metadata_1_out actualCorners=3 start=(222.000, 3.960, 17.000) goal=(222.000, 3.899, 4.600)
+VISIBILITY E07_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS E07_metadata_1_out actualSteps=90 end=(222.000, 3.894, 5.000)
+VISIBILITY E07_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE E08_metadata_1_in actualCorners=3 start=(95.529, 1.421, -66.282) goal=(97.000, 1.860, -57.000)
+VISIBILITY E08_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_E08_outside.png
+PASS E08_metadata_1_in actualSteps=67 end=(96.927, 1.877, -57.459)
+VISIBILITY E08_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_E08_inside.png
+LANE E08_metadata_1_out actualCorners=3 start=(97.000, 1.860, -57.000) goal=(95.529, 1.421, -66.282)
+VISIBILITY E08_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS E08_metadata_1_out actualSteps=67 end=(95.602, 1.503, -65.823)
+VISIBILITY E08_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_E08_returned_outside.png
+LANE E09_metadata_0_in actualCorners=3 start=(70.764, 0.918, -73.198) goal=(72.000, 1.020, -81.000)
+VISIBILITY E09_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F10_E09_outside.png
+PASS E09_metadata_0_in actualSteps=56 end=(71.932, 1.005, -80.572)
+VISIBILITY E09_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F10_E09_inside.png
+LANE E09_metadata_0_out actualCorners=3 start=(72.000, 1.020, -81.000) goal=(70.764, 0.918, -73.198)
+VISIBILITY E09_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS E09_metadata_0_out actualSteps=56 end=(70.832, 0.880, -73.625)
+VISIBILITY E09_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F10_E09_returned_outside.png
+LANE E09_scanned_Zminus_-2_in actualCorners=4 start=(72.494, 0.639, -88.722) goal=(72.000, 1.020, -81.000)
+VISIBILITY E09_scanned_Zminus_-2_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS E09_scanned_Zminus_-2_in actualSteps=57 end=(71.970, 1.005, -81.382)
+VISIBILITY E09_scanned_Zminus_-2_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE E09_scanned_Zminus_-2_out actualCorners=4 start=(72.000, 1.020, -81.000) goal=(72.494, 0.639, -88.722)
+VISIBILITY E09_scanned_Zminus_-2_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS E09_scanned_Zminus_-2_out actualSteps=57 end=(72.397, 0.691, -88.338)
+VISIBILITY E09_scanned_Zminus_-2_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE E10_scanned_Zminus_-2_in actualCorners=4 start=(153.915, 2.003, -65.249) goal=(154.000, 2.400, -58.000)
+VISIBILITY E10_scanned_Zminus_-2_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F09_E10_outside.png
+PASS E10_scanned_Zminus_-2_in actualSteps=53 end=(153.926, 2.364, -58.436)
+VISIBILITY E10_scanned_Zminus_-2_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F09_E10_inside.png
+LANE E10_scanned_Zminus_-2_out actualCorners=4 start=(154.000, 2.400, -58.000) goal=(153.915, 2.003, -65.249)
+VISIBILITY E10_scanned_Zminus_-2_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS E10_scanned_Zminus_-2_out actualSteps=53 end=(153.837, 2.064, -64.810)
+VISIBILITY E10_scanned_Zminus_-2_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F09_E10_returned_outside.png
+LANE E11_metadata_0_in actualCorners=3 start=(237.589, 4.078, 95.291) goal=(236.000, 4.140, 84.000)
+VISIBILITY E11_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_E11_outside.png
+PASS E11_metadata_0_in actualSteps=82 end=(236.065, 4.145, 84.464)
+VISIBILITY E11_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_E11_inside.png
+LANE E11_metadata_0_out actualCorners=3 start=(236.000, 4.140, 84.000) goal=(237.589, 4.078, 95.291)
+VISIBILITY E11_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS E11_metadata_0_out actualSteps=82 end=(237.523, 4.079, 94.827)
+VISIBILITY E11_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_E11_returned_outside.png
+LANE E11_metadata_1_in actualCorners=3 start=(234.412, 3.814, 72.709) goal=(236.000, 4.140, 84.000)
+VISIBILITY E11_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS E11_metadata_1_in actualSteps=82 end=(235.935, 4.145, 83.536)
+VISIBILITY E11_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE E11_metadata_1_out actualCorners=3 start=(236.000, 4.140, 84.000) goal=(234.412, 3.814, 72.709)
+VISIBILITY E11_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS E11_metadata_1_out actualSteps=82 end=(234.477, 3.892, 73.173)
+VISIBILITY E11_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE E12_metadata_0_in actualCorners=3 start=(233.062, 5.185, 147.366) goal=(234.000, 5.280, 134.000)
+VISIBILITY E12_metadata_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_E12_outside.png
+PASS E12_metadata_0_in actualSteps=97 end=(233.967, 5.272, 134.465)
+VISIBILITY E12_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_E12_inside.png
+LANE E12_metadata_0_out actualCorners=3 start=(234.000, 5.280, 134.000) goal=(233.062, 5.185, 147.366)
+VISIBILITY E12_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS E12_metadata_0_out actualSteps=97 end=(233.095, 5.168, 146.902)
+VISIBILITY E12_metadata_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_E12_returned_outside.png
+LANE E12_metadata_1_in actualCorners=3 start=(234.938, 5.011, 120.634) goal=(234.000, 5.280, 134.000)
+VISIBILITY E12_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS E12_metadata_1_in actualSteps=97 end=(234.033, 5.272, 133.535)
+VISIBILITY E12_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE E12_metadata_1_out actualCorners=3 start=(234.000, 5.280, 134.000) goal=(234.938, 5.011, 120.634)
+VISIBILITY E12_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS E12_metadata_1_out actualSteps=97 end=(234.905, 5.033, 121.098)
+VISIBILITY E12_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE F01_scanned_Xminus_0_in actualCorners=5 start=(137.836, 0.060, -153.144) goal=(150.000, 0.120, -151.000)
+VISIBILITY F01_scanned_Xminus_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F10_F01_outside.png
+PASS F01_scanned_Xminus_0_in actualSteps=90 end=(149.607, 0.134, -151.054)
+VISIBILITY F01_scanned_Xminus_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F10_F01_inside.png
+LANE F01_scanned_Xminus_0_out actualCorners=5 start=(150.000, 0.120, -151.000) goal=(137.836, 0.060, -153.144)
+VISIBILITY F01_scanned_Xminus_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS F01_scanned_Xminus_0_out actualSteps=90 end=(138.207, 0.020, -153.012)
+VISIBILITY F01_scanned_Xminus_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F10_F01_returned_outside.png
+LANE F02_scanned_Zminus_0_in actualCorners=3 start=(203.613, 0.406, -158.265) goal=(205.000, 0.840, -147.000)
+VISIBILITY F02_scanned_Zminus_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F10_F02_outside.png
+PASS F02_scanned_Zminus_0_in actualSteps=82 end=(204.949, 0.853, -147.413)
+VISIBILITY F02_scanned_Zminus_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F10_F02_inside.png
+LANE F02_scanned_Zminus_0_out actualCorners=3 start=(205.000, 0.840, -147.000) goal=(203.613, 0.406, -158.265)
+VISIBILITY F02_scanned_Zminus_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS F02_scanned_Zminus_0_out actualSteps=82 end=(203.664, 0.510, -157.851)
+VISIBILITY F02_scanned_Zminus_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F10_F02_returned_outside.png
+LANE F03_metadata_1_in actualCorners=3 start=(105.000, -0.060, -189.400) goal=(105.000, 0.060, -182.000)
+VISIBILITY F03_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F10_F03_outside.png
+PASS F03_metadata_1_in actualSteps=52 end=(105.000, 0.074, -182.467)
+VISIBILITY F03_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F10_F03_inside.png
+LANE F03_metadata_1_out actualCorners=3 start=(105.000, 0.060, -182.000) goal=(105.000, -0.060, -189.400)
+VISIBILITY F03_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS F03_metadata_1_out actualSteps=52 end=(105.000, -0.056, -188.933)
+VISIBILITY F03_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F10_F03_returned_outside.png
+LANE HALL_DOOR_HS_in actualCorners=6 start=(0.000, 2.150, -34.700) goal=(0.000, 2.040, -18.000)
+VISIBILITY HALL_DOOR_HS_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F01_HALL_outside.png
+PASS HALL_DOOR_HS_in actualSteps=133 end=(-0.278, 2.020, -18.282)
+VISIBILITY HALL_DOOR_HS_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F01_HALL_inside.png
+LANE HALL_DOOR_HS_out actualCorners=6 start=(0.000, 2.040, -18.000) goal=(0.000, 2.150, -34.700)
+VISIBILITY HALL_DOOR_HS_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS HALL_DOOR_HS_out actualSteps=133 end=(-0.012, 2.064, -34.304)
+VISIBILITY HALL_DOOR_HS_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F01_HALL_returned_outside.png
+LANE HALL_DOOR_HN_in actualCorners=6 start=(29.000, 2.072, -34.700) goal=(0.000, 2.040, -18.000)
+VISIBILITY HALL_DOOR_HN_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS HALL_DOOR_HN_in actualSteps=277 end=(0.392, 2.020, -18.068)
+VISIBILITY HALL_DOOR_HN_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE HALL_DOOR_HN_out actualCorners=6 start=(0.000, 2.040, -18.000) goal=(29.000, 2.072, -34.700)
+VISIBILITY HALL_DOOR_HN_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS HALL_DOOR_HN_out actualSteps=277 end=(28.976, 2.039, -34.316)
+VISIBILITY HALL_DOOR_HN_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE N01_metadata_1_in actualCorners=3 start=(-218.529, 3.660, 155.713) goal=(-220.000, 3.720, 165.000)
+VISIBILITY N01_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_N01_outside.png
+PASS N01_metadata_1_in actualSteps=67 end=(-219.927, 3.694, 164.536)
+VISIBILITY N01_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_N01_inside.png
+LANE N01_metadata_1_out actualCorners=3 start=(-220.000, 3.720, 165.000) goal=(-218.529, 3.660, 155.713)
+VISIBILITY N01_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N01_metadata_1_out actualSteps=67 end=(-218.602, 3.634, 156.177)
+VISIBILITY N01_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_N01_returned_outside.png
+LANE N02_metadata_0_in actualCorners=3 start=(-221.363, 2.285, 122.299) goal=(-223.000, 2.460, 109.000)
+VISIBILITY N02_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_N02_outside.png
+PASS N02_metadata_0_in actualSteps=97 end=(-222.943, 2.478, 109.463)
+VISIBILITY N02_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_N02_inside.png
+LANE N02_metadata_0_out actualCorners=3 start=(-223.000, 2.460, 109.000) goal=(-221.363, 2.285, 122.299)
+VISIBILITY N02_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N02_metadata_0_out actualSteps=97 end=(-221.420, 2.291, 121.836)
+VISIBILITY N02_metadata_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_N02_returned_outside.png
+LANE N03_metadata_1_in actualCorners=3 start=(-115.864, 6.600, 136.136) goal=(-115.000, 6.660, 146.000)
+VISIBILITY N03_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_N03_outside.png
+PASS N03_metadata_1_in actualSteps=71 end=(-115.038, 6.666, 145.566)
+VISIBILITY N03_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_N03_inside.png
+LANE N03_metadata_1_out actualCorners=3 start=(-115.000, 6.660, 146.000) goal=(-115.864, 6.600, 136.136)
+VISIBILITY N03_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N03_metadata_1_out actualSteps=71 end=(-115.826, 6.606, 136.569)
+VISIBILITY N03_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_N03_returned_outside.png
+LANE N04_metadata_0_in actualCorners=3 start=(-85.000, 7.795, 128.400) goal=(-85.000, 8.220, 116.000)
+VISIBILITY N04_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F02_N04_outside.png
+PASS N04_metadata_0_in actualSteps=90 end=(-85.000, 8.237, 116.400)
+VISIBILITY N04_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F02_N04_inside.png
+LANE N04_metadata_0_out actualCorners=3 start=(-85.000, 8.220, 116.000) goal=(-85.000, 7.795, 128.400)
+VISIBILITY N04_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N04_metadata_0_out actualSteps=90 end=(-85.000, 7.871, 128.000)
+VISIBILITY N04_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F02_N04_returned_outside.png
+LANE N05_scanned_Zminus_0_in actualCorners=3 start=(-157.000, 3.314, 64.650) goal=(-157.000, 3.780, 72.000)
+VISIBILITY N05_scanned_Zminus_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F02_N05_outside.png
+PASS N05_scanned_Zminus_0_in actualSteps=52 end=(-157.000, 3.774, 71.583)
+VISIBILITY N05_scanned_Zminus_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F02_N05_inside.png
+LANE N05_scanned_Zminus_0_out actualCorners=3 start=(-157.000, 3.780, 72.000) goal=(-157.000, 3.314, 64.650)
+VISIBILITY N05_scanned_Zminus_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N05_scanned_Zminus_0_out actualSteps=52 end=(-157.000, 3.396, 65.067)
+VISIBILITY N05_scanned_Zminus_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F02_N05_returned_outside.png
+LANE N06_scanned_Zminus_0_in actualCorners=3 start=(-189.767, 2.581, 55.233) goal=(-191.000, 3.000, 64.000)
+VISIBILITY N06_scanned_Zminus_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F02_N06_outside.png
+PASS N06_scanned_Zminus_0_in actualSteps=63 end=(-190.937, 3.016, 63.551)
+VISIBILITY N06_scanned_Zminus_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F02_N06_inside.png
+LANE N06_scanned_Zminus_0_out actualCorners=3 start=(-191.000, 3.000, 64.000) goal=(-189.767, 2.581, 55.233)
+VISIBILITY N06_scanned_Zminus_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N06_scanned_Zminus_0_out actualSteps=63 end=(-189.830, 2.643, 55.682)
+VISIBILITY N06_scanned_Zminus_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F02_N06_returned_outside.png
+LANE N07_metadata_0_in actualCorners=3 start=(-68.000, 8.260, 102.400) goal=(-68.000, 8.280, 96.000)
+VISIBILITY N07_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F09_N07_outside.png
+PASS N07_metadata_0_in actualSteps=45 end=(-68.000, 8.245, 96.400)
+VISIBILITY N07_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F09_N07_inside.png
+LANE N07_metadata_0_out actualCorners=3 start=(-68.000, 8.280, 96.000) goal=(-68.000, 8.260, 102.400)
+VISIBILITY N07_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N07_metadata_0_out actualSteps=45 end=(-68.000, 8.185, 102.000)
+VISIBILITY N07_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F09_N07_returned_outside.png
+LANE N07_metadata_1_in actualCorners=3 start=(-68.000, 8.220, 89.600) goal=(-68.000, 8.280, 96.000)
+VISIBILITY N07_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS N07_metadata_1_in actualSteps=45 end=(-68.000, 8.245, 95.600)
+VISIBILITY N07_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE N07_metadata_1_out actualCorners=3 start=(-68.000, 8.280, 96.000) goal=(-68.000, 8.220, 89.600)
+VISIBILITY N07_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N07_metadata_1_out actualSteps=45 end=(-68.000, 8.185, 90.000)
+VISIBILITY N07_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE N08_metadata_1_in actualCorners=3 start=(-74.000, 7.987, 135.600) goal=(-74.000, 8.220, 145.000)
+VISIBILITY N08_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_N08_outside.png
+PASS N08_metadata_1_in actualSteps=67 end=(-74.000, 8.217, 144.533)
+VISIBILITY N08_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_N08_inside.png
+LANE N08_metadata_1_out actualCorners=3 start=(-74.000, 8.220, 145.000) goal=(-74.000, 7.987, 135.600)
+VISIBILITY N08_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N08_metadata_1_out actualSteps=67 end=(-74.000, 8.022, 136.067)
+VISIBILITY N08_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_N08_returned_outside.png
+LANE N09_metadata_0_in actualCorners=3 start=(-30.086, 9.176, 138.342) goal=(-29.000, 9.360, 128.000)
+VISIBILITY N09_metadata_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_N09_outside.png
+PASS N09_metadata_0_in actualSteps=75 end=(-29.042, 9.349, 128.397)
+VISIBILITY N09_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_N09_inside.png
+LANE N09_metadata_0_out actualCorners=3 start=(-29.000, 9.360, 128.000) goal=(-30.086, 9.176, 138.342)
+VISIBILITY N09_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N09_metadata_0_out actualSteps=75 end=(-30.044, 9.163, 137.945)
+VISIBILITY N09_metadata_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_N09_returned_outside.png
+LANE N09_scanned_Zplus_-3_in actualCorners=8 start=(-32.318, 8.882, 138.058) goal=(-29.000, 9.360, 128.000)
+VISIBILITY N09_scanned_Zplus_-3_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS N09_scanned_Zplus_-3_in actualSteps=86 end=(-29.165, 9.349, 128.446)
+VISIBILITY N09_scanned_Zplus_-3_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE N09_scanned_Zplus_-3_out actualCorners=8 start=(-29.000, 9.360, 128.000) goal=(-32.318, 8.882, 138.058)
+VISIBILITY N09_scanned_Zplus_-3_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N09_scanned_Zplus_-3_out actualSteps=87 end=(-31.934, 8.856, 137.994)
+VISIBILITY N09_scanned_Zplus_-3_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE N09_scanned_Zplus_3_in actualCorners=7 start=(-27.843, 9.073, 138.528) goal=(-29.000, 9.360, 128.000)
+VISIBILITY N09_scanned_Zplus_3_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS N09_scanned_Zplus_3_in actualSteps=84 end=(-28.935, 9.349, 128.490)
+VISIBILITY N09_scanned_Zplus_3_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE N09_scanned_Zplus_3_out actualCorners=7 start=(-29.000, 9.360, 128.000) goal=(-27.843, 9.073, 138.528)
+VISIBILITY N09_scanned_Zplus_3_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N09_scanned_Zplus_3_out actualSteps=85 end=(-28.157, 8.974, 138.239)
+VISIBILITY N09_scanned_Zplus_3_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE N10_metadata_0_in actualCorners=3 start=(12.477, 7.740, 121.639) goal=(10.000, 7.800, 110.000)
+VISIBILITY N10_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_N10_outside.png
+PASS N10_metadata_0_in actualSteps=86 end=(10.090, 7.806, 110.424)
+VISIBILITY N10_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_N10_inside.png
+LANE N10_metadata_0_out actualCorners=3 start=(10.000, 7.800, 110.000) goal=(12.477, 7.740, 121.639)
+VISIBILITY N10_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N10_metadata_0_out actualSteps=86 end=(12.387, 7.744, 121.216)
+VISIBILITY N10_metadata_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_N10_returned_outside.png
+LANE N10_scanned_Zplus_-16_in actualCorners=6 start=(0.729, 7.800, 124.088) goal=(10.000, 7.800, 110.000)
+VISIBILITY N10_scanned_Zplus_-16_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N10_scanned_Zplus_-16_in actualSteps=130 end=(9.802, 7.806, 110.311)
+VISIBILITY N10_scanned_Zplus_-16_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE N10_scanned_Zplus_-16_out actualCorners=6 start=(10.000, 7.800, 110.000) goal=(0.729, 7.800, 124.088)
+VISIBILITY N10_scanned_Zplus_-16_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N10_scanned_Zplus_-16_out actualSteps=130 end=(0.694, 7.744, 123.700)
+VISIBILITY N10_scanned_Zplus_-16_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE N11_metadata_1_in actualCorners=3 start=(48.163, 9.060, 81.831) goal=(46.000, 9.120, 92.000)
+VISIBILITY N11_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_N11_outside.png
+PASS N11_metadata_1_in actualSteps=75 end=(46.082, 9.080, 91.612)
+VISIBILITY N11_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_N11_inside.png
+LANE N11_metadata_1_out actualCorners=3 start=(46.000, 9.120, 92.000) goal=(48.163, 9.060, 81.831)
+VISIBILITY N11_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N11_metadata_1_out actualSteps=75 end=(48.080, 9.020, 82.219)
+VISIBILITY N11_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_N11_returned_outside.png
+LANE N12_metadata_1_in actualCorners=3 start=(69.905, 9.065, 105.767) goal=(72.000, 9.120, 119.000)
+VISIBILITY N12_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_N12_outside.png
+PASS N12_metadata_1_in actualSteps=97 end=(71.927, 9.080, 118.542)
+VISIBILITY N12_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_N12_inside.png
+LANE N12_metadata_1_out actualCorners=3 start=(72.000, 9.120, 119.000) goal=(69.905, 9.065, 105.767)
+VISIBILITY N12_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N12_metadata_1_out actualSteps=97 end=(69.978, 9.020, 106.226)
+VISIBILITY N12_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_N12_returned_outside.png
+LANE N13_metadata_0_in actualCorners=3 start=(17.853, 9.316, 170.329) goal=(19.000, 9.360, 161.000)
+VISIBILITY N13_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F09_N13_outside.png
+PASS N13_metadata_0_in actualSteps=67 end=(18.943, 9.336, 161.463)
+VISIBILITY N13_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F09_N13_inside.png
+LANE N13_metadata_0_out actualCorners=3 start=(19.000, 9.360, 161.000) goal=(17.853, 9.316, 170.329)
+VISIBILITY N13_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N13_metadata_0_out actualSteps=67 end=(17.910, 9.276, 169.867)
+VISIBILITY N13_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F09_N13_returned_outside.png
+LANE N13_scanned_Zplus_-17_in actualCorners=4 start=(5.204, 9.291, 168.724) goal=(19.000, 9.360, 161.000)
+VISIBILITY N13_scanned_Zplus_-17_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N13_scanned_Zplus_-17_in actualSteps=124 end=(18.606, 9.336, 161.239)
+VISIBILITY N13_scanned_Zplus_-17_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE N13_scanned_Zplus_-17_out actualCorners=4 start=(19.000, 9.360, 161.000) goal=(5.204, 9.291, 168.724)
+VISIBILITY N13_scanned_Zplus_-17_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N13_scanned_Zplus_-17_out actualSteps=124 end=(5.330, 9.276, 168.259)
+VISIBILITY N13_scanned_Zplus_-17_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE N14_scanned_Xminus_-1_in actualCorners=4 start=(59.150, 9.060, 84.250) goal=(68.000, 9.120, 85.000)
+VISIBILITY N14_scanned_Xminus_-1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_N14_outside.png
+PASS N14_scanned_Xminus_-1_in actualSteps=63 end=(67.514, 9.080, 84.960)
+VISIBILITY N14_scanned_Xminus_-1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_N14_inside.png
+LANE N14_scanned_Xminus_-1_out actualCorners=4 start=(68.000, 9.120, 85.000) goal=(59.150, 9.060, 84.250)
+VISIBILITY N14_scanned_Xminus_-1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N14_scanned_Xminus_-1_out actualSteps=63 end=(59.633, 9.020, 84.319)
+VISIBILITY N14_scanned_Xminus_-1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_N14_returned_outside.png
+LANE N15_metadata_0_in actualCorners=3 start=(-50.916, 8.580, 84.835) goal=(-52.000, 8.640, 76.000)
+VISIBILITY N15_metadata_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_N15_outside.png
+PASS N15_metadata_0_in actualSteps=64 end=(-51.955, 8.621, 76.365)
+VISIBILITY N15_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_N15_inside.png
+LANE N15_metadata_0_out actualCorners=3 start=(-52.000, 8.640, 76.000) goal=(-50.916, 8.580, 84.835)
+VISIBILITY N15_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N15_metadata_0_out actualSteps=64 end=(-50.961, 8.561, 84.470)
+VISIBILITY N15_metadata_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_N15_returned_outside.png
+LANE N15_scanned_Zplus_-17_in actualCorners=5 start=(-63.577, 8.531, 86.338) goal=(-52.000, 8.640, 76.000)
+VISIBILITY N15_scanned_Zplus_-17_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N15_scanned_Zplus_-17_in actualSteps=123 end=(-52.277, 8.621, 76.278)
+VISIBILITY N15_scanned_Zplus_-17_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE N15_scanned_Zplus_-17_out actualCorners=5 start=(-52.000, 8.640, 76.000) goal=(-63.577, 8.531, 86.338)
+VISIBILITY N15_scanned_Zplus_-17_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N15_scanned_Zplus_-17_out actualSteps=123 end=(-63.575, 8.561, 85.898)
+VISIBILITY N15_scanned_Zplus_-17_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE N16_scanned_Xminus_-1_in actualCorners=6 start=(-24.350, 3.420, 58.250) goal=(-11.000, 3.481, 59.000)
+VISIBILITY N16_scanned_Xminus_-1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_N16_outside.png
+PASS N16_scanned_Xminus_-1_in actualSteps=97 end=(-11.490, 3.446, 59.000)
+VISIBILITY N16_scanned_Xminus_-1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_N16_inside.png
+LANE N16_scanned_Xminus_-1_out actualCorners=6 start=(-11.000, 3.481, 59.000) goal=(-24.350, 3.420, 58.250)
+VISIBILITY N16_scanned_Xminus_-1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N16_scanned_Xminus_-1_out actualSteps=97 end=(-23.859, 3.379, 58.293)
+VISIBILITY N16_scanned_Xminus_-1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_N16_returned_outside.png
+LANE N17_metadata_0_in actualCorners=3 start=(35.000, 6.670, 62.400) goal=(35.000, 6.720, 53.000)
+VISIBILITY N17_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F09_N17_outside.png
+PASS N17_metadata_0_in actualSteps=67 end=(35.000, 6.736, 53.467)
+VISIBILITY N17_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F09_N17_inside.png
+LANE N17_metadata_0_out actualCorners=3 start=(35.000, 6.720, 53.000) goal=(35.000, 6.670, 62.400)
+VISIBILITY N17_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS N17_metadata_0_out actualSteps=67 end=(35.000, 6.676, 61.933)
+VISIBILITY N17_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F09_N17_returned_outside.png
+LANE PARTS_metadata_0_in actualCorners=3 start=(152.738, 3.040, -22.139) goal=(174.500, 3.060, -2.500)
+VISIBILITY PARTS_metadata_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_PARTS_outside.png
+PASS PARTS_metadata_0_in actualSteps=217 end=(174.218, 3.020, -2.755)
+VISIBILITY PARTS_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_PARTS_inside.png
+LANE PARTS_metadata_0_out actualCorners=3 start=(174.500, 3.060, -2.500) goal=(152.738, 3.040, -22.139)
+VISIBILITY PARTS_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS PARTS_metadata_0_out actualSteps=217 end=(153.020, 3.017, -21.884)
+VISIBILITY PARTS_metadata_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_PARTS_returned_outside.png
+LANE POWER_metadata_0_in actualCorners=3 start=(102.365, 12.023, 114.467) goal=(128.500, 12.060, 107.000)
+VISIBILITY POWER_metadata_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_POWER_outside.png
+PASS POWER_metadata_0_in actualSteps=201 end=(128.134, 12.020, 107.105)
+VISIBILITY POWER_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_POWER_inside.png
+LANE POWER_metadata_0_out actualCorners=3 start=(128.500, 12.060, 107.000) goal=(102.365, 12.023, 114.467)
+VISIBILITY POWER_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS POWER_metadata_0_out actualSteps=201 end=(102.731, 12.013, 114.363)
+VISIBILITY POWER_metadata_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F03_POWER_returned_outside.png
+LANE S01_metadata_0_in actualCorners=3 start=(-204.732, 0.071, -60.336) goal=(-207.000, 0.120, -71.000)
+VISIBILITY S01_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S01_outside.png
+PASS S01_metadata_0_in actualSteps=79 end=(-206.923, 0.119, -70.639)
+VISIBILITY S01_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S01_inside.png
+LANE S01_metadata_0_out actualCorners=3 start=(-207.000, 0.120, -71.000) goal=(-204.732, 0.071, -60.336)
+VISIBILITY S01_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S01_metadata_0_out actualSteps=79 end=(-204.809, 0.049, -60.697)
+VISIBILITY S01_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S01_returned_outside.png
+LANE S01_metadata_1_in actualCorners=3 start=(-209.268, 0.063, -81.664) goal=(-207.000, 0.120, -71.000)
+VISIBILITY S01_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS S01_metadata_1_in actualSteps=79 end=(-207.077, 0.119, -71.361)
+VISIBILITY S01_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE S01_metadata_1_out actualCorners=3 start=(-207.000, 0.120, -71.000) goal=(-209.268, 0.063, -81.664)
+VISIBILITY S01_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S01_metadata_1_out actualSteps=79 end=(-209.191, 0.020, -81.303)
+VISIBILITY S01_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE S02_metadata_0_in actualCorners=3 start=(-173.034, 0.142, -69.158) goal=(-172.000, 0.180, -79.000)
+VISIBILITY S02_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S02_outside.png
+PASS S02_metadata_0_in actualSteps=71 end=(-172.045, 0.189, -78.573)
+VISIBILITY S02_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S02_inside.png
+LANE S02_metadata_0_out actualCorners=3 start=(-172.000, 0.180, -79.000) goal=(-173.034, 0.142, -69.158)
+VISIBILITY S02_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S02_metadata_0_out actualSteps=71 end=(-172.989, 0.099, -69.585)
+VISIBILITY S02_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S02_returned_outside.png
+LANE S02_metadata_1_in actualCorners=3 start=(-170.966, 0.060, -88.842) goal=(-172.000, 0.180, -79.000)
+VISIBILITY S02_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS S02_metadata_1_in actualSteps=71 end=(-171.955, 0.189, -79.427)
+VISIBILITY S02_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE S02_metadata_1_out actualCorners=3 start=(-172.000, 0.180, -79.000) goal=(-170.966, 0.060, -88.842)
+VISIBILITY S02_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S02_metadata_1_out actualSteps=71 end=(-171.011, 0.057, -88.415)
+VISIBILITY S02_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE S03_metadata_0_in actualCorners=3 start=(-140.689, 0.119, -64.689) goal=(-142.000, 0.180, -74.000)
+VISIBILITY S03_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S03_outside.png
+PASS S03_metadata_0_in actualSteps=67 end=(-141.935, 0.192, -73.535)
+VISIBILITY S03_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S03_inside.png
+LANE S03_metadata_0_out actualCorners=3 start=(-142.000, 0.180, -74.000) goal=(-140.689, 0.119, -64.689)
+VISIBILITY S03_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S03_metadata_0_out actualSteps=67 end=(-140.754, 0.074, -65.154)
+VISIBILITY S03_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S03_returned_outside.png
+LANE S03_metadata_1_in actualCorners=3 start=(-143.311, 0.060, -83.311) goal=(-142.000, 0.180, -74.000)
+VISIBILITY S03_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS S03_metadata_1_in actualSteps=67 end=(-142.066, 0.192, -74.465)
+VISIBILITY S03_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE S03_metadata_1_out actualCorners=3 start=(-142.000, 0.180, -74.000) goal=(-143.311, 0.060, -83.311)
+VISIBILITY S03_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S03_metadata_1_out actualSteps=67 end=(-143.246, 0.129, -82.846)
+VISIBILITY S03_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE S04_metadata_0_in actualCorners=3 start=(-113.446, 0.060, -72.704) goal=(-112.000, 0.120, -83.000)
+VISIBILITY S04_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S04_outside.png
+PASS S04_metadata_0_in actualSteps=75 end=(-112.055, 0.130, -82.607)
+VISIBILITY S04_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S04_inside.png
+LANE S04_metadata_0_out actualCorners=3 start=(-112.000, 0.120, -83.000) goal=(-113.446, 0.060, -72.704)
+VISIBILITY S04_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S04_metadata_0_out actualSteps=75 end=(-113.391, 0.052, -73.097)
+VISIBILITY S04_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S04_returned_outside.png
+LANE S04_metadata_1_in actualCorners=3 start=(-110.554, 0.034, -93.296) goal=(-112.000, 0.120, -83.000)
+VISIBILITY S04_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS S04_metadata_1_in actualSteps=75 end=(-111.945, 0.130, -83.393)
+VISIBILITY S04_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE S04_metadata_1_out actualCorners=3 start=(-112.000, 0.120, -83.000) goal=(-110.554, 0.034, -93.296)
+VISIBILITY S04_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S04_metadata_1_out actualSteps=75 end=(-110.609, 0.020, -92.903)
+VISIBILITY S04_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE S05_metadata_0_in actualCorners=3 start=(-212.326, 0.060, -113.180) goal=(-211.000, 0.240, -124.000)
+VISIBILITY S05_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S05_outside.png
+PASS S05_metadata_0_in actualSteps=79 end=(-211.045, 0.213, -123.635)
+VISIBILITY S05_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S05_inside.png
+LANE S05_metadata_0_out actualCorners=3 start=(-211.000, 0.240, -124.000) goal=(-212.326, 0.060, -113.180)
+VISIBILITY S05_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S05_metadata_0_out actualSteps=79 end=(-212.282, 0.072, -113.545)
+VISIBILITY S05_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S05_returned_outside.png
+LANE S05_metadata_1_in actualCorners=3 start=(-209.674, 0.120, -134.820) goal=(-211.000, 0.240, -124.000)
+VISIBILITY S05_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS S05_metadata_1_in actualSteps=79 end=(-210.955, 0.213, -124.365)
+VISIBILITY S05_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE S05_metadata_1_out actualCorners=3 start=(-211.000, 0.240, -124.000) goal=(-209.674, 0.120, -134.820)
+VISIBILITY S05_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S05_metadata_1_out actualSteps=79 end=(-209.718, 0.091, -134.455)
+VISIBILITY S05_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE S06_metadata_0_in actualCorners=3 start=(-171.920, 0.273, -107.301) goal=(-174.000, 0.360, -118.000)
+VISIBILITY S06_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S06_outside.png
+PASS S06_metadata_0_in actualSteps=78 end=(-173.905, 0.325, -117.510)
+VISIBILITY S06_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S06_inside.png
+LANE S06_metadata_0_out actualCorners=3 start=(-174.000, 0.360, -118.000) goal=(-171.920, 0.273, -107.301)
+VISIBILITY S06_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S06_metadata_0_out actualSteps=78 end=(-172.015, 0.240, -107.791)
+VISIBILITY S06_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S06_returned_outside.png
+LANE S06_metadata_1_in actualCorners=3 start=(-176.080, 0.234, -128.699) goal=(-174.000, 0.360, -118.000)
+VISIBILITY S06_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS S06_metadata_1_in actualSteps=78 end=(-174.095, 0.325, -118.490)
+VISIBILITY S06_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE S06_metadata_1_out actualCorners=3 start=(-174.000, 0.360, -118.000) goal=(-176.080, 0.234, -128.699)
+VISIBILITY S06_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S06_metadata_1_out actualSteps=78 end=(-175.985, 0.207, -128.209)
+VISIBILITY S06_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE S07_metadata_0_in actualCorners=3 start=(-145.951, 0.245, -98.141) goal=(-145.000, 0.360, -109.000)
+VISIBILITY S07_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S07_outside.png
+PASS S07_metadata_0_in actualSteps=79 end=(-145.032, 0.325, -108.634)
+VISIBILITY S07_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S07_inside.png
+LANE S07_metadata_0_out actualCorners=3 start=(-145.000, 0.360, -109.000) goal=(-145.951, 0.245, -98.141)
+VISIBILITY S07_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S07_metadata_0_out actualSteps=79 end=(-145.919, 0.240, -98.507)
+VISIBILITY S07_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S07_returned_outside.png
+LANE S07_metadata_1_in actualCorners=3 start=(-144.049, 0.340, -119.859) goal=(-145.000, 0.360, -109.000)
+VISIBILITY S07_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS S07_metadata_1_in actualSteps=79 end=(-144.968, 0.325, -109.366)
+VISIBILITY S07_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE S07_metadata_1_out actualCorners=3 start=(-145.000, 0.360, -109.000) goal=(-144.049, 0.340, -119.859)
+VISIBILITY S07_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S07_metadata_1_out actualSteps=79 end=(-144.081, 0.264, -119.493)
+VISIBILITY S07_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE S08_metadata_0_in actualCorners=3 start=(-143.792, 0.217, -137.175) goal=(-145.000, 0.300, -147.000)
+VISIBILITY S08_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S08_outside.png
+PASS S08_metadata_0_in actualSteps=71 end=(-144.947, 0.273, -146.571)
+VISIBILITY S08_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S08_inside.png
+LANE S08_metadata_0_out actualCorners=3 start=(-145.000, 0.300, -147.000) goal=(-143.792, 0.217, -137.175)
+VISIBILITY S08_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S08_metadata_0_out actualSteps=71 end=(-143.844, 0.211, -137.604)
+VISIBILITY S08_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S08_returned_outside.png
+LANE S08_metadata_1_in actualCorners=3 start=(-146.209, 0.174, -156.825) goal=(-145.000, 0.300, -147.000)
+VISIBILITY S08_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS S08_metadata_1_in actualSteps=71 end=(-145.053, 0.273, -147.429)
+VISIBILITY S08_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE S08_metadata_1_out actualCorners=3 start=(-145.000, 0.300, -147.000) goal=(-146.209, 0.174, -156.825)
+VISIBILITY S08_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S08_metadata_1_out actualSteps=71 end=(-146.156, 0.163, -156.396)
+VISIBILITY S08_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE S09_metadata_0_in actualCorners=3 start=(-197.547, 0.170, -147.222) goal=(-196.000, 0.240, -157.000)
+VISIBILITY S09_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S09_outside.png
+PASS S09_metadata_0_in actualSteps=71 end=(-196.068, 0.240, -156.572)
+VISIBILITY S09_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S09_inside.png
+LANE S09_metadata_0_out actualCorners=3 start=(-196.000, 0.240, -157.000) goal=(-197.547, 0.170, -147.222)
+VISIBILITY S09_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S09_metadata_0_out actualSteps=71 end=(-197.480, 0.174, -147.650)
+VISIBILITY S09_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S09_returned_outside.png
+LANE S09_metadata_1_in actualCorners=3 start=(-194.453, 0.180, -166.778) goal=(-196.000, 0.240, -157.000)
+VISIBILITY S09_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS S09_metadata_1_in actualSteps=71 end=(-195.932, 0.240, -157.428)
+VISIBILITY S09_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE S09_metadata_1_out actualCorners=3 start=(-196.000, 0.240, -157.000) goal=(-194.453, 0.180, -166.778)
+VISIBILITY S09_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S09_metadata_1_out actualSteps=71 end=(-194.521, 0.158, -166.350)
+VISIBILITY S09_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE S10_metadata_0_in actualCorners=3 start=(-103.914, 0.217, -151.166) goal=(-105.000, 0.240, -160.000)
+VISIBILITY S10_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S10_outside.png
+PASS S10_metadata_0_in actualSteps=64 end=(-104.955, 0.225, -159.635)
+VISIBILITY S10_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S10_inside.png
+LANE S10_metadata_0_out actualCorners=3 start=(-105.000, 0.240, -160.000) goal=(-103.914, 0.217, -151.166)
+VISIBILITY S10_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S10_metadata_0_out actualSteps=64 end=(-103.959, 0.154, -151.530)
+VISIBILITY S10_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S10_returned_outside.png
+LANE S10_metadata_1_in actualCorners=3 start=(-106.086, 0.180, -168.835) goal=(-105.000, 0.240, -160.000)
+VISIBILITY S10_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS S10_metadata_1_in actualSteps=64 end=(-105.045, 0.225, -160.365)
+VISIBILITY S10_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE S10_metadata_1_out actualCorners=3 start=(-105.000, 0.240, -160.000) goal=(-106.086, 0.180, -168.835)
+VISIBILITY S10_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S10_metadata_1_out actualSteps=64 end=(-106.041, 0.157, -168.470)
+VISIBILITY S10_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE S11_metadata_0_in actualCorners=3 start=(-79.137, 0.344, -81.733) goal=(-81.000, 0.480, -95.000)
+VISIBILITY S11_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F06_S11_outside.png
+PASS S11_metadata_0_in actualSteps=97 end=(-80.936, 0.462, -94.541)
+VISIBILITY S11_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F06_S11_inside.png
+LANE S11_metadata_0_out actualCorners=3 start=(-81.000, 0.480, -95.000) goal=(-79.137, 0.344, -81.733)
+VISIBILITY S11_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S11_metadata_0_out actualSteps=97 end=(-79.202, 0.337, -82.192)
+VISIBILITY S11_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F06_S11_returned_outside.png
+LANE S11_metadata_1_in actualCorners=3 start=(-82.863, 0.269, -108.267) goal=(-81.000, 0.480, -95.000)
+VISIBILITY S11_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS S11_metadata_1_in actualSteps=97 end=(-81.064, 0.462, -95.459)
+VISIBILITY S11_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE S11_metadata_1_out actualCorners=3 start=(-81.000, 0.480, -95.000) goal=(-82.863, 0.269, -108.267)
+VISIBILITY S11_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S11_metadata_1_out actualSteps=97 end=(-82.798, 0.281, -107.808)
+VISIBILITY S11_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE S12_metadata_0_in actualCorners=3 start=(-52.906, -0.047, -103.656) goal=(-52.000, 0.084, -111.000)
+VISIBILITY S12_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S12_outside.png
+PASS S12_metadata_0_in actualSteps=52 end=(-52.057, 0.047, -110.537)
+VISIBILITY S12_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S12_inside.png
+LANE S12_metadata_0_out actualCorners=3 start=(-52.000, 0.084, -111.000) goal=(-52.906, -0.047, -103.656)
+VISIBILITY S12_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S12_metadata_0_out actualSteps=52 end=(-52.849, -0.072, -104.119)
+VISIBILITY S12_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F08_S12_returned_outside.png
+LANE S12_metadata_1_in actualCorners=3 start=(-51.094, 0.000, -118.345) goal=(-52.000, 0.084, -111.000)
+VISIBILITY S12_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS S12_metadata_1_in actualSteps=52 end=(-51.943, 0.047, -111.463)
+VISIBILITY S12_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE S12_metadata_1_out actualCorners=3 start=(-52.000, 0.084, -111.000) goal=(-51.094, 0.000, -118.345)
+VISIBILITY S12_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS S12_metadata_1_out actualSteps=52 end=(-51.151, -0.018, -117.881)
+VISIBILITY S12_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE TOOLS_metadata_0_in actualCorners=3 start=(-155.302, 1.032, 4.919) goal=(-167.500, 1.020, 5.500)
+VISIBILITY TOOLS_metadata_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_TOOLS_outside.png
+PASS TOOLS_metadata_0_in actualSteps=88 end=(-167.022, 1.020, 5.477)
+VISIBILITY TOOLS_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_TOOLS_inside.png
+LANE TOOLS_metadata_0_out actualCorners=3 start=(-167.500, 1.020, 5.500) goal=(-155.302, 1.032, 4.919)
+VISIBILITY TOOLS_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS TOOLS_metadata_0_out actualSteps=88 end=(-155.780, 1.020, 4.942)
+VISIBILITY TOOLS_metadata_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_TOOLS_returned_outside.png
+LANE W01_scanned_Zminus_-1_in actualCorners=4 start=(-213.065, 2.050, 40.830) goal=(-214.000, 2.460, 50.000)
+VISIBILITY W01_scanned_Zminus_-1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_W01_outside.png
+PASS W01_scanned_Zminus_-1_in actualSteps=66 end=(-213.969, 2.423, 49.569)
+VISIBILITY W01_scanned_Zminus_-1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_W01_inside.png
+LANE W01_scanned_Zminus_-1_out actualCorners=4 start=(-214.000, 2.460, 50.000) goal=(-213.065, 2.050, 40.830)
+VISIBILITY W01_scanned_Zminus_-1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS W01_scanned_Zminus_-1_out actualSteps=66 end=(-213.140, 2.113, 41.256)
+VISIBILITY W01_scanned_Zminus_-1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_W01_returned_outside.png
+LANE W02_metadata_1_in actualCorners=3 start=(-182.208, 1.670, 29.176) goal=(-181.000, 1.920, 39.000)
+VISIBILITY W02_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_W02_outside.png
+PASS W02_metadata_1_in actualSteps=71 end=(-181.053, 1.903, 38.572)
+VISIBILITY W02_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_W02_inside.png
+LANE W02_metadata_1_out actualCorners=3 start=(-181.000, 1.920, 39.000) goal=(-182.208, 1.670, 29.176)
+VISIBILITY W02_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS W02_metadata_1_out actualSteps=71 end=(-182.155, 1.706, 29.604)
+VISIBILITY W02_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_W02_returned_outside.png
+LANE W03_metadata_1_in actualCorners=3 start=(-135.094, 2.473, 31.640) goal=(-136.000, 2.940, 42.000)
+VISIBILITY W03_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_W03_outside.png
+PASS W03_metadata_1_in actualSteps=75 end=(-135.965, 2.910, 41.602)
+VISIBILITY W03_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_W03_inside.png
+LANE W03_metadata_1_out actualCorners=3 start=(-136.000, 2.940, 42.000) goal=(-135.094, 2.473, 31.640)
+VISIBILITY W03_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS W03_metadata_1_out actualSteps=75 end=(-135.129, 2.532, 32.038)
+VISIBILITY W03_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_W03_returned_outside.png
+LANE W04_scanned_Zminus_-1_in actualCorners=4 start=(-100.648, 1.928, 17.368) goal=(-99.000, 2.280, 31.000)
+VISIBILITY W04_scanned_Zminus_-1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_W04_outside.png
+PASS W04_scanned_Zminus_-1_in actualSteps=100 end=(-99.054, 2.296, 30.599)
+VISIBILITY W04_scanned_Zminus_-1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_W04_inside.png
+LANE W04_scanned_Zminus_-1_out actualCorners=4 start=(-99.000, 2.280, 31.000) goal=(-100.648, 1.928, 17.368)
+VISIBILITY W04_scanned_Zminus_-1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS W04_scanned_Zminus_-1_out actualSteps=100 end=(-100.621, 1.988, 17.772)
+VISIBILITY W04_scanned_Zminus_-1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_W04_returned_outside.png
+LANE W05_metadata_0_in actualCorners=3 start=(-133.573, 1.716, 21.804) goal=(-132.000, 1.800, 9.000)
+VISIBILITY W05_metadata_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_W05_outside.png
+PASS W05_metadata_0_in actualSteps=94 end=(-132.045, 1.761, 9.364)
+VISIBILITY W05_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_W05_inside.png
+LANE W05_metadata_0_out actualCorners=3 start=(-132.000, 1.800, 9.000) goal=(-133.573, 1.716, 21.804)
+VISIBILITY W05_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS W05_metadata_0_out actualSteps=94 end=(-133.528, 1.667, 21.440)
+VISIBILITY W05_metadata_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_W05_returned_outside.png
+LANE W05_scanned_Zplus_-12_in actualCorners=4 start=(-142.500, 1.560, 20.657) goal=(-132.000, 1.800, 9.000)
+VISIBILITY W05_scanned_Zplus_-12_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS W05_scanned_Zplus_-12_in actualSteps=118 end=(-132.318, 1.761, 9.286)
+VISIBILITY W05_scanned_Zplus_-12_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE W05_scanned_Zplus_-12_out actualCorners=4 start=(-132.000, 1.800, 9.000) goal=(-142.500, 1.560, 20.657)
+VISIBILITY W05_scanned_Zplus_-12_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS W05_scanned_Zplus_-12_out actualSteps=118 end=(-142.403, 1.572, 20.245)
+VISIBILITY W05_scanned_Zplus_-12_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE W06_metadata_0_in actualCorners=3 start=(-79.000, 1.720, -3.100) goal=(-79.000, 1.800, -17.000)
+VISIBILITY W06_metadata_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_W06_outside.png
+PASS W06_metadata_0_in actualSteps=101 end=(-79.000, 1.796, -16.567)
+VISIBILITY W06_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_W06_inside.png
+LANE W06_metadata_0_out actualCorners=3 start=(-79.000, 1.800, -17.000) goal=(-79.000, 1.720, -3.100)
+VISIBILITY W06_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS W06_metadata_0_out actualSteps=101 end=(-79.000, 1.713, -3.533)
+VISIBILITY W06_metadata_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F05_W06_returned_outside.png
+LANE W06_metadata_1_in actualCorners=3 start=(-79.000, 1.650, -30.900) goal=(-79.000, 1.800, -17.000)
+VISIBILITY W06_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS W06_metadata_1_in actualSteps=101 end=(-79.000, 1.796, -17.433)
+VISIBILITY W06_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE W06_metadata_1_out actualCorners=3 start=(-79.000, 1.800, -17.000) goal=(-79.000, 1.650, -30.900)
+VISIBILITY W06_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS W06_metadata_1_out actualSteps=101 end=(-79.000, 1.633, -30.467)
+VISIBILITY W06_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE W07_metadata_1_in actualCorners=3 start=(-100.545, 1.249, -46.778) goal=(-99.000, 1.440, -37.000)
+VISIBILITY W07_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_W07_outside.png
+PASS W07_metadata_1_in actualSteps=71 end=(-99.068, 1.450, -37.428)
+VISIBILITY W07_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_W07_inside.png
+LANE W07_metadata_1_out actualCorners=3 start=(-99.000, 1.440, -37.000) goal=(-100.545, 1.249, -46.778)
+VISIBILITY W07_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS W07_metadata_1_out actualSteps=71 end=(-100.478, 1.266, -46.351)
+VISIBILITY W07_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_W07_returned_outside.png
+LANE W08_metadata_0_in actualCorners=3 start=(-184.379, 0.511, -25.194) goal=(-183.000, 0.540, -35.000)
+VISIBILITY W08_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F06_W08_outside.png
+PASS W08_metadata_0_in actualSteps=71 end=(-183.061, 0.508, -34.569)
+VISIBILITY W08_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F06_W08_inside.png
+LANE W08_metadata_0_out actualCorners=3 start=(-183.000, 0.540, -35.000) goal=(-184.379, 0.511, -25.194)
+VISIBILITY W08_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS W08_metadata_0_out actualSteps=71 end=(-184.319, 0.385, -25.626)
+VISIBILITY W08_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F06_W08_returned_outside.png
+LANE W08_scanned_Zplus_-17_in actualCorners=5 start=(-196.998, 0.427, -27.020) goal=(-183.000, 0.540, -35.000)
+VISIBILITY W08_scanned_Zplus_-17_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS W08_scanned_Zplus_-17_in actualSteps=125 end=(-183.401, 0.508, -34.822)
+VISIBILITY W08_scanned_Zplus_-17_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE W08_scanned_Zplus_-17_out actualCorners=5 start=(-183.000, 0.540, -35.000) goal=(-196.998, 0.427, -27.020)
+VISIBILITY W08_scanned_Zplus_-17_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS W08_scanned_Zplus_-17_out actualSteps=125 end=(-196.877, 0.395, -27.481)
+VISIBILITY W08_scanned_Zplus_-17_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE W09_metadata_0_in actualCorners=3 start=(-212.004, 1.080, 22.355) goal=(-213.000, 1.140, 11.000)
+VISIBILITY W09_metadata_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_W09_outside.png
+PASS W09_metadata_0_in actualSteps=82 end=(-212.959, 1.138, 11.463)
+VISIBILITY W09_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_W09_inside.png
+LANE W09_metadata_0_out actualCorners=3 start=(-213.000, 1.140, 11.000) goal=(-212.004, 1.080, 22.355)
+VISIBILITY W09_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS W09_metadata_0_out actualSteps=82 end=(-212.045, 1.052, 21.892)
+VISIBILITY W09_metadata_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_W09_returned_outside.png
+LANE W10_metadata_0_in actualCorners=3 start=(-139.412, 0.930, -37.618) goal=(-140.000, 1.086, -46.000)
+VISIBILITY W10_metadata_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_W10_outside.png
+PASS W10_metadata_0_in actualSteps=60 end=(-139.972, 1.067, -45.599)
+VISIBILITY W10_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_W10_inside.png
+LANE W10_metadata_0_out actualCorners=3 start=(-140.000, 1.086, -46.000) goal=(-139.412, 0.930, -37.618)
+VISIBILITY W10_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS W10_metadata_0_out actualSteps=60 end=(-139.440, 0.923, -38.020)
+VISIBILITY W10_metadata_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_W10_returned_outside.png
+LANE W10_metadata_1_in actualCorners=3 start=(-140.588, 0.849, -54.382) goal=(-140.000, 1.086, -46.000)
+VISIBILITY W10_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS W10_metadata_1_in actualSteps=60 end=(-140.028, 1.067, -46.401)
+VISIBILITY W10_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE W10_metadata_1_out actualCorners=3 start=(-140.000, 1.086, -46.000) goal=(-140.588, 0.849, -54.382)
+VISIBILITY W10_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS W10_metadata_1_out actualSteps=60 end=(-140.560, 0.841, -53.980)
+VISIBILITY W10_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE W11_metadata_0_in actualCorners=3 start=(-82.195, 5.168, 87.244) goal=(-84.000, 5.340, 77.000)
+VISIBILITY W11_metadata_0_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_W11_outside.png
+PASS W11_metadata_0_in actualSteps=75 end=(-83.930, 5.311, 77.396)
+VISIBILITY W11_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_W11_inside.png
+LANE W11_metadata_0_out actualCorners=3 start=(-84.000, 5.340, 77.000) goal=(-82.195, 5.168, 87.244)
+VISIBILITY W11_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS W11_metadata_0_out actualSteps=75 end=(-82.265, 5.145, 86.848)
+VISIBILITY W11_metadata_0_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F04_W11_returned_outside.png
+LANE W11_metadata_1_in actualCorners=3 start=(-85.805, 5.244, 66.756) goal=(-84.000, 5.340, 77.000)
+VISIBILITY W11_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS W11_metadata_1_in actualSteps=75 end=(-84.070, 5.311, 76.604)
+VISIBILITY W11_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE W11_metadata_1_out actualCorners=3 start=(-84.000, 5.340, 77.000) goal=(-85.805, 5.244, 66.756)
+VISIBILITY W11_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS W11_metadata_1_out actualSteps=75 end=(-85.735, 5.188, 67.152)
+VISIBILITY W11_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE Y01_metadata_1_in actualCorners=3 start=(-28.512, 0.090, -119.304) goal=(-27.000, 0.120, -107.000)
+VISIBILITY Y01_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F06_Y01_outside.png
+PASS Y01_metadata_1_in actualSteps=90 end=(-27.048, 0.127, -107.394)
+VISIBILITY Y01_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F06_Y01_inside.png
+LANE Y01_metadata_1_out actualCorners=3 start=(-27.000, 0.120, -107.000) goal=(-28.512, 0.090, -119.304)
+VISIBILITY Y01_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS Y01_metadata_1_out actualSteps=90 end=(-28.464, 0.044, -118.910)
+VISIBILITY Y01_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F06_Y01_returned_outside.png
+LANE Y02_metadata_1_in actualCorners=3 start=(21.473, -0.060, -126.282) goal=(20.000, 0.060, -117.000)
+VISIBILITY Y02_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F06_Y02_outside.png
+PASS Y02_metadata_1_in actualSteps=67 end=(20.073, 0.025, -117.459)
+VISIBILITY Y02_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F06_Y02_inside.png
+LANE Y02_metadata_1_out actualCorners=3 start=(20.000, 0.060, -117.000) goal=(21.473, -0.060, -126.282)
+VISIBILITY Y02_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS Y02_metadata_1_out actualSteps=67 end=(21.400, -0.080, -125.823)
+VISIBILITY Y02_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F06_Y02_returned_outside.png
+LANE Y03_scanned_Xminus_-1_in actualCorners=7 start=(-51.870, 0.051, -155.624) goal=(-39.000, 0.060, -156.000)
+VISIBILITY Y03_scanned_Xminus_-1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_Y03_outside.png
+PASS Y03_scanned_Xminus_-1_in actualSteps=103 end=(-39.420, 0.058, -156.109)
+VISIBILITY Y03_scanned_Xminus_-1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_Y03_inside.png
+LANE Y03_scanned_Xminus_-1_out actualCorners=7 start=(-39.000, 0.060, -156.000) goal=(-51.870, 0.051, -155.624)
+VISIBILITY Y03_scanned_Xminus_-1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS Y03_scanned_Xminus_-1_out actualSteps=103 end=(-51.468, -0.016, -155.728)
+VISIBILITY Y03_scanned_Xminus_-1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F07_Y03_returned_outside.png
+LANE Y04_metadata_0_in actualCorners=3 start=(50.393, 0.112, -82.212) goal=(49.000, 0.180, -91.000)
+VISIBILITY Y04_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F10_Y04_outside.png
+PASS Y04_metadata_0_in actualSteps=63 end=(49.078, 0.185, -90.508)
+VISIBILITY Y04_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F10_Y04_inside.png
+LANE Y04_metadata_0_out actualCorners=3 start=(49.000, 0.180, -91.000) goal=(50.393, 0.112, -82.212)
+VISIBILITY Y04_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS Y04_metadata_0_out actualSteps=63 end=(50.315, 0.049, -82.704)
+VISIBILITY Y04_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F10_Y04_returned_outside.png
+LANE Y04_metadata_1_in actualCorners=3 start=(47.607, 0.124, -99.788) goal=(49.000, 0.180, -91.000)
+VISIBILITY Y04_metadata_1_in start roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+PASS Y04_metadata_1_in actualSteps=63 end=(48.922, 0.185, -91.492)
+VISIBILITY Y04_metadata_1_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE Y04_metadata_1_out actualCorners=3 start=(49.000, 0.180, -91.000) goal=(47.607, 0.124, -99.788)
+VISIBILITY Y04_metadata_1_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS Y04_metadata_1_out actualSteps=63 end=(47.685, 0.108, -99.296)
+VISIBILITY Y04_metadata_1_out finish roof=True renderOccludes=True cue=True silhouette=True reveal=True hallCue=False
+LANE Y05_metadata_0_in actualCorners=3 start=(-89.000, 0.176, -173.100) goal=(-89.000, 0.360, -182.000)
+VISIBILITY Y05_metadata_0_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F06_Y05_outside.png
+PASS Y05_metadata_0_in actualSteps=64 end=(-89.000, 0.354, -181.631)
+VISIBILITY Y05_metadata_0_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F06_Y05_inside.png
+LANE Y05_metadata_0_out actualCorners=3 start=(-89.000, 0.360, -182.000) goal=(-89.000, 0.176, -173.100)
+VISIBILITY Y05_metadata_0_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS Y05_metadata_0_out actualSteps=64 end=(-89.000, 0.283, -173.467)
+VISIBILITY Y05_metadata_0_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+CAPTURE C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12\play_attempt_01\after_play_F06_Y05_returned_outside.png
+LANE Y05_scanned_Zplus_-17_in actualCorners=5 start=(-101.750, 0.180, -173.150) goal=(-89.000, 0.360, -182.000)
+VISIBILITY Y05_scanned_Zplus_-17_in start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS Y05_scanned_Zplus_-17_in actualSteps=122 end=(-89.366, 0.354, -181.742)
+VISIBILITY Y05_scanned_Zplus_-17_in finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+LANE Y05_scanned_Zplus_-17_out actualCorners=5 start=(-89.000, 0.360, -182.000) goal=(-101.750, 0.180, -173.150)
+VISIBILITY Y05_scanned_Zplus_-17_out start roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+PASS Y05_scanned_Zplus_-17_out actualSteps=122 end=(-101.680, 0.188, -173.583)
+VISIBILITY Y05_scanned_Zplus_-17_out finish roof=True renderOccludes=False cue=False silhouette=False reveal=False hallCue=False
+passed=204 failed=0 originalDoorLanes=204 buildings=69
+RESULT PASS

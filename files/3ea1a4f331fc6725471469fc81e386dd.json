@@ -1,0 +1,135 @@
+[
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\CurrentSourceClearanceFieldBudget.cs",
+    "beforeSHA256": "4e589b1f07afc875e51546680ca62fde7c0e17c30220a2a4bce7222f4441783e",
+    "afterSHA256": "4e589b1f07afc875e51546680ca62fde7c0e17c30220a2a4bce7222f4441783e",
+    "intentionallyModifiedForThisTask": false,
+    "preservedMatch": true
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\SdHairCollisionMotion.cs",
+    "beforeSHA256": "f5c787a4997e6e198a76a20bd4b0d076a686b09e5edbf361cf7b51a24554df89",
+    "afterSHA256": "f5c787a4997e6e198a76a20bd4b0d076a686b09e5edbf361cf7b51a24554df89",
+    "intentionallyModifiedForThisTask": false,
+    "preservedMatch": true
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\UI\\InventoryPortrait.cs",
+    "beforeSHA256": "1e75a87912c829391342bbd93683c076d85d6560d216f897d9444291f11ba181",
+    "afterSHA256": "452691d4fa7297ff472b9353620888518ba1424650c0a138c25d3aa18134f98f",
+    "intentionallyModifiedForThisTask": true,
+    "preservedMatch": false
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\SdIdlePresentation.cs",
+    "beforeSHA256": "31dae02c69948f86670c49e5d6e0cc0bab0119254d93650561ab0661099f120b",
+    "afterSHA256": "ec809313c951ddea5d60fe8669cc2a08f26b17beba089693e37fd3364473b8c1",
+    "intentionallyModifiedForThisTask": true,
+    "preservedMatch": false
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\BodySurfaceProjector.cs",
+    "beforeSHA256": "6c295e67279bc9ed5314cf7123ab3f7dae67e4dc21f7c316e0ba0466688df33c",
+    "afterSHA256": "6c295e67279bc9ed5314cf7123ab3f7dae67e4dc21f7c316e0ba0466688df33c",
+    "intentionallyModifiedForThisTask": false,
+    "preservedMatch": true
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Environment\\AMapRuinIvyRevealBinding.cs",
+    "beforeSHA256": "e9dd175a35392be619fe9856a142772171910e89eb007698fc8b0736bb0ec26a",
+    "afterSHA256": "e9dd175a35392be619fe9856a142772171910e89eb007698fc8b0736bb0ec26a",
+    "intentionallyModifiedForThisTask": false,
+    "preservedMatch": true
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\UI\\WeaponModelThumbnails.cs",
+    "beforeSHA256": "82970c8540ff4d27ce83701209a1385aa771d83ae5d6a62a835c1c94ce48638f",
+    "afterSHA256": "82970c8540ff4d27ce83701209a1385aa771d83ae5d6a62a835c1c94ce48638f",
+    "intentionallyModifiedForThisTask": false,
+    "preservedMatch": true
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Scenes\\StageA_Relay_Blockout_v08.unity",
+    "beforeSHA256": "11c4100c8d129ffd04c83aad7bba97b20c1d7f703d4f84de9e84754d9d988e6a",
+    "afterSHA256": "11c4100c8d129ffd04c83aad7bba97b20c1d7f703d4f84de9e84754d9d988e6a",
+    "intentionallyModifiedForThisTask": false,
+    "preservedMatch": true
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\StageMaps\\StageA_Relay_Blockout_v08.prefab",
+    "beforeSHA256": "26c8e548b074d96a36a33bfb9cfa7d354bf1c220729d6bd3f1455710d65e98e9",
+    "afterSHA256": "26c8e548b074d96a36a33bfb9cfa7d354bf1c220729d6bd3f1455710d65e98e9",
+    "intentionallyModifiedForThisTask": false,
+    "preservedMatch": true
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\UI\\ItemIcons\\TEST_EDEL_S4_MAINTENANCE.png",
+    "beforeSHA256": "2515e99e7dd061889abda81a86729f90ca9db2f4d6834826d0e85f6a26377b9a",
+    "afterSHA256": "2515e99e7dd061889abda81a86729f90ca9db2f4d6834826d0e85f6a26377b9a",
+    "intentionallyModifiedForThisTask": false,
+    "preservedMatch": true
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\ArmorItemThumbnailBaker.cs",
+    "beforeSHA256": "dbfe545444b01377226ca18e5d3752f0abc8f0b40003bbe73e66d4700975c4d8",
+    "afterSHA256": "dbfe545444b01377226ca18e5d3752f0abc8f0b40003bbe73e66d4700975c4d8",
+    "intentionallyModifiedForThisTask": false,
+    "preservedMatch": true
+  },
+  {
+    "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\Edel_S4_Fitting_Master_r14.blend",
+    "beforeSHA256": "4ecf29dfff3e550a534f9243c055a42e6dd04c5fdce40b7064b4d6c43ed7a3af",
+    "afterSHA256": "4ecf29dfff3e550a534f9243c055a42e6dd04c5fdce40b7064b4d6c43ed7a3af",
+    "intentionallyModifiedForThisTask": false,
+    "preservedMatch": true
+  },
+  {
+    "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\equipment-fitting-20261102\\Serin_BASE.blend",
+    "beforeSHA256": "c1d8536cf00636be099208ef84f55f884c6f30e8f593f53d082ac695c8fb10ac",
+    "afterSHA256": "c1d8536cf00636be099208ef84f55f884c6f30e8f593f53d082ac695c8fb10ac",
+    "intentionallyModifiedForThisTask": false,
+    "preservedMatch": true
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\SdCharacterVisual.cs",
+    "beforeSHA256": "31489084827cd82f2e289263c3043fab3e42133f736e672c46a053971c1918ba",
+    "afterSHA256": "700b9f955d18353948818a17d61f7953bef7dc1028f495ee2995f7b1ce660ee5",
+    "intentionallyModifiedForThisTask": true,
+    "preservedMatch": false
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\SdWeaponPose.cs",
+    "beforeSHA256": "5f61536e38a21e011d416397c924fae41245fe70a3f6d091f774dc88d2bda465",
+    "afterSHA256": "10629afad08d0cce62fbf2e8a79ff1f0b90cb8489021b9c8e481bfd6a6bcb236",
+    "intentionallyModifiedForThisTask": true,
+    "preservedMatch": false
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\SD.controller",
+    "beforeSHA256": "7095b7f6ba498ab8c647ec407e68d0e1874493b6ec5f1828a17586f91f12cccc",
+    "afterSHA256": "7095b7f6ba498ab8c647ec407e68d0e1874493b6ec5f1828a17586f91f12cccc",
+    "intentionallyModifiedForThisTask": false,
+    "preservedMatch": true
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\Characters.asset",
+    "beforeSHA256": "7bb1f38cb9f3b839ea9881282e8055fec131e2bd4027bc0eac572c2a3b93308d",
+    "afterSHA256": "7bb1f38cb9f3b839ea9881282e8055fec131e2bd4027bc0eac572c2a3b93308d",
+    "intentionallyModifiedForThisTask": false,
+    "preservedMatch": true
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Edel_Roster.overrideController",
+    "beforeSHA256": "fd140567d472b982deb30025b64530fa0ee14d3eb7353b8c37fccdf462a3965f",
+    "afterSHA256": "fd140567d472b982deb30025b64530fa0ee14d3eb7353b8c37fccdf462a3965f",
+    "intentionallyModifiedForThisTask": false,
+    "preservedMatch": true
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Serin_Roster.overrideController",
+    "beforeSHA256": "8243d87152cc4c22812b8af28304477114ee5597e966f84f1692949704d484f2",
+    "afterSHA256": "8243d87152cc4c22812b8af28304477114ee5597e966f84f1692949704d484f2",
+    "intentionallyModifiedForThisTask": false,
+    "preservedMatch": true
+  }
+]

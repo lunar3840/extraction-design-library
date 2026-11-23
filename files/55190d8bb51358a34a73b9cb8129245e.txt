@@ -1,0 +1,16 @@
+Environment weathering validation: FAIL 1. PreviewScene only; open user scene not saved.
+FAIL URP Lit/D09 clone, strength zero, source PBR/D09 slots, Clear and unsupported skips: System.InvalidOperationException: Emission keyword changed
+  at Escape.EditorTools.SurfaceEnvironmentValidation.EnvironmentToolsValidation.CheckPbrSlots (UnityEngine.Material source, UnityEngine.Material clone) [0x00248] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\EnvironmentToolsValidation.cs:413 
+  at Escape.EditorTools.SurfaceEnvironmentValidation.EnvironmentToolsValidation.TestMaterialSlots (UnityEngine.SceneManagement.Scene scene, System.Collections.Generic.List`1[T] owned) [0x0081c] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\EnvironmentToolsValidation.cs:260 
+  at Escape.EditorTools.SurfaceEnvironmentValidation.EnvironmentToolsValidation+<>c__DisplayClass5_0.<ValidateWeathering>b__0 () [0x00000] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\EnvironmentToolsValidation.cs:125 
+  at Escape.EditorTools.SurfaceEnvironmentValidation.EnvironmentToolsValidation.Check (System.String label, System.Action action) [0x00000] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\EnvironmentToolsValidation.cs:805 
+  checkpoint car preview eligible=1
+  checkpoint car Bake=Assets/Escape/Art/SurfaceWeathering/Generated/StageA_v12_RustyVehicle_Car_a4fba73c/StageA_v12_RustyVehicle_Car_Weathered.prefab
+  checkpoint car saved .mat and prefab renderer values match pre-Bake
+  persisted real car demonstration: Assets/Escape/Art/SurfaceWeathering/Generated/StageA_v12_RustyVehicle_Car_a4fba73c/StageA_v12_RustyVehicle_Car_Weathered.prefab; eligible slots=1
+PASS real car Bake, prefab reload, source asset and geometry preservation
+  checkpoint S06 preview: plaster=9 masonry=16 metal=10 wood/glass skipped=17
+  checkpoint S06 Bake=Assets/Escape/Art/SurfaceWeathering/Generated/S06_Shell_3689bc78/S06_Shell_Weathered.prefab
+  checkpoint S06 saved .mat and prefab renderer values match pre-Bake
+  persisted S06 D09 demonstration: Assets/Escape/Art/SurfaceWeathering/Generated/S06_Shell_3689bc78/S06_Shell_Weathered.prefab; eligible slots=36
+PASS real D09 shell Bake and per-material recipe persistence

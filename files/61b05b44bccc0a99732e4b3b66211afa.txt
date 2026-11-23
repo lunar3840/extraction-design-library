@@ -1,0 +1,21 @@
+STAGE_A_SHADER_D15_INDEPENDENT_VALIDATION
+PASS retained A scene available in Edit mode
+PASS immutable fresh D15 baseline exists
+PASS snapshot schema and original prefab hash valid
+PASS same retained A scene
+PASS all original objects, transforms, colliders, meshes and gameplay fields preserved; count=42938 missing=0 added=0 changedStructure=0 rootCoreEqual=True
+PASS exactly one enabled D15 profile component added directly to A root
+PASS D15 exact slot replacement manifest exists
+PASS only exact D15-manifested material slots changed within representative test area; declared=130 changed=130 duplicate=0 missing=0 added=0 rejected=0 stale=0 rendererChanges=0 outOfScope=0
+PASS all changed materials have supported, error-free shaders; errors=0
+PASS sampled pilot slots preserve original transparency, cutout, cull, blend, depth, queue and base texture UVs; transparentReplaced=0 transparencyDrift=0 textureDrift=0
+PASS all original appearance changes correspond exactly to approved renderer slots; changedObjects=61 changedRenderers=61 unrelated=0
+PASS original referenced assets/dependencies byte identical, except declared gated Toon source; changed=0
+PASS all original Light/Volume and global sky, fog, ambient, URP configuration unchanged
+PASS A spawn tiers, dormant risk entries and seven exits retained
+NOTE current prefab SHA256=BDD90E11270D65EAF0F48854EC02C71E1734D2A5C1DF86EB96EC663BA6367083; save/reload validation remains required
+VISUAL_ACCEPTANCE separate: matched real Play views must establish the art result and original player hair/UV preservation.
+PLAY_ACCEPTANCE separate: actual motor movement, transparent surfaces and 2F hall lighting need the D15 Play report.
+PERFORMANCE separate: this structural audit does not establish FPS.
+passed=14 failed=0
+RESULT PASS

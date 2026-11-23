@@ -1,0 +1,404 @@
+{
+  "passed": true,
+  "entries": 1063,
+  "coverage": {
+    "first": "2026-09-04",
+    "last": "2026-10-23",
+    "undated": 22
+  },
+  "earliestDateSources": [
+    {
+      "id": "codex:01a06c3a-7d66-7683-bcbf-b8ec668a6a4d",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06c17-6eae-7a73-b3e2-cdc14c834fe3",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06c15-a3ca-7981-a975-688122b17ab7",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06bf0-5fca-76f2-8969-1d8135681eb3",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06bd9-f851-7261-9adf-cb3bef1373c1",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06bb9-2bfd-7502-bd3b-89f2def6eaad",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06b82-f302-7c83-84eb-9e46e2e7c845",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06b82-83bf-7590-9966-5723dfba9314",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06b81-a0e2-7842-a11f-2d0e52f4eed6",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06a0b-1fc7-7620-b4b5-f521c7ca1b78",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a069ea-ef7f-7473-b7eb-195d54b7494d",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a069ef-a839-7712-a18c-5ca2778af16b",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a069f0-05bb-74e3-b549-25f7b5bcd5df",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a069f0-6fa4-7f10-8b0e-b6d1b96d66c2",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a068cd-bc0f-7082-b160-35f53201237a",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a068c1-3670-7bb0-b07b-6153b626c388",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a068c1-1bf8-7311-bd64-ce276feed537",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a068b7-5020-7101-8116-3f58e32bd5bd",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a068b6-b328-7332-9746-d92356065e04",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a068a9-43d3-77a1-a40e-05b4faba2de6",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a068a6-6d1f-7470-ad5e-fce0658b4092",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a068a6-10b3-7170-bfa6-8fff41acd8b6",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a068a5-d11f-7650-81bb-b4c17bfe6cc1",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a068a4-50b7-7a70-b215-357f9bbb3c96",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a068a2-9726-7763-aec7-6c511b646863",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06890-feed-7230-853e-c0c51ee7b59e",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06895-d31e-7303-8220-db6d57d00bb0",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06895-d336-7bd0-9079-4cd8fd946b66",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a0689f-1287-76c1-8bc8-ce08e4b7f957",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06890-9431-78b2-b03f-4bab9ee4c387",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06c9f-42c0-7a33-bd01-aac054dad27a",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06c99-6aac-71c1-b7a2-9f9b1da83e50",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06c6b-6eeb-7a63-8fa2-b1cabaf42979",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06c53-e454-76b0-8fae-51d6f3867354",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06c4e-37a3-7180-80b9-c4ea4906f00e",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06c4f-9385-7551-ba85-a830fa75d7ca",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06c39-5a8f-71a2-9044-94c12975a7a6",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06c37-f4d5-7c53-9dd2-62d39ea75412",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06c26-db39-75d3-a139-18910edea938",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06c20-568e-7ba2-b751-e048087c5a9c",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06c12-66ff-7872-a16f-db2fff27c7c2",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06c11-001e-70c3-be38-b18e7614e5c6",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06bf7-e29e-7483-94bc-75b83ba8f805",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06bf6-3e1d-7a73-b066-b2d847558084",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06bf4-3730-7a91-8937-6a28ed48fd77",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06ca9-cabd-72c3-9c1c-14521c84501a",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06cad-eb4d-7913-a1da-edf100ad89da",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06cae-92e9-77e2-8d6a-cd38574da2db",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06cae-f8d2-7341-93c7-afe15a4d0607",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "codex:01a06caa-164a-7432-8c41-4a4cd88a395d",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-21/instruction-record-audit/CODEX_INSTRUCTION_LEDGER.csv",
+      "source": "Codex"
+    },
+    {
+      "id": "chat:09f66325-f2c6-49ff-8a86-b22f709fb0e3",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-23/scenario-chat-archive/sources/6a9aa012-2568-83ee-b24a-38588f3e743a/TRANSCRIPT.md",
+      "source": "시나리오 Chat"
+    },
+    {
+      "id": "chat:4eb8d9fe-9ecd-4bb2-875c-7183be238c14",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-23/scenario-chat-archive/sources/6a9aa012-2568-83ee-b24a-38588f3e743a/TRANSCRIPT.md",
+      "source": "시나리오 Chat"
+    },
+    {
+      "id": "chat:373db6f3-15af-459b-8a7f-20ca040b6d43",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-23/scenario-chat-archive/sources/6a9aa012-2568-83ee-b24a-38588f3e743a/TRANSCRIPT.md",
+      "source": "시나리오 Chat"
+    },
+    {
+      "id": "chat:97f15dcf-34b2-4c22-a965-c25d3bdcfbfd",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-23/scenario-chat-archive/sources/6a9aa012-2568-83ee-b24a-38588f3e743a/TRANSCRIPT.md",
+      "source": "시나리오 Chat"
+    },
+    {
+      "id": "chat:bc128041-dfa2-4df4-8997-7fcf83ef6d9c",
+      "date": "2026-09-04",
+      "dateLabel": "사용자 지시일 · 한국 시간",
+      "path": "outputs/change_records/2026-10-23/scenario-chat-archive/sources/6a9aa012-2568-83ee-b24a-38588f3e743a/TRANSCRIPT.md",
+      "source": "시나리오 Chat"
+    }
+  ],
+  "checks": [
+    "ascending and descending",
+    "unknown/invalid dates last",
+    "explicit instruction date preferred",
+    "first topic date survives recent followup",
+    "stable tie-breaker",
+    "original order unchanged"
+  ]
+}

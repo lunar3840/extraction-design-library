@@ -1,0 +1,107 @@
+{
+    "character": "yui",
+    "reaction": "Determined",
+    "gesture": "None",
+    "reactionOrigin": "Automatic",
+    "yaw": 0.0,
+    "ortho": 1.059999942779541,
+    "frameHeight": 2.0,
+    "reactionWeight": 0.8830974698066711,
+    "quiet": 11.366630554199219,
+    "nextAuto": 22.83147621154785,
+    "autoCount": 1,
+    "camera": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 8.0
+    },
+    "frameCenter": {
+        "x": 10000.0,
+        "y": -9999.0,
+        "z": 10000.0
+    },
+    "root": {
+        "x": 0.0,
+        "y": 0.05000000074505806,
+        "z": -2.5999999046325685
+    },
+    "hips": {
+        "x": 0.0,
+        "y": 0.732421875,
+        "z": 0.0
+    },
+    "leftFoot": {
+        "x": -0.12890625,
+        "y": 0.11328125,
+        "z": -0.013671875
+    },
+    "rightFoot": {
+        "x": 0.150390625,
+        "y": 0.11328125,
+        "z": -0.021484375
+    },
+    "headEuler": {
+        "x": 3.6668968200683595,
+        "y": 14.171183586120606,
+        "z": 12.336797714233399
+    },
+    "chestEuler": {
+        "x": 1.7495847940444947,
+        "y": 349.53656005859377,
+        "z": 350.1412048339844
+    },
+    "inventory": true,
+    "lobby": true,
+    "frozen": false,
+    "portraitVisible": true,
+    "faceWeights": [
+        "Eyebrow_L.001/BrowDown_L=37.09",
+        "Eyebrow_L.001/BrowDown_R=37.09",
+        "Eyebrow_L.001/BrowInnerDown_L=37.09",
+        "Eyebrow_L.001/BrowInnerDown_R=37.09",
+        "Eyebrow_L.001/BrowIn=33.56",
+        "Eyebrow_L.001/MouthPress=37.09",
+        "Eyebrow_R.001/BrowDown_L=37.09",
+        "Eyebrow_R.001/BrowDown_R=37.09",
+        "Eyebrow_R.001/BrowInnerDown_L=37.09",
+        "Eyebrow_R.001/BrowInnerDown_R=37.09",
+        "Eyebrow_R.001/BrowIn=33.56",
+        "Eyebrow_R.001/MouthPress=37.09",
+        "Eyelashes_L.001/BrowDown_L=37.09",
+        "Eyelashes_L.001/BrowDown_R=37.09",
+        "Eyelashes_L.001/BrowInnerDown_L=37.09",
+        "Eyelashes_L.001/BrowInnerDown_R=37.09",
+        "Eyelashes_L.001/BrowIn=33.56",
+        "Eyelashes_L.001/MouthPress=37.09",
+        "Eyelashes_R.001/BrowDown_L=37.09",
+        "Eyelashes_R.001/BrowDown_R=37.09",
+        "Eyelashes_R.001/BrowInnerDown_L=37.09",
+        "Eyelashes_R.001/BrowInnerDown_R=37.09",
+        "Eyelashes_R.001/BrowIn=33.56",
+        "Eyelashes_R.001/MouthPress=37.09",
+        "FACE_MouthCavity.001/BrowDown_L=37.09",
+        "FACE_MouthCavity.001/BrowDown_R=37.09",
+        "FACE_MouthCavity.001/BrowInnerDown_L=37.09",
+        "FACE_MouthCavity.001/BrowInnerDown_R=37.09",
+        "FACE_MouthCavity.001/BrowIn=33.56",
+        "FACE_MouthCavity.001/MouthPress=37.09",
+        "Face_Skin.001/BrowDown_L=37.09",
+        "Face_Skin.001/BrowDown_R=37.09",
+        "Face_Skin.001/BrowInnerDown_L=37.09",
+        "Face_Skin.001/BrowInnerDown_R=37.09",
+        "Face_Skin.001/BrowIn=33.56",
+        "Face_Skin.001/MouthPress=37.09",
+        "Iris_L.001/BrowDown_L=37.09",
+        "Iris_L.001/BrowDown_R=37.09",
+        "Iris_L.001/BrowInnerDown_L=37.09",
+        "Iris_L.001/BrowInnerDown_R=37.09",
+        "Iris_L.001/BrowIn=33.56",
+        "Iris_L.001/MouthPress=37.09",
+        "Iris_R.001/BrowDown_L=37.09",
+        "Iris_R.001/BrowDown_R=37.09",
+        "Iris_R.001/BrowInnerDown_L=37.09",
+        "Iris_R.001/BrowInnerDown_R=37.09",
+        "Iris_R.001/BrowIn=33.56",
+        "Iris_R.001/MouthPress=37.09"
+    ]
+}

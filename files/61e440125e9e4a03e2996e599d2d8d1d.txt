@@ -1,0 +1,26 @@
+STAGE_A_ACCESS_V27_AI_ACTUAL_PLAY
+startedUtc=2026-10-01T10:45:49.4183814Z
+player parked (190.00, 300.00, -130.00); existing enemies frozen; world automatic ticks disabled
+BATCH A02_Car
+ lane=0 mapX=158 start=(-102.00, 1.49, 23.00) goal=(-102.00, 1.48, 1.00) directBlocked=True calculated=True status=PathComplete corners=5 directLength=22.00m routeLength=23.15m routeExcess=1.15m maxLateralDeviation=3.24m routeChanged=True
+ lane=1 mapX=159 start=(-101.00, 1.50, 23.00) goal=(-101.00, 1.50, 1.00) directBlocked=True calculated=True status=PathComplete corners=5 directLength=22.00m routeLength=22.54m routeExcess=0.54m maxLateralDeviation=2.24m routeChanged=True
+ lane=2 mapX=160 start=(-100.00, 1.51, 23.00) goal=(-100.00, 1.52, 1.00) directBlocked=True calculated=True status=PathComplete corners=4 directLength=22.00m routeLength=22.17m routeExcess=0.17m maxLateralDeviation=1.24m routeChanged=True
+ routeEvidence blockedDirect=3/3 changedRoutes=3/3; a clear direct ray is valid when every actual path is complete.
+ capture=A02_Car_start
+ PASS lane=2 reached=(-99.93, 1.52, 1.71) remaining=0.72m progress=21.29m elapsed=5.7s
+ PASS lane=1 reached=(-100.82, 1.50, 2.00) remaining=1.02m progress=21.00m elapsed=5.9s
+ PASS lane=0 reached=(-101.82, 1.48, 1.61) remaining=0.63m progress=21.39m elapsed=6.3s
+PASS A02_Car all three patrols followed complete paths and arrived in 6.3s
+ capture=A02_Car_end
+BATCH A03_Van
+ lane=0 mapX=315 start=(55.00, 1.98, 19.00) goal=(55.00, 2.26, -6.00) directBlocked=True calculated=True status=PathComplete corners=6 directLength=25.00m routeLength=27.29m routeExcess=2.29m maxLateralDeviation=4.64m routeChanged=True
+ lane=1 mapX=316 start=(56.00, 2.15, 19.00) goal=(56.00, 2.29, -6.00) directBlocked=True calculated=True status=PathComplete corners=4 directLength=25.00m routeLength=26.43m routeExcess=1.43m maxLateralDeviation=3.64m routeChanged=True
+ lane=2 mapX=317 start=(57.00, 2.30, 19.00) goal=(57.00, 2.32, -6.00) directBlocked=True calculated=True status=PathComplete corners=5 directLength=25.00m routeLength=25.75m routeExcess=0.75m maxLateralDeviation=2.64m routeChanged=True
+ routeEvidence blockedDirect=3/3 changedRoutes=3/3; a clear direct ray is valid when every actual path is complete.
+ capture=A03_Van_start
+ PASS lane=2 reached=(57.21, 2.32, -5.57) remaining=0.47m progress=24.58m elapsed=6.8s
+ PASS lane=0 reached=(55.09, 2.24, -5.56) remaining=0.45m progress=24.56m elapsed=7.0s
+ PASS lane=1 reached=(56.64, 2.30, -5.09) remaining=1.11m progress=24.10m elapsed=7.0s
+PASS A03_Van all three patrols followed complete paths and arrived in 7.0s
+ capture=A03_Van_end
+RESULT PASS

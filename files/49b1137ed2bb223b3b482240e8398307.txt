@@ -1,0 +1,4 @@
+Environment weathering validation: PASS. PreviewScene only; open user scene not saved.
+PASS URP Lit/D09 clone, strength zero, source PBR/D09 slots, Clear and unsupported skips
+  persisted real car demonstration: Assets/Escape/Art/SurfaceWeathering/Generated/StageA_v12_RustyVehicle_Car_d8e6fe67/StageA_v12_RustyVehicle_Car_Weathered.prefab; eligible slots=1
+PASS real car Bake, prefab reload, source asset and geometry preservation

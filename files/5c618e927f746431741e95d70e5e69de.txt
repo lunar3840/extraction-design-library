@@ -1,0 +1,158 @@
+PASS 31 unique source definitions load
+PASS AR_001 full load conservation
+PASS AR_001 one attack cost
+PASS AR_001 duplicate cadence rejected
+PASS AR_001 snapshot round trip
+PASS AR_002 full load conservation
+PASS AR_002 one attack cost
+PASS AR_002 duplicate cadence rejected
+PASS AR_002 snapshot round trip
+PASS AR_003 full load conservation
+PASS AR_003 one attack cost
+PASS AR_003 duplicate cadence rejected
+PASS AR_003 snapshot round trip
+PASS AR_004 full load conservation
+PASS AR_004 one attack cost
+PASS AR_004 duplicate cadence rejected
+PASS AR_004 snapshot round trip
+PASS AR_011 full load conservation
+PASS AR_011 one attack cost
+PASS AR_011 duplicate cadence rejected
+PASS AR_011 snapshot round trip
+PASS AR_012 full load conservation
+PASS AR_012 one attack cost
+PASS AR_012 duplicate cadence rejected
+PASS AR_012 snapshot round trip
+PASS AR_013 full load conservation
+PASS AR_013 one attack cost
+PASS AR_013 duplicate cadence rejected
+PASS AR_013 snapshot round trip
+PASS KN_001 melee cannot reload
+PASS KN_001 one attack cost
+PASS KN_001 duplicate cadence rejected
+PASS KN_001 snapshot round trip
+PASS KN_002 melee cannot reload
+PASS KN_002 one attack cost
+PASS KN_002 duplicate cadence rejected
+PASS KN_002 snapshot round trip
+PASS KN_003 melee cannot reload
+PASS KN_003 one attack cost
+PASS KN_003 duplicate cadence rejected
+PASS KN_003 snapshot round trip
+PASS KN_004 melee cannot reload
+PASS KN_004 one attack cost
+PASS KN_004 duplicate cadence rejected
+PASS KN_004 snapshot round trip
+PASS KN_011 melee cannot reload
+PASS KN_011 one attack cost
+PASS KN_011 duplicate cadence rejected
+PASS KN_011 snapshot round trip
+PASS P_001 full load conservation
+PASS P_001 one attack cost
+PASS P_001 duplicate cadence rejected
+PASS P_001 snapshot round trip
+PASS P_002 full load conservation
+PASS P_002 one attack cost
+PASS P_002 duplicate cadence rejected
+PASS P_002 snapshot round trip
+PASS P_003 full load conservation
+PASS P_003 one attack cost
+PASS P_003 duplicate cadence rejected
+PASS P_003 snapshot round trip
+PASS P_004 full load conservation
+PASS P_004 one attack cost
+PASS P_004 duplicate cadence rejected
+PASS P_004 snapshot round trip
+PASS P_011 full load conservation
+PASS P_011 one attack cost
+PASS P_011 duplicate cadence rejected
+PASS P_011 snapshot round trip
+PASS SG_001 full load conservation
+PASS SG_001 one attack cost
+PASS SG_001 duplicate cadence rejected
+PASS SG_001 snapshot round trip
+PASS SG_002 full load conservation
+PASS SG_002 one attack cost
+PASS SG_002 duplicate cadence rejected
+PASS SG_002 snapshot round trip
+PASS SG_003 full load conservation
+PASS SG_003 one attack cost
+PASS SG_003 duplicate cadence rejected
+PASS SG_003 snapshot round trip
+PASS SG_004 full load conservation
+PASS SG_004 one attack cost
+PASS SG_004 duplicate cadence rejected
+PASS SG_004 snapshot round trip
+PASS SG_011 full load conservation
+PASS SG_011 one attack cost
+PASS SG_011 duplicate cadence rejected
+PASS SG_011 snapshot round trip
+PASS SG_012 full load conservation
+PASS SG_012 one attack cost
+PASS SG_012 duplicate cadence rejected
+PASS SG_012 snapshot round trip
+PASS SG_013 full load conservation
+PASS SG_013 one attack cost
+PASS SG_013 duplicate cadence rejected
+PASS SG_013 snapshot round trip
+PASS SR_001 full load conservation
+PASS SR_001 one attack cost
+PASS SR_001 duplicate cadence rejected
+PASS SR_001 snapshot round trip
+PASS SR_002 full load conservation
+PASS SR_002 one attack cost
+PASS SR_002 duplicate cadence rejected
+PASS SR_002 snapshot round trip
+PASS SR_003 full load conservation
+PASS SR_003 one attack cost
+PASS SR_003 duplicate cadence rejected
+PASS SR_003 snapshot round trip
+PASS SR_004 full load conservation
+PASS SR_004 one attack cost
+PASS SR_004 duplicate cadence rejected
+PASS SR_004 snapshot round trip
+PASS SR_011 full load conservation
+PASS SR_011 one attack cost
+PASS SR_011 duplicate cadence rejected
+PASS SR_011 snapshot round trip
+PASS SR_012 full load conservation
+PASS SR_012 one attack cost
+PASS SR_012 duplicate cadence rejected
+PASS SR_012 snapshot round trip
+PASS SR_013 full load conservation
+PASS SR_013 one attack cost
+PASS SR_013 duplicate cadence rejected
+PASS SR_013 snapshot round trip
+PASS source type counts 7/5/7/7/5
+PASS semi/pump/bolt/melee requires release
+PASS automatic repeats while held
+PASS 30fps five shells in one second
+PASS 30fps unequip cancels before next shell
+PASS 30fps resume preserves previously loaded shells
+PASS 30fps six pellets cost one shell, ADS spread
+PASS 60fps five shells in one second
+PASS 60fps unequip cancels before next shell
+PASS 60fps resume preserves previously loaded shells
+PASS 60fps six pellets cost one shell, ADS spread
+PASS 120fps five shells in one second
+PASS 120fps unequip cancels before next shell
+PASS 120fps resume preserves previously loaded shells
+PASS 120fps six pellets cost one shell, ADS spread
+PASS pellet band 0
+PASS pellet jitter bounded 0
+PASS pellet band 1
+PASS pellet jitter bounded 1
+PASS pellet band 2
+PASS pellet jitter bounded 2
+PASS pellet band 3
+PASS pellet jitter bounded 3
+PASS pellet band 4
+PASS pellet jitter bounded 4
+PASS pellet band 5
+PASS pellet jitter bounded 5
+PASS pistol spread profile
+PASS sniper aimed spread profile
+PASS melee body hit is blocked by a wall
+PASS melee hits nearest exposed region once
+PASS rear and beyond range untouched
+PASS melee shares protection contract

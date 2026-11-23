@@ -1,0 +1,26 @@
+[
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\StageMaps\\StageA_Relay_Blockout_v08.prefab",
+    "matches_2026_10_21_evidence": true,
+    "current_sha256": "4db8acd70d7603528305fc410031104e9388bdb571a313d9965fb17895317fc4",
+    "evidence_sha256": "4db8acd70d7603528305fc410031104e9388bdb571a313d9965fb17895317fc4"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Scenes\\StageA_Relay_Blockout_v08.unity",
+    "matches_2026_10_21_evidence": true,
+    "current_sha256": "c9e3d324a6da7849188d1d92f9d79843b8e4820dcbe8325c3a0b227cd13d1874",
+    "evidence_sha256": "c9e3d324a6da7849188d1d92f9d79843b8e4820dcbe8325c3a0b227cd13d1874"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\StageALootPlacements.json",
+    "matches_2026_10_21_evidence": true,
+    "current_sha256": "a96a474a9ed0bdad178bc4b137602bc50e37ee3ce44b467314f89e63bec962a0",
+    "evidence_sha256": "a96a474a9ed0bdad178bc4b137602bc50e37ee3ce44b467314f89e63bec962a0"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Stage\\Blockout\\StageALootSpawner.cs",
+    "matches_2026_10_21_evidence": true,
+    "current_sha256": "0769793c231e5e4df61401d84cf9fb1c59f39f77fc014ee74b4e93d7b89fb7fc",
+    "evidence_sha256": "0769793c231e5e4df61401d84cf9fb1c59f39f77fc014ee74b4e93d7b89fb7fc"
+  }
+]

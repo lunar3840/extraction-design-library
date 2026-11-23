@@ -1,0 +1,16 @@
+﻿POST_UI_RECONSTRUCTION_SOURCE
+createdUtc=2026-10-29T21:10:47.1268916Z
+context=rounds/post_ui_checkpoint
+source=Saved candidate01 retained A scene with owned CLINIC trial root active
+allowedUiSerializedRows=0
+hiddenOnlyInPlay=StageA_Relay_Blockout_v08#0/02_Visual_Replaceable#0/CLINIC__Visual#0/__A34_ClinicMoodTrial#0
+ownedRenderers=6
+dedicatedRootAssets=14
+originalSceneInventory=staging/validation_tool/BEFORE_INVENTORY.tsv
+currentPostUiProtectedSources=staging/validation_tool/BEFORE_PROTECTED_FILES.tsv
+originalReferencedAssets=staging/validation_tool/BEFORE_REFERENCED_ASSETS.tsv
+rootBindings=staging/validation_tool/RECONSTRUCTED_ROOT_BEFORE.tsv
+rootAssetHashes=staging/validation_tool/RECONSTRUCTED_ROOT_ASSETS_BEFORE.tsv
+method=Deactivate only the named owned root in temporary Play, capture before_reconstructed, restore active state before leaving Play.
+
+provenance=Reconstructed comparison under new UI code; not an unmodified original pre-change image.

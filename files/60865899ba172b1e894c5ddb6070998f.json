@@ -1,0 +1,314 @@
+{
+  "auditDateKorea": "2026-10-23",
+  "measuredAt": "2026-10-22T22:27:05.405Z",
+  "scope": "Read-only audit of existing before_/after_ image evidence for completed local editor implementation and its Modern Glass UI follow-up. This audit supplements existing records and does not assert public library publication.",
+  "method": {
+    "imageDecoder": "sharp.metadata()",
+    "fileSize": "Buffer.byteLength of existing file",
+    "hash": "SHA-256 of exact existing file bytes",
+    "imageSelection": "All direct children matching before_ or after_ and png/jpeg/jpg/webp in the two listed record folders"
+  },
+  "evidencePreservation": {
+    "existingImagesModified": false,
+    "existingRecordsModified": false,
+    "priorVerificationJsonModified": false,
+    "onlyNewFileCreated": "outputs/change_records/2026-10-23/stat-data-editor/LIBRARY_PREPARATION_AUDIT.json",
+    "reason": "Original evidence and its historical validation reports are preserved. Corrections are supplemental."
+  },
+  "corrections": [
+    {
+      "files": [
+        "outputs/change_records/2026-10-23/stat-data-editor/FINAL_ARTIFACT_CHECK.json",
+        "outputs/change_records/2026-10-23/stat-data-editor-glass-ui/VALIDATION.json"
+      ],
+      "incorrectHistoricalDimensions": {
+        "width": 65536,
+        "height": 4292542531
+      },
+      "explanation": "Historical JSON dimensions came from interpreting image bytes as a PNG header. The files have .png filenames but contain JPEG bytes; a format-aware decoder reports the dimensions below. The original JSON is retained as historical evidence."
+    },
+    {
+      "file": "outputs/change_records/2026-10-23/stat-data-editor-glass-ui/after_editor.png",
+      "historicalReportedBytes": 90073,
+      "currentMeasuredBytes": 90180,
+      "explanation": "The current final screenshot is 90180 bytes and differs from the 90073-byte screenshot size captured in historical VALIDATION.json. The current image was visually inspected in this audit and shows the final Modern Glass player settings view at MaxHealth 100 and pending changes 0. This audit does not assert that its bytes match the earlier image."
+    }
+  ],
+  "visualAssessment": [
+    {
+      "recordFolder": "stat-data-editor",
+      "status": "completed_local_implementation_and_verification",
+      "basis": "Existing VERIFICATION.json reports 25/25 independent checks; BROWSER_VERIFICATION.json reports real UI edit, CSV-only save, comparison, undo and recovery; real Unity originals unchanged. The tests were not rerun in this audit.",
+      "beforeAfter": "before_editor.png is the original WeaponCatalog JSON with AR_001 damage 10; after_editor.png shows the newly implemented editor for the same weapon and damage 10. A new tool has no prior identical UI, so the different structures are intentional and disclosed. before_test_player.png/after_test_player.png form the UI test comparison pair.",
+      "publication": "No public deployment confirmation is contained in this initial local implementation record."
+    },
+    {
+      "recordFolder": "stat-data-editor-glass-ui",
+      "status": "completed_local_ui_follow_up_and_verification",
+      "basis": "Existing VALIDATION.json and CHANGE_RECORD report values and CSV unchanged, pending 0, UI interaction checks and responsive layout checks. before_editor.png and after_editor.png were visually inspected for the same player MaxHealth 100 and pending 0. The implementation and tests were not rerun in this audit.",
+      "beforeAfter": "Matching default screenshots are 1280x720. The compact screenshots are actually 953x715; the historical record describes a requested viewport around 960x720, which is not the exact saved image size.",
+      "publication": "This follow-up record verifies local UI rendering and function preservation, not a hosted deployment."
+    }
+  ],
+  "recommendedPreparationMetadata": {
+    "library_ready": true,
+    "library_topic_id": "topic:outputs/change_records/2026-10-23/stat-data-editor",
+    "library_category": "제작·검증 기록",
+    "library_subcategory": "도구·연동",
+    "library_kind": "변경 결과",
+    "library_instruction_date": "2026-10-23",
+    "library_publish_status": "pending",
+    "rationale": "The initial data editor and its styling are the same tool and goal; retain one representative topic and append the follow-up. Current public collection/publication remains the library owner’s separate responsibility. Exact instruction times/order are to be assigned by the parent from source thread evidence, not inferred here."
+  },
+  "summary": {
+    "fileCount": 12,
+    "folders": [
+      {
+        "folder": "stat-data-editor",
+        "count": 6
+      },
+      {
+        "folder": "stat-data-editor-glass-ui",
+        "count": 6
+      }
+    ],
+    "dimensions": [
+      "1280x720",
+      "1265x712",
+      "953x715"
+    ],
+    "detectedFormats": [
+      "jpeg"
+    ]
+  },
+  "files": [
+    {
+      "path": "outputs/change_records/2026-10-23/stat-data-editor/after_economy.png",
+      "filename": "after_economy.png",
+      "recordFolder": "stat-data-editor",
+      "bytes": 78441,
+      "sha256": "94927b7b0cf872cabd4636edd17427ae3b9a1735c75878e4de40e73993b6cbb5",
+      "sharpMetadata": {
+        "format": "jpeg",
+        "width": 1280,
+        "height": 720,
+        "space": "srgb",
+        "channels": 3,
+        "depth": "uchar",
+        "hasAlpha": false,
+        "orientation": null
+      },
+      "extension": ".png",
+      "extensionMatchesDetectedFormat": false
+    },
+    {
+      "path": "outputs/change_records/2026-10-23/stat-data-editor/after_editor.png",
+      "filename": "after_editor.png",
+      "recordFolder": "stat-data-editor",
+      "bytes": 85602,
+      "sha256": "87c6ec4b5fb21f591a1b4e1fa63bb18d3f0a9c69ed8646acf310ee0153cb5325",
+      "sharpMetadata": {
+        "format": "jpeg",
+        "width": 1280,
+        "height": 720,
+        "space": "srgb",
+        "channels": 3,
+        "depth": "uchar",
+        "hasAlpha": false,
+        "orientation": null
+      },
+      "extension": ".png",
+      "extensionMatchesDetectedFormat": false
+    },
+    {
+      "path": "outputs/change_records/2026-10-23/stat-data-editor/after_player.png",
+      "filename": "after_player.png",
+      "recordFolder": "stat-data-editor",
+      "bytes": 94686,
+      "sha256": "49f81b8dee52c9c2b9ab48ec5f194c6160452a9ccd30b6ff2f5c5f6a17cb2f30",
+      "sharpMetadata": {
+        "format": "jpeg",
+        "width": 1280,
+        "height": 720,
+        "space": "srgb",
+        "channels": 3,
+        "depth": "uchar",
+        "hasAlpha": false,
+        "orientation": null
+      },
+      "extension": ".png",
+      "extensionMatchesDetectedFormat": false
+    },
+    {
+      "path": "outputs/change_records/2026-10-23/stat-data-editor/after_test_player.png",
+      "filename": "after_test_player.png",
+      "recordFolder": "stat-data-editor",
+      "bytes": 44072,
+      "sha256": "b91f3c90e66cc5a29e891de837cc81d180087fdfc2cf353970e1ded09bfcdfad",
+      "sharpMetadata": {
+        "format": "jpeg",
+        "width": 1280,
+        "height": 720,
+        "space": "srgb",
+        "channels": 3,
+        "depth": "uchar",
+        "hasAlpha": false,
+        "orientation": null
+      },
+      "extension": ".png",
+      "extensionMatchesDetectedFormat": false
+    },
+    {
+      "path": "outputs/change_records/2026-10-23/stat-data-editor/before_editor.png",
+      "filename": "before_editor.png",
+      "recordFolder": "stat-data-editor",
+      "bytes": 43227,
+      "sha256": "2ec69487d1d09ac009e2e6657fa5aab6dd11651c55282ef4ebb193d5bdab4b48",
+      "sharpMetadata": {
+        "format": "jpeg",
+        "width": 1265,
+        "height": 712,
+        "space": "srgb",
+        "channels": 3,
+        "depth": "uchar",
+        "hasAlpha": false,
+        "orientation": null
+      },
+      "extension": ".png",
+      "extensionMatchesDetectedFormat": false
+    },
+    {
+      "path": "outputs/change_records/2026-10-23/stat-data-editor/before_test_player.png",
+      "filename": "before_test_player.png",
+      "recordFolder": "stat-data-editor",
+      "bytes": 95602,
+      "sha256": "2cff0e54fe3f158c5173bcf2d4f5b6dff0366039db7fca4178ff200616492b4e",
+      "sharpMetadata": {
+        "format": "jpeg",
+        "width": 1280,
+        "height": 720,
+        "space": "srgb",
+        "channels": 3,
+        "depth": "uchar",
+        "hasAlpha": false,
+        "orientation": null
+      },
+      "extension": ".png",
+      "extensionMatchesDetectedFormat": false
+    },
+    {
+      "path": "outputs/change_records/2026-10-23/stat-data-editor-glass-ui/after_compact.png",
+      "filename": "after_compact.png",
+      "recordFolder": "stat-data-editor-glass-ui",
+      "bytes": 62447,
+      "sha256": "2f36f327c9b76584181ad25e3b94e907e146212e6e76b0fefde1ff476d2778d7",
+      "sharpMetadata": {
+        "format": "jpeg",
+        "width": 953,
+        "height": 715,
+        "space": "srgb",
+        "channels": 3,
+        "depth": "uchar",
+        "hasAlpha": false,
+        "orientation": null
+      },
+      "extension": ".png",
+      "extensionMatchesDetectedFormat": false
+    },
+    {
+      "path": "outputs/change_records/2026-10-23/stat-data-editor-glass-ui/after_compact_details.png",
+      "filename": "after_compact_details.png",
+      "recordFolder": "stat-data-editor-glass-ui",
+      "bytes": 44269,
+      "sha256": "10c3e3b698d72b139d4ffb9139100989d97254d88e0e23905ba8eba95755f404",
+      "sharpMetadata": {
+        "format": "jpeg",
+        "width": 953,
+        "height": 715,
+        "space": "srgb",
+        "channels": 3,
+        "depth": "uchar",
+        "hasAlpha": false,
+        "orientation": null
+      },
+      "extension": ".png",
+      "extensionMatchesDetectedFormat": false
+    },
+    {
+      "path": "outputs/change_records/2026-10-23/stat-data-editor-glass-ui/after_editor.png",
+      "filename": "after_editor.png",
+      "recordFolder": "stat-data-editor-glass-ui",
+      "bytes": 90180,
+      "sha256": "e568dca02b3b2fa74eebdab55bce78c969e94d580b6bfaad03efffb1a354e101",
+      "sharpMetadata": {
+        "format": "jpeg",
+        "width": 1280,
+        "height": 720,
+        "space": "srgb",
+        "channels": 3,
+        "depth": "uchar",
+        "hasAlpha": false,
+        "orientation": null
+      },
+      "extension": ".png",
+      "extensionMatchesDetectedFormat": false
+    },
+    {
+      "path": "outputs/change_records/2026-10-23/stat-data-editor-glass-ui/after_import.png",
+      "filename": "after_import.png",
+      "recordFolder": "stat-data-editor-glass-ui",
+      "bytes": 35521,
+      "sha256": "76adbb21228eab6e194aecff6211b1d1f8d0a083e1d7d27ee478f62ea6d75992",
+      "sharpMetadata": {
+        "format": "jpeg",
+        "width": 1280,
+        "height": 720,
+        "space": "srgb",
+        "channels": 3,
+        "depth": "uchar",
+        "hasAlpha": false,
+        "orientation": null
+      },
+      "extension": ".png",
+      "extensionMatchesDetectedFormat": false
+    },
+    {
+      "path": "outputs/change_records/2026-10-23/stat-data-editor-glass-ui/after_review.png",
+      "filename": "after_review.png",
+      "recordFolder": "stat-data-editor-glass-ui",
+      "bytes": 43838,
+      "sha256": "a33071ce8c8f19b2743f2b080514778a776da291b3f99cc9591270cd86d43c6a",
+      "sharpMetadata": {
+        "format": "jpeg",
+        "width": 1280,
+        "height": 720,
+        "space": "srgb",
+        "channels": 3,
+        "depth": "uchar",
+        "hasAlpha": false,
+        "orientation": null
+      },
+      "extension": ".png",
+      "extensionMatchesDetectedFormat": false
+    },
+    {
+      "path": "outputs/change_records/2026-10-23/stat-data-editor-glass-ui/before_editor.png",
+      "filename": "before_editor.png",
+      "recordFolder": "stat-data-editor-glass-ui",
+      "bytes": 94654,
+      "sha256": "7e7eda08a1f807e18ff098842f7e3a49bc390a0752b20365044ea94dcfc4a675",
+      "sharpMetadata": {
+        "format": "jpeg",
+        "width": 1280,
+        "height": 720,
+        "space": "srgb",
+        "channels": 3,
+        "depth": "uchar",
+        "hasAlpha": false,
+        "orientation": null
+      },
+      "extension": ".png",
+      "extensionMatchesDetectedFormat": false
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+PASS actual Play UI installation consumes loose optic and retains bag selection
+PASS actual Play UI detachment places optic at chosen cell (5,5) and retains owned selection
+PASS actual Play UI reinstallation retains owned gun and expanded modding
+Uses production UI request methods; final rendering captured by Unity ScreenCapture.
+2026-10-20T13:22:31.4722141Z

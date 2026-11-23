@@ -1,0 +1,28 @@
+[
+  {
+    "Algorithm": "SHA256",
+    "Hash": "6301A5630DFD5250ECE48192BF964FE91CE2228F53905F6E9CEB2760BB819EDB",
+    "Path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Stage\\Blockout\\StageALongRouteV17.cs"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "7CBEF277D0FB4C47FBACF49E062B3CBF931474BD83FAF483A2C3CB68319D2581",
+    "Path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Enemy\\EnemyController.cs"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "2E2041CBA295B6292BF7E0D6470A34173D751335FFD2FB4F542E10EDC424D207",
+    "Path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\StageACollisionV14Validation.cs"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "415B7A933183FA14F56F3F188C1EC9660D89B4A8195AB501650C4CF07E88B0BE",
+    "Path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\StageAAssetsV16Placement.cs"
+  },
+  {
+    "Algorithm": "SHA256",
+    "Hash": "46FA0B0196E2AFB1550DE5422931C54E80BDA08591E5C6F3FE175EF3228223BD",
+    "Path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\MapAssetsV16\\SOURCE_NOTES.md"
+  }
+]
+

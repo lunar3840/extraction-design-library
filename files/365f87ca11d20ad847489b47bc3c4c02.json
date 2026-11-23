@@ -1,0 +1,84 @@
+{
+  "thread": "01a1aa62-ae2b-7ac3-a99c-8fb67424d0b4",
+  "host": "DESKTOP-2TKQ90L",
+  "turns": [
+    {
+      "id": "01a1ed72-d6bd-7f42-b130-f0f9f5502e41",
+      "date": "2026-11-18",
+      "startedAt": 1794985088,
+      "contentSHA256": "a8af924b6cabc8708607e0f946e46f2c4e0a46c13cc60623fc09dff9d55044bd",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1ed5c-f5f3-70e2-b1e6-437d6e9580e9",
+      "date": "2026-11-18",
+      "startedAt": 1794983654,
+      "contentSHA256": "a16b0b22b1309da47b2941ac83233fb870cbed8969b221c8b599d0ee55e9a2a6",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1ed57-b603-7950-8201-74d1da5b3ad5",
+      "date": "2026-11-18",
+      "startedAt": 1794983310,
+      "contentSHA256": "97de8e53f3841196ba15e03978e6a3194995f4ea878fdac9299e279609f87a1d",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1ed56-3340-7191-b021-d80749b62d5c",
+      "date": "2026-11-18",
+      "startedAt": 1794983211,
+      "contentSHA256": "016a2d48d5c9ef98ec4c7f8101b3e950387d7ca837873081f2fd880f1c320198",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1ed53-995a-78c0-a202-933f20f6e4ca",
+      "date": "2026-11-18",
+      "startedAt": 1794983041,
+      "contentSHA256": "1f1282c8161e4d32e89ce005463deb85a3b7428c8456bc7e7ffacaf2e57fb61f",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1ed13-10a6-7f81-9949-0809245fe418",
+      "date": "2026-11-18",
+      "startedAt": 1794978812,
+      "contentSHA256": "e1bcc4ba51fcd999d610a85517683e064ef7b33bc5414842c6479d691929029b",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1ed0c-b065-7b21-ba23-26bdd7ef7ff4",
+      "date": "2026-11-18",
+      "startedAt": 1794978394,
+      "contentSHA256": "475bf28f0ce965fd3ec7051463734cb6ca4d26c0fbd1d75d7f339a6db2968e95",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1eceb-bd21-7e52-979f-c62a02935a40",
+      "date": "2026-11-18",
+      "startedAt": 1794976234,
+      "contentSHA256": "78596d813fd7e4a16c18b71a7bcab7640fa42b7722339505814b092bc3b5b5f1",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1ece9-08e2-7722-89b3-484504e6f632",
+      "date": "2026-11-18",
+      "startedAt": 1794976057,
+      "contentSHA256": "3b59aed40c431a61a5a4844927bf363f5237a609db5474d9f4360d268b872e3c",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1ece4-b663-70c0-85cb-e06483e26f40",
+      "date": "2026-11-18",
+      "startedAt": 1794975774,
+      "contentSHA256": "bc7d00c371ea1f06e0bdd84d14f9512505e2525b8d8ee13895542607cd01905a",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1ece3-830d-79f2-a71d-e2a62d65dbdf",
+      "date": "2026-11-18",
+      "startedAt": 1794975695,
+      "contentSHA256": "f2dfff7495bf85dd650f96be3ea9a3a422ce81e329eb12db8430b2d9a01f0c63",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    }
+  ],
+  "originals": "Local archive preserved; public owner reports are the source documents. Excluded retouch chats and private references are not included."
+}

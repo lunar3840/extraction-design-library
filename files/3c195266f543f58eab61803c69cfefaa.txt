@@ -1,0 +1,14 @@
+Actual Unity Play modding effects
+PASS extended magazine starts real reload
+PASS runtime reload transfers expanded capacity with reserve conservation
+PASS vertical grip changes real recoil axis
+PASS light stock reaches PlayerMotor aiming and movement
+PASS aim is not active before the displayed weapon delay
+PASS aim becomes active after the weapon delay
+PASS optic changes aimed camera look-ahead without changing base camera settings
+PASS enabled flashlight creates real directional illumination
+PASS flashlight switched off removes illumination
+PASS laser spread benefit follows activation state
+PASS modified weapon fires through production controller
+PASS production shot transmits suppressed hearing radius
+RESULT PASS

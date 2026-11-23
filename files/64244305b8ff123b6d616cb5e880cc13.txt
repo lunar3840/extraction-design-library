@@ -1,0 +1,2 @@
+all original transforms/colliders/materials incl HALL,D03 and spawn tiers unchanged=True
+Allowed activeSelf-only exception: RustyBarricade_03_Southwest_Ruins retained inactive; see LEGACY_ACCESS_REPAIR.txt.

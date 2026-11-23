@@ -1,0 +1,28 @@
+V35 actual Play rendering. Fixed character position/orientation, normal gameplay camera configuration, 1600x1000, combat frozen. Not a performance benchmark.
+south_west player=(-22.00000, 8.08000, -27.00000) camera=(-17.64972, 23.13713, -19.46510) fov=60 floor=1 lookWeight=1 tone=Neutral
+V35 fixture renderers visible=4/4 at=south_west
+south_east player=(22.00000, 8.08000, -27.00000) camera=(26.35028, 23.13713, -19.46510) fov=60 floor=1 lookWeight=1 tone=Neutral
+V35 fixture renderers visible=4/4 at=south_east
+stair_west player=(-31.00000, 8.08000, 19.00000) camera=(-26.64972, 23.13713, 26.53490) fov=60 floor=1 lookWeight=1 tone=Neutral
+V35 fixture renderers visible=4/4 at=stair_west
+stair_east player=(31.00000, 8.08000, 19.00000) camera=(35.35028, 23.13713, 26.53490) fov=60 floor=1 lookWeight=1 tone=Neutral
+V35 fixture renderers visible=4/4 at=stair_east
+north player=(-0.00001, 8.08000, 18.00000) camera=(4.35027, 23.13713, 25.53490) fov=60 floor=1 lookWeight=1 tone=Neutral
+V35 fixture renderers visible=4/4 at=north
+first_floor player=(-22.00000, 2.08000, -27.00000) camera=(-17.64972, 17.13713, -19.46510) fov=60 floor=0 lookWeight=1 tone=Neutral
+V35 fixture renderers visible=0/4 at=first_floor
+outside player=(0.00000, 2.18066, -37.00000) camera=(4.35028, 17.23780, -29.46510) fov=60 floor=99 lookWeight=1 tone=Neutral
+V35 fixture renderers visible=4/4 at=outside
+remote player=(-105.00000, 1.44684, 3.00000) camera=(-100.64970, 16.50398, 10.53490) fov=60 floor=99 lookWeight=0 tone=Neutral
+V35 fixture renderers visible=4/4 at=remote
+PASS floor visibility and regional tonemapping continuity.
+PASS MOTOR stair_2_up steps=175 start=(-31.00, 2.14, 5.00) end=(-31.00, 7.88, 16.60) visibleFloor=1
+PASS MOTOR stair_2_down steps=175 start=(-31.00, 8.02, 17.00) end=(-31.00, 2.27, 5.40) visibleFloor=0
+PASS MOTOR 2f_2_landing_to_south steps=718 start=(-31.00, 8.02, 17.00) end=(-22.07, 8.02, -26.60) visibleFloor=1
+PASS MOTOR 2f_2_south_to_landing steps=718 start=(-22.00, 8.04, -27.00) end=(-30.59, 8.02, 17.17) visibleFloor=1
+PASS MOTOR stair_3_up steps=175 start=(31.00, 2.14, 5.00) end=(31.00, 7.88, 16.60) visibleFloor=1
+PASS MOTOR stair_3_down steps=175 start=(31.00, 8.02, 17.00) end=(31.00, 2.27, 5.40) visibleFloor=0
+PASS MOTOR 2f_3_landing_to_south steps=782 start=(31.00, 8.02, 17.00) end=(22.07, 8.02, -26.61) visibleFloor=1
+PASS MOTOR 2f_3_south_to_landing steps=752 start=(22.00, 8.04, -27.00) end=(30.61, 8.02, 17.17) visibleFloor=1
+PASS actual PlayerMotor routes=8; CharacterController enabled, start positioning only; no keyboard automation.
+RESULT PASS

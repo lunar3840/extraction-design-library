@@ -1,0 +1,7 @@
+2026-10-07T12:11:12.5495299Z
+scene=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity
+sceneDirty=false
+sceneSHA256=cef70aa9e155193c21c3a603eb9e1957ebee4528f32cfed00a35909ec9d792ce
+prefabSHA256=2690c34566d45f0b8a98ef2f1d2beec5ed06c5be9aa3c60311b7d2ccc9c5ea64
+geometrySHA256=31037a6c3190e16ccddb1304623588a8cafe4ae2733f844649405782461d5d43
+Original clean scene captured before V32 production.

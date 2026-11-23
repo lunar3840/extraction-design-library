@@ -1,0 +1,17 @@
+OK: 73 candidates; 68 ordinary; source core compiled unchanged; 438 TTK rows; 44 pressure rows
+Breacher / None named=True: 1
+SpiderTransformer / Discharger named=True: 1
+Tank / GuardTank named=True: 1
+SpiderMedium / ArcRifle named=True: 1
+SpiderHeavy / Suppressor named=True: 1
+SpiderLight / Scout named=False: 33
+SpiderLight / Suppressor named=False: 3
+SpiderLight / Sniper named=False: 4
+SpiderMedium / Grenadier named=False: 2
+SpiderMedium / GuardTank named=False: 3
+SpiderMedium / ArcRifle named=False: 4
+SpiderLight / Discharger named=False: 4
+SpiderMedium / Suppressor named=False: 1
+Scavenger / None named=False: 11
+Suppressor / None named=False: 2
+Breacher / None named=False: 1

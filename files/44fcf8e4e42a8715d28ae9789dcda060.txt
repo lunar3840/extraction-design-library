@@ -1,0 +1,24 @@
+STAGE_A_LOOK_V22_VALIDATION
+generatedUtc=2026-09-22T22:40:59.5618220Z
+PASS map reference is live
+PASS pre-change V21 baseline exists for this map
+PASS required structure and controllers remain present
+PASS serialized exact-38 baseline slot mask is complete
+PASS all and only the exact 38 baseline window slots were substituted
+PASS all substituted slots use supported, error-free V22 shader assets
+PASS all V22 windows retain nonzero virtual depth, reflection and captured cubemap inputs
+PASS all per-panel atlas shifts/flips/seeds and BaseMap texture/UV inputs remain V21-identical
+PASS all collider geometry and state remain unchanged
+PASS all renderer transforms, meshes, state and hierarchy remain unchanged
+PASS the complete hierarchy remains unchanged; no root or empty object was added
+PASS every material slot outside the exact 38-window mask remains baseline-identical
+PASS all V21 wall materials and values remain unchanged
+PASS V16/V17, ReflectionProbe and global environment/reflection settings remain unchanged
+PASS all anchors and B4/R8 risky-entry policy remain unchanged
+PASS R1-R8, including R8, remain excluded from default spawn selection
+PASS B1-B4 and inactive R1-R8 remain correctly ordered
+PASS V14 collision regression passes (known warning allowed)
+PASS V15 overlap regression passes
+NOTE changed=38 V22Materials=38 missing=0 unchanged=0 badPath=0 badShader=0 badFeatures=0 badInvariants=0
+SUMMARY passed=19 failed=0
+RESULT PASS

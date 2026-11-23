@@ -1,0 +1,53 @@
+{
+  "selection_date_kst": "2026-11-19",
+  "assets": [
+    {
+      "file": "images/01_overview_p04.jpg",
+      "title": "분석의 출발점",
+      "description": "가방 형태가 다르면 같은 파밍도 달라질까? 격자형과 균일 슬롯형의 수납 차이를 자체 도식으로 설명",
+      "page": 4,
+      "width": 1440,
+      "height": 810,
+      "format": "JPEG",
+      "quality": 78,
+      "bytes": 89931,
+      "sha256": "3763d93d191081172f401e1e1be4d79a2af35567b2740587c36860c9152749ff",
+      "origin": "최종 PDF의 해당 페이지를 직접 렌더한 열람용 사본",
+      "origin_pdf_sha256": "127f2fbfa8942668bb2901c3098bdca8b53fe8604e4602b21eb5dfcffeb1f9bf",
+      "public_scope": "사용자 자체 작성 분석서의 선택 페이지 · 도식·집계 그래프·결론만 포함",
+      "contains_raw_survey_or_personal_data": false
+    },
+    {
+      "file": "images/02_usability_p29.jpg",
+      "title": "같은 사람의 상황별 조작성",
+      "description": "동일 응답자 4명의 안전·주의·급박 상황과 배낭 여유·부족 조작성 집계. 응답자 개인정보 없는 자체 그래프",
+      "page": 29,
+      "width": 1440,
+      "height": 810,
+      "format": "JPEG",
+      "quality": 78,
+      "bytes": 103812,
+      "sha256": "7119147eb615346cbe0b779e9e6caf14485d365f50726a0719aabebd687929b1",
+      "origin": "최종 PDF의 해당 페이지를 직접 렌더한 열람용 사본",
+      "origin_pdf_sha256": "127f2fbfa8942668bb2901c3098bdca8b53fe8604e4602b21eb5dfcffeb1f9bf",
+      "public_scope": "사용자 자체 작성 분석서의 선택 페이지 · 도식·집계 그래프·결론만 포함",
+      "contains_raw_survey_or_personal_data": false
+    },
+    {
+      "file": "images/03_conclusion_p40.jpg",
+      "title": "설계 목적에 따른 최종 결론",
+      "description": "공간 운영을 파밍의 핵심 재미로 삼는 목적에는 격자형, 수집·보급 후 전투·탐험의 흐름을 잇는 목적에는 균일 슬롯형을 제안",
+      "page": 40,
+      "width": 1440,
+      "height": 810,
+      "format": "JPEG",
+      "quality": 78,
+      "bytes": 97006,
+      "sha256": "457dc87a74ff0503f8ed8700de72597472b93435d716d012a12ed5af24b5b8c0",
+      "origin": "최종 PDF의 해당 페이지를 직접 렌더한 열람용 사본",
+      "origin_pdf_sha256": "127f2fbfa8942668bb2901c3098bdca8b53fe8604e4602b21eb5dfcffeb1f9bf",
+      "public_scope": "사용자 자체 작성 분석서의 선택 페이지 · 도식·집계 그래프·결론만 포함",
+      "contains_raw_survey_or_personal_data": false
+    }
+  ]
+}

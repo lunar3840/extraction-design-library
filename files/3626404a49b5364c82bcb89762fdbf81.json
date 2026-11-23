@@ -1,0 +1,37 @@
+{
+  "status": "saved_in_figma_weapon_bottom_center",
+  "date": "2026-10-22",
+  "fileKey": "KUD4t84BL1S77c3cnb8co0",
+  "pageId": "11:711",
+  "previewId": "103:2538",
+  "previewSize": [1920, 1080],
+  "previousRevision": "../figma-delta-compact-hud/design-system-state.json",
+  "scope": "Position correction within the existing compact combat HUD comparison frame",
+  "changes": {
+    "Weapon and quick access": {
+      "beforePosition": [1392, 836],
+      "position": [720, 836],
+      "size": [480, 196],
+      "centerX": 960,
+      "bottomMargin": 48
+    },
+    "Companion abilities": {
+      "beforePosition": [1056, 904],
+      "position": [1572, 904],
+      "size": [300, 128],
+      "bottomMargin": 48
+    }
+  },
+  "preserved": ["Compact dimensions", "Text and contrast", "All displayed values", "Native editable layers", "112px water and energy fill icons", "HP and stamina above character", "Original preview and masters"],
+  "proof": {
+    "beforeNative": "before_project_native.png",
+    "afterNative": "after_project_native.png",
+    "beforeExport": "before_project_export.png",
+    "afterExport": "after_project_export.png",
+    "record": "CHANGE_RECORD.md",
+    "review": "visual-audit.md"
+  },
+  "allRuntimeStatesVerified": false,
+  "unityModified": false,
+  "appsRestartedOrClosed": false
+}

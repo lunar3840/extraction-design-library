@@ -1,0 +1,249 @@
+V37 ACTUAL UNITY PLAY CAPTURES, 1600x1000. Combat ticks frozen; scaled time runs normally for water/rain. Same camera and position pairs, 0.8s second view for animation. Editor observed frame intervals are not a GPU or production FPS benchmark.
+bridge_west player=(102.50000, 0.10000, -125.00000) camera=(132.50000, 49.10000, -177.00000) rotation=(0.31962, -0.24409, 0.08559, 0.91156) fov=48 time=4.304
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=28
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=257 median=13.472 p95=15.080
+frameTiming cpuMs=13.5809 gpuMs=4.206592 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False highColumnHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in columns whose roof renderer is hidden. Other buildings and outdoor columns are excluded.
+RESULT PASS
+
+bridge_west_t1 player=(102.50000, 0.10000, -125.00000) camera=(132.50000, 49.10000, -177.00000) rotation=(0.31962, -0.24409, 0.08559, 0.91156) fov=48 time=5.275
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=28
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=316 median=13.497 p95=15.303
+frameTiming cpuMs=13.23 gpuMs=4.206592 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False highColumnHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in columns whose roof renderer is hidden. Other buildings and outdoor columns are excluded.
+RESULT PASS
+
+bridge_east player=(196.50000, 1.06000, -88.50000) camera=(221.50000, 44.06000, -135.50000) rotation=(0.31807, -0.22863, 0.07933, 0.91666) fov=48 time=8.932
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=14
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=267 median=12.701 p95=14.611
+frameTiming cpuMs=12.1894 gpuMs=3.995648 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False highColumnHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in columns whose roof renderer is hidden. Other buildings and outdoor columns are excluded.
+RESULT PASS
+
+bridge_east_t1 player=(196.50000, 1.06000, -88.50000) camera=(221.50000, 44.06000, -135.50000) rotation=(0.31807, -0.22863, 0.07933, 0.91666) fov=48 time=9.872
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=14
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=330 median=12.690 p95=14.577
+frameTiming cpuMs=14.3704 gpuMs=3.808256 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False highColumnHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in columns whose roof renderer is hidden. Other buildings and outdoor columns are excluded.
+RESULT PASS
+
+bank_north player=(141.80880, 0.13136, -91.75857) camera=(146.15910, 15.18850, -84.22366) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=13.551
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=25
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=280 median=12.421 p95=13.631
+frameTiming cpuMs=13.5531 gpuMs=2.49344 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False highColumnHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in columns whose roof renderer is hidden. Other buildings and outdoor columns are excluded.
+RESULT PASS
+
+bank_north_t1 player=(141.80880, 0.13136, -91.75857) camera=(146.15910, 15.18850, -84.22366) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=14.513
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=25
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=343 median=12.488 p95=13.713
+frameTiming cpuMs=14.252 gpuMs=2.515968 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False highColumnHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in columns whose roof renderer is hidden. Other buildings and outdoor columns are excluded.
+RESULT PASS
+
+bank_south player=(62.08067, 0.16000, -170.20470) camera=(66.43095, 15.21714, -162.66980) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=18.171
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=7
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=279 median=12.484 p95=13.828
+frameTiming cpuMs=13.1508 gpuMs=2.281472 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False highColumnHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in columns whose roof renderer is hidden. Other buildings and outdoor columns are excluded.
+RESULT PASS
+
+bank_south_t1 player=(62.08067, 0.16000, -170.20470) camera=(66.43095, 15.21714, -162.66980) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=19.114
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=7
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=342 median=12.537 p95=13.843
+frameTiming cpuMs=12.8406 gpuMs=2.275328 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False highColumnHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in columns whose roof renderer is hidden. Other buildings and outdoor columns are excluded.
+RESULT PASS
+
+bridge_entry player=(89.00000, 0.10000, -93.00000) camera=(93.35028, 15.15714, -85.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=22.757
+rain=Stage A bounded drizzle particles=542 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=54
+rainStat LiveParticleCount=542
+rainStat ParticleCount=542
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=75
+rainStat IsEmitting=True
+observedEditorFrameMs samples=277 median=12.481 p95=14.309
+frameTiming cpuMs=17.5581 gpuMs=2.30912 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=542 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False highColumnHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in columns whose roof renderer is hidden. Other buildings and outdoor columns are excluded.
+RESULT PASS
+
+bridge_entry_t1 player=(89.00000, 0.10000, -93.00000) camera=(93.35028, 15.15714, -85.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=23.730
+rain=Stage A bounded drizzle particles=545 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=54
+rainStat LiveParticleCount=545
+rainStat ParticleCount=545
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=100
+rainStat IsEmitting=True
+observedEditorFrameMs samples=338 median=12.573 p95=14.337
+frameTiming cpuMs=13.6422 gpuMs=2.29376 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=545 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False highColumnHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in columns whose roof renderer is hidden. Other buildings and outdoor columns are excluded.
+RESULT PASS
+
+hall_1f player=(-22.00000, 2.08000, -27.00000) camera=(-17.64972, 17.13713, -19.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=27.403
+rain=Stage A bounded drizzle particles=184 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=91
+rainStat LiveParticleCount=184
+rainStat ParticleCount=184
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=3
+rainStat BlockedParticles=806
+rainStat IsEmitting=True
+observedEditorFrameMs samples=210 median=16.178 p95=19.780
+frameTiming cpuMs=17.884 gpuMs=2.044928 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=184 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=True expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=1 highColumnD09Particles=0 hiddenHallRoofOverPlayer=True highColumnHallParticles=2
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in columns whose roof renderer is hidden. Other buildings and outdoor columns are excluded.
+RESULT FAIL
+
+System.Exception: Independent runtime weather check failed at hall_1f
+  at Escape.EditorTools.StageAWeatherV37Play.Capture (System.String suffix) [0x004fd] in C:\UnityProject\escape\Assets\Escape\Editor\StageAWeatherV37Play.cs:127 
+  at Escape.EditorTools.StageAWeatherV37Play.Poll () [0x000e0] in C:\UnityProject\escape\Assets\Escape\Editor\StageAWeatherV37Play.cs:54 
+capturedPairs=5 expected=10
+RESULT FAIL
+candidate=v37-tuned-20261016-1804

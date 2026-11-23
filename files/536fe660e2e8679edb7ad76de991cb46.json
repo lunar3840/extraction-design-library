@@ -1,0 +1,205 @@
+{
+  "source_native_sha256": "253e45d8e0782197685f090625b02c5f7184477b4496848b6d24f2613aa121cc",
+  "source_video_sha256": "1ce5f485aa822292e5f80362495e1e6cf14bee5d89e5a89eaf7926fe34d3f4cc",
+  "source_video_seconds": 9.033333333333333,
+  "variants": [
+    {
+      "id": "base",
+      "file": "Edel_SCAR_Reload_Base_3p00s.mp4",
+      "sha256": "49243e2d04a05b22d577038e1cea26f16373f25f995828da24f80d900b85abb6",
+      "decoded_frames": 180,
+      "fps": 60,
+      "nominal_reload_seconds": 3.0,
+      "actual_video_seconds": 3.0,
+      "last_decoded_out_time_seconds": 3.0,
+      "duration_quantization_seconds": 0.0,
+      "source_movie_speed_ratio": 3.011111111111111,
+      "source_frame_order_strictly_increasing": true,
+      "source_frames_unchanged_exact_copies": true,
+      "matched_comparison_stills": [
+        {
+          "view": "approach",
+          "source_frame": 64,
+          "before": "before_approach.png",
+          "original_time_seconds": 2.1,
+          "after": "base_approach.png",
+          "output_zero_based_frame": 42,
+          "output_pose_time_seconds": 0.7,
+          "same_source_frame": true
+        },
+        {
+          "view": "empty_grasp",
+          "source_frame": 101,
+          "before": "before_empty_grasp.png",
+          "original_time_seconds": 3.3333333333333335,
+          "after": "base_empty_grasp.png",
+          "output_zero_based_frame": 66,
+          "output_pose_time_seconds": 1.1,
+          "same_source_frame": true
+        },
+        {
+          "view": "empty_release",
+          "source_frame": 105,
+          "before": "before_empty_release.png",
+          "original_time_seconds": 3.466666666666667,
+          "after": "base_empty_release.png",
+          "output_zero_based_frame": 69,
+          "output_pose_time_seconds": 1.15,
+          "same_source_frame": true
+        },
+        {
+          "view": "pouch",
+          "source_frame": 153,
+          "before": "before_pouch.png",
+          "original_time_seconds": 5.066666666666666,
+          "after": "base_pouch.png",
+          "output_zero_based_frame": 101,
+          "output_pose_time_seconds": 1.6833333333333333,
+          "same_source_frame": true
+        },
+        {
+          "view": "carry",
+          "source_frame": 174,
+          "before": "before_carry.png",
+          "original_time_seconds": 5.766666666666667,
+          "after": "base_carry.png",
+          "output_zero_based_frame": 115,
+          "output_pose_time_seconds": 1.9166666666666667,
+          "same_source_frame": true
+        },
+        {
+          "view": "insert",
+          "source_frame": 217,
+          "before": "before_insert.png",
+          "original_time_seconds": 7.2,
+          "after": "base_insert.png",
+          "output_zero_based_frame": 143,
+          "output_pose_time_seconds": 2.3833333333333333,
+          "same_source_frame": true
+        },
+        {
+          "view": "return",
+          "source_frame": 253,
+          "before": "before_return.png",
+          "original_time_seconds": 8.4,
+          "after": "base_return.png",
+          "output_zero_based_frame": 167,
+          "output_pose_time_seconds": 2.783333333333333,
+          "same_source_frame": true
+        },
+        {
+          "view": "end",
+          "source_frame": 271,
+          "before": "before_end.png",
+          "original_time_seconds": 9.0,
+          "after": "base_end.png",
+          "output_zero_based_frame": 179,
+          "output_pose_time_seconds": 2.9833333333333334,
+          "same_source_frame": true
+        }
+      ]
+    },
+    {
+      "id": "mod_a",
+      "file": "Edel_SCAR_Reload_ModA_3p53s.mp4",
+      "sha256": "08827d568d6bc4e99412a91a767738231c05308059856d467a99c906bd8641f9",
+      "decoded_frames": 212,
+      "fps": 60,
+      "nominal_reload_seconds": 3.528000000000001,
+      "actual_video_seconds": 3.533333333333333,
+      "last_decoded_out_time_seconds": 3.533333,
+      "duration_quantization_seconds": 0.005333333333332302,
+      "source_movie_speed_ratio": 2.556603773584906,
+      "source_frame_order_strictly_increasing": true,
+      "source_frames_unchanged_exact_copies": true,
+      "matched_comparison_stills": [
+        {
+          "view": "approach",
+          "source_frame": 64,
+          "before": "before_approach.png",
+          "original_time_seconds": 2.1,
+          "after": "after_approach.png",
+          "output_zero_based_frame": 49,
+          "output_pose_time_seconds": 0.8166666666666667,
+          "same_source_frame": true
+        },
+        {
+          "view": "empty_grasp",
+          "source_frame": 101,
+          "before": "before_empty_grasp.png",
+          "original_time_seconds": 3.3333333333333335,
+          "after": "after_empty_grasp.png",
+          "output_zero_based_frame": 78,
+          "output_pose_time_seconds": 1.3,
+          "same_source_frame": true
+        },
+        {
+          "view": "empty_release",
+          "source_frame": 105,
+          "before": "before_empty_release.png",
+          "original_time_seconds": 3.466666666666667,
+          "after": "after_empty_release.png",
+          "output_zero_based_frame": 81,
+          "output_pose_time_seconds": 1.35,
+          "same_source_frame": true
+        },
+        {
+          "view": "pouch",
+          "source_frame": 153,
+          "before": "before_pouch.png",
+          "original_time_seconds": 5.066666666666666,
+          "after": "after_pouch.png",
+          "output_zero_based_frame": 119,
+          "output_pose_time_seconds": 1.9833333333333334,
+          "same_source_frame": true
+        },
+        {
+          "view": "carry",
+          "source_frame": 174,
+          "before": "before_carry.png",
+          "original_time_seconds": 5.766666666666667,
+          "after": "after_carry.png",
+          "output_zero_based_frame": 135,
+          "output_pose_time_seconds": 2.25,
+          "same_source_frame": true
+        },
+        {
+          "view": "insert",
+          "source_frame": 217,
+          "before": "before_insert.png",
+          "original_time_seconds": 7.2,
+          "after": "after_insert.png",
+          "output_zero_based_frame": 169,
+          "output_pose_time_seconds": 2.816666666666667,
+          "same_source_frame": true
+        },
+        {
+          "view": "return",
+          "source_frame": 253,
+          "before": "before_return.png",
+          "original_time_seconds": 8.4,
+          "after": "after_return.png",
+          "output_zero_based_frame": 197,
+          "output_pose_time_seconds": 3.283333333333333,
+          "same_source_frame": true
+        },
+        {
+          "view": "end",
+          "source_frame": 271,
+          "before": "before_end.png",
+          "original_time_seconds": 9.0,
+          "after": "after_end.png",
+          "output_zero_based_frame": 211,
+          "output_pose_time_seconds": 3.5166666666666666,
+          "same_source_frame": true
+        }
+      ]
+    }
+  ],
+  "geometry_reused": "Only previously approved actual saved20 rendered poses; no generated intermediate geometry or model changes.",
+  "timing_validation": "60fps image sequence encoded and all output frames decoded. Durations quantized to60Hz, within1/60second of source game setting.",
+  "new_spatial_qa_claim": false,
+  "unity_modified": false,
+  "native_modified": false,
+  "protected_source_hashes_equal": true
+}

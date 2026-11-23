@@ -1,0 +1,99 @@
+A_MAP_INTENT_AUDIT
+mode=core
+startedUtc=2026-10-29T05:55:39.0797724Z
+PASS isolated StageMapPreview save only
+store=C:\Users\ehoji\AppData\Local\Temp\DefaultCompany\escape\StageMapPreview\09ce8e89dcbc4943948cfaa4537e989a\slot-1.json
+actualRandomSelectedSpawn=3 selectedTier=0 equipmentValue=0
+PASS actual departure selected only B1-B4
+PASS 3or4 named selected
+PASS machine majority and14ordinary humans active
+PASS all production AI initially live automatic and unpaused
+GEOMETRY_ONLY: AI frozen after initial live roster evidence; no survival or balance claim. Actual PlayerMotor/CharacterController remains enabled.
+INDEPENDENT_LOOT_GEOMETRY result=PASS
+PASS all50 live loot positions resolve supported geometry
+PASS live loot position loot_clinic_triage
+PASS live loot position loot_clinic_dispensary
+PASS live loot position loot_clinic_records
+PASS live loot position loot_tools_bench
+PASS live loot position loot_tools_parts
+PASS live loot position loot_hall_service
+PASS live loot position loot_hall_control
+PASS live loot position loot_hall_overhaul
+PASS live loot position loot_power_cells
+PASS live loot position loot_power_service
+PASS live loot position loot_power_control
+PASS live loot position loot_parts_precision
+PASS live loot position loot_parts_machining
+PASS live loot position loot_parts_security
+PASS live loot position loot_n01_food
+PASS live loot position loot_n03_records
+PASS live loot position loot_n05_medicine
+PASS live loot position loot_n08_transformer
+PASS live loot position loot_n09_cable
+PASS live loot position loot_n11_data
+PASS live loot position loot_n12_power
+PASS live loot position loot_n14_control
+PASS live loot position loot_w01_timber
+PASS live loot position loot_w02_machine
+PASS live loot position loot_w03_tools
+PASS live loot position loot_w05_salvage
+PASS live loot position loot_w07_office
+PASS live loot position loot_w08_garage
+PASS live loot position loot_w10_shipping
+PASS live loot position loot_e01_battery
+PASS live loot position loot_e03_transformer
+PASS live loot position loot_e04_cables
+PASS live loot position loot_e05_packing
+PASS live loot position loot_e06_inspection
+PASS live loot position loot_s01_dorm
+PASS live loot position loot_s02_canteen
+PASS live loot position loot_s05_home
+PASS live loot position loot_s07_house
+PASS live loot position loot_s08_store
+PASS live loot position loot_y01_dismantle
+PASS live loot position loot_y02_parts
+PASS live loot position loot_f01_water
+PASS live loot position loot_power_safe
+PASS live loot position loot_parts_safe
+PASS live loot position loot_n11_safe
+PASS live loot position loot_clinic_safe
+PASS live loot position loot_w10_weapons
+PASS live loot position loot_e05_weapons
+PASS live loot position loot_y02_weapons
+PASS live loot position loot_parts_ammo
+QUERY_COUNT=1205 PHYSICAL_LANES=14; R8 is comparison only and stays disabled.
+BEGIN_PHYSICAL B1_X1 length=48.57788 corners=4 direct=PathComplete public complete; sampledFrom=(-240.00000, 2.10000, 145.00000) sampledTo=(-196.00000, 2.10000, 165.00000)
+PASS PHYSICAL B1_X1 actualSteps=361 end=(-196.2753, 2.0200, 164.8480) height=True
+BEGIN_PHYSICAL B2_X2 length=45.10973 corners=2 direct=PathComplete public complete; sampledFrom=(-242.00000, 1.03754, 0.00000) sampledTo=(-245.00000, 0.09559, -45.00000)
+PASS PHYSICAL B2_X2 actualSteps=336 end=(-244.9801, 0.0200, -44.7008) height=True
+BEGIN_PHYSICAL B3_X3 length=76.30391 corners=5 direct=PathComplete public complete; sampledFrom=(-231.00000, 0.05227, -102.00000) sampledTo=(-169.00000, 0.08454, -143.00000)
+PASS PHYSICAL B3_X3 actualSteps=570 end=(-169.2037, 0.0200, -142.8090) height=True
+BEGIN_PHYSICAL B4_semantic_W5 length=45 corners=2 direct=PathComplete public complete; sampledFrom=(-119.00000, 0.07570, -129.00000) sampledTo=(-92.00000, 0.06000, -93.00000)
+PASS PHYSICAL B4_semantic_W5 actualSteps=335 end=(-92.2000, 0.0216, -93.2667) height=True
+BEGIN_PHYSICAL inactive_R8_semantic_W5 length=67.64391 corners=7 direct=PathComplete public complete; sampledFrom=(-58.00000, 0.09994, -141.00000) sampledTo=(-92.00000, 0.06000, -93.00000)
+PASS PHYSICAL inactive_R8_semantic_W5 actualSteps=504 end=(-92.0270, 0.0216, -93.2836) height=True
+BEGIN_PHYSICAL B2_X6_long length=491.1919 corners=29 direct=PathPartial complete high-budget corridor; polygons=121 publicCompleteLegs=9 queryCalls=6
+PASS PHYSICAL B2_X6_long actualSteps=3679 end=(59.2365, 0.0200, -188.9030) height=True
+BEGIN_PHYSICAL B1_POWER length=357.3853 corners=15 direct=PathComplete public complete; sampledFrom=(-240.00000, 2.10000, 145.00000) sampledTo=(102.36540, 12.02309, 114.46700)
+PASS PHYSICAL B1_POWER actualSteps=2673 end=(102.1267, 12.0200, 114.6874) height=True
+BEGIN_PHYSICAL B4_PARTS length=316.5387 corners=16 direct=PathComplete public complete; sampledFrom=(-119.00000, 0.07570, -129.00000) sampledTo=(152.73790, 3.04030, -22.13894)
+FAIL PHYSICAL_STALL B4_PARTS steps=12001 position=(-39.38, 1.35, -51.29) goal=(19.32, 1.86, -40.08) dead=False
+BEGIN_PHYSICAL west_bridge length=69.46222 corners=2 direct=PathComplete public complete; sampledFrom=(89.00000, 0.06000, -93.00000) sampledTo=(116.00000, 0.06000, -157.00000)
+PASS PHYSICAL west_bridge actualSteps=519 end=(115.8981, 0.0200, -156.7584) height=True
+BEGIN_PHYSICAL east_bridge length=58.46366 corners=2 direct=PathComplete public complete; sampledFrom=(190.00000, 1.02000, -60.00001) sampledTo=(203.00000, 1.02000, -117.00000)
+PASS PHYSICAL east_bridge actualSteps=436 end=(202.9265, 1.0200, -116.6779) height=True
+BEGIN_PHYSICAL TOOLS_CQB_in length=3.399997 corners=2 direct=PathComplete public complete; sampledFrom=(-155.30190, 1.02000, 4.91914) sampledTo=(-158.69810, 1.02000, 5.08086)
+PASS PHYSICAL TOOLS_CQB_in actualSteps=23 end=(-158.3651, 1.0200, 5.0650) height=True
+BEGIN_PHYSICAL TOOLS_CQB_out length=3.399997 corners=2 direct=PathComplete public complete; sampledFrom=(-158.69810, 1.02000, 5.08086) sampledTo=(-155.30190, 1.02000, 4.91914)
+PASS PHYSICAL TOOLS_CQB_out actualSteps=23 end=(-155.6349, 1.0201, 4.9350) height=True
+BEGIN_PHYSICAL local_B4_to_loot_s08_store length=33.91097 corners=4 direct=PathComplete public complete; sampledFrom=(-119.00000, 0.07570, -129.00000) sampledTo=(-147.09800, 0.30157, -145.51910)
+PASS PHYSICAL local_B4_to_loot_s08_store actualSteps=252 end=(-146.9522, 0.2730, -145.2885) height=True
+PASS continuous local loop real LootInteractor.Open loot_s08_store
+PASS actual local search item transferred to live bag trade_c_006
+LOCAL_LOOT item=trade_c_006 amount=1 searchActualSeconds=1.28848472930841
+CONTINUOUS no warp, inventory and player retained after real loot interaction
+BEGIN_PHYSICAL local_loot_to_X3 length=33.51613 corners=7 direct=PathComplete public complete; sampledFrom=(-147.09800, 0.30157, -145.51910) sampledTo=(-169.00000, 0.08454, -143.00000)
+PASS PHYSICAL local_loot_to_X3 actualSteps=246 end=(-168.7389, 0.0200, -142.8685) height=True
+PASS actual InsideReturnZone/grounded automatic four-second extraction returned to BaseCamp
+
+STATE FINISHED pass=1277 fail=1 stage=3 index=14

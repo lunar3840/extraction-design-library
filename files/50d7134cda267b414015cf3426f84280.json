@@ -1,0 +1,9 @@
+{
+  "libraryLegacyStylePreserved": true,
+  "editorLegacyStylePreserved": true,
+  "worker.mjs": true,
+  "transport.js": true,
+  "shared/app.js": true,
+  "shared/portable-csv.mjs": true,
+  "catalog.generated.mjs": true
+}

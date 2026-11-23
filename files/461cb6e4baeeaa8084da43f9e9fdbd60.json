@@ -1,0 +1,48 @@
+[
+  {
+    "file": "Assets/Escape/Runtime/Inventory/InventoryGridPresentation.cs",
+    "changedExistingMethods": [
+      "DrawGridCardContents(Rect card,SlotView slot,ItemDefinition definition,bool wide,bool match)",
+      "GridMeta(bool narrow,bool right=false)"
+    ],
+    "unchangedExistingMethods": 23,
+    "callbacksUnchanged": true,
+    "oldCallbacks": 20,
+    "newCallbacks": 20,
+    "quickAmountUnchanged": null
+  },
+  {
+    "file": "Assets/Escape/Runtime/UI/ItemTierPresentation.cs",
+    "changedExistingMethods": [
+      "DrawSlot(Rect rect, ItemDefinition item, bool selected = false)"
+    ],
+    "unchangedExistingMethods": 6,
+    "callbacksUnchanged": true,
+    "oldCallbacks": 0,
+    "newCallbacks": 0,
+    "quickAmountUnchanged": null
+  },
+  {
+    "file": "Assets/Escape/Runtime/Loot/LootInteractor.cs",
+    "changedExistingMethods": [
+      "OnGUI()"
+    ],
+    "unchangedExistingMethods": 19,
+    "callbacksUnchanged": true,
+    "oldCallbacks": 14,
+    "newCallbacks": 14,
+    "quickAmountUnchanged": null
+  },
+  {
+    "file": "Assets/Escape/Runtime/Inventory/InventoryGlassView.cs",
+    "changedExistingMethods": [
+      "DrawEquipment()",
+      "DrawFullEquipment()"
+    ],
+    "unchangedExistingMethods": 32,
+    "callbacksUnchanged": true,
+    "oldCallbacks": 14,
+    "newCallbacks": 14,
+    "quickAmountUnchanged": true
+  }
+]

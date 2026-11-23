@@ -1,0 +1,57 @@
+STAGE_A_OUTDOOR_D03_ACTUAL_PLAYER_TRAVERSAL
+Twenty-four lanes: two choices in six outdoor cells, both directions.
+Actual PlayerMotor.Simulate(Time.deltaTime) walking with enabled CharacterController; enemies frozen=0
+No combat or enemy roaming claim is made by this geometry walk.
+LANE SC_TRANSFER_A_forward start=(115.00, 2.90, 17.00) goal=(136.00, 2.98, 17.00) pathCorners=4
+PASS SC_TRANSFER_A_forward steps=1006 elapsedSim=6.26s travelled=25.04m end=(135.84, 2.90, 17.73) skippedHitchFrames=3
+LANE SC_TRANSFER_A_reverse start=(136.00, 2.98, 17.00) goal=(115.00, 2.90, 17.00) pathCorners=4
+PASS SC_TRANSFER_A_reverse steps=1017 elapsedSim=6.26s travelled=25.02m end=(115.16, 2.93, 17.73) skippedHitchFrames=3
+LANE SC_TRANSFER_B_forward start=(115.00, 2.90, 17.00) goal=(136.00, 2.98, 17.00) pathCorners=4
+OCCLUSION NOTE SC_TRANSFER_B_forward camera-to-player height=0.65m d03Item=SC_T_Container image=after_occlusion_SC_TRANSFER_B_forward_0.65m_1.png
+PASS SC_TRANSFER_B_forward steps=1023 elapsedSim=7.05s travelled=28.21m end=(135.90, 2.89, 16.26) skippedHitchFrames=4
+LANE SC_TRANSFER_B_reverse start=(136.00, 2.98, 17.00) goal=(115.00, 2.90, 17.00) pathCorners=4
+OCCLUSION NOTE SC_TRANSFER_B_reverse camera-to-player height=0.65m d03Item=SC_T_Container image=after_occlusion_SC_TRANSFER_B_reverse_0.65m_1.png
+PASS SC_TRANSFER_B_reverse steps=1047 elapsedSim=7.06s travelled=28.24m end=(115.23, 2.93, 16.30) skippedHitchFrames=4
+LANE PC_TRANSFORMER_A_forward start=(173.00, 7.69, 97.00) goal=(205.00, 7.05, 97.00) pathCorners=4
+PASS PC_TRANSFORMER_A_forward steps=1458 elapsedSim=9.76s travelled=39.04m end=(204.89, 6.73, 97.71) skippedHitchFrames=3
+LANE PC_TRANSFORMER_A_reverse start=(205.00, 7.05, 97.00) goal=(173.00, 7.69, 97.00) pathCorners=4
+PASS PC_TRANSFORMER_A_reverse steps=1475 elapsedSim=9.75s travelled=39.00m end=(172.93, 7.46, 97.74) skippedHitchFrames=3
+LANE PC_TRANSFORMER_B_forward start=(173.00, 7.69, 97.00) goal=(205.00, 7.05, 97.00) pathCorners=5
+PASS PC_TRANSFORMER_B_forward steps=1412 elapsedSim=9.65s travelled=38.61m end=(204.85, 7.26, 96.27) skippedHitchFrames=3
+LANE PC_TRANSFORMER_B_reverse start=(205.00, 7.05, 97.00) goal=(173.00, 7.69, 97.00) pathCorners=5
+PASS PC_TRANSFORMER_B_reverse steps=1478 elapsedSim=9.66s travelled=38.63m end=(172.70, 7.75, 96.32) skippedHitchFrames=3
+LANE YC_DISMANTLE_A_forward start=(-13.00, -0.06, -118.00) goal=(4.00, -0.06, -118.00) pathCorners=4
+PASS YC_DISMANTLE_A_forward steps=1198 elapsedSim=8.25s travelled=33.00m end=(3.95, -0.08, -117.26) skippedHitchFrames=3
+LANE YC_DISMANTLE_A_reverse start=(4.00, -0.06, -118.00) goal=(-13.00, -0.06, -118.00) pathCorners=4
+PASS YC_DISMANTLE_A_reverse steps=1173 elapsedSim=8.25s travelled=33.01m end=(-12.95, -0.08, -117.27) skippedHitchFrames=3
+LANE YC_DISMANTLE_B_forward start=(-13.00, -0.06, -118.00) goal=(4.00, -0.06, -118.00) pathCorners=4
+PASS YC_DISMANTLE_B_forward steps=1325 elapsedSim=9.25s travelled=36.99m end=(3.96, -0.08, -118.74) skippedHitchFrames=3
+LANE YC_DISMANTLE_B_reverse start=(4.00, -0.06, -118.00) goal=(-13.00, -0.06, -118.00) pathCorners=4
+PASS YC_DISMANTLE_B_reverse steps=1326 elapsedSim=9.25s travelled=37.01m end=(-12.96, -0.08, -118.72) skippedHitchFrames=3
+LANE SW_RUIN_W_A_forward start=(-197.00, 0.06, -95.00) goal=(-175.00, 0.09, -95.00) pathCorners=4
+PASS SW_RUIN_W_A_forward steps=958 elapsedSim=6.83s travelled=27.34m end=(-175.11, 0.07, -94.29) skippedHitchFrames=3
+LANE SW_RUIN_W_A_reverse start=(-175.00, 0.09, -95.00) goal=(-197.00, 0.06, -95.00) pathCorners=4
+PASS SW_RUIN_W_A_reverse steps=967 elapsedSim=6.82s travelled=27.29m end=(-196.72, 0.07, -94.32) skippedHitchFrames=3
+LANE SW_RUIN_W_B_forward start=(-197.00, 0.06, -95.00) goal=(-175.00, 0.09, -95.00) pathCorners=6
+PASS SW_RUIN_W_B_forward steps=1420 elapsedSim=10.19s travelled=40.74m end=(-175.06, 0.07, -95.73) skippedHitchFrames=5
+LANE SW_RUIN_W_B_reverse start=(-175.00, 0.09, -95.00) goal=(-197.00, 0.06, -95.00) pathCorners=6
+PASS SW_RUIN_W_B_reverse steps=1397 elapsedSim=10.20s travelled=40.79m end=(-196.84, 0.06, -94.28) skippedHitchFrames=5
+LANE NORTH_SERVICE_A_forward start=(-40.00, 8.81, 92.00) goal=(-13.00, 8.29, 92.00) pathCorners=4
+PASS NORTH_SERVICE_A_forward steps=1400 elapsedSim=10.53s travelled=42.13m end=(-13.05, 8.15, 92.73) skippedHitchFrames=3
+LANE NORTH_SERVICE_A_reverse start=(-13.00, 8.29, 92.00) goal=(-40.00, 8.81, 92.00) pathCorners=4
+PASS NORTH_SERVICE_A_reverse steps=1387 elapsedSim=10.53s travelled=42.12m end=(-39.87, 8.73, 92.74) skippedHitchFrames=3
+LANE NORTH_SERVICE_B_forward start=(-40.00, 8.81, 92.00) goal=(-13.00, 8.29, 92.00) pathCorners=5
+PASS NORTH_SERVICE_B_forward steps=1613 elapsedSim=12.38s travelled=49.53m end=(-13.03, 8.39, 91.29) skippedHitchFrames=4
+LANE NORTH_SERVICE_B_reverse start=(-13.00, 8.29, 92.00) goal=(-40.00, 8.81, 92.00) pathCorners=5
+PASS NORTH_SERVICE_B_reverse steps=1584 elapsedSim=12.38s travelled=49.50m end=(-39.46, 8.73, 91.53) skippedHitchFrames=4
+LANE NORTH_LOADING_A_forward start=(-52.00, 3.66, 53.50) goal=(-26.00, 3.36, 53.50) pathCorners=4
+PASS NORTH_LOADING_A_forward steps=1394 elapsedSim=10.75s travelled=43.01m end=(-26.05, 3.38, 54.23) skippedHitchFrames=3
+LANE NORTH_LOADING_A_reverse start=(-26.00, 3.36, 53.50) goal=(-52.00, 3.66, 53.50) pathCorners=4
+PASS NORTH_LOADING_A_reverse steps=1261 elapsedSim=10.75s travelled=43.01m end=(-51.95, 3.85, 54.23) skippedHitchFrames=3
+LANE NORTH_LOADING_B_forward start=(-52.00, 3.66, 53.50) goal=(-26.00, 3.36, 53.50) pathCorners=4
+PASS NORTH_LOADING_B_forward steps=1403 elapsedSim=11.76s travelled=47.04m end=(-26.04, 3.38, 52.78) skippedHitchFrames=4
+LANE NORTH_LOADING_B_reverse start=(-26.00, 3.36, 53.50) goal=(-52.00, 3.66, 53.50) pathCorners=4
+PASS NORTH_LOADING_B_reverse steps=1490 elapsedSim=11.75s travelled=47.01m end=(-51.96, 3.41, 52.77) skippedHitchFrames=3
+passed=24 failed=0 captureFailures=0 expected=24 d03CameraOcclusionNotes=2
+D03 camera occlusion notes require visual review; no enemy-visibility or safety claim is made.
+RESULT PASS

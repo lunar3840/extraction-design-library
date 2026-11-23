@@ -1,0 +1,15 @@
+A_MAP_INTENT_AUDIT
+mode=parts
+startedUtc=2026-10-29T06:09:25.0167024Z
+PASS isolated StageMapPreview save only
+store=C:\Users\ehoji\AppData\Local\Temp\DefaultCompany\escape\StageMapPreview\261bd97eda1a41abba4787b675e1ae93\slot-1.json
+actualRandomSelectedSpawn=0 selectedTier=0 equipmentValue=0
+PASS actual departure selected only B1-B4
+PASS 3or4 named selected
+PASS machine majority and14ordinary humans active
+PASS all production AI initially live automatic and unpaused
+CONTROLLED HARNESS COMPARISON: same source/destination, corner threshold.06m and step overshoot clamp; AI frozen; no production edits.
+BEGIN_PHYSICAL B4_PARTS_tight length=316.5387 corners=16 direct=PathComplete public complete; sampledFrom=(-119.00000, 0.07570, -129.00000) sampledTo=(152.73790, 3.04030, -22.13894)
+FAIL PHYSICAL_STALL B4_PARTS_tight steps=12001 position=(-39.38, 1.34, -51.48) goal=(-39.12, 1.38, -51.48) dead=False
+
+STATE FINISHED pass=5 fail=1 stage=2 index=1

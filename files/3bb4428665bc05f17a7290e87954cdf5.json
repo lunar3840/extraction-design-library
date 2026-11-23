@@ -1,0 +1,12 @@
+{
+  "returned_at_kst": "2026-11-03T12:44:00.5330523+09:00",
+  "unity_reservation": false,
+  "own_play_stopped_at_utc": "2026-11-03T03:39:27.3142673Z",
+  "scene": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+  "protected_hashes": "FINAL26_SOURCE_AND_PROTECTED_HASHES.json",
+  "retired_tools": "FINAL26_RETIRED_TEMP_TOOLS.json",
+  "actual_post_cleanup_compile_error_count": 0,
+  "remaining_temporary_scripts": 0,
+  "remaining_task": "record and library publication only",
+  "performance_fully_resolved": false
+}

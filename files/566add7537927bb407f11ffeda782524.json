@@ -1,0 +1,27 @@
+{
+    "context": "Current portrait rig, independent closeup camera",
+    "model": "Player_Edel",
+    "fixedCameraReference": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-24/edel-natural-arm-pose/r25_grasp9_edel_detail_right.json",
+    "modelPosition": {
+        "x": -0.02401171810925007,
+        "y": -100.00201416015625,
+        "z": -1.8968713266787064e-9
+    },
+    "modelRotation": {
+        "x": 0.0,
+        "y": 0.7071068286895752,
+        "z": 0.0,
+        "w": 0.7071068286895752
+    },
+    "halfHeight": 0.18460878729820252,
+    "target": {
+        "x": 0.32622140645980837,
+        "y": -99.02534484863281,
+        "z": -0.1455000936985016
+    },
+    "files": [
+        "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-24/edel-natural-arm-pose/r26_finalgrip_edel_detail_right_0.png",
+        "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-24/edel-natural-arm-pose/r26_finalgrip_edel_detail_right_90.png",
+        "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-24/edel-natural-arm-pose/r26_finalgrip_edel_detail_right_270.png"
+    ]
+}

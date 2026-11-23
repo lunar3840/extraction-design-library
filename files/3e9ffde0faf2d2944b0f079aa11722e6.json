@@ -1,0 +1,40 @@
+{
+  "mode": "built-in image_gen",
+  "intent": "2D illustrated style proposal",
+  "unityApplied": false,
+  "width": 1254,
+  "height": 1254,
+  "bitDepth": 8,
+  "colorType": 6,
+  "transparentPixels": 902588,
+  "solidPixels": 1479,
+  "antialiasedPixels": 668449,
+  "cornerAlpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "sha256": "8493dfc05cda661a13c3757d8d152cce8b265bf75acefda3e0ca983f23d429e5",
+  "bytes": 886030,
+  "visibleSubject": true,
+  "visibleAlphaThresholdExclusive": 24,
+  "visibleAlphaBounds": {
+    "minX": 187,
+    "minY": 58,
+    "maxX": 1055,
+    "maxY": 1220
+  },
+  "rawNonzeroAlphaBounds": {
+    "minX": 33,
+    "minY": 19,
+    "maxX": 1231,
+    "maxY": 1253
+  },
+  "borderNonzeroAlphaPixels": 8,
+  "borderMaximumAlpha": 1,
+  "outermostEdgeFullyTransparent": false,
+  "visibleSubjectPadding": true,
+  "fourCornersTransparent": true,
+  "note": "Visible bounds use alpha>24; raw alpha>0 includes 8 bottom-border pixels with alpha1. The 4 corners are fully transparent. PNG unchanged."
+}

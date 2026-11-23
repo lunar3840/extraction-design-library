@@ -1,0 +1,97 @@
+[
+  {
+    "source": "staging/integration/InventoryGlassView.cs",
+    "target": "Assets/Escape/Runtime/Inventory/InventoryGlassView.cs",
+    "sha256": "0789368a96a87c2fc3e765a2f0f74eb2c264c85a6295feb0ce5fe577be40018b"
+  },
+  {
+    "source": "staging/integration/InventoryTestWorld.cs",
+    "target": "Assets/Escape/Runtime/Inventory/InventoryTestWorld.cs",
+    "sha256": "ca8a993c35cd327306b47b6063cc91373121691368d06768e50ebb5abc6b3548"
+  },
+  {
+    "source": "staging/domain/PlayerRules.cs",
+    "target": "Assets/Escape/Runtime/Core/PlayerRules.cs",
+    "sha256": "f82872ba9ab535ad12bfb388c712a69ffe49a2c8aba6959c76eca0cbe51cedff"
+  },
+  {
+    "source": "staging/ui/FigmaInventoryVitals.cs",
+    "target": "Assets/Escape/Runtime/UI/FigmaInventoryVitals.cs",
+    "sha256": "3fe67bee67a81d981389e7ed1cdd99123770285a698fcbf466a0ee60fdd94f20"
+  },
+  {
+    "source": "staging/ui/InventoryRecoveryFeedback.cs",
+    "target": "Assets/Escape/Runtime/UI/InventoryRecoveryFeedback.cs",
+    "sha256": "6be92fc6dc5e6aa91eeefd92e8b71934508e312eecf7546486bf00a0dca3bdba"
+  },
+  {
+    "source": "staging/editor/InventoryVitalsReviewBridge.cs",
+    "target": "Assets/Escape/Editor/InventoryVitalsReviewBridge.cs",
+    "sha256": "04802f5d356bf2f2c95461c0538af6020a3d6455f8022637743b899e1ef492fc"
+  },
+  {
+    "source": "staging/assets/NotoSansKR-Medium.ttf",
+    "target": "Assets/Escape/Resources/UI/FigmaInventory/NotoSansKR-Medium.ttf",
+    "sha256": "242308f7781829bcd26c82d285a5c0d9cbd1e9e9b95c183ab5a5a3b6db06cda1"
+  },
+  {
+    "source": "staging/assets/weight.png",
+    "target": "Assets/Escape/Resources/UI/FigmaInventory/Vitals/weight.png",
+    "sha256": "705e10d04a5e806be151b94f7ce3aede8c9004b56cd9108664a53d14c2a2ee9b"
+  },
+  {
+    "source": "staging/assets/weight.png.meta",
+    "target": "Assets/Escape/Resources/UI/FigmaInventory/Vitals/weight.png.meta",
+    "sha256": "0868ec9f7b54a66d084eb1e16c9801eebafe961d4744370a30347f1ceca4856e"
+  },
+  {
+    "source": "staging/assets/weight.svg",
+    "target": "Assets/Escape/Resources/UI/FigmaInventory/Sources/Vitals/weight.svg",
+    "sha256": "103857b119bd7e8f467eec04cce7ec81780cb24e3e4e99a5a016a9b3456bdd9a"
+  },
+  {
+    "source": "staging/assets/health.png",
+    "target": "Assets/Escape/Resources/UI/FigmaInventory/Vitals/health.png",
+    "sha256": "ec8345b3f94ff6da4798432d6953e49a8bf2ef6b5ea6a35feddeb6a01f1a699f"
+  },
+  {
+    "source": "staging/assets/health.png.meta",
+    "target": "Assets/Escape/Resources/UI/FigmaInventory/Vitals/health.png.meta",
+    "sha256": "5f32f4c423634e253030bff5db88fdf454161f70a49182ac2dad0a4efc91f51e"
+  },
+  {
+    "source": "staging/assets/health.svg",
+    "target": "Assets/Escape/Resources/UI/FigmaInventory/Sources/Vitals/health.svg",
+    "sha256": "c02fc5651a06ebc9b78730451c5ba5fb9939e80ed2b5526638da8ad32fbcdd06"
+  },
+  {
+    "source": "staging/assets/water.png",
+    "target": "Assets/Escape/Resources/UI/FigmaInventory/Vitals/water.png",
+    "sha256": "e40a3e8af8b197f47feb6ec01d20ede03de003e0cb66fc07ea76d181298a2efa"
+  },
+  {
+    "source": "staging/assets/water.png.meta",
+    "target": "Assets/Escape/Resources/UI/FigmaInventory/Vitals/water.png.meta",
+    "sha256": "d11435c19c9f3fdedf3e2b3833b3b00725348e344471887abe1f60ed95e0b259"
+  },
+  {
+    "source": "staging/assets/water.svg",
+    "target": "Assets/Escape/Resources/UI/FigmaInventory/Sources/Vitals/water.svg",
+    "sha256": "381ca58a929f80e4ce9763282a0a241045a6441f5d7bc7a21300578c611de906"
+  },
+  {
+    "source": "staging/assets/energy.png",
+    "target": "Assets/Escape/Resources/UI/FigmaInventory/Vitals/energy.png",
+    "sha256": "0ff7992d2534c5c9dd69448654b057b19680f276f50f4120e7d977ee56122576"
+  },
+  {
+    "source": "staging/assets/energy.png.meta",
+    "target": "Assets/Escape/Resources/UI/FigmaInventory/Vitals/energy.png.meta",
+    "sha256": "19c8984e23392fbf749ad8408f04bcad4c211f2754b3e5019340c8dc813ea3f2"
+  },
+  {
+    "source": "staging/assets/energy.svg",
+    "target": "Assets/Escape/Resources/UI/FigmaInventory/Sources/Vitals/energy.svg",
+    "sha256": "7e5b494156301790383fc076324e2010d16aa5985fc180215ae32b88e72b3cc5"
+  }
+]

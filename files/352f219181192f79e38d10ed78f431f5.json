@@ -1,0 +1,68 @@
+{
+  "status": "saved_in_figma_consumables_right_skills_scaled",
+  "date": "2026-10-22",
+  "fileKey": "KUD4t84BL1S77c3cnb8co0",
+  "pageId": "11:711",
+  "previewId": "103:2538",
+  "previewSize": [1920, 1080],
+  "previousRevision": "../figma-compact-center-weapon/design-system-state.json",
+  "scope": "Existing normal-combat comparison frame: consumables right of weapons, lower centered weapons, larger skills",
+  "changes": {
+    "weaponQuickParent": {
+      "size": [670, 166],
+      "position": [720, 866],
+      "layout": "HORIZONTAL",
+      "alignment": "BOTTOM_LEFT",
+      "gap": 24,
+      "gapVariable": "spacing/24"
+    },
+    "weaponSlots": {
+      "size": [480, 104],
+      "position": [720, 928],
+      "beforePosition": [720, 836],
+      "loweredBy": 92,
+      "centerX": 960
+    },
+    "quickUseSlots": {
+      "beforeSize": [338, 80],
+      "size": [166, 166],
+      "beforePosition": [791, 952],
+      "position": [1224, 866],
+      "layout": "HORIZONTAL_WRAP",
+      "columns": 2,
+      "rows": 2,
+      "slotSize": [80, 80],
+      "columnGap": 6,
+      "rowGap": 6,
+      "keys": [3, 4, 5, 6]
+    },
+    "companionAbilities": {
+      "beforeSize": [300, 128],
+      "size": [375, 160],
+      "beforePosition": [1572, 904],
+      "position": [1497, 872],
+      "uniformScale": 1.25,
+      "ringSize": 80,
+      "keySize": 30,
+      "gap": 15,
+      "nativeInstancesPreserved": true
+    }
+  },
+  "bottomMargin": 48,
+  "gapBetweenConsumablesAndSkills": 107,
+  "newDetachedInstances": 0,
+  "nativeEditableLayersPreserved": true,
+  "sourceMastersAndOtherScreensModified": false,
+  "proof": {
+    "beforeNative": "before_project_native.png",
+    "afterNative": "after_project_native.png",
+    "beforeExport": "before_project_export.png",
+    "afterExport": "after_project_export.png",
+    "record": "CHANGE_RECORD.md",
+    "review": "visual-audit.md"
+  },
+  "allRuntimeStatesVerified": false,
+  "allResolutionsVerified": false,
+  "unityModified": false,
+  "appsRestartedOrClosed": false
+}

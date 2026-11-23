@@ -1,0 +1,16 @@
+PASS BasecampChecks
+PASS WeaponChecks
+PASS ArsenalChecks
+PASS LootEconomyChecks
+PASS InventoryChecks
+PASS EnemyChecks
+PASS LootEquipmentChecks
+PASS InventoryRegionSwapChecks
+PASS GrowthReworkChecks
+PASS SessionChecks
+FAIL EquipmentChecks : System.Exception: FAIL equipped armor remains included in carry weight
+  at Escape.Tests.EquipmentChecks.Check (System.Boolean ok, System.String label) [0x0002a] in C:\Users\ehoji\OneDrive\문서\ChatGPT\익스트랙션\work\weapon-ammo-validation\Assets\Escape\Editor\EquipmentChecks.cs:20 
+  at Escape.Tests.EquipmentChecks.Run () [0x001f5] in C:\Users\ehoji\OneDrive\문서\ChatGPT\익스트랙션\work\weapon-ammo-validation\Assets\Escape\Editor\EquipmentChecks.cs:41 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <8db6ec373e6d40bd9d38c8037d358c4e>:0 
+PASS 32 firearm model/anchor/icon catalog checks (Serin full-scene animation QA not rerun)

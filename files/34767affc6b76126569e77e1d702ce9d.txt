@@ -1,0 +1,25 @@
+STAGE_A_LOOK_V20_VALIDATION
+generatedUtc=2026-09-22T17:42:04.5385315Z
+PASS map reference is live
+PASS pre-change V19 baseline exists for this map
+PASS required structure, controllers and facade roots remain present
+PASS the exact 24 material-eligible renderer identities are unchanged
+PASS all collider geometry and state remain unchanged
+PASS all renderer transforms, meshes, active/state flags and hierarchy remain unchanged
+PASS the complete map transform hierarchy remains unchanged; no root or empty object was added
+PASS every non-eligible renderer material and property remains unchanged
+PASS all anchors and B4/R8 risky-entry policy remain unchanged
+PASS V16 atmosphere and V17 roof serialized settings remain unchanged
+PASS all and only the 7 south 1F plus 14 south 2F wall/glass renderer materials changed
+PASS optional V17 lower material substitution is either omitted or applied to all three panels
+PASS only south 1F concrete slots 1/2, 2F wall/glass slot 0 and optional lower slot 0 substituted; brick/metal slots baseline-identical
+PASS all substituted material slots reference assets under Assets/Escape/Art/LookV20
+PASS all referenced V20 materials use supported shaders without compile errors
+NOTE changedCore=21 changedLower=3 changedSlots=31 V20Materials=12 badPath=0 nullSlots=0 badShader=0
+PASS R1-R8, including R8, remain excluded from default spawn selection
+PASS B1-B4 and inactive R1-R8 remain correctly ordered
+PASS V14 collision regression passes (known warning allowed)
+PASS V15 overlap regression passes
+NOTE post colliders=4665:43525D51EC75A825 rendererStructure=6018:90E52B4CD30D3F79 transforms=14032:8819F2323922AB33 protectedMaterials=AA041F60CFBEAAB0 anchors=46:86E2F0F4D46F8D4B settings=28942B7387F2A992
+SUMMARY passed=19 failed=0
+RESULT PASS

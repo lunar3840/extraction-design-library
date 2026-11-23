@@ -1,0 +1,35 @@
+{
+  "status": "SOURCE_HASH_REVIEW_REQUIRED",
+  "verifiedUtc": "2026-10-29T17:14:29.020630+00:00",
+  "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-ruin-ivy-rollout\\PROTECTED_SOURCE_BEFORE.json",
+  "expected": 6897,
+  "checked": 6897,
+  "bytesRead": 2943325716,
+  "checkedByExtension": {
+    ".fbx": 252,
+    ".mat": 849,
+    ".asset": 5460,
+    ".hlsl": 11,
+    ".shader": 40,
+    ".prefab": 10,
+    ".cs": 275
+  },
+  "changedCount": 2,
+  "missingCount": 0,
+  "changed": [
+    {
+      "path": "Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab",
+      "kind": ".prefab",
+      "before": "b849090f053449e3c64b1f8bf65d50b78311bc1bcf046d14fe0250422cad04b7",
+      "after": "07617bd1756655989437f308601181ce1380968ae95687d33d4c17d302532c0d"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Environment/SurfaceIvyInstance.cs",
+      "kind": ".cs",
+      "before": "231e6fad039385e64239f5696b8b822c246a1b1c0059c9d6adeca0e5a5acc7f0",
+      "after": "dc06806182abe3567222fa22e6389fe0eaa4e994bbc1fed3f0807a15e07f8348"
+    }
+  ],
+  "missing": [],
+  "note": "Original shared assets, materials, shaders, scripts and prefabs only. New generated output is outside this immutable baseline."
+}

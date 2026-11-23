@@ -1,0 +1,485 @@
+{
+  "native_sha256": "253e45d8e0782197685f090625b02c5f7184477b4496848b6d24f2613aa121cc",
+  "boards": [
+    {
+      "file": "BOARD_TEMPORAL_01.png",
+      "sha256": "98e0ea980ca538401365e0fb7dfc7dd81bb7d82fb41dfa9f9d7746afcba0b8b6",
+      "frames": [
+        {
+          "frame": 1,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0001.png",
+          "sha256": "f63ece84724a0d014f85669424c7ff377956172fbae66f7ada2884036fe3ba9b"
+        },
+        {
+          "frame": 4,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0004.png",
+          "sha256": "e61118f0f01ca76d7731e6e2696f3567601f770eef6a46a34747e0ad6805275b"
+        },
+        {
+          "frame": 7,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0007.png",
+          "sha256": "697760b96953ba6f657a534ffab77100470955d023d3a4057e6690776fdf3e7a"
+        },
+        {
+          "frame": 10,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0010.png",
+          "sha256": "d8e5decb56c49c16835e9b80fe64640333a57df21a69b17f2dae89f12e9dc614"
+        },
+        {
+          "frame": 13,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0013.png",
+          "sha256": "af36e5a8f45916488ff2fa2dbfe7978ce8ea6055ee111c134212713bfab4fd3c"
+        },
+        {
+          "frame": 16,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0016.png",
+          "sha256": "2e8f952f4503dd04c1ad70995655e8a5c6982f24ef48947c1260dea1a55b1893"
+        },
+        {
+          "frame": 19,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0019.png",
+          "sha256": "ca980dead3d6303ed7a4328f7275bf2d54b992857af21fa1f94489b1f14e1fb6"
+        },
+        {
+          "frame": 22,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0022.png",
+          "sha256": "ea56f2654cf38c29275b95e52bc5ffc449b9012166137f8ebcee7346667000f2"
+        },
+        {
+          "frame": 25,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0025.png",
+          "sha256": "94ba29f42b76f554eb66c0facd5918906b798b972ed5e2d45ad3879b4341288b"
+        },
+        {
+          "frame": 28,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0028.png",
+          "sha256": "5879e021c54bcc3c4b10e81dd9d61dddde11057539e1451c9e168b6dd798ebf3"
+        },
+        {
+          "frame": 31,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0031.png",
+          "sha256": "d0680875165e2019509d53a78e8eda76083b89a02920bd55a26d1b2dd9a57e3d"
+        },
+        {
+          "frame": 34,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0034.png",
+          "sha256": "3922bd6574e086aaf4ecb625596b8d3188f46ea25232325087ff401b39af5f25"
+        },
+        {
+          "frame": 37,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0037.png",
+          "sha256": "4ec31bacc9a500a74b219fbb134b045429336993c14cca9d6dc7421d84d531fe"
+        },
+        {
+          "frame": 40,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0040.png",
+          "sha256": "c95c0ebe714f151468081850cd19c218e3dc808999ec115f53370ca2aed00de1"
+        },
+        {
+          "frame": 43,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0043.png",
+          "sha256": "ea6c01b6456adbdf94d332cb6ceb882d134566db8ca91dc76458973102cb24aa"
+        },
+        {
+          "frame": 46,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0046.png",
+          "sha256": "de57c557c0abe1739fc72dee95a7f5070be13baf20a587c795fdeba633facafc"
+        },
+        {
+          "frame": 49,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0049.png",
+          "sha256": "cb5f32aca50fd4a8464e1bff284ed707a71c65ed030de156f966023494cd74fb"
+        },
+        {
+          "frame": 52,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0052.png",
+          "sha256": "6c4a5108679753d20216fbd5a13f63374d1375d7e9862889c2609358d0529e55"
+        },
+        {
+          "frame": 55,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0055.png",
+          "sha256": "7f8135f32acdeb57b64915ac6696a8e86fc2fd88f6bf1df73cea5664b8bb6eb7"
+        },
+        {
+          "frame": 58,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0058.png",
+          "sha256": "46ac7c15bcc6cebe583058e03bce0f81fe21fb728be7aade05846a79850e0d74"
+        },
+        {
+          "frame": 61,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0061.png",
+          "sha256": "76e173f9f3abeb59c87987eee03fe0b9ed2354773925eabeae85984d44da34ee"
+        },
+        {
+          "frame": 64,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0064.png",
+          "sha256": "4473e1f1a97c8ec0f35fae85f6322b7964ca5258c0b5ec21d5e2fa0357c4b6ee"
+        },
+        {
+          "frame": 67,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0067.png",
+          "sha256": "12b553731dc114ae56354a3838731c42849b6842c42d8c2ef1a7c2d6c7e6bcf7"
+        }
+      ]
+    },
+    {
+      "file": "BOARD_TEMPORAL_02.png",
+      "sha256": "83d1fd29fbf727472d8c585bca226fe6ac490116cb7a4802999158601f29df75",
+      "frames": [
+        {
+          "frame": 70,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0070.png",
+          "sha256": "ef7486004965f82dc10723e98421c7b1ac1c92e66ad8ed2762ca7eb73c18454f"
+        },
+        {
+          "frame": 73,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0073.png",
+          "sha256": "154ea0e703adf38c378989caf62e5d447c5c105298207f18f41b4637a14a529c"
+        },
+        {
+          "frame": 76,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0076.png",
+          "sha256": "9dddc59a4afcf5ba3d793114b6d9087cd11ec3bdc901afc1227f121d9209434a"
+        },
+        {
+          "frame": 79,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0079.png",
+          "sha256": "07d387bf2b5ee82b95247885c2406bfec99d685267c428e8d3634da321b10804"
+        },
+        {
+          "frame": 82,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0082.png",
+          "sha256": "5df6db1afaa75618f284984ac37a8898f81a6c8d7973b953206d21c0288277e7"
+        },
+        {
+          "frame": 85,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0085.png",
+          "sha256": "c8607571f0271adbd43ebaf00511aad26591cd389914991995e7fe7de9930ea9"
+        },
+        {
+          "frame": 88,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0088.png",
+          "sha256": "1e3a44964751ab7f90c2a9bba9fa18878e3ffbfdcf6d880fdefdc14a2cdf1c54"
+        },
+        {
+          "frame": 91,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0091.png",
+          "sha256": "1d3445ac82a59d117a55d407e89ef21b23069ca27f9792998539ce04ae938848"
+        },
+        {
+          "frame": 94,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0094.png",
+          "sha256": "e3009755bb40b48f0df49730c5e59e2ce547baa091ba6abc465cdce5e21f13cf"
+        },
+        {
+          "frame": 97,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0097.png",
+          "sha256": "038370320ab0354fe3aac5e04e09b15c03806eb8b864db81d20a72189032952c"
+        },
+        {
+          "frame": 100,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0100.png",
+          "sha256": "4e459455a78578b67d2a74e4e3301233d6548458906489f89b084194367a6a30"
+        },
+        {
+          "frame": 103,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0103.png",
+          "sha256": "6685fd2f24088dcc1c2abe4b01c1cdec0c9cb224852729eb9708a52733f305dc"
+        },
+        {
+          "frame": 106,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0106.png",
+          "sha256": "c3b6b12b9f5bae99f684f8e73a258a93a8c800c2c87b21045de7f703391ac684"
+        },
+        {
+          "frame": 109,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0109.png",
+          "sha256": "12e04fca7f59c65fa2c1138f00794da32c6016433adcd5183d4e57394b49ba6f"
+        },
+        {
+          "frame": 112,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0112.png",
+          "sha256": "90d1edc57cb52c7acd8a3f7195f6600e40d1f656ae477737bcc97896519da9eb"
+        },
+        {
+          "frame": 115,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0115.png",
+          "sha256": "e5bd9564d1a842c909ae4c668d4b1cd816afaca69c8dd97b1c70eb8ae54aa3eb"
+        },
+        {
+          "frame": 118,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0118.png",
+          "sha256": "8632cf29a4f67eea69c4ebc21efb4ac23b8949b57388552ba588b104e7f25b0c"
+        },
+        {
+          "frame": 121,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0121.png",
+          "sha256": "a5789b94631fdf1cef508f678499304e83c548f852ef51a85b1fee0d5e27eb2f"
+        },
+        {
+          "frame": 124,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0124.png",
+          "sha256": "d851a56f0c1a2a142bf2b2c47f49839b5b9b54538084c52eb26ac59241dec355"
+        },
+        {
+          "frame": 127,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0127.png",
+          "sha256": "c39214db368c7ce831a187ba44ca0d39584f2b74450b476c02276ff7833ef722"
+        },
+        {
+          "frame": 130,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0130.png",
+          "sha256": "d525bc68f626108779d92ce809c276cd50abfae08f5ff9a982b5baa3174871fa"
+        },
+        {
+          "frame": 133,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0133.png",
+          "sha256": "f46d1b8aea44e7cd279fc106e45363803622b3654348fa111e84c526c53bd707"
+        },
+        {
+          "frame": 136,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0136.png",
+          "sha256": "3f88562c43f56f517ea1b2516fbb9c5ab708c84dadd876f6a0f57733594bc8e5"
+        }
+      ]
+    },
+    {
+      "file": "BOARD_TEMPORAL_03.png",
+      "sha256": "27af1b579e5616982d588a1b6dff0be21c0f8d2c3a53688cd0b3bebc30001afb",
+      "frames": [
+        {
+          "frame": 139,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0139.png",
+          "sha256": "7d3267ea013ec081d9ddacbcc1a76918187123c421e50c5e0ae0cc8cc2555c01"
+        },
+        {
+          "frame": 142,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0142.png",
+          "sha256": "b7d6f0be3dd461047abc61a0ca5ece6d71baf23e7a09061621784d3d3cf2b432"
+        },
+        {
+          "frame": 145,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0145.png",
+          "sha256": "ffe1d76d12453dca805a9bc8a428d79b570515071f6d0bcbc7d5bde4ff86ade6"
+        },
+        {
+          "frame": 148,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0148.png",
+          "sha256": "cbdd5387b99bfc725bebada3e31cdf4e4d80d01ce32ae6dcd2a53dd55e26abf7"
+        },
+        {
+          "frame": 151,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0151.png",
+          "sha256": "ea20eb0c81f58e03abd1c3c16f402d45011833933683f3c09ef030512dda30b5"
+        },
+        {
+          "frame": 154,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0154.png",
+          "sha256": "2de9b7391cb542fb2834be6e7449e524a7d7c3629918e0185e04d651d855a0f0"
+        },
+        {
+          "frame": 157,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0157.png",
+          "sha256": "99bf4427c63cb8c2071cbfcbcc633c7979d37b1a93fc1faeb241fec354f6e231"
+        },
+        {
+          "frame": 160,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0160.png",
+          "sha256": "a49952a9df7c736e9aa3a7fb631c1a48e3c2de630d67a4f75399d594f7082905"
+        },
+        {
+          "frame": 163,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0163.png",
+          "sha256": "831230eaf6f8fd0273629760b28a357be45a77ba257154f3e76bd9f518661521"
+        },
+        {
+          "frame": 166,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0166.png",
+          "sha256": "e3b9370fd84579a56c16de2828a005108b36687f80ea90d72bf144cec1492d27"
+        },
+        {
+          "frame": 169,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0169.png",
+          "sha256": "b737e74861f1d0fdab2da370c806a74513cdb300fbfe645f34f847cbedb43dd8"
+        },
+        {
+          "frame": 172,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0172.png",
+          "sha256": "c06f5f6f60d45c891b76e4afc94a896cfc5624cc9add4997db7367af4ea404a2"
+        },
+        {
+          "frame": 175,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0175.png",
+          "sha256": "1b01b001c1baec39198512a4d0e07f40b17e6e740a9497e52a9cf28777dd56fe"
+        },
+        {
+          "frame": 178,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0178.png",
+          "sha256": "71c053ac70ec3f5130afa0942ddeab8a17fb49c73bd06f50da7f51c0faa6f12e"
+        },
+        {
+          "frame": 181,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0181.png",
+          "sha256": "873a48ce9de79cfcfb021f7a923ae8d099621100c014576aa2bb9eafdde00605"
+        },
+        {
+          "frame": 184,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0184.png",
+          "sha256": "e3fa9ca9a3448af05ef04100570964e04ac00e7311fa8088b88e3ff406322598"
+        },
+        {
+          "frame": 187,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0187.png",
+          "sha256": "f95e70d3e2f678eaa9bb86151e4a246d4effc5b794a1afedc659ee9f762156b0"
+        },
+        {
+          "frame": 190,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0190.png",
+          "sha256": "f7582b71600b6f164a9da45d795fc1306c4639b208a3fe5e3314c88328892cff"
+        },
+        {
+          "frame": 193,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0193.png",
+          "sha256": "0bfa389f0170b1959a0adc5f42fe5d89d99ec62e2c8ffd49268e04b2d475c1e4"
+        },
+        {
+          "frame": 196,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0196.png",
+          "sha256": "b13813f2cffad70597b554f2f4e56d0765edd3b6237a3cc4f905975f84b4684b"
+        },
+        {
+          "frame": 199,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0199.png",
+          "sha256": "8a14566258c7b2daac2647298b60f093ddbe82961d30f7ce56b966dc05e33a8e"
+        },
+        {
+          "frame": 202,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0202.png",
+          "sha256": "9592393fd31072114e021dd6ab5765f17b12ba76bd701a4e79288d6f2a1de9d3"
+        },
+        {
+          "frame": 205,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0205.png",
+          "sha256": "7a5ec65d09590eeb76cdb0af1b492b87a6d7fee6d0615a76e4c588d3354a0829"
+        }
+      ]
+    },
+    {
+      "file": "BOARD_TEMPORAL_04.png",
+      "sha256": "2767cdddc803d4ee7ac1bb331850b07275221477a19a10daca91195e1897eb1f",
+      "frames": [
+        {
+          "frame": 208,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0208.png",
+          "sha256": "8a5999df7e3f9047d320174ab5a9ee0c2d21060520328570d1d34f436dfabea2"
+        },
+        {
+          "frame": 211,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0211.png",
+          "sha256": "ec911e75e7f928cd08f75114f56585fb5c64130aaf0b3f8c8acec8e2e287b477"
+        },
+        {
+          "frame": 214,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0214.png",
+          "sha256": "0b0fdebb27e35eebf38d9b20b70d7cc5c49dc99c4cde19974f1146b361025190"
+        },
+        {
+          "frame": 217,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0217.png",
+          "sha256": "7bd688a3985cf04cf85f2fa294dcbb9476f81042d3f6f7e4c3517221a244ad11"
+        },
+        {
+          "frame": 220,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0220.png",
+          "sha256": "328f7207e56c5742a4b9bf9ba232f60dc6392c6e95e964bbe2e44cdd2a585093"
+        },
+        {
+          "frame": 223,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0223.png",
+          "sha256": "e57ab43d0be3b0f279f4f1ecddcb415d3eb20cb15b3e70206845fef697af5d05"
+        },
+        {
+          "frame": 226,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0226.png",
+          "sha256": "2336060c8f4c2504382ae4b77bb3cfe0c174bcbae1740113b1147edd485512f0"
+        },
+        {
+          "frame": 229,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0229.png",
+          "sha256": "3456b33467f9004177c7c645d7db9abb4e01da93647b02b0668933138c5be2e3"
+        },
+        {
+          "frame": 232,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0232.png",
+          "sha256": "395b1e6cd5337749dca2e01e30a95816f180caa5d0112223df7e19ecad6aedf7"
+        },
+        {
+          "frame": 235,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0235.png",
+          "sha256": "1ef854c4c22879260973624ca1a86d1ed1b144d1dbf32183fdbced60a34deec7"
+        },
+        {
+          "frame": 238,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0238.png",
+          "sha256": "c4bdff86a4eec8a33d8456b4159fff46cb0ab0428055f3a3174b7cfa4283648c"
+        },
+        {
+          "frame": 241,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0241.png",
+          "sha256": "491c2c1e304f2610bbb4e90aa4a44a775ea1173a2c3e69a7dfa8f132d8e13950"
+        },
+        {
+          "frame": 244,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0244.png",
+          "sha256": "cd8cac8c7119e4ad3b29f363e8c8e585d22e2581cc11e1599b808eb7de9c171a"
+        },
+        {
+          "frame": 247,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0247.png",
+          "sha256": "485480a649f41ec743a4292895fe7287d55706d11dc08632f3002b312bb18204"
+        },
+        {
+          "frame": 250,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0250.png",
+          "sha256": "f6a80cc2e03847e67ede1a72a458c208801df040b8ebc1129eb1c36f584fbabf"
+        },
+        {
+          "frame": 253,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0253.png",
+          "sha256": "b429218b5f9ae01e5894a8421ca921e1f98390d031f1da979ba4ed996a7f1340"
+        },
+        {
+          "frame": 256,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0256.png",
+          "sha256": "c39e3245996ddc8d8a17fc61633113b507a2b9a7bdaf5e23b542bf0115843435"
+        },
+        {
+          "frame": 259,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0259.png",
+          "sha256": "c55261fb208d189f9de02414cfc66f2cc035d965ff6c22d5fa46a206252d15ab"
+        },
+        {
+          "frame": 262,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0262.png",
+          "sha256": "facb0ab0f1703ba3990ffbb22f8c683e46c05262eede3fc76bf4766888ae365f"
+        },
+        {
+          "frame": 265,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0265.png",
+          "sha256": "ec0ee611c31292177c637f5ffdffd12ad5cd7aba626439b77d6c0b927bfeae9f"
+        },
+        {
+          "frame": 268,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0268.png",
+          "sha256": "8c085aeaae1cd310f763b29c8a6d097b5f7925befed72c5c4ce4bd9ff1b62ddf"
+        },
+        {
+          "frame": 271,
+          "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\video_frames\\0271.png",
+          "sha256": "4824cddfd846c346c3f2c8969c4a2019dfe47bdf2e0cd7f0f1e652643dfcbd62"
+        }
+      ]
+    }
+  ],
+  "sample_count": 91
+}

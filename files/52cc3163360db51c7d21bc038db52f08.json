@@ -1,0 +1,11 @@
+{
+  "project_id": "appgprj_6ada7933c358819183fbd5135edb9562",
+  "url": "https://extraction-balance-editor.ehojin0415.chatgpt.site",
+  "version_number": 3,
+  "version_id": "appgprj_6ada7933c358819183fbd5135edb9562~appgver_e28964b41f788191b9f689ace5791e7b",
+  "deployment_id": "appgdep_6ada83ab74748191a6d28c9c6b296169",
+  "status": "succeeded",
+  "commit_sha": "75d336adfc4da9e49ea031e9957423bc5d14e4aa",
+  "sourceFingerprint": "7dae3ef2c6cfcc501fd08cdacdaba5ce0cddde4710f4ae120bdbf41d8d773f8e",
+  "access_mode": "public"
+}

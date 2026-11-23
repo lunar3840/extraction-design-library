@@ -1,0 +1,126 @@
+{
+  "serin": {
+    "samples": [
+      {
+        "yaw": 0,
+        "orthographicSize": 1.109853
+      },
+      {
+        "yaw": 90,
+        "orthographicSize": 1.218164
+      },
+      {
+        "yaw": 135,
+        "orthographicSize": 1.111816
+      },
+      {
+        "yaw": 180,
+        "orthographicSize": 1.109881
+      },
+      {
+        "yaw": 225,
+        "orthographicSize": 1.107631
+      },
+      {
+        "yaw": 270,
+        "orthographicSize": 1.218164
+      }
+    ],
+    "min": 1.107631,
+    "max": 1.218164,
+    "relativeZoomVariation": 0.09979225933546454
+  },
+  "prototype": {
+    "samples": [
+      {
+        "yaw": 0,
+        "orthographicSize": 1.101225
+      },
+      {
+        "yaw": 90,
+        "orthographicSize": 1.092193
+      },
+      {
+        "yaw": 135,
+        "orthographicSize": 1.09405
+      },
+      {
+        "yaw": 180,
+        "orthographicSize": 1.101225
+      },
+      {
+        "yaw": 225,
+        "orthographicSize": 1.098492
+      },
+      {
+        "yaw": 270,
+        "orthographicSize": 1.092193
+      }
+    ],
+    "min": 1.092193,
+    "max": 1.101225,
+    "relativeZoomVariation": 0.008269600702439872
+  },
+  "liv": {
+    "samples": [
+      {
+        "yaw": 0,
+        "orthographicSize": 1.109991
+      },
+      {
+        "yaw": 90,
+        "orthographicSize": 1.224609
+      },
+      {
+        "yaw": 135,
+        "orthographicSize": 1.176269
+      },
+      {
+        "yaw": 180,
+        "orthographicSize": 1.108977
+      },
+      {
+        "yaw": 225,
+        "orthographicSize": 1.10897
+      },
+      {
+        "yaw": 270,
+        "orthographicSize": 1.226221
+      }
+    ],
+    "min": 1.10897,
+    "max": 1.226221,
+    "relativeZoomVariation": 0.10572964101824223
+  },
+  "yui": {
+    "samples": [
+      {
+        "yaw": 0,
+        "orthographicSize": 1.128069
+      },
+      {
+        "yaw": 90,
+        "orthographicSize": 1.424414
+      },
+      {
+        "yaw": 135,
+        "orthographicSize": 1.318066
+      },
+      {
+        "yaw": 180,
+        "orthographicSize": 1.128042
+      },
+      {
+        "yaw": 225,
+        "orthographicSize": 1.126824
+      },
+      {
+        "yaw": 270,
+        "orthographicSize": 1.427637
+      }
+    ],
+    "min": 1.126824,
+    "max": 1.427637,
+    "relativeZoomVariation": 0.266956507848608
+  }
+}

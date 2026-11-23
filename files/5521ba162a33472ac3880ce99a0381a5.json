@@ -1,0 +1,51 @@
+{
+  "scope": "read-only review; existing reference/evidence reuse; no new game before/after",
+  "comparisons": [],
+  "images": [
+    {
+      "source": "outputs/change_records/2026-10-29/a-map-reclaimed-ruins-art-direction/reference_user_ruins.png",
+      "file": "reference_user_ruins.png",
+      "role": "reference",
+      "capture": "원작자·촬영일 미확정. 2026-10-29 사용자 제공 원본의 기존 보관 사본",
+      "caption": "10/29 사용자 제공 분위기 참고 그림. 타 게임 참조이며 우리 맵 결과가 아님",
+      "sha256": "9ED7B91C6ECCFA4EB7FF68D21ACBBE3ECD5EDC632D233D61B8CA8CBE9CB87DA2",
+      "byteIdentical": true
+    },
+    {
+      "source": "outputs/concept_art/2026-10-12/a-map-building-identities-v01/02_workshops_and_civilian_v02.png",
+      "file": "reference_building_sheet_v02.png",
+      "role": "reference",
+      "capture": "2026-10-12 승인 시트v02 기존 자료 재사용",
+      "caption": "승인 건물 시트v02 중 공방/생활시설. 구현 후 화면이 아님",
+      "sha256": "91DB9FE2F380F071947F680059C6D5CC99CE2E47A9A1876977FFF571CE7F7BDD",
+      "byteIdentical": true
+    },
+    {
+      "source": "outputs/change_records/2026-10-30/a-map-large-building-ivy/staging/validation/play_after_supplement/after_play_game_CLINIC_true_exterior.png",
+      "file": "evidence_clinic_exterior_2026-10-30.png",
+      "role": "evidence",
+      "capture": "2026-10-30 선행 작업의 최종 저장 Game 캡처 재사용",
+      "caption": "CLINIC 실제 외부·전수 적용/증량 후 저장 Game. 이번 변경후 아님",
+      "sha256": "1E01E42BFBAE798CFA9978C5DE8F50BD7FAFBB8F8729635404B63479DBA4DD90",
+      "byteIdentical": true
+    },
+    {
+      "source": "outputs/change_records/2026-10-30/a-map-large-building-ivy/staging/validation/play_hall_final/hall_final_play_game_HALL_outside.png",
+      "file": "evidence_hall_exterior_2026-10-30.png",
+      "role": "evidence",
+      "capture": "2026-10-30 선행 작업의 최종 play_hall_final Game 재사용",
+      "caption": "HALL 최종 실제 Game 외부. 최초 실내 실패 후보가 아님",
+      "sha256": "87A3380DDBAAB6CC2D09E3271D748034977106F2AF7CDF020D24E746FCDA468D",
+      "byteIdentical": true
+    },
+    {
+      "source": "outputs/change_records/2026-10-30/a-map-large-building-ivy/staging/validation/play_after/after_play_game_south_bridge.png",
+      "file": "evidence_south_bridge_2026-10-30.png",
+      "role": "evidence",
+      "capture": "2026-10-30 선행 작업의 최종 저장 Game 캡처 재사용",
+      "caption": "남측 다리 실제 Game. 이번 분석의 새 촬영/구현후가 아님",
+      "sha256": "77BD726F444838060D1ADC6851607D247BD333A26329BBC3371FA08521470B1C",
+      "byteIdentical": true
+    }
+  ]
+}

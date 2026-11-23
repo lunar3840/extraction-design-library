@@ -1,0 +1,31 @@
+STAGE_A_OUTDOOR_D12_INDEPENDENT_VALIDATION
+PASS retained A scene available in edit mode
+PASS pre-D12 current V34+D11 map snapshot exists
+PASS D12 snapshot schema, object entries, 327 guards and six bridge visuals valid
+PASS all pre-D12 objects, meshes, colliders, transforms and gameplay fields preserved except 327 named bank foundations; missing=0 changedOutsideGuards=0 guardChanges=327
+PASS original material binding changes limited to D11 road tiles, named bank guards and two original bridge decks; rejected=0 allowed=345
+PASS all added map objects are confined to one D12_Waterfront root; added=1335 rejected=0
+PASS pre-existing material asset files unchanged globally; changed=0
+PASS pre-existing scene lights, volumes, skybox, ambient, fog and reflections unchanged
+PASS all 327 original bank guard foundations remain in place; before=327 after=327
+FAIL old bank guard cubes become lower matching physical retaining foundations with aged material; scope=0 notLowered=0 wrongMaterial=327 physicalMismatch=0
+NOTE BAD_ORIGINAL_BRIDGE_VISUAL BRIDGE_WEST/Deck
+NOTE BAD_ORIGINAL_BRIDGE_VISUAL BRIDGE_EAST/Deck
+FAIL both original decks remain rendered with worn apron material and four old rail renderers are hidden only; mismatches=2
+NOTE Original bridge deck and rail collision is covered by the full current-map structural comparison and fresh PlayerMotor checks.
+PASS one D12 waterfront root has 327 bank fence modules, corner details and two bridge rail groups
+PASS each original bank segment has a visible prefab fence and aligned enabled BoxCollider; bad=0
+PASS both bridge decks have four visible, physically blocking replacement side rails; bad=0
+PASS no imported fence MeshCollider is active; simple owned BoxColliders provide the new edge blocking
+PASS all 16 retained D11 road tiles bind only D12_RoadFinish material; actual=16
+PASS D12 road shader imports without errors and is bound to the new road material
+PASS all original road tile meshes, triangle indices, transforms, colliders and nonvisual fields retained exactly
+NOTE Ground material transition still requires matched rendered views; shader binding alone cannot establish natural blending.
+PASS four basic and eight dormant risk entry anchors remain registered
+PASS B4 basic and inactive R8 risk entry policy/positions retained; spacing=62.169m
+NOTE B4/R8 still converge toward W5; this surface/waterfront pass does not activate or distinguish R8. Compare early routes and exposure when future map placement changes.
+VISUAL_ACCEPTANCE separate: inspect matched before/after west street, both bridges and both banks at wide and player height. Surface blending and fence continuity cannot be accepted from object counts alone.
+PLAY_ACCEPTANCE separate: actual PlayerMotor must cross both bridges repeatedly and push toward bank/bridge edges without falling or snagging; run fresh spawn, door and route checks.
+GF2_REFERENCE_QUALITY separate: this D12 validation does not certify whole-map reference quality or lighting.
+passed=18 failed=2
+RESULT FAIL

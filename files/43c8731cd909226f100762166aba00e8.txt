@@ -1,0 +1,9 @@
+Static local HDR cubemap, 256x256 x6 faces, at map-local (0,18,-43).
+Post processing off; windows temporarily hidden during capture; all states restored afterwards.
+PositiveX range=0.03776..0.91526
+NegativeX range=0.06202..0.86634
+PositiveY range=0.13262..0.13262
+NegativeY range=0.08340..0.86556
+PositiveZ range=0.11940..0.78592
+NegativeZ range=0.04606..0.86383
+PASS captured nonuniform scene content; this is a static approximation, not realtime or per-facade parallax-correct reflection.

@@ -1,0 +1,52 @@
+[
+  {
+    "before": "before_empty_magazine_context.png",
+    "before_original": "C:\\Users\\ehoji\\OneDrive\\\ubb38\uc11c\\ChatGPT\\\uc775\uc2a4\ud2b8\ub799\uc158\\outputs\\change_records\\2026-11-19\\weapon-grip-reload-followup\\qa-independent\\pass_13\\Reload_117p5_context.png",
+    "before_sha256": "ca6ecf8cbd746789f2330fb11eacdc701a10f5202c4ed71b1c02956b8630465e",
+    "before_native_sha256": "df0f395ec5f082b88714041c903dc2634bc2594a66f17b7df718349b4082a132",
+    "after": "after_empty_magazine_context.png",
+    "after_native_sha256": "61c3c29985a19116f0f7b1f4e08be58a2b7293ceccb6546ff345eaf95dd31519",
+    "frame": 117.5,
+    "camera": {
+      "file": "Reload_117p5_context.png",
+      "frame": 117.5,
+      "target": [
+        0,
+        -0.12,
+        0.35
+      ],
+      "direction": [
+        0.36354246735572815,
+        -0.9088561534881592,
+        0.20449262857437134
+      ],
+      "scale": 0.95
+    },
+    "meaning": "Actual historical QA screenshot copied byte-exact, and new native rendered at identical camera/frame/light/render settings."
+  },
+  {
+    "before": "before_empty_magazine_close.png",
+    "before_original": "C:\\Users\\ehoji\\OneDrive\\\ubb38\uc11c\\ChatGPT\\\uc775\uc2a4\ud2b8\ub799\uc158\\outputs\\change_records\\2026-11-19\\weapon-grip-reload-followup\\qa-independent\\pass_13\\Reload_117p5_drop_close.png",
+    "before_sha256": "d44799b683504a1f02227e976b2791186562538c3b730eac3a2137fbf2694d9d",
+    "before_native_sha256": "df0f395ec5f082b88714041c903dc2634bc2594a66f17b7df718349b4082a132",
+    "after": "after_empty_magazine_close.png",
+    "after_native_sha256": "61c3c29985a19116f0f7b1f4e08be58a2b7293ceccb6546ff345eaf95dd31519",
+    "frame": 117.5,
+    "camera": {
+      "file": "Reload_117p5_drop_close.png",
+      "frame": 117.5,
+      "target": [
+        0.04,
+        -0.288,
+        0.05
+      ],
+      "direction": [
+        0.3368607759475708,
+        -0.842151939868927,
+        0.4210759699344635
+      ],
+      "scale": 0.26
+    },
+    "meaning": "Actual historical QA screenshot copied byte-exact, and new native rendered at identical camera/frame/light/render settings."
+  }
+]

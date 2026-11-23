@@ -1,0 +1,6 @@
+PASS actual viewport framing and monotonic look-ahead, aspect 1.778: 24 directions, 10 request magnitudes
+PASS actual viewport framing and monotonic look-ahead, aspect 1.333: 24 directions, 10 request magnitudes
+PASS actual viewport framing and monotonic look-ahead, aspect 2.333: 24 directions, 10 request magnitudes
+PASS actual viewport framing and monotonic look-ahead, aspect 1: 24 directions, 10 request magnitudes
+PASS default 16:9 4x regression, exact small offsets, unchanged field of view and framing limits
+ALL WEAPON MODDING CAMERA CHECKS PASSED: 1924 assertions

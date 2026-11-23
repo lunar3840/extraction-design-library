@@ -1,0 +1,14 @@
+STAGE_A_LOOK_V22_BASELINE
+generatedUtc=2026-09-22T22:33:41.8430750Z
+PASS map reference is live
+PASS required structure, controllers, facade and roof roots exist
+PASS exact 38 current V21 window slots captured: 24 facade and 14 roof
+PASS all captured slots are persistent V21 window material assets
+PASS all captured slots use the approved WindowsBroken01 atlas source
+PASS all 4,665 colliders inventoried
+PASS all 6,018 renderers inventoried
+PASS all 14,032 transforms, including empty roots, inventoried
+PASS all 46 gameplay anchors inventoried
+NOTE eligible=38 facade=24 roof=14 colliders=43525D51EC75A825 renderers=90E52B4CD30D3F79 transforms=8819F2323922AB33 protectedMaterials=D0FB7315D364E824 reflection=3E2B8726346E2AE6 V21Walls=FE142EBE6967192F
+SUMMARY passed=9 failed=0
+RESULT BASELINE_CAPTURED

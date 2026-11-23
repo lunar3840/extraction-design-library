@@ -1,0 +1,3 @@
+PASS retained scene and Resources prefab both contain 49 slots.
+PASS existing transforms, meshes, materials, colliders and player spawn tiers preserved.
+PASS 10,000 named selections; four named raids=1999; every named candidate reachable.

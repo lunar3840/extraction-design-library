@@ -1,0 +1,118 @@
+{
+  "status": "PASS",
+  "staticViews": 18,
+  "idleViews": 6,
+  "geometryChecks": [
+    {
+      "character": "serin",
+      "phase": "after",
+      "boundaryVertices": 104,
+      "maxRestGap": 1.1765022505398552e-06,
+      "maxPosedGap": 0,
+      "unmatched": [],
+      "weightError": 5.960464477539063e-08,
+      "status": "PASS"
+    },
+    {
+      "character": "liv",
+      "phase": "after",
+      "boundaryVertices": 104,
+      "maxRestGap": 1.1765022505398552e-06,
+      "maxPosedGap": 0,
+      "unmatched": [],
+      "weightError": 5.960464477539063e-08,
+      "status": "PASS"
+    },
+    {
+      "character": "yui",
+      "phase": "after",
+      "boundaryVertices": 104,
+      "maxRestGap": 1.1888521445070684e-06,
+      "maxPosedGap": 0,
+      "unmatched": [],
+      "weightError": 5.960464477539063e-08,
+      "status": "PASS"
+    },
+    {
+      "character": "serin",
+      "phase": "idle_8",
+      "boundaryVertices": 104,
+      "maxRestGap": 1.1765022505398552e-06,
+      "maxPosedGap": 0.0009765625,
+      "unmatched": [],
+      "weightError": 5.960464477539063e-08,
+      "status": "PASS"
+    },
+    {
+      "character": "liv",
+      "phase": "idle_8",
+      "boundaryVertices": 104,
+      "maxRestGap": 1.1765022505398552e-06,
+      "maxPosedGap": 0,
+      "unmatched": [],
+      "weightError": 5.960464477539063e-08,
+      "status": "PASS"
+    },
+    {
+      "character": "yui",
+      "phase": "idle_8",
+      "boundaryVertices": 104,
+      "maxRestGap": 1.1888521445070684e-06,
+      "maxPosedGap": 0,
+      "unmatched": [],
+      "weightError": 5.960464477539063e-08,
+      "status": "PASS"
+    },
+    {
+      "character": "serin",
+      "phase": "idle_16",
+      "boundaryVertices": 104,
+      "maxRestGap": 1.1765022505398552e-06,
+      "maxPosedGap": 0,
+      "unmatched": [],
+      "weightError": 5.960464477539063e-08,
+      "status": "PASS"
+    },
+    {
+      "character": "liv",
+      "phase": "idle_16",
+      "boundaryVertices": 104,
+      "maxRestGap": 1.1765022505398552e-06,
+      "maxPosedGap": 0,
+      "unmatched": [],
+      "weightError": 5.960464477539063e-08,
+      "status": "PASS"
+    },
+    {
+      "character": "yui",
+      "phase": "idle_16",
+      "boundaryVertices": 104,
+      "maxRestGap": 1.1888521445070684e-06,
+      "maxPosedGap": 0,
+      "unmatched": [],
+      "weightError": 5.960464477539063e-08,
+      "status": "PASS"
+    }
+  ],
+  "sourceFbx": {
+    "Serin": {
+      "sha256": "ffb843cc8a1f74f7ac94924301ac4cb1594ac8faae4190556fde3ab2b0c3c7e6",
+      "previous": "ffb843cc8a1f74f7ac94924301ac4cb1594ac8faae4190556fde3ab2b0c3c7e6"
+    },
+    "Liv": {
+      "sha256": "749ec49cbbfd511a5126d0a119fc3eac3931689f6e3f72a3e42d49bc2c506826",
+      "previous": "749ec49cbbfd511a5126d0a119fc3eac3931689f6e3f72a3e42d49bc2c506826"
+    },
+    "Yui": {
+      "sha256": "4865769ce4372b1b4aff68975d29187d0718ee31626b6e2eeeef427e8ef70b6c",
+      "previous": "4865769ce4372b1b4aff68975d29187d0718ee31626b6e2eeeef427e8ef70b6c"
+    },
+    "Edel": {
+      "sha256": "779ed67babb89920e190573c05e63faf484111a1a46a16c5861cb4e536f4949b",
+      "previous": "779ed67babb89920e190573c05e63faf484111a1a46a16c5861cb4e536f4949b"
+    }
+  },
+  "finalRuntimeErrors": 0,
+  "portraitBoundsFallback": 0,
+  "scope": "Actual Unity inventory rendering and idle samples; standalone build and full combat animation suite not run."
+}

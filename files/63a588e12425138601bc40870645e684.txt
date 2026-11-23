@@ -1,0 +1,21 @@
+STAGE_A_HALL_V35_INDEPENDENT_VALIDATION
+PASS retained D13 map available in edit mode
+PASS immutable pre-V35 D13 snapshot exists
+PASS original snapshot schema valid
+PASS same retained A scene is under review
+PASS all D13 originals, including V34 lights, transforms, meshes, colliders, materials and gameplay fields unchanged; baseline=33892 missing=0 structure=0 appearance=0
+PASS single new lighting root under retained HALL Floor_2F
+PASS only V35-prefixed additions within Floor_2F/V35_2FLighting; added=9 rejected=0
+PASS new fixtures and lights introduce no colliders or unrelated components; colliders=0 unrelated=0
+PASS new visual/light components stay inside 2F HALL envelope; outside=0
+PASS two southern floor and two stair-head spots with four exact retained-style fixture mesh/material clones; lights=4 south=2 stairs=2 renderers=4 unmatchedFixture=0
+PASS new fixture materials use supported error-free shaders; errors=0
+PASS all pre-V35 referenced assets/dependencies unchanged; changed=0
+PASS all pre-existing scene Light and Volume components, including V34 spotlights, unchanged
+PASS global RenderSettings and render pipeline assets unchanged
+PASS all 81 retained V34 roof/2F shadow-only copies remain enabled and shadow-only; copies=81
+PASS B4 basic and R8 dormant risk spawn tiers retained
+VISUAL_ACCEPTANCE separate: matched actual Play views must restore 2F southern floor, player, and stair-approach brightness while retaining window depth and 1F/outside appearance. Merely visible geometry is insufficient.
+PLAY_ACCEPTANCE separate: actual movement, floor cutaway, door route and save/reload checks are not proved by this structural audit.
+passed=16 failed=0
+RESULT PASS

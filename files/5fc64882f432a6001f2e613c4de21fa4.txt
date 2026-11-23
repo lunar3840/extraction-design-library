@@ -1,0 +1,120 @@
+V21 actual gameplay camera and physical walks
+PASS live basic spawn B2
+PASS roof game_main_entrance_start 73/73
+PASS V19 exterior cutaway game_main_entrance_start LookV19_FacadeRoot visible=True
+PASS V19 exterior cutaway game_main_entrance_start LookV19_WeatheringRoot visible=True
+CAPTURE game_main_entrance_start camera=(4.350, 17.109, -30.465) player=(0.000, 2.051, -38.000)
+RENDER_SAMPLE game_main_entrance_start drawCalls=836 batches=831 triangles=1327381 (Editor counters, not standalone FPS benchmark)
+PASS walk main_entrance steps=89 final=(0.00, 2.02, -26.13)
+PASS roof game_main_entrance_end 0/73
+PASS V19 exterior cutaway game_main_entrance_end LookV19_FacadeRoot visible=False
+PASS V19 exterior cutaway game_main_entrance_end LookV19_WeatheringRoot visible=False
+CAPTURE game_main_entrance_end camera=(4.350, 17.077, -18.598) player=(0.000, 2.020, -26.133)
+RENDER_SAMPLE game_main_entrance_end drawCalls=928 batches=928 triangles=1009985 (Editor counters, not standalone FPS benchmark)
+PASS roof game_west_up_to_2F_start 0/73
+PASS V19 exterior cutaway game_west_up_to_2F_start LookV19_FacadeRoot visible=False
+PASS V19 exterior cutaway game_west_up_to_2F_start LookV19_WeatheringRoot visible=False
+CAPTURE game_west_up_to_2F_start camera=(-26.650, 17.077, 10.535) player=(-31.000, 2.020, 3.000)
+RENDER_SAMPLE game_west_up_to_2F_start drawCalls=1633 batches=1617 triangles=923467 (Editor counters, not standalone FPS benchmark)
+PASS walk west_up_to_2F steps=119 final=(-31.00, 8.02, 18.87)
+PASS roof game_west_up_to_2F_end 0/73
+PASS V19 exterior cutaway game_west_up_to_2F_end LookV19_FacadeRoot visible=False
+PASS V19 exterior cutaway game_west_up_to_2F_end LookV19_WeatheringRoot visible=False
+CAPTURE game_west_up_to_2F_end camera=(-26.650, 23.077, 26.402) player=(-31.000, 8.020, 18.867)
+RENDER_SAMPLE game_west_up_to_2F_end drawCalls=2217 batches=2216 triangles=993108 (Editor counters, not standalone FPS benchmark)
+PASS roof game_east_up_to_2F_start 0/73
+PASS V19 exterior cutaway game_east_up_to_2F_start LookV19_FacadeRoot visible=False
+PASS V19 exterior cutaway game_east_up_to_2F_start LookV19_WeatheringRoot visible=False
+CAPTURE game_east_up_to_2F_start camera=(35.350, 17.077, 10.535) player=(31.000, 2.020, 3.000)
+RENDER_SAMPLE game_east_up_to_2F_start drawCalls=1684 batches=1664 triangles=1143292 (Editor counters, not standalone FPS benchmark)
+PASS walk east_up_to_2F steps=119 final=(31.00, 8.02, 18.87)
+PASS roof game_east_up_to_2F_end 0/73
+PASS V19 exterior cutaway game_east_up_to_2F_end LookV19_FacadeRoot visible=False
+PASS V19 exterior cutaway game_east_up_to_2F_end LookV19_WeatheringRoot visible=False
+CAPTURE game_east_up_to_2F_end camera=(35.350, 23.077, 26.402) player=(31.000, 8.020, 18.867)
+RENDER_SAMPLE game_east_up_to_2F_end drawCalls=2111 batches=2111 triangles=1142048 (Editor counters, not standalone FPS benchmark)
+PASS roof game_west_from_B1_start 0/73
+PASS V19 exterior cutaway game_west_from_B1_start LookV19_FacadeRoot visible=False
+PASS V19 exterior cutaway game_west_from_B1_start LookV19_WeatheringRoot visible=False
+CAPTURE game_west_from_B1_start camera=(-26.650, 11.077, -11.465) player=(-31.000, -3.980, -19.000)
+RENDER_SAMPLE game_west_from_B1_start drawCalls=788 batches=784 triangles=1000014 (Editor counters, not standalone FPS benchmark)
+PASS walk west_from_B1 steps=119 final=(-31.00, 2.02, -3.13)
+PASS roof game_west_from_B1_end 0/73
+PASS V19 exterior cutaway game_west_from_B1_end LookV19_FacadeRoot visible=False
+PASS V19 exterior cutaway game_west_from_B1_end LookV19_WeatheringRoot visible=False
+CAPTURE game_west_from_B1_end camera=(-26.650, 17.077, 4.402) player=(-31.000, 2.020, -3.133)
+RENDER_SAMPLE game_west_from_B1_end drawCalls=1487 batches=1484 triangles=949101 (Editor counters, not standalone FPS benchmark)
+PASS roof game_east_from_B1_start 0/73
+PASS V19 exterior cutaway game_east_from_B1_start LookV19_FacadeRoot visible=False
+PASS V19 exterior cutaway game_east_from_B1_start LookV19_WeatheringRoot visible=False
+CAPTURE game_east_from_B1_start camera=(35.350, 11.077, -11.465) player=(31.000, -3.980, -19.000)
+RENDER_SAMPLE game_east_from_B1_start drawCalls=771 batches=770 triangles=869255 (Editor counters, not standalone FPS benchmark)
+PASS walk east_from_B1 steps=119 final=(31.00, 2.02, -3.13)
+PASS roof game_east_from_B1_end 0/73
+PASS V19 exterior cutaway game_east_from_B1_end LookV19_FacadeRoot visible=False
+PASS V19 exterior cutaway game_east_from_B1_end LookV19_WeatheringRoot visible=False
+CAPTURE game_east_from_B1_end camera=(35.350, 17.077, 4.402) player=(31.000, 2.020, -3.133)
+RENDER_SAMPLE game_east_from_B1_end drawCalls=1597 batches=1596 triangles=1107600 (Editor counters, not standalone FPS benchmark)
+PASS roof game_secret_descent_start 73/73
+PASS V19 exterior cutaway game_secret_descent_start LookV19_FacadeRoot visible=True
+PASS V19 exterior cutaway game_secret_descent_start LookV19_WeatheringRoot visible=True
+CAPTURE game_secret_descent_start camera=(-60.650, 17.018, 13.535) player=(-65.000, 1.961, 6.000)
+RENDER_SAMPLE game_secret_descent_start drawCalls=855 batches=853 triangles=1116815 (Editor counters, not standalone FPS benchmark)
+PASS walk secret_descent steps=120 final=(-49.07, -3.98, 5.92)
+PASS roof game_secret_descent_end 0/73
+PASS V19 exterior cutaway game_secret_descent_end LookV19_FacadeRoot visible=False
+PASS V19 exterior cutaway game_secret_descent_end LookV19_WeatheringRoot visible=False
+CAPTURE game_secret_descent_end camera=(-44.720, 11.077, 13.459) player=(-49.070, -3.980, 5.924)
+RENDER_SAMPLE game_secret_descent_end drawCalls=861 batches=862 triangles=838778 (Editor counters, not standalone FPS benchmark)
+PASS roof game_south_yard_start 73/73
+PASS V19 exterior cutaway game_south_yard_start LookV19_FacadeRoot visible=True
+PASS V19 exterior cutaway game_south_yard_start LookV19_WeatheringRoot visible=True
+CAPTURE game_south_yard_start camera=(4.350, 16.837, -50.465) player=(0.000, 1.780, -58.000)
+RENDER_SAMPLE game_south_yard_start drawCalls=566 batches=566 triangles=1208781 (Editor counters, not standalone FPS benchmark)
+PASS walk south_yard steps=119 final=(0.00, 2.02, -42.13)
+PASS roof game_south_yard_end 73/73
+PASS V19 exterior cutaway game_south_yard_end LookV19_FacadeRoot visible=True
+PASS V19 exterior cutaway game_south_yard_end LookV19_WeatheringRoot visible=True
+CAPTURE game_south_yard_end camera=(4.350, 17.073, -34.598) player=(0.000, 2.016, -42.133)
+RENDER_SAMPLE game_south_yard_end drawCalls=696 batches=696 triangles=1334729 (Editor counters, not standalone FPS benchmark)
+PASS roof game_west_work_start 73/73
+PASS V19 exterior cutaway game_west_work_start LookV19_FacadeRoot visible=True
+PASS V19 exterior cutaway game_west_work_start LookV19_WeatheringRoot visible=True
+CAPTURE game_west_work_start camera=(-12.650, 16.545, -49.465) player=(-17.000, 1.488, -57.000)
+RENDER_SAMPLE game_west_work_start drawCalls=588 batches=585 triangles=1471339 (Editor counters, not standalone FPS benchmark)
+PASS walk west_work steps=0 final=(-17.00, 1.49, -57.00)
+PASS roof game_west_work_end 73/73
+PASS V19 exterior cutaway game_west_work_end LookV19_FacadeRoot visible=True
+PASS V19 exterior cutaway game_west_work_end LookV19_WeatheringRoot visible=True
+CAPTURE game_west_work_end camera=(-12.650, 16.545, -49.465) player=(-17.000, 1.488, -57.000)
+RENDER_SAMPLE game_west_work_end drawCalls=588 batches=588 triangles=1463571 (Editor counters, not standalone FPS benchmark)
+PASS roof game_east_service_start 73/73
+PASS V19 exterior cutaway game_east_service_start LookV19_FacadeRoot visible=True
+PASS V19 exterior cutaway game_east_service_start LookV19_WeatheringRoot visible=True
+CAPTURE game_east_service_start camera=(27.350, 15.072, -67.465) player=(23.000, 0.015, -75.000)
+RENDER_SAMPLE game_east_service_start drawCalls=545 batches=546 triangles=1058016 (Editor counters, not standalone FPS benchmark)
+PASS walk east_service steps=0 final=(23.00, 0.01, -75.00)
+PASS roof game_east_service_end 73/73
+PASS V19 exterior cutaway game_east_service_end LookV19_FacadeRoot visible=True
+PASS V19 exterior cutaway game_east_service_end LookV19_WeatheringRoot visible=True
+CAPTURE game_east_service_end camera=(27.350, 15.072, -67.465) player=(23.000, 0.015, -75.000)
+RENDER_SAMPLE game_east_service_end drawCalls=543 batches=544 triangles=1048712 (Editor counters, not standalone FPS benchmark)
+PASS roof under_LoadingCanopy 0/73
+PASS V19 exterior cutaway under_LoadingCanopy LookV19_FacadeRoot visible=False
+PASS V19 exterior cutaway under_LoadingCanopy LookV19_WeatheringRoot visible=False
+CAPTURE under_LoadingCanopy camera=(33.350, 16.908, -30.060) player=(29.000, 1.850, -37.595)
+RENDER_SAMPLE under_LoadingCanopy drawCalls=665 batches=665 triangles=861895 (Editor counters, not standalone FPS benchmark)
+PASS camera-to-player sight line clear: LoadingCanopy
+PASS new roof hide / physical bullet collision retained / pointer skips roof: LoadingCanopy
+PASS new roof restored outside: LoadingCanopy
+PASS roof under_RepairShelter 73/73
+PASS V19 exterior cutaway under_RepairShelter LookV19_FacadeRoot visible=True
+PASS V19 exterior cutaway under_RepairShelter LookV19_WeatheringRoot visible=True
+CAPTURE under_RepairShelter camera=(20.350, 15.064, -62.465) player=(16.000, 0.007, -70.000)
+RENDER_SAMPLE under_RepairShelter drawCalls=494 batches=490 triangles=1032791 (Editor counters, not standalone FPS benchmark)
+PASS camera-to-player sight line clear: RepairShelter
+PASS new roof hide / physical bullet collision retained / pointer skips roof: RepairShelter
+PASS new roof restored outside: RepairShelter
+PASS remote A restores base look / zero Volume weight / fog off
+PASS actual router Leave deactivates slice and restores B state
+RESULT PASS

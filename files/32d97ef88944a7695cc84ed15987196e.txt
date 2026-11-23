@@ -1,0 +1,70 @@
+GLOBAL OUTLINE ACTUAL PLAY
+label=before
+Editor scene must be clean and is never saved. StageScenePreview owns an isolated temporary save directory. Async shader compilation is disabled only for this run.
+EDEL_DEFAULT style.edelSkinReadability=0.65 activeMaterialCount=3 activeValues=Face_Skin (runtime toon):0.65|Original_Rest_Iris (runtime toon):0.65|Body_Skin_Clean (runtime toon):0.65
+ACTIVE_OUTLINE camera=Player Camera marker.present=True marker.enabled=True marker.active=True camera.enabled=True feature.active=True feature.path=Assets/Settings/PC_Renderer.asset widthPixels=1.15 depthThreshold=0.025 normalThreshold=0.48 normalStrength=0.25 rgba=0.025,0.038,0.05,0.72
+ACTIVE_RENDERER runtime=UniversalRenderer outlineCount=1 assetFeatureReferenceMatch=True
+ACTOR companion=prototype model=Player_Edel profile=D15 active=True, Stage A root=True, player same scene=True, player styled=True, router Stage A=True, copied materials=13, original bindings intact=True, roles [skin/hair/fabric/equipment/unclassified]=3:intact/0:intact/0:intact/1:intact/8:intact
+MATERIAL renderer=Face_Skin name=Face_Skin (runtime toon) shader=Escape/Subculture D15/Character Hybrid limbMask=0 skinMaskProperty=absent toon=1 softness=0.055
+ACTIVE_PROPERTY renderer=Face_Skin material=Face_Skin (runtime toon) _LimbSkinShading=0
+ACTIVE_PROPERTY renderer=Face_Skin material=Face_Skin (runtime toon) _EdelSkinReadability=0.65
+ACTIVE_PROPERTY renderer=Face_Skin material=Face_Skin (runtime toon) _EdelSkinSurface=1
+ACTIVE_PROPERTY renderer=Face_Skin material=Face_Skin (runtime toon) _EdelSkinShadowTint=RGBA(0.760, 0.700, 0.700, 1.000)
+ACTIVE_PROPERTY renderer=Face_Skin material=Face_Skin (runtime toon) _AlphaToMask=0
+ACTIVE_PROPERTY renderer=Face_Skin material=Face_Skin (runtime toon) _ClearCoatMask=0
+MATERIAL renderer=Iris_L name=Original_Rest_Iris (runtime toon) shader=Escape/Subculture D15/Character Hybrid limbMask=0 skinMaskProperty=absent toon=1 softness=0.045
+ACTIVE_PROPERTY renderer=Iris_L material=Original_Rest_Iris (runtime toon) _LimbSkinShading=0
+ACTIVE_PROPERTY renderer=Iris_L material=Original_Rest_Iris (runtime toon) _EdelSkinReadability=0
+ACTIVE_PROPERTY renderer=Iris_L material=Original_Rest_Iris (runtime toon) _EdelSkinSurface=0
+ACTIVE_PROPERTY renderer=Iris_L material=Original_Rest_Iris (runtime toon) _EdelSkinShadowTint=RGBA(0.760, 0.700, 0.700, 1.000)
+ACTIVE_PROPERTY renderer=Iris_L material=Original_Rest_Iris (runtime toon) _AlphaToMask=0
+ACTIVE_PROPERTY renderer=Iris_L material=Original_Rest_Iris (runtime toon) _ClearCoatMask=0
+MATERIAL renderer=Iris_R name=Original_Rest_Iris (runtime toon) shader=Escape/Subculture D15/Character Hybrid limbMask=0 skinMaskProperty=absent toon=1 softness=0.045
+ACTIVE_PROPERTY renderer=Iris_R material=Original_Rest_Iris (runtime toon) _LimbSkinShading=0
+ACTIVE_PROPERTY renderer=Iris_R material=Original_Rest_Iris (runtime toon) _EdelSkinReadability=0
+ACTIVE_PROPERTY renderer=Iris_R material=Original_Rest_Iris (runtime toon) _EdelSkinSurface=0
+ACTIVE_PROPERTY renderer=Iris_R material=Original_Rest_Iris (runtime toon) _EdelSkinShadowTint=RGBA(0.760, 0.700, 0.700, 1.000)
+ACTIVE_PROPERTY renderer=Iris_R material=Original_Rest_Iris (runtime toon) _AlphaToMask=0
+ACTIVE_PROPERTY renderer=Iris_R material=Original_Rest_Iris (runtime toon) _ClearCoatMask=0
+MATERIAL renderer=Rest_Original name=Original_Rest_Iris (runtime toon) shader=Escape/Subculture D15/Character Hybrid limbMask=1 skinMaskProperty=absent toon=1 softness=0.045
+ACTIVE_PROPERTY renderer=Rest_Original material=Original_Rest_Iris (runtime toon) _LimbSkinShading=1
+ACTIVE_PROPERTY renderer=Rest_Original material=Original_Rest_Iris (runtime toon) _EdelSkinReadability=0.65
+ACTIVE_PROPERTY renderer=Rest_Original material=Original_Rest_Iris (runtime toon) _EdelSkinSurface=0
+ACTIVE_PROPERTY renderer=Rest_Original material=Original_Rest_Iris (runtime toon) _EdelSkinShadowTint=RGBA(0.760, 0.700, 0.700, 1.000)
+ACTIVE_PROPERTY renderer=Rest_Original material=Original_Rest_Iris (runtime toon) _AlphaToMask=0
+ACTIVE_PROPERTY renderer=Rest_Original material=Original_Rest_Iris (runtime toon) _ClearCoatMask=0
+MATERIAL renderer=Rest_Original name=Body_Skin_Clean (runtime toon) shader=Escape/Subculture D15/Character Hybrid limbMask=0 skinMaskProperty=absent toon=0.25 softness=0.18
+ACTIVE_PROPERTY renderer=Rest_Original material=Body_Skin_Clean (runtime toon) _LimbSkinShading=0
+ACTIVE_PROPERTY renderer=Rest_Original material=Body_Skin_Clean (runtime toon) _EdelSkinReadability=0.65
+ACTIVE_PROPERTY renderer=Rest_Original material=Body_Skin_Clean (runtime toon) _EdelSkinSurface=1
+ACTIVE_PROPERTY renderer=Rest_Original material=Body_Skin_Clean (runtime toon) _EdelSkinShadowTint=RGBA(0.760, 0.700, 0.700, 1.000)
+ACTIVE_PROPERTY renderer=Rest_Original material=Body_Skin_Clean (runtime toon) _AlphaToMask=0
+ACTIVE_PROPERTY renderer=Rest_Original material=Body_Skin_Clean (runtime toon) _ClearCoatMask=0
+INVARIANT mesh=Equipped vest source=Edel_SkinnedVest verts=6041 uv0sha256=unreadable skinMaskComponent=True uv4count=0 uv4xmax=0 mats=AE_Vest_Body_URP (runtime toon):AE_Vest_Body_A
+INVARIANT mesh=Eyebrow_L source=Eyebrow_L verts=159 uv0sha256=3F7CA10BF5F9AC3BE61C8F42068C6A725A50078AA894DCA1861E2DDD511A5404 skinMaskComponent=True uv4count=0 uv4xmax=0 mats=Eyebrow (runtime toon):Eyebrow
+INVARIANT mesh=Eyebrow_R source=Eyebrow_R verts=184 uv0sha256=01DE101249EBB7300A2334DD8BEBEAC92FEE0C9EBCB678043D098BC9DD69D6BA skinMaskComponent=True uv4count=0 uv4xmax=0 mats=Eyebrow (runtime toon):Eyebrow
+INVARIANT mesh=Eyelashes_L source=Eyelashes_L verts=918 uv0sha256=FC99C5B21293C9EAD64EBE21794F14805ADEB03889BFE8524FBCCC7669E94320 skinMaskComponent=True uv4count=0 uv4xmax=0 mats=Eyelashes (runtime toon):Eyelashes
+INVARIANT mesh=Eyelashes_R source=Eyelashes_R verts=884 uv0sha256=05566D1D1CE5130F87AB779330A91E0422BF99B60CBB1D7571CD287AE22E0AB0 skinMaskComponent=True uv4count=0 uv4xmax=0 mats=Eyelashes (runtime toon):Eyelashes
+INVARIANT mesh=Eyelid_Fold_L source=Eyelid_Fold_L verts=135 uv0sha256=48AD0F87850E024E610B058F04DA0FC4DAD9440B70F10437F9BC692F04B8B5A6 skinMaskComponent=True uv4count=0 uv4xmax=0 mats=Eyelid_Fold (runtime toon):Eyelid_Fold
+INVARIANT mesh=Eyelid_Fold_R source=Eyelid_Fold_R verts=150 uv0sha256=76ED921BBCCC5A82C4727552C162235FD80316477A4A9A3F9092C30656B5358E skinMaskComponent=True uv4count=0 uv4xmax=0 mats=Eyelid_Fold (runtime toon):Eyelid_Fold
+INVARIANT mesh=FACE_MouthCavity source=FACE_MouthCavity verts=92 uv0sha256=E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 skinMaskComponent=True uv4count=0 uv4xmax=0 mats=Face_MouthCavity_v16 (runtime toon):
+INVARIANT mesh=Face_Skin source=Face_Skin verts=1935 uv0sha256=124E92A4DD177A57B1704EF54A851DB80137A5762734E3DA2DB5DB7515BA63DE skinMaskComponent=True uv4count=0 uv4xmax=0 mats=Face_Skin (runtime toon):Face_Skin
+INVARIANT mesh=Iris_L source=Iris_L verts=369 uv0sha256=542562DF190EDAD701BED7C6BDE00F3220AFEB3BE0BE38DC8279D19B3381C8F7 skinMaskComponent=True uv4count=0 uv4xmax=0 mats=Original_Rest_Iris (runtime toon):Edel_BaseColor_HairClean_v17
+INVARIANT mesh=Iris_R source=Iris_R verts=445 uv0sha256=DB5A073E46468588923FAC53BE6F072A8952505EECFB307655EEC69B1EF08E57 skinMaskComponent=True uv4count=0 uv4xmax=0 mats=Original_Rest_Iris (runtime toon):Edel_BaseColor_HairClean_v17
+INVARIANT mesh=Rest_Original source=Rest_Original (index skin binding) (limb shading mask) verts=27958 uv0sha256=C40DDED6B0A5B8F68C2EC90C29DC885F6CF45284CD113BB7FC28CDC81FB6D413 skinMaskComponent=True uv4count=27958 uv4xmax=1 mats=Original_Rest_Iris (runtime toon):Edel_BaseColor_HairClean_v17|Body_Skin_Clean (runtime toon):Body_Skin_Clean|Innerwear_Top (runtime toon):Innerwear_Top|Innerwear_Bottom (runtime toon):Innerwear_Bottom
+INVARIANT mesh=Sclera_L source=Sclera_L verts=93 uv0sha256=4110690D253549B434C1A845F4A1F5A5EA5D9BB35C655B40E432EAA40983DEE6 skinMaskComponent=True uv4count=0 uv4xmax=0 mats=Sclera (runtime toon):Sclera
+INVARIANT mesh=Sclera_R source=Sclera_R verts=92 uv0sha256=2E27ACCA948F660F5BEEE40E6B8435AFA67CD32DA62799629A08DC146CC36A1A skinMaskComponent=True uv4count=0 uv4xmax=0 mats=Sclera (runtime toon):Sclera
+SHOT before_outdoor_sun.png feet=(-165.00000, 0.16054, -98.00000) actual=(-165.00000, 0.20054, -98.00000) eye=(-159.68680, 13.82469, -88.79720) rotation=(50.000, 210.000, 0.000) fov=60 floor=99 resolution=1600x1000
+SHOT before_outdoor_shade.png feet=(-158.00000, 0.27166, -102.00000) actual=(-158.00000, 0.31166, -102.00000) eye=(-152.68680, 13.93580, -92.79720) rotation=(50.000, 210.000, 0.000) fov=60 floor=99 resolution=1600x1000
+SHOT before_indoor_1f.png feet=(-0.00001, 2.09329, -28.00000) actual=(-0.00001, 2.13329, -28.00000) eye=(5.31323, 15.75744, -18.79720) rotation=(50.000, 210.000, 0.000) fov=60 floor=0 resolution=1600x1000
+SHOT before_indoor_2f.png feet=(-22.00000, 8.04000, -27.00000) actual=(-22.00000, 8.08000, -27.00000) eye=(-16.68676, 21.70415, -17.79720) rotation=(50.000, 210.000, 0.000) fov=60 floor=1 resolution=1600x1000
+ACTIVE_OUTLINE_CONTROL stage=before active=before_game_front.png disabled=before_outline_off_game_front.png changedPixels=59961 meanAbsRgb8=0.4716
+SHOT before_game_front.png feet=(-165.00000, 0.16054, -98.00000) actual=(-165.00000, 0.20054, -98.00000) eye=(-165.00000, 1.51054, -102.30000) rotation=(1.998, 0.000, 0.000) fov=40 floor=99 resolution=1600x1000
+SHOT before_game_side.png feet=(-165.00000, 0.16054, -98.00000) actual=(-165.00000, 0.20054, -98.00000) eye=(-169.30000, 1.51054, -98.00000) rotation=(1.998, 90.000, 0.000) fov=40 floor=99 resolution=1600x1000
+SHOT before_game_back.png feet=(-165.00000, 0.16054, -98.00000) actual=(-165.00000, 0.20054, -98.00000) eye=(-165.00000, 1.51054, -93.70000) rotation=(1.998, 180.000, 0.000) fov=40 floor=99 resolution=1600x1000
+SHOT before_environment_overview.png feet=(-165.00000, 0.16054, -98.00000) actual=(-165.00000, 0.20054, -98.00000) eye=(-187.00000, 32.16054, -126.00000) rotation=(22.610, 38.660, 0.000) fov=55 floor=99 resolution=1600x1000
+SHOT before_environment_road_wreck.png feet=(-158.00000, 0.27166, -102.00000) actual=(-158.00000, 0.31166, -102.00000) eye=(-153.00000, 9.27166, -114.00000) rotation=(14.499, 305.218, 0.000) fov=50 floor=99 resolution=1600x1000
+PASS A→B: basic Hybrid restored, activeStage=StageB basicMaterials=31
+SHOT before_basic_game_front.png activeStage=StageB basicShader=true eye=(0.00000, 1.44000, -4.30000) fov=40
+PASS B→A: D15 returned and original bindings intact
+RESULT PASS

@@ -1,0 +1,8 @@
+EnclosuresV33_ConnectedFacilities/Boundaries/CN_W5/CN_W5_1_3/Wall
+EnclosuresV33_ConnectedFacilities/Boundaries/SC_W2/SC_W2_1_8/Wall
+EnclosuresV33_ConnectedFacilities/Boundaries/SC_W3/SC_W3_1_0/Wall
+EnclosuresV33_ConnectedFacilities/Boundaries/SC_W5/SC_W5_1_4/Wall
+EnclosuresV33_ConnectedFacilities/Boundaries/SC_W6/SC_W6_1_0/Wall
+EnclosuresV33_ConnectedFacilities/Boundaries/SC_W6/SC_W6_1_11/Wall
+EnclosuresV33_ConnectedFacilities/Boundaries/SC_W6/SC_W6_1_8/Wall
+EnclosuresV33_ConnectedFacilities/Boundaries/WC_W3/WC_W3_1_3/Wall

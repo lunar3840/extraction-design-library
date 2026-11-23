@@ -1,0 +1,150 @@
+{
+    "status": "PASS",
+    "mode": "final_movement",
+    "generatedUtc": "2026-09-14T20:53:22.9565750Z",
+    "scene": "Assets/Escape/Scenes/SystemsTest.unity",
+    "isolatedSaveDirectory": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\stage-a-v03-validation\\Library\\StageV12ShadowEvidence\\final_movement_953fe31cbf8349b28a0dab0c3181cf65",
+    "renderPipelineName": "PC_RPAsset",
+    "renderPipelinePath": "Assets/Settings/PC_RPAsset.asset",
+    "selectedSpawn": "0",
+    "activeShadowKeywords": "_MAIN_LIGHT_SHADOWS_CASCADE,_SHADOWS_SOFT,_CLUSTER_LIGHT_LOOP",
+    "directionalLightDetails": "Escape Integrated Systems Test - press Play/Player phase 1 - generated placeholders/Test Sun shadows=Soft strength=0.72 intensity=1.4 rotation=(42.0000038, 322, -1.14886575E-06)",
+    "asyncShaderCompilationAllowed": false,
+    "shaderAnythingCompiling": false,
+    "groundPassZeroCompiled": true,
+    "rendererModeDetails": "Assets/Settings/PC_Renderer.asset m_RenderingMode=2 (2=ForwardPlus)",
+    "groundRendererDetails": "Escape Integrated Systems Test - press Play/Player phase 1 - generated placeholders/A_Blockout__Partially_Flooded_Maintenance_District/StageA_Landform_v09/SurfaceTiles/LandSurface_00 mesh=5ad099959696d0d459d4b0d1e82e1b27:4300000 vertices=3366 normals=3366 avgNormal=(-0.004728088, 0.9973079, -0.01213554) normalY=0.980443239..1 renderer=True\nEscape Integrated Systems Test - press Play/Player phase 1 - generated placeholders/A_Blockout__Partially_Flooded_Maintenance_District/StageA_Landform_v09/SurfaceTiles/LandSurface_01 mesh=59e43a7fe8d6bec4aac4e75a015a5772:4300000 vertices=3366 normals=3366 avgNormal=(-0.0224512946, 0.996751368, 0.0236444063) normalY=0.970804632..1 renderer=True\nEscape Integrated Systems Test - press Play/Player phase 1 - generated placeholders/A_Blockout__Partially_Flooded_Maintenance_District/StageA_Landform_v09/SurfaceTiles/LandSurface_02 mesh=3e20bcb7cb0f0e14ab5c55aa7602e9ad:4300000 vertices=3366 normals=3366 avgNormal=(-0.01439145, 0.990084648, 0.0484913066) normalY=0.933917642..1 renderer=True\nEscape Integrated Systems Test - press Play/Player phase 1 - generated placeholders/A_Blockout__Partially_Flooded_Maintenance_District/StageA_Landform_v09/SurfaceTiles/LandSurface_03 mesh=48d79d8ed895ad346b9656530b9c91df:4300000 vertices=3366 normals=3366 avgNormal=(0.0387493372, 0.9902444, 0.0250979215) normalY=0.935424566..1 renderer=True\nEscape Integrated Systems Test - press Play/Player phase 1 - generated placeholders/A_Blockout__Partially_Flooded_Maintenance_District/StageA_Landform_v09/SurfaceTiles/LandSurface_04 mesh=de8fb393558251e4984b286915dd22ec:4300000 vertices=3366 normals=3366 avgNormal=(-0.00358608365, 0.99862206, -0.0237595513) normalY=0.971712351..1 renderer=True\nEscape Integrated Systems Test - press Play/Player phase 1 - generated placeholders/A_Blockout__Partially_Flooded_Maintenance_District/StageA_Landform_v09/SurfaceTiles/LandSurface_05 mesh=639f99b5676c15942a99627fde549c99:4300000 vertices=3366 normals=3366 avgNormal=(-0.0127265789, 0.990195334, -0.0475726835) normalY=0.686240435..1 renderer=True\nEscape Integrated Systems Test - press Play/Player phase 1 - generated placeholders/A_Blockout__Partially_Flooded_Maintenance_District/StageA_Landform_v09/SurfaceTiles/LandSurface_06 mesh=0add445dc17301f45abfdc2aa6c5bea5:4300000 vertices=3366 normals=3366 avgNormal=(-0.0168811586, 0.984547257, -0.07015468) normalY=0.6861886..1 renderer=True\nEscape Integrated Systems Test - press Play/Player phase 1 - generated placeholders/A_Blockout__Partially_Flooded_Maintenance_District/StageA_Landform_v09/SurfaceTiles/LandSurface_07 mesh=235a1766e0672864c815658df5b7534d:4300000 vertices=3366 normals=3366 avgNormal=(0.03270843, 0.9871385, -0.04601901) normalY=0.8348644..1 renderer=True\nEscape Integrated Systems Test - press Play/Player phase 1 - generated placeholders/A_Blockout__Partially_Flooded_Maintenance_District/StageA_Landform_v09/SurfaceTiles/LandSurface_08 mesh=4c47d7d266aa9fe45b41e601f3b6b0b4:4300000 vertices=3366 normals=3366 avgNormal=(-0.00195069856, 0.9997893, -0.007929268) normalY=0.9936614..1 renderer=True\nEscape Integrated Systems Test - press Play/Player phase 1 - generated placeholders/A_Blockout__Partially_Flooded_Maintenance_District/StageA_Landform_v09/SurfaceTiles/LandSurface_09 mesh=e20feb58fd2289540b5a932c14ec6e80:4300000 vertices=3366 normals=3366 avgNormal=(-0.00465855, 0.9994485, -0.016404558) normalY=0.9719199..1 renderer=True\nEscape Integrated Systems Test - press Play/Player phase 1 - generated placeholders/A_Blockout__Partially_Flooded_Maintenance_District/StageA_Landform_v09/SurfaceTiles/LandSurface_10 mesh=5d9caa2183fff374a990425434331f3d:4300000 vertices=3366 normals=3366 avgNormal=(-0.00185450632, 0.993603766, -0.0254873075) normalY=0..1 renderer=True\nEscape Integrated Systems Test - press Play/Player phase 1 - generated placeholders/A_Blockout__Partially_Flooded_Maintenance_District/StageA_Landform_v09/SurfaceTiles/LandSurface_11 mesh=85122beb2bcc78e45be7b3cd20bc0ff2:4300000 vertices=3366 normals=3366 avgNormal=(0.0101167271, 0.7569548, -0.031541802) normalY=0..1 renderer=True\nEscape Integrated Systems Test - press Play/Player phase 1 - generated placeholders/A_Blockout__Partially_Flooded_Maintenance_District/StageA_Landform_v09/SurfaceTiles/LandSurface_12 mesh=6484c4a8387e7734893bc33c13bfd015:4300000 vertices=3366 normals=3366 avgNormal=(0.000354957243, 0.9999833, 0.000847673) normalY=0.9989499..1 renderer=True\nEscape Integrated Systems Test - press Play/Player phase 1 - generated placeholders/A_Blockout__Partially_Flooded_Maintenance_District/StageA_Landform_v09/SurfaceTiles/LandSurface_13 mesh=245fdc24f024b8e4596925ea65332c77:4300000 vertices=3366 normals=3366 avgNormal=(0.0073023634, 0.981026351, 0.00087492587) normalY=0..1 renderer=True\nEscape Integrated Systems Test - press Play/Player phase 1 - generated placeholders/A_Blockout__Partially_Flooded_Maintenance_District/StageA_Landform_v09/SurfaceTiles/LandSurface_14 mesh=51b0f7ee8ee49ea46acc5012bdb77429:4300000 vertices=3366 normals=3366 avgNormal=(0.00166600756, 0.5497744, -0.00197273656) normalY=0..1 renderer=True\nEscape Integrated Systems Test - press Play/Player phase 1 - generated placeholders/A_Blockout__Partially_Flooded_Maintenance_District/StageA_Landform_v09/SurfaceTiles/LandSurface_15 mesh=8a96118efa2a0734dadc9ac99c96b337:4300000 vertices=3366 normals=3366 avgNormal=(-0.00504149124, 0.832426667, 0.0104153706) normalY=0..1 renderer=True",
+    "groundMaterialKeywords": "V10Dress_GroundBlend:",
+    "mainLightGlobals": "_MainLightPosition=(0.457525641, 0.6691307, -0.5856061, 0)\n_MainLightColor=(1.18732369, 1.2759707, 1.4, 1)\n_MainLightShadowParams=(0.72, 3, 0.00196169573, -3.90423918)\n_CascadeShadowSplitSpheres0=(-212.317566, 11.8781567, 149.787781, 6.800193)\n_CascadeShadowSplitSpheres1=(-214.554169, 4.664358, 145.92627, 16.0263481)\n_CascadeShadowSplitSpheres2=(-217.756882, -5.66541672, 140.3968, 29.26722)\n_CascadeShadowSplitSpheres3=(-223.862274, -25.35727, 129.855881, 54.5086632)\n_CascadeShadowSplitSphereRadii=(46.2426224, 256.843842, 856.5701, 2971.19434)",
+    "shadowCascadeCount": 4,
+    "shadowDistance": 50.0,
+    "activeRendererCount": 1813,
+    "activeColliderCount": 1307,
+    "activeMeshCount": 192,
+    "geometryFingerprint": "a7c8fba7d2db9df48d81a6a315947a3cd10ad99c913a02d5b49cf03f58ace81d",
+    "baselineGeometryFingerprint": "a7c8fba7d2db9df48d81a6a315947a3cd10ad99c913a02d5b49cf03f58ace81d",
+    "geometryUnchanged": true,
+    "lightFingerprint": "a63ab0379201c47f1eb5acf72de33052cf5f9af931dd3f695f0f6812c0674d5e",
+    "baselineLightFingerprint": "a63ab0379201c47f1eb5acf72de33052cf5f9af931dd3f695f0f6812c0674d5e",
+    "lightUnchanged": true,
+    "activeShaders": [
+        {
+            "name": "Escape/TimeGhost/URP Octahedral Tree",
+            "path": "Assets/Escape/Art/TimeGhostV10/Shaders/TimeGhostURPImpostor.shader",
+            "dependencyHash": "9e2cb347606e5a385326a1e1928584f4",
+            "supported": true,
+            "compilerErrorCount": 0
+        },
+        {
+            "name": "Escape/V10GroundBlend",
+            "path": "Assets/Escape/Art/TimeGhostV10/Shaders/V10GroundBlend.shader",
+            "dependencyHash": "df74afaaac77445bf6d66170538c4711",
+            "supported": true,
+            "compilerErrorCount": 0
+        },
+        {
+            "name": "Universal Render Pipeline/Lit",
+            "path": "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
+            "dependencyHash": "8665ef42e625e46feea042970baa9b13",
+            "supported": true,
+            "compilerErrorCount": 0
+        }
+    ],
+    "shaderFingerprint": "32952b31066aa423f5a85ab5faba6cdfc7b263cb6d2af1c25002fbc3917acde5",
+    "baselineShaderFingerprint": "32952b31066aa423f5a85ab5faba6cdfc7b263cb6d2af1c25002fbc3917acde5",
+    "shaderFingerprintChanged": false,
+    "shaderCompilerErrorCount": 0,
+    "screenshotCount": 6,
+    "poses": [
+        {
+            "label": "x00",
+            "overlayOnImage": "final_movement_x00.png",
+            "overlayOffImage": "final_movement_x00_overlay_off.png",
+            "requestedOffsetX": 0.0,
+            "playerPosition": {
+                "x": -240.0,
+                "y": 2.114816427230835,
+                "z": 145.0
+            },
+            "cameraPosition": {
+                "x": -235.64971923828126,
+                "y": 17.171951293945314,
+                "z": 152.53489685058595
+            },
+            "playerRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraRotation": {
+                "x": -0.12596143782138825,
+                "y": 0.8438150882720947,
+                "z": -0.4700944423675537,
+                "w": -0.22609956562519074
+            },
+            "settledRenderedFrames": 12
+        },
+        {
+            "label": "x10",
+            "overlayOnImage": "final_movement_x10.png",
+            "overlayOffImage": "final_movement_x10_overlay_off.png",
+            "requestedOffsetX": 10.0,
+            "playerPosition": {
+                "x": -230.0,
+                "y": 2.3019025325775148,
+                "z": 145.0
+            },
+            "cameraPosition": {
+                "x": -225.64971923828126,
+                "y": 17.359037399291993,
+                "z": 152.53489685058595
+            },
+            "playerRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraRotation": {
+                "x": -0.12596143782138825,
+                "y": 0.8438150882720947,
+                "z": -0.4700944423675537,
+                "w": -0.22609956562519074
+            },
+            "settledRenderedFrames": 12
+        },
+        {
+            "label": "x25",
+            "overlayOnImage": "final_movement_x25.png",
+            "overlayOffImage": "final_movement_x25_overlay_off.png",
+            "requestedOffsetX": 25.0,
+            "playerPosition": {
+                "x": -215.0279998779297,
+                "y": 2.109999656677246,
+                "z": 145.083984375
+            },
+            "cameraPosition": {
+                "x": -210.67771911621095,
+                "y": 17.16713523864746,
+                "z": 152.61888122558595
+            },
+            "playerRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraRotation": {
+                "x": -0.12596143782138825,
+                "y": 0.8438150882720947,
+                "z": -0.4700944423675537,
+                "w": -0.22609956562519074
+            },
+            "settledRenderedFrames": 12
+        }
+    ],
+    "posesMatchBaseline": true,
+    "errors": "",
+    "details": "PASS SystemsTest world booted\nPASS fresh isolated profile created\nPASS Stage A prerequisite accepted\nPASS normal Stage A departure completed\nPASS live Stage A map, landform, player camera and overlay resolved\nPASS actual Play camera uses TopDownCamera\nPASS pose 0 samples the authored ground on NavMesh\nPASS pose 0 remains on the authored ground level\nPASS player vision overlay is active for x00\nPASS pose 1 samples the authored ground on NavMesh\nPASS pose 1 remains on the authored ground level\nPASS player vision overlay is active for x10\nPASS pose 2 samples the authored ground on NavMesh\nPASS pose 2 remains on the authored ground level\nPASS player vision overlay is active for x25\nPASS active pipeline uses four cascades at 50 metres\nPASS every active map shader is supported and compiler-error free after rendered captures\nPASS asynchronous shader compilation is disabled and no shader job remains\nPASS ShaderUtil.IsPassCompiled reports ground material pass zero=True"
+}

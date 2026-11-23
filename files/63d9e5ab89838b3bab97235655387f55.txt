@@ -1,0 +1,10 @@
+PASS final evidence inventory
+36 before/after pairs: PNG headers and matching resolution verified
+20 after-only images: 6 clearance, 14 role telegraph/fire
+Final image count: before36 / after56 / total92 (intermediate directories excluded)
+SCREENSHOT_MANIFEST.csv contains SHA256 for all final images
+Final source snapshots copied and hash matched: 92 files
+Scene and map prefab hashes match original baseline
+Final Editor status: clean A edit mode
+CHANGE_RECORD.md and independent acceptance review present
+UTC 2026-10-16 08:41:53Z

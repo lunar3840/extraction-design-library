@@ -1,0 +1,88 @@
+PASS retained A-map prefab bytes, geometry and encounter placement match the pre-motion baseline
+PASS retained A-map and encounter layout components exist
+PASS 37 machine, 7 human and 5 named authored encounter slots remain
+PASS four basic and eight inactive risk entry slots retain their policy metadata
+PASS B4 and inactive R8 retain their distinct homes about 62 metres apart
+PASS player spawn list still separates B and R anchors
+PASS faction sensing, human avoidance opportunity and low-health defense tuning remain intact
+PASS SpiderLight keeps a visual binding and locomotion Animator
+PASS SpiderLight persisted Animator does not move the chassis independently
+PASS SpiderLight has an inspectable direction/locomotion controller
+PASS SpiderLight enables the correct persisted machine locomotion mode
+PASS SpiderLight configured idleState uses a playable state: Idle
+PASS SpiderLight configured walkState uses a playable state: Walk
+PASS SpiderLight configured runState uses a playable state: Walk
+PASS SpiderLight configured deathState uses a playable state: Death
+PASS SpiderLight configured backwardState has the expected playable direction state
+PASS SpiderLight configured strafeLeftState has the expected playable direction state
+PASS SpiderLight configured strafeRightState has the expected playable direction state
+PASS SpiderLight configured turnLeftState has the expected playable direction state
+PASS SpiderLight configured turnRightState has the expected playable direction state
+PASS SpiderLight configured walkTurnLeftState has the expected playable direction state
+PASS SpiderLight configured walkTurnRightState has the expected playable direction state
+PASS SpiderMedium keeps a visual binding and locomotion Animator
+PASS SpiderMedium persisted Animator does not move the chassis independently
+PASS SpiderMedium has an inspectable direction/locomotion controller
+PASS SpiderMedium enables the correct persisted machine locomotion mode
+PASS SpiderMedium configured idleState uses a playable state: Idle
+PASS SpiderMedium configured walkState uses a playable state: Walk
+PASS SpiderMedium configured runState uses a playable state: Walk
+PASS SpiderMedium configured deathState uses a playable state: Death
+PASS SpiderMedium configured backwardState has the expected playable direction state
+PASS SpiderMedium configured strafeLeftState has the expected playable direction state
+PASS SpiderMedium configured strafeRightState has the expected playable direction state
+PASS SpiderMedium configured turnLeftState has the expected playable direction state
+PASS SpiderMedium configured turnRightState has the expected playable direction state
+PASS SpiderMedium configured walkTurnLeftState has the expected playable direction state
+PASS SpiderMedium configured walkTurnRightState has the expected playable direction state
+PASS SpiderTransformer keeps a visual binding and locomotion Animator
+PASS SpiderTransformer persisted Animator does not move the chassis independently
+PASS SpiderTransformer has an inspectable direction/locomotion controller
+PASS SpiderTransformer enables the correct persisted machine locomotion mode
+PASS SpiderTransformer configured idleState uses a playable state: Idle
+PASS SpiderTransformer configured walkState uses a playable state: Walk
+PASS SpiderTransformer configured runState uses a playable state: Walk
+PASS SpiderTransformer configured deathState uses a playable state: Death
+PASS SpiderTransformer configured backwardState has the expected playable direction state
+PASS SpiderTransformer configured strafeLeftState has the expected playable direction state
+PASS SpiderTransformer configured strafeRightState has the expected playable direction state
+PASS SpiderTransformer configured turnLeftState has the expected playable direction state
+PASS SpiderTransformer configured turnRightState has the expected playable direction state
+PASS SpiderTransformer configured walkTurnLeftState has the expected playable direction state
+PASS SpiderTransformer configured walkTurnRightState has the expected playable direction state
+PASS SpiderHeavy keeps a visual binding and locomotion Animator
+PASS SpiderHeavy persisted Animator does not move the chassis independently
+PASS SpiderHeavy has an inspectable direction/locomotion controller
+PASS SpiderHeavy enables the correct persisted machine locomotion mode
+PASS SpiderHeavy configured idleState uses a playable state: Idle
+PASS SpiderHeavy configured walkState uses a playable state: Walk
+PASS SpiderHeavy configured runState uses a playable state: Walk
+PASS SpiderHeavy configured deathState uses a playable state: Death
+PASS SpiderHeavy configured backwardState has the expected playable direction state
+PASS SpiderHeavy configured strafeLeftState has the expected playable direction state
+PASS SpiderHeavy configured strafeRightState has the expected playable direction state
+PASS SpiderHeavy configured turnLeftState has the expected playable direction state
+PASS SpiderHeavy configured turnRightState has the expected playable direction state
+PASS SpiderHeavy configured walkTurnLeftState has the expected playable direction state
+PASS SpiderHeavy configured walkTurnRightState has the expected playable direction state
+PASS Tank keeps a visual binding and locomotion Animator
+PASS Tank persisted Animator does not move the chassis independently
+PASS Tank has an inspectable direction/locomotion controller
+PASS Tank enables the correct persisted machine locomotion mode
+PASS Tank configured idleState uses a playable state: Idle
+PASS Tank configured walkState uses a playable state: Move_Forward
+PASS Tank configured runState uses a playable state: Move_Forward
+PASS Tank configured backwardState has the expected playable direction state
+PASS Tank configured strafeLeftState has the expected playable direction state
+PASS Tank configured strafeRightState has the expected playable direction state
+PASS Tank configured turnLeftState has the expected playable direction state
+PASS Tank configured turnRightState has the expected playable direction state
+PASS Tank configured walkTurnLeftState has the expected playable direction state
+PASS Tank configured walkTurnRightState has the expected playable direction state
+PASS temporary Machine actor is on test NavMesh
+PASS machine rejects even a direct roll request without temporary protection
+PASS temporary Human actor is on test NavMesh
+PASS Human keeps existing defensive roll behavior
+PASS temporary legacy actor is on test NavMesh
+PASS legacy keeps existing defensive roll behavior
+PASS existing faction detection, avoidance and player-threat regressions pass

@@ -1,0 +1,30 @@
+UTC=2026-10-22T22:28:29.4108536Z
+scene=Assets/Escape/Scenes/SystemsTest.unity playing=True dirty=False
+homeVerified=True active=True owned=True cleaning=False step=33/42
+gameTarget=1920x1080 rawScreen=1920x1080 lastPaint=1920x1080 paintFrame=864 frame=864
+page=Lobby busy=False location=BaseCamp panel=-1
+save=C:\UnityProject\escape\Library\UnifiedUiEvidence\before-1920x1080-42bf7ba552544e61a6d56d5998b869a7 ownedSave=True
+position=(0.00, 0.05, -2.60) rotation=(0.00, 0.00, 0.00) camera=(-196.86, 15.86, 172.55)
+inventory=False input=False frozen=False mapBlocked=False
+health=100 stamina=48 energy=35 water=62 bleeding=False traumas=0 analgesic=0
+using=False activeUid= rigUse=False useStatus=Ready medicalStatus=응급 주사기 자동 치료 시작
+wheel=False carried=True rig= 6x2 pack=BP_PATROL_24 packSize=6x4
+lootCandidates=3 lootActive=
+slot[0]=SD_BASIC_VEST uid=5c4fe0cefc6e4f668e24170207d88759 quantity=1 page=1 grid=0,0 rotated=False
+slot[1]=SD_BASIC_HELMET uid=f49ebb5c65144f7abf090001c53fcac4 quantity=1 page=0 grid=0,0 rotated=False
+slot[2]=item_018 uid=3ca9cbe24ebd4b9aba5ac59f6b330d12 quantity=20 page=0 grid=2,0 rotated=False
+slot[3]=item_018 uid=a044eb9632ac4abe98076b748762a635 quantity=50 page=0 grid=3,0 rotated=False
+slot[4]=med_injector_c uid=b740feb503ae4b6fa29b2d4d73cc466e quantity=1 page=0 grid=4,0 rotated=False
+slot[5]=med_field_kit_b uid=2af54cef96c34b38bc0aa76c49d4baa3 quantity=1 page=0 grid=5,0 rotated=False
+slot[6]=med_tactical_bag_a uid=1fc465177db44e6389ad9fd262b68c6c quantity=1 page=0 grid=2,1 rotated=True
+slot[7]=med_tourniquet_b uid=8d13de5788044e69af703bc7d9e2a3f6 quantity=1 page=0 grid=4,1 rotated=False
+slot[8]=med_analgesic_b uid=57b8b75eac064284809a56a27c92c128 quantity=1 page=0 grid=5,1 rotated=False
+slot[9]=med_analgesic_a uid=0a53d0f3427d428881ae1d769128ca50 quantity=1 page=1 grid=3,0 rotated=False
+slot[10]=SURGERY_KIT uid=b8070f2ecef94d018502f083449904da quantity=1 page=1 grid=4,0 rotated=False
+slot[11]=med_surgery_b uid=f2ae75c0a363444f9ddad848cf79a633 quantity=1 page=1 grid=5,0 rotated=False
+slot[12]=med_surgery_a uid=9d6c4046e37e4da0869754cada166b9d quantity=1 page=1 grid=3,1 rotated=False
+slot[13]=companion_chip_prototype uid=4532e8725b8d43dbbd5da078928327cc quantity=1 page=1 grid=4,1 rotated=False
+slot[14]=companion_chip_liv uid=f78faa22bde24b578efef700f38d65bd quantity=1 page=1 grid=4,2 rotated=False
+slot[15]=companion_chip_yui uid=86237336f96047d4bcb3ad2ab25988d8 quantity=1 page=1 grid=5,2 rotated=False
+weapon[0]=AR_001 mag=30 tier=1 reloading=False
+weapon[1]= mag= tier= reloading=

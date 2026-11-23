@@ -1,0 +1,510 @@
+{
+  "measuredAt": "2026-10-26T22:09:22.3268218+09:00",
+  "matched": {
+    "optimizedRefresh": {
+      "n": 210,
+      "mean": 11.316890476190478,
+      "median": 11.2885,
+      "p95": 12.6126,
+      "maximum": 14.9318
+    },
+    "referenceRefresh": {
+      "n": 210,
+      "mean": 11.369188095238096,
+      "median": 11.3629,
+      "p95": 12.6273,
+      "maximum": 14.7873
+    },
+    "scope": "same-session 80 input poses ABBAAB, warm10 excluded; inclusive Step CPU only; pre-BakeMesh digest omits unreadable vest vertices",
+    "optimized": {
+      "n": 210,
+      "mean": 53.10371904761906,
+      "median": 55.995400000000004,
+      "p95": 60.240300000000005,
+      "maximum": 63.945800000000006
+    },
+    "reference": {
+      "n": 210,
+      "mean": 55.04251857142854,
+      "median": 58.1854,
+      "p95": 62.011100000000006,
+      "maximum": 69.2363
+    },
+    "referenceApply": {
+      "n": 210,
+      "mean": 17.185934285714268,
+      "median": 17.522799999999997,
+      "p95": 19.394899999999996,
+      "maximum": 20.832999999999995
+    },
+    "optimizedApply": {
+      "n": 210,
+      "mean": 16.100080000000005,
+      "median": 16.544799999999995,
+      "p95": 17.995999999999988,
+      "maximum": 19.103900000000003
+    }
+  },
+  "quality": [
+    {
+      "label": "paired_quality",
+      "scope": "6 source poses x reference/optimized/oracle; unreadable child SkinnedMeshRenderer BakeMesh vertices included; not representative performance",
+      "digestMismatches": 0,
+      "workMismatches": 0,
+      "distanceChecks": 28578.0,
+      "distanceMismatchMax": 0.0,
+      "braidChecksLast": 9073,
+      "braidMismatchMax": 0.0,
+      "threadAllocationCounterValid": false,
+      "threadAllocationObservedDelta": 0,
+      "unreadableBakedMeshCount": 1,
+      "unreadableBakedVertexCount": 6041,
+      "memoryPayloadCaptured": true,
+      "partPreparedPayloadBytes": 3729000,
+      "partPreparedEpochPayloadBytes": 149160,
+      "sourcePreparedPayloadBytes": 128900,
+      "braidInvariantPayloadBytes": 224
+    },
+    {
+      "label": "paired_quality_serin",
+      "scope": "6 source poses x reference/optimized/oracle; unreadable child SkinnedMeshRenderer BakeMesh vertices included; not representative performance",
+      "digestMismatches": 0,
+      "workMismatches": 0,
+      "distanceChecks": 168844.0,
+      "distanceMismatchMax": 0.0,
+      "braidChecksLast": 0,
+      "braidMismatchMax": 0.0,
+      "threadAllocationCounterValid": false,
+      "threadAllocationObservedDelta": 0,
+      "unreadableBakedMeshCount": 0,
+      "unreadableBakedVertexCount": 0,
+      "memoryPayloadCaptured": true,
+      "partPreparedPayloadBytes": 3383200,
+      "partPreparedEpochPayloadBytes": 135328,
+      "sourcePreparedPayloadBytes": 653800,
+      "braidInvariantPayloadBytes": 0
+    },
+    {
+      "label": "paired_quality_liv",
+      "scope": "6 source poses x reference/optimized/oracle; unreadable child SkinnedMeshRenderer BakeMesh vertices included; not representative performance",
+      "digestMismatches": 0,
+      "workMismatches": 0,
+      "distanceChecks": 967.0,
+      "distanceMismatchMax": 0.0,
+      "braidChecksLast": 0,
+      "braidMismatchMax": 0.0,
+      "threadAllocationCounterValid": false,
+      "threadAllocationObservedDelta": 0,
+      "unreadableBakedMeshCount": 0,
+      "unreadableBakedVertexCount": 0,
+      "memoryPayloadCaptured": true,
+      "partPreparedPayloadBytes": 3502800,
+      "partPreparedEpochPayloadBytes": 140112,
+      "sourcePreparedPayloadBytes": 140500,
+      "braidInvariantPayloadBytes": 0
+    },
+    {
+      "label": "paired_quality_yui",
+      "scope": "6 source poses x reference/optimized/oracle; unreadable child SkinnedMeshRenderer BakeMesh vertices included; not representative performance",
+      "digestMismatches": 0,
+      "workMismatches": 0,
+      "distanceChecks": 2388.0,
+      "distanceMismatchMax": 0.0,
+      "braidChecksLast": 0,
+      "braidMismatchMax": 0.0,
+      "threadAllocationCounterValid": false,
+      "threadAllocationObservedDelta": 0,
+      "unreadableBakedMeshCount": 0,
+      "unreadableBakedVertexCount": 0,
+      "memoryPayloadCaptured": true,
+      "partPreparedPayloadBytes": 3285100,
+      "partPreparedEpochPayloadBytes": 131404,
+      "sourcePreparedPayloadBytes": 25500,
+      "braidInvariantPayloadBytes": 0
+    }
+  ],
+  "live": [
+    {
+      "label": "before",
+      "frame": {
+        "n": 240,
+        "mean": 74.18436670365433,
+        "median": 77.19320058822632,
+        "p95": 83.71319621801376,
+        "maximum": 90.20999819040298
+      },
+      "step": {
+        "n": 240,
+        "mean": 43.06038166666667,
+        "median": 46.4859,
+        "p95": 50.3681,
+        "maximum": 54.2705
+      },
+      "refresh": {
+        "n": 240,
+        "mean": 11.411870000000002,
+        "median": 11.2659,
+        "p95": 13.1604,
+        "maximum": 15.3633
+      },
+      "currentApply": {
+        "n": 240,
+        "mean": 17.46369333333332,
+        "median": 17.6464,
+        "p95": 19.271800000000006,
+        "maximum": 20.62209999999999
+      },
+      "braid": {
+        "n": 240,
+        "mean": 16.18773666666666,
+        "median": 20.4274,
+        "p95": 22.6625,
+        "maximum": 27.3592
+      },
+      "nativeGc": {
+        "n": 240,
+        "mean": 245631.825,
+        "median": 270815,
+        "p95": 307177,
+        "maximum": 331709
+      },
+      "geometry": "BASELINE",
+      "shots": 12,
+      "reloads": 3,
+      "mainValid": true,
+      "renderValid": false,
+      "gcValid": true
+    },
+    {
+      "label": "after",
+      "frame": {
+        "n": 240,
+        "mean": 75.32875696197152,
+        "median": 78.06040346622467,
+        "p95": 83.97199958562851,
+        "maximum": 92.09130704402924
+      },
+      "step": {
+        "n": 240,
+        "mean": 41.43988583333333,
+        "median": 44.7506,
+        "p95": 48.0031,
+        "maximum": 55.1669
+      },
+      "refresh": {
+        "n": 240,
+        "mean": 13.496810416666667,
+        "median": 13.5317,
+        "p95": 15.349,
+        "maximum": 17.1946
+      },
+      "currentApply": {
+        "n": 240,
+        "mean": 16.124039166666655,
+        "median": 16.474699999999984,
+        "p95": 18.05189999999999,
+        "maximum": 21.772100000000002
+      },
+      "braid": {
+        "n": 240,
+        "mean": 15.86682791666667,
+        "median": 19.7797,
+        "p95": 21.5016,
+        "maximum": 23.4449
+      },
+      "nativeGc": {
+        "n": 240,
+        "mean": 158363.70833333334,
+        "median": 152945,
+        "p95": 180585,
+        "maximum": 193421
+      },
+      "geometry": "EXACT_MATCH_20_STEPS",
+      "shots": 12,
+      "reloads": 3,
+      "mainValid": true,
+      "renderValid": false,
+      "gcValid": true
+    },
+    {
+      "label": "reference_details",
+      "frame": {
+        "n": 240,
+        "mean": 76.74973448738456,
+        "median": 78.96490395069122,
+        "p95": 86.0660970211029,
+        "maximum": 103.66920381784439
+      },
+      "step": {
+        "n": 240,
+        "mean": 43.48575458333331,
+        "median": 46.4599,
+        "p95": 50.3947,
+        "maximum": 57.5349
+      },
+      "refresh": {
+        "n": 240,
+        "mean": 11.16179458333334,
+        "median": 11.1989,
+        "p95": 12.4757,
+        "maximum": 15.9948
+      },
+      "currentApply": {
+        "n": 240,
+        "mean": 17.009048749999994,
+        "median": 17.407699999999995,
+        "p95": 19.162399999999977,
+        "maximum": 24.129099999999998
+      },
+      "braid": {
+        "n": 240,
+        "mean": 17.10625041666667,
+        "median": 20.4901,
+        "p95": 22.6718,
+        "maximum": 24.9224
+      },
+      "nativeGc": {
+        "n": 240,
+        "mean": 250391.10833333334,
+        "median": 270191,
+        "p95": 302263,
+        "maximum": 335825
+      },
+      "geometry": "EXACT_MATCH_20_STEPS",
+      "shots": 12,
+      "reloads": 3,
+      "mainValid": true,
+      "renderValid": false,
+      "gcValid": true
+    },
+    {
+      "label": "final",
+      "frame": {
+        "n": 240,
+        "mean": 75.44523752294481,
+        "median": 76.39409601688385,
+        "p95": 86.93980425596237,
+        "maximum": 122.98620492219925
+      },
+      "step": {
+        "n": 240,
+        "mean": 42.05012749999999,
+        "median": 44.4703,
+        "p95": 48.5728,
+        "maximum": 71.257
+      },
+      "refresh": {
+        "n": 240,
+        "mean": 11.113323333333328,
+        "median": 11.1227,
+        "p95": 13.661,
+        "maximum": 16.4464
+      },
+      "currentApply": {
+        "n": 240,
+        "mean": 15.945832916666662,
+        "median": 16.257400000000004,
+        "p95": 18.139299999999995,
+        "maximum": 24.437700000000007
+      },
+      "braid": {
+        "n": 240,
+        "mean": 16.74440208333333,
+        "median": 19.76,
+        "p95": 22.1322,
+        "maximum": 33.2025
+      },
+      "nativeGc": {
+        "n": 240,
+        "mean": 158749.44166666668,
+        "median": 152673,
+        "p95": 188933,
+        "maximum": 195703
+      },
+      "geometry": "EXACT_MATCH_20_STEPS",
+      "shots": 12,
+      "reloads": 3,
+      "mainValid": true,
+      "renderValid": false,
+      "gcValid": true
+    }
+  ],
+  "players": [
+    {
+      "label": "reference",
+      "scope": "Separate hidden-window Development Player runs; AI/weather/animation time differs, no causal FPS or GPU claim",
+      "status": "complete",
+      "allRows": 360,
+      "warmRows": 240,
+      "frame": {
+        "n": 240,
+        "mean": 96.53049109814067,
+        "median": 96.05810046195984,
+        "p95": 128.24079394340515,
+        "maximum": 167.10349917411804
+      },
+      "main": {
+        "n": 240,
+        "mean": 96.52574083333337,
+        "median": 96.09429999999999,
+        "p95": 128.2215,
+        "maximum": 167.1006
+      },
+      "step": {
+        "n": 240,
+        "mean": 68.29627083333334,
+        "median": 68.435,
+        "p95": 91.3853,
+        "maximum": 117.7367
+      },
+      "refresh": {
+        "n": 240,
+        "mean": 13.813039583333332,
+        "median": 13.4352,
+        "p95": 19.295,
+        "maximum": 24.0004
+      },
+      "currentApply": {
+        "n": 240,
+        "mean": 31.57176541666667,
+        "median": 31.338500000000014,
+        "p95": 40.634999999999984,
+        "maximum": 54.68810000000001
+      },
+      "braid": {
+        "n": 240,
+        "mean": 24.83787791666666,
+        "median": 27.3501,
+        "p95": 39.839,
+        "maximum": 55.4344
+      },
+      "nativeGc": {
+        "n": 240,
+        "mean": 149282.29166666666,
+        "median": 169946,
+        "p95": 192840,
+        "maximum": 201698
+      },
+      "mainValid": true,
+      "renderValid": false,
+      "gpuTimingValid": false,
+      "gcValid": true,
+      "shots": 12,
+      "reloads": 3,
+      "enemyCount": 71,
+      "saveDirectory": "C:/Users/ehoji/AppData/Local/Temp/DefaultCompany/escape\\EdelPhase2BuildProbe\\2eed360e18254dd09e2bd30815b01268",
+      "build": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\edel-runtime-phase2\\build_player\\reference\\20261026_215213",
+      "metrics": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\edel-runtime-phase2\\build_runs\\reference_20261026_125300_444\\metrics.json",
+      "driverSourceHashes": [
+        "label=reference",
+        "capturedAt=2026-10-26T21:52:13.1604759+09:00",
+        "CurrentSourceClearanceFieldBudget.cs=3B945AA150F68F695B91E1265C0F9D9DB0E4EB75FB32CAC774DFEB6BE2931628",
+        "HeadSourceClearanceFieldBudget.cs=BAD7CBBDB27940C7E09798080008F7BABABCE53B25E5007DEF3D14DC56AA9EA0",
+        "SdHairCollisionMotion.cs=32183682DD67C6625CA47B602B42A9C18D1E3C9A0A15ECE4A0AE4421B6763CF7",
+        "EdelPhase2BuildProbe.cs=670DAE25CBA3030D989810C66F2FFCEC1C6D4DB4E0D8318625CA259B803FBA58"
+      ],
+      "screenshotStatus": "ReadPixels outside drawing-frame warning; do not use Player PNG as visual proof"
+    },
+    {
+      "label": "candidate",
+      "scope": "Separate hidden-window Development Player runs; AI/weather/animation time differs, no causal FPS or GPU claim",
+      "status": "complete",
+      "allRows": 360,
+      "warmRows": 240,
+      "frame": {
+        "n": 240,
+        "mean": 83.77668592147529,
+        "median": 86.27390116453171,
+        "p95": 94.36530619859695,
+        "maximum": 98.97509962320328
+      },
+      "main": {
+        "n": 240,
+        "mean": 83.77302708333333,
+        "median": 86.35079999999999,
+        "p95": 94.3581,
+        "maximum": 98.96499999999999
+      },
+      "step": {
+        "n": 240,
+        "mean": 57.88675041666667,
+        "median": 60.8459,
+        "p95": 65.9724,
+        "maximum": 68.7175
+      },
+      "refresh": {
+        "n": 240,
+        "mean": 13.297019583333345,
+        "median": 13.4386,
+        "p95": 15.1245,
+        "maximum": 17.5377
+      },
+      "currentApply": {
+        "n": 240,
+        "mean": 24.497990833333336,
+        "median": 25.116600000000012,
+        "p95": 27.55330000000002,
+        "maximum": 34.0027
+      },
+      "braid": {
+        "n": 240,
+        "mean": 22.319512916666675,
+        "median": 25.2764,
+        "p95": 28.6669,
+        "maximum": 30.6823
+      },
+      "nativeGc": {
+        "n": 240,
+        "mean": 52217.1,
+        "median": 52388,
+        "p95": 59214,
+        "maximum": 73364
+      },
+      "mainValid": true,
+      "renderValid": false,
+      "gpuTimingValid": false,
+      "gcValid": true,
+      "shots": 12,
+      "reloads": 3,
+      "enemyCount": 71,
+      "saveDirectory": "C:/Users/ehoji/AppData/Local/Temp/DefaultCompany/escape\\EdelPhase2BuildProbe\\cb27eb938ce74eb79eddf23e0b511645",
+      "build": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\edel-runtime-phase2\\build_player\\candidate\\20261026_213017",
+      "metrics": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-26\\edel-runtime-phase2\\build_runs\\candidate_20261026_124714_664\\metrics.json",
+      "driverSourceHashes": [
+        "label=candidate",
+        "capturedAt=2026-10-26T21:30:17.4624180+09:00",
+        "CurrentSourceClearanceFieldBudget.cs=6DD7D5F2A7EA03FA7A44C63DCD2E790F5E94BBC5C3FBCD696A924C9A251743A5",
+        "HeadSourceClearanceFieldBudget.cs=E402BC739B5631A1CCA0F678260CA841BC4D84CAE8E97189A48B9B388E448A16",
+        "SdHairCollisionMotion.cs=EC7BF1BE6DD556F15E9DAF989D39DC29570207FE58FADFBA0A40D13E3B288F72",
+        "EdelPhase2BuildProbe.cs=670DAE25CBA3030D989810C66F2FFCEC1C6D4DB4E0D8318625CA259B803FBA58"
+      ],
+      "screenshotStatus": "ReadPixels outside drawing-frame warning; do not use Player PNG as visual proof"
+    }
+  ],
+  "diagnosticImages": [
+    {
+      "view": "front",
+      "before": "before_reconstructed_detail_front.png",
+      "after": "after_detail_front.png",
+      "exactFileMatch": true,
+      "scope": "Actual backup-original source restored and frozen input replayed; isolated base-player layers, excludes some external equipment/features; not a full equipped-model review"
+    },
+    {
+      "view": "side",
+      "before": "before_reconstructed_detail_side.png",
+      "after": "after_detail_side.png",
+      "exactFileMatch": true,
+      "scope": "Actual backup-original source restored and frozen input replayed; isolated base-player layers, excludes some external equipment/features; not a full equipped-model review"
+    },
+    {
+      "view": "back",
+      "before": "before_reconstructed_detail_back.png",
+      "after": "after_detail_back.png",
+      "exactFileMatch": true,
+      "scope": "Actual backup-original source restored and frozen input replayed; isolated base-player layers, excludes some external equipment/features; not a full equipped-model review"
+    }
+  ],
+  "allocationWarning": "Thread allocation API failed explicit64KiB calibration, delta0; old zero values cannot prove no allocation",
+  "visualIssueLimit": "Existing braid twist/arm shading not fixed by optimization; character owner handling follow-up",
+  "assetsAndSceneClaim": "No authored model/material/UV/map/camera/light changes; evidence is state at explicit Unity lease return"
+}

@@ -1,0 +1,4 @@
+2026-10-07 오후 6:55:20
+FactoryV12_RustyBarricades/RustyBarricade_03_Southwest_Ruins
+Original active=True local=(-171.22790, 0.00264, -78.68610)
+BEFORE_ACCESS S02 both entry-to-center NavMesh paths fail. Retain this exact legacy barricade inactive; do not delete original asset or move other objects. Before/after_S02_interior.png document the room.

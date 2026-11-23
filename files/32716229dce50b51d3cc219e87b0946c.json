@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "url": "https://extraction-balance-editor.ehojin0415.chatgpt.site",
+  "version": 9,
+  "rows": 12931,
+  "sourceFingerprint": "7dae3ef2c6cfcc501fd08cdacdaba5ce0cddde4710f4ae120bdbf41d8d773f8e",
+  "differences": [
+    {
+      "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L93:4",
+      "before": 75,
+      "after": 0.75
+    }
+  ],
+  "csvValue": "0.75",
+  "csvNumericFormat": "csharp-literal-v2",
+  "csvSha256": "7a8f19ac52811b6cf1c7db4dad069a20b8ac5a7d4942118f1ed2c4ffb23094b6",
+  "publicAuthenticated": false,
+  "revisionRotated": true,
+  "stableAfterSecondRead": true,
+  "repairHistoryCount": 1,
+  "realUnitySourceUnchanged": true,
+  "verifiedAt": "2026-10-27T12:05:56.057Z"
+}

@@ -1,0 +1,33 @@
+PASS full card stays inside 16px safe area at (0.00, 0.00)
+PASS card leaves the hovered pointer unobstructed at (0.00, 0.00)
+PASS full card stays inside 16px safe area at (1599.00, 0.00)
+PASS card leaves the hovered pointer unobstructed at (1599.00, 0.00)
+PASS full card stays inside 16px safe area at (0.00, 899.00)
+PASS card leaves the hovered pointer unobstructed at (0.00, 899.00)
+PASS full card stays inside 16px safe area at (1599.00, 899.00)
+PASS card leaves the hovered pointer unobstructed at (1599.00, 899.00)
+PASS full card stays inside 16px safe area at (800.00, 450.00)
+PASS card leaves the hovered pointer unobstructed at (800.00, 450.00)
+PASS bottom-right hover flips left and above
+PASS small viewport bounds are respected
+PASS partially scrolled item registers only its visible intersection
+PASS fully clipped item cannot be a hover target
+PASS existing per-unit value tier boundary 0
+PASS existing per-unit value tier boundary 99
+PASS existing per-unit value tier boundary 100
+PASS existing per-unit value tier boundary 499
+PASS existing per-unit value tier boundary 500
+PASS existing per-unit value tier boundary 1999
+PASS existing per-unit value tier boundary 2000
+PASS existing per-unit value tier boundary 9999
+PASS existing per-unit value tier boundary 10000
+PASS existing per-unit value tier boundary 29999
+PASS existing per-unit value tier boundary 30000
+PASS real catalog fixture available: item_018_t6
+PASS ammo combat T6 stays separate from its per-unit V value tier
+PASS real catalog fixture available: med_injector_c
+PASS medical capacity comes from the actual item instance
+PASS real catalog fixture available: SURGERY_KIT
+PASS surgery uses actual remaining charges
+PASS real catalog fixture available: AR_001
+PASS weapon magazine summary respects the effective capacity

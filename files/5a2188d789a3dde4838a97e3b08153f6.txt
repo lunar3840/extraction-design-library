@@ -1,0 +1,3 @@
+Camera native visible directional lights:
+0 Test Sun intensity=1.5 color=RGBA(1.466, 1.400, 1.272, 1.500) mask=-1
+predictedURPMain=Test Sun

@@ -1,0 +1,25 @@
+CLINIC_V32_ACTUAL_PLAY
+prefix=after startedUtc=2026-10-07T12:30:18.7781348Z
+PLAY_SURFACE FactoryFloor path=Assets/Escape/Art/ClinicV32/Surfaces/ClinicV32_ResilientFloor.mat PASS
+PLAY_SURFACE Floor path=Assets/Escape/Art/ClinicV32/Surfaces/ClinicV32_ResilientFloor.mat PASS
+PLAY_SURFACE North path=Assets/Escape/Art/ClinicV32/Surfaces/ClinicV32_PaintedCore.mat PASS
+PLAY_SURFACE South_A path=Assets/Escape/Art/ClinicV32/Surfaces/ClinicV32_PaintedCore.mat PASS
+PLAY_SURFACE South_B path=Assets/Escape/Art/ClinicV32/Surfaces/ClinicV32_PaintedCore.mat PASS
+PLAY_SURFACE East path=Assets/Escape/Art/ClinicV32/Surfaces/ClinicV32_PaintedCore.mat PASS
+PLAY_SURFACE West path=Assets/Escape/Art/ClinicV32/Surfaces/ClinicV32_PaintedCore.mat PASS
+clinicOpening=metadata_0 outside=(-160.588, 4.018, 99.351) inside=(-161.412, 4.020, 102.649) center=(-166.000, 4.150, 121.000)
+CAPTURE clinic_entrance player=(-160.588, 4.020, 99.351) camera=(-163.013, 13.018, 96.683) lookWeight=0.000000
+CAPTURE clinic_roof_exterior player=(-160.588, 4.020, 99.351) camera=(-173.519, 27.150, 97.474) lookWeight=0.000000
+CAPTURE clinic_interior player=(-166.000, 4.020, 121.000) camera=(-169.396, 19.150, 109.843) lookWeight=0.000000
+CAPTURE clinic_detail player=(-166.000, 4.020, 121.000) camera=(-168.668, 12.150, 115.179) lookWeight=0.000000
+CAPTURE clinic_game_camera player=(-166.000, 4.020, 121.000) camera=(-161.650, 19.077, 128.535)
+PLAYER_ROUTE corners=6 start=(-160.588, 4.018, 99.351) finish=(-166.000, 4.020, 121.000)
+PASS actual PlayerMotor and CharacterController clinic entrance steps=180 end=(-166.345, 4.020, 120.648)
+PASS boundary east weight=0.000000->0.000055 exposure=0.000000->0.000014 tone=Neutral->Neutral pixelLumaDelta=0.000001
+PASS boundary west weight=0.000000->0.000055 exposure=0.000000->0.000014 tone=Neutral->Neutral pixelLumaDelta=0.000001
+PASS boundary north weight=0.000000->0.000055 exposure=0.000000->0.000014 tone=Neutral->Neutral pixelLumaDelta=0.000002
+PASS boundary south weight=0.000000->0.000055 exposure=0.000000->0.000014 tone=Neutral->Neutral pixelLumaDelta=0.000001
+Protected D03 outdoor routes and V33 gates are guarded by unchanged original geometry/colliders in GEOMETRY_VALIDATION.txt.
+PASS B return disables Stage A and clinic lights mapActive=False lookWeight=0.000000 activeClinicLights=0
+failures=0
+RESULT PASS

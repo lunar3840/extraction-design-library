@@ -1,0 +1,1 @@
+PASS EquipmentChecks after replacing outdated fixed supply weight with catalog-weight conservation.

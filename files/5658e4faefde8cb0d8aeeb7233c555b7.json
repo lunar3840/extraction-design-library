@@ -1,0 +1,9 @@
+{
+  "at": "2026-11-03T10:47:58.5797631+09:00",
+  "verified": 3518,
+  "hashMismatches": [],
+  "timestampMismatches": [],
+  "lengthMismatches": [],
+  "freeBytes": 1723760640,
+  "note": "ISO date JSON was parsed as DateTime; compare UTC ticks. Prior revalidation mismatch list was a timestamp-type false positive and skipped SHA calculation."
+}

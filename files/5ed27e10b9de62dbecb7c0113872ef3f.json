@@ -1,0 +1,35 @@
+{
+  "files": [
+    {
+      "file": "Assets/Escape/Runtime/SerinS4ArmorAppearance.cs",
+      "sha256": "e7de61cb4307bc7aed49fc4a9ee7e24ed518bff9b4d4f99f0f9fd5d39455e7e4"
+    },
+    {
+      "file": "Assets/Escape/Runtime/SdArmorVisual.cs",
+      "sha256": "31f7e2ff7f32560e701539bb0b31104676e2619e797507b9c24d380837683e09"
+    },
+    {
+      "file": "Assets/Escape/Runtime/Equipment/S4TestArmorCatalog.cs",
+      "sha256": "a93734e689224c7a489cb798841a0caa16a8b5cdbeb1eb4ccc5333d7458a949a"
+    },
+    {
+      "file": "Assets/Escape/Resources/SD/Characters.asset",
+      "sha256": "7bb1f38cb9f3b839ea9881282e8055fec131e2bd4027bc0eac572c2a3b93308d"
+    },
+    {
+      "file": "Assets/Escape/Resources/SD/Player_Serin.prefab",
+      "sha256": "7edbbbc37ca67c6456c163a69485a00f450636341906aa16f568c376e84e3e78"
+    },
+    {
+      "file": "Assets/Escape/Resources/SD/Armor/SerinS4/Outfit.prefab",
+      "sha256": "66d97bcac011fe373a9d195f5408e5e7e927b7f3b330ed2e82f0cd233f357ec7"
+    },
+    {
+      "file": "Assets/Escape/Resources/SD/Armor/EdelS4/Outfit.prefab",
+      "sha256": "9dd8702ec6dbc138130e6307019539d0e4a015906c3edc74ddbc550e3908c9bc"
+    }
+  ],
+  "serinNative": "outputs/handoffs/2026-11-03/Serin_S4_Refit/r32/Serin_S4_Refit_r32.blend",
+  "edelNative": "outputs/handoffs/2026-11-03/Edel_S4_Repair_r16/Edel_S4_Repair_r16.blend",
+  "authoringRunLocation": "work/serin-chest-20261103 (original scripts resolve workspace relative to this directory)"
+}

@@ -1,0 +1,101 @@
+PASS title still hides all gameplay glass UI
+PASS explicit profile activation works after glass rewrite
+PASS lobby starts as a modal full-screen presentation with an independent portrait
+PASS full lobby surface blocks gameplay pointer input
+PASS TAB lobby toggle exposes a freely walkable base-camp view
+PASS TAB lobby toggle restores the modal presentation
+PASS inventory opens the full deployment equipment layout
+PASS opening deployment equipment releases lobby-only presentation locks
+PASS inventory still blocks gameplay attack
+PASS reference composition reserves a large operator, narrow bag and contextual right column
+PASS full inventory columns remain separated
+PASS six-column loot stays compact while ten-column storage stays readable
+PASS selected source details reserve their own space below the shortened external pane
+PASS large portrait interaction surface stays inside the character column
+PASS large portrait keeps a usable rotation surface
+PASS portrait rotation never steals weapon-card clicks 0
+PASS portrait rotation never steals weapon-card clicks 1
+PASS live inventory portrait is available for direct rotation
+PASS inventory portrait owns a stopped firing pose and fixed two-hand grip instead of mirroring live movement
+PASS live locomotion cannot move or resize the fixed inventory portrait
+PASS portrait rotation wraps cleanly through a full 360 degrees
+PASS reopening inventory restores the front-facing portrait
+PASS dragging right rotates the portrait in the mouse drag direction
+PASS survival HUD is separated from the centered action bar
+PASS quick slots form a separate bag row and lower weapon cards do not overlap
+PASS bag uses compact sixty-pixel logical cells
+PASS ten-column storage fits every column without horizontal scrolling
+PASS six-column grid cell bounds 0
+PASS six-column grid cell bounds 1
+PASS six-column grid cell bounds 2
+PASS six-column grid cell bounds 3
+PASS six-column grid cell bounds 4
+PASS six-column grid cell bounds 5
+PASS six-column grid cell bounds 6
+PASS six-column grid cell bounds 7
+PASS six-column grid cell bounds 8
+PASS six-column grid cell bounds 9
+PASS six-column grid cell bounds 10
+PASS six-column grid cell bounds 11
+PASS six-column grid cell bounds 12
+PASS six-column grid cell bounds 13
+PASS six-column grid cell bounds 14
+PASS six-column grid cell bounds 15
+PASS six-column grid cell bounds 16
+PASS six-column grid cell bounds 17
+PASS six-column grid cell bounds 18
+PASS six-column grid cell bounds 19
+PASS six-column grid cell bounds 20
+PASS six-column grid cell bounds 21
+PASS six-column grid cell bounds 22
+PASS six-column grid cell bounds 23
+PASS six-column grid cell bounds 24
+PASS six-column grid cell bounds 25
+PASS six-column grid cell bounds 26
+PASS six-column grid cell bounds 27
+PASS six-column grid cell bounds 28
+PASS six-column grid cell bounds 29
+PASS six-column grid cell bounds 30
+PASS six-column grid cell bounds 31
+PASS six-column grid cell bounds 32
+PASS six-column grid cell bounds 33
+PASS six-column grid cell bounds 34
+PASS six-column grid cell bounds 35
+PASS scaled operator bag storage and weapon bounds fit (800.00, 600.00)
+PASS scaled operator bag storage and weapon bounds fit (960.00, 600.00)
+PASS scaled operator bag storage and weapon bounds fit (1280.00, 720.00)
+PASS scaled operator bag storage and weapon bounds fit (1280.00, 800.00)
+PASS scaled operator bag storage and weapon bounds fit (1600.00, 900.00)
+PASS scaled operator bag storage and weapon bounds fit (1920.00, 1080.00)
+PASS scaled operator bag storage and weapon bounds fit (2400.00, 1440.00)
+PASS scaled operator bag storage and weapon bounds fit (2560.00, 1080.00)
+PASS collapsed controls chip blocks weapon pointer
+PASS transparent inventory gutter blocks click-through
+PASS there is a valid contiguous target for the drag fixture
+PASS drag changes grid coordinates without changing stable entry identity or quantity
+PASS stale drag identity cannot mutate a replacement item
+PASS empty drag source cannot initiate a transaction
+PASS planned premium analgesic exists in live inventory
+PASS drag registers planned medical consumable quickslot
+PASS ammo cannot overwrite the registered tourniquet quickslot
+PASS weapon slot 2 accepts the original dragged weapon
+PASS two equipped weapons coexist without duplication
+PASS closed inventory rejects delayed drop
+PASS opening growth cancels commands from the now-hidden inventory
+PASS growth is an independent modal and still blocks firing
+PASS growth uses the large three-tree reference footprint
+PASS close growth restores unobstructed HUD state
+PASS quest opens its own centered reference panel
+PASS changing glass panels discards previous panel queued command
+PASS shop provides source-sized window alongside selectable inventory
+PASS storage opens alongside the real bag
+PASS selecting an item reflows source and detail panes without overlapping controls
+PASS growth fixture grants one real persisted point
+PASS departure remains available after modal navigation
+PASS hidden camp shortcuts do not block shooting into empty stage screen
+PASS growth can be inspected during a run
+PASS stage growth upgrade preserves stage player rules instead of camp protection
+PASS upgraded stage player remains vulnerable to incoming damage
+PASS stage cannot access camp facilities but can inspect quests
+PASS extraction restores clean lobby without stale panels
+PASS frozen or menu-locked player discards drag state and its pending transaction

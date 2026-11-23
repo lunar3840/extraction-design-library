@@ -1,0 +1,13 @@
+{
+    "sourceFabricFaces": 2349,
+    "overlayVertices": 1289,
+    "overlayTriangles": 2349,
+    "bodyBefore": 31505,
+    "bodyAfter": 29156,
+    "originalFullBodyTriangles": 45631,
+    "garmentParts": 51,
+    "panelAsset": "Assets/Escape/Art/EdelS4/Repairs/S4_SourceFabricPanelR16.asset",
+    "coverageAsset": "Assets/Escape/Art/EdelS4/Repairs/S4_FabricCoverageR16.asset",
+    "sourcePrefabSHA": "39dc490df8d8d1391186a8fabacfb29be215438ace58def382058478ad3d947e",
+    "sourceBodyUnchanged": true
+}

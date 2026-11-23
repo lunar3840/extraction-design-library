@@ -1,0 +1,11 @@
+Surface Ivy core: FAIL 1. Preview scene only; user's scene was not saved.
+PASS three leaf profiles: finite star-shaped fan, winding, UV and bounds
+PASS determinism, budgets, density, seed, source invariance
+PASS empty window and exclusion clearance
+FAIL rotation and nonuniform scale: No seed crossed the joined convex corner onto the adjacent face
+PASS cancellation and transient mesh cleanup
+  Assets/Escape/Art/FactoryV12/Prefabs/StageA_v12_RustyVehicle_Car.prefab: 1 meshes, 1 non-readable
+  result: 95314 source triangles, 7 paths, 89 stem segments, 96 leaves, 0 excluded samples. ; elapsed=979ms (editor diagnostic only)
+  Assets/Escape/Art/FactoryV12/Buildings/ENV09_BUILDING_SW_RUIN_HOME_A_FactoryV12.prefab: 27 meshes, 0 non-readable
+  result: 11964 source triangles, 7 paths, 131 stem segments, 141 leaves, 0 excluded samples. Skipped: ScatteredDebris_0: transparent/glass submesh; ScatteredDebris_3: transparent/glass submesh; CollapsedMasonry_2: transparent/glass submesh; elapsed=163ms (editor diagnostic only)
+PASS real vehicle and structure assets

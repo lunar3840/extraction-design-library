@@ -1,0 +1,30 @@
+{
+    "schema": "STAGE_A_Y03_COLLIDER_EQUIVALENCE_1",
+    "buildingId": "Y03",
+    "sourcePrefabSha256": "5fc764297b5d8b6fe470f984d2e9da26c546253ad35564bf4a2daaff99275aff",
+    "candidateAssetPath": "Assets/Escape/Art/BlenderEnvironmentExpansion/Buildings/Y03/Y03_Shell.fbx",
+    "candidateAssetDependencyHash": "2518ed0feb3c83ea1680b65bd2625ac7",
+    "sourceColliderPaths": [
+        "EnclosuresV33_ConnectedFacilities/Buildings/Y03/D09_Facade_Y03/D09_FacadePart_Detail_Administration_EntryPorch_SupportedColumns",
+        "EnclosuresV33_ConnectedFacilities/Buildings/Y03/D09_Facade_Y03/D09_FacadePart_Entrance_OpenFrame_L_00",
+        "EnclosuresV33_ConnectedFacilities/Buildings/Y03/D09_Facade_Y03/D09_FacadePart_Shell_B",
+        "EnclosuresV33_ConnectedFacilities/Buildings/Y03/D09_Facade_Y03/D09_FacadePart_Shell_F",
+        "EnclosuresV33_ConnectedFacilities/Buildings/Y03/D09_Facade_Y03/D09_FacadePart_Shell_L",
+        "EnclosuresV33_ConnectedFacilities/Buildings/Y03/D09_Facade_Y03/D09_FacadePart_Shell_R"
+    ],
+    "sourceMeshAssetPaths": [
+        "Assets/Escape/Art/BuildingD09/Meshes/unity_attempt_05/Y03.asset",
+        "Assets/Escape/Art/BuildingD09/Meshes/unity_attempt_05/Y03.asset",
+        "Assets/Escape/Art/BuildingD09/Meshes/unity_attempt_05/Y03.asset",
+        "Assets/Escape/Art/BuildingD09/Meshes/unity_attempt_05/Y03.asset",
+        "Assets/Escape/Art/BuildingD09/Meshes/unity_attempt_05/Y03.asset",
+        "Assets/Escape/Art/BuildingD09/Meshes/unity_attempt_05/Y03.asset"
+    ],
+    "sourceTriangles": 1428,
+    "candidateTriangles": 1428,
+    "matchedTriangles": 1428,
+    "reversedWindingTriangles": 0,
+    "maxVertexError": 0.000015736437489977106,
+    "firstMismatch": "",
+    "result": "PASS"
+}

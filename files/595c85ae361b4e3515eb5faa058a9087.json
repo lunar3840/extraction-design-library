@@ -1,0 +1,246 @@
+{
+  "status": "PASS",
+  "utc": "2026-09-14T16:20:06.1439601Z",
+  "project": "C:/UnityProject/escape",
+  "newFileCount": 57,
+  "modifiedExistingFiles": [
+    "Assets/Escape/Runtime/Stage/Blockout/StageMapRouter.cs"
+  ],
+  "preservedExistingFileCount": 902,
+  "originalEditorSceneOpenedOrSaved": false,
+  "originalPlayStarted": false,
+  "files": [
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageABlockoutSemanticAnchor.cs",
+      "sha256": "62FB4158C153992A424C9AA1FEE49F3880663A76F437E1D1E035CE4B4D24DA0A"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageABlockoutSemanticAnchor.cs.meta",
+      "sha256": "2EB2EA01346C01B8FA8C28EB5C49905D5E0D2EA605CE94EA20BED7E281BBE53A"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageABlockoutStructureV08.cs",
+      "sha256": "7E9DB304E3B876690A3B8A35E91402D4FA73CC2D03979C9CFA47D14FF7CEFBE0"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageABlockoutStructureV08.cs.meta",
+      "sha256": "8849D8E860DB4C13CCB8C45676AC1CB55BDCE96E926582BD68D8C46CB4697CCA"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageATerrainFoundationV08.cs",
+      "sha256": "3CA63B5D3DE01339C63943EA2B99A6BF99FC814DE4962BA82680CFB3EDC6D2DB"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageATerrainFoundationV08.cs.meta",
+      "sha256": "9F3C1A6F5F01F8998306B4B0ED9FDDCA9B94E11183DA0337E969831F463D833E"
+    },
+    {
+      "path": "Assets/Escape/Editor/StageABlockoutSemanticAnchorEditor.cs",
+      "sha256": "D3D10D7D0CE53CAC3EA69EFA959774892615CC73717C5F2081ED1E02D6D16310"
+    },
+    {
+      "path": "Assets/Escape/Editor/StageABlockoutSemanticAnchorEditor.cs.meta",
+      "sha256": "0772010CD7F949A4B94F89533F2BCF98FAA8BF8CA951B436A154574BC0775B55"
+    },
+    {
+      "path": "Assets/Escape/Editor/StageABlockoutV08StructureChecks.cs",
+      "sha256": "6ABDD846B426D31119648E8481F520E11C7B26713BB86333D753D516ECA59AB7"
+    },
+    {
+      "path": "Assets/Escape/Editor/StageABlockoutV08StructureChecks.cs.meta",
+      "sha256": "13B5FA22DAEA6C8C9CA7A1353C9C5F74418EE1534C40264CC3C10E6ADFA58E8E"
+    },
+    {
+      "path": "Assets/Escape/Editor/StageABlockoutV08PlayChecks.cs",
+      "sha256": "267A8CDFB3FB07C03501F1EB44A32E4FC48D09D4490B465A34021E1BE6DFBAEA"
+    },
+    {
+      "path": "Assets/Escape/Editor/StageABlockoutV08PlayChecks.cs.meta",
+      "sha256": "84D775896ED67F336878C6C09A7C5AEDBDC5B1C17FD73F7245B6690C3B4B55B2"
+    },
+    {
+      "path": "Assets/Escape/Editor/StageV08Build.cs",
+      "sha256": "45D14EC9359F6BB9412078C371BDE7CD400C0C24DBCC805CD70878579BFEC894"
+    },
+    {
+      "path": "Assets/Escape/Editor/StageV08Build.cs.meta",
+      "sha256": "46F199792D675557FD509558B26F08F4C57E987415AAC14A88613AEB7F7F56F5"
+    },
+    {
+      "path": "Assets/Escape/Editor/StageV08Evidence.cs",
+      "sha256": "83E02E6A028C1C428B433FF4A22D384C47046447E0A5A4BDB3010696CDD61247"
+    },
+    {
+      "path": "Assets/Escape/Editor/StageV08Evidence.cs.meta",
+      "sha256": "8E97B59467B9D41D8060BF3E5C97240ECC7678006BC6828509A749E3F80B00F5"
+    },
+    {
+      "path": "Assets/Escape/Editor/StageV08ImportReceipt.cs",
+      "sha256": "503F399D3740C6C6392D47946BC8044E0F883D94CB54D43FA5E9C7AF1040F054"
+    },
+    {
+      "path": "Assets/Escape/Editor/StageV08ImportReceipt.cs.meta",
+      "sha256": "0C5C0637EB123605B5219A92BF91E8AC6C330548F08C084ACB041EA5005A72B0"
+    },
+    {
+      "path": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+      "sha256": "8B85555034639B1217F217DEEDF099C0EEC9CA3D596F28C62E7CEF9CBA8AFC2A"
+    },
+    {
+      "path": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity.meta",
+      "sha256": "94DE2F65BE9AF1466D35441FC59A5DF87041DD0B62373EBE88D452D04CD33582"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab",
+      "sha256": "863CD11793220D3F0F0ED81DD67E263F7237DB6FA34BB73B3224F219BF2D1180"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab.meta",
+      "sha256": "15C2C87C133385B0DFFA5B30299480472AEE49A48D95287C18439859ACCE185D"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08.meta",
+      "sha256": "40DE8D337BC616F74B1167934EFCA560A15012158D097D2E82ECC5A1F1691793"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Boundary.mat",
+      "sha256": "CE43CDB16C57E8CFBE1A97BED6AF48896C61C85B4756F1391B4C9A8CC9525C15"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Boundary.mat.meta",
+      "sha256": "FF9444553DD7434BB283C10CBC8F565CD2ABA82288410369EB974B4321ACCC9D"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Bridge.mat",
+      "sha256": "CA35E98C6B71555628B8A2DEA1694A4A4E50A3D2933A44AF0E8AF785F563706C"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Bridge.mat.meta",
+      "sha256": "473E74FC6662F12E56D309CC7CD7E67320C1B2E8DE18818C750EAC02F47C4EE2"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Building.mat",
+      "sha256": "D537AF0E7C4A49EA33FE1C5BDAD01089F34379613808B6251018FC74C914CDD1"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Building.mat.meta",
+      "sha256": "0CDDBFB4D9429B14C452BA97B726F5E8056233141C7C2C91B4E383034BCB40A8"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_ChannelBed.mat",
+      "sha256": "98D7E9D05C38FD6AE7454DC30FF29040A5D11EFB78A67533F67102DE003D6EEE"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_ChannelBed.mat.meta",
+      "sha256": "238BF68FC5A0299519673B2B30C83A863F6F612A4635FCCE3BA43B1F5CC0FDC6"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Ground.mat",
+      "sha256": "39C897E1139F226E42CA8364959239EE0247BA89035D4B129620E6F2E0B56B17"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Ground.mat.meta",
+      "sha256": "F4AA793741B787C145C100AB5BBFB44096739D4BD829692E3914DB5678501506"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Interior.mat",
+      "sha256": "9F11AA6718E275F71CDDF67CE6FBECA2E2E40F6E1C0FEA1254494DFF33B2AD31"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Interior.mat.meta",
+      "sha256": "01A3B6BB4FDE7E85B96413013DD921E475D0CF135D2E69D665B8ECEAE592CD0C"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerBasic.mat",
+      "sha256": "FD52786A9E1151AC138DF61F78BCE6586BA53E3EC3235E0937E86BA0A048EA0A"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerBasic.mat.meta",
+      "sha256": "BC4F2AF36442780AD42C5D3F0DA763ED7C55CE84B6730D3D8CCF2E88F467418F"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerDoor.mat",
+      "sha256": "BFC46A0264C2F036F5A5FD8975861AEFC6E4E6AB87CD7C7D90C06600B9F60B6A"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerDoor.mat.meta",
+      "sha256": "0E8D32B3F4ABAAC0B1A27B28B46EDA9D30EE0C39D66556DBA8F9681225138890"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerExit.mat",
+      "sha256": "D136E2D2E86FA0F0C041F59DD03897C25BC1A3FCD1B605C4A6D97EF93E946CD9"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerExit.mat.meta",
+      "sha256": "6B1ED98637A98CDAD8D1CA98278B6898D6FDF99345D903C3046E7DB0F0DBC41D"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerGate.mat",
+      "sha256": "8C32B2E0DE59EAF249F1BC3991DEDF85DC3E4CC5D02A1B0E96831FF9C58E0447"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerGate.mat.meta",
+      "sha256": "273333AE85AAAE4641DA0308317C8AAF4DE1BE9CE76906B2B0C07A995FD6E60C"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerRelay.mat",
+      "sha256": "BF91F07F716156A7E8F675B2B39A69FC0F22D5F60D69B430DA5B470D816ACF6A"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerRelay.mat.meta",
+      "sha256": "583BE9D3F3DB153C69882C4CC294F9C5DEE82401BF4438F0C203B5E043AE1AA5"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerRisk.mat",
+      "sha256": "6D74329E204E23E2A4C0EF75E783976FD48D4860A3772D76D63706920C2D4F12"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_MarkerRisk.mat.meta",
+      "sha256": "5065453ED3B1F5B08F04B61ECB6B1B3DF3EDBFB6416AF0836360FC416A17623D"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Metal.mat",
+      "sha256": "D20B6108B98BCCEF9F8628992B8A17A545D3A20098491C49F1D1AA0F251FB0CC"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Metal.mat.meta",
+      "sha256": "6C32856CC557163CE2CE3C434275D8F152B0F3DC8AFC394D5702BEE3DB3BD60B"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Roof.mat",
+      "sha256": "3B5B88560DAC59EB95ED3499CE56AA0490935EBEBD61E56DFC8F893F2CD04439"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Roof.mat.meta",
+      "sha256": "BD94924A0178E6B24A7D2F10800FD233BDA9B41F757009933C9CC2BB135391CB"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Route.mat",
+      "sha256": "DC3862C6CEDC08F4C9AEEDC4CC896C24F06D58C160EF49A443A6EC83F69D0357"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Route.mat.meta",
+      "sha256": "F698CE3B69CD2704477D9D64437E1BBBCAE8DF11AEB554D881CCCFF5AD0B6474"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Upper.mat",
+      "sha256": "FA5AA19AEEFC284822DCBCFDE786501D53B5A21CD9A3A50CF88B687B549956FA"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Upper.mat.meta",
+      "sha256": "D644F68A510A4C1AD5D5EEC9F697BDC204095CC4DE08A71CAA013FBBCEAEB8A7"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Water.mat",
+      "sha256": "92A34F220B65861C58BCAAF6B49E69F484BDA0DBB1CF0DC641FA41191566199F"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v08/StageA_v08_Water.mat.meta",
+      "sha256": "7A2A183D058F0F5B820C0BE7ABAE0D2316EA2194BB2E5C3F8C847DCA441EBBEB"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageMapRouter.cs",
+      "sha256": "91C8EF1356E2EF0BE9F03710260F71029103A04C16897D0D0938ADE767C1CAA8"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "scope": "2D proposal only. Ground relief, doors, interiors, sight lines, AI and Unity not tested.",
+  "counts": {
+    "buildings": 69,
+    "equipment": 29,
+    "walls": 21,
+    "terrain": 10,
+    "routes": 28
+  },
+  "route_clearance_conflicts": [],
+  "route_center_hits": [],
+  "solid_overlaps": [],
+  "solid_area_m2": 52139.1,
+  "map_area_m2": 208000,
+  "anchor_clearance": [
+    {
+      "id": "B1",
+      "nearest_solid": "N01",
+      "clearance_m": 15.5
+    },
+    {
+      "id": "B2",
+      "nearest_solid": "W09",
+      "clearance_m": 18.75
+    },
+    {
+      "id": "B3",
+      "nearest_solid": "S05",
+      "clearance_m": 15.65
+    },
+    {
+      "id": "B4",
+      "nearest_solid": "ES4",
+      "clearance_m": 9.56
+    },
+    {
+      "id": "R1",
+      "nearest_solid": "N03",
+      "clearance_m": 3.07
+    },
+    {
+      "id": "R2",
+      "nearest_solid": "N17",
+      "clearance_m": 6.0
+    },
+    {
+      "id": "R3",
+      "nearest_solid": "TN2",
+      "clearance_m": 19.63
+    },
+    {
+      "id": "R4",
+      "nearest_solid": "E07",
+      "clearance_m": 16.35
+    },
+    {
+      "id": "R5",
+      "nearest_solid": "EE5",
+      "clearance_m": 19.0
+    },
+    {
+      "id": "R6",
+      "nearest_solid": "F02",
+      "clearance_m": 23.86
+    },
+    {
+      "id": "R7",
+      "nearest_solid": "EF2",
+      "clearance_m": 1.5
+    },
+    {
+      "id": "R8",
+      "nearest_solid": "TS2",
+      "clearance_m": 9.75
+    },
+    {
+      "id": "X1",
+      "nearest_solid": "N01",
+      "clearance_m": 13.7
+    },
+    {
+      "id": "X2",
+      "nearest_solid": "TW2",
+      "clearance_m": 11.4
+    },
+    {
+      "id": "X3",
+      "nearest_solid": "ES3",
+      "clearance_m": 6.52
+    },
+    {
+      "id": "X4",
+      "nearest_solid": "E03",
+      "clearance_m": 14.16
+    },
+    {
+      "id": "X5",
+      "nearest_solid": "EE5",
+      "clearance_m": 22.3
+    },
+    {
+      "id": "X6",
+      "nearest_solid": "F03",
+      "clearance_m": 36.51
+    },
+    {
+      "id": "X7",
+      "nearest_solid": "F02",
+      "clearance_m": 12.44
+    },
+    {
+      "id": "T1",
+      "nearest_solid": "W11",
+      "clearance_m": 20.57
+    },
+    {
+      "id": "T2",
+      "nearest_solid": "E04",
+      "clearance_m": 5.0
+    },
+    {
+      "id": "T3",
+      "nearest_solid": "E09",
+      "clearance_m": 8.89
+    }
+  ],
+  "active_anchor_components": {
+    "B1": 1,
+    "B2": 1,
+    "B3": 1,
+    "B4": 1,
+    "X1": 1,
+    "X2": 1,
+    "X3": 1,
+    "X4": 1,
+    "X5": 1,
+    "X6": 1,
+    "X7": 1,
+    "T1": 1,
+    "T2": 1,
+    "T3": 1
+  },
+  "connectivity_scope": "1m planar raster, 1m conservative dilation, buildings treated as solid. Not NavMesh or play test; bridge polygons nominal 5m."
+}

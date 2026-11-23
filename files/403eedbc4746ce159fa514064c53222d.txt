@@ -1,0 +1,64 @@
+무기 코어 구현 기록 (2026-10-19)
+
+범위
+- 실제 Unity 프로젝트를 수정하거나 Unity를 실행하지 않았다. 아래 Runtime 경로는 모두 work/weapon-ammo-src 기준이다.
+- Weapon 코어/리소스 로더/플레이어 사격 연결을 담당했고 Combat/Core/DamageRules.cs의 관통 문맥 확장은 메인 승인 후 수정했다.
+- 카탈로그 JSON/UI는 item_ui, 인벤토리/저장/방어구 관통/장비 외형은 메인 소유다.
+
+호환 및 데이터
+- WeaponKind의 기존 직렬화 값 0 Rifle, 1 Pistol, 2 Shotgun, 3 Sniper, 4 Melee를 유지하고 5 Dmr, 6 MachineGun을 추가했다.
+- RifleDefinition.ammoFamily는 선택 필드이며 없으면 기존 기본 탄약 ID에서 추론한다. DMR/MG는 rifle 계열 탄약을 사용한다.
+- AmmoCatalog 리소스: entries 배열, 각 항목 id/family/tier/damageMultiplier/armorPenetrationPower.
+- 4개 계열 x T1~T6=24개. 원래 item_017/018/019/020은 T1, _t2~_t6가 상위 티어다.
+- 최종 관통 단위는 분율이 아니라 class power: T1~T6 = 0,1,2,3,4,5. 전 탄약의 damageMultiplier=1이며 비장갑 표적의 생체 피해는 동일하다.
+- DamageContext.ArmorPenetrationPower와 마지막 선택 매개변수 armorPenetrationPower=0를 추가했다. 기존 호출의 관통0 동작은 유지된다.
+
+개체별 옵션
+- 신규 총기 생성자는 기본적으로 2~3개 서로 다른 옵션을 UID+정의 ID로 결정한다.
+- 안정적인 FNV-1a/xorshift 기반으로 프로세스와 플랫폼이 달라도 동일 UID는 동일 결과다.
+- Reload/Spread/Recoil/Range/Handling에서 선택하며 각각 2.0~6.0%다. 피해/탄창 용량 보너스는 없다.
+- 재장전/탄퍼짐/반동/사거리 및 블룸 회복에 실제 적용된다. 성장/부상/상태 효과와 독립적인 곱셈 경로다.
+- 별도의 향후 캐릭터/무기 특성 시스템은 구현하지 않았다.
+- 외부에 노출하는 옵션과 Capture/Restore 데이터는 복사하여 변경 격리를 유지한다.
+
+탄약 보존/재장전
+- SelectAmmo는 호환 계열만 허용하고 다음 재장전에 사용할 SelectedAmmoId를 저장한다.
+- 이미 진행 중인 재장전은 시작 당시의 ReloadAmmoId로 잠긴다. 진행 도중 선택을 바꿔도 진행 중 탄약 종류는 바뀌지 않는다.
+- 기존 IAmmoStore.Count/Consume 계약과 완료 시점 소비를 유지한다. 재장전 시작/취소 시 예비탄은 소비하지 않는다.
+- 부분 재장전은 기존 탄약 뒤에 새 탄약 묶음을 FIFO로 추가한다. 기존 장전탄을 삭제하거나 상위 탄약으로 바꾸지 않는다.
+- LoadedAmmoId/LoadedAmmoTier/AmmoMultiplier/ArmorPenetrationPower는 다음 탄을 나타낸다.
+- LastShotAmmoMultiplier/LastShotArmorPenetrationPower는 방금 소비한 탄의 값을 보존한다. 마지막 저티어 탄을 쏜 직후 다음 고티어 탄의 관통값이 잘못 적용되는 문제를 막는다.
+- 산탄은 여전히 한 탄약을 소비하여 여러 펠릿을 발사한다. 비정상 IAmmoStore 반환값(음수/요청 초과)은 예외로 감지한다.
+- AmmoRules.CompatibleIds 및 CountCompatible은 기본 계열 6티어와 등록된 추가 호환 탄약을 중복 없이 집계한다.
+
+저장 마이그레이션
+- 수동 생성하는 기존 NPC/진단 스냅샷 호환을 위해 RifleSnapshot 기본 schema=1을 유지한다.
+- Capture는 schema=2를 명시하며 selectedAmmoId/loadedRounds/affixes를 저장한다.
+- schema1 복원은 옵션을 새로 굴리지 않고 중립 옵션으로 복원한다. schema2 복원은 저장된 옵션과 FIFO만 사용한다.
+- schema2는 탄약 합계/선두 ID/배율/호환 계열/옵션 범위/중복 옵션을 검증한다.
+- 리밸런싱으로 줄어든 탄창에는 RifleDefinition.legacyMagazineSize를 사용한다. 이전 용량까지의 장전탄은 그대로 보존하고 현재 용량보다 적어질 때까지 추가 재장전을 막는다.
+- 기본 legacyMagazineSize=0인 일반 정의에서는 과대 탄창을 계속 거부한다.
+- 사망 후 장전탄 폐기 등 의도적 비우기 경로는 magazine/loadedAmmoId뿐 아니라 loadedRounds를 비우고 ammoMultiplier=1로 설정해야 한다. 메인에게 전달했고 메인 저장 경로에서 반영 중이다.
+
+수정한 소스/에셋
+- Runtime/Weapon/Core/RifleState.cs
+- Runtime/Weapon/Core/AmmoRules.cs (신규 및 .meta)
+- Runtime/Weapon/Core/WeaponAffixes.cs (신규 및 .meta)
+- Runtime/Weapon/AmmoCatalog.cs (신규 및 .meta)
+- Runtime/Weapon/WeaponCatalog.cs
+- Runtime/Weapon/RifleController.cs
+- Runtime/Combat/Core/DamageRules.cs
+- WEAPON_CORE_NOTES.txt (이 파일)
+
+검증
+- 독립 실행 테스트: work/weapon-ammo-core-tests/WeaponCoreSmoke.csproj
+- 실행: dotnet run --project work/weapon-ammo-core-tests/WeaponCoreSmoke.csproj --nologo
+- 실제 스테이징 Weapon/Core + Combat/Core를 직접 컴파일하며 본 프로젝트 소스를 복제하지 않는다.
+- 2026-10-19 결과: PASS 6261 assertions.
+- 주요 항목: 24 탄약 정의/계열/티어/가격 증가, 37 무기 정의/아이템 연결, 잘못된 계열 거부, 혼합 FIFO 경계의 실제 발사 관통값, 재장전 중 탄약 선택 변경, 완료 시 소비, 예비탄 경쟁, 산탄 부분 장전과 장비 해제 취소, JSON 왕복, 외부 스냅샷/옵션 변경 격리, 2000개 UID의 옵션 수/범위/유일성/피해 불변, 20개 역사적 축소 탄창의 schema1->schema2 장전탄 보존.
+- JSON 기초 균형 검토: 재장전 제외 발사 DPS: 소총 약48~55, DMR34~38, 기관총48~52와 긴 장전, 저격총20~27과 긴 사거리. 실제 명중률/엄폐/방어구/체감 균형 검증은 메인 통합과 실제 게임 확인에서 수행해야 한다.
+
+검증 한계
+- 이 에이전트는 Unity 실행/화면 검증을 하지 않았다. 화면 전후 증빙과 통합 검증 결과는 메인/독립 검증 담당자가 확인한다.
+- 기존 적은 장비형 방어구를 사용하지 않는 건강 표적이므로 T1~T6 생체 피해가 동일하다. 적 방어구 추가는 이번 코어 범위에 포함하지 않았다.
+- 재장전 진행 시간/일시 블룸/사격 쿨다운은 기존과 같이 저장하지 않는다. 장전된 탄약/선택 탄약/UID/옵션은 저장한다.

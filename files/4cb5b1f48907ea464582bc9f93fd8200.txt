@@ -1,0 +1,15 @@
+STAGE_A_LOOK_V21_BASELINE
+generatedUtc=2026-09-22T22:14:44.8611989Z
+PASS map reference is live
+PASS required structure, controllers, facade and roof roots exist
+PASS exact 95-slot mask captured: 38 windows, 40 Wall03 and 17 Concrete04
+PASS all seven V20 south-window slots are included in the V21 mask
+PASS all 4,665 colliders inventoried
+PASS all 6,018 renderers inventoried
+PASS all 14,032 transforms, including empty roots, inventoried
+PASS all 46 gameplay anchors inventoried
+PASS eligible slots do not already reference V21 materials
+NOTE eligibleSlots=95 windows=38 wall03=40 wall04=17 southV20=7
+NOTE colliders=43525D51EC75A825 renderers=90E52B4CD30D3F79 transforms=8819F2323922AB33 protectedMaterials=7C93F1D22A2A88FF anchors=86E2F0F4D46F8D4B settings=28942B7387F2A992 reflection=3E2B8726346E2AE6 v20Concrete=A804709D3D9671D9
+SUMMARY passed=9 failed=0
+RESULT BASELINE_CAPTURED

@@ -1,0 +1,26 @@
+PASS bone Hips (0.05, 0.72, 0.03)
+PASS bone Head (0.01, 1.22, 0.06)
+PASS bone LeftUpperArm (-0.19, 1.09, 0.13)
+PASS bone LeftLowerArm (-0.26, 0.91, 0.10)
+PASS bone LeftHand (-0.31, 0.77, 0.12)
+PASS bone RightHand (0.38, 0.88, -0.08)
+PASS bone LeftFoot (-0.20, 0.15, 0.13)
+PASS bone RightFoot (0.15, 0.16, -0.04)
+PASS finite animation Idle
+PASS finite animation Walk
+PASS finite animation Run
+PASS finite animation Attack
+mesh Edel_Body_Original_UV vertices=17401 bones=49
+mesh Edel_Hair_Crown vertices=2782 bones=49
+mesh Edel_Hair_NapeBraids vertices=8098 bones=49
+mesh Eyebrow_L vertices=55 bones=49
+mesh Eyebrow_R vertices=55 bones=49
+mesh Eyelashes_L vertices=293 bones=49
+mesh Eyelashes_R vertices=288 bones=49
+mesh Eyelid_Fold_L vertices=41 bones=49
+mesh Eyelid_Fold_R vertices=40 bones=49
+mesh Face_Skin vertices=790 bones=49
+mesh Iris_L vertices=97 bones=49
+mesh Iris_R vertices=97 bones=49
+mesh Sclera_L vertices=93 bones=49
+mesh Sclera_R vertices=92 bones=49

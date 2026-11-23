@@ -1,0 +1,18 @@
+{
+  "reviewed_at_kst": "2026-11-21T03:35:47.560998+09:00",
+  "source_native_sha256": "253e45d8e0782197685f090625b02c5f7184477b4496848b6d24f2613aa121cc",
+  "viewed_files": [
+    {
+      "file": "GAME_SPEED_COMPARISON.png",
+      "sha256": "9c4719947ce57d120374954a8c2a93b917122342a754c8180783c7fa6ff0ee77"
+    },
+    {
+      "file": "GAME_SPEED_CADENCE.png",
+      "sha256": "833cca6f235693073cbe2c90138ab139ea84610795165852dac2a32bee8d24d0"
+    }
+  ],
+  "scope": "Main actually viewed composite comparison and19 decoded-cadence panels; does not claim continuous-video playback or new geometry validation.",
+  "findings": "Sequence remains extraction/release/pouch/carry/insert/return; speed is uniform and entire existing choreography including pauses and falling magazine is accelerated.",
+  "timing_and_source_verification": "Both movies fully decoded; expected180/212 frames and60fps;392 selected PNGs exact source copies with strictly increasing source indices.",
+  "unity_modified": false
+}

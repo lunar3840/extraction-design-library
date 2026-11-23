@@ -1,0 +1,3 @@
+Surface Ivy authoring: PASS. Baked demonstration assets are retained for inspection; user's scene was not saved.
+  persisted demonstration: Assets/Escape/Art/SurfaceIvy/Generated/StageA_v12_RustyVehicle_Car_Ivy_582a73c84c/StageA_v12_RustyVehicle_Car_WithIvy.prefab
+PASS regenerate, preserve unrelated child, bake and reload

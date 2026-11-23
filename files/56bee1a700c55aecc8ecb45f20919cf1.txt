@@ -1,0 +1,11 @@
+2026-10-07T13:55:20.8682716Z
+Initial save changed dependency hashes of new material assets; paths, names, renderer states, shadows unchanged.
+Post-save paired Play + 68-building sweep replayed successfully.
+sameTestedBindingsAndRendererStates=True
+settledAppearanceIncludingHashesStableAcrossReload=True
+geometryMatchesTested=True
+lightingMatchesTested=True
+originalMaterialFilesChanged=0
+revealAndDisabledCuesPersisted=True
+sceneCleanEditMode=True
+RESULT PASS

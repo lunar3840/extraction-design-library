@@ -1,0 +1,1 @@
+Stopped only our pending capture monitor after concurrent Editor Play activity; no result claimed.

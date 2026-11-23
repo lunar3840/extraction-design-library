@@ -1,0 +1,1258 @@
+PASS exactly 32 trade + 12 consumable + 24 ammunition + 32 firearm active IDs
+PASS active item resolves uniquely and can be sold: trade_c_001
+PASS active footprint, stack and weight valid: trade_c_001
+PASS active item resolves uniquely and can be sold: trade_c_005
+PASS active footprint, stack and weight valid: trade_c_005
+PASS active item resolves uniquely and can be sold: trade_c_006
+PASS active footprint, stack and weight valid: trade_c_006
+PASS active item resolves uniquely and can be sold: trade_c_018
+PASS active footprint, stack and weight valid: trade_c_018
+PASS active item resolves uniquely and can be sold: trade_c_025
+PASS active footprint, stack and weight valid: trade_c_025
+PASS active item resolves uniquely and can be sold: trade_c_027
+PASS active footprint, stack and weight valid: trade_c_027
+PASS active item resolves uniquely and can be sold: trade_b_003
+PASS active footprint, stack and weight valid: trade_b_003
+PASS active item resolves uniquely and can be sold: trade_b_006
+PASS active footprint, stack and weight valid: trade_b_006
+PASS active item resolves uniquely and can be sold: trade_b_023
+PASS active footprint, stack and weight valid: trade_b_023
+PASS active item resolves uniquely and can be sold: trade_c_017
+PASS active footprint, stack and weight valid: trade_c_017
+PASS active item resolves uniquely and can be sold: trade_c_026
+PASS active footprint, stack and weight valid: trade_c_026
+PASS active item resolves uniquely and can be sold: trade_b_012
+PASS active footprint, stack and weight valid: trade_b_012
+PASS active item resolves uniquely and can be sold: trade_b_013
+PASS active footprint, stack and weight valid: trade_b_013
+PASS active item resolves uniquely and can be sold: trade_b_016
+PASS active footprint, stack and weight valid: trade_b_016
+PASS active item resolves uniquely and can be sold: trade_b_017
+PASS active footprint, stack and weight valid: trade_b_017
+PASS active item resolves uniquely and can be sold: trade_a_006
+PASS active footprint, stack and weight valid: trade_a_006
+PASS active item resolves uniquely and can be sold: trade_c_004
+PASS active footprint, stack and weight valid: trade_c_004
+PASS active item resolves uniquely and can be sold: trade_c_008
+PASS active footprint, stack and weight valid: trade_c_008
+PASS active item resolves uniquely and can be sold: trade_c_015
+PASS active footprint, stack and weight valid: trade_c_015
+PASS active item resolves uniquely and can be sold: trade_c_016
+PASS active footprint, stack and weight valid: trade_c_016
+PASS active item resolves uniquely and can be sold: trade_b_005
+PASS active footprint, stack and weight valid: trade_b_005
+PASS active item resolves uniquely and can be sold: trade_b_008
+PASS active footprint, stack and weight valid: trade_b_008
+PASS active item resolves uniquely and can be sold: trade_b_009
+PASS active footprint, stack and weight valid: trade_b_009
+PASS active item resolves uniquely and can be sold: trade_a_018
+PASS active footprint, stack and weight valid: trade_a_018
+PASS active item resolves uniquely and can be sold: trade_a_015
+PASS active footprint, stack and weight valid: trade_a_015
+PASS active item resolves uniquely and can be sold: trade_a_016
+PASS active footprint, stack and weight valid: trade_a_016
+PASS active item resolves uniquely and can be sold: trade_s_001
+PASS active footprint, stack and weight valid: trade_s_001
+PASS active item resolves uniquely and can be sold: trade_s_002
+PASS active footprint, stack and weight valid: trade_s_002
+PASS active item resolves uniquely and can be sold: trade_m_001
+PASS active footprint, stack and weight valid: trade_m_001
+PASS active item resolves uniquely and can be sold: trade_m_002
+PASS active footprint, stack and weight valid: trade_m_002
+PASS active item resolves uniquely and can be sold: trade_m_003
+PASS active footprint, stack and weight valid: trade_m_003
+PASS active item resolves uniquely and can be sold: trade_m_004
+PASS active footprint, stack and weight valid: trade_m_004
+PASS active item resolves uniquely and can be sold: item_003
+PASS active consumable has a working use: item_003
+PASS active footprint, stack and weight valid: item_003
+PASS active item resolves uniquely and can be sold: item_001
+PASS active consumable has a working use: item_001
+PASS active footprint, stack and weight valid: item_001
+PASS active item resolves uniquely and can be sold: item_010
+PASS active consumable has a working use: item_010
+PASS active footprint, stack and weight valid: item_010
+PASS active item resolves uniquely and can be sold: item_012
+PASS active consumable has a working use: item_012
+PASS active footprint, stack and weight valid: item_012
+PASS active item resolves uniquely and can be sold: item_016
+PASS active consumable has a working use: item_016
+PASS active footprint, stack and weight valid: item_016
+PASS active item resolves uniquely and can be sold: med_injector_c
+PASS active consumable has a working use: med_injector_c
+PASS active footprint, stack and weight valid: med_injector_c
+PASS active item resolves uniquely and can be sold: med_field_kit_b
+PASS active consumable has a working use: med_field_kit_b
+PASS active footprint, stack and weight valid: med_field_kit_b
+PASS active item resolves uniquely and can be sold: med_tourniquet_b
+PASS active consumable has a working use: med_tourniquet_b
+PASS active footprint, stack and weight valid: med_tourniquet_b
+PASS active item resolves uniquely and can be sold: med_analgesic_b
+PASS active consumable has a working use: med_analgesic_b
+PASS active footprint, stack and weight valid: med_analgesic_b
+PASS active item resolves uniquely and can be sold: SURGERY_KIT
+PASS active consumable has a working use: SURGERY_KIT
+PASS active footprint, stack and weight valid: SURGERY_KIT
+PASS active item resolves uniquely and can be sold: item_022
+PASS active consumable has a working use: item_022
+PASS active footprint, stack and weight valid: item_022
+PASS active item resolves uniquely and can be sold: item_023
+PASS active consumable has a working use: item_023
+PASS active footprint, stack and weight valid: item_023
+PASS active item resolves uniquely and can be sold: item_017
+PASS active footprint, stack and weight valid: item_017
+PASS active item resolves uniquely and can be sold: item_018
+PASS active footprint, stack and weight valid: item_018
+PASS active item resolves uniquely and can be sold: item_019
+PASS active footprint, stack and weight valid: item_019
+PASS active item resolves uniquely and can be sold: item_020
+PASS active footprint, stack and weight valid: item_020
+PASS active item resolves uniquely and can be sold: item_017_t2
+PASS active footprint, stack and weight valid: item_017_t2
+PASS active item resolves uniquely and can be sold: item_017_t3
+PASS active footprint, stack and weight valid: item_017_t3
+PASS active item resolves uniquely and can be sold: item_017_t4
+PASS active footprint, stack and weight valid: item_017_t4
+PASS active item resolves uniquely and can be sold: item_017_t5
+PASS active footprint, stack and weight valid: item_017_t5
+PASS active item resolves uniquely and can be sold: item_017_t6
+PASS active footprint, stack and weight valid: item_017_t6
+PASS active item resolves uniquely and can be sold: item_018_t2
+PASS active footprint, stack and weight valid: item_018_t2
+PASS active item resolves uniquely and can be sold: item_018_t3
+PASS active footprint, stack and weight valid: item_018_t3
+PASS active item resolves uniquely and can be sold: item_018_t4
+PASS active footprint, stack and weight valid: item_018_t4
+PASS active item resolves uniquely and can be sold: item_018_t5
+PASS active footprint, stack and weight valid: item_018_t5
+PASS active item resolves uniquely and can be sold: item_018_t6
+PASS active footprint, stack and weight valid: item_018_t6
+PASS active item resolves uniquely and can be sold: item_019_t2
+PASS active footprint, stack and weight valid: item_019_t2
+PASS active item resolves uniquely and can be sold: item_019_t3
+PASS active footprint, stack and weight valid: item_019_t3
+PASS active item resolves uniquely and can be sold: item_019_t4
+PASS active footprint, stack and weight valid: item_019_t4
+PASS active item resolves uniquely and can be sold: item_019_t5
+PASS active footprint, stack and weight valid: item_019_t5
+PASS active item resolves uniquely and can be sold: item_019_t6
+PASS active footprint, stack and weight valid: item_019_t6
+PASS active item resolves uniquely and can be sold: item_020_t2
+PASS active footprint, stack and weight valid: item_020_t2
+PASS active item resolves uniquely and can be sold: item_020_t3
+PASS active footprint, stack and weight valid: item_020_t3
+PASS active item resolves uniquely and can be sold: item_020_t4
+PASS active footprint, stack and weight valid: item_020_t4
+PASS active item resolves uniquely and can be sold: item_020_t5
+PASS active footprint, stack and weight valid: item_020_t5
+PASS active item resolves uniquely and can be sold: item_020_t6
+PASS active footprint, stack and weight valid: item_020_t6
+PASS active item resolves uniquely and can be sold: P_001
+PASS active weapon is a firearm: P_001
+PASS active footprint, stack and weight valid: P_001
+PASS active item resolves uniquely and can be sold: P_002
+PASS active weapon is a firearm: P_002
+PASS active footprint, stack and weight valid: P_002
+PASS active item resolves uniquely and can be sold: P_003
+PASS active weapon is a firearm: P_003
+PASS active footprint, stack and weight valid: P_003
+PASS active item resolves uniquely and can be sold: P_004
+PASS active weapon is a firearm: P_004
+PASS active footprint, stack and weight valid: P_004
+PASS active item resolves uniquely and can be sold: P_011
+PASS active weapon is a firearm: P_011
+PASS active footprint, stack and weight valid: P_011
+PASS active item resolves uniquely and can be sold: AR_001
+PASS active weapon is a firearm: AR_001
+PASS active footprint, stack and weight valid: AR_001
+PASS active item resolves uniquely and can be sold: AR_002
+PASS active weapon is a firearm: AR_002
+PASS active footprint, stack and weight valid: AR_002
+PASS active item resolves uniquely and can be sold: AR_003
+PASS active weapon is a firearm: AR_003
+PASS active footprint, stack and weight valid: AR_003
+PASS active item resolves uniquely and can be sold: AR_004
+PASS active weapon is a firearm: AR_004
+PASS active footprint, stack and weight valid: AR_004
+PASS active item resolves uniquely and can be sold: AR_011
+PASS active weapon is a firearm: AR_011
+PASS active footprint, stack and weight valid: AR_011
+PASS active item resolves uniquely and can be sold: AR_012
+PASS active weapon is a firearm: AR_012
+PASS active footprint, stack and weight valid: AR_012
+PASS active item resolves uniquely and can be sold: AR_013
+PASS active weapon is a firearm: AR_013
+PASS active footprint, stack and weight valid: AR_013
+PASS active item resolves uniquely and can be sold: SG_001
+PASS active weapon is a firearm: SG_001
+PASS active footprint, stack and weight valid: SG_001
+PASS active item resolves uniquely and can be sold: SG_002
+PASS active weapon is a firearm: SG_002
+PASS active footprint, stack and weight valid: SG_002
+PASS active item resolves uniquely and can be sold: SG_003
+PASS active weapon is a firearm: SG_003
+PASS active footprint, stack and weight valid: SG_003
+PASS active item resolves uniquely and can be sold: SG_004
+PASS active weapon is a firearm: SG_004
+PASS active footprint, stack and weight valid: SG_004
+PASS active item resolves uniquely and can be sold: SG_011
+PASS active weapon is a firearm: SG_011
+PASS active footprint, stack and weight valid: SG_011
+PASS active item resolves uniquely and can be sold: SG_012
+PASS active weapon is a firearm: SG_012
+PASS active footprint, stack and weight valid: SG_012
+PASS active item resolves uniquely and can be sold: SG_013
+PASS active weapon is a firearm: SG_013
+PASS active footprint, stack and weight valid: SG_013
+PASS active item resolves uniquely and can be sold: SR_001
+PASS active weapon is a firearm: SR_001
+PASS active footprint, stack and weight valid: SR_001
+PASS active item resolves uniquely and can be sold: SR_002
+PASS active weapon is a firearm: SR_002
+PASS active footprint, stack and weight valid: SR_002
+PASS active item resolves uniquely and can be sold: SR_003
+PASS active weapon is a firearm: SR_003
+PASS active footprint, stack and weight valid: SR_003
+PASS active item resolves uniquely and can be sold: SR_004
+PASS active weapon is a firearm: SR_004
+PASS active footprint, stack and weight valid: SR_004
+PASS active item resolves uniquely and can be sold: SR_011
+PASS active weapon is a firearm: SR_011
+PASS active footprint, stack and weight valid: SR_011
+PASS active item resolves uniquely and can be sold: SR_012
+PASS active weapon is a firearm: SR_012
+PASS active footprint, stack and weight valid: SR_012
+PASS active item resolves uniquely and can be sold: SR_013
+PASS active weapon is a firearm: SR_013
+PASS active footprint, stack and weight valid: SR_013
+PASS active item resolves uniquely and can be sold: DMR_001
+PASS active weapon is a firearm: DMR_001
+PASS active footprint, stack and weight valid: DMR_001
+PASS active item resolves uniquely and can be sold: DMR_002
+PASS active weapon is a firearm: DMR_002
+PASS active footprint, stack and weight valid: DMR_002
+PASS active item resolves uniquely and can be sold: DMR_003
+PASS active weapon is a firearm: DMR_003
+PASS active footprint, stack and weight valid: DMR_003
+PASS active item resolves uniquely and can be sold: MG_001
+PASS active weapon is a firearm: MG_001
+PASS active footprint, stack and weight valid: MG_001
+PASS active item resolves uniquely and can be sold: MG_002
+PASS active weapon is a firearm: MG_002
+PASS active footprint, stack and weight valid: MG_002
+PASS active item resolves uniquely and can be sold: MG_003
+PASS active weapon is a firearm: MG_003
+PASS active footprint, stack and weight valid: MG_003
+PASS firearms and six-tier ammunition extend preserved supplies while quest keys remain excluded
+PASS active ammunition contains each family tier: item_017
+PASS active ammunition contains each family tier: item_017_t2
+PASS active ammunition contains each family tier: item_017_t3
+PASS active ammunition contains each family tier: item_017_t4
+PASS active ammunition contains each family tier: item_017_t5
+PASS active ammunition contains each family tier: item_017_t6
+PASS active ammunition contains each family tier: item_018
+PASS active ammunition contains each family tier: item_018_t2
+PASS active ammunition contains each family tier: item_018_t3
+PASS active ammunition contains each family tier: item_018_t4
+PASS active ammunition contains each family tier: item_018_t5
+PASS active ammunition contains each family tier: item_018_t6
+PASS active ammunition contains each family tier: item_019
+PASS active ammunition contains each family tier: item_019_t2
+PASS active ammunition contains each family tier: item_019_t3
+PASS active ammunition contains each family tier: item_019_t4
+PASS active ammunition contains each family tier: item_019_t5
+PASS active ammunition contains each family tier: item_019_t6
+PASS active ammunition contains each family tier: item_020
+PASS active ammunition contains each family tier: item_020_t2
+PASS active ammunition contains each family tier: item_020_t3
+PASS active ammunition contains each family tier: item_020_t4
+PASS active ammunition contains each family tier: item_020_t5
+PASS active ammunition contains each family tier: item_020_t6
+PASS active firearm source is described, quest use stays excluded and retired trade cargo retains its legacy note
+PASS 60 rifle rounds cost less than a basic rifle and magazine sale cannot dominate weapon recovery
+PASS ammunition has a positive buy/sell spread: item_017
+PASS ammunition has a positive buy/sell spread: item_018
+PASS ammunition has a positive buy/sell spread: item_019
+PASS ammunition has a positive buy/sell spread: item_020
+PASS ammunition has a positive buy/sell spread: item_017_t2
+PASS ammunition has a positive buy/sell spread: item_017_t3
+PASS ammunition has a positive buy/sell spread: item_017_t4
+PASS ammunition has a positive buy/sell spread: item_017_t5
+PASS ammunition has a positive buy/sell spread: item_017_t6
+PASS ammunition has a positive buy/sell spread: item_018_t2
+PASS ammunition has a positive buy/sell spread: item_018_t3
+PASS ammunition has a positive buy/sell spread: item_018_t4
+PASS ammunition has a positive buy/sell spread: item_018_t5
+PASS ammunition has a positive buy/sell spread: item_018_t6
+PASS ammunition has a positive buy/sell spread: item_019_t2
+PASS ammunition has a positive buy/sell spread: item_019_t3
+PASS ammunition has a positive buy/sell spread: item_019_t4
+PASS ammunition has a positive buy/sell spread: item_019_t5
+PASS ammunition has a positive buy/sell spread: item_019_t6
+PASS ammunition has a positive buy/sell spread: item_020_t2
+PASS ammunition has a positive buy/sell spread: item_020_t3
+PASS ammunition has a positive buy/sell spread: item_020_t4
+PASS ammunition has a positive buy/sell spread: item_020_t5
+PASS ammunition has a positive buy/sell spread: item_020_t6
+PASS five 2x2 drive modules split across real stack limits and fit the bag
+PASS module stack cap enforced
+PASS module stack cap enforced
+PASS module stack cap enforced
+PASS five drive modules require three 2x2 inventory entries
+PASS module grid positions, identities and quantities round trip exactly
+PASS rolled search contents initialize in real loot grid: power/0
+PASS rolled search contents initialize in real loot grid: power/1
+PASS rolled search contents initialize in real loot grid: power/2
+PASS rolled search contents initialize in real loot grid: power/3
+PASS rolled search contents initialize in real loot grid: power/4
+PASS rolled search contents initialize in real loot grid: power/5
+PASS rolled search contents initialize in real loot grid: power/6
+PASS rolled search contents initialize in real loot grid: power/7
+PASS rolled search contents initialize in real loot grid: power/8
+PASS rolled search contents initialize in real loot grid: power/9
+PASS rolled search contents initialize in real loot grid: power/10
+PASS rolled search contents initialize in real loot grid: power/11
+PASS rolled search contents initialize in real loot grid: power/12
+PASS rolled search contents initialize in real loot grid: power/13
+PASS rolled search contents initialize in real loot grid: power/14
+PASS rolled search contents initialize in real loot grid: power/15
+PASS rolled search contents initialize in real loot grid: power/16
+PASS rolled search contents initialize in real loot grid: power/17
+PASS rolled search contents initialize in real loot grid: power/18
+PASS rolled search contents initialize in real loot grid: power/19
+PASS rolled search contents initialize in real loot grid: power/20
+PASS rolled search contents initialize in real loot grid: power/21
+PASS rolled search contents initialize in real loot grid: power/22
+PASS rolled search contents initialize in real loot grid: power/23
+PASS rolled search contents initialize in real loot grid: electronics/0
+PASS rolled search contents initialize in real loot grid: electronics/1
+PASS rolled search contents initialize in real loot grid: electronics/2
+PASS rolled search contents initialize in real loot grid: electronics/3
+PASS rolled search contents initialize in real loot grid: electronics/4
+PASS rolled search contents initialize in real loot grid: electronics/5
+PASS rolled search contents initialize in real loot grid: electronics/6
+PASS rolled search contents initialize in real loot grid: electronics/7
+PASS rolled search contents initialize in real loot grid: electronics/8
+PASS rolled search contents initialize in real loot grid: electronics/9
+PASS rolled search contents initialize in real loot grid: electronics/10
+PASS rolled search contents initialize in real loot grid: electronics/11
+PASS rolled search contents initialize in real loot grid: electronics/12
+PASS rolled search contents initialize in real loot grid: electronics/13
+PASS rolled search contents initialize in real loot grid: electronics/14
+PASS rolled search contents initialize in real loot grid: electronics/15
+PASS rolled search contents initialize in real loot grid: electronics/16
+PASS rolled search contents initialize in real loot grid: electronics/17
+PASS rolled search contents initialize in real loot grid: electronics/18
+PASS rolled search contents initialize in real loot grid: electronics/19
+PASS rolled search contents initialize in real loot grid: electronics/20
+PASS rolled search contents initialize in real loot grid: electronics/21
+PASS rolled search contents initialize in real loot grid: electronics/22
+PASS rolled search contents initialize in real loot grid: electronics/23
+PASS rolled search contents initialize in real loot grid: tools/0
+PASS rolled search contents initialize in real loot grid: tools/1
+PASS rolled search contents initialize in real loot grid: tools/2
+PASS rolled search contents initialize in real loot grid: tools/3
+PASS rolled search contents initialize in real loot grid: tools/4
+PASS rolled search contents initialize in real loot grid: tools/5
+PASS rolled search contents initialize in real loot grid: tools/6
+PASS rolled search contents initialize in real loot grid: tools/7
+PASS rolled search contents initialize in real loot grid: tools/8
+PASS rolled search contents initialize in real loot grid: tools/9
+PASS rolled search contents initialize in real loot grid: tools/10
+PASS rolled search contents initialize in real loot grid: tools/11
+PASS rolled search contents initialize in real loot grid: tools/12
+PASS rolled search contents initialize in real loot grid: tools/13
+PASS rolled search contents initialize in real loot grid: tools/14
+PASS rolled search contents initialize in real loot grid: tools/15
+PASS rolled search contents initialize in real loot grid: tools/16
+PASS rolled search contents initialize in real loot grid: tools/17
+PASS rolled search contents initialize in real loot grid: tools/18
+PASS rolled search contents initialize in real loot grid: tools/19
+PASS rolled search contents initialize in real loot grid: tools/20
+PASS rolled search contents initialize in real loot grid: tools/21
+PASS rolled search contents initialize in real loot grid: tools/22
+PASS rolled search contents initialize in real loot grid: tools/23
+PASS rolled search contents initialize in real loot grid: industrial/0
+PASS rolled search contents initialize in real loot grid: industrial/1
+PASS rolled search contents initialize in real loot grid: industrial/2
+PASS rolled search contents initialize in real loot grid: industrial/3
+PASS rolled search contents initialize in real loot grid: industrial/4
+PASS rolled search contents initialize in real loot grid: industrial/5
+PASS rolled search contents initialize in real loot grid: industrial/6
+PASS rolled search contents initialize in real loot grid: industrial/7
+PASS rolled search contents initialize in real loot grid: industrial/8
+PASS rolled search contents initialize in real loot grid: industrial/9
+PASS rolled search contents initialize in real loot grid: industrial/10
+PASS rolled search contents initialize in real loot grid: industrial/11
+PASS rolled search contents initialize in real loot grid: industrial/12
+PASS rolled search contents initialize in real loot grid: industrial/13
+PASS rolled search contents initialize in real loot grid: industrial/14
+PASS rolled search contents initialize in real loot grid: industrial/15
+PASS rolled search contents initialize in real loot grid: industrial/16
+PASS rolled search contents initialize in real loot grid: industrial/17
+PASS rolled search contents initialize in real loot grid: industrial/18
+PASS rolled search contents initialize in real loot grid: industrial/19
+PASS rolled search contents initialize in real loot grid: industrial/20
+PASS rolled search contents initialize in real loot grid: industrial/21
+PASS rolled search contents initialize in real loot grid: industrial/22
+PASS rolled search contents initialize in real loot grid: industrial/23
+PASS rolled search contents initialize in real loot grid: medical/0
+PASS rolled search contents initialize in real loot grid: medical/1
+PASS rolled search contents initialize in real loot grid: medical/2
+PASS rolled search contents initialize in real loot grid: medical/3
+PASS rolled search contents initialize in real loot grid: medical/4
+PASS rolled search contents initialize in real loot grid: medical/5
+PASS rolled search contents initialize in real loot grid: medical/6
+PASS rolled search contents initialize in real loot grid: medical/7
+PASS rolled search contents initialize in real loot grid: medical/8
+PASS rolled search contents initialize in real loot grid: medical/9
+PASS rolled search contents initialize in real loot grid: medical/10
+PASS rolled search contents initialize in real loot grid: medical/11
+PASS rolled search contents initialize in real loot grid: medical/12
+PASS rolled search contents initialize in real loot grid: medical/13
+PASS rolled search contents initialize in real loot grid: medical/14
+PASS rolled search contents initialize in real loot grid: medical/15
+PASS rolled search contents initialize in real loot grid: medical/16
+PASS rolled search contents initialize in real loot grid: medical/17
+PASS rolled search contents initialize in real loot grid: medical/18
+PASS rolled search contents initialize in real loot grid: medical/19
+PASS rolled search contents initialize in real loot grid: medical/20
+PASS rolled search contents initialize in real loot grid: medical/21
+PASS rolled search contents initialize in real loot grid: medical/22
+PASS rolled search contents initialize in real loot grid: medical/23
+PASS rolled search contents initialize in real loot grid: food/0
+PASS rolled search contents initialize in real loot grid: food/1
+PASS rolled search contents initialize in real loot grid: food/2
+PASS rolled search contents initialize in real loot grid: food/3
+PASS rolled search contents initialize in real loot grid: food/4
+PASS rolled search contents initialize in real loot grid: food/5
+PASS rolled search contents initialize in real loot grid: food/6
+PASS rolled search contents initialize in real loot grid: food/7
+PASS rolled search contents initialize in real loot grid: food/8
+PASS rolled search contents initialize in real loot grid: food/9
+PASS rolled search contents initialize in real loot grid: food/10
+PASS rolled search contents initialize in real loot grid: food/11
+PASS rolled search contents initialize in real loot grid: food/12
+PASS rolled search contents initialize in real loot grid: food/13
+PASS rolled search contents initialize in real loot grid: food/14
+PASS rolled search contents initialize in real loot grid: food/15
+PASS rolled search contents initialize in real loot grid: food/16
+PASS rolled search contents initialize in real loot grid: food/17
+PASS rolled search contents initialize in real loot grid: food/18
+PASS rolled search contents initialize in real loot grid: food/19
+PASS rolled search contents initialize in real loot grid: food/20
+PASS rolled search contents initialize in real loot grid: food/21
+PASS rolled search contents initialize in real loot grid: food/22
+PASS rolled search contents initialize in real loot grid: food/23
+PASS rolled search contents initialize in real loot grid: ammo/0
+PASS rolled search contents initialize in real loot grid: ammo/1
+PASS rolled search contents initialize in real loot grid: ammo/2
+PASS rolled search contents initialize in real loot grid: ammo/3
+PASS rolled search contents initialize in real loot grid: ammo/4
+PASS rolled search contents initialize in real loot grid: ammo/5
+PASS rolled search contents initialize in real loot grid: ammo/6
+PASS rolled search contents initialize in real loot grid: ammo/7
+PASS rolled search contents initialize in real loot grid: ammo/8
+PASS rolled search contents initialize in real loot grid: ammo/9
+PASS rolled search contents initialize in real loot grid: ammo/10
+PASS rolled search contents initialize in real loot grid: ammo/11
+PASS rolled search contents initialize in real loot grid: ammo/12
+PASS rolled search contents initialize in real loot grid: ammo/13
+PASS rolled search contents initialize in real loot grid: ammo/14
+PASS rolled search contents initialize in real loot grid: ammo/15
+PASS rolled search contents initialize in real loot grid: ammo/16
+PASS rolled search contents initialize in real loot grid: ammo/17
+PASS rolled search contents initialize in real loot grid: ammo/18
+PASS rolled search contents initialize in real loot grid: ammo/19
+PASS rolled search contents initialize in real loot grid: ammo/20
+PASS rolled search contents initialize in real loot grid: ammo/21
+PASS rolled search contents initialize in real loot grid: ammo/22
+PASS rolled search contents initialize in real loot grid: ammo/23
+PASS rolled search contents initialize in real loot grid: residential/0
+PASS rolled search contents initialize in real loot grid: residential/1
+PASS rolled search contents initialize in real loot grid: residential/2
+PASS rolled search contents initialize in real loot grid: residential/3
+PASS rolled search contents initialize in real loot grid: residential/4
+PASS rolled search contents initialize in real loot grid: residential/5
+PASS rolled search contents initialize in real loot grid: residential/6
+PASS rolled search contents initialize in real loot grid: residential/7
+PASS rolled search contents initialize in real loot grid: residential/8
+PASS rolled search contents initialize in real loot grid: residential/9
+PASS rolled search contents initialize in real loot grid: residential/10
+PASS rolled search contents initialize in real loot grid: residential/11
+PASS rolled search contents initialize in real loot grid: residential/12
+PASS rolled search contents initialize in real loot grid: residential/13
+PASS rolled search contents initialize in real loot grid: residential/14
+PASS rolled search contents initialize in real loot grid: residential/15
+PASS rolled search contents initialize in real loot grid: residential/16
+PASS rolled search contents initialize in real loot grid: residential/17
+PASS rolled search contents initialize in real loot grid: residential/18
+PASS rolled search contents initialize in real loot grid: residential/19
+PASS rolled search contents initialize in real loot grid: residential/20
+PASS rolled search contents initialize in real loot grid: residential/21
+PASS rolled search contents initialize in real loot grid: residential/22
+PASS rolled search contents initialize in real loot grid: residential/23
+PASS rolled search contents initialize in real loot grid: office/0
+PASS rolled search contents initialize in real loot grid: office/1
+PASS rolled search contents initialize in real loot grid: office/2
+PASS rolled search contents initialize in real loot grid: office/3
+PASS rolled search contents initialize in real loot grid: office/4
+PASS rolled search contents initialize in real loot grid: office/5
+PASS rolled search contents initialize in real loot grid: office/6
+PASS rolled search contents initialize in real loot grid: office/7
+PASS rolled search contents initialize in real loot grid: office/8
+PASS rolled search contents initialize in real loot grid: office/9
+PASS rolled search contents initialize in real loot grid: office/10
+PASS rolled search contents initialize in real loot grid: office/11
+PASS rolled search contents initialize in real loot grid: office/12
+PASS rolled search contents initialize in real loot grid: office/13
+PASS rolled search contents initialize in real loot grid: office/14
+PASS rolled search contents initialize in real loot grid: office/15
+PASS rolled search contents initialize in real loot grid: office/16
+PASS rolled search contents initialize in real loot grid: office/17
+PASS rolled search contents initialize in real loot grid: office/18
+PASS rolled search contents initialize in real loot grid: office/19
+PASS rolled search contents initialize in real loot grid: office/20
+PASS rolled search contents initialize in real loot grid: office/21
+PASS rolled search contents initialize in real loot grid: office/22
+PASS rolled search contents initialize in real loot grid: office/23
+PASS rolled search contents initialize in real loot grid: valuables/0
+PASS rolled search contents initialize in real loot grid: valuables/1
+PASS rolled search contents initialize in real loot grid: valuables/2
+PASS rolled search contents initialize in real loot grid: valuables/3
+PASS rolled search contents initialize in real loot grid: valuables/4
+PASS rolled search contents initialize in real loot grid: valuables/5
+PASS rolled search contents initialize in real loot grid: valuables/6
+PASS rolled search contents initialize in real loot grid: valuables/7
+PASS rolled search contents initialize in real loot grid: valuables/8
+PASS rolled search contents initialize in real loot grid: valuables/9
+PASS rolled search contents initialize in real loot grid: valuables/10
+PASS rolled search contents initialize in real loot grid: valuables/11
+PASS rolled search contents initialize in real loot grid: valuables/12
+PASS rolled search contents initialize in real loot grid: valuables/13
+PASS rolled search contents initialize in real loot grid: valuables/14
+PASS rolled search contents initialize in real loot grid: valuables/15
+PASS rolled search contents initialize in real loot grid: valuables/16
+PASS rolled search contents initialize in real loot grid: valuables/17
+PASS rolled search contents initialize in real loot grid: valuables/18
+PASS rolled search contents initialize in real loot grid: valuables/19
+PASS rolled search contents initialize in real loot grid: valuables/20
+PASS rolled search contents initialize in real loot grid: valuables/21
+PASS rolled search contents initialize in real loot grid: valuables/22
+PASS rolled search contents initialize in real loot grid: valuables/23
+PASS rolled search contents initialize in real loot grid: general/0
+PASS rolled search contents initialize in real loot grid: general/1
+PASS rolled search contents initialize in real loot grid: general/2
+PASS rolled search contents initialize in real loot grid: general/3
+PASS rolled search contents initialize in real loot grid: general/4
+PASS rolled search contents initialize in real loot grid: general/5
+PASS rolled search contents initialize in real loot grid: general/6
+PASS rolled search contents initialize in real loot grid: general/7
+PASS rolled search contents initialize in real loot grid: general/8
+PASS rolled search contents initialize in real loot grid: general/9
+PASS rolled search contents initialize in real loot grid: general/10
+PASS rolled search contents initialize in real loot grid: general/11
+PASS rolled search contents initialize in real loot grid: general/12
+PASS rolled search contents initialize in real loot grid: general/13
+PASS rolled search contents initialize in real loot grid: general/14
+PASS rolled search contents initialize in real loot grid: general/15
+PASS rolled search contents initialize in real loot grid: general/16
+PASS rolled search contents initialize in real loot grid: general/17
+PASS rolled search contents initialize in real loot grid: general/18
+PASS rolled search contents initialize in real loot grid: general/19
+PASS rolled search contents initialize in real loot grid: general/20
+PASS rolled search contents initialize in real loot grid: general/21
+PASS rolled search contents initialize in real loot grid: general/22
+PASS rolled search contents initialize in real loot grid: general/23
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Endurance/0
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Endurance/1
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Endurance/2
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Endurance/3
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Endurance/4
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: SprintEfficiency/0
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: SprintEfficiency/1
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: SprintEfficiency/2
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: SprintEfficiency/3
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: SprintEfficiency/4
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: FastRecovery/0
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: FastRecovery/1
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: FastRecovery/2
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: FastRecovery/3
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: FastRecovery/4
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: CarryPower/0
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: CarryPower/1
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: CarryPower/2
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: WeightAdaptation/0
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: WeightAdaptation/1
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: WeightAdaptation/2
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Reserve/0
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Reserve/1
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Reserve/2
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Reserve/3
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Reserve/4
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Conservation/0
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Conservation/1
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Conservation/2
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Conservation/3
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Conservation/4
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: ActivityAdaptation/0
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: ActivityAdaptation/1
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: ActivityAdaptation/2
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: ActivityAdaptation/3
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: ActivityAdaptation/4
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: FastReload/0
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: FastReload/1
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: FastReload/2
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: FastReload/3
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: FastReload/4
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Precision/0
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Precision/1
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Precision/2
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Precision/3
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS valid distinct research requirement
+PASS each common rank retains original item-unit budget: Precision/4
+PASS all 20 material types have actual common research use with exact legacy 132-unit / 198000-blank total
+PASS individual training retains 12-unit / 18000-blank total: serin
+PASS individual training retains 12-unit / 18000-blank total: prototype
+PASS invalid or completed recipes cannot be spent
+PASS fixture material fits storage
+PASS fixture material fits storage
+PASS fixture material fits storage
+PASS missing any one late-stage ingredient spends nothing: trade_c_005
+PASS fixture material fits storage
+PASS fixture material fits storage
+PASS fixture material fits storage
+PASS missing any one late-stage ingredient spends nothing: trade_m_001
+PASS fixture material fits storage
+PASS fixture material fits storage
+PASS fixture material fits storage
+PASS missing any one late-stage ingredient spends nothing: trade_b_023
+PASS fixture material fits storage
+PASS fixture material fits storage
+PASS fixture material fits storage
+PASS missing any one late-stage ingredient spends nothing: trade_m_004
+PASS protected ingredient cannot satisfy a multi-material recipe
+PASS failed research persistence rolls back all types, grids, money and rank
+PASS successful research uses storage first, preserves protected bag cargo, notifies final state and writes once
+PASS fixture material fits storage
+PASS fixture material fits storage
+PASS fixture material fits storage
+PASS fixture material fits storage
+PASS fixture material fits storage
+PASS fixture material fits storage
+PASS protected final training core prevents all other material consumption
+PASS failed six-material training save is atomic
+PASS six-material final training preserves choices, remains character-specific and writes once
+PASS completed training cannot consume again
+PASS legacy refunds, retained ranks and inactive old trade cargo survive
+PASS research migration remains idempotent with new recipes
+PASS legacy research credits still substitute for the entire recipe and price
+PASS transaction sortie fixture departs
+PASS sortie blocks both material research and companion training
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+DISTRIBUTION power tier0 mean sell=1287.6 rows=2.50
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+DISTRIBUTION power tier1 mean sell=1417.6 rows=2.50
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+PASS seed and theme normalization deterministic: power
+DISTRIBUTION power tier2 mean sell=2110.8 rows=3.50
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+DISTRIBUTION electronics tier0 mean sell=1300.7 rows=2.50
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+DISTRIBUTION electronics tier1 mean sell=1899.9 rows=2.50
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+PASS seed and theme normalization deterministic: electronics
+DISTRIBUTION electronics tier2 mean sell=3257.7 rows=3.50
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+DISTRIBUTION tools tier0 mean sell=1317.2 rows=2.50
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+DISTRIBUTION tools tier1 mean sell=1439.5 rows=2.50
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+PASS seed and theme normalization deterministic: tools
+DISTRIBUTION tools tier2 mean sell=2160.4 rows=3.50
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+DISTRIBUTION industrial tier0 mean sell=1510.8 rows=2.50
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+DISTRIBUTION industrial tier1 mean sell=1605.2 rows=2.50
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+PASS seed and theme normalization deterministic: industrial
+DISTRIBUTION industrial tier2 mean sell=2355.9 rows=3.50
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+DISTRIBUTION medical tier0 mean sell=527.7 rows=2.50
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+DISTRIBUTION medical tier1 mean sell=531.7 rows=2.50
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+PASS seed and theme normalization deterministic: medical
+DISTRIBUTION medical tier2 mean sell=745.2 rows=3.50
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+DISTRIBUTION food tier0 mean sell=376.4 rows=2.50
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+DISTRIBUTION food tier1 mean sell=427.0 rows=2.50
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+PASS seed and theme normalization deterministic: food
+DISTRIBUTION food tier2 mean sell=731.1 rows=3.50
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+DISTRIBUTION ammo tier0 mean sell=1227.0 rows=2.68
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+DISTRIBUTION ammo tier1 mean sell=1614.1 rows=2.76
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+PASS seed and theme normalization deterministic: ammo
+DISTRIBUTION ammo tier2 mean sell=2054.6 rows=3.84
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+DISTRIBUTION residential tier0 mean sell=938.5 rows=2.50
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+DISTRIBUTION residential tier1 mean sell=1056.4 rows=2.50
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+PASS seed and theme normalization deterministic: residential
+DISTRIBUTION residential tier2 mean sell=1774.5 rows=3.50
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+DISTRIBUTION office tier0 mean sell=1365.0 rows=2.50
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+DISTRIBUTION office tier1 mean sell=2121.4 rows=2.50
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+PASS seed and theme normalization deterministic: office
+DISTRIBUTION office tier2 mean sell=3560.5 rows=3.50
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+DISTRIBUTION valuables tier0 mean sell=1816.7 rows=2.50
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+DISTRIBUTION valuables tier1 mean sell=3278.9 rows=2.50
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+PASS seed and theme normalization deterministic: valuables
+DISTRIBUTION valuables tier2 mean sell=5632.2 rows=3.50
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+DISTRIBUTION general tier0 mean sell=439.0 rows=2.50
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+DISTRIBUTION general tier1 mean sell=439.0 rows=2.50
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+PASS seed and theme normalization deterministic: general
+DISTRIBUTION general tier2 mean sell=614.1 rows=3.50
+PASS seed sweep reaches all 32 trade, 12 consumable, 24 ammunition and 32 firearm IDs without retired cargo or quest keys
+PASS risk tiers increase expected value while S jackpots remain below four percent of all rows
+PASS enemy source seed deterministic: machine
+PASS enemy source seed deterministic: machine
+PASS enemy source seed deterministic: machine
+PASS enemy source seed deterministic: machine
+PASS enemy source seed deterministic: machine
+PASS enemy source seed deterministic: machine
+PASS enemy source seed deterministic: machine
+PASS enemy source seed deterministic: machine
+PASS enemy source seed deterministic: machine
+PASS enemy source seed deterministic: machine
+PASS enemy source seed deterministic: machine
+PASS enemy source seed deterministic: machine
+DISTRIBUTION machine mean sell=784.9
+PASS enemy source seed deterministic: human
+PASS enemy source seed deterministic: human
+PASS enemy source seed deterministic: human
+PASS enemy source seed deterministic: human
+PASS enemy source seed deterministic: human
+PASS enemy source seed deterministic: human
+PASS enemy source seed deterministic: human
+PASS enemy source seed deterministic: human
+PASS enemy source seed deterministic: human
+PASS enemy source seed deterministic: human
+PASS enemy source seed deterministic: human
+PASS enemy source seed deterministic: human
+DISTRIBUTION human mean sell=308.0
+PASS enemy source seed deterministic: named_machine
+PASS enemy source seed deterministic: named_machine
+PASS enemy source seed deterministic: named_machine
+PASS enemy source seed deterministic: named_machine
+PASS enemy source seed deterministic: named_machine
+PASS enemy source seed deterministic: named_machine
+PASS enemy source seed deterministic: named_machine
+PASS enemy source seed deterministic: named_machine
+PASS enemy source seed deterministic: named_machine
+PASS enemy source seed deterministic: named_machine
+PASS enemy source seed deterministic: named_machine
+PASS enemy source seed deterministic: named_machine
+DISTRIBUTION named_machine mean sell=3579.9
+PASS enemy source seed deterministic: named_human
+PASS enemy source seed deterministic: named_human
+PASS enemy source seed deterministic: named_human
+PASS enemy source seed deterministic: named_human
+PASS enemy source seed deterministic: named_human
+PASS enemy source seed deterministic: named_human
+PASS enemy source seed deterministic: named_human
+PASS enemy source seed deterministic: named_human
+PASS enemy source seed deterministic: named_human
+PASS enemy source seed deterministic: named_human
+PASS enemy source seed deterministic: named_human
+PASS enemy source seed deterministic: named_human
+DISTRIBUTION named_human mean sell=3700.5
+PASS mechanical role meaningfully favors matching salvage: Scout
+PASS mechanical role meaningfully favors matching salvage: Suppressor
+PASS mechanical role meaningfully favors matching salvage: Sniper
+PASS mechanical role meaningfully favors matching salvage: Grenadier
+PASS mechanical role meaningfully favors matching salvage: Discharger
+PASS mechanical role meaningfully favors matching salvage: ArcRifle
+PASS mechanical role meaningfully favors matching salvage: GuardTank
+PASS unknown themes and out-of-range tiers have deterministic safe fallbacks
+PASS unrecognized or None mechanical role retains generic table

@@ -1,0 +1,25 @@
+PASS card within viewport at (0.00, 0.00)
+PASS pointer clear at (0.00, 0.00)
+PASS card within viewport at (1599.00, 0.00)
+PASS pointer clear at (1599.00, 0.00)
+PASS card within viewport at (0.00, 899.00)
+PASS pointer clear at (0.00, 899.00)
+PASS card within viewport at (1599.00, 899.00)
+PASS pointer clear at (1599.00, 899.00)
+PASS card within viewport at (800.00, 450.00)
+PASS pointer clear at (800.00, 450.00)
+PASS bottom-right card flips left and up
+PASS small view respects safe bounds
+PASS partial item clipped to visible viewport
+PASS offscreen item rejected
+PASS per-unit V threshold 0
+PASS per-unit V threshold 99
+PASS per-unit V threshold 100
+PASS per-unit V threshold 499
+PASS per-unit V threshold 500
+PASS per-unit V threshold 1999
+PASS per-unit V threshold 2000
+PASS per-unit V threshold 9999
+PASS per-unit V threshold 10000
+PASS per-unit V threshold 29999
+PASS per-unit V threshold 30000

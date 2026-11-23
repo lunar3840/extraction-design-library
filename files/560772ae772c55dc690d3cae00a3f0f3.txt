@@ -1,0 +1,21 @@
+V33 local earth grading. Original assets preserved; 2m vertex grid retained.
+N01 level=3.614
+N03 level=6.586
+N07 level=8.165
+N10 level=7.724
+N11 level=9.000
+N12 level=9.000
+N13 level=9.256
+N14 level=9.000
+N15 level=8.541
+N16 level=3.359
+W11 level=4.999
+C03 level=2.458
+C04 level=4.080
+E01 level=6.606
+E02 level=8.334
+E03 level=6.599
+E05 level=2.932
+E07 level=3.874
+N17 level=6.656
+changedVertices=9402 protectedVertices=6998 maxDelta=5.118 maxChangedEdgeSlope=57.72 clonedSurfaceMeshes=4

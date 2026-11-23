@@ -1,0 +1,16 @@
+﻿STAGE_A_CLINIC_MOOD_TRIAL_PRESERVATION
+savedSceneAtInspection=True
+preSaveAudit=True
+result=PASS_STATIC_ONLY
+newRoot=StageA_Relay_Blockout_v08#0/02_Visual_Replaceable#0/CLINIC__Visual#0/__A34_ClinicMoodTrial#0 renderers=6 triangles=7996/12000 vertices=10825/18000 colliders=0 lights=0
+dedicatedMaterialAndMeshAssets=True revealBindingToOriginalSource=True
+existingObjectRowsBefore=46684 after=46684
+existingMissingOrModified=0 outsideRootAdded=0 allowedRoofMeshSwaps=2 allowedGrassMeshSwaps=2
+protectedFilesSame=True
+existingDedicatedFiles=30 newRoofCloneFiles=4 newGrassCloneFiles=4 exactPaths=True changedExistingOwnedBytes=11 roofReferenceRows=2 grassReferenceRows=2
+existingReferencedAssetsSame=True beforeCount=8497 afterCount=8497 expectedCount=8497
+frozenAssetBaselineIssue=none
+assetScan=Rehashed only frozen before paths; did not call AssetDatabase.GetDependencies after exact old-scene inventory match.
+scope=All retained A scene Edit hierarchies excluding only CLINIC.VisualRoot named new visual root; source hashes are bytes on disk.
+runtime material instances are intentionally not compared; authored shared asset GUID/path is compared.
+triangle/vertex caps are scope gates, not standalone GPU/FPS performance PASS.

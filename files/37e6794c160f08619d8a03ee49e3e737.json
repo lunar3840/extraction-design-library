@@ -1,0 +1,3537 @@
+{
+  "validator": "stage-a-relay-v08-independent",
+  "generatedAt": "2026-09-14T15:49:49.102Z",
+  "input": "outputs/map_design/2026-09-15/stage-a-relay-v08/layout.json",
+  "inputVersion": "0.8",
+  "inputSha256": "79208b53883563b8f284624abe45a5a930a8af89d01394ab8eb0ab65d1fbd02a",
+  "assumptions": {
+    "optionalShortcutExcludedFromBaseline": true,
+    "edgeLength": "3D polyline length; via points included; z linearly interpolated between endpoint elevations",
+    "nominalWalkSpeedMps": 4,
+    "sensitivityWalkSpeedMps": 3,
+    "raidMinutes": 30,
+    "centerlineChecks": "water/building/gate-core plus spawn/exit attach",
+    "widthChecks": "edge half-width clearance plus attachWidth/2 and cover polygons",
+    "relayMasks": 8,
+    "riskyToggleStates": 2
+  },
+  "summary": {
+    "status": "pass_with_warnings",
+    "counts": {
+      "pass": 22,
+      "warn": 2,
+      "fail": 0,
+      "info": 1
+    },
+    "highestPriorityRisks": [
+      "relay·spawn 차폐의 실제 LOS와 AI 감지/즉시 교전은 미검증",
+      "계획 폭·2D clearance 통과는 collider·경사·교행을 포함한 NavMesh 가용폭 보장이 아님",
+      "relay 완료·사망·재접속 영구 상태 전이는 참조 schema일 뿐 런타임 저장 검증이 아님",
+      "human 폐곡선/비철수 의도는 확인했지만 실제 AI 행동은 미검증"
+    ]
+  },
+  "checks": [
+    {
+      "id": "schema.references_and_ids",
+      "status": "pass",
+      "summary": "node/edge/attach 참조와 TOOL 대 RT1/RT2/RT3 식별자 분리를 검사했습니다.",
+      "evidence": {
+        "duplicateNodes": [],
+        "badEdges": [],
+        "badAttachments": [],
+        "toolNodePresent": true,
+        "relayNodeConflicts": [],
+        "relayDisplayIdsUsedAsNodes": [],
+        "staleToolReferences": []
+      }
+    },
+    {
+      "id": "spawn_policy.basic_risky_no_equipment_gate",
+      "status": "pass",
+      "summary": "B1–B4 기본, R1–R8 선택 위험 진입과 무장가치 비사용을 검사했습니다.",
+      "evidence": {
+        "basicSpawns": [
+          "B1",
+          "B2",
+          "B3",
+          "B4"
+        ],
+        "riskySpawns": [
+          "R1",
+          "R2",
+          "R3",
+          "R4",
+          "R5",
+          "R6",
+          "R7",
+          "R8"
+        ],
+        "policy": {
+          "defaultRiskyIncluded": false,
+          "basic": [
+            "B1",
+            "B2",
+            "B3",
+            "B4"
+          ],
+          "equipmentValueUsed": false,
+          "regionRiskMenu": false,
+          "unlockedOnly": true,
+          "poolTiming": "next-deployment",
+          "weighting": "uniform-reference-only",
+          "runtimeFilter": "reservation-and-immediate-threat-check",
+          "noSafeCandidate": "hold-or-cancel-never-promote-to-locked-or-unselected-R"
+        },
+        "forbiddenSpawnFields": [],
+        "failures": []
+      }
+    },
+    {
+      "id": "relay.definition_and_protocol",
+      "status": "pass",
+      "summary": "relay ID·담당 R·접근 edge·무선행/무보스 조건과 영구 상태 전이를 검사했습니다.",
+      "evidence": {
+        "relays": [
+          {
+            "id": "T1",
+            "node": "RT1",
+            "displayIdSeparatedFromNodeId": true,
+            "nodeCoordinatesMatch": true,
+            "unlocks": [
+              "R1",
+              "R2"
+            ],
+            "unlocksExact": true,
+            "requiresEmpty": true,
+            "bossKillRequiredFalse": true,
+            "approachWidth": 3,
+            "approachEdges": [
+              "RT1--W2",
+              "N0--RT1"
+            ],
+            "approachEndpointsExact": true,
+            "approachWidthsMatch": true,
+            "interactionSeconds": 12,
+            "protocolSecondsMatch": true
+          },
+          {
+            "id": "T2",
+            "node": "RT2",
+            "displayIdSeparatedFromNodeId": true,
+            "nodeCoordinatesMatch": true,
+            "unlocks": [
+              "R3",
+              "R4",
+              "R5"
+            ],
+            "unlocksExact": true,
+            "requiresEmpty": true,
+            "bossKillRequiredFalse": true,
+            "approachWidth": 3,
+            "approachEdges": [
+              "E0--RT2",
+              "P0--RT2"
+            ],
+            "approachEndpointsExact": true,
+            "approachWidthsMatch": true,
+            "interactionSeconds": 12,
+            "protocolSecondsMatch": true
+          },
+          {
+            "id": "T3",
+            "node": "RT3",
+            "displayIdSeparatedFromNodeId": true,
+            "nodeCoordinatesMatch": true,
+            "unlocks": [
+              "R6",
+              "R7",
+              "R8"
+            ],
+            "unlocksExact": true,
+            "requiresEmpty": true,
+            "bossKillRequiredFalse": true,
+            "approachWidth": 3,
+            "approachEdges": [
+              "RT3--S1",
+              "E1--RT3"
+            ],
+            "approachEndpointsExact": true,
+            "approachWidthsMatch": true,
+            "interactionSeconds": 12,
+            "protocolSecondsMatch": true
+          }
+        ],
+        "relayDefinitionFailures": [],
+        "protocolFailures": []
+      }
+    },
+    {
+      "id": "relay.spawn_candidate_state_space_16",
+      "status": "pass",
+      "summary": "relay mask 8개×위험 진입 OFF/ON 2개, 총 16개 후보 집합을 전수검사했습니다.",
+      "evidence": {
+        "combinations": 16,
+        "states": [
+          {
+            "mask": 0,
+            "unlockedRelays": [],
+            "riskyToggle": "OFF",
+            "unlockedRisky": [],
+            "candidates": [
+              "B1",
+              "B2",
+              "B3",
+              "B4"
+            ],
+            "expected": [
+              "B1",
+              "B2",
+              "B3",
+              "B4"
+            ],
+            "valid": true
+          },
+          {
+            "mask": 0,
+            "unlockedRelays": [],
+            "riskyToggle": "ON",
+            "unlockedRisky": [],
+            "candidates": [
+              "B1",
+              "B2",
+              "B3",
+              "B4"
+            ],
+            "expected": [
+              "B1",
+              "B2",
+              "B3",
+              "B4"
+            ],
+            "valid": true
+          },
+          {
+            "mask": 1,
+            "unlockedRelays": [
+              "T1"
+            ],
+            "riskyToggle": "OFF",
+            "unlockedRisky": [
+              "R1",
+              "R2"
+            ],
+            "candidates": [
+              "B1",
+              "B2",
+              "B3",
+              "B4"
+            ],
+            "expected": [
+              "B1",
+              "B2",
+              "B3",
+              "B4"
+            ],
+            "valid": true
+          },
+          {
+            "mask": 1,
+            "unlockedRelays": [
+              "T1"
+            ],
+            "riskyToggle": "ON",
+            "unlockedRisky": [
+              "R1",
+              "R2"
+            ],
+            "candidates": [
+              "B1",
+              "B2",
+              "B3",
+              "B4",
+              "R1",
+              "R2"
+            ],
+            "expected": [
+              "B1",
+              "B2",
+              "B3",
+              "B4",
+              "R1",
+              "R2"
+            ],
+            "valid": true
+          },
+          {
+            "mask": 2,
+            "unlockedRelays": [
+              "T2"
+            ],
+            "riskyToggle": "OFF",
+            "unlockedRisky": [
+              "R3",
+              "R4",
+              "R5"
+            ],
+            "candidates": [
+              "B1",
+              "B2",
+              "B3",
+              "B4"
+            ],
+            "expected": [
+              "B1",
+              "B2",
+              "B3",
+              "B4"
+            ],
+            "valid": true
+          },
+          {
+            "mask": 2,
+            "unlockedRelays": [
+              "T2"
+            ],
+            "riskyToggle": "ON",
+            "unlockedRisky": [
+              "R3",
+              "R4",
+              "R5"
+            ],
+            "candidates": [
+              "B1",
+              "B2",
+              "B3",
+              "B4",
+              "R3",
+              "R4",
+              "R5"
+            ],
+            "expected": [
+              "B1",
+              "B2",
+              "B3",
+              "B4",
+              "R3",
+              "R4",
+              "R5"
+            ],
+            "valid": true
+          },
+          {
+            "mask": 3,
+            "unlockedRelays": [
+              "T1",
+              "T2"
+            ],
+            "riskyToggle": "OFF",
+            "unlockedRisky": [
+              "R1",
+              "R2",
+              "R3",
+              "R4",
+              "R5"
+            ],
+            "candidates": [
+              "B1",
+              "B2",
+              "B3",
+              "B4"
+            ],
+            "expected": [
+              "B1",
+              "B2",
+              "B3",
+              "B4"
+            ],
+            "valid": true
+          },
+          {
+            "mask": 3,
+            "unlockedRelays": [
+              "T1",
+              "T2"
+            ],
+            "riskyToggle": "ON",
+            "unlockedRisky": [
+              "R1",
+              "R2",
+              "R3",
+              "R4",
+              "R5"
+            ],
+            "candidates": [
+              "B1",
+              "B2",
+              "B3",
+              "B4",
+              "R1",
+              "R2",
+              "R3",
+              "R4",
+              "R5"
+            ],
+            "expected": [
+              "B1",
+              "B2",
+              "B3",
+              "B4",
+              "R1",
+              "R2",
+              "R3",
+              "R4",
+              "R5"
+            ],
+            "valid": true
+          },
+          {
+            "mask": 4,
+            "unlockedRelays": [
+              "T3"
+            ],
+            "riskyToggle": "OFF",
+            "unlockedRisky": [
+              "R6",
+              "R7",
+              "R8"
+            ],
+            "candidates": [
+              "B1",
+              "B2",
+              "B3",
+              "B4"
+            ],
+            "expected": [
+              "B1",
+              "B2",
+              "B3",
+              "B4"
+            ],
+            "valid": true
+          },
+          {
+            "mask": 4,
+            "unlockedRelays": [
+              "T3"
+            ],
+            "riskyToggle": "ON",
+            "unlockedRisky": [
+              "R6",
+              "R7",
+              "R8"
+            ],
+            "candidates": [
+              "B1",
+              "B2",
+              "B3",
+              "B4",
+              "R6",
+              "R7",
+              "R8"
+            ],
+            "expected": [
+              "B1",
+              "B2",
+              "B3",
+              "B4",
+              "R6",
+              "R7",
+              "R8"
+            ],
+            "valid": true
+          },
+          {
+            "mask": 5,
+            "unlockedRelays": [
+              "T1",
+              "T3"
+            ],
+            "riskyToggle": "OFF",
+            "unlockedRisky": [
+              "R1",
+              "R2",
+              "R6",
+              "R7",
+              "R8"
+            ],
+            "candidates": [
+              "B1",
+              "B2",
+              "B3",
+              "B4"
+            ],
+            "expected": [
+              "B1",
+              "B2",
+              "B3",
+              "B4"
+            ],
+            "valid": true
+          },
+          {
+            "mask": 5,
+            "unlockedRelays": [
+              "T1",
+              "T3"
+            ],
+            "riskyToggle": "ON",
+            "unlockedRisky": [
+              "R1",
+              "R2",
+              "R6",
+              "R7",
+              "R8"
+            ],
+            "candidates": [
+              "B1",
+              "B2",
+              "B3",
+              "B4",
+              "R1",
+              "R2",
+              "R6",
+              "R7",
+              "R8"
+            ],
+            "expected": [
+              "B1",
+              "B2",
+              "B3",
+              "B4",
+              "R1",
+              "R2",
+              "R6",
+              "R7",
+              "R8"
+            ],
+            "valid": true
+          },
+          {
+            "mask": 6,
+            "unlockedRelays": [
+              "T2",
+              "T3"
+            ],
+            "riskyToggle": "OFF",
+            "unlockedRisky": [
+              "R3",
+              "R4",
+              "R5",
+              "R6",
+              "R7",
+              "R8"
+            ],
+            "candidates": [
+              "B1",
+              "B2",
+              "B3",
+              "B4"
+            ],
+            "expected": [
+              "B1",
+              "B2",
+              "B3",
+              "B4"
+            ],
+            "valid": true
+          },
+          {
+            "mask": 6,
+            "unlockedRelays": [
+              "T2",
+              "T3"
+            ],
+            "riskyToggle": "ON",
+            "unlockedRisky": [
+              "R3",
+              "R4",
+              "R5",
+              "R6",
+              "R7",
+              "R8"
+            ],
+            "candidates": [
+              "B1",
+              "B2",
+              "B3",
+              "B4",
+              "R3",
+              "R4",
+              "R5",
+              "R6",
+              "R7",
+              "R8"
+            ],
+            "expected": [
+              "B1",
+              "B2",
+              "B3",
+              "B4",
+              "R3",
+              "R4",
+              "R5",
+              "R6",
+              "R7",
+              "R8"
+            ],
+            "valid": true
+          },
+          {
+            "mask": 7,
+            "unlockedRelays": [
+              "T1",
+              "T2",
+              "T3"
+            ],
+            "riskyToggle": "OFF",
+            "unlockedRisky": [
+              "R1",
+              "R2",
+              "R3",
+              "R4",
+              "R5",
+              "R6",
+              "R7",
+              "R8"
+            ],
+            "candidates": [
+              "B1",
+              "B2",
+              "B3",
+              "B4"
+            ],
+            "expected": [
+              "B1",
+              "B2",
+              "B3",
+              "B4"
+            ],
+            "valid": true
+          },
+          {
+            "mask": 7,
+            "unlockedRelays": [
+              "T1",
+              "T2",
+              "T3"
+            ],
+            "riskyToggle": "ON",
+            "unlockedRisky": [
+              "R1",
+              "R2",
+              "R3",
+              "R4",
+              "R5",
+              "R6",
+              "R7",
+              "R8"
+            ],
+            "candidates": [
+              "B1",
+              "B2",
+              "B3",
+              "B4",
+              "R1",
+              "R2",
+              "R3",
+              "R4",
+              "R5",
+              "R6",
+              "R7",
+              "R8"
+            ],
+            "expected": [
+              "B1",
+              "B2",
+              "B3",
+              "B4",
+              "R1",
+              "R2",
+              "R3",
+              "R4",
+              "R5",
+              "R6",
+              "R7",
+              "R8"
+            ],
+            "valid": true
+          }
+        ],
+        "failures": []
+      }
+    },
+    {
+      "id": "relay.executable_reference_state_transitions",
+      "status": "pass",
+      "summary": "실행 가능한 참조 함수의 완료 전 중단·완료 후 사망·재완료·snapshot·전 후보 차단 동작을 독립 기대값과 비교했습니다.",
+      "evidence": {
+        "scenarios": [
+          {
+            "name": "interrupt-before-complete",
+            "actual": [],
+            "expected": [],
+            "valid": true
+          },
+          {
+            "name": "death-after-completion-retains",
+            "actual": [
+              "T1"
+            ],
+            "expected": [
+              "T1"
+            ],
+            "valid": true
+          },
+          {
+            "name": "repeat-is-idempotent",
+            "actual": [
+              "T1"
+            ],
+            "expected": [
+              "T1"
+            ],
+            "valid": true
+          },
+          {
+            "name": "existing-departure-snapshot-immutable",
+            "actual": [
+              "B1",
+              "B2",
+              "B3",
+              "B4",
+              "R1",
+              "R2"
+            ],
+            "expected": [
+              "B1",
+              "B2",
+              "B3",
+              "B4",
+              "R1",
+              "R2"
+            ],
+            "valid": true
+          },
+          {
+            "name": "all-candidates-blocked-hold-or-cancel",
+            "actual": {
+              "candidates": [],
+              "action": "hold-or-cancel"
+            },
+            "expected": {
+              "candidates": [],
+              "action": "hold-or-cancel"
+            },
+            "valid": true
+          },
+          {
+            "name": "runtime-filter-never-promotes-outside-snapshot",
+            "actual": {
+              "candidates": [
+                "B2",
+                "B3",
+                "B4",
+                "R1",
+                "R2"
+              ],
+              "action": "sample-within-candidates"
+            },
+            "expectedSubsetOf": [
+              "B1",
+              "B2",
+              "B3",
+              "B4",
+              "R1",
+              "R2"
+            ],
+            "valid": true
+          }
+        ],
+        "sourceIsReferenceOnly": true,
+        "unityImplementationTested": false
+      }
+    },
+    {
+      "id": "graph.base_connectivity",
+      "status": "pass",
+      "summary": "S-A를 닫은 공개 물리 그래프의 연결성을 검사했습니다.",
+      "evidence": {
+        "componentCount": 1,
+        "components": [
+          [
+            "BN1",
+            "BN2",
+            "BS1",
+            "BS2",
+            "C0",
+            "C1",
+            "C2",
+            "D0",
+            "E0",
+            "E1",
+            "E2",
+            "H0",
+            "HE",
+            "HN",
+            "HS",
+            "HU",
+            "HW",
+            "K0",
+            "L1",
+            "L2",
+            "N0",
+            "N1",
+            "N2",
+            "N3",
+            "P0",
+            "P1",
+            "P2",
+            "RT1",
+            "RT2",
+            "RT3",
+            "S0",
+            "S1",
+            "S2",
+            "TOOL",
+            "W0",
+            "W1",
+            "W2",
+            "W3",
+            "W4",
+            "W5"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "relay.preunlock_reachability_from_all_basic",
+      "status": "pass",
+      "summary": "B1–B4 각각에서 RT1–RT3까지 모든 relay와 S-A를 해금하지 않고 도달 가능한지 검사했습니다.",
+      "evidence": {
+        "testedRoutes": 12,
+        "routes": [
+          {
+            "spawn": "B1",
+            "relay": "T1",
+            "reachable": true,
+            "metres": 182.69,
+            "secondsAt4mpsPlusInteraction": 57.67,
+            "path": [
+              "W0",
+              "C0",
+              "W2",
+              "RT1"
+            ]
+          },
+          {
+            "spawn": "B1",
+            "relay": "T2",
+            "reachable": true,
+            "metres": 430.84,
+            "secondsAt4mpsPlusInteraction": 119.71,
+            "path": [
+              "W0",
+              "C0",
+              "C1",
+              "C2",
+              "N0",
+              "N1",
+              "N2",
+              "E0",
+              "RT2"
+            ]
+          },
+          {
+            "spawn": "B1",
+            "relay": "T3",
+            "reachable": true,
+            "metres": 466.43,
+            "secondsAt4mpsPlusInteraction": 128.61,
+            "path": [
+              "W0",
+              "C0",
+              "W2",
+              "TOOL",
+              "W3",
+              "D0",
+              "S0",
+              "S1",
+              "RT3"
+            ]
+          },
+          {
+            "spawn": "B2",
+            "relay": "T1",
+            "reachable": true,
+            "metres": 163.06,
+            "secondsAt4mpsPlusInteraction": 52.77,
+            "path": [
+              "W1",
+              "W2",
+              "RT1"
+            ]
+          },
+          {
+            "spawn": "B2",
+            "relay": "T2",
+            "reachable": true,
+            "metres": 436.18,
+            "secondsAt4mpsPlusInteraction": 121.05,
+            "path": [
+              "W1",
+              "W2",
+              "N0",
+              "N1",
+              "N2",
+              "E0",
+              "RT2"
+            ]
+          },
+          {
+            "spawn": "B2",
+            "relay": "T3",
+            "reachable": true,
+            "metres": 446.81,
+            "secondsAt4mpsPlusInteraction": 123.7,
+            "path": [
+              "W1",
+              "W2",
+              "TOOL",
+              "W3",
+              "D0",
+              "S0",
+              "S1",
+              "RT3"
+            ]
+          },
+          {
+            "spawn": "B3",
+            "relay": "T1",
+            "reachable": true,
+            "metres": 263.97,
+            "secondsAt4mpsPlusInteraction": 77.99,
+            "path": [
+              "W4",
+              "W3",
+              "TOOL",
+              "W2",
+              "RT1"
+            ]
+          },
+          {
+            "spawn": "B3",
+            "relay": "T2",
+            "reachable": true,
+            "metres": 443.79,
+            "secondsAt4mpsPlusInteraction": 122.95,
+            "path": [
+              "W4",
+              "W3",
+              "K0",
+              "N1",
+              "N2",
+              "E0",
+              "RT2"
+            ]
+          },
+          {
+            "spawn": "B3",
+            "relay": "T3",
+            "reachable": true,
+            "metres": 359.93,
+            "secondsAt4mpsPlusInteraction": 101.98,
+            "path": [
+              "W4",
+              "W3",
+              "D0",
+              "S0",
+              "S1",
+              "RT3"
+            ]
+          },
+          {
+            "spawn": "B4",
+            "relay": "T1",
+            "reachable": true,
+            "metres": 295.72,
+            "secondsAt4mpsPlusInteraction": 85.93,
+            "path": [
+              "W5",
+              "D0",
+              "W3",
+              "TOOL",
+              "W2",
+              "RT1"
+            ]
+          },
+          {
+            "spawn": "B4",
+            "relay": "T2",
+            "reachable": true,
+            "metres": 377.82,
+            "secondsAt4mpsPlusInteraction": 106.46,
+            "path": [
+              "W5",
+              "D0",
+              "HS",
+              "H0",
+              "HE",
+              "E1",
+              "E0",
+              "RT2"
+            ]
+          },
+          {
+            "spawn": "B4",
+            "relay": "T3",
+            "reachable": true,
+            "metres": 255.37,
+            "secondsAt4mpsPlusInteraction": 75.84,
+            "path": [
+              "W5",
+              "D0",
+              "S0",
+              "S1",
+              "RT3"
+            ]
+          }
+        ],
+        "missing": []
+      }
+    },
+    {
+      "id": "relay.information_not_physical_barrier",
+      "status": "pass",
+      "summary": "relay가 G 핵심실·S-A·Q·탈출·공개 통행을 잠그지 않는지 검사했습니다.",
+      "evidence": {
+        "failures": [],
+        "relayGatedPhysicalEdges": [],
+        "changesCoreGates": false
+      }
+    },
+    {
+      "id": "routes.state_candidates_to_public_and_exits",
+      "status": "pass",
+      "summary": "16개 상태에서 활성 후보가 공개 목적지 6곳과 7개 탈출 attach에 연결되는지 검사했습니다.",
+      "evidence": {
+        "stateSpawnOccurrences": 96,
+        "expandedRouteChecks": 1248,
+        "uniqueSpawnTargetPairs": 156,
+        "failedRoutes": [],
+        "uniqueSpawnRouteMatrix": {
+          "B1": {
+            "C1": {
+              "reachable": true,
+              "metres": 122.21,
+              "path": [
+                "W0",
+                "C0",
+                "C1"
+              ]
+            },
+            "TOOL": {
+              "reachable": true,
+              "metres": 185.12,
+              "path": [
+                "W0",
+                "C0",
+                "W2",
+                "TOOL"
+              ]
+            },
+            "P1": {
+              "reachable": true,
+              "metres": 434.56,
+              "path": [
+                "W0",
+                "C0",
+                "C1",
+                "C2",
+                "N0",
+                "N1",
+                "N2",
+                "N3",
+                "P1"
+              ]
+            },
+            "L1": {
+              "reachable": true,
+              "metres": 522.57,
+              "path": [
+                "W0",
+                "C0",
+                "C1",
+                "C2",
+                "N0",
+                "N1",
+                "N2",
+                "E0",
+                "E1",
+                "L1"
+              ]
+            },
+            "H0": {
+              "reachable": true,
+              "metres": 387.76,
+              "path": [
+                "W0",
+                "C0",
+                "W2",
+                "TOOL",
+                "W3",
+                "K0",
+                "HW",
+                "H0"
+              ]
+            },
+            "E2": {
+              "reachable": true,
+              "metres": 607.98,
+              "path": [
+                "W0",
+                "C0",
+                "W2",
+                "TOOL",
+                "W3",
+                "D0",
+                "S0",
+                "S1",
+                "BN2",
+                "E2"
+              ]
+            },
+            "W0": {
+              "reachable": true,
+              "metres": 27.73,
+              "path": [
+                "W0"
+              ]
+            },
+            "W4": {
+              "reachable": true,
+              "metres": 220.75,
+              "path": [
+                "W0",
+                "W1",
+                "W4"
+              ]
+            },
+            "N3": {
+              "reachable": true,
+              "metres": 406.55,
+              "path": [
+                "W0",
+                "C0",
+                "C1",
+                "C2",
+                "N0",
+                "N1",
+                "N2",
+                "N3"
+              ]
+            },
+            "BS1": {
+              "reachable": true,
+              "metres": 531.11,
+              "path": [
+                "W0",
+                "C0",
+                "W2",
+                "TOOL",
+                "W3",
+                "D0",
+                "S0",
+                "S1",
+                "BN1",
+                "BS1"
+              ]
+            },
+            "S2": {
+              "reachable": true,
+              "metres": 575.21,
+              "path": [
+                "W0",
+                "C0",
+                "W2",
+                "TOOL",
+                "W3",
+                "D0",
+                "S0",
+                "S1",
+                "BN1",
+                "BS1",
+                "S2"
+              ]
+            }
+          },
+          "B2": {
+            "C1": {
+              "reachable": true,
+              "metres": 219.12,
+              "path": [
+                "W1",
+                "W0",
+                "C0",
+                "C1"
+              ]
+            },
+            "TOOL": {
+              "reachable": true,
+              "metres": 165.49,
+              "path": [
+                "W1",
+                "W2",
+                "TOOL"
+              ]
+            },
+            "P1": {
+              "reachable": true,
+              "metres": 439.91,
+              "path": [
+                "W1",
+                "W2",
+                "N0",
+                "N1",
+                "N2",
+                "N3",
+                "P1"
+              ]
+            },
+            "L1": {
+              "reachable": true,
+              "metres": 523.45,
+              "path": [
+                "W1",
+                "W2",
+                "TOOL",
+                "W3",
+                "K0",
+                "HW",
+                "H0",
+                "HE",
+                "E1",
+                "L1"
+              ]
+            },
+            "H0": {
+              "reachable": true,
+              "metres": 368.14,
+              "path": [
+                "W1",
+                "W2",
+                "TOOL",
+                "W3",
+                "K0",
+                "HW",
+                "H0"
+              ]
+            },
+            "E2": {
+              "reachable": true,
+              "metres": 588.36,
+              "path": [
+                "W1",
+                "W2",
+                "TOOL",
+                "W3",
+                "D0",
+                "S0",
+                "S1",
+                "BN2",
+                "E2"
+              ]
+            },
+            "W0": {
+              "reachable": true,
+              "metres": 124.64,
+              "path": [
+                "W1",
+                "W0"
+              ]
+            },
+            "W4": {
+              "reachable": true,
+              "metres": 153.35,
+              "path": [
+                "W1",
+                "W4"
+              ]
+            },
+            "N3": {
+              "reachable": true,
+              "metres": 411.89,
+              "path": [
+                "W1",
+                "W2",
+                "N0",
+                "N1",
+                "N2",
+                "N3"
+              ]
+            },
+            "BS1": {
+              "reachable": true,
+              "metres": 511.49,
+              "path": [
+                "W1",
+                "W2",
+                "TOOL",
+                "W3",
+                "D0",
+                "S0",
+                "S1",
+                "BN1",
+                "BS1"
+              ]
+            },
+            "S2": {
+              "reachable": true,
+              "metres": 555.59,
+              "path": [
+                "W1",
+                "W2",
+                "TOOL",
+                "W3",
+                "D0",
+                "S0",
+                "S1",
+                "BN1",
+                "BS1",
+                "S2"
+              ]
+            }
+          },
+          "B3": {
+            "C1": {
+              "reachable": true,
+              "metres": 333.46,
+              "path": [
+                "W4",
+                "W1",
+                "W0",
+                "C0",
+                "C1"
+              ]
+            },
+            "TOOL": {
+              "reachable": true,
+              "metres": 172.63,
+              "path": [
+                "W4",
+                "W3",
+                "TOOL"
+              ]
+            },
+            "P1": {
+              "reachable": true,
+              "metres": 447.52,
+              "path": [
+                "W4",
+                "W3",
+                "K0",
+                "N1",
+                "N2",
+                "N3",
+                "P1"
+              ]
+            },
+            "L1": {
+              "reachable": true,
+              "metres": 436.57,
+              "path": [
+                "W4",
+                "W3",
+                "K0",
+                "HW",
+                "H0",
+                "HE",
+                "E1",
+                "L1"
+              ]
+            },
+            "H0": {
+              "reachable": true,
+              "metres": 281.26,
+              "path": [
+                "W4",
+                "W3",
+                "K0",
+                "HW",
+                "H0"
+              ]
+            },
+            "E2": {
+              "reachable": true,
+              "metres": 501.48,
+              "path": [
+                "W4",
+                "W3",
+                "D0",
+                "S0",
+                "S1",
+                "BN2",
+                "E2"
+              ]
+            },
+            "W0": {
+              "reachable": true,
+              "metres": 238.99,
+              "path": [
+                "W4",
+                "W1",
+                "W0"
+              ]
+            },
+            "W4": {
+              "reachable": true,
+              "metres": 45.97,
+              "path": [
+                "W4"
+              ]
+            },
+            "N3": {
+              "reachable": true,
+              "metres": 419.5,
+              "path": [
+                "W4",
+                "W3",
+                "K0",
+                "N1",
+                "N2",
+                "N3"
+              ]
+            },
+            "BS1": {
+              "reachable": true,
+              "metres": 424.61,
+              "path": [
+                "W4",
+                "W3",
+                "D0",
+                "S0",
+                "S1",
+                "BN1",
+                "BS1"
+              ]
+            },
+            "S2": {
+              "reachable": true,
+              "metres": 468.71,
+              "path": [
+                "W4",
+                "W3",
+                "D0",
+                "S0",
+                "S1",
+                "BN1",
+                "BS1",
+                "S2"
+              ]
+            }
+          },
+          "B4": {
+            "C1": {
+              "reachable": true,
+              "metres": 367.63,
+              "path": [
+                "W5",
+                "D0",
+                "W3",
+                "TOOL",
+                "W2",
+                "C0",
+                "C1"
+              ]
+            },
+            "TOOL": {
+              "reachable": true,
+              "metres": 204.38,
+              "path": [
+                "W5",
+                "D0",
+                "W3",
+                "TOOL"
+              ]
+            },
+            "P1": {
+              "reachable": true,
+              "metres": 413.31,
+              "path": [
+                "W5",
+                "D0",
+                "K0",
+                "N1",
+                "N2",
+                "N3",
+                "P1"
+              ]
+            },
+            "L1": {
+              "reachable": true,
+              "metres": 353.3,
+              "path": [
+                "W5",
+                "D0",
+                "HS",
+                "H0",
+                "HE",
+                "E1",
+                "L1"
+              ]
+            },
+            "H0": {
+              "reachable": true,
+              "metres": 197.99,
+              "path": [
+                "W5",
+                "D0",
+                "HS",
+                "H0"
+              ]
+            },
+            "E2": {
+              "reachable": true,
+              "metres": 396.91,
+              "path": [
+                "W5",
+                "D0",
+                "S0",
+                "S1",
+                "BN2",
+                "E2"
+              ]
+            },
+            "W0": {
+              "reachable": true,
+              "metres": 346.49,
+              "path": [
+                "W5",
+                "W4",
+                "W1",
+                "W0"
+              ]
+            },
+            "W4": {
+              "reachable": true,
+              "metres": 153.47,
+              "path": [
+                "W5",
+                "W4"
+              ]
+            },
+            "N3": {
+              "reachable": true,
+              "metres": 385.3,
+              "path": [
+                "W5",
+                "D0",
+                "K0",
+                "N1",
+                "N2",
+                "N3"
+              ]
+            },
+            "BS1": {
+              "reachable": true,
+              "metres": 320.05,
+              "path": [
+                "W5",
+                "D0",
+                "S0",
+                "S1",
+                "BN1",
+                "BS1"
+              ]
+            },
+            "S2": {
+              "reachable": true,
+              "metres": 364.15,
+              "path": [
+                "W5",
+                "D0",
+                "S0",
+                "S1",
+                "BN1",
+                "BS1",
+                "S2"
+              ]
+            }
+          },
+          "R1": {
+            "C1": {
+              "reachable": true,
+              "metres": 116.99,
+              "path": [
+                "N0",
+                "C2",
+                "C1"
+              ]
+            },
+            "TOOL": {
+              "reachable": true,
+              "metres": 172.82,
+              "path": [
+                "N0",
+                "W2",
+                "TOOL"
+              ]
+            },
+            "P1": {
+              "reachable": true,
+              "metres": 278.89,
+              "path": [
+                "N0",
+                "N1",
+                "N2",
+                "N3",
+                "P1"
+              ]
+            },
+            "L1": {
+              "reachable": true,
+              "metres": 366.9,
+              "path": [
+                "N0",
+                "N1",
+                "N2",
+                "E0",
+                "E1",
+                "L1"
+              ]
+            },
+            "H0": {
+              "reachable": true,
+              "metres": 243.07,
+              "path": [
+                "N0",
+                "N1",
+                "K0",
+                "HW",
+                "H0"
+              ]
+            },
+            "E2": {
+              "reachable": true,
+              "metres": 507.35,
+              "path": [
+                "N0",
+                "N1",
+                "N2",
+                "E0",
+                "E1",
+                "L1",
+                "BN2",
+                "E2"
+              ]
+            },
+            "W0": {
+              "reachable": true,
+              "metres": 211.47,
+              "path": [
+                "N0",
+                "C2",
+                "C1",
+                "C0",
+                "W0"
+              ]
+            },
+            "W4": {
+              "reachable": true,
+              "metres": 299.48,
+              "path": [
+                "N0",
+                "W2",
+                "TOOL",
+                "W3",
+                "W4"
+              ]
+            },
+            "N3": {
+              "reachable": true,
+              "metres": 250.87,
+              "path": [
+                "N0",
+                "N1",
+                "N2",
+                "N3"
+              ]
+            },
+            "BS1": {
+              "reachable": true,
+              "metres": 457.01,
+              "path": [
+                "N0",
+                "N1",
+                "N2",
+                "E0",
+                "E1",
+                "S1",
+                "BN1",
+                "BS1"
+              ]
+            },
+            "S2": {
+              "reachable": true,
+              "metres": 501.11,
+              "path": [
+                "N0",
+                "N1",
+                "N2",
+                "E0",
+                "E1",
+                "S1",
+                "BN1",
+                "BS1",
+                "S2"
+              ]
+            }
+          },
+          "R2": {
+            "C1": {
+              "reachable": true,
+              "metres": 239.87,
+              "path": [
+                "N2",
+                "N1",
+                "N0",
+                "C2",
+                "C1"
+              ]
+            },
+            "TOOL": {
+              "reachable": true,
+              "metres": 295.69,
+              "path": [
+                "N2",
+                "N1",
+                "N0",
+                "W2",
+                "TOOL"
+              ]
+            },
+            "P1": {
+              "reachable": true,
+              "metres": 120.86,
+              "path": [
+                "N2",
+                "N3",
+                "P1"
+              ]
+            },
+            "L1": {
+              "reachable": true,
+              "metres": 208.87,
+              "path": [
+                "N2",
+                "E0",
+                "E1",
+                "L1"
+              ]
+            },
+            "H0": {
+              "reachable": true,
+              "metres": 231.64,
+              "path": [
+                "N2",
+                "E0",
+                "E1",
+                "HE",
+                "H0"
+              ]
+            },
+            "E2": {
+              "reachable": true,
+              "metres": 349.32,
+              "path": [
+                "N2",
+                "E0",
+                "E1",
+                "L1",
+                "BN2",
+                "E2"
+              ]
+            },
+            "W0": {
+              "reachable": true,
+              "metres": 334.34,
+              "path": [
+                "N2",
+                "N1",
+                "N0",
+                "C2",
+                "C1",
+                "C0",
+                "W0"
+              ]
+            },
+            "W4": {
+              "reachable": true,
+              "metres": 329.06,
+              "path": [
+                "N2",
+                "N1",
+                "K0",
+                "W3",
+                "W4"
+              ]
+            },
+            "N3": {
+              "reachable": true,
+              "metres": 92.85,
+              "path": [
+                "N2",
+                "N3"
+              ]
+            },
+            "BS1": {
+              "reachable": true,
+              "metres": 298.98,
+              "path": [
+                "N2",
+                "E0",
+                "E1",
+                "S1",
+                "BN1",
+                "BS1"
+              ]
+            },
+            "S2": {
+              "reachable": true,
+              "metres": 343.08,
+              "path": [
+                "N2",
+                "E0",
+                "E1",
+                "S1",
+                "BN1",
+                "BS1",
+                "S2"
+              ]
+            }
+          },
+          "R3": {
+            "C1": {
+              "reachable": true,
+              "metres": 326.54,
+              "path": [
+                "N3",
+                "N2",
+                "N1",
+                "N0",
+                "C2",
+                "C1"
+              ]
+            },
+            "TOOL": {
+              "reachable": true,
+              "metres": 382.37,
+              "path": [
+                "N3",
+                "N2",
+                "N1",
+                "N0",
+                "W2",
+                "TOOL"
+              ]
+            },
+            "P1": {
+              "reachable": true,
+              "metres": 70.22,
+              "path": [
+                "N3",
+                "P1"
+              ]
+            },
+            "L1": {
+              "reachable": true,
+              "metres": 295.54,
+              "path": [
+                "N3",
+                "N2",
+                "E0",
+                "E1",
+                "L1"
+              ]
+            },
+            "H0": {
+              "reachable": true,
+              "metres": 318.31,
+              "path": [
+                "N3",
+                "N2",
+                "E0",
+                "E1",
+                "HE",
+                "H0"
+              ]
+            },
+            "E2": {
+              "reachable": true,
+              "metres": 345.24,
+              "path": [
+                "N3",
+                "P1",
+                "P2",
+                "P0",
+                "L2",
+                "E2"
+              ]
+            },
+            "W0": {
+              "reachable": true,
+              "metres": 421.02,
+              "path": [
+                "N3",
+                "N2",
+                "N1",
+                "N0",
+                "C2",
+                "C1",
+                "C0",
+                "W0"
+              ]
+            },
+            "W4": {
+              "reachable": true,
+              "metres": 415.74,
+              "path": [
+                "N3",
+                "N2",
+                "N1",
+                "K0",
+                "W3",
+                "W4"
+              ]
+            },
+            "N3": {
+              "reachable": true,
+              "metres": 42.2,
+              "path": [
+                "N3"
+              ]
+            },
+            "BS1": {
+              "reachable": true,
+              "metres": 385.66,
+              "path": [
+                "N3",
+                "N2",
+                "E0",
+                "E1",
+                "S1",
+                "BN1",
+                "BS1"
+              ]
+            },
+            "S2": {
+              "reachable": true,
+              "metres": 429.76,
+              "path": [
+                "N3",
+                "N2",
+                "E0",
+                "E1",
+                "S1",
+                "BN1",
+                "BS1",
+                "S2"
+              ]
+            }
+          },
+          "R4": {
+            "C1": {
+              "reachable": true,
+              "metres": 443.22,
+              "path": [
+                "P0",
+                "E0",
+                "N2",
+                "N1",
+                "N0",
+                "C2",
+                "C1"
+              ]
+            },
+            "TOOL": {
+              "reachable": true,
+              "metres": 499.05,
+              "path": [
+                "P0",
+                "E0",
+                "N2",
+                "N1",
+                "N0",
+                "W2",
+                "TOOL"
+              ]
+            },
+            "P1": {
+              "reachable": true,
+              "metres": 165.1,
+              "path": [
+                "P0",
+                "P2",
+                "P1"
+              ]
+            },
+            "L1": {
+              "reachable": true,
+              "metres": 208.14,
+              "path": [
+                "P0",
+                "L2",
+                "L1"
+              ]
+            },
+            "H0": {
+              "reachable": true,
+              "metres": 314.43,
+              "path": [
+                "P0",
+                "E0",
+                "E1",
+                "HE",
+                "H0"
+              ]
+            },
+            "E2": {
+              "reachable": true,
+              "metres": 216.38,
+              "path": [
+                "P0",
+                "L2",
+                "E2"
+              ]
+            },
+            "W0": {
+              "reachable": true,
+              "metres": 537.7,
+              "path": [
+                "P0",
+                "E0",
+                "N2",
+                "N1",
+                "N0",
+                "C2",
+                "C1",
+                "C0",
+                "W0"
+              ]
+            },
+            "W4": {
+              "reachable": true,
+              "metres": 532.42,
+              "path": [
+                "P0",
+                "E0",
+                "N2",
+                "N1",
+                "K0",
+                "W3",
+                "W4"
+              ]
+            },
+            "N3": {
+              "reachable": true,
+              "metres": 193.12,
+              "path": [
+                "P0",
+                "P2",
+                "P1",
+                "N3"
+              ]
+            },
+            "BS1": {
+              "reachable": true,
+              "metres": 381.77,
+              "path": [
+                "P0",
+                "E0",
+                "E1",
+                "S1",
+                "BN1",
+                "BS1"
+              ]
+            },
+            "S2": {
+              "reachable": true,
+              "metres": 375.6,
+              "path": [
+                "P0",
+                "L2",
+                "E2",
+                "BN2",
+                "BS2",
+                "S2"
+              ]
+            }
+          },
+          "R5": {
+            "C1": {
+              "reachable": true,
+              "metres": 570.5,
+              "path": [
+                "E2",
+                "BN2",
+                "L1",
+                "E1",
+                "E0",
+                "N2",
+                "N1",
+                "N0",
+                "C2",
+                "C1"
+              ]
+            },
+            "TOOL": {
+              "reachable": true,
+              "metres": 452.55,
+              "path": [
+                "E2",
+                "BN2",
+                "S1",
+                "S0",
+                "D0",
+                "W3",
+                "TOOL"
+              ]
+            },
+            "P1": {
+              "reachable": true,
+              "metres": 304.7,
+              "path": [
+                "E2",
+                "L2",
+                "P0",
+                "P2",
+                "P1"
+              ]
+            },
+            "L1": {
+              "reachable": true,
+              "metres": 170.13,
+              "path": [
+                "E2",
+                "BN2",
+                "L1"
+              ]
+            },
+            "H0": {
+              "reachable": true,
+              "metres": 325.45,
+              "path": [
+                "E2",
+                "BN2",
+                "L1",
+                "E1",
+                "HE",
+                "H0"
+              ]
+            },
+            "E2": {
+              "reachable": true,
+              "metres": 29.68,
+              "path": [
+                "E2"
+              ]
+            },
+            "W0": {
+              "reachable": true,
+              "metres": 609.93,
+              "path": [
+                "E2",
+                "BN2",
+                "S1",
+                "S0",
+                "D0",
+                "W3",
+                "TOOL",
+                "W2",
+                "C0",
+                "W0"
+              ]
+            },
+            "W4": {
+              "reachable": true,
+              "metres": 485.19,
+              "path": [
+                "E2",
+                "BN2",
+                "S1",
+                "S0",
+                "D0",
+                "W3",
+                "W4"
+              ]
+            },
+            "N3": {
+              "reachable": true,
+              "metres": 332.72,
+              "path": [
+                "E2",
+                "L2",
+                "P0",
+                "P2",
+                "P1",
+                "N3"
+              ]
+            },
+            "BS1": {
+              "reachable": true,
+              "metres": 233,
+              "path": [
+                "E2",
+                "BN2",
+                "BS2",
+                "S2",
+                "BS1"
+              ]
+            },
+            "S2": {
+              "reachable": true,
+              "metres": 188.9,
+              "path": [
+                "E2",
+                "BN2",
+                "BS2",
+                "S2"
+              ]
+            }
+          },
+          "R6": {
+            "C1": {
+              "reachable": true,
+              "metres": 598.68,
+              "path": [
+                "BS2",
+                "BN2",
+                "L1",
+                "E1",
+                "E0",
+                "N2",
+                "N1",
+                "N0",
+                "C2",
+                "C1"
+              ]
+            },
+            "TOOL": {
+              "reachable": true,
+              "metres": 480.72,
+              "path": [
+                "BS2",
+                "BN2",
+                "S1",
+                "S0",
+                "D0",
+                "W3",
+                "TOOL"
+              ]
+            },
+            "P1": {
+              "reachable": true,
+              "metres": 420.92,
+              "path": [
+                "BS2",
+                "BN2",
+                "E2",
+                "L2",
+                "P0",
+                "P2",
+                "P1"
+              ]
+            },
+            "L1": {
+              "reachable": true,
+              "metres": 198.31,
+              "path": [
+                "BS2",
+                "BN2",
+                "L1"
+              ]
+            },
+            "H0": {
+              "reachable": true,
+              "metres": 353.62,
+              "path": [
+                "BS2",
+                "BN2",
+                "L1",
+                "E1",
+                "HE",
+                "H0"
+              ]
+            },
+            "E2": {
+              "reachable": true,
+              "metres": 145.9,
+              "path": [
+                "BS2",
+                "BN2",
+                "E2"
+              ]
+            },
+            "W0": {
+              "reachable": true,
+              "metres": 638.11,
+              "path": [
+                "BS2",
+                "BN2",
+                "S1",
+                "S0",
+                "D0",
+                "W3",
+                "TOOL",
+                "W2",
+                "C0",
+                "W0"
+              ]
+            },
+            "W4": {
+              "reachable": true,
+              "metres": 513.37,
+              "path": [
+                "BS2",
+                "BN2",
+                "S1",
+                "S0",
+                "D0",
+                "W3",
+                "W4"
+              ]
+            },
+            "N3": {
+              "reachable": true,
+              "metres": 448.94,
+              "path": [
+                "BS2",
+                "BN2",
+                "E2",
+                "L2",
+                "P0",
+                "P2",
+                "P1",
+                "N3"
+              ]
+            },
+            "BS1": {
+              "reachable": true,
+              "metres": 144.25,
+              "path": [
+                "BS2",
+                "S2",
+                "BS1"
+              ]
+            },
+            "S2": {
+              "reachable": true,
+              "metres": 100.15,
+              "path": [
+                "BS2",
+                "S2"
+              ]
+            }
+          },
+          "R7": {
+            "C1": {
+              "reachable": true,
+              "metres": 574.94,
+              "path": [
+                "S2",
+                "BS1",
+                "BN1",
+                "S1",
+                "E1",
+                "E0",
+                "N2",
+                "N1",
+                "N0",
+                "C2",
+                "C1"
+              ]
+            },
+            "TOOL": {
+              "reachable": true,
+              "metres": 430.46,
+              "path": [
+                "S2",
+                "BS1",
+                "BN1",
+                "S1",
+                "S0",
+                "D0",
+                "W3",
+                "TOOL"
+              ]
+            },
+            "P1": {
+              "reachable": true,
+              "metres": 455.93,
+              "path": [
+                "S2",
+                "BS1",
+                "BN1",
+                "S1",
+                "E1",
+                "E0",
+                "N2",
+                "N3",
+                "P1"
+              ]
+            },
+            "L1": {
+              "reachable": true,
+              "metres": 251.99,
+              "path": [
+                "S2",
+                "BS2",
+                "BN2",
+                "L1"
+              ]
+            },
+            "H0": {
+              "reachable": true,
+              "metres": 329.89,
+              "path": [
+                "S2",
+                "BS1",
+                "BN1",
+                "S1",
+                "E1",
+                "HE",
+                "H0"
+              ]
+            },
+            "E2": {
+              "reachable": true,
+              "metres": 199.58,
+              "path": [
+                "S2",
+                "BS2",
+                "BN2",
+                "E2"
+              ]
+            },
+            "W0": {
+              "reachable": true,
+              "metres": 587.84,
+              "path": [
+                "S2",
+                "BS1",
+                "BN1",
+                "S1",
+                "S0",
+                "D0",
+                "W3",
+                "TOOL",
+                "W2",
+                "C0",
+                "W0"
+              ]
+            },
+            "W4": {
+              "reachable": true,
+              "metres": 463.1,
+              "path": [
+                "S2",
+                "BS1",
+                "BN1",
+                "S1",
+                "S0",
+                "D0",
+                "W3",
+                "W4"
+              ]
+            },
+            "N3": {
+              "reachable": true,
+              "metres": 427.92,
+              "path": [
+                "S2",
+                "BS1",
+                "BN1",
+                "S1",
+                "E1",
+                "E0",
+                "N2",
+                "N3"
+              ]
+            },
+            "BS1": {
+              "reachable": true,
+              "metres": 84.46,
+              "path": [
+                "S2",
+                "BS1"
+              ]
+            },
+            "S2": {
+              "reachable": true,
+              "metres": 40.36,
+              "path": [
+                "S2"
+              ]
+            }
+          },
+          "R8": {
+            "C1": {
+              "reachable": true,
+              "metres": 381.45,
+              "path": [
+                "W5",
+                "D0",
+                "W3",
+                "TOOL",
+                "W2",
+                "C0",
+                "C1"
+              ]
+            },
+            "TOOL": {
+              "reachable": true,
+              "metres": 218.2,
+              "path": [
+                "W5",
+                "D0",
+                "W3",
+                "TOOL"
+              ]
+            },
+            "P1": {
+              "reachable": true,
+              "metres": 427.14,
+              "path": [
+                "W5",
+                "D0",
+                "K0",
+                "N1",
+                "N2",
+                "N3",
+                "P1"
+              ]
+            },
+            "L1": {
+              "reachable": true,
+              "metres": 367.12,
+              "path": [
+                "W5",
+                "D0",
+                "HS",
+                "H0",
+                "HE",
+                "E1",
+                "L1"
+              ]
+            },
+            "H0": {
+              "reachable": true,
+              "metres": 211.81,
+              "path": [
+                "W5",
+                "D0",
+                "HS",
+                "H0"
+              ]
+            },
+            "E2": {
+              "reachable": true,
+              "metres": 410.74,
+              "path": [
+                "W5",
+                "D0",
+                "S0",
+                "S1",
+                "BN2",
+                "E2"
+              ]
+            },
+            "W0": {
+              "reachable": true,
+              "metres": 360.31,
+              "path": [
+                "W5",
+                "W4",
+                "W1",
+                "W0"
+              ]
+            },
+            "W4": {
+              "reachable": true,
+              "metres": 167.29,
+              "path": [
+                "W5",
+                "W4"
+              ]
+            },
+            "N3": {
+              "reachable": true,
+              "metres": 399.12,
+              "path": [
+                "W5",
+                "D0",
+                "K0",
+                "N1",
+                "N2",
+                "N3"
+              ]
+            },
+            "BS1": {
+              "reachable": true,
+              "metres": 333.87,
+              "path": [
+                "W5",
+                "D0",
+                "S0",
+                "S1",
+                "BN1",
+                "BS1"
+              ]
+            },
+            "S2": {
+              "reachable": true,
+              "metres": 377.97,
+              "path": [
+                "W5",
+                "D0",
+                "S0",
+                "S1",
+                "BN1",
+                "BS1",
+                "S2"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "graph.central_landmark_not_forced",
+      "status": "pass",
+      "summary": "중정비동 노드 전체와 K0를 동시에 제거한 외곽 그래프 연결성을 검사했습니다.",
+      "evidence": {
+        "removedNodes": [
+          "HN",
+          "HW",
+          "HE",
+          "HS",
+          "H0",
+          "HU",
+          "K0"
+        ],
+        "componentCount": 1,
+        "components": [
+          [
+            "BN1",
+            "BN2",
+            "BS1",
+            "BS2",
+            "C0",
+            "C1",
+            "C2",
+            "D0",
+            "E0",
+            "E1",
+            "E2",
+            "L1",
+            "L2",
+            "N0",
+            "N1",
+            "N2",
+            "N3",
+            "P0",
+            "P1",
+            "P2",
+            "RT1",
+            "RT2",
+            "RT3",
+            "S0",
+            "S1",
+            "S2",
+            "TOOL",
+            "W0",
+            "W1",
+            "W2",
+            "W3",
+            "W4",
+            "W5"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "graph.single_bridge_failure",
+      "status": "pass",
+      "summary": "두 교량을 하나씩 제거했을 때 고립되는 공개 노드가 있는지 검사했습니다.",
+      "evidence": {
+        "bridges": [
+          {
+            "bridge": "BN1--BS1",
+            "componentCount": 1,
+            "components": [
+              [
+                "BN1",
+                "BN2",
+                "BS1",
+                "BS2",
+                "C0",
+                "C1",
+                "C2",
+                "D0",
+                "E0",
+                "E1",
+                "E2",
+                "H0",
+                "HE",
+                "HN",
+                "HS",
+                "HU",
+                "HW",
+                "K0",
+                "L1",
+                "L2",
+                "N0",
+                "N1",
+                "N2",
+                "N3",
+                "P0",
+                "P1",
+                "P2",
+                "RT1",
+                "RT2",
+                "RT3",
+                "S0",
+                "S1",
+                "S2",
+                "TOOL",
+                "W0",
+                "W1",
+                "W2",
+                "W3",
+                "W4",
+                "W5"
+              ]
+            ]
+          },
+          {
+            "bridge": "BN2--BS2",
+            "componentCount": 1,
+            "components": [
+              [
+                "BN1",
+                "BN2",
+                "BS1",
+                "BS2",
+                "C0",
+                "C1",
+                "C2",
+                "D0",
+                "E0",
+                "E1",
+                "E2",
+                "H0",
+                "HE",
+                "HN",
+                "HS",
+                "HU",
+                "HW",
+                "K0",
+                "L1",
+                "L2",
+                "N0",
+                "N1",
+                "N2",
+                "N3",
+                "P0",
+                "P1",
+                "P2",
+                "RT1",
+                "RT2",
+                "RT3",
+                "S0",
+                "S1",
+                "S2",
+                "TOOL",
+                "W0",
+                "W1",
+                "W2",
+                "W3",
+                "W4",
+                "W5"
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "relay.reveal_region_contains_relay_and_risky",
+      "status": "pass",
+      "summary": "각 INFO polygon이 담당 relay와 해금 R을, BASE polygon이 B1–B4를 포함하는지 검사했습니다.",
+      "evidence": {
+        "regions": [
+          {
+            "relay": "T1",
+            "region": "INFO_T1",
+            "relayPointState": "inside",
+            "riskyPoints": [
+              {
+                "id": "R1",
+                "state": "inside"
+              },
+              {
+                "id": "R2",
+                "state": "inside"
+              }
+            ]
+          },
+          {
+            "relay": "T2",
+            "region": "INFO_T2",
+            "relayPointState": "inside",
+            "riskyPoints": [
+              {
+                "id": "R3",
+                "state": "inside"
+              },
+              {
+                "id": "R4",
+                "state": "inside"
+              },
+              {
+                "id": "R5",
+                "state": "inside"
+              }
+            ]
+          },
+          {
+            "relay": "T3",
+            "region": "INFO_T3",
+            "relayPointState": "inside",
+            "riskyPoints": [
+              {
+                "id": "R6",
+                "state": "inside"
+              },
+              {
+                "id": "R7",
+                "state": "inside"
+              },
+              {
+                "id": "R8",
+                "state": "inside"
+              }
+            ]
+          }
+        ],
+        "failures": [],
+        "baseRegion": "BASE",
+        "baseSpawns": [
+          {
+            "id": "B1",
+            "state": "inside"
+          },
+          {
+            "id": "B2",
+            "state": "inside"
+          },
+          {
+            "id": "B3",
+            "state": "inside"
+          },
+          {
+            "id": "B4",
+            "state": "inside"
+          }
+        ]
+      }
+    },
+    {
+      "id": "relay.site_outside_core_boss_obstacles",
+      "status": "pass",
+      "summary": "relay site/console/interaction과 핵심실·수면·건물·기계 encounter 반경의 충돌을 검사했습니다.",
+      "evidence": {
+        "relays": [
+          {
+            "id": "T1",
+            "siteInMap": true,
+            "relayInsideSite": true,
+            "consoleInsideSite": true,
+            "interactionInsideSite": true,
+            "relayPointInsideInteraction": true,
+            "approachConsoleRisks": [],
+            "siteOverlapsWater": false,
+            "buildingOverlaps": [],
+            "gateCoreOverlaps": [],
+            "bossPatrolOverlaps": [],
+            "nearestEncounter": {
+              "id": "M1",
+              "clearanceOutsideRadiusMetres": 223.8
+            },
+            "insideEncounterRadius": false,
+            "approachWidthMetres": 3,
+            "plannedSiteSlopeMaxPercent": 2
+          },
+          {
+            "id": "T2",
+            "siteInMap": true,
+            "relayInsideSite": true,
+            "consoleInsideSite": true,
+            "interactionInsideSite": true,
+            "relayPointInsideInteraction": true,
+            "approachConsoleRisks": [],
+            "siteOverlapsWater": false,
+            "buildingOverlaps": [],
+            "gateCoreOverlaps": [],
+            "bossPatrolOverlaps": [],
+            "nearestEncounter": {
+              "id": "M2",
+              "clearanceOutsideRadiusMetres": 69.22
+            },
+            "insideEncounterRadius": false,
+            "approachWidthMetres": 3,
+            "plannedSiteSlopeMaxPercent": 2
+          },
+          {
+            "id": "T3",
+            "siteInMap": true,
+            "relayInsideSite": true,
+            "consoleInsideSite": true,
+            "interactionInsideSite": true,
+            "relayPointInsideInteraction": true,
+            "approachConsoleRisks": [],
+            "siteOverlapsWater": false,
+            "buildingOverlaps": [],
+            "gateCoreOverlaps": [],
+            "bossPatrolOverlaps": [],
+            "nearestEncounter": {
+              "id": "M1",
+              "clearanceOutsideRadiusMetres": 41.47
+            },
+            "insideEncounterRadius": false,
+            "approachWidthMetres": 3,
+            "plannedSiteSlopeMaxPercent": 2
+          }
+        ],
+        "failures": [],
+        "slopeIsPlannedNotMeasured": true
+      }
+    },
+    {
+      "id": "geometry.water_centerline_and_width",
+      "status": "pass",
+      "summary": "비교량 edge의 수면 중심선 관통과 계획 반폭 clearance, 교량 양안 위치를 검사했습니다.",
+      "evidence": {
+        "unauthorizedWaterCenterlines": [],
+        "waterWidthRisks": [],
+        "bridgeWaterAudit": [
+          {
+            "edge": "BN1--BS1",
+            "crossesWaterInterior": true,
+            "endpointStates": [
+              "outside",
+              "outside"
+            ]
+          },
+          {
+            "edge": "BN2--BS2",
+            "crossesWaterInterior": true,
+            "endpointStates": [
+              "outside",
+              "outside"
+            ]
+          }
+        ],
+        "bridgeWaterFailures": []
+      }
+    },
+    {
+      "id": "geometry.buildings_and_doors",
+      "status": "pass",
+      "summary": "outdoor edge의 건물 관통과 문 좌표의 외벽 오차를 검사했습니다.",
+      "evidence": {
+        "outdoorBuildingCrossings": [],
+        "doorToleranceMetres": 2,
+        "doors": [
+          {
+            "building": "CLINIC",
+            "door": "C1",
+            "boundaryDistanceMetres": 0,
+            "withinTolerance": true
+          },
+          {
+            "building": "CLINIC",
+            "door": "C2",
+            "boundaryDistanceMetres": 0,
+            "withinTolerance": true
+          },
+          {
+            "building": "TOOLS",
+            "door": "TOOL",
+            "boundaryDistanceMetres": 0,
+            "withinTolerance": true
+          },
+          {
+            "building": "HALL",
+            "door": "HN",
+            "boundaryDistanceMetres": 0,
+            "withinTolerance": true
+          },
+          {
+            "building": "HALL",
+            "door": "HW",
+            "boundaryDistanceMetres": 0,
+            "withinTolerance": true
+          },
+          {
+            "building": "HALL",
+            "door": "HE",
+            "boundaryDistanceMetres": 0,
+            "withinTolerance": true
+          },
+          {
+            "building": "HALL",
+            "door": "HS",
+            "boundaryDistanceMetres": 0,
+            "withinTolerance": true
+          },
+          {
+            "building": "POWER",
+            "door": "P1",
+            "boundaryDistanceMetres": 0,
+            "withinTolerance": true
+          },
+          {
+            "building": "POWER",
+            "door": "P2",
+            "boundaryDistanceMetres": 0,
+            "withinTolerance": true
+          },
+          {
+            "building": "PARTS",
+            "door": "L1",
+            "boundaryDistanceMetres": 0,
+            "withinTolerance": true
+          },
+          {
+            "building": "PARTS",
+            "door": "L2",
+            "boundaryDistanceMetres": 0,
+            "withinTolerance": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "geometry.gate_cores_centerline_and_width",
+      "status": "pass",
+      "summary": "공개 edge의 같은 층 gate core 중심선 관통과 계획 반폭 clearance를 검사했습니다.",
+      "evidence": {
+        "sameFloorCenterlineCrossings": [],
+        "sameFloorWidthRisks": [],
+        "differentFloor2DOverlaps": [],
+        "verticalToleranceMetres": 1.5
+      }
+    },
+    {
+      "id": "geometry.spawn_exit_attach_width",
+      "status": "pass",
+      "summary": "spawn/exit attach 직선의 중심선과 명시된 반폭이 수면·건물·gate core를 침범하는지 검사했습니다.",
+      "evidence": {
+        "missingAttachWidths": [],
+        "centerlineFailures": [],
+        "widthRisks": []
+      }
+    },
+    {
+      "id": "geometry.cover_and_route_buffers",
+      "status": "pass",
+      "summary": "회전 V/C/RC 사각형의 맵·수면·건물 충돌과 공개 edge 반폭 buffer 중첩을 검사했습니다.",
+      "evidence": {
+        "obstacleFailures": [],
+        "routeBufferRisks": [],
+        "note": "도로 buffer 중첩은 의도된 노상 엄폐일 수 있어 자동 실패가 아니라 상세 잔여폭 위험으로 판정"
+      }
+    },
+    {
+      "id": "spawns.first_cover_candidates",
+      "status": "pass",
+      "summary": "B/R 12개 진입에 15m 이내 첫 차폐 후보가 정확히 하나씩 있는지 검사했습니다.",
+      "evidence": {
+        "covers": [
+          {
+            "spawn": "B1",
+            "covers": [
+              "C01"
+            ],
+            "count": 1,
+            "distanceMetres": 11.18,
+            "dimensionsValid": true
+          },
+          {
+            "spawn": "B2",
+            "covers": [
+              "C02"
+            ],
+            "count": 1,
+            "distanceMetres": 11.18,
+            "dimensionsValid": true
+          },
+          {
+            "spawn": "B3",
+            "covers": [
+              "C03"
+            ],
+            "count": 1,
+            "distanceMetres": 11.18,
+            "dimensionsValid": true
+          },
+          {
+            "spawn": "B4",
+            "covers": [
+              "C04"
+            ],
+            "count": 1,
+            "distanceMetres": 11.18,
+            "dimensionsValid": true
+          },
+          {
+            "spawn": "R1",
+            "covers": [
+              "C05"
+            ],
+            "count": 1,
+            "distanceMetres": 11.19,
+            "dimensionsValid": true
+          },
+          {
+            "spawn": "R2",
+            "covers": [
+              "C06"
+            ],
+            "count": 1,
+            "distanceMetres": 11.18,
+            "dimensionsValid": true
+          },
+          {
+            "spawn": "R3",
+            "covers": [
+              "C07"
+            ],
+            "count": 1,
+            "distanceMetres": 11.18,
+            "dimensionsValid": true
+          },
+          {
+            "spawn": "R4",
+            "covers": [
+              "C08"
+            ],
+            "count": 1,
+            "distanceMetres": 11.18,
+            "dimensionsValid": true
+          },
+          {
+            "spawn": "R5",
+            "covers": [
+              "C09"
+            ],
+            "count": 1,
+            "distanceMetres": 11.18,
+            "dimensionsValid": true
+          },
+          {
+            "spawn": "R6",
+            "covers": [
+              "C10"
+            ],
+            "count": 1,
+            "distanceMetres": 11.18,
+            "dimensionsValid": true
+          },
+          {
+            "spawn": "R7",
+            "covers": [
+              "C11"
+            ],
+            "count": 1,
+            "distanceMetres": 11.18,
+            "dimensionsValid": true
+          },
+          {
+            "spawn": "R8",
+            "covers": [
+              "C12"
+            ],
+            "count": 1,
+            "distanceMetres": 11.18,
+            "dimensionsValid": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "spawns.coordinate_threat_clearance",
+      "status": "pass",
+      "summary": "spawn 좌표가 기계 encounter 반경 안에 있는지 검사했습니다.",
+      "evidence": {
+        "spawns": [
+          {
+            "id": "B1",
+            "nearestEncounter": {
+              "id": "M1",
+              "clearanceOutsideRadiusMetres": 360.17
+            },
+            "nearestHumanPatrol": {
+              "id": "H1",
+              "distanceToRouteMetres": 103.47
+            }
+          },
+          {
+            "id": "B2",
+            "nearestEncounter": {
+              "id": "M1",
+              "clearanceOutsideRadiusMetres": 281.46
+            },
+            "nearestHumanPatrol": {
+              "id": "H1",
+              "distanceToRouteMetres": 30.75
+            }
+          },
+          {
+            "id": "B3",
+            "nearestEncounter": {
+              "id": "M1",
+              "clearanceOutsideRadiusMetres": 248.23
+            },
+            "nearestHumanPatrol": {
+              "id": "H1",
+              "distanceToRouteMetres": 73.08
+            }
+          },
+          {
+            "id": "B4",
+            "nearestEncounter": {
+              "id": "M1",
+              "clearanceOutsideRadiusMetres": 136.85
+            },
+            "nearestHumanPatrol": {
+              "id": "H3",
+              "distanceToRouteMetres": 92.5
+            }
+          },
+          {
+            "id": "R1",
+            "nearestEncounter": {
+              "id": "M2",
+              "clearanceOutsideRadiusMetres": 286.51
+            },
+            "nearestHumanPatrol": {
+              "id": "H1",
+              "distanceToRouteMetres": 126.05
+            }
+          },
+          {
+            "id": "R2",
+            "nearestEncounter": {
+              "id": "M2",
+              "clearanceOutsideRadiusMetres": 151.89
+            },
+            "nearestHumanPatrol": {
+              "id": "H2",
+              "distanceToRouteMetres": 106.18
+            }
+          },
+          {
+            "id": "R3",
+            "nearestEncounter": {
+              "id": "M2",
+              "clearanceOutsideRadiusMetres": 111.99
+            },
+            "nearestHumanPatrol": {
+              "id": "H2",
+              "distanceToRouteMetres": 121.12
+            }
+          },
+          {
+            "id": "R4",
+            "nearestEncounter": {
+              "id": "M2",
+              "clearanceOutsideRadiusMetres": 52.71
+            },
+            "nearestHumanPatrol": {
+              "id": "H2",
+              "distanceToRouteMetres": 27.62
+            }
+          },
+          {
+            "id": "R5",
+            "nearestEncounter": {
+              "id": "M2",
+              "clearanceOutsideRadiusMetres": 112.66
+            },
+            "nearestHumanPatrol": {
+              "id": "H2",
+              "distanceToRouteMetres": 27
+            }
+          },
+          {
+            "id": "R6",
+            "nearestEncounter": {
+              "id": "M3",
+              "clearanceOutsideRadiusMetres": 42.73
+            },
+            "nearestHumanPatrol": {
+              "id": "H2",
+              "distanceToRouteMetres": 103.59
+            }
+          },
+          {
+            "id": "R7",
+            "nearestEncounter": {
+              "id": "M3",
+              "clearanceOutsideRadiusMetres": 52.51
+            },
+            "nearestHumanPatrol": {
+              "id": "H3",
+              "distanceToRouteMetres": 119.1
+            }
+          },
+          {
+            "id": "R8",
+            "nearestEncounter": {
+              "id": "M1",
+              "clearanceOutsideRadiusMetres": 79.3
+            },
+            "nearestHumanPatrol": {
+              "id": "H3",
+              "distanceToRouteMetres": 41.4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "spawns.line_of_sight_limit",
+      "status": "warn",
+      "summary": "차폐 후보와 좌표상 거리만으로 실제 AI 시야·감지·즉시 교전 안전을 입증할 수 없습니다.",
+      "evidence": {
+        "lineOfSightDataPresent": false,
+        "aiDetectionDataPresent": false,
+        "spawnThreatAudit": [
+          {
+            "id": "B1",
+            "nearestEncounter": {
+              "id": "M1",
+              "clearanceOutsideRadiusMetres": 360.17
+            },
+            "nearestHumanPatrol": {
+              "id": "H1",
+              "distanceToRouteMetres": 103.47
+            }
+          },
+          {
+            "id": "B2",
+            "nearestEncounter": {
+              "id": "M1",
+              "clearanceOutsideRadiusMetres": 281.46
+            },
+            "nearestHumanPatrol": {
+              "id": "H1",
+              "distanceToRouteMetres": 30.75
+            }
+          },
+          {
+            "id": "B3",
+            "nearestEncounter": {
+              "id": "M1",
+              "clearanceOutsideRadiusMetres": 248.23
+            },
+            "nearestHumanPatrol": {
+              "id": "H1",
+              "distanceToRouteMetres": 73.08
+            }
+          },
+          {
+            "id": "B4",
+            "nearestEncounter": {
+              "id": "M1",
+              "clearanceOutsideRadiusMetres": 136.85
+            },
+            "nearestHumanPatrol": {
+              "id": "H3",
+              "distanceToRouteMetres": 92.5
+            }
+          },
+          {
+            "id": "R1",
+            "nearestEncounter": {
+              "id": "M2",
+              "clearanceOutsideRadiusMetres": 286.51
+            },
+            "nearestHumanPatrol": {
+              "id": "H1",
+              "distanceToRouteMetres": 126.05
+            }
+          },
+          {
+            "id": "R2",
+            "nearestEncounter": {
+              "id": "M2",
+              "clearanceOutsideRadiusMetres": 151.89
+            },
+            "nearestHumanPatrol": {
+              "id": "H2",
+              "distanceToRouteMetres": 106.18
+            }
+          },
+          {
+            "id": "R3",
+            "nearestEncounter": {
+              "id": "M2",
+              "clearanceOutsideRadiusMetres": 111.99
+            },
+            "nearestHumanPatrol": {
+              "id": "H2",
+              "distanceToRouteMetres": 121.12
+            }
+          },
+          {
+            "id": "R4",
+            "nearestEncounter": {
+              "id": "M2",
+              "clearanceOutsideRadiusMetres": 52.71
+            },
+            "nearestHumanPatrol": {
+              "id": "H2",
+              "distanceToRouteMetres": 27.62
+            }
+          },
+          {
+            "id": "R5",
+            "nearestEncounter": {
+              "id": "M2",
+              "clearanceOutsideRadiusMetres": 112.66
+            },
+            "nearestHumanPatrol": {
+              "id": "H2",
+              "distanceToRouteMetres": 27
+            }
+          },
+          {
+            "id": "R6",
+            "nearestEncounter": {
+              "id": "M3",
+              "clearanceOutsideRadiusMetres": 42.73
+            },
+            "nearestHumanPatrol": {
+              "id": "H2",
+              "distanceToRouteMetres": 103.59
+            }
+          },
+          {
+            "id": "R7",
+            "nearestEncounter": {
+              "id": "M3",
+              "clearanceOutsideRadiusMetres": 52.51
+            },
+            "nearestHumanPatrol": {
+              "id": "H3",
+              "distanceToRouteMetres": 119.1
+            }
+          },
+          {
+            "id": "R8",
+            "nearestEncounter": {
+              "id": "M1",
+              "clearanceOutsideRadiusMetres": 79.3
+            },
+            "nearestHumanPatrol": {
+              "id": "H3",
+              "distanceToRouteMetres": 41.4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "patrols.bounded_farming_not_extraction_intent",
+      "status": "pass",
+      "summary": "H1–H3가 맵 안의 폐곡선 human 순찰이며 파밍·수색·비철수 의미 필드를 갖는지 검사했습니다.",
+      "evidence": {
+        "humanIntentPresent": true,
+        "patrols": [
+          {
+            "id": "H1",
+            "kind": "human",
+            "behavior": "bounded-farming-exploration",
+            "permanentGarrison": false,
+            "extracts": false,
+            "closed": true,
+            "pointsInsideMap": true,
+            "nearestExitDistanceMetres": 37.34
+          },
+          {
+            "id": "H2",
+            "kind": "human",
+            "behavior": "bounded-farming-exploration",
+            "permanentGarrison": false,
+            "extracts": false,
+            "closed": true,
+            "pointsInsideMap": true,
+            "nearestExitDistanceMetres": 29
+          },
+          {
+            "id": "H3",
+            "kind": "human",
+            "behavior": "bounded-farming-exploration",
+            "permanentGarrison": false,
+            "extracts": false,
+            "closed": true,
+            "pointsInsideMap": true,
+            "nearestExitDistanceMetres": 77.83
+          }
+        ],
+        "structuredBehaviorFieldPresent": true
+      }
+    },
+    {
+      "id": "patrols.runtime_behavior_limit",
+      "status": "warn",
+      "summary": "폐곡선과 문서 의미는 확인했지만 실제 AI가 탈출구로 이탈하지 않는지는 런타임 행동 검증이 필요합니다.",
+      "evidence": {
+        "runtimeAIValidated": false
+      }
+    },
+    {
+      "id": "time.basic_relay_exit_sensitivity",
+      "status": "pass",
+      "summary": "B→relay 조작→가장 가까운 X의 이동+prototype 조작시간을 4m/s와 3m/s에서 계산했습니다.",
+      "evidence": {
+        "worstTrip": {
+          "basic": "B3",
+          "relay": "T2",
+          "exit": "X4",
+          "movementMetres": 707.62,
+          "interactionSeconds": 12,
+          "totalAt4mps": 188.9,
+          "totalAt3mps": 247.87,
+          "raidShareAt3mps": 0.138
+        },
+        "combatSearchExposureIncluded": false
+      }
+    },
+    {
+      "id": "scope.reference_model_not_runtime_proof",
+      "status": "info",
+      "summary": "본 검사는 참조용 추상 그래프와 2D polygon/계획고도를 확인하며 Unity NavMesh·collider·실제 경사·시야·AI·전투·저장을 검증하지 않습니다.",
+      "evidence": {
+        "unityUsed": false,
+        "navMeshValidated": false,
+        "collisionValidated": false,
+        "slopeValidated": false,
+        "lineOfSightValidated": false,
+        "persistenceRuntimeValidated": false
+      }
+    }
+  ]
+}

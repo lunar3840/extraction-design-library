@@ -1,0 +1,134 @@
+{
+  "source_native_sha256": "253e45d8e0782197685f090625b02c5f7184477b4496848b6d24f2613aa121cc",
+  "candidate_native_sha256": "5d58c6c30dbb7dea801f26a4f0b57ad0f9bfef9a697c052c21d344d27ca17eb6",
+  "independent_verdict": "PASS_FLOW02_SHARED_PATH_TIME_REMAP_AND_TWO_PREVIEWS_SCOPE_ONLY",
+  "independent_core_sha256": "eae30bff6896ab2fd7516876b8c1a0d87fca2f1bc5d833a1f3086d710e52fa8f",
+  "scope": "Common time remap and review media only; original spatial route preserved. No Unity application or live game measurement.",
+  "window_comparison": [
+    {
+      "label": "start",
+      "source_frames": [
+        1,
+        25
+      ],
+      "before_seconds": 0.3136,
+      "after_seconds": 0.13014960275537651
+    },
+    {
+      "label": "first route hold",
+      "source_frames": [
+        70,
+        80
+      ],
+      "before_seconds": 0.13066666666666668,
+      "after_seconds": 0.09657359519886388
+    },
+    {
+      "label": "empty release",
+      "source_frames": [
+        100,
+        106
+      ],
+      "before_seconds": 0.0784,
+      "after_seconds": 0.07613977579189657
+    },
+    {
+      "label": "transit waypoint",
+      "source_frames": [
+        112,
+        119
+      ],
+      "before_seconds": 0.09146666666666667,
+      "after_seconds": 0.1582503293326153
+    },
+    {
+      "label": "spare grasp",
+      "source_frames": [
+        146,
+        154
+      ],
+      "before_seconds": 0.10453333333333334,
+      "after_seconds": 0.10278169929383396
+    },
+    {
+      "label": "withdraw transit",
+      "source_frames": [
+        170,
+        178
+      ],
+      "before_seconds": 0.10453333333333334,
+      "after_seconds": 0.2698381650829331
+    },
+    {
+      "label": "carry transit",
+      "source_frames": [
+        184,
+        190
+      ],
+      "before_seconds": 0.0784,
+      "after_seconds": 0.1782407556836736
+    },
+    {
+      "label": "before insertion wait",
+      "source_frames": [
+        190,
+        198
+      ],
+      "before_seconds": 0.10453333333333334,
+      "after_seconds": 0.005962865759935543
+    },
+    {
+      "label": "seat",
+      "source_frames": [
+        208,
+        217
+      ],
+      "before_seconds": 0.1176,
+      "after_seconds": 0.11832170731089153
+    },
+    {
+      "label": "return wait",
+      "source_frames": [
+        229.5,
+        235
+      ],
+      "before_seconds": 0.07186666666666666,
+      "after_seconds": 0.0036269797265422454
+    },
+    {
+      "label": "end",
+      "source_frames": [
+        258,
+        271
+      ],
+      "before_seconds": 0.16986666666666667,
+      "after_seconds": 0.10363636363635687
+    }
+  ],
+  "videos": [
+    {
+      "file": "Edel_SCAR_Flow02_ModA_3p53s.mp4",
+      "sha256": "2192906c8bab13a6ca6be3cbafd04be02850ad68d27ea5052d2f3398603b1f53",
+      "bytes": 723359,
+      "decoded_frames": 212,
+      "fps": 60,
+      "duration_seconds": 3.533333333333333,
+      "pts_first": 0,
+      "pts_last": 211,
+      "decoded_frame_md5_sha256": "ddcf19bdef2b9b3638fdc7f8211bbfd0e90200cfff45cac2ef26bd421ea8dc22"
+    },
+    {
+      "file": "Edel_SCAR_Flow02_Base_3p00s.mp4",
+      "sha256": "9bd4f36b3b95bcb74677e2bea455eed04009cf7168c69cd6432d830e433d4589",
+      "bytes": 649685,
+      "decoded_frames": 180,
+      "fps": 60,
+      "duration_seconds": 3.0,
+      "pts_first": 0,
+      "pts_last": 179,
+      "decoded_frame_md5_sha256": "4ca0a33f7a9c7e3026c45393fece2d779baa035c73b1e5375789bec3e51b98a7"
+    }
+  ],
+  "original_key_values_unchanged": true,
+  "game_implementation_completed": 0
+}

@@ -1,0 +1,53 @@
+{
+  "fileKey": "KUD4t84BL1S77c3cnb8co0",
+  "date": "2026-10-22",
+  "status": "four_native_exports_verified_1920x1080",
+  "exports": [
+    {
+      "file": "after_figma_inventory_final.png",
+      "nodeId": "105:2987",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 1687463,
+      "sha256": "47fd47b1a3a2515baf0376f02baca849ebe004e053a72f549ceb5956ecda8c48",
+      "origin": "Native Figma 1x PNG export; no resize/crop/postprocessing"
+    },
+    {
+      "file": "after_figma_hud_final.png",
+      "nodeId": "103:2538",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 3838941,
+      "sha256": "92b348e186c064bb018e8408b45b116b96d4595c19829e49451bdacaca2f0fd9",
+      "origin": "Native Figma 1x PNG export; no resize/crop/postprocessing"
+    },
+    {
+      "file": "after_figma_companion_abilities_final.png",
+      "nodeId": "14:1082",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 1304804,
+      "sha256": "b954413ef7ce83b8f80b1ba8e6390388584d15ac897c466f7f933400d1d9b13a",
+      "origin": "Native Figma 1x PNG export; no resize/crop/postprocessing"
+    },
+    {
+      "file": "after_figma_chip_selection_final.png",
+      "nodeId": "13:1320",
+      "size": [
+        1920,
+        1080
+      ],
+      "bytes": 1353663,
+      "sha256": "1444ba4c26bdd0013d038dda98ec0367b6de397e744aa42389550a85cb75c2d0",
+      "origin": "Native Figma 1x PNG export; no resize/crop/postprocessing"
+    }
+  ],
+  "fullFileVariantsIndependentlyAudited": false,
+  "appsClosedOrRestarted": false
+}

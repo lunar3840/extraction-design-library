@@ -1,0 +1,10 @@
+ACTUAL_VISIBILITY_METHOD_CPU_PROFILE
+store=C:\Users\ehoji\AppData\Local\Temp\DefaultCompany\escape\StageMapPreview\0b9c60bf07cc49a1be47d4ebeb504890\slot-1.json
+Controlled fixed W03, AI/world/input frozen; all times Stopwatch wallclock around actual CPU calls. Render callback includes command recording/submission, not completed GPU duration. Entire Editor frame is reported separately and is not attributed to these functions. No source instrumentation or global renderer/profiler setting changes.
+RenderActorMask_callbackCPU_ms n=45 median=0.5784 p90=0.6749 max=0.8715
+wholeEditorFrame_ms n=45 median=66.8125003576279 p90=92.6940962672234 max=150.391295552254
+FindBlockingSurfaces_reflection_ms n=30 median=0.8765 p90=1.0815 max=1.2997
+WestShared_TryFindOccludingGeometry_ms n=30 median=0.428 p90=0.5835 max=0.6173
+RefreshForDiagnostics_direct_ms n=30 median=0.9697 p90=1.373 max=2.1056
+STATE active=2 maskReady=True actorDraws=36 blocker=W03_Roof_renderOpaque
+RESULT PASS completed; method timings are wallclock and may include API synchronization; callback does not isolate GPU execution.

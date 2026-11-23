@@ -1,0 +1,24 @@
+Existing WeaponModdingCameraChecks is default-only; candidate-specific viewport seam follows.
+PASS angle=54 orbitDistance=16.53187 cameraDistance=26.80433 cameraHeight=22.10841 sameOriginalSettingsExceptDistanceHeight=True
+PASS angle=50 orbitDistance=16.53187 cameraDistance=29.31256 cameraHeight=19.27234 sameOriginalSettingsExceptDistanceHeight=True
+RESULT PASS
+selectedAngle=50
+Actual settings: distance=24, height=25, pitch=25, FOV=60
+Comparison: distance=29.3126, height=19.2723
+Orbit lengths: 16.5319 m / 16.5319 m
+actual geometry: depression=58.245 deg, ground near=-8.239 m, far=19.332 m, 2 m body projection=38.7 px at 1920x1080
+PASS actual viewport and look-ahead: 1.778 aspect, 24 directions
+PASS actual viewport and look-ahead: 1.333 aspect, 24 directions
+PASS actual viewport and look-ahead: 2.333 aspect, 24 directions
+PASS actual viewport and look-ahead: 1 aspect, 24 directions
+PASS actual pointer and wall checks at 10 m look-ahead
+PASS actual pointer and wall checks at 27 m look-ahead
+comparison geometry: depression=50 deg, ground near=-8.218 m, far=26.926 m, 2 m body projection=47.243 px at 1920x1080
+PASS comparison viewport and look-ahead: 1.778 aspect, 24 directions
+PASS comparison viewport and look-ahead: 1.333 aspect, 24 directions
+PASS comparison viewport and look-ahead: 2.333 aspect, 24 directions
+PASS comparison viewport and look-ahead: 1 aspect, 24 directions
+PASS comparison pointer and wall checks at 10 m look-ahead
+PASS comparison pointer and wall checks at 27 m look-ahead
+PASS actual and comparison orbits, viewport bounds, look-ahead, pointer aim and wall occlusion
+RESULT PASS

@@ -1,0 +1,58 @@
+{
+  "files": [
+    {
+      "file": "before_edel16.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "bytes": 2336940,
+      "sha256": "199b4dda9672ed303cfaec491ed31c333520ea77705802dec65e2344565eb3e1",
+      "decodePassed": true
+    },
+    {
+      "file": "before_serin16.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "bytes": 2294644,
+      "sha256": "1f5afebf294255c6d9b46fc546bcbbd542f65496168441472629d1c69f1b04d1",
+      "decodePassed": true
+    },
+    {
+      "file": "after_s3_refinement.png",
+      "dimensions": [
+        1429,
+        1100
+      ],
+      "bytes": 1882219,
+      "sha256": "da5e2dc21fa34f2edca366aea32d70b9b69dc584247b99c96261a9a72f867b64",
+      "decodePassed": true
+    }
+  ],
+  "beforeCopiesMatchPreviousFinal": {
+    "edel": true,
+    "serin": true
+  },
+  "revisedProductCount": 1,
+  "revisedS3CharacterViews": 2,
+  "s4ReferenceReinterpretationViews": 2,
+  "manualVisualReview": {
+    "status": "completed",
+    "scope": [
+      "4 full-body figures and labels in2x2",
+      "Original character hair colors/hairstyles; feet visible",
+      "S3 continuous cuirass, low shoulder guards, two short hip plates",
+      "Same S3 construction direction on Edel and Serin",
+      "S4 service dock and longer side hip plate as reference"
+    ],
+    "limitations": [
+      "Aesthetic acceptance awaits user",
+      "Not exact meshes, fitting, material values or game screenshots",
+      "S4 redraw is not pixel-identical source",
+      "No forced comparison across16-cell and4-cell layouts"
+    ]
+  },
+  "productionAssetsModified": false
+}

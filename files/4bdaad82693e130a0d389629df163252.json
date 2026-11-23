@@ -1,0 +1,547 @@
+{
+    "id": "geometry-motion-20261030-07",
+    "status": "complete",
+    "startedUtc": "2026-10-29T22:50:47.8248457Z",
+    "endedUtc": "2026-10-29T22:50:53.0018106Z",
+    "error": "",
+    "sourcePose": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/soft-area-occlusion/staging/geometry_evidence/captures/before04/matched_poses.json",
+    "method": "Actual GameView, 10 adjacent fully active lateral PlayerMotor.Simulate frames with camera recenter; diagnostic .25-second reveal refresh per frame; Stopwatch elapsed time surrounds only RefreshForDiagnostics with no pass threshold. No fade, entry/exit, or all-angle coverage.",
+    "expectedFrames": 10,
+    "capturedFrames": 10,
+    "verifiedPngs": 10,
+    "watchedRenderers": 3,
+    "restoredMaterialRenderers": 3,
+    "remainingOverlays": 0,
+    "temporarySave": true,
+    "actorRtReleased": true,
+    "frontRtReleased": true,
+    "activeMapRestored": true,
+    "playKeptRunning": true,
+    "backgroundRestored": true,
+    "resolutionRestored": true,
+    "inputRestored": true,
+    "enemyFlagsRestored": true,
+    "scalarStateRestored": true,
+    "frames": [
+        {
+            "index": 0,
+            "unityFrame": 1708,
+            "pngWidth": 1920,
+            "pngHeight": 1080,
+            "activeRenderers": 3,
+            "maskDraws": 36,
+            "occluderMaskDraws": 15,
+            "validOpenings": 3,
+            "png": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/soft-area-occlusion/staging/geometry_evidence/captures/motion02\\motion_00.png",
+            "blocker": "Leaves",
+            "feet": {
+                "x": -135.23300170898438,
+                "y": 2.4412670135498049,
+                "z": 31.720205307006837
+            },
+            "eye": {
+                "x": -129.9197540283203,
+                "y": 16.16400718688965,
+                "z": 40.923011779785159
+            },
+            "geometryAnchor": {
+                "x": -131.93557739257813,
+                "y": 11.356009483337403,
+                "z": 37.431495666503909,
+                "w": 1.0
+            },
+            "geometryAcross": {
+                "x": 0.9962013959884644,
+                "y": 0.0,
+                "z": 0.0870789960026741,
+                "w": 3.200000047683716
+            },
+            "geometryToward": {
+                "x": 0.0870789960026741,
+                "y": 0.0,
+                "z": -0.9962013959884644,
+                "w": 4.709223747253418
+            },
+            "geometryBand": {
+                "x": 2.4412670135498049,
+                "y": 7.241267204284668,
+                "z": 2.0,
+                "w": 0.0
+            },
+            "eaveDistance": 4.709223747253418,
+            "revealStrength": 1.0,
+            "refreshCpuMs": 6.015900135040283,
+            "revealing": true,
+            "actorMaskReady": true,
+            "nearestOccluderMaskReady": true
+        },
+        {
+            "index": 1,
+            "unityFrame": 1709,
+            "pngWidth": 1920,
+            "pngHeight": 1080,
+            "activeRenderers": 3,
+            "maskDraws": 36,
+            "occluderMaskDraws": 15,
+            "validOpenings": 3,
+            "png": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/soft-area-occlusion/staging/geometry_evidence/captures/motion02\\motion_01.png",
+            "blocker": "W03_Roof_renderOpaque",
+            "feet": {
+                "x": -135.37156677246095,
+                "y": 2.4684391021728517,
+                "z": 31.80020523071289
+            },
+            "eye": {
+                "x": -130.05833435058595,
+                "y": 16.191179275512697,
+                "z": 41.003013610839847
+            },
+            "geometryAnchor": {
+                "x": -132.11148071289063,
+                "y": 11.294145584106446,
+                "z": 37.44683837890625,
+                "w": 1.0
+            },
+            "geometryAcross": {
+                "x": 0.9962013959884644,
+                "y": 0.0,
+                "z": 0.0870789960026741,
+                "w": 3.200000047683716
+            },
+            "geometryToward": {
+                "x": 0.0870789960026741,
+                "y": 0.0,
+                "z": -0.9962013959884644,
+                "w": 4.73982572555542
+            },
+            "geometryBand": {
+                "x": 2.4684391021728517,
+                "y": 7.268439292907715,
+                "z": 2.0,
+                "w": 0.0
+            },
+            "eaveDistance": 4.73982572555542,
+            "revealStrength": 1.0,
+            "refreshCpuMs": 4.157700061798096,
+            "revealing": true,
+            "actorMaskReady": true,
+            "nearestOccluderMaskReady": true
+        },
+        {
+            "index": 2,
+            "unityFrame": 1710,
+            "pngWidth": 1920,
+            "pngHeight": 1080,
+            "activeRenderers": 3,
+            "maskDraws": 36,
+            "occluderMaskDraws": 15,
+            "validOpenings": 3,
+            "png": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/soft-area-occlusion/staging/geometry_evidence/captures/motion02\\motion_02.png",
+            "blocker": "W03_Roof_renderOpaque",
+            "feet": {
+                "x": -135.5101318359375,
+                "y": 2.495579719543457,
+                "z": 31.880205154418947
+            },
+            "eye": {
+                "x": -130.19688415527345,
+                "y": 16.218320846557618,
+                "z": 41.0830078125
+            },
+            "geometryAnchor": {
+                "x": -132.287353515625,
+                "y": 11.232294082641602,
+                "z": 37.46221160888672,
+                "w": 1.0
+            },
+            "geometryAcross": {
+                "x": 0.9962013959884644,
+                "y": 0.0,
+                "z": 0.0870789960026741,
+                "w": 3.200000047683716
+            },
+            "geometryToward": {
+                "x": 0.0870789960026741,
+                "y": 0.0,
+                "z": -0.9962013959884644,
+                "w": 4.770455360412598
+            },
+            "geometryBand": {
+                "x": 2.495579719543457,
+                "y": 7.29557991027832,
+                "z": 2.0,
+                "w": 0.0
+            },
+            "eaveDistance": 4.770455360412598,
+            "revealStrength": 1.0,
+            "refreshCpuMs": 3.6361000537872316,
+            "revealing": true,
+            "actorMaskReady": true,
+            "nearestOccluderMaskReady": true
+        },
+        {
+            "index": 3,
+            "unityFrame": 1711,
+            "pngWidth": 1920,
+            "pngHeight": 1080,
+            "activeRenderers": 3,
+            "maskDraws": 36,
+            "occluderMaskDraws": 15,
+            "validOpenings": 3,
+            "png": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/soft-area-occlusion/staging/geometry_evidence/captures/motion02\\motion_03.png",
+            "blocker": "W03_Roof_renderOpaque",
+            "feet": {
+                "x": -135.64869689941407,
+                "y": 2.522782802581787,
+                "z": 31.960205078125
+            },
+            "eye": {
+                "x": -130.33543395996095,
+                "y": 16.24552345275879,
+                "z": 41.16300964355469
+            },
+            "geometryAnchor": {
+                "x": -132.4632568359375,
+                "y": 11.170433044433594,
+                "z": 37.477535247802737,
+                "w": 1.0
+            },
+            "geometryAcross": {
+                "x": 0.9962013959884644,
+                "y": 0.0,
+                "z": 0.0870789960026741,
+                "w": 3.200000047683716
+            },
+            "geometryToward": {
+                "x": 0.0870789960026741,
+                "y": 0.0,
+                "z": -0.9962013959884644,
+                "w": 4.8010382652282719
+            },
+            "geometryBand": {
+                "x": 2.522782802581787,
+                "y": 7.32278299331665,
+                "z": 2.0,
+                "w": 0.0
+            },
+            "eaveDistance": 4.8010382652282719,
+            "revealStrength": 1.0,
+            "refreshCpuMs": 3.227799892425537,
+            "revealing": true,
+            "actorMaskReady": true,
+            "nearestOccluderMaskReady": true
+        },
+        {
+            "index": 4,
+            "unityFrame": 1712,
+            "pngWidth": 1920,
+            "pngHeight": 1080,
+            "activeRenderers": 3,
+            "maskDraws": 36,
+            "occluderMaskDraws": 15,
+            "validOpenings": 3,
+            "png": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/soft-area-occlusion/staging/geometry_evidence/captures/motion02\\motion_04.png",
+            "blocker": "W03_Roof_renderOpaque",
+            "feet": {
+                "x": -135.78726196289063,
+                "y": 2.549955129623413,
+                "z": 32.04020690917969
+            },
+            "eye": {
+                "x": -130.47401428222657,
+                "y": 16.272695541381837,
+                "z": 41.243011474609378
+            },
+            "geometryAnchor": {
+                "x": -132.63916015625,
+                "y": 11.10856819152832,
+                "z": 37.49287796020508,
+                "w": 1.0
+            },
+            "geometryAcross": {
+                "x": 0.9962013959884644,
+                "y": 0.0,
+                "z": 0.0870789960026741,
+                "w": 3.200000047683716
+            },
+            "geometryToward": {
+                "x": 0.0870789960026741,
+                "y": 0.0,
+                "z": -0.9962013959884644,
+                "w": 4.831640243530273
+            },
+            "geometryBand": {
+                "x": 2.549955129623413,
+                "y": 7.3499555587768559,
+                "z": 2.0,
+                "w": 0.0
+            },
+            "eaveDistance": 4.831640243530273,
+            "revealStrength": 1.0,
+            "refreshCpuMs": 3.378499984741211,
+            "revealing": true,
+            "actorMaskReady": true,
+            "nearestOccluderMaskReady": true
+        },
+        {
+            "index": 5,
+            "unityFrame": 1713,
+            "pngWidth": 1920,
+            "pngHeight": 1080,
+            "activeRenderers": 3,
+            "maskDraws": 36,
+            "occluderMaskDraws": 15,
+            "validOpenings": 3,
+            "png": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/soft-area-occlusion/staging/geometry_evidence/captures/motion02\\motion_05.png",
+            "blocker": "W03_Roof_renderOpaque",
+            "feet": {
+                "x": -135.9258270263672,
+                "y": 2.5771265029907228,
+                "z": 32.12020492553711
+            },
+            "eye": {
+                "x": -130.6125946044922,
+                "y": 16.299867630004884,
+                "z": 41.32300567626953
+            },
+            "geometryAnchor": {
+                "x": -132.8150634765625,
+                "y": 11.046704292297364,
+                "z": 37.508216857910159,
+                "w": 1.0
+            },
+            "geometryAcross": {
+                "x": 0.9962013959884644,
+                "y": 0.0,
+                "z": 0.0870789960026741,
+                "w": 3.200000047683716
+            },
+            "geometryToward": {
+                "x": 0.0870789960026741,
+                "y": 0.0,
+                "z": -0.9962013959884644,
+                "w": 4.86223840713501
+            },
+            "geometryBand": {
+                "x": 2.5771265029907228,
+                "y": 7.377126693725586,
+                "z": 2.0,
+                "w": 0.0
+            },
+            "eaveDistance": 4.86223840713501,
+            "revealStrength": 1.0,
+            "refreshCpuMs": 3.1972999572753908,
+            "revealing": true,
+            "actorMaskReady": true,
+            "nearestOccluderMaskReady": true
+        },
+        {
+            "index": 6,
+            "unityFrame": 1714,
+            "pngWidth": 1920,
+            "pngHeight": 1080,
+            "activeRenderers": 3,
+            "maskDraws": 36,
+            "occluderMaskDraws": 15,
+            "validOpenings": 3,
+            "png": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/soft-area-occlusion/staging/geometry_evidence/captures/motion02\\motion_06.png",
+            "blocker": "W03_Roof_renderOpaque",
+            "feet": {
+                "x": -136.06439208984376,
+                "y": 2.6042990684509279,
+                "z": 32.2002067565918
+            },
+            "eye": {
+                "x": -130.7511444091797,
+                "y": 16.32703971862793,
+                "z": 41.40300750732422
+            },
+            "geometryAnchor": {
+                "x": -132.99093627929688,
+                "y": 10.984848022460938,
+                "z": 37.52356719970703,
+                "w": 1.0
+            },
+            "geometryAcross": {
+                "x": 0.9962013959884644,
+                "y": 0.0,
+                "z": 0.0870789960026741,
+                "w": 3.200000047683716
+            },
+            "geometryToward": {
+                "x": 0.0870789960026741,
+                "y": 0.0,
+                "z": -0.9962013959884644,
+                "w": 4.892845153808594
+            },
+            "geometryBand": {
+                "x": 2.6042990684509279,
+                "y": 7.404299259185791,
+                "z": 2.0,
+                "w": 0.0
+            },
+            "eaveDistance": 4.892845153808594,
+            "revealStrength": 1.0,
+            "refreshCpuMs": 3.3810999393463136,
+            "revealing": true,
+            "actorMaskReady": true,
+            "nearestOccluderMaskReady": true
+        },
+        {
+            "index": 7,
+            "unityFrame": 1715,
+            "pngWidth": 1920,
+            "pngHeight": 1080,
+            "activeRenderers": 3,
+            "maskDraws": 36,
+            "occluderMaskDraws": 15,
+            "validOpenings": 3,
+            "png": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/soft-area-occlusion/staging/geometry_evidence/captures/motion02\\motion_07.png",
+            "blocker": "W03_Roof_renderOpaque",
+            "feet": {
+                "x": -136.20294189453126,
+                "y": 2.6314704418182375,
+                "z": 32.28020477294922
+            },
+            "eye": {
+                "x": -130.8896942138672,
+                "y": 16.354209899902345,
+                "z": 41.483009338378909
+            },
+            "geometryAnchor": {
+                "x": -133.1668243408203,
+                "y": 10.922995567321778,
+                "z": 37.53892135620117,
+                "w": 1.0
+            },
+            "geometryAcross": {
+                "x": 0.9962013959884644,
+                "y": 0.0,
+                "z": 0.0870789960026741,
+                "w": 3.200000047683716
+            },
+            "geometryToward": {
+                "x": 0.0870789960026741,
+                "y": 0.0,
+                "z": -0.9962013959884644,
+                "w": 4.923457145690918
+            },
+            "geometryBand": {
+                "x": 2.6314704418182375,
+                "y": 7.43147087097168,
+                "z": 2.0,
+                "w": 0.0
+            },
+            "eaveDistance": 4.923457145690918,
+            "revealStrength": 1.0,
+            "refreshCpuMs": 3.2997000217437746,
+            "revealing": true,
+            "actorMaskReady": true,
+            "nearestOccluderMaskReady": true
+        },
+        {
+            "index": 8,
+            "unityFrame": 1716,
+            "pngWidth": 1920,
+            "pngHeight": 1080,
+            "activeRenderers": 3,
+            "maskDraws": 36,
+            "occluderMaskDraws": 15,
+            "validOpenings": 3,
+            "png": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/soft-area-occlusion/staging/geometry_evidence/captures/motion02\\motion_08.png",
+            "blocker": "W03_Roof_renderOpaque",
+            "feet": {
+                "x": -136.3415069580078,
+                "y": 2.6586427688598635,
+                "z": 32.360206604003909
+            },
+            "eye": {
+                "x": -131.0282440185547,
+                "y": 16.381383895874025,
+                "z": 41.563011169433597
+            },
+            "geometryAnchor": {
+                "x": -133.3426971435547,
+                "y": 10.861139297485352,
+                "z": 37.55427169799805,
+                "w": 1.0
+            },
+            "geometryAcross": {
+                "x": 0.9962013959884644,
+                "y": 0.0,
+                "z": 0.0870789960026741,
+                "w": 3.200000047683716
+            },
+            "geometryToward": {
+                "x": 0.0870789960026741,
+                "y": 0.0,
+                "z": -0.9962013959884644,
+                "w": 4.954063892364502
+            },
+            "geometryBand": {
+                "x": 2.6586427688598635,
+                "y": 7.458642959594727,
+                "z": 2.0,
+                "w": 0.0
+            },
+            "eaveDistance": 4.954063892364502,
+            "revealStrength": 1.0,
+            "refreshCpuMs": 2.9368999004364015,
+            "revealing": true,
+            "actorMaskReady": true,
+            "nearestOccluderMaskReady": true
+        },
+        {
+            "index": 9,
+            "unityFrame": 1717,
+            "pngWidth": 1920,
+            "pngHeight": 1080,
+            "activeRenderers": 3,
+            "maskDraws": 36,
+            "occluderMaskDraws": 15,
+            "validOpenings": 3,
+            "png": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/soft-area-occlusion/staging/geometry_evidence/captures/motion02\\motion_09.png",
+            "blocker": "W03_Roof_renderOpaque",
+            "feet": {
+                "x": -136.48007202148438,
+                "y": 2.680980682373047,
+                "z": 32.44020462036133
+            },
+            "eye": {
+                "x": -131.1668243408203,
+                "y": 16.40372085571289,
+                "z": 41.64301300048828
+            },
+            "geometryAnchor": {
+                "x": -133.5161590576172,
+                "y": 10.800273895263672,
+                "z": 37.573848724365237,
+                "w": 1.0
+            },
+            "geometryAcross": {
+                "x": 0.9962013959884644,
+                "y": 0.0,
+                "z": 0.0870789960026741,
+                "w": 3.200000047683716
+            },
+            "geometryToward": {
+                "x": 0.0870789960026741,
+                "y": 0.0,
+                "z": -0.9962013959884644,
+                "w": 4.988671779632568
+            },
+            "geometryBand": {
+                "x": 2.680980682373047,
+                "y": 7.48098087310791,
+                "z": 2.0,
+                "w": 0.0
+            },
+            "eaveDistance": 4.988671779632568,
+            "revealStrength": 1.0,
+            "refreshCpuMs": 3.3132998943328859,
+            "revealing": true,
+            "actorMaskReady": true,
+            "nearestOccluderMaskReady": true
+        }
+    ]
+}

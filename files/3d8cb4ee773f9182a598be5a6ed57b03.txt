@@ -1,0 +1,18 @@
+START 2026-10-29T21:25:25.3962428Z
+command=save
+playing=False
+compiling=False
+scene=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity
+dirty=False
+enemies=0
+ownedDirectRoots=1
+ownedRenderers=6
+A34_CLINIC_MOOD_TRIAL_AUDIT
+root=__A34_ClinicMoodTrial
+renderers=6 vertices=5724 triangles=4735 colliders=0 lights=0
+v33DirectNameEligible=False
+wetRadialAndColorChannels=True
+profileLeaves=160 valid=True originalLeafTintAndTexture=True
+RESULT PASS
+PASS_STATIC_ONLY: C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/a-map-clinic-reclaimed-mood-trial\rounds/post_ui_checkpoint\staging/validation_tool/PRE_SAVE_PRESERVATION_reloaded_save_candidate02_001.txt
+COMPLETE

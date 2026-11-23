@@ -1,0 +1,23 @@
+{
+  "time": "2026-10-26T01:03:03.0450407+09:00",
+  "unity": "STOP original StageA_Relay_Blockout_v08 restored00:53:19, saved flags True|True. No active sender. Editor compile0;29 owned fixtures Editor-only, support V3 0DD8 guarded. Unity lease available.",
+  "production": {
+    "pose": "5F61536E38A21E011D416397C924FAE41245FE70A3F6D091F774DC88D2BDA465",
+    "portrait": "AEB7B8F4612255C46E6AD43839FCD9D67A0BCCE456E7478D03E9ED9AF3C169CC",
+    "hair": "32183682DD67C6625CA47B602B42A9C18D1E3C9A0A15ECE4A0AE4421B6763CF7",
+    "budget": "22D8E609CFF1541DDC2E5423E6BCF9D77B4285E026B662914FF740D4A8DEB0C5",
+    "index": "0FFA3743EE352A2B3F1006296E7832780B23BCC2D2A37D858F52235670ABF6A3"
+  },
+  "index": "Latest fingertip unit verified and published. Exact12 weights/restUVtris unchanged/rebind proof; all4 nonfiring errors0 and recoverytrue. Final PUBLICATION_VERIFICATION.json received and publication ownership explicitly returned by MD; no active publication lock.",
+  "grasp": "Pose5F615 native8 static index/thumb0, valid3 pads. SLY transitions numericalPASS, E right envelope-reference error8.22mm REVIEW not actual skin gap certificate. Native support V3 all8 correct underside/noUnavailable; max E/S/L.00090mm, Y.0735mm. Source/runtime left unchanged. E quiet peak recorded Hand transform reconstruction validates ref8.221mm and26 pureHand vertices insideGrip max4.182mm; this is physical possible palm clipping, not benign metric naming. Native peak fullskin pending; see candidate14 EDEL_QUIET_PEAK_PURE_PALM_RECONSTRUCTION.json.",
+  "hair": "C13 closedStockescape failed NEW77/525ms and reverted3218/22D8. No adaptivecache. Latest Curious six NEW0/0/3/0/35/0, reset0/proj11/fail0; incomplete. Offline source snapshot Yui Inspection10mm candidate only; Serin no clear≤40mm11directions. No runtimeoffset applied. See work/hair-body-surface-20261024/HANDOFF_RESUME.md latestline83 and resume-20261025/INSPECTION_WEAPON_CLEARANCE_RECOMMENDATION.json.",
+  "records": "Narrow26 index-fingertip-binding published: indexHash b453d3cffbc9d412be5df5644734c170643d447b6512870021359eb6ad90512f;15documents10images4pairs publicly verified. MD explicitly returned ownership. Broad25 remains readyfalse/pending; do not promote broader hair/grasp.",
+  "next": [
+    "Latest fingertip unit verified and published; no active Unity sender, originalscene restored, lease returned",
+    "Before resuming broader work coordinate editor lease and read current hashes and handoff files",
+    "E right palm: native quietpeak simultaneous fullskin/images/Chest-Hand-Gun and gesture data; current reconstruction shows26 Hand vertices insideGrip max4.182mm, not harmless target mismatch",
+    "E hair: controlled-start repeat simultaneous .5/.85 images/skin/witness; newpairs3/35 near rightupperarm/chest/mixedshoulder, mainly proximal bound cards",
+    "Serin sourceStock cannot be solved by tested≤40mm11direction weapontranslation; Yui10mm candidate unvalidated native; do not apply speculative defaults",
+    "Preserve all4/source assets and camera framing, HIGH READY canceled, video deferred"
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "Path": "Runtime/Stage/SessionCompanionChips.cs",
+    "Before": "C45E7BED0C27B7108F51F1E71A9229CC556A059AA5DF62D66C81FEC2C4E504FE",
+    "Current": "C45E7BED0C27B7108F51F1E71A9229CC556A059AA5DF62D66C81FEC2C4E504FE",
+    "Same": true,
+    "WrittenByThisTask": false
+  },
+  {
+    "Path": "Runtime/Inventory/InventoryCompanionChips.cs",
+    "Before": "A0572A952F96B256C3BB963D55677E79C4FD6C7B4BAA591D6168B318E543153C",
+    "Current": "A0572A952F96B256C3BB963D55677E79C4FD6C7B4BAA591D6168B318E543153C",
+    "Same": true,
+    "WrittenByThisTask": false
+  },
+  {
+    "Path": "Runtime/Companions/CompanionChipCatalog.cs",
+    "Before": "33B5B5F3332BC5F3D689430C5AD6E51CF0A0C349453CDE94FDEB6EC24F6005F0",
+    "Current": "33B5B5F3332BC5F3D689430C5AD6E51CF0A0C349453CDE94FDEB6EC24F6005F0",
+    "Same": true,
+    "WrittenByThisTask": false
+  }
+]

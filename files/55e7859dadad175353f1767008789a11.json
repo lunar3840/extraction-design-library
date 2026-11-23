@@ -1,0 +1,32 @@
+{
+    "sourcePrefabSHA256": "7edbbbc37ca67c6456c163a69485a00f450636341906aa16f568c376e84e3e78",
+    "donorFBXSHA256": "33c530936975f2297487669849dda73297790437dc3e732673b04573dda5e041",
+    "coverageMetadataSHA256": "2674723e795ee909c08ae14552a8f25c7c8483847102ba887ea9b99bb18a23f2",
+    "garmentParts": 50,
+    "coverageRenderers": 5,
+    "originalTriangles": 25513,
+    "keptTriangles": 8198,
+    "uniqueBones": 81,
+    "compressedMaterialParts": 5,
+    "alignmentSharedBones": 82,
+    "alignmentDeterminant": 0.9999995827674866,
+    "alignmentMaximumBoneError": 0.000001616621489120007,
+    "alignmentRowMajor": [
+        0.9999998807907105,
+        1.258155748473655e-7,
+        4.2786035692188309e-7,
+        -9.4067289069244e-8,
+        1.3794047504234187e-7,
+        0.9999997019767761,
+        -0.000008856179192662239,
+        8.626205953987665e-7,
+        8.445134369594598e-9,
+        9.010017976152085e-8,
+        1.000000238418579,
+        -1.443649324528451e-7,
+        1.1920928955078126e-7,
+        4.76837158203125e-7,
+        -0.00000762939453125,
+        0.9999997615814209
+    ]
+}

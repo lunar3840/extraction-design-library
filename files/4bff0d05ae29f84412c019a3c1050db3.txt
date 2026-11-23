@@ -1,0 +1,5 @@
+2026-10-02 오전 12:20:49
+playing=False
+scene=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity
+sceneDirty=False
+ownedRoot=True

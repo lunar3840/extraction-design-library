@@ -1,0 +1,23 @@
+STAGE_A_LOOK_V21_VALIDATION
+generatedUtc=2026-09-22T22:16:52.3073490Z
+PASS map reference is live
+PASS pre-change V20 baseline exists for this map
+PASS required structure and controllers remain present
+PASS serialized baseline slot mask is complete
+PASS every baseline-selected facade/roof slot was substituted exactly once
+PASS all substituted slots use supported, error-free V21 material assets
+PASS all collider geometry and state remain unchanged
+PASS all renderer transforms, meshes, state and hierarchy remain unchanged
+PASS the complete hierarchy remains unchanged; no root or empty object was added
+PASS every material slot outside the captured V21 mask remains baseline-identical
+PASS all V20 concrete materials and values remain unchanged
+PASS V16/V17 settings, ReflectionProbes and global environment/reflection settings remain unchanged
+PASS all anchors and B4/R8 risky-entry policy remain unchanged
+PASS R1-R8, including R8, remain excluded from default spawn selection
+PASS B1-B4 and inactive R1-R8 remain correctly ordered
+PASS V14 collision regression passes (known warning allowed)
+PASS V15 overlap regression passes
+NOTE eligibleSlots=95 changed=95 V21Materials=40 missing=0 unchangedEligible=0 badPath=0 badShader=0
+NOTE post colliders=43525D51EC75A825 renderers=90E52B4CD30D3F79 transforms=8819F2323922AB33 protectedMaterials=7C93F1D22A2A88FF reflection=3E2B8726346E2AE6
+SUMMARY passed=17 failed=0
+RESULT PASS

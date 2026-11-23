@@ -1,0 +1,16 @@
+{
+  "startByte": 1119404030,
+  "endByte": 1120249634,
+  "segmentBytes": 845604,
+  "readBytes": 845604,
+  "truncated": false,
+  "argumentOutOfRangeNow": 0,
+  "exceptionMentions": 34,
+  "compilerErrors": 0,
+  "existingParticleVelocityWarnings": 14287,
+  "thrownExceptionHeaders": [],
+  "exceptionMentionNote": "Method signatures such as System.Exception& count as text mentions; thrown headers classified separately.",
+  "savedExactBytes": 845604,
+  "savedExactSha256": "8218c7472e5c68c665208391c43e7e4c18219ab0d8232246d35617ad71e63ef2",
+  "formatNote": "Exact original byte slice saved; previous TextIO newline-normalized copy retained separately."
+}

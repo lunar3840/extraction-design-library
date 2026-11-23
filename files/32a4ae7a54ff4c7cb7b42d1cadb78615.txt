@@ -1,0 +1,13 @@
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> UnityEngine.MissingComponentException: There is no 'Animator' attached to the "Player_Liv" game object, but a script is trying to access it.
+You probably need to add a Animator to the game object "Player_Liv". Or your script needs to check if the component is attached before using it.
+  at UnityEngine.Object+MarshalledUnityObject.TryThrowEditorNullExceptionObject (UnityEngine.Object unityObj, System.String parameterName) [0x000cd] in <b33129f0f2f84d4d9540790ac6d74c38>:0 
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00010] in <b33129f0f2f84d4d9540790ac6d74c38>:0 
+  at UnityEngine.Animator.set_avatar (UnityEngine.Avatar value) [0x00006] in <e4c837abbbe1406882fab965aed12faa>:0 
+  at Escape.EditorTools.FourCharacterSetup.InstallCharacter (System.String n, UnityEngine.RuntimeAnimatorController baseline) [0x003d1] in C:\UnityProject\escape\Assets\Escape\Editor\FourCharacterSetup.cs:133 
+  at Escape.EditorTools.FourCharacterSetup.Install () [0x00250] in C:\UnityProject\escape\Assets\Escape\Editor\FourCharacterSetup.cs:66 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <8db6ec373e6d40bd9d38c8037d358c4e>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <8db6ec373e6d40bd9d38c8037d358c4e>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <8db6ec373e6d40bd9d38c8037d358c4e>:0 
+  at FourCharacterEvidence.Poll () [0x0008f] in C:\UnityProject\escape\Assets\Escape\Editor\FourCharacterEvidence.cs:30 

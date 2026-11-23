@@ -1,0 +1,140 @@
+{
+    "status": "PASS",
+    "mode": "after",
+    "generatedUtc": "2026-09-14T19:32:07.4939132Z",
+    "scene": "Assets/Escape/Scenes/SystemsTest.unity",
+    "isolatedSaveDirectory": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\stage-a-v03-validation\\Library\\StageV12ShadowEvidence\\after_49ce4c9fac2b4a8ba398c8a63be4088e",
+    "renderPipelineName": "PC_RPAsset",
+    "renderPipelinePath": "Assets/Settings/PC_RPAsset.asset",
+    "shadowCascadeCount": 4,
+    "shadowDistance": 50.0,
+    "activeRendererCount": 1813,
+    "activeColliderCount": 1307,
+    "activeMeshCount": 192,
+    "geometryFingerprint": "a7c8fba7d2db9df48d81a6a315947a3cd10ad99c913a02d5b49cf03f58ace81d",
+    "baselineGeometryFingerprint": "a7c8fba7d2db9df48d81a6a315947a3cd10ad99c913a02d5b49cf03f58ace81d",
+    "geometryUnchanged": true,
+    "lightFingerprint": "a63ab0379201c47f1eb5acf72de33052cf5f9af931dd3f695f0f6812c0674d5e",
+    "baselineLightFingerprint": "a63ab0379201c47f1eb5acf72de33052cf5f9af931dd3f695f0f6812c0674d5e",
+    "lightUnchanged": true,
+    "activeShaders": [
+        {
+            "name": "Escape/TimeGhost/URP Octahedral Tree",
+            "path": "Assets/Escape/Art/TimeGhostV10/Shaders/TimeGhostURPImpostor.shader",
+            "dependencyHash": "9e2cb347606e5a385326a1e1928584f4",
+            "supported": true,
+            "compilerErrorCount": 0
+        },
+        {
+            "name": "Escape/V10GroundBlend",
+            "path": "Assets/Escape/Art/TimeGhostV10/Shaders/V10GroundBlend.shader",
+            "dependencyHash": "934b3627b586237a0b3022bd3e07623c",
+            "supported": true,
+            "compilerErrorCount": 0
+        },
+        {
+            "name": "Universal Render Pipeline/Lit",
+            "path": "Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader",
+            "dependencyHash": "8665ef42e625e46feea042970baa9b13",
+            "supported": true,
+            "compilerErrorCount": 0
+        }
+    ],
+    "shaderFingerprint": "7cf86da5fee6fa2755fb814d22739c493a3af7c3aa250927aff457a70c72c6c1",
+    "baselineShaderFingerprint": "eb7d9944f8ec8a4dfbf09d074f387e4f836becaea908d495766fe866e85d0842",
+    "shaderFingerprintChanged": true,
+    "shaderCompilerErrorCount": 0,
+    "screenshotCount": 6,
+    "poses": [
+        {
+            "label": "x00",
+            "overlayOnImage": "after_x00.png",
+            "overlayOffImage": "after_x00_overlay_off.png",
+            "requestedOffsetX": 0.0,
+            "playerPosition": {
+                "x": -240.0,
+                "y": 2.114816427230835,
+                "z": 145.0
+            },
+            "cameraPosition": {
+                "x": -235.64971923828126,
+                "y": 17.171951293945314,
+                "z": 152.53489685058595
+            },
+            "playerRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraRotation": {
+                "x": -0.12596143782138825,
+                "y": 0.8438150882720947,
+                "z": -0.4700944423675537,
+                "w": -0.22609956562519074
+            },
+            "settledRenderedFrames": 12
+        },
+        {
+            "label": "x10",
+            "overlayOnImage": "after_x10.png",
+            "overlayOffImage": "after_x10_overlay_off.png",
+            "requestedOffsetX": 10.0,
+            "playerPosition": {
+                "x": -230.0,
+                "y": 2.3019025325775148,
+                "z": 145.0
+            },
+            "cameraPosition": {
+                "x": -225.64971923828126,
+                "y": 17.359037399291993,
+                "z": 152.53489685058595
+            },
+            "playerRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraRotation": {
+                "x": -0.12596143782138825,
+                "y": 0.8438150882720947,
+                "z": -0.4700944423675537,
+                "w": -0.22609956562519074
+            },
+            "settledRenderedFrames": 12
+        },
+        {
+            "label": "x25",
+            "overlayOnImage": "after_x25.png",
+            "overlayOffImage": "after_x25_overlay_off.png",
+            "requestedOffsetX": 25.0,
+            "playerPosition": {
+                "x": -215.0279998779297,
+                "y": 2.109999656677246,
+                "z": 145.083984375
+            },
+            "cameraPosition": {
+                "x": -210.67771911621095,
+                "y": 17.16713523864746,
+                "z": 152.61888122558595
+            },
+            "playerRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraRotation": {
+                "x": -0.12596143782138825,
+                "y": 0.8438150882720947,
+                "z": -0.4700944423675537,
+                "w": -0.22609956562519074
+            },
+            "settledRenderedFrames": 12
+        }
+    ],
+    "posesMatchBaseline": true,
+    "errors": "",
+    "details": "PASS SystemsTest world booted\nPASS fresh isolated profile created\nPASS Stage A prerequisite accepted\nPASS normal Stage A departure completed\nPASS live Stage A map, landform, player camera and overlay resolved\nPASS actual Play camera uses TopDownCamera\nPASS pose 0 samples the authored ground on NavMesh\nPASS pose 0 remains on the authored ground level\nPASS player vision overlay is active for x00\nPASS pose 1 samples the authored ground on NavMesh\nPASS pose 1 remains on the authored ground level\nPASS player vision overlay is active for x10\nPASS pose 2 samples the authored ground on NavMesh\nPASS pose 2 remains on the authored ground level\nPASS player vision overlay is active for x25\nPASS active pipeline uses four cascades at 50 metres\nPASS every active map shader is supported and compiler-error free after rendered captures\nPASS before report exists for paired comparison\nPASS map renderer, collider and mesh geometry is unchanged from before\nPASS directional-light pose and settings are unchanged from before\nPASS player and actual follow-camera poses match before captures"
+}

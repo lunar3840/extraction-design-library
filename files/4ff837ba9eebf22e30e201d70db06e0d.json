@@ -1,0 +1,78 @@
+[
+  {
+    "path": "Assets/Escape/Resources/SD/Player_Serin.prefab",
+    "sha256": "40ca70ea79f76dd4d0956f1aeb2572bb2edcfa6a91ab23d4c14e675cce6ade21"
+  },
+  {
+    "path": "Assets/Escape/Art/Roster20261022/Serin/Repairs/Boundary_Basewear_Top_Surface.asset",
+    "sha256": "770b4f3dc5346bc0b1426cf4345905f8d1b11235a415cf3e8b5d0fbce0c67c64"
+  },
+  {
+    "path": "Assets/Escape/Art/Roster20261022/Serin/Repairs/Boundary_Basewear_Top_Surface.asset.meta",
+    "sha256": "b56710b0f8405190970d1c617646be14d9c89708ed41434015f41ad6ff6532d8"
+  },
+  {
+    "path": "Assets/Escape/Art/Roster20261022/Serin/Repairs/Boundary_Body_Base.asset",
+    "sha256": "742502bd83138adc2e741a9fe3e2628d3bbe0ae815c6da9fe508e087d249443c"
+  },
+  {
+    "path": "Assets/Escape/Art/Roster20261022/Serin/Repairs/Boundary_Body_Base.asset.meta",
+    "sha256": "7b42a3eca281b1bb1df2db663e4e7bc3ff915238db0f4cbc99209119a8c5ab5d"
+  },
+  {
+    "path": "Assets/Escape/Art/Roster20261022/Serin/Repairs/Boundary_Rear_torso_seam_closure.asset",
+    "sha256": "3cc629a32d5b7289750c2ae536433ad2dc6dde0ce14c2deb6800285411912696"
+  },
+  {
+    "path": "Assets/Escape/Art/Roster20261022/Serin/Repairs/Boundary_Rear_torso_seam_closure.asset.meta",
+    "sha256": "1e61c453e00fa37971ece96850c95f1db017f8e433a86d3959cfda67a1c3740c"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Player_Liv.prefab",
+    "sha256": "80a815b448757e6491cf83cde44867f2b75b5e491eb88672cd6d90dcfcc61083"
+  },
+  {
+    "path": "Assets/Escape/Art/Roster20261022/Liv/Repairs/Boundary_Basewear_Top_Surface.asset",
+    "sha256": "770b4f3dc5346bc0b1426cf4345905f8d1b11235a415cf3e8b5d0fbce0c67c64"
+  },
+  {
+    "path": "Assets/Escape/Art/Roster20261022/Liv/Repairs/Boundary_Basewear_Top_Surface.asset.meta",
+    "sha256": "e8cbf8f6aa679f6cb3de716d63b708760999f74569b2f0dc872b4f73a5c4d7d3"
+  },
+  {
+    "path": "Assets/Escape/Art/Roster20261022/Liv/Repairs/Boundary_Body_Base.asset",
+    "sha256": "742502bd83138adc2e741a9fe3e2628d3bbe0ae815c6da9fe508e087d249443c"
+  },
+  {
+    "path": "Assets/Escape/Art/Roster20261022/Liv/Repairs/Boundary_Body_Base.asset.meta",
+    "sha256": "96800af7473321ed4c091e7fa3273e5db9f226cb53cc8c310ca264985944e4dc"
+  },
+  {
+    "path": "Assets/Escape/Art/Roster20261022/Liv/Repairs/Boundary_Rear_torso_seam_closure.asset",
+    "sha256": "e8af33dfbe17761ecb78658d11d4079b46fcf5cd2b906987e2a9bc661a168d80"
+  },
+  {
+    "path": "Assets/Escape/Art/Roster20261022/Liv/Repairs/Boundary_Rear_torso_seam_closure.asset.meta",
+    "sha256": "63cf5512df32235eaab5556c85efb2f2ed3fe0f420087153a987437f7821181c"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Player_Yui.prefab",
+    "sha256": "075ae50486b083945f6124dfc53e0c946d6c20432d8ed527c05afe41ac0deaf6"
+  },
+  {
+    "path": "Assets/Escape/Art/Roster20261022/Yui/Repairs/Boundary_Rear_torso_seam_closure.asset",
+    "sha256": "f4294a7c76c8a6ea1e13f0bc1f4032cde678e33129ab95cb92dc6a66f2ee4271"
+  },
+  {
+    "path": "Assets/Escape/Art/Roster20261022/Yui/Repairs/Boundary_Rear_torso_seam_closure.asset.meta",
+    "sha256": "3ad26f94ee6b42819e3d743a7561509cf3c0d7c9f08b0031a41c6f8fdc52d83a"
+  },
+  {
+    "path": "Assets/Escape/Art/Roster20261022/Yui/Repairs/Boundary_SERIN_CommonBody.asset",
+    "sha256": "87769c0fbdc8ac025c281a54c63fa34c96c3ec6cbc30fd8034f5af8aab85d572"
+  },
+  {
+    "path": "Assets/Escape/Art/Roster20261022/Yui/Repairs/Boundary_SERIN_CommonBody.asset.meta",
+    "sha256": "e28db6573c9692a022ad4ce0b2a90f05cc1cf0190c13123181709a6616604a4f"
+  }
+]

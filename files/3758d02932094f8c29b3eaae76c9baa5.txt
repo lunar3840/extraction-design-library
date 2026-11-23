@@ -1,0 +1,25 @@
+STAGE_A_LOOK_V18_VALIDATION
+generatedUtc=2026-09-22T16:38:13.0394512Z
+PASS map reference is live
+PASS pre-apply V17 baseline exists for this map
+PASS pre-existing structure and V16/V17 controllers remain present
+PASS all pre-V18 collider geometry and state, including V17, are unchanged
+PASS all pre-V18 renderer transforms, meshes, materials and state are unchanged
+PASS all ordered gameplay anchors, B4/R8 policy and doors are unchanged
+PASS V16 atmosphere and V17 roof serialized settings are unchanged
+PASS new surface root is direct map child
+PASS surface-only addition has zero colliders
+PASS surface patch renderer count is 20-80 (target 20-40)
+PASS terrain height reference exists
+PASS existing V16 apron mesh height reference exists
+PASS all new patch materials have supported, non-null shaders
+PASS patch meshes are valid and vertex budget is reasonable
+PASS all patch vertices stay inside bounded south-yard footprint
+PASS all patch vertices follow terrain or the existing apron within -0.03/+0.10m
+NOTE patchRenderers=28 colliders=0 vertices=2227 badMaterials=0 badMeshes=0 outOfFootprint=0 offGround=0 terrainDeltaMin=0.0120 terrainDeltaMax=0.0180
+PASS V17 facade/yard regression passes
+PASS V14 collision regression passes (known warning allowed)
+PASS V15 overlap regression passes
+NOTE post colliders=4665:43525D51EC75A825 renderers=5962:0878694F59E573FB anchors=46:86E2F0F4D46F8D4B settings=28942B7387F2A992
+SUMMARY passed=19 failed=0
+RESULT PASS

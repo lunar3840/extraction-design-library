@@ -1,0 +1,13 @@
+Environment weathering validation: FAIL 2. PreviewScene only; open user scene not saved.
+PASS URP Lit/D09 clone, strength zero, source PBR/D09 slots, Clear and unsupported skips
+FAIL real car Bake, prefab reload, source asset and geometry preservation: System.InvalidOperationException: Saved weather material lacks _D09WeatherAmount
+  at Escape.EditorTools.SurfaceEnvironmentValidation.EnvironmentToolsValidation.MaterialState (UnityEngine.Material material) [0x001e5] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\EnvironmentToolsValidation.cs:559 
+  at Escape.EditorTools.SurfaceEnvironmentValidation.EnvironmentToolsValidation.CaptureEligibleMaterialState (Escape.SurfaceWeathering.EnvironmentWeatheringInstance marker) [0x001c5] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\EnvironmentToolsValidation.cs:494 
+  at Escape.EditorTools.SurfaceEnvironmentValidation.EnvironmentToolsValidation.TestRealCarWeathering (UnityEngine.SceneManagement.Scene scene) [0x001fb] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\EnvironmentToolsValidation.cs:599 
+  at Escape.EditorTools.SurfaceEnvironmentValidation.EnvironmentToolsValidation+<>c__DisplayClass5_0.<ValidateWeathering>b__1 () [0x00000] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\EnvironmentToolsValidation.cs:127 
+  at Escape.EditorTools.SurfaceEnvironmentValidation.EnvironmentToolsValidation.Check (System.String label, System.Action action) [0x00000] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\EnvironmentToolsValidation.cs:805 
+FAIL real D09 shell Bake and per-material recipe persistence: System.InvalidOperationException: Saved weather material lacks _D09WeatherAmount
+  at Escape.EditorTools.SurfaceEnvironmentValidation.EnvironmentToolsValidation.MaterialState (UnityEngine.Material material) [0x001e5] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\EnvironmentToolsValidation.cs:559 
+  at Escape.EditorTools.SurfaceEnvironmentValidation.EnvironmentToolsValidation.CaptureEligibleMaterialState (Escape.SurfaceWeathering.EnvironmentWeatheringInstance marker) [0x001c5] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\EnvironmentToolsValidation.cs:494 
+  at Escape.EditorTools.SurfaceEnvironmentValidation.EnvironmentToolsValidation.TestRealShellWeathering () [0x000c3] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\EnvironmentToolsValidation.cs:676 
+  at Escape.EditorTools.SurfaceEnvironmentValidation.EnvironmentToolsValidation.Check (System.String label, System.Action action) [0x00000] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\EnvironmentToolsValidation.cs:805 

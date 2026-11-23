@@ -1,0 +1,393 @@
+{
+  "status": "FINAL_INVENTORY_REVIEW_REQUIRED",
+  "inventorySource": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-ruin-ivy-rollout\\AFTER_INVENTORY.json",
+  "warning": null,
+  "originalRows": 23659,
+  "currentRows": 24131,
+  "policyRows": 23659,
+  "originalKeysRetained": 23659,
+  "protectedRows": 16031,
+  "protectedChangedCount": 0,
+  "protectedChangedExamples": [],
+  "originalRendererShaderChangedCount": 7189,
+  "shaderChangedExamples": [
+    {
+      "key": "02_Visual_Replaceable[2]/RoofVisualRoot_CutawayCapable[0]/ROOF_CLINIC__Visual[0]/Generated[0]/Override_ROOF_CLINIC[0]/RoofCutaway[0]/BlenderExpansion_CLINIC_Roof[4]/CLINIC_Roof[0]/CLINIC_Roof_renderOpaque[0]",
+      "before": [
+        "Escape/BuildingD09/WeatheredLit",
+        "Escape/BuildingD09/WeatheredLit",
+        "Escape/BuildingD09/WeatheredLit",
+        "Escape/BuildingD09/WeatheredLit",
+        "Escape/BuildingD09/WeatheredLit",
+        "Escape/BuildingD09/WeatheredLit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit",
+        "Escape/Environment/Weathered Lit",
+        "Escape/Environment/Weathered Lit",
+        "Escape/Environment/Weathered Lit",
+        "Escape/BuildingD09/WeatheredLit",
+        "Escape/Environment/Weathered Lit",
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/RoofVisualRoot_CutawayCapable[0]/ROOF_TOOLS__Visual[1]/Generated[0]/Override_ROOF_TOOLS[0]/RoofCutaway[0]/BlenderExpansion_TOOLS_Roof[4]/TOOLS_Roof[0]/TOOLS_Roof_renderOpaque[0]",
+      "before": [
+        "Escape/BuildingD09/WeatheredLit",
+        "Escape/BuildingD09/WeatheredLit",
+        "Escape/BuildingD09/WeatheredLit",
+        "Escape/BuildingD09/WeatheredLit",
+        "Escape/BuildingD09/WeatheredLit",
+        "Escape/BuildingD09/WeatheredLit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit",
+        "Escape/Environment/Weathered Lit",
+        "Escape/Environment/Weathered Lit",
+        "Escape/Environment/Weathered Lit",
+        "Escape/Environment/Weathered Lit",
+        "Escape/Environment/Weathered Lit",
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/RoofVisualRoot_CutawayCapable[0]/ROOF_POWER__Visual[3]/Generated[0]/Override_ROOF_POWER[0]/RoofCutaway[0]/BlenderExpansion_POWER_Roof[4]/POWER_Roof[0]/POWER_Roof_renderOpaque[0]",
+      "before": [
+        "Escape/BuildingD09/WeatheredLit",
+        "Escape/BuildingD09/WeatheredLit",
+        "Escape/BuildingD09/WeatheredLit",
+        "Escape/BuildingD09/WeatheredLit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit",
+        "Escape/Environment/Weathered Lit",
+        "Escape/Environment/Weathered Lit",
+        "Escape/Environment/Weathered Lit",
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/RoofVisualRoot_CutawayCapable[0]/ROOF_PARTS__Visual[4]/Generated[0]/Override_ROOF_PARTS[0]/RoofCutaway[0]/BlenderExpansion_PARTS_Roof[4]/PARTS_Roof[0]/PARTS_Roof_renderOpaque[0]",
+      "before": [
+        "Escape/BuildingD09/WeatheredLit",
+        "Escape/BuildingD09/WeatheredLit",
+        "Escape/BuildingD09/WeatheredLit",
+        "Escape/BuildingD09/WeatheredLit",
+        "Escape/BuildingD09/WeatheredLit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit",
+        "Escape/Environment/Weathered Lit",
+        "Escape/Environment/Weathered Lit",
+        "Escape/Environment/Weathered Lit",
+        "Escape/Environment/Weathered Lit",
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/Generated[0]/Override_CLINIC[0]/FactoryFrame[0]/Interior_Role_CLINIC[1]/Interior_WorkArea_A[1]/MedicalStorage_0[0]/Cabinet[0]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/Generated[0]/Override_CLINIC[0]/FactoryFrame[0]/Interior_Role_CLINIC[1]/Interior_WorkArea_A[1]/MedicalStorage_0[0]/CabinetDoor[1]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/Generated[0]/Override_CLINIC[0]/FactoryFrame[0]/Interior_Role_CLINIC[1]/Interior_WorkArea_A[1]/MedicalStorage_3[1]/Cabinet[0]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/Generated[0]/Override_CLINIC[0]/FactoryFrame[0]/Interior_Role_CLINIC[1]/Interior_WorkArea_A[1]/MedicalStorage_3[1]/CabinetDoor[1]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/Generated[0]/Override_CLINIC[0]/FactoryFrame[0]/Interior_Role_CLINIC[1]/Interior_WorkArea_A[1]/MedicalStorage_6[2]/Cabinet[0]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/Generated[0]/Override_CLINIC[0]/FactoryFrame[0]/Interior_Role_CLINIC[1]/Interior_WorkArea_A[1]/MedicalStorage_6[2]/CabinetDoor[1]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/Generated[0]/Override_CLINIC[0]/FactoryFrame[0]/Interior_Role_CLINIC[1]/Interior_Storage_B[2]/SafetyExtinguisher_1[0]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/Generated[0]/Override_CLINIC[0]/FactoryFrame[0]/Interior_Role_CLINIC[1]/Interior_Storage_B[2]/SafetyExtinguisher_4[1]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/Generated[0]/Override_CLINIC[0]/FactoryFrame[0]/Interior_Role_CLINIC[1]/Interior_Storage_B[2]/SafetyExtinguisher_7[2]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/Generated[0]/Override_CLINIC[0]/FactoryFrame[0]/Interior_Role_CLINIC[1]/Interior_Utility_C[3]/SupplyCabinet_2[0]/Cabinet[0]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/Generated[0]/Override_CLINIC[0]/FactoryFrame[0]/Interior_Role_CLINIC[1]/Interior_Utility_C[3]/SupplyCabinet_2[0]/CabinetDoor[1]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/Generated[0]/Override_CLINIC[0]/FactoryFrame[0]/Interior_Role_CLINIC[1]/Interior_Utility_C[3]/SupplyCabinet_5[1]/Cabinet[0]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/Generated[0]/Override_CLINIC[0]/FactoryFrame[0]/Interior_Role_CLINIC[1]/Interior_Utility_C[3]/SupplyCabinet_5[1]/CabinetDoor[1]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/Generated[0]/Override_CLINIC[0]/FactoryFrame[0]/Interior_Role_CLINIC[1]/Interior_Utility_C[3]/CeilingLamp_A[2]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/Generated[0]/Override_CLINIC[0]/FactoryFrame[0]/Interior_Role_CLINIC[1]/Interior_Utility_C[3]/CeilingLamp_B[3]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/D04_Interiors_CLINIC[2]/Medical_Pocket_00[0]/ExaminationBed[0]/Top[0]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/D04_Interiors_CLINIC[2]/Medical_Pocket_00[0]/ExaminationBed[0]/Leg_-1_-1[1]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/D04_Interiors_CLINIC[2]/Medical_Pocket_00[0]/ExaminationBed[0]/Leg_-1_1[2]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/D04_Interiors_CLINIC[2]/Medical_Pocket_00[0]/ExaminationBed[0]/Leg_1_-1[3]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/D04_Interiors_CLINIC[2]/Medical_Pocket_00[0]/ExaminationBed[0]/Leg_1_1[4]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/D04_Interiors_CLINIC[2]/Medical_Pocket_00[0]/Mattress[1]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/D04_Interiors_CLINIC[2]/Medical_Pocket_00[0]/PrivacyScreen[2]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/D04_Interiors_CLINIC[2]/Medical_Pocket_00[0]/MedicalCart[3]/Visual[0]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/D04_Interiors_CLINIC[2]/Medical_Pocket_00[0]/MedicineCabinet[4]/Cabinet[0]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/D04_Interiors_CLINIC[2]/Medical_Pocket_00[0]/MedicineCabinet[4]/CabinetDoor[1]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/D04_Interiors_CLINIC[2]/Medical_Pocket_01[1]/ExaminationBed[0]/Top[0]",
+      "before": [
+        "Universal Render Pipeline/Lit"
+      ],
+      "after": [
+        "Escape/Environment/Weathered Lit"
+      ],
+      "status": "treated",
+      "assetClass": "Building"
+    }
+  ],
+  "newRows": 472,
+  "newRowTypes": {
+    "Leaves": 226,
+    "Stems": 226,
+    "Backing": 20
+  },
+  "otherNewExamples": [],
+  "problemCount": 0,
+  "problems": [],
+  "note": "Protected source field comparison is exact. Added renderers are classified by path; Game visual and performance checks remain separate."
+}

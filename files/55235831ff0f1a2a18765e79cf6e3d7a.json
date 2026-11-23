@@ -1,0 +1,35 @@
+{
+  "thread": "6ae642a9-0254-83ee-afdd-151a1cfd7a9c",
+  "host": "chatgpt",
+  "turns": [
+    {
+      "id": "2fd3c88f-1f59-4d03-86f3-ef7fa82a2c88",
+      "date": "2026-11-01",
+      "startedAt": 1793489825.955,
+      "contentSHA256": "4a52e53771c38454c4d813b41371313191597f964de10e6b17bcebdbd9d94cd1",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "2ea94397-0c11-4662-9f73-c9d524522c65",
+      "date": "2026-11-01",
+      "startedAt": 1793489679.083,
+      "contentSHA256": "cb7a9d27a316efea93b2a46ba7fe0d23687cfef14b3f2a7fd721a6fbcc78bb34",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "6784f37c-76ce-4e72-adfd-6403ca8a517a",
+      "date": "2026-11-01",
+      "startedAt": 1793489569.268,
+      "contentSHA256": "344c23159b7d186b423e3e1576a522f05e12c958dd7b4a4a8e698c771ee9f398",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "bfa68038-46a6-48cf-a9a8-030bb4e40fd5",
+      "date": "2026-11-01",
+      "startedAt": 1793489252.69,
+      "contentSHA256": "5c22e0bc5c4f5d98d4b0b7c2cef5ad288b8845b0980bcf4b370fdcaa8ed34e5b",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    }
+  ],
+  "originals": "Local archive preserved; public owner reports are the source documents. Excluded retouch chats and private references are not included."
+}

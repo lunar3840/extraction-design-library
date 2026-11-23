@@ -1,0 +1,4 @@
+RESULT PASS
+trial=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-28/a-map-blender-environment-expansion/main\WELD_C01_639287702679905423.json
+modelDependencySignature=dc1ad795a7d98d0e3e03969f63bfc33fe5b15bc7cfba8c8b7b395d03e6cefb03
+Original FBX/meta/mesh identities, oriented triangles, corner attributes, materials, transforms and vertex counts restored. Matches Play276 candidate.

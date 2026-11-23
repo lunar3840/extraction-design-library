@@ -1,0 +1,26 @@
+PASS new slot uses an isolated save directory, starts as Serin, and does not trigger VFX
+transition capture target=0.1; actual effect elapsed=0.1052085
+transition capture target=0.3; actual effect elapsed=0.3099887
+transition capture target=0.6; actual effect elapsed=0.6084555
+transition capture target=1; actual effect elapsed=1.002629
+PASS Serin to Edel UI selection preserves health, bag/equipment, weapon/magazine and motor; VFX plays once and cleans up
+PASS same chip selection is idempotent for save, model and VFX
+PASS four repeated UI swaps keep one current presentation, fresh humanoid/hitboxes/portrait and unchanged gameplay
+rapid pulse observation: active=True; elapsed=0.0751518; worldRoots=1; portraitRoots=1; allActiveRoots=2; names=Chip transformation — world | Chip transformation — portrait
+PASS four same-frame successful swaps replace previous VFX and clean all roots after the latest pulse
+PASS timeScale zero does not stall VFX completion or cleanup and gameplay state remains intact
+PASS invalid selection keeps existing model/save/gameplay and starts no effect
+PASS existing prototype save loads Edel with training rank/choices and bag intact; loading plays no VFX
+PASS Edel equipment toggles preserve all original body/hair material identities, texture/color/UV bindings and restore original meshes/visibility; frontal/side/rear fit captures saved for visual review
+PASS stage chip swap/disconnect is locked through UI, world and profile APIs; departure does not replay VFX
+PASS Edel idle has finite bones, low grip error and upper-arm roots below the head
+PASS public walking moves the motor and selects the actual Walk animation
+PASS public sprinting moves the motor and selects the actual Run animation
+PASS public aim entry and aimed strafing preserve body facing and finite gun/bone transforms
+PASS initial_reload: public Reload starts, rejects shots while busy, completes and transfers existing reserve without changing total rounds
+PASS aimed FireDirection produces a real shot and consumes ammunition; firing pose captured after animation/IK
+PASS reload: public Reload starts, rejects shots while busy, completes and transfers existing reserve without changing total rounds
+PASS combat QA complete: locomotion, aim, fire and reload use public APIs; ammunition is conserved and shoulders stay below the head
+PASS All implemented runtime checks passed. Armor fit and visual quality still require review of actual captured images.
+isolatedSaveDirectory=C:\Users\ehoji\OneDrive\문서\ChatGPT\익스트랙션\outputs\change_records\2026-10-21\edel-chip-transformation\isolated_profiles\20261021T033030_07e11f86a5694ebc9e92f8ecd9998ad0
+completedUtc=2026-10-21T03:31:36.0098955Z

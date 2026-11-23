@@ -1,0 +1,19 @@
+{
+  "native_sha256": "253e45d8e0782197685f090625b02c5f7184477b4496848b6d24f2613aa121cc",
+  "scope": "This actual source mesh only; not a universal claim about threshold masks on other meshes.",
+  "rows": {
+    "L": {
+      "independent_min2_gt0p55_triangles": 3692,
+      "main_all3_gt0p30_triangles": 3733,
+      "independent_triangles_not_in_main_supplement": [],
+      "minimum_normalized_weight_in_independent_triangles": 0.41286086228668867
+    },
+    "R": {
+      "independent_min2_gt0p55_triangles": 3810,
+      "main_all3_gt0p30_triangles": 3874,
+      "independent_triangles_not_in_main_supplement": [],
+      "minimum_normalized_weight_in_independent_triangles": 0.3442153334617615
+    }
+  },
+  "native_saved": false
+}

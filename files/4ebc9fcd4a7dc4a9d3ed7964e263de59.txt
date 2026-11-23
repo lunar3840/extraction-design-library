@@ -1,0 +1,2 @@
+hall=True
+entry_exit_door_positions_tiers=True

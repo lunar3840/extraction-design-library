@@ -1,0 +1,21 @@
+{
+  "createdKST": "2026-10-27T18:13:37.216597+09:00",
+  "scope": "Edel editable model/animation handoff only. No new animation or Unity asset modification.",
+  "authoringBlend": "01_AUTHORING/Edel_Animation_Working.blend",
+  "rig": "EDEL_V16_RIG",
+  "bones": 52,
+  "storedActions": 92,
+  "packedTextureImages": 9,
+  "unityAssetPaths": 43,
+  "unresolvedNonPackageGuids": {},
+  "resolvedURPGuidCount": 2,
+  "sourceBlendSHA256": "d57e7f6c0b1c4d8c67a7a08e05d0353a8a9701889a746e5f4433273d6696e64e",
+  "gameModelFBXSHA256": "779ed67babb89920e190573c05e63faf484111a1a46a16c5861cb4e536f4949b",
+  "sourceBlendAndCopyIdentical": true,
+  "staticReferenceReopened": true,
+  "currentUnitySnapshotsUnchanged": true,
+  "animationCompletionStatus": "INCOMPLETE. High Ready discarded; low-ready/idle/hand/hair work requires further authoring.",
+  "physicalHairCompletionStatus": "INCOMPLETE; C15b upper attachment restoration only.",
+  "zipContents": "model, textures/materials, stored actions, Unity model/controller references, current C# corrections, actual screenshots/static geometry, Korean handoff/request, file hashes",
+  "thirdPartyRuntimeDependencies": "Unity URP17.1.0; reference C# depends on existing game classes. No Blender executable, Unity Library, saves or credentials included."
+}

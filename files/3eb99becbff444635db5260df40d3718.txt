@@ -1,0 +1,16 @@
+Rendered 11 glass UI screenshots; error/assert count=0; own-player-window mouse scroll-drag=True; GUI close=True; loot open=True
+mouseDown posted=True window=7014830 client=132,679 drag=12 dragging=False
+mouseDrag posted=True window=7014830 client=228,679 drag=12 dragging=True
+mouseUp posted=True window=7014830 client=228,679 drag=-1 dragging=False
+scrolled GUI drag=True
+mouseDown posted=True window=7014830 client=420,679 drag=15 dragging=False
+mouseDrag posted=True window=7014830 client=436,384 drag=15 dragging=True
+mouseUp posted=True window=7014830 client=436,384 drag=-1 dragging=False
+GUI drag to quickslot=True
+mouseDown posted=True window=7014830 client=420,679 drag=15 dragging=False
+mouseDrag posted=True window=7014830 client=436,334 drag=15 dragging=True
+mouseUp posted=True window=7014830 client=436,334 drag=-1 dragging=False
+GUI frozen drag cancellation=True
+mouseDown posted=True window=7014830 client=489,171 drag=-1 dragging=False
+mouseUp posted=True window=7014830 client=489,171 drag=-1 dragging=False
+GUI close=True

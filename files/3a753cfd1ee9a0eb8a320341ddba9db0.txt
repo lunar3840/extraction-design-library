@@ -1,0 +1,54 @@
+PASS A map is the complete 520 x 400 metre area
+PASS world / north-up map round trip (0.00, 0.00)
+PASS world / north-up map round trip (520.00, 400.00)
+PASS world / north-up map round trip (260.00, 200.00)
+PASS world / north-up map round trip (123.40, 78.90)
+PASS current collision geometry supplies the map (1278)
+PASS current terrain road submeshes and water surface supply the map (17)
+PASS current connected buildings supply active collision footprints (64)
+PASS latest D06 structures appear in background (10)
+PASS one real facility marker: CLINIC
+PASS one real facility marker: TOOLS
+PASS one real facility marker: POWER
+PASS one real facility marker: PARTS
+PASS one real facility marker: HALL
+PASS all actual extraction anchors are displayed
+PASS spawn / inactive risk / relay markers are not exposed
+PASS outdoor elevated terrain is not mislabelled second floor
+PASS hall basement uses actual hall volume
+PASS hall ground floor classification
+PASS hall upper floor classification
+PASS minimap and operation timer do not overlap
+PASS facility list and legend stay outside map gesture area
+PASS round minimap has equal scale and stays inside its pointer bounds
+PASS round minimap keeps transparent corners and an opaque centre
+PASS off-map circle samples remain safe and opaque
+PASS attack permission is available before map opens (independent of empty magazine)
+PASS M shortcut opens map and takes input in same frame
+PASS map closes inventory and loot
+PASS map does not pause world simulation
+PASS M opens with entire map fitted
+PASS map pointer / zoom projection round trip
+PASS wheel zoom preserves the point under the cursor
+PASS drag moves the map with the pointer
+PASS facility hit testing selects the matching details
+PASS empty map click creates an accurate destination
+PASS my position button recenters the actual player
+PASS map blocks movement, aiming and dodge
+PASS map blocks the attack permission itself
+PASS map rejects firing
+PASS map rejects reload
+PASS map rejects quick slots and weapon changes
+PASS map rejects medical wheel
+PASS map rejects conflicting growth hotkey
+PASS full map blocks weapon pointer everywhere
+PASS map rejects loot interaction
+PASS opening map releases inventory and portrait drag capture in the hidden inventory OnGUI
+PASS real operation timer continues while full map is open
+PASS Escape closes only map, retaining same-frame input protection
+PASS held mouse cannot fire through map close
+PASS input returns after mouse release
+PASS each M reopening restores full map fit
+PASS opening map reuses cached background
+PASS validation uses temporary save directory
+ALL CHECKS PASSED

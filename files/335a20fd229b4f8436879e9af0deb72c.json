@@ -1,0 +1,33 @@
+{
+  "restored_original_paths": 396,
+  "all_original_hashes_match": true,
+  "supplement_archives": 13,
+  "all_archive_hashes_match": true,
+  "crc_errors": 0,
+  "pc_originals_unchanged": true,
+  "restored_bytes": 1350060355,
+  "formats": {
+    ".png": 79,
+    ".blend": 79,
+    ".fbx": 3,
+    ".glb": 44,
+    ".json": 70,
+    ".py": 7,
+    ".txt": 14,
+    ".mp4": 7,
+    ".jpg": 93
+  },
+  "storage_counts": {
+    "supplement": 147,
+    "existing_main_zip": 234,
+    "alias": 12,
+    "reassemble_parts": 3
+  },
+  "main_manifest_verified_files": 1134,
+  "game_implementation": 0,
+  "blender_executed": false,
+  "source_scripts_executed": false,
+  "main_zip_sha256": "078a5f1b5405ecddb65b223d94c00b295dd5490a56dfc9cc73a3b1bb889d32ce",
+  "main_zip_bytes": 171413028,
+  "private_download_requests_remaining": 0
+}

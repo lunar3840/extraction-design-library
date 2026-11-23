@@ -1,0 +1,123 @@
+using System;
+using System.IO;
+using System.Linq;
+using System.Collections.Generic;
+using System.Text;
+using UnityEditor;
+using UnityEngine;
+using UnityEngine.Rendering;
+using UnityEngine.Rendering.Universal;
+using UnityEngine.SceneManagement;
+
+namespace Escape.EditorTools
+{
+    [InitializeOnLoad]
+    public static class StageBrightnessReadOnlySnapshot
+    {
+        const string Record = "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-21/brightness-diagnosis/orphan-isolation";
+        static int frames;
+        static string cullReport;
+        static StageBrightnessReadOnlySnapshot()
+        { EditorApplication.update += Poll; RenderPipelineManager.beginCameraRendering += Observe; }
+        static void Observe(ScriptableRenderContext context, Camera camera)
+        {
+            if(!SessionState.GetBool("BrightnessDiagnosisOwnedPlay",false) || camera.name!="Player Camera") return;
+            if(!camera.TryGetCullingParameters(out var parameters)) return;
+            var result=context.Cull(ref parameters);
+            var s=new StringBuilder("Camera native visible directional lights:\n");
+            int best=-1; float intensity=-1;
+            for(int i=0;i<result.visibleLights.Length;i++)
+            {var v=result.visibleLights[i];if(v.lightType!=LightType.Directional)continue;
+                s.AppendLine(i+" "+v.light?.name+" intensity="+v.light?.intensity+" color="+v.finalColor+" mask="+v.light?.cullingMask);
+                if(v.light==RenderSettings.sun){best=i;continue;}
+                if(v.light && (best<0 || result.visibleLights[best].light!=RenderSettings.sun) && v.light.intensity>intensity){intensity=v.light.intensity;best=i;}}
+            s.AppendLine("predictedURPMain="+(best>=0?result.visibleLights[best].light?.name:"none"));cullReport=s.ToString();
+        }
+        static void Poll()
+        {
+            if(EditorApplication.isCompiling || EditorApplication.isUpdating)return;
+            try
+            {
+                if(SessionState.GetBool("BrightnessDiagnosisOwnedPlay",false))
+                {
+                    if(!EditorApplication.isPlaying)return;
+                    if(++frames<120)return;
+                    var preview=UnityEngine.Object.FindFirstObjectByType<Escape.Stage.Blockout.StageScenePreview>();
+                    if(!preview || !preview.World || !preview.World.MapRouter || !preview.World.MapRouter.IsStageA)return;
+                    var player=preview.World.Inventory.Player;var camera=player.view;
+                    preview.World.UseAutomaticTicks=false;player.UseLiveInput=false;
+                    foreach(var enemy in UnityEngine.Object.FindObjectsByType<Escape.Enemy.EnemyController>(FindObjectsSortMode.None)){enemy.Frozen=true;enemy.UseAutomaticTicks=false;}
+                    Capture();
+                    File.WriteAllText(Path.Combine(Record,"native_cull_current.txt"),cullReport??"no observation");
+                    Escape.EditorTools.StageABlockoutBuild.Capture(camera,Path.Combine(Record,"current_game_camera.png"));
+                    var thumbnailLights=Resources.FindObjectsOfTypeAll<Light>().Where(x=>!x.gameObject.scene.IsValid() && x.name.StartsWith("Thumbnail ")&&x.isActiveAndEnabled).ToArray();
+                    File.WriteAllLines(Path.Combine(Record,"orphan_lights.txt"),thumbnailLights.Select(l=>"id="+l.GetInstanceID()+" name="+l.name+" persistent="+EditorUtility.IsPersistent(l)+" hideFlags="+l.hideFlags+" gameObjectFlags="+l.gameObject.hideFlags+" parent="+l.transform.parent?.name+" root="+l.transform.root.name+" sceneValid="+l.gameObject.scene.IsValid()+" sceneName="+l.gameObject.scene.name));
+                    try
+                    {
+                        foreach(var l in thumbnailLights)l.enabled=false;
+                        Escape.EditorTools.StageABlockoutBuild.Capture(camera,Path.Combine(Record,"diagnostic_thumbnail_lights_off.png"));
+                        File.WriteAllText(Path.Combine(Record,"native_cull_thumbnail_off.txt"),cullReport??"no observation");
+                    }
+                    finally{foreach(var l in thumbnailLights)if(l)l.enabled=true;}
+                    Escape.EditorTools.StageABlockoutBuild.Capture(camera,Path.Combine(Record,"diagnostic_thumbnail_lights_restored.png"));
+                    File.WriteAllText(Path.Combine(Record,"native_cull_restored.txt"),cullReport??"no observation");
+                    File.WriteAllText(Path.Combine(Record,"play_probe_complete.txt"),"Isolated StageScenePreview; no project settings saved. Original sun="+RenderSettings.sun?.name+" thumbnailLights="+thumbnailLights.Length+"\n");
+                    SessionState.SetBool("BrightnessDiagnosisOwnedPlay",false);EditorApplication.isPlaying=false;return;
+                }
+                const string request="Library/BrightnessReadOnlySnapshot.request";
+                if(!File.Exists(request))return;
+                string command=File.ReadAllText(request).Trim();File.Delete(request);
+                if(command=="read"){Capture();return;}
+                if(command=="cleanup-probes"){CleanupProbes();return;}
+                if(command!="play")throw new InvalidOperationException("Unknown brightness diagnostic command");
+                var scene=SceneManager.GetActiveScene();
+                if(EditorApplication.isPlayingOrWillChangePlaymode || scene.isDirty || scene.path!="Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity")throw new InvalidOperationException("Preserve existing editor state");
+                if(File.Exists(Path.Combine(Record,"current_game_camera.png")))throw new InvalidOperationException("Preserve prior probe images");
+                SessionState.SetBool("BrightnessDiagnosisOwnedPlay",true);frames=0;EditorApplication.isPlaying=true;
+            }
+            catch(Exception e)
+            {
+                Directory.CreateDirectory(Record);File.WriteAllText(Path.Combine(Record,"probe_error.txt"),e.ToString());
+                if(SessionState.GetBool("BrightnessDiagnosisOwnedPlay",false)){SessionState.SetBool("BrightnessDiagnosisOwnedPlay",false);EditorApplication.isPlaying=false;}
+            }
+        }
+        static void CleanupProbes()
+        {
+            if(EditorApplication.isPlayingOrWillChangePlaymode || SceneManager.GetActiveScene().isDirty)throw new InvalidOperationException("Preserve editor state");
+            var prior=new HashSet<int>(File.ReadAllLines(Path.Combine(Record,"orphan_lights.txt")).Select(line=>int.Parse(line.Split(' ')[0].Substring(3))));
+            var all=Resources.FindObjectsOfTypeAll<Light>().Where(l=>l.name.StartsWith("Thumbnail ") && l.isActiveAndEnabled && !EditorUtility.IsPersistent(l)).ToArray();
+            var mostRecent=all.Where(l=>!prior.Contains(l.GetInstanceID())).ToArray();
+            // The first two isolated probes created these pairs. The last probe's pair
+            // is exactly the difference from its recorded pre-existing orphan ID set.
+            var earlierProbeIds=new HashSet<int>{-3131882,-3131876,-3083994,-3083988};
+            var earlier=all.Where(l=>earlierProbeIds.Contains(l.GetInstanceID())).ToArray();
+            var owned=earlier.Concat(mostRecent).ToArray();
+            var roots=owned.Select(l=>l.transform.root.gameObject).Distinct().ToArray();
+            if(mostRecent.Length!=2 || earlier.Length!=4 || roots.Length!=3 || owned.Any(l=>l.gameObject.scene.IsValid() || l.transform.root.name!="Weapon thumbnails — render only"))throw new InvalidOperationException("Diagnostic-only light identity mismatch; nothing removed");
+            var report=new StringBuilder("Only three studios created during this diagnosis are removed; original orphan lights remain.\n");
+            foreach(var l in owned)report.AppendLine("diagnostic light "+l.GetInstanceID()+" "+l.name);
+            foreach(var root in roots)UnityEngine.Object.DestroyImmediate(root);
+            report.AppendLine("beforeThumbnailLights="+all.Length+" remainingThumbnailLights="+Resources.FindObjectsOfTypeAll<Light>().Count(l=>l.name.StartsWith("Thumbnail ")&&l.isActiveAndEnabled&&!EditorUtility.IsPersistent(l)));
+            report.AppendLine("playing="+EditorApplication.isPlaying+" sceneDirty="+SceneManager.GetActiveScene().isDirty);
+            File.WriteAllText(Path.Combine(Record,"diagnostic_cleanup.txt"),report.ToString());
+        }
+        public static void Capture()
+        {
+            Directory.CreateDirectory(Record);
+            var b = new StringBuilder(DateTimeOffset.Now.ToString("O") + "\n");
+            var scene = SceneManager.GetActiveScene();
+            b.AppendLine("play="+EditorApplication.isPlaying+" scene="+scene.path+" dirty="+scene.isDirty);
+            b.AppendLine("color="+QualitySettings.activeColorSpace+" quality="+QualitySettings.GetQualityLevel()+" pipeline="+GraphicsSettings.currentRenderPipeline?.name+" probes="+QualitySettings.realtimeReflectionProbes);
+            b.AppendLine("ambient="+RenderSettings.ambientMode+" intensity="+RenderSettings.ambientIntensity+" sky="+RenderSettings.ambientSkyColor+" equator="+RenderSettings.ambientEquatorColor+" ground="+RenderSettings.ambientGroundColor+" reflection="+RenderSettings.reflectionIntensity+" sun="+RenderSettings.sun?.name);
+            var stack=VolumeManager.instance.stack;
+            b.AppendLine("stackTone="+stack?.GetComponent<Tonemapping>()?.mode.value+" exposure="+stack?.GetComponent<ColorAdjustments>()?.postExposure.value);
+            foreach(var l in Resources.FindObjectsOfTypeAll<Light>().Where(x=>x.gameObject.scene.IsValid()))
+                if(l.type==LightType.Directional || l.isActiveAndEnabled) b.AppendLine("LIGHT "+l.name+" type="+l.type+" enabled="+l.enabled+" active="+l.gameObject.activeInHierarchy+" intensity="+l.intensity+" color="+l.color+" mask="+l.cullingMask+" scene="+l.gameObject.scene.name);
+            foreach(var c in Resources.FindObjectsOfTypeAll<Camera>().Where(x=>x.gameObject.scene.IsValid()))
+            {var d=c.GetComponent<UniversalAdditionalCameraData>();b.AppendLine("CAM "+c.name+" enabled="+c.enabled+" active="+c.gameObject.activeInHierarchy+" post="+d?.renderPostProcessing+" volumeMask="+d?.volumeLayerMask.value+" hdr="+c.allowHDR);}
+            foreach(var v in Resources.FindObjectsOfTypeAll<Volume>().Where(x=>x.gameObject.scene.IsValid()))
+                b.AppendLine("VOLUME "+v.name+" active="+v.isActiveAndEnabled+" weight="+v.weight+" priority="+v.priority+" profile="+v.sharedProfile?.name);
+            string p=Path.Combine(Record,"snapshot_"+DateTime.UtcNow.Ticks+".txt");File.WriteAllText(p,b.ToString());
+        }
+    }
+}

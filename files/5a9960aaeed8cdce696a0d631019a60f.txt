@@ -1,0 +1,2 @@
+saved/reloaded geometry equals tested after geometry=True
+RESULT PASS

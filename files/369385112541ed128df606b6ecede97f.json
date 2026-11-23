@@ -1,0 +1,24 @@
+{
+  "status": "PASS_CLEAN_RETURN_READY",
+  "utc": "2026-10-30T09:12:29.0289064Z",
+  "scene": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+  "sceneSha256": "11C4100C8D129FFD04C83AAD7BBA97B20C1D7F703D4F84DE9E84754D9D988E6A",
+  "prefabSha256": "68C752E06FC6182E4BB3FBE5F5B25ED7B67839D7A41BB404AD4823360DF75CB0",
+  "nativeObservation": "Play off, no title dirty marker, FullHD1920x1080 Game, compilation indicator absent; existing RuinDensity V04 duplicate-menu warning visible",
+  "nativeScreenshot": "after_editor_native.jpg",
+  "lastPlayOriginalStateRestored": true,
+  "lastPlayCurrentSceneClean": true,
+  "helperFolderAbsent": true,
+  "helperFolderMetaAbsent": true,
+  "ownRequestAbsent": true,
+  "fastDiskRowsChecked": {
+    "AFTER_REVISION21_OWNED_FILES.tsv": 38,
+    "AFTER_REVISION21_PROTECTED_FILES.tsv": 29,
+    "AFTER_REVISION21_SOURCE_MESH_META.tsv": 8,
+    "AFTER_REVISION21_SCENE_PREFAB_SHA.tsv": 2
+  },
+  "mismatches": [],
+  "newCompilerErrors": [],
+  "libraryPublishStatus": "pending",
+  "noFurtherUnityMutationAfterReturn": true
+}

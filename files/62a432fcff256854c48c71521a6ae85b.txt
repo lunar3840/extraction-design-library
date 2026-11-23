@@ -1,0 +1,1 @@
+PASS 165 legacy IDs retained; every existing footprint unchanged; no legacy stack cap reduced; 169 total definitions; 4 new machine materials.

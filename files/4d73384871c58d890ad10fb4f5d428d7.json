@@ -1,0 +1,74 @@
+{
+  "threadId": "6ad1a2cb-b0b0-83e8-86b5-3421dc898b6b",
+  "topicId": "topic:chat/6ad1a2cb-b0b0-83e8-86b5-3421dc898b6b",
+  "archiveDateKst": "2026-11-09",
+  "publishedScope": "selected returned turns and verified available review images",
+  "rows": [
+    {
+      "id": "62c5877f-12c4-4551-9290-c001746ab9e4",
+      "kind": "진행 확인과 검토본 보고",
+      "sha256": "0be978c50dbd78020ad2d0ededd1007477cbb8948bf105bf02f353f75b1d5368",
+      "priorReferenceSHA256": "438028edd39e6d8b3d151eab2f4c927273bf05660cfb66c93ae493ab2af73816",
+      "sourceMessageIds": [
+        "62c5877f-12c4-4551-9290-c001746ab9e4",
+        "1bed2a27-028a-47be-8d51-c58da5aaa9d6"
+      ],
+      "instructionTimeUtc": "2026-10-22T00:46:28.517Z",
+      "sandboxReferences": [
+        "sandbox:/mnt/data/Yui_v58_RearSymmetry_Before_After.png",
+        "sandbox:/mnt/data/Yui_SerinBody_FaceRig_v5_8_RearSymmetry_Review.glb",
+        "sandbox:/mnt/data/Yui_v58_RearSymmetry_Review_Package.zip",
+        "sandbox:/mnt/data/Yui_v58_RearSymmetry_Review_Report_ko.md"
+      ]
+    },
+    {
+      "id": "c0e05ff9-7237-4212-bf1e-98d9fd3ad6b7",
+      "kind": "구조 수정 검토본",
+      "sha256": "18034d2d05e1f36424d23fe0c0aa1c04ca06646eae2bf4dab9d5c0dca86b3b06",
+      "priorReferenceSHA256": "8f55d5a25ebd5de993133144d011ac7644552374789e95003d4c80041d826b04",
+      "sourceMessageIds": [
+        "c0e05ff9-7237-4212-bf1e-98d9fd3ad6b7",
+        "a60f691e-4b9b-4414-a78b-1bb9468e3934"
+      ],
+      "instructionTimeUtc": "2026-10-22T02:05:07.139Z",
+      "sandboxReferences": [
+        "sandbox:/mnt/data/Yui_SerinBody_FaceRig_v6_1_SeparatedInnerwear.glb",
+        "sandbox:/mnt/data/Yui_v61_StructuralFix_Package.zip",
+        "sandbox:/mnt/data/Yui_v61_Structural_Before_After.png",
+        "sandbox:/mnt/data/Yui_v61_FrontRear.png",
+        "sandbox:/mnt/data/Yui_v61_RearAngles.png",
+        "sandbox:/mnt/data/Yui_v61_RigMotion_1x.mp4",
+        "sandbox:/mnt/data/Yui_v61_StructuralFix_Report_ko.md"
+      ]
+    },
+    {
+      "id": "1758481c-3757-4eab-9f73-8d887e505c47",
+      "kind": "통합 확인과 시연 자료",
+      "sha256": "bc352040f9292d27f6d6d54df363808401b510a62c2e048a2a16755f5549d92f",
+      "priorReferenceSHA256": "d3e632a8c16e41a5dd4f28f6646a474a372565917c4a537169254e9a7e122c12",
+      "sourceMessageIds": [
+        "1758481c-3757-4eab-9f73-8d887e505c47",
+        "fe05a931-9d2e-42e8-94b1-8387c808bd36"
+      ],
+      "instructionTimeUtc": "2026-10-22T03:11:49.718Z",
+      "sandboxReferences": [
+        "sandbox:/mnt/data/yui_v61_animation_previews/Yui_v61_Emotions_14_1x.mp4",
+        "sandbox:/mnt/data/yui_v61_animation_previews/Yui_v61_Emotions_14_ContactSheet.png",
+        "sandbox:/mnt/data/yui_v61_animation_previews/Yui_v61_FaceControls_1x.mp4",
+        "sandbox:/mnt/data/yui_v61_animation_previews/Yui_v61_BodyHair_1x.mp4",
+        "sandbox:/mnt/data/yui_v61_animation_previews/Yui_v61_FaceAndIdle_Combined_1x.mp4",
+        "sandbox:/mnt/data/yui_v61_animation_previews/Yui_v61_Combined_Sample.png",
+        "sandbox:/mnt/data/Yui_v61_AnimationPreview_Package.zip",
+        "sandbox:/mnt/data/yui_v61_animation_previews/Yui_v61_Previews_Overview_ko.md"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file": "Yui_v61_Emotions_14_ContactSheet.png",
+      "sha256": "9fb6b1e95d39d3242feb80774fcd0fbd3b4f63f6ad635a1bf75226ffc777ec73",
+      "caption": "유이 v6.1 감정 표현 14종 로컬 시연 화면."
+    }
+  ],
+  "missing": "v5.8·v6.1 이너웨어 전후 이미지와 통합 모션 샘플 이미지는 같은 원본을 찾지 못했습니다. 시연 영상은 로컬 보관합니다. Unity 임포트 및 얼굴·바디 동시 재생 설정은 미검증입니다."
+}

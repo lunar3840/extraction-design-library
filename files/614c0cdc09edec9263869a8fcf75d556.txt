@@ -1,0 +1,2021 @@
+STAGE_A_LOOT_CHECKS
+PASS 50 stable unique placement identities
+PASS every container has a visible label
+PASS at least30 genuine facilities covered
+PASS high value loot also belongs to outer power facilities
+PASS southwest basic approach starts with modest residential supplies
+PASS B1-B4 and disabled risky-entry policy retained
+NOTE B4/R8 horizontal distance=62.17m. Both still feed W5; R8 remains excluded. Loot placement grants no independent risky-entry status.
+PASS medical measured visual fits reserved1.2x.8x.9m floor envelope
+PASS medical art owns no gameplay collider
+PASS drawer measured visual fits reserved1.2x.8x.9m floor envelope
+PASS drawer art owns no gameplay collider
+PASS toolbox measured visual fits reserved1.2x.8x.9m floor envelope
+PASS toolbox art owns no gameplay collider
+PASS locker measured visual fits reserved1.2x.8x.9m floor envelope
+PASS locker art owns no gameplay collider
+PASS computercase measured visual fits reserved1.2x.8x.9m floor envelope
+PASS computercase art owns no gameplay collider
+PASS safe measured visual fits reserved1.2x.8x.9m floor envelope
+PASS safe art owns no gameplay collider
+PASS electronics measured visual fits reserved1.2x.8x.9m floor envelope
+PASS electronics art owns no gameplay collider
+PASS ammo measured visual fits reserved1.2x.8x.9m floor envelope
+PASS ammo art owns no gameplay collider
+PASS rations measured visual fits reserved1.2x.8x.9m floor envelope
+PASS rations art owns no gameplay collider
+PASS salvage measured visual fits reserved1.2x.8x.9m floor envelope
+PASS salvage art owns no gameplay collider
+PASS valuables measured visual fits reserved1.2x.8x.9m floor envelope
+PASS valuables art owns no gameplay collider
+PASS duffel measured visual fits reserved1.2x.8x.9m floor envelope
+PASS duffel art owns no gameplay collider
+PASS weaponcase measured visual fits reserved1.2x.8x.9m floor envelope
+PASS weaponcase art owns no gameplay collider
+PASS None ordinary/named machines yield mechanical materials without human weapon/ammo drops
+PASS Scout ordinary/named machines yield mechanical materials without human weapon/ammo drops
+PASS Suppressor ordinary/named machines yield mechanical materials without human weapon/ammo drops
+PASS Sniper ordinary/named machines yield mechanical materials without human weapon/ammo drops
+PASS Grenadier ordinary/named machines yield mechanical materials without human weapon/ammo drops
+PASS Discharger ordinary/named machines yield mechanical materials without human weapon/ammo drops
+PASS ArcRifle ordinary/named machines yield mechanical materials without human weapon/ammo drops
+PASS GuardTank ordinary/named machines yield mechanical materials without human weapon/ammo drops
+PASS loot_clinic_triage deterministic nonempty stock
+PASS loot_clinic_triage valid ids and contiguous grid capacity
+PASS loot_clinic_dispensary deterministic nonempty stock
+PASS loot_clinic_dispensary valid ids and contiguous grid capacity
+PASS loot_clinic_records deterministic nonempty stock
+PASS loot_clinic_records valid ids and contiguous grid capacity
+PASS loot_tools_bench deterministic nonempty stock
+PASS loot_tools_bench valid ids and contiguous grid capacity
+PASS loot_tools_parts deterministic nonempty stock
+PASS loot_tools_parts valid ids and contiguous grid capacity
+PASS loot_hall_service deterministic nonempty stock
+PASS loot_hall_service valid ids and contiguous grid capacity
+PASS loot_hall_control deterministic nonempty stock
+PASS loot_hall_control valid ids and contiguous grid capacity
+PASS loot_hall_overhaul deterministic nonempty stock
+PASS loot_hall_overhaul valid ids and contiguous grid capacity
+PASS loot_power_cells deterministic nonempty stock
+PASS loot_power_cells valid ids and contiguous grid capacity
+PASS loot_power_service deterministic nonempty stock
+PASS loot_power_service valid ids and contiguous grid capacity
+PASS loot_power_control deterministic nonempty stock
+PASS loot_power_control valid ids and contiguous grid capacity
+PASS loot_parts_precision deterministic nonempty stock
+PASS loot_parts_precision valid ids and contiguous grid capacity
+PASS loot_parts_machining deterministic nonempty stock
+PASS loot_parts_machining valid ids and contiguous grid capacity
+PASS loot_parts_security deterministic nonempty stock
+PASS loot_parts_security valid ids and contiguous grid capacity
+PASS loot_n01_food deterministic nonempty stock
+PASS loot_n01_food valid ids and contiguous grid capacity
+PASS loot_n03_records deterministic nonempty stock
+PASS loot_n03_records valid ids and contiguous grid capacity
+PASS loot_n05_medicine deterministic nonempty stock
+PASS loot_n05_medicine valid ids and contiguous grid capacity
+PASS loot_n08_transformer deterministic nonempty stock
+PASS loot_n08_transformer valid ids and contiguous grid capacity
+PASS loot_n09_cable deterministic nonempty stock
+PASS loot_n09_cable valid ids and contiguous grid capacity
+PASS loot_n11_data deterministic nonempty stock
+PASS loot_n11_data valid ids and contiguous grid capacity
+PASS loot_n12_power deterministic nonempty stock
+PASS loot_n12_power valid ids and contiguous grid capacity
+PASS loot_n14_control deterministic nonempty stock
+PASS loot_n14_control valid ids and contiguous grid capacity
+PASS loot_w01_timber deterministic nonempty stock
+PASS loot_w01_timber valid ids and contiguous grid capacity
+PASS loot_w02_machine deterministic nonempty stock
+PASS loot_w02_machine valid ids and contiguous grid capacity
+PASS loot_w03_tools deterministic nonempty stock
+PASS loot_w03_tools valid ids and contiguous grid capacity
+PASS loot_w05_salvage deterministic nonempty stock
+PASS loot_w05_salvage valid ids and contiguous grid capacity
+PASS loot_w07_office deterministic nonempty stock
+PASS loot_w07_office valid ids and contiguous grid capacity
+PASS loot_w08_garage deterministic nonempty stock
+PASS loot_w08_garage valid ids and contiguous grid capacity
+PASS loot_w10_shipping deterministic nonempty stock
+PASS loot_w10_shipping valid ids and contiguous grid capacity
+PASS loot_e01_battery deterministic nonempty stock
+PASS loot_e01_battery valid ids and contiguous grid capacity
+PASS loot_e03_transformer deterministic nonempty stock
+PASS loot_e03_transformer valid ids and contiguous grid capacity
+PASS loot_e04_cables deterministic nonempty stock
+PASS loot_e04_cables valid ids and contiguous grid capacity
+PASS loot_e05_packing deterministic nonempty stock
+PASS loot_e05_packing valid ids and contiguous grid capacity
+PASS loot_e06_inspection deterministic nonempty stock
+PASS loot_e06_inspection valid ids and contiguous grid capacity
+PASS loot_s01_dorm deterministic nonempty stock
+PASS loot_s01_dorm valid ids and contiguous grid capacity
+PASS loot_s02_canteen deterministic nonempty stock
+PASS loot_s02_canteen valid ids and contiguous grid capacity
+PASS loot_s05_home deterministic nonempty stock
+PASS loot_s05_home valid ids and contiguous grid capacity
+PASS loot_s07_house deterministic nonempty stock
+PASS loot_s07_house valid ids and contiguous grid capacity
+PASS loot_s08_store deterministic nonempty stock
+PASS loot_s08_store valid ids and contiguous grid capacity
+PASS loot_y01_dismantle deterministic nonempty stock
+PASS loot_y01_dismantle valid ids and contiguous grid capacity
+PASS loot_y02_parts deterministic nonempty stock
+PASS loot_y02_parts valid ids and contiguous grid capacity
+PASS loot_f01_water deterministic nonempty stock
+PASS loot_f01_water valid ids and contiguous grid capacity
+PASS loot_power_safe deterministic nonempty stock
+PASS loot_power_safe valid ids and contiguous grid capacity
+PASS loot_parts_safe deterministic nonempty stock
+PASS loot_parts_safe valid ids and contiguous grid capacity
+PASS loot_n11_safe deterministic nonempty stock
+PASS loot_n11_safe valid ids and contiguous grid capacity
+PASS loot_clinic_safe deterministic nonempty stock
+PASS loot_clinic_safe valid ids and contiguous grid capacity
+PASS loot_w10_weapons deterministic nonempty stock
+PASS loot_w10_weapons valid ids and contiguous grid capacity
+PASS loot_e05_weapons deterministic nonempty stock
+PASS loot_e05_weapons valid ids and contiguous grid capacity
+PASS loot_y02_weapons deterministic nonempty stock
+PASS loot_y02_weapons valid ids and contiguous grid capacity
+PASS loot_parts_ammo deterministic nonempty stock
+PASS loot_parts_ammo valid ids and contiguous grid capacity
+PASS all curated supply item ids reachable from actual manifest themes/tiers; missing=
+PASS loot_clinic_triage measured supporting floor within10cm
+PASS loot_clinic_triage no solid wall/furniture overlap
+PASS loot_clinic_triage actual same-floor approach on navigation
+PASS loot_clinic_triage unobstructed interaction sightline
+PASS loot_clinic_dispensary measured supporting floor within10cm
+PASS loot_clinic_dispensary no solid wall/furniture overlap
+PASS loot_clinic_dispensary actual same-floor approach on navigation
+PASS loot_clinic_dispensary unobstructed interaction sightline
+PASS loot_clinic_records measured supporting floor within10cm
+PASS loot_clinic_records no solid wall/furniture overlap
+PASS loot_clinic_records actual same-floor approach on navigation
+PASS loot_clinic_records unobstructed interaction sightline
+PASS loot_tools_bench measured supporting floor within10cm
+PASS loot_tools_bench no solid wall/furniture overlap
+PASS loot_tools_bench actual same-floor approach on navigation
+PASS loot_tools_bench unobstructed interaction sightline
+PASS loot_tools_parts measured supporting floor within10cm
+PASS loot_tools_parts no solid wall/furniture overlap
+PASS loot_tools_parts actual same-floor approach on navigation
+PASS loot_tools_parts unobstructed interaction sightline
+PASS loot_hall_service measured supporting floor within10cm
+PASS loot_hall_service no solid wall/furniture overlap
+PASS loot_hall_service actual same-floor approach on navigation
+PASS loot_hall_service unobstructed interaction sightline
+PASS loot_hall_control measured supporting floor within10cm
+PASS loot_hall_control no solid wall/furniture overlap
+PASS loot_hall_control actual same-floor approach on navigation
+PASS loot_hall_control unobstructed interaction sightline
+PASS loot_hall_overhaul measured supporting floor within10cm
+PASS loot_hall_overhaul no solid wall/furniture overlap
+PASS loot_hall_overhaul actual same-floor approach on navigation
+PASS loot_hall_overhaul unobstructed interaction sightline
+PASS loot_power_cells measured supporting floor within10cm
+PASS loot_power_cells no solid wall/furniture overlap
+PASS loot_power_cells actual same-floor approach on navigation
+PASS loot_power_cells unobstructed interaction sightline
+PASS loot_power_service measured supporting floor within10cm
+PASS loot_power_service no solid wall/furniture overlap
+PASS loot_power_service actual same-floor approach on navigation
+PASS loot_power_service unobstructed interaction sightline
+PASS loot_power_control measured supporting floor within10cm
+PASS loot_power_control no solid wall/furniture overlap
+PASS loot_power_control actual same-floor approach on navigation
+PASS loot_power_control unobstructed interaction sightline
+PASS loot_parts_precision measured supporting floor within10cm
+PASS loot_parts_precision no solid wall/furniture overlap
+PASS loot_parts_precision actual same-floor approach on navigation
+PASS loot_parts_precision unobstructed interaction sightline
+PASS loot_parts_machining measured supporting floor within10cm
+PASS loot_parts_machining no solid wall/furniture overlap
+PASS loot_parts_machining actual same-floor approach on navigation
+PASS loot_parts_machining unobstructed interaction sightline
+PASS loot_parts_security measured supporting floor within10cm
+PASS loot_parts_security no solid wall/furniture overlap
+PASS loot_parts_security actual same-floor approach on navigation
+PASS loot_parts_security unobstructed interaction sightline
+PASS loot_n01_food measured supporting floor within10cm
+PASS loot_n01_food no solid wall/furniture overlap
+PASS loot_n01_food actual same-floor approach on navigation
+PASS loot_n01_food unobstructed interaction sightline
+PASS loot_n03_records measured supporting floor within10cm
+PASS loot_n03_records no solid wall/furniture overlap
+PASS loot_n03_records actual same-floor approach on navigation
+PASS loot_n03_records unobstructed interaction sightline
+PASS loot_n05_medicine measured supporting floor within10cm
+PASS loot_n05_medicine no solid wall/furniture overlap
+PASS loot_n05_medicine actual same-floor approach on navigation
+PASS loot_n05_medicine unobstructed interaction sightline
+PASS loot_n08_transformer measured supporting floor within10cm
+PASS loot_n08_transformer no solid wall/furniture overlap
+PASS loot_n08_transformer actual same-floor approach on navigation
+PASS loot_n08_transformer unobstructed interaction sightline
+PASS loot_n09_cable measured supporting floor within10cm
+PASS loot_n09_cable no solid wall/furniture overlap
+PASS loot_n09_cable actual same-floor approach on navigation
+PASS loot_n09_cable unobstructed interaction sightline
+PASS loot_n11_data measured supporting floor within10cm
+PASS loot_n11_data no solid wall/furniture overlap
+PASS loot_n11_data actual same-floor approach on navigation
+PASS loot_n11_data unobstructed interaction sightline
+PASS loot_n12_power measured supporting floor within10cm
+PASS loot_n12_power no solid wall/furniture overlap
+PASS loot_n12_power actual same-floor approach on navigation
+PASS loot_n12_power unobstructed interaction sightline
+PASS loot_n14_control measured supporting floor within10cm
+PASS loot_n14_control no solid wall/furniture overlap
+PASS loot_n14_control actual same-floor approach on navigation
+PASS loot_n14_control unobstructed interaction sightline
+PASS loot_w01_timber measured supporting floor within10cm
+PASS loot_w01_timber no solid wall/furniture overlap
+PASS loot_w01_timber actual same-floor approach on navigation
+PASS loot_w01_timber unobstructed interaction sightline
+PASS loot_w02_machine measured supporting floor within10cm
+PASS loot_w02_machine no solid wall/furniture overlap
+PASS loot_w02_machine actual same-floor approach on navigation
+PASS loot_w02_machine unobstructed interaction sightline
+PASS loot_w03_tools measured supporting floor within10cm
+PASS loot_w03_tools no solid wall/furniture overlap
+PASS loot_w03_tools actual same-floor approach on navigation
+PASS loot_w03_tools unobstructed interaction sightline
+PASS loot_w05_salvage measured supporting floor within10cm
+PASS loot_w05_salvage no solid wall/furniture overlap
+PASS loot_w05_salvage actual same-floor approach on navigation
+PASS loot_w05_salvage unobstructed interaction sightline
+PASS loot_w07_office measured supporting floor within10cm
+PASS loot_w07_office no solid wall/furniture overlap
+PASS loot_w07_office actual same-floor approach on navigation
+PASS loot_w07_office unobstructed interaction sightline
+PASS loot_w08_garage measured supporting floor within10cm
+PASS loot_w08_garage no solid wall/furniture overlap
+PASS loot_w08_garage actual same-floor approach on navigation
+PASS loot_w08_garage unobstructed interaction sightline
+PASS loot_w10_shipping measured supporting floor within10cm
+PASS loot_w10_shipping no solid wall/furniture overlap
+PASS loot_w10_shipping actual same-floor approach on navigation
+PASS loot_w10_shipping unobstructed interaction sightline
+PASS loot_e01_battery measured supporting floor within10cm
+PASS loot_e01_battery no solid wall/furniture overlap
+PASS loot_e01_battery actual same-floor approach on navigation
+PASS loot_e01_battery unobstructed interaction sightline
+PASS loot_e03_transformer measured supporting floor within10cm
+PASS loot_e03_transformer no solid wall/furniture overlap
+PASS loot_e03_transformer actual same-floor approach on navigation
+PASS loot_e03_transformer unobstructed interaction sightline
+PASS loot_e04_cables measured supporting floor within10cm
+PASS loot_e04_cables no solid wall/furniture overlap
+PASS loot_e04_cables actual same-floor approach on navigation
+PASS loot_e04_cables unobstructed interaction sightline
+PASS loot_e05_packing measured supporting floor within10cm
+PASS loot_e05_packing no solid wall/furniture overlap
+PASS loot_e05_packing actual same-floor approach on navigation
+PASS loot_e05_packing unobstructed interaction sightline
+PASS loot_e06_inspection measured supporting floor within10cm
+PASS loot_e06_inspection no solid wall/furniture overlap
+PASS loot_e06_inspection actual same-floor approach on navigation
+PASS loot_e06_inspection unobstructed interaction sightline
+PASS loot_s01_dorm measured supporting floor within10cm
+PASS loot_s01_dorm no solid wall/furniture overlap
+PASS loot_s01_dorm actual same-floor approach on navigation
+PASS loot_s01_dorm unobstructed interaction sightline
+PASS loot_s02_canteen measured supporting floor within10cm
+PASS loot_s02_canteen no solid wall/furniture overlap
+PASS loot_s02_canteen actual same-floor approach on navigation
+PASS loot_s02_canteen unobstructed interaction sightline
+PASS loot_s05_home measured supporting floor within10cm
+PASS loot_s05_home no solid wall/furniture overlap
+PASS loot_s05_home actual same-floor approach on navigation
+PASS loot_s05_home unobstructed interaction sightline
+PASS loot_s07_house measured supporting floor within10cm
+PASS loot_s07_house no solid wall/furniture overlap
+PASS loot_s07_house actual same-floor approach on navigation
+PASS loot_s07_house unobstructed interaction sightline
+PASS loot_s08_store measured supporting floor within10cm
+PASS loot_s08_store no solid wall/furniture overlap
+PASS loot_s08_store actual same-floor approach on navigation
+PASS loot_s08_store unobstructed interaction sightline
+PASS loot_y01_dismantle measured supporting floor within10cm
+PASS loot_y01_dismantle no solid wall/furniture overlap
+PASS loot_y01_dismantle actual same-floor approach on navigation
+PASS loot_y01_dismantle unobstructed interaction sightline
+PASS loot_y02_parts measured supporting floor within10cm
+PASS loot_y02_parts no solid wall/furniture overlap
+PASS loot_y02_parts actual same-floor approach on navigation
+PASS loot_y02_parts unobstructed interaction sightline
+PASS loot_f01_water measured supporting floor within10cm
+PASS loot_f01_water no solid wall/furniture overlap
+PASS loot_f01_water actual same-floor approach on navigation
+PASS loot_f01_water unobstructed interaction sightline
+PASS loot_power_safe measured supporting floor within10cm
+PASS loot_power_safe no solid wall/furniture overlap
+PASS loot_power_safe actual same-floor approach on navigation
+PASS loot_power_safe unobstructed interaction sightline
+PASS loot_parts_safe measured supporting floor within10cm
+PASS loot_parts_safe no solid wall/furniture overlap
+PASS loot_parts_safe actual same-floor approach on navigation
+PASS loot_parts_safe unobstructed interaction sightline
+PASS loot_n11_safe measured supporting floor within10cm
+PASS loot_n11_safe no solid wall/furniture overlap
+PASS loot_n11_safe actual same-floor approach on navigation
+PASS loot_n11_safe unobstructed interaction sightline
+PASS loot_clinic_safe measured supporting floor within10cm
+PASS loot_clinic_safe no solid wall/furniture overlap
+PASS loot_clinic_safe actual same-floor approach on navigation
+PASS loot_clinic_safe unobstructed interaction sightline
+PASS loot_w10_weapons measured supporting floor within10cm
+PASS loot_w10_weapons no solid wall/furniture overlap
+PASS loot_w10_weapons actual same-floor approach on navigation
+PASS loot_w10_weapons unobstructed interaction sightline
+PASS loot_e05_weapons measured supporting floor within10cm
+PASS loot_e05_weapons no solid wall/furniture overlap
+PASS loot_e05_weapons actual same-floor approach on navigation
+PASS loot_e05_weapons unobstructed interaction sightline
+PASS loot_y02_weapons measured supporting floor within10cm
+PASS loot_y02_weapons no solid wall/furniture overlap
+PASS loot_y02_weapons actual same-floor approach on navigation
+PASS loot_y02_weapons unobstructed interaction sightline
+PASS loot_parts_ammo measured supporting floor within10cm
+PASS loot_parts_ammo no solid wall/furniture overlap
+PASS loot_parts_ammo actual same-floor approach on navigation
+PASS loot_parts_ammo unobstructed interaction sightline
+PASS loot_clinic_triage/loot_clinic_dispensary no container overlap
+PASS loot_clinic_triage/loot_clinic_records no container overlap
+PASS loot_clinic_triage/loot_tools_bench no container overlap
+PASS loot_clinic_triage/loot_tools_parts no container overlap
+PASS loot_clinic_triage/loot_hall_service no container overlap
+PASS loot_clinic_triage/loot_hall_control no container overlap
+PASS loot_clinic_triage/loot_hall_overhaul no container overlap
+PASS loot_clinic_triage/loot_power_cells no container overlap
+PASS loot_clinic_triage/loot_power_service no container overlap
+PASS loot_clinic_triage/loot_power_control no container overlap
+PASS loot_clinic_triage/loot_parts_precision no container overlap
+PASS loot_clinic_triage/loot_parts_machining no container overlap
+PASS loot_clinic_triage/loot_parts_security no container overlap
+PASS loot_clinic_triage/loot_n01_food no container overlap
+PASS loot_clinic_triage/loot_n03_records no container overlap
+PASS loot_clinic_triage/loot_n05_medicine no container overlap
+PASS loot_clinic_triage/loot_n08_transformer no container overlap
+PASS loot_clinic_triage/loot_n09_cable no container overlap
+PASS loot_clinic_triage/loot_n11_data no container overlap
+PASS loot_clinic_triage/loot_n12_power no container overlap
+PASS loot_clinic_triage/loot_n14_control no container overlap
+PASS loot_clinic_triage/loot_w01_timber no container overlap
+PASS loot_clinic_triage/loot_w02_machine no container overlap
+PASS loot_clinic_triage/loot_w03_tools no container overlap
+PASS loot_clinic_triage/loot_w05_salvage no container overlap
+PASS loot_clinic_triage/loot_w07_office no container overlap
+PASS loot_clinic_triage/loot_w08_garage no container overlap
+PASS loot_clinic_triage/loot_w10_shipping no container overlap
+PASS loot_clinic_triage/loot_e01_battery no container overlap
+PASS loot_clinic_triage/loot_e03_transformer no container overlap
+PASS loot_clinic_triage/loot_e04_cables no container overlap
+PASS loot_clinic_triage/loot_e05_packing no container overlap
+PASS loot_clinic_triage/loot_e06_inspection no container overlap
+PASS loot_clinic_triage/loot_s01_dorm no container overlap
+PASS loot_clinic_triage/loot_s02_canteen no container overlap
+PASS loot_clinic_triage/loot_s05_home no container overlap
+PASS loot_clinic_triage/loot_s07_house no container overlap
+PASS loot_clinic_triage/loot_s08_store no container overlap
+PASS loot_clinic_triage/loot_y01_dismantle no container overlap
+PASS loot_clinic_triage/loot_y02_parts no container overlap
+PASS loot_clinic_triage/loot_f01_water no container overlap
+PASS loot_clinic_triage/loot_power_safe no container overlap
+PASS loot_clinic_triage/loot_parts_safe no container overlap
+PASS loot_clinic_triage/loot_n11_safe no container overlap
+PASS loot_clinic_triage/loot_clinic_safe no container overlap
+PASS loot_clinic_triage/loot_w10_weapons no container overlap
+PASS loot_clinic_triage/loot_e05_weapons no container overlap
+PASS loot_clinic_triage/loot_y02_weapons no container overlap
+PASS loot_clinic_triage/loot_parts_ammo no container overlap
+PASS loot_clinic_dispensary/loot_clinic_records no container overlap
+PASS loot_clinic_dispensary/loot_tools_bench no container overlap
+PASS loot_clinic_dispensary/loot_tools_parts no container overlap
+PASS loot_clinic_dispensary/loot_hall_service no container overlap
+PASS loot_clinic_dispensary/loot_hall_control no container overlap
+PASS loot_clinic_dispensary/loot_hall_overhaul no container overlap
+PASS loot_clinic_dispensary/loot_power_cells no container overlap
+PASS loot_clinic_dispensary/loot_power_service no container overlap
+PASS loot_clinic_dispensary/loot_power_control no container overlap
+PASS loot_clinic_dispensary/loot_parts_precision no container overlap
+PASS loot_clinic_dispensary/loot_parts_machining no container overlap
+PASS loot_clinic_dispensary/loot_parts_security no container overlap
+PASS loot_clinic_dispensary/loot_n01_food no container overlap
+PASS loot_clinic_dispensary/loot_n03_records no container overlap
+PASS loot_clinic_dispensary/loot_n05_medicine no container overlap
+PASS loot_clinic_dispensary/loot_n08_transformer no container overlap
+PASS loot_clinic_dispensary/loot_n09_cable no container overlap
+PASS loot_clinic_dispensary/loot_n11_data no container overlap
+PASS loot_clinic_dispensary/loot_n12_power no container overlap
+PASS loot_clinic_dispensary/loot_n14_control no container overlap
+PASS loot_clinic_dispensary/loot_w01_timber no container overlap
+PASS loot_clinic_dispensary/loot_w02_machine no container overlap
+PASS loot_clinic_dispensary/loot_w03_tools no container overlap
+PASS loot_clinic_dispensary/loot_w05_salvage no container overlap
+PASS loot_clinic_dispensary/loot_w07_office no container overlap
+PASS loot_clinic_dispensary/loot_w08_garage no container overlap
+PASS loot_clinic_dispensary/loot_w10_shipping no container overlap
+PASS loot_clinic_dispensary/loot_e01_battery no container overlap
+PASS loot_clinic_dispensary/loot_e03_transformer no container overlap
+PASS loot_clinic_dispensary/loot_e04_cables no container overlap
+PASS loot_clinic_dispensary/loot_e05_packing no container overlap
+PASS loot_clinic_dispensary/loot_e06_inspection no container overlap
+PASS loot_clinic_dispensary/loot_s01_dorm no container overlap
+PASS loot_clinic_dispensary/loot_s02_canteen no container overlap
+PASS loot_clinic_dispensary/loot_s05_home no container overlap
+PASS loot_clinic_dispensary/loot_s07_house no container overlap
+PASS loot_clinic_dispensary/loot_s08_store no container overlap
+PASS loot_clinic_dispensary/loot_y01_dismantle no container overlap
+PASS loot_clinic_dispensary/loot_y02_parts no container overlap
+PASS loot_clinic_dispensary/loot_f01_water no container overlap
+PASS loot_clinic_dispensary/loot_power_safe no container overlap
+PASS loot_clinic_dispensary/loot_parts_safe no container overlap
+PASS loot_clinic_dispensary/loot_n11_safe no container overlap
+PASS loot_clinic_dispensary/loot_clinic_safe no container overlap
+PASS loot_clinic_dispensary/loot_w10_weapons no container overlap
+PASS loot_clinic_dispensary/loot_e05_weapons no container overlap
+PASS loot_clinic_dispensary/loot_y02_weapons no container overlap
+PASS loot_clinic_dispensary/loot_parts_ammo no container overlap
+PASS loot_clinic_records/loot_tools_bench no container overlap
+PASS loot_clinic_records/loot_tools_parts no container overlap
+PASS loot_clinic_records/loot_hall_service no container overlap
+PASS loot_clinic_records/loot_hall_control no container overlap
+PASS loot_clinic_records/loot_hall_overhaul no container overlap
+PASS loot_clinic_records/loot_power_cells no container overlap
+PASS loot_clinic_records/loot_power_service no container overlap
+PASS loot_clinic_records/loot_power_control no container overlap
+PASS loot_clinic_records/loot_parts_precision no container overlap
+PASS loot_clinic_records/loot_parts_machining no container overlap
+PASS loot_clinic_records/loot_parts_security no container overlap
+PASS loot_clinic_records/loot_n01_food no container overlap
+PASS loot_clinic_records/loot_n03_records no container overlap
+PASS loot_clinic_records/loot_n05_medicine no container overlap
+PASS loot_clinic_records/loot_n08_transformer no container overlap
+PASS loot_clinic_records/loot_n09_cable no container overlap
+PASS loot_clinic_records/loot_n11_data no container overlap
+PASS loot_clinic_records/loot_n12_power no container overlap
+PASS loot_clinic_records/loot_n14_control no container overlap
+PASS loot_clinic_records/loot_w01_timber no container overlap
+PASS loot_clinic_records/loot_w02_machine no container overlap
+PASS loot_clinic_records/loot_w03_tools no container overlap
+PASS loot_clinic_records/loot_w05_salvage no container overlap
+PASS loot_clinic_records/loot_w07_office no container overlap
+PASS loot_clinic_records/loot_w08_garage no container overlap
+PASS loot_clinic_records/loot_w10_shipping no container overlap
+PASS loot_clinic_records/loot_e01_battery no container overlap
+PASS loot_clinic_records/loot_e03_transformer no container overlap
+PASS loot_clinic_records/loot_e04_cables no container overlap
+PASS loot_clinic_records/loot_e05_packing no container overlap
+PASS loot_clinic_records/loot_e06_inspection no container overlap
+PASS loot_clinic_records/loot_s01_dorm no container overlap
+PASS loot_clinic_records/loot_s02_canteen no container overlap
+PASS loot_clinic_records/loot_s05_home no container overlap
+PASS loot_clinic_records/loot_s07_house no container overlap
+PASS loot_clinic_records/loot_s08_store no container overlap
+PASS loot_clinic_records/loot_y01_dismantle no container overlap
+PASS loot_clinic_records/loot_y02_parts no container overlap
+PASS loot_clinic_records/loot_f01_water no container overlap
+PASS loot_clinic_records/loot_power_safe no container overlap
+PASS loot_clinic_records/loot_parts_safe no container overlap
+PASS loot_clinic_records/loot_n11_safe no container overlap
+PASS loot_clinic_records/loot_clinic_safe no container overlap
+PASS loot_clinic_records/loot_w10_weapons no container overlap
+PASS loot_clinic_records/loot_e05_weapons no container overlap
+PASS loot_clinic_records/loot_y02_weapons no container overlap
+PASS loot_clinic_records/loot_parts_ammo no container overlap
+PASS loot_tools_bench/loot_tools_parts no container overlap
+PASS loot_tools_bench/loot_hall_service no container overlap
+PASS loot_tools_bench/loot_hall_control no container overlap
+PASS loot_tools_bench/loot_hall_overhaul no container overlap
+PASS loot_tools_bench/loot_power_cells no container overlap
+PASS loot_tools_bench/loot_power_service no container overlap
+PASS loot_tools_bench/loot_power_control no container overlap
+PASS loot_tools_bench/loot_parts_precision no container overlap
+PASS loot_tools_bench/loot_parts_machining no container overlap
+PASS loot_tools_bench/loot_parts_security no container overlap
+PASS loot_tools_bench/loot_n01_food no container overlap
+PASS loot_tools_bench/loot_n03_records no container overlap
+PASS loot_tools_bench/loot_n05_medicine no container overlap
+PASS loot_tools_bench/loot_n08_transformer no container overlap
+PASS loot_tools_bench/loot_n09_cable no container overlap
+PASS loot_tools_bench/loot_n11_data no container overlap
+PASS loot_tools_bench/loot_n12_power no container overlap
+PASS loot_tools_bench/loot_n14_control no container overlap
+PASS loot_tools_bench/loot_w01_timber no container overlap
+PASS loot_tools_bench/loot_w02_machine no container overlap
+PASS loot_tools_bench/loot_w03_tools no container overlap
+PASS loot_tools_bench/loot_w05_salvage no container overlap
+PASS loot_tools_bench/loot_w07_office no container overlap
+PASS loot_tools_bench/loot_w08_garage no container overlap
+PASS loot_tools_bench/loot_w10_shipping no container overlap
+PASS loot_tools_bench/loot_e01_battery no container overlap
+PASS loot_tools_bench/loot_e03_transformer no container overlap
+PASS loot_tools_bench/loot_e04_cables no container overlap
+PASS loot_tools_bench/loot_e05_packing no container overlap
+PASS loot_tools_bench/loot_e06_inspection no container overlap
+PASS loot_tools_bench/loot_s01_dorm no container overlap
+PASS loot_tools_bench/loot_s02_canteen no container overlap
+PASS loot_tools_bench/loot_s05_home no container overlap
+PASS loot_tools_bench/loot_s07_house no container overlap
+PASS loot_tools_bench/loot_s08_store no container overlap
+PASS loot_tools_bench/loot_y01_dismantle no container overlap
+PASS loot_tools_bench/loot_y02_parts no container overlap
+PASS loot_tools_bench/loot_f01_water no container overlap
+PASS loot_tools_bench/loot_power_safe no container overlap
+PASS loot_tools_bench/loot_parts_safe no container overlap
+PASS loot_tools_bench/loot_n11_safe no container overlap
+PASS loot_tools_bench/loot_clinic_safe no container overlap
+PASS loot_tools_bench/loot_w10_weapons no container overlap
+PASS loot_tools_bench/loot_e05_weapons no container overlap
+PASS loot_tools_bench/loot_y02_weapons no container overlap
+PASS loot_tools_bench/loot_parts_ammo no container overlap
+PASS loot_tools_parts/loot_hall_service no container overlap
+PASS loot_tools_parts/loot_hall_control no container overlap
+PASS loot_tools_parts/loot_hall_overhaul no container overlap
+PASS loot_tools_parts/loot_power_cells no container overlap
+PASS loot_tools_parts/loot_power_service no container overlap
+PASS loot_tools_parts/loot_power_control no container overlap
+PASS loot_tools_parts/loot_parts_precision no container overlap
+PASS loot_tools_parts/loot_parts_machining no container overlap
+PASS loot_tools_parts/loot_parts_security no container overlap
+PASS loot_tools_parts/loot_n01_food no container overlap
+PASS loot_tools_parts/loot_n03_records no container overlap
+PASS loot_tools_parts/loot_n05_medicine no container overlap
+PASS loot_tools_parts/loot_n08_transformer no container overlap
+PASS loot_tools_parts/loot_n09_cable no container overlap
+PASS loot_tools_parts/loot_n11_data no container overlap
+PASS loot_tools_parts/loot_n12_power no container overlap
+PASS loot_tools_parts/loot_n14_control no container overlap
+PASS loot_tools_parts/loot_w01_timber no container overlap
+PASS loot_tools_parts/loot_w02_machine no container overlap
+PASS loot_tools_parts/loot_w03_tools no container overlap
+PASS loot_tools_parts/loot_w05_salvage no container overlap
+PASS loot_tools_parts/loot_w07_office no container overlap
+PASS loot_tools_parts/loot_w08_garage no container overlap
+PASS loot_tools_parts/loot_w10_shipping no container overlap
+PASS loot_tools_parts/loot_e01_battery no container overlap
+PASS loot_tools_parts/loot_e03_transformer no container overlap
+PASS loot_tools_parts/loot_e04_cables no container overlap
+PASS loot_tools_parts/loot_e05_packing no container overlap
+PASS loot_tools_parts/loot_e06_inspection no container overlap
+PASS loot_tools_parts/loot_s01_dorm no container overlap
+PASS loot_tools_parts/loot_s02_canteen no container overlap
+PASS loot_tools_parts/loot_s05_home no container overlap
+PASS loot_tools_parts/loot_s07_house no container overlap
+PASS loot_tools_parts/loot_s08_store no container overlap
+PASS loot_tools_parts/loot_y01_dismantle no container overlap
+PASS loot_tools_parts/loot_y02_parts no container overlap
+PASS loot_tools_parts/loot_f01_water no container overlap
+PASS loot_tools_parts/loot_power_safe no container overlap
+PASS loot_tools_parts/loot_parts_safe no container overlap
+PASS loot_tools_parts/loot_n11_safe no container overlap
+PASS loot_tools_parts/loot_clinic_safe no container overlap
+PASS loot_tools_parts/loot_w10_weapons no container overlap
+PASS loot_tools_parts/loot_e05_weapons no container overlap
+PASS loot_tools_parts/loot_y02_weapons no container overlap
+PASS loot_tools_parts/loot_parts_ammo no container overlap
+PASS loot_hall_service/loot_hall_control no container overlap
+PASS loot_hall_service/loot_hall_overhaul no container overlap
+PASS loot_hall_service/loot_power_cells no container overlap
+PASS loot_hall_service/loot_power_service no container overlap
+PASS loot_hall_service/loot_power_control no container overlap
+PASS loot_hall_service/loot_parts_precision no container overlap
+PASS loot_hall_service/loot_parts_machining no container overlap
+PASS loot_hall_service/loot_parts_security no container overlap
+PASS loot_hall_service/loot_n01_food no container overlap
+PASS loot_hall_service/loot_n03_records no container overlap
+PASS loot_hall_service/loot_n05_medicine no container overlap
+PASS loot_hall_service/loot_n08_transformer no container overlap
+PASS loot_hall_service/loot_n09_cable no container overlap
+PASS loot_hall_service/loot_n11_data no container overlap
+PASS loot_hall_service/loot_n12_power no container overlap
+PASS loot_hall_service/loot_n14_control no container overlap
+PASS loot_hall_service/loot_w01_timber no container overlap
+PASS loot_hall_service/loot_w02_machine no container overlap
+PASS loot_hall_service/loot_w03_tools no container overlap
+PASS loot_hall_service/loot_w05_salvage no container overlap
+PASS loot_hall_service/loot_w07_office no container overlap
+PASS loot_hall_service/loot_w08_garage no container overlap
+PASS loot_hall_service/loot_w10_shipping no container overlap
+PASS loot_hall_service/loot_e01_battery no container overlap
+PASS loot_hall_service/loot_e03_transformer no container overlap
+PASS loot_hall_service/loot_e04_cables no container overlap
+PASS loot_hall_service/loot_e05_packing no container overlap
+PASS loot_hall_service/loot_e06_inspection no container overlap
+PASS loot_hall_service/loot_s01_dorm no container overlap
+PASS loot_hall_service/loot_s02_canteen no container overlap
+PASS loot_hall_service/loot_s05_home no container overlap
+PASS loot_hall_service/loot_s07_house no container overlap
+PASS loot_hall_service/loot_s08_store no container overlap
+PASS loot_hall_service/loot_y01_dismantle no container overlap
+PASS loot_hall_service/loot_y02_parts no container overlap
+PASS loot_hall_service/loot_f01_water no container overlap
+PASS loot_hall_service/loot_power_safe no container overlap
+PASS loot_hall_service/loot_parts_safe no container overlap
+PASS loot_hall_service/loot_n11_safe no container overlap
+PASS loot_hall_service/loot_clinic_safe no container overlap
+PASS loot_hall_service/loot_w10_weapons no container overlap
+PASS loot_hall_service/loot_e05_weapons no container overlap
+PASS loot_hall_service/loot_y02_weapons no container overlap
+PASS loot_hall_service/loot_parts_ammo no container overlap
+PASS loot_hall_control/loot_hall_overhaul no container overlap
+PASS loot_hall_control/loot_power_cells no container overlap
+PASS loot_hall_control/loot_power_service no container overlap
+PASS loot_hall_control/loot_power_control no container overlap
+PASS loot_hall_control/loot_parts_precision no container overlap
+PASS loot_hall_control/loot_parts_machining no container overlap
+PASS loot_hall_control/loot_parts_security no container overlap
+PASS loot_hall_control/loot_n01_food no container overlap
+PASS loot_hall_control/loot_n03_records no container overlap
+PASS loot_hall_control/loot_n05_medicine no container overlap
+PASS loot_hall_control/loot_n08_transformer no container overlap
+PASS loot_hall_control/loot_n09_cable no container overlap
+PASS loot_hall_control/loot_n11_data no container overlap
+PASS loot_hall_control/loot_n12_power no container overlap
+PASS loot_hall_control/loot_n14_control no container overlap
+PASS loot_hall_control/loot_w01_timber no container overlap
+PASS loot_hall_control/loot_w02_machine no container overlap
+PASS loot_hall_control/loot_w03_tools no container overlap
+PASS loot_hall_control/loot_w05_salvage no container overlap
+PASS loot_hall_control/loot_w07_office no container overlap
+PASS loot_hall_control/loot_w08_garage no container overlap
+PASS loot_hall_control/loot_w10_shipping no container overlap
+PASS loot_hall_control/loot_e01_battery no container overlap
+PASS loot_hall_control/loot_e03_transformer no container overlap
+PASS loot_hall_control/loot_e04_cables no container overlap
+PASS loot_hall_control/loot_e05_packing no container overlap
+PASS loot_hall_control/loot_e06_inspection no container overlap
+PASS loot_hall_control/loot_s01_dorm no container overlap
+PASS loot_hall_control/loot_s02_canteen no container overlap
+PASS loot_hall_control/loot_s05_home no container overlap
+PASS loot_hall_control/loot_s07_house no container overlap
+PASS loot_hall_control/loot_s08_store no container overlap
+PASS loot_hall_control/loot_y01_dismantle no container overlap
+PASS loot_hall_control/loot_y02_parts no container overlap
+PASS loot_hall_control/loot_f01_water no container overlap
+PASS loot_hall_control/loot_power_safe no container overlap
+PASS loot_hall_control/loot_parts_safe no container overlap
+PASS loot_hall_control/loot_n11_safe no container overlap
+PASS loot_hall_control/loot_clinic_safe no container overlap
+PASS loot_hall_control/loot_w10_weapons no container overlap
+PASS loot_hall_control/loot_e05_weapons no container overlap
+PASS loot_hall_control/loot_y02_weapons no container overlap
+PASS loot_hall_control/loot_parts_ammo no container overlap
+PASS loot_hall_overhaul/loot_power_cells no container overlap
+PASS loot_hall_overhaul/loot_power_service no container overlap
+PASS loot_hall_overhaul/loot_power_control no container overlap
+PASS loot_hall_overhaul/loot_parts_precision no container overlap
+PASS loot_hall_overhaul/loot_parts_machining no container overlap
+PASS loot_hall_overhaul/loot_parts_security no container overlap
+PASS loot_hall_overhaul/loot_n01_food no container overlap
+PASS loot_hall_overhaul/loot_n03_records no container overlap
+PASS loot_hall_overhaul/loot_n05_medicine no container overlap
+PASS loot_hall_overhaul/loot_n08_transformer no container overlap
+PASS loot_hall_overhaul/loot_n09_cable no container overlap
+PASS loot_hall_overhaul/loot_n11_data no container overlap
+PASS loot_hall_overhaul/loot_n12_power no container overlap
+PASS loot_hall_overhaul/loot_n14_control no container overlap
+PASS loot_hall_overhaul/loot_w01_timber no container overlap
+PASS loot_hall_overhaul/loot_w02_machine no container overlap
+PASS loot_hall_overhaul/loot_w03_tools no container overlap
+PASS loot_hall_overhaul/loot_w05_salvage no container overlap
+PASS loot_hall_overhaul/loot_w07_office no container overlap
+PASS loot_hall_overhaul/loot_w08_garage no container overlap
+PASS loot_hall_overhaul/loot_w10_shipping no container overlap
+PASS loot_hall_overhaul/loot_e01_battery no container overlap
+PASS loot_hall_overhaul/loot_e03_transformer no container overlap
+PASS loot_hall_overhaul/loot_e04_cables no container overlap
+PASS loot_hall_overhaul/loot_e05_packing no container overlap
+PASS loot_hall_overhaul/loot_e06_inspection no container overlap
+PASS loot_hall_overhaul/loot_s01_dorm no container overlap
+PASS loot_hall_overhaul/loot_s02_canteen no container overlap
+PASS loot_hall_overhaul/loot_s05_home no container overlap
+PASS loot_hall_overhaul/loot_s07_house no container overlap
+PASS loot_hall_overhaul/loot_s08_store no container overlap
+PASS loot_hall_overhaul/loot_y01_dismantle no container overlap
+PASS loot_hall_overhaul/loot_y02_parts no container overlap
+PASS loot_hall_overhaul/loot_f01_water no container overlap
+PASS loot_hall_overhaul/loot_power_safe no container overlap
+PASS loot_hall_overhaul/loot_parts_safe no container overlap
+PASS loot_hall_overhaul/loot_n11_safe no container overlap
+PASS loot_hall_overhaul/loot_clinic_safe no container overlap
+PASS loot_hall_overhaul/loot_w10_weapons no container overlap
+PASS loot_hall_overhaul/loot_e05_weapons no container overlap
+PASS loot_hall_overhaul/loot_y02_weapons no container overlap
+PASS loot_hall_overhaul/loot_parts_ammo no container overlap
+PASS loot_power_cells/loot_power_service no container overlap
+PASS loot_power_cells/loot_power_control no container overlap
+PASS loot_power_cells/loot_parts_precision no container overlap
+PASS loot_power_cells/loot_parts_machining no container overlap
+PASS loot_power_cells/loot_parts_security no container overlap
+PASS loot_power_cells/loot_n01_food no container overlap
+PASS loot_power_cells/loot_n03_records no container overlap
+PASS loot_power_cells/loot_n05_medicine no container overlap
+PASS loot_power_cells/loot_n08_transformer no container overlap
+PASS loot_power_cells/loot_n09_cable no container overlap
+PASS loot_power_cells/loot_n11_data no container overlap
+PASS loot_power_cells/loot_n12_power no container overlap
+PASS loot_power_cells/loot_n14_control no container overlap
+PASS loot_power_cells/loot_w01_timber no container overlap
+PASS loot_power_cells/loot_w02_machine no container overlap
+PASS loot_power_cells/loot_w03_tools no container overlap
+PASS loot_power_cells/loot_w05_salvage no container overlap
+PASS loot_power_cells/loot_w07_office no container overlap
+PASS loot_power_cells/loot_w08_garage no container overlap
+PASS loot_power_cells/loot_w10_shipping no container overlap
+PASS loot_power_cells/loot_e01_battery no container overlap
+PASS loot_power_cells/loot_e03_transformer no container overlap
+PASS loot_power_cells/loot_e04_cables no container overlap
+PASS loot_power_cells/loot_e05_packing no container overlap
+PASS loot_power_cells/loot_e06_inspection no container overlap
+PASS loot_power_cells/loot_s01_dorm no container overlap
+PASS loot_power_cells/loot_s02_canteen no container overlap
+PASS loot_power_cells/loot_s05_home no container overlap
+PASS loot_power_cells/loot_s07_house no container overlap
+PASS loot_power_cells/loot_s08_store no container overlap
+PASS loot_power_cells/loot_y01_dismantle no container overlap
+PASS loot_power_cells/loot_y02_parts no container overlap
+PASS loot_power_cells/loot_f01_water no container overlap
+PASS loot_power_cells/loot_power_safe no container overlap
+PASS loot_power_cells/loot_parts_safe no container overlap
+PASS loot_power_cells/loot_n11_safe no container overlap
+PASS loot_power_cells/loot_clinic_safe no container overlap
+PASS loot_power_cells/loot_w10_weapons no container overlap
+PASS loot_power_cells/loot_e05_weapons no container overlap
+PASS loot_power_cells/loot_y02_weapons no container overlap
+PASS loot_power_cells/loot_parts_ammo no container overlap
+PASS loot_power_service/loot_power_control no container overlap
+PASS loot_power_service/loot_parts_precision no container overlap
+PASS loot_power_service/loot_parts_machining no container overlap
+PASS loot_power_service/loot_parts_security no container overlap
+PASS loot_power_service/loot_n01_food no container overlap
+PASS loot_power_service/loot_n03_records no container overlap
+PASS loot_power_service/loot_n05_medicine no container overlap
+PASS loot_power_service/loot_n08_transformer no container overlap
+PASS loot_power_service/loot_n09_cable no container overlap
+PASS loot_power_service/loot_n11_data no container overlap
+PASS loot_power_service/loot_n12_power no container overlap
+PASS loot_power_service/loot_n14_control no container overlap
+PASS loot_power_service/loot_w01_timber no container overlap
+PASS loot_power_service/loot_w02_machine no container overlap
+PASS loot_power_service/loot_w03_tools no container overlap
+PASS loot_power_service/loot_w05_salvage no container overlap
+PASS loot_power_service/loot_w07_office no container overlap
+PASS loot_power_service/loot_w08_garage no container overlap
+PASS loot_power_service/loot_w10_shipping no container overlap
+PASS loot_power_service/loot_e01_battery no container overlap
+PASS loot_power_service/loot_e03_transformer no container overlap
+PASS loot_power_service/loot_e04_cables no container overlap
+PASS loot_power_service/loot_e05_packing no container overlap
+PASS loot_power_service/loot_e06_inspection no container overlap
+PASS loot_power_service/loot_s01_dorm no container overlap
+PASS loot_power_service/loot_s02_canteen no container overlap
+PASS loot_power_service/loot_s05_home no container overlap
+PASS loot_power_service/loot_s07_house no container overlap
+PASS loot_power_service/loot_s08_store no container overlap
+PASS loot_power_service/loot_y01_dismantle no container overlap
+PASS loot_power_service/loot_y02_parts no container overlap
+PASS loot_power_service/loot_f01_water no container overlap
+PASS loot_power_service/loot_power_safe no container overlap
+PASS loot_power_service/loot_parts_safe no container overlap
+PASS loot_power_service/loot_n11_safe no container overlap
+PASS loot_power_service/loot_clinic_safe no container overlap
+PASS loot_power_service/loot_w10_weapons no container overlap
+PASS loot_power_service/loot_e05_weapons no container overlap
+PASS loot_power_service/loot_y02_weapons no container overlap
+PASS loot_power_service/loot_parts_ammo no container overlap
+PASS loot_power_control/loot_parts_precision no container overlap
+PASS loot_power_control/loot_parts_machining no container overlap
+PASS loot_power_control/loot_parts_security no container overlap
+PASS loot_power_control/loot_n01_food no container overlap
+PASS loot_power_control/loot_n03_records no container overlap
+PASS loot_power_control/loot_n05_medicine no container overlap
+PASS loot_power_control/loot_n08_transformer no container overlap
+PASS loot_power_control/loot_n09_cable no container overlap
+PASS loot_power_control/loot_n11_data no container overlap
+PASS loot_power_control/loot_n12_power no container overlap
+PASS loot_power_control/loot_n14_control no container overlap
+PASS loot_power_control/loot_w01_timber no container overlap
+PASS loot_power_control/loot_w02_machine no container overlap
+PASS loot_power_control/loot_w03_tools no container overlap
+PASS loot_power_control/loot_w05_salvage no container overlap
+PASS loot_power_control/loot_w07_office no container overlap
+PASS loot_power_control/loot_w08_garage no container overlap
+PASS loot_power_control/loot_w10_shipping no container overlap
+PASS loot_power_control/loot_e01_battery no container overlap
+PASS loot_power_control/loot_e03_transformer no container overlap
+PASS loot_power_control/loot_e04_cables no container overlap
+PASS loot_power_control/loot_e05_packing no container overlap
+PASS loot_power_control/loot_e06_inspection no container overlap
+PASS loot_power_control/loot_s01_dorm no container overlap
+PASS loot_power_control/loot_s02_canteen no container overlap
+PASS loot_power_control/loot_s05_home no container overlap
+PASS loot_power_control/loot_s07_house no container overlap
+PASS loot_power_control/loot_s08_store no container overlap
+PASS loot_power_control/loot_y01_dismantle no container overlap
+PASS loot_power_control/loot_y02_parts no container overlap
+PASS loot_power_control/loot_f01_water no container overlap
+PASS loot_power_control/loot_power_safe no container overlap
+PASS loot_power_control/loot_parts_safe no container overlap
+PASS loot_power_control/loot_n11_safe no container overlap
+PASS loot_power_control/loot_clinic_safe no container overlap
+PASS loot_power_control/loot_w10_weapons no container overlap
+PASS loot_power_control/loot_e05_weapons no container overlap
+PASS loot_power_control/loot_y02_weapons no container overlap
+PASS loot_power_control/loot_parts_ammo no container overlap
+PASS loot_parts_precision/loot_parts_machining no container overlap
+PASS loot_parts_precision/loot_parts_security no container overlap
+PASS loot_parts_precision/loot_n01_food no container overlap
+PASS loot_parts_precision/loot_n03_records no container overlap
+PASS loot_parts_precision/loot_n05_medicine no container overlap
+PASS loot_parts_precision/loot_n08_transformer no container overlap
+PASS loot_parts_precision/loot_n09_cable no container overlap
+PASS loot_parts_precision/loot_n11_data no container overlap
+PASS loot_parts_precision/loot_n12_power no container overlap
+PASS loot_parts_precision/loot_n14_control no container overlap
+PASS loot_parts_precision/loot_w01_timber no container overlap
+PASS loot_parts_precision/loot_w02_machine no container overlap
+PASS loot_parts_precision/loot_w03_tools no container overlap
+PASS loot_parts_precision/loot_w05_salvage no container overlap
+PASS loot_parts_precision/loot_w07_office no container overlap
+PASS loot_parts_precision/loot_w08_garage no container overlap
+PASS loot_parts_precision/loot_w10_shipping no container overlap
+PASS loot_parts_precision/loot_e01_battery no container overlap
+PASS loot_parts_precision/loot_e03_transformer no container overlap
+PASS loot_parts_precision/loot_e04_cables no container overlap
+PASS loot_parts_precision/loot_e05_packing no container overlap
+PASS loot_parts_precision/loot_e06_inspection no container overlap
+PASS loot_parts_precision/loot_s01_dorm no container overlap
+PASS loot_parts_precision/loot_s02_canteen no container overlap
+PASS loot_parts_precision/loot_s05_home no container overlap
+PASS loot_parts_precision/loot_s07_house no container overlap
+PASS loot_parts_precision/loot_s08_store no container overlap
+PASS loot_parts_precision/loot_y01_dismantle no container overlap
+PASS loot_parts_precision/loot_y02_parts no container overlap
+PASS loot_parts_precision/loot_f01_water no container overlap
+PASS loot_parts_precision/loot_power_safe no container overlap
+PASS loot_parts_precision/loot_parts_safe no container overlap
+PASS loot_parts_precision/loot_n11_safe no container overlap
+PASS loot_parts_precision/loot_clinic_safe no container overlap
+PASS loot_parts_precision/loot_w10_weapons no container overlap
+PASS loot_parts_precision/loot_e05_weapons no container overlap
+PASS loot_parts_precision/loot_y02_weapons no container overlap
+PASS loot_parts_precision/loot_parts_ammo no container overlap
+PASS loot_parts_machining/loot_parts_security no container overlap
+PASS loot_parts_machining/loot_n01_food no container overlap
+PASS loot_parts_machining/loot_n03_records no container overlap
+PASS loot_parts_machining/loot_n05_medicine no container overlap
+PASS loot_parts_machining/loot_n08_transformer no container overlap
+PASS loot_parts_machining/loot_n09_cable no container overlap
+PASS loot_parts_machining/loot_n11_data no container overlap
+PASS loot_parts_machining/loot_n12_power no container overlap
+PASS loot_parts_machining/loot_n14_control no container overlap
+PASS loot_parts_machining/loot_w01_timber no container overlap
+PASS loot_parts_machining/loot_w02_machine no container overlap
+PASS loot_parts_machining/loot_w03_tools no container overlap
+PASS loot_parts_machining/loot_w05_salvage no container overlap
+PASS loot_parts_machining/loot_w07_office no container overlap
+PASS loot_parts_machining/loot_w08_garage no container overlap
+PASS loot_parts_machining/loot_w10_shipping no container overlap
+PASS loot_parts_machining/loot_e01_battery no container overlap
+PASS loot_parts_machining/loot_e03_transformer no container overlap
+PASS loot_parts_machining/loot_e04_cables no container overlap
+PASS loot_parts_machining/loot_e05_packing no container overlap
+PASS loot_parts_machining/loot_e06_inspection no container overlap
+PASS loot_parts_machining/loot_s01_dorm no container overlap
+PASS loot_parts_machining/loot_s02_canteen no container overlap
+PASS loot_parts_machining/loot_s05_home no container overlap
+PASS loot_parts_machining/loot_s07_house no container overlap
+PASS loot_parts_machining/loot_s08_store no container overlap
+PASS loot_parts_machining/loot_y01_dismantle no container overlap
+PASS loot_parts_machining/loot_y02_parts no container overlap
+PASS loot_parts_machining/loot_f01_water no container overlap
+PASS loot_parts_machining/loot_power_safe no container overlap
+PASS loot_parts_machining/loot_parts_safe no container overlap
+PASS loot_parts_machining/loot_n11_safe no container overlap
+PASS loot_parts_machining/loot_clinic_safe no container overlap
+PASS loot_parts_machining/loot_w10_weapons no container overlap
+PASS loot_parts_machining/loot_e05_weapons no container overlap
+PASS loot_parts_machining/loot_y02_weapons no container overlap
+PASS loot_parts_machining/loot_parts_ammo no container overlap
+PASS loot_parts_security/loot_n01_food no container overlap
+PASS loot_parts_security/loot_n03_records no container overlap
+PASS loot_parts_security/loot_n05_medicine no container overlap
+PASS loot_parts_security/loot_n08_transformer no container overlap
+PASS loot_parts_security/loot_n09_cable no container overlap
+PASS loot_parts_security/loot_n11_data no container overlap
+PASS loot_parts_security/loot_n12_power no container overlap
+PASS loot_parts_security/loot_n14_control no container overlap
+PASS loot_parts_security/loot_w01_timber no container overlap
+PASS loot_parts_security/loot_w02_machine no container overlap
+PASS loot_parts_security/loot_w03_tools no container overlap
+PASS loot_parts_security/loot_w05_salvage no container overlap
+PASS loot_parts_security/loot_w07_office no container overlap
+PASS loot_parts_security/loot_w08_garage no container overlap
+PASS loot_parts_security/loot_w10_shipping no container overlap
+PASS loot_parts_security/loot_e01_battery no container overlap
+PASS loot_parts_security/loot_e03_transformer no container overlap
+PASS loot_parts_security/loot_e04_cables no container overlap
+PASS loot_parts_security/loot_e05_packing no container overlap
+PASS loot_parts_security/loot_e06_inspection no container overlap
+PASS loot_parts_security/loot_s01_dorm no container overlap
+PASS loot_parts_security/loot_s02_canteen no container overlap
+PASS loot_parts_security/loot_s05_home no container overlap
+PASS loot_parts_security/loot_s07_house no container overlap
+PASS loot_parts_security/loot_s08_store no container overlap
+PASS loot_parts_security/loot_y01_dismantle no container overlap
+PASS loot_parts_security/loot_y02_parts no container overlap
+PASS loot_parts_security/loot_f01_water no container overlap
+PASS loot_parts_security/loot_power_safe no container overlap
+PASS loot_parts_security/loot_parts_safe no container overlap
+PASS loot_parts_security/loot_n11_safe no container overlap
+PASS loot_parts_security/loot_clinic_safe no container overlap
+PASS loot_parts_security/loot_w10_weapons no container overlap
+PASS loot_parts_security/loot_e05_weapons no container overlap
+PASS loot_parts_security/loot_y02_weapons no container overlap
+PASS loot_parts_security/loot_parts_ammo no container overlap
+PASS loot_n01_food/loot_n03_records no container overlap
+PASS loot_n01_food/loot_n05_medicine no container overlap
+PASS loot_n01_food/loot_n08_transformer no container overlap
+PASS loot_n01_food/loot_n09_cable no container overlap
+PASS loot_n01_food/loot_n11_data no container overlap
+PASS loot_n01_food/loot_n12_power no container overlap
+PASS loot_n01_food/loot_n14_control no container overlap
+PASS loot_n01_food/loot_w01_timber no container overlap
+PASS loot_n01_food/loot_w02_machine no container overlap
+PASS loot_n01_food/loot_w03_tools no container overlap
+PASS loot_n01_food/loot_w05_salvage no container overlap
+PASS loot_n01_food/loot_w07_office no container overlap
+PASS loot_n01_food/loot_w08_garage no container overlap
+PASS loot_n01_food/loot_w10_shipping no container overlap
+PASS loot_n01_food/loot_e01_battery no container overlap
+PASS loot_n01_food/loot_e03_transformer no container overlap
+PASS loot_n01_food/loot_e04_cables no container overlap
+PASS loot_n01_food/loot_e05_packing no container overlap
+PASS loot_n01_food/loot_e06_inspection no container overlap
+PASS loot_n01_food/loot_s01_dorm no container overlap
+PASS loot_n01_food/loot_s02_canteen no container overlap
+PASS loot_n01_food/loot_s05_home no container overlap
+PASS loot_n01_food/loot_s07_house no container overlap
+PASS loot_n01_food/loot_s08_store no container overlap
+PASS loot_n01_food/loot_y01_dismantle no container overlap
+PASS loot_n01_food/loot_y02_parts no container overlap
+PASS loot_n01_food/loot_f01_water no container overlap
+PASS loot_n01_food/loot_power_safe no container overlap
+PASS loot_n01_food/loot_parts_safe no container overlap
+PASS loot_n01_food/loot_n11_safe no container overlap
+PASS loot_n01_food/loot_clinic_safe no container overlap
+PASS loot_n01_food/loot_w10_weapons no container overlap
+PASS loot_n01_food/loot_e05_weapons no container overlap
+PASS loot_n01_food/loot_y02_weapons no container overlap
+PASS loot_n01_food/loot_parts_ammo no container overlap
+PASS loot_n03_records/loot_n05_medicine no container overlap
+PASS loot_n03_records/loot_n08_transformer no container overlap
+PASS loot_n03_records/loot_n09_cable no container overlap
+PASS loot_n03_records/loot_n11_data no container overlap
+PASS loot_n03_records/loot_n12_power no container overlap
+PASS loot_n03_records/loot_n14_control no container overlap
+PASS loot_n03_records/loot_w01_timber no container overlap
+PASS loot_n03_records/loot_w02_machine no container overlap
+PASS loot_n03_records/loot_w03_tools no container overlap
+PASS loot_n03_records/loot_w05_salvage no container overlap
+PASS loot_n03_records/loot_w07_office no container overlap
+PASS loot_n03_records/loot_w08_garage no container overlap
+PASS loot_n03_records/loot_w10_shipping no container overlap
+PASS loot_n03_records/loot_e01_battery no container overlap
+PASS loot_n03_records/loot_e03_transformer no container overlap
+PASS loot_n03_records/loot_e04_cables no container overlap
+PASS loot_n03_records/loot_e05_packing no container overlap
+PASS loot_n03_records/loot_e06_inspection no container overlap
+PASS loot_n03_records/loot_s01_dorm no container overlap
+PASS loot_n03_records/loot_s02_canteen no container overlap
+PASS loot_n03_records/loot_s05_home no container overlap
+PASS loot_n03_records/loot_s07_house no container overlap
+PASS loot_n03_records/loot_s08_store no container overlap
+PASS loot_n03_records/loot_y01_dismantle no container overlap
+PASS loot_n03_records/loot_y02_parts no container overlap
+PASS loot_n03_records/loot_f01_water no container overlap
+PASS loot_n03_records/loot_power_safe no container overlap
+PASS loot_n03_records/loot_parts_safe no container overlap
+PASS loot_n03_records/loot_n11_safe no container overlap
+PASS loot_n03_records/loot_clinic_safe no container overlap
+PASS loot_n03_records/loot_w10_weapons no container overlap
+PASS loot_n03_records/loot_e05_weapons no container overlap
+PASS loot_n03_records/loot_y02_weapons no container overlap
+PASS loot_n03_records/loot_parts_ammo no container overlap
+PASS loot_n05_medicine/loot_n08_transformer no container overlap
+PASS loot_n05_medicine/loot_n09_cable no container overlap
+PASS loot_n05_medicine/loot_n11_data no container overlap
+PASS loot_n05_medicine/loot_n12_power no container overlap
+PASS loot_n05_medicine/loot_n14_control no container overlap
+PASS loot_n05_medicine/loot_w01_timber no container overlap
+PASS loot_n05_medicine/loot_w02_machine no container overlap
+PASS loot_n05_medicine/loot_w03_tools no container overlap
+PASS loot_n05_medicine/loot_w05_salvage no container overlap
+PASS loot_n05_medicine/loot_w07_office no container overlap
+PASS loot_n05_medicine/loot_w08_garage no container overlap
+PASS loot_n05_medicine/loot_w10_shipping no container overlap
+PASS loot_n05_medicine/loot_e01_battery no container overlap
+PASS loot_n05_medicine/loot_e03_transformer no container overlap
+PASS loot_n05_medicine/loot_e04_cables no container overlap
+PASS loot_n05_medicine/loot_e05_packing no container overlap
+PASS loot_n05_medicine/loot_e06_inspection no container overlap
+PASS loot_n05_medicine/loot_s01_dorm no container overlap
+PASS loot_n05_medicine/loot_s02_canteen no container overlap
+PASS loot_n05_medicine/loot_s05_home no container overlap
+PASS loot_n05_medicine/loot_s07_house no container overlap
+PASS loot_n05_medicine/loot_s08_store no container overlap
+PASS loot_n05_medicine/loot_y01_dismantle no container overlap
+PASS loot_n05_medicine/loot_y02_parts no container overlap
+PASS loot_n05_medicine/loot_f01_water no container overlap
+PASS loot_n05_medicine/loot_power_safe no container overlap
+PASS loot_n05_medicine/loot_parts_safe no container overlap
+PASS loot_n05_medicine/loot_n11_safe no container overlap
+PASS loot_n05_medicine/loot_clinic_safe no container overlap
+PASS loot_n05_medicine/loot_w10_weapons no container overlap
+PASS loot_n05_medicine/loot_e05_weapons no container overlap
+PASS loot_n05_medicine/loot_y02_weapons no container overlap
+PASS loot_n05_medicine/loot_parts_ammo no container overlap
+PASS loot_n08_transformer/loot_n09_cable no container overlap
+PASS loot_n08_transformer/loot_n11_data no container overlap
+PASS loot_n08_transformer/loot_n12_power no container overlap
+PASS loot_n08_transformer/loot_n14_control no container overlap
+PASS loot_n08_transformer/loot_w01_timber no container overlap
+PASS loot_n08_transformer/loot_w02_machine no container overlap
+PASS loot_n08_transformer/loot_w03_tools no container overlap
+PASS loot_n08_transformer/loot_w05_salvage no container overlap
+PASS loot_n08_transformer/loot_w07_office no container overlap
+PASS loot_n08_transformer/loot_w08_garage no container overlap
+PASS loot_n08_transformer/loot_w10_shipping no container overlap
+PASS loot_n08_transformer/loot_e01_battery no container overlap
+PASS loot_n08_transformer/loot_e03_transformer no container overlap
+PASS loot_n08_transformer/loot_e04_cables no container overlap
+PASS loot_n08_transformer/loot_e05_packing no container overlap
+PASS loot_n08_transformer/loot_e06_inspection no container overlap
+PASS loot_n08_transformer/loot_s01_dorm no container overlap
+PASS loot_n08_transformer/loot_s02_canteen no container overlap
+PASS loot_n08_transformer/loot_s05_home no container overlap
+PASS loot_n08_transformer/loot_s07_house no container overlap
+PASS loot_n08_transformer/loot_s08_store no container overlap
+PASS loot_n08_transformer/loot_y01_dismantle no container overlap
+PASS loot_n08_transformer/loot_y02_parts no container overlap
+PASS loot_n08_transformer/loot_f01_water no container overlap
+PASS loot_n08_transformer/loot_power_safe no container overlap
+PASS loot_n08_transformer/loot_parts_safe no container overlap
+PASS loot_n08_transformer/loot_n11_safe no container overlap
+PASS loot_n08_transformer/loot_clinic_safe no container overlap
+PASS loot_n08_transformer/loot_w10_weapons no container overlap
+PASS loot_n08_transformer/loot_e05_weapons no container overlap
+PASS loot_n08_transformer/loot_y02_weapons no container overlap
+PASS loot_n08_transformer/loot_parts_ammo no container overlap
+PASS loot_n09_cable/loot_n11_data no container overlap
+PASS loot_n09_cable/loot_n12_power no container overlap
+PASS loot_n09_cable/loot_n14_control no container overlap
+PASS loot_n09_cable/loot_w01_timber no container overlap
+PASS loot_n09_cable/loot_w02_machine no container overlap
+PASS loot_n09_cable/loot_w03_tools no container overlap
+PASS loot_n09_cable/loot_w05_salvage no container overlap
+PASS loot_n09_cable/loot_w07_office no container overlap
+PASS loot_n09_cable/loot_w08_garage no container overlap
+PASS loot_n09_cable/loot_w10_shipping no container overlap
+PASS loot_n09_cable/loot_e01_battery no container overlap
+PASS loot_n09_cable/loot_e03_transformer no container overlap
+PASS loot_n09_cable/loot_e04_cables no container overlap
+PASS loot_n09_cable/loot_e05_packing no container overlap
+PASS loot_n09_cable/loot_e06_inspection no container overlap
+PASS loot_n09_cable/loot_s01_dorm no container overlap
+PASS loot_n09_cable/loot_s02_canteen no container overlap
+PASS loot_n09_cable/loot_s05_home no container overlap
+PASS loot_n09_cable/loot_s07_house no container overlap
+PASS loot_n09_cable/loot_s08_store no container overlap
+PASS loot_n09_cable/loot_y01_dismantle no container overlap
+PASS loot_n09_cable/loot_y02_parts no container overlap
+PASS loot_n09_cable/loot_f01_water no container overlap
+PASS loot_n09_cable/loot_power_safe no container overlap
+PASS loot_n09_cable/loot_parts_safe no container overlap
+PASS loot_n09_cable/loot_n11_safe no container overlap
+PASS loot_n09_cable/loot_clinic_safe no container overlap
+PASS loot_n09_cable/loot_w10_weapons no container overlap
+PASS loot_n09_cable/loot_e05_weapons no container overlap
+PASS loot_n09_cable/loot_y02_weapons no container overlap
+PASS loot_n09_cable/loot_parts_ammo no container overlap
+PASS loot_n11_data/loot_n12_power no container overlap
+PASS loot_n11_data/loot_n14_control no container overlap
+PASS loot_n11_data/loot_w01_timber no container overlap
+PASS loot_n11_data/loot_w02_machine no container overlap
+PASS loot_n11_data/loot_w03_tools no container overlap
+PASS loot_n11_data/loot_w05_salvage no container overlap
+PASS loot_n11_data/loot_w07_office no container overlap
+PASS loot_n11_data/loot_w08_garage no container overlap
+PASS loot_n11_data/loot_w10_shipping no container overlap
+PASS loot_n11_data/loot_e01_battery no container overlap
+PASS loot_n11_data/loot_e03_transformer no container overlap
+PASS loot_n11_data/loot_e04_cables no container overlap
+PASS loot_n11_data/loot_e05_packing no container overlap
+PASS loot_n11_data/loot_e06_inspection no container overlap
+PASS loot_n11_data/loot_s01_dorm no container overlap
+PASS loot_n11_data/loot_s02_canteen no container overlap
+PASS loot_n11_data/loot_s05_home no container overlap
+PASS loot_n11_data/loot_s07_house no container overlap
+PASS loot_n11_data/loot_s08_store no container overlap
+PASS loot_n11_data/loot_y01_dismantle no container overlap
+PASS loot_n11_data/loot_y02_parts no container overlap
+PASS loot_n11_data/loot_f01_water no container overlap
+PASS loot_n11_data/loot_power_safe no container overlap
+PASS loot_n11_data/loot_parts_safe no container overlap
+PASS loot_n11_data/loot_n11_safe no container overlap
+PASS loot_n11_data/loot_clinic_safe no container overlap
+PASS loot_n11_data/loot_w10_weapons no container overlap
+PASS loot_n11_data/loot_e05_weapons no container overlap
+PASS loot_n11_data/loot_y02_weapons no container overlap
+PASS loot_n11_data/loot_parts_ammo no container overlap
+PASS loot_n12_power/loot_n14_control no container overlap
+PASS loot_n12_power/loot_w01_timber no container overlap
+PASS loot_n12_power/loot_w02_machine no container overlap
+PASS loot_n12_power/loot_w03_tools no container overlap
+PASS loot_n12_power/loot_w05_salvage no container overlap
+PASS loot_n12_power/loot_w07_office no container overlap
+PASS loot_n12_power/loot_w08_garage no container overlap
+PASS loot_n12_power/loot_w10_shipping no container overlap
+PASS loot_n12_power/loot_e01_battery no container overlap
+PASS loot_n12_power/loot_e03_transformer no container overlap
+PASS loot_n12_power/loot_e04_cables no container overlap
+PASS loot_n12_power/loot_e05_packing no container overlap
+PASS loot_n12_power/loot_e06_inspection no container overlap
+PASS loot_n12_power/loot_s01_dorm no container overlap
+PASS loot_n12_power/loot_s02_canteen no container overlap
+PASS loot_n12_power/loot_s05_home no container overlap
+PASS loot_n12_power/loot_s07_house no container overlap
+PASS loot_n12_power/loot_s08_store no container overlap
+PASS loot_n12_power/loot_y01_dismantle no container overlap
+PASS loot_n12_power/loot_y02_parts no container overlap
+PASS loot_n12_power/loot_f01_water no container overlap
+PASS loot_n12_power/loot_power_safe no container overlap
+PASS loot_n12_power/loot_parts_safe no container overlap
+PASS loot_n12_power/loot_n11_safe no container overlap
+PASS loot_n12_power/loot_clinic_safe no container overlap
+PASS loot_n12_power/loot_w10_weapons no container overlap
+PASS loot_n12_power/loot_e05_weapons no container overlap
+PASS loot_n12_power/loot_y02_weapons no container overlap
+PASS loot_n12_power/loot_parts_ammo no container overlap
+PASS loot_n14_control/loot_w01_timber no container overlap
+PASS loot_n14_control/loot_w02_machine no container overlap
+PASS loot_n14_control/loot_w03_tools no container overlap
+PASS loot_n14_control/loot_w05_salvage no container overlap
+PASS loot_n14_control/loot_w07_office no container overlap
+PASS loot_n14_control/loot_w08_garage no container overlap
+PASS loot_n14_control/loot_w10_shipping no container overlap
+PASS loot_n14_control/loot_e01_battery no container overlap
+PASS loot_n14_control/loot_e03_transformer no container overlap
+PASS loot_n14_control/loot_e04_cables no container overlap
+PASS loot_n14_control/loot_e05_packing no container overlap
+PASS loot_n14_control/loot_e06_inspection no container overlap
+PASS loot_n14_control/loot_s01_dorm no container overlap
+PASS loot_n14_control/loot_s02_canteen no container overlap
+PASS loot_n14_control/loot_s05_home no container overlap
+PASS loot_n14_control/loot_s07_house no container overlap
+PASS loot_n14_control/loot_s08_store no container overlap
+PASS loot_n14_control/loot_y01_dismantle no container overlap
+PASS loot_n14_control/loot_y02_parts no container overlap
+PASS loot_n14_control/loot_f01_water no container overlap
+PASS loot_n14_control/loot_power_safe no container overlap
+PASS loot_n14_control/loot_parts_safe no container overlap
+PASS loot_n14_control/loot_n11_safe no container overlap
+PASS loot_n14_control/loot_clinic_safe no container overlap
+PASS loot_n14_control/loot_w10_weapons no container overlap
+PASS loot_n14_control/loot_e05_weapons no container overlap
+PASS loot_n14_control/loot_y02_weapons no container overlap
+PASS loot_n14_control/loot_parts_ammo no container overlap
+PASS loot_w01_timber/loot_w02_machine no container overlap
+PASS loot_w01_timber/loot_w03_tools no container overlap
+PASS loot_w01_timber/loot_w05_salvage no container overlap
+PASS loot_w01_timber/loot_w07_office no container overlap
+PASS loot_w01_timber/loot_w08_garage no container overlap
+PASS loot_w01_timber/loot_w10_shipping no container overlap
+PASS loot_w01_timber/loot_e01_battery no container overlap
+PASS loot_w01_timber/loot_e03_transformer no container overlap
+PASS loot_w01_timber/loot_e04_cables no container overlap
+PASS loot_w01_timber/loot_e05_packing no container overlap
+PASS loot_w01_timber/loot_e06_inspection no container overlap
+PASS loot_w01_timber/loot_s01_dorm no container overlap
+PASS loot_w01_timber/loot_s02_canteen no container overlap
+PASS loot_w01_timber/loot_s05_home no container overlap
+PASS loot_w01_timber/loot_s07_house no container overlap
+PASS loot_w01_timber/loot_s08_store no container overlap
+PASS loot_w01_timber/loot_y01_dismantle no container overlap
+PASS loot_w01_timber/loot_y02_parts no container overlap
+PASS loot_w01_timber/loot_f01_water no container overlap
+PASS loot_w01_timber/loot_power_safe no container overlap
+PASS loot_w01_timber/loot_parts_safe no container overlap
+PASS loot_w01_timber/loot_n11_safe no container overlap
+PASS loot_w01_timber/loot_clinic_safe no container overlap
+PASS loot_w01_timber/loot_w10_weapons no container overlap
+PASS loot_w01_timber/loot_e05_weapons no container overlap
+PASS loot_w01_timber/loot_y02_weapons no container overlap
+PASS loot_w01_timber/loot_parts_ammo no container overlap
+PASS loot_w02_machine/loot_w03_tools no container overlap
+PASS loot_w02_machine/loot_w05_salvage no container overlap
+PASS loot_w02_machine/loot_w07_office no container overlap
+PASS loot_w02_machine/loot_w08_garage no container overlap
+PASS loot_w02_machine/loot_w10_shipping no container overlap
+PASS loot_w02_machine/loot_e01_battery no container overlap
+PASS loot_w02_machine/loot_e03_transformer no container overlap
+PASS loot_w02_machine/loot_e04_cables no container overlap
+PASS loot_w02_machine/loot_e05_packing no container overlap
+PASS loot_w02_machine/loot_e06_inspection no container overlap
+PASS loot_w02_machine/loot_s01_dorm no container overlap
+PASS loot_w02_machine/loot_s02_canteen no container overlap
+PASS loot_w02_machine/loot_s05_home no container overlap
+PASS loot_w02_machine/loot_s07_house no container overlap
+PASS loot_w02_machine/loot_s08_store no container overlap
+PASS loot_w02_machine/loot_y01_dismantle no container overlap
+PASS loot_w02_machine/loot_y02_parts no container overlap
+PASS loot_w02_machine/loot_f01_water no container overlap
+PASS loot_w02_machine/loot_power_safe no container overlap
+PASS loot_w02_machine/loot_parts_safe no container overlap
+PASS loot_w02_machine/loot_n11_safe no container overlap
+PASS loot_w02_machine/loot_clinic_safe no container overlap
+PASS loot_w02_machine/loot_w10_weapons no container overlap
+PASS loot_w02_machine/loot_e05_weapons no container overlap
+PASS loot_w02_machine/loot_y02_weapons no container overlap
+PASS loot_w02_machine/loot_parts_ammo no container overlap
+PASS loot_w03_tools/loot_w05_salvage no container overlap
+PASS loot_w03_tools/loot_w07_office no container overlap
+PASS loot_w03_tools/loot_w08_garage no container overlap
+PASS loot_w03_tools/loot_w10_shipping no container overlap
+PASS loot_w03_tools/loot_e01_battery no container overlap
+PASS loot_w03_tools/loot_e03_transformer no container overlap
+PASS loot_w03_tools/loot_e04_cables no container overlap
+PASS loot_w03_tools/loot_e05_packing no container overlap
+PASS loot_w03_tools/loot_e06_inspection no container overlap
+PASS loot_w03_tools/loot_s01_dorm no container overlap
+PASS loot_w03_tools/loot_s02_canteen no container overlap
+PASS loot_w03_tools/loot_s05_home no container overlap
+PASS loot_w03_tools/loot_s07_house no container overlap
+PASS loot_w03_tools/loot_s08_store no container overlap
+PASS loot_w03_tools/loot_y01_dismantle no container overlap
+PASS loot_w03_tools/loot_y02_parts no container overlap
+PASS loot_w03_tools/loot_f01_water no container overlap
+PASS loot_w03_tools/loot_power_safe no container overlap
+PASS loot_w03_tools/loot_parts_safe no container overlap
+PASS loot_w03_tools/loot_n11_safe no container overlap
+PASS loot_w03_tools/loot_clinic_safe no container overlap
+PASS loot_w03_tools/loot_w10_weapons no container overlap
+PASS loot_w03_tools/loot_e05_weapons no container overlap
+PASS loot_w03_tools/loot_y02_weapons no container overlap
+PASS loot_w03_tools/loot_parts_ammo no container overlap
+PASS loot_w05_salvage/loot_w07_office no container overlap
+PASS loot_w05_salvage/loot_w08_garage no container overlap
+PASS loot_w05_salvage/loot_w10_shipping no container overlap
+PASS loot_w05_salvage/loot_e01_battery no container overlap
+PASS loot_w05_salvage/loot_e03_transformer no container overlap
+PASS loot_w05_salvage/loot_e04_cables no container overlap
+PASS loot_w05_salvage/loot_e05_packing no container overlap
+PASS loot_w05_salvage/loot_e06_inspection no container overlap
+PASS loot_w05_salvage/loot_s01_dorm no container overlap
+PASS loot_w05_salvage/loot_s02_canteen no container overlap
+PASS loot_w05_salvage/loot_s05_home no container overlap
+PASS loot_w05_salvage/loot_s07_house no container overlap
+PASS loot_w05_salvage/loot_s08_store no container overlap
+PASS loot_w05_salvage/loot_y01_dismantle no container overlap
+PASS loot_w05_salvage/loot_y02_parts no container overlap
+PASS loot_w05_salvage/loot_f01_water no container overlap
+PASS loot_w05_salvage/loot_power_safe no container overlap
+PASS loot_w05_salvage/loot_parts_safe no container overlap
+PASS loot_w05_salvage/loot_n11_safe no container overlap
+PASS loot_w05_salvage/loot_clinic_safe no container overlap
+PASS loot_w05_salvage/loot_w10_weapons no container overlap
+PASS loot_w05_salvage/loot_e05_weapons no container overlap
+PASS loot_w05_salvage/loot_y02_weapons no container overlap
+PASS loot_w05_salvage/loot_parts_ammo no container overlap
+PASS loot_w07_office/loot_w08_garage no container overlap
+PASS loot_w07_office/loot_w10_shipping no container overlap
+PASS loot_w07_office/loot_e01_battery no container overlap
+PASS loot_w07_office/loot_e03_transformer no container overlap
+PASS loot_w07_office/loot_e04_cables no container overlap
+PASS loot_w07_office/loot_e05_packing no container overlap
+PASS loot_w07_office/loot_e06_inspection no container overlap
+PASS loot_w07_office/loot_s01_dorm no container overlap
+PASS loot_w07_office/loot_s02_canteen no container overlap
+PASS loot_w07_office/loot_s05_home no container overlap
+PASS loot_w07_office/loot_s07_house no container overlap
+PASS loot_w07_office/loot_s08_store no container overlap
+PASS loot_w07_office/loot_y01_dismantle no container overlap
+PASS loot_w07_office/loot_y02_parts no container overlap
+PASS loot_w07_office/loot_f01_water no container overlap
+PASS loot_w07_office/loot_power_safe no container overlap
+PASS loot_w07_office/loot_parts_safe no container overlap
+PASS loot_w07_office/loot_n11_safe no container overlap
+PASS loot_w07_office/loot_clinic_safe no container overlap
+PASS loot_w07_office/loot_w10_weapons no container overlap
+PASS loot_w07_office/loot_e05_weapons no container overlap
+PASS loot_w07_office/loot_y02_weapons no container overlap
+PASS loot_w07_office/loot_parts_ammo no container overlap
+PASS loot_w08_garage/loot_w10_shipping no container overlap
+PASS loot_w08_garage/loot_e01_battery no container overlap
+PASS loot_w08_garage/loot_e03_transformer no container overlap
+PASS loot_w08_garage/loot_e04_cables no container overlap
+PASS loot_w08_garage/loot_e05_packing no container overlap
+PASS loot_w08_garage/loot_e06_inspection no container overlap
+PASS loot_w08_garage/loot_s01_dorm no container overlap
+PASS loot_w08_garage/loot_s02_canteen no container overlap
+PASS loot_w08_garage/loot_s05_home no container overlap
+PASS loot_w08_garage/loot_s07_house no container overlap
+PASS loot_w08_garage/loot_s08_store no container overlap
+PASS loot_w08_garage/loot_y01_dismantle no container overlap
+PASS loot_w08_garage/loot_y02_parts no container overlap
+PASS loot_w08_garage/loot_f01_water no container overlap
+PASS loot_w08_garage/loot_power_safe no container overlap
+PASS loot_w08_garage/loot_parts_safe no container overlap
+PASS loot_w08_garage/loot_n11_safe no container overlap
+PASS loot_w08_garage/loot_clinic_safe no container overlap
+PASS loot_w08_garage/loot_w10_weapons no container overlap
+PASS loot_w08_garage/loot_e05_weapons no container overlap
+PASS loot_w08_garage/loot_y02_weapons no container overlap
+PASS loot_w08_garage/loot_parts_ammo no container overlap
+PASS loot_w10_shipping/loot_e01_battery no container overlap
+PASS loot_w10_shipping/loot_e03_transformer no container overlap
+PASS loot_w10_shipping/loot_e04_cables no container overlap
+PASS loot_w10_shipping/loot_e05_packing no container overlap
+PASS loot_w10_shipping/loot_e06_inspection no container overlap
+PASS loot_w10_shipping/loot_s01_dorm no container overlap
+PASS loot_w10_shipping/loot_s02_canteen no container overlap
+PASS loot_w10_shipping/loot_s05_home no container overlap
+PASS loot_w10_shipping/loot_s07_house no container overlap
+PASS loot_w10_shipping/loot_s08_store no container overlap
+PASS loot_w10_shipping/loot_y01_dismantle no container overlap
+PASS loot_w10_shipping/loot_y02_parts no container overlap
+PASS loot_w10_shipping/loot_f01_water no container overlap
+PASS loot_w10_shipping/loot_power_safe no container overlap
+PASS loot_w10_shipping/loot_parts_safe no container overlap
+PASS loot_w10_shipping/loot_n11_safe no container overlap
+PASS loot_w10_shipping/loot_clinic_safe no container overlap
+PASS loot_w10_shipping/loot_w10_weapons no container overlap
+PASS loot_w10_shipping/loot_e05_weapons no container overlap
+PASS loot_w10_shipping/loot_y02_weapons no container overlap
+PASS loot_w10_shipping/loot_parts_ammo no container overlap
+PASS loot_e01_battery/loot_e03_transformer no container overlap
+PASS loot_e01_battery/loot_e04_cables no container overlap
+PASS loot_e01_battery/loot_e05_packing no container overlap
+PASS loot_e01_battery/loot_e06_inspection no container overlap
+PASS loot_e01_battery/loot_s01_dorm no container overlap
+PASS loot_e01_battery/loot_s02_canteen no container overlap
+PASS loot_e01_battery/loot_s05_home no container overlap
+PASS loot_e01_battery/loot_s07_house no container overlap
+PASS loot_e01_battery/loot_s08_store no container overlap
+PASS loot_e01_battery/loot_y01_dismantle no container overlap
+PASS loot_e01_battery/loot_y02_parts no container overlap
+PASS loot_e01_battery/loot_f01_water no container overlap
+PASS loot_e01_battery/loot_power_safe no container overlap
+PASS loot_e01_battery/loot_parts_safe no container overlap
+PASS loot_e01_battery/loot_n11_safe no container overlap
+PASS loot_e01_battery/loot_clinic_safe no container overlap
+PASS loot_e01_battery/loot_w10_weapons no container overlap
+PASS loot_e01_battery/loot_e05_weapons no container overlap
+PASS loot_e01_battery/loot_y02_weapons no container overlap
+PASS loot_e01_battery/loot_parts_ammo no container overlap
+PASS loot_e03_transformer/loot_e04_cables no container overlap
+PASS loot_e03_transformer/loot_e05_packing no container overlap
+PASS loot_e03_transformer/loot_e06_inspection no container overlap
+PASS loot_e03_transformer/loot_s01_dorm no container overlap
+PASS loot_e03_transformer/loot_s02_canteen no container overlap
+PASS loot_e03_transformer/loot_s05_home no container overlap
+PASS loot_e03_transformer/loot_s07_house no container overlap
+PASS loot_e03_transformer/loot_s08_store no container overlap
+PASS loot_e03_transformer/loot_y01_dismantle no container overlap
+PASS loot_e03_transformer/loot_y02_parts no container overlap
+PASS loot_e03_transformer/loot_f01_water no container overlap
+PASS loot_e03_transformer/loot_power_safe no container overlap
+PASS loot_e03_transformer/loot_parts_safe no container overlap
+PASS loot_e03_transformer/loot_n11_safe no container overlap
+PASS loot_e03_transformer/loot_clinic_safe no container overlap
+PASS loot_e03_transformer/loot_w10_weapons no container overlap
+PASS loot_e03_transformer/loot_e05_weapons no container overlap
+PASS loot_e03_transformer/loot_y02_weapons no container overlap
+PASS loot_e03_transformer/loot_parts_ammo no container overlap
+PASS loot_e04_cables/loot_e05_packing no container overlap
+PASS loot_e04_cables/loot_e06_inspection no container overlap
+PASS loot_e04_cables/loot_s01_dorm no container overlap
+PASS loot_e04_cables/loot_s02_canteen no container overlap
+PASS loot_e04_cables/loot_s05_home no container overlap
+PASS loot_e04_cables/loot_s07_house no container overlap
+PASS loot_e04_cables/loot_s08_store no container overlap
+PASS loot_e04_cables/loot_y01_dismantle no container overlap
+PASS loot_e04_cables/loot_y02_parts no container overlap
+PASS loot_e04_cables/loot_f01_water no container overlap
+PASS loot_e04_cables/loot_power_safe no container overlap
+PASS loot_e04_cables/loot_parts_safe no container overlap
+PASS loot_e04_cables/loot_n11_safe no container overlap
+PASS loot_e04_cables/loot_clinic_safe no container overlap
+PASS loot_e04_cables/loot_w10_weapons no container overlap
+PASS loot_e04_cables/loot_e05_weapons no container overlap
+PASS loot_e04_cables/loot_y02_weapons no container overlap
+PASS loot_e04_cables/loot_parts_ammo no container overlap
+PASS loot_e05_packing/loot_e06_inspection no container overlap
+PASS loot_e05_packing/loot_s01_dorm no container overlap
+PASS loot_e05_packing/loot_s02_canteen no container overlap
+PASS loot_e05_packing/loot_s05_home no container overlap
+PASS loot_e05_packing/loot_s07_house no container overlap
+PASS loot_e05_packing/loot_s08_store no container overlap
+PASS loot_e05_packing/loot_y01_dismantle no container overlap
+PASS loot_e05_packing/loot_y02_parts no container overlap
+PASS loot_e05_packing/loot_f01_water no container overlap
+PASS loot_e05_packing/loot_power_safe no container overlap
+PASS loot_e05_packing/loot_parts_safe no container overlap
+PASS loot_e05_packing/loot_n11_safe no container overlap
+PASS loot_e05_packing/loot_clinic_safe no container overlap
+PASS loot_e05_packing/loot_w10_weapons no container overlap
+PASS loot_e05_packing/loot_e05_weapons no container overlap
+PASS loot_e05_packing/loot_y02_weapons no container overlap
+PASS loot_e05_packing/loot_parts_ammo no container overlap
+PASS loot_e06_inspection/loot_s01_dorm no container overlap
+PASS loot_e06_inspection/loot_s02_canteen no container overlap
+PASS loot_e06_inspection/loot_s05_home no container overlap
+PASS loot_e06_inspection/loot_s07_house no container overlap
+PASS loot_e06_inspection/loot_s08_store no container overlap
+PASS loot_e06_inspection/loot_y01_dismantle no container overlap
+PASS loot_e06_inspection/loot_y02_parts no container overlap
+PASS loot_e06_inspection/loot_f01_water no container overlap
+PASS loot_e06_inspection/loot_power_safe no container overlap
+PASS loot_e06_inspection/loot_parts_safe no container overlap
+PASS loot_e06_inspection/loot_n11_safe no container overlap
+PASS loot_e06_inspection/loot_clinic_safe no container overlap
+PASS loot_e06_inspection/loot_w10_weapons no container overlap
+PASS loot_e06_inspection/loot_e05_weapons no container overlap
+PASS loot_e06_inspection/loot_y02_weapons no container overlap
+PASS loot_e06_inspection/loot_parts_ammo no container overlap
+PASS loot_s01_dorm/loot_s02_canteen no container overlap
+PASS loot_s01_dorm/loot_s05_home no container overlap
+PASS loot_s01_dorm/loot_s07_house no container overlap
+PASS loot_s01_dorm/loot_s08_store no container overlap
+PASS loot_s01_dorm/loot_y01_dismantle no container overlap
+PASS loot_s01_dorm/loot_y02_parts no container overlap
+PASS loot_s01_dorm/loot_f01_water no container overlap
+PASS loot_s01_dorm/loot_power_safe no container overlap
+PASS loot_s01_dorm/loot_parts_safe no container overlap
+PASS loot_s01_dorm/loot_n11_safe no container overlap
+PASS loot_s01_dorm/loot_clinic_safe no container overlap
+PASS loot_s01_dorm/loot_w10_weapons no container overlap
+PASS loot_s01_dorm/loot_e05_weapons no container overlap
+PASS loot_s01_dorm/loot_y02_weapons no container overlap
+PASS loot_s01_dorm/loot_parts_ammo no container overlap
+PASS loot_s02_canteen/loot_s05_home no container overlap
+PASS loot_s02_canteen/loot_s07_house no container overlap
+PASS loot_s02_canteen/loot_s08_store no container overlap
+PASS loot_s02_canteen/loot_y01_dismantle no container overlap
+PASS loot_s02_canteen/loot_y02_parts no container overlap
+PASS loot_s02_canteen/loot_f01_water no container overlap
+PASS loot_s02_canteen/loot_power_safe no container overlap
+PASS loot_s02_canteen/loot_parts_safe no container overlap
+PASS loot_s02_canteen/loot_n11_safe no container overlap
+PASS loot_s02_canteen/loot_clinic_safe no container overlap
+PASS loot_s02_canteen/loot_w10_weapons no container overlap
+PASS loot_s02_canteen/loot_e05_weapons no container overlap
+PASS loot_s02_canteen/loot_y02_weapons no container overlap
+PASS loot_s02_canteen/loot_parts_ammo no container overlap
+PASS loot_s05_home/loot_s07_house no container overlap
+PASS loot_s05_home/loot_s08_store no container overlap
+PASS loot_s05_home/loot_y01_dismantle no container overlap
+PASS loot_s05_home/loot_y02_parts no container overlap
+PASS loot_s05_home/loot_f01_water no container overlap
+PASS loot_s05_home/loot_power_safe no container overlap
+PASS loot_s05_home/loot_parts_safe no container overlap
+PASS loot_s05_home/loot_n11_safe no container overlap
+PASS loot_s05_home/loot_clinic_safe no container overlap
+PASS loot_s05_home/loot_w10_weapons no container overlap
+PASS loot_s05_home/loot_e05_weapons no container overlap
+PASS loot_s05_home/loot_y02_weapons no container overlap
+PASS loot_s05_home/loot_parts_ammo no container overlap
+PASS loot_s07_house/loot_s08_store no container overlap
+PASS loot_s07_house/loot_y01_dismantle no container overlap
+PASS loot_s07_house/loot_y02_parts no container overlap
+PASS loot_s07_house/loot_f01_water no container overlap
+PASS loot_s07_house/loot_power_safe no container overlap
+PASS loot_s07_house/loot_parts_safe no container overlap
+PASS loot_s07_house/loot_n11_safe no container overlap
+PASS loot_s07_house/loot_clinic_safe no container overlap
+PASS loot_s07_house/loot_w10_weapons no container overlap
+PASS loot_s07_house/loot_e05_weapons no container overlap
+PASS loot_s07_house/loot_y02_weapons no container overlap
+PASS loot_s07_house/loot_parts_ammo no container overlap
+PASS loot_s08_store/loot_y01_dismantle no container overlap
+PASS loot_s08_store/loot_y02_parts no container overlap
+PASS loot_s08_store/loot_f01_water no container overlap
+PASS loot_s08_store/loot_power_safe no container overlap
+PASS loot_s08_store/loot_parts_safe no container overlap
+PASS loot_s08_store/loot_n11_safe no container overlap
+PASS loot_s08_store/loot_clinic_safe no container overlap
+PASS loot_s08_store/loot_w10_weapons no container overlap
+PASS loot_s08_store/loot_e05_weapons no container overlap
+PASS loot_s08_store/loot_y02_weapons no container overlap
+PASS loot_s08_store/loot_parts_ammo no container overlap
+PASS loot_y01_dismantle/loot_y02_parts no container overlap
+PASS loot_y01_dismantle/loot_f01_water no container overlap
+PASS loot_y01_dismantle/loot_power_safe no container overlap
+PASS loot_y01_dismantle/loot_parts_safe no container overlap
+PASS loot_y01_dismantle/loot_n11_safe no container overlap
+PASS loot_y01_dismantle/loot_clinic_safe no container overlap
+PASS loot_y01_dismantle/loot_w10_weapons no container overlap
+PASS loot_y01_dismantle/loot_e05_weapons no container overlap
+PASS loot_y01_dismantle/loot_y02_weapons no container overlap
+PASS loot_y01_dismantle/loot_parts_ammo no container overlap
+PASS loot_y02_parts/loot_f01_water no container overlap
+PASS loot_y02_parts/loot_power_safe no container overlap
+PASS loot_y02_parts/loot_parts_safe no container overlap
+PASS loot_y02_parts/loot_n11_safe no container overlap
+PASS loot_y02_parts/loot_clinic_safe no container overlap
+PASS loot_y02_parts/loot_w10_weapons no container overlap
+PASS loot_y02_parts/loot_e05_weapons no container overlap
+PASS loot_y02_parts/loot_y02_weapons no container overlap
+PASS loot_y02_parts/loot_parts_ammo no container overlap
+PASS loot_f01_water/loot_power_safe no container overlap
+PASS loot_f01_water/loot_parts_safe no container overlap
+PASS loot_f01_water/loot_n11_safe no container overlap
+PASS loot_f01_water/loot_clinic_safe no container overlap
+PASS loot_f01_water/loot_w10_weapons no container overlap
+PASS loot_f01_water/loot_e05_weapons no container overlap
+PASS loot_f01_water/loot_y02_weapons no container overlap
+PASS loot_f01_water/loot_parts_ammo no container overlap
+PASS loot_power_safe/loot_parts_safe no container overlap
+PASS loot_power_safe/loot_n11_safe no container overlap
+PASS loot_power_safe/loot_clinic_safe no container overlap
+PASS loot_power_safe/loot_w10_weapons no container overlap
+PASS loot_power_safe/loot_e05_weapons no container overlap
+PASS loot_power_safe/loot_y02_weapons no container overlap
+PASS loot_power_safe/loot_parts_ammo no container overlap
+PASS loot_parts_safe/loot_n11_safe no container overlap
+PASS loot_parts_safe/loot_clinic_safe no container overlap
+PASS loot_parts_safe/loot_w10_weapons no container overlap
+PASS loot_parts_safe/loot_e05_weapons no container overlap
+PASS loot_parts_safe/loot_y02_weapons no container overlap
+PASS loot_parts_safe/loot_parts_ammo no container overlap
+PASS loot_n11_safe/loot_clinic_safe no container overlap
+PASS loot_n11_safe/loot_w10_weapons no container overlap
+PASS loot_n11_safe/loot_e05_weapons no container overlap
+PASS loot_n11_safe/loot_y02_weapons no container overlap
+PASS loot_n11_safe/loot_parts_ammo no container overlap
+PASS loot_clinic_safe/loot_w10_weapons no container overlap
+PASS loot_clinic_safe/loot_e05_weapons no container overlap
+PASS loot_clinic_safe/loot_y02_weapons no container overlap
+PASS loot_clinic_safe/loot_parts_ammo no container overlap
+PASS loot_w10_weapons/loot_e05_weapons no container overlap
+PASS loot_w10_weapons/loot_y02_weapons no container overlap
+PASS loot_w10_weapons/loot_parts_ammo no container overlap
+PASS loot_e05_weapons/loot_y02_weapons no container overlap
+PASS loot_e05_weapons/loot_parts_ammo no container overlap
+PASS loot_y02_weapons/loot_parts_ammo no container overlap
+PASS N1/Home defeat drop fits supported nearby floor
+PASS N1/Home independently measured defeat-body clearance
+PASS N2/Home defeat drop fits supported nearby floor
+PASS N2/Home independently measured defeat-body clearance
+PASS N3/Home defeat drop fits supported nearby floor
+PASS N3/Home independently measured defeat-body clearance
+PASS N4/Home defeat drop fits supported nearby floor
+PASS N4/Home independently measured defeat-body clearance
+PASS N5/Home defeat drop fits supported nearby floor
+PASS N5/Home independently measured defeat-body clearance
+PASS G1_01/A defeat drop fits supported nearby floor
+PASS G1_01/A independently measured defeat-body clearance
+PASS G1_01/B defeat drop fits supported nearby floor
+PASS G1_01/B independently measured defeat-body clearance
+PASS G1_01/C defeat drop fits supported nearby floor
+PASS G1_01/C independently measured defeat-body clearance
+PASS G1_02/A defeat drop fits supported nearby floor
+PASS G1_02/A independently measured defeat-body clearance
+PASS G1_02/B defeat drop fits supported nearby floor
+PASS G1_02/B independently measured defeat-body clearance
+PASS G1_02/C defeat drop fits supported nearby floor
+PASS G1_02/C independently measured defeat-body clearance
+PASS G2_01/A defeat drop fits supported nearby floor
+PASS G2_01/A independently measured defeat-body clearance
+PASS G2_01/B defeat drop fits supported nearby floor
+PASS G2_01/B independently measured defeat-body clearance
+PASS G2_01/C defeat drop fits supported nearby floor
+PASS G2_01/C independently measured defeat-body clearance
+PASS G2_02/A defeat drop fits supported nearby floor
+PASS G2_02/A independently measured defeat-body clearance
+PASS G2_02/B defeat drop fits supported nearby floor
+PASS G2_02/B independently measured defeat-body clearance
+PASS G2_02/C defeat drop fits supported nearby floor
+PASS G2_02/C independently measured defeat-body clearance
+PASS G3_01/A defeat drop fits supported nearby floor
+PASS G3_01/A independently measured defeat-body clearance
+PASS G3_01/B defeat drop fits supported nearby floor
+PASS G3_01/B independently measured defeat-body clearance
+PASS G3_01/C defeat drop fits supported nearby floor
+PASS G3_01/C independently measured defeat-body clearance
+PASS G3_02/A defeat drop fits supported nearby floor
+PASS G3_02/A independently measured defeat-body clearance
+PASS G3_02/B defeat drop fits supported nearby floor
+PASS G3_02/B independently measured defeat-body clearance
+PASS G3_02/C defeat drop fits supported nearby floor
+PASS G3_02/C independently measured defeat-body clearance
+PASS G4_01/A defeat drop fits supported nearby floor
+PASS G4_01/A independently measured defeat-body clearance
+PASS G4_01/B defeat drop fits supported nearby floor
+PASS G4_01/B independently measured defeat-body clearance
+PASS G4_01/C defeat drop fits supported nearby floor
+PASS G4_01/C independently measured defeat-body clearance
+PASS G4_02/A defeat drop fits supported nearby floor
+PASS G4_02/A independently measured defeat-body clearance
+PASS G4_02/B defeat drop fits supported nearby floor
+PASS G4_02/B independently measured defeat-body clearance
+PASS G4_02/C defeat drop fits supported nearby floor
+PASS G4_02/C independently measured defeat-body clearance
+PASS G5_01/A defeat drop fits supported nearby floor
+PASS G5_01/A independently measured defeat-body clearance
+PASS G5_01/B defeat drop fits supported nearby floor
+PASS G5_01/B independently measured defeat-body clearance
+PASS G5_01/C defeat drop fits supported nearby floor
+PASS G5_01/C independently measured defeat-body clearance
+PASS G5_02/A defeat drop fits supported nearby floor
+PASS G5_02/A independently measured defeat-body clearance
+PASS G5_02/B defeat drop fits supported nearby floor
+PASS G5_02/B independently measured defeat-body clearance
+PASS G5_02/C defeat drop fits supported nearby floor
+PASS G5_02/C independently measured defeat-body clearance
+PASS G5_03/A defeat drop fits supported nearby floor
+PASS G5_03/A independently measured defeat-body clearance
+PASS G5_03/B defeat drop fits supported nearby floor
+PASS G5_03/B independently measured defeat-body clearance
+PASS G5_03/C defeat drop fits supported nearby floor
+PASS G5_03/C independently measured defeat-body clearance
+PASS G6_01/A defeat drop fits supported nearby floor
+PASS G6_01/A independently measured defeat-body clearance
+PASS G6_01/B defeat drop fits supported nearby floor
+PASS G6_01/B independently measured defeat-body clearance
+PASS G6_01/C defeat drop fits supported nearby floor
+PASS G6_01/C independently measured defeat-body clearance
+PASS G6_02/A defeat drop fits supported nearby floor
+PASS G6_02/A independently measured defeat-body clearance
+PASS G6_02/B defeat drop fits supported nearby floor
+PASS G6_02/B independently measured defeat-body clearance
+PASS G6_02/C defeat drop fits supported nearby floor
+PASS G6_02/C independently measured defeat-body clearance
+PASS G6_03/A defeat drop fits supported nearby floor
+PASS G6_03/A independently measured defeat-body clearance
+PASS G6_03/B defeat drop fits supported nearby floor
+PASS G6_03/B independently measured defeat-body clearance
+PASS G6_03/C defeat drop fits supported nearby floor
+PASS G6_03/C independently measured defeat-body clearance
+PASS G7_01/A defeat drop fits supported nearby floor
+PASS G7_01/A independently measured defeat-body clearance
+PASS G7_01/B defeat drop fits supported nearby floor
+PASS G7_01/B independently measured defeat-body clearance
+PASS G7_01/C defeat drop fits supported nearby floor
+PASS G7_01/C independently measured defeat-body clearance
+PASS G7_02/A defeat drop fits supported nearby floor
+PASS G7_02/A independently measured defeat-body clearance
+PASS G7_02/B defeat drop fits supported nearby floor
+PASS G7_02/B independently measured defeat-body clearance
+PASS G7_02/C defeat drop fits supported nearby floor
+PASS G7_02/C independently measured defeat-body clearance
+PASS G7_03/A defeat drop fits supported nearby floor
+PASS G7_03/A independently measured defeat-body clearance
+PASS G7_03/B defeat drop fits supported nearby floor
+PASS G7_03/B independently measured defeat-body clearance
+PASS G7_03/C defeat drop fits supported nearby floor
+PASS G7_03/C independently measured defeat-body clearance
+PASS G8_01/A defeat drop fits supported nearby floor
+PASS G8_01/A independently measured defeat-body clearance
+PASS G8_01/B defeat drop fits supported nearby floor
+PASS G8_01/B independently measured defeat-body clearance
+PASS G8_01/C defeat drop fits supported nearby floor
+PASS G8_01/C independently measured defeat-body clearance
+PASS G8_02/A defeat drop fits supported nearby floor
+PASS G8_02/A independently measured defeat-body clearance
+PASS G8_02/B defeat drop fits supported nearby floor
+PASS G8_02/B independently measured defeat-body clearance
+PASS G8_02/C defeat drop fits supported nearby floor
+PASS G8_02/C independently measured defeat-body clearance
+PASS G8_03/A defeat drop fits supported nearby floor
+PASS G8_03/A independently measured defeat-body clearance
+PASS G8_03/B defeat drop fits supported nearby floor
+PASS G8_03/B independently measured defeat-body clearance
+PASS G8_03/C defeat drop fits supported nearby floor
+PASS G8_03/C independently measured defeat-body clearance
+PASS G9_01/A defeat drop fits supported nearby floor
+PASS G9_01/A independently measured defeat-body clearance
+PASS G9_01/B defeat drop fits supported nearby floor
+PASS G9_01/B independently measured defeat-body clearance
+PASS G9_01/C defeat drop fits supported nearby floor
+PASS G9_01/C independently measured defeat-body clearance
+PASS G9_02/A defeat drop fits supported nearby floor
+PASS G9_02/A independently measured defeat-body clearance
+PASS G9_02/B defeat drop fits supported nearby floor
+PASS G9_02/B independently measured defeat-body clearance
+PASS G9_02/C defeat drop fits supported nearby floor
+PASS G9_02/C independently measured defeat-body clearance
+PASS G9_03/A defeat drop fits supported nearby floor
+PASS G9_03/A independently measured defeat-body clearance
+PASS G9_03/B defeat drop fits supported nearby floor
+PASS G9_03/B independently measured defeat-body clearance
+PASS G9_03/C defeat drop fits supported nearby floor
+PASS G9_03/C independently measured defeat-body clearance
+PASS G9_04/A defeat drop fits supported nearby floor
+PASS G9_04/A independently measured defeat-body clearance
+PASS G9_04/B defeat drop fits supported nearby floor
+PASS G9_04/B independently measured defeat-body clearance
+PASS G9_04/C defeat drop fits supported nearby floor
+PASS G9_04/C independently measured defeat-body clearance
+PASS G10_01/A defeat drop fits supported nearby floor
+PASS G10_01/A independently measured defeat-body clearance
+PASS G10_01/B defeat drop fits supported nearby floor
+PASS G10_01/B independently measured defeat-body clearance
+PASS G10_01/C defeat drop fits supported nearby floor
+PASS G10_01/C independently measured defeat-body clearance
+PASS G10_02/A defeat drop fits supported nearby floor
+PASS G10_02/A independently measured defeat-body clearance
+PASS G10_02/B defeat drop fits supported nearby floor
+PASS G10_02/B independently measured defeat-body clearance
+PASS G10_02/C defeat drop fits supported nearby floor
+PASS G10_02/C independently measured defeat-body clearance
+PASS G10_03/A defeat drop fits supported nearby floor
+PASS G10_03/A independently measured defeat-body clearance
+PASS G10_03/B defeat drop fits supported nearby floor
+PASS G10_03/B independently measured defeat-body clearance
+PASS G10_03/C defeat drop fits supported nearby floor
+PASS G10_03/C independently measured defeat-body clearance
+PASS G10_04/A defeat drop fits supported nearby floor
+PASS G10_04/A independently measured defeat-body clearance
+PASS G10_04/B defeat drop fits supported nearby floor
+PASS G10_04/B independently measured defeat-body clearance
+PASS G10_04/C defeat drop fits supported nearby floor
+PASS G10_04/C independently measured defeat-body clearance
+PASS G11_01/A defeat drop fits supported nearby floor
+PASS G11_01/A independently measured defeat-body clearance
+PASS G11_01/B defeat drop fits supported nearby floor
+PASS G11_01/B independently measured defeat-body clearance
+PASS G11_01/C defeat drop fits supported nearby floor
+PASS G11_01/C independently measured defeat-body clearance
+PASS G11_02/A defeat drop fits supported nearby floor
+PASS G11_02/A independently measured defeat-body clearance
+PASS G11_02/B defeat drop fits supported nearby floor
+PASS G11_02/B independently measured defeat-body clearance
+PASS G11_02/C defeat drop fits supported nearby floor
+PASS G11_02/C independently measured defeat-body clearance
+PASS G11_03/A defeat drop fits supported nearby floor
+PASS G11_03/A independently measured defeat-body clearance
+PASS G11_03/B defeat drop fits supported nearby floor
+PASS G11_03/B independently measured defeat-body clearance
+PASS G11_03/C defeat drop fits supported nearby floor
+PASS G11_03/C independently measured defeat-body clearance
+PASS G12_01/A defeat drop fits supported nearby floor
+PASS G12_01/A independently measured defeat-body clearance
+PASS G12_01/B defeat drop fits supported nearby floor
+PASS G12_01/B independently measured defeat-body clearance
+PASS G12_01/C defeat drop fits supported nearby floor
+PASS G12_01/C independently measured defeat-body clearance
+PASS G12_02/A defeat drop fits supported nearby floor
+PASS G12_02/A independently measured defeat-body clearance
+PASS G12_02/B defeat drop fits supported nearby floor
+PASS G12_02/B independently measured defeat-body clearance
+PASS G12_02/C defeat drop fits supported nearby floor
+PASS G12_02/C independently measured defeat-body clearance
+PASS G12_03/A defeat drop fits supported nearby floor
+PASS G12_03/A independently measured defeat-body clearance
+PASS G12_03/B defeat drop fits supported nearby floor
+PASS G12_03/B independently measured defeat-body clearance
+PASS G12_03/C defeat drop fits supported nearby floor
+PASS G12_03/C independently measured defeat-body clearance
+PASS G12_04/A defeat drop fits supported nearby floor
+PASS G12_04/A independently measured defeat-body clearance
+PASS G12_04/B defeat drop fits supported nearby floor
+PASS G12_04/B independently measured defeat-body clearance
+PASS G12_04/C defeat drop fits supported nearby floor
+PASS G12_04/C independently measured defeat-body clearance
+PASS G12_05/A defeat drop fits supported nearby floor
+PASS G12_05/A independently measured defeat-body clearance
+PASS G12_05/B defeat drop fits supported nearby floor
+PASS G12_05/B independently measured defeat-body clearance
+PASS G12_05/C defeat drop fits supported nearby floor
+PASS G12_05/C independently measured defeat-body clearance
+PASS G12_06/A defeat drop fits supported nearby floor
+PASS G12_06/A independently measured defeat-body clearance
+PASS G12_06/B defeat drop fits supported nearby floor
+PASS G12_06/B independently measured defeat-body clearance
+PASS G12_06/C defeat drop fits supported nearby floor
+PASS G12_06/C independently measured defeat-body clearance
+PASS H1_01/A defeat drop fits supported nearby floor
+PASS H1_01/A independently measured defeat-body clearance
+PASS H1_01/B defeat drop fits supported nearby floor
+PASS H1_01/B independently measured defeat-body clearance
+PASS H1_01/C defeat drop fits supported nearby floor
+PASS H1_01/C independently measured defeat-body clearance
+PASS H1_02/A defeat drop fits supported nearby floor
+PASS H1_02/A independently measured defeat-body clearance
+PASS H1_02/B defeat drop fits supported nearby floor
+PASS H1_02/B independently measured defeat-body clearance
+PASS H1_02/C defeat drop fits supported nearby floor
+PASS H1_02/C independently measured defeat-body clearance
+PASS H1_03/A defeat drop fits supported nearby floor
+PASS H1_03/A independently measured defeat-body clearance
+PASS H1_03/B defeat drop fits supported nearby floor
+PASS H1_03/B independently measured defeat-body clearance
+PASS H1_03/C defeat drop fits supported nearby floor
+PASS H1_03/C independently measured defeat-body clearance
+PASS H2_01/A defeat drop fits supported nearby floor
+PASS H2_01/A independently measured defeat-body clearance
+PASS H2_01/B defeat drop fits supported nearby floor
+PASS H2_01/B independently measured defeat-body clearance
+PASS H2_01/C defeat drop fits supported nearby floor
+PASS H2_01/C independently measured defeat-body clearance
+PASS H2_02/A defeat drop fits supported nearby floor
+PASS H2_02/A independently measured defeat-body clearance
+PASS H2_02/B defeat drop fits supported nearby floor
+PASS H2_02/B independently measured defeat-body clearance
+PASS H2_02/C defeat drop fits supported nearby floor
+PASS H2_02/C independently measured defeat-body clearance
+PASS H2_03/A defeat drop fits supported nearby floor
+PASS H2_03/A independently measured defeat-body clearance
+PASS H2_03/B defeat drop fits supported nearby floor
+PASS H2_03/B independently measured defeat-body clearance
+PASS H2_03/C defeat drop fits supported nearby floor
+PASS H2_03/C independently measured defeat-body clearance
+PASS H3_01/A defeat drop fits supported nearby floor
+PASS H3_01/A independently measured defeat-body clearance
+PASS H3_01/B defeat drop fits supported nearby floor
+PASS H3_01/B independently measured defeat-body clearance
+PASS H3_01/C defeat drop fits supported nearby floor
+PASS H3_01/C independently measured defeat-body clearance
+PASS D_HALL_01/A defeat drop fits supported nearby floor
+PASS D_HALL_01/A independently measured defeat-body clearance
+PASS D_HALL_01/B defeat drop fits supported nearby floor
+PASS D_HALL_01/B independently measured defeat-body clearance
+PASS D_HALL_01/C defeat drop fits supported nearby floor
+PASS D_HALL_01/C independently measured defeat-body clearance
+PASS D_HALL_02/A defeat drop fits supported nearby floor
+PASS D_HALL_02/A independently measured defeat-body clearance
+PASS D_HALL_02/B defeat drop fits supported nearby floor
+PASS D_HALL_02/B independently measured defeat-body clearance
+PASS D_HALL_02/C defeat drop fits supported nearby floor
+PASS D_HALL_02/C independently measured defeat-body clearance
+PASS D_POWER_01/A defeat drop fits supported nearby floor
+PASS D_POWER_01/A independently measured defeat-body clearance
+PASS D_POWER_01/B defeat drop fits supported nearby floor
+PASS D_POWER_01/B independently measured defeat-body clearance
+PASS D_POWER_01/C defeat drop fits supported nearby floor
+PASS D_POWER_01/C independently measured defeat-body clearance
+PASS D_PARTS_01/A defeat drop fits supported nearby floor
+PASS D_PARTS_01/A independently measured defeat-body clearance
+PASS D_PARTS_01/B defeat drop fits supported nearby floor
+PASS D_PARTS_01/B independently measured defeat-body clearance
+PASS D_PARTS_01/C defeat drop fits supported nearby floor
+PASS D_PARTS_01/C independently measured defeat-body clearance
+PASS D_TOOLS_01/A defeat drop fits supported nearby floor
+PASS D_TOOLS_01/A independently measured defeat-body clearance
+PASS D_TOOLS_01/B defeat drop fits supported nearby floor
+PASS D_TOOLS_01/B independently measured defeat-body clearance
+PASS D_TOOLS_01/C defeat drop fits supported nearby floor
+PASS D_TOOLS_01/C independently measured defeat-body clearance
+PASS D_G5_01/A defeat drop fits supported nearby floor
+PASS D_G5_01/A independently measured defeat-body clearance
+PASS D_G5_01/B defeat drop fits supported nearby floor
+PASS D_G5_01/B independently measured defeat-body clearance
+PASS D_G5_01/C defeat drop fits supported nearby floor
+PASS D_G5_01/C independently measured defeat-body clearance
+PASS D_G7_01/A defeat drop fits supported nearby floor
+PASS D_G7_01/A independently measured defeat-body clearance
+PASS D_G7_01/B defeat drop fits supported nearby floor
+PASS D_G7_01/B independently measured defeat-body clearance
+PASS D_G7_01/C defeat drop fits supported nearby floor
+PASS D_G7_01/C independently measured defeat-body clearance
+PASS D_G9_01/A defeat drop fits supported nearby floor
+PASS D_G9_01/A independently measured defeat-body clearance
+PASS D_G9_01/B defeat drop fits supported nearby floor
+PASS D_G9_01/B independently measured defeat-body clearance
+PASS D_G9_01/C defeat drop fits supported nearby floor
+PASS D_G9_01/C independently measured defeat-body clearance
+PASS D_G11_01/A defeat drop fits supported nearby floor
+PASS D_G11_01/A independently measured defeat-body clearance
+PASS D_G11_01/B defeat drop fits supported nearby floor
+PASS D_G11_01/B independently measured defeat-body clearance
+PASS D_G11_01/C defeat drop fits supported nearby floor
+PASS D_G11_01/C independently measured defeat-body clearance
+PASS H1_04/A defeat drop fits supported nearby floor
+PASS H1_04/A independently measured defeat-body clearance
+PASS H1_04/B defeat drop fits supported nearby floor
+PASS H1_04/B independently measured defeat-body clearance
+PASS H1_04/C defeat drop fits supported nearby floor
+PASS H1_04/C independently measured defeat-body clearance
+PASS H2_04/A defeat drop fits supported nearby floor
+PASS H2_04/A independently measured defeat-body clearance
+PASS H2_04/B defeat drop fits supported nearby floor
+PASS H2_04/B independently measured defeat-body clearance
+PASS H2_04/C defeat drop fits supported nearby floor
+PASS H2_04/C independently measured defeat-body clearance
+PASS H4_01/A defeat drop fits supported nearby floor
+PASS H4_01/A independently measured defeat-body clearance
+PASS H4_01/B defeat drop fits supported nearby floor
+PASS H4_01/B independently measured defeat-body clearance
+PASS H4_01/C defeat drop fits supported nearby floor
+PASS H4_01/C independently measured defeat-body clearance
+PASS H4_02/A defeat drop fits supported nearby floor
+PASS H4_02/A independently measured defeat-body clearance
+PASS H4_02/B defeat drop fits supported nearby floor
+PASS H4_02/B independently measured defeat-body clearance
+PASS H4_02/C defeat drop fits supported nearby floor
+PASS H4_02/C independently measured defeat-body clearance
+PASS H5_01/A defeat drop fits supported nearby floor
+PASS H5_01/A independently measured defeat-body clearance
+PASS H5_01/B defeat drop fits supported nearby floor
+PASS H5_01/B independently measured defeat-body clearance
+PASS H5_01/C defeat drop fits supported nearby floor
+PASS H5_01/C independently measured defeat-body clearance
+PASS H5_02/A defeat drop fits supported nearby floor
+PASS H5_02/A independently measured defeat-body clearance
+PASS H5_02/B defeat drop fits supported nearby floor
+PASS H5_02/B independently measured defeat-body clearance
+PASS H5_02/C defeat drop fits supported nearby floor
+PASS H5_02/C independently measured defeat-body clearance
+PASS H6_01/A defeat drop fits supported nearby floor
+PASS H6_01/A independently measured defeat-body clearance
+PASS H6_01/B defeat drop fits supported nearby floor
+PASS H6_01/B independently measured defeat-body clearance
+PASS H6_01/C defeat drop fits supported nearby floor
+PASS H6_01/C independently measured defeat-body clearance
+PASS V4_G5_01/A defeat drop fits supported nearby floor
+PASS V4_G5_01/A independently measured defeat-body clearance
+PASS V4_G5_01/B defeat drop fits supported nearby floor
+PASS V4_G5_01/B independently measured defeat-body clearance
+PASS V4_G5_01/C defeat drop fits supported nearby floor
+PASS V4_G5_01/C independently measured defeat-body clearance
+PASS V4_G7_01/A defeat drop fits supported nearby floor
+PASS V4_G7_01/A independently measured defeat-body clearance
+PASS V4_G7_01/B defeat drop fits supported nearby floor
+PASS V4_G7_01/B independently measured defeat-body clearance
+PASS V4_G7_01/C defeat drop fits supported nearby floor
+PASS V4_G7_01/C independently measured defeat-body clearance
+PASS V4_G8_01/A defeat drop fits supported nearby floor
+PASS V4_G8_01/A independently measured defeat-body clearance
+PASS V4_G8_01/B defeat drop fits supported nearby floor
+PASS V4_G8_01/B independently measured defeat-body clearance
+PASS V4_G8_01/C defeat drop fits supported nearby floor
+PASS V4_G8_01/C independently measured defeat-body clearance
+PASS V4_G9_01/A defeat drop fits supported nearby floor
+PASS V4_G9_01/A independently measured defeat-body clearance
+PASS V4_G9_01/B defeat drop fits supported nearby floor
+PASS V4_G9_01/B independently measured defeat-body clearance
+PASS V4_G9_01/C defeat drop fits supported nearby floor
+PASS V4_G9_01/C independently measured defeat-body clearance
+PASS V4_G10_01/A defeat drop fits supported nearby floor
+PASS V4_G10_01/A independently measured defeat-body clearance
+PASS V4_G10_01/B defeat drop fits supported nearby floor
+PASS V4_G10_01/B independently measured defeat-body clearance
+PASS V4_G10_01/C defeat drop fits supported nearby floor
+PASS V4_G10_01/C independently measured defeat-body clearance
+PASS V4_G10_02/A defeat drop fits supported nearby floor
+PASS V4_G10_02/A independently measured defeat-body clearance
+PASS V4_G10_02/B defeat drop fits supported nearby floor
+PASS V4_G10_02/B independently measured defeat-body clearance
+PASS V4_G10_02/C defeat drop fits supported nearby floor
+PASS V4_G10_02/C independently measured defeat-body clearance
+PASS V4_G11_01/A defeat drop fits supported nearby floor
+PASS V4_G11_01/A independently measured defeat-body clearance
+PASS V4_G11_01/B defeat drop fits supported nearby floor
+PASS V4_G11_01/B independently measured defeat-body clearance
+PASS V4_G11_01/C defeat drop fits supported nearby floor
+PASS V4_G11_01/C independently measured defeat-body clearance
+PASS V4_G12_01/A defeat drop fits supported nearby floor
+PASS V4_G12_01/A independently measured defeat-body clearance
+PASS V4_G12_01/B defeat drop fits supported nearby floor
+PASS V4_G12_01/B independently measured defeat-body clearance
+PASS V4_G12_01/C defeat drop fits supported nearby floor
+PASS V4_G12_01/C independently measured defeat-body clearance
+NOTE Measured defeat cases=209 compact recovery representations=0
+PASS stair0 fraction0.25 defeat drop follows genuine ramp/tread without embedding
+PASS stair0 fraction0.5 defeat drop follows genuine ramp/tread without embedding
+PASS stair0 fraction0.75 defeat drop follows genuine ramp/tread without embedding
+PASS stair1 fraction0.25 defeat drop follows genuine ramp/tread without embedding
+PASS stair1 fraction0.5 defeat drop follows genuine ramp/tread without embedding
+PASS stair1 fraction0.75 defeat drop follows genuine ramp/tread without embedding
+PASS stair2 fraction0.25 defeat drop follows genuine ramp/tread without embedding
+PASS stair2 fraction0.5 defeat drop follows genuine ramp/tread without embedding
+PASS stair2 fraction0.75 defeat drop follows genuine ramp/tread without embedding
+PASS stair3 fraction0.25 defeat drop follows genuine ramp/tread without embedding
+PASS stair3 fraction0.5 defeat drop follows genuine ramp/tread without embedding
+PASS stair3 fraction0.75 defeat drop follows genuine ramp/tread without embedding
+PASS drop-overlap fixture has a supported reachable baseline
+PASS available static loot trigger excludes the entire defeat-body volume
+PASS existing corpse loot uses the same complete body exclusion
+PASS unavailable old loot does not block a new corpse drop
+PASS inactive detached old-raid loot does not block a new corpse drop
+PASS explicit ground-item self is ignored when fitting its own body
+PASS exhausted removable ground item does not block corpse fitting
+PASS loot_tools_bench measured wall/prop-clear matched camera view (target roof cutaway required)
+PASS loot_e01_battery measured wall/prop-clear matched camera view (target roof cutaway required)
+PASS loot_s05_home measured wall/prop-clear matched camera view (target roof cutaway required)
+PASS loot_hall_control measured wall/prop-clear matched camera view (target roof cutaway required)
+PASS loot_clinic_triage measured wall/prop-clear matched camera view (target roof cutaway required)
+PASS loot_clinic_records measured wall/prop-clear matched camera view (target roof cutaway required)
+PASS loot_parts_security measured wall/prop-clear matched camera view (target roof cutaway required)
+NOTE B4 shortest actual route to tier0 loot=33.91m destination=loot_s08_store
+NOTE B4 shortest actual route to tier1+ loot=88.26m destination=loot_w10_weapons
+NOTE R8 shortest actual route to tier0 loot=97.28m destination=loot_s08_store (geometry comparison only; inactive entry)
+NOTE R8 shortest actual route to tier1+ loot=51.04m destination=loot_y01_dismantle (geometry comparison only; inactive entry)
+NOTE B4/R8 retain shared W5 access. New southwest basic loot is tier0; power/precision/yard rewards require facility approach. Enemy exposure/patrol, existing cover and extraction routes are unchanged. Crates add no physical cover. Loot alone does not establish an independent risky-entry experience; retain R8 disabled.
+NOTE Exact authored door-to-approach complete paths are required by runtime preflight; measured points written Library/StageALootPlacements.csv
+passed=2010 failed=0
+RESULT PASS

@@ -1,0 +1,510 @@
+[
+  {
+    "label": "paired_distance",
+    "referenceN": 210,
+    "optimizedN": 210,
+    "referenceMs": 57.151501428571464,
+    "optimizedMs": 55.65596999999998,
+    "reductionPercent": 2.616784145978409,
+    "referenceRefresh": 13.532272857142852,
+    "optimizedRefresh": 13.441239999999985,
+    "referenceApply": 16.970995238095238,
+    "optimizedApply": 15.834453809523808,
+    "referenceStep": 43.61725380952381,
+    "optimizedStep": 42.21242190476188,
+    "referenceAllocated": 0.0,
+    "optimizedAllocated": 0.0,
+    "digestMismatches": 0,
+    "workMismatches": 0,
+    "distanceCalls": 369596.0,
+    "distanceChecks": 369596.0,
+    "distanceMismatchMax": 0.0,
+    "braidChecksLast": 0,
+    "braidMismatchMax": 0.0,
+    "rounds": [
+      {
+        "round": 0,
+        "reference": true,
+        "oracle": false,
+        "meanWall": 58.91473124999999,
+        "bindMs": 1077.8682000000001,
+        "bindAllocated": 0,
+        "heapDelta": 45932544
+      },
+      {
+        "round": 1,
+        "reference": false,
+        "oracle": false,
+        "meanWall": 56.48939375000002,
+        "bindMs": 1073.6471000000001,
+        "bindAllocated": 0,
+        "heapDelta": 29540352
+      },
+      {
+        "round": 2,
+        "reference": false,
+        "oracle": false,
+        "meanWall": 56.99751624999999,
+        "bindMs": 1091.8349,
+        "bindAllocated": 0,
+        "heapDelta": 25374720
+      },
+      {
+        "round": 3,
+        "reference": true,
+        "oracle": false,
+        "meanWall": 57.50988875,
+        "bindMs": 1060.5037,
+        "bindAllocated": 0,
+        "heapDelta": 26779648
+      },
+      {
+        "round": 4,
+        "reference": true,
+        "oracle": false,
+        "meanWall": 57.53227625000001,
+        "bindMs": 1083.6159,
+        "bindAllocated": 0,
+        "heapDelta": 32632832
+      },
+      {
+        "round": 5,
+        "reference": false,
+        "oracle": false,
+        "meanWall": 55.761637500000006,
+        "bindMs": 1084.6261,
+        "bindAllocated": 0,
+        "heapDelta": 26365952
+      },
+      {
+        "round": 6,
+        "reference": false,
+        "oracle": true,
+        "meanWall": 66.02584875000002,
+        "bindMs": 1071.5723,
+        "bindAllocated": 0,
+        "heapDelta": 26349568
+      }
+    ]
+  },
+  {
+    "label": "paired_distance_v2",
+    "referenceN": 210,
+    "optimizedN": 210,
+    "referenceMs": 55.13622619047617,
+    "optimizedMs": 54.501000952380934,
+    "reductionPercent": 1.1521014077038194,
+    "referenceRefresh": 11.209219523809525,
+    "optimizedRefresh": 11.22352428571428,
+    "referenceApply": 16.88110238095237,
+    "optimizedApply": 16.022113333333333,
+    "referenceStep": 43.92467666666667,
+    "optimizedStep": 43.27520000000004,
+    "referenceAllocated": 0.0,
+    "optimizedAllocated": 0.0,
+    "digestMismatches": 0,
+    "workMismatches": 0,
+    "distanceCalls": 371553.0,
+    "distanceChecks": 371553.0,
+    "distanceMismatchMax": 0.0,
+    "braidChecksLast": 0,
+    "braidMismatchMax": 0.0,
+    "rounds": [
+      {
+        "round": 0,
+        "reference": true,
+        "oracle": false,
+        "meanWall": 55.59577249999999,
+        "bindMs": 1098.0801000000001,
+        "bindAllocated": 0,
+        "heapDelta": -50470912
+      },
+      {
+        "round": 1,
+        "reference": false,
+        "oracle": false,
+        "meanWall": 54.61174874999999,
+        "bindMs": 1063.8575,
+        "bindAllocated": 0,
+        "heapDelta": 26853376
+      },
+      {
+        "round": 2,
+        "reference": false,
+        "oracle": false,
+        "meanWall": 54.88063625000002,
+        "bindMs": 1078.269,
+        "bindAllocated": 0,
+        "heapDelta": 28459008
+      },
+      {
+        "round": 3,
+        "reference": true,
+        "oracle": false,
+        "meanWall": 55.55445374999999,
+        "bindMs": 1051.863,
+        "bindAllocated": 0,
+        "heapDelta": 35909632
+      },
+      {
+        "round": 4,
+        "reference": true,
+        "oracle": false,
+        "meanWall": 55.01717625000002,
+        "bindMs": 1053.9345,
+        "bindAllocated": 0,
+        "heapDelta": 30793728
+      },
+      {
+        "round": 5,
+        "reference": false,
+        "oracle": false,
+        "meanWall": 54.573446249999996,
+        "bindMs": 1088.587,
+        "bindAllocated": 0,
+        "heapDelta": -79216640
+      },
+      {
+        "round": 6,
+        "reference": false,
+        "oracle": true,
+        "meanWall": 64.88317750000002,
+        "bindMs": 1061.8159,
+        "bindAllocated": 0,
+        "heapDelta": 26750976
+      }
+    ]
+  },
+  {
+    "label": "paired_braid",
+    "referenceN": 210,
+    "optimizedN": 210,
+    "referenceMs": 61.33276666666675,
+    "optimizedMs": 60.86273095238093,
+    "reductionPercent": 0.766369658229158,
+    "referenceRefresh": 13.642333809523796,
+    "optimizedRefresh": 13.746929523809525,
+    "referenceApply": 17.08568523809523,
+    "optimizedApply": 17.191443809523804,
+    "referenceStep": 47.688086190476156,
+    "optimizedStep": 47.11349857142854,
+    "referenceAllocated": 0.0,
+    "optimizedAllocated": 0.0,
+    "digestMismatches": 0,
+    "workMismatches": 0,
+    "distanceCalls": 370023.0,
+    "distanceChecks": 0.0,
+    "distanceMismatchMax": 0.0,
+    "braidChecksLast": 125696,
+    "braidMismatchMax": 0.0,
+    "rounds": [
+      {
+        "round": 0,
+        "reference": true,
+        "oracle": false,
+        "meanWall": 60.90585124999999,
+        "bindMs": 1086.7089,
+        "bindAllocated": 0,
+        "heapDelta": 51785728
+      },
+      {
+        "round": 1,
+        "reference": false,
+        "oracle": false,
+        "meanWall": 61.62820375,
+        "bindMs": 1074.2771,
+        "bindAllocated": 0,
+        "heapDelta": 28327936
+      },
+      {
+        "round": 2,
+        "reference": false,
+        "oracle": false,
+        "meanWall": 61.37752750000002,
+        "bindMs": 1117.2321,
+        "bindAllocated": 0,
+        "heapDelta": -81678336
+      },
+      {
+        "round": 3,
+        "reference": true,
+        "oracle": false,
+        "meanWall": 62.08392749999998,
+        "bindMs": 1134.1622,
+        "bindAllocated": 0,
+        "heapDelta": 26169344
+      },
+      {
+        "round": 4,
+        "reference": true,
+        "oracle": false,
+        "meanWall": 61.876188750000004,
+        "bindMs": 1088.9006,
+        "bindAllocated": 0,
+        "heapDelta": 26456064
+      },
+      {
+        "round": 5,
+        "reference": false,
+        "oracle": false,
+        "meanWall": 60.31443374999998,
+        "bindMs": 1082.2012,
+        "bindAllocated": 0,
+        "heapDelta": 29585408
+      },
+      {
+        "round": 6,
+        "reference": false,
+        "oracle": true,
+        "meanWall": 60.139852499999996,
+        "bindMs": 1076.8696,
+        "bindAllocated": 0,
+        "heapDelta": 34185216
+      }
+    ]
+  },
+  {
+    "label": "paired",
+    "referenceN": 210,
+    "optimizedN": 210,
+    "referenceMs": 55.042518571428566,
+    "optimizedMs": 53.10371904761906,
+    "reductionPercent": 3.5223670248546695,
+    "referenceRefresh": 11.369188095238094,
+    "optimizedRefresh": 11.316890476190483,
+    "referenceApply": 17.185934285714268,
+    "optimizedApply": 16.10007999999999,
+    "referenceStep": 43.671339047619064,
+    "optimizedStep": 41.784839999999974,
+    "referenceAllocated": 0.0,
+    "optimizedAllocated": 0.0,
+    "digestMismatches": 0,
+    "workMismatches": 0,
+    "distanceCalls": 375078.0,
+    "distanceChecks": 375078.0,
+    "distanceMismatchMax": 0.0,
+    "braidChecksLast": 110503,
+    "braidMismatchMax": 0.0,
+    "rounds": [
+      {
+        "round": 0,
+        "reference": true,
+        "oracle": false,
+        "meanWall": 56.82689499999999,
+        "bindMs": 1098.7518,
+        "bindAllocated": 0,
+        "heapDelta": 49045504
+      },
+      {
+        "round": 1,
+        "reference": false,
+        "oracle": false,
+        "meanWall": 53.38404999999999,
+        "bindMs": 1064.6908,
+        "bindAllocated": 0,
+        "heapDelta": 27336704
+      },
+      {
+        "round": 2,
+        "reference": false,
+        "oracle": false,
+        "meanWall": 54.57343000000001,
+        "bindMs": 1068.0663,
+        "bindAllocated": 0,
+        "heapDelta": 25149440
+      },
+      {
+        "round": 3,
+        "reference": true,
+        "oracle": false,
+        "meanWall": 55.449773750000006,
+        "bindMs": 1080.434,
+        "bindAllocated": 0,
+        "heapDelta": -84414464
+      },
+      {
+        "round": 4,
+        "reference": true,
+        "oracle": false,
+        "meanWall": 55.30759625000002,
+        "bindMs": 1074.0268,
+        "bindAllocated": 0,
+        "heapDelta": -91713536
+      },
+      {
+        "round": 5,
+        "reference": false,
+        "oracle": false,
+        "meanWall": 53.05117,
+        "bindMs": 1071.336,
+        "bindAllocated": 0,
+        "heapDelta": 27508736
+      },
+      {
+        "round": 6,
+        "reference": false,
+        "oracle": true,
+        "meanWall": 65.72778375,
+        "bindMs": 1063.7696,
+        "bindAllocated": 0,
+        "heapDelta": 27734016
+      }
+    ]
+  },
+  {
+    "label": "paired_serin",
+    "referenceN": 6,
+    "optimizedN": 6,
+    "referenceMs": 151.47585,
+    "optimizedMs": 145.49224999999998,
+    "reductionPercent": 3.950200642544685,
+    "referenceRefresh": 10.047833333333333,
+    "optimizedRefresh": 10.132666666666667,
+    "referenceApply": 96.558,
+    "optimizedApply": 90.75913333333334,
+    "referenceStep": 141.4237333333333,
+    "optimizedStep": 135.358,
+    "referenceAllocated": 0.0,
+    "optimizedAllocated": 0.0,
+    "digestMismatches": 0,
+    "workMismatches": 0,
+    "distanceCalls": 170551.0,
+    "distanceChecks": 170551.0,
+    "distanceMismatchMax": 0.0,
+    "braidChecksLast": 0,
+    "braidMismatchMax": 0.0,
+    "rounds": [
+      {
+        "round": 0,
+        "reference": true,
+        "oracle": false,
+        "meanWall": 151.47585,
+        "bindMs": 1798.9564,
+        "bindAllocated": 0,
+        "heapDelta": 66002944
+      },
+      {
+        "round": 1,
+        "reference": false,
+        "oracle": false,
+        "meanWall": 145.49224999999998,
+        "bindMs": 1818.0783000000001,
+        "bindAllocated": 0,
+        "heapDelta": 65937408
+      },
+      {
+        "round": 2,
+        "reference": false,
+        "oracle": true,
+        "meanWall": 207.65865,
+        "bindMs": 1850.5223,
+        "bindAllocated": 0,
+        "heapDelta": -163258368
+      }
+    ]
+  },
+  {
+    "label": "paired_liv",
+    "referenceN": 6,
+    "optimizedN": 6,
+    "referenceMs": 27.628400000000003,
+    "optimizedMs": 27.160333333333337,
+    "reductionPercent": 1.6941504635326883,
+    "referenceRefresh": 10.2112,
+    "optimizedRefresh": 10.0098,
+    "referenceApply": 0.8009500000000003,
+    "optimizedApply": 0.7317333333333336,
+    "referenceStep": 17.412833333333335,
+    "optimizedStep": 17.14865,
+    "referenceAllocated": 0.0,
+    "optimizedAllocated": 0.0,
+    "digestMismatches": 0,
+    "workMismatches": 0,
+    "distanceCalls": 968.0,
+    "distanceChecks": 968.0,
+    "distanceMismatchMax": 0.0,
+    "braidChecksLast": 0,
+    "braidMismatchMax": 0.0,
+    "rounds": [
+      {
+        "round": 0,
+        "reference": true,
+        "oracle": false,
+        "meanWall": 27.628400000000003,
+        "bindMs": 1587.525,
+        "bindAllocated": 0,
+        "heapDelta": -48668672
+      },
+      {
+        "round": 1,
+        "reference": false,
+        "oracle": false,
+        "meanWall": 27.160333333333337,
+        "bindMs": 1321.0592000000001,
+        "bindAllocated": 0,
+        "heapDelta": 36265984
+      },
+      {
+        "round": 2,
+        "reference": false,
+        "oracle": true,
+        "meanWall": 27.82746666666667,
+        "bindMs": 1307.3277,
+        "bindAllocated": 0,
+        "heapDelta": 20938752
+      }
+    ]
+  },
+  {
+    "label": "paired_yui",
+    "referenceN": 6,
+    "optimizedN": 6,
+    "referenceMs": 22.24081666666667,
+    "optimizedMs": 22.410133333333334,
+    "reductionPercent": -0.7612879922724514,
+    "referenceRefresh": 9.695166666666667,
+    "optimizedRefresh": 9.8071,
+    "referenceApply": 1.6152499999999999,
+    "optimizedApply": 1.6182999999999998,
+    "referenceStep": 12.54155,
+    "optimizedStep": 12.6013,
+    "referenceAllocated": 0.0,
+    "optimizedAllocated": 0.0,
+    "digestMismatches": 0,
+    "workMismatches": 0,
+    "distanceCalls": 2481.0,
+    "distanceChecks": 2481.0,
+    "distanceMismatchMax": 0.0,
+    "braidChecksLast": 0,
+    "braidMismatchMax": 0.0,
+    "rounds": [
+      {
+        "round": 0,
+        "reference": true,
+        "oracle": false,
+        "meanWall": 22.24081666666667,
+        "bindMs": 1357.286,
+        "bindAllocated": 0,
+        "heapDelta": -78077952
+      },
+      {
+        "round": 1,
+        "reference": false,
+        "oracle": false,
+        "meanWall": 22.410133333333334,
+        "bindMs": 1227.7684000000002,
+        "bindAllocated": 0,
+        "heapDelta": -14503936
+      },
+      {
+        "round": 2,
+        "reference": false,
+        "oracle": true,
+        "meanWall": 23.454633333333334,
+        "bindMs": 1216.0505,
+        "bindAllocated": 0,
+        "heapDelta": 96931840
+      }
+    ]
+  }
+]

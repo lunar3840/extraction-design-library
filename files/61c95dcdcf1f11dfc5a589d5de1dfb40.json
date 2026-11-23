@@ -1,0 +1,287 @@
+{
+  "checkedUtc": "2026-10-22T10:31:19.2769428Z",
+  "sourceCount": 40,
+  "allUnchanged": false,
+  "checks": [
+    {
+      "path": "Assets/Escape/Resources/WeaponCatalog.json",
+      "unchanged": true,
+      "auditedSha256": "58C052B1DBCF5AFAA1EC40105521EE1A8E90C1A0DEA6FCAA5F86D99C58617884",
+      "currentSha256": "58C052B1DBCF5AFAA1EC40105521EE1A8E90C1A0DEA6FCAA5F86D99C58617884",
+      "modifiedUtc": "2026-10-19T05:25:04.3248660Z"
+    },
+    {
+      "path": "Assets/Escape/Resources/AmmoCatalog.json",
+      "unchanged": true,
+      "auditedSha256": "8AEAD8581292F4F71A026AE0288F2752AC631A5CC15F07C3B768BB806A4243D0",
+      "currentSha256": "8AEAD8581292F4F71A026AE0288F2752AC631A5CC15F07C3B768BB806A4243D0",
+      "modifiedUtc": "2026-10-19T05:23:48.5254526Z"
+    },
+    {
+      "path": "Assets/Escape/Resources/ArmorCatalog.json",
+      "unchanged": true,
+      "auditedSha256": "FF6086111251EA2E0BA0FB6210F51A8B48DAE15705DEE29F716D6F59F66DAC6C",
+      "currentSha256": "FF6086111251EA2E0BA0FB6210F51A8B48DAE15705DEE29F716D6F59F66DAC6C",
+      "modifiedUtc": "2026-09-04T13:53:56.0762101Z"
+    },
+    {
+      "path": "Assets/Escape/Settings/PlayerDefaults.asset",
+      "unchanged": true,
+      "auditedSha256": "FF958978BF348140D5D1460E08A9401D586CB8CF2E0A9266FC0663A6F9EBE8D3",
+      "currentSha256": "FF958978BF348140D5D1460E08A9401D586CB8CF2E0A9266FC0663A6F9EBE8D3",
+      "modifiedUtc": "2026-10-20T14:14:10.3410515Z"
+    },
+    {
+      "path": "Assets/Escape/Settings/AR_001.asset",
+      "unchanged": true,
+      "auditedSha256": "46628F7E121383256460427CB94998FD59D1621993D7BD64DE2A0393E2BD29AA",
+      "currentSha256": "46628F7E121383256460427CB94998FD59D1621993D7BD64DE2A0393E2BD29AA",
+      "modifiedUtc": "2026-09-03T19:37:22.7775483Z"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab",
+      "unchanged": true,
+      "auditedSha256": "4DB8ACD70D7603528305FC410031104E9388BDB571A313D9965FB17895317FC4",
+      "currentSha256": "4DB8ACD70D7603528305FC410031104E9388BDB571A313D9965FB17895317FC4",
+      "modifiedUtc": "2026-10-19T14:48:24.4847451Z"
+    },
+    {
+      "path": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+      "unchanged": true,
+      "auditedSha256": "C9E3D324A6DA7849188D1D92F9D79843B8E4820DCBE8325C3A0B227CD13D1874",
+      "currentSha256": "C9E3D324A6DA7849188D1D92F9D79843B8E4820DCBE8325C3A0B227CD13D1874",
+      "modifiedUtc": "2026-10-19T14:48:53.8927013Z"
+    },
+    {
+      "path": "ProjectSettings/EditorBuildSettings.asset",
+      "unchanged": true,
+      "auditedSha256": "348BA1ECA4B0698957F264F877F76227B78583ACD3138FD5FC85BE92F158E261",
+      "currentSha256": "348BA1ECA4B0698957F264F877F76227B78583ACD3138FD5FC85BE92F158E261",
+      "modifiedUtc": "2025-01-30T19:19:36.0000000Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Weapon/WeaponCatalog.cs",
+      "unchanged": true,
+      "auditedSha256": "8FECF252D905307DD302A7272EF0639B2D1957DD03E80A9B269F371EB69330FF",
+      "currentSha256": "8FECF252D905307DD302A7272EF0639B2D1957DD03E80A9B269F371EB69330FF",
+      "modifiedUtc": "2026-10-19T05:23:38.0780499Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Weapon/RifleController.cs",
+      "unchanged": true,
+      "auditedSha256": "7ABFF45F89B4D3C09B428CF29710E276279539B835228FDA4DA4B0B640C205DE",
+      "currentSha256": "7ABFF45F89B4D3C09B428CF29710E276279539B835228FDA4DA4B0B640C205DE",
+      "modifiedUtc": "2026-10-21T04:25:54.0461883Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Weapon/Core/RifleState.cs",
+      "unchanged": true,
+      "auditedSha256": "0F72C33761D9FF0ABFF4B84B9ABC1F721E7B6D79CFCA90560A98CB896565D715",
+      "currentSha256": "0F72C33761D9FF0ABFF4B84B9ABC1F721E7B6D79CFCA90560A98CB896565D715",
+      "modifiedUtc": "2026-10-20T12:53:15.6984149Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Weapon/Core/AmmoRules.cs",
+      "unchanged": true,
+      "auditedSha256": "510CDE19BEF4343DDE5499A1FDB4D9C70EEDB427E366598CF0F9473218FC97BA",
+      "currentSha256": "510CDE19BEF4343DDE5499A1FDB4D9C70EEDB427E366598CF0F9473218FC97BA",
+      "modifiedUtc": "2026-10-19T05:25:32.2543883Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Weapon/Core/WeaponAffixes.cs",
+      "unchanged": true,
+      "auditedSha256": "FF345DC960CA0258A908A2F13A768D63A3E15D2EF6D4BF3FC90DC90D12C876C2",
+      "currentSha256": "FF345DC960CA0258A908A2F13A768D63A3E15D2EF6D4BF3FC90DC90D12C876C2",
+      "modifiedUtc": "2026-10-19T05:22:18.6968410Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Weapon/Core/WeaponAttachments.cs",
+      "unchanged": true,
+      "auditedSha256": "D817FED254F2840506C35F3CA3956F8305FA616C05E46DCDE030CD594FA2754D",
+      "currentSha256": "D817FED254F2840506C35F3CA3956F8305FA616C05E46DCDE030CD594FA2754D",
+      "modifiedUtc": "2026-10-20T12:48:13.8660936Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Combat/Core/DamageRules.cs",
+      "unchanged": true,
+      "auditedSha256": "18C17AAF292D0FE3DDBCF800A6EF3260637F6AEB6D000CEE781AB8294C43E254",
+      "currentSha256": "18C17AAF292D0FE3DDBCF800A6EF3260637F6AEB6D000CEE781AB8294C43E254",
+      "modifiedUtc": "2026-10-19T05:23:38.0760427Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Combat/Core/InjuryState.cs",
+      "unchanged": true,
+      "auditedSha256": "18A72E37E633BFA319996F3100260C0BB918E53B1F04616ACE6381DE3E16FF21",
+      "currentSha256": "18A72E37E633BFA319996F3100260C0BB918E53B1F04616ACE6381DE3E16FF21",
+      "modifiedUtc": "2026-09-05T11:41:19.3141447Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Combat/DamageReceiver.cs",
+      "unchanged": true,
+      "auditedSha256": "2C4B4F13B08CF649FC691CD15D8F6B9FB2504BF5DB5CC9F8A4FA142C86ECBE79",
+      "currentSha256": "2C4B4F13B08CF649FC691CD15D8F6B9FB2504BF5DB5CC9F8A4FA142C86ECBE79",
+      "modifiedUtc": "2026-10-15T00:25:58.4081782Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Combat/HitscanService.cs",
+      "unchanged": true,
+      "auditedSha256": "CD5FC2E94DCB86FB52C6FFD12A4AC3B92BDA3B0315A0716781DA724F5CCA2844",
+      "currentSha256": "CD5FC2E94DCB86FB52C6FFD12A4AC3B92BDA3B0315A0716781DA724F5CCA2844",
+      "modifiedUtc": "2026-10-15T00:26:01.5803608Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Combat/BodyHitboxRig.cs",
+      "unchanged": true,
+      "auditedSha256": "DB68A40A4E6CF0522924F70FA797AE7A38613D0A6039B4D4CD8970C59E175F92",
+      "currentSha256": "DB68A40A4E6CF0522924F70FA797AE7A38613D0A6039B4D4CD8970C59E175F92",
+      "modifiedUtc": "2026-09-04T14:09:11.6368020Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Core/PlayerRules.cs",
+      "unchanged": true,
+      "auditedSha256": "7CABFB281BDE07E3AA061E3F1CCF3F5C68EA9ACCD03C228F6BDD29751B7E79ED",
+      "currentSha256": "7CABFB281BDE07E3AA061E3F1CCF3F5C68EA9ACCD03C228F6BDD29751B7E79ED",
+      "modifiedUtc": "2026-10-20T12:47:06.2248500Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Equipment/Core/ArmorState.cs",
+      "unchanged": true,
+      "auditedSha256": "143F28748C2B0C444F66538BA09DB649ED603DA21569CFEA58154F8F0BAB3CAC",
+      "currentSha256": "143F28748C2B0C444F66538BA09DB649ED603DA21569CFEA58154F8F0BAB3CAC",
+      "modifiedUtc": "2026-10-19T05:23:03.4582052Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Inventory/InventoryController.cs",
+      "unchanged": true,
+      "auditedSha256": "9B83D5817B6C4ABE85174006605AA6F208679E501C1BFC221920854A7AA5C575",
+      "currentSha256": "9B83D5817B6C4ABE85174006605AA6F208679E501C1BFC221920854A7AA5C575",
+      "modifiedUtc": "2026-10-19T05:23:03.4622460Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Inventory/Core/InventoryEquipment.cs",
+      "unchanged": true,
+      "auditedSha256": "129536ACDA5E0AB44052B41BA496E9F6EF0670137A7A65DE693A7287DF3E2EDE",
+      "currentSha256": "129536ACDA5E0AB44052B41BA496E9F6EF0670137A7A65DE693A7287DF3E2EDE",
+      "modifiedUtc": "2026-10-19T05:23:03.4587109Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Inventory/Core/InventoryState.cs",
+      "unchanged": true,
+      "auditedSha256": "C0BBA7E67CBD33A50F6953FC2696F0F9A74691F62355605B7CCAF032DFD46077",
+      "currentSha256": "C0BBA7E67CBD33A50F6953FC2696F0F9A74691F62355605B7CCAF032DFD46077",
+      "modifiedUtc": "2026-10-22T10:12:22.4745510Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/SessionTestWorld.cs",
+      "unchanged": false,
+      "auditedSha256": "56A358C3016D3C38D5AB6BB5322537CE8887653B2E02AFCE6138B602042CB9F9",
+      "currentSha256": "33FAB1E4C3084357DCEBD0F51FDA48CA8B7B36014D63497EE9EEE1B6266FF9B0",
+      "modifiedUtc": "2026-10-22T10:30:27.0595206Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageMapRouter.cs",
+      "unchanged": true,
+      "auditedSha256": "BFA99CCFC3FC1555796A825D07A2B7580DE81276D67311F8DEF0230D1C0AE72B",
+      "currentSha256": "BFA99CCFC3FC1555796A825D07A2B7580DE81276D67311F8DEF0230D1C0AE72B",
+      "modifiedUtc": "2026-10-07T09:11:17.8019876Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageScenePreview.cs",
+      "unchanged": true,
+      "auditedSha256": "554A882AF9037A3AEEFC9910E2F056C2B34FC63254BC177ACEACFA2AF1765B87",
+      "currentSha256": "554A882AF9037A3AEEFC9910E2F056C2B34FC63254BC177ACEACFA2AF1765B87",
+      "modifiedUtc": "2026-09-10T22:20:23.9032268Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/PlayerMotor.cs",
+      "unchanged": true,
+      "auditedSha256": "34BB0CF80A9E8263D55EA0D7D0800D18B101255819FBC3D1477A8AD1628D5269",
+      "currentSha256": "34BB0CF80A9E8263D55EA0D7D0800D18B101255819FBC3D1477A8AD1628D5269",
+      "modifiedUtc": "2026-10-22T10:19:03.8087971Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageAEncounterLayout.cs",
+      "unchanged": true,
+      "auditedSha256": "271989FDF72B58CEFF2A8E251D721D2C58E77681A12A9ED454EAA131E0B1C532",
+      "currentSha256": "271989FDF72B58CEFF2A8E251D721D2C58E77681A12A9ED454EAA131E0B1C532",
+      "modifiedUtc": "2026-10-16T04:03:00.6771940Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageAEncounterSpawner.cs",
+      "unchanged": true,
+      "auditedSha256": "5FB50E89285D7BB4A9BBB6D36902F182F4FB9CA46D6A44D8D50864924A8A14BC",
+      "currentSha256": "5FB50E89285D7BB4A9BBB6D36902F182F4FB9CA46D6A44D8D50864924A8A14BC",
+      "modifiedUtc": "2026-10-16T04:13:55.8886493Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Enemy/EnemyController.cs",
+      "unchanged": true,
+      "auditedSha256": "CEE92151BC7F88CFA035BE83B34A4F8E8F078BEB7869BCEAD58AE2CE79254B4C",
+      "currentSha256": "CEE92151BC7F88CFA035BE83B34A4F8E8F078BEB7869BCEAD58AE2CE79254B4C",
+      "modifiedUtc": "2026-10-21T04:25:54.0494750Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Enemy/EnemyController.MachineRoles.cs",
+      "unchanged": true,
+      "auditedSha256": "620B7B17CD02DB31A06C392658A37CBA2845C65B39E5515D44FD3F55EEAE264E",
+      "currentSha256": "620B7B17CD02DB31A06C392658A37CBA2845C65B39E5515D44FD3F55EEAE264E",
+      "modifiedUtc": "2026-10-21T04:26:53.3147512Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Enemy/StageAMachineRole.cs",
+      "unchanged": true,
+      "auditedSha256": "7B08C770CE78388A67C3D21462E7EBA7ED6A35C706AF9C31265E9A1AECF7E320",
+      "currentSha256": "7B08C770CE78388A67C3D21462E7EBA7ED6A35C706AF9C31265E9A1AECF7E320",
+      "modifiedUtc": "2026-10-16T04:06:12.4910063Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Enemy/StageANamedCatalog.cs",
+      "unchanged": true,
+      "auditedSha256": "F38DFA08EAB93CD76A7A9D13107669A621267267B6EEE69F60ADC4DCAA396397",
+      "currentSha256": "F38DFA08EAB93CD76A7A9D13107669A621267267B6EEE69F60ADC4DCAA396397",
+      "modifiedUtc": "2026-10-15T11:28:38.2806339Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Enemy/StageAEnemyVisual.cs",
+      "unchanged": true,
+      "auditedSha256": "C05568D14B037D2CEEF6669D9E227982FD0FB6DEE663F8AC934FCC23C7A848D8",
+      "currentSha256": "C05568D14B037D2CEEF6669D9E227982FD0FB6DEE663F8AC934FCC23C7A848D8",
+      "modifiedUtc": "2026-10-16T04:03:00.7189278Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Enemy/MachineAttackProjectile.cs",
+      "unchanged": true,
+      "auditedSha256": "593D0B30CE3082AB7100C6B5B4F6A150E9DC0FB4D97FBECD996FD2EC523FFC5B",
+      "currentSha256": "593D0B30CE3082AB7100C6B5B4F6A150E9DC0FB4D97FBECD996FD2EC523FFC5B",
+      "modifiedUtc": "2026-10-16T04:19:47.9083749Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Enemy/Core/EnemyBrain.cs",
+      "unchanged": true,
+      "auditedSha256": "BD3FEB5B9C45657A137F453E522AA4D32072BF450088B7AA21A559224C6529DE",
+      "currentSha256": "BD3FEB5B9C45657A137F453E522AA4D32072BF450088B7AA21A559224C6529DE",
+      "modifiedUtc": "2026-10-15T11:28:55.3162662Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Enemy/Core/EnemyWeaponState.cs",
+      "unchanged": true,
+      "auditedSha256": "9E934AF5CB4FFB20F97C3B3A98471DF70E0361E0067796DE9F17A9A3A7DE8596",
+      "currentSha256": "9E934AF5CB4FFB20F97C3B3A98471DF70E0361E0067796DE9F17A9A3A7DE8596",
+      "modifiedUtc": "2026-09-10T18:33:01.2250792Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Basecamp/GrowthRules.cs",
+      "unchanged": true,
+      "auditedSha256": "85A1DCE8FC508D29C1A0EC5671810053361ED65F5A2B99736A71909F7BDD0ADA",
+      "currentSha256": "85A1DCE8FC508D29C1A0EC5671810053361ED65F5A2B99736A71909F7BDD0ADA",
+      "modifiedUtc": "2026-10-19T02:18:40.9870326Z"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs",
+      "unchanged": true,
+      "auditedSha256": "9BA021EC9F9A3BCD401B2A1B8C8F081D1FE0B9D0A822905468BDE5E2DD5C9DA7",
+      "currentSha256": "9BA021EC9F9A3BCD401B2A1B8C8F081D1FE0B9D0A822905468BDE5E2DD5C9DA7",
+      "modifiedUtc": "2026-10-21T20:44:05.1415005Z"
+    }
+  ]
+}
