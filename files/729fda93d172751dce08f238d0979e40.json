@@ -1,0 +1,313 @@
+{
+  "verifiedAtKST": "2026-10-29T20:18:50.288235",
+  "selectedDocuments": 45,
+  "selectedImages": 28,
+  "pairs": [
+    {
+      "before": "baseline_renders/before_car_iso.png",
+      "after": "study_04/after_car_iso.png",
+      "cameraIdentical": true,
+      "reconstructed": false
+    },
+    {
+      "before": "baseline_renders/before_car_top.png",
+      "after": "study_04/after_car_top.png",
+      "cameraIdentical": true,
+      "reconstructed": false
+    },
+    {
+      "before": "baseline_renders/before_shell_iso.png",
+      "after": "study_04/after_shell_iso.png",
+      "cameraIdentical": true,
+      "reconstructed": false
+    },
+    {
+      "before": "baseline_renders/before_shell_top.png",
+      "after": "study_04/after_shell_top.png",
+      "cameraIdentical": true,
+      "reconstructed": false
+    },
+    {
+      "before": "baseline_renders/before_roof_iso.png",
+      "after": "study_04/after_roof_iso.png",
+      "cameraIdentical": true,
+      "reconstructed": false
+    },
+    {
+      "before": "baseline_renders/before_roof_top.png",
+      "after": "study_04/after_roof_top.png",
+      "cameraIdentical": true,
+      "reconstructed": false
+    },
+    {
+      "before": "study_04/before_reconstructed_showcase_iso.png",
+      "after": "study_04/after_showcase_iso.png",
+      "cameraIdentical": true,
+      "reconstructed": true
+    },
+    {
+      "before": "study_04/before_reconstructed_showcase_top.png",
+      "after": "study_04/after_showcase_top.png",
+      "cameraIdentical": true,
+      "reconstructed": true
+    }
+  ],
+  "allCamerasIdentical": true,
+  "allImagesOpened": true,
+  "missing": [],
+  "images": [
+    {
+      "file": "baseline_renders/before_car_iso.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "372130e7071f4439fa0ff3270664f08bfa7c22471b10e4b82967938338979363"
+    },
+    {
+      "file": "study_04/after_car_iso.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "c1fefdc692b79f5ad30817d6168f342522074ded78266b226c953c4c884d6301"
+    },
+    {
+      "file": "baseline_renders/before_car_top.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "2b67d4b801d3ec8e2c026578be603fbae3b296191da34fa28d792786439d282c"
+    },
+    {
+      "file": "study_04/after_car_top.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "d13e61e853ba873212b07c846da709c777c84ba093f06a18433fd0ad32b55d41"
+    },
+    {
+      "file": "baseline_renders/before_shell_iso.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "a28fc573498e5a9acdc96ea832fc58456d1d77703cd91bd9e49790685ca64fc6"
+    },
+    {
+      "file": "study_04/after_shell_iso.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "d16f366c5cff7e806696a67040f42cf953b770af4dd2b83a9d75d33fbffb7679"
+    },
+    {
+      "file": "baseline_renders/before_shell_top.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "4ed509dc847fb026c366252f15d3985fce415cf513b271ef013b3474a0a418e2"
+    },
+    {
+      "file": "study_04/after_shell_top.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "f9878b8b02fd9b4232590f9c678d66c5a5ad465a904d225a9591e07ed185319b"
+    },
+    {
+      "file": "baseline_renders/before_roof_iso.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "e9da3b91ac89a15987322e0c07a7853e23b3b9f67530468e2679d3b982bdcd3f"
+    },
+    {
+      "file": "study_04/after_roof_iso.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "e35b60031bdc7ba962c7d6f215c8684cf479ab182b215877d54751cd27b572a9"
+    },
+    {
+      "file": "baseline_renders/before_roof_top.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "949d19791f26d7be7133ee8fc9c4d941534f4307270511351e1d465d5634c34c"
+    },
+    {
+      "file": "study_04/after_roof_top.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "9ce28466639c26625057a5c723dcb9705e4f77de7d26cd93bb67f9539dae0c08"
+    },
+    {
+      "file": "study_04/before_reconstructed_showcase_iso.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "ed34cb7d0e8c71f5291d52321abdb9a1db5423d4f1977dffe09e3c491dd17914"
+    },
+    {
+      "file": "study_04/after_showcase_iso.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "4730ce981ac63f377e65b4558d9c76165e793ef7847aaba89131372461efff7e"
+    },
+    {
+      "file": "study_04/before_reconstructed_showcase_top.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "ac83843087a8c2f1b833f3854d7647f2f8bc9a64e6790b009edea849f971ec7a"
+    },
+    {
+      "file": "study_04/after_showcase_top.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "fff3187a5c2ad1c6813d76b33c1b0979005c8597592b705f66826fd4fa2c11c3"
+    },
+    {
+      "file": "study_04/fuller_fixed_car_iso.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "c358c9fc48957c56ef6047308e3dc0d1cd589633a5947a8846f39614510b607a"
+    },
+    {
+      "file": "study_04/fuller_fixed_shell_iso.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "b741f8ec6040f17508e7ae388ae47e56bc03a74e4222558382c34b09027adebe"
+    },
+    {
+      "file": "study_04/fuller_fixed_roof_iso.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "63842ae274ad2d8a7ad0ad48f0a1c1b2be6a9cfc7dd6ae227d442c646bff7a41"
+    },
+    {
+      "file": "study_04/variant_a_car_iso.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "419dd1214233c289de3bcf032dac667f9cb2868ef9247f3fe060402a7beddd30"
+    },
+    {
+      "file": "study_04/variant_b_car_iso.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "6c362cf73789d72994531875e2fa32bb5af0e4fbb6b328a5f215fa85f7185962"
+    },
+    {
+      "file": "study_04/weather_only_shell_iso.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "b2df2e0c4d614bc0cd20743edf32bb09c449a6ddadb125270fe104787b7ef8a0"
+    },
+    {
+      "file": "study_04/after_car_detail.png",
+      "format": "PNG",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "4a43d49c26c8afd2c2d7de79b9a0f501044108e2ef515756c0c3f40d08d22f05"
+    },
+    {
+      "file": "after_ivy_tool_ui.png",
+      "format": "PNG",
+      "dimensions": [
+        783,
+        817
+      ],
+      "sha256": "3ca88f7fcdcf154ef3b3076771bc9abbc57586c0dc0903b956d5757d169b6704"
+    },
+    {
+      "file": "after_weather_tool_ui.png",
+      "format": "PNG",
+      "dimensions": [
+        783,
+        817
+      ],
+      "sha256": "32cc3f3f7911ee19d80d8db8d2222075fbaada653bbe6644b9b0a633abb2c618"
+    },
+    {
+      "file": "before_editor_handoff.png",
+      "format": "PNG",
+      "dimensions": [
+        1588,
+        908
+      ],
+      "sha256": "95d19ec325d01b4f89b914218276d051db13f86a95d6cecd983bea51b233415e"
+    },
+    {
+      "file": "after_editor_return.png",
+      "format": "PNG",
+      "dimensions": [
+        1588,
+        908
+      ],
+      "sha256": "a773e0d7bd0613d0cdd0e86e6552015cab06f7402799074f58bc885b3f82429e"
+    },
+    {
+      "file": "reference_user_ruins.png",
+      "format": "PNG",
+      "dimensions": [
+        987,
+        936
+      ],
+      "sha256": "9ed7b91c6eccfa4eb7ff68d21acbbe3ecd5edc632d233d61b8ca8cbe9cb87da2"
+    }
+  ],
+  "nativeScreenshotEncoding": "raw JPEG preserved separately; PNG conversion changes no decoded pixels"
+}

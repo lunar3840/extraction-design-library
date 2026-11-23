@@ -1,0 +1,13 @@
+STAGE_A_LOOK_V23_COMPONENT_REFERENCE
+generatedUtc=2026-09-24T01:44:52.1140856Z
+PASS pre-change map is loaded from protected scene copy
+PASS original baseline and protected scene backup exist
+PASS component reference has not been written before
+PASS loaded scene copy is byte-identical to the protected pre-change backup
+PASS protected backup reproduces the original full hierarchy and transforms
+PASS protected backup reproduces original component, renderer and collider counts
+PASS protected backup reproduces every original renderer and material slot
+PASS protected backup reproduces all original material asset bytes
+NOTE originalLegacyComponentHash=2F55F429CFDCD34862F50538BB41C28CA37CF36353B2C0240DC005CA5F95E63C normalizedBackupComponentHash=8F5D7196B4C862AF522C2169C1C60405A95E059F51887872657352B0A2563511 backupSceneFileHash=C3DC61AB0FE7D33A7909B90861CD31A16E822A70E341E9D0151317CD11AD8454
+SUMMARY passed=8 failed=0
+RESULT PASS

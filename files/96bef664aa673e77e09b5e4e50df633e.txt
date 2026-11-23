@@ -1,0 +1,11 @@
+V34 actual Play rendering. Fixed character position/orientation, normal gameplay camera configuration, 1600x1000, combat frozen. Not a performance benchmark.
+south_yard player=(-8.28001, 1.78000, -56.16000) camera=(-3.92973, 16.83714, -48.62510) fov=60 floor=99 lookWeight=1 tone=Neutral
+south_entry player=(0.00000, 2.18066, -37.00000) camera=(4.35028, 17.23780, -29.46510) fov=60 floor=99 lookWeight=1 tone=Neutral
+west_entry player=(-67.00000, 2.08009, 6.00000) camera=(-62.64972, 17.13723, 13.53490) fov=60 floor=99 lookWeight=0.03197885 tone=Neutral
+hall_1f player=(-0.00001, 2.13329, -28.00000) camera=(4.35027, 17.19043, -20.46510) fov=60 floor=0 lookWeight=1 tone=Neutral
+work_area player=(-0.00001, 2.62000, -5.00000) camera=(4.35027, 17.67714, 2.53490) fov=60 floor=0 lookWeight=1 tone=Neutral
+stairs player=(-24.00000, 2.08000, -21.00000) camera=(-19.64972, 17.13713, -13.46510) fov=60 floor=0 lookWeight=1 tone=Neutral
+hall_2f player=(-22.00000, 8.08000, -27.00000) camera=(-17.64972, 23.13713, -19.46510) fov=60 floor=1 lookWeight=1 tone=Neutral
+remote_control player=(-105.00000, 1.44684, 3.00000) camera=(-100.64970, 16.50398, 10.53490) fov=60 floor=99 lookWeight=0 tone=Neutral
+PASS floor visibility and regional tonemapping continuity.
+RESULT PASS

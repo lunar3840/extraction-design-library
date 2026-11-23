@@ -1,0 +1,62 @@
+{
+  "work_date_kst": "2026-11-19",
+  "handoff_date_kst": "2026-11-20",
+  "source_thread_id": "01a1aa62-ae2b-7ac3-a99c-8fb67424d0b4",
+  "final_turn_id": "01a1f3bb-fb73-76a1-8b16-23211909ad92",
+  "pdf": {
+    "pages": 40,
+    "page_size": [
+      1920,
+      1080
+    ],
+    "bytes": 20485445,
+    "megabytes": 20.5,
+    "sha256": "19b8b10c4e8373ad03ab65248885e8e111fe78111818b2dfae06ea516202d00a",
+    "native_export": true,
+    "quality": "high / sRGB",
+    "page_order_verified": true,
+    "rendered_pages": 40,
+    "visual_review": "기존 완료 검증에서 전체 40쪽 렌더와 38·39쪽 확대 화면 확인. 이번 인계에서는 PDF 해시·40쪽 및 두 박스 좌표를 다시 확인"
+  },
+  "baseline_pdf": {
+    "pages": 40,
+    "bytes": 16822846,
+    "sha256": "127f2fbfa8942668bb2901c3098bdca8b53fe8604e4602b21eb5dfcffeb1f9bf",
+    "preserved": true
+  },
+  "persona_summary_boxes": [
+    {
+      "page": 38,
+      "x0": 144.0,
+      "top": 827.0,
+      "width": 1712.0,
+      "height": 138.0
+    },
+    {
+      "page": 39,
+      "x0": 144.0,
+      "top": 827.0,
+      "width": 1712.0,
+      "height": 138.0
+    }
+  ],
+  "alignment_note": "사용자 최종 정렬 요청을 확인한 시점에는 두 박스의 좌표·크기·내부 문구 기준선이 이미 같았으므로 추가 이동을 하지 않고 동일함을 검증함",
+  "before_after": {
+    "actual_before_available": true,
+    "actual_after_available": true,
+    "missing_assets": [],
+    "comparison_scope": "페르소나 도입 전의 19:58 PDF와 최종 수정본의 같은 38·39쪽 비교. 마지막 박스 정렬 요청 직전의 미세한 차이를 재현하는 이미지가 아님"
+  },
+  "publication_status": "pending_receiver_verification_and_publication",
+  "handoff_scope": "자체 변경보고서·선정 사용자 지시·검증 요약·선택 페이지 JPG 4장",
+  "excluded": [
+    "전체 PDF",
+    "비공개 참고 PPT·PDF",
+    "원본 설문과 개별 응답",
+    "첨부 원본",
+    "AI 원본 인물 파일과 생성 로그",
+    "추론·도구 실행 로그"
+  ],
+  "persona_scope": "가상 페르소나와 AI 제작 인물. 실제 응답자 분류 결과나 실제 이용자 인용이 아님",
+  "no_new_figma_or_game_edits_in_handoff": true
+}

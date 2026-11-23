@@ -1,0 +1,30 @@
+[
+  {
+    "item_id": "trade_a_006",
+    "status": "PASS",
+    "source_triangles": 7685,
+    "final_triangles": 7685,
+    "manifest": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-19\\loot-production\\tripo_refinement\\processed\\trade_a_006\\manifest.json"
+  },
+  {
+    "item_id": "trade_b_023",
+    "status": "PASS",
+    "source_triangles": 7480,
+    "final_triangles": 5000,
+    "manifest": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-19\\loot-production\\tripo_refinement\\processed\\trade_b_023\\manifest.json"
+  },
+  {
+    "item_id": "trade_c_018",
+    "status": "PASS",
+    "source_triangles": 7810,
+    "final_triangles": 4999,
+    "manifest": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-19\\loot-production\\tripo_refinement\\processed\\trade_c_018\\manifest.json"
+  },
+  {
+    "item_id": "trade_b_009",
+    "status": "PASS",
+    "source_triangles": 7376,
+    "final_triangles": 5000,
+    "manifest": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-19\\loot-production\\tripo_refinement\\processed\\trade_b_009\\manifest.json"
+  }
+]

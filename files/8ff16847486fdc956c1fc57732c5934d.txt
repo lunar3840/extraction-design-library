@@ -1,0 +1,4 @@
+ACTUAL_NATIVE_TRIANGLE_COVERAGE
+Read-only actual active68 BlenderExpansion Shell/Roof + explicitly preserved W10_BlenderSample_Shell/Roof registry; three triangle-centroid rays per eligible opaque submesh; native-positive rays must satisfy exact production intersection. Not natural gameplay or GPU image coverage.
+RESULT PASS buildings=69 nativePositive=3333 productionPositive=3333 mismatches=0
+Native-negative samples are retained, not counted as production failures; this check proves coverage of native-positive actual triangles, not every ray/door or every natural player pose.

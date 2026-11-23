@@ -1,0 +1,18 @@
+{
+    "status": "PASS",
+    "utc": "2026-09-14T16:54:29.3779735Z",
+    "colliderHashBefore": "6F1CD577AE448AA3DF9EBA21402E6F169F27722311011377C7ABFB9F565717F1",
+    "colliderHashAfter": "6F1CD577AE448AA3DF9EBA21402E6F169F27722311011377C7ABFB9F565717F1",
+    "anchorHashBefore": "524DBC9982DA1B7AC762DF44BEC741804E3AA85CA2BACA50690C57CE3BD37C7E",
+    "anchorHashAfter": "524DBC9982DA1B7AC762DF44BEC741804E3AA85CA2BACA50690C57CE3BD37C7E",
+    "persistedMeshes": 2163,
+    "fix": {
+        "Version": "0.8.1",
+        "EligibleGeneratedBoxes": 2376,
+        "SkippedOverrideAnchors": 0,
+        "CoplanarOverlapPairs": 11455,
+        "ClippedBoxes": 2163,
+        "RemovedFaceFragments": 6761,
+        "CreatedMeshes": 2163
+    }
+}

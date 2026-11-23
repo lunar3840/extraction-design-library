@@ -1,0 +1,15 @@
+{
+  "checkedUTC": "2026-11-03T19:57:15.9784763Z",
+  "scene": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+  "serializationMode": 2,
+  "rootCount": 4,
+  "rendererCount": 24171,
+  "meshFilterCount": 25927,
+  "dirty": false,
+  "playing": false,
+  "issues": [],
+  "currentDependenciesAudited": 8787,
+  "completeDependencyBeforeHashesAvailable": false,
+  "fullLocalAudit": "SERIALIZATION_RECOVERY_AUDIT.json",
+  "protectedBeforeAfter": "FINAL_PROTECTED_CHECK.json"
+}

@@ -1,0 +1,58 @@
+{
+  "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+  "topicId": "topic:chat/6a9d0fc0-0d14-83ee-b952-0959548603e3",
+  "archiveDateKst": "2026-11-09",
+  "publishedScope": "selected returned turns and verified available review images",
+  "rows": [
+    {
+      "id": "b3d58bb3-033b-4d0e-ad76-bb331d357bdf",
+      "kind": "실패 보고",
+      "sha256": "132f020ab8a8fbaa561fe8c48c96ffd07b96deb2d9bde1d8660a901b64505986",
+      "priorReferenceSHA256": "b560274b255c05b2c3d689c0b835910aaadfe6040319ae830eefe2f763121e95",
+      "sourceMessageIds": [
+        "b3d58bb3-033b-4d0e-ad76-bb331d357bdf",
+        "10ad994d-088f-4a25-b651-6445beb89815"
+      ],
+      "instructionTimeUtc": "2026-10-31T03:32:59.681Z",
+      "sandboxReferences": []
+    },
+    {
+      "id": "8fde02b2-6d19-4eb7-aac1-78a7c843d53d",
+      "kind": "실패 보고",
+      "sha256": "40b30e6f0fbde4cc6d70dfd0bd34e2cc1f908d1a16c45b94de07467215868759",
+      "priorReferenceSHA256": "7b63a030e9b3e4d50ad4c4e016582a75ea8e2b4ed40bd7372534e1caeaf2dd98",
+      "sourceMessageIds": [
+        "8fde02b2-6d19-4eb7-aac1-78a7c843d53d",
+        "2de37f0f-f1c0-48ec-a280-3bd733a69c29"
+      ],
+      "instructionTimeUtc": "2026-10-31T03:35:52.198Z",
+      "sandboxReferences": []
+    },
+    {
+      "id": "3b8386e8-a250-49a5-a20e-da420885c88c",
+      "kind": "재시도 지시와 진행",
+      "sha256": "1189c1c8d1ecfbba087246d718c9d97564460bcd76684fb9443eb9dfc8d26757",
+      "priorReferenceSHA256": "0b831c8b150aa93e4520f26fa4597a49c1dd9efc7677a0b740c72ffd017786a9",
+      "sourceMessageIds": [
+        "3b8386e8-a250-49a5-a20e-da420885c88c",
+        "dfd8c020-60b9-45ff-b61b-8563cc843f25"
+      ],
+      "instructionTimeUtc": "2026-10-31T03:38:19.027Z",
+      "sandboxReferences": []
+    },
+    {
+      "id": "61ddf35a-18de-4e59-956d-203a30fd8c8f",
+      "kind": "실패 판정",
+      "sha256": "3f29e1633da71893ed1f0ad7c9b93a5736303b538fc2623090d304b46d357931",
+      "priorReferenceSHA256": "c26ead8a0e57da444a9d331a19a5f861feb8ffea3ed99459f434480320ce61a8",
+      "sourceMessageIds": [
+        "61ddf35a-18de-4e59-956d-203a30fd8c8f",
+        "21e134bc-b7f6-48b0-8bdf-3f72c47d9c66"
+      ],
+      "instructionTimeUtc": "2026-10-31T03:43:36.097Z",
+      "sandboxReferences": []
+    }
+  ],
+  "images": [],
+  "missing": "정상적인 r19 결과 영상과 비교 이미지는 Chat에서 제공되지 않았습니다. 렌더 가시성·메시 변형·텍스처 연결은 미해결입니다."
+}

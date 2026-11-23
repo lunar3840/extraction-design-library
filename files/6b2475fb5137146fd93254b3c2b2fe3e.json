@@ -1,0 +1,33 @@
+{
+  "zip_path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-10-30\\Edel_Serin_Equipment_Art_Handoff_2026-10-30.zip",
+  "bytes": 220761394,
+  "sha256": "60a0615d63aac2dc6e9ea835c5eb5fa8e771754acd204d36950673007a6fac2b",
+  "zip_entries": 165,
+  "crc_errors": 0,
+  "all_entry_sha256_match": true,
+  "source_integrity": {
+    "checked_source_copies": 157,
+    "all_source_hashes_and_mtimes_unchanged": true,
+    "all_copy_hashes_equal": true,
+    "unity_executed": false,
+    "original_files_saved": false,
+    "authoring_to_live_fbx_equal": [
+      "Edel",
+      "Serin"
+    ],
+    "active_serin_repairs": 5,
+    "limitations": [
+      "Original blend/FBX excludes runtime corrections and Serin repair replacements.",
+      "Historical game screenshots were not newly captured.",
+      "No new equipment/animations/game integration created."
+    ]
+  },
+  "model_copy_verification": "MODEL_COPY_VERIFICATION.json",
+  "active_repair_mapping": "ACTIVE_REPAIR_MAPPING.json",
+  "equipment_counts": {
+    "firearms": 24,
+    "body_armor": 16,
+    "helmets": 14
+  },
+  "created_at": "2026-10-29T19:05:39.061174+00:00"
+}

@@ -1,0 +1,10 @@
+{
+    "prefabSHA256": "7edbbbc37ca67c6456c163a69485a00f450636341906aa16f568c376e84e3e78",
+    "garmentParts": 50,
+    "coverageRenderers": 5,
+    "attachOff": true,
+    "visibleOn": true,
+    "restoredOff": true,
+    "materialsPresent": true,
+    "boneBindingsPresent": true
+}

@@ -1,0 +1,43 @@
+{
+  "threadId": "6ad822ac-0b28-83ee-92f6-de3cfe7e06da",
+  "topicId": "topic:chat/6ad822ac-0b28-83ee-92f6-de3cfe7e06da",
+  "archiveDateKst": "2026-11-09",
+  "publishedScope": "selected returned turns and verified available review images",
+  "rows": [
+    {
+      "id": "3ca86a32-c42b-4de4-adf4-bd6150079f2e",
+      "kind": "스트리밍 중단 확인",
+      "sha256": "ff45340d875208db6a991f355275d48a8dfbadbc219c044a0ec9dd18b7604814",
+      "priorReferenceSHA256": "1e7608b93ef85061ad6678c48f8572c2b8d45ab6b06c145a08feabc79a5b3286",
+      "sourceMessageIds": [
+        "3ca86a32-c42b-4de4-adf4-bd6150079f2e",
+        "852be350-38c5-4eb7-956b-d0e6f52818c8"
+      ],
+      "instructionTimeUtc": "2026-10-22T08:54:42.994Z",
+      "sandboxReferences": []
+    },
+    {
+      "id": "28e9fa5a-a197-47ca-90f4-1187b58e2556",
+      "kind": "진행 확인과 중간 검수",
+      "sha256": "3795f5f71d9b9c57dfedd8483795db013e9a837b91dcb7338ce32aff13a0b0d4",
+      "priorReferenceSHA256": "de207dce6633cf93ec1a1fb12db323474432f72563bd3b8181e39452518616c0",
+      "sourceMessageIds": [
+        "28e9fa5a-a197-47ca-90f4-1187b58e2556",
+        "c3e63a49-b165-4299-b78b-794b44d3f21d"
+      ],
+      "instructionTimeUtc": "2026-10-22T09:19:51.314Z",
+      "sandboxReferences": [
+        "sandbox:/mnt/data/LIV_v28_QA_Contact.png",
+        "sandbox:/mnt/data/LIV_v28_delivery/LIV_v28_QA_Draft_Package.zip"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file": "v28_QA_Contact.png",
+      "sha256": "628f507f7b2ce99ff727de9605ba6fa0c2f99a57763134d61c81a3a702f3ea0f",
+      "caption": "리브 v28의 입·눈감김 상태를 보여 주는 로컬 중간 검수 이미지."
+    }
+  ],
+  "missing": "v27과 v28을 같은 카메라에서 찍은 별도 전후 쌍을 확인하지 못했습니다. Unity 실시간 재생과 최종 눈감김 마감은 미검증입니다."
+}

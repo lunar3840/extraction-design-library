@@ -1,0 +1,88 @@
+{
+  "status": "STATIC_REVIEW_REQUIRED",
+  "beforeSceneDirty": false,
+  "afterSceneDirty": false,
+  "referenceChanges": {},
+  "protectedAssetChanges": {},
+  "bindingChanges": {
+    "removedCount": 0,
+    "addedCount": 0,
+    "removedExamples": [],
+    "addedExamples": []
+  },
+  "colliderChanges": {
+    "beforeRows": 9914,
+    "afterRows": 9914,
+    "removedCount": 0,
+    "addedCount": 0,
+    "removedExamples": [],
+    "addedExamples": []
+  },
+  "countChanges": {
+    "transforms": {
+      "before": 45757,
+      "after": 46681,
+      "delta": 924
+    },
+    "totalRenderers": {
+      "before": 23659,
+      "after": 24131,
+      "delta": 472
+    },
+    "activeRenderers": {
+      "before": 13331,
+      "after": 13803,
+      "delta": 472
+    },
+    "totalColliders": {
+      "before": 9914,
+      "after": 9914,
+      "delta": 0
+    },
+    "activeColliders": {
+      "before": 4401,
+      "after": 4401,
+      "delta": 0
+    },
+    "meshFilters": {
+      "before": 25415,
+      "after": 25887,
+      "delta": 472
+    },
+    "uniqueMeshes": {
+      "before": 8735,
+      "after": 9228,
+      "delta": 493
+    },
+    "ruinMarkers": {
+      "before": 0,
+      "after": 0,
+      "delta": 0
+    },
+    "ivyMarkers": {
+      "before": 0,
+      "after": 226,
+      "delta": 226
+    },
+    "weatheringMarkers": {
+      "before": 0,
+      "after": 0,
+      "delta": 0
+    },
+    "rendererTriangleInstances": {
+      "before": 35731984,
+      "after": 40716273,
+      "delta": 4984289
+    },
+    "uniqueMeshTriangles": {
+      "before": 14569199,
+      "after": 20924720,
+      "delta": 6355521
+    }
+  },
+  "inventoryRows": {
+    "before": 30202,
+    "after": 30900
+  },
+  "note": "Review every difference against the production coverage manifest and Play images. No FPS or visual PASS is inferred."
+}

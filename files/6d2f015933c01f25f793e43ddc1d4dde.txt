@@ -1,0 +1,2 @@
+Assets/Escape/Resources/UI/FigmaGame/MenuAtmosphere.png
+1920x1080; sRGB; uncompressed; no mipmaps; no NPOT rescale; clamp; bilinear; no runtime readback.

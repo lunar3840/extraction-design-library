@@ -1,0 +1,8 @@
+CLINIC_V32_PRESERVATION
+Original scene hierarchy, transforms, activeSelf, meshes, and collider components must remain unchanged.
+Only new ClinicV32_ cosmetic/light descendants are excluded from geometry equivalence; no added colliders are allowed.
+originalGeometrySHA256=31037a6c3190e16ccddb1304623588a8cafe4ae2733f844649405782461d5d43
+currentGeometrySHA256=a6f0b165a5fca4ecab0d6690a968dc11b72c75cbeaea8e998410253ebaed98c8
+scopedCosmeticLines=12
+prefabUnchanged=True (recorded; V32 may persist scoped additions)
+RESULT PASS

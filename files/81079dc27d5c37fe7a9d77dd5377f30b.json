@@ -1,0 +1,58 @@
+{
+  "before": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\backup\\Assets\\Escape\\Resources\\StageMaps\\StageA_Relay_Blockout_v08.prefab",
+  "after": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\StageMaps\\StageA_Relay_Blockout_v08.prefab",
+  "beforeHash": "9489641679e2d21554e7475f47b779d3e1d6d95d6a79dfeb3f30000bd3af7568",
+  "afterHash": "b849090f053449e3c64b1f8bf65d50b78311bc1bcf046d14fe0250422cad04b7",
+  "beforeDocuments": 126729,
+  "afterDocuments": 126729,
+  "added": [],
+  "removed": [],
+  "changed": [
+    {
+      "fileID": "4677304910981208223",
+      "kind": 4,
+      "path": "StageA_Relay_Blockout_v08/LookV16_SouthYardDressing/ConcreteApron_And_Drainage/Curb_WestEdge_Tile_01",
+      "diff": [
+        "--- \n",
+        "+++ \n",
+        "@@ -8,4 +8,4 @@\n",
+        "   serializedVersion: 2",
+        "-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}",
+        "-  m_LocalPosition: {x: -38.8, y: 1.5287964, z: -50.25}",
+        "+  m_LocalRotation: {x: -0.024505401, y: -0, z: 0.0069342493, w: 0.99967563}",
+        "+  m_LocalPosition: {x: -38.8, y: 1.4540467, z: -50.25}",
+        "   m_LocalScale: {x: 0.34, y: 0.24, z: 3.5}"
+      ]
+    },
+    {
+      "fileID": "285791522515627408",
+      "kind": 4,
+      "path": "StageA_Relay_Blockout_v08/LookV16_SouthYardDressing/ConcreteApron_And_Drainage/Curb_WestEdge_Tile_02",
+      "diff": [
+        "--- \n",
+        "+++ \n",
+        "@@ -8,4 +8,4 @@\n",
+        "   serializedVersion: 2",
+        "-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}",
+        "-  m_LocalPosition: {x: -38.8, y: 1.6715871, z: -46.75}",
+        "+  m_LocalRotation: {x: -0.017333329, y: -0, z: 0.0044705826, w: 0.9998398}",
+        "+  m_LocalPosition: {x: -38.8, y: 1.6024163, z: -46.75}",
+        "   m_LocalScale: {x: 0.34, y: 0.24, z: 3.5}"
+      ]
+    },
+    {
+      "fileID": "66451909479057936",
+      "kind": 4,
+      "path": "StageA_Relay_Blockout_v08/StageA_EncounterLayout_V01/G12_02_B/WP_01",
+      "diff": [
+        "--- \n",
+        "+++ \n",
+        "@@ -9,3 +9,3 @@\n",
+        "   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}",
+        "-  m_LocalPosition: {x: 2.9999847, y: 0, z: 0}",
+        "+  m_LocalPosition: {x: -3, y: 0, z: 0}",
+        "   m_LocalScale: {x: 1, y: 1, z: 1}"
+      ]
+    }
+  ]
+}

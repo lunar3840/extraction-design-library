@@ -1,0 +1,8 @@
+rim_hidden __RuinGenerated_S06_Shell_renderOpaque slots=54 meshSubmeshes=54 propblock=False
+last=Material_053_RuinGenerated_brickTornRim_Weathered shader=Escape/Environment/Weathered Lit color=RGBA(0.470, 0.370, 0.300, 1.000)
+plain_rim __RuinGenerated_S06_Shell_renderOpaque slots=54 meshSubmeshes=54 propblock=False
+last=Material_053_RuinGenerated_brickTornRim_Weathered shader=Escape/Environment/Weathered Lit color=RGBA(0.470, 0.370, 0.300, 1.000)
+no_weather __RuinGenerated_S06_Shell_renderOpaque slots=54 meshSubmeshes=54 propblock=False
+last=Material_052_RuinGenerated_brickTornRim shader=Universal Render Pipeline/Lit color=RGBA(0.470, 0.370, 0.300, 1.000)
+stain_hidden __RuinGenerated_S06_Shell_renderOpaque slots=54 meshSubmeshes=54 propblock=False
+last=Material_053_RuinGenerated_brickTornRim_Weathered shader=Escape/Environment/Weathered Lit color=RGBA(0.470, 0.370, 0.300, 1.000)

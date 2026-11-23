@@ -1,0 +1,116 @@
+{
+  "checkedAt": "2026-10-29T08:05:35.352Z",
+  "scope": "Read-only inputs. No game execution or modification.",
+  "sources": [
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Resources/WeaponCatalog.json",
+      "bytes": 23404,
+      "sha256": "58c052b1dbcf5afaa1ec40105521ee1a8e90c1a0dea6fcaa5f86d99c58617884"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Resources/ArmorCatalog.json",
+      "bytes": 6919,
+      "sha256": "ff6086111251ea2e0ba0fb6210f51a8b48dae15705dee29f716d6f59f66dac6c"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Resources/AmmoCatalog.json",
+      "bytes": 3662,
+      "sha256": "8aead8581292f4f71a026ae0288f2752ac631a5cc15f07c3b768bb806a4243d0"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Resources/ItemCatalog.json",
+      "bytes": 207026,
+      "sha256": "8a9d86424259c014d0c6a77b0d69602383b6fdf000eac6ac6813edc42f962984"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Resources/ShopCatalog.json",
+      "bytes": 10292,
+      "sha256": "6562d8d442360574777d6d780bc21c50098616b63146a2ffeb309f0e73755584"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Settings/PlayerDefaults.asset",
+      "bytes": 1423,
+      "sha256": "ff958978bf348140d5d1460e08a9401d586cb8cf2e0a9266fc0663a6f9ebe8d3"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Core/PlayerRules.cs",
+      "bytes": 16604,
+      "sha256": "f82872ba9ab535ad12bfb388c712a69ffe49a2c8aba6959c76eca0cbe51cedff"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Equipment/Core/ArmorState.cs",
+      "bytes": 6912,
+      "sha256": "143f28748c2b0c444f66538ba09db649ed603da21569cfea58154f8f0bab3cac"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Equipment/Core/RepairCalculator.cs",
+      "bytes": 3158,
+      "sha256": "7194e415e7f6fe03a54e9e2c9e4aa54ef34be141f90914c21bffc75722a907e9"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Inventory/Core/InventoryEquipment.cs",
+      "bytes": 2941,
+      "sha256": "129536acda5e0ab44052b41ba496e9f6ef0670137a7a65de693a7287df3e2ede"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Inventory/Core/InventoryState.cs",
+      "bytes": 17513,
+      "sha256": "2d4c4b11a97969ce3de6d83c5995f961fb896447c2a1f8a39ddaf84a7a98656f"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Inventory/Core/ItemUseState.cs",
+      "bytes": 21719,
+      "sha256": "252dde07c55244077119ac640a89fa1f51097460980455ad1baba13b6a1cad31"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Weapon/Core/RifleState.cs",
+      "bytes": 29293,
+      "sha256": "0f72c33761d9ff0abff4b84b9abc1f721e7b6d79cfca90560a98cb896565d715"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Weapon/RifleController.cs",
+      "bytes": 17076,
+      "sha256": "bcf5754ce0beb20b044b5f87f92e292e6f63e89cc3e53eddef3863b0c2d58530"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Basecamp/GrowthRules.cs",
+      "bytes": 4350,
+      "sha256": "85a1dce8fc508d29c1a0ec5671810053361ed65f5a2b99736a71909f7bdd0ada"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Save/BasecampTransactions.cs",
+      "bytes": 6562,
+      "sha256": "3588da271874da1f8458e6e736cbf3cacfbbd4276a8d48ef453505e5b19205f4"
+    },
+    {
+      "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\equipment-weapon-roster\\ROSTER_PROPOSAL.md",
+      "bytes": 19656,
+      "sha256": "836c048a243d61cbf3abbe0b220401739dbd6953b4881ddda658d7d3746eeb0b"
+    },
+    {
+      "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\equipment-weapon-no-tiers\\DESIGN_AMENDMENT.md",
+      "bytes": 4206,
+      "sha256": "18d8dc72330e8b5b254e4b90d622307afd0903b16767bd8203b29dd95fc8b26d"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Inventory/InventoryController.cs",
+      "bytes": 26666,
+      "sha256": "4ca9414fb3de96cf7ba1fafd070c5a9d826fec64eb58de74778a0d6f4c8bd1f8"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Stage/SessionTestWorld.cs",
+      "bytes": 37306,
+      "sha256": "63f4882dbca08d578c02f6c4fb2d3e1b386e46019fac708e28a4549f611feb93"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Save/Core/ProfileData.cs",
+      "bytes": 9204,
+      "sha256": "a4eb45433c0d860040ade655a87e2745356bc05b0b7363b9284fbb9855236e7c"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Inventory/BackpackCatalog.cs",
+      "bytes": 2159,
+      "sha256": "de10e61093ed6a981c92c9930f1e92c0f340a4f309f0bc11b3406c7fa06951ab"
+    }
+  ]
+}

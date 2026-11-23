@@ -1,0 +1,778 @@
+{
+    "character": "Serin",
+    "source": "Assets/Escape/Art/SerinS4R32/SerinS4_r32.fbx",
+    "checkedParts": 50,
+    "changedParts": 0,
+    "parts": [
+        {
+            "part": "Serin_S4_tripo_part_0",
+            "sourceFBX": [
+                "tripo_part_0_material"
+            ],
+            "installedBefore": [
+                "tripo_part_0_material"
+            ],
+            "installedAfter": [
+                "tripo_part_0_material"
+            ],
+            "triangleCounts": [
+                23344
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_1",
+            "sourceFBX": [
+                "S4 BodyFitted abdomen technical fabric",
+                "tripo_part_1_material",
+                "S4 Upper technical lining"
+            ],
+            "installedBefore": [
+                "S4 BodyFitted abdomen technical fabric",
+                "tripo_part_1_material",
+                "S4 Upper technical lining"
+            ],
+            "installedAfter": [
+                "S4 BodyFitted abdomen technical fabric",
+                "tripo_part_1_material",
+                "S4 Upper technical lining"
+            ],
+            "triangleCounts": [
+                3916,
+                12136,
+                2172
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_2",
+            "sourceFBX": [
+                "tripo_part_2_material",
+                "S4 Fitted glove technical leather"
+            ],
+            "installedBefore": [
+                "tripo_part_2_material",
+                "S4 Fitted glove technical leather"
+            ],
+            "installedAfter": [
+                "tripo_part_2_material",
+                "S4 Fitted glove technical leather"
+            ],
+            "triangleCounts": [
+                14980,
+                4282
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_3",
+            "sourceFBX": [
+                "tripo_part_3_material",
+                "S4 BodyFitted abdomen technical fabric"
+            ],
+            "installedBefore": [
+                "tripo_part_3_material",
+                "S4 BodyFitted abdomen technical fabric"
+            ],
+            "installedAfter": [
+                "tripo_part_3_material",
+                "S4 BodyFitted abdomen technical fabric"
+            ],
+            "triangleCounts": [
+                10658,
+                7301
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_4",
+            "sourceFBX": [
+                "tripo_part_4_material",
+                "S4 Fitted glove technical leather"
+            ],
+            "installedBefore": [
+                "tripo_part_4_material",
+                "S4 Fitted glove technical leather"
+            ],
+            "installedAfter": [
+                "tripo_part_4_material",
+                "S4 Fitted glove technical leather"
+            ],
+            "triangleCounts": [
+                6424,
+                4289
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_6",
+            "sourceFBX": [
+                "tripo_part_6_material"
+            ],
+            "installedBefore": [
+                "tripo_part_6_material"
+            ],
+            "installedAfter": [
+                "tripo_part_6_material"
+            ],
+            "triangleCounts": [
+                5080
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_7",
+            "sourceFBX": [
+                "tripo_part_7_material"
+            ],
+            "installedBefore": [
+                "tripo_part_7_material"
+            ],
+            "installedAfter": [
+                "tripo_part_7_material"
+            ],
+            "triangleCounts": [
+                4663
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_8",
+            "sourceFBX": [
+                "tripo_part_8_material"
+            ],
+            "installedBefore": [
+                "tripo_part_8_material"
+            ],
+            "installedAfter": [
+                "tripo_part_8_material"
+            ],
+            "triangleCounts": [
+                1617
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_10",
+            "sourceFBX": [
+                "tripo_part_10_material"
+            ],
+            "installedBefore": [
+                "tripo_part_10_material"
+            ],
+            "installedAfter": [
+                "tripo_part_10_material"
+            ],
+            "triangleCounts": [
+                5585
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_11",
+            "sourceFBX": [
+                "tripo_part_11_material"
+            ],
+            "installedBefore": [
+                "tripo_part_11_material"
+            ],
+            "installedAfter": [
+                "tripo_part_11_material"
+            ],
+            "triangleCounts": [
+                2158
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_15",
+            "sourceFBX": [
+                "tripo_part_15_material"
+            ],
+            "installedBefore": [
+                "tripo_part_15_material"
+            ],
+            "installedAfter": [
+                "tripo_part_15_material"
+            ],
+            "triangleCounts": [
+                1500
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_16",
+            "sourceFBX": [
+                "tripo_part_16_material"
+            ],
+            "installedBefore": [
+                "tripo_part_16_material"
+            ],
+            "installedAfter": [
+                "tripo_part_16_material"
+            ],
+            "triangleCounts": [
+                1225
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_17",
+            "sourceFBX": [
+                "tripo_part_17_material"
+            ],
+            "installedBefore": [
+                "tripo_part_17_material"
+            ],
+            "installedAfter": [
+                "tripo_part_17_material"
+            ],
+            "triangleCounts": [
+                10791
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_19",
+            "sourceFBX": [
+                "tripo_part_19_material"
+            ],
+            "installedBefore": [
+                "tripo_part_19_material"
+            ],
+            "installedAfter": [
+                "tripo_part_19_material"
+            ],
+            "triangleCounts": [
+                3371
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_20",
+            "sourceFBX": [
+                "tripo_part_20_material"
+            ],
+            "installedBefore": [
+                "tripo_part_20_material"
+            ],
+            "installedAfter": [
+                "tripo_part_20_material"
+            ],
+            "triangleCounts": [
+                1967
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_21",
+            "sourceFBX": [
+                "tripo_part_21_material"
+            ],
+            "installedBefore": [
+                "tripo_part_21_material"
+            ],
+            "installedAfter": [
+                "tripo_part_21_material"
+            ],
+            "triangleCounts": [
+                1589
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_22",
+            "sourceFBX": [
+                "tripo_part_22_material"
+            ],
+            "installedBefore": [
+                "tripo_part_22_material"
+            ],
+            "installedAfter": [
+                "tripo_part_22_material"
+            ],
+            "triangleCounts": [
+                1559
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_23",
+            "sourceFBX": [
+                "tripo_part_23_material"
+            ],
+            "installedBefore": [
+                "tripo_part_23_material"
+            ],
+            "installedAfter": [
+                "tripo_part_23_material"
+            ],
+            "triangleCounts": [
+                1339
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_24",
+            "sourceFBX": [
+                "tripo_part_24_material"
+            ],
+            "installedBefore": [
+                "tripo_part_24_material"
+            ],
+            "installedAfter": [
+                "tripo_part_24_material"
+            ],
+            "triangleCounts": [
+                1231
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_25",
+            "sourceFBX": [
+                "tripo_part_25_material"
+            ],
+            "installedBefore": [
+                "tripo_part_25_material"
+            ],
+            "installedAfter": [
+                "tripo_part_25_material"
+            ],
+            "triangleCounts": [
+                827
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_26",
+            "sourceFBX": [
+                "tripo_part_26_material"
+            ],
+            "installedBefore": [
+                "tripo_part_26_material"
+            ],
+            "installedAfter": [
+                "tripo_part_26_material"
+            ],
+            "triangleCounts": [
+                678
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_27",
+            "sourceFBX": [
+                "tripo_part_27_material"
+            ],
+            "installedBefore": [
+                "tripo_part_27_material"
+            ],
+            "installedAfter": [
+                "tripo_part_27_material"
+            ],
+            "triangleCounts": [
+                644
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_28",
+            "sourceFBX": [
+                "tripo_part_28_material"
+            ],
+            "installedBefore": [
+                "tripo_part_28_material"
+            ],
+            "installedAfter": [
+                "tripo_part_28_material"
+            ],
+            "triangleCounts": [
+                626
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_29",
+            "sourceFBX": [
+                "tripo_part_29_material"
+            ],
+            "installedBefore": [
+                "tripo_part_29_material"
+            ],
+            "installedAfter": [
+                "tripo_part_29_material"
+            ],
+            "triangleCounts": [
+                594
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_30",
+            "sourceFBX": [
+                "tripo_part_30_material"
+            ],
+            "installedBefore": [
+                "tripo_part_30_material"
+            ],
+            "installedAfter": [
+                "tripo_part_30_material"
+            ],
+            "triangleCounts": [
+                568
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_31",
+            "sourceFBX": [
+                "tripo_part_31_material"
+            ],
+            "installedBefore": [
+                "tripo_part_31_material"
+            ],
+            "installedAfter": [
+                "tripo_part_31_material"
+            ],
+            "triangleCounts": [
+                543
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_32",
+            "sourceFBX": [
+                "tripo_part_32_material"
+            ],
+            "installedBefore": [
+                "tripo_part_32_material"
+            ],
+            "installedAfter": [
+                "tripo_part_32_material"
+            ],
+            "triangleCounts": [
+                528
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_33",
+            "sourceFBX": [
+                "tripo_part_33_material"
+            ],
+            "installedBefore": [
+                "tripo_part_33_material"
+            ],
+            "installedAfter": [
+                "tripo_part_33_material"
+            ],
+            "triangleCounts": [
+                465
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_34",
+            "sourceFBX": [
+                "tripo_part_34_material"
+            ],
+            "installedBefore": [
+                "tripo_part_34_material"
+            ],
+            "installedAfter": [
+                "tripo_part_34_material"
+            ],
+            "triangleCounts": [
+                342
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_35",
+            "sourceFBX": [
+                "tripo_part_35_material"
+            ],
+            "installedBefore": [
+                "tripo_part_35_material"
+            ],
+            "installedAfter": [
+                "tripo_part_35_material"
+            ],
+            "triangleCounts": [
+                337
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_36",
+            "sourceFBX": [
+                "tripo_part_36_material"
+            ],
+            "installedBefore": [
+                "tripo_part_36_material"
+            ],
+            "installedAfter": [
+                "tripo_part_36_material"
+            ],
+            "triangleCounts": [
+                332
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_37",
+            "sourceFBX": [
+                "tripo_part_37_material"
+            ],
+            "installedBefore": [
+                "tripo_part_37_material"
+            ],
+            "installedAfter": [
+                "tripo_part_37_material"
+            ],
+            "triangleCounts": [
+                306
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_38",
+            "sourceFBX": [
+                "tripo_part_38_material"
+            ],
+            "installedBefore": [
+                "tripo_part_38_material"
+            ],
+            "installedAfter": [
+                "tripo_part_38_material"
+            ],
+            "triangleCounts": [
+                290
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_39",
+            "sourceFBX": [
+                "tripo_part_39_material"
+            ],
+            "installedBefore": [
+                "tripo_part_39_material"
+            ],
+            "installedAfter": [
+                "tripo_part_39_material"
+            ],
+            "triangleCounts": [
+                286
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_40",
+            "sourceFBX": [
+                "tripo_part_40_material"
+            ],
+            "installedBefore": [
+                "tripo_part_40_material"
+            ],
+            "installedAfter": [
+                "tripo_part_40_material"
+            ],
+            "triangleCounts": [
+                272
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_41",
+            "sourceFBX": [
+                "tripo_part_41_material"
+            ],
+            "installedBefore": [
+                "tripo_part_41_material"
+            ],
+            "installedAfter": [
+                "tripo_part_41_material"
+            ],
+            "triangleCounts": [
+                222
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_42",
+            "sourceFBX": [
+                "tripo_part_42_material"
+            ],
+            "installedBefore": [
+                "tripo_part_42_material"
+            ],
+            "installedAfter": [
+                "tripo_part_42_material"
+            ],
+            "triangleCounts": [
+                207
+            ]
+        },
+        {
+            "part": "Serin_S4_tripo_part_43",
+            "sourceFBX": [
+                "tripo_part_43_material"
+            ],
+            "installedBefore": [
+                "tripo_part_43_material"
+            ],
+            "installedAfter": [
+                "tripo_part_43_material"
+            ],
+            "triangleCounts": [
+                194
+            ]
+        },
+        {
+            "part": "Serin_S4_Edel_S4_Fitted_FingerlessGlove_L",
+            "sourceFBX": [
+                "S4 Fitted glove technical leather"
+            ],
+            "installedBefore": [
+                "S4 Fitted glove technical leather"
+            ],
+            "installedAfter": [
+                "S4 Fitted glove technical leather"
+            ],
+            "triangleCounts": [
+                1287
+            ]
+        },
+        {
+            "part": "Serin_S4_Edel_S4_Fitted_FingerlessGlove_R",
+            "sourceFBX": [
+                "S4 Fitted glove technical leather"
+            ],
+            "installedBefore": [
+                "S4 Fitted glove technical leather"
+            ],
+            "installedAfter": [
+                "S4 Fitted glove technical leather"
+            ],
+            "triangleCounts": [
+                1295
+            ]
+        },
+        {
+            "part": "Serin_S4_Edel_S4_ContactFit_LeftWristCuff",
+            "sourceFBX": [
+                "S4 Fitted ballistic webbing"
+            ],
+            "installedBefore": [
+                "S4 Fitted ballistic webbing"
+            ],
+            "installedAfter": [
+                "S4 Fitted ballistic webbing"
+            ],
+            "triangleCounts": [
+                262
+            ]
+        },
+        {
+            "part": "Serin_S4_Edel_S4_ContactFit_ThighBand_0",
+            "sourceFBX": [
+                "S4 Fitted ballistic webbing"
+            ],
+            "installedBefore": [
+                "S4 Fitted ballistic webbing"
+            ],
+            "installedAfter": [
+                "S4 Fitted ballistic webbing"
+            ],
+            "triangleCounts": [
+                1024
+            ]
+        },
+        {
+            "part": "Serin_S4_Edel_S4_ThighBuckle_0",
+            "sourceFBX": [
+                "S4 Buckle machined titanium"
+            ],
+            "installedBefore": [
+                "S4 Buckle machined titanium"
+            ],
+            "installedAfter": [
+                "S4 Buckle machined titanium"
+            ],
+            "triangleCounts": [
+                64
+            ]
+        },
+        {
+            "part": "Serin_S4_Edel_S4_ContactFit_ThighBand_1",
+            "sourceFBX": [
+                "S4 Fitted ballistic webbing"
+            ],
+            "installedBefore": [
+                "S4 Fitted ballistic webbing"
+            ],
+            "installedAfter": [
+                "S4 Fitted ballistic webbing"
+            ],
+            "triangleCounts": [
+                1024
+            ]
+        },
+        {
+            "part": "Serin_S4_Edel_S4_ThighBuckle_1",
+            "sourceFBX": [
+                "S4 Buckle machined titanium"
+            ],
+            "installedBefore": [
+                "S4 Buckle machined titanium"
+            ],
+            "installedAfter": [
+                "S4 Buckle machined titanium"
+            ],
+            "triangleCounts": [
+                64
+            ]
+        },
+        {
+            "part": "Serin_S4_Edel_S4_Fitted_UpperFabric",
+            "sourceFBX": [
+                "S4 Upper technical lining"
+            ],
+            "installedBefore": [
+                "S4 Upper technical lining"
+            ],
+            "installedAfter": [
+                "S4 Upper technical lining"
+            ],
+            "triangleCounts": [
+                1729
+            ]
+        },
+        {
+            "part": "Serin_S4_Edel_S4_Fitted_Torso_HemBand",
+            "sourceFBX": [
+                "S4 BodyFitted seam dark binding"
+            ],
+            "installedBefore": [
+                "S4 BodyFitted seam dark binding"
+            ],
+            "installedAfter": [
+                "S4 BodyFitted seam dark binding"
+            ],
+            "triangleCounts": [
+                1280
+            ]
+        },
+        {
+            "part": "Serin_S4_Edel_S4_Fitted_Underbust_Abdomen",
+            "sourceFBX": [
+                "S4 BodyFitted abdomen technical fabric"
+            ],
+            "installedBefore": [
+                "S4 BodyFitted abdomen technical fabric"
+            ],
+            "installedAfter": [
+                "S4 BodyFitted abdomen technical fabric"
+            ],
+            "triangleCounts": [
+                12800
+            ]
+        },
+        {
+            "part": "Serin_S4_Edel_S4_Fitted_Seam_L",
+            "sourceFBX": [
+                "S4 BodyFitted amber seam"
+            ],
+            "installedBefore": [
+                "S4 BodyFitted amber seam"
+            ],
+            "installedAfter": [
+                "S4 BodyFitted amber seam"
+            ],
+            "triangleCounts": [
+                1472
+            ]
+        },
+        {
+            "part": "Serin_S4_Edel_S4_Fitted_Seam_R",
+            "sourceFBX": [
+                "S4 BodyFitted amber seam"
+            ],
+            "installedBefore": [
+                "S4 BodyFitted amber seam"
+            ],
+            "installedAfter": [
+                "S4 BodyFitted amber seam"
+            ],
+            "triangleCounts": [
+                1472
+            ]
+        }
+    ]
+}

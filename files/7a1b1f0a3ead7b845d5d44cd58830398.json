@@ -1,0 +1,14 @@
+{
+    "canonicalVertices": 575,
+    "skinFaces": 49,
+    "twoSidedFaces": 98,
+    "bodyBefore": 12313,
+    "bodyAfter": 12420,
+    "maxPositionDelta": 0.00009777551895240322,
+    "maxWeightL1": 0.0493963286280632,
+    "verticesBySource": [
+        253,
+        283,
+        39
+    ]
+}

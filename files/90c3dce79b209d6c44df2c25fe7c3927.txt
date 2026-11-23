@@ -1,0 +1,22 @@
+CURRENT_FIX_EVIDENCE
+phase=after utc=2026-10-29T08:20:54.6607152Z
+METHOD actual isolated A preview; actual Game screenshot after18runtime frames; AI frozen only; no production material editing by capture.
+VIEW W03_outside feet=(-135.09440, 2.41410, 31.64021) eye=(-129.78120, 16.13684, 40.84301) revealing=True surfaces=2 blocker=W03_Roof_renderOpaque maskReady=True maskDraws=36
+VIEW W03_inside feet=(-136.00000, 2.91012, 42.00000) eye=(-130.68680, 16.60415, 51.20280) revealing=False surfaces=0 blocker= maskReady=False maskDraws=36
+VIEW W04_outside feet=(-100.64800, 1.87288, 17.36758) eye=(-95.33479, 15.59203, 26.57038) revealing=True surfaces=2 blocker=W04_Roof_renderOpaque maskReady=True maskDraws=36
+VIEW W04_inside feet=(-99.00000, 2.28000, 31.00000) eye=(-93.68676, 15.94415, 40.20280) revealing=False surfaces=0 blocker= maskReady=False maskDraws=36
+VIEW E08_outside feet=(95.52918, 1.35937, -66.28249) eye=(100.84240, 15.08527, -57.07968) revealing=True surfaces=2 blocker=E08_Roof_renderOpaque maskReady=True maskDraws=36
+VIEW E08_inside feet=(97.00000, 1.86000, -57.00000) eye=(102.31320, 15.52415, -47.79720) revealing=False surfaces=0 blocker= maskReady=False maskDraws=36
+VIEW POWER_outside feet=(102.36540, 12.02000, 114.46700) eye=(107.67860, 25.73852, 123.66980) revealing=True surfaces=2 blocker=POWER_Roof_renderOpaque maskReady=True maskDraws=36
+VIEW POWER_inside feet=(128.50000, 12.02000, 107.00000) eye=(133.81320, 25.72415, 116.20280) revealing=False surfaces=0 blocker= maskReady=False maskDraws=36
+VIEW PARTS_outside feet=(152.73790, 3.01956, -22.13895) eye=(158.05120, 16.66086, -12.93614) revealing=True surfaces=1 blocker=PARTS_Roof_renderOpaque maskReady=True maskDraws=36
+VIEW PARTS_inside feet=(174.50000, 3.02000, -2.50000) eye=(179.81320, 16.72415, 6.70280) revealing=False surfaces=0 blocker= maskReady=False maskDraws=36
+VIEW TOOLS_outside feet=(-155.30190, 1.02000, 4.91914) eye=(-149.98870, 14.68415, 14.12194) revealing=True surfaces=1 blocker=TOOLS_Shell_renderOpaque maskReady=True maskDraws=36
+VIEW TOOLS_inside feet=(-167.50000, 1.02000, 5.50000) eye=(-162.18680, 14.68415, 14.70280) revealing=False surfaces=0 blocker= maskReady=False maskDraws=36
+VIEW HALL_outside feet=(18.00000, 1.88676, -40.00000) eye=(23.31324, 15.56207, -30.79720) revealing=True surfaces=2 blocker=FactoryPBR_Factory2Roof01 maskReady=True maskDraws=36
+VIEW HALL_inside feet=(0.00000, 2.02000, -28.00000) eye=(5.31324, 15.75914, -18.79720) revealing=False surfaces=0 blocker=SouthLobbyRoof__Collision maskReady=False maskDraws=36
+VIEW semantic_W5_S11 feet=(-92.00000, 0.02224, -93.00000) eye=(-86.68676, 13.72415, -83.79720) revealing=True surfaces=2 blocker=S11_Roof_renderOpaque maskReady=True maskDraws=36
+VIEW HALL_2F feet=(38.50000, 8.02000, 20.50000) eye=(43.81324, 21.70415, 29.70280) revealing=True surfaces=4 blocker=Factory2Wall04 maskReady=True maskDraws=36
+VIEW HALL_G12_B feet=(-4.44029, 2.02000, 19.07556) eye=(0.87295, 15.70415, 28.27836) revealing=True surfaces=1 blocker=1F_NorthFacade_-40.0_Panel_3 maskReady=True maskDraws=36
+VIEW curb_blocked feet=(-39.38000, 1.35000, -51.29000) eye=(-34.06676, 15.01415, -42.08720) revealing=False surfaces=0 blocker= maskReady=False maskDraws=36
+PASS actual Game views=18

@@ -1,0 +1,72 @@
+PASS catalog/shop physical definition att_muzzle_rifle_suppressor
+PASS catalog/shop physical definition att_muzzle_rifle_brake
+PASS catalog/shop physical definition att_muzzle_pistol_suppressor
+PASS catalog/shop physical definition att_muzzle_pistol_compensator
+PASS catalog/shop physical definition att_muzzle_shotgun_choke
+PASS catalog/shop physical definition att_barrel_long
+PASS catalog/shop physical definition att_barrel_short
+PASS catalog/shop physical definition att_barrel_precision
+PASS catalog/shop physical definition att_foregrip_vertical
+PASS catalog/shop physical definition att_foregrip_angled
+PASS catalog/shop physical definition att_foregrip_stubby
+PASS catalog/shop physical definition att_reargrip_ergo
+PASS catalog/shop physical definition att_reargrip_rubber
+PASS catalog/shop physical definition att_stock_stable
+PASS catalog/shop physical definition att_stock_light
+PASS catalog/shop physical definition att_stock_tactical
+PASS catalog/shop physical definition att_mag_extended
+PASS catalog/shop physical definition att_mag_quick
+PASS catalog/shop physical definition att_mag_drum
+PASS catalog/shop physical definition att_mag_pistol_extended
+PASS catalog/shop physical definition att_mag_precision_extended
+PASS catalog/shop physical definition att_optic_red_dot
+PASS catalog/shop physical definition att_optic_2x
+PASS catalog/shop physical definition att_optic_4x
+PASS catalog/shop physical definition att_tactical_flashlight
+PASS catalog/shop physical definition att_tactical_laser
+PASS catalog/shop physical definition att_tactical_combo
+PASS catalog/shop physical definition att_handguard_light
+PASS catalog/shop physical definition att_handguard_stable
+PASS add rifle fixture
+PASS equip rifle fixture
+PASS add owned part att_foregrip_vertical
+PASS installation consumes exactly one physical part and preserves gun reference and total carried mass
+PASS add owned part att_foregrip_angled
+PASS save rejection restores exact entries, identities, layout and attachment without notifications
+PASS physical replacement returns the previous part without duplication
+PASS same-ID restored stale rifle references cannot mutate owned inventory
+PASS add owned part att_muzzle_pistol_suppressor
+PASS incompatible physical part remains untouched
+PASS detachment accepts an exact chosen position
+PASS detached part occupies the requested grid cell and orientation
+PASS reinstall detached part
+PASS dragged installed part swaps with a compatible loose part at the exact target
+PASS out-of-grid detach is atomic
+PASS add rifle fixture
+PASS equip rifle fixture
+PASS add owned part att_foregrip_vertical
+PASS prepare full bag installed part
+PASS add owned part att_foregrip_angled
+PASS full bag replacement safely reuses the consumed part entry
+PASS full bag with no return entry refuses detachment without loss
+PASS start reload fixture
+PASS reload blocks modification without cancelling reload
+PASS fire cooldown fixture
+PASS live attachment changes preserve cooldown, bloom, ammunition and early-shot rejection
+PASS add owned part att_tactical_laser
+PASS prepare active tactical rollback
+PASS add owned part att_tactical_flashlight
+PASS failed tactical replacement restores enabled state and exact physical inventory
+PASS add owned part att_optic_red_dot
+PASS prepare sale fixture
+PASS weapon sale quote includes installed parts at the same resale prices as loose parts
+PASS prepare two identical weapon IDs for selected sale
+PASS add owned part att_optic_red_dot
+PASS mod only the second same-ID rifle
+PASS selected-identity sale sells the chosen modded gun and credits its parts while preserving the earlier same-ID gun
+PASS opening bag gun modding retains cargo ownership instead of showing loot acquisition actions
+PASS successful bag-part install reselects the owned bag gun and preserves expanded modding
+PASS bag gun detachment preserves owned selection and collapsed modding
+PASS equipped gun modding uses equipment selection while resolving the live owned gun
+PASS equipped-gun install survives consumed loose-part selection and preserves expanded modding
+PASS equipped-gun detach retains the equipment detail and expanded modding

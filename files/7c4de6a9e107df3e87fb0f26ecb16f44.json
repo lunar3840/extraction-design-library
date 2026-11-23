@@ -1,0 +1,292 @@
+{
+  "status": "PASS_CLEAN_RETURN_READY",
+  "utc": "2026-10-30T05:27:58.7731816Z",
+  "sharedUnity": "Held by owner until explicit clean return message; no further Unity writes planned",
+  "scene": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+  "sceneSha256": "11C4100C8D129FFD04C83AAD7BBA97B20C1D7F703D4F84DE9E84754D9D988E6A",
+  "prefab": "Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab",
+  "prefabSha256": "68C752E06FC6182E4BB3FBE5F5B25ED7B67839D7A41BB404AD4823360DF75CB0",
+  "playOffObserved": true,
+  "sceneCleanObserved": true,
+  "gameResolutionObserved": "Full HD 1920x1080",
+  "nativeEvidence": "after_editor_native.jpg",
+  "nativeEvidenceSha256": "81857DF65B60F9CDFDF07FF4F341A0671F7FB487D1A254FF27CB5711ECD12073",
+  "nativeRecompile": "Tundra build success; assembly reload complete; no error CS in retained final log excerpt",
+  "existingWarning": "Duplicate menu Escape/Stage A/Ruin Density V04 Shot Checks, Escape.Tests.StageAMachineRoleChecks.RunShotChecks; unrelated source not modified",
+  "ownedToolsAbsent": true,
+  "ownRequestAbsent": true,
+  "owned38": [
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Materials.meta",
+      "sha256": "824125fc54249d7e0b05dada6246c8b83c9200f6a749d6752291de79db9ef2ef"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Materials/A34_DryLeaf.mat",
+      "sha256": "2f2de092636d4405d9ca25a5196fa97900c90c3f90a3d1e1903f450f2c41ff73"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Materials/A34_DryLeaf.mat.meta",
+      "sha256": "6914b754382d208ec3eea6ad1c529db320a3d1de885723aee5e47192d02bad3c"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Materials/A34_IvyLeaf.mat",
+      "sha256": "a30fe83e0a1ee41276252b1f86a4ec213e53192ed33bcb6fc44d526974ea5d9f"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Materials/A34_IvyLeaf.mat.meta",
+      "sha256": "8ae60007f543a6b168d6e860400f7c5864a65b4a0fbb051f7789e59069782be1"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Materials/A34_Paving.mat",
+      "sha256": "07a6899dd809600289e87fbce6d7b6f669be511084f23c356b83e1079fe09e5c"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Materials/A34_Paving.mat.meta",
+      "sha256": "3973a42639d5c90db0c2fc8620c86af3c5b97527867f2c6c118b94628ed8505b"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Materials/A34_PlasterChip.mat",
+      "sha256": "2af96ed71a7db7f6a05982e1021354a102a48049d8e3a3567ce1b7394ee86624"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Materials/A34_PlasterChip.mat.meta",
+      "sha256": "353e583e8af61b8b70e2b7a1d5ead620ecce3ef7bc607d8d93e98f9a756394de"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Materials/A34_Root.mat",
+      "sha256": "7b2d75e72668d8f1371bff1828fbb05f2c11ef3a1e06459e88b64df96ac433fb"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Materials/A34_Root.mat.meta",
+      "sha256": "d083c44e065dd42d64455993c1e0a558601edfbcafd98b8b9caa5033386eeb5e"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Materials/A34_Soil.mat",
+      "sha256": "5351275e370972ad2c21941e97610a2f164aca1f4cf5348a0ec5a3751f78aa48"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Materials/A34_Soil.mat.meta",
+      "sha256": "025689b7492698fbb2a9a4864c7d27c06a9b5f3aa78ee79203bf5bf87836084d"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Materials/A34_Substrate.mat",
+      "sha256": "2a78c8fa4900c2c1ffd504bf2d57081c29498a8306f3f3bbf4bc4f5c3b65eb8e"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Materials/A34_Substrate.mat.meta",
+      "sha256": "b3fa989500821ae564acdae2a4d5ef002337f2b1d025a388fb461ec117434a5d"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Materials/A34_Wet.mat",
+      "sha256": "5746f280c446fd6419f931028be028422954660b14feb3923ab736715b5b066f"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Materials/A34_Wet.mat.meta",
+      "sha256": "13593d6f99ceb35702c19b1cdce65c98f06b1b531626713b21d6c5b587d6a2e7"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes.meta",
+      "sha256": "9ad073a57b8b4909a2722a18f0d21966194ffa5cd5365c3171f8186a9ba7d750"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_ClinicGroundGrassCarpet.asset",
+      "sha256": "04081a90c53b1f3508d6218bc36e06bd2e78db46f25fe55de18507d563697493"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_ClinicGroundGrassCarpet.asset.meta",
+      "sha256": "a05197c10206b39153f12c5802a451f80e1fc4a9a50e2d4347c0ad244c9943bb"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_ClinicGroundGrassGap.asset",
+      "sha256": "896352dc92140e3899778f2de6e2da3e4d6fa9035c1b7ed6a19b7b685b7587e4"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_ClinicGroundGrassGap.asset.meta",
+      "sha256": "895101dbb8bc1b29c50d80a42260f3b9f7e08c684fd3f1dc28097b58e7816c32"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_ClinicRoofIvyLeaves.asset",
+      "sha256": "900cc65fc4a9e18d7e1d0b27fc6d3f9c4ccd36812e4cdccbd3f26fdd679d04b5"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_ClinicRoofIvyLeaves.asset.meta",
+      "sha256": "2fc972e891f5558d91cb652d4302e5154a04b68fe7b7948e3fea139d468809ad"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_ClinicRoofIvyStems.asset",
+      "sha256": "71d83aa0dc736b0064b965fe36ea39a536392fe8e6e9129af0a8ac003874d77c"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_ClinicRoofIvyStems.asset.meta",
+      "sha256": "5807bec09632e3ef190833e8e9514f09e0a14979cc8602822a71986084e5bc38"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_Debris.asset",
+      "sha256": "eeee0861d33007ddd6b6d45526fbde00bc7fd4611cbac6f3254263db4d6ee418"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_Debris.asset.meta",
+      "sha256": "1b5b13c629d0498ffd5e2ae2806e3f3b9f7770fc0fffc3cdf3dd5e133f3a36cd"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_Ground.asset",
+      "sha256": "864dd635ca1bb34e9b94b97861305a95f5441b17493ae0c3368a623ed10fe9da"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_Ground.asset.meta",
+      "sha256": "b76720489baf8a916725c4efb1f2b152b76ea31fb8a3f2e31ec9237a1a1a8ca6"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_GrowthLeaf.asset",
+      "sha256": "3f747fe2b53dd73413e86fea3dbc1f799ecc549a8246a3cda89b52e22c905fca"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_GrowthLeaf.asset.meta",
+      "sha256": "597a85fbf5675a24ac94845a34100e354a0a40b0e39086ba08e200b4f46b50da"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_GrowthStem.asset",
+      "sha256": "6a5547c8f667c7cdce28965ed6aeba075deb96601424014a93439a139cde9caf"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_GrowthStem.asset.meta",
+      "sha256": "e3701afcbd6f9ca44612d44fb6b3c094d1b468b953fbc95247efbc7772ec8faf"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_PlasterLoss.asset",
+      "sha256": "27f64c742c28455071505fe370f3cbeff2e103e9f7ffd862e3f9aad8c850ca93"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_PlasterLoss.asset.meta",
+      "sha256": "1488b580c4a534cd6c94e4e91700dbbf8fa29019f6b6f6d8953c27db76e9ad81"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_Roots.asset",
+      "sha256": "ab31eca119b93a2591290c4bdb0a31f48e01a5bea7986d746210961607aef725"
+    },
+    {
+      "path": "Assets/Escape/Art/ClinicMoodTrial20261030/Meshes/A34_Roots.asset.meta",
+      "sha256": "f245f74fea99d0b2ad00127e01aca7f21d71155a559cb1a6aa88794b16909090"
+    }
+  ],
+  "protected29": [
+    {
+      "path": "Assets/Escape/Art/BuildingV33/Reveal/BuildingV33LocalReveal.shader",
+      "sha256": "4aa5ba99f3cbf3f89c68c53f9fdc099c486fa776f4184b94b358459fccebe27a"
+    },
+    {
+      "path": "Assets/Escape/Art/LookV16/LookV16Volume.asset",
+      "sha256": "9fea9d3b4374e65428020fd3c8d2eb547e138e946f916f240b5feb3907037998"
+    },
+    {
+      "path": "Assets/Escape/Art/SubcultureD15/CharacterHybridD15.shader",
+      "sha256": "a841211530b0684dcb35ed1c5e8eb21b5998618cf8adc0955a158e3d1e0a2179"
+    },
+    {
+      "path": "Assets/Escape/Art/Toon/HybridToon.shader",
+      "sha256": "f8849ff9755225ca99f5948ec93e4e165e58e3b8c3b4a7821595bf1178b92b10"
+    },
+    {
+      "path": "Assets/Escape/Art/Toon/ToonOutline.shader",
+      "sha256": "6c8b9d54405e31c55e209f902a60cd14ce81e6ded362b96f32415a42fe64bda8"
+    },
+    {
+      "path": "Assets/Escape/Editor/ToonArtBuild.cs",
+      "sha256": "2340efd6f8d3be23316256a6d8fb8a335808ee48282a36f7e609baf1d60f5a61"
+    },
+    {
+      "path": "Assets/Escape/Resources/EscapeVision/BuildingV33ActorMask.shader",
+      "sha256": "a896f27a5202d92dc041b126e4e620456f457d320baada1f3f52e422f296fa5b"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Combat/CombatFeedbackAudio.cs",
+      "sha256": "42167865854915d2b8161a310db879a2626d6c9381ff96a9efdb82ba9e4c1a22"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Combat/CombatFeedbackHud.cs",
+      "sha256": "d545cb81754ce3fa336c4bdc044205d11fa8fbea39a96373326b621572eba151"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Environment/AMapRuinIvyRevealBinding.cs",
+      "sha256": "4b2565424495f061324d5ddc7b70a17e0e29c1fdc457d19d1d806f41a0f71367"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Environment/AMapRuinWeatheringBinding.cs",
+      "sha256": "268fe5fa517a6c4d163101c5355f4a6456699ccb1d29147c2105ae57ff46c224"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Environment/SurfaceIvyInstance.cs",
+      "sha256": "05102bffe52312c33048895297d9f3b982dbb5b8003da7fb155cfad7ce41a3b7"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageABuildingV33Reveal.cs",
+      "sha256": "a5f9adfcfc273a72f1351ed54f150468cffc5af1fd1fc1f2957a1c5f2bb05bbf"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageAGraphicsV31Environment.cs",
+      "sha256": "26a0a1eb95a9c4260acac1507f0fda3f07ef318185c4dc8f1796d9f88d6c9a4a"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageAHallV24OccludedPlayerSilhouette.cs",
+      "sha256": "d97ab10c9a2b5b4b1788a55d4eca6a30ae68f7245ca60151349523f426791e76"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageALookV16Atmosphere.cs",
+      "sha256": "b8c592b609f36a310f2c7f3f1a1fee10d4b0e03cf2f5f49d90bdd474fbbe65f3"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageAWestD02OccludedPlayerSilhouette.cs",
+      "sha256": "fece045974a89ae68eab7f33729b357768372f2e6eeaddfcee7645d2d1e29c3f"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageMapRouter.cs",
+      "sha256": "bfa99ccfc3fc1555796a825d07a2b7580de81276d67311f8def0230d1c0ae72b"
+    },
+    {
+      "path": "Assets/Escape/Runtime/TopDownCamera.cs",
+      "sha256": "5ab46c51a14bb6da9fb27aa00b0b52d25984ea1915b80c564be0eb19ae6aa7f2"
+    },
+    {
+      "path": "Assets/Escape/Runtime/UI/WeaponModelThumbnails.cs",
+      "sha256": "0bd58e67a3471f16191a18e1f831d3887fac5e23adc9405704de6e1ed3ee6334"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Visuals/ToonCharacterStyle.cs",
+      "sha256": "206e6a2d738685890d57505369f948c9b334d27b59927c6d570db41dfa9ab7fb"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Visuals/ToonOutlineCamera.cs",
+      "sha256": "f46fe3aa3fac3fa6463e42b0b64ea0733453ff689fd273cac9c1b7447859d30b"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Visuals/ToonOutlineFeature.cs",
+      "sha256": "4d00b3127654c41f602cf8c6ed1a0e49bcc18b95a67442e02a238de85f644252"
+    },
+    {
+      "path": "Assets/Escape/Art/SurfaceWeathering/WeatheredLit.shader",
+      "sha256": "2070a9fb8b131a399e452b36f3c34f4f568961529774cdefbe203a124cff2a49"
+    },
+    {
+      "path": "Assets/Escape/Art/WeatherV38/Puddles/StageAPuddlesV38.shader",
+      "sha256": "ab239c7e71ce17fb196a377bab8ca3d699fba944fe09b4a659a0d07af790e075"
+    },
+    {
+      "path": "Assets/Escape/Editor/Environment/SurfaceIvyGenerator.cs",
+      "sha256": "25d7cc942906faf6789622aaab1518841a8916f079ba95d00d61d0144176fb3b"
+    },
+    {
+      "path": "Assets/Escape/Settings/PlayerDefaults.asset",
+      "sha256": "ff958978bf348140d5d1460e08a9401d586cb8cf2e0a9266fc0663a6f9ebe8d3"
+    },
+    {
+      "path": "Assets/Settings/PC_Renderer.asset",
+      "sha256": "076f074c67b3e3ecdb0fcc2e868b99f00598859e0a6dbf738ae05ff098b4b26e"
+    },
+    {
+      "path": "Assets/Settings/PC_RPAsset.asset",
+      "sha256": "190681fe355fe27b2bc89d629263f637058e79b4d9748b562010a25e78153dfb"
+    }
+  ],
+  "preservationReport": "staging/validation/PRE_SAVE_PRESERVATION_final06_001.txt",
+  "preservationReportSha256": "60892251A55A72408234F87508FF626BE4D4176F2F11C8D4A24989EE253CC467"
+}

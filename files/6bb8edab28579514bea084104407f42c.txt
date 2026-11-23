@@ -1,0 +1,60 @@
+UTC 2026-10-15 05:42:09Z
+Rebuilt machine visual prefabs only; human prefabs were not rebuilt.
+  controller=Legs_Spider_Lt_Ctrl clips=24 rootMotion=False animation=Legs_Spider_Lt_Idle,Legs_Spider_Lt_Walk,Legs_Spider_Lt_Transform_to_Roller,Legs_Spider_Lt_Transform_to_Spider,Legs_Spider_Lt_Death,Legs_Spider_Lt_Roller_Idle,Legs_Spider_Lt_Roller_Roll,Legs_Spider_Lt_Roller_Death,Legs_Spider_Lt_Turn_L,Legs_Spider_Lt_Turn_R,Legs_Spider_Lt_Walk_Back,Legs_Spider_Lt_Strafe_L,Legs_Spider_Lt_Strafe_R,Legs_Spider_Lt_Walk_Turn_R,Legs_Spider_Lt_Walk_Turn_L,Legs_Spider_Lt_Turn_45deg_L,Legs_Spider_Lt_Turn_45deg_R,Legs_Spider_Lt_Roller_Roll_Turn_R,Legs_Spider_Lt_Roller_Roll_Turn_L,Legs_Spider_Lt_Deactivate,Legs_Spider_Lt_Activate,Legs_Spider_Lt_Roller_Deactivate,Legs_Spider_Lt_Roller_Activate,Legs_Spider_Lt_Strafe_L_Faster
+  state Idle: definition=True animatorHasState=True
+  state Walk: definition=True animatorHasState=True
+  state Walk_Back: definition=True animatorHasState=True
+  state Strafe_L: definition=True animatorHasState=True
+  state Strafe_R: definition=True animatorHasState=True
+  state Turn_L: definition=True animatorHasState=True
+  state Turn_R: definition=True animatorHasState=True
+  state Walk_Turn_L: definition=True animatorHasState=True
+  state Walk_Turn_R: definition=True animatorHasState=True
+  state Death: definition=True animatorHasState=True
+  walk skinVertexDelta=1.24494
+  controller=Legs_Spider_Med_Ctrl clips=24 rootMotion=False animation=Legs_Spider_Med_Idle,Legs_Spider_Med_Walk,Legs_Spider_Med_Death,Legs_Spider_Med_Transform_to_Roller,Legs_Spider_Med_Transform_to_Spider,Legs_Spider_Med_Roller_Idle,Legs_Spider_Med_Roller_Roll,Legs_Spider_Med_Roller_Death,Legs_Spider_Med_Walk_Back,Legs_Spider_Med_Turn_L,Legs_Spider_Med_Turn_R,Legs_Spider_Med_Strafe_L,Legs_Spider_Med_Strafe_R,Legs_Spider_Med_Walk_Turn_R,Legs_Spider_Med_Walk_Turn_L,Legs_Spider_Med_Turn_45deg_L,Legs_Spider_Med_Turn_45deg_R,Legs_Spider_Med_Roller_Roll_Turn_L,Legs_Spider_Med_Roller_Roll_Turn_R,Legs_Spider_Med_Deactivate,Legs_Spider_Med_Activate,Legs_Spider_Med_Roller_Deactivate,Legs_Spider_Med_Roller_Activate,Legs_Spider_Med_Strafe_L_Faster
+  state Idle: definition=True animatorHasState=True
+  state Walk: definition=True animatorHasState=True
+  state Walk_Back: definition=True animatorHasState=True
+  state Strafe_L: definition=True animatorHasState=True
+  state Strafe_R: definition=True animatorHasState=True
+  state Turn_L: definition=True animatorHasState=True
+  state Turn_R: definition=True animatorHasState=True
+  state Walk_Turn_L: definition=True animatorHasState=True
+  state Walk_Turn_R: definition=True animatorHasState=True
+  state Death: definition=True animatorHasState=True
+  walk skin sample unavailable; transform animation only
+  controller=Legs_Spider_Med_Ctrl clips=24 rootMotion=False animation=Legs_Spider_Med_Idle,Legs_Spider_Med_Walk,Legs_Spider_Med_Death,Legs_Spider_Med_Transform_to_Roller,Legs_Spider_Med_Transform_to_Spider,Legs_Spider_Med_Roller_Idle,Legs_Spider_Med_Roller_Roll,Legs_Spider_Med_Roller_Death,Legs_Spider_Med_Walk_Back,Legs_Spider_Med_Turn_L,Legs_Spider_Med_Turn_R,Legs_Spider_Med_Strafe_L,Legs_Spider_Med_Strafe_R,Legs_Spider_Med_Walk_Turn_R,Legs_Spider_Med_Walk_Turn_L,Legs_Spider_Med_Turn_45deg_L,Legs_Spider_Med_Turn_45deg_R,Legs_Spider_Med_Roller_Roll_Turn_L,Legs_Spider_Med_Roller_Roll_Turn_R,Legs_Spider_Med_Deactivate,Legs_Spider_Med_Activate,Legs_Spider_Med_Roller_Deactivate,Legs_Spider_Med_Roller_Activate,Legs_Spider_Med_Strafe_L_Faster
+  state Idle: definition=True animatorHasState=True
+  state Walk: definition=True animatorHasState=True
+  state Walk_Back: definition=True animatorHasState=True
+  state Strafe_L: definition=True animatorHasState=True
+  state Strafe_R: definition=True animatorHasState=True
+  state Turn_L: definition=True animatorHasState=True
+  state Turn_R: definition=True animatorHasState=True
+  state Walk_Turn_L: definition=True animatorHasState=True
+  state Walk_Turn_R: definition=True animatorHasState=True
+  state Death: definition=True animatorHasState=True
+  walk skinVertexDelta=1.54515
+  controller=Chassis_Tank_CTRL clips=7 rootMotion=False animation=Tank_Anim_Idle,Tank_Anim_Drive_Forward,Tank_Anim_Drive_Turn_L,Tank_Anim_Drive_Turn_R,Tank_Anim_Turn_L,Tank_Anim_Turn_R,Tank_Anim_Drive_Forward
+  state Idle: definition=True animatorHasState=True
+  state Move_Forward: definition=True animatorHasState=True
+  state Move_Backwards: definition=True animatorHasState=True
+  state Turn_L: definition=True animatorHasState=True
+  state Turn_R: definition=True animatorHasState=True
+  state Move_Forward_Turn_L: definition=True animatorHasState=True
+  state Move_Forward_Turn_R: definition=True animatorHasState=True
+  walk skin sample unavailable; transform animation only
+  controller=Legs_Spider_Hvy_Ctrl clips=25 rootMotion=False animation=Legs_Spider_Hvy_Idle,Legs_Spider_Hvy_Walk,Legs_Spider_Hvy_Death,Legs_Spider_Hvy_Transform_to_Roller,Legs_Spider_Hvy_Transform_to_Spider,Legs_Spider_Hvy_Roller_Idle,Legs_Spider_Hvy_Roller_Roll,Legs_Spider_Hvy_Roller_Death,Legs_Spider_Hvy_Walk_Back,Legs_Spider_Hvy_Turn_L,Legs_Spider_Hvy_Turn_R,Legs_Spider_Hvy_Strafe_L,Legs_Spider_Hvy_Strafe_R,Legs_Spider_Hvy_Walk_Turn_R,Legs_Spider_Hvy_Walk_Turn_L,Legs_Spider_Hvy_Turn_45deg_L,Legs_Spider_Hvy_Turn_45deg_R,Legs_Spider_Hvy_Roller_Roll_Turn_L,Legs_Spider_Hvy_Roller_Roll_Turn_R,Legs_Spider_Hvy_Deactivate,Legs_Spider_Hvy_Activate,Legs_Spider_Hvy_Roller_Deactivate,Legs_Spider_Hvy_Roller_Activate,Legs_Spider_Hvy_Strafe_L_Faster,Legs_Spider_Hvy_Strafe_L_Faster
+  state Idle: definition=True animatorHasState=True
+  state Walk: definition=True animatorHasState=True
+  state Walk_Back: definition=True animatorHasState=True
+  state Strafe_L: definition=True animatorHasState=True
+  state Strafe_R: definition=True animatorHasState=True
+  state Turn_L: definition=True animatorHasState=True
+  state Turn_R: definition=True animatorHasState=True
+  state Walk_Turn_L: definition=True animatorHasState=True
+  state Walk_Turn_R: definition=True animatorHasState=True
+  state Death: definition=True animatorHasState=True
+  walk skinVertexDelta=1.92942
+FAILURES 0

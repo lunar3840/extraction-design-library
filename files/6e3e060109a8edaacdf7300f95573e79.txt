@@ -1,0 +1,4 @@
+READ-ONLY PREFLIGHT; NOT actual execution of 209 variants.
+actors=73 variants=209 legs=627 predictedPass=208 predictedFail=1 rawInvalidLegs=1 sampledPathFailures=0 leashFailures=0 bodyFailures=2 saturation=0
+NavMesh uses the shared default type0 mesh. Body checks additionally use each authored radius/height and the production axis-aligned box sampling/0.16m support-floor tolerance.
+Both endpoints sampled within2m; goals clamped to authored home/leash as production Move does. This does not replace production spawn validation, per-agent path execution, local avoidance, animation, or long-term combat.

@@ -1,0 +1,80 @@
+{
+  "topic_id": "topic:outputs/change_records/2026-11-19/inventory-ux-research",
+  "assets": [
+    {
+      "file": "images/p38_before.jpg",
+      "page": 38,
+      "stage": "before",
+      "pair_id": "persona-page-38",
+      "width": 1440,
+      "height": 810,
+      "format": "JPEG",
+      "quality": 78,
+      "bytes": 105318,
+      "view_sha256": "76b33e74d47011d8c10a9fa1b9e2fb98d35bf873a9845873ca4fba9e1ce5d6b9",
+      "origin_pdf_sha256": "127f2fbfa8942668bb2901c3098bdca8b53fe8604e4602b21eb5dfcffeb1f9bf",
+      "origin_pdf_modified_at_kst": "2026-11-19T19:58:22+09:00",
+      "origin": "보존된 실제 PDF의 해당 페이지를 직접 렌더한 열람용 사본",
+      "contains_ai_portrait": false
+    },
+    {
+      "file": "images/p38_after.jpg",
+      "page": 38,
+      "stage": "after",
+      "pair_id": "persona-page-38",
+      "width": 1440,
+      "height": 810,
+      "format": "JPEG",
+      "quality": 78,
+      "bytes": 109460,
+      "view_sha256": "2cb160c51b881798e4c23ca967903ec67ab036a06ee9ac200bcf4ffb4f9aa610",
+      "origin_pdf_sha256": "19b8b10c4e8373ad03ab65248885e8e111fe78111818b2dfae06ea516202d00a",
+      "origin_pdf_modified_at_kst": "2026-11-19T21:21:53+09:00",
+      "origin": "보존된 실제 PDF의 해당 페이지를 직접 렌더한 열람용 사본",
+      "contains_ai_portrait": true
+    },
+    {
+      "file": "images/p39_before.jpg",
+      "page": 39,
+      "stage": "before",
+      "pair_id": "persona-page-39",
+      "width": 1440,
+      "height": 810,
+      "format": "JPEG",
+      "quality": 78,
+      "bytes": 109228,
+      "view_sha256": "1c6756586803c05aa58fc85e0de8593ef434d8b4bd481d82ec0dd99ba2549f26",
+      "origin_pdf_sha256": "127f2fbfa8942668bb2901c3098bdca8b53fe8604e4602b21eb5dfcffeb1f9bf",
+      "origin_pdf_modified_at_kst": "2026-11-19T19:58:22+09:00",
+      "origin": "보존된 실제 PDF의 해당 페이지를 직접 렌더한 열람용 사본",
+      "contains_ai_portrait": false
+    },
+    {
+      "file": "images/p39_after.jpg",
+      "page": 39,
+      "stage": "after",
+      "pair_id": "persona-page-39",
+      "width": 1440,
+      "height": 810,
+      "format": "JPEG",
+      "quality": 78,
+      "bytes": 113081,
+      "view_sha256": "2fc3a8f95ae6b268ecf017506a8def2af59ed6ec67ef4625289dae483014c5b8",
+      "origin_pdf_sha256": "19b8b10c4e8373ad03ab65248885e8e111fe78111818b2dfae06ea516202d00a",
+      "origin_pdf_modified_at_kst": "2026-11-19T21:21:53+09:00",
+      "origin": "보존된 실제 PDF의 해당 페이지를 직접 렌더한 열람용 사본",
+      "contains_ai_portrait": true
+    }
+  ],
+  "comparison_scope": "페르소나 도입 전의 19:58 PDF와 최종 수정본의 같은 38·39쪽 비교. 마지막 박스 정렬 요청 직전의 미세한 차이를 재현하는 이미지가 아님",
+  "public_files": [
+    "CHANGE_RECORD.md",
+    "SOURCE_MESSAGES.json",
+    "VALIDATION_SUMMARY.json",
+    "SELECTED_ASSETS.json",
+    "images/p38_before.jpg",
+    "images/p38_after.jpg",
+    "images/p39_before.jpg",
+    "images/p39_after.jpg"
+  ]
+}

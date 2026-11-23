@@ -1,0 +1,110 @@
+[
+  {
+    "id": "HALL_outside",
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-ruin-ivy-rollout\\staging\\validation\\play_after\\after_play_game_HALL_outside.png",
+    "destination": "prior_game_before/before_game_HALL_outside.png",
+    "sourceLastWriteTime": "2026-10-30T01:48:58.9704185+09:00",
+    "sha256": "AE39A0197240D43FB3FF7FD795059321D6D6146EF3A0459A820A277AC793E6FE",
+    "verifiedIdentical": true,
+    "meaning": "Actual phase1 after Game image reused as pre-density baseline; preserved copy, not a new before capture."
+  },
+  {
+    "id": "HALL_inside",
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-ruin-ivy-rollout\\staging\\validation\\play_after\\after_play_game_HALL_inside.png",
+    "destination": "prior_game_before/before_game_HALL_inside.png",
+    "sourceLastWriteTime": "2026-10-30T01:49:21.1141119+09:00",
+    "sha256": "BE4D3482362FD9145C701E10669B42C0A03C618AF26DBEE257419EC0C19155D4",
+    "verifiedIdentical": true,
+    "meaning": "Actual phase1 after Game image reused as pre-density baseline; preserved copy, not a new before capture."
+  },
+  {
+    "id": "CLINIC_outside",
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-ruin-ivy-rollout\\staging\\validation\\play_after\\after_play_game_CLINIC_outside.png",
+    "destination": "prior_game_before/before_game_CLINIC_outside.png",
+    "sourceLastWriteTime": "2026-10-30T01:49:48.9845404+09:00",
+    "sha256": "84668B37D216629F3360325F7A75F1D55E9939C7A551DC0BC0AC972587AD0AF7",
+    "verifiedIdentical": true,
+    "meaning": "Actual phase1 after Game image reused as pre-density baseline; preserved copy, not a new before capture."
+  },
+  {
+    "id": "CLINIC_inside",
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-ruin-ivy-rollout\\staging\\validation\\play_after\\after_play_game_CLINIC_inside.png",
+    "destination": "prior_game_before/before_game_CLINIC_inside.png",
+    "sourceLastWriteTime": "2026-10-30T01:50:11.5208595+09:00",
+    "sha256": "42755B176550989E62C33C3924586F301E83F8CA33FFDF326AD5B5FDB01617F1",
+    "verifiedIdentical": true,
+    "meaning": "Actual phase1 after Game image reused as pre-density baseline; preserved copy, not a new before capture."
+  },
+  {
+    "id": "S06_outside",
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-ruin-ivy-rollout\\staging\\validation\\play_after\\after_play_game_S06_outside.png",
+    "destination": "prior_game_before/before_game_S06_outside.png",
+    "sourceLastWriteTime": "2026-10-30T01:50:32.2568105+09:00",
+    "sha256": "D4560AA40D1C09CB36CF59039796F27D36708C5FBF4B1C9F0D75651F380118F9",
+    "verifiedIdentical": true,
+    "meaning": "Actual phase1 after Game image reused as pre-density baseline; preserved copy, not a new before capture."
+  },
+  {
+    "id": "S06_inside",
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-ruin-ivy-rollout\\staging\\validation\\play_after\\after_play_game_S06_inside.png",
+    "destination": "prior_game_before/before_game_S06_inside.png",
+    "sourceLastWriteTime": "2026-10-30T01:50:49.5118555+09:00",
+    "sha256": "6B10EDF088EA0721F8F785061F6350A28B9FC0F82E9373B91719E2D393EAF698",
+    "verifiedIdentical": true,
+    "meaning": "Actual phase1 after Game image reused as pre-density baseline; preserved copy, not a new before capture."
+  },
+  {
+    "id": "W05_vehicle",
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-ruin-ivy-rollout\\staging\\validation\\play_after\\after_play_game_W05_vehicle.png",
+    "destination": "prior_game_before/before_game_W05_vehicle.png",
+    "sourceLastWriteTime": "2026-10-30T01:51:13.1423276+09:00",
+    "sha256": "F43DAA56E1A52B750C9A0A54EB547490DF8BCB5A7C5CFFA4C93158D023E72227",
+    "verifiedIdentical": true,
+    "meaning": "Actual phase1 after Game image reused as pre-density baseline; preserved copy, not a new before capture."
+  },
+  {
+    "id": "south_bridge",
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-ruin-ivy-rollout\\staging\\validation\\play_after\\after_play_game_south_bridge.png",
+    "destination": "prior_game_before/before_game_south_bridge.png",
+    "sourceLastWriteTime": "2026-10-30T01:51:33.3731630+09:00",
+    "sha256": "1B9EBF69C3A53432F8C5257E7EAFE263C82B98B11D62CF13BE8841D07213F2F9",
+    "verifiedIdentical": true,
+    "meaning": "Actual phase1 after Game image reused as pre-density baseline; preserved copy, not a new before capture."
+  },
+  {
+    "id": "B4",
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-ruin-ivy-rollout\\staging\\validation\\play_after\\after_play_game_B4.png",
+    "destination": "prior_game_before/before_game_B4.png",
+    "sourceLastWriteTime": "2026-10-30T01:51:51.8081521+09:00",
+    "sha256": "79C2026C576EE1E662C1C2CCCED39062B281993351C9D3469B9891D25AD7E3E7",
+    "verifiedIdentical": true,
+    "meaning": "Actual phase1 after Game image reused as pre-density baseline; preserved copy, not a new before capture."
+  },
+  {
+    "id": "R8_comparison_only",
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-ruin-ivy-rollout\\staging\\validation\\play_after\\after_play_game_R8_comparison_only.png",
+    "destination": "prior_game_before/before_game_R8_comparison_only.png",
+    "sourceLastWriteTime": "2026-10-30T01:52:13.2784197+09:00",
+    "sha256": "BAFCB8E38A0FF6DCDB79A23E5EDBEBDFE4EFA48BDB7F05A1A0448079F4EADED9",
+    "verifiedIdentical": true,
+    "meaning": "Actual phase1 after Game image reused as pre-density baseline; preserved copy, not a new before capture."
+  },
+  {
+    "id": "CLINIC_true_exterior",
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-ruin-ivy-rollout\\staging\\validation\\play_after_supplement\\after_play_game_CLINIC_true_exterior.png",
+    "destination": "prior_game_before/before_game_CLINIC_true_exterior.png",
+    "sourceLastWriteTime": "2026-10-30T01:57:37.2207192+09:00",
+    "sha256": "6BAB199B06B4B78A5351D63748DA9BB85B05B4497F4F64388450C8ECE6CE9827",
+    "verifiedIdentical": true,
+    "meaning": "Actual phase1 after Game image reused as pre-density baseline; preserved copy, not a new before capture."
+  },
+  {
+    "id": "SW_vehicle_close",
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-ruin-ivy-rollout\\staging\\validation\\play_after_supplement\\after_play_game_SW_vehicle_close.png",
+    "destination": "prior_game_before/before_game_SW_vehicle_close.png",
+    "sourceLastWriteTime": "2026-10-30T01:57:39.1643790+09:00",
+    "sha256": "459D53802492AEA8DB5A398DAD1802F834B9CAC781FC2043218AFD1C9C1FA6CA",
+    "verifiedIdentical": true,
+    "meaning": "Actual phase1 after Game image reused as pre-density baseline; preserved copy, not a new before capture."
+  }
+]

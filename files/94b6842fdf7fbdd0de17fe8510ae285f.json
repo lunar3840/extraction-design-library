@@ -1,0 +1,36 @@
+{
+  "armorSelectionQuote": "아머 괜찮은데? 저 시안들 킵하고 헬멧 디자인도 해볼래?",
+  "archive": "outputs/handoffs/2026-11-02/Armor16_Selected_Concepts",
+  "files": [
+    {
+      "role": "mobility",
+      "file": "outputs/handoffs/2026-11-02/Armor16_Selected_Concepts/after_mobility_tiers.png",
+      "sha256": "6dbef64ce9c6141f61df3c95e9f493848116023c4cae741987d1e039a86578a8"
+    },
+    {
+      "role": "balanced",
+      "file": "outputs/handoffs/2026-11-02/Armor16_Selected_Concepts/after_balanced_tiers.png",
+      "sha256": "bedb0695f894664dd064475ae132658f168d77a5d8f8ea8c5b41275468e17541"
+    },
+    {
+      "role": "heavy",
+      "file": "outputs/handoffs/2026-11-02/Armor16_Selected_Concepts/after_heavy_tiers.png",
+      "sha256": "9e6bb7d8eb6cef71790c016ed49dd5846e8bb002f01ec32a3a19f123c4f064ce"
+    },
+    {
+      "role": "maintenance",
+      "file": "outputs/handoffs/2026-11-02/Armor16_Selected_Concepts/after_maintenance_tiers.png",
+      "sha256": "472b5d416eb75b8daac6f4b10c76b8d522f92d36e9e57f3e588bd0e4fed60782"
+    }
+  ],
+  "beforeHelmetSource": "outputs/change_records/2026-11-02/equipment-subculture-design/concepts/helmet14_design_draft.png",
+  "beforeHelmetCopy": "before_helmet14_reference.png",
+  "beforeSHA256": "fe61a7f192e9bd9401216884f1a56400c8bd53ca307025f0511a02010a0dbc5c",
+  "armorFilesWillNotBeModified": true,
+  "afterHelmetWorkArmorSHAUnchanged": {
+    "mobility": true,
+    "balanced": true,
+    "heavy": true,
+    "maintenance": true
+  }
+}

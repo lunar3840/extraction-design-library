@@ -1,0 +1,42 @@
+[
+  {
+    "run": "runtime_B1_639288498135904931",
+    "samples": 117,
+    "sampleGameSeconds": 29.534,
+    "healthMin": 100.0,
+    "healthMax": 100.0,
+    "maxPlayerTargets": 0,
+    "nearestDistanceMin": 61.18934,
+    "nearestDistanceMax": 63.93561
+  },
+  {
+    "run": "runtime_B2_639288498648279274",
+    "samples": 120,
+    "sampleGameSeconds": 29.78,
+    "healthMin": 100.0,
+    "healthMax": 100.0,
+    "maxPlayerTargets": 0,
+    "nearestDistanceMin": 46.52537,
+    "nearestDistanceMax": 49.03978
+  },
+  {
+    "run": "runtime_B3_639288499301335871",
+    "samples": 121,
+    "sampleGameSeconds": 29.549,
+    "healthMin": 100.0,
+    "healthMax": 100.0,
+    "maxPlayerTargets": 0,
+    "nearestDistanceMin": 44.44729,
+    "nearestDistanceMax": 47.40699
+  },
+  {
+    "run": "runtime_B4_639288499867791781",
+    "samples": 121,
+    "sampleGameSeconds": 29.685,
+    "healthMin": 100.0,
+    "healthMax": 100.0,
+    "maxPlayerTargets": 0,
+    "nearestDistanceMin": 51.78036,
+    "nearestDistanceMax": 52.50333
+  }
+]

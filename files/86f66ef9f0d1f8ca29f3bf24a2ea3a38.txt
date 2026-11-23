@@ -1,0 +1,1 @@
+weapon=True helmet=True bodyArmor=True

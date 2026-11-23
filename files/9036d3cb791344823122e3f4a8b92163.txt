@@ -1,0 +1,43 @@
+PASS AR_001 definition asset loads
+PASS starts empty; no free ammo
+PASS one pending reload only
+PASS reload start does not consume ammo
+PASS reload cannot complete early
+PASS 2.8 second transfer
+PASS reload completion cannot double consume
+PASS loaded ammo identity and multiplier
+PASS one shot consumes one round
+PASS source hip spread
+PASS cadence gate
+PASS next shot after 0.2 seconds
+PASS source ADS base spread
+PASS invalid timestamp rejected
+PASS round-trip snapshot preserves identity and rounds
+PASS same definition different instance IDs
+PASS cancel before commit conserves ammunition
+PASS owner death cancels pending transfer
+PASS partial reload limited by available rounds
+PASS consume finite round 0
+PASS consume finite round 1
+PASS consume finite round 2
+PASS consume finite round 3
+PASS consume finite round 4
+PASS consume finite round 5
+PASS consume finite round 6
+PASS empty magazine and empty reserve
+PASS simultaneous carried reloads cannot duplicate reserve
+PASS same type magazines independent
+PASS removing ownership cancels reload
+PASS matching stack transfer only
+PASS 30fps 300 RPM cadence
+PASS 30fps bloom recovery
+PASS 30fps recoil recovery
+PASS 60fps 300 RPM cadence
+PASS 60fps bloom recovery
+PASS 60fps recoil recovery
+PASS 120fps 300 RPM cadence
+PASS 120fps bloom recovery
+PASS 120fps recoil recovery
+PASS ADS reduces recoil
+PASS recoil caps
+PASS corrupt snapshot rejected

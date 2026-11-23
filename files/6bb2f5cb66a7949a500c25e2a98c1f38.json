@@ -1,0 +1,18 @@
+{
+  "checkedUtc": "2026-10-22T10:32:45.4344136Z",
+  "changes": [
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Stage\\SessionTestWorld.cs",
+      "archivedSHA256": "56A358C3016D3C38D5AB6BB5322537CE8887653B2E02AFCE6138B602042CB9F9",
+      "currentSHA256": "33FAB1E4C3084357DCEBD0F51FDA48CA8B7B36014D63497EE9EEE1B6266FF9B0",
+      "currentModifiedUtc": "2026-10-22T10:30:27.0595206Z"
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\PlayerMotor.cs",
+      "archivedSHA256": "870F5E11B4919594327136A96F3B17E90DFD2E0E6FFCC8D48A0FA730EB2F8647",
+      "currentSHA256": "34BB0CF80A9E8263D55EA0D7D0800D18B101255819FBC3D1477A8AD1628D5269",
+      "currentModifiedUtc": "2026-10-22T10:19:03.8087971Z"
+    }
+  ],
+  "controlledRulesAffected": false
+}

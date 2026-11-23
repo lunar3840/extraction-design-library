@@ -1,0 +1,10 @@
+{
+  "sceneSha256": "11C4100C8D129FFD04C83AAD7BBA97B20C1D7F703D4F84DE9E84754D9D988E6A",
+  "prefabSha256": "68C752E06FC6182E4BB3FBE5F5B25ED7B67839D7A41BB404AD4823360DF75CB0",
+  "owned38TsvSha256": "E3EC66B711ED12A5760552A5C3342992B7658A77A21D9C5A78F00B0963DBDA42",
+  "after07ReportPath": "staging/validation/play_aft07/PLAY_REPORT.json",
+  "after07ReportSha256": "9756F0D210E8DF2BD61F339C8A3EF35DCAE112795865B5073B8C20E3A29595FD",
+  "manualReviewed": true,
+  "visualReview": "FAIL",
+  "reviewBasis": "Owner directly reviewed north seam close, roof near north, true exterior. Independent reviewer directly compared all12 pairs: connected canopy/eave improved, but repeated feather/spoke roof foliage and thick dark lower X/S trunks detached from actual root contacts remain. Candidate21 confined to exact4 owned meshes and same root18k/24kv, roof186920/combined194916 caps."
+}

@@ -1,0 +1,39 @@
+PASS runtime fixture reloads real rifle state
+PASS actual CharacterController moves with base gun
+PASS runtime attaches movement barrel
+PASS attachment changes actual CharacterController displacement (0.2060546875 / 0.206201166147366)
+PASS attachment changes motor aim-entry duration
+PASS motor entry duration gates actual PlayerState aim timer
+PASS runtime equips aimed-movement parts
+PASS aimed attachment movement reaches CharacterController (0.2060546875 / 0.206407376949303)
+PASS optic modifier reaches actual follow camera override (27.0000019073486 / 27.0000004768372)
+PASS optic lookahead boost ends when aiming ends (18 / 18)
+PASS runtime fixture equips att_muzzle_rifle_brake
+PASS runtime fixture equips att_foregrip_vertical
+PASS runtime fixture reloads real rifle state
+PASS runtime modded rifle fires actual adapter shot
+PASS vertical attachment recoil reaches rendered pointer offset (13.4946002960205 / 13.494599985981)
+PASS horizontal attachment recoil reaches rendered pointer offset (3.91230010986328 / 3.91230007343888)
+PASS runtime fixture reloads real rifle state
+PASS unsuppressed actual shot reaches enemy hearing through CombatSignals
+PASS runtime fixture equips att_muzzle_rifle_suppressor
+PASS runtime fixture reloads real rifle state
+PASS suppressor actual shot leaves same outer-radius enemy unaware
+PASS silencer keeps direct damage awareness working
+PASS silencer does not globally disable impact hearing
+PASS runtime fixture equips att_tactical_combo
+PASS runtime fixture reloads real rifle state
+PASS installed switched-off flashlight emits no light
+PASS tactical toggle activates laser rules and real spotlight
+PASS flashlight is a directional illuminating component
+PASS spotlight range uses gameplay range and world scale (8 / 8.00000011920929)
+PASS simulation pause hides actual light while retaining enabled device state
+PASS simulation pause does not advance rifle clock (101 / 101)
+PASS resuming simulation restores enabled device light
+PASS map input ownership hides light without discarding device state
+PASS releasing map input ownership restores enabled light
+PASS inventory hides light without discarding device state
+PASS closing inventory resumes enabled device light
+PASS device off removes actual light and laser effects
+PASS no active gun clears camera light and movement modifiers
+PASS independent runtime integration: 38 assertions

@@ -1,0 +1,109 @@
+{
+  "atUTC": "2026-11-03T19:03:20.691928+00:00",
+  "restoreRoot": "C:\\Users\\ehoji\\OneDrive\\\ubb38\uc11c\\ChatGPT\\\uc775\uc2a4\ud2b8\ub799\uc158\\outputs\\handoffs\\2026-11-03\\Serin_S4_Refit",
+  "archive": "C:\\Users\\ehoji\\OneDrive\\\ubb38\uc11c\\ChatGPT\\\uc775\uc2a4\ud2b8\ub799\uc158\\outputs\\handoffs\\2026-11-03\\Serin_S4_Refit\\intermediate_native_fbx_r18-r31.tar.xz",
+  "archiveSHA256": "4a1c2227707dd6c1526ac8b61c110820880f598a073e99fb5ce85f9d3329b7c5",
+  "files": [
+    {
+      "file": "r18/Serin_S4_Refit_r18.blend",
+      "bytes": 60875289,
+      "sha256": "d9c08cdb0b2f1e92c8d1de8882b106609de644ca8ac1b646d665c8db36434fdc"
+    },
+    {
+      "file": "r19/Serin_S4_Refit_r19.blend",
+      "bytes": 60979152,
+      "sha256": "daa4c7817c13952b39b9625ef3060151552a47a14eb3cdafea87669d7ac9bdce"
+    },
+    {
+      "file": "r20/Serin_S4_Refit_r20.blend",
+      "bytes": 60951264,
+      "sha256": "56fd1a5349d94010e2c32d46870c95729cb26966805333985856e28a1d6765f6"
+    },
+    {
+      "file": "r21/Serin_S4_Refit_r21.blend",
+      "bytes": 61389373,
+      "sha256": "c8394999a7cf4576bd5b2cc5c91406811eb91b18824042e1a6a194734a555419"
+    },
+    {
+      "file": "r22/Serin_S4_Refit_r22.blend",
+      "bytes": 61362829,
+      "sha256": "eb0b416fd3df1c3363d76099bfebce461058652ad851b476b669776e23bb1507"
+    },
+    {
+      "file": "r23/Serin_S4_Refit_r23.blend",
+      "bytes": 61402296,
+      "sha256": "8037597771d7d701e5ddf420a2988075616eec1eac35a54afe22b13184b7a431"
+    },
+    {
+      "file": "r24/Serin_S4_Refit_r24.blend",
+      "bytes": 61401669,
+      "sha256": "841d336acc94ea1821d39bddee061d0c9f1ae23a86f4930dfb5e55c6a025f261"
+    },
+    {
+      "file": "r25/Serin_S4_Refit_r25.blend",
+      "bytes": 61397511,
+      "sha256": "a0238cafe7051c89b3ea0ae1fdfbd89223d22edf56bac56892ae2a741ffcd904"
+    },
+    {
+      "file": "r26/Serin_S4_Refit_r26.blend",
+      "bytes": 61403648,
+      "sha256": "0956dc18842a9be82d91d90df2c4012368cdf7870ec6878f3e85f8460f764926"
+    },
+    {
+      "file": "r27/SerinS4_r27.fbx",
+      "bytes": 14815260,
+      "sha256": "3b97a00b9f53ee410a783561ecd7264a1a7c8c5fd3b73772769ce91df5653939"
+    },
+    {
+      "file": "r27/Serin_S4_Refit_r27.blend",
+      "bytes": 61580861,
+      "sha256": "f31a7a956dd2994a6dc61ae2e5338b6c8c0a39d1c02832772bd2a1bed3521948"
+    },
+    {
+      "file": "r28/SerinS4_r28.fbx",
+      "bytes": 14820140,
+      "sha256": "1118bf63a51322b88c2579fd1ad452d010a0af25604f230d12172768c69c953d"
+    },
+    {
+      "file": "r28/Serin_S4_Refit_r28.blend",
+      "bytes": 61587218,
+      "sha256": "bb71f6702037807d9d2c0204bf3c951ff6651a81e377f980e61f1250a202674f"
+    },
+    {
+      "file": "r29/SerinS4_r29.fbx",
+      "bytes": 14617676,
+      "sha256": "f835757bf7fdac00c6765cd242bc13391148eac51b398732f03020c2bfd46ac2"
+    },
+    {
+      "file": "r29/Serin_S4_Refit_r29.blend",
+      "bytes": 61509193,
+      "sha256": "80f99070ed74db62383f7e734f0bbcf261ba7ed869786abb07ca4587327e7b57"
+    },
+    {
+      "file": "r30/SerinS4_r30.fbx",
+      "bytes": 14667004,
+      "sha256": "e3ad76caf87416fd6cdf23bbe3759cf1037916d39aa749741f5783f9f8f7b85b"
+    },
+    {
+      "file": "r30/Serin_S4_Refit_r30.blend",
+      "bytes": 61536630,
+      "sha256": "fc1332c3d833cdfa67811565d3d39c4b0cb5c2ce7730067fd1d212bd6837ece9"
+    },
+    {
+      "file": "r31/SerinS4_r31.fbx",
+      "bytes": 14747452,
+      "sha256": "3ed8e7cd432d88ae28ee1830201dd9a343f845bbe66fc132a9af8bbf371a746a"
+    },
+    {
+      "file": "r31/Serin_S4_Refit_r31.blend",
+      "bytes": 61580922,
+      "sha256": "a0558e68fdcd7a3b09632869972b470419e1c6710a84d82184a73a53fc2d1936"
+    }
+  ],
+  "verifiedAll": true,
+  "originalBytes": 932625387,
+  "archiveBytes": 448498116,
+  "sourceCharactersTouched": false,
+  "activeR32Excluded": true,
+  "removedOnlyVerifiedArchivedIntermediates": true
+}

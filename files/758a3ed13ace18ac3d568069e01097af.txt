@@ -1,0 +1,30 @@
+source_scene=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity
+source_provenance=In-place collision-state reconstruction: original Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab SHA256=8651976A3BD83306AD54718BC3F5B399CE1E9BB554FC4B528DC79B00631E4038 matches backup; protected original/D02 geometry equal; terrain mesh and heights never modified; D03 inactive; original equipment rows restored from BEFORE_HIERARCHY=EE1,EE4,EY1,EY2,EY3,ES1,ES2,ES4,EN3,EN4,EW5; ground material wear cannot affect physics. finally restores working D03 state.
+d03_root=temporarily inactive
+superseded_equipment_restored=True
+id|start_x|start_y|end_x|end_y|samples|blocked|missing|blockers
+SC_TRANSFER|375|183|396|183|43|0|0|
+SC_SORTING|353|213|370|213|35|0|0|
+PC_TRANSFORMER|433|103|465|103|65|0|0|
+PC_CABLE|421|129|466|129|91|0|0|
+YC_DISMANTLE|247|318|264|318|35|0|0|
+YC_PARTS|218|327|247|327|59|0|0|
+SW_RUIN_W|63|295|85|295|45|0|0|
+SW_RUIN_E|128|310|145|310|35|0|0|
+NORTH_SERVICE|220|108|247|108|55|0|0|
+NORTH_LOADING|208|146.5|234|146.5|53|0|0|
+STAGE_A_OUTDOOR_D03_INDEPENDENT_VALIDATION
+PASS retained A source has documented pre-D03 collision state; scene=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity d03Inactive=True restoredEquipment=True provenance=In-place collision-state reconstruction: original Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab SHA256=8651976A3BD83306AD54718BC3F5B399CE1E9BB554FC4B528DC79B00631E4038 matches backup; protected original/D02 geometry equal; terrain mesh and heights never modified; D03 inactive; original equipment rows restored from BEFORE_HIERARCHY=EE1,EE4,EY1,EY2,EY3,ES1,ES2,ES4,EN3,EN4,EW5; ground material wear cannot affect physics. finally restores working D03 state.
+PASS actual retained terrain exists
+PASS before D03 desire line SC_TRANSFER physically clear; blocked=0 missing=0
+PASS before D03 desire line SC_SORTING physically clear; blocked=0 missing=0
+PASS before D03 desire line PC_TRANSFORMER physically clear; blocked=0 missing=0
+PASS before D03 desire line PC_CABLE physically clear; blocked=0 missing=0
+PASS before D03 desire line YC_DISMANTLE physically clear; blocked=0 missing=0
+PASS before D03 desire line YC_PARTS physically clear; blocked=0 missing=0
+PASS before D03 desire line SW_RUIN_W physically clear; blocked=0 missing=0
+PASS before D03 desire line SW_RUIN_E physically clear; blocked=0 missing=0
+PASS before D03 desire line NORTH_SERVICE physically clear; blocked=0 missing=0
+PASS before D03 desire line NORTH_LOADING physically clear; blocked=0 missing=0
+passed=12 failed=0
+RESULT PASS

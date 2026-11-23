@@ -1,0 +1,5 @@
+Surface Ivy isolated actual Unity renders. Not an A-map placement or Play test.
+PASS car source=Assets/Escape/Art/FactoryV12/Prefabs/StageA_v12_RustyVehicle_Car.prefab originalHash=d1c384ce46888202a68a60a8e98d59ed newTriangles=18474 newColliders=0 baked=Assets/Escape/Art/SurfaceIvy/Generated/IvyDemo_car_Ivy_9fcd334456/IvyDemo_car_WithIvy.prefab
+PASS shell source=Assets/Escape/Art/BlenderEnvironmentExpansion/Buildings/S06/S06_Shell.fbx originalHash=48c0de2effa600cfbc883131606d3b9f newTriangles=42122 newColliders=0 baked=Assets/Escape/Art/SurfaceIvy/Generated/IvyDemo_shell_Ivy_e2c737f6af/IvyDemo_shell_WithIvy.prefab
+PASS roof source=Assets/Escape/Art/BlenderEnvironmentExpansion/Buildings/S06/S06_Roof.fbx originalHash=d7be0acce4a2b59abde902cb76e25afb newTriangles=32190 newColliders=0 baked=Assets/Escape/Art/SurfaceIvy/Generated/IvyDemo_roof_Ivy_37bb31722b/IvyDemo_roof_WithIvy.prefab
+RESULT PASS (demo geometry/images/persistence only; not art approval or FPS)

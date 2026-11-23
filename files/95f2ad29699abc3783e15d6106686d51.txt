@@ -1,0 +1,46 @@
+UTC=2026-10-22T21:09:22.4241015Z frame=3530 phase=critical phaseAge=45.393326495181412
+screen=1920x1080 target=1920x1080 scale=1.2000000476837158 logical=1599.9998779296875x899.99993896484375
+scene=Assets/Escape/Scenes/SystemsTest.unity save=C:\UnityProject\escape\Library\UiKitEvidence\input-06d991c1cada4f98bd9b08003b87d546 location=Stage mode=StageA
+health=27/100 water=7.191014289855957/100 energy=15.730342864990234/100 weight=20.319999694824219/50
+detailsVisible=True inventory=True liveInput=True movementBlocked=False frozen=False menu=False focus=True
+naturalWaterPerSecond=-0.15000000596046448 perMinute=-9.0000003576278687 naturalEnergyPerSecond=-0.05000000074505806 perMinute=-3.0000000447034836
+waterRestoredTotal=20 energyRestoredTotal=17
+PASS Screen and GameView target are the same actual Repaint
+PASS requested render 1920x1080
+PASS needs captured in live simulation rather than a frozen getter
+PASS raid natural loss is measured from the real domain flow
+PASS actual footer renderer instance exists on InventoryTestWorld
+stripLogical=46.666603088378906,816.6666259765625,493.33331298828125,26.666666030883789 healthLogical=173.33326721191406,816.6666259765625,113.33332824707031,26.666666030883789
+healthPngRectTopLeft=207.99992370605469,980,136,32
+healthPngClickTopLeft=275.99993772506423,995.99996633529372
+healthUnityScreenClickBottomLeft=275.99993772506423,84.00003366470628
+PASS footer uses the accepted Figma rectangle
+PASS footer stays in operator bounds
+metric0=46.666603088378906,816.6666259765625,113.33332824707031,26.666666030883789
+PASS metric 0 fits the strip
+icon0=weight 80x80
+PASS actual footer metric 0 resource icon loaded
+metric1=173.33326721191406,816.6666259765625,113.33332824707031,26.666666030883789
+PASS metric 1 fits the strip
+icon1=health 80x80
+PASS actual footer metric 1 resource icon loaded
+metric2=299.99993896484375,816.6666259765625,113.33332824707031,26.666666030883789
+PASS metric 2 fits the strip
+icon2=water 80x80
+PASS actual footer metric 2 resource icon loaded
+metric3=426.66659545898438,816.6666259765625,113.33332824707031,26.666666030883789
+PASS metric 3 fits the strip
+icon3=energy 80x80
+PASS actual footer metric 3 resource icon loaded
+RegularFont=NotoSansKR-Regular
+PASS actual RegularFont is the local Noto asset
+MediumFont=NotoSansKR-Medium
+PASS actual MediumFont is the local Noto asset
+BoldFont=NotoSansKR-Bold
+PASS actual BoldFont is the local Noto asset
+PASS footer observes the current PlayerState rather than a previous profile
+WaterFeedback observed=20 visible=0 text=−9.0/분
+PASS WaterFeedback cumulative observation matches actual recovery total
+EnergyFeedback observed=17 visible=0 text=−3.0/분
+PASS EnergyFeedback cumulative observation matches actual recovery total
+TOTAL_PASS=21 TOTAL_FAIL=0

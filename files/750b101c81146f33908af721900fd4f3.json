@@ -1,0 +1,87 @@
+{
+  "audit_date_kst": "2026-10-29",
+  "scope": "Stage A encounters, factions, combat, models, animation, named selection",
+  "production_modified_by_this_agent": false,
+  "runtime_executed_by_this_agent": false,
+  "findings": [
+    {
+      "id": "COMBAT-01",
+      "severity": "P2",
+      "kind": "behavior_inconsistency",
+      "status": "runtime_reproduced_in_controlled_fixture",
+      "title": "Human spread shots omit damage to an intervening hostile that is not the chosen target",
+      "evidence": [
+        {"file":"C:/UnityProject/escape/Assets/Escape/Runtime/Enemy/EnemyController.cs","line":473,"detail":"Damage branch requires first-hit collider to be child of chosen target."},
+        {"file":"C:/UnityProject/escape/Assets/Escape/Runtime/Enemy/EnemyController.cs","line":468,"detail":"Shot direction is randomized by at least three degrees after the target visibility check."},
+        {"file":"C:/UnityProject/escape/Assets/Escape/Runtime/Enemy/EnemyController.MachineRoles.cs","line":219,"detail":"Machine role hitscan instead resolves actual struck receiver and checks hostility."},
+        {"file":"C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-intent-audit/main/runtime_fixture_639288505198255600/HUMAN_HOSTILE_INTERCEPTION.txt","line":7,"detail":"19 real TryAttack shots produced five confirmed traces ending on hostile interceptor, all five HPdelta0. Interceptor HP10000->10000, chosen target9915.5."}
+      ],
+      "reproduction": "Keep chosen machine center sightline open at 14m; place another hostile machine as narrow strip beside that sightline at 7m. Call actual human TryAttack with real spread until bullet trace ends on the intervening collider. Compare intervening receiver HP. Completely blocking center sightline is not this reproduction because visibility suppresses firing.",
+      "expected": "A human round that physically hits a hostile participant should resolve damage against that receiver, subject to same-faction filtering.",
+      "impact": "In three-way crossfire, human bullets can visibly hit other hostile participants without damage, while machine role bullets damage any hostile first hit. This also prevents associated attacker attribution/retaliation on the intercepted hostile.",
+      "recommendation": "After explicit approval of a fix, resolve the first struck receiver and apply IsHostile rather than requiring struck to equal chosen, preserving same-faction immunity. Re-run encounter/faction/role checks and a hostile-interception fixture. No production fix made in this audit."
+    },
+    {
+      "id": "COMBAT-02",
+      "severity": "P2",
+      "kind": "validation_gap",
+      "status": "partially_resolved_by_four_current_live_entry_observations",
+      "title": "Recent environment movement checks do not validate current natural combat or human avoidance",
+      "evidence": [
+        {"file":"C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-28/a-map-blender-environment-expansion/validation/StageABlenderExpansionPlayValidation.cs","line":198,"detail":"World automatic session ticks disabled."},
+        {"file":"C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-28/a-map-blender-environment-expansion/validation/StageABlenderExpansionPlayValidation.cs","line":204,"detail":"All enemies automatic ticks disabled and Frozen=true."},
+        {"file":"C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-16/a-map-machine-roles/CHANGE_RECORD.md","line":57,"detail":"Historical role/faction validations explicitly limit claims to short samples and controlled tests."}
+      ],
+      "reproduction": "Inspect today active actor Frozen/UseAutomaticTicks/CinematicPaused at start and end, then observe actual production raid at B1-B4 plus a contact area. Log natural shots/target/HP/avoidance/movement without freezing actors.",
+      "impact": "Calling current AI, room combat, faction contact, or chase containment fully verified from the 10/28 movement report would overstate evidence.",
+      "recommendation": "Today's B1-B4 samples now confirm live movement/avoidance, B2 real inter-faction combat and pre-hit human defense. Review controlled regressions and hazardous-facility contact separately; do not extrapolate these four short idle-entry samples to all combat or difficulty."
+    },
+    {
+      "id": "COMBAT-05",
+      "severity": "P2",
+      "kind": "runtime_patrol_stall",
+      "status": "runtime_stall_reproduced_variant_B_body_collision_confirmed",
+      "title": "G12_02 variant B patrol is rejected against the current HALL interior collider",
+      "evidence": [
+        {"file":"C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-intent-audit/main/runtime_B4_639288499867791781/LIVE_AI.csv","line":38,"detail":"Initial position -4.4403,2.04,19.0756; live automatic unfrozen, no target."},
+        {"file":"C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-intent-audit/main/runtime_B4_639288499867791781/LIVE_AI.csv","line":8678,"detail":"At30.038 seconds same position, sampled travel0, Mode/Motion Patrol/Patrol, velocity0 and remainingDistance0, onNav true."},
+        {"file":"C:/UnityProject/escape/Assets/Escape/Runtime/Enemy/EnemyController.cs","line":562,"detail":"Movement rejects incomplete NavMesh path, leash-exceeding corners or BodyClearAlong failure; a generic baked-nav spawn/patrol validation does not prove these runtime checks permit motion."},
+        {"file":"C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-intent-audit/main/runtime_census_639288511214355325/G12_02_CONTROLLED_PATROL.txt","line":46,"detail":"Observed variant B raw goal is invalid; after actual production-style2m sampling the actual agent path is Complete with leash pass but private BodyClearAlong=false. HALL_Interior_colliderOnly blocks the radius0.9 body at sampled endpoint -2.04001,2.04,19.07556; real Move sets requestedSpeed0 and hasPath=false."},
+        {"file":"C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-intent-audit/main/runtime_census_639288511214355325/ALL_VARIANTS_PATROL_PREFLIGHT.txt","line":2,"detail":"Read-only preflight of73 actors/209 variants/627 legs predicts208 variants pass and only G12_02/B fails; body failure on outbound/return. This is not actual execution of209 variants."}
+      ],
+      "reproduction": "Natural B4 run selected G12_02/B at -4.44029,2.04,19.07556 and observed no movement for30 seconds. A subsequent isolated runtime reconstruction warped the actual G12_02 agent into A/B/C, set only temporary home/patrol fields and invoked real Agent.CalculatePath, BodyClearAlong and Move. B goal -1.44031 is0.5997m off current nav; sampling finds -2.04001 and a Complete path, but authored body overlaps HALL_Interior_colliderOnly and Move rejects it. A/C outbound and return paths are accepted. No geometry, tuning, model or production source was changed.",
+      "impact": "One authored machine patrol is permanently stationary in this sampled variant, changing its intended patrol coverage and encounter timing even though it remains on NavMesh.",
+      "recommendation": "In a separately scoped fix, reconcile G12_02/B authored patrol with the current HALL collision geometry, preserving entry safety and body clearance. Moving the raw endpoint onto NavMesh alone is insufficient because the sampled endpoint still fails actual body checks. Re-run this specific actual-agent reconstruction and live patrol, then repeat preflight. Do not describe208 preflight predictions as208 actual playthroughs."
+    },
+    {
+      "id": "COMBAT-03",
+      "severity": "P3",
+      "kind": "proposal_not_implemented",
+      "status": "scope_confirmation_needed_before_implementation",
+      "title": "Damage-contribution allocation is still last-hit attribution",
+      "evidence": [
+        {"file":"C:/UnityProject/escape/Assets/Escape/Runtime/Enemy/EnemyController.cs","line":175,"detail":"PlayerEarnedKill is assigned solely from lethal damage source.player."},
+        {"file":"C:/UnityProject/escape/Assets/Escape/Runtime/Stage/SessionTestWorld.cs","line":200,"detail":"Named kill quest progress uses PlayerEarnedKill."},
+        {"file":"C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/map_design/2026-10-15/a-map-enemy-difficulty-factions/ENCOUNTER_PLAN.json","line":97,"detail":"Proposal requests damage contribution and avoiding last-hit-only allocation."}
+      ],
+      "reproduction": "Have player deal nearly all damage and NPC land lethal hit, then reverse roles. Current personal-kill flag follows only final hit.",
+      "impact": "NPC-only kills are correctly excluded, but current implementation is not a contribution-sharing system. This can affect quest/gauge allocation in three-way fights.",
+      "recommendation": "Report present last-hit policy accurately. Confirm intended ownership/threshold rules before designing or changing contribution allocation; do not promote the old proposal to a confirmed user requirement."
+    },
+    {
+      "id": "COMBAT-04",
+      "severity": "P3",
+      "kind": "proposal_not_implemented",
+      "status": "scope_confirmation_needed_before_implementation",
+      "title": "Per-encounter adjacent-group alarm budget is not a production system",
+      "evidence": [
+        {"file":"C:/UnityProject/escape/Assets/Escape/Runtime/Enemy/EnemyController.cs","line":146,"detail":"Registered combat signals are player gunshot noise and bullet impact."},
+        {"file":"C:/UnityProject/escape/Assets/Escape/Runtime/Combat/CombatFeedbackController.cs","line":140,"detail":"NPC remote shot reporting only plays listener audio."},
+        {"file":"C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/map_design/2026-10-15/a-map-fixed-named-variable-patrols/ROSTER_AND_PLACEMENT.json","line":100,"detail":"Adjacent one-group/one-time alarm is explicitly retained as a hypothesis."}
+      ],
+      "reproduction": "Review NPC shot broadcast and encounter state: no group alarm identity, encounter budget, one-time propagation or neighbor-group admission state exists in the production enemy path.",
+      "impact": "Present perception/noise and individual leash cannot be described as the proposed bounded squad-support alarm system. Absence alone does not prove entry spillover.",
+      "recommendation": "Keep this marked as an unimplemented planning hypothesis. Evaluate actual observed encounters first; obtain a concrete support policy before implementation."
+    }
+  ]
+}

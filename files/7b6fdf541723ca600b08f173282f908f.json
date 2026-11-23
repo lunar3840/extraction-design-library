@@ -1,0 +1,31 @@
+{
+  "active_serin_meshes": [
+    {
+      "asset": "Straight_Basewear_Bottom_Surface.asset",
+      "guid": "3120ad65860f8f64a9aa0b2b9ad7a8a4",
+      "sha256": "63bf9e5d79eaa5f7187e2d8da93b29e100a7d69fe96269af50a61b12f28a2d91"
+    },
+    {
+      "asset": "Straight_Basewear_Top_Surface.asset",
+      "guid": "13f9fcf28fc44464693074315534862a",
+      "sha256": "dbdcfc60b1f4c965cf725c451d5c9c1efe6b93101c2cc029037a69a0f0f20f0e"
+    },
+    {
+      "asset": "Straight_Body_Base.asset",
+      "guid": "8f88414234c8e8e41ae00fbd19475d4f",
+      "sha256": "f0806b86e7cc498de4dd8f1c1a7b07bd6b1a3870574c05ac474139481ac382cc"
+    },
+    {
+      "asset": "Straight_LowerSeam.asset",
+      "guid": "4534caf3edb982a4da4ab2d3fbbeb7d7",
+      "sha256": "b61cf6f14fed0b4637d24ab935dd958ba5fa581372ae2a177d299bbf8b6eb550"
+    },
+    {
+      "asset": "Straight_Rear_torso_seam_closure.asset",
+      "guid": "d4995d06c30cdb14baa532b2478bcee3",
+      "sha256": "3abd37985410ae7947b8ba3e15f6062a9f75c98210f86fd371dede4abda9c333"
+    }
+  ],
+  "all_references_resolved": true,
+  "scope": "Only .asset meshes referenced by current prefab; other included repair assets are historical context. Source FBX/blend do not contain these replacements."
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "file": "Assets/Escape/Runtime/Inventory/InventoryGridPresentation.cs",
+    "changedExistingMethods": [
+      "DrawInventoryGrid(InventoryState source,int page,Rect viewport,ref Vector2 scroll,\n            Func<int,int,int,int,int,bool,int> transferToBag=null,Action<int> quickTake=null,\n            Func<int,bool> matches=null,Func<int,int,int,int,bool,bool> place=null,\n            Func<int,int,int,int,int,bool,int> transferFromBag=null,\n            Func<int,int,int,int,int,bool,int> splitPlace=null)"
+    ],
+    "unchangedExistingMethods": 21,
+    "callbacksUnchanged": true,
+    "oldCallbacks": 20,
+    "newCallbacks": 20
+  },
+  {
+    "file": "Assets/Escape/Runtime/UI/ItemTierPresentation.cs",
+    "changedExistingMethods": [
+      "DrawBadge(Rect rect, ItemDefinition item, bool ammoBadge = true)"
+    ],
+    "unchangedExistingMethods": 4,
+    "callbacksUnchanged": true,
+    "oldCallbacks": 0,
+    "newCallbacks": 0
+  },
+  {
+    "file": "Assets/Escape/Runtime/Inventory/InventoryGlassView.cs",
+    "changedExistingMethods": [
+      "WeaponRect(int i)"
+    ],
+    "unchangedExistingMethods": 33,
+    "callbacksUnchanged": true,
+    "oldCallbacks": 14,
+    "newCallbacks": 14
+  }
+]

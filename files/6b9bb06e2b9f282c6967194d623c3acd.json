@@ -1,0 +1,90 @@
+{
+  "scope": "unchanged original topology/UV; geometric UV-seam coincidence and triangle surface deformation in specified cloth patch; visual front/side/bent review remains required, not global intersection proof",
+  "versions": {
+    "r12": {
+      "topology_uv": {
+        "tripo_part_3": "9278f2fdc3860ac8acfa5501041e68740beb2de608e6b044683ef38deabef9b9",
+        "tripo_part_15": "6d185b2472b7ccac67d99539a70d7eb4659513a8e02055cd272789edac69bed4",
+        "tripo_part_32": "a10206f5bd3aa0baa4a930cd597381e975130e8cbc2ef80e79483791130242f1"
+      },
+      "poses": {
+        "fitting": {
+          "coincident_pair_count": 419,
+          "max_pair_separation": 0.0,
+          "median_pair_separation": 0.0,
+          "triangle_count": 5983,
+          "zero_area_triangles": 0,
+          "area_min": 1.037634708074102e-07,
+          "area_median": 4.757473078279845e-06
+        },
+        "left_knee_step": {
+          "coincident_pair_count": 419,
+          "max_pair_separation": 0.0,
+          "median_pair_separation": 0.0,
+          "triangle_count": 5983,
+          "zero_area_triangles": 0,
+          "area_min": 9.850278322879588e-08,
+          "area_median": 4.593455569098523e-06
+        }
+      }
+    },
+    "r13": {
+      "topology_uv": {
+        "tripo_part_3": "9278f2fdc3860ac8acfa5501041e68740beb2de608e6b044683ef38deabef9b9",
+        "tripo_part_15": "6d185b2472b7ccac67d99539a70d7eb4659513a8e02055cd272789edac69bed4",
+        "tripo_part_32": "a10206f5bd3aa0baa4a930cd597381e975130e8cbc2ef80e79483791130242f1"
+      },
+      "poses": {
+        "fitting": {
+          "coincident_pair_count": 419,
+          "max_pair_separation": 0.0,
+          "median_pair_separation": 0.0,
+          "triangle_count": 5983,
+          "zero_area_triangles": 0,
+          "area_min": 1.037634708074102e-07,
+          "area_median": 4.866995897313178e-06
+        },
+        "left_knee_step": {
+          "coincident_pair_count": 419,
+          "max_pair_separation": 0.0,
+          "median_pair_separation": 0.0,
+          "triangle_count": 5983,
+          "zero_area_triangles": 0,
+          "area_min": 9.850278322879588e-08,
+          "area_median": 4.643828521194801e-06
+        }
+      }
+    },
+    "r14": {
+      "topology_uv": {
+        "tripo_part_3": "9278f2fdc3860ac8acfa5501041e68740beb2de608e6b044683ef38deabef9b9",
+        "tripo_part_15": "6d185b2472b7ccac67d99539a70d7eb4659513a8e02055cd272789edac69bed4",
+        "tripo_part_32": "a10206f5bd3aa0baa4a930cd597381e975130e8cbc2ef80e79483791130242f1"
+      },
+      "poses": {
+        "fitting": {
+          "coincident_pair_count": 419,
+          "max_pair_separation": 0.0,
+          "median_pair_separation": 0.0,
+          "triangle_count": 5983,
+          "zero_area_triangles": 0,
+          "area_min": 1.696716927649196e-08,
+          "area_median": 4.232833963579194e-06
+        },
+        "left_knee_step": {
+          "coincident_pair_count": 419,
+          "max_pair_separation": 0.0,
+          "median_pair_separation": 0.0,
+          "triangle_count": 5983,
+          "zero_area_triangles": 0,
+          "area_min": 1.8056094024232567e-08,
+          "area_median": 3.470231652862085e-06
+        }
+      }
+    }
+  },
+  "topology_uv_unchanged": true,
+  "no_new_zero_area_triangles": true,
+  "shared_vertices_remain_coincident": true,
+  "passed": true
+}

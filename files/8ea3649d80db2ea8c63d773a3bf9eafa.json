@@ -1,0 +1,104 @@
+{
+  "status": "saved_in_figma_translucent_hud_visually_reviewed",
+  "date": "2026-10-22",
+  "fileKey": "KUD4t84BL1S77c3cnb8co0",
+  "pageId": "11:711",
+  "previewId": "103:2538",
+  "previewName": "14 · Field HUD · Compact combat · Project backdrop",
+  "previewSize": [1920, 1080],
+  "previousRevision": "../figma-consumables-right-larger-skills/design-system-state.json",
+  "scope": "Background translucency of the existing Figma normal-combat HUD comparison frame only",
+  "reference": "User-supplied DMZ HUD image; visual treatment only",
+  "sourcePropertyEvidence": "Reported by the editing agent after native Figma UI edits; independent audit verifies exported appearance, not internal property values",
+  "changes": [
+    {
+      "nodes": ["Objective body", "Extraction availability"],
+      "property": "gradientPaintOpacity",
+      "before": 1,
+      "after": 0.5,
+      "textAndIconsPreserved": true
+    },
+    {
+      "nodes": ["HUD/InteractionCompact"],
+      "property": "instanceLocalFillAlpha",
+      "color": "#060D14",
+      "before": 0.62,
+      "after": 0.42,
+      "onlyThisInstanceFillDetachedFromVariable": true,
+      "sharedVariableModified": false
+    },
+    {
+      "nodes": ["Skill caption · contrast backing"],
+      "count": 2,
+      "property": "gradientPaintOpacity",
+      "before": 1,
+      "after": 0.5,
+      "textPreserved": true
+    },
+    {
+      "nodes": ["Area label · contrast backing", "Carry weight · contrast backing"],
+      "property": "backgroundNodeOpacity",
+      "before": 1,
+      "after": 0.55,
+      "separateSiblingTextOpacity": 1,
+      "nodeEffectsAlsoAffected": true
+    },
+    {
+      "nodes": ["Operation clock"],
+      "property": "gradientPaintOpacity",
+      "before": 1,
+      "after": 0.55,
+      "nodeOpacity": 1,
+      "textOpacity": 1
+    },
+    {
+      "nodes": ["Skill disc · local contrast"],
+      "count": 2,
+      "property": "backgroundOnlyNodeOpacity",
+      "before": 1,
+      "after": 0.55,
+      "separateIconAndRingOpacity": 1,
+      "nodeEffectsAlsoAffected": true
+    }
+  ],
+  "preservedLayout": {
+    "weaponSlots": {"position": [720, 928], "size": [480, 104], "centerX": 960},
+    "quickUseSlots": {"position": [1224, 866], "size": [166, 166], "columns": 2, "rows": 2, "slotSize": [80, 80], "keys": [3, 4, 5, 6]},
+    "companionAbilities": {"position": [1497, 872], "size": [375, 160], "uniformScale": 1.25},
+    "survivalOrbSize": 112,
+    "healthAndStamina": "Above character",
+    "cornerRadiiFontsIconsPreserved": true
+  },
+  "individualChildNodeIdsRecorded": false,
+  "nativeEditableLayersPreserved": true,
+  "sourceMastersAndOtherScreensModified": false,
+  "originalPreviewIdPreserved": "69:2948",
+  "proof": {
+    "beforeNativeOriginal": "before_project_native.jpg",
+    "afterNativeOriginal": "after_project_native.jpg",
+    "beforeNative": "before_project_native.png",
+    "afterNative": "after_project_native.png",
+    "nativeImageSize": [1085, 1025],
+    "beforeExport": "before_project_export.png",
+    "afterExport": "after_project_export.png",
+    "exportImageSize": [1920, 1080],
+    "record": "CHANGE_RECORD.md",
+    "review": "visual-audit.md",
+    "beforeIsReconstructed": false
+  },
+  "independentVisualAudit": {
+    "result": "pass_for_current_export",
+    "lighterBackingsVisible": true,
+    "readableInCurrentDaytimeScene": true,
+    "newOverlapOrClippingObserved": false,
+    "informationLossObserved": false,
+    "layoutChangeObserved": false
+  },
+  "allRuntimeStatesVerified": false,
+  "allLightingConditionsVerified": false,
+  "allResolutionsVerified": false,
+  "codeModified": false,
+  "unityModified": false,
+  "appsRestartedOrClosed": false,
+  "masterLatestRevisionPointerModified": true
+}

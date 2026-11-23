@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "tests": 13,
+  "passed": 13,
+  "fixtureOnly": true,
+  "realUnityFilesWritten": 0,
+  "results": [
+    {
+      "name": "Legacy CSV guards also cover the same leading-dot bug with leading zeros and other C# fields",
+      "passed": true
+    },
+    {
+      "name": "Leading-dot ternary extracts 0.75 and a binding that includes its decimal point; null access and strings remain opaque",
+      "passed": true
+    },
+    {
+      "name": "Unity source patches round-trip decimals, zero, one and explicit 75 without a stray decimal point or changing the other branch",
+      "passed": true
+    },
+    {
+      "name": "Local restart corrects only an unedited legacy CSV baseline from 75 to 0.75 and stamps new exports",
+      "passed": true
+    },
+    {
+      "name": "New regular CSV stages and applies 0.8; old unmarked 75 CSV is rejected without changing source or saved drafts",
+      "passed": true
+    },
+    {
+      "name": "New transfer CSV carries before 0.75/value 0.8 and imports/applies correctly; old parser CSV cannot reintroduce 75",
+      "passed": true
+    },
+    {
+      "name": "An explicitly new-format 75 is serialized as 75f, rather than 0.75 or malformed .75 text",
+      "passed": true
+    },
+    {
+      "name": "Cloud migration persists 0.75 once, rotates stale revision and preserves all unrelated saved edits and source hashes",
+      "passed": true
+    },
+    {
+      "name": "A custom legacy edit is preserved and shown as a conflict instead of silently rescaling or deleting it",
+      "passed": true
+    },
+    {
+      "name": "Active bridge work is neither cancelled nor rewritten; legacy correction waits, then completes after the lease work finishes",
+      "passed": true
+    },
+    {
+      "name": "Hosted normal and transfer CSV exports contain the corrected decimals and reject legacy 75 imports",
+      "passed": true
+    },
+    {
+      "name": "Bridge applies and proves the correct decimal in a copied project; stale/malformed old parser claims cannot prove an apply",
+      "passed": true
+    },
+    {
+      "name": "Authenticated web requests complete 0.75 -> 0.8 -> 0.75 through actual bridge leases, source writes and verified public acknowledgements",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,644 @@
+{
+  "phase1Rows": 23659,
+  "phase2Rows": 23659,
+  "selected": 62,
+  "uniqueSelected": 62,
+  "changedRows": 62,
+  "selectedChanged": 62,
+  "otherChanged": 0,
+  "buildingCount": 31,
+  "badBuildingPairCount": 0,
+  "oldSelectedLeaves": 63991.0,
+  "newSelectedLeaves": 150219.0,
+  "selectedDelta": 86228.0,
+  "increased": 54,
+  "decreased": 8,
+  "equal": 0,
+  "selectedNotTreated": 0,
+  "selectedWeatherChanged": 0,
+  "selectedDamageChanged": 0,
+  "selectedDetailChanged": 0,
+  "otherChangedKeys": [],
+  "selectedRows": [
+    {
+      "key": "02_Visual_Replaceable[2]/RoofVisualRoot_CutawayCapable[0]/ROOF_CLINIC__Visual[0]/Generated[0]/Override_ROOF_CLINIC[0]/RoofCutaway[0]/BlenderExpansion_CLINIC_Roof[4]/CLINIC_Roof[0]/CLINIC_Roof_renderOpaque[0]",
+      "building": "CLINIC",
+      "old": 1350,
+      "new": 6045,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/RoofVisualRoot_CutawayCapable[0]/ROOF_TOOLS__Visual[1]/Generated[0]/Override_ROOF_TOOLS[0]/RoofCutaway[0]/BlenderExpansion_TOOLS_Roof[4]/TOOLS_Roof[0]/TOOLS_Roof_renderOpaque[0]",
+      "building": "TOOLS",
+      "old": 750,
+      "new": 1982,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/RoofVisualRoot_CutawayCapable[0]/ROOF_POWER__Visual[3]/Generated[0]/Override_ROOF_POWER[0]/RoofCutaway[0]/BlenderExpansion_POWER_Roof[4]/POWER_Roof[0]/POWER_Roof_renderOpaque[0]",
+      "building": "POWER",
+      "old": 1350,
+      "new": 6528,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/RoofVisualRoot_CutawayCapable[0]/ROOF_PARTS__Visual[4]/Generated[0]/Override_ROOF_PARTS[0]/RoofCutaway[0]/BlenderExpansion_PARTS_Roof[4]/PARTS_Roof[0]/PARTS_Roof_renderOpaque[0]",
+      "building": "PARTS",
+      "old": 1350,
+      "new": 9000,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/CLINIC__Visual[54]/BlenderExpansion_CLINIC_Shell[8]/CLINIC_Shell[0]/CLINIC_Shell_renderOpaque[1]",
+      "building": "CLINIC",
+      "old": 1016,
+      "new": 1574,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/TOOLS__Visual[58]/BlenderExpansion_TOOLS_Shell[7]/TOOLS_Shell[0]/TOOLS_Shell_renderOpaque[1]",
+      "building": "TOOLS",
+      "old": 946,
+      "new": 893,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/POWER__Visual[67]/BlenderExpansion_POWER_Shell[7]/POWER_Shell[0]/POWER_Shell_renderOpaque[1]",
+      "building": "POWER",
+      "old": 1495,
+      "new": 4204,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "02_Visual_Replaceable[2]/PARTS__Visual[71]/BlenderExpansion_PARTS_Shell[7]/PARTS_Shell[0]/PARTS_Shell_renderOpaque[1]",
+      "building": "PARTS",
+      "old": 1968,
+      "new": 3817,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "V13_HallRoot[8]/Roof[3]/TallCentralRoof[1]/BlenderExpansion_HALL_Roof[25]/HALL_Roof[0]/HALL_Roof_renderOpaque[0]",
+      "building": "HALL",
+      "old": 1350,
+      "new": 11200,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "V13_HallRoot[8]/Exterior[4]/Facade[1]/BlenderExpansion_HALL_Shell[61]/HALL_Shell[0]/HALL_Shell_renderOpaque[0]",
+      "building": "HALL",
+      "old": 1222,
+      "new": 4150,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/N02[1]/Visual[0]/Generated[0]/Override_ENV09_BUILDING_SW_RUIN_HOME_A[0]/RoofCutaway[1]/BlenderExpansion_N02_Roof[5]/N02_Roof[0]/N02_Roof_renderOpaque[0]",
+      "building": "N02",
+      "old": 750,
+      "new": 2396,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/N02[1]/BlenderExpansion_N02_Shell[13]/N02_Shell[0]/N02_Shell_renderOpaque[1]",
+      "building": "N02",
+      "old": 1294,
+      "new": 1138,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/N09[8]/Visual[0]/Generated[0]/Override_ENV09_BUILDING_S_OPEN_SCRAP_SHED[0]/RoofCutaway[1]/BlenderExpansion_N09_Roof[4]/N09_Roof[0]/N09_Roof_renderOpaque[0]",
+      "building": "N09",
+      "old": 750,
+      "new": 1794,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/N09[8]/BlenderExpansion_N09_Shell[13]/N09_Shell[0]/N09_Shell_renderOpaque[1]",
+      "building": "N09",
+      "old": 1252,
+      "new": 1099,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/N10[9]/Visual[0]/Generated[0]/Override_ENV09_BUILDING_S_OPEN_SCRAP_SHED[0]/RoofCutaway[1]/BlenderExpansion_N10_Roof[4]/N10_Roof[0]/N10_Roof_renderOpaque[0]",
+      "building": "N10",
+      "old": 750,
+      "new": 3100,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/N10[9]/BlenderExpansion_N10_Shell[13]/N10_Shell[0]/N10_Shell_renderOpaque[1]",
+      "building": "N10",
+      "old": 1396,
+      "new": 1649,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/N12[11]/Visual[0]/Generated[0]/Override_ENV09_BUILDING_E_CABLE_WAREHOUSE[0]/RoofCutaway[1]/BlenderExpansion_N12_Roof[4]/N12_Roof[0]/N12_Roof_renderOpaque[0]",
+      "building": "N12",
+      "old": 750,
+      "new": 2735,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/N12[11]/BlenderExpansion_N12_Shell[13]/N12_Shell[0]/N12_Shell_renderOpaque[1]",
+      "building": "N12",
+      "old": 1301,
+      "new": 2078,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/N13[12]/Visual[0]/Generated[0]/Override_ENV09_BUILDING_S_OPEN_SCRAP_SHED[0]/RoofCutaway[1]/BlenderExpansion_N13_Roof[4]/N13_Roof[0]/N13_Roof_renderOpaque[0]",
+      "building": "N13",
+      "old": 750,
+      "new": 2259,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/N13[12]/BlenderExpansion_N13_Shell[13]/N13_Shell[0]/N13_Shell_renderOpaque[1]",
+      "building": "N13",
+      "old": 1168,
+      "new": 1628,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/N15[14]/Visual[0]/Generated[0]/Override_ENV09_BUILDING_S_OPEN_SCRAP_SHED[0]/RoofCutaway[1]/BlenderExpansion_N15_Roof[4]/N15_Roof[0]/N15_Roof_renderOpaque[0]",
+      "building": "N15",
+      "old": 750,
+      "new": 2700,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/N15[14]/BlenderExpansion_N15_Shell[13]/N15_Shell[0]/N15_Shell_renderOpaque[1]",
+      "building": "N15",
+      "old": 1137,
+      "new": 1295,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/W02[17]/Visual[0]/Generated[0]/Override_ENV09_BUILDING_E_CABLE_WAREHOUSE[0]/RoofCutaway[1]/BlenderExpansion_W02_Roof[4]/W02_Roof[0]/W02_Roof_renderOpaque[0]",
+      "building": "W02",
+      "old": 750,
+      "new": 2700,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/W02[17]/BlenderExpansion_W02_Shell[13]/W02_Shell[0]/W02_Shell_renderOpaque[1]",
+      "building": "W02",
+      "old": 1306,
+      "new": 1662,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/W03[18]/Visual[0]/Generated[0]/Override_ENV09_BUILDING_E_CABLE_WAREHOUSE[0]/RoofCutaway[1]/BlenderExpansion_W03_Roof[4]/W03_Roof[0]/W03_Roof_renderOpaque[0]",
+      "building": "W03",
+      "old": 750,
+      "new": 2700,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/W03[18]/BlenderExpansion_W03_Shell[13]/W03_Shell[0]/W03_Shell_renderOpaque[1]",
+      "building": "W03",
+      "old": 1313,
+      "new": 1455,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/W04[19]/Visual[0]/Generated[0]/Override_ENV09_BUILDING_E_CABLE_WAREHOUSE[0]/RoofCutaway[1]/BlenderExpansion_W04_Roof[4]/W04_Roof[0]/W04_Roof_renderOpaque[0]",
+      "building": "W04",
+      "old": 750,
+      "new": 3100,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/W04[19]/BlenderExpansion_W04_Shell[13]/W04_Shell[0]/W04_Shell_renderOpaque[1]",
+      "building": "W04",
+      "old": 1431,
+      "new": 1676,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/W05[20]/Visual[0]/Generated[0]/Override_ENV09_BUILDING_S_OPEN_SCRAP_SHED[0]/RoofCutaway[1]/BlenderExpansion_W05_Roof[4]/W05_Roof[0]/W05_Roof_renderOpaque[0]",
+      "building": "W05",
+      "old": 750,
+      "new": 867,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/W05[20]/BlenderExpansion_W05_Shell[13]/W05_Shell[0]/W05_Shell_renderOpaque[1]",
+      "building": "W05",
+      "old": 1248,
+      "new": 1218,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/W06[21]/Visual[0]/Generated[0]/Override_ENV11_BUILDING_WM_03[2]/RoofCutaway[1]/BlenderExpansion_W06_Roof[4]/W06_Roof[0]/W06_Roof_renderOpaque[0]",
+      "building": "W06",
+      "old": 750,
+      "new": 2098,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/W06[21]/BlenderExpansion_W06_Shell[13]/W06_Shell[0]/W06_Shell_renderOpaque[1]",
+      "building": "W06",
+      "old": 1307,
+      "new": 1138,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/W08[23]/Visual[0]/Generated[0]/Override_ENV09_BUILDING_S_OPEN_SCRAP_SHED[0]/RoofCutaway[1]/BlenderExpansion_W08_Roof[4]/W08_Roof[0]/W08_Roof_renderOpaque[0]",
+      "building": "W08",
+      "old": 750,
+      "new": 2900,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/W08[23]/BlenderExpansion_W08_Shell[13]/W08_Shell[0]/W08_Shell_renderOpaque[1]",
+      "building": "W08",
+      "old": 1308,
+      "new": 1377,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/C02[28]/Visual[0]/Generated[0]/Override_ENV09_BUILDING_S_OPEN_SCRAP_SHED[0]/RoofCutaway[1]/BlenderExpansion_C02_Roof[4]/C02_Roof[0]/C02_Roof_renderOpaque[0]",
+      "building": "C02",
+      "old": 750,
+      "new": 2810,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/C02[28]/BlenderExpansion_C02_Shell[13]/C02_Shell[0]/C02_Shell_renderOpaque[1]",
+      "building": "C02",
+      "old": 1626,
+      "new": 1572,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/C03[29]/Visual[0]/Generated[0]/Override_ENV09_BUILDING_SW_RUIN_HOME_A[0]/RoofCutaway[1]/BlenderExpansion_C03_Roof[5]/C03_Roof[0]/C03_Roof_renderOpaque[0]",
+      "building": "C03",
+      "old": 750,
+      "new": 2584,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/C03[29]/BlenderExpansion_C03_Shell[13]/C03_Shell[0]/C03_Shell_renderOpaque[1]",
+      "building": "C03",
+      "old": 1135,
+      "new": 1208,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/E01[31]/Visual[0]/Generated[0]/Override_ENV09_BUILDING_S_OPEN_SCRAP_SHED[0]/RoofCutaway[1]/BlenderExpansion_E01_Roof[4]/E01_Roof[0]/E01_Roof_renderOpaque[0]",
+      "building": "E01",
+      "old": 750,
+      "new": 3037,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/E01[31]/BlenderExpansion_E01_Shell[13]/E01_Shell[0]/E01_Shell_renderOpaque[1]",
+      "building": "E01",
+      "old": 1300,
+      "new": 2081,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/E05[35]/Visual[0]/Generated[0]/Override_ENV09_BUILDING_E_CABLE_WAREHOUSE[0]/RoofCutaway[1]/BlenderExpansion_E05_Roof[4]/E05_Roof[0]/E05_Roof_renderOpaque[0]",
+      "building": "E05",
+      "old": 750,
+      "new": 3100,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/E05[35]/BlenderExpansion_E05_Shell[13]/E05_Shell[0]/E05_Shell_renderOpaque[1]",
+      "building": "E05",
+      "old": 1271,
+      "new": 1714,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/S02[44]/Visual[0]/Generated[0]/Override_ENV11_BUILDING_SWR_06[2]/RoofCutaway[1]/BlenderExpansion_S02_Roof[4]/S02_Roof[0]/S02_Roof_renderOpaque[0]",
+      "building": "S02",
+      "old": 750,
+      "new": 2046,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/S02[44]/BlenderExpansion_S02_Shell[13]/S02_Shell[0]/S02_Shell_renderOpaque[1]",
+      "building": "S02",
+      "old": 680,
+      "new": 1174,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/S04[46]/Visual[0]/Generated[0]/Override_ENV11_BUILDING_SWR_06[2]/RoofCutaway[1]/BlenderExpansion_S04_Roof[4]/S04_Roof[0]/S04_Roof_renderOpaque[0]",
+      "building": "S04",
+      "old": 750,
+      "new": 1949,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/S04[46]/BlenderExpansion_S04_Shell[13]/S04_Shell[0]/S04_Shell_renderOpaque[1]",
+      "building": "S04",
+      "old": 1088,
+      "new": 1293,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/S05[47]/Visual[0]/Generated[0]/Override_ENV11_BUILDING_SWR_06[2]/RoofCutaway[1]/BlenderExpansion_S05_Roof[4]/S05_Roof[0]/S05_Roof_renderOpaque[0]",
+      "building": "S05",
+      "old": 750,
+      "new": 1933,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/S05[47]/BlenderExpansion_S05_Shell[13]/S05_Shell[0]/S05_Shell_renderOpaque[1]",
+      "building": "S05",
+      "old": 1089,
+      "new": 1402,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/S06[48]/Visual[0]/Generated[0]/Override_ENV11_BUILDING_SWR_06[2]/RoofCutaway[1]/BlenderExpansion_S06_Roof[4]/S06_Roof[0]/S06_Roof_renderOpaque[0]",
+      "building": "S06",
+      "old": 750,
+      "new": 2153,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/S06[48]/BlenderExpansion_S06_Shell[13]/S06_Shell[0]/S06_Shell_renderOpaque[1]",
+      "building": "S06",
+      "old": 671,
+      "new": 1202,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/S08[50]/Visual[0]/Generated[0]/Override_ENV11_BUILDING_SWR_06[2]/RoofCutaway[1]/BlenderExpansion_S08_Roof[4]/S08_Roof[0]/S08_Roof_renderOpaque[0]",
+      "building": "S08",
+      "old": 750,
+      "new": 1656,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/S08[50]/BlenderExpansion_S08_Shell[13]/S08_Shell[0]/S08_Shell_renderOpaque[1]",
+      "building": "S08",
+      "old": 865,
+      "new": 1369,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/S09[51]/Visual[0]/Generated[0]/Override_ENV11_BUILDING_SWR_06[2]/RoofCutaway[1]/BlenderExpansion_S09_Roof[4]/S09_Roof[0]/S09_Roof_renderOpaque[0]",
+      "building": "S09",
+      "old": 750,
+      "new": 1759,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/S09[51]/BlenderExpansion_S09_Shell[13]/S09_Shell[0]/S09_Shell_renderOpaque[1]",
+      "building": "S09",
+      "old": 864,
+      "new": 1132,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/S11[53]/Visual[0]/Generated[0]/Override_ENV11_BUILDING_SWR_06[2]/RoofCutaway[1]/BlenderExpansion_S11_Roof[4]/S11_Roof[0]/S11_Roof_renderOpaque[0]",
+      "building": "S11",
+      "old": 750,
+      "new": 2800,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/S11[53]/BlenderExpansion_S11_Shell[13]/S11_Shell[0]/S11_Shell_renderOpaque[1]",
+      "building": "S11",
+      "old": 1496,
+      "new": 1173,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/Y01[55]/Visual[0]/Generated[0]/Override_ENV09_BUILDING_E_CABLE_WAREHOUSE[0]/RoofCutaway[1]/BlenderExpansion_Y01_Roof[4]/Y01_Roof[0]/Y01_Roof_renderOpaque[0]",
+      "building": "Y01",
+      "old": 750,
+      "new": 3000,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/Y01[55]/BlenderExpansion_Y01_Shell[13]/Y01_Shell[0]/Y01_Shell_renderOpaque[1]",
+      "building": "Y01",
+      "old": 1464,
+      "new": 1833,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/Y05[59]/Visual[0]/Generated[0]/Override_ENV09_BUILDING_S_OPEN_SCRAP_SHED[0]/RoofCutaway[1]/BlenderExpansion_Y05_Roof[4]/Y05_Roof[0]/Y05_Roof_renderOpaque[0]",
+      "building": "Y05",
+      "old": 750,
+      "new": 2700,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/Y05[59]/BlenderExpansion_Y05_Shell[13]/Y05_Shell[0]/Y05_Shell_renderOpaque[1]",
+      "building": "Y05",
+      "old": 1417,
+      "new": 1087,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/F02[61]/Visual[0]/Generated[0]/Override_ENV09_BUILDING_E_CABLE_WAREHOUSE[0]/RoofCutaway[1]/BlenderExpansion_F02_Roof[4]/F02_Roof[0]/F02_Roof_renderOpaque[0]",
+      "building": "F02",
+      "old": 750,
+      "new": 2700,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    },
+    {
+      "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/F02[61]/BlenderExpansion_F02_Shell[13]/F02_Shell[0]/F02_Shell_renderOpaque[1]",
+      "building": "F02",
+      "old": 1267,
+      "new": 1597,
+      "status": "treated",
+      "weatherSame": true,
+      "damageSame": true,
+      "detailSame": true
+    }
+  ]
+}

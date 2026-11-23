@@ -1,0 +1,68 @@
+{
+  "schema": "A_MAP_OWNED_EDITOR_HELPER_CLEANUP_1",
+  "archivedUtc": "2026-10-28T07:56:00.6114871Z",
+  "removedCount": 15,
+  "files": [
+    {
+      "file": "StageABlenderExpansionEvidence.cs",
+      "sha256": "50b0cd2ae268a2d9399c4f0a00161d5abfa129f634719166c9418dba317d44fe"
+    },
+    {
+      "file": "StageABlenderExpansionApply.cs",
+      "sha256": "c1a2c5b779ed7adf9dd40872d01ca8328c8afca06398c436b575d2b6d6dfc19a"
+    },
+    {
+      "file": "StageAExpansionMeshOptimization.cs",
+      "sha256": "dbb1d74a9a1630db57120c4796a27e9ed5216a6145268131a61b41974a9e33f8"
+    },
+    {
+      "file": "StageAEnvironmentSurvey.cs",
+      "sha256": "60427b3106ccf0a1956ae57c4e73e37f28aa02586e38dfa2c01cf3f84bb0317f"
+    },
+    {
+      "file": "StageARendererMetadata.cs",
+      "sha256": "953ed561b0c8949f05a7113c5c2b319f7cd49536645ca79f50c2db7cf83b578e"
+    },
+    {
+      "file": "StageAOutdoorSurvey.cs",
+      "sha256": "c8bd2f131f868f001a7df31865d5a09a99ad17b7579c638abd47527860eed26d"
+    },
+    {
+      "file": "StageAOutdoorApply.cs",
+      "sha256": "e3cc3db8aa4b92720096ccf9228e75e661c7897fb477877976ea8bd6fc143a2a"
+    },
+    {
+      "file": "StageABlenderExpansionPersist.cs",
+      "sha256": "562e617d154c58faba13d36cf1c764b15d0f0f9e42601a8add53340675b36b3c"
+    },
+    {
+      "file": "StageABlenderExpansionPlanning.cs",
+      "sha256": "f435a68215c86ffd99caa4edfd201c1e9652adcde16ace08eb3e82115e782ff6"
+    },
+    {
+      "file": "StageABlenderExpansionValidation.cs",
+      "sha256": "d7d066ae11f75f6c83293382b3c74105f7f741d0214c79abafd0b9981a4a5cd0"
+    },
+    {
+      "file": "StageABlenderExpansionPlayValidation.cs",
+      "sha256": "4aa7defcffd766e8df78bab893c723793228c0846b2bff25ddfd0445d0b75237"
+    },
+    {
+      "file": "StageABlenderExpansionPerformance.cs",
+      "sha256": "697b4b4f3f758309ac6a51e1344cd588e09c5f32e43ae555996feb6d8bb96aa2"
+    },
+    {
+      "file": "StageABlenderExpansionKnownDoors.cs",
+      "sha256": "08fb166c46ccb2094e7928e6900cf2c18cd0360b990898307c0b4bc2698c76d2"
+    },
+    {
+      "file": "StageABlenderExpansionOutdoorValidation.cs",
+      "sha256": "bf9ca366bd690d4536ad57548de9c45b3221bd7abd8cd5337653151bc83425d7"
+    },
+    {
+      "file": "BuildExpansionContract.cs",
+      "sha256": "d038a327c0dc3450e2da1f46b6ece1e4be965b3ff020543ca39cb8c2da966052"
+    }
+  ],
+  "scope": "Only exact owned temporary files, existing editor tools and runtime scripts preserved."
+}

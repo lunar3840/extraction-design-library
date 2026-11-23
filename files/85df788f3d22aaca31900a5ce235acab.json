@@ -1,0 +1,136 @@
+{
+  "images": [
+    {
+      "file": "after_helmet_balanced.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "bytes": 2674569,
+      "sha256": "b38af6f455e3fac8cec918f4a230c5d81f39002955b3c2de9d2f9cc5fc1f0eca",
+      "decodePassed": true
+    },
+    {
+      "file": "after_helmet_heavy.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "bytes": 2699578,
+      "sha256": "50289a7ede06f49feb39dfe4c1650907887e47a93ba51be01eedf3eb50b667ba",
+      "decodePassed": true
+    },
+    {
+      "file": "after_helmet_maintenance.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "bytes": 2709364,
+      "sha256": "5dd0c91cb9a3eaa7b2aa4152cf348c72ab97b7e504ba86fd1d0af77a57e2dbef",
+      "decodePassed": true
+    },
+    {
+      "file": "after_helmet_mobility.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "bytes": 2584132,
+      "sha256": "bc89180ec8f66a3feacb73e377a70b36aa458dad74e8136a1128408a153eb780",
+      "decodePassed": true
+    },
+    {
+      "file": "before_ahoge_heavy.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "bytes": 2753266,
+      "sha256": "0f6c13d6941d485d161615634a4c929fbaa590a4fa2a954b0d7c2210f7b653e3",
+      "decodePassed": true
+    },
+    {
+      "file": "before_ahoge_mobility.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "bytes": 2649250,
+      "sha256": "2e6ede512411444a3a44bc9506005a39f8cd198340f4db3706b826f25c42b694",
+      "decodePassed": true
+    },
+    {
+      "file": "before_helmet14_reference.png",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "bytes": 2297610,
+      "sha256": "fe61a7f192e9bd9401216884f1a56400c8bd53ca307025f0511a02010a0dbc5c",
+      "decodePassed": true
+    }
+  ],
+  "helmetProductCodes": [
+    "H-C1",
+    "H-C2",
+    "H-C3",
+    "H-B1",
+    "H-B2",
+    "H-B3",
+    "H-A1",
+    "H-A2",
+    "H-A3",
+    "H-A4",
+    "H-S1",
+    "H-S2",
+    "H-S3",
+    "H-S4"
+  ],
+  "helmetProductCount": 14,
+  "roleCounts": {
+    "mobility": 4,
+    "balanced": 2,
+    "heavy": 4,
+    "maintenance": 4
+  },
+  "primaryCharacterBustViews": 28,
+  "auxiliaryViewScope": "Same-product side/rear/closed-visor/detail depictions; optional/generated details not finalized shared mesh specification",
+  "oldReferenceCopyMatches": true,
+  "beforeHairCorrectionCopiesMatch": {
+    "mobility": true,
+    "heavy": true
+  },
+  "selectedArmorArchiveSHAUnchanged": {
+    "mobility": true,
+    "balanced": true,
+    "heavy": true,
+    "maintenance": true
+  },
+  "helmetDraftArchiveCopiesMatch": {
+    "mobility": true,
+    "balanced": true,
+    "heavy": true,
+    "maintenance": true
+  },
+  "manualVisualReview": {
+    "status": "completed",
+    "scope": [
+      "4/2/4/4 helmets and correctH-prefix/tier labels; no invented C/B balanced models",
+      "Edel/Serin face/eye/hair identity; no cap stacked under helmet",
+      "Original lavender/brown hair in front/side/rear, separate from black padding",
+      "High-cut/mid-cut/visor-jaw/short-brim utility silhouettes and tier shell/finishing differences",
+      "Main eyes readable and original-color rear hair/exit routes shown",
+      "Mobility/heavy scalp ahoge occluded by helmet after correction; bangs/nape/braid retained",
+      "Selected armor sources unchanged"
+    ],
+    "limitations": [
+      "Generated headwear concept, not measured3D fit/UV/skinning or animation collision",
+      "Auxiliary panels/accessories may vary; not exact shared geometry or certified protection",
+      "Hair correction image re-generation is not pixel-identical",
+      "Helmet designs await user review; no production approval"
+    ]
+  },
+  "generationCallsWithImages": 6,
+  "productionAssetsModified": false
+}

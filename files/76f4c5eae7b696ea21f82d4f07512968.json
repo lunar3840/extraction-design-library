@@ -1,0 +1,85 @@
+{
+  "sourceSnapshot": "r25_right5_edel_off_skin.json",
+  "sourceFingerprint": "fa38a7c7fb90f67db9cf787a6416cd1f6493d4d57e88ef7db8c8cf978becb15e",
+  "vertexCount": 27958,
+  "submeshes": 4,
+  "bad": [
+    {
+      "vertex": 9360,
+      "position": [
+        0.333740234375,
+        -0.02807622216641903,
+        0.5400390625
+      ],
+      "index2Weight": 0.9311861791802529,
+      "index1Weight": 0.06881382081974707
+    },
+    {
+      "vertex": 9362,
+      "position": [
+        0.336181640625,
+        -0.02807622402906418,
+        0.53955078125
+      ],
+      "index2Weight": 0.9863936908620313,
+      "index1Weight": 0.013606309137968675
+    },
+    {
+      "vertex": 9365,
+      "position": [
+        0.339111328125,
+        -0.02807622402906418,
+        0.5400390625
+      ],
+      "index2Weight": 0.9986292924606138,
+      "index1Weight": 0.0013707075393861734
+    },
+    {
+      "vertex": 18194,
+      "position": [
+        0.333740234375,
+        -0.02807622216641903,
+        0.5400390625
+      ],
+      "index2Weight": 0.9311861791802529,
+      "index1Weight": 0.06881382081974707
+    },
+    {
+      "vertex": 18198,
+      "position": [
+        0.336181640625,
+        -0.02807622402906418,
+        0.53955078125
+      ],
+      "index2Weight": 0.9863936908620313,
+      "index1Weight": 0.013606309137968675
+    },
+    {
+      "vertex": 18203,
+      "position": [
+        0.339111328125,
+        -0.02807622402906418,
+        0.5400390625
+      ],
+      "index2Weight": 0.9986292924606138,
+      "index1Weight": 0.0013707075393861734
+    }
+  ],
+  "boundaryVertices": [
+    9357,
+    9359,
+    9361,
+    9364,
+    9368,
+    9369,
+    18192,
+    18193,
+    18197,
+    18202,
+    18205,
+    18206
+  ],
+  "method": "Position-welded index-tip island, inverse squared-edge-length harmonic interpolation from ALL fixed source boundary weights; all boundary weights are Index1/Index2 only. No geometry/UV/triangle changes.",
+  "regionHash": 2462411865,
+  "touchedTriangles": 14
+}

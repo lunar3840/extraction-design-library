@@ -1,0 +1,4 @@
+Ivy variant validation: PASS. PreviewScene only; open user scene not saved.
+PASS fresh variant seed and Unity random invariance
+  first seed=40092236, second seed=489918741; captured seed reproduced exact generated meshes
+PASS real car: stochastic variants, captured-seed replay and source invariance

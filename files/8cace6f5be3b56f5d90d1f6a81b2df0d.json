@@ -1,0 +1,210 @@
+{
+  "native_sha256": "253e45d8e0782197685f090625b02c5f7184477b4496848b6d24f2613aa121cc",
+  "boards": [
+    {
+      "board": "BOARD_LEFT_HAND_DIRECTION.png",
+      "sha256": "2624dae65cd9d4246d4e4be57f371e6f722986bf1a9c4bd32c9dc30add474588",
+      "panels": [
+        {
+          "label": "수정 전 · 탄창 접근 f65",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\before_reload_065_hand.png",
+          "source_sha256": "6966ef7121038b6653a4c5152fb99c7be0051bdd010ce5593f8d76d41d8ef11c"
+        },
+        {
+          "label": "수정 전 · 탄창 파지 f95",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\before_reload_095_hand.png",
+          "source_sha256": "51f5ed65c8575496dedffa5b4a2a597339cf58ffbbd5869ab6a195010b48892e"
+        },
+        {
+          "label": "수정 후 · 탄창 접근 f65",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_reload_065_hand.png",
+          "source_sha256": "244b163f8cf68bcc7e283936044401b4ac9c2ea152df111f90a57be1cd158c68"
+        },
+        {
+          "label": "수정 후 · 탄창 파지 f95",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_reload_095_hand.png",
+          "source_sha256": "adf97f83f3c615275a97ff63ba3cc4d75eb0f1e206043ad76fec44b7f903d93a"
+        }
+      ],
+      "processing": "Uniform fit into tiles only; no pose/image retouching."
+    },
+    {
+      "board": "BOARD_RELOAD_STAGES.png",
+      "sha256": "81f674a586d0cc4a81c75536c45fc7d5ef7ef6652c4eb24e3d65d17c7f14dd45",
+      "panels": [
+        {
+          "label": "손잡이에서 이탈 · f50",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_phase_Reload_50_front.png",
+          "source_sha256": "89d3bc5b0efc866731318f689da00dd07d55dcc4bc8920d5a316c9bebbc66c4a"
+        },
+        {
+          "label": "탄창에 접근 · f65",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_phase_Reload_65_front.png",
+          "source_sha256": "2218b4cd9d143cb8a794af9534151c22fbc4fd844422a845cc9aeeddcd32a7e2"
+        },
+        {
+          "label": "빈 탄창 인출 · f100",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_phase_Reload_100_front.png",
+          "source_sha256": "95d3ae6f3e89f8b7c27803c3b6c9d4986dcddb8e28822f2e6cab41c559d06f6a"
+        },
+        {
+          "label": "손을 기울여 놓기 · f106",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_phase_Reload_106_front.png",
+          "source_sha256": "3388ad08646ea2c5232bfc1c935573fa371531cbea1986b32075193b9678c467"
+        },
+        {
+          "label": "빈 탄창 낙하 · f112",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_phase_Reload_112_front.png",
+          "source_sha256": "e3d56a1ec03dbbb8cadf075187a6c055eef28b3f8d32b4149c8bb35c60024bc7"
+        },
+        {
+          "label": "허리 파우치 접근 · f150",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_phase_Reload_150_front.png",
+          "source_sha256": "1a61c9b5e659f1f4f0ca17b06abd5c4d48fb9cd1c75f87431b2e21b07311cff0"
+        },
+        {
+          "label": "새 탄창 파지 · f154",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_phase_Reload_154_front.png",
+          "source_sha256": "be2022c826d1f8d4a19e2e41315a18b6e1141a06c201af438f384b27364173e7"
+        },
+        {
+          "label": "파우치에서 꺼내기 · f162",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_phase_Reload_162_front.png",
+          "source_sha256": "fe645ad2f104f650d61f400e7682a7fc31044f4d90d2bb13ccae6f8fbb5d2a9b"
+        },
+        {
+          "label": "새 탄창 운반 · f190",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_phase_Reload_190_front.png",
+          "source_sha256": "f19018e09b7174fa7894840e3eb70a0c6f6f91a66b64985253619f55268f2574"
+        },
+        {
+          "label": "탄창 삽입 · f205",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_phase_Reload_205_front.png",
+          "source_sha256": "a3da366f080fdcca2829d5f3298533d3fc35d08fcd64e8d726076489d72a6a2f"
+        },
+        {
+          "label": "삽입 완료 · f217",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_phase_Reload_217_front.png",
+          "source_sha256": "e90bc2fe02edfdb2192330cf85940917f5dc7db7b43bca6c5f2f7da7e09d6244"
+        },
+        {
+          "label": "유지 자세 복귀 · f271",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_phase_Reload_271_front.png",
+          "source_sha256": "5d6760ee3c64ad33659f0d95cbac84957cec96ac8863c5f11db4e3030310ce6f"
+        }
+      ],
+      "processing": "Uniform fit into tiles only; no pose/image retouching."
+    },
+    {
+      "board": "BOARD_SIX_ACTIONS.png",
+      "sha256": "3970ffeabdbe945af1cb8873f4f14eee86326a711493de122c542cb6f799fe2e",
+      "panels": [
+        {
+          "label": "Idle · f1",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_phase_Idle_1_front.png",
+          "source_sha256": "c215a1fd59041c5f4189adb3eb087849bc8ddb4f2c47f4faa4252afe50a6e56a"
+        },
+        {
+          "label": "Aim · f61",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_phase_Aim_61_front.png",
+          "source_sha256": "361d493a052ca2380562b503d2813af6493444190ca01b142dc547823a4b529d"
+        },
+        {
+          "label": "Fire · f7",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_phase_Fire_7_front.png",
+          "source_sha256": "cda173385bcca19ed3627df03a83d18c2715cdadcd3cf2e7cbde3c3deabb6d1b"
+        },
+        {
+          "label": "Walk · f9",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_phase_Walk_9_front.png",
+          "source_sha256": "ed3bb7332e86a74cab4f05dae442b6cebd98193ef449506e5774ec0c22fe3441"
+        },
+        {
+          "label": "Run · f19",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_phase_Run_19_front.png",
+          "source_sha256": "a1c55a688a10b1b2a34ef5fbf5fe3057d4394822c1cef20d20bdb4e506c4dbe1"
+        },
+        {
+          "label": "Reload · f100",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_phase_Reload_100_front.png",
+          "source_sha256": "95d3ae6f3e89f8b7c27803c3b6c9d4986dcddb8e28822f2e6cab41c559d06f6a"
+        }
+      ],
+      "processing": "Uniform fit into tiles only; no pose/image retouching."
+    },
+    {
+      "board": "BOARD_GRIP_DETAILS.png",
+      "sha256": "36a0d485b7ba3a66697cbc779e8cb5e6e6e8999a9870e0b32128ccea71805139",
+      "panels": [
+        {
+          "label": "왼손 · 손잡이 정면",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_Idle_1_L_front.png",
+          "source_sha256": "856e71b4dc71dd829a4901e9d678c68edf881954d83aa4cceff98458712e090b"
+        },
+        {
+          "label": "왼손 · 손잡이 반대편",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_Idle_1_L_outside.png",
+          "source_sha256": "65474a0a3e077143190c6e666cc1dcb38a6704d0096f36b9e6180ad33b210ebb"
+        },
+        {
+          "label": "오른손 · 손잡이 정면",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_Idle_1_R_front.png",
+          "source_sha256": "70fefc1ca4bd1637ef5345a03ecfa953929989c29e10b67e397af8ad19d15be2"
+        },
+        {
+          "label": "오른손 · 손잡이 반대편",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_Idle_1_R_outside.png",
+          "source_sha256": "856caf2314ceccee652c745a579242e5a055523614e557c46fa27d0851341c2a"
+        },
+        {
+          "label": "왼손 · 탄창 파지 정면",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_Reload_100_L_front.png",
+          "source_sha256": "915f1dc8fc775ca0943f45fbf2873f33a3c1e4b4303f1226e49280f04de97ff8"
+        },
+        {
+          "label": "왼손 · 탄창 파지 반대편",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_Reload_100_L_outside.png",
+          "source_sha256": "df98e48b61f9ec42fd919bf325623ceaa6ff3d5d165ee19f287ee60531137cbe"
+        }
+      ],
+      "processing": "Uniform fit into tiles only; no pose/image retouching."
+    },
+    {
+      "board": "BOARD_STOCK_CHEEK.png",
+      "sha256": "23de4cbbc094d16f69c5d8bf6a60e9e5e74800991f200cebc010f4210bbaed31",
+      "panels": [
+        {
+          "label": "Idle · right",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_Idle_stock_cheek_right.png",
+          "source_sha256": "f8bd9ff1f3ebd25c932610450515c00833a5d52e5126137c704601576b3ecef9"
+        },
+        {
+          "label": "Idle · left",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_Idle_stock_cheek_left.png",
+          "source_sha256": "eedf475b67a9dcc9128cbb9380533776079accf30fcce9e42948772de2dcff98"
+        },
+        {
+          "label": "Aim · right",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_Aim_stock_cheek_right.png",
+          "source_sha256": "399224f03a646edad0c5ffcdf359ddcd2e2c8cb77d1303c8fb95eccf43eea155"
+        },
+        {
+          "label": "Aim · left",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_Aim_stock_cheek_left.png",
+          "source_sha256": "630d2f2c4a7aa101328600f943e21efa701af194110e4f7aa39d7c4bf11b0a35"
+        },
+        {
+          "label": "Fire · right",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_Fire_stock_cheek_right.png",
+          "source_sha256": "d8fb5f2c8a47a23cfaaf05e4c1f4794563de7b4b79f344d92337be99aad1ca89"
+        },
+        {
+          "label": "Fire · left",
+          "source": "outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\after_Fire_stock_cheek_left.png",
+          "source_sha256": "3bdfda5f0aba4a2c696f4d6da61c2e7d08f0326fad4bf556735cdc5d11f616a1"
+        }
+      ],
+      "processing": "Uniform fit into tiles only; no pose/image retouching."
+    }
+  ]
+}

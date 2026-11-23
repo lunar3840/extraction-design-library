@@ -1,0 +1,86 @@
+[
+  {
+    "path": "Assets/Escape/Runtime/UI/GlassIcons.cs",
+    "before": "176F01B3FA0D31C5CBD07BFE98DF32AA80966C2F7A0B9580A0AF1DF6A21E90E8",
+    "after": "176F01B3FA0D31C5CBD07BFE98DF32AA80966C2F7A0B9580A0AF1DF6A21E90E8",
+    "unchanged": true,
+    "expectedChange": false
+  },
+  {
+    "path": "Assets/Escape/Runtime/UI/InventoryPortrait.cs",
+    "before": "A8B5D665DFBF6429C4030ED85D964C70DC9498E60D1F636D3CB0795911EF756D",
+    "after": "A8B5D665DFBF6429C4030ED85D964C70DC9498E60D1F636D3CB0795911EF756D",
+    "unchanged": true,
+    "expectedChange": false
+  },
+  {
+    "path": "Assets/Escape/Runtime/UI/WeaponModelThumbnails.cs",
+    "before": "82970C8540FF4D27CE83701209A1385AA771D83AE5D6A62A835C1C94CE48638F",
+    "after": "82970C8540FF4D27CE83701209A1385AA771D83AE5D6A62A835C1C94CE48638F",
+    "unchanged": true,
+    "expectedChange": false
+  },
+  {
+    "path": "Assets/Escape/Runtime/EdelS4ArmorAppearance.cs",
+    "before": "F476AEC7CE27A2977C0DE361060948F839C541BD72A9EEF09B2A43B5A49E9446",
+    "after": "F476AEC7CE27A2977C0DE361060948F839C541BD72A9EEF09B2A43B5A49E9446",
+    "unchanged": true,
+    "expectedChange": false
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdArmorVisual.cs",
+    "before": "9A8FF63D02873ADF5DEF77F8A4FFA944556E40E23360AAEB14033131743D04C6",
+    "after": "9A8FF63D02873ADF5DEF77F8A4FFA944556E40E23360AAEB14033131743D04C6",
+    "unchanged": true,
+    "expectedChange": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/EdelS4/Outfit.prefab",
+    "before": "902B4E4CE488D52EEC126DFA91D2C4AE9EEA434A854D85312363574075A8C14B",
+    "after": "902B4E4CE488D52EEC126DFA91D2C4AE9EEA434A854D85312363574075A8C14B",
+    "unchanged": true,
+    "expectedChange": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Player_Edel.prefab",
+    "before": "39DC490DF8D8D1391186A8FABACFB29BE215438ACE58DEF382058478AD3D947E",
+    "after": "39DC490DF8D8D1391186A8FABACFB29BE215438ACE58DEF382058478AD3D947E",
+    "unchanged": true,
+    "expectedChange": false
+  },
+  {
+    "path": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+    "before": "11C4100C8D129FFD04C83AAD7BBA97B20C1D7F703D4F84DE9E84754D9D988E6A",
+    "after": "11C4100C8D129FFD04C83AAD7BBA97B20C1D7F703D4F84DE9E84754D9D988E6A",
+    "unchanged": true,
+    "expectedChange": false
+  },
+  {
+    "path": "Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab",
+    "before": "26C8E548B074D96A36A33BFB9CFA7D354BF1C220729D6BD3F1455710D65E98E9",
+    "after": "26C8E548B074D96A36A33BFB9CFA7D354BF1C220729D6BD3F1455710D65E98E9",
+    "unchanged": true,
+    "expectedChange": false
+  },
+  {
+    "path": "Assets/Escape/Editor/ArmorItemThumbnailBaker.cs",
+    "before": "1D22EFA21FB86FB62C7D1F441613589E79951E3FBF427D335726D1BFD3B22762",
+    "after": "DBFE545444B01377226CA18E5D3752F0ABC8F0B40003BBE73E66D4700975C4D8",
+    "unchanged": false,
+    "expectedChange": true
+  },
+  {
+    "path": "Assets/Escape/Resources/UI/ItemIcons/TEST_EDEL_S4_MAINTENANCE.png",
+    "before": "CB39140DB49E7D691230A4B6E568AAA2D902A19264EB4B9523B1755DB1DC0331",
+    "after": "2515E99E7DD061889ABDA81A86729F90CA9DB2F4D6834826D0E85F6A26377B9A",
+    "unchanged": false,
+    "expectedChange": true
+  },
+  {
+    "path": "Assets/Escape/Resources/UI/ItemIcons/TEST_EDEL_S4_MAINTENANCE.png.meta",
+    "before": "3FD05C0FF77FB0C25DD47DB320BA403C95DC63ADEFBC8F28FFE7081A370F0532",
+    "after": "3FD05C0FF77FB0C25DD47DB320BA403C95DC63ADEFBC8F28FFE7081A370F0532",
+    "unchanged": true,
+    "expectedChange": false
+  }
+]

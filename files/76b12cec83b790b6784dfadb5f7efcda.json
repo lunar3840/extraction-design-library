@@ -1,0 +1,68 @@
+{
+  "status": "PASS six-vertex binding and visible vertical-strip correction; full grasp/hair remain pending",
+  "changedWeightVertices": [
+    9360,
+    9362,
+    9365,
+    18194,
+    18198,
+    18203
+  ],
+  "positionsUnchanged": true,
+  "uvUnchanged": true,
+  "trianglesUnchanged": true,
+  "chipRebindSameCorrectedWeights": true,
+  "sourceAsset": {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Edel.fbx",
+    "sha256": "779ed67babb89920e190573c05e63faf484111a1a46a16c5861cb4e536f4949b",
+    "afterSha256": "779ed67babb89920e190573c05e63faf484111a1a46a16c5861cb4e536f4949b",
+    "unchanged": true
+  },
+  "screenshots": [
+    {
+      "file": "before_index_binding_0.png",
+      "source": "outputs\\change_records\\2026-10-24\\edel-natural-arm-pose\\r25_right5_edel_off_hands_right_0.png",
+      "sha256": "4bfaae4aac2349abe83be99f4a609cd19356200c6ad0ac40cbc3a7c740996f29"
+    },
+    {
+      "file": "before_index_binding_90.png",
+      "source": "outputs\\change_records\\2026-10-24\\edel-natural-arm-pose\\r25_right5_edel_off_hands_right_90.png",
+      "sha256": "5d1e1ef3d25afd0de34dcfef4c7492db39e902417e75942b116c7cd2727c5c03"
+    },
+    {
+      "file": "before_index_binding_270.png",
+      "source": "outputs\\change_records\\2026-10-24\\edel-natural-arm-pose\\r25_right5_edel_off_hands_right_270.png",
+      "sha256": "22756e624ae05edcde7a6f72fa1e342048120da9e07cec6e6df1c76995684b8f"
+    },
+    {
+      "file": "after_index_binding_0.png",
+      "source": "outputs\\change_records\\2026-10-24\\edel-natural-arm-pose\\r25_index6_edel_off_hands_right_0.png",
+      "sha256": "4ac3c90f685e8e3a1321469a97c28c5785876be23a9ca971decf08221bfb9f3d"
+    },
+    {
+      "file": "after_index_binding_90.png",
+      "source": "outputs\\change_records\\2026-10-24\\edel-natural-arm-pose\\r25_index6_edel_off_hands_right_90.png",
+      "sha256": "a379f52fc7c6724e2057b793ac3b9d19462dc07e0bd9e200a4a0737b5a848305"
+    },
+    {
+      "file": "after_index_binding_270.png",
+      "source": "outputs\\change_records\\2026-10-24\\edel-natural-arm-pose\\r25_index6_edel_off_hands_right_270.png",
+      "sha256": "a1ba42690b4da77dd45db098b0f3a07828159d12bb51614aeebd60ab74d06fdd"
+    }
+  ],
+  "strictTopologyGuardReadback": {
+    "capture": "r25_grasp6_edel_off_skin.json",
+    "recognized14TriangleTopology": "0xb8140322",
+    "changedSourceWeights": [
+      9360,
+      9362,
+      9365,
+      18194,
+      18198,
+      18203
+    ],
+    "sourcePositionsUVTrianglesUnchanged": true,
+    "runtimeSource": "EdelIndexSkinBinding.cs",
+    "runtimeSha256": "5fd2d39b37a1790ba8fcce0a68975e8bd2f4298735bc3bf6ff9bd26e26362cc8"
+  }
+}

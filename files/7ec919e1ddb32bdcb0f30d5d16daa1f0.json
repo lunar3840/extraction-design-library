@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "instruction_date_kst": "2026-10-29",
+  "thread_id": "01a08cc1-0b67-76d0-b184-f28bc1dec504",
+  "scope": "read_only_art_analysis",
+  "unity_implementation_count": 0,
+  "new_game_before_after_pairs": 0,
+  "images": [
+    {
+      "file": "reference_user_ruins.png",
+      "source": "C:/Users/ehoji/.codex/attachments/8570beaf-ba82-4c4f-8a17-2b4438377b97/codex-clipboard-f4512d5e-5065-4dc3-b72e-2a23236df351.png",
+      "role": "user_reference_other_game",
+      "source_capture_date": null,
+      "date_note": "사용자 제공일 2026-10-29. 원본 게임·작가·촬영일은 첨부만으로 확정하지 않음.",
+      "sha256": "9ED7B91C6ECCFA4EB7FF68D21ACBBE3ECD5EDC632D233D61B8CA8CBE9CB87DA2"
+    },
+    {
+      "file": "current_game_overview_2026-10-29.png",
+      "source": "outputs/change_records/2026-10-29/global-outline-cartoon-pass/after_environment_overview.png",
+      "source_record": "outputs/change_records/2026-10-29/global-outline-cartoon-pass/CHANGE_RECORD.md",
+      "role": "existing_actual_game_diagnostic_view",
+      "source_capture_date": "2026-10-29",
+      "date_basis": "source record, not copy time",
+      "sha256": "FA298FD7F688946996A9AD0B47ABB60BD91A76028FEDDD18D81DC429963CDFF9"
+    },
+    {
+      "file": "current_game_road_wreck_2026-10-29.png",
+      "source": "outputs/change_records/2026-10-29/global-outline-cartoon-pass/after_environment_road_wreck.png",
+      "source_record": "outputs/change_records/2026-10-29/global-outline-cartoon-pass/CHANGE_RECORD.md",
+      "role": "existing_actual_game_diagnostic_view",
+      "source_capture_date": "2026-10-29",
+      "date_basis": "source record, not copy time",
+      "sha256": "8997C7CC06C737FA2458849FB0CB2438C108E1166042605789516C1DB1398DC0"
+    },
+    {
+      "file": "current_C01_exterior_2026-10-28.png",
+      "source": "outputs/change_records/2026-10-28/a-map-blender-environment-expansion/after_play/after_building_C01_exterior.png",
+      "source_record": "outputs/change_records/2026-10-28/a-map-blender-environment-expansion/CHANGE_RECORD.md",
+      "role": "existing_actual_play_fixed_camera",
+      "source_capture_date": "2026-10-28",
+      "date_basis": "source record, not copy time",
+      "sha256": "FDCD4B1A5F0668911CEC56F67E1BCA8E32FD56A45E9924C780AF6A5792B706E5"
+    }
+  ],
+  "public_primary_sources": [
+    {"title":"NieR Automata environment art and lighting discussion","url":"https://www.platinumgames.com/official-blog/article/9018"},
+    {"title":"NieR Automata concept art over actual unfinished game screenshots","url":"https://www.platinumgames.com/official-blog/article/8997"}
+  ],
+  "comparisons": [],
+  "notes": "No new Unity capture or implementation. Existing views are evidence of their own source checkpoints, not the live state of concurrently edited Unity. No paid asset binaries, model meshes or texture source packages included."
+}

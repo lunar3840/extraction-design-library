@@ -1,0 +1,4 @@
+Weathering pass rendering: FAIL. System.InvalidOperationException: DepthOnly source alpha cutout is absent or empty
+  at Escape.EditorTools.SurfaceEnvironmentValidation.WeatheringShaderProbe.Require (System.Boolean value, System.String message) [0x0000a] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\WeatheringShaderProbe.cs:271 
+  at Escape.EditorTools.SurfaceEnvironmentValidation.WeatheringShaderProbe.ValidatePassRendering (System.String outputDir) [0x00613] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\WeatheringShaderProbe.cs:125 
+PASS ForwardLit rendered; full=23664 cut=11832 weathered=11832 maskDiff=0 depthDiff=0

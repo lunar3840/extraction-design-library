@@ -1,0 +1,130 @@
+{
+  "at": "2026-10-22T20:20:36.184Z",
+  "temporaryRoot": "C:\\Users\\ehoji\\AppData\\Local\\Temp\\extraction-editor-independent-3XbSi1",
+  "realProject": "C:/UnityProject/escape",
+  "total": 25,
+  "passed": 25,
+  "failed": 0,
+  "coverage": {
+    "datasets": 103,
+    "rows": 12926,
+    "sources": 103,
+    "copiedSourceFiles": 222,
+    "json": 9,
+    "groups": [
+      "플레이어",
+      "적",
+      "무기·탄약",
+      "경제·거래",
+      "인벤토리·장비",
+      "의료·생존",
+      "성장·연구",
+      "동료",
+      "전리품",
+      "스테이지",
+      "전투"
+    ]
+  },
+  "results": [
+    {
+      "name": "CSV: BOM, Unicode, commas, quotes, multiline, CRLF and boolean/number text roundtrip",
+      "ok": true
+    },
+    {
+      "name": "CSV: malformed quote, column count and duplicate headers are rejected",
+      "ok": true
+    },
+    {
+      "name": "createEditor initializes a temporary project and source-bound catalog",
+      "ok": true
+    },
+    {
+      "name": "Extraction: nested JSON values, booleans, strings and null preservation",
+      "ok": true
+    },
+    {
+      "name": "Extraction: C# getters, scalar expression factors, negative suffix and comment/string exclusion",
+      "ok": true
+    },
+    {
+      "name": "Validation: unknown IDs and changed readonly IDs are rejected",
+      "ok": true
+    },
+    {
+      "name": "Validation: malformed mutation shapes, wrong primitive types and NaN/infinity are rejected",
+      "ok": true
+    },
+    {
+      "name": "Validation: JSON integer field rejects fractional magazine and stack counts",
+      "ok": true
+    },
+    {
+      "name": "Validation: C# integer rejects decimals, positive-only fire interval rejects zero",
+      "ok": true
+    },
+    {
+      "name": "Validation: Settings serialized int rejects fractional and out-of-int32 values",
+      "ok": true
+    },
+    {
+      "name": "Validation: related weapon, item drop and ammo tier/value limits reject invalid records",
+      "ok": true
+    },
+    {
+      "name": "Validation: legacy armor with omitted default class accepts valid durability change",
+      "ok": true
+    },
+    {
+      "name": "CSV import: full unchanged dataset including readonly identifiers succeeds",
+      "ok": true
+    },
+    {
+      "name": "CSV import: duplicate, unknown and readonly ID edits rejected",
+      "ok": true
+    },
+    {
+      "name": "CSV import: malicious type metadata cannot override source type",
+      "ok": true
+    },
+    {
+      "name": "CSV-only save leaves every original source byte unchanged and reloads pending edits",
+      "ok": true
+    },
+    {
+      "name": "Stale revision rejects save and apply before writing",
+      "ok": true
+    },
+    {
+      "name": "Apply: exact JSON/C#/Settings changes, untouched bytes, complete backup, reload persistence",
+      "ok": true
+    },
+    {
+      "name": "Source hash conflict blocks apply and preserves external modification",
+      "ok": true
+    },
+    {
+      "name": "External source edit versus pending saved edit survives reload and blocks conflicting apply",
+      "ok": true
+    },
+    {
+      "name": "Refresh: pending edits survive and source-deleted orphan remains blocked across repeated refresh",
+      "ok": true
+    },
+    {
+      "name": "Backup restore: copied original bytes refresh cleanly and persist without pending differences",
+      "ok": true
+    },
+    {
+      "name": "HTTP: loopback catalog, traversal protection, host/origin/token/content-type controls",
+      "ok": true
+    },
+    {
+      "name": "Real project: read-only extraction covers catalog, settings and gameplay sources",
+      "ok": true
+    },
+    {
+      "name": "Real Unity originals remain byte-identical after every test",
+      "ok": true
+    }
+  ]
+}

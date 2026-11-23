@@ -1,0 +1,7 @@
+2026-10-07T12:31:22.8853525Z
+playing=False
+scene=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity
+sceneDirty=False
+shadowRoots=1
+localLights=2
+RESULT PASS

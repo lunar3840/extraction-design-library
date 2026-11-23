@@ -1,0 +1,51 @@
+{
+  "viewport": {
+    "width": 1280,
+    "height": 720
+  },
+  "liveTransferDownloaded": true,
+  "csvBom": true,
+  "fileChooserImported": true,
+  "review": {
+    "before": 100,
+    "after": 110,
+    "source": "Assets/Escape/Settings/PlayerDefaults.asset"
+  },
+  "realProjectApplyClicked": false,
+  "webSaved": false,
+  "webApplyRequested": false,
+  "local": {
+    "content": {
+      "x": 266,
+      "y": 132
+    },
+    "overflow": false,
+    "pending": "0",
+    "saveStatus": "모든 값이 게임 원본과 일치합니다",
+    "sidebar": {
+      "width": 236,
+      "x": 14,
+      "y": 132
+    },
+    "url": "http://127.0.0.1:8890/",
+    "value": "100"
+  },
+  "web": {
+    "authLabel": "편집 잠금 해제",
+    "content": {
+      "x": 266,
+      "y": 132
+    },
+    "overflow": false,
+    "pending": "0",
+    "publicReadOnly": true,
+    "sidebar": {
+      "width": 236,
+      "x": 14,
+      "y": 132
+    },
+    "tabsHeight": 40,
+    "url": "https://extraction-balance-editor.ehojin0415.chatgpt.site/",
+    "value": "100"
+  }
+}

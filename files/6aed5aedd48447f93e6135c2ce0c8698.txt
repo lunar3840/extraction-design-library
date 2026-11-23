@@ -1,0 +1,4 @@
+2026-10-15T21:51:06.8795026+09:00
+before Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity dirty=False roots=4
+after Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity dirty=False roots=4
+PASS compiled medical UI import; medical rules; unchanged scene selection, root counts and clean flags.

@@ -1,0 +1,2297 @@
+{
+  "version": "0.8",
+  "title": "침수 정비지구 — 중계망·선택 진입 상세 도면",
+  "units": "metres",
+  "map": {
+    "width": 520,
+    "height": 400,
+    "north": "-y",
+    "unity": "(x-260, z, 200-y)"
+  },
+  "nodes": [
+    {
+      "id": "W0",
+      "x": 32,
+      "y": 80,
+      "z": 2,
+      "label": "서부 진입"
+    },
+    {
+      "id": "C0",
+      "x": 53,
+      "y": 119,
+      "z": 3,
+      "label": "진료소 앞"
+    },
+    {
+      "id": "C1",
+      "x": 99,
+      "y": 99,
+      "z": 4,
+      "label": "진료소 남문"
+    },
+    {
+      "id": "C2",
+      "x": 119,
+      "y": 77,
+      "z": 4,
+      "label": "진료소 동문"
+    },
+    {
+      "id": "N0",
+      "x": 164,
+      "y": 83,
+      "z": 7,
+      "label": "사면 분기"
+    },
+    {
+      "id": "N1",
+      "x": 210,
+      "y": 119,
+      "z": 9,
+      "label": "옛 정비로"
+    },
+    {
+      "id": "N2",
+      "x": 292,
+      "y": 118,
+      "z": 9,
+      "label": "절개지 통로"
+    },
+    {
+      "id": "N3",
+      "x": 341,
+      "y": 70,
+      "z": 12,
+      "label": "전력시설 갈림"
+    },
+    {
+      "id": "P1",
+      "x": 364,
+      "y": 86,
+      "z": 12,
+      "label": "전력 서문"
+    },
+    {
+      "id": "P2",
+      "x": 413,
+      "y": 100,
+      "z": 12,
+      "label": "전력 동문"
+    },
+    {
+      "id": "P0",
+      "x": 448,
+      "y": 132,
+      "z": 8,
+      "label": "케이블 마당"
+    },
+    {
+      "id": "W1",
+      "x": 37,
+      "y": 162,
+      "z": 1,
+      "label": "좁은 골목"
+    },
+    {
+      "id": "W2",
+      "x": 112,
+      "y": 149,
+      "z": 2,
+      "label": "서부 작업마당"
+    },
+    {
+      "id": "TOOL",
+      "x": 103,
+      "y": 195,
+      "z": 1,
+      "label": "공구점 출입"
+    },
+    {
+      "id": "W3",
+      "x": 132,
+      "y": 232,
+      "z": 1,
+      "label": "폐정비로"
+    },
+    {
+      "id": "W4",
+      "x": 62,
+      "y": 270,
+      "z": 0,
+      "label": "생활 폐허"
+    },
+    {
+      "id": "W5",
+      "x": 168,
+      "y": 293,
+      "z": 0,
+      "label": "야적장 서쪽"
+    },
+    {
+      "id": "K0",
+      "x": 191,
+      "y": 181,
+      "z": 2,
+      "label": "중앙 서쪽 분기"
+    },
+    {
+      "id": "D0",
+      "x": 195,
+      "y": 258,
+      "z": 1,
+      "label": "남쪽 우회분기"
+    },
+    {
+      "id": "HN",
+      "x": 260,
+      "y": 177,
+      "z": 2,
+      "label": "중정비동 북문"
+    },
+    {
+      "id": "HW",
+      "x": 220,
+      "y": 205,
+      "z": 2,
+      "label": "중정비동 서문"
+    },
+    {
+      "id": "HE",
+      "x": 300,
+      "y": 205,
+      "z": 2,
+      "label": "중정비동 동문"
+    },
+    {
+      "id": "HS",
+      "x": 260,
+      "y": 233,
+      "z": 2,
+      "label": "중정비동 남문"
+    },
+    {
+      "id": "H0",
+      "x": 260,
+      "y": 205,
+      "z": 2,
+      "label": "일반 정비 홀"
+    },
+    {
+      "id": "HU",
+      "x": 272,
+      "y": 193,
+      "z": 6,
+      "label": "상부 통로"
+    },
+    {
+      "id": "E0",
+      "x": 337,
+      "y": 158,
+      "z": 6,
+      "label": "동부 선로 분기"
+    },
+    {
+      "id": "E1",
+      "x": 348,
+      "y": 215,
+      "z": 3,
+      "label": "창고 접근"
+    },
+    {
+      "id": "L1",
+      "x": 414,
+      "y": 221,
+      "z": 3,
+      "label": "창고 서문"
+    },
+    {
+      "id": "L2",
+      "x": 458.5,
+      "y": 193.5,
+      "z": 3,
+      "label": "창고 동문"
+    },
+    {
+      "id": "E2",
+      "x": 489,
+      "y": 250,
+      "z": 1,
+      "label": "동측 임무 기록기"
+    },
+    {
+      "id": "S0",
+      "x": 270,
+      "y": 285,
+      "z": 0,
+      "label": "남부 야적장"
+    },
+    {
+      "id": "S1",
+      "x": 335,
+      "y": 284,
+      "z": 0,
+      "label": "북안 분기"
+    },
+    {
+      "id": "BN1",
+      "x": 349,
+      "y": 293,
+      "z": 0,
+      "label": "서교 북안"
+    },
+    {
+      "id": "BS1",
+      "x": 376,
+      "y": 357,
+      "z": 0,
+      "label": "서교 남안"
+    },
+    {
+      "id": "BN2",
+      "x": 450,
+      "y": 260,
+      "z": 1,
+      "label": "동교 북안"
+    },
+    {
+      "id": "BS2",
+      "x": 463,
+      "y": 317,
+      "z": 1,
+      "label": "동교 남안"
+    },
+    {
+      "id": "S2",
+      "x": 420,
+      "y": 354,
+      "z": 0,
+      "label": "남동 건조 둔덕"
+    },
+    {
+      "id": "RT1",
+      "x": 148,
+      "y": 123,
+      "z": 4,
+      "label": "북부 통신함"
+    },
+    {
+      "id": "RT2",
+      "x": 366,
+      "y": 143,
+      "z": 7,
+      "label": "동부 중계기"
+    },
+    {
+      "id": "RT3",
+      "x": 322,
+      "y": 267,
+      "z": 1,
+      "label": "배수 점검 단말"
+    }
+  ],
+  "edges": [
+    {
+      "a": "E2",
+      "b": "BN2",
+      "width": 3,
+      "kind": "outdoor",
+      "via": [
+        [
+          475,
+          245
+        ]
+      ]
+    },
+    {
+      "a": "W0",
+      "b": "C0",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "C0",
+      "b": "C1",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "C1",
+      "b": "C2",
+      "width": 3,
+      "kind": "interior",
+      "via": []
+    },
+    {
+      "a": "C2",
+      "b": "N0",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "C0",
+      "b": "W2",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "W0",
+      "b": "W1",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "W1",
+      "b": "W2",
+      "width": 3,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "W1",
+      "b": "W4",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "W2",
+      "b": "TOOL",
+      "width": 3,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "TOOL",
+      "b": "W3",
+      "width": 3,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "W3",
+      "b": "W4",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "W4",
+      "b": "W5",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "W3",
+      "b": "K0",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "W2",
+      "b": "N0",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "N0",
+      "b": "N1",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "N1",
+      "b": "N2",
+      "width": 6,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "N2",
+      "b": "N3",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "N3",
+      "b": "P1",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "P1",
+      "b": "P2",
+      "width": 3,
+      "kind": "interior",
+      "via": [
+        [
+          375,
+          101
+        ],
+        [
+          397,
+          113
+        ]
+      ]
+    },
+    {
+      "a": "P2",
+      "b": "P0",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "P0",
+      "b": "E0",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "N2",
+      "b": "E0",
+      "width": 6,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "N1",
+      "b": "K0",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "K0",
+      "b": "HW",
+      "width": 6,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "K0",
+      "b": "HN",
+      "width": 4,
+      "kind": "outdoor",
+      "via": [
+        [
+          210,
+          153
+        ],
+        [
+          260,
+          153
+        ]
+      ]
+    },
+    {
+      "a": "HN",
+      "b": "H0",
+      "width": 6,
+      "kind": "interior",
+      "via": []
+    },
+    {
+      "a": "HW",
+      "b": "H0",
+      "width": 8,
+      "kind": "interior",
+      "via": []
+    },
+    {
+      "a": "HE",
+      "b": "H0",
+      "width": 8,
+      "kind": "interior",
+      "via": []
+    },
+    {
+      "a": "HS",
+      "b": "H0",
+      "width": 6,
+      "kind": "interior",
+      "via": []
+    },
+    {
+      "a": "H0",
+      "b": "HU",
+      "width": 2.4,
+      "kind": "stairs",
+      "via": [
+        [
+          272,
+          205
+        ],
+        [
+          272,
+          199
+        ]
+      ]
+    },
+    {
+      "a": "HE",
+      "b": "E1",
+      "width": 6,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "HS",
+      "b": "D0",
+      "width": 4,
+      "kind": "outdoor",
+      "via": [
+        [
+          260,
+          248
+        ]
+      ]
+    },
+    {
+      "a": "K0",
+      "b": "D0",
+      "width": 4,
+      "kind": "outdoor",
+      "via": [
+        [
+          182,
+          220
+        ]
+      ]
+    },
+    {
+      "a": "W3",
+      "b": "D0",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "D0",
+      "b": "W5",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "D0",
+      "b": "S0",
+      "width": 6,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "S0",
+      "b": "S1",
+      "width": 6,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "E0",
+      "b": "E1",
+      "width": 6,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "E1",
+      "b": "S1",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "E1",
+      "b": "L1",
+      "width": 6,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "L1",
+      "b": "L2",
+      "width": 3,
+      "kind": "interior",
+      "via": [
+        [
+          425,
+          188
+        ],
+        [
+          449,
+          182
+        ]
+      ]
+    },
+    {
+      "a": "L2",
+      "b": "P0",
+      "width": 4,
+      "kind": "outdoor",
+      "via": [
+        [
+          479,
+          172
+        ]
+      ]
+    },
+    {
+      "a": "L2",
+      "b": "E2",
+      "width": 4,
+      "kind": "outdoor",
+      "via": [
+        [
+          492,
+          202
+        ]
+      ]
+    },
+    {
+      "a": "L1",
+      "b": "BN2",
+      "width": 4,
+      "kind": "outdoor",
+      "via": [
+        [
+          397,
+          236
+        ],
+        [
+          407,
+          263
+        ],
+        [
+          431,
+          255
+        ]
+      ]
+    },
+    {
+      "a": "S1",
+      "b": "BN1",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "BN1",
+      "b": "BS1",
+      "width": 6,
+      "kind": "bridge",
+      "via": []
+    },
+    {
+      "a": "BN2",
+      "b": "BS2",
+      "width": 5,
+      "kind": "bridge",
+      "via": []
+    },
+    {
+      "a": "BS1",
+      "b": "S2",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "S2",
+      "b": "BS2",
+      "width": 4,
+      "kind": "outdoor",
+      "via": []
+    },
+    {
+      "a": "S1",
+      "b": "BN2",
+      "width": 4,
+      "kind": "outdoor",
+      "via": [
+        [
+          390,
+          263
+        ]
+      ]
+    },
+    {
+      "a": "N0",
+      "b": "N3",
+      "width": 3,
+      "kind": "shortcut",
+      "via": [
+        [
+          211,
+          62
+        ],
+        [
+          281,
+          53
+        ]
+      ],
+      "gate": "S-A"
+    },
+    {
+      "a": "W2",
+      "b": "RT1",
+      "width": 3,
+      "kind": "outdoor",
+      "via": [],
+      "relayApproach": "T1"
+    },
+    {
+      "a": "N0",
+      "b": "RT1",
+      "width": 3,
+      "kind": "outdoor",
+      "via": [
+        [
+          158,
+          120
+        ],
+        [
+          154,
+          126
+        ]
+      ],
+      "relayApproach": "T1"
+    },
+    {
+      "a": "E0",
+      "b": "RT2",
+      "width": 3,
+      "kind": "outdoor",
+      "via": [],
+      "relayApproach": "T2"
+    },
+    {
+      "a": "P0",
+      "b": "RT2",
+      "width": 3,
+      "kind": "outdoor",
+      "via": [],
+      "relayApproach": "T2"
+    },
+    {
+      "a": "S1",
+      "b": "RT3",
+      "width": 3,
+      "kind": "outdoor",
+      "via": [],
+      "relayApproach": "T3"
+    },
+    {
+      "a": "E1",
+      "b": "RT3",
+      "width": 3,
+      "kind": "outdoor",
+      "via": [
+        [
+          335,
+          260
+        ],
+        [
+          329,
+          270
+        ]
+      ],
+      "relayApproach": "T3"
+    }
+  ],
+  "spawns": [
+    {
+      "id": "B1",
+      "x": 20,
+      "y": 55,
+      "z": 2,
+      "kind": "basic",
+      "attach": "W0",
+      "attachWidth": 3
+    },
+    {
+      "id": "B2",
+      "x": 18,
+      "y": 200,
+      "z": 1,
+      "kind": "basic",
+      "attach": "W1",
+      "attachWidth": 3
+    },
+    {
+      "id": "B3",
+      "x": 29,
+      "y": 302,
+      "z": 0,
+      "kind": "basic",
+      "attach": "W4",
+      "attachWidth": 3
+    },
+    {
+      "id": "B4",
+      "x": 141,
+      "y": 329,
+      "z": 0,
+      "kind": "basic",
+      "attach": "W5",
+      "attachWidth": 3
+    },
+    {
+      "id": "R1",
+      "x": 152,
+      "y": 43,
+      "z": 7,
+      "kind": "risky",
+      "attach": "N0",
+      "attachWidth": 3,
+      "relay": "T1"
+    },
+    {
+      "id": "R2",
+      "x": 280,
+      "y": 139,
+      "z": 9,
+      "kind": "risky",
+      "attach": "N2",
+      "attachWidth": 3,
+      "relay": "T1"
+    },
+    {
+      "id": "R3",
+      "x": 351,
+      "y": 29,
+      "z": 12,
+      "kind": "risky",
+      "attach": "N3",
+      "attachWidth": 3,
+      "relay": "T2"
+    },
+    {
+      "id": "R4",
+      "x": 495,
+      "y": 157,
+      "z": 8,
+      "kind": "risky",
+      "attach": "P0",
+      "attachWidth": 3,
+      "relay": "T2"
+    },
+    {
+      "id": "R5",
+      "x": 505,
+      "y": 225,
+      "z": 1,
+      "kind": "risky",
+      "attach": "E2",
+      "attachWidth": 3,
+      "relay": "T2"
+    },
+    {
+      "id": "R6",
+      "x": 501,
+      "y": 338,
+      "z": 1,
+      "kind": "risky",
+      "attach": "BS2",
+      "attachWidth": 3,
+      "relay": "T3"
+    },
+    {
+      "id": "R7",
+      "x": 390,
+      "y": 381,
+      "z": 0,
+      "kind": "risky",
+      "attach": "S2",
+      "attachWidth": 3,
+      "relay": "T3"
+    },
+    {
+      "id": "R8",
+      "x": 202,
+      "y": 341,
+      "z": 0,
+      "kind": "risky",
+      "attach": "W5",
+      "attachWidth": 3,
+      "relay": "T3"
+    }
+  ],
+  "exits": [
+    {
+      "id": "X1",
+      "x": 64,
+      "y": 35,
+      "attach": "W0",
+      "attachWidth": 3,
+      "relayRequired": false
+    },
+    {
+      "id": "X2",
+      "x": 15,
+      "y": 245,
+      "attach": "W4",
+      "attachWidth": 3,
+      "relayRequired": false
+    },
+    {
+      "id": "X3",
+      "x": 91,
+      "y": 343,
+      "attach": "W4",
+      "attachWidth": 3,
+      "relayRequired": false
+    },
+    {
+      "id": "X4",
+      "x": 437,
+      "y": 37,
+      "attach": "N3",
+      "attachWidth": 3,
+      "relayRequired": false
+    },
+    {
+      "id": "X5",
+      "x": 507,
+      "y": 235,
+      "attach": "E2",
+      "attachWidth": 3,
+      "relayRequired": false
+    },
+    {
+      "id": "X6",
+      "x": 319,
+      "y": 389,
+      "attach": "BS1",
+      "attachWidth": 3,
+      "relayRequired": false
+    },
+    {
+      "id": "X7",
+      "x": 481,
+      "y": 369,
+      "attach": "S2",
+      "attachWidth": 3,
+      "relayRequired": false
+    }
+  ],
+  "buildings": [
+    {
+      "id": "CLINIC",
+      "label": "직원 진료소",
+      "poly": [
+        [
+          65,
+          65
+        ],
+        [
+          113,
+          53
+        ],
+        [
+          123,
+          93
+        ],
+        [
+          75,
+          105
+        ]
+      ],
+      "height": 4,
+      "doors": [
+        "C1",
+        "C2"
+      ],
+      "core": "G1"
+    },
+    {
+      "id": "TOOLS",
+      "label": "공구 정비점",
+      "poly": [
+        [
+          82,
+          184
+        ],
+        [
+          103,
+          184
+        ],
+        [
+          103,
+          205
+        ],
+        [
+          82,
+          205
+        ]
+      ],
+      "height": 1,
+      "doors": [
+        "TOOL"
+      ]
+    },
+    {
+      "id": "HALL",
+      "label": "중정비동",
+      "poly": [
+        [
+          220,
+          177
+        ],
+        [
+          300,
+          177
+        ],
+        [
+          300,
+          233
+        ],
+        [
+          220,
+          233
+        ]
+      ],
+      "height": 2,
+      "doors": [
+        "HN",
+        "HW",
+        "HE",
+        "HS"
+      ],
+      "core": "G4"
+    },
+    {
+      "id": "POWER",
+      "label": "전력·전장시설",
+      "poly": [
+        [
+          370,
+          65
+        ],
+        [
+          419,
+          79
+        ],
+        [
+          407,
+          121
+        ],
+        [
+          358,
+          107
+        ]
+      ],
+      "height": 12,
+      "doors": [
+        "P1",
+        "P2"
+      ],
+      "core": "G3"
+    },
+    {
+      "id": "PARTS",
+      "label": "정밀부품 창고",
+      "poly": [
+        [
+          400,
+          183
+        ],
+        [
+          448,
+          165
+        ],
+        [
+          469,
+          222
+        ],
+        [
+          421,
+          240
+        ]
+      ],
+      "height": 3,
+      "doors": [
+        "L1",
+        "L2"
+      ],
+      "core": "G2"
+    }
+  ],
+  "gates": [
+    {
+      "id": "G1",
+      "label": "약품 보관실",
+      "node": "C1",
+      "center": [
+        91,
+        77
+      ],
+      "size": [
+        12,
+        10
+      ],
+      "requirements": [
+        "K1"
+      ],
+      "source": [
+        "TOOL"
+      ],
+      "sourceDetail": "공구점 공개 정비기록 회수 → 거점에서 진료소 열쇠 지급",
+      "action": "열쇠로 보관실 개방",
+      "loot": "의료·기록",
+      "persistent": "열쇠 이용 권한",
+      "local": "매 출격 잠금 해제",
+      "boss": "없음",
+      "experience": {
+        "seconds": 8,
+        "noise": "낮음",
+        "cue": "공개 진료 복도에서 약품 표지와 자물쇠 확인",
+        "unlockSource": [
+          "TOOL"
+        ],
+        "localSource": []
+      },
+      "actionTimeIsPrototype": true
+    },
+    {
+      "id": "G2",
+      "label": "정밀 보안 케이지",
+      "node": "L1",
+      "center": [
+        444,
+        204
+      ],
+      "size": [
+        14,
+        14
+      ],
+      "requirements": [
+        "K2"
+      ],
+      "source": [
+        "W5",
+        "TOOL"
+      ],
+      "sourceDetail": "야적장 서측 공개 적치장 부품 회수 → 거점 제작대에서 절단 도구 제작",
+      "action": "현장 케이지 절단 / 소음 발생",
+      "loot": "광학·정밀",
+      "persistent": "도구 제작 해금",
+      "local": "도구 지참·절단",
+      "boss": "H2는 외부 순환, 필수 처치 아님",
+      "experience": {
+        "seconds": 25,
+        "noise": "높음",
+        "cue": "공개 하역장에서 보안 케이지와 절단 표시 확인",
+        "unlockSource": [
+          "W5"
+        ],
+        "localSource": [
+          "L1"
+        ]
+      },
+      "actionTimeIsPrototype": true
+    },
+    {
+      "id": "G3",
+      "label": "전력 코어실",
+      "node": "P1",
+      "center": [
+        398,
+        94
+      ],
+      "size": [
+        12,
+        14
+      ],
+      "requirements": [
+        "K3",
+        "A3"
+      ],
+      "source": [
+        "E2",
+        "P0"
+      ],
+      "sourceDetail": "동측 외곽 기록기 인증 데이터 회수 → 거점 등록; 공개 케이블 마당에서 현장 전원 복구",
+      "action": "인증 + 같은 출격의 전원 복구",
+      "loot": "전력·전장",
+      "persistent": "전력 인증",
+      "local": "마당 조작 A3",
+      "boss": "M2를 피하는 옹벽 접근로 제공",
+      "experience": {
+        "seconds": 20,
+        "noise": "중간",
+        "cue": "외부 전력 상태등과 격리실 인증 표지",
+        "unlockSource": [
+          "E2"
+        ],
+        "localSource": [
+          "P0"
+        ]
+      },
+      "actionTimeIsPrototype": true
+    },
+    {
+      "id": "G4",
+      "label": "상부 제어실",
+      "node": "HU",
+      "center": [
+        284,
+        188
+      ],
+      "size": [
+        16,
+        12
+      ],
+      "requirements": [
+        "K4",
+        "A4"
+      ],
+      "source": [
+        "W3",
+        "H0"
+      ],
+      "sourceDetail": "폐정비로 공개 정비 단말의 기록 회수 → 거점 정비 권한 등록; 홀 제어반 현장 재가동",
+      "action": "권한 + 홀 재가동 후 상부 계단 이동",
+      "loot": "기계 제어·정비",
+      "persistent": "정비 인증",
+      "local": "홀 조작 A4",
+      "boss": "M1은 남부 작업장, 홀 출입문 봉쇄 금지",
+      "experience": {
+        "seconds": 20,
+        "noise": "중간",
+        "cue": "홀 제어반과 상부 제어실 권한 표시",
+        "unlockSource": [
+          "W3"
+        ],
+        "localSource": [
+          "H0"
+        ]
+      },
+      "actionTimeIsPrototype": true
+    }
+  ],
+  "terrain": [
+    {
+      "id": "water",
+      "kind": "water",
+      "poly": [
+        [
+          253,
+          365
+        ],
+        [
+          319,
+          331
+        ],
+        [
+          344,
+          306
+        ],
+        [
+          417,
+          289
+        ],
+        [
+          469,
+          267
+        ],
+        [
+          520,
+          254
+        ],
+        [
+          520,
+          287
+        ],
+        [
+          478,
+          307
+        ],
+        [
+          429,
+          326
+        ],
+        [
+          379,
+          344
+        ],
+        [
+          327,
+          365
+        ],
+        [
+          287,
+          397
+        ],
+        [
+          253,
+          397
+        ]
+      ]
+    },
+    {
+      "id": "ridge",
+      "kind": "ridge",
+      "poly": [
+        [
+          175,
+          15
+        ],
+        [
+          327,
+          15
+        ],
+        [
+          331,
+          39
+        ],
+        [
+          302,
+          67
+        ],
+        [
+          259,
+          86
+        ],
+        [
+          221,
+          88
+        ],
+        [
+          197,
+          75
+        ],
+        [
+          176,
+          59
+        ]
+      ]
+    },
+    {
+      "id": "collapse",
+      "kind": "rubble",
+      "poly": [
+        [
+          137,
+          171
+        ],
+        [
+          160,
+          151
+        ],
+        [
+          177,
+          163
+        ],
+        [
+          173,
+          197
+        ],
+        [
+          149,
+          211
+        ],
+        [
+          133,
+          191
+        ]
+      ]
+    },
+    {
+      "id": "ruins",
+      "kind": "ruins",
+      "poly": [
+        [
+          42,
+          282
+        ],
+        [
+          86,
+          252
+        ],
+        [
+          109,
+          278
+        ],
+        [
+          100,
+          313
+        ],
+        [
+          60,
+          326
+        ]
+      ]
+    },
+    {
+      "id": "scrap",
+      "kind": "yard",
+      "poly": [
+        [
+          222,
+          274
+        ],
+        [
+          271,
+          272
+        ],
+        [
+          310,
+          301
+        ],
+        [
+          305,
+          322
+        ],
+        [
+          255,
+          336
+        ],
+        [
+          206,
+          309
+        ]
+      ]
+    }
+  ],
+  "patrols": [
+    {
+      "id": "H1",
+      "kind": "human",
+      "label": "서부 수색조",
+      "points": [
+        [
+          48,
+          180
+        ],
+        [
+          61,
+          150
+        ],
+        [
+          87,
+          151
+        ],
+        [
+          117,
+          222
+        ],
+        [
+          96,
+          246
+        ],
+        [
+          50,
+          232
+        ],
+        [
+          48,
+          180
+        ]
+      ],
+      "bossCandidate": true,
+      "behavior": "bounded-farming-exploration",
+      "permanentGarrison": false,
+      "extracts": false
+    },
+    {
+      "id": "H2",
+      "kind": "human",
+      "label": "동부 수색조",
+      "points": [
+        [
+          379,
+          179
+        ],
+        [
+          389,
+          144
+        ],
+        [
+          441,
+          143
+        ],
+        [
+          478,
+          179
+        ],
+        [
+          478,
+          237
+        ],
+        [
+          387,
+          246
+        ],
+        [
+          379,
+          179
+        ]
+      ],
+      "bossCandidate": true,
+      "behavior": "bounded-farming-exploration",
+      "permanentGarrison": false,
+      "extracts": false
+    },
+    {
+      "id": "H3",
+      "kind": "human",
+      "label": "남부 수색조",
+      "points": [
+        [
+          224,
+          287
+        ],
+        [
+          250,
+          278
+        ],
+        [
+          300,
+          303
+        ],
+        [
+          283,
+          320
+        ],
+        [
+          235,
+          316
+        ],
+        [
+          224,
+          287
+        ]
+      ],
+      "bossCandidate": false,
+      "behavior": "bounded-farming-exploration",
+      "permanentGarrison": false,
+      "extracts": false
+    }
+  ],
+  "encounters": [
+    {
+      "id": "M1",
+      "x": 291,
+      "y": 313,
+      "radius": 14
+    },
+    {
+      "id": "M2",
+      "x": 444,
+      "y": 114,
+      "radius": 14
+    },
+    {
+      "id": "M3",
+      "x": 446,
+      "y": 347,
+      "radius": 13
+    }
+  ],
+  "cover": [
+    {
+      "id": "V1",
+      "x": 188,
+      "y": 114,
+      "w": 9,
+      "h": 3,
+      "angle": 30,
+      "height": 2.2
+    },
+    {
+      "id": "V2",
+      "x": 313,
+      "y": 153,
+      "w": 10,
+      "h": 3,
+      "angle": 80,
+      "height": 2.4
+    },
+    {
+      "id": "V3",
+      "x": 331,
+      "y": 201,
+      "w": 9,
+      "h": 3,
+      "angle": 10,
+      "height": 2.2
+    },
+    {
+      "id": "V4",
+      "x": 382,
+      "y": 246,
+      "w": 10,
+      "h": 3,
+      "angle": 15,
+      "height": 2.4
+    },
+    {
+      "id": "V5",
+      "x": 354,
+      "y": 365,
+      "w": 9,
+      "h": 3,
+      "angle": 90,
+      "height": 2.2
+    },
+    {
+      "id": "V6",
+      "x": 79,
+      "y": 119,
+      "w": 10,
+      "h": 3,
+      "angle": 0,
+      "height": 2.4
+    },
+    {
+      "id": "RC1",
+      "x": 141,
+      "y": 134,
+      "w": 6,
+      "h": 0.8,
+      "angle": 90,
+      "height": 2.2,
+      "relay": "T1",
+      "purpose": "조작 자리 측면 차폐 후보; AI 시야는 미검증"
+    },
+    {
+      "id": "RC2",
+      "x": 365,
+      "y": 135,
+      "w": 6,
+      "h": 0.8,
+      "angle": 0,
+      "height": 2.2,
+      "relay": "T2",
+      "purpose": "조작 자리 측면 차폐 후보; AI 시야는 미검증"
+    },
+    {
+      "id": "RC3",
+      "x": 314,
+      "y": 264,
+      "w": 6,
+      "h": 0.8,
+      "angle": 90,
+      "height": 2.2,
+      "relay": "T3",
+      "purpose": "조작 자리 측면 차폐 후보; AI 시야는 미검증"
+    },
+    {
+      "id": "C01",
+      "x": 19.82,
+      "y": 66.18,
+      "w": 6,
+      "h": 0.8,
+      "angle": 154.36,
+      "height": 2.4,
+      "spawn": "B1",
+      "purpose": "진입 후 첫 차폐 후보; 실제 시야·감지 미검증"
+    },
+    {
+      "id": "C02",
+      "x": 26.94,
+      "y": 193.29,
+      "w": 6,
+      "h": 0.8,
+      "angle": 26.57,
+      "height": 2.4,
+      "spawn": "B2",
+      "purpose": "진입 후 첫 차폐 후보; 실제 시야·감지 미검증"
+    },
+    {
+      "id": "C03",
+      "x": 39.66,
+      "y": 298.63,
+      "w": 6,
+      "h": 0.8,
+      "angle": 45.88,
+      "height": 2.4,
+      "spawn": "B3",
+      "purpose": "진입 후 첫 차폐 후보; 실제 시야·감지 미검증"
+    },
+    {
+      "id": "C04",
+      "x": 151,
+      "y": 324,
+      "w": 6,
+      "h": 0.8,
+      "angle": 36.87,
+      "height": 2.4,
+      "spawn": "B4",
+      "purpose": "진입 후 첫 차폐 후보; 실제 시야·감지 미검증"
+    },
+    {
+      "id": "C05",
+      "x": 150.08,
+      "y": 54.02,
+      "w": 6,
+      "h": 0.8,
+      "angle": 163.3,
+      "height": 2.4,
+      "spawn": "R1",
+      "purpose": "진입 후 첫 차폐 후보; 실제 시야·감지 미검증"
+    },
+    {
+      "id": "C06",
+      "x": 289.3,
+      "y": 132.8,
+      "w": 6,
+      "h": 0.8,
+      "angle": 29.74,
+      "height": 2.4,
+      "spawn": "R2",
+      "purpose": "진입 후 첫 차폐 후보; 실제 시야·감지 미검증"
+    },
+    {
+      "id": "C07",
+      "x": 343.77,
+      "y": 37.53,
+      "w": 6,
+      "h": 0.8,
+      "angle": 193.71,
+      "height": 2.4,
+      "spawn": "R3",
+      "purpose": "진입 후 첫 차폐 후보; 실제 시야·감지 미검증"
+    },
+    {
+      "id": "C08",
+      "x": 488.52,
+      "y": 147.89,
+      "w": 6,
+      "h": 0.8,
+      "angle": -61.99,
+      "height": 2.4,
+      "spawn": "R4",
+      "purpose": "진입 후 첫 차폐 후보; 실제 시야·감지 미검증"
+    },
+    {
+      "id": "C09",
+      "x": 495.4,
+      "y": 230.73,
+      "w": 6,
+      "h": 0.8,
+      "angle": 212.62,
+      "height": 2.4,
+      "spawn": "R5",
+      "purpose": "진입 후 첫 차폐 후보; 실제 시야·감지 미검증"
+    },
+    {
+      "id": "C10",
+      "x": 494.67,
+      "y": 328.79,
+      "w": 6,
+      "h": 0.8,
+      "angle": -61.07,
+      "height": 2.4,
+      "spawn": "R6",
+      "purpose": "진입 후 첫 차폐 후보; 실제 시야·감지 미검증"
+    },
+    {
+      "id": "C11",
+      "x": 400.78,
+      "y": 378.03,
+      "w": 6,
+      "h": 0.8,
+      "angle": 48.01,
+      "height": 2.4,
+      "spawn": "R7",
+      "purpose": "진입 후 첫 차폐 후보; 실제 시야·감지 미검증"
+    },
+    {
+      "id": "C12",
+      "x": 200.3,
+      "y": 329.95,
+      "w": 6,
+      "h": 0.8,
+      "angle": -35.31,
+      "height": 2.4,
+      "spawn": "R8",
+      "purpose": "진입 후 첫 차폐 후보; 실제 시야·감지 미검증"
+    }
+  ],
+  "shortcut": {
+    "id": "S-A",
+    "requirements": [
+      "REPAIR_A"
+    ],
+    "source": "W2",
+    "description": "서부 작업마당에서 수리 자재 확보; N0 사면 계단 복구. 북쪽 산등성이 지름길만 개방, 기본 북측 횡단로는 유지."
+  },
+  "quest": {
+    "id": "Q",
+    "node": "E2",
+    "requires": [],
+    "label": "외곽 기록 회수"
+  },
+  "architecture": {
+    "hall": {
+      "groundZ": 2,
+      "upperZ": 6,
+      "footprint": [
+        220,
+        177,
+        80,
+        56
+      ],
+      "doorWidths": {
+        "HN": 3,
+        "HS": 3,
+        "HW": 8,
+        "HE": 8
+      },
+      "pits": [
+        [
+          237,
+          188,
+          7,
+          13
+        ],
+        [
+          273,
+          211,
+          7,
+          15
+        ]
+      ],
+      "pitDepth": 2.4,
+      "stair": {
+        "start": [
+          272,
+          199,
+          2
+        ],
+        "end": [
+          272,
+          193,
+          6
+        ],
+        "width": 2.4,
+        "run": 6,
+        "rise": 4,
+        "risers": 24,
+        "tread": 0.25
+      },
+      "upperLanding": [
+        269.5,
+        190.5,
+        5,
+        5
+      ],
+      "upperWalk": [
+        [
+          272,
+          193
+        ],
+        [
+          272,
+          188
+        ],
+        [
+          276,
+          188
+        ]
+      ],
+      "upperWalkWidth": 2.4,
+      "upperCore": [
+        276,
+        182,
+        16,
+        12
+      ],
+      "coreDoor": [
+        276,
+        188
+      ],
+      "coreDoorWidth": 1.6,
+      "notes": [
+        "상부 G4는 바닥·벽·천장 있는 폐쇄실",
+        "피트 추락 방지 난간·하부 진입 계단은 다음 상세 설계",
+        "상부 통로와 계단에 양측 난간 필요",
+        "계단 높이 4m/24단; 런6m는 계획 치수"
+      ]
+    }
+  },
+  "notes": [
+    "기계 점령 지상 / 인간은 제한 구역 파밍·수색·순찰하며 철수하지 않음",
+    "520×400m 제안 도면; Unity 실행·수정 없음",
+    "B 기본 / R 선택 위험 진입 / T 개인 중계망 / X 플레이어 탈출 / G 별도 시설 핵심실",
+    "위험 진입 OFF=B; ON=B+해금 R. 장비 가치와 지역 위험 범위 선택 메뉴 없음",
+    "지도 미해금에도 도보 횡단 가능. 지도 정보 영역은 물리 장벽이 아님",
+    "중계망 해금은 G1-G4 핵심실, 현장 전원 A3/A4, 수리 지름길 S-A와 독립",
+    "치수는 통행 계획값. 지형 고도 보간, NavMesh, 실제 시야·AI·전투·저장은 후속 검증",
+    "정보 영역은 겹침을 허용하며 초기 기본 정보와 개인 탐사 흔적이 합쳐짐"
+  ],
+  "relays": [
+    {
+      "id": "T1",
+      "node": "RT1",
+      "label": "북부 통신함",
+      "x": 148,
+      "y": 123,
+      "z": 4,
+      "approaches": [
+        "W2",
+        "N0"
+      ],
+      "unlocks": [
+        "R1",
+        "R2"
+      ],
+      "infoLabel": "북측 사면·중앙 접근 정보",
+      "site": [
+        144,
+        120,
+        8,
+        6
+      ],
+      "console": [
+        147,
+        120.2,
+        2,
+        1
+      ],
+      "interaction": [
+        147,
+        122,
+        2,
+        2
+      ],
+      "approachWidth": 3,
+      "interactSeconds": 12,
+      "prototype": true,
+      "requires": [],
+      "bossKillRequired": false,
+      "siteSlopeMaxPercent": 2
+    },
+    {
+      "id": "T2",
+      "node": "RT2",
+      "label": "동부 중계기",
+      "x": 366,
+      "y": 143,
+      "z": 7,
+      "approaches": [
+        "E0",
+        "P0"
+      ],
+      "unlocks": [
+        "R3",
+        "R4",
+        "R5"
+      ],
+      "infoLabel": "전력시설·동부 창고 접근 정보",
+      "site": [
+        362,
+        140,
+        8,
+        6
+      ],
+      "console": [
+        365,
+        140.2,
+        2,
+        1
+      ],
+      "interaction": [
+        365,
+        142,
+        2,
+        2
+      ],
+      "approachWidth": 3,
+      "interactSeconds": 12,
+      "prototype": true,
+      "requires": [],
+      "bossKillRequired": false,
+      "siteSlopeMaxPercent": 2
+    },
+    {
+      "id": "T3",
+      "node": "RT3",
+      "label": "배수 점검 단말",
+      "x": 322,
+      "y": 267,
+      "z": 1,
+      "approaches": [
+        "S1",
+        "E1"
+      ],
+      "unlocks": [
+        "R6",
+        "R7",
+        "R8"
+      ],
+      "infoLabel": "남부 야적장·남동 수로 정보",
+      "site": [
+        318,
+        264,
+        8,
+        6
+      ],
+      "console": [
+        321,
+        264.2,
+        2,
+        1
+      ],
+      "interaction": [
+        321,
+        266,
+        2,
+        2
+      ],
+      "approachWidth": 3,
+      "interactSeconds": 12,
+      "prototype": true,
+      "requires": [],
+      "bossKillRequired": false,
+      "siteSlopeMaxPercent": 2
+    }
+  ],
+  "revealRegions": [
+    {
+      "id": "BASE",
+      "label": "기본 서부 정보",
+      "relay": null,
+      "poly": [
+        [
+          0,
+          0
+        ],
+        [
+          150,
+          0
+        ],
+        [
+          160,
+          60
+        ],
+        [
+          151,
+          121
+        ],
+        [
+          185,
+          155
+        ],
+        [
+          201,
+          237
+        ],
+        [
+          189,
+          286
+        ],
+        [
+          217,
+          349
+        ],
+        [
+          236,
+          400
+        ],
+        [
+          0,
+          400
+        ]
+      ]
+    },
+    {
+      "id": "INFO_T1",
+      "label": "북부·중앙",
+      "relay": "T1",
+      "poly": [
+        [
+          130,
+          0
+        ],
+        [
+          360,
+          0
+        ],
+        [
+          359,
+          77
+        ],
+        [
+          337,
+          126
+        ],
+        [
+          352,
+          168
+        ],
+        [
+          326,
+          238
+        ],
+        [
+          276,
+          259
+        ],
+        [
+          196,
+          266
+        ],
+        [
+          173,
+          192
+        ],
+        [
+          133,
+          136
+        ],
+        [
+          140,
+          69
+        ]
+      ]
+    },
+    {
+      "id": "INFO_T2",
+      "label": "동부 시설 접근",
+      "relay": "T2",
+      "poly": [
+        [
+          337,
+          0
+        ],
+        [
+          520,
+          0
+        ],
+        [
+          520,
+          274
+        ],
+        [
+          470,
+          285
+        ],
+        [
+          411,
+          274
+        ],
+        [
+          366,
+          285
+        ],
+        [
+          326,
+          246
+        ],
+        [
+          329,
+          181
+        ],
+        [
+          317,
+          131
+        ],
+        [
+          340,
+          77
+        ]
+      ]
+    },
+    {
+      "id": "INFO_T3",
+      "label": "남부·침수 회수로",
+      "relay": "T3",
+      "poly": [
+        [
+          180,
+          246
+        ],
+        [
+          224,
+          252
+        ],
+        [
+          274,
+          239
+        ],
+        [
+          319,
+          238
+        ],
+        [
+          362,
+          258
+        ],
+        [
+          419,
+          254
+        ],
+        [
+          475,
+          246
+        ],
+        [
+          520,
+          244
+        ],
+        [
+          520,
+          400
+        ],
+        [
+          189,
+          400
+        ],
+        [
+          185,
+          344
+        ],
+        [
+          167,
+          295
+        ]
+      ]
+    }
+  ],
+  "spawnPolicy": {
+    "defaultRiskyIncluded": false,
+    "basic": [
+      "B1",
+      "B2",
+      "B3",
+      "B4"
+    ],
+    "equipmentValueUsed": false,
+    "regionRiskMenu": false,
+    "unlockedOnly": true,
+    "poolTiming": "next-deployment",
+    "weighting": "uniform-reference-only",
+    "runtimeFilter": "reservation-and-immediate-threat-check",
+    "noSafeCandidate": "hold-or-cancel-never-promote-to-locked-or-unselected-R"
+  },
+  "relayProtocol": {
+    "profileScope": "per-player",
+    "initial": "offline",
+    "interactionSeconds": 12,
+    "interruptBeforeComplete": "no-unlock",
+    "completion": "persist-info-and-entry-permission-atomically",
+    "deathAfterCompletion": "retain",
+    "repeat": "idempotent",
+    "applyMap": "immediate-after-upload",
+    "applySpawn": "next-deployment",
+    "currentRaidRelocation": false,
+    "requiresExtraction": false,
+    "changesCoreGates": false,
+    "globalTerritoryControl": false
+  }
+}

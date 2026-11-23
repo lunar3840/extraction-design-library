@@ -1,0 +1,1 @@
+catalogThumbnails=30; directory=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-09-24/a-map-user-assets-v16/catalog

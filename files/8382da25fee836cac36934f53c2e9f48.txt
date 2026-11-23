@@ -1,0 +1,2 @@
+2026-10-12T19:20:53.2081985+09:00
+Fresh Unity captures, same retained A scene and resource prefab. No D06 placement yet.

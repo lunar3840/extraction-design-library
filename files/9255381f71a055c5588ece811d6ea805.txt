@@ -1,0 +1,6 @@
+2026-10-07T09:23:23.3226514Z
+playing=False
+scene=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity
+sceneDirty=False
+geometry=PASS
+prefab=UNCHANGED

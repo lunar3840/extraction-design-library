@@ -1,0 +1,368 @@
+[
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingV33\\Reveal\\BuildingV33LocalReveal.shader",
+    "before": "9834B4769BA6D067BB622BE495A06AB331ADBA1AA1D451B4EDCD07E2494DCE48",
+    "after": "4AA5BA99F3CBF3F89C68C53F9FDC099C486FA776F4184B94B358459FCCEBE27A",
+    "changed": true
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Materials.meta",
+    "before": "824125FC54249D7E0B05DADA6246C8B83C9200F6A749D6752291DE79DB9EF2EF",
+    "after": "824125FC54249D7E0B05DADA6246C8B83C9200F6A749D6752291DE79DB9EF2EF",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Materials\\A34_DryLeaf.mat",
+    "before": "B0E3AEA8C08C3B2DC4E2DE41E104FDD211E69AF70B833AB6B797A64F79B3A293",
+    "after": "B0E3AEA8C08C3B2DC4E2DE41E104FDD211E69AF70B833AB6B797A64F79B3A293",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Materials\\A34_DryLeaf.mat.meta",
+    "before": "6914B754382D208EC3EEA6AD1C529DB320A3D1DE885723AEE5E47192D02BAD3C",
+    "after": "6914B754382D208EC3EEA6AD1C529DB320A3D1DE885723AEE5E47192D02BAD3C",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Materials\\A34_IvyLeaf.mat",
+    "before": "A30FE83E0A1EE41276252B1F86A4EC213E53192ED33BCB6FC44D526974EA5D9F",
+    "after": "A30FE83E0A1EE41276252B1F86A4EC213E53192ED33BCB6FC44D526974EA5D9F",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Materials\\A34_IvyLeaf.mat.meta",
+    "before": "8AE60007F543A6B168D6E860400F7C5864A65B4A0FBB051F7789E59069782BE1",
+    "after": "8AE60007F543A6B168D6E860400F7C5864A65B4A0FBB051F7789E59069782BE1",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Materials\\A34_Paving.mat",
+    "before": "5400B9D7F3E011A6F043BA1142AF7E2F4DD81D35F4740D989370B7F537771C1E",
+    "after": "5400B9D7F3E011A6F043BA1142AF7E2F4DD81D35F4740D989370B7F537771C1E",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Materials\\A34_Paving.mat.meta",
+    "before": "3973A42639D5C90DB0C2FC8620C86AF3C5B97527867F2C6C118B94628ED8505B",
+    "after": "3973A42639D5C90DB0C2FC8620C86AF3C5B97527867F2C6C118B94628ED8505B",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Materials\\A34_PlasterChip.mat",
+    "before": "FAE1BF566AF37597C53FBE0CC7AA23108C8A9208746EEF4A1832EA9A04FD09D7",
+    "after": "FAE1BF566AF37597C53FBE0CC7AA23108C8A9208746EEF4A1832EA9A04FD09D7",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Materials\\A34_PlasterChip.mat.meta",
+    "before": "353E583E8AF61B8B70E2B7A1D5EAD620ECCE3EF7BC607D8D93E98F9A756394DE",
+    "after": "353E583E8AF61B8B70E2B7A1D5EAD620ECCE3EF7BC607D8D93E98F9A756394DE",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Materials\\A34_Root.mat",
+    "before": "F9190165A1579F1E7515B91FE7A61DF0B2D643BAF541849A418234D2BF713E27",
+    "after": "F9190165A1579F1E7515B91FE7A61DF0B2D643BAF541849A418234D2BF713E27",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Materials\\A34_Root.mat.meta",
+    "before": "D083C44E065DD42D64455993C1E0A558601EDFBCAFD98B8B9CAA5033386EEB5E",
+    "after": "D083C44E065DD42D64455993C1E0A558601EDFBCAFD98B8B9CAA5033386EEB5E",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Materials\\A34_Soil.mat",
+    "before": "7575B5F30459A5590860A2FC3AA040B80970A65DB977B5D9A3374B58B33148E7",
+    "after": "7575B5F30459A5590860A2FC3AA040B80970A65DB977B5D9A3374B58B33148E7",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Materials\\A34_Soil.mat.meta",
+    "before": "025689B7492698FBB2A9A4864C7D27C06A9B5F3AA78EE79203BF5BF87836084D",
+    "after": "025689B7492698FBB2A9A4864C7D27C06A9B5F3AA78EE79203BF5BF87836084D",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Materials\\A34_Substrate.mat",
+    "before": "2A78C8FA4900C2C1FFD504BF2D57081C29498A8306F3F3BBF4BC4F5C3B65EB8E",
+    "after": "2A78C8FA4900C2C1FFD504BF2D57081C29498A8306F3F3BBF4BC4F5C3B65EB8E",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Materials\\A34_Substrate.mat.meta",
+    "before": "B3FA989500821AE564ACDAE2A4D5EF002337F2B1D025A388FB461EC117434A5D",
+    "after": "B3FA989500821AE564ACDAE2A4D5EF002337F2B1D025A388FB461EC117434A5D",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Materials\\A34_Wet.mat",
+    "before": "4DFFAAC0BA940A931179ECBD45DFCCE245EA0B666436A78708C796BC9DE3B78E",
+    "after": "4DFFAAC0BA940A931179ECBD45DFCCE245EA0B666436A78708C796BC9DE3B78E",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Materials\\A34_Wet.mat.meta",
+    "before": "13593D6F99CEB35702C19B1CDCE65C98F06B1B531626713B21D6C5B587D6A2E7",
+    "after": "13593D6F99CEB35702C19B1CDCE65C98F06B1B531626713B21D6C5B587D6A2E7",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Meshes.meta",
+    "before": "9AD073A57B8B4909A2722A18F0D21966194FFA5CD5365C3171F8186A9BA7D750",
+    "after": "9AD073A57B8B4909A2722A18F0D21966194FFA5CD5365C3171F8186A9BA7D750",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Meshes\\A34_Debris.asset",
+    "before": "69CE3EDEED0BA8CF1473D5B67AD6B4188B53D94DFFDCA7968BBA68385EFC18D6",
+    "after": "69CE3EDEED0BA8CF1473D5B67AD6B4188B53D94DFFDCA7968BBA68385EFC18D6",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Meshes\\A34_Debris.asset.meta",
+    "before": "1B5B13C629D0498FFD5E2AE2806E3F3B9F7770FC0FFFC3CDF3DD5E133F3A36CD",
+    "after": "1B5B13C629D0498FFD5E2AE2806E3F3B9F7770FC0FFFC3CDF3DD5E133F3A36CD",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Meshes\\A34_Ground.asset",
+    "before": "777B9A58A4A4B0FCF1498DF2CFAC2D2104CAF60663EAF4F276E2A97F1F4E4B36",
+    "after": "777B9A58A4A4B0FCF1498DF2CFAC2D2104CAF60663EAF4F276E2A97F1F4E4B36",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Meshes\\A34_Ground.asset.meta",
+    "before": "B76720489BAF8A916725C4EFB1F2B152B76EA31FB8A3F2E31EC9237A1A1A8CA6",
+    "after": "B76720489BAF8A916725C4EFB1F2B152B76EA31FB8A3F2E31EC9237A1A1A8CA6",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Meshes\\A34_GrowthLeaf.asset",
+    "before": "2226ED9661AE61CD2D01EE5742DDBD1182401E8BE8CC58169F6C7C4EF3DE8D7F",
+    "after": "2226ED9661AE61CD2D01EE5742DDBD1182401E8BE8CC58169F6C7C4EF3DE8D7F",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Meshes\\A34_GrowthLeaf.asset.meta",
+    "before": "597A85FBF5675A24AC94845A34100E354A0A40B0E39086BA08E200B4F46B50DA",
+    "after": "597A85FBF5675A24AC94845A34100E354A0A40B0E39086BA08E200B4F46B50DA",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Meshes\\A34_GrowthStem.asset",
+    "before": "DC2F9AF6AE29941DC064AC60C06621449E9C2ED646803DA63D8D776BB39EA91A",
+    "after": "DC2F9AF6AE29941DC064AC60C06621449E9C2ED646803DA63D8D776BB39EA91A",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Meshes\\A34_GrowthStem.asset.meta",
+    "before": "E3701AFCBD6F9CA44612D44FB6B3C094D1B468B953FBC95247EFBC7772EC8FAF",
+    "after": "E3701AFCBD6F9CA44612D44FB6B3C094D1B468B953FBC95247EFBC7772EC8FAF",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Meshes\\A34_PlasterLoss.asset",
+    "before": "27F64C742C28455071505FE370F3CBEFF2E103E9F7FFD862E3F9AAD8C850CA93",
+    "after": "27F64C742C28455071505FE370F3CBEFF2E103E9F7FFD862E3F9AAD8C850CA93",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Meshes\\A34_PlasterLoss.asset.meta",
+    "before": "1488B580C4A534CD6C94E4E91700DBBF8FA29019F6B6F6D8953C27DB76E9AD81",
+    "after": "1488B580C4A534CD6C94E4E91700DBBF8FA29019F6B6F6D8953C27DB76E9AD81",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Meshes\\A34_Roots.asset",
+    "before": "04CFD73018D85A543917FA0DC416A30A8AB93C6BEC1A0751D670A7731E7F8C57",
+    "after": "04CFD73018D85A543917FA0DC416A30A8AB93C6BEC1A0751D670A7731E7F8C57",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\ClinicMoodTrial20261030\\Meshes\\A34_Roots.asset.meta",
+    "before": "F245F74FEA99D0B2AD00127E01ACA7F21D71155A559CB1A6AA88794B16909090",
+    "after": "F245F74FEA99D0B2AD00127E01ACA7F21D71155A559CB1A6AA88794B16909090",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\LookV16\\LookV16Volume.asset",
+    "before": "9FEA9D3B4374E65428020FD3C8D2EB547E138E946F916F240B5FEB3907037998",
+    "after": "9FEA9D3B4374E65428020FD3C8D2EB547E138E946F916F240B5FEB3907037998",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\SubcultureD15\\CharacterHybridD15.shader",
+    "before": "A841211530B0684DCB35ED1C5E8EB21B5998618CF8ADC0955A158E3D1E0A2179",
+    "after": "A841211530B0684DCB35ED1C5E8EB21B5998618CF8ADC0955A158E3D1E0A2179",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\SurfaceWeathering\\WeatheredLit.shader",
+    "before": "2070A9FB8B131A399E452B36F3C34F4F568961529774CDEFBE203A124CFF2A49",
+    "after": "2070A9FB8B131A399E452B36F3C34F4F568961529774CDEFBE203A124CFF2A49",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Toon\\HybridToon.shader",
+    "before": "F8849FF9755225CA99F5948EC93E4E165E58E3B8C3B4A7821595BF1178B92B10",
+    "after": "F8849FF9755225CA99F5948EC93E4E165E58E3B8C3B4A7821595BF1178B92B10",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Toon\\ToonOutline.shader",
+    "before": "326171A4EFB712DBE1D2939E4BDF7F73E288DB2E679C3523AEAD5CEA588DB3D9",
+    "after": "6C8B9D54405E31C55E209F902A60CD14CE81E6DED362B96F32415A42FE64BDA8",
+    "changed": true
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\WeatherV38\\Puddles\\StageAPuddlesV38.shader",
+    "before": "AB239C7E71CE17FB196A377BAB8CA3D699FBA944FE09B4A659A0D07AF790E075",
+    "after": "AB239C7E71CE17FB196A377BAB8CA3D699FBA944FE09B4A659A0D07AF790E075",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\Environment\\SurfaceIvyGenerator.cs",
+    "before": "25D7CC942906FAF6789622AAAB1518841A8916F079BA95D00D61D0144176FB3B",
+    "after": "25D7CC942906FAF6789622AAAB1518841A8916F079BA95D00D61D0144176FB3B",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\ToonArtBuild.cs",
+    "before": "2340EFD6F8D3BE23316256A6D8FB8A335808EE48282A36F7E609BAF1D60F5A61",
+    "after": "2340EFD6F8D3BE23316256A6D8FB8A335808EE48282A36F7E609BAF1D60F5A61",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\EscapeVision\\BuildingV33ActorMask.shader",
+    "before": "A896F27A5202D92DC041B126E4E620456F457D320BAADA1F3F52E422F296FA5B",
+    "after": "A896F27A5202D92DC041B126E4E620456F457D320BAADA1F3F52E422F296FA5B",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\StageMaps\\StageA_Relay_Blockout_v08.prefab",
+    "before": "5AA7D3B756EA7F7B0DAB2AF2E31EF19761981714C0D54E0302882C131C8DDA97",
+    "after": "5AA7D3B756EA7F7B0DAB2AF2E31EF19761981714C0D54E0302882C131C8DDA97",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Combat\\CombatFeedbackAudio.cs",
+    "before": "42167865854915D2B8161A310DB879A2626D6C9381FF96A9EFDB82BA9E4C1A22",
+    "after": "42167865854915D2B8161A310DB879A2626D6C9381FF96A9EFDB82BA9E4C1A22",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Combat\\CombatFeedbackHud.cs",
+    "before": "D545CB81754CE3FA336C4BDC044205D11FA8FBEA39A96373326B621572EBA151",
+    "after": "D545CB81754CE3FA336C4BDC044205D11FA8FBEA39A96373326B621572EBA151",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Environment\\AMapRuinIvyRevealBinding.cs",
+    "before": "4B2565424495F061324D5DDC7B70A17E0E29C1FDC457D19D1D806F41A0F71367",
+    "after": "4B2565424495F061324D5DDC7B70A17E0E29C1FDC457D19D1D806F41A0F71367",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Environment\\AMapRuinWeatheringBinding.cs",
+    "before": "268FE5FA517A6C4D163101C5355F4A6456699CCB1D29147C2105AE57FF46C224",
+    "after": "268FE5FA517A6C4D163101C5355F4A6456699CCB1D29147C2105AE57FF46C224",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Environment\\SurfaceIvyInstance.cs",
+    "before": "05102BFFE52312C33048895297D9F3B982DBB5B8003DA7FB155CFAD7CE41A3B7",
+    "after": "05102BFFE52312C33048895297D9F3B982DBB5B8003DA7FB155CFAD7CE41A3B7",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Stage\\Blockout\\StageABuildingV33Reveal.cs",
+    "before": "F111015D27458340EAD4746CBEBAB46E52DF9694C402371A61ADE166A07F02E1",
+    "after": "A5F9ADFCFC273A72F1351ED54F150468CFFC5AF1FD1FC1F2957A1C5F2BB05BBF",
+    "changed": true
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Stage\\Blockout\\StageAGraphicsV31Environment.cs",
+    "before": "26A0A1EB95A9C4260ACAC1507F0FDA3F07EF318185C4DC8F1796D9F88D6C9A4A",
+    "after": "26A0A1EB95A9C4260ACAC1507F0FDA3F07EF318185C4DC8F1796D9F88D6C9A4A",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Stage\\Blockout\\StageAHallV24OccludedPlayerSilhouette.cs",
+    "before": "D97AB10C9A2B5B4B1788A55D4ECA6A30AE68F7245CA60151349523F426791E76",
+    "after": "D97AB10C9A2B5B4B1788A55D4ECA6A30AE68F7245CA60151349523F426791E76",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Stage\\Blockout\\StageALookV16Atmosphere.cs",
+    "before": "B8C592B609F36A310F2C7F3F1A1FEE10D4B0E03CF2F5F49D90BDD474FBBE65F3",
+    "after": "B8C592B609F36A310F2C7F3F1A1FEE10D4B0E03CF2F5F49D90BDD474FBBE65F3",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Stage\\Blockout\\StageAWestD02OccludedPlayerSilhouette.cs",
+    "before": "FECE045974A89AE68EAB7F33729B357768372F2E6EEADDFCEE7645D2D1E29C3F",
+    "after": "FECE045974A89AE68EAB7F33729B357768372F2E6EEADDFCEE7645D2D1E29C3F",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Stage\\Blockout\\StageMapRouter.cs",
+    "before": "BFA99CCFC3FC1555796A825D07A2B7580DE81276D67311F8DEF0230D1C0AE72B",
+    "after": "BFA99CCFC3FC1555796A825D07A2B7580DE81276D67311F8DEF0230D1C0AE72B",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\TopDownCamera.cs",
+    "before": "5AB46C51A14BB6DA9FB27AA00B0B52D25984EA1915B80C564BE0EB19AE6AA7F2",
+    "after": "5AB46C51A14BB6DA9FB27AA00B0B52D25984EA1915B80C564BE0EB19AE6AA7F2",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\UI\\WeaponModelThumbnails.cs",
+    "before": "0BD58E67A3471F16191A18E1F831D3887FAC5E23ADC9405704DE6E1ED3EE6334",
+    "after": "0BD58E67A3471F16191A18E1F831D3887FAC5E23ADC9405704DE6E1ED3EE6334",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Visuals\\ToonCharacterStyle.cs",
+    "before": "206E6A2D738685890D57505369F948C9B334D27B59927C6D570DB41DFA9AB7FB",
+    "after": "206E6A2D738685890D57505369F948C9B334D27B59927C6D570DB41DFA9AB7FB",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Visuals\\ToonOutlineCamera.cs",
+    "before": "F46FE3AA3FAC3FA6463E42B0B64EA0733453FF689FD273CAC9C1B7447859D30B",
+    "after": "F46FE3AA3FAC3FA6463E42B0B64EA0733453FF689FD273CAC9C1B7447859D30B",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Visuals\\ToonOutlineFeature.cs",
+    "before": "413E735EAF936B386BC599AD3BC1B020C6C5ED4BCE9C450F8742C77A2F8C5321",
+    "after": "4D00B3127654C41F602CF8C6ED1A0E49BCC18B95A67442E02A238DE85F644252",
+    "changed": true
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Scenes\\StageA_Relay_Blockout_v08.unity",
+    "before": "D6BEF4B5C64FF3D1D2498FA502E3DDCA0B4E1D94D91E693D7C165D3A341BF220",
+    "after": "D6BEF4B5C64FF3D1D2498FA502E3DDCA0B4E1D94D91E693D7C165D3A341BF220",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Settings\\PlayerDefaults.asset",
+    "before": "FF958978BF348140D5D1460E08A9401D586CB8CF2E0A9266FC0663A6F9EBE8D3",
+    "after": "FF958978BF348140D5D1460E08A9401D586CB8CF2E0A9266FC0663A6F9EBE8D3",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Settings\\PC_Renderer.asset",
+    "before": "076F074C67B3E3ECDB0FCC2E868B99F00598859E0A6DBF738AE05FF098B4B26E",
+    "after": "076F074C67B3E3ECDB0FCC2E868B99F00598859E0A6DBF738AE05FF098B4B26E",
+    "changed": false
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Settings\\PC_RPAsset.asset",
+    "before": "190681FE355FE27B2BC89D629263F637058E79B4D9748B562010A25E78153DFB",
+    "after": "190681FE355FE27B2BC89D629263F637058E79B4D9748B562010A25E78153DFB",
+    "changed": false
+  }
+]

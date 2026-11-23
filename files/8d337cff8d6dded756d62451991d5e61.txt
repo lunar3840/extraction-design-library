@@ -1,0 +1,18 @@
+STAGE_A_NAVIGATION_V17_ACTUAL_PLAY
+startedUtc=2026-09-24T01:22:59.5161805Z
+baseline B2->X6 public calculated=True status=PathPartial
+PASS live Stage A agent spawned at B2=(-242.00, 1.04, 0.00) X6=(59.00, 0.04, -189.00)
+testOnlyPatrolSpeed=32.0m/s
+plannedWaypointsIncludingX6=9
+PASS waypoint 0 reached at (-185.58, 0.60, -20.04)
+PASS waypoint 1 reached at (-150.00, 0.77, -44.04)
+PASS waypoint 2 reached at (-133.92, 0.60, -55.56)
+PASS waypoint 3 reached at (-117.78, 0.14, -67.44)
+PASS waypoint 4 reached at (-91.71, 0.36, -73.12)
+PASS waypoint 5 reached at (-54.26, 0.30, -84.82)
+PASS waypoint 6 reached at (0.72, 0.00, -97.08)
+PASS waypoint 7 reached at (116.22, 0.06, -157.56)
+PASS B2->X6 actual EnemyController/NavMeshAgent arrived at X6, remaining=1.38m elapsed=29.9s waypoints=9 firstLegDestination=(-185.58, 0.60, -20.04)
+goalChangedTo=B2 at=(60.21, 0.04, -188.34)
+PASS changed goal immediately replaced X6 route with B2 route, firstLeg=(-242.00, 1.04, 0.00) newWaypoints=0 status=PathComplete
+RESULT PASS

@@ -1,0 +1,10 @@
+START 2026-10-30T08:52:17.6647633Z
+command=preview
+CLINIC_INTERTWINED_PREVIEW_NO_ASSET_MUTATION
+wallStemSegments=308 wallLeaves=355 roofStemSegments=2985 roofLeaves=5175 rootContactMeters=0.157,0.154,0.097,0.071 rootContactCoordinates=0:(-172.37, 4.72, 140.94)→(-172.25, 4.80, 141.01)|1:(-168.85, 4.72, 141.82)→(-168.75, 4.80, 141.91)|2:(-167.95, 4.79, 142.02)→(-168.00, 4.80, 142.11)|3:(-165.44, 4.79, 142.65)→(-165.50, 4.80, 142.69)
+wallTriangles=13500 wallVertices=15648 roofTriangles=154050 directSetterCloneProof=4/4
+wallIntertwine=segments=308 sampledStride=1 projectedCrossings=24 layeredCrossings=21
+roofIntertwine=segments=2985 sampledStride=1 projectedCrossings=388 layeredCrossings=309 nearRoofContact=2930/2967 downwardStemSegments=41
+RESULT PASS_PREVIEW_ONLY
+
+COMPLETE

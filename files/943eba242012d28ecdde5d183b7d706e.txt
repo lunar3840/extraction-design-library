@@ -1,0 +1,8 @@
+FINAL_LIVE_STAGE_SMOKE
+startedUtc=2026-10-29T08:00:03.4795797Z
+METHOD actual isolated native Depart StageA; natural selected Basic entry and named roster; no reposition/freeze/speed/stat overrides; idle30game seconds only, not full-map balance or completion proof.
+selectedSpawn=0 anchor=B1 tier=0 value=0 actors=72 named=4 lootBoxes=50 retainedScene=True
+namedIds=N1,N2,N4,N5
+OBSERVED seconds=30.0118145337302 playerHealth=100->100 dead=False movedOver1m=71 deadNPC=0 aliveOffNavSamples=0
+END aliveAutomatic=True worldAutomatic=True
+COMPLETE limited native smoke

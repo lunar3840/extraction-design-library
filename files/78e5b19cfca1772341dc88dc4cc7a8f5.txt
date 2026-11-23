@@ -1,0 +1,17 @@
+PASS Rokoko Guns imported as 15 Humanoid FBX clips
+PASS dedicated preview controller and scene; production Serin controller unchanged
+PASS Rifle_Light_mixamo
+PASS Rifle_Medium_mixamo
+PASS Rifle_Heavy_mixamo
+PASS ShotgunFight_mixamo
+PASS RifleFight_mixamo
+PASS RPGLauncher_mixamo
+PASS Pistol_Light_mixamo
+PASS Pistol_Medium_mixamo
+PASS Pistol_Heavy_mixamo
+PASS PistolFight_mixamo
+PASS PistolFight_01_mixamo
+PASS GunFu_JohnWick_mixamo
+PASS Execution_01_mixamo
+PASS Execution_02_mixamo
+PASS Execution_Killed_03_mixamo

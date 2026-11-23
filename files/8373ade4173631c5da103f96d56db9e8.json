@@ -1,0 +1,111 @@
+{
+  "images": [
+    {
+      "source_path": "outputs/change_records/2026-10-24/edel-natural-arm-pose/candidate_outer_serin_high_0_portrait.png",
+      "copy_path": "outputs/change_records/2026-10-24/straight-innerwear-boundary/verified-20261024/candidate_outer_serin_high_0_portrait.png",
+      "sha256": "d6fcb135145d32134c092b11b46b8cbe9e0f662ac6b1cdad2541f1479d0618bb",
+      "copied_sha256": "d6fcb135145d32134c092b11b46b8cbe9e0f662ac6b1cdad2541f1479d0618bb",
+      "source_file_name_preserved": true,
+      "renamed_for_before_after": false
+    },
+    {
+      "source_path": "outputs/change_records/2026-10-24/edel-natural-arm-pose/candidate_front_serin_0_portrait.png",
+      "copy_path": "outputs/change_records/2026-10-24/straight-innerwear-boundary/verified-20261024/candidate_front_serin_0_portrait.png",
+      "sha256": "6457e321b2d2143161f097a0429d06425cda4f64e047a9f3e755deab3f16ce11",
+      "copied_sha256": "6457e321b2d2143161f097a0429d06425cda4f64e047a9f3e755deab3f16ce11",
+      "source_file_name_preserved": true,
+      "renamed_for_before_after": false
+    },
+    {
+      "source_path": "outputs/change_records/2026-10-24/edel-natural-arm-pose/candidate_outer_liv_high_0_portrait.png",
+      "copy_path": "outputs/change_records/2026-10-24/straight-innerwear-boundary/verified-20261024/candidate_outer_liv_high_0_portrait.png",
+      "sha256": "3fc0713891b514c2a37c346f081073967ee317d25b444d701d19fc38aa2f963c",
+      "copied_sha256": "3fc0713891b514c2a37c346f081073967ee317d25b444d701d19fc38aa2f963c",
+      "source_file_name_preserved": true,
+      "renamed_for_before_after": false
+    },
+    {
+      "source_path": "outputs/change_records/2026-10-24/edel-natural-arm-pose/candidate_front_liv_0_portrait.png",
+      "copy_path": "outputs/change_records/2026-10-24/straight-innerwear-boundary/verified-20261024/candidate_front_liv_0_portrait.png",
+      "sha256": "8f2547f50d237964114df8a745cac506d160aa56ae450c1e3fba593e76bd49e3",
+      "copied_sha256": "8f2547f50d237964114df8a745cac506d160aa56ae450c1e3fba593e76bd49e3",
+      "source_file_name_preserved": true,
+      "renamed_for_before_after": false
+    },
+    {
+      "source_path": "outputs/change_records/2026-10-24/edel-natural-arm-pose/candidate_outer_yui_high_0_portrait.png",
+      "copy_path": "outputs/change_records/2026-10-24/straight-innerwear-boundary/verified-20261024/candidate_outer_yui_high_0_portrait.png",
+      "sha256": "18eaf2dd82cd0f0e8fbe0ac1b32679bd353b93b95fc7df2617e43579558972b8",
+      "copied_sha256": "18eaf2dd82cd0f0e8fbe0ac1b32679bd353b93b95fc7df2617e43579558972b8",
+      "source_file_name_preserved": true,
+      "renamed_for_before_after": false
+    },
+    {
+      "source_path": "outputs/change_records/2026-10-24/edel-natural-arm-pose/candidate_front_yui_0_portrait.png",
+      "copy_path": "outputs/change_records/2026-10-24/straight-innerwear-boundary/verified-20261024/candidate_front_yui_0_portrait.png",
+      "sha256": "b82b343dedd56a984927c95fa2b5041a5d30e3f2dedfc199f2e9beb70b1e56b7",
+      "copied_sha256": "b82b343dedd56a984927c95fa2b5041a5d30e3f2dedfc199f2e9beb70b1e56b7",
+      "source_file_name_preserved": true,
+      "renamed_for_before_after": false
+    },
+    {
+      "source_path": "outputs/change_records/2026-10-24/edel-natural-arm-pose/before_liv_135_portrait.png",
+      "copy_path": "outputs/change_records/2026-10-24/straight-innerwear-boundary/verified-20261024/before_liv_135_portrait.png",
+      "sha256": "7c747e55cca06a0f583d2de8e708442d64b88e9a7fd38994e39e8a2e92da4c34",
+      "copied_sha256": "7c747e55cca06a0f583d2de8e708442d64b88e9a7fd38994e39e8a2e92da4c34",
+      "source_file_name_preserved": true,
+      "renamed_for_before_after": false
+    },
+    {
+      "source_path": "outputs/change_records/2026-10-24/edel-natural-arm-pose/capped_liv_135_portrait.png",
+      "copy_path": "outputs/change_records/2026-10-24/straight-innerwear-boundary/verified-20261024/capped_liv_135_portrait.png",
+      "sha256": "3b8574bc8e739967bdb0c6c074fb16e5f0762048db5bfa0da1dc16cab72f560c",
+      "copied_sha256": "3b8574bc8e739967bdb0c6c074fb16e5f0762048db5bfa0da1dc16cab72f560c",
+      "source_file_name_preserved": true,
+      "renamed_for_before_after": false
+    },
+    {
+      "source_path": "outputs/change_records/2026-10-24/edel-natural-arm-pose/before_liv_180_portrait.png",
+      "copy_path": "outputs/change_records/2026-10-24/straight-innerwear-boundary/verified-20261024/before_liv_180_portrait.png",
+      "sha256": "af0d641ce0e0fd7105dc88572e7f77bd871dfb35a86d6524ff3c088cf377059e",
+      "copied_sha256": "af0d641ce0e0fd7105dc88572e7f77bd871dfb35a86d6524ff3c088cf377059e",
+      "source_file_name_preserved": true,
+      "renamed_for_before_after": false
+    },
+    {
+      "source_path": "outputs/change_records/2026-10-24/edel-natural-arm-pose/capped_liv_180_portrait.png",
+      "copy_path": "outputs/change_records/2026-10-24/straight-innerwear-boundary/verified-20261024/capped_liv_180_portrait.png",
+      "sha256": "034e6637f17a66139074594c5ee6ae206ed2592df1f6308a017ec0963bf2d430",
+      "copied_sha256": "034e6637f17a66139074594c5ee6ae206ed2592df1f6308a017ec0963bf2d430",
+      "source_file_name_preserved": true,
+      "renamed_for_before_after": false
+    },
+    {
+      "source_path": "outputs/change_records/2026-10-24/edel-natural-arm-pose/before_liv_225_portrait.png",
+      "copy_path": "outputs/change_records/2026-10-24/straight-innerwear-boundary/verified-20261024/before_liv_225_portrait.png",
+      "sha256": "1ee09d338fb7b22483445e49793f8e0ecbc6e33901bee5e165896bcc854642bd",
+      "copied_sha256": "1ee09d338fb7b22483445e49793f8e0ecbc6e33901bee5e165896bcc854642bd",
+      "source_file_name_preserved": true,
+      "renamed_for_before_after": false
+    },
+    {
+      "source_path": "outputs/change_records/2026-10-24/edel-natural-arm-pose/capped_liv_225_portrait.png",
+      "copy_path": "outputs/change_records/2026-10-24/straight-innerwear-boundary/verified-20261024/capped_liv_225_portrait.png",
+      "sha256": "66499bdf0d8ae8e993901d221fefd36bf79cf850f94c0e69fd11373992c4bbbb",
+      "copied_sha256": "66499bdf0d8ae8e993901d221fefd36bf79cf850f94c0e69fd11373992c4bbbb",
+      "source_file_name_preserved": true,
+      "renamed_for_before_after": false
+    },
+    {
+      "source_path": "outputs/change_records/2026-10-24/edel-natural-arm-pose/USER_REQUEST.md",
+      "copy_path": "outputs/change_records/2026-10-24/straight-innerwear-boundary/verified-20261024/SOURCE_USER_REQUEST_snapshot.md",
+      "sha256": "89854b5c73f6a059ffb21f1eba101d5e3fc7b1b9fac857678a48248706cf2358",
+      "copied_sha256": "89854b5c73f6a059ffb21f1eba101d5e3fc7b1b9fac857678a48248706cf2358",
+      "note": "Full accessible original instruction snapshot; includes unrelated pose history, not accepted pose outcomes."
+    }
+  ],
+  "source_record": "outputs/change_records/2026-10-24/edel-natural-arm-pose",
+  "captured_images_are_actual": true,
+  "role_names_not_fabricated": true,
+  "comparison_limits": "Same view angles; arm/gun pose, hair physics and small ortho framing changes are recorded. No pixel-perfect registration claim."
+}

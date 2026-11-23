@@ -1,0 +1,686 @@
+{
+  "nodes": {
+    "W": [
+      75,
+      185
+    ],
+    "NW": [
+      105,
+      75
+    ],
+    "N": [
+      270,
+      60
+    ],
+    "NE": [
+      420,
+      90
+    ],
+    "E": [
+      445,
+      220
+    ],
+    "SE": [
+      380,
+      325
+    ],
+    "S": [
+      225,
+      335
+    ],
+    "SW": [
+      65,
+      325
+    ],
+    "C1": [
+      180,
+      185
+    ],
+    "C2": [
+      310,
+      200
+    ]
+  },
+  "edges": [
+    [
+      "W",
+      "NW"
+    ],
+    [
+      "NW",
+      "N"
+    ],
+    [
+      "N",
+      "NE"
+    ],
+    [
+      "NE",
+      "E"
+    ],
+    [
+      "E",
+      "SE"
+    ],
+    [
+      "SE",
+      "S"
+    ],
+    [
+      "S",
+      "SW"
+    ],
+    [
+      "SW",
+      "W"
+    ],
+    [
+      "W",
+      "C1"
+    ],
+    [
+      "C1",
+      "N"
+    ],
+    [
+      "C1",
+      "S"
+    ],
+    [
+      "C1",
+      "C2"
+    ],
+    [
+      "N",
+      "C2"
+    ],
+    [
+      "C2",
+      "E"
+    ],
+    [
+      "C2",
+      "SE"
+    ],
+    [
+      "SW",
+      "C1"
+    ]
+  ],
+  "spawns": [
+    [
+      "P01",
+      25,
+      270,
+      "SW",
+      0
+    ],
+    [
+      "P02",
+      100,
+      365,
+      "SW",
+      0
+    ],
+    [
+      "P03",
+      155,
+      115,
+      "C1",
+      0
+    ],
+    [
+      "P04",
+      220,
+      380,
+      "S",
+      0
+    ],
+    [
+      "P05",
+      40,
+      65,
+      "NW",
+      1
+    ],
+    [
+      "P06",
+      255,
+      20,
+      "N",
+      1
+    ],
+    [
+      "P07",
+      380,
+      380,
+      "SE",
+      1
+    ],
+    [
+      "P08",
+      495,
+      270,
+      "E",
+      1
+    ],
+    [
+      "P09",
+      370,
+      35,
+      "NE",
+      2
+    ],
+    [
+      "P10",
+      495,
+      95,
+      "NE",
+      2
+    ],
+    [
+      "P11",
+      480,
+      180,
+      "E",
+      2
+    ],
+    [
+      "P12",
+      465,
+      345,
+      "SE",
+      2
+    ]
+  ],
+  "exits": [
+    [
+      "E01",
+      15,
+      150,
+      "W"
+    ],
+    [
+      "E02",
+      145,
+      25,
+      "NW"
+    ],
+    [
+      "E03",
+      315,
+      20,
+      "N"
+    ],
+    [
+      "E04",
+      505,
+      150,
+      "E"
+    ],
+    [
+      "E05",
+      500,
+      375,
+      "SE"
+    ],
+    [
+      "E06",
+      290,
+      390,
+      "S"
+    ],
+    [
+      "E07",
+      15,
+      375,
+      "SW"
+    ]
+  ],
+  "routes": [
+    {
+      "spawn": "P01",
+      "tier": 0,
+      "target": "NW",
+      "metres": 322,
+      "path": [
+        "P01",
+        "SW",
+        "W",
+        "NW"
+      ]
+    },
+    {
+      "spawn": "P01",
+      "tier": 0,
+      "target": "NE",
+      "metres": 556,
+      "path": [
+        "P01",
+        "SW",
+        "C1",
+        "N",
+        "NE"
+      ]
+    },
+    {
+      "spawn": "P01",
+      "tier": 0,
+      "target": "E",
+      "metres": 507,
+      "path": [
+        "P01",
+        "SW",
+        "S",
+        "SE",
+        "E"
+      ]
+    },
+    {
+      "spawn": "P02",
+      "tier": 0,
+      "target": "NW",
+      "metres": 308,
+      "path": [
+        "P02",
+        "SW",
+        "W",
+        "NW"
+      ]
+    },
+    {
+      "spawn": "P02",
+      "tier": 0,
+      "target": "NE",
+      "metres": 541,
+      "path": [
+        "P02",
+        "SW",
+        "C1",
+        "N",
+        "NE"
+      ]
+    },
+    {
+      "spawn": "P02",
+      "tier": 0,
+      "target": "E",
+      "metres": 492,
+      "path": [
+        "P02",
+        "SW",
+        "S",
+        "SE",
+        "E"
+      ]
+    },
+    {
+      "spawn": "P03",
+      "tier": 0,
+      "target": "NW",
+      "metres": 293,
+      "path": [
+        "P03",
+        "C1",
+        "W",
+        "NW"
+      ]
+    },
+    {
+      "spawn": "P03",
+      "tier": 0,
+      "target": "NE",
+      "metres": 381,
+      "path": [
+        "P03",
+        "C1",
+        "N",
+        "NE"
+      ]
+    },
+    {
+      "spawn": "P03",
+      "tier": 0,
+      "target": "E",
+      "metres": 342,
+      "path": [
+        "P03",
+        "C1",
+        "C2",
+        "E"
+      ]
+    },
+    {
+      "spawn": "P04",
+      "tier": 0,
+      "target": "NW",
+      "metres": 421,
+      "path": [
+        "P04",
+        "S",
+        "C1",
+        "W",
+        "NW"
+      ]
+    },
+    {
+      "spawn": "P04",
+      "tier": 0,
+      "target": "NE",
+      "metres": 456,
+      "path": [
+        "P04",
+        "S",
+        "SE",
+        "E",
+        "NE"
+      ]
+    },
+    {
+      "spawn": "P04",
+      "tier": 0,
+      "target": "E",
+      "metres": 324,
+      "path": [
+        "P04",
+        "S",
+        "SE",
+        "E"
+      ]
+    },
+    {
+      "spawn": "P05",
+      "tier": 1,
+      "target": "NW",
+      "metres": 66,
+      "path": [
+        "P05",
+        "NW"
+      ]
+    },
+    {
+      "spawn": "P05",
+      "tier": 1,
+      "target": "NE",
+      "metres": 384,
+      "path": [
+        "P05",
+        "NW",
+        "N",
+        "NE"
+      ]
+    },
+    {
+      "spawn": "P05",
+      "tier": 1,
+      "target": "E",
+      "metres": 514,
+      "path": [
+        "P05",
+        "NW",
+        "N",
+        "C2",
+        "E"
+      ]
+    },
+    {
+      "spawn": "P06",
+      "tier": 1,
+      "target": "NW",
+      "metres": 208,
+      "path": [
+        "P06",
+        "N",
+        "NW"
+      ]
+    },
+    {
+      "spawn": "P06",
+      "tier": 1,
+      "target": "NE",
+      "metres": 196,
+      "path": [
+        "P06",
+        "N",
+        "NE"
+      ]
+    },
+    {
+      "spawn": "P06",
+      "tier": 1,
+      "target": "E",
+      "metres": 325,
+      "path": [
+        "P06",
+        "N",
+        "C2",
+        "E"
+      ]
+    },
+    {
+      "spawn": "P07",
+      "tier": 1,
+      "target": "NW",
+      "metres": 510,
+      "path": [
+        "P07",
+        "SE",
+        "C2",
+        "N",
+        "NW"
+      ]
+    },
+    {
+      "spawn": "P07",
+      "tier": 1,
+      "target": "NE",
+      "metres": 311,
+      "path": [
+        "P07",
+        "SE",
+        "E",
+        "NE"
+      ]
+    },
+    {
+      "spawn": "P07",
+      "tier": 1,
+      "target": "E",
+      "metres": 178,
+      "path": [
+        "P07",
+        "SE",
+        "E"
+      ]
+    },
+    {
+      "spawn": "P08",
+      "tier": 1,
+      "target": "NW",
+      "metres": 518,
+      "path": [
+        "P08",
+        "E",
+        "C2",
+        "N",
+        "NW"
+      ]
+    },
+    {
+      "spawn": "P08",
+      "tier": 1,
+      "target": "NE",
+      "metres": 203,
+      "path": [
+        "P08",
+        "E",
+        "NE"
+      ]
+    },
+    {
+      "spawn": "P08",
+      "tier": 1,
+      "target": "E",
+      "metres": 71,
+      "path": [
+        "P08",
+        "E"
+      ]
+    },
+    {
+      "spawn": "P09",
+      "tier": 2,
+      "target": "NW",
+      "metres": 393,
+      "path": [
+        "P09",
+        "NE",
+        "N",
+        "NW"
+      ]
+    },
+    {
+      "spawn": "P09",
+      "tier": 2,
+      "target": "NE",
+      "metres": 74,
+      "path": [
+        "P09",
+        "NE"
+      ]
+    },
+    {
+      "spawn": "P09",
+      "tier": 2,
+      "target": "E",
+      "metres": 207,
+      "path": [
+        "P09",
+        "NE",
+        "E"
+      ]
+    },
+    {
+      "spawn": "P10",
+      "tier": 2,
+      "target": "NW",
+      "metres": 394,
+      "path": [
+        "P10",
+        "NE",
+        "N",
+        "NW"
+      ]
+    },
+    {
+      "spawn": "P10",
+      "tier": 2,
+      "target": "NE",
+      "metres": 75,
+      "path": [
+        "P10",
+        "NE"
+      ]
+    },
+    {
+      "spawn": "P10",
+      "tier": 2,
+      "target": "E",
+      "metres": 208,
+      "path": [
+        "P10",
+        "NE",
+        "E"
+      ]
+    },
+    {
+      "spawn": "P11",
+      "tier": 2,
+      "target": "NW",
+      "metres": 501,
+      "path": [
+        "P11",
+        "E",
+        "C2",
+        "N",
+        "NW"
+      ]
+    },
+    {
+      "spawn": "P11",
+      "tier": 2,
+      "target": "NE",
+      "metres": 186,
+      "path": [
+        "P11",
+        "E",
+        "NE"
+      ]
+    },
+    {
+      "spawn": "P11",
+      "tier": 2,
+      "target": "E",
+      "metres": 53,
+      "path": [
+        "P11",
+        "E"
+      ]
+    },
+    {
+      "spawn": "P12",
+      "tier": 2,
+      "target": "NW",
+      "metres": 542,
+      "path": [
+        "P12",
+        "SE",
+        "C2",
+        "N",
+        "NW"
+      ]
+    },
+    {
+      "spawn": "P12",
+      "tier": 2,
+      "target": "NE",
+      "metres": 343,
+      "path": [
+        "P12",
+        "SE",
+        "E",
+        "NE"
+      ]
+    },
+    {
+      "spawn": "P12",
+      "tier": 2,
+      "target": "E",
+      "metres": 211,
+      "path": [
+        "P12",
+        "SE",
+        "E"
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "name": "all 12 spawn regions reach all 3 landmarks",
+      "pass": true
+    },
+    {
+      "name": "outer districts stay connected with BOTH central nodes removed",
+      "pass": true
+    },
+    {
+      "name": "any single sector closure leaves other sectors connected",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "name": "spawn pools are cumulative 4 <= 8 <= 12",
+      "pass": true
+    }
+  ]
+}

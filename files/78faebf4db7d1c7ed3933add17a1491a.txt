@@ -1,0 +1,76 @@
+2026-10-03 오후 4:57:12
+STAGE_A_WEST_D02_INDEPENDENT_VALIDATION
+PASS live retained Stage A scene is open
+PASS V33 workshop and boundaries remain active
+PASS D02 functional yard root exists and is active
+PASS physical V33 terrain surface is active
+PASS D02 validation anchors exist
+PASS nonphysical D02 waypoint P0 exists
+PASS nonphysical D02 waypoint G1 exists
+PASS nonphysical D02 waypoint A exists
+PASS nonphysical D02 waypoint B1 exists
+PASS nonphysical D02 waypoint B2_SOUTH exists
+PASS nonphysical D02 waypoint B2_EAST exists
+PASS nonphysical D02 waypoint B2_WEST exists
+PASS nonphysical D02 waypoint B2_NORTH exists
+PASS nonphysical D02 waypoint C exists
+PASS nonphysical D02 waypoint C_WORKFACE exists
+PASS nonphysical D02 waypoint G2 exists
+PASS waypoints use original WC_G1/WC_G2 openings
+PASS B1 remains a separate W05-side service pocket
+PASS D02 has visible authored objects
+PASS D02 collision is explicit and active
+PASS superseded internal V33 equipment is inactive: EW2
+PASS superseded internal V33 equipment is inactive: EW3
+PASS superseded internal V33 equipment is inactive: EW4
+PASS superseded internal V33 equipment is inactive: EW6
+PASS external V33 equipment remains active: EW1
+PASS external V33 equipment remains active: EW5
+PASS WC_G1 remains a physically open V33 gate
+PASS WC_G1 retains its usable width; blocked samples=0
+PASS WC_G2 remains a physically open V33 gate
+PASS WC_G2 retains its usable width; blocked samples=0
+PASS D02 as-authored painted route plan is available for physical probes
+PASS D02 functional items have separate visual and collision roots; planned=13
+PASS D02 item has active visual and physical box: A_ReceivingCar
+PASS D02 item has active visual and physical box: A_InboundCrates
+PASS D02 item has active visual and physical box: A_OilDrums
+PASS D02 item has active visual and physical box: B1_IndustrialEngine
+PASS D02 item has active visual and physical box: B1_WaitingPipes
+PASS D02 item has active visual and physical box: B1_ToolCart
+PASS D02 item has active visual and physical box: B1_RepairPump
+PASS D02 item has active visual and physical box: B1_PipeRack
+PASS D02 item has active visual and physical box: B1_CableReel
+PASS D02 item has active visual and physical box: B1_SpareFlywheel
+PASS D02 item has active visual and physical box: C_ServiceGenerator
+PASS D02 item has active visual and physical box: C_ToolPoint
+PASS D02 item has active visual and physical box: C_SpareCouplings
+PASS D02 physical props rest on actual terrain; 13/13
+PASS D02 visuals and collision boxes coincide; 13/13
+PASS D02 props do not overlap retained solids or each other; 13/13
+PASS all D02 painted route centers and full-width flanks are player-capsule clear; samples=645 blocked=0
+PASS route ground is physically present and at most 45 degrees; missing=0 steep=0 maximum=5.2
+PASS collision-derived navigation data activates
+PASS local D02 NavMesh segment P0->G1 complete without a remote detour; length=48.7
+PASS local D02 NavMesh segment G1->A complete without a remote detour; length=7.0
+PASS local D02 NavMesh segment A->B1 complete without a remote detour; length=18.0
+PASS local D02 NavMesh segment B1->B2_WEST complete without a remote detour; length=11.1
+PASS local D02 NavMesh segment A->B2_SOUTH complete without a remote detour; length=9.9
+PASS local D02 NavMesh segment B2_SOUTH->B2_EAST complete without a remote detour; length=16.0
+PASS local D02 NavMesh segment B2_EAST->B2_WEST complete without a remote detour; length=20.6
+PASS local D02 NavMesh segment B2_WEST->B2_NORTH complete without a remote detour; length=7.1
+PASS local D02 NavMesh segment B2_NORTH->G2 complete without a remote detour; length=26.0
+PASS local D02 NavMesh segment B2_NORTH->C complete without a remote detour; length=2.0
+PASS local D02 NavMesh segment C->C_WORKFACE complete without a remote detour; length=19.0
+PASS local D02 NavMesh segment C->B2_NORTH complete without a remote detour; length=2.0
+PASS local D02 NavMesh segment B2_NORTH->G2 complete without a remote detour; length=26.0
+PASS retained entry and exit anchors are present
+PASS original B1-B4 to X1-X7 navigation remains 28/28; 28/28
+PASS west bridge remains navigable
+PASS east bridge remains navigable
+PASS retained primary indoor targets remain reachable from B1; 5/5
+NOTE R8 remains a non-tested risk-entry candidate; this D02 navigation check does not claim to distinguish its starting experience from B4.
+NOTE The physical route probes use the real terrain MeshCollider and player-sized capsule. Navigation alone does not establish actual PlayerMotor passage; run D02 Play separately.
+NOTE No AI combat or enemy response claim is made by this geometry check.
+passed=69 failed=0
+RESULT PASS

@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "value": 0.75,
+  "applied": 0.75,
+  "diffs": [
+    {
+      "id": "Assets/Escape/Runtime/HeadSourceClearanceFieldBudget.cs#L174:7",
+      "before": 999999,
+      "after": 0.999999
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyHairArmSurfaceAudit.cs#L88:5",
+      "before": 65,
+      "after": 0.065
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyHairProxyWitnessAudit.cs#L158:5",
+      "before": 14,
+      "after": 0.14
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyWeaponHeadClearance.cs#L102:1",
+      "before": 5,
+      "after": 0.5
+    },
+    {
+      "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L93:4",
+      "before": 75,
+      "after": 0.75
+    }
+  ],
+  "addedRows": 0,
+  "removedRows": 0,
+  "realUnitySourceUnchanged": true
+}

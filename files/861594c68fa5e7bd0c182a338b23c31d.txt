@@ -1,0 +1,4 @@
+candidate06 application stopped BEFORE modifying D11 objects because the retained original land tiles do not have identical heights at a shared boundary (grid 81,50).
+Any candidate06_*.png images came from the queued capture of the still-retained candidate05 scene, NOT a successful candidate06 application. Do not use them as final or before evidence.
+The original terrain, colliders and saved candidate05 prefab were not changed by this failed attempt.
+Next implementation must preserve individual original tile vertices/triangles rather than collapsing inconsistent source seams into one global height grid.

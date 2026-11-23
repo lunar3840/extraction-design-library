@@ -1,0 +1,50 @@
+{
+  "sourceFile": "kvFB4V57SyJeLrPp8xspIc",
+  "references": [
+    {
+      "node": "34:70",
+      "role": "ARC source kit"
+    },
+    {
+      "node": "95:1466",
+      "role": "original backplate"
+    },
+    {
+      "node": "46:100",
+      "role": "read-only document surface comparison; no private text or image copied"
+    }
+  ],
+  "originalSemanticVectors": 21,
+  "iconSource": "shared-web/build-workspace-icons.mjs",
+  "semanticMapper": "shared-web/workspace-icons.js",
+  "themeController": "shared-web/workspace-theme.js",
+  "themes": [
+    "white",
+    "black"
+  ],
+  "sharedComponents": [
+    "icons",
+    "geometry",
+    "radius",
+    "navigation",
+    "forms",
+    "dialogs"
+  ],
+  "blackBackplate": "rgba(27,37,54,.43)",
+  "whiteBackplate": "rgba(255,253,246,.68)",
+  "cornerRadius": {
+    "desktop": 18,
+    "mobile": 16,
+    "cards": 17
+  },
+  "retroPalette": {
+    "sand": "#DFBE85",
+    "rust": "#D98E78",
+    "sage": "#91BCB0",
+    "sky": "#8FB4CF",
+    "cream": "#F6EAD5"
+  },
+  "legacyThemeDeleted": false,
+  "previousSourcesPreserved": true,
+  "privatePortfolioContentCopied": false
+}

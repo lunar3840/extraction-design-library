@@ -1,0 +1,29 @@
+{
+  "stage": "AUTHORING_SCOPE_APPROVED_FINAL_ART_PENDING",
+  "approvedCount": 17,
+  "sourceRendererCount": 336,
+  "approvedIds": [
+    "R_BANK_00",
+    "R_BANK_01",
+    "R_BANK_02",
+    "R_BANK_03",
+    "R_BANK_04",
+    "R_BANK_05",
+    "R_BANK_06",
+    "R_BANK_07",
+    "R_BANK_08",
+    "R_BANK_09",
+    "R_BANK_10",
+    "R_BANK_11",
+    "R_BANK_12",
+    "R_D12_RAIL_E",
+    "R_D12_RAIL_W",
+    "R_GENERATOR_04",
+    "R_YARD_SHELTER_EAVES"
+  ],
+  "excludedHiddenGroups": 29,
+  "excludedVisibleGroup": "R_RACK_06",
+  "reason": "No unambiguous target-framed Game pair for rack; preserve source. Bank waterside above water only, protect lip/walk face/bridge ends; other type functional faces and existing ivy preserved.",
+  "evidence": "rounds/extra_before02/PLAY_REPORT.json",
+  "finalVisualAndFunctionReviewRequired": true
+}

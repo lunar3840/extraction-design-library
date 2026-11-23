@@ -1,0 +1,58 @@
+[
+  {
+    "Path": "C:\\UnityProject\\escape\\Library\\ScriptAssemblies\\Assembly-CSharp.dll",
+    "Hash": "F95A61D863E7FA00030E829E12DA68BE32F2AD474BB5D3E56B71C7F30CB3B63C",
+    "Bytes": 1235456,
+    "LastWriteTimeUtc": "2026-10-22T23:11:50.4377378Z",
+    "ObservedUtc": "2026-10-22T23:19:50.7825612Z"
+  },
+  {
+    "Path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Inventory\\InventoryDoubleClickSequence.cs",
+    "Hash": "99CAB2FC009808B929E17925737C20318AAA1EE43A0B726DD6CBC952B1D7EA1C",
+    "Bytes": 1877,
+    "LastWriteTimeUtc": "2026-10-22T10:51:01.4784235Z",
+    "ObservedUtc": "2026-10-22T23:19:50.7931423Z"
+  },
+  {
+    "Path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Weapon\\Core\\AutomaticReloadRules.cs",
+    "Hash": "8A37DE38081113D6F4FA7179AB63EEDE0DA7432E24B4E59DABF8EA5CC817F3C0",
+    "Bytes": 1110,
+    "LastWriteTimeUtc": "2026-10-22T10:51:01.4799276Z",
+    "ObservedUtc": "2026-10-22T23:19:50.7938921Z"
+  },
+  {
+    "Path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-23\\unified-figma-ui\\staging\\common\\offline\\RegressionMain.cs",
+    "Hash": "26C244DFBDDC0D0C65B1E3549938F2C5488CC0FE650DA9679FAA3D64B18E940A",
+    "Bytes": 1588,
+    "LastWriteTimeUtc": "2026-10-22T21:36:21.6737139Z",
+    "ObservedUtc": "2026-10-22T23:19:50.7945999Z"
+  },
+  {
+    "Path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-23\\unified-figma-ui\\staging\\common\\offline\\SequenceProgram.cs",
+    "Hash": "86AC9218BBAE1D60C5B2F2E1EB6A825FF58DC2B2DAB184B856DEFFFA5C79DEFF",
+    "Bytes": 3172,
+    "LastWriteTimeUtc": "2026-10-22T21:34:43.4056152Z",
+    "ObservedUtc": "2026-10-22T23:19:50.7956663Z"
+  },
+  {
+    "Path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-23\\unified-figma-ui\\staging\\common\\offline\\PureGridProbe.cs",
+    "Hash": "5DA3D49980434ABEB6971E7EA538DB57D48FEACE3A1162D81BDDBB51229D40AA",
+    "Bytes": 4312,
+    "LastWriteTimeUtc": "2026-10-22T21:34:43.4040781Z",
+    "ObservedUtc": "2026-10-22T23:19:50.7963753Z"
+  },
+  {
+    "Path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-23\\unified-figma-ui\\staging\\common\\offline\\PureTransferProbe.cs",
+    "Hash": "31F21D93D5C8941E003DE98CF57435A4E8FF672DB11C71BD5688249C8899CE81",
+    "Bytes": 4700,
+    "LastWriteTimeUtc": "2026-10-22T21:37:08.8080452Z",
+    "ObservedUtc": "2026-10-22T23:19:50.7973630Z"
+  },
+  {
+    "Path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-23\\unified-figma-ui\\staging\\common\\offline\\AutoReloadChecks.cs",
+    "Hash": "5AE65087159BFE3928B8DF5FA48062798D4C2C636C55FF9FA4A24EE33CBBC08A",
+    "Bytes": 7315,
+    "LastWriteTimeUtc": "2026-10-22T21:35:21.0500447Z",
+    "ObservedUtc": "2026-10-22T23:19:50.7980376Z"
+  }
+]

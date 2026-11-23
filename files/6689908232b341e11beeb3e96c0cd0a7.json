@@ -1,0 +1,114 @@
+[
+  {
+    "role": "E45_animation",
+    "file": "EDEL_r18_SD_Polish_E45.blend",
+    "path": "C:\\Users\\이호진\\Documents\\Codex\\2026-11-14\\1-x20\\outputs\\EDEL_r18_SD_Polish_E45.blend",
+    "bytes": 175055731,
+    "sha256": "18e36dcb8b1299942d3e9d30dba33da89f8a211c183e166c32b83f54823051cd",
+    "visibility": "private_source"
+  },
+  {
+    "role": "movement_reload",
+    "file": "EDEL_SD_Movement_Reload.blend",
+    "path": "C:\\Users\\이호진\\Documents\\Codex\\2026-11-14\\1-x20\\outputs\\EDEL_SD_Movement_Reload.blend",
+    "bytes": 196207485,
+    "sha256": "9bcfd88cf15df36b6595107016544116b19c1a713d3d8ae331b7947f183e41e7",
+    "visibility": "private_source"
+  },
+  {
+    "role": "ankle_final",
+    "file": "EDEL_SD_Ankle_Polish.blend",
+    "path": "C:\\Users\\이호진\\Documents\\Codex\\2026-11-14\\1-x20\\outputs\\EDEL_SD_Ankle_Polish.blend",
+    "bytes": 196261013,
+    "sha256": "9a5deba04016926b773927d6b4c8fa439597135300235e0ad2ccc2725f2eb94c",
+    "visibility": "private_source"
+  },
+  {
+    "role": "natural_grip_baseline",
+    "file": "EDEL_AR_NaturalGrip.blend",
+    "path": "C:\\Users\\이호진\\Documents\\Codex\\2026-11-14\\1-x20\\outputs\\EDEL_AR_NaturalGrip\\EDEL_AR_NaturalGrip.blend",
+    "bytes": 22442000,
+    "sha256": "1cfbb86d76f43bdc6f7e709fc67467fa447e664a1e557cd5d86e3df87b0aef6b",
+    "visibility": "private_source"
+  },
+  {
+    "role": "parts_29",
+    "file": "AR_All_Parts_29.blend",
+    "path": "C:\\Users\\이호진\\Documents\\Codex\\2026-11-14\\1-x20\\outputs\\AR_Parts_29\\AR_All_Parts_29.blend",
+    "bytes": 941870,
+    "sha256": "94059ead7e6f1e5f1637f592886264bb498a2f7ab1f6c20ccdf91cef615df86f",
+    "visibility": "private_source"
+  },
+  {
+    "role": "roster_photo_review_zip",
+    "file": "Weapon_Roster_34_PhotoReviewed.zip",
+    "path": "D:\\CodexAssets\\Weapon_Roster_34_PhotoReviewed.zip",
+    "bytes": 39532985,
+    "sha256": "28b12401cf4e2dd73f87c278abde0e5b550a3bbfc4a81a9f2520e0c050d10684",
+    "visibility": "private_source"
+  },
+  {
+    "role": "static_modding_zip",
+    "file": "Weapon_ModFit_33_Models.zip",
+    "path": "D:\\CodexAssets\\Weapon_ModFit_33_Models.zip",
+    "bytes": 33340163,
+    "sha256": "aa259b58af8ab49abda538270c1b6568840ee40d3617a0fb0964e51c62dd884e",
+    "visibility": "private_source"
+  },
+  {
+    "role": "edel_wip_master",
+    "file": "Edel_ModdedWeapons_Master.blend",
+    "path": "D:\\CodexAssets\\2026-11-15_Edel_ModRoster\\Edel_ModdedWeapons_Master.blend",
+    "bytes": 29873827,
+    "sha256": "358e1c318e3886693f0aaf09023baa88a0758794b2a01d7226e435cfec077e8c",
+    "visibility": "private_source"
+  },
+  {
+    "role": "private_handoff_zip",
+    "file": "Edel_Weapons_PRO_CHAT_Handoff_2026-11-15.zip",
+    "path": "D:\\CodexAssets\\Edel_Weapons_PRO_CHAT_Handoff_2026-11-15.zip",
+    "bytes": 171413028,
+    "sha256": "078a5f1b5405ecddb65b223d94c00b295dd5490a56dfc9cc73a3b1bb889d32ce",
+    "visibility": "private_source"
+  },
+  {
+    "role": "roster_revision_validation",
+    "file": "revision_validation.json",
+    "path": "D:\\CodexAssets\\2026-11-15_WeaponRoster_34\\Full_Review\\revision_validation.json",
+    "bytes": 11099,
+    "sha256": "22eb133a0ee62390d43aaaec08363b5bb4549be3ae6ae496135ad540a1214fe8",
+    "visibility": "report_only"
+  },
+  {
+    "role": "static_modding_validation",
+    "file": "validation.json",
+    "path": "D:\\CodexAssets\\2026-11-15_Weapon_ModFit\\validation.json",
+    "bytes": 59259,
+    "sha256": "f22387c26d59c039811630f010e687f78d84c12d0f9fca9b92b12ddad9b940e2",
+    "visibility": "report_only"
+  },
+  {
+    "role": "master_merge_validation",
+    "file": "master_merge_verification.json",
+    "path": "D:\\CodexAssets\\2026-11-15_Edel_ModRoster\\master_merge_verification.json",
+    "bytes": 533,
+    "sha256": "05a71f138c1b505c07f05426bbf749297c40456e5fcc5f2fba8b14f88962bdab",
+    "visibility": "report_only"
+  },
+  {
+    "role": "ankle_validation",
+    "file": "EDEL_SD_Ankle_Validation.json",
+    "path": "C:\\Users\\이호진\\Documents\\Codex\\2026-11-14\\1-x20\\outputs\\EDEL_SD_Ankle_Validation.json",
+    "bytes": 48804,
+    "sha256": "0e84bafd526a0db3a50430d3e1c177107263e67d1c8730860eaca94f87b2dfb3",
+    "visibility": "report_only"
+  },
+  {
+    "role": "movement_validation",
+    "file": "EDEL_SD_Validation.json",
+    "path": "C:\\Users\\이호진\\Documents\\Codex\\2026-11-14\\1-x20\\outputs\\EDEL_SD_Validation.json",
+    "bytes": 49310,
+    "sha256": "188c41adc491a4e23a56d977d13a3e3bb1ac9b06bdc16ba444b4414aa49624e5",
+    "visibility": "report_only"
+  }
+]

@@ -1,0 +1,10 @@
+V14 real PlayerMotor / CharacterController passage tests
+2026-09-22 오전 3:07:46
+PASS selected basic spawn B1
+PASS SWR_01 facade East gap 1.2 steps=19 start=(-171.48, 0.06, -150.50) end=(-168.98, 0.04, -150.09)
+PASS SWR_02 facade East gap 1.2 steps=19 start=(-159.29, 0.06, -182.06) end=(-156.76, 0.04, -181.91)
+PASS SWR_03 facade East gap 1.1 steps=19 start=(-100.46, 0.18, -172.86) end=(-97.99, 0.18, -172.30)
+PASS SWR_04 facade West gap -4.7 steps=19 start=(-243.94, 0.12, -64.67) end=(-246.48, 0.14, -64.58)
+PASS NWC_01 removed interior partition -3.5 steps=19 start=(-138.76, 5.06, 164.48) end=(-139.32, 5.06, 166.95)
+PASS NWC_02 removed interior partition -5.8 steps=19 start=(-232.89, 4.79, 173.39) end=(-233.67, 4.73, 175.80)
+RESULT PASS

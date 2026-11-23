@@ -1,0 +1,2 @@
+HIDE S06_Shell_colliderOnly enabled=True shadows=On shader=Universal Render Pipeline/Lit
+HIDE S06_Interior_colliderOnly enabled=True shadows=On shader=Universal Render Pipeline/Lit

@@ -1,0 +1,105 @@
+{
+  "externalSources": [
+    {
+      "file": "private_references/official_carrier_black.png",
+      "url": "https://www.cryeprecision.com/site/crye/items/BLC066_150-00-BLACK-01.png",
+      "scope": "A2 form/role structure/suit-role anchor inputs",
+      "dimensions": [
+        687,
+        687
+      ],
+      "sha256": "5fcfb7d47f4cc74614ec9e5a2a139d5b828dbe2e676760bd7cd8cffd11ad2d9c",
+      "publish": false
+    },
+    {
+      "file": "private_references/official_carrier_side.png",
+      "url": "https://www.cryeprecision.com/site/crye/items/BLC066_180-DETAIL-01.png",
+      "scope": "A2 form input: side attachment/depth only; male anatomy excluded",
+      "dimensions": [
+        700,
+        700
+      ],
+      "sha256": "2028277b553fbc37d7fc52d1c64105825b1b147a7d4e6be01943c9ad4ee8525e",
+      "publish": false
+    },
+    {
+      "file": "private_references/official_soft_vest.png",
+      "url": "https://www.cryeprecision.com/site/crye/items/LVSBV1_100-36-GRAY-01.DEFAULT.png",
+      "scope": "Four-role armor architecture input",
+      "dimensions": [
+        700,
+        700
+      ],
+      "sha256": "e670662bcddc5109d1323b6e225ebdc0bbf3566faf641ff0ee8d7ba140be63e2",
+      "publish": false
+    },
+    {
+      "file": "private_references/official_heavy_carrier.png",
+      "url": "https://www.cryeprecision.com/site/crye/items/CPC001_170-60-RANGERGREEN-02.png",
+      "scope": "Four-role armor architecture input",
+      "dimensions": [
+        700,
+        700
+      ],
+      "sha256": "fb65e95b691975859c5c6bff0d2586edd367e3f17947970cbd1d1d5b6ca23dff",
+      "publish": false
+    },
+    {
+      "file": "private_references/official_stellar_suit_art.jpg",
+      "url": "https://gmedia.playstation.com/is/image/SIEPDC/stellar-blade-overview-background-art-01-desktop-en-12jan24",
+      "scope": "Viewed only; small face/upperbody art, not full suit blueprint",
+      "dimensions": [
+        400,
+        231
+      ],
+      "sha256": "bf0fc4f603e46787b938a31dc9858a1a26a4221f18166322d1e8e34a8a273aab",
+      "publish": false
+    },
+    {
+      "file": "private_references/official_stellar_eve_suit.png",
+      "url": "https://gmedia.playstation.com/is/image/SIEPDC/stellar-blade-hub-character-eve-desktop-en-12jan24?wid=1200&qlt=90",
+      "scope": "Viewed portrait only, not generation input",
+      "dimensions": [
+        1200,
+        608
+      ],
+      "sha256": "2294170c20ca6cf657f2641535e8102f9489d79acdb802be19e381573a580003",
+      "publish": false
+    },
+    {
+      "file": "private_references/official_stellar_tachy_suit.png",
+      "url": "https://gmedia.playstation.com/is/image/SIEPDC/stellar-blade-hub-character-desktop-tachy-en-12jan24?wid=1200&qlt=90",
+      "scope": "Actually viewed/used at suit-role anchor step6 for tailoring/material; not identity/motif",
+      "dimensions": [
+        1200,
+        1941
+      ],
+      "sha256": "c494dd062a66c5d37012c225d0d790a6493559d4e8b7d814ef4bb2bc3f5ef837",
+      "publish": false
+    },
+    {
+      "file": "private_references/official_stellar_gameplay.jpg",
+      "url": "https://gmedia.playstation.com/is/image/SIEPDC/stellar-blade-screenshot-01-en-06feb23?wid=1600&qlt=90",
+      "scope": "Viewed upperbody only, not generation input",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "sha256": "d19df77dcca4362a8cf949fe1ceac5d34537ba53dc9216aabe20901231ef32ce",
+      "publish": false
+    }
+  ],
+  "sourcePages": [
+    "https://www.playstation.com/en-us/games/stellar-blade/",
+    "https://www.cryeprecision.com/JPC-2-0",
+    "https://www.cryeprecision.com/LVS-Base-Vest",
+    "https://www.cryeprecision.com/CAGE-PLATE-CARRIER-SET"
+  ],
+  "projectIdentity": {
+    "file": "reference_project_characters.png",
+    "original": "outputs/concept_art/2026-09-21/serin-edel-v02/serin-edel-character-sheet-v02.png",
+    "sha256": "d360d196a5ec4118d574db86e3c1dceeaa53663bfb738c98f586ebc394657240",
+    "generationInputOriginalPath": "../equipment-tactical-language/reference_project_characters.png"
+  },
+  "limits": "Official upperbody costume imagery and product photos are visual references, not complete blueprint/physical fit/certified game protection evidence. External original pixels excluded from uploads. Earlier06 no-external-image-input record remains unchanged."
+}

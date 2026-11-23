@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "reviewDateKST": "2026-10-29",
+  "capturedAtUTC": "2026-10-29T12:33:24.1047427+09:00",
+  "scope": "Read-only source snapshot and historical reference hashes; no current Play inspection, game mutation, or new game before/after capture",
+  "sources": [
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Toon\\HybridToon.shader",
+      "sha256": "6CBC6E0AB353DB70ED58596F4DB0C1A272F0A527381CFB48D8DEA27AEEB34F25",
+      "bytes": 19888
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\SubcultureD15\\CharacterHybridD15.shader",
+      "sha256": "6468111B64C5D29B56D85FC82A22D06B3C890E38045FB46882E82AC103525326",
+      "bytes": 20557
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Visuals\\ToonCharacterStyle.cs",
+      "sha256": "CA3D5A2A8D34D22DCFB20A7C52991EDA99502798E1B5F99B356849119147199E",
+      "bytes": 10251
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Visuals\\SubcultureD15Profile.cs",
+      "sha256": "B44205B8AB5DAC427C6CB9BA909F4B62590FDA99C3ADDB9DB4BE142735D15555",
+      "bytes": 10216
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\EdelSkinShadingMask.cs",
+      "sha256": "D32C48C254159D2CB587ED002115E8DDADDFDA74B8821475205ACA904FB32D1A",
+      "bytes": 3008
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\SdCharacterVisual.cs",
+      "sha256": "31489084827CD82F2E289263C3043FAB3E42133F736E672C46A053971C1918BA",
+      "bytes": 14692
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Visuals\\ToonOutlineFeature.cs",
+      "sha256": "413E735EAF936B386BC599AD3BC1B020C6C5ED4BCE9C450F8742C77A2F8C5321",
+      "bytes": 7431
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Toon\\ToonOutline.shader",
+      "sha256": "326171A4EFB712DBE1D2939E4BDF7F73E288DB2E679C3523AEAD5CEA588DB3D9",
+      "bytes": 4244
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Settings\\PC_Renderer.asset",
+      "sha256": "ABD5520A615B49CB1CE7337F9C81D0B87FDB9332D23D1435C6A103CCE55E14C7",
+      "bytes": 3548
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Packages\\manifest.json",
+      "sha256": "F91DE270193838EEC1547C56D5404CB040EE4DE13A86321BCAEAA010A38A3C27",
+      "bytes": 1915
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\ProjectSettings\\ProjectVersion.txt",
+      "sha256": "1A47686C7A9AC92EAE6B23CF3358D1329FBBE8237051ED631FAF6E15A945402A",
+      "bytes": 83
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\StageMaps\\StageA_Relay_Blockout_v08.prefab",
+      "sha256": "9489641679E2D21554E7475F47B779D3E1D6D95D6A79DFEB3F30000BD3AF7568",
+      "bytes": 88268037
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\SubcultureD15\\D15_CharacterReference.mat",
+      "sha256": "E62F54E2AA14DFD6CD4E1471583FA8B615E128A345CA54CB32247D4EAAF5E436",
+      "bytes": 2501
+    }
+  ],
+  "historicalReferences": [
+    {
+      "path": "outputs/change_records/2026-10-26/edel-braid-and-arm-shading/CHANGE_RECORD.md",
+      "sha256": "D2EACB99905B283D743E586084A0B66C8E802046F73A7AB0A77599989883BEC2",
+      "role": "기존 기록 / historical reference only"
+    },
+    {
+      "path": "outputs/change_records/2026-10-26/edel-braid-and-arm-shading/after_front.png",
+      "sha256": "2A7C6F88A49258FD59AAD876B2355D0C36DAB3A4E751599941277539C3208E74",
+      "role": "기존 기록 / historical reference only"
+    },
+    {
+      "path": "outputs/change_records/2026-10-26/edel-braid-and-arm-shading/after_skin_back.png",
+      "sha256": "0B5782BAB7E85D356DBA4A94ECF9DDD2311E0894B897F9C4518A584AA8307397",
+      "role": "기존 기록 / historical reference only"
+    },
+    {
+      "path": "outputs/change_records/2026-10-26/edel-braid-root-drape/SOURCE_HASHES.json",
+      "sha256": "94163EE2200FA115F81EAFCDFAD214BA617F6A6A59FFBE3FA615CD4AE212F074",
+      "role": "기존 기록 / historical reference only"
+    },
+    {
+      "path": "outputs/change_records/2026-10-26/edel-runtime-phase2/FINAL_MEASUREMENTS.json",
+      "sha256": "41979E03EA2E4B07F685DFCA916952F983467FC85A53C53D883F223415F240B7",
+      "role": "기존 기록 / historical reference only"
+    },
+    {
+      "path": "outputs/change_records/2026-10-14/a-map-hybrid-shader-d15/CHANGE_RECORD.md",
+      "sha256": "FBB67B53A9E8F40F112BC9AD8D1FA84A1CA4C80411DB434A0F57C9C7274EE8FF",
+      "role": "기존 기록 / historical reference only"
+    }
+  ],
+  "findings": {
+    "baseShaderReadsLimbSkinMask": true,
+    "uv4OccupiedByEdelLimbMask": true,
+    "d15PlaySelectionChecked": false,
+    "outlineConfiguredWidthPixels": 1.15,
+    "d15ShaderReadsLimbSkinMask": false,
+    "faceSdfFoundInTwoCharacterShaders": false,
+    "currentVisualRecurrenceChecked": false
+  }
+}

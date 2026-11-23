@@ -1,0 +1,228 @@
+{
+  "status": "PRE_APPLY_REVIEW_REQUIRED",
+  "auditedUtc": "2026-10-29T17:40:25.072938+00:00",
+  "baseline": {
+    "captureTime": "2026-10-30T02:16:07.4432657+09:00",
+    "cleanSceneClaim": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity dirty=False",
+    "screenshots": [
+      {
+        "name": "before_B4_R8.png",
+        "bytes": 3089196,
+        "mtime": "2026-10-29T17:16:07.205887+00:00",
+        "width": 1600,
+        "height": 1000,
+        "mode": "RGB",
+        "format": "PNG",
+        "hashMatchesPriorPhaseAfter": false
+      },
+      {
+        "name": "before_CLINIC.png",
+        "bytes": 2588170,
+        "mtime": "2026-10-29T17:16:05.427428+00:00",
+        "width": 1600,
+        "height": 1000,
+        "mode": "RGB",
+        "format": "PNG",
+        "hashMatchesPriorPhaseAfter": true
+      },
+      {
+        "name": "before_F01.png",
+        "bytes": 2391568,
+        "mtime": "2026-10-29T17:16:06.745717+00:00",
+        "width": 1600,
+        "height": 1000,
+        "mode": "RGB",
+        "format": "PNG",
+        "hashMatchesPriorPhaseAfter": false
+      },
+      {
+        "name": "before_HALL.png",
+        "bytes": 2672795,
+        "mtime": "2026-10-29T17:16:05.252111+00:00",
+        "width": 1600,
+        "height": 1000,
+        "mode": "RGB",
+        "format": "PNG",
+        "hashMatchesPriorPhaseAfter": false
+      },
+      {
+        "name": "before_N01.png",
+        "bytes": 2322074,
+        "mtime": "2026-10-29T17:16:06.379815+00:00",
+        "width": 1600,
+        "height": 1000,
+        "mode": "RGB",
+        "format": "PNG",
+        "hashMatchesPriorPhaseAfter": true
+      },
+      {
+        "name": "before_overview.png",
+        "bytes": 1693903,
+        "mtime": "2026-10-29T17:16:04.969607+00:00",
+        "width": 1600,
+        "height": 1000,
+        "mode": "RGB",
+        "format": "PNG",
+        "hashMatchesPriorPhaseAfter": false
+      },
+      {
+        "name": "before_PARTS.png",
+        "bytes": 2552111,
+        "mtime": "2026-10-29T17:16:05.838817+00:00",
+        "width": 1600,
+        "height": 1000,
+        "mode": "RGB",
+        "format": "PNG",
+        "hashMatchesPriorPhaseAfter": true
+      },
+      {
+        "name": "before_POWER.png",
+        "bytes": 2571217,
+        "mtime": "2026-10-29T17:16:05.606822+00:00",
+        "width": 1600,
+        "height": 1000,
+        "mode": "RGB",
+        "format": "PNG",
+        "hashMatchesPriorPhaseAfter": true
+      },
+      {
+        "name": "before_S06.png",
+        "bytes": 2683387,
+        "mtime": "2026-10-29T17:16:06.571936+00:00",
+        "width": 1600,
+        "height": 1000,
+        "mode": "RGB",
+        "format": "PNG",
+        "hashMatchesPriorPhaseAfter": true
+      },
+      {
+        "name": "before_TOOLS.png",
+        "bytes": 2276479,
+        "mtime": "2026-10-29T17:16:06.017128+00:00",
+        "width": 1600,
+        "height": 1000,
+        "mode": "RGB",
+        "format": "PNG",
+        "hashMatchesPriorPhaseAfter": false
+      },
+      {
+        "name": "before_W05.png",
+        "bytes": 2339632,
+        "mtime": "2026-10-29T17:16:06.938027+00:00",
+        "width": 1600,
+        "height": 1000,
+        "mode": "RGB",
+        "format": "PNG",
+        "hashMatchesPriorPhaseAfter": false
+      },
+      {
+        "name": "before_water_south.png",
+        "bytes": 2551226,
+        "mtime": "2026-10-29T17:16:07.442266+00:00",
+        "width": 1600,
+        "height": 1000,
+        "mode": "RGB",
+        "format": "PNG",
+        "hashMatchesPriorPhaseAfter": false
+      },
+      {
+        "name": "before_Y01.png",
+        "bytes": 2288261,
+        "mtime": "2026-10-29T17:16:06.208417+00:00",
+        "width": 1600,
+        "height": 1000,
+        "mode": "RGB",
+        "format": "PNG",
+        "hashMatchesPriorPhaseAfter": false
+      }
+    ],
+    "sameCameraPlanAsPhaseOne": true,
+    "referenceImage": {
+      "name": "reference_user_large_building.png",
+      "width": 1119,
+      "height": 658,
+      "format": "PNG",
+      "sha256": "3a158c6381a1630b920e4f4dfb835c4cf69c9493905a76161433749187bbb8ff"
+    },
+    "backups": {
+      "A.prefab": {
+        "bytes": 95588877,
+        "sha256": "07617bd1756655989437f308601181ce1380968ae95687d33d4c17d302532c0d",
+        "matchesCurrentSourceAtAudit": true
+      },
+      "A.unity": {
+        "bytes": 14071,
+        "sha256": "c9e3d324a6da7849188d1d92f9d79843b8e4820dcbe8325c3a0b227cd13d1874",
+        "matchesCurrentSourceAtAudit": true
+      }
+    },
+    "note": "PNG integrity and file timing support the record; they cannot cryptographically prove the Unity capture method."
+  },
+  "policy": {
+    "oldRows": 23659,
+    "newRows": 23659,
+    "changedRows": 62,
+    "changedFieldCounts": {
+      "ivyClusterPlan": 62,
+      "ivyClusterSeed": 62,
+      "ivyLeafBudget": 62,
+      "ivyMaxBranches": 62,
+      "ivyRoots": 62,
+      "ivySteps": 62,
+      "ivyVisibleShellAudit": 62,
+      "reasons": 62,
+      "ivyTargetPath": 1
+    },
+    "selectedBuildings": 31,
+    "selectedIds": [
+      "C02",
+      "C03",
+      "CLINIC",
+      "E01",
+      "E05",
+      "F02",
+      "HALL",
+      "N02",
+      "N09",
+      "N10",
+      "N12",
+      "N13",
+      "N15",
+      "PARTS",
+      "POWER",
+      "S02",
+      "S04",
+      "S05",
+      "S06",
+      "S08",
+      "S09",
+      "S11",
+      "TOOLS",
+      "W02",
+      "W03",
+      "W04",
+      "W05",
+      "W06",
+      "W08",
+      "Y01",
+      "Y05"
+    ],
+    "ivyRepresentatives": 226,
+    "unchangedIvyRepresentatives": 164,
+    "targetPathChanges": [
+      {
+        "key": "V13_HallRoot[8]/Exterior[4]/Facade[1]/BlenderExpansion_HALL_Shell[61]/HALL_Shell[0]/HALL_Shell_renderOpaque[0]",
+        "before": "V13_HallRoot/Exterior/Facade/BlenderExpansion_HALL_Shell/HALL_Shell/HALL_Shell_renderOpaque",
+        "after": "V13_HallRoot/Exterior/Facade"
+      }
+    ],
+    "allOtherRowsUnchanged": 23597,
+    "oldBudget": 218300,
+    "newBudget": 358500,
+    "allExclusionBoxesPreserved": true,
+    "visibleShellAuditsPending": 62
+  },
+  "problemCount": 0,
+  "problems": [],
+  "interpretation": "Policy/before evidence review only. No Unity generation or visual effect is inferred."
+}

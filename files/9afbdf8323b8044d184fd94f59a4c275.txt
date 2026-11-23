@@ -1,0 +1,15 @@
+D02 west-yard actual gameplay camera visibility
+mode=AFTER acceptance
+source=V33 W03/W04/W05; physics rays to player torso and lower body; screenshots use gameplay camera
+startedUtc=2026-10-03T08:05:11.4306349Z
+CAPTURE W03_outside requestedMap=(110.00, 170.00) player=(-150.000, 1.425, 30.000) camera=(-145.650, 16.482, 37.535) scopedBlocker=none ownBuildingBlocker=False cue=False roof=1/1
+UNVERIFIED W03 this saved outside point is not obstructed by its own building
+CAPTURE W03_inside requestedMap=(110.00, 170.00) player=(-136.000, 2.910, 42.000) camera=(-131.650, 17.967, 49.535) scopedBlocker=none ownBuildingBlocker=False cue=False roof=0/1
+CAPTURE W04_outside requestedMap=(149.00, 184.00) player=(-111.000, 1.319, 16.000) camera=(-106.650, 16.376, 23.535) scopedBlocker=MeshRenderer:FactoryRoof ownBuildingBlocker=True cue=True roof=1/1
+CAPTURE W04_inside requestedMap=(149.00, 184.00) player=(-99.000, 2.296, 31.000) camera=(-94.650, 17.353, 38.535) scopedBlocker=none ownBuildingBlocker=False cue=False roof=0/1
+CAPTURE W05_outside requestedMap=(114.00, 206.00) player=(-146.000, 1.020, -6.000) camera=(-141.650, 16.077, 1.535) scopedBlocker=none ownBuildingBlocker=False cue=False roof=1/1
+UNVERIFIED W05 this saved outside point is not obstructed by its own building
+CAPTURE W05_inside requestedMap=(114.00, 206.00) player=(-132.000, 1.761, 9.000) camera=(-127.650, 16.818, 16.535) scopedBlocker=none ownBuildingBlocker=False cue=False roof=0/1
+scopedBlockedOutsideViews=1/3
+failures=0
+result=OBSERVED

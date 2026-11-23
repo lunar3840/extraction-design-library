@@ -1,0 +1,62 @@
+{
+  "purpose": "다음 격리 플레이 검증을 위한 제안 기준. 프로덕션 설정을 변경하거나 실제 게임에서 이 조건을 이미 측정했다는 뜻이 아니다.",
+  "date": "2026-10-22",
+  "map": "StageA",
+  "common": {
+    "weapon": "AR_001",
+    "ammo": "item_018",
+    "totalRoundsIncludingMagazine": 100,
+    "magazineRounds": 30,
+    "looseRounds": 70,
+    "randomAffixes": false,
+    "attachments": [],
+    "researchAndGrowthLevels": 0,
+    "companionModifiers": "공통 화력 측정에서는 수동 스킬뿐 아니라 자동 패시브도 격리. 정식 게임의 동료 기능을 제거한다는 변경 지시가 아니다.",
+    "health": 100,
+    "hunger": 100,
+    "thirst": 100,
+    "stamina": 100,
+    "injuries": [],
+    "bagWeightLimitKg": 50,
+    "initialLoadBelowWeightLimit": true,
+    "supplies": [
+      { "id": "med_injector_c", "quantity": 1 },
+      { "id": "med_tourniquet_b", "quantity": 1 },
+      { "id": "item_003", "role": "생수·수분50 회복", "quantity": 1 }
+    ]
+  },
+  "armorComparisons": [
+    { "id": "unarmored", "helmet": null, "vest": null },
+    { "id": "equipped_basic", "helmet": "SD_BASIC_HELMET", "helmetDurability": 40, "vest": "SD_BASIC_VEST", "vestDurability": 80 }
+  ],
+  "scenarios": [
+    {
+      "id": "local_farming",
+      "startingPool": "기존 B1~B4 유지, R 비활성",
+      "goal": "인근1~3시설을 선별 수색하고 생존 탈출",
+      "planningWindowMinutes": [5, 8],
+      "plannedNormalKills": [2, 4],
+      "bossRequired": false,
+      "clearWholeMapRequired": false
+    },
+    {
+      "id": "optional_named",
+      "goal": "실제 출현한 네임드1기와 그 접근/철수 비용을 함께 측정",
+      "preparationComparisonTotalRounds": [100, 150, 180],
+      "allNamedRequired": false,
+      "note": "상기 탄약 수는 별도 준비 비교안이며 시작 지급량의 확정 변경값이 아니다."
+    }
+  ],
+  "recordPerRun": [
+    "시드/실제 진입점/실제 보스 출현 명단",
+    "목표시설/수색한 상자ID/이동 및 전체 소요시간",
+    "동시 유효 사선 수와 합류한 적 수",
+    "처치/회피/진영간 교전으로 사라진 적",
+    "발사탄/회수탄/잔탄/장전횟수",
+    "직접피해/부위/출혈·외상/방어구 내구 손실",
+    "식수·의료 사용량/마지막 허기·수분/하중",
+    "실제로 가방에 넣고 탈출한 판매품과 보관 연구재료 구분",
+    "사망손실/묘비 회수/재무장 비용",
+    "생존·탈출 실패 원인과 중단 사유"
+  ]
+}

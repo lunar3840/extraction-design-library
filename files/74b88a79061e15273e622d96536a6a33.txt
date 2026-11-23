@@ -1,0 +1,47 @@
+STAGE_A_OUTDOOR_D11_INDEPENDENT_VALIDATION
+PASS retained Stage A map is available in edit mode
+PASS pre-change exact original-object snapshot exists
+PASS snapshot schema and entries are valid
+PASS all original transforms, component types, visible meshes/materials and physical states retained; before=31150 after=31150 missing=0 added=0 changed=0
+NOTE Original snapshot capturedUtc=2026-10-13T18:04:01.9617612Z
+PASS D11 road root exists and is active
+PASS D11 vegetation root exists and is active
+PASS one instance of each D11 owned root; no duplicate application
+PASS all new paving and vegetation are visual-only; original physical path/collision stays authoritative
+PASS retained V09 terrain is present as the independent height reference
+PASS road surfaces and edge details have separate owned groups
+PASS 16 active surface tiles carry visible authored meshes; actual=16
+FAIL all 16 retained physical terrain tiles expose ordered 66x51 actual mesh vertices; invalid=4
+PASS road mesh is nondegenerate, upward facing and within map; triangles=96131 invalid=0 downward=0
+NOTE Superseded height-sampler comparison (not an actual surface reference): mismatches=21029 at 0.075m; only retained LandSurfaceFilters mesh determines terrain contact.
+FAIL every road tile vertex matches its own retained actual terrain tile at +0.024m within 0.005m; missing=71494 mismatches=0
+PASS D11 pavement introduces no additional terrain-tile seam height discontinuity; new=0 inherited=0
+PASS no identical overlapping paving triangles (z-fighting); duplicates=0
+PASS paving reaches all four map quadrants; triangles=25570,25594,25277,19690
+PASS paving mask is a readable 0.5m map-wide 1040x800 texture
+PASS asphalt/setts/workshop concrete/sidewalk masks have substantial coverage in every quadrant; pavedCells=23725,24171,24429,16602 channelCells=48732,8252,11376,20567
+NOTE Mask blending overlaps=0 cells. Inspect actual rendering for visual seams and material hierarchy.
+PASS visible road tiles bind the generated D11 mask to the pavement shader
+NOTE Road edge details triangles=1152; visible curb/terrain joins and threshold appearance require matched image inspection.
+PASS authored plant position diagnostic exists for independent distribution review
+PASS vegetation renderer/material budget; renderers=631 missingMaterial=0 ceiling=2000
+PASS vegetation triangle budget including added trees; triangles=1188640 ceiling=4000000
+PASS plant CSV exposes mapX,mapY,groundY,height,kind,chunkX,chunkY
+FAIL plant-ground reference uses the retained actual terrain triangles tile by tile; invalid=8
+PASS dense plant source records have valid map coordinates and 25m chunk indexes; rows=116860 malformed=0 badChunk=0
+NOTE Superseded plant height-sampler comparison (not actual terrain): mismatches=3657 at 0.20m.
+FAIL all plant CSV bases conform to retained actual terrain mesh within 0.025m; missing=15254 mismatches=0
+PASS no authored plant center occupies D11 reserved paving; conflicts=0
+PASS plant distribution reaches whole map rather than isolated clusters; 25m cells=301 quadrant plants=26573,31147,34096,25044
+NOTE Plant source kinds=low:112128,shrub:1588,tall:2870,tree:274; actual visual density remains an image gate.
+PASS all D11-owned renderer materials have supported shaders without compile errors; materials=8 broken=0
+PASS D10/D09 retained 69-building, 102-door, route and cutaway technical checks pass, allowing only the known old whole-map root-scope rejection
+NOTE NONINHERIT_FULL_LEGACY: D09 whole-map signature rejects D11 roots by design. D11 exact pre-existing-object snapshot passed; all actual 102-door, 28 basic-entry/exit routes, indoor target and other D09/D10 checks passed. A fresh D11 PlayerMotor report is still required.
+PASS four basic and eight dormant risk entry anchors remain registered
+PASS R8 remains inactive tier3 and B4 remains basic tier0; spawn pool identity retained
+PASS B4/R8 original positions and ~62m spacing retained; distance=62.1691246
+NOTE B4/R8 both lead toward W5. This vegetation/paving pass does not make R8 a distinct active risk entry; starting experience remains a future design decision.
+VISUAL_ACCEPTANCE requires direct matched before/after overview, all districts, street and green closeups; source counts alone cannot establish outdoor quality.
+PLAY_ACCEPTANCE requires a fresh D11 actual PlayerMotor 204-door-lane and representative outdoor walking report. Record rendering cost; no hardware FPS target was specified.
+passed=30 failed=4
+RESULT FAIL

@@ -1,0 +1,98 @@
+[
+  {
+    "archived": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-intent-audit\\main\\executed_helpers\\AMapIntentAuditProbe.cs",
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\AMapIntentAuditProbe.cs",
+    "removed": true,
+    "sha256": "c28bbd9c6dcd5df97b714fcd928141435fd067f5469f4716487e1e4892034e43"
+  },
+  {
+    "archived": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-intent-audit\\main\\executed_helpers\\AMapIntentAuditProbe.cs.meta",
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\AMapIntentAuditProbe.cs.meta",
+    "removed": true,
+    "sha256": "e3deeff89e07fb34527892a408088d15ae33987bb6cbbaf899d3df01eb0a6686"
+  },
+  {
+    "archived": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-intent-audit\\main\\executed_helpers\\AMapCombatReadOnlyProbe.cs",
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\AMapCombatReadOnlyProbe.cs",
+    "removed": true,
+    "sha256": "bde91372c1b9caec415160df82d0e0d4a28a8876c3868d37a7d8c65814a13aad"
+  },
+  {
+    "archived": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-intent-audit\\main\\executed_helpers\\AMapCombatReadOnlyProbe.cs.meta",
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\AMapCombatReadOnlyProbe.cs.meta",
+    "removed": true,
+    "sha256": "dee9cf2679bb472b19101dec69e68b0b58f22c83487e267c8c6d3881f00a244e"
+  },
+  {
+    "archived": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-intent-audit\\main\\executed_helpers\\AMapIntentLootLifecyclePlay.cs",
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\AMapIntentLootLifecyclePlay.cs",
+    "removed": true,
+    "sha256": "51649172bf2af19637914ebf4167140cfe9397913f80b79792660f768d49fe06"
+  },
+  {
+    "archived": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-intent-audit\\main\\executed_helpers\\AMapIntentLootLifecyclePlay.cs.meta",
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\AMapIntentLootLifecyclePlay.cs.meta",
+    "removed": true,
+    "sha256": "a9777609843440f66f31da7c2cdc80a7ff43ae983d28effdc1ca3a0f12401576"
+  },
+  {
+    "archived": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-intent-audit\\main\\executed_helpers\\AMapCombatFixtureAudit.cs",
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\AMapCombatFixtureAudit.cs",
+    "removed": true,
+    "sha256": "c01a95cd81281d43f51d8eb215a4d8a29598338c1b3f5984a1fde244f3ddc6d4"
+  },
+  {
+    "archived": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-intent-audit\\main\\executed_helpers\\AMapCombatFixtureAudit.cs.meta",
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\AMapCombatFixtureAudit.cs.meta",
+    "removed": true,
+    "sha256": "59f0c491db94f124f3e386bcd341579c45b0632a3c22a8b68148d8c2b81050ec"
+  },
+  {
+    "archived": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-intent-audit\\main\\executed_helpers\\AMapPatrolReadOnlyDiagnostic.cs",
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\AMapPatrolReadOnlyDiagnostic.cs",
+    "removed": true,
+    "sha256": "f6fc6bc1150426fe101323179c859dae0a45e61d38c73486fffc80a6bcb0a61a"
+  },
+  {
+    "archived": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-intent-audit\\main\\executed_helpers\\AMapPatrolReadOnlyDiagnostic.cs.meta",
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\AMapPatrolReadOnlyDiagnostic.cs.meta",
+    "removed": true,
+    "sha256": "49c546a6707afa450d3ad88e4f9abfc1c2442bde69d0975589fe7009a0990b6d"
+  },
+  {
+    "archived": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-intent-audit\\main\\executed_helpers\\AMapPatrolControlledDiagnostic.cs",
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\AMapPatrolControlledDiagnostic.cs",
+    "removed": true,
+    "sha256": "22d42a39c228d9c4661a70051382edc392ce45153ccd7e66bec161e0c4c18cc9"
+  },
+  {
+    "archived": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-intent-audit\\main\\executed_helpers\\AMapPatrolControlledDiagnostic.cs.meta",
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\AMapPatrolControlledDiagnostic.cs.meta",
+    "removed": true,
+    "sha256": "c27b89f6a1c787ab8be8905164e877148253efeff3269601eafd8f1121ebc30c"
+  },
+  {
+    "archived": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-intent-audit\\main\\executed_helpers\\AMapRouteContactDiagnostic.cs",
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\AMapRouteContactDiagnostic.cs",
+    "removed": true,
+    "sha256": "1204adf5395551f9eece794f82075c7bbc305f63fb8ab8c2cd1201ed3b278efb"
+  },
+  {
+    "archived": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-intent-audit\\main\\executed_helpers\\AMapRouteContactDiagnostic.cs.meta",
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\AMapRouteContactDiagnostic.cs.meta",
+    "removed": true,
+    "sha256": "994cc779494df3fee85ae65c32520f4d8bd7ad4a1bdd4cc68d9b0bf3c96a79e5"
+  },
+  {
+    "archived": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-intent-audit\\main\\executed_helpers\\AMapPatrolAllVariantsPreflight.cs",
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\AMapPatrolAllVariantsPreflight.cs",
+    "removed": true,
+    "sha256": "53164f67bfdde08c8bef263ff79b143e0c8402f45bbc241a43aeaaf01b9a890d"
+  },
+  {
+    "archived": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-intent-audit\\main\\executed_helpers\\AMapPatrolAllVariantsPreflight.cs.meta",
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\AMapPatrolAllVariantsPreflight.cs.meta",
+    "removed": true,
+    "sha256": "99c6f8e20e37ace08a5b897eaec2d79c9c4b88dd6662694ae771ff3e836be246"
+  }
+]

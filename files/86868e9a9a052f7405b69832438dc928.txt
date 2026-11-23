@@ -1,0 +1,9 @@
+V26 actual PlayerMotor local alternate passage tests
+2026-09-28 오후 7:46:56
+PASS A01_north steps=223 start=(-35.00, 9.04, 75.00) end=(-5.27, 8.86, 75.00) corners=2
+PASS A01_south steps=223 start=(-35.00, 2.15, 55.00) end=(-5.27, 2.03, 55.00) corners=2
+PASS A02_east steps=163 start=(-86.00, 1.99, 23.00) end=(-86.00, 1.72, 1.27) corners=2
+PASS A02_south steps=200 start=(-107.00, 1.38, 6.00) end=(-80.33, 1.83, 6.00) corners=2
+PASS A03_north steps=200 start=(46.00, 1.96, 17.00) end=(72.67, 4.56, 17.00) corners=2
+PASS A03_south steps=200 start=(46.00, 2.10, -4.00) end=(72.67, 2.96, -4.00) corners=2
+RESULT PASS

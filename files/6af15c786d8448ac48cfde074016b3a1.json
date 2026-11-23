@@ -1,0 +1,301 @@
+{
+  "thread": "01a1aa62-ae2b-7ac3-a99c-8fb67424d0b4",
+  "host": "DESKTOP-2TKQ90L",
+  "turns": [
+    {
+      "id": "01a1c01a-b831-7852-9409-ba4f4ee31b0a",
+      "date": "2026-11-09",
+      "startedAt": 1794224339,
+      "contentSHA256": "94e50b288f7cfa9364cdad3f32d962540786f245d93d85d5b375c900a9f782a2",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1c013-9915-7a21-87fb-4f734e1980c6",
+      "date": "2026-11-09",
+      "startedAt": 1794223872,
+      "contentSHA256": "9c41ea231737d4af1830d418f95aa63d646f0b9813029393135c01b3f06a1825",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1c006-814c-7110-89ed-d2010d93a7ce",
+      "date": "2026-11-09",
+      "startedAt": 1794223014,
+      "contentSHA256": "e7429240dd256be09b6c10cd4e064efd547263892708c886267e65438bde19c1",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bff7-bc86-7313-b4d8-d1cfb9bf742f",
+      "date": "2026-11-09",
+      "startedAt": 1794222046,
+      "contentSHA256": "e276b4961f8915cf7d903a8aca329bdb8ee71d8b6598e0a3c7db36ef49c5e438",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bff5-c8a2-7220-910e-dd24ee5385e0",
+      "date": "2026-11-09",
+      "startedAt": 1794221918,
+      "contentSHA256": "9597b3d9390b84ac6886020960685d619eec5a5e4c9fcc14fe8d52a6ecb7ff50",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bff4-62b1-7281-8a4a-ff28c42e587b",
+      "date": "2026-11-09",
+      "startedAt": 1794221826,
+      "contentSHA256": "4ea62c44eca7cd0a4adfef13498bb00228c186255a6e24dd271e7b427243b562",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bfe2-0c3f-7d20-bb91-bb27bf9f7cd1",
+      "date": "2026-11-09",
+      "startedAt": 1794220625,
+      "contentSHA256": "1bd67a485dc40bdd6749c0236c5cd11c97d28f12e68f316c58041bb404ecdbfe",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bfdc-bb56-70d1-a139-0b0f43aef269",
+      "date": "2026-11-09",
+      "startedAt": 1794220276,
+      "contentSHA256": "bd8307f7fe449a4522ddcf1df0a349888048d1cf2d9dc7a1706ea49dd4d5076d",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bfd1-85ee-70c1-8965-7c252532ddfc",
+      "date": "2026-11-09",
+      "startedAt": 1794219542,
+      "contentSHA256": "446da8633661e86f5bfcfa9b16c4b84ab0f7ecc707010bc4e44e87bdc238ab0c",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bfc5-c90d-7b92-854a-1b47b5ccd8d7",
+      "date": "2026-11-09",
+      "startedAt": 1794218772,
+      "contentSHA256": "27d294e6646e8b1da073a79322ba4fde26a9f3adc6de17bb9ec4845c6ca436de",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bfbd-0d03-7792-8f61-e2dd95d4d2fc",
+      "date": "2026-11-09",
+      "startedAt": 1794218200,
+      "contentSHA256": "4089c5c0320f0cb328f21ee319d5dfb9e055cfe8f8eed7cf6c2ec1e16badb6a8",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bfa8-ff28-76c0-a6cd-a77fa92679b3",
+      "date": "2026-11-09",
+      "startedAt": 1794216886,
+      "contentSHA256": "ee4ca7a63c2ffdb3ce554f1ac85858d5f51d1fc5bb52b3ab448ac1d1a0123dbc",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bfa5-8ab2-75f3-932b-b0aae2552d86",
+      "date": "2026-11-09",
+      "startedAt": 1794216659,
+      "contentSHA256": "34ef0c5672cccd3b10793f8a3bab10f33aa455bcf181f5d68459c132f558cad9",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bfa0-2ae4-7ef1-857a-5cd13dc64449",
+      "date": "2026-11-09",
+      "startedAt": 1794216307,
+      "contentSHA256": "80aa20ac961a6aa3808e8dbe550cd72a4b9a4812d6dec3fcc5652ffab360adcf",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bf9c-18e9-7c42-a66e-2bd90ba2291d",
+      "date": "2026-11-09",
+      "startedAt": 1794216040,
+      "contentSHA256": "5c78b9910b02913d0dd01456562f6d3cd00276042764444abc0d8da494b09c69",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bf99-e5ff-7430-abe5-28ee4441ba6f",
+      "date": "2026-11-09",
+      "startedAt": 1794215896,
+      "contentSHA256": "fe3ce142254fbae0a94418b3bde2361c176842010c20ddbd5bf7a1ddfa5e2366",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bf93-d572-7513-9773-9aea3f7a1e0a",
+      "date": "2026-11-09",
+      "startedAt": 1794215499,
+      "contentSHA256": "2e19562c7f971f15aadb0cd7839dab1e0fba092c4c14933593a3c265798d0f1c",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bf93-2b7a-70c2-b60c-bb68ad5cace1",
+      "date": "2026-11-09",
+      "startedAt": 1794215455,
+      "contentSHA256": "2159681f229cffd0414addb75cb44865b9a219451be5d80a8b199ee2f4fd3661",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bf92-ab37-7030-a0e5-0ba8f729a078",
+      "date": "2026-11-09",
+      "startedAt": 1794215422,
+      "contentSHA256": "8a864f9d821c89c70f410b35072bc1b485f31db34c61d318c20fb83473bebb36",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bf8e-8729-77e2-a569-c1ce6cb77df1",
+      "date": "2026-11-09",
+      "startedAt": 1794215151,
+      "contentSHA256": "a73722440b7954edc6559885a110b29138750e3d23c6763fe4672f03309df377",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bf7e-c5fb-72b0-9263-e57804e2d62f",
+      "date": "2026-11-09",
+      "startedAt": 1794214118,
+      "contentSHA256": "f2d832a1fc825aae82f4fb689ef7f146bbe6139e1acb8fc998bbb13a5f377e1f",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1becf-e57f-77c2-9b00-74210d5cc9df",
+      "date": "2026-11-09",
+      "startedAt": 1794202658,
+      "contentSHA256": "fdbd56e1a51c657c06ab92ba29405aee6d7b2973a0283db02972a1b9ec722f72",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bec7-feca-74f3-a8d6-ba1568978ca6",
+      "date": "2026-11-09",
+      "startedAt": 1794202140,
+      "contentSHA256": "e7258d2ca82e0bdb41ba2e1874c02c046fabae12c240d16b859581c95fe41613",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1beb8-bd27-7132-9dc9-69dd0449c9f5",
+      "date": "2026-11-09",
+      "startedAt": 1794201140,
+      "contentSHA256": "1f2dff08fed9c38efcb8158a262050d39409db077b2b90ba65676b0b38b450f4",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1beb5-8d52-73b0-bcaa-4e616a161262",
+      "date": "2026-11-09",
+      "startedAt": 1794200931,
+      "contentSHA256": "4c346d2cce520caee4e6261d74ee88cf882fc3e84f843ca48367a93cb8c93354",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1beb2-1af3-70a1-82e9-93a9457c433d",
+      "date": "2026-11-09",
+      "startedAt": 1794200705,
+      "contentSHA256": "e20dd2dfd52b3358b578b7ff34e881ee34794fe8995accccd515cda2a2fd21f7",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1bea6-0045-71c3-9bb6-0cd726ce8ff9",
+      "date": "2026-11-09",
+      "startedAt": 1794199912,
+      "contentSHA256": "e27117ac1fc2b8db9f5ec0e2ff72679a20e54d9e3a7dfb5166b125619c81bb44",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1be9d-e826-79d2-aabe-c88710733fa0",
+      "date": "2026-11-09",
+      "startedAt": 1794199382,
+      "contentSHA256": "67ff18379804d82e408d3d73d0a3c6f23e01281bb844843b117648bdb3d66230",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1be83-85a5-77e3-a916-67d287224df1",
+      "date": "2026-11-09",
+      "startedAt": 1794197652,
+      "contentSHA256": "7dc4c06466dc5cd6788e7ad8a5b205693f065448ec331c6d8a568868408cf33c",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1be7d-8418-7af0-9070-88b0001cecbb",
+      "date": "2026-11-09",
+      "startedAt": 1794197259,
+      "contentSHA256": "e9e56720a821bfc00686e909a9e766e4dde8b5aa53e64b9d6d2d84444643700e",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1be77-5c74-7640-ba52-dee1567f7f75",
+      "date": "2026-11-09",
+      "startedAt": 1794196856,
+      "contentSHA256": "4a7e7f52427cbf59eb6f6f769cbf0755cbe52eb72c51429839a611d2f47c7eaa",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1be6e-6d11-7bc0-966a-28f48ae95d4b",
+      "date": "2026-11-09",
+      "startedAt": 1794196270,
+      "contentSHA256": "8cd3d50ffcec6ec45a951ff3c4865a29e8bc14e5e0c773936ee98d620ca43d75",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1be69-bbef-7522-8759-5a418c47697c",
+      "date": "2026-11-09",
+      "startedAt": 1794195962,
+      "contentSHA256": "8570debc43218d6821cdda20a0d3a5af339821c155857795089924bdcc53fd47",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1be63-f21c-7400-ad54-5cb5eaccbe3d",
+      "date": "2026-11-09",
+      "startedAt": 1794195583,
+      "contentSHA256": "8a76785beb0981d43543035735082672a6746f11630498446dfdf05fe4a111a0",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1be5c-75ae-7d40-91ee-979ead5c1d7c",
+      "date": "2026-11-09",
+      "startedAt": 1794195092,
+      "contentSHA256": "dca0569bcbb90f6541f47787304933ebbceadb286f692687d9d46e3cfe0c11c7",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1be56-2ecc-7ce3-9209-5a458acb8bb5",
+      "date": "2026-11-09",
+      "startedAt": 1794194681,
+      "contentSHA256": "7dcc5d327ad77d70f494a7565d19ec15ca877cd3d03f4cbc517d97bc1ca3db08",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1be3d-f94f-7b20-a909-ca49ba3e0e6d",
+      "date": "2026-11-09",
+      "startedAt": 1794193095,
+      "contentSHA256": "8faec9db0c7f0a6c720b349217d8dd2d1ca11af1d9ba6d08284da2cbdfa5fd3d",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1be36-969d-7cb1-8ca1-d7f93b8f7bc9",
+      "date": "2026-11-09",
+      "startedAt": 1794192611,
+      "contentSHA256": "4a17e5f0c2242a749ff7683d02a3444346f13fc137c7c782fc67c1a43f280473",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1be35-e23e-7b30-af0e-74f2dc9803ca",
+      "date": "2026-11-09",
+      "startedAt": 1794192565,
+      "contentSHA256": "2da488f065876276501bc006769f0d67e0f5aca7363c072f1c9aff2beb323829",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1be1f-4be2-7662-ab35-3155ba127275",
+      "date": "2026-11-09",
+      "startedAt": 1794191084,
+      "contentSHA256": "387722f522c89be3381627aafa5b45585a4d52d41211b9c230e4e37c53d4b081",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1be17-3d7e-74e1-9eaa-fe4ade070550",
+      "date": "2026-11-09",
+      "startedAt": 1794190556,
+      "contentSHA256": "aa90c1673bb030ba457dff050674b0feda0442728fb15f7cfff4e8531fc20a1c",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1be11-4f6e-7db2-b821-5f577e42b3d7",
+      "date": "2026-11-09",
+      "startedAt": 1794190167,
+      "contentSHA256": "d490c2ba57f6e9018eadc1d9dcde59eac700f02590f94ebcca3822719dcabfd0",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    }
+  ],
+  "originals": "Local archive preserved; public owner reports are the source documents. Excluded retouch chats and private references are not included."
+}

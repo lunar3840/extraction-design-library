@@ -1,0 +1,41 @@
+PASS save path is isolated StageMapPreview temporary storage: C:\Users\ehoji\AppData\Local\Temp\DefaultCompany\escape\StageMapPreview\59a1fceee8874930bae6da7188d4d27b\slot-1.json
+PASS actual first departure created exactly50 authored farming containers
+PASS an actual selected N2/N3/N4 boss exists in this departure
+PASS HALL overhaul is a mapped Edel safe
+PASS controlled demonstration seed found; not a random-first-attempt claim, seed=491, boss=N3
+PASS explicit controlled-seed fixture regenerated the real50-container spawner once
+OPEN_DIAGNOSTIC outcome=OPENED container=loot_hall_overhaul intended=(22.750, 2.040, -20.000) player=(22.750, 2.040, -20.000) lootRoot=(21.000, 2.412, -20.000) planarDistance=1.750 deltaY=0.372 forwardDot=1.0000 worldScale=0.4 inRange=True active=True available=True dead=False rolling=False menuLocked=False simulationFrozen=False mapBlocked=False inventoryOpen=True interactorEnabled=True
+OPEN_RAY_HIT none; inspect flags/range/facing above.
+PASS safe opened through real LootInteractor with proximity and line-of-sight checks; no fallback is accepted
+PASS real safe search revealed the seeded complete Edel cargo
+PASS saved actual game screenshot after_safe_search.png
+PASS searched safe chip transferred into actual live session bag
+PASS actual selected boss defeated through its live DamageReceiver event path: N3
+PASS defeat event spawned exactly one physically placed named loot container
+PASS actual boss stock matches seeded corresponding reward: chip_fragment_liv
+PASS actual boss stock matches seeded corresponding reward: chip_cargo_liv
+PASS boss has exactly its guaranteed fragment plus its probabilistic matching full chip, no unrelated cargo
+PASS duplicate hit callback and second lethal request produce no duplicate boss drop
+OPEN_DIAGNOSTIC outcome=OPENED container=drop_N3 intended=(196.996, 8.672, 93.029) player=(196.996, 8.340, 93.029) lootRoot=(195.196, 8.672, 93.029) planarDistance=1.800 deltaY=0.332 forwardDot=1.0000 worldScale=0.4 inRange=True active=True available=True dead=False rolling=False menuLocked=False simulationFrozen=False mapBlocked=False inventoryOpen=True interactorEnabled=True
+OPEN_RAY_HIT none; inspect flags/range/facing above.
+PASS boss loot opened through actual LootInteractor; no corpse obstruction or direct-state fallback accepted
+PASS real boss drop search revealed its guaranteed matching fragment
+PASS saved actual game screenshot after_boss_chip_drop.png
+PASS boss fragment transferred from searched physical drop into live bag
+PASS controlled seeded boss full chip transferred from physical drop into live bag
+PASS EXPLICIT TEST FIXTURE: added4 matching fragments to the1 genuinely collected boss fragment for restoration test
+PASS five same-character fragment units available before extraction
+PASS actual world restoration action is blocked while still on surface
+PASS public extraction lifecycle saved cargo and restored camp while preserving selected clean companion
+PASS actual extracted profile retains searched safe chip and boss fragments
+PASS real camp world RestoreRecoveredChip action committed five-fragment restoration
+PASS exactly five fragments consumed and one matching unpurified cargo chip created
+PASS restoration does not claim or select an unimplemented character unlock
+PASS independent-review rebind fix verified: live inventory controller owns the newly committed session bag with identical consumed fragments, identities and grid
+PASS real camp growth panel opened
+PASS saved actual game screenshot after_chip_recovery_panel.png
+PASS actual isolated LocalProfileStore envelope reloaded successfully: 
+PASS disk-reloaded inventory identities, grids, remaining fragments, restored cargo and profile revision exactly match the live extracted profile
+PASS disk reload preserves clean companion selection and completed fragment consumption
+PASS disk reload also matches the actual live UI inventory after the restoration rebind
+PASS completed controlled actual50-container safe→boss→search→bag→extraction→camp restoration→disk reload lifecycle. Seeded demonstrations and four fixture fragments are explicitly identified above.

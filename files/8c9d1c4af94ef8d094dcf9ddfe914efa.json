@@ -1,0 +1,24 @@
+{
+  "sourceAndDeliveredBlendIdentical": true,
+  "samples": [
+    {
+      "role": "before",
+      "armature": "EDEL_V16_RIG",
+      "bones": 52,
+      "actions": 92,
+      "packedFileImages": 9,
+      "missingImages": [],
+      "sha256": "d57e7f6c0b1c4d8c67a7a08e05d0353a8a9701889a746e5f4433273d6696e64e"
+    },
+    {
+      "role": "after",
+      "armature": "EDEL_V16_RIG",
+      "bones": 52,
+      "actions": 92,
+      "packedFileImages": 9,
+      "missingImages": [],
+      "sha256": "d57e7f6c0b1c4d8c67a7a08e05d0353a8a9701889a746e5f4433273d6696e64e"
+    }
+  ],
+  "renderPurpose": "Same source/copy file and camera, same resolution/lighting/pose. Packaging changed no model or animation. This is Blender authoring preview, not current Unity runtime appearance."
+}

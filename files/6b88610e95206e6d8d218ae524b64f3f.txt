@@ -1,0 +1,25 @@
+Independent cinematic direction checks
+UTC: 2026-10-19T06:30:49.2479649Z
+Unity: 6000.1.0f1
+Scope: camera geometry, real Physics adapter, memory-save boundaries and production enemy pause; full visual integration is separate.
+  Matrix plans: 108. SD test face uses +/-0.11 actor-height landmarks.
+PASS front-facing SD face composition across sizes, headings, frames and aspect ratios (10152 assertions)
+PASS duration, endpoint clamping and malformed input (161 assertions)
+PASS bounded continuous motion, fixed side and stable horizon (40656 assertions)
+PASS deterministic planning without shared random dependence (23 assertions)
+PASS gameplay rear view and line continuity cannot reverse the face (228 assertions)
+PASS emotion and situation produce relevant, readable shots (92 assertions)
+PASS recoverable occlusion chooses a clear camera path (2789 assertions)
+PASS production Physics probe avoids a real collider (1454 assertions)
+PASS intermediate path obstruction cannot be presented (1456 assertions)
+PASS fully blocked world has an explicit non-presentable fallback (13 assertions)
+PASS large presentation-stage coordinates retain composition (144 assertions)
+PASS field event completion never persists unextracted inventory (25 assertions)
+PASS camp events and wrong keys cannot complete in the field (16 assertions)
+PASS unplayed field events are discarded when the run ends (22 assertions)
+PASS field playback cannot carry lost-loot readiness dialogue into camp (13 assertions)
+PASS cinematic pause retains an actual enemy's attack and reload state (16 assertions)
+PASS square portrait enlarges the actual SD face without weakening safety (147 assertions)
+ASSERTIONS: 57407
+FAILED GROUPS: 0
+STATUS: PASS

@@ -1,0 +1,100 @@
+Actual isolated Unity tool study; no A-map/Play/FPS claim.
+FULLER car seed=731 95314 source triangles, 30 paths, 308 stem segments, 448 leaves, 0 excluded samples. 
+VARIANTS PASS car seedA=-1405530337 seedB=1314130356 shapeA=f3e16c4a0f21816f234723ef27933c78 shapeB=81009f252f257d1eefe2b9cc3b5a2fb1 replayExact=True
+ZERO car_iso PASS meanRGBErrorByte=0.000000 max=0 changedPixels=0/1600000
+ZERO car_top PASS meanRGBErrorByte=0.000000 max=0 changedPixels=0/1600000
+WEATHER car settings={"seed":731,"strength":0.6499999761581421,"rust":0.550000011920929,"dirt":0.6000000238418579,"streaks":0.44999998807907107,"moss":0.23999999463558198,"fading":0.44999998807907107,"noiseScale":1.7999999523162842}
+1 eligible slots, 2 skipped slots.
+AGED Model[0] 17e38f9b0e47c3c4f968b61c02deaa24_URP -> metal
+SKIP Stems[0]: generated ivy
+SKIP Leaves[0]: generated ivy
+
+COMBINED PASS car seed=-1405530337 samePatternAsA=True triangles=16548 newColliders=0 95314 source triangles, 36 paths, 366 stem segments, 537 leaves, 0 excluded samples. 
+SOURCE PASS car originalHash=d1c384ce46888202a68a60a8e98d59ed priorHash=88acc1578ea455d46b8144b2753b4ff1
+FULLER shell seed=731 23464 source triangles, 90 paths, 1051 stem segments, 1534 leaves, 0 excluded samples. Skipped: S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_ShellStain_renderStain: transparent/glass submesh; S06_ShellStain_renderStain: transparent/glass submesh
+VARIANTS PASS shell seedA=-1331241677 seedB=-1298738352 shapeA=3019414de49cd73c140d392572e6dc24 shapeB=6747eb808a3f4ec7c2d5e64948f6a5d9 replayExact=True
+ZERO shell_iso PASS meanRGBErrorByte=0.012507 max=85 changedPixels=578/1600000
+ZERO shell_top PASS meanRGBErrorByte=0.007165 max=88 changedPixels=325/1600000
+WEATHER shell settings={"seed":731,"strength":0.949999988079071,"rust":0.30000001192092898,"dirt":0.800000011920929,"streaks":0.8500000238418579,"moss":0.6000000238418579,"fading":0.6000000238418579,"noiseScale":0.800000011920929}
+36 eligible slots, 22 skipped slots.
+SKIP S06_Shell_colliderOnly[0]: protected renderer
+AGED S06_Shell_renderOpaque[0] D15_building_D09_PlasterIvory_9f113c4cbba6 -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[1] D15_building_D09_BrickRed_de338e222dad -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[2] D15_building_D09_IronDark_e4171e09cf67 -> metal (D09 retained)
+SKIP S06_Shell_renderOpaque[3]: protected glass/rubber/wood/foliage/overlay material
+SKIP S06_Shell_renderOpaque[4]: protected glass/rubber/wood/foliage/overlay material
+AGED S06_Shell_renderOpaque[5] D15_building_D09_IronDark_b876761c9ebb -> metal (D09 retained)
+SKIP S06_Shell_renderOpaque[6]: protected glass/rubber/wood/foliage/overlay material
+SKIP S06_Shell_renderOpaque[7]: protected glass/rubber/wood/foliage/overlay material
+AGED S06_Shell_renderOpaque[8] D09_ConcreteLight -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[9] D15_building_D09_PlasterIvory_3fb28663560c -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[10] D15_building_D09_BrickRed_191bc821034a -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[11] D15_building_D09_PlasterIvory_bccdd39cf85f -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[12] D15_building_D09_BrickRed_c7ce3a702aaf -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[13] D15_building_D09_IronDark_14b4507ae2a5 -> metal (D09 retained)
+SKIP S06_Shell_renderOpaque[14]: protected glass/rubber/wood/foliage/overlay material
+SKIP S06_Shell_renderOpaque[15]: protected glass/rubber/wood/foliage/overlay material
+AGED S06_Shell_renderOpaque[16] D15_building_D09_IronDark_3313804ab674 -> metal (D09 retained)
+SKIP S06_Shell_renderOpaque[17]: protected glass/rubber/wood/foliage/overlay material
+SKIP S06_Shell_renderOpaque[18]: protected glass/rubber/wood/foliage/overlay material
+AGED S06_Shell_renderOpaque[19] D15_building_D09_IronDark_a6093ec31d6c -> metal (D09 retained)
+SKIP S06_Shell_renderOpaque[20]: protected glass/rubber/wood/foliage/overlay material
+SKIP S06_Shell_renderOpaque[21]: protected glass/rubber/wood/foliage/overlay material
+AGED S06_Shell_renderOpaque[22] D15_building_D09_PlasterIvory_ba9a2d58e0fd -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[23] D15_building_D09_BrickRed_c65643c15164 -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[24] D15_building_D09_IronDark_e116e070ccd0 -> metal (D09 retained)
+SKIP S06_Shell_renderOpaque[25]: protected glass/rubber/wood/foliage/overlay material
+SKIP S06_Shell_renderOpaque[26]: protected glass/rubber/wood/foliage/overlay material
+AGED S06_Shell_renderOpaque[27] D15_building_D09_IronDark_fc808d1b51ef -> metal (D09 retained)
+SKIP S06_Shell_renderOpaque[28]: protected glass/rubber/wood/foliage/overlay material
+SKIP S06_Shell_renderOpaque[29]: protected glass/rubber/wood/foliage/overlay material
+AGED S06_Shell_renderOpaque[30] D15_building_D09_IronDark_f210f1ade065 -> metal (D09 retained)
+SKIP S06_Shell_renderOpaque[31]: protected glass/rubber/wood/foliage/overlay material
+SKIP S06_Shell_renderOpaque[32]: protected glass/rubber/wood/foliage/overlay material
+SKIP S06_Shell_renderOpaque[33]: protected glass/rubber/wood/foliage/overlay material
+AGED S06_Shell_renderOpaque[34] D09_TripoDetail_T09_e1fb014fdacbc5945bf2d33ebe900491 -> metal
+AGED S06_Shell_renderOpaque[35] D15_building_D09_PlasterIvory_4fe6b5087344 -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[36] D15_building_D09_BrickRed_00142d492a3f -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[37] D15_building_D09_ConcreteLight_1cc15c743d88 -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[38] D15_building_D09_PlasterIvory_7037cceaac42 -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[39] D15_building_D09_BrickRed_81be6dba4104 -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[40] D15_building_D09_ConcreteLight_b7ca78f7832d -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[41] D15_building_D09_PlasterIvory_9d28ae5d9711 -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[42] D15_building_D09_BrickRed_22cfd91b7a1d -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[43] D15_building_D09_ConcreteLight_2a13c9fd08e5 -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[44] D15_building_D09_PlasterIvory_dcdc847c9ea0 -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[45] D15_building_D09_BrickRed_b02c0024037a -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[46] D15_building_D09_ConcreteLight_f6b6b7d3614f -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[47] D09_PlasterIvory -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[48] D09_StoneBase -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[49] D09_BrickRed -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[50] D09_TerracottaRoof -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[51] D09_SheetPatina -> metal (D09 retained)
+AGED S06_Shell_renderOpaque[52] D09_IronDark -> metal (D09 retained)
+SKIP S06_ShellStain_renderStain[0]: unsupported shader Escape/BuildingD10/StainOverlay
+SKIP S06_ShellStain_renderStain[1]: unsupported shader Escape/BuildingD10/StainOverlay
+SKIP Stems[0]: generated ivy
+SKIP Leaves[0]: generated ivy
+
+COMBINED PASS shell seed=-1331241677 samePatternAsA=True triangles=56428 newColliders=0 23464 source triangles, 92 paths, 1246 stem segments, 1832 leaves, 0 excluded samples. Skipped: S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_Shell_renderOpaque: transparent/glass submesh; S06_ShellStain_renderStain: transparent/glass submesh; S06_ShellStain_renderStain: transparent/glass submesh
+SOURCE PASS shell originalHash=48c0de2effa600cfbc883131606d3b9f priorHash=73279c51e0dd0b195cf238032316c26f
+FULLER roof seed=731 5065 source triangles, 56 paths, 1080 stem segments, 1574 leaves, 0 excluded samples. 
+VARIANTS PASS roof seedA=1220700368 seedB=-1755707866 shapeA=061868b718422af20f7d33ce9662a3db shapeB=c8e7c7809c6f308ad80c710682dcda61 replayExact=True
+ZERO roof_iso PASS meanRGBErrorByte=0.000000 max=1 changedPixels=1/1600000
+ZERO roof_top PASS meanRGBErrorByte=0.000001 max=1 changedPixels=4/1600000
+WEATHER roof settings={"seed":731,"strength":0.949999988079071,"rust":0.30000001192092898,"dirt":0.800000011920929,"streaks":0.8500000238418579,"moss":0.6000000238418579,"fading":0.6000000238418579,"noiseScale":0.800000011920929}
+5 eligible slots, 5 skipped slots.
+AGED S06_Roof_renderOpaque[0] D09_BrickRed -> metal (D09 retained)
+AGED S06_Roof_renderOpaque[1] D09_TerracottaRoof -> metal (D09 retained)
+SKIP S06_Roof_renderOpaque[2]: protected glass/rubber/wood/foliage/overlay material
+SKIP S06_Roof_renderOpaque[3]: protected glass/rubber/wood/foliage/overlay material
+AGED S06_Roof_renderOpaque[4] D15_building_D09_PlasterIvory_87f80386ff6b -> metal (D09 retained)
+AGED S06_Roof_renderOpaque[5] D15_building_D09_BrickRed_51fee3fc4c8f -> metal (D09 retained)
+SKIP S06_Roof_renderOpaque[6]: protected glass/rubber/wood/foliage/overlay material
+AGED S06_Roof_renderOpaque[7] D09_SheetPatina -> metal (D09 retained)
+SKIP Stems[0]: generated ivy
+SKIP Leaves[0]: generated ivy
+
+COMBINED PASS roof seed=1220700368 samePatternAsA=True triangles=52326 newColliders=0 5065 source triangles, 56 paths, 1179 stem segments, 1689 leaves, 0 excluded samples. 
+SOURCE PASS roof originalHash=d7be0acce4a2b59abde902cb76e25afb priorHash=0124e41e1733a433c2f0ec09129f10bb
+RESULT PASS (study/persistence only; probes separate; no Amap/Play/FPS)

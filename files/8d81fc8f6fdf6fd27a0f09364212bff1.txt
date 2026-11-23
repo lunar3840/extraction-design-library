@@ -1,0 +1,12 @@
+Environment weathering validation: PASS. PreviewScene only; open user scene not saved.
+PASS URP Lit/D09 clone, strength zero, source PBR/D09 slots, Clear and unsupported skips
+  checkpoint car preview eligible=1
+  checkpoint car Bake=Assets/Escape/Art/SurfaceWeathering/Generated/StageA_v12_RustyVehicle_Car_e0216809/StageA_v12_RustyVehicle_Car_Weathered.prefab
+  checkpoint car saved .mat and prefab renderer values match pre-Bake
+  persisted real car demonstration: Assets/Escape/Art/SurfaceWeathering/Generated/StageA_v12_RustyVehicle_Car_e0216809/StageA_v12_RustyVehicle_Car_Weathered.prefab; eligible slots=1
+PASS real car Bake, prefab reload, source asset and geometry preservation
+  checkpoint S06 preview: plaster=9 masonry=16 metal=10 wood/glass skipped=17
+  checkpoint S06 Bake=Assets/Escape/Art/SurfaceWeathering/Generated/S06_Shell_68742e7b/S06_Shell_Weathered.prefab
+  checkpoint S06 saved .mat and prefab renderer values match pre-Bake
+  persisted S06 D09 demonstration: Assets/Escape/Art/SurfaceWeathering/Generated/S06_Shell_68742e7b/S06_Shell_Weathered.prefab; eligible slots=36
+PASS real D09 shell Bake and per-material recipe persistence

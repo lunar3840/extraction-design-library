@@ -1,0 +1,115 @@
+{
+  "status": "PASS",
+  "utc": "2026-09-14T19:08:55.1307255Z",
+  "preservedFiles": 4999,
+  "newFiles": 21,
+  "updatedFiles": 1,
+  "prefabHash": "D82B2E0CE7C68DE73971DEA990BAD96097C02E43BA141D55B972601F58615E63",
+  "files": [
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v11/0000_StageA_v11_Roof.mat",
+      "action": "new",
+      "sha256": "196B3FDBE01431C90784C1F886FE4C232177A663F65A61C4574E6AFC4B5844CE"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v11/0000_StageA_v11_Roof.mat.meta",
+      "action": "new",
+      "sha256": "7DA98517458AD2ED148C65E58BC7E528058ED21ADCD7060BD3DE1FF79CACC390"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v11/0001_StageA_v11_Glass.mat",
+      "action": "new",
+      "sha256": "DE886DDD73A7B9947C7A95BBC0D94AC95CF9C2B6269B934F4DE16FA77425EBE3"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v11/0001_StageA_v11_Glass.mat.meta",
+      "action": "new",
+      "sha256": "9C60889536A7B001EC0F54FD8E9AE57DBAAD6DAA0778DA79403FC39A586B13A8"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v11/0002_StageA_v11_Timber.mat",
+      "action": "new",
+      "sha256": "9949236BFF0314A0628E04C8D110FE140C9A4D90D0E31B8F485BCD8C7A0997D8"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v11/0002_StageA_v11_Timber.mat.meta",
+      "action": "new",
+      "sha256": "03ACA73C612B86AD2AF53BCC801EA5F13F274C53A25A736218CB5092F8339794"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v11/0003_StageA_v11_Plaster.mat",
+      "action": "new",
+      "sha256": "7B95C885C94617609EF79E3CCE82DE910551BC65924A07723E44713A9120EC71"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v11/0003_StageA_v11_Plaster.mat.meta",
+      "action": "new",
+      "sha256": "7D6BFFE2F33738A0B72AE44F9754A7456161B2BB805669D7F0FFBCA6F75FF73C"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v11/0004_StageA_v11_DarkMetal.mat",
+      "action": "new",
+      "sha256": "8BCF52B661E9B7E4ABD901EA1A85C0FA753F08EFC2D0BB66986AA6C545594ACE"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v11/0004_StageA_v11_DarkMetal.mat.meta",
+      "action": "new",
+      "sha256": "75A242B1BB5F4749BB5D4A1B7035C3608D05A875775579574E99BC732D94DF6B"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v11/0005_StageA_v11_Concrete.mat",
+      "action": "new",
+      "sha256": "B1A55042DE26C2D0FDF36A6EEDAB992EEAE3203DD1741F1AB5CD5B5A728B15A6"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v11/0005_StageA_v11_Concrete.mat.meta",
+      "action": "new",
+      "sha256": "64FF119F94BE70B48F2F4CE4D57B4442159DC9DDD89DAF0173CD14C2EAF1A3B4"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v11/0006_StageA_v11_Rust.mat",
+      "action": "new",
+      "sha256": "D150F60D4A076ED9AD4A586EF2C0469E102892BFE3B2ECE07568FA57573392FB"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v11/0006_StageA_v11_Rust.mat.meta",
+      "action": "new",
+      "sha256": "0192C7398F9E6582C2208C31A20CC5002C4837D59A4C6A7BD3CAFF01727001A0"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v11/0007_StageA_v11_Brick.mat",
+      "action": "new",
+      "sha256": "FE90C14DE4D9742359BF470D440B854E31E36CFB717F4D506399F019497D143B"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v11/0007_StageA_v11_Brick.mat.meta",
+      "action": "new",
+      "sha256": "B23B00957C0BE1D9CAF2F2C0EAC65133F2B10750F7F21F1F6E1B53F5C002C8CE"
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/Generated_v11.meta",
+      "action": "new",
+      "sha256": "2E960EA53D5619A264AFE0034A54F559F93AC9941B8BF2C6032061AC1482EF24"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageADistrictV11.cs",
+      "action": "new",
+      "sha256": "FDD4B39835D2C13DC7C9097ABEF42F70A15950539DA18BFB3D1324AE63CAF42D"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageADistrictV11.cs.meta",
+      "action": "new",
+      "sha256": "205C7B7F87868C3C2685E39A6B89B7AC682620C50DE13A03FE8EC3D7DD5AC575"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageADistrictSlotV11.cs",
+      "action": "new",
+      "sha256": "78FAA66CA2F40251143A77049690311B9267E62AE29C97458D938EAA96EB73D9"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageADistrictSlotV11.cs.meta",
+      "action": "new",
+      "sha256": "AF4A8D258F54C67941EADB13D52E3E6F7AC70482EF6FD288B36D085D9523D884"
+    }
+  ]
+}

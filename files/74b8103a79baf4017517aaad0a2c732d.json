@@ -1,0 +1,40 @@
+{
+  "status": "PASS_ARCHIVED_RECOMPILED_NATIVE_IDLE",
+  "utc": "2026-10-30T09:10:34.063987Z",
+  "files": [
+    {
+      "sha256": "A5AB884631F4C1977FF732B83F3E4C67D7C85821DD84D03BB4968FFC7BD85C13",
+      "file": "ClinicIntertwinedVines20261030.meta"
+    },
+    {
+      "sha256": "93940E38F315F5A7CD560B794AD9B87D834AA7D79C87A8BCCC311A57047ADF43",
+      "file": "ClinicIntertwinedVinesBridge.cs"
+    },
+    {
+      "sha256": "EB889D47725D4CBA9A6645F6DFD6AC8D2C77CCF686F03CD7510CE27C03B7324A",
+      "file": "ClinicIntertwinedVinesBridge.cs.meta"
+    },
+    {
+      "sha256": "76A90D2180C99C32BCDC85747F240A169F394F69D76C9D851C08D5F34377C034",
+      "file": "StageAClinicIntertwinedVinesBuilder.cs"
+    },
+    {
+      "sha256": "524585D7D995E386D4E4E3FD6135B5D589CE3FE97E16DFC2691953A8160ED090",
+      "file": "StageAClinicIntertwinedVinesBuilder.cs.meta"
+    },
+    {
+      "sha256": "492F70D09AD68D5DD5F8931DC33C66BD4CDB6710DA0D2990195BC797E395F594",
+      "file": "StageAClinicIntertwinedVinesValidation.cs"
+    },
+    {
+      "sha256": "0E428993568424F3066284F1D946EDAE61DD01279E381FAE56FFDFEFC33BC10C",
+      "file": "StageAClinicIntertwinedVinesValidation.cs.meta"
+    }
+  ],
+  "sourceAbsent": true,
+  "folderMetaAbsent": true,
+  "requestAbsent": true,
+  "productionAssetsModifiedByCleanup": false,
+  "nativeRecompileVerified": true,
+  "method": "Verified exact absolute source/target and known6 files, then literal Move-Item folder and folder meta; no deletion. Earlier compound cleanup was policy-rejected before process creation with no mutations."
+}

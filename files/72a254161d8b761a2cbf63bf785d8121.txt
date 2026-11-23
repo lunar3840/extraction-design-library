@@ -1,0 +1,9 @@
+Only three studios created during this diagnosis are removed; original orphan lights remain.
+diagnostic light -3131882 Thumbnail fill
+diagnostic light -3131876 Thumbnail key
+diagnostic light -3083994 Thumbnail fill
+diagnostic light -3083988 Thumbnail key
+diagnostic light -3179756 Thumbnail fill
+diagnostic light -3179750 Thumbnail key
+beforeThumbnailLights=38 remainingThumbnailLights=32
+playing=False sceneDirty=False

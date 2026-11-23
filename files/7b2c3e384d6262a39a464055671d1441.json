@@ -1,0 +1,26 @@
+[
+  {
+    "file": "Runtime/CurrentSourceClearanceFieldBudget.cs",
+    "hash": "6DD7D5F2A7EA03FA7A44C63DCD2E790F5E94BBC5C3FBCD696A924C9A251743A5"
+  },
+  {
+    "file": "Runtime/HeadSourceClearanceFieldBudget.cs",
+    "hash": "E402BC739B5631A1CCA0F678260CA841BC4D84CAE8E97189A48B9B388E448A16"
+  },
+  {
+    "file": "Runtime/SdHairCollisionMotion.cs",
+    "hash": "EC7BF1BE6DD556F15E9DAF989D39DC29570207FE58FADFBA0A40D13E3B288F72"
+  },
+  {
+    "file": "Runtime/BodySurfaceProjector.cs",
+    "hash": "6C295E67279BC9ED5314CF7123AB3F7DAE67E4DC21F7C316E0BA0466688DF33C"
+  },
+  {
+    "file": "Runtime/SdWeaponPose.cs",
+    "hash": "5F61536E38A21E011D416397C924FAE41245FE70A3F6D091F774DC88D2BDA465"
+  },
+  {
+    "file": "Runtime/EdelIndexSkinBinding.cs",
+    "hash": "0FFA3743EE352A2B3F1006296E7832780B23BCC2D2A37D858F52235670ABF6A3"
+  }
+]

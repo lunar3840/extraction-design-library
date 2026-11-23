@@ -1,0 +1,522 @@
+{
+  "execution_coverage_path": "outputs\\change_records\\2026-11-20\\animation-full-review\\EXECUTION_COVERAGE.json",
+  "execution_coverage_sha256": "1e7deab9d5ecb2687cb2249b26628cd3d9eaa000c69ea88d50f52923b270715e",
+  "ordinary_public_path588": 588,
+  "forced_gesture_schedule54": 54,
+  "exact_direct_dataset20": 20,
+  "total662": 662,
+  "native_selector63_observed": 63,
+  "native_missing_reachable": [],
+  "unreachable_E30_Run_Secondary_observed": false,
+  "manual_reactions_4actors_times_10": [
+    {
+      "actor": "prototype",
+      "reaction": "Joy",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "prototype",
+      "reaction": "Surprise",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "prototype",
+      "reaction": "Shy",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "prototype",
+      "reaction": "Curious",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 5
+    },
+    {
+      "actor": "prototype",
+      "reaction": "Determined",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 5
+    },
+    {
+      "actor": "prototype",
+      "reaction": "Joy",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 5
+    },
+    {
+      "actor": "prototype",
+      "reaction": "Surprise",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "prototype",
+      "reaction": "Shy",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "prototype",
+      "reaction": "Curious",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "prototype",
+      "reaction": "Determined",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "serin",
+      "reaction": "Joy",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 4
+    },
+    {
+      "actor": "serin",
+      "reaction": "Surprise",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 3
+    },
+    {
+      "actor": "serin",
+      "reaction": "Shy",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 5
+    },
+    {
+      "actor": "serin",
+      "reaction": "Curious",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 4
+    },
+    {
+      "actor": "serin",
+      "reaction": "Determined",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 3
+    },
+    {
+      "actor": "serin",
+      "reaction": "Joy",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 4
+    },
+    {
+      "actor": "serin",
+      "reaction": "Surprise",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 4
+    },
+    {
+      "actor": "serin",
+      "reaction": "Shy",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 4
+    },
+    {
+      "actor": "serin",
+      "reaction": "Curious",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 4
+    },
+    {
+      "actor": "serin",
+      "reaction": "Determined",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 4
+    },
+    {
+      "actor": "liv",
+      "reaction": "Joy",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "liv",
+      "reaction": "Surprise",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "liv",
+      "reaction": "Shy",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "liv",
+      "reaction": "Curious",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "liv",
+      "reaction": "Determined",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "liv",
+      "reaction": "Joy",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "liv",
+      "reaction": "Surprise",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "liv",
+      "reaction": "Shy",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 7
+    },
+    {
+      "actor": "liv",
+      "reaction": "Curious",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "liv",
+      "reaction": "Determined",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 7
+    },
+    {
+      "actor": "yui",
+      "reaction": "Joy",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 7
+    },
+    {
+      "actor": "yui",
+      "reaction": "Surprise",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "yui",
+      "reaction": "Shy",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 7
+    },
+    {
+      "actor": "yui",
+      "reaction": "Curious",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "yui",
+      "reaction": "Determined",
+      "armed": true,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "yui",
+      "reaction": "Joy",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 7
+    },
+    {
+      "actor": "yui",
+      "reaction": "Surprise",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "yui",
+      "reaction": "Shy",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 7
+    },
+    {
+      "actor": "yui",
+      "reaction": "Curious",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 6
+    },
+    {
+      "actor": "yui",
+      "reaction": "Determined",
+      "armed": false,
+      "supported": true,
+      "observed": true,
+      "sourceMatched": true,
+      "samples": 7
+    }
+  ],
+  "automatic_real_time_8conditions": [
+    {
+      "actor": "prototype",
+      "reaction": "Curious",
+      "armed": true,
+      "observed": true,
+      "quietAtStart": 0.13457420468330383,
+      "nextAtStart": 11.221966743469238,
+      "quietAtTrigger": 11.251580238342285,
+      "nextAtEnd": 20.592439651489258,
+      "wallSeconds": 10.987152099609375
+    },
+    {
+      "actor": "prototype",
+      "reaction": "Shy",
+      "armed": false,
+      "observed": true,
+      "quietAtStart": 0.12845730781555176,
+      "nextAtStart": 10.331344604492188,
+      "quietAtTrigger": 10.354218482971191,
+      "nextAtEnd": 22.548301696777344,
+      "wallSeconds": 10.09478759765625
+    },
+    {
+      "actor": "serin",
+      "reaction": "Surprise",
+      "armed": true,
+      "observed": true,
+      "quietAtStart": 0.20000000298023224,
+      "nextAtStart": 13.526996612548828,
+      "quietAtTrigger": 13.528363227844238,
+      "nextAtEnd": 26.022504806518555,
+      "wallSeconds": 15.5606689453125
+    },
+    {
+      "actor": "serin",
+      "reaction": "Shy",
+      "armed": false,
+      "observed": true,
+      "quietAtStart": 0.17601650953292847,
+      "nextAtStart": 9.880191802978516,
+      "quietAtTrigger": 9.881845474243164,
+      "nextAtEnd": 18.15280532836914,
+      "wallSeconds": 11.468994140625
+    },
+    {
+      "actor": "liv",
+      "reaction": "Determined",
+      "armed": true,
+      "observed": true,
+      "quietAtStart": 0.057470303028821945,
+      "nextAtStart": 11.860610961914062,
+      "quietAtTrigger": 11.866820335388184,
+      "nextAtEnd": 25.720619201660156,
+      "wallSeconds": 11.697433471679688
+    },
+    {
+      "actor": "liv",
+      "reaction": "Surprise",
+      "armed": false,
+      "observed": true,
+      "quietAtStart": 0.039474695920944214,
+      "nextAtStart": 11.888829231262207,
+      "quietAtTrigger": 11.89826488494873,
+      "nextAtEnd": 23.508058547973633,
+      "wallSeconds": 11.75762939453125
+    },
+    {
+      "actor": "yui",
+      "reaction": "Surprise",
+      "armed": true,
+      "observed": true,
+      "quietAtStart": 0.036470599472522736,
+      "nextAtStart": 9.767078399658203,
+      "quietAtTrigger": 9.800764083862305,
+      "nextAtEnd": 22.19114112854004,
+      "wallSeconds": 9.663742065429688
+    },
+    {
+      "actor": "yui",
+      "reaction": "Determined",
+      "armed": false,
+      "observed": true,
+      "quietAtStart": 0.03381140157580376,
+      "nextAtStart": 8.483481407165527,
+      "quietAtTrigger": 9.828333854675293,
+      "nextAtEnd": 21.852413177490234,
+      "wallSeconds": 9.702102661132812
+    }
+  ],
+  "actual_automatic_wall_seconds_range": [
+    9.663742065429688,
+    15.5606689453125
+  ],
+  "raw_v4_automatic_errors_resolved_by_v5": [
+    {
+      "run": "runtime_v4",
+      "error": "Automatic reaction not observed: liv/False"
+    },
+    {
+      "run": "runtime_v4",
+      "error": "Automatic reaction not observed: yui/False"
+    }
+  ],
+  "copied_screenshots": [
+    {
+      "original": "outputs\\change_records\\2026-11-20\\animation-full-review\\runtime_v3\\images\\aim_prototype_front.png",
+      "copy": "runtime_comparison\\game_screenshots\\runtime_v3_aim_prototype_front.png",
+      "sha256": "b45b7fc36f2fca91ce180dce135ba3e5626fcffdbbc8189b7d1194a3766de7c6"
+    },
+    {
+      "original": "outputs\\change_records\\2026-11-20\\animation-full-review\\runtime_v3\\images\\aim_prototype_side.png",
+      "copy": "runtime_comparison\\game_screenshots\\runtime_v3_aim_prototype_side.png",
+      "sha256": "9c29f54ee1a46bb7b1f2d79dc246e8259ef25f3614ecbb3a61b85651c7111ce9"
+    },
+    {
+      "original": "outputs\\change_records\\2026-11-20\\animation-full-review\\runtime_v3\\images\\fire_prototype_front.png",
+      "copy": "runtime_comparison\\game_screenshots\\runtime_v3_fire_prototype_front.png",
+      "sha256": "2618d719d96bb23aa9fa347b6655e98f2e5aed98124b074be5ca291fe7418e2b"
+    },
+    {
+      "original": "outputs\\change_records\\2026-11-20\\animation-full-review\\runtime_v4\\images\\direct_dataset_E30_U_Joy_frame_23_5_side.png",
+      "copy": "runtime_comparison\\game_screenshots\\runtime_v4_direct_dataset_E30_U_Joy_frame_23_5_side.png",
+      "sha256": "58aa04fb33f9c2df149d303a9ad8dbae90b320ae3efb019cde218dfb2ed470c7"
+    },
+    {
+      "original": "outputs\\change_records\\2026-11-20\\animation-full-review\\runtime_v4\\images\\direct_dataset_E30_U_Joy_frame_24_0_side.png",
+      "copy": "runtime_comparison\\game_screenshots\\runtime_v4_direct_dataset_E30_U_Joy_frame_24_0_side.png",
+      "sha256": "4109748babbc17f674c9812b74b1a8542e7e671684aa8b90305023da65a8c6c1"
+    },
+    {
+      "original": "outputs\\change_records\\2026-11-20\\animation-full-review\\runtime_v4\\images\\direct_dataset_E30_U_Joy_frame_28_5_front.png",
+      "copy": "runtime_comparison\\game_screenshots\\runtime_v4_direct_dataset_E30_U_Joy_frame_28_5_front.png",
+      "sha256": "290e55dec4a9823c8214b0a836dd7206ae1c2369f8e87919dff875eadeb4f0f6"
+    },
+    {
+      "original": "outputs\\change_records\\2026-11-20\\animation-full-review\\runtime_v4\\images\\roll_mid_yui_True_219_side.png",
+      "copy": "runtime_comparison\\game_screenshots\\runtime_v4_roll_mid_yui_True_219_side.png",
+      "sha256": "8b5131fca2a169a1a278e687f134de3c47409f1216e7957091703bc8e35cd3a1"
+    },
+    {
+      "original": "outputs\\change_records\\2026-11-20\\animation-full-review\\runtime_v5\\images\\automatic_natural_serin_False_middle_side.png",
+      "copy": "runtime_comparison\\game_screenshots\\runtime_v5_automatic_natural_serin_False_middle_side.png",
+      "sha256": "437da6842bebba2e9acd385918c4913f61c079f5ddba7850608dc1b73241f96a"
+    }
+  ],
+  "spaces": "Native Blender scene units and game player-root-local coordinates retaining world-meter scale are separate spaces. Within-sample change only; raw displacements from the two spaces are not compared as errors.",
+  "identity_scope": "EDEL_ShoulderConnection_r18 native IDs only apply to source SHA73fa5c397c9004cb788717df6cac7caf3bd58f105780b63fa3bdf85ac8a49908. Current GPU indices are independently identified. No source ID correspondence is asserted for MasterGRBody or any GR pass, even if vertex counts match.",
+  "approximate_mapping_limit": "BodySourceVertexMap is nearest-rest-position metadata, not a bijective topology proof. Not used to transplant repairs or infer GR IDs. Current 27958/45631 GPU topology is proved equal to historical CURRENT_EDEL_MODEL topology; this does not prove current UV/rest/material lineage."
+}

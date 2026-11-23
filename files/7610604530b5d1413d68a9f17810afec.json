@@ -1,0 +1,29 @@
+{
+  "native_sha256": "253e45d8e0782197685f090625b02c5f7184477b4496848b6d24f2613aa121cc",
+  "reviewed_at_kst": "2026-11-21T00:33:59.826433+09:00",
+  "method": "Main directly opened four independent fixed-camera diagnostic actual20 images, two paired palmar/outside views at252.5 and252.75.",
+  "observations": [
+    "Palmar and dorsal skin keep their visible side across the large bone-axis step.",
+    "No visible new skin inversion or sudden distal wrist fold between the paired views.",
+    "The proximal cut boundary belongs to diagnostic isolation; it is not a source mesh tear and is not a full-character original-material screenshot."
+  ],
+  "files": [
+    {
+      "path": "qa-independent\\pass_20_fresh\\P20_FAST_RETURN_252p5_palmar_fixed.png",
+      "sha256": "1b631b6ffa02a0b3d575197d29e44eacd01cfa3fe4d34d9368cabb2cabe17c3f"
+    },
+    {
+      "path": "qa-independent\\pass_20_fresh\\P20_FAST_RETURN_252p75_palmar_fixed.png",
+      "sha256": "e776f0f26dee0439836d3e166bce7d0d6c935b2a63ebb25ecea8aa3687d2330d"
+    },
+    {
+      "path": "qa-independent\\pass_20_fresh\\P20_FAST_RETURN_252p5_outside_fixed.png",
+      "sha256": "3a2eab93551d86ead551bf9117dad659348a3ff3b9438d806e6df5feed6e206d"
+    },
+    {
+      "path": "qa-independent\\pass_20_fresh\\P20_FAST_RETURN_252p75_outside_fixed.png",
+      "sha256": "4aa0990c85e4d990d24bc2b8e9d820c2015df57bdebe607cdd2ca5264a99f836"
+    }
+  ],
+  "independent_final_decision": "pending; this main observation does not replace independent final acceptance"
+}

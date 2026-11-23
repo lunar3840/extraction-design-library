@@ -1,0 +1,238 @@
+{
+  "file": "C:\\Users\\ehoji\\Downloads\\edel_eye_cleanup_20261016\\edel_eyes_clean_sclera_v11.blend",
+  "preservation": {
+    "Edel_Face_Skin": {
+      "unchanged_geometry_and_uv": true,
+      "source_hash": "190b9a7da88404a094e9543ecdf8135081b6b200316ee2b8c2ae31be71d5dd1c",
+      "final_hash": "190b9a7da88404a094e9543ecdf8135081b6b200316ee2b8c2ae31be71d5dd1c"
+    },
+    "Edel_UpperLid_Line": {
+      "unchanged_geometry_and_uv": true,
+      "source_hash": "a998dcb5e24e0a89aa9110ed97c60905c8f76c76fbf18aaccdecf447637c582e",
+      "final_hash": "a998dcb5e24e0a89aa9110ed97c60905c8f76c76fbf18aaccdecf447637c582e"
+    },
+    "Edel_Eyelashes": {
+      "unchanged_geometry_and_uv": true,
+      "source_hash": "972b37a39cd4b723498aedb432a6a9b54205ffa3a7a6b9985e0170cf5503ef5d",
+      "final_hash": "972b37a39cd4b723498aedb432a6a9b54205ffa3a7a6b9985e0170cf5503ef5d"
+    },
+    "Edel_Eyebrows": {
+      "unchanged_geometry_and_uv": true,
+      "source_hash": "8c41cb57246a7565af53c19a8da09ac7af8bf2e69779805051bd1aa69dc59fea",
+      "final_hash": "8c41cb57246a7565af53c19a8da09ac7af8bf2e69779805051bd1aa69dc59fea"
+    },
+    "Edel_Eyelid_Crease": {
+      "unchanged_geometry_and_uv": true,
+      "source_hash": "0222cd0845649c28fb2804b67da6e30b1c28ac5d7d1a48ac1e06af63987ae0c7",
+      "final_hash": "0222cd0845649c28fb2804b67da6e30b1c28ac5d7d1a48ac1e06af63987ae0c7"
+    }
+  },
+  "eye_objects": {
+    "Edel_Sclera_L": {
+      "verts": 12162,
+      "faces": 12288,
+      "components": 1,
+      "component_sizes": [
+        12162
+      ],
+      "boundary_edges": 0,
+      "boundary_vertices_non_degree2": 0,
+      "nonmanifold_edges_gt2": 0,
+      "shared_edges_inconsistent_winding": 0,
+      "zero_area_faces": 0,
+      "inward_normal_fraction_from_centroid": 0.0,
+      "uv_layers": [
+        "Eye_UV"
+      ],
+      "materials": [
+        "Edel_Sclera_Clean"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false,
+      "parent": "Edel_Eye_Pivot_L",
+      "origin": [
+        0.06179619953036308,
+        -0.07500000298023224,
+        0.7095795273780823
+      ],
+      "shape_keys": [],
+      "modifiers": []
+    },
+    "Edel_Iris_L": {
+      "verts": 2561,
+      "faces": 2560,
+      "components": 1,
+      "component_sizes": [
+        2561
+      ],
+      "boundary_edges": 128,
+      "boundary_vertices_non_degree2": 0,
+      "nonmanifold_edges_gt2": 0,
+      "shared_edges_inconsistent_winding": 0,
+      "zero_area_faces": 0,
+      "inward_normal_fraction_from_centroid": 0.0,
+      "uv_layers": [
+        "Iris_UV"
+      ],
+      "materials": [
+        "Edel_Iris_Clean_L"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false,
+      "parent": "Edel_Eye_Pivot_L",
+      "origin": [
+        0.06179619953036308,
+        -0.07500000298023224,
+        0.7095795273780823
+      ],
+      "shape_keys": [],
+      "modifiers": [
+        {
+          "name": "Gaze_Conform_To_Sclera",
+          "type": "SHRINKWRAP"
+        }
+      ]
+    },
+    "Edel_Sclera_R": {
+      "verts": 12162,
+      "faces": 12288,
+      "components": 1,
+      "component_sizes": [
+        12162
+      ],
+      "boundary_edges": 0,
+      "boundary_vertices_non_degree2": 0,
+      "nonmanifold_edges_gt2": 0,
+      "shared_edges_inconsistent_winding": 0,
+      "zero_area_faces": 0,
+      "inward_normal_fraction_from_centroid": 0.0,
+      "uv_layers": [
+        "Eye_UV"
+      ],
+      "materials": [
+        "Edel_Sclera_Clean"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false,
+      "parent": "Edel_Eye_Pivot_R",
+      "origin": [
+        -0.06179619953036308,
+        -0.07500000298023224,
+        0.7095795273780823
+      ],
+      "shape_keys": [],
+      "modifiers": []
+    },
+    "Edel_Iris_R": {
+      "verts": 2561,
+      "faces": 2560,
+      "components": 1,
+      "component_sizes": [
+        2561
+      ],
+      "boundary_edges": 128,
+      "boundary_vertices_non_degree2": 0,
+      "nonmanifold_edges_gt2": 0,
+      "shared_edges_inconsistent_winding": 0,
+      "zero_area_faces": 0,
+      "inward_normal_fraction_from_centroid": 0.0,
+      "uv_layers": [
+        "Iris_UV"
+      ],
+      "materials": [
+        "Edel_Iris_Clean_R"
+      ],
+      "hide_render": false,
+      "hide_viewport": false,
+      "hide_get": false,
+      "parent": "Edel_Eye_Pivot_R",
+      "origin": [
+        -0.06179619953036308,
+        -0.07500000298023224,
+        0.7095795273780823
+      ],
+      "shape_keys": [],
+      "modifiers": [
+        {
+          "name": "Gaze_Conform_To_Sclera",
+          "type": "SHRINKWRAP"
+        }
+      ]
+    },
+    "Edel_Iris": {
+      "verts": 194,
+      "faces": 320,
+      "components": 2,
+      "component_sizes": [
+        97,
+        97
+      ],
+      "boundary_edges": 64,
+      "boundary_vertices_non_degree2": 0,
+      "nonmanifold_edges_gt2": 0,
+      "shared_edges_inconsistent_winding": 0,
+      "zero_area_faces": 0,
+      "inward_normal_fraction_from_centroid": 0.2,
+      "uv_layers": [
+        "UVMap"
+      ],
+      "materials": [
+        "tripo_mat_5afc591d"
+      ],
+      "hide_render": true,
+      "hide_viewport": false,
+      "hide_get": true,
+      "parent": null,
+      "origin": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "shape_keys": [],
+      "modifiers": []
+    },
+    "Edel_Sclera": {
+      "verts": 56221,
+      "faces": 102426,
+      "components": 190,
+      "component_sizes": [
+        26882,
+        26567,
+        272,
+        271,
+        260,
+        254,
+        173,
+        168,
+        168,
+        156
+      ],
+      "boundary_edges": 10721,
+      "boundary_vertices_non_degree2": 646,
+      "nonmanifold_edges_gt2": 40,
+      "shared_edges_inconsistent_winding": 180,
+      "zero_area_faces": 0,
+      "inward_normal_fraction_from_centroid": 0.6192665924667565,
+      "uv_layers": [
+        "UVMap"
+      ],
+      "materials": [
+        "tripo_mat_5afc591d"
+      ],
+      "hide_render": true,
+      "hide_viewport": false,
+      "hide_get": true,
+      "parent": null,
+      "origin": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "shape_keys": [],
+      "modifiers": []
+    }
+  }
+}

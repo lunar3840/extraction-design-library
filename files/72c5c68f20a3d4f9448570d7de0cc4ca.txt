@@ -1,0 +1,1 @@
+hall_core_entries_exits_doors_tiers=True

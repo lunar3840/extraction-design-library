@@ -1,0 +1,34 @@
+[
+  {
+    "file": "lookup_legacy_1.csv",
+    "n": 90,
+    "unscaled_dt_ms": 21.17414951324463,
+    "native_cpu_main_ms": 18.0278,
+    "native_gpu_ms": 5.221888,
+    "gc_allocated_frame_value": 297951.0
+  },
+  {
+    "file": "lookup_legacy_2.csv",
+    "n": 90,
+    "unscaled_dt_ms": 23.203248977661133,
+    "native_cpu_main_ms": 20.00715,
+    "native_gpu_ms": 5.1712,
+    "gc_allocated_frame_value": 297951.0
+  },
+  {
+    "file": "lookup_reuse_1.csv",
+    "n": 90,
+    "unscaled_dt_ms": 19.423452377319336,
+    "native_cpu_main_ms": 16.63775,
+    "native_gpu_ms": 5.229056,
+    "gc_allocated_frame_value": 119625.0
+  },
+  {
+    "file": "lookup_reuse_2.csv",
+    "n": 90,
+    "unscaled_dt_ms": 22.238849639892578,
+    "native_cpu_main_ms": 18.9663,
+    "native_gpu_ms": 5.190656,
+    "gc_allocated_frame_value": 119625.0
+  }
+]

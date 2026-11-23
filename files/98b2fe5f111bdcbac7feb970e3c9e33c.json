@@ -1,0 +1,172 @@
+{
+  "schema": "A_MAP_INTENT_FINDINGS_1",
+  "dateKst": "2026-10-29",
+  "scope": "read-only route/entry/regional difficulty/CQB/cover/extraction audit",
+  "currentPrefabSha256": "9489641679e2d21554e7475f47b779d3e1d6d95d6a79dfeb3f30000bd3af7568",
+  "runtimeExecutedByThisAuditor": false,
+  "confirmedCriticalImplementationDefects": 0,
+  "findings": [
+    {
+      "id": "ROUTE-01",
+      "priority": 2,
+      "severity": "medium",
+      "kind": "planned_feature_not_implemented",
+      "title": "반입가치별 누적 진입 후보는 현재 동작하지 않는다",
+      "status": "confirmed_static_intent_gap_separately_scoped",
+      "source": [
+        "C:/UnityProject/escape/Assets/Escape/Runtime/Stage/Blockout/StageMapRouter.cs:95",
+        "C:/UnityProject/escape/Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab:1873391"
+      ],
+      "reproduction": "StageA 구조가 붙은 현재 map으로 장비가치가 서로 다른 두 InventoryState를 Enter에 전달한다. 둘 다 EquipmentValue=0,SelectedTier=0,BasicEntrySlots만 pool에 들어간다. 오늘 실행은 메인 담당.",
+      "impact": "지역 난도 구성은 있어도 사용자의 가치별 누적 후보 원칙까지 구현 완료라고 보고할 수 없다. 현 기본4점/R비활성은 의도적으로 보존된다.",
+      "recommendation": "이번 감사에서 미구현을 분리 보고한다. 후보별 초입 안전·위험도·차별성과 가치 문턱을 별도 확정한 뒤 구현한다. 감사만으로 R이나 장비 문턱을 활성화하지 않는다."
+    },
+    {
+      "id": "ROUTE-02",
+      "priority": 2,
+      "severity": "medium",
+      "kind": "validation_target_mismatch",
+      "title": "기존 B4_to_W05 실제이동은 original W5 공용 길목 검사가 아니다",
+      "status": "confirmed_evidence_scope_gap_not_a_movement_bug",
+      "source": [
+        "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-28/a-map-blender-environment-expansion/validation/StageABlenderExpansionPlayValidation.cs:246",
+        "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-28/a-map-blender-environment-expansion/validation/play_attempt_02/EXPANSION_PLAY_VALIDATION.txt:633",
+        "C:/UnityProject/escape/Assets/Escape/Runtime/Stage/Blockout/StageABlockoutStructureV08.cs:106"
+      ],
+      "reproduction": "과거 PlayValidation.BuildLanes는 buildingId=W05의 doorWitness를 고르고 끝점(-142.5,약1.56,20.657)으로 이동한다. original semantic W5는 지도(168,293),Unity XZ(-92,-93)이다. 두 목표는 수평 약124.37m 떨어진다.",
+      "impact": "건물W05 접근성은 확인됐지만 B4/R8의 공용W5 초반 노출·위험·우회·보상 차별성에 대한 검증은 대체하지 못한다.",
+      "recommendation": "B4와 inactive R8을 각각 시작점으로 original semantic W5 공용구간까지 동일카메라/동일순찰시드로 측정한다. W05 건물 검사는 독립 이름으로 유지한다. ROUTE_TEST_CONTRACT.json cases5/6 사용.",
+      "todayUpdate": "Today core physically walked B4->original semanticW5(45m) and inactiveR8->W5(67.64391m), so target-mismatch movement gap is now covered. Exposure/cover/reward distinction remains unvalidated."
+    },
+    {
+      "id": "ROUTE-03",
+      "priority": 2,
+      "severity": "medium",
+      "kind": "runtime_validation_gap",
+      "title": "초입·교량·탈출의 실제 사격 노출과 동적 봉쇄는 과거 지형 통과로 입증되지 않는다",
+      "status": "needs_current_runtime_evidence",
+      "source": [
+        "C:/UnityProject/escape/Assets/Escape/Runtime/Enemy/EnemyController.cs:218",
+        "C:/UnityProject/escape/Assets/Escape/Runtime/Enemy/EnemyController.cs:539",
+        "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-28/a-map-blender-environment-expansion/validation/play_attempt_02/EXPANSION_PLAY_VALIDATION.txt:4"
+      ],
+      "reproduction": "각 B 초입과 두 교량을 고정경로로 통과하며 AI frozen 지형검사와 AI unfrozen 노출검사를 나눠 수행한다. leash는 이동만 제한하고 사선 내 return fire는 제한하지 않는다.",
+      "impact": "현재 정적 배치상 고난도 home/leash가 B시작점에 겹치지는 않지만, 시야·연쇄조우·출구문턱 사격 또는 교량 실제이동 정체를 이 근거로 배제할 수 없다.",
+      "recommendation": "A/B/C 세 변형의 기초순찰과 시설경계 유인 후 회귀를 최소 한 회씩 기록한다. low entry 10~20m 영역의 공격자 수/실제피격/실제LOS와 교량 stall, 출구4초 유지 여부를 기록한다. 미실행 범위는 미검증으로 남긴다."
+    },
+    {
+      "id": "ROUTE-04",
+      "priority": 2,
+      "severity": "medium",
+      "kind": "runtime_validation_gap",
+      "title": "국소 목적 수행 후 탈출과 CQB 전투 선택의 품질은 별도 검증이 필요하다",
+      "status": "needs_current_runtime_evidence",
+      "source": [
+        "C:/UnityProject/escape/Assets/Escape/Runtime/Stage/SessionTestWorld.cs:301",
+        "C:/UnityProject/escape/Assets/Escape/Runtime/Stage/Blockout/StageAEncounterSpawner.cs:255",
+        "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-28/a-map-blender-environment-expansion/validation/play_attempt_02/EXPANSION_PLAY_VALIDATION.txt:4"
+      ],
+      "reproduction": "각B에서 가까운 실제 loot 하나를 열고 가까운 출구에서 정상4초 탈출한다. 다음에 TOOLS/POWER/PARTS/HALL의 실제 플레이어 시점에서 문/엄폐/실내기계 전투·루프를 관찰한다.",
+      "impact": "한 판에 전맵을 탐험해야 한다는 강제코드는 없으나 전체걷기 연결성이나 frozen AI 파밍 통과만으로 일부구역만 플레이하는 출격의 난도/보상/가독성이 좋다고 결론 낼 수 없다.",
+      "recommendation": "메인의 전수 entry→loot/exit NavMesh와 실제 PlayerMotor 표본에 국소loot→출구 loop를 포함한다. CQB는 frozen 문통과와 unfrozen 전투판정을 분리하고 미실행 항목을 숨기지 않는다.",
+      "todayUpdate": "Today continuous AI-frozen B4->one real nearby loot item->X3 automatic extraction passed. Broader unfrozen CQB/difficulty quality remains unvalidated."
+    },
+    {
+      "id": "ROUTE-05",
+      "priority": 2,
+      "severity": "medium",
+      "kind": "observed_runtime_route_following_anomaly_cause_pending",
+      "title": "B4→PARTS 한 경로에서 NavMesh 연결과 PlayerMotor 직접 추종 불일치",
+      "status": "reproduced_map_curb_contact_navmesh_vs_charactercontroller_mismatch",
+      "source": [
+        "main/runtime_core_639288501309967787/AUDIT.txt",
+        "main/runtime_core_639288501309967787/failure_route_B4_PARTS.png"
+      ],
+      "reproduction": "B4->PARTS exterior path length316.5387m; at(-39.38,1.35,-51.29), next goal(19.32,1.86,-40.08), PlayerMotor stalls12001steps while alive. Other13 lanes pass.",
+      "impact": "Specific harness-followed route did not progress. Whole Parts facility inaccessibility is not established.",
+      "recommendation": "Review curb world top1.648796 vs measured ground1.344358 effective rise0.30444m, CC stepOffset0.25m, NavMeshclimb/voxel alignment. Preserve alternate-route distinction and reverify same point after any future fix; this audit does not edit production geometry.",
+      "diagnostic": "Main executed direct180steps and locally replanned180steps with dt1/60: both XZ travel0.071598m; map Curb_WestEdge_Tile_01 repeated CC contact Sides|Below; NPC contact excluded. See DIAGNOSTIC_REVIEW.md.",
+      "fullRouteTightReplay": {
+        "source": "main/runtime_parts_639288509560221558/AUDIT.txt",
+        "pathLength": 316.5387,
+        "corners": 16,
+        "cornerTolerance": 0.06,
+        "overshootClamped": true,
+        "stallSteps": 12001,
+        "position": [
+          -39.38,
+          1.34,
+          -51.48
+        ],
+        "nextGoal": [
+          -39.12,
+          1.38,
+          -51.48
+        ],
+        "conclusion": "Original full route also stalls with tight corners; initial fast corner skip is not sole cause. Alternate Parts routes not tested."
+      }
+    },
+    {
+      "id": "ROUTE-06",
+      "priority": 2,
+      "severity": "medium",
+      "kind": "reproduced_player_visibility_defect",
+      "title": "W5에서 자연 카메라 갱신 후에도 플레이어 몸체가 S11 표면 뒤에 가려짐",
+      "status": "reproduced_actual_game_capture_after10frames",
+      "source": [
+        "routes/diagnostic_W5_visibility_639288508738697040/after_W5_actual_game.png",
+        "routes/diagnostic_W5_visibility_639288508738697040/DIAGNOSTIC.txt",
+        "C:/UnityProject/escape/Assets/Escape/Runtime/Stage/Blockout/StageABuildingV33Reveal.cs:189",
+        "C:/UnityProject/escape/Assets/Escape/Runtime/Stage/Blockout/StageABuildingV33Reveal.cs:411",
+        "C:/UnityProject/escape/Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab:112603"
+      ],
+      "reproduction": "Place live player feet(-92,0.02224,-93), wait10natural runtimecamera/roof frames, capture actual Game: HUD/playerhealthbar visible but character body obscured; active Reveal IsRevealing=False; ray hits S11 BlenderExpansion_S11_Shell collider.",
+      "impact": "Walkable original W5 junction has poor character readability at tested actual camera. Not all-map/all-building occlusion proof.",
+      "recommendation": "Review new S11 shell sibling outside VisualRoot/RoofCutawayRoot against AddBuildingRenderers traversal and renderer-name filters. Inspect actual blocking renderer triangles before generalizing fix; do not hide roofs/change camera only for passing evidence.",
+      "structuralEvidence": "Current prefab S11 VisualRoot points S11/Visual; RoofCutawayRoot under that Visual. BlenderExpansion_S11_Shell is direct S11 sibling, so AddBuildingRenderers does not traverse it. New Roof is under RoofCutawayRoot."
+    }
+  ],
+  "positiveFindings": [
+    "현재 기본4/R8비활성 정책은 실제선택코드와 저장배열이 일치한다.",
+    "54기계/14인간 로스터와 외곽 G1-G11 기계배치는 전구역 기계주적 방향에 부합한다.",
+    "낮은 초입 G1-G4는 소형 각2이고 고난도기계·named home의 활동범위는 기본시작점과 정적으로 떨어져 있다.",
+    "home leash 목표와 모든 경로코너 검사가 구현되어 무제한 추격을 막는 구조가 있다.",
+    "전체시설 방문수를 탈출요건으로 검사하는 코드가 이 감사 경로에는 없다."
+  ],
+  "runtimeEvidenceReviewed": {
+    "core": "main/runtime_core_639288501309967787",
+    "queryPass": 1205,
+    "queryFail": 0,
+    "queryTrivialSpawnEqualsFirstWaypoint": 209,
+    "physicalLanePass": 13,
+    "physicalLaneStall": 1,
+    "physicalMode": "accelerated PlayerMotor steps with frozen AI",
+    "localB4LootAndExtract": "actual Open, search, Take1 trade_c_006, continuous loot-to-X3 no warp, automatic4sec extraction PASS",
+    "lootGeometryAndDropFit": {
+      "passed": 2010,
+      "failed": 0
+    },
+    "entryObservation": "B1-B4 one natural roster per entry, idle30sec HP100->100; not traversal safety/winrate",
+    "diagnostics": {
+      "direct": "diagnostic_blocked_direct_639288508548642403",
+      "replan": "diagnostic_blocked_replan_639288508646040531",
+      "visibility": "diagnostic_W5_visibility_639288508738697040",
+      "review": "DIAGNOSTIC_REVIEW.md",
+      "performedBy": "main coordinator, independently reviewed by route auditor"
+    },
+    "allVariantPrediction": {
+      "source": "main/runtime_census_639288511214355325/ALL_VARIANTS_PATROL_PREFLIGHT.json",
+      "scope": "read-only prediction, not actual execution of all variants",
+      "variants": 209,
+      "predictedPass": 208,
+      "predictedFail": 1,
+      "actor": "G12_02",
+      "variant": "B",
+      "rawOutgoingPath": "PathInvalid",
+      "goalSampleDisplacement": 0.599700927734375,
+      "sampledPath": "PathComplete",
+      "bodyFailureLegs": 2,
+      "blocker": "V13_HallRoot/Exterior/Facade/BlenderExpansion_HALL_Interior/HALL_Interior/HALL_Interior_colliderOnly"
+    }
+  }
+}

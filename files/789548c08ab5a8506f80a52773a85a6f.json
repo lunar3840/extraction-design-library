@@ -1,0 +1,678 @@
+{
+  "desktop": {
+    "library": {
+      "geometry": [
+        {
+          "background": "rgba(0, 0, 0, 0)",
+          "font": "13px",
+          "h": 76,
+          "radius": "0px",
+          "s": ".shared-header",
+          "w": 1252,
+          "x": 14,
+          "y": 0
+        },
+        {
+          "background": "rgba(0, 0, 0, 0)",
+          "font": "20px",
+          "h": 29,
+          "radius": "0px",
+          "s": ".shared-brand h1",
+          "w": 202.6041717529297,
+          "x": 76,
+          "y": 31.5
+        },
+        {
+          "background": "rgba(0, 0, 0, 0)",
+          "font": "13px",
+          "h": 40,
+          "radius": "0px",
+          "s": ".shared-tabs",
+          "w": 235.58334350585935,
+          "x": 896.53125,
+          "y": 18
+        },
+        {
+          "background": "rgba(255, 253, 246, 0.68)",
+          "font": "13px",
+          "h": 496,
+          "radius": "18px",
+          "s": "body>aside",
+          "w": 236,
+          "x": 14,
+          "y": 132
+        },
+        {
+          "background": "rgba(255, 253, 246, 0.68)",
+          "font": "11px",
+          "h": 68,
+          "radius": "18px",
+          "s": ".shared-footer",
+          "w": 1252,
+          "x": 14,
+          "y": 640
+        }
+      ],
+      "icons": [
+        {
+          "icon": "grid",
+          "tone": "cream"
+        },
+        {
+          "icon": "document",
+          "tone": "sand"
+        },
+        {
+          "icon": "history",
+          "tone": "sage"
+        },
+        {
+          "icon": "chat",
+          "tone": "rust"
+        },
+        {
+          "icon": "images",
+          "tone": "blue"
+        },
+        {
+          "icon": "grid",
+          "tone": "cream"
+        },
+        {
+          "icon": "globe",
+          "tone": "blue"
+        },
+        {
+          "icon": "person",
+          "tone": "rust"
+        },
+        {
+          "icon": "map",
+          "tone": "sage"
+        },
+        {
+          "icon": "combat",
+          "tone": "rust"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "growth",
+          "tone": "sage"
+        },
+        {
+          "icon": "interface",
+          "tone": "blue"
+        },
+        {
+          "icon": "graphics",
+          "tone": "sand"
+        },
+        {
+          "icon": "tools",
+          "tone": "sage"
+        }
+      ],
+      "links": [
+        "http://127.0.0.1:61674/?theme=white",
+        "https://extraction-balance-editor.ehojin0415.chatgpt.site/?theme=white"
+      ],
+      "theme": "white"
+    },
+    "editor": {
+      "geometry": [
+        {
+          "background": "rgba(0, 0, 0, 0)",
+          "font": "13px",
+          "h": 76,
+          "radius": "0px",
+          "s": ".shared-header",
+          "w": 1252,
+          "x": 14,
+          "y": 0
+        },
+        {
+          "background": "rgba(0, 0, 0, 0)",
+          "font": "20px",
+          "h": 29,
+          "radius": "0px",
+          "s": ".shared-brand h1",
+          "w": 202.6041717529297,
+          "x": 76,
+          "y": 31.5
+        },
+        {
+          "background": "rgba(0, 0, 0, 0)",
+          "font": "13px",
+          "h": 40,
+          "radius": "0px",
+          "s": ".shared-tabs",
+          "w": 235.58334350585935,
+          "x": 896.53125,
+          "y": 18
+        },
+        {
+          "background": "rgba(255, 253, 246, 0.68)",
+          "font": "13px",
+          "h": 496,
+          "radius": "18px",
+          "s": ".sidebar",
+          "w": 236,
+          "x": 14,
+          "y": 132
+        },
+        {
+          "background": "rgba(255, 253, 246, 0.68)",
+          "font": "13px",
+          "h": 68,
+          "radius": "18px",
+          "s": ".app-footer",
+          "w": 1252,
+          "x": 14,
+          "y": 640
+        }
+      ],
+      "icons": [
+        {
+          "icon": "grid",
+          "tone": "cream"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "person",
+          "tone": "rust"
+        },
+        {
+          "icon": "route",
+          "tone": "sage"
+        },
+        {
+          "icon": "combat",
+          "tone": "rust"
+        },
+        {
+          "icon": "ammo",
+          "tone": "sand"
+        },
+        {
+          "icon": "combat",
+          "tone": "rust"
+        },
+        {
+          "icon": "map",
+          "tone": "sage"
+        },
+        {
+          "icon": "map",
+          "tone": "sage"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "weapon",
+          "tone": "blue"
+        },
+        {
+          "icon": "ammo",
+          "tone": "sand"
+        },
+        {
+          "icon": "ammo",
+          "tone": "sand"
+        },
+        {
+          "icon": "ammo",
+          "tone": "sand"
+        },
+        {
+          "icon": "ammo",
+          "tone": "sand"
+        },
+        {
+          "icon": "ammo",
+          "tone": "sand"
+        },
+        {
+          "icon": "ammo",
+          "tone": "sand"
+        },
+        {
+          "icon": "ammo",
+          "tone": "sand"
+        },
+        {
+          "icon": "ammo",
+          "tone": "sand"
+        },
+        {
+          "icon": "ammo",
+          "tone": "sand"
+        },
+        {
+          "icon": "ammo",
+          "tone": "sand"
+        },
+        {
+          "icon": "ammo",
+          "tone": "sand"
+        },
+        {
+          "icon": "ammo",
+          "tone": "sand"
+        },
+        {
+          "icon": "coins",
+          "tone": "sand"
+        },
+        {
+          "icon": "coins",
+          "tone": "sand"
+        },
+        {
+          "icon": "coins",
+          "tone": "sand"
+        },
+        {
+          "icon": "coins",
+          "tone": "sand"
+        },
+        {
+          "icon": "coins",
+          "tone": "sand"
+        },
+        {
+          "icon": "coins",
+          "tone": "sand"
+        },
+        {
+          "icon": "coins",
+          "tone": "sand"
+        },
+        {
+          "icon": "coins",
+          "tone": "sand"
+        },
+        {
+          "icon": "coins",
+          "tone": "sand"
+        },
+        {
+          "icon": "shield",
+          "tone": "blue"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "bag",
+          "tone": "sand"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "health",
+          "tone": "rust"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "growth",
+          "tone": "sage"
+        },
+        {
+          "icon": "growth",
+          "tone": "sage"
+        },
+        {
+          "icon": "growth",
+          "tone": "sage"
+        },
+        {
+          "icon": "growth",
+          "tone": "sage"
+        },
+        {
+          "icon": "growth",
+          "tone": "sage"
+        },
+        {
+          "icon": "growth",
+          "tone": "sage"
+        },
+        {
+          "icon": "growth",
+          "tone": "sage"
+        },
+        {
+          "icon": "person",
+          "tone": "rust"
+        },
+        {
+          "icon": "person",
+          "tone": "rust"
+        },
+        {
+          "icon": "person",
+          "tone": "rust"
+        },
+        {
+          "icon": "person",
+          "tone": "rust"
+        },
+        {
+          "icon": "person",
+          "tone": "rust"
+        },
+        {
+          "icon": "person",
+          "tone": "rust"
+        },
+        {
+          "icon": "person",
+          "tone": "rust"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "map",
+          "tone": "sage"
+        },
+        {
+          "icon": "map",
+          "tone": "sage"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "flag",
+          "tone": "rust"
+        },
+        {
+          "icon": "flag",
+          "tone": "rust"
+        },
+        {
+          "icon": "coins",
+          "tone": "sand"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "settings",
+          "tone": "blue"
+        },
+        {
+          "icon": "health",
+          "tone": "rust"
+        },
+        {
+          "icon": "combat",
+          "tone": "rust"
+        },
+        {
+          "icon": "combat",
+          "tone": "rust"
+        },
+        {
+          "icon": "combat",
+          "tone": "rust"
+        },
+        {
+          "icon": "combat",
+          "tone": "rust"
+        },
+        {
+          "icon": "combat",
+          "tone": "rust"
+        },
+        {
+          "icon": "combat",
+          "tone": "rust"
+        },
+        {
+          "icon": "combat",
+          "tone": "rust"
+        }
+      ],
+      "links": [
+        "https://extraction-design-library-ehoji.ehojin0415.chatgpt.site/?theme=white",
+        "http://127.0.0.1:8892/?theme=white"
+      ],
+      "theme": "white"
+    }
+  },
+  "mobile": {
+    "library": {
+      "font": "19px",
+      "header": {
+        "bottom": 125,
+        "height": 125,
+        "left": 10,
+        "right": 373.3333435058594,
+        "top": 0,
+        "width": 363.3333435058594,
+        "x": 10,
+        "y": 0
+      },
+      "scrollWidth": 383,
+      "sidebar": {
+        "bottom": 439,
+        "height": 250,
+        "left": 10,
+        "right": 373.3333435058594,
+        "top": 189,
+        "width": 363.3333435058594,
+        "x": 10,
+        "y": 189
+      },
+      "tools": {
+        "bottom": 110,
+        "height": 40,
+        "left": 14,
+        "right": 369.3333435058594,
+        "top": 70,
+        "width": 355.3333435058594,
+        "x": 14,
+        "y": 70
+      },
+      "width": 383
+    },
+    "editor": {
+      "font": "19px",
+      "header": {
+        "bottom": 125,
+        "height": 125,
+        "left": 10,
+        "right": 373.3333435058594,
+        "top": 0,
+        "width": 363.3333435058594,
+        "x": 10,
+        "y": 0
+      },
+      "scrollWidth": 383,
+      "sidebar": {
+        "bottom": 439,
+        "height": 250,
+        "left": 10,
+        "right": 373.3333435058594,
+        "top": 189,
+        "width": 363.3333435058594,
+        "x": 10,
+        "y": 189
+      },
+      "tools": {
+        "bottom": 110,
+        "height": 40,
+        "left": 14,
+        "right": 369.3333435058594,
+        "top": 70,
+        "width": 355.3333435058594,
+        "x": 14,
+        "y": 70
+      },
+      "width": 383
+    }
+  },
+  "crossOriginThemeParameterVerified": true,
+  "selectionAfterReload": "white",
+  "publicAuthDialogOpenedWithoutCredential": true,
+  "themeSwitchSharedGeometry": true
+}

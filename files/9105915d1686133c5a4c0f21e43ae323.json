@@ -1,0 +1,156 @@
+{
+  "verdict": "PASS_TIMING_ONLY_TWO_PREVIEWS",
+  "checked_at_kst": "2026-11-21T03:37:45.875037+09:00",
+  "scope": "Only two60fps ordered-PNG-selection timing previews; no new spatial QA or live-player timing measurement.",
+  "native_sha256": "253e45d8e0782197685f090625b02c5f7184477b4496848b6d24f2613aa121cc",
+  "source_video_sha256": "1ce5f485aa822292e5f80362495e1e6cf14bee5d89e5a89eaf7926fe34d3f4cc",
+  "timing_plan_sha256": "21836f31b6258db56356919c8586e66738b4685f2558c63d1cbe40d230414503",
+  "producer_verification_sha256": "536fe660e2e8679edb7ad76de991cb46afcf34cba0c7c763ffa92b1daefb20de",
+  "timing_basis": {
+    "base_reload_seconds": 3.0,
+    "formula_source": "RifleState.cs:139-140",
+    "attachment_source": "WeaponAttachments.cs default reloadTime1, Combine multiplication and9 actual fitted catalog definitions",
+    "fit_manifest": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-19\\pc-weapons-originals\\SOURCE_FILES\\main\\outputs\\Weapon_ModFit\\AR_013_A\\fit_manifest.json",
+    "part_reload_time_multipliers": {
+      "att_handguard_stable": 1.0,
+      "att_barrel_long": 1.0,
+      "att_stock_tactical": 1.05,
+      "att_reargrip_rubber": 1.0,
+      "att_mag_extended": 1.12,
+      "att_optic_red_dot": 1.0,
+      "att_muzzle_rifle_suppressor": 1.0,
+      "att_foregrip_vertical": 1.0,
+      "att_tactical_flashlight": 1.0
+    },
+    "attachment_product": 1.1760000000000002,
+    "clamp_range": [
+      0.65,
+      1.4
+    ],
+    "nominal_mod_a_seconds": 3.5280000000000005,
+    "growth_multiplier_assumed": 1,
+    "status_multiplier_assumed": 1,
+    "reload_affix_bonus_assumed": 0,
+    "live_player_inventory_measured": false,
+    "additional_actual_preset_reload_modifiers": false
+  },
+  "protected_inputs_hashes": [
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\WeaponCatalog.json",
+      "sha256": "58c052b1dbcf5afaa1ec40105521ee1a8e90c1a0dea6fcaa5f86d99c58617884",
+      "matches_plan": true
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Weapon\\Core\\RifleState.cs",
+      "sha256": "0f72c33761d9ff0abff4b84b9abc1f721e7b6d79cfca90560a98cb896565d715",
+      "matches_plan": true
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Weapon\\Core\\WeaponAttachments.cs",
+      "sha256": "d817fed254f2840506c35f3ca3956f8305fa616c05e46dcde030cd594fa2754d",
+      "matches_plan": true
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\EdelOriginalMotion.cs",
+      "sha256": "deecd4ceb21c90a5423ac2cade501335627c600150632654fb1c831f604d62fe",
+      "matches_plan": true
+    },
+    {
+      "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-19\\pc-weapons-originals\\SOURCE_FILES\\main\\outputs\\Weapon_ModFit\\AR_013_A\\fit_manifest.json",
+      "sha256": "050b48a2805203c6933f2c35f0da5b78fb772d619f0b27389220fe0c4efed06d",
+      "matches_plan": true
+    },
+    {
+      "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\weapon-grip-reload-20261119\\qa_inputs\\AR_013_A_pass_20.blend",
+      "sha256": "253e45d8e0782197685f090625b02c5f7184477b4496848b6d24f2613aa121cc",
+      "matches_plan": true
+    },
+    {
+      "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-20\\weapon-left-hand-orientation\\review_media\\pass_20_v2\\Edel_SCAR_Corrected_Reload_20261120.mp4",
+      "sha256": "1ce5f485aa822292e5f80362495e1e6cf14bee5d89e5a89eaf7926fe34d3f4cc",
+      "matches_plan": true
+    }
+  ],
+  "variants": [
+    {
+      "id": "base",
+      "file": "Edel_SCAR_Reload_Base_3p00s.mp4",
+      "sha256": "49243e2d04a05b22d577038e1cea26f16373f25f995828da24f80d900b85abb6",
+      "decoded_frames": 180,
+      "fps_from_input_stream": 60,
+      "decoded_pts_start_seconds": 0.0,
+      "decoded_pts_last_seconds": 2.983333,
+      "max_pts_error_from_60fps_seconds": 3.33333333379926e-07,
+      "decoded_out_time_seconds": 3.0,
+      "duration_seconds": 3.0,
+      "nominal_game_seconds": 3.0,
+      "quantization_error_seconds": 0.0,
+      "source_frame_range": [
+        1,
+        271
+      ],
+      "source_index_step_range": [
+        1,
+        2
+      ],
+      "source_index_strictly_increasing": true,
+      "exact_source_png_copies_verified": 180,
+      "source_index_list_sha256": "45bb82a9b388288002f0a1f9fceebc1717c0f3b5ea5db900d28127b5bf860ce1",
+      "ordered_output_source_and_sha_pairs_sha256": "b1bf72598d27dc3d4036fa20aa1ab142c7537008c01a1843c6f242078b66003c"
+    },
+    {
+      "id": "mod_a",
+      "file": "Edel_SCAR_Reload_ModA_3p53s.mp4",
+      "sha256": "08827d568d6bc4e99412a91a767738231c05308059856d467a99c906bd8641f9",
+      "decoded_frames": 212,
+      "fps_from_input_stream": 60,
+      "decoded_pts_start_seconds": 0.0,
+      "decoded_pts_last_seconds": 3.516667,
+      "max_pts_error_from_60fps_seconds": 3.33333333379926e-07,
+      "decoded_out_time_seconds": 3.533333,
+      "duration_seconds": 3.533333333333333,
+      "nominal_game_seconds": 3.5280000000000005,
+      "quantization_error_seconds": 0.005333333333332746,
+      "source_frame_range": [
+        1,
+        271
+      ],
+      "source_index_step_range": [
+        1,
+        2
+      ],
+      "source_index_strictly_increasing": true,
+      "exact_source_png_copies_verified": 212,
+      "source_index_list_sha256": "9d7c866a2197f31361c93ba55665ad18f67ce03bcdb3b91ae77afa78d6aa2b67",
+      "ordered_output_source_and_sha_pairs_sha256": "b7a82064b7874f478449b6447ec319c9bcb8b5219cd5a8bad5008db79dec864c"
+    }
+  ],
+  "selected_png_pairs_verified": 392,
+  "distinct_source_png_count_hashed": 250,
+  "boards_actually_viewed": [
+    {
+      "file": "GAME_SPEED_CADENCE.png",
+      "sha256": "833cca6f235693073cbe2c90138ab139ea84610795165852dac2a32bee8d24d0",
+      "view": "direct composite image; not video playback"
+    },
+    {
+      "file": "GAME_SPEED_COMPARISON.png",
+      "sha256": "9c4719947ce57d120374954a8c2a93b917122342a754c8180783c7fa6ff0ee77",
+      "view": "direct composite image; not video playback"
+    }
+  ],
+  "visual_result": "Cadence and matched-pose boards show coherent extraction/drop/pouch/seating/return with matching source poses.",
+  "production_tool_failure": "Obsolete FFmpeg9 -vsync extraction option; valid base MP4 preserved. Both final movies independently decode completely. Not a model/game failure.",
+  "qa_tool_attempt": "First attempt stopped at PIL import before checking/writing; completed retry uses standard library and FFmpeg only.",
+  "native_producer_game_prior_qa_modified": false,
+  "new_geometry_or_pose_generated": false,
+  "unity_run": false,
+  "export_run": false,
+  "limitations": [
+    "ModA is3.533333s at60Hz versus nominal3.528s.",
+    "No live-player inventory/growth/status/affix measurement or Unity playback.",
+    "Selected source PNG copies are byte-exact; H264 pixels are lossy and not asserted byte-identical.",
+    "Boards actually viewed; no real-time video playback claim.",
+    "Timing-only QA does not reissue spatial approval."
+  ]
+}

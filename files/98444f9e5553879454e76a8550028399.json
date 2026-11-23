@@ -1,0 +1,113 @@
+{
+  "beforePass": true,
+  "afterPass": true,
+  "beforeD15Active": true,
+  "beforeLimbMaskAbsent": true,
+  "afterLimbMaskOne": true,
+  "edelDefaultAutomatic": true,
+  "nonEdelChecks": [
+    "PASS OTHER serin model=Player_Serin d15Materials=24 bindingsIntact=true EdelSkinReadability/FaceReadability/LimbSkinShading=zero-or-absent",
+    "PASS OTHER liv model=Player_Liv d15Materials=14 bindingsIntact=true EdelSkinReadability/FaceReadability/LimbSkinShading=zero-or-absent",
+    "PASS OTHER yui model=Player_Yui d15Materials=20 bindingsIntact=true EdelSkinReadability/FaceReadability/LimbSkinShading=zero-or-absent"
+  ],
+  "uv0AndVertexLogsMatch": true,
+  "uv0ObservedRowsBefore": 26,
+  "uv0ObservedRowsAfter": 26,
+  "poseCameraLogsMatch": true,
+  "pairedShots": 9,
+  "unexpectedProductionChanges": [],
+  "protectedFiles": [
+    {
+      "path": "Assets/Escape/Art/Toon/HybridToon.shader",
+      "before": "6CBC6E0AB353DB70ED58596F4DB0C1A272F0A527381CFB48D8DEA27AEEB34F25",
+      "after": "F8849FF9755225CA99F5948EC93E4E165E58E3B8C3B4A7821595BF1178B92B10",
+      "expectedChange": true,
+      "unchanged": false
+    },
+    {
+      "path": "Assets/Escape/Art/SubcultureD15/CharacterHybridD15.shader",
+      "before": "6468111B64C5D29B56D85FC82A22D06B3C890E38045FB46882E82AC103525326",
+      "after": "A841211530B0684DCB35ED1C5E8EB21B5998618CF8ADC0955A158E3D1E0A2179",
+      "expectedChange": true,
+      "unchanged": false
+    },
+    {
+      "path": "Assets/Escape/Runtime/Visuals/ToonCharacterStyle.cs",
+      "before": "CA3D5A2A8D34D22DCFB20A7C52991EDA99502798E1B5F99B356849119147199E",
+      "after": "206E6A2D738685890D57505369F948C9B334D27B59927C6D570DB41DFA9AB7FB",
+      "expectedChange": true,
+      "unchanged": false
+    },
+    {
+      "path": "Assets/Escape/Runtime/Visuals/SubcultureD15Profile.cs",
+      "before": "B44205B8AB5DAC427C6CB9BA909F4B62590FDA99C3ADDB9DB4BE142735D15555",
+      "after": "B44205B8AB5DAC427C6CB9BA909F4B62590FDA99C3ADDB9DB4BE142735D15555",
+      "expectedChange": false,
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/EdelSkinShadingMask.cs",
+      "before": "D32C48C254159D2CB587ED002115E8DDADDFDA74B8821475205ACA904FB32D1A",
+      "after": "D32C48C254159D2CB587ED002115E8DDADDFDA74B8821475205ACA904FB32D1A",
+      "expectedChange": false,
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/SdHairCollisionMotion.cs",
+      "before": "9A67D076FF030E06F18E79274E00D1BDBCEB44EBAABF9DD2792D9CD44A04E837",
+      "after": "9A67D076FF030E06F18E79274E00D1BDBCEB44EBAABF9DD2792D9CD44A04E837",
+      "expectedChange": false,
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/EdelProximalHairBinding.cs",
+      "before": "6CA2E9011377B27E752C2715B775B5589F99192369DDD09D79BBDCBBEEA88B95",
+      "after": "6CA2E9011377B27E752C2715B775B5589F99192369DDD09D79BBDCBBEEA88B95",
+      "expectedChange": false,
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/SdCharacterVisual.cs",
+      "before": "31489084827CD82F2E289263C3043FAB3E42133F736E672C46A053971C1918BA",
+      "after": "31489084827CD82F2E289263C3043FAB3E42133F736E672C46A053971C1918BA",
+      "expectedChange": false,
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/SdWeaponPose.cs",
+      "before": "5F61536E38A21E011D416397C924FAE41245FE70A3F6D091F774DC88D2BDA465",
+      "after": "5F61536E38A21E011D416397C924FAE41245FE70A3F6D091F774DC88D2BDA465",
+      "expectedChange": false,
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/EdelIndexSkinBinding.cs",
+      "before": "0FFA3743EE352A2B3F1006296E7832780B23BCC2D2A37D858F52235670ABF6A3",
+      "after": "0FFA3743EE352A2B3F1006296E7832780B23BCC2D2A37D858F52235670ABF6A3",
+      "expectedChange": false,
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Settings/PC_Renderer.asset",
+      "before": "ABD5520A615B49CB1CE7337F9C81D0B87FDB9332D23D1435C6A103CCE55E14C7",
+      "after": "ABD5520A615B49CB1CE7337F9C81D0B87FDB9332D23D1435C6A103CCE55E14C7",
+      "expectedChange": false,
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab",
+      "before": "9489641679E2D21554E7475F47B779D3E1D6D95D6A79DFEB3F30000BD3AF7568",
+      "after": "9489641679E2D21554E7475F47B779D3E1D6D95D6A79DFEB3F30000BD3AF7568",
+      "expectedChange": false,
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+      "before": "8670CF85F4DE5DC9E6DAFCA3CE8B2BAC927ED016EFD5141E6AA2C391FD525150",
+      "after": "8670CF85F4DE5DC9E6DAFCA3CE8B2BAC927ED016EFD5141E6AA2C391FD525150",
+      "expectedChange": false,
+      "unchanged": true
+    }
+  ],
+  "scope": "Editor preview only, frozen animation/time, no causal FPS claim, no Player build or complete combat verification"
+}

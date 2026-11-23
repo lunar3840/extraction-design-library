@@ -1,0 +1,174 @@
+{
+  "verifiedAt": "2026-10-29T23:05:51.523131+09:00",
+  "allUnchanged": true,
+  "files": [
+    {
+      "path": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+      "sha256": "c9e3d324a6da7849188d1d92f9d79843b8e4820dcbe8325c3a0b227cd13d1874",
+      "after": "c9e3d324a6da7849188d1d92f9d79843b8e4820dcbe8325c3a0b227cd13d1874",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab",
+      "sha256": "b849090f053449e3c64b1f8bf65d50b78311bc1bcf046d14fe0250422cad04b7",
+      "after": "b849090f053449e3c64b1f8bf65d50b78311bc1bcf046d14fe0250422cad04b7",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Enemy/EnemyController.cs",
+      "sha256": "9282d7efa7e3dca2848d613fd211494143eb8ac6693e29d41ce02abb356de841",
+      "after": "9282d7efa7e3dca2848d613fd211494143eb8ac6693e29d41ce02abb356de841",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageABuildingV33Reveal.cs",
+      "sha256": "a4d706077dbfe0f7759ac0ae829deb50465e425049feea485311276e6758139a",
+      "after": "a4d706077dbfe0f7759ac0ae829deb50465e425049feea485311276e6758139a",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageAWestD02OccludedPlayerSilhouette.cs",
+      "sha256": "fece045974a89ae68eab7f33729b357768372f2e6eeaddfcee7645d2d1e29c3f",
+      "after": "fece045974a89ae68eab7f33729b357768372f2e6eeaddfcee7645d2d1e29c3f",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Art/BuildingV33/Reveal/BuildingV33LocalReveal.shader",
+      "sha256": "1e443568bb3977cd4d8ea64189fb8dfce6601ad58c7ace3c0585913b93729909",
+      "after": "1e443568bb3977cd4d8ea64189fb8dfce6601ad58c7ace3c0585913b93729909",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Resources/EscapeVision/BuildingV33ActorMask.shader",
+      "sha256": "a896f27a5202d92dc041b126e4e620456f457d320baada1f3f52e422f296fa5b",
+      "after": "a896f27a5202d92dc041b126e4e620456f457d320baada1f3f52e422f296fa5b",
+      "same": true
+    },
+    {
+      "path": "Assets/Settings/PC_Renderer.asset",
+      "sha256": "076f074c67b3e3ecdb0fcc2e868b99f00598859e0a6dbf738ae05ff098b4b26e",
+      "after": "076f074c67b3e3ecdb0fcc2e868b99f00598859e0a6dbf738ae05ff098b4b26e",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageALookV17RoofVisibility.cs",
+      "sha256": "7d43380dca64e208673daccfb1899a4030e5be11b1fa8a42f8643256668d072f",
+      "after": "7d43380dca64e208673daccfb1899a4030e5be11b1fa8a42f8643256668d072f",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Visuals/ToonCharacterStyle.cs",
+      "sha256": "206e6a2d738685890d57505369f948c9b334d27b59927c6d570db41dfa9ab7fb",
+      "after": "206e6a2d738685890d57505369f948c9b334d27b59927c6d570db41dfa9ab7fb",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Art/SubcultureD15/CharacterHybridD15.shader",
+      "sha256": "a841211530b0684dcb35ed1c5e8eb21b5998618cf8adc0955a158e3d1e0a2179",
+      "after": "a841211530b0684dcb35ed1c5e8eb21b5998618cf8adc0955a158e3d1e0a2179",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Art/BuildingD09/Shaders/D09WeatheredLit.shader",
+      "sha256": "1784f0bce404e28dbf5070b0bd51b71f7b7e581bb13c3b037dff18a850872fd6",
+      "after": "1784f0bce404e28dbf5070b0bd51b71f7b7e581bb13c3b037dff18a850872fd6",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Art/BuildingD09/Shaders/D09LitInput.hlsl",
+      "sha256": "b8a8521d16b76902579b2b8ef393ded652354e2379f52c17b98ec43239772d7a",
+      "after": "b8a8521d16b76902579b2b8ef393ded652354e2379f52c17b98ec43239772d7a",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Art/BuildingD09/Shaders/D09LitForwardPass.hlsl",
+      "sha256": "84a8b2e8d4eac0d0e8ffcc3c801501fdd9e6b6dff551cdc6997844a857d07e0b",
+      "after": "84a8b2e8d4eac0d0e8ffcc3c801501fdd9e6b6dff551cdc6997844a857d07e0b",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Art/BuildingD09/Shaders/D09Weathering.hlsl",
+      "sha256": "58ef6ddcfc90899fd6f0641ecf302138c6c3476a6497fb68e4b2422e52c3aaad",
+      "after": "58ef6ddcfc90899fd6f0641ecf302138c6c3476a6497fb68e4b2422e52c3aaad",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Editor/Environment/SurfaceIvyGenerator.cs",
+      "sha256": "c3041cfefa2d3d5d75c4e4818ec2a8224195ab249c744bbabc18157e4edb499a",
+      "after": "c3041cfefa2d3d5d75c4e4818ec2a8224195ab249c744bbabc18157e4edb499a",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Editor/Environment/SurfaceIvyWindow.cs",
+      "sha256": "14a2769a4bb3ac508557cf3298f96c9a0b89c9dc7fba37734ceda689cef1f5a7",
+      "after": "14a2769a4bb3ac508557cf3298f96c9a0b89c9dc7fba37734ceda689cef1f5a7",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Environment/SurfaceIvyInstance.cs",
+      "sha256": "231e6fad039385e64239f5696b8b822c246a1b1c0059c9d6adeca0e5a5acc7f0",
+      "after": "231e6fad039385e64239f5696b8b822c246a1b1c0059c9d6adeca0e5a5acc7f0",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Editor/Environment/EnvironmentWeatheringAuthoring.cs",
+      "sha256": "b76050b5dbf4313d6a66f3883eb3010c27931165b02d1fc0f7210c7427294856",
+      "after": "b76050b5dbf4313d6a66f3883eb3010c27931165b02d1fc0f7210c7427294856",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Art/SurfaceWeathering/WeatheredLit.shader",
+      "sha256": "2070a9fb8b131a399e452b36f3c34f4f568961529774cdefbe203a124cff2a49",
+      "after": "2070a9fb8b131a399e452b36f3c34f4f568961529774cdefbe203a124cff2a49",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Art/SurfaceWeathering/WeatheredLitWeather.hlsl",
+      "sha256": "4dfd4cff6f80852fff086d75c478b75b28e7ddfb3893736715acead3701e1f12",
+      "after": "4dfd4cff6f80852fff086d75c478b75b28e7ddfb3893736715acead3701e1f12",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Editor/ToonArtBuild.cs",
+      "sha256": "2340efd6f8d3be23316256a6d8fb8a335808ee48282a36f7e609baf1d60f5a61",
+      "after": "2340efd6f8d3be23316256a6d8fb8a335808ee48282a36f7e609baf1d60f5a61",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Art/SurfaceRuin/Generated/CombinedReclaimed_car_WithIvy_RuinPreview_WeatheringPrev_Ruin_884e98ea3c3b/CombinedReclaimed_car_WithIvy_RuinPreview_WeatheringPrev_Ruin.prefab",
+      "sha256": "5ee651e628a96a81b09fdea3cb31010aea044d1a10b2199692d12698b10ffd82",
+      "after": "5ee651e628a96a81b09fdea3cb31010aea044d1a10b2199692d12698b10ffd82",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Art/SurfaceRuin/Generated/S06_Ruin_Building_Original_RuinPreview_WeatheringPreview_Ruin_c89fb734cd67/S06_Ruin_Building_Original_RuinPreview_WeatheringPreview_Ruin.prefab",
+      "sha256": "1cb76b8e4d895223001e7dcf499aff1c9ca84885369dee3b6fc2bcdb454f8c0b",
+      "after": "1cb76b8e4d895223001e7dcf499aff1c9ca84885369dee3b6fc2bcdb454f8c0b",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Editor/Environment/RuinGeometrySettings.cs",
+      "sha256": "db99a9cc10b3c27a031e281109cd286f801b86ec6de7af03e150d8510580e400",
+      "after": "db99a9cc10b3c27a031e281109cd286f801b86ec6de7af03e150d8510580e400",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Editor/Environment/RuinAuthoring.cs",
+      "sha256": "9fcf13f30fb62d4591b9930993b2808349ec2878e300889e1a6badaa1c1b96ce",
+      "after": "9fcf13f30fb62d4591b9930993b2808349ec2878e300889e1a6badaa1c1b96ce",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Editor/Environment/RuinAssetBaker.cs",
+      "sha256": "bce4627f13031617c5540b2a6153b793a1002943398012c2c3bd5b6c29d590a7",
+      "after": "bce4627f13031617c5540b2a6153b793a1002943398012c2c3bd5b6c29d590a7",
+      "same": true
+    },
+    {
+      "path": "Assets/Escape/Editor/Environment/SurfaceRuinWindow.cs",
+      "sha256": "b697162cd2888020ca9933de3f8e7ffc5f84a5358da98613f8728ff900e69d07",
+      "after": "b697162cd2888020ca9933de3f8e7ffc5f84a5358da98613f8728ff900e69d07",
+      "same": true
+    }
+  ]
+}

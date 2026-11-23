@@ -1,0 +1,353 @@
+[
+  {
+    "id": "01a06890-88a7-71e3-a01a-b6452c5c6253",
+    "title": "Unity로 Roblox 시스템 이식",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\04\\rollout-2026-09-04T03-38-17-01a06890-88a7-71e3-a01a-b6452c5c6253.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a06bf4-308d-7eb0-8ddc-61602b675c16",
+    "title": "캐릭터와 적 유닛에 에셋 적용",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\04\\rollout-2026-09-04T19-26-00-01a06bf4-308d-7eb0-8ddc-61602b675c16.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a06ca9-bac0-7f00-b5c7-e7b517e1fe1b",
+    "title": "익스트랙션 문구와 제목 수정",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\04\\rollout-2026-09-04T22-44-17-01a06ca9-bac0-7f00-b5c7-e7b517e1fe1b.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a06ca9-da32-7fa2-aa31-532161f2589c",
+    "title": "부위별 피격 시스템 점검",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\04\\rollout-2026-09-04T22-44-25-01a06ca9-da32-7fa2-aa31-532161f2589c.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a07133-a57e-7893-82b0-8acbfb172150",
+    "title": "탑뷰 의료 시스템 설계 구현",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\05\\rollout-2026-09-05T19-53-25-01a07133-a57e-7893-82b0-8acbfb172150.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a07533-f096-7411-b7e2-bc7e5aa17d5e",
+    "title": "블렌더 모델링 텍스처링 지원",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\06\\rollout-2026-09-06T14-32-13-01a07533-f096-7411-b7e2-bc7e5aa17d5e.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a075bd-bb85-7df3-b05a-3eb82dc592bc",
+    "title": "캐릭터 모델링",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\10\\16\\rollout-2026-10-16T12-56-32-01a075bd-bb85-7df3-b05a-3eb82dc592bc_01a142da-b6f2-7413-98bc-60087798d92a.jsonl",
+    "source": "vscode",
+    "session_read": true,
+    "session_exists": true
+  },
+  {
+    "id": "01a0773f-e9e9-7d51-8093-b085397be732",
+    "title": "새 게임 세이브 덮어쓰기 수정",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\07\\rollout-2026-09-07T00-04-32-01a0773f-e9e9-7d51-8093-b085397be732.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a07853-16c5-7760-a075-dd79dced552a",
+    "title": "커서 방향 조준 및 발사 수정",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\07\\rollout-2026-09-07T05-05-06-01a07853-16c5-7760-a075-dd79dced552a.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a07b83-765c-78a2-9260-35c02ac57037",
+    "title": "플레이어 시야각",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\07\\rollout-2026-09-07T19-56-48-01a07b83-765c-78a2-9260-35c02ac57037.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a07bb8-355b-7741-b499-512b93453a67",
+    "title": "플레이어 커서에 따라서 명확하게 총알이 나가는 것 같지 않아. 확인 부탁하고, 마우스 커서도 명확하게 보였…",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\07\\rollout-2026-09-07T20-54-24-01a07bb8-355b-7741-b499-512b93453a67.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a07c84-280a-71d3-8895-0af268af1ec9",
+    "title": "UI 배치 적용 분석",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\08\\rollout-2026-09-08T00-37-10-01a07c84-280a-71d3-8895-0af268af1ec9.jsonl",
+    "source": "vscode",
+    "session_read": true,
+    "session_exists": true
+  },
+  {
+    "id": "01a07ebd-2c19-7270-986b-4dfb782daadb",
+    "title": "복제본에 고해상도 텍스처 제작",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\08\\rollout-2026-09-08T10-58-41-01a07ebd-2c19-7270-986b-4dfb782daadb.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a07f71-55c7-7d21-a095-258078482ca2",
+    "title": "무기 에셋과 썸네일 변경",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\08\\rollout-2026-09-08T14-15-29-01a07f71-55c7-7d21-a095-258078482ca2.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a07f87-abed-7501-a46f-7b6244c9b590",
+    "title": "유니티 그래픽 스타일 요청 방법",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\08\\rollout-2026-09-08T14-39-52-01a07f87-abed-7501-a46f-7b6244c9b590.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a08aee-0581-7042-910f-325b9c17149c",
+    "title": "확인 도시 맵 애드온 활용",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\10\\rollout-2026-09-10T19-47-29-01a08aee-0581-7042-910f-325b9c17149c.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a08af2-ed89-7f10-840c-890641b84ba2",
+    "title": "MD 파일 (지침 파일)",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\10\\rollout-2026-09-10T19-52-51-01a08af2-ed89-7f10-840c-890641b84ba2.jsonl",
+    "source": "vscode",
+    "session_read": true,
+    "session_exists": true
+  },
+  {
+    "id": "01a08c86-2473-7993-8e2e-0622a2505660",
+    "title": "전투 AI 지능적 행동 설계",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\11\\rollout-2026-09-11T03-13-16-01a08c86-2473-7993-8e2e-0622a2505660.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a08cc1-0b67-76d0-b184-f28bc1dec504",
+    "title": "기본 맵 분석 및 특징 정리",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\11\\rollout-2026-09-11T04-17-36-01a08cc1-0b67-76d0-b184-f28bc1dec504.jsonl",
+    "source": "vscode",
+    "session_read": true,
+    "session_exists": true
+  },
+  {
+    "id": "01a09e1d-49e9-7130-9d62-350c4d96a655",
+    "title": "앱 설치 확인 및 PC 연결",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\14\\rollout-2026-09-14T13-11-54-01a09e1d-49e9-7130-9d62-350c4d96a655.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a0a000-f6d9-7a51-83c7-22b2e91a1f0e",
+    "title": "피그마 게임 UI 플러그인 찾기",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\14\\rollout-2026-09-14T22-00-12-01a0a000-f6d9-7a51-83c7-22b2e91a1f0e.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a0a137-3eeb-7d71-887a-41454db36995",
+    "title": "애니메이션 호환성 확인",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\15\\rollout-2026-09-15T03-39-07-01a0a137-3eeb-7d71-887a-41454db36995.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a0aedd-2afd-7ad3-b1c2-5574f1dae026",
+    "title": "중간보고서 초안 작성",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\17\\rollout-2026-09-17T19-15-25-01a0aedd-2afd-7ad3-b1c2-5574f1dae026.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a0c3af-fce0-7753-895f-974bde8a7a0d",
+    "title": "게임 컨셉아트 제작",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\21\\rollout-2026-09-21T20-18-05-01a0c3af-fce0-7753-895f-974bde8a7a0d.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a0c547-4360-7c33-8815-0f4244f312fa",
+    "title": "현실적 그래픽 개선 요소 분석",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\09\\22\\rollout-2026-09-22T03-42-56-01a0c547-4360-7c33-8815-0f4244f312fa.jsonl",
+    "source": "vscode",
+    "session_read": true,
+    "session_exists": true
+  },
+  {
+    "id": "01a12248-093c-7593-8486-c514a2a476bb",
+    "title": "영상 파일 확인",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "C:\\Users\\ehoji\\.codex\\sessions\\2026\\10\\10\\rollout-2026-10-10T05-08-28-01a12248-093c-7593-8486-c514a2a476bb.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a12b96-1d65-74f2-9a7c-ebc77c19bc64",
+    "title": "검토 자료의 게임 편입안 정리",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\10\\12\\rollout-2026-10-12T00-30-20-01a12b96-1d65-74f2-9a7c-ebc77c19bc64.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a12e6d-06c3-7743-8477-9be4f7162058",
+    "title": "프리미어프로 sts버스 작업물 찾기",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\10\\12\\rollout-2026-10-12T13-44-19-01a12e6d-06c3-7743-8477-9be4f7162058.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": false
+  },
+  {
+    "id": "01a13008-89e2-7060-9203-9b8c8bd11d0e",
+    "title": "미니맵 시스템 구상",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\10\\12\\rollout-2026-10-12T21-13-48-01a13008-89e2-7060-9203-9b8c8bd11d0e.jsonl",
+    "source": "vscode",
+    "session_read": true,
+    "session_exists": true
+  },
+  {
+    "id": "01a13889-a7a8-7513-b256-18182fdc997e",
+    "title": "인간형 적 콘셉트아트 제작",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\10\\14\\rollout-2026-10-14T21-12-40-01a13889-a7a8-7513-b256-18182fdc997e_01a13a54-36ea-7aa3-adb3-bca28c01709b.jsonl",
+    "source": "vscode",
+    "session_read": true,
+    "session_exists": true
+  },
+  {
+    "id": "01a13c6f-6555-7811-9c13-bb32f1661095",
+    "title": "C드라이브 정리 후보 찾기",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "C:\\Users\\ehoji\\.codex\\archived_sessions\\rollout-2026-10-15T07-01-35-01a13c6f-6555-7811-9c13-bb32f1661095.jsonl",
+    "source": "vscode",
+    "session_read": false,
+    "session_exists": true
+  },
+  {
+    "id": "01a13cca-637d-7fb0-abe8-bbed511933a7",
+    "title": "A맵 적 배치와 동선 계획",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\10\\15\\rollout-2026-10-15T08-40-59-01a13cca-637d-7fb0-abe8-bbed511933a7.jsonl",
+    "source": "vscode",
+    "session_read": true,
+    "session_exists": true
+  },
+  {
+    "id": "01a142f2-86d3-7fc2-aacf-988e9a22b112",
+    "title": "보안창 자동 수락 요청",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\10\\16\\rollout-2026-10-16T13-22-32-01a142f2-86d3-7fc2-aacf-988e9a22b112.jsonl",
+    "source": "vscode",
+    "session_read": true,
+    "session_exists": true
+  },
+  {
+    "id": "01a151c6-5459-7a41-87f0-047dc16a3d47",
+    "title": "스킬 구조 전면 개편 분석",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\10\\19\\rollout-2026-10-19T10-28-34-01a151c6-5459-7a41-87f0-047dc16a3d47.jsonl",
+    "source": "vscode",
+    "session_read": true,
+    "session_exists": true
+  },
+  {
+    "id": "01a1526d-5ac0-7402-ab45-545d4293ec3d",
+    "title": "컷씬 및 퀘스트 시스템 구현",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\10\\19\\rollout-2026-10-19T13-31-00-01a1526d-5ac0-7402-ab45-545d4293ec3d.jsonl",
+    "source": "vscode",
+    "session_read": true,
+    "session_exists": true
+  },
+  {
+    "id": "01a15298-a4ad-79d1-9b4f-cba2a4f15598",
+    "title": "총기·탄약 티어 시스템 구현",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "\\\\?\\C:\\Users\\ehoji\\.codex\\sessions\\2026\\10\\19\\rollout-2026-10-19T14-18-17-01a15298-a4ad-79d1-9b4f-cba2a4f15598.jsonl",
+    "source": "vscode",
+    "session_read": true,
+    "session_exists": true
+  },
+  {
+    "id": "01a15955-60c4-7b30-8790-43fba0195453",
+    "title": "모딩 시스템 기획",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "C:\\Users\\ehoji\\.codex\\sessions\\2026\\10\\20\\rollout-2026-10-20T21-42-09-01a15955-60c4-7b30-8790-43fba0195453.jsonl",
+    "source": "vscode",
+    "session_read": true,
+    "session_exists": true
+  },
+  {
+    "id": "01a15c39-f07b-7dd3-b42e-97cae956862c",
+    "title": "Edel 변신 캐릭터 적용",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "C:\\Users\\ehoji\\.codex\\sessions\\2026\\10\\21\\rollout-2026-10-21T11-11-03-01a15c39-f07b-7dd3-b42e-97cae956862c.jsonl",
+    "source": "vscode",
+    "session_read": true,
+    "session_exists": true
+  },
+  {
+    "id": "01a15c78-e0b9-7a53-bc70-b111cbfbe32c",
+    "title": "Figma와 Unity UI 연동 검토",
+    "cwd": "\\\\?\\C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션",
+    "rollout_path": "C:\\Users\\ehoji\\.codex\\sessions\\2026\\10\\21\\rollout-2026-10-21T12-19-48-01a15c78-e0b9-7a53-bc70-b111cbfbe32c.jsonl",
+    "source": "vscode",
+    "session_read": true,
+    "session_exists": true
+  }
+]

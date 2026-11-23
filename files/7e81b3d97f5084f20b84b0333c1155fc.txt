@@ -1,0 +1,45 @@
+D11_OUTDOOR_ACTUAL_PLAYER
+METHOD v2: 20 district/entry/green areas; relocate diagnostic starts to nearby outdoor ground, then 9-20m paths outside all 69 retained building footprints plus 2m. Four green starts use actual low-plant CSV and avoid reserved paving along the complete path. Actual enabled CharacterController and PlayerMotor.Simulate. Initial positioning only is teleported. Combat frozen for deterministic testing. This is not a whole-map performance benchmark.
+PASS runtime selected B3; R8 remains ineligible, probe below is diagnostic initial positioning only.
+LANE clinic areaCenter=(-162.00, 3.99, 93.00) actualStart=(-162.00, 4.08, 93.00) corners=2 outside69Footprints=True greenNoPaving=False
+PASS clinic steps=87 end=(-151.95, 4.02, 98.80)
+LANE north areaCenter=(-10.00, 9.00, 81.00) actualStart=(-10.00, 9.00, 81.00) corners=2 outside69Footprints=True greenNoPaving=False
+PASS north steps=87 end=(-10.00, 8.12, 92.60)
+LANE power areaCenter=(177.00, 8.33, 78.00) actualStart=(181.24, 8.34, 73.76) corners=3 outside69Footprints=True greenNoPaving=False
+PASS power steps=87 end=(192.44, 8.34, 70.78)
+LANE west areaCenter=(-166.00, 1.78, 41.00) actualStart=(-166.00, 1.86, 41.00) corners=2 outside69Footprints=True greenNoPaving=False
+PASS west steps=87 end=(-163.00, 2.02, 52.20)
+LANE workshop areaCenter=(-168.00, 0.68, -4.00) actualStart=(-162.80, 1.02, -7.00) corners=2 outside69Footprints=True greenNoPaving=False
+PASS workshop steps=87 end=(-151.20, 1.02, -7.00)
+LANE hall_west areaCenter=(-78.00, 1.69, -4.00) actualStart=(-78.00, 1.80, 2.00) corners=2 outside69Footprints=True greenNoPaving=False
+PASS hall_west steps=87 end=(-78.00, 1.96, 13.60)
+LANE hall_south areaCenter=(-8.00, 1.68, -57.00) actualStart=(-8.00, 1.82, -51.00) corners=2 outside69Footprints=True greenNoPaving=False
+PASS hall_south steps=87 end=(3.60, 1.86, -51.00)
+LANE logistics areaCenter=(160.00, 2.68, -35.00) actualStart=(158.45, 2.99, -40.80) corners=2 outside69Footprints=True greenNoPaving=False
+PASS logistics steps=87 end=(166.65, 2.35, -49.00)
+LANE ruins areaCenter=(-180.00, 0.04, -73.00) actualStart=(-180.00, 0.14, -67.00) corners=2 outside69Footprints=True greenNoPaving=False
+PASS ruins steps=87 end=(-180.00, 0.29, -55.40)
+LANE scrapyard areaCenter=(-20.00, -0.10, -119.00) actualStart=(-14.80, -0.05, -122.00) corners=4 outside69Footprints=True greenNoPaving=False
+PASS scrapyard steps=103 end=(-6.36, -0.08, -113.89)
+LANE waterworks areaCenter=(160.00, 0.00, -154.00) actualStart=(163.00, 0.07, -148.80) corners=2 outside69Footprints=True greenNoPaving=False
+PASS waterworks steps=87 end=(163.00, 0.19, -137.20)
+LANE B1 areaCenter=(-240.00, 2.00, 145.00) actualStart=(-240.00, 2.10, 145.00) corners=2 outside69Footprints=True greenNoPaving=False
+PASS B1 steps=87 end=(-240.00, 3.02, 156.60)
+LANE B2 areaCenter=(-242.00, 1.00, 0.00) actualStart=(-242.00, 1.04, 0.00) corners=2 outside69Footprints=True greenNoPaving=False
+PASS B2 steps=87 end=(-242.00, 1.03, 11.60)
+LANE B3 areaCenter=(-231.00, 0.00, -102.00) actualStart=(-231.00, 0.05, -102.00) corners=2 outside69Footprints=True greenNoPaving=False
+PASS B3 steps=87 end=(-231.00, 0.03, -90.40)
+LANE B4 areaCenter=(-119.00, 0.00, -129.00) actualStart=(-119.00, 0.08, -129.00) corners=2 outside69Footprints=True greenNoPaving=False
+PASS B4 steps=87 end=(-116.00, 0.02, -117.80)
+LANE R8_inactive_probe areaCenter=(-58.00, 0.00, -141.00) actualStart=(-58.00, 0.10, -141.00) corners=2 outside69Footprints=True greenNoPaving=False
+PASS R8_inactive_probe steps=87 end=(-58.00, -0.01, -129.40)
+LANE green_north areaCenter=(-16.00, 9.23, 133.00) actualStart=(-16.19, 8.34, 160.97) corners=2 outside69Footprints=True greenNoPaving=True
+PASS green_north steps=87 end=(-10.39, 6.82, 171.02)
+LANE green_west areaCenter=(-199.00, 0.53, -15.00) actualStart=(-198.76, 0.73, -9.14) corners=2 outside69Footprints=True greenNoPaving=True
+PASS green_west steps=87 end=(-198.76, 0.89, 2.46)
+LANE green_east areaCenter=(205.00, 2.97, -25.00) actualStart=(210.97, 2.93, -25.27) corners=2 outside69Footprints=True greenNoPaving=True
+PASS green_east steps=87 end=(213.98, 2.77, -14.06)
+LANE green_south areaCenter=(24.00, -0.10, -116.00) actualStart=(23.85, -0.04, -106.14) corners=2 outside69Footprints=True greenNoPaving=True
+PASS green_south steps=87 end=(23.85, 0.01, -94.54)
+passed=20 failed=0 expected=20
+RESULT PASS

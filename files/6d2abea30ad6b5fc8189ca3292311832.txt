@@ -1,0 +1,13 @@
+STAGE_A_ASSETS_V16_BASELINE
+generatedUtc=2026-09-24T00:40:20.7155957Z
+PASS Stage A map exists
+PASS new prop root is absent before modification
+PASS protected structural metadata exists
+PASS V13 hall exists
+PASS environment slots are identified for before/after pairing
+PASS environment slot identifiers are unique
+NOTE before transforms=10887 renderers=5278 colliders=4295 environmentSlots=293
+NOTE before core=18:C0ECE487E9223325 hall=907EF7E051260298 metadata=0DF7088DD2603F11 other=F968BC9749018544
+NOTE beforeV14=PASS beforeV15=PASS
+SUMMARY passed=6 failed=0
+RESULT BASELINE_CAPTURED

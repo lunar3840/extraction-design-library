@@ -1,0 +1,84 @@
+{
+  "candidate": "pass_20",
+  "media_folder": "pass_20_v2",
+  "native_sha256": "253e45d8e0782197685f090625b02c5f7184477b4496848b6d24f2613aa121cc",
+  "videos": [
+    {
+      "video": "Edel_SCAR_Corrected_Reload_20261120.mp4",
+      "sha256": "1ce5f485aa822292e5f80362495e1e6cf14bee5d89e5a89eaf7926fe34d3f4cc",
+      "bytes": 1102610,
+      "decoded_frames": 271,
+      "fps": 30,
+      "duration_seconds": 9.033333333333333,
+      "native_sha256": "253e45d8e0782197685f090625b02c5f7184477b4496848b6d24f2613aa121cc",
+      "source": "GR_AR_013_A_Reload integer saved frames1..271",
+      "status": "Actual saved Blender action; independent QA determines acceptance; Unity application 0."
+    },
+    {
+      "video": "Edel_SCAR_EmptyMagazine_20261120.mp4",
+      "sha256": "6a29ef23e7d67b749ae51bfa5b2ae34b1d8bdf94f798623b8e82c3a23ebfe58c",
+      "bytes": 144187,
+      "decoded_frames": 27,
+      "fps": 15,
+      "duration_seconds": 1.8,
+      "native_sha256": "253e45d8e0782197685f090625b02c5f7184477b4496848b6d24f2613aa121cc",
+      "source": "GR_AR_013_A_Reload frames98..124, playback half speed",
+      "status": "Actual saved Blender action; independent QA determines acceptance; Unity application 0."
+    },
+    {
+      "video": "Edel_SCAR_Idle_20261120.mp4",
+      "sha256": "4e4cb485b9af22650f4ad53e1befecb37c456766d7873fa9dab53ae33b4db199",
+      "bytes": 155806,
+      "decoded_frames": 121,
+      "fps": 30,
+      "duration_seconds": 4.033333333333333,
+      "native_sha256": "253e45d8e0782197685f090625b02c5f7184477b4496848b6d24f2613aa121cc",
+      "source": "GR_AR_013_A_Idle all integer saved frames",
+      "status": "Actual saved Blender action; independent QA determines acceptance; Unity application 0."
+    },
+    {
+      "video": "Edel_SCAR_Aim_20261120.mp4",
+      "sha256": "2c7d6b15ae8080da50734979651d44bafa61d221a55c837cf46333c13c291d69",
+      "bytes": 363691,
+      "decoded_frames": 121,
+      "fps": 30,
+      "duration_seconds": 4.033333333333333,
+      "native_sha256": "253e45d8e0782197685f090625b02c5f7184477b4496848b6d24f2613aa121cc",
+      "source": "GR_AR_013_A_Aim all integer saved frames",
+      "status": "Actual saved Blender action; independent QA determines acceptance; Unity application 0."
+    },
+    {
+      "video": "Edel_SCAR_Fire_20261120.mp4",
+      "sha256": "5cd2ba5473098f84b7416c578f39f39d01f2d26829b589f99bfe8f0921e922d2",
+      "bytes": 145786,
+      "decoded_frames": 31,
+      "fps": 30,
+      "duration_seconds": 1.0333333333333334,
+      "native_sha256": "253e45d8e0782197685f090625b02c5f7184477b4496848b6d24f2613aa121cc",
+      "source": "GR_AR_013_A_Fire all integer saved frames",
+      "status": "Actual saved Blender action; independent QA determines acceptance; Unity application 0."
+    },
+    {
+      "video": "Edel_SCAR_Walk_20261120.mp4",
+      "sha256": "35847282853e6718812a360717459f9c0f01b72074df6d24fbf9581c144894d6",
+      "bytes": 417217,
+      "decoded_frames": 33,
+      "fps": 30,
+      "duration_seconds": 1.1,
+      "native_sha256": "253e45d8e0782197685f090625b02c5f7184477b4496848b6d24f2613aa121cc",
+      "source": "GR_AR_013_A_Walk all integer saved frames",
+      "status": "Actual saved Blender action; independent QA determines acceptance; Unity application 0."
+    },
+    {
+      "video": "Edel_SCAR_Run_20261120.mp4",
+      "sha256": "fb089783d1db660bd7392ad773ca24002c68eb8710906eea28298623d797266d",
+      "bytes": 353447,
+      "decoded_frames": 23,
+      "fps": 30,
+      "duration_seconds": 0.7666666666666667,
+      "native_sha256": "253e45d8e0782197685f090625b02c5f7184477b4496848b6d24f2613aa121cc",
+      "source": "GR_AR_013_A_Run all integer saved frames",
+      "status": "Actual saved Blender action; independent QA determines acceptance; Unity application 0."
+    }
+  ]
+}

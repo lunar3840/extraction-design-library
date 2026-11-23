@@ -1,0 +1,229 @@
+FINAL EVIDENCE AUDIT 2026-10-16T13:59:11.1469999+09:00
+PASS image exists: before_roster.png
+PASS PNG signature: before_roster.png
+PASS image exists: after_roster.png
+PASS PNG signature: after_roster.png
+PASS paired resolution: before_roster.png / after_roster.png
+PASS image exists: before_g5_north.png
+PASS PNG signature: before_g5_north.png
+PASS image exists: after_g5_north.png
+PASS PNG signature: after_g5_north.png
+PASS paired resolution: before_g5_north.png / after_g5_north.png
+PASS image exists: before_g7_north.png
+PASS PNG signature: before_g7_north.png
+PASS image exists: after_g7_north.png
+PASS PNG signature: after_g7_north.png
+PASS paired resolution: before_g7_north.png / after_g7_north.png
+PASS image exists: before_g8_southwest.png
+PASS PNG signature: before_g8_southwest.png
+PASS image exists: after_g8_southwest.png
+PASS PNG signature: after_g8_southwest.png
+PASS paired resolution: before_g8_southwest.png / after_g8_southwest.png
+PASS image exists: before_g9_power.png
+PASS PNG signature: before_g9_power.png
+PASS image exists: after_g9_power.png
+PASS PNG signature: after_g9_power.png
+PASS paired resolution: before_g9_power.png / after_g9_power.png
+PASS image exists: before_g10_parts.png
+PASS PNG signature: before_g10_parts.png
+PASS image exists: after_g10_parts.png
+PASS PNG signature: after_g10_parts.png
+PASS paired resolution: before_g10_parts.png / after_g10_parts.png
+PASS image exists: before_g10_southeast.png
+PASS PNG signature: before_g10_southeast.png
+PASS image exists: after_g10_southeast.png
+PASS PNG signature: after_g10_southeast.png
+PASS paired resolution: before_g10_southeast.png / after_g10_southeast.png
+PASS image exists: before_g11_south.png
+PASS PNG signature: before_g11_south.png
+PASS image exists: after_g11_south.png
+PASS PNG signature: after_g11_south.png
+PASS paired resolution: before_g11_south.png / after_g11_south.png
+PASS image exists: before_g12_hall.png
+PASS PNG signature: before_g12_hall.png
+PASS image exists: after_g12_hall.png
+PASS PNG signature: after_g12_hall.png
+PASS paired resolution: before_g12_hall.png / after_g12_hall.png
+PASS image exists: before_detail_V4_G8_01.png
+PASS PNG signature: before_detail_V4_G8_01.png
+PASS image exists: after_detail_V4_G8_01.png
+PASS PNG signature: after_detail_V4_G8_01.png
+PASS paired resolution: before_detail_V4_G8_01.png / after_detail_V4_G8_01.png
+PASS image exists: before_detail_G5_03.png
+PASS PNG signature: before_detail_G5_03.png
+PASS image exists: after_detail_G5_03.png
+PASS PNG signature: after_detail_G5_03.png
+PASS paired resolution: before_detail_G5_03.png / after_detail_G5_03.png
+PASS image exists: before_detail_G7_03.png
+PASS PNG signature: before_detail_G7_03.png
+PASS image exists: after_detail_G7_03.png
+PASS PNG signature: after_detail_G7_03.png
+PASS paired resolution: before_detail_G7_03.png / after_detail_G7_03.png
+PASS image exists: before_detail_G9_03.png
+PASS PNG signature: before_detail_G9_03.png
+PASS image exists: after_detail_G9_03.png
+PASS PNG signature: after_detail_G9_03.png
+PASS paired resolution: before_detail_G9_03.png / after_detail_G9_03.png
+PASS image exists: before_detail_V4_G7_01.png
+PASS PNG signature: before_detail_V4_G7_01.png
+PASS image exists: after_detail_V4_G7_01.png
+PASS PNG signature: after_detail_V4_G7_01.png
+PASS paired resolution: before_detail_V4_G7_01.png / after_detail_V4_G7_01.png
+PASS image exists: before_detail_V4_G10_01.png
+PASS PNG signature: before_detail_V4_G10_01.png
+PASS image exists: after_detail_V4_G10_01.png
+PASS PNG signature: after_detail_V4_G10_01.png
+PASS paired resolution: before_detail_V4_G10_01.png / after_detail_V4_G10_01.png
+PASS image exists: before_detail_G9_04.png
+PASS PNG signature: before_detail_G9_04.png
+PASS image exists: after_detail_G9_04.png
+PASS PNG signature: after_detail_G9_04.png
+PASS paired resolution: before_detail_G9_04.png / after_detail_G9_04.png
+PASS image exists: routes/before_entry_b1.png
+PASS PNG signature: routes/before_entry_b1.png
+PASS image exists: routes/after_entry_b1.png
+PASS PNG signature: routes/after_entry_b1.png
+PASS paired resolution: routes/before_entry_b1.png / routes/after_entry_b1.png
+PASS image exists: routes/before_entry_b2.png
+PASS PNG signature: routes/before_entry_b2.png
+PASS image exists: routes/after_entry_b2.png
+PASS PNG signature: routes/after_entry_b2.png
+PASS paired resolution: routes/before_entry_b2.png / routes/after_entry_b2.png
+PASS image exists: routes/before_entry_b3.png
+PASS PNG signature: routes/before_entry_b3.png
+PASS image exists: routes/after_entry_b3.png
+PASS PNG signature: routes/after_entry_b3.png
+PASS paired resolution: routes/before_entry_b3.png / routes/after_entry_b3.png
+PASS image exists: routes/before_entry_b4.png
+PASS PNG signature: routes/before_entry_b4.png
+PASS image exists: routes/after_entry_b4.png
+PASS PNG signature: routes/after_entry_b4.png
+PASS paired resolution: routes/before_entry_b4.png / routes/after_entry_b4.png
+PASS image exists: routes/before_entry_r8_inactive.png
+PASS PNG signature: routes/before_entry_r8_inactive.png
+PASS image exists: routes/after_entry_r8_inactive.png
+PASS PNG signature: routes/after_entry_r8_inactive.png
+PASS paired resolution: routes/before_entry_r8_inactive.png / routes/after_entry_r8_inactive.png
+PASS image exists: routes/before_w5_approach.png
+PASS PNG signature: routes/before_w5_approach.png
+PASS image exists: routes/after_w5_approach.png
+PASS PNG signature: routes/after_w5_approach.png
+PASS paired resolution: routes/before_w5_approach.png / routes/after_w5_approach.png
+PASS image exists: routes/before_power_indoor.png
+PASS PNG signature: routes/before_power_indoor.png
+PASS image exists: routes/after_power_indoor.png
+PASS PNG signature: routes/after_power_indoor.png
+PASS paired resolution: routes/before_power_indoor.png / routes/after_power_indoor.png
+PASS image exists: routes/before_parts_indoor.png
+PASS PNG signature: routes/before_parts_indoor.png
+PASS image exists: routes/after_parts_indoor.png
+PASS PNG signature: routes/after_parts_indoor.png
+PASS paired resolution: routes/before_parts_indoor.png / routes/after_parts_indoor.png
+PASS image exists: routes/before_hall_indoor.png
+PASS PNG signature: routes/before_hall_indoor.png
+PASS image exists: routes/after_hall_indoor.png
+PASS PNG signature: routes/after_hall_indoor.png
+PASS paired resolution: routes/before_hall_indoor.png / routes/after_hall_indoor.png
+PASS image exists: named/before_reconstructed_detail_N2.png
+PASS PNG signature: named/before_reconstructed_detail_N2.png
+PASS image exists: named/after_detail_N2.png
+PASS PNG signature: named/after_detail_N2.png
+PASS paired resolution: named/before_reconstructed_detail_N2.png / named/after_detail_N2.png
+PASS image exists: named/before_reconstructed_detail_N3.png
+PASS PNG signature: named/before_reconstructed_detail_N3.png
+PASS image exists: named/after_detail_N3.png
+PASS PNG signature: named/after_detail_N3.png
+PASS paired resolution: named/before_reconstructed_detail_N3.png / named/after_detail_N3.png
+PASS image exists: named/before_reconstructed_detail_N4.png
+PASS PNG signature: named/before_reconstructed_detail_N4.png
+PASS image exists: named/after_detail_N4.png
+PASS PNG signature: named/after_detail_N4.png
+PASS paired resolution: named/before_reconstructed_detail_N4.png / named/after_detail_N4.png
+PASS image exists: named/before_reconstructed_detail_N5.png
+PASS PNG signature: named/before_reconstructed_detail_N5.png
+PASS image exists: named/after_detail_N5.png
+PASS PNG signature: named/after_detail_N5.png
+PASS paired resolution: named/before_reconstructed_detail_N5.png / named/after_detail_N5.png
+PASS image exists: after_pattern_Scout_telegraph.png
+PASS PNG signature: after_pattern_Scout_telegraph.png
+PASS image exists: after_pattern_Scout_fire.png
+PASS PNG signature: after_pattern_Scout_fire.png
+PASS image exists: after_pattern_Suppressor_telegraph.png
+PASS PNG signature: after_pattern_Suppressor_telegraph.png
+PASS image exists: after_pattern_Suppressor_fire.png
+PASS PNG signature: after_pattern_Suppressor_fire.png
+PASS image exists: after_pattern_Sniper_telegraph.png
+PASS PNG signature: after_pattern_Sniper_telegraph.png
+PASS image exists: after_pattern_Sniper_fire.png
+PASS PNG signature: after_pattern_Sniper_fire.png
+PASS image exists: after_pattern_Grenadier_telegraph.png
+PASS PNG signature: after_pattern_Grenadier_telegraph.png
+PASS image exists: after_pattern_Grenadier_fire.png
+PASS PNG signature: after_pattern_Grenadier_fire.png
+PASS image exists: after_pattern_Discharger_telegraph.png
+PASS PNG signature: after_pattern_Discharger_telegraph.png
+PASS image exists: after_pattern_Discharger_fire.png
+PASS PNG signature: after_pattern_Discharger_fire.png
+PASS image exists: after_pattern_ArcRifle_telegraph.png
+PASS PNG signature: after_pattern_ArcRifle_telegraph.png
+PASS image exists: after_pattern_ArcRifle_fire.png
+PASS PNG signature: after_pattern_ArcRifle_fire.png
+PASS image exists: after_pattern_GuardTank_telegraph.png
+PASS PNG signature: after_pattern_GuardTank_telegraph.png
+PASS image exists: after_pattern_GuardTank_fire.png
+PASS PNG signature: after_pattern_GuardTank_fire.png
+PASS image exists: clearance/after_n5_front.png
+PASS PNG signature: clearance/after_n5_front.png
+PASS image exists: clearance/after_n5_side.png
+PASS PNG signature: clearance/after_n5_side.png
+PASS image exists: clearance/after_n5_opposite_side.png
+PASS PNG signature: clearance/after_n5_opposite_side.png
+PASS image exists: clearance/after_indoor_D_HALL_02.png
+PASS PNG signature: clearance/after_indoor_D_HALL_02.png
+PASS image exists: clearance/after_indoor_D_POWER_01.png
+PASS PNG signature: clearance/after_indoor_D_POWER_01.png
+PASS image exists: clearance/after_indoor_G12_04.png
+PASS PNG signature: clearance/after_indoor_G12_04.png
+PASS 73-slot baseline and final protected roster hashes match
+PASS all protected map object snapshots match
+PASS no protected object changes
+PASS status: before_capture_status.txt
+PASS status: after_capture_status.txt
+PASS status: before_detail_status.txt
+PASS status: after_detail_status.txt
+PASS status: routes/before_capture_status.txt
+PASS status: routes/after_capture_status.txt
+PASS status: named/before_reconstructed_detail_status.txt
+PASS status: named/after_detail_status.txt
+PASS status: clearance/CLEARANCE_STATUS.txt
+PASS status: SAVED_VALIDATION.txt
+PASS post-optimization Play: PLAY_actual_135505.txt
+PASS post-optimization Play: PLAY_checks_135619.txt
+PASS seven final controlled role patterns
+PASS final pattern evidence follows latest runtime change
+PASS saved A scene restored to clean Edit mode
+PASS final change record has no pending completion marker
+PASS production file: Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity
+PASS production file: Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab
+PASS production file: Assets/Escape/Runtime/Stage/Blockout/StageAEncounterLayout.cs
+PASS production file: Assets/Escape/Runtime/Stage/Blockout/StageAEncounterSpawner.cs
+PASS production file: Assets/Escape/Runtime/Enemy/StageAMachineRole.cs
+PASS production file: Assets/Escape/Runtime/Enemy/EnemyController.MachineRoles.cs
+PASS production file: Assets/Escape/Runtime/Enemy/MachineAttackProjectile.cs
+PASS production file: Assets/Escape/Runtime/Enemy/StageAMachineWeaponVisual.cs
+PASS production file: Assets/Escape/Runtime/Enemy/EnemyController.cs
+PASS production file: Assets/Escape/Runtime/Enemy/EnemyController.FactionAwareness.cs
+PASS production file: Assets/Escape/Runtime/Enemy/StageAEnemyVisual.cs
+PASS production file: Assets/Escape/Resources/EnemiesA/Roles/ArcRifle.prefab
+PASS production file: Assets/Escape/Resources/EnemiesA/Roles/Discharger.prefab
+PASS production file: Assets/Escape/Resources/EnemiesA/Roles/Grenadier.prefab
+PASS production file: Assets/Escape/Resources/EnemiesA/Roles/GuardTank.prefab
+PASS production file: Assets/Escape/Resources/EnemiesA/Roles/Scout.prefab
+PASS production file: Assets/Escape/Resources/EnemiesA/Roles/Sniper.prefab
+PASS production file: Assets/Escape/Resources/EnemiesA/Roles/Suppressor.prefab
+PASS production file: Assets/Escape/Resources/EnemiesA/NamedRoles/N2.prefab
+PASS production file: Assets/Escape/Resources/EnemiesA/NamedRoles/N3.prefab
+PASS production file: Assets/Escape/Resources/EnemiesA/NamedRoles/N4.prefab
+PASS production file: Assets/Escape/Resources/EnemiesA/NamedRoles/N5.prefab
+PASS production file: Assets/Escape/Art/EnemiesA/Roles/Controllers/MachineTracksRole.controller
+COMPLETE PASS: 25 original before/after pairs, 4 reconstructed named pairs, 14 controlled pattern images, 6 after-only clearance images; final saved files hashed.

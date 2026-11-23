@@ -1,0 +1,513 @@
+{
+  "base": "Edel_S4_Fitting_Master_r5.blend",
+  "changes": [
+    {
+      "glove": "L",
+      "vertices": 782,
+      "polygons": 1168,
+      "skin_offset": 0.0024,
+      "pattern": "actual hand/wrist skin, continuous knuckle hem and thumb-side opening, all original body bone influences retained",
+      "original_character_geometry_changed": false
+    },
+    {
+      "glove": "R",
+      "vertices": 785,
+      "polygons": 1175,
+      "skin_offset": 0.0024,
+      "pattern": "actual hand/wrist skin, continuous knuckle hem and thumb-side opening, all original body bone influences retained",
+      "original_character_geometry_changed": false
+    },
+    {
+      "left_wrist_cuff": "actual forearm skin pattern; original generated shell archived",
+      "inner_clearance": 0.0035
+    },
+    {
+      "thigh_band": 0,
+      "center_height": 0.245,
+      "width": 0.016,
+      "inner_clearance": 0.0018,
+      "surface": "128 radial samples of actual left thigh with5 vertical rings",
+      "skinning": "actual thigh barycentric weights, not rigid root assignment",
+      "buckle": "separate open chamfered metal frame at skin+4.4mm"
+    },
+    {
+      "thigh_band": 1,
+      "center_height": 0.27,
+      "width": 0.016,
+      "inner_clearance": 0.0018,
+      "surface": "128 radial samples of actual left thigh with5 vertical rings",
+      "skinning": "actual thigh barycentric weights, not rigid root assignment",
+      "buckle": "separate open chamfered metal frame at skin+4.4mm"
+    },
+    {
+      "boot": "tripo_part_2",
+      "region": "upper left boot cuff, z .082 to .112 smooth falloff then full expansion",
+      "radial_scale_factor": 1.23,
+      "center": [
+        0.072,
+        0.007
+      ],
+      "vertices_changed": 2904,
+      "max_rest_delta": 0.019991773369798987,
+      "cause": "skin intersects undersized cuff with both masked and full original body; not a mask-hole defect",
+      "native_source_body_unchanged": true,
+      "shell_topology_and_uv_preserved": true
+    },
+    {
+      "worn_body_copy": "left calf skin restored deeper inside boot opening",
+      "method": "union of original retained body faces and original Shin.L/Foot.L faces with any vertex z>.065; original body remains unchanged",
+      "reason": "whole-face masking left a jagged skin end visible only when knee bent"
+    }
+  ],
+  "pose_checks": [
+    {
+      "pose": "fitting",
+      "nonfinite_or_exploded_vertices": 0,
+      "zero_weight_vertices": 0,
+      "weight_sum_errors": 0,
+      "contact_clearances": {
+        "Edel_S4_Fitted_FingerlessGlove_L": {
+          "min_distance": 5.8087214711122215e-05,
+          "median_distance": 0.0024000017438083887,
+          "max_distance": 0.0033000733237713575,
+          "min_signed_normal_distance": -0.0013353028625715524
+        },
+        "Edel_S4_Fitted_FingerlessGlove_R": {
+          "min_distance": 9.64628725341754e-06,
+          "median_distance": 0.0024000004632398486,
+          "max_distance": 0.0033000297844409943,
+          "min_signed_normal_distance": -0.0009330691772042599
+        },
+        "Edel_S4_ContactFit_ThighBand_0": {
+          "min_distance": 0.0017909258604049683,
+          "median_distance": 0.0029560928232967854,
+          "max_distance": 0.003000021679326892,
+          "min_signed_normal_distance": 0.0017909258021973073
+        },
+        "Edel_S4_ContactFit_ThighBand_1": {
+          "min_distance": 0.0017986809834837914,
+          "median_distance": 0.0029892416205257177,
+          "max_distance": 0.0030000186525285244,
+          "min_signed_normal_distance": 0.0017986810435104417
+        }
+      }
+    },
+    {
+      "pose": "arm_flex",
+      "nonfinite_or_exploded_vertices": 0,
+      "zero_weight_vertices": 0,
+      "weight_sum_errors": 0,
+      "contact_clearances": {
+        "Edel_S4_Fitted_FingerlessGlove_L": {
+          "min_distance": 5.8120036555919796e-05,
+          "median_distance": 0.0024000033736228943,
+          "max_distance": 0.0033000330440700054,
+          "min_signed_normal_distance": -0.001277020463021472
+        },
+        "Edel_S4_Fitted_FingerlessGlove_R": {
+          "min_distance": 1.9708159015863203e-06,
+          "median_distance": 0.0023999130353331566,
+          "max_distance": 0.0033000281546264887,
+          "min_signed_normal_distance": -0.0028373612149152905
+        },
+        "Edel_S4_ContactFit_ThighBand_0": {
+          "min_distance": 0.0017909258604049683,
+          "median_distance": 0.0029560928232967854,
+          "max_distance": 0.003000021679326892,
+          "min_signed_normal_distance": 0.0017909258021973073
+        },
+        "Edel_S4_ContactFit_ThighBand_1": {
+          "min_distance": 0.0017986809834837914,
+          "median_distance": 0.0029892416205257177,
+          "max_distance": 0.0030000186525285244,
+          "min_signed_normal_distance": 0.0017986810435104417
+        }
+      }
+    },
+    {
+      "pose": "knee_step",
+      "nonfinite_or_exploded_vertices": 0,
+      "zero_weight_vertices": 0,
+      "weight_sum_errors": 0,
+      "contact_clearances": {
+        "Edel_S4_Fitted_FingerlessGlove_L": {
+          "min_distance": 5.8087214711122215e-05,
+          "median_distance": 0.0024000017438083887,
+          "max_distance": 0.0033000733237713575,
+          "min_signed_normal_distance": -0.0012770035812081915
+        },
+        "Edel_S4_Fitted_FingerlessGlove_R": {
+          "min_distance": 9.64628725341754e-06,
+          "median_distance": 0.0024000004632398486,
+          "max_distance": 0.0033000297844409943,
+          "min_signed_normal_distance": -0.0009330691772042599
+        },
+        "Edel_S4_ContactFit_ThighBand_0": {
+          "min_distance": 0.0017909258604049683,
+          "median_distance": 0.0029560928232967854,
+          "max_distance": 0.003000021679326892,
+          "min_signed_normal_distance": 0.0017909258021973073
+        },
+        "Edel_S4_ContactFit_ThighBand_1": {
+          "min_distance": 0.0017986809834837914,
+          "median_distance": 0.0029892416205257177,
+          "max_distance": 0.0030000186525285244,
+          "min_signed_normal_distance": 0.0017986810435104417
+        }
+      }
+    },
+    {
+      "pose": "left_knee_step",
+      "nonfinite_or_exploded_vertices": 0,
+      "zero_weight_vertices": 0,
+      "weight_sum_errors": 0,
+      "contact_clearances": {
+        "Edel_S4_Fitted_FingerlessGlove_L": {
+          "min_distance": 5.8087214711122215e-05,
+          "median_distance": 0.0024000017438083887,
+          "max_distance": 0.0033000733237713575,
+          "min_signed_normal_distance": -0.0012770035812081915
+        },
+        "Edel_S4_Fitted_FingerlessGlove_R": {
+          "min_distance": 9.64628725341754e-06,
+          "median_distance": 0.0024000004632398486,
+          "max_distance": 0.0033000297844409943,
+          "min_signed_normal_distance": -0.0009330691772042599
+        },
+        "Edel_S4_ContactFit_ThighBand_0": {
+          "min_distance": 0.0017342534847557545,
+          "median_distance": 0.002918755868449807,
+          "max_distance": 0.003060632850974798,
+          "min_signed_normal_distance": 0.0017342535520583624
+        },
+        "Edel_S4_ContactFit_ThighBand_1": {
+          "min_distance": 0.0016323946183547378,
+          "median_distance": 0.002763657132163644,
+          "max_distance": 0.0030413339845836163,
+          "min_signed_normal_distance": 0.001632394632906653
+        }
+      }
+    },
+    {
+      "pose": "hand_curl",
+      "nonfinite_or_exploded_vertices": 0,
+      "zero_weight_vertices": 0,
+      "weight_sum_errors": 0,
+      "contact_clearances": {
+        "Edel_S4_Fitted_FingerlessGlove_L": {
+          "min_distance": 4.4142038291283825e-07,
+          "median_distance": 0.002400004188530147,
+          "max_distance": 0.0033432699274271727,
+          "min_signed_normal_distance": -0.0012549420007417211
+        },
+        "Edel_S4_Fitted_FingerlessGlove_R": {
+          "min_distance": 3.114963692496531e-05,
+          "median_distance": 0.0024000086123123765,
+          "max_distance": 0.003404228249564767,
+          "min_signed_normal_distance": -0.0031951161436154507
+        },
+        "Edel_S4_ContactFit_ThighBand_0": {
+          "min_distance": 0.0017909258604049683,
+          "median_distance": 0.0029560928232967854,
+          "max_distance": 0.003000021679326892,
+          "min_signed_normal_distance": 0.0017909258021973073
+        },
+        "Edel_S4_ContactFit_ThighBand_1": {
+          "min_distance": 0.0017986809834837914,
+          "median_distance": 0.0029892416205257177,
+          "max_distance": 0.0030000186525285244,
+          "min_signed_normal_distance": 0.0017986810435104417
+        }
+      }
+    },
+    {
+      "pose": "torso_turn",
+      "nonfinite_or_exploded_vertices": 0,
+      "zero_weight_vertices": 0,
+      "weight_sum_errors": 0,
+      "contact_clearances": {
+        "Edel_S4_Fitted_FingerlessGlove_L": {
+          "min_distance": 5.808560308651067e-05,
+          "median_distance": 0.002400002325884998,
+          "max_distance": 0.0033000458497554064,
+          "min_signed_normal_distance": -0.0012770138710038736
+        },
+        "Edel_S4_Fitted_FingerlessGlove_R": {
+          "min_distance": 9.679340109869372e-06,
+          "median_distance": 0.0024000044213607907,
+          "max_distance": 0.003300042124465108,
+          "min_signed_normal_distance": -0.0009330925904670606
+        },
+        "Edel_S4_ContactFit_ThighBand_0": {
+          "min_distance": 0.0017909258604049683,
+          "median_distance": 0.0029560928232967854,
+          "max_distance": 0.003000021679326892,
+          "min_signed_normal_distance": 0.0017909258021973073
+        },
+        "Edel_S4_ContactFit_ThighBand_1": {
+          "min_distance": 0.0017986809834837914,
+          "median_distance": 0.0029892416205257177,
+          "max_distance": 0.0030000186525285244,
+          "min_signed_normal_distance": 0.0017986810435104417
+        }
+      }
+    }
+  ],
+  "final_garment_objects": 50,
+  "derived_body_hidden_faces": 14126,
+  "wearable_sha256": "dd9fcfb2b1808f453422b0c99ae58ef2c1bac23c38379c735393b12620c95730",
+  "character_sha256": "4990d3ec57a30dd945fdee1079fa5526e895a5040d7fb1c9470aea50f207a015",
+  "revision": "r14",
+  "r8_contact_construction_and_sampling_retained": true,
+  "final_all_garment_pose_checks": [
+    {
+      "pose": "fitting",
+      "nonfinite_or_exploded_vertices": 0,
+      "zero_weight_vertices": 0,
+      "weight_sum_errors": 0,
+      "fitted_abdomen_sample_distance": {
+        "min": 0.0005982067668810487,
+        "median": 0.003847090294584632,
+        "max": 0.006575282197445631,
+        "min_signed_normal_distance": 0.0005982067727927642
+      }
+    },
+    {
+      "pose": "arm_flex",
+      "nonfinite_or_exploded_vertices": 0,
+      "zero_weight_vertices": 0,
+      "weight_sum_errors": 0,
+      "fitted_abdomen_sample_distance": {
+        "min": 0.0005982067668810487,
+        "median": 0.003847090294584632,
+        "max": 0.006575282197445631,
+        "min_signed_normal_distance": 0.0005982067727927642
+      }
+    },
+    {
+      "pose": "knee_step",
+      "nonfinite_or_exploded_vertices": 0,
+      "zero_weight_vertices": 0,
+      "weight_sum_errors": 0,
+      "fitted_abdomen_sample_distance": {
+        "min": 0.0005982067668810487,
+        "median": 0.0038043970707803965,
+        "max": 0.006575282197445631,
+        "min_signed_normal_distance": 0.0005982067727927642
+      }
+    },
+    {
+      "pose": "left_knee_step",
+      "nonfinite_or_exploded_vertices": 0,
+      "zero_weight_vertices": 0,
+      "weight_sum_errors": 0,
+      "fitted_abdomen_sample_distance": {
+        "min": 0.0005982067668810487,
+        "median": 0.003845969447866082,
+        "max": 0.006575282197445631,
+        "min_signed_normal_distance": 0.0005982067727927642
+      }
+    },
+    {
+      "pose": "hand_curl",
+      "nonfinite_or_exploded_vertices": 0,
+      "zero_weight_vertices": 0,
+      "weight_sum_errors": 0,
+      "fitted_abdomen_sample_distance": {
+        "min": 0.0005982067668810487,
+        "median": 0.003847090294584632,
+        "max": 0.006575282197445631,
+        "min_signed_normal_distance": 0.0005982067727927642
+      }
+    },
+    {
+      "pose": "torso_turn",
+      "nonfinite_or_exploded_vertices": 0,
+      "zero_weight_vertices": 0,
+      "weight_sum_errors": 0,
+      "fitted_abdomen_sample_distance": {
+        "min": 0.0005761595675721765,
+        "median": 0.0038008913397789,
+        "max": 0.006542883347719908,
+        "min_signed_normal_distance": 0.0005761595575677347
+      }
+    }
+  ],
+  "waist_refinement": {
+    "revision": "r11",
+    "source": "Edel_S4_Fitting_Master_r10.blend",
+    "body_ratio_and_bones_changed": false,
+    "preserved": [
+      "breast cup above transition",
+      "central panel",
+      "main belt and pouches",
+      "hands and thigh straps",
+      "boots"
+    ],
+    "fit_depth_samples": 1638,
+    "parts": [
+      {
+        "name": "tripo_part_1",
+        "removed_or_clipped_faces": 8850,
+        "final_vertices": 10250,
+        "final_polygons": 17529,
+        "max_fit_delta": 0.0
+      }
+    ],
+    "actual_skin_panel": {
+      "vertices": 3225,
+      "polygons": 4958,
+      "normal_offset": 0.0038,
+      "thickness": 0.0008,
+      "material": "matching charcoal technical fabric with body-fitted amber edge binding; source atlas reprojection trial rejected due discontinuities",
+      "original_skin_and_bone_lengths_unchanged": true
+    }
+  },
+  "chest_hem_and_seam_finish": {
+    "source": "Edel_S4_Fitting_Master_r11.blend",
+    "method": "single outer torso envelope lining; exact shared boundary seams continue beneath plate; original r10 side-chest restored with narrow strap-only cut; local edge smoothing",
+    "lining_vertices": 6565,
+    "lining_polygons": 6400,
+    "plate_vertices_tailored": 9288,
+    "max_plate_delta": 0.006,
+    "strap_cut_top": 0.4785,
+    "old_incorrect_cut_top": 0.493,
+    "local_smooth_iterations": 5,
+    "body_unchanged": true,
+    "main_belt_pouches_unchanged": true,
+    "uniform_underedge_material_faces": 1427,
+    "old_white_inner_atlas_patches_covered_on_underedge": true,
+    "worn_copy_original_bra_material_matched_to_s4_lining": true
+  },
+  "left_shorts_hem": {
+    "source": "Edel_S4_Fitting_Master_r12.blend",
+    "parts": [
+      {
+        "name": "tripo_part_3",
+        "vertices_moved": 3683,
+        "max_delta": 0.0275926066372315,
+        "upper_vertices_at_or_above_0335_not_moved": true
+      },
+      {
+        "name": "tripo_part_15",
+        "vertices_moved": 127,
+        "max_delta": 0.012778770310192542,
+        "upper_vertices_at_or_above_0335_not_moved": true
+      },
+      {
+        "name": "tripo_part_32",
+        "vertices_moved": 72,
+        "max_delta": 0.0023491317628332943,
+        "upper_vertices_at_or_above_0335_not_moved": true
+      }
+    ],
+    "section_controls": [
+      {
+        "z": 0.29,
+        "count": 96,
+        "ratio_min": 0.7217147350744708,
+        "ratio_max": 0.9660454413674896
+      },
+      {
+        "z": 0.294,
+        "count": 96,
+        "ratio_min": 0.7289712762915446,
+        "ratio_max": 0.9831105293876313
+      },
+      {
+        "z": 0.298,
+        "count": 96,
+        "ratio_min": 0.7255613652144739,
+        "ratio_max": 0.9719525103581854
+      },
+      {
+        "z": 0.302,
+        "count": 96,
+        "ratio_min": 0.7208265899940793,
+        "ratio_max": 0.9636454871873844
+      },
+      {
+        "z": 0.306,
+        "count": 96,
+        "ratio_min": 0.7156192684467231,
+        "ratio_max": 0.9699520279867174
+      },
+      {
+        "z": 0.31,
+        "count": 96,
+        "ratio_min": 0.7087469630962364,
+        "ratio_max": 0.9747043113281689
+      },
+      {
+        "z": 0.314,
+        "count": 96,
+        "ratio_min": 0.686993016728514,
+        "ratio_max": 0.9762983254968945
+      },
+      {
+        "z": 0.318,
+        "count": 96,
+        "ratio_min": 0.6410729807850275,
+        "ratio_max": 1.00043736176525
+      },
+      {
+        "z": 0.322,
+        "count": 86,
+        "ratio_min": 0.6555867120653311,
+        "ratio_max": 1.047458667481018
+      },
+      {
+        "z": 0.326,
+        "count": 79,
+        "ratio_min": 0.6429452714812517,
+        "ratio_max": 1.0539042514597778
+      },
+      {
+        "z": 0.33,
+        "count": 78,
+        "ratio_min": 0.6275973966620237,
+        "ratio_max": 1.0393108320438649
+      },
+      {
+        "z": 0.334,
+        "count": 76,
+        "ratio_min": 0.6077446446906121,
+        "ratio_max": 1.0413745081090104
+      }
+    ],
+    "full_fit_below": 0.31,
+    "unchanged_above": 0.335,
+    "outer_clearance_target": 0.0055,
+    "body_geometry_changed": false
+  },
+  "left_shorts_transition_refinement": {
+    "source": "Edel_S4_Fitting_Master_r12.blend",
+    "revision": "r14",
+    "method": "smooth additive radial delta from low hem; broad C1 transition; coherent hip/thigh weights for all overlapping panels",
+    "clearance_target": 0.0065,
+    "full_fit_below": 0.304,
+    "unchanged_geometry_above": 0.382,
+    "parts": [
+      {
+        "name": "tripo_part_3",
+        "vertices_moved": 6203,
+        "max_delta": 0.027570671245110537
+      },
+      {
+        "name": "tripo_part_15",
+        "vertices_moved": 862,
+        "max_delta": 0.012606794835280207
+      },
+      {
+        "name": "tripo_part_32",
+        "vertices_moved": 318,
+        "max_delta": 0.0070945085534187815
+      }
+    ],
+    "source_lower_hem_reference": "Edel_S4_Fitting_Master_r13.blend below z=.309; C1 blend to broader transition by z=.329",
+    "uv_seam_aware_smoothing": "geometric coincidence groups tolerance .00001; 8 bounded smoothing iterations, maximum .0035 displacement; original indexed topology and UV retained",
+    "hip_thigh_weight_field": "smooth Hips/Thigh.L field from z=.303 to .390 for overlapping panels; blend to r13 lower hem weights over .309-.329",
+    "inner_thigh_clearance": "smooth local radial allowance max .0030 at z=.314, inner angle -pi/2; widths .0075 height and .35 radians; no body geometry change",
+    "not_selected": "r14A disconnected-UV smoothing created gaps; r14B pure thigh lower-cuff weights showed skin at bent edge; r14C section check found one negative sample at z=.314/angle71; r14D broader lower-reference blend reduced side-edge quality. Failed renders and check report retained. Final candidate is r14E."
+  }
+}

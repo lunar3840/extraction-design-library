@@ -1,0 +1,1300 @@
+{
+  "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Tripo_Multiview_Pilot\\Source\\S4_Maintenance_Multiview_Textured_r1.glb",
+  "sha256": "be5aea91f2f8254d214ea08e3feb3aa57fd9e1461cf8d4ea11296aeb027ae903",
+  "mesh_count": 44,
+  "material_count": 44,
+  "triangle_total": 147229,
+  "vertices_total": 87665,
+  "armature_count": 0,
+  "bounds_min": [
+    -0.3151824474334717,
+    -0.147151380777359,
+    0.0
+  ],
+  "bounds_max": [
+    0.3151824474334717,
+    0.147151380777359,
+    0.9792962670326233
+  ],
+  "images": [
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_0_basecolor.jpg",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_10_basecolor.jpg",
+      "size": [
+        512,
+        512
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_11_basecolor.jpg",
+      "size": [
+        512,
+        512
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_12_basecolor.jpg",
+      "size": [
+        512,
+        512
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_13_basecolor.jpg",
+      "size": [
+        512,
+        512
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_14_basecolor.jpg",
+      "size": [
+        512,
+        512
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_15_basecolor.jpg",
+      "size": [
+        256,
+        256
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_16_basecolor.jpg",
+      "size": [
+        512,
+        512
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_17_basecolor.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_18_basecolor.jpg",
+      "size": [
+        512,
+        512
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_19_basecolor.jpg",
+      "size": [
+        512,
+        512
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_1_basecolor.jpg",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_20_basecolor.jpg",
+      "size": [
+        512,
+        512
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_21_basecolor.jpg",
+      "size": [
+        512,
+        512
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_22_basecolor.jpg",
+      "size": [
+        512,
+        512
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_23_basecolor.jpg",
+      "size": [
+        256,
+        256
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_24_basecolor.jpg",
+      "size": [
+        256,
+        256
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_25_basecolor.jpg",
+      "size": [
+        256,
+        256
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_26_basecolor.jpg",
+      "size": [
+        256,
+        256
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_27_basecolor.jpg",
+      "size": [
+        128,
+        128
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_28_basecolor.jpg",
+      "size": [
+        256,
+        256
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_29_basecolor.jpg",
+      "size": [
+        128,
+        128
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_2_basecolor.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_30_basecolor.jpg",
+      "size": [
+        256,
+        256
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_31_basecolor.jpg",
+      "size": [
+        256,
+        256
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_32_basecolor.jpg",
+      "size": [
+        256,
+        256
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_33_basecolor.jpg",
+      "size": [
+        256,
+        256
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_34_basecolor.jpg",
+      "size": [
+        256,
+        256
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_35_basecolor.jpg",
+      "size": [
+        128,
+        128
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_36_basecolor.jpg",
+      "size": [
+        128,
+        128
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_37_basecolor.jpg",
+      "size": [
+        128,
+        128
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_38_basecolor.jpg",
+      "size": [
+        128,
+        128
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_39_basecolor.jpg",
+      "size": [
+        256,
+        256
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_3_basecolor.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_40_basecolor.jpg",
+      "size": [
+        128,
+        128
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_41_basecolor.jpg",
+      "size": [
+        256,
+        256
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_42_basecolor.jpg",
+      "size": [
+        256,
+        256
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_43_basecolor.jpg",
+      "size": [
+        128,
+        128
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_4_basecolor.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_5_basecolor.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_6_basecolor.jpg",
+      "size": [
+        1024,
+        1024
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_7_basecolor.jpg",
+      "size": [
+        512,
+        512
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_8_basecolor.jpg",
+      "size": [
+        512,
+        512
+      ],
+      "packed": true
+    },
+    {
+      "name": "S4_Maintenance_Multiview_Textured_r1_tripo_part_9_basecolor.jpg",
+      "size": [
+        512,
+        512
+      ],
+      "packed": true
+    }
+  ],
+  "parts": [
+    {
+      "name": "tripo_part_0",
+      "vertices": 12257,
+      "polygons": 21242,
+      "triangles": 21242,
+      "bounds_min": [
+        -0.18654251098632812,
+        -0.1089673787355423,
+        0.15747857093811035
+      ],
+      "bounds_max": [
+        0.019268043339252472,
+        0.147151380777359,
+        0.6273424625396729
+      ],
+      "boundary_edges": 3142,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_0_material"
+      ]
+    },
+    {
+      "name": "tripo_part_1",
+      "vertices": 14825,
+      "polygons": 23652,
+      "triangles": 23652,
+      "bounds_min": [
+        -0.14173449575901031,
+        -0.147151380777359,
+        0.6070096492767334
+      ],
+      "bounds_max": [
+        0.14433728158473969,
+        0.13264140486717224,
+        0.9436490535736084
+      ],
+      "boundary_edges": 5690,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_1_material"
+      ]
+    },
+    {
+      "name": "tripo_part_2",
+      "vertices": 8445,
+      "polygons": 14980,
+      "triangles": 14980,
+      "bounds_min": [
+        0.04360487312078476,
+        -0.1373406946659088,
+        1.9371509552001953e-05
+      ],
+      "bounds_max": [
+        0.18450452387332916,
+        0.12606415152549744,
+        0.21458083391189575
+      ],
+      "boundary_edges": 1842,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_2_material"
+      ]
+    },
+    {
+      "name": "tripo_part_3",
+      "vertices": 6342,
+      "polygons": 10658,
+      "triangles": 10658,
+      "bounds_min": [
+        0.00036312639713287354,
+        -0.10427489876747131,
+        0.456511527299881
+      ],
+      "bounds_max": [
+        0.19621731340885162,
+        0.14194855093955994,
+        0.6104956269264221
+      ],
+      "boundary_edges": 1940,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_3_material"
+      ]
+    },
+    {
+      "name": "tripo_part_4",
+      "vertices": 3672,
+      "polygons": 6424,
+      "triangles": 6424,
+      "bounds_min": [
+        -0.17298555374145508,
+        -0.12971819937229156,
+        0.03512468934059143
+      ],
+      "bounds_max": [
+        -0.04545638710260391,
+        0.11940442025661469,
+        0.17839708924293518
+      ],
+      "boundary_edges": 892,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_4_material"
+      ]
+    },
+    {
+      "name": "tripo_part_5",
+      "vertices": 3414,
+      "polygons": 5944,
+      "triangles": 5944,
+      "bounds_min": [
+        0.20641398429870605,
+        -0.012544635683298111,
+        0.5352746844291687
+      ],
+      "bounds_max": [
+        0.3151824474334717,
+        0.09082221239805222,
+        0.6717149615287781
+      ],
+      "boundary_edges": 846,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_5_material"
+      ]
+    },
+    {
+      "name": "tripo_part_6",
+      "vertices": 2893,
+      "polygons": 5080,
+      "triangles": 5080,
+      "bounds_min": [
+        -0.1792190968990326,
+        -0.13741545379161835,
+        0.0
+      ],
+      "bounds_max": [
+        -0.03786931186914444,
+        0.12608857452869415,
+        0.05731964111328125
+      ],
+      "boundary_edges": 672,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_6_material"
+      ]
+    },
+    {
+      "name": "tripo_part_7",
+      "vertices": 2922,
+      "polygons": 4663,
+      "triangles": 4663,
+      "bounds_min": [
+        -0.07337430864572525,
+        -0.05085048824548721,
+        0.8945756554603577
+      ],
+      "bounds_max": [
+        0.07706210017204285,
+        0.10792484134435654,
+        0.9792962670326233
+      ],
+      "boundary_edges": 1111,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_7_material"
+      ]
+    },
+    {
+      "name": "tripo_part_8",
+      "vertices": 1015,
+      "polygons": 1617,
+      "triangles": 1617,
+      "bounds_min": [
+        -0.0731918066740036,
+        -0.13093537092208862,
+        0.5772263407707214
+      ],
+      "bounds_max": [
+        0.1651352047920227,
+        -0.007930435240268707,
+        0.6465566158294678
+      ],
+      "boundary_edges": 387,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_8_material"
+      ]
+    },
+    {
+      "name": "tripo_part_9",
+      "vertices": 2686,
+      "polygons": 3964,
+      "triangles": 3964,
+      "bounds_min": [
+        -0.10813160240650177,
+        -0.10953806340694427,
+        0.5758699774742126
+      ],
+      "bounds_max": [
+        -0.026737410575151443,
+        0.08779623359441757,
+        0.7619509696960449
+      ],
+      "boundary_edges": 1326,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_9_material"
+      ]
+    },
+    {
+      "name": "tripo_part_10",
+      "vertices": 3355,
+      "polygons": 5585,
+      "triangles": 5585,
+      "bounds_min": [
+        -0.12420734763145447,
+        -0.06020808964967728,
+        0.7678346633911133
+      ],
+      "bounds_max": [
+        0.06756510585546494,
+        0.1230766624212265,
+        0.942631721496582
+      ],
+      "boundary_edges": 1067,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_10_material"
+      ]
+    },
+    {
+      "name": "tripo_part_11",
+      "vertices": 1142,
+      "polygons": 2158,
+      "triangles": 2158,
+      "bounds_min": [
+        -0.29386651515960693,
+        -0.014402609318494797,
+        0.6261019110679626
+      ],
+      "bounds_max": [
+        -0.18525445461273193,
+        0.0931413471698761,
+        0.7478823065757751
+      ],
+      "boundary_edges": 122,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_11_material"
+      ]
+    },
+    {
+      "name": "tripo_part_12",
+      "vertices": 833,
+      "polygons": 1442,
+      "triangles": 1442,
+      "bounds_min": [
+        0.019626125693321228,
+        -0.07144680619239807,
+        0.3723267614841461
+      ],
+      "bounds_max": [
+        0.16618679463863373,
+        0.09024295210838318,
+        0.40248289704322815
+      ],
+      "boundary_edges": 214,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_12_material"
+      ]
+    },
+    {
+      "name": "tripo_part_13",
+      "vertices": 871,
+      "polygons": 1514,
+      "triangles": 1514,
+      "bounds_min": [
+        0.012165039777755737,
+        -0.07892599701881409,
+        0.41095325350761414
+      ],
+      "bounds_max": [
+        0.17387768626213074,
+        0.09872445464134216,
+        0.44177600741386414
+      ],
+      "boundary_edges": 218,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_13_material"
+      ]
+    },
+    {
+      "name": "tripo_part_14",
+      "vertices": 857,
+      "polygons": 1513,
+      "triangles": 1513,
+      "bounds_min": [
+        -0.3151824474334717,
+        -0.022447973489761353,
+        0.5356218814849854
+      ],
+      "bounds_max": [
+        -0.23259806632995605,
+        0.07116088271141052,
+        0.5991804599761963
+      ],
+      "boundary_edges": 191,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_14_material"
+      ]
+    },
+    {
+      "name": "tripo_part_15",
+      "vertices": 915,
+      "polygons": 1500,
+      "triangles": 1500,
+      "bounds_min": [
+        0.08129711449146271,
+        0.08278997242450714,
+        0.4992217421531677
+      ],
+      "bounds_max": [
+        0.16714689135551453,
+        0.1297031193971634,
+        0.6080970168113708
+      ],
+      "boundary_edges": 314,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_15_material"
+      ]
+    },
+    {
+      "name": "tripo_part_16",
+      "vertices": 725,
+      "polygons": 1225,
+      "triangles": 1225,
+      "bounds_min": [
+        -0.21027617156505585,
+        -0.0038501620292663574,
+        0.3822581171989441
+      ],
+      "bounds_max": [
+        -0.14224867522716522,
+        0.07093697786331177,
+        0.5594126582145691
+      ],
+      "boundary_edges": 213,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_16_material"
+      ]
+    },
+    {
+      "name": "tripo_part_17",
+      "vertices": 6509,
+      "polygons": 11102,
+      "triangles": 11102,
+      "bounds_min": [
+        -0.3002950847148895,
+        -0.04114210605621338,
+        0.5852904915809631
+      ],
+      "bounds_max": [
+        -0.01059173047542572,
+        0.11323868483304977,
+        0.9395995736122131
+      ],
+      "boundary_edges": 1816,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_17_material"
+      ]
+    },
+    {
+      "name": "tripo_part_18",
+      "vertices": 2371,
+      "polygons": 3649,
+      "triangles": 3649,
+      "bounds_min": [
+        0.029964648187160492,
+        -0.10976944863796234,
+        0.632541298866272
+      ],
+      "bounds_max": [
+        0.11479207873344421,
+        0.08823622763156891,
+        0.7632366418838501
+      ],
+      "boundary_edges": 1041,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_18_material"
+      ]
+    },
+    {
+      "name": "tripo_part_19",
+      "vertices": 2089,
+      "polygons": 3371,
+      "triangles": 3371,
+      "bounds_min": [
+        -0.20875200629234314,
+        -0.10365462303161621,
+        0.378433495759964
+      ],
+      "bounds_max": [
+        -0.09551653265953064,
+        0.00873398408293724,
+        0.5555498600006104
+      ],
+      "boundary_edges": 755,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_19_material"
+      ]
+    },
+    {
+      "name": "tripo_part_20",
+      "vertices": 1157,
+      "polygons": 1967,
+      "triangles": 1967,
+      "bounds_min": [
+        -0.1830199956893921,
+        0.048403095453977585,
+        0.37959715723991394
+      ],
+      "bounds_max": [
+        -0.11514317989349365,
+        0.11051210016012192,
+        0.5528531074523926
+      ],
+      "boundary_edges": 331,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_20_material"
+      ]
+    },
+    {
+      "name": "tripo_part_21",
+      "vertices": 970,
+      "polygons": 1589,
+      "triangles": 1589,
+      "bounds_min": [
+        0.06551539897918701,
+        -0.06003549322485924,
+        0.8603135347366333
+      ],
+      "bounds_max": [
+        0.12348927557468414,
+        0.11421606689691544,
+        0.9427376985549927
+      ],
+      "boundary_edges": 327,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_21_material"
+      ]
+    },
+    {
+      "name": "tripo_part_22",
+      "vertices": 846,
+      "polygons": 1559,
+      "triangles": 1559,
+      "bounds_min": [
+        -0.14523544907569885,
+        -0.0820317342877388,
+        0.23454684019088745
+      ],
+      "bounds_max": [
+        -0.036318209022283554,
+        -0.005440238863229752,
+        0.3584901690483093
+      ],
+      "boundary_edges": 129,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_22_material"
+      ]
+    },
+    {
+      "name": "tripo_part_23",
+      "vertices": 776,
+      "polygons": 1339,
+      "triangles": 1339,
+      "bounds_min": [
+        0.02681577205657959,
+        0.08902418613433838,
+        0.8294097185134888
+      ],
+      "bounds_max": [
+        0.10566937923431396,
+        0.12294542789459229,
+        0.9189521074295044
+      ],
+      "boundary_edges": 205,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_23_material"
+      ]
+    },
+    {
+      "name": "tripo_part_24",
+      "vertices": 771,
+      "polygons": 1231,
+      "triangles": 1231,
+      "bounds_min": [
+        0.07993681728839874,
+        -0.05367017537355423,
+        0.5984632968902588
+      ],
+      "bounds_max": [
+        0.16666395962238312,
+        0.12280915677547455,
+        0.6566336154937744
+      ],
+      "boundary_edges": 293,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_24_material"
+      ]
+    },
+    {
+      "name": "tripo_part_25",
+      "vertices": 470,
+      "polygons": 827,
+      "triangles": 827,
+      "bounds_min": [
+        -0.1565433144569397,
+        0.03121526539325714,
+        0.6028780937194824
+      ],
+      "bounds_max": [
+        -0.0792422890663147,
+        0.12152059376239777,
+        0.6564421653747559
+      ],
+      "boundary_edges": 109,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_25_material"
+      ]
+    },
+    {
+      "name": "tripo_part_26",
+      "vertices": 406,
+      "polygons": 678,
+      "triangles": 678,
+      "bounds_min": [
+        0.06434021890163422,
+        -0.10990782082080841,
+        0.5591825246810913
+      ],
+      "bounds_max": [
+        0.12391816079616547,
+        -0.07077665627002716,
+        0.6428388357162476
+      ],
+      "boundary_edges": 128,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_26_material"
+      ]
+    },
+    {
+      "name": "tripo_part_27",
+      "vertices": 353,
+      "polygons": 644,
+      "triangles": 644,
+      "bounds_min": [
+        0.04877054691314697,
+        0.08518438041210175,
+        0.5989121198654175
+      ],
+      "bounds_max": [
+        0.09455835819244385,
+        0.133074089884758,
+        0.6597660779953003
+      ],
+      "boundary_edges": 60,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_27_material"
+      ]
+    },
+    {
+      "name": "tripo_part_28",
+      "vertices": 348,
+      "polygons": 626,
+      "triangles": 626,
+      "bounds_min": [
+        -0.15044447779655457,
+        -0.09134116768836975,
+        0.5884828567504883
+      ],
+      "bounds_max": [
+        -0.08855101466178894,
+        -0.019756469875574112,
+        0.6434831619262695
+      ],
+      "boundary_edges": 68,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_28_material"
+      ]
+    },
+    {
+      "name": "tripo_part_29",
+      "vertices": 347,
+      "polygons": 594,
+      "triangles": 594,
+      "bounds_min": [
+        -0.09436072409152985,
+        0.07959991693496704,
+        0.5983638763427734
+      ],
+      "bounds_max": [
+        -0.051147833466529846,
+        0.1330743432044983,
+        0.6588821411132812
+      ],
+      "boundary_edges": 96,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_29_material"
+      ]
+    },
+    {
+      "name": "tripo_part_30",
+      "vertices": 352,
+      "polygons": 568,
+      "triangles": 568,
+      "bounds_min": [
+        -0.16461890935897827,
+        -0.03473886474967003,
+        0.6056708097457886
+      ],
+      "bounds_max": [
+        -0.12794536352157593,
+        0.03612104058265686,
+        0.6602896451950073
+      ],
+      "boundary_edges": 128,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_30_material"
+      ]
+    },
+    {
+      "name": "tripo_part_31",
+      "vertices": 338,
+      "polygons": 543,
+      "triangles": 543,
+      "bounds_min": [
+        0.1353142261505127,
+        -0.020648667588829994,
+        0.6037969589233398
+      ],
+      "bounds_max": [
+        0.17403912544250488,
+        0.044147782027721405,
+        0.6578378677368164
+      ],
+      "boundary_edges": 127,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_31_material"
+      ]
+    },
+    {
+      "name": "tripo_part_32",
+      "vertices": 318,
+      "polygons": 528,
+      "triangles": 528,
+      "bounds_min": [
+        0.11293825507164001,
+        -0.076021209359169,
+        0.5022926926612854
+      ],
+      "bounds_max": [
+        0.16759523749351501,
+        -0.04529477655887604,
+        0.6024742722511292
+      ],
+      "boundary_edges": 104,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_32_material"
+      ]
+    },
+    {
+      "name": "tripo_part_33",
+      "vertices": 282,
+      "polygons": 465,
+      "triangles": 465,
+      "bounds_min": [
+        0.011993490159511566,
+        -0.10919314622879028,
+        0.5898681879043579
+      ],
+      "bounds_max": [
+        0.13558202981948853,
+        0.008703909814357758,
+        0.6540409326553345
+      ],
+      "boundary_edges": 95,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_33_material"
+      ]
+    },
+    {
+      "name": "tripo_part_34",
+      "vertices": 228,
+      "polygons": 342,
+      "triangles": 342,
+      "bounds_min": [
+        -0.12979036569595337,
+        -0.10634550452232361,
+        0.5988372564315796
+      ],
+      "bounds_max": [
+        -0.01653580367565155,
+        0.06030335649847984,
+        0.6575511693954468
+      ],
+      "boundary_edges": 108,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_34_material"
+      ]
+    },
+    {
+      "name": "tripo_part_35",
+      "vertices": 198,
+      "polygons": 337,
+      "triangles": 337,
+      "bounds_min": [
+        0.0339348204433918,
+        0.07881727814674377,
+        0.5992600917816162
+      ],
+      "bounds_max": [
+        0.08805393427610397,
+        0.12436476349830627,
+        0.6572415828704834
+      ],
+      "boundary_edges": 57,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_35_material"
+      ]
+    },
+    {
+      "name": "tripo_part_36",
+      "vertices": 209,
+      "polygons": 332,
+      "triangles": 332,
+      "bounds_min": [
+        -0.040253739804029465,
+        -0.11502648144960403,
+        0.8606874942779541
+      ],
+      "bounds_max": [
+        0.045409101992845535,
+        -0.07903766632080078,
+        0.881298303604126
+      ],
+      "boundary_edges": 82,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_36_material"
+      ]
+    },
+    {
+      "name": "tripo_part_37",
+      "vertices": 225,
+      "polygons": 306,
+      "triangles": 306,
+      "bounds_min": [
+        0.07511822879314423,
+        -0.04132223501801491,
+        0.8657749891281128
+      ],
+      "bounds_max": [
+        0.11174504458904266,
+        -0.015034199692308903,
+        0.8963040113449097
+      ],
+      "boundary_edges": 128,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_37_material"
+      ]
+    },
+    {
+      "name": "tripo_part_38",
+      "vertices": 175,
+      "polygons": 290,
+      "triangles": 290,
+      "bounds_min": [
+        -0.08097061514854431,
+        0.07586468756198883,
+        0.6083146333694458
+      ],
+      "bounds_max": [
+        -0.05091175436973572,
+        0.10563172399997711,
+        0.6599751710891724
+      ],
+      "boundary_edges": 56,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_38_material"
+      ]
+    },
+    {
+      "name": "tripo_part_39",
+      "vertices": 156,
+      "polygons": 286,
+      "triangles": 286,
+      "bounds_min": [
+        -0.2953397035598755,
+        0.00965723767876625,
+        0.6502261757850647
+      ],
+      "bounds_max": [
+        -0.2467442750930786,
+        0.05972514674067497,
+        0.7411761283874512
+      ],
+      "boundary_edges": 24,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_39_material"
+      ]
+    },
+    {
+      "name": "tripo_part_40",
+      "vertices": 189,
+      "polygons": 272,
+      "triangles": 272,
+      "bounds_min": [
+        -0.06371656060218811,
+        0.12246809899806976,
+        0.6029562950134277
+      ],
+      "bounds_max": [
+        0.06330522894859314,
+        0.13500510156154633,
+        0.6191787719726562
+      ],
+      "boundary_edges": 96,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_40_material"
+      ]
+    },
+    {
+      "name": "tripo_part_41",
+      "vertices": 145,
+      "polygons": 222,
+      "triangles": 222,
+      "bounds_min": [
+        -0.1364654302597046,
+        -0.05691070482134819,
+        0.607507050037384
+      ],
+      "bounds_max": [
+        -0.0763324648141861,
+        0.10078506916761398,
+        0.6428263783454895
+      ],
+      "boundary_edges": 66,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_41_material"
+      ]
+    },
+    {
+      "name": "tripo_part_42",
+      "vertices": 148,
+      "polygons": 207,
+      "triangles": 207,
+      "bounds_min": [
+        0.07665064930915833,
+        -0.03527302294969559,
+        0.608649730682373
+      ],
+      "bounds_max": [
+        0.14908985793590546,
+        0.10028986632823944,
+        0.6427054405212402
+      ],
+      "boundary_edges": 83,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_42_material"
+      ]
+    },
+    {
+      "name": "tripo_part_43",
+      "vertices": 120,
+      "polygons": 194,
+      "triangles": 194,
+      "bounds_min": [
+        0.06049523130059242,
+        -0.041954971849918365,
+        0.8629226088523865
+      ],
+      "bounds_max": [
+        0.11605438590049744,
+        0.037606269121170044,
+        0.9215525984764099
+      ],
+      "boundary_edges": 44,
+      "nonmanifold_edges_gt2": 0,
+      "materials": [
+        "tripo_part_43_material"
+      ]
+    }
+  ],
+  "meaning": "generated part boundaries are not proof of engineered removable armor or clean garment inner surfaces"
+}

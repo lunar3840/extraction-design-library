@@ -1,0 +1,12 @@
+START 2026-10-30T09:07:08.5260436Z
+command=compare_local_art
+PASS_REVISION21_FAST_GATE fullReferencedAssetRehash=notRepeated existingObjectRows=46684 ownedRootRows=9 ownedFiles=38 protected=29 originalSourceMeshMeta=8
+PASS_STATIC_ONLY: C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/a-map-clinic-intertwined-vines\staging/validation/AFTER_LOCAL_ART_PRESERVATION_compare22_001.txt
+CLINIC_INTERTWINED_AUDIT
+refs=True ownedRenderers=6 collider=0 wallTriangles=13500 wallVertices=15648 roofTriangles=154050
+wallIntertwine=segments=308 sampledStride=1 projectedCrossings=24 layeredCrossings=21
+roofIntertwine=segments=2985 sampledStride=1 projectedCrossings=388 layeredCrossings=309 nearRoofContact=2930/2967 downwardStemSegments=41
+technicalMinima=wallLayered>=3 roofLayered>=3 roofContact>=70pct roofDownward>=1
+RESULT PASS
+
+COMPLETE

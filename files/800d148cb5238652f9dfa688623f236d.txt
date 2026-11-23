@@ -1,0 +1,10 @@
+UTC=2026-10-22T11:26:32.9704454Z
+scene=Assets/Escape/Scenes/SystemsTest.unity
+save=C:\UnityProject\escape\Library\UiKitEvidence\input-ce5afcc16adb4b51a4ac050469ad8439
+resolution=1920x1080
+world=(-109.0000, 0.0927, -129.0000)
+yaw=90
+map=(151.0000, 329.0000)
+imagePixelTopLeft=(755.0000, 1645.0000)
+image=TacticalMaps/StageA usesImage=True
+full=False

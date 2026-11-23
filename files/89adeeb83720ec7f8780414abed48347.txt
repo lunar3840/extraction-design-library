@@ -1,0 +1,3 @@
+2026-09-22 오전 2:36:07
+PASS retained scene reloaded, hall layers/terrain refs/native props and resource prefab persist.
+sceneDirty=False

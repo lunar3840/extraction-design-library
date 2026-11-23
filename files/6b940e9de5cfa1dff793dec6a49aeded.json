@@ -1,0 +1,401 @@
+{
+  "reviewed_utc": "2026-10-29T07:05:41.259067+00:00",
+  "source_before_sha256": "cee92151bc7f88cfa035be83b34a4f8e8f078beb7869bcead58ae2ce79254b4c",
+  "draft_sha256": "9282d7efa7e3dca2848d613fd211494143eb8ac6693e29d41ce02abb356de841",
+  "production_sha256": "9282d7efa7e3dca2848d613fd211494143eb8ac6693e29d41ce02abb356de841",
+  "source_matches_draft": true,
+  "before": {
+    "folder": "runtime_before_639288540176226386",
+    "summary_hash": "9da88a480986a3556b18066ef2047f60fc35a0fef7b850818ec47a078af64a42",
+    "pass_groups": [
+      "same faction intercept remains harmless and blocks penetration",
+      "partial wall intercept remains solid and harmless",
+      "legacy actor still damages only its chosen player",
+      "self colliders ignored; one first hit despite overlapping hitboxes",
+      "full wall visibility blocks firing and ammo use",
+      "production human AR and named shotgun damage/pellets",
+      "existing Enemy",
+      "existing Combat",
+      "existing Encounter",
+      "existing Faction",
+      "existing MachineRole"
+    ],
+    "fail_groups": [
+      "hostile NPC intercept real damage/source/events System.InvalidOperationException: hostile intercepted damage=0",
+      "player chosen/NPC struck does not invent player damage evidence System.InvalidOperationException: chosenPlayer intercepted damage=0",
+      "NPC chosen/player struck records actual player damage evidence System.InvalidOperationException: struckPlayer intercepted damage=0",
+      "intercept fatal damage once; NPC kill never earns player credit System.InvalidOperationException: fatal attribution/event mismatch"
+    ],
+    "result": "FAIL groupsPassed=11 groupsFailed=4",
+    "intercepts": {
+      "ally": [
+        {
+          "sample": 1,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 2,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 3,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 4,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 5,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        }
+      ],
+      "wall": [
+        {
+          "sample": 1,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 2,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 3,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 4,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 5,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        }
+      ],
+      "legacy": [
+        {
+          "sample": 1,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 2,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 3,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 4,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 5,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        }
+      ]
+    },
+    "existing": {
+      "EscapeEnemyChecks.txt": {
+        "pass_lines": 119,
+        "fail_lines": 0,
+        "sha256": "02ca5ef0e7ba721102b93a07c015a312b66b392f464e59d5c739088ca4b7f141"
+      },
+      "EscapeCombatChecks.txt": {
+        "pass_lines": 40,
+        "fail_lines": 0,
+        "sha256": "2f1c4bd0b0739ae20ddfb44709103cc075f571cdc5c9ea3d74754c5bb862a955"
+      },
+      "StageAEncounterCombatChecks.txt": {
+        "pass_lines": 14,
+        "fail_lines": 0,
+        "sha256": "b444021e4d6ea8c152fd0b7d2f2b4eec0e2a0eaf2803f705b9afbf249c5b47a3"
+      },
+      "StageAFactionBehaviorChecks.txt": {
+        "pass_lines": 26,
+        "fail_lines": 0,
+        "sha256": "aacf88ae7a0f34f42c5cc41258ca3acf154d33b975abf6708e3e7446b54f038e"
+      },
+      "EscapeStageAMachineRoleCombatChecks.txt": {
+        "pass_lines": 17,
+        "fail_lines": 0,
+        "sha256": "d069b5e06a04268d6b131eed6a854e96443ba402634bacbe0dbeac2dc6a30ac8"
+      }
+    }
+  },
+  "after": {
+    "folder": "runtime_after_639288542192132646",
+    "summary_hash": "97e6d7121ab4abff32c2d795d2f042dc9d8ada5d03ad2a4a224414a31066d58b",
+    "pass_groups": [
+      "hostile NPC intercept real damage/source/events",
+      "same faction intercept remains harmless and blocks penetration",
+      "partial wall intercept remains solid and harmless",
+      "legacy actor still damages only its chosen player",
+      "player chosen/NPC struck does not invent player damage evidence",
+      "NPC chosen/player struck records actual player damage evidence",
+      "self colliders ignored; one first hit despite overlapping hitboxes",
+      "full wall visibility blocks firing and ammo use",
+      "intercept fatal damage once; NPC kill never earns player credit",
+      "production human AR and named shotgun damage/pellets",
+      "existing Enemy",
+      "existing Combat",
+      "existing Encounter",
+      "existing Faction",
+      "existing MachineRole"
+    ],
+    "fail_groups": [],
+    "result": "PASS groupsPassed=15 groupsFailed=0",
+    "intercepts": {
+      "hostile": [
+        {
+          "sample": 1,
+          "damage": 6.5,
+          "playerEvidence": 0.0,
+          "events": 1
+        },
+        {
+          "sample": 2,
+          "damage": 6.5,
+          "playerEvidence": 0.0,
+          "events": 1
+        },
+        {
+          "sample": 3,
+          "damage": 6.5,
+          "playerEvidence": 0.0,
+          "events": 1
+        },
+        {
+          "sample": 4,
+          "damage": 6.5,
+          "playerEvidence": 0.0,
+          "events": 1
+        },
+        {
+          "sample": 5,
+          "damage": 6.5,
+          "playerEvidence": 0.0,
+          "events": 1
+        }
+      ],
+      "ally": [
+        {
+          "sample": 1,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 2,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 3,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 4,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 5,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        }
+      ],
+      "wall": [
+        {
+          "sample": 1,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 2,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 3,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 4,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 5,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        }
+      ],
+      "legacy": [
+        {
+          "sample": 1,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 2,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 3,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 4,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        },
+        {
+          "sample": 5,
+          "damage": 0.0,
+          "playerEvidence": 0.0,
+          "events": 0
+        }
+      ],
+      "chosenPlayer": [
+        {
+          "sample": 1,
+          "damage": 6.5,
+          "playerEvidence": 0.0,
+          "events": 1
+        },
+        {
+          "sample": 2,
+          "damage": 6.5,
+          "playerEvidence": 0.0,
+          "events": 1
+        },
+        {
+          "sample": 3,
+          "damage": 6.5,
+          "playerEvidence": 0.0,
+          "events": 1
+        },
+        {
+          "sample": 4,
+          "damage": 6.5,
+          "playerEvidence": 0.0,
+          "events": 1
+        },
+        {
+          "sample": 5,
+          "damage": 6.5,
+          "playerEvidence": 0.0,
+          "events": 1
+        }
+      ],
+      "struckPlayer": [
+        {
+          "sample": 1,
+          "damage": 6.5,
+          "playerEvidence": 6.5,
+          "events": 1
+        },
+        {
+          "sample": 2,
+          "damage": 6.5,
+          "playerEvidence": 6.5,
+          "events": 1
+        },
+        {
+          "sample": 3,
+          "damage": 6.5,
+          "playerEvidence": 6.5,
+          "events": 1
+        },
+        {
+          "sample": 4,
+          "damage": 6.5,
+          "playerEvidence": 6.5,
+          "events": 1
+        },
+        {
+          "sample": 5,
+          "damage": 6.5,
+          "playerEvidence": 6.5,
+          "events": 1
+        }
+      ]
+    },
+    "existing": {
+      "EscapeEnemyChecks.txt": {
+        "pass_lines": 119,
+        "fail_lines": 0,
+        "sha256": "02ca5ef0e7ba721102b93a07c015a312b66b392f464e59d5c739088ca4b7f141"
+      },
+      "EscapeCombatChecks.txt": {
+        "pass_lines": 40,
+        "fail_lines": 0,
+        "sha256": "2f1c4bd0b0739ae20ddfb44709103cc075f571cdc5c9ea3d74754c5bb862a955"
+      },
+      "StageAEncounterCombatChecks.txt": {
+        "pass_lines": 14,
+        "fail_lines": 0,
+        "sha256": "b444021e4d6ea8c152fd0b7d2f2b4eec0e2a0eaf2803f705b9afbf249c5b47a3"
+      },
+      "StageAFactionBehaviorChecks.txt": {
+        "pass_lines": 26,
+        "fail_lines": 0,
+        "sha256": "aacf88ae7a0f34f42c5cc41258ca3acf154d33b975abf6708e3e7446b54f038e"
+      },
+      "EscapeStageAMachineRoleCombatChecks.txt": {
+        "pass_lines": 17,
+        "fail_lines": 0,
+        "sha256": "d069b5e06a04268d6b131eed6a854e96443ba402634bacbe0dbeac2dc6a30ac8"
+      }
+    }
+  },
+  "limitation": "Controlled isolated physics regression, not natural combat frequency, difficulty or all-raid validation. Top-level15 groups include5 existing suites; do not add15 and216 as unique assertions."
+}

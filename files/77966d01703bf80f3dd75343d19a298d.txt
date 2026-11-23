@@ -1,0 +1,152 @@
+using System;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Reflection;
+using System.Collections;
+using UnityEditor;
+using UnityEngine;
+using UnityEngine.AI;
+using UnityEngine.Rendering;
+using UnityEngine.Rendering.Universal;
+using UnityEngine.SceneManagement;
+using Escape.Player;
+using Escape.Stage.Blockout;
+
+namespace Escape.EditorTools
+{
+    [InitializeOnLoad]
+    public static class ThumbnailLightingValidation
+    {
+        const string Record="C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-21/thumbnail-lighting-fix";
+        const string Request="Library/ThumbnailLightingValidation.request";
+        const string Key="ThumbnailLightingValidation.";
+        static PlayerMotor player;static StageScenePreview preview;static int frames,index,phase;
+        static double ready;static StringBuilder log;static string label;
+        static readonly string[] Names={"outdoor","hall_1f","hall_2f"};
+        static readonly Vector3[] Positions={new Vector3(-121,.15f,-132),new Vector3(-22,2,-27),new Vector3(-22,8,-27)};
+        static int lastNativeThumbnails=-1;
+        static ThumbnailLightingValidation(){EditorApplication.update+=Poll;RenderPipelineManager.beginCameraRendering+=Observe;}
+        static void Observe(ScriptableRenderContext context,Camera camera)
+        {
+            if(!SessionState.GetBool(Key+"active",false)||camera.name!="Player Camera")return;
+            if(camera.TryGetCullingParameters(out var parameters))
+            {var c=context.Cull(ref parameters);lastNativeThumbnails=0;
+                foreach(var v in c.visibleLights)if(v.light && v.light.name.StartsWith("Thumbnail "))lastNativeThumbnails++;}
+        }
+        static void Poll()
+        {
+            if(EditorApplication.isCompiling||EditorApplication.isUpdating)return;
+            try
+            {
+                if(SessionState.GetBool(Key+"closing",false))
+                {
+                    if(EditorApplication.isPlayingOrWillChangePlaymode)return;
+                    SessionState.SetBool(Key+"closing",false);
+                    string result=Path.Combine(Record,SessionState.GetString(Key+"label","")+"_returned.txt");
+                    var s=SceneManager.GetActiveScene();
+                    File.WriteAllText(result,"playing=False scene="+s.path+" dirty="+s.isDirty+" thumbnailLights="+CountLights()+"\n");return;
+                }
+                if(SessionState.GetBool(Key+"active",false)){Tick();return;}
+                if(!File.Exists(Request))return;
+                label=File.ReadAllText(Request).Trim();File.Delete(Request);
+                var scene=SceneManager.GetActiveScene();
+                if(EditorApplication.isPlayingOrWillChangePlaymode||scene.isDirty||scene.path!="Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity")throw new InvalidOperationException("Preserve current editor session");
+                Directory.CreateDirectory(Record);
+                if(label=="status"){File.WriteAllText(Path.Combine(Record,"status_"+DateTime.UtcNow.Ticks+".txt"),"playing=False dirty="+scene.isDirty+" thumbnailLights="+CountLights());return;}
+                if(label!="before"&&label!="after"&&label!="repeat2"&&label!="repeat3")throw new InvalidOperationException("Unknown label");
+                if(File.Exists(Path.Combine(Record,label+"_outdoor.png")))throw new InvalidOperationException("Preserve evidence");
+                SessionState.SetString(Key+"label",label);SessionState.SetBool(Key+"active",true);
+                SessionState.SetString(Key+"started",DateTime.UtcNow.Ticks.ToString());
+                SessionState.SetBool(Key+"background",Application.runInBackground);Application.runInBackground=true;
+                EditorApplication.isPlaying=true;
+            }
+            catch(Exception e){Finish(e);}
+        }
+        static void Tick()
+        {
+            if((DateTime.UtcNow-new DateTime(long.Parse(SessionState.GetString(Key+"started","0")),DateTimeKind.Utc)).TotalSeconds>240)throw new TimeoutException("Thumbnail lighting validation");
+            if(!EditorApplication.isPlaying)return;
+            label=SessionState.GetString(Key+"label","");
+            if(!player)
+            {
+                if(++frames<100)return;
+                preview=UnityEngine.Object.FindFirstObjectByType<StageScenePreview>();
+                if(!preview||!preview.World||!preview.World.MapRouter||!preview.World.MapRouter.IsStageA)return;
+                player=preview.World.Inventory.Player;preview.World.UseAutomaticTicks=false;player.UseLiveInput=false;
+                foreach(var e in UnityEngine.Object.FindObjectsByType<Escape.Enemy.EnemyController>(FindObjectsSortMode.None)){e.Frozen=true;e.UseAutomaticTicks=false;}
+                foreach(var a in player.GetComponentsInChildren<Animator>())
+                {for(int layer=0;layer<a.layerCount;layer++){int h=a.GetCurrentAnimatorStateInfo(layer).fullPathHash;if(h!=0)a.Play(h,layer,.5f);}a.Update(0);a.speed=0;}
+                player.view.aspect=1.6f;log=new StringBuilder(DateTimeOffset.Now+" label="+label+" initialThumbnailLights="+CountLights()+"\n");
+                index=phase=0;Setup();return;
+            }
+            if(EditorApplication.timeSinceStartup<ready)return;
+            if(phase==0)
+            {
+                Shot();if(++index<Positions.Length){Setup();return;}
+                player.State.InventoryOpen=true;phase=1;ready=EditorApplication.timeSinceStartup+1.5;return;
+            }
+            if(phase==1)
+            {
+                ValidateIcons();player.State.InventoryOpen=false;phase=2;ready=EditorApplication.timeSinceStartup+1;return;
+            }
+            if(phase==2)
+            {
+                log.AppendLine("inventory closed activeThumbnailLights="+ActiveLights()+" nativeThumbnailLights="+lastNativeThumbnails);
+                if(label!="before"&&(ActiveLights()!=0||lastNativeThumbnails!=0))throw new InvalidOperationException("Thumbnail light reached gameplay camera");
+                Finish(null);
+            }
+        }
+        static void Setup()
+        {
+            if(!NavMesh.SamplePosition(Positions[index],out var hit,5,NavMesh.AllAreas))throw new InvalidOperationException("No floor");
+            if(index>0&&Mathf.Abs(hit.position.y-Positions[index].y)>.8f)throw new InvalidOperationException("Wrong hall floor");
+            var body=player.GetComponent<CharacterController>();body.enabled=false;player.transform.SetPositionAndRotation(hit.position+Vector3.up*.04f,Quaternion.Euler(0,210,0));body.enabled=true;
+            Physics.SyncTransforms();ready=EditorApplication.timeSinceStartup+1.5;
+        }
+        static void Shot()
+        {
+            var follow=player.view.GetComponent<TopDownCamera>();bool blocked=player.MapInputBlocked;player.MapInputBlocked=true;
+            try
+            {typeof(TopDownCamera).GetField("lookOffset",BindingFlags.Instance|BindingFlags.NonPublic).SetValue(follow,Vector3.zero);
+             typeof(TopDownCamera).GetField("initialized",BindingFlags.Instance|BindingFlags.NonPublic).SetValue(follow,false);
+             typeof(TopDownCamera).GetMethod("LateUpdate",BindingFlags.Instance|BindingFlags.NonPublic).Invoke(follow,null);}
+            finally{player.MapInputBlocked=blocked;}
+            var map=preview.World.MapRouter.Map;map.ConfigurePreviewVisibility(player.transform.position);
+            map.GetComponent<StageALookV16Atmosphere>()?.Evaluate(player.transform.position);
+            foreach(var reveal in map.GetComponentsInChildren<StageABuildingV33Reveal>(true))reveal.RefreshForDiagnostics(player.view,player.transform,1);
+            VolumeManager.instance.Update(player.view.transform,~0);
+            StageABlockoutBuild.Capture(player.view,Path.Combine(Record,label+"_"+Names[index]+".png"));
+            var stack=VolumeManager.instance.stack;
+            log.AppendLine(Names[index]+" player="+player.transform.position.ToString("F5")+" camera="+player.view.transform.position.ToString("F5")+" cameraRotation="+player.view.transform.rotation.ToString("F5")+" fov="+player.view.fieldOfView+" sun="+RenderSettings.sun?.name+" sunIntensity="+RenderSettings.sun?.intensity+" tone="+stack.GetComponent<Tonemapping>().mode.value+" exposure="+stack.GetComponent<ColorAdjustments>().postExposure.value+" totalThumbnailLights="+CountLights()+" activeThumbnailLights="+ActiveLights()+" nativeThumbnailLights="+lastNativeThumbnails);
+            if(label!="before"&&(ActiveLights()!=0||lastNativeThumbnails!=0))throw new InvalidOperationException("Light leaked into game shot");
+        }
+        static void ValidateIcons()
+        {
+            var owners=Resources.FindObjectsOfTypeAll<Escape.UI.WeaponModelThumbnails>().Where(x=>x.gameObject.scene.IsValid()).ToArray();
+            if(owners.Length!=1)throw new InvalidOperationException("Expected one thumbnail owner, got "+owners.Length);
+            var entries=(IDictionary)typeof(Escape.UI.WeaponModelThumbnails).GetField("entries",BindingFlags.Instance|BindingFlags.NonPublic).GetValue(owners[0]);
+            int usable=0;
+            foreach(DictionaryEntry entry in entries)
+            {
+                var field=entry.Value.GetType().GetField("texture");var rt=field.GetValue(entry.Value) as RenderTexture;if(!rt||!rt.IsCreated())continue;
+                var old=RenderTexture.active;Texture2D image=null;
+                try{RenderTexture.active=rt;image=new Texture2D(rt.width,rt.height,TextureFormat.RGBA32,false);image.ReadPixels(new Rect(0,0,rt.width,rt.height),0,0);image.Apply();var pixels=image.GetPixels32();int opaque=pixels.Count(p=>p.a>20);if(opaque<10)throw new InvalidOperationException("Empty thumbnail");if(usable==0)File.WriteAllBytes(Path.Combine(Record,label+"_weapon_thumbnail.png"),image.EncodeToPNG());log.AppendLine("icon="+entry.Key+" width="+rt.width+" height="+rt.height+" visiblePixels="+opaque);usable++;}
+                finally{RenderTexture.active=old;if(image)UnityEngine.Object.Destroy(image);}
+            }
+            if(usable==0)throw new InvalidOperationException("No rendered weapon icon");
+            log.AppendLine("inventory open renderedIcons="+usable+" thumbnailLights="+CountLights()+" active="+ActiveLights());
+        }
+        static int CountLights()=>Resources.FindObjectsOfTypeAll<Light>().Count(l=>l.name.StartsWith("Thumbnail ")&&!EditorUtility.IsPersistent(l));
+        static int ActiveLights()=>Resources.FindObjectsOfTypeAll<Light>().Count(l=>l.name.StartsWith("Thumbnail ")&&l.isActiveAndEnabled&&!EditorUtility.IsPersistent(l));
+        static void Finish(Exception e)
+        {
+            Directory.CreateDirectory(Record);string tag=SessionState.GetString(Key+"label",label??"request");
+            var report=log??new StringBuilder();if(e!=null)report.AppendLine(e.ToString());report.AppendLine(e==null?"RESULT PASS":"RESULT FAIL");
+            File.WriteAllText(Path.Combine(Record,tag+"_validation.txt"),report.ToString());
+            if(SessionState.GetBool(Key+"active",false))
+            {SessionState.SetBool(Key+"active",false);SessionState.SetBool(Key+"closing",true);Application.runInBackground=SessionState.GetBool(Key+"background",false);EditorApplication.isPlaying=false;}
+            player=null;preview=null;log=null;frames=index=phase=0;
+        }
+    }
+}

@@ -1,0 +1,614 @@
+2026-09-24 오전 9:48:17
+STAGE_A_ASSETS_V16_VALIDATION
+generatedUtc=2026-09-24T00:48:17.4964716Z
+PASS Stage A map exists
+PASS matching pre-change snapshot exists in this editor session
+PASS new prop placement root is active
+PASS G1, G2 and G3 core structure is unchanged
+PASS protected core signature remains identical
+PASS V13 hall hierarchy and geometry are unchanged
+PASS spawn, exit, route and other map references retain their original positions and order
+PASS all non-slot existing map objects retain their transforms, visuals and colliders
+PASS environment slots retain identifiers and order
+PASS all environment slot anchors and door references stay fixed
+PASS exactly 21 environment visual slots are replaced
+PASS replacement collider group exists
+PASS all 21 changed slots reference generated V16 model prefabs
+PASS slot replacements use the remaining three supplied asset types
+PASS each replaced slot has one active replacement collider and no old active collision
+PASS replacement collision overlaps the paired slot visual geometry
+PASS all 21 replacement visuals sit on terrain or a floor surface
+NOTE slotMisaligned=0 slotUngrounded=0
+PASS replacement collider group has exactly 21 slot children
+PASS all and only the 30 supplied GLB types are used on the map
+PASS all 30 native generated prefabs resolve
+NOTE changedEnvironmentSlots=21 movedEnvironmentSlots=0
+PASS all 53 authored cluster instances are present
+PASS the scene clusters use 27 distinct supplied asset types
+PASS new assets have active physical collision
+PASS Asset_MedicalCart_01 has a unique instance name
+PASS Asset_MedicalCart_01 has visible geometry
+PASS Asset_MedicalCart_01 has active collision or an explicit replacement collision
+PASS Asset_MedicalCart_01 has finite, non-flat imported geometry
+PASS Asset_MedicalCart_01 collision is aligned with its visual geometry
+PASS Asset_MedicalCart_01 visual base is grounded (gap=0.00m)
+PASS Asset_TelephoneBooth_02 has a unique instance name
+PASS Asset_TelephoneBooth_02 has visible geometry
+PASS Asset_TelephoneBooth_02 has active collision or an explicit replacement collision
+PASS Asset_TelephoneBooth_02 has finite, non-flat imported geometry
+PASS Asset_TelephoneBooth_02 collision is aligned with its visual geometry
+PASS Asset_TelephoneBooth_02 visual base is grounded (gap=0.00m)
+PASS Asset_RustedPhoneBooth_03 has a unique instance name
+PASS Asset_RustedPhoneBooth_03 has visible geometry
+PASS Asset_RustedPhoneBooth_03 has active collision or an explicit replacement collision
+PASS Asset_RustedPhoneBooth_03 has finite, non-flat imported geometry
+PASS Asset_RustedPhoneBooth_03 collision is aligned with its visual geometry
+PASS Asset_RustedPhoneBooth_03 visual base is grounded (gap=0.00m)
+PASS Asset_WeatheredMilitaryCrates_04 has a unique instance name
+PASS Asset_WeatheredMilitaryCrates_04 has visible geometry
+PASS Asset_WeatheredMilitaryCrates_04 has active collision or an explicit replacement collision
+PASS Asset_WeatheredMilitaryCrates_04 has finite, non-flat imported geometry
+PASS Asset_WeatheredMilitaryCrates_04 collision is aligned with its visual geometry
+PASS Asset_WeatheredMilitaryCrates_04 visual base is grounded (gap=0.00m)
+PASS Asset_ConcreteBarrier_05 has a unique instance name
+PASS Asset_ConcreteBarrier_05 has visible geometry
+PASS Asset_ConcreteBarrier_05 has active collision or an explicit replacement collision
+PASS Asset_ConcreteBarrier_05 has finite, non-flat imported geometry
+PASS Asset_ConcreteBarrier_05 collision is aligned with its visual geometry
+PASS Asset_ConcreteBarrier_05 visual base is grounded (gap=0.00m)
+PASS Asset_PortableLightTower_06 has a unique instance name
+PASS Asset_PortableLightTower_06 has visible geometry
+PASS Asset_PortableLightTower_06 has active collision or an explicit replacement collision
+PASS Asset_PortableLightTower_06 has finite, non-flat imported geometry
+PASS Asset_PortableLightTower_06 collision is aligned with its visual geometry
+PASS Asset_PortableLightTower_06 visual base is grounded (gap=0.00m)
+PASS Asset_RustyOilBarrels_07 has a unique instance name
+PASS Asset_RustyOilBarrels_07 has visible geometry
+PASS Asset_RustyOilBarrels_07 has active collision or an explicit replacement collision
+PASS Asset_RustyOilBarrels_07 has finite, non-flat imported geometry
+PASS Asset_RustyOilBarrels_07 collision is aligned with its visual geometry
+PASS Asset_RustyOilBarrels_07 visual base is grounded (gap=0.00m)
+PASS Asset_ConstructionBarrier_08 has a unique instance name
+PASS Asset_ConstructionBarrier_08 has visible geometry
+PASS Asset_ConstructionBarrier_08 has active collision or an explicit replacement collision
+PASS Asset_ConstructionBarrier_08 has finite, non-flat imported geometry
+PASS Asset_ConstructionBarrier_08 collision is aligned with its visual geometry
+PASS Asset_ConstructionBarrier_08 visual base is grounded (gap=0.00m)
+PASS Asset_ToolCart_09 has a unique instance name
+PASS Asset_ToolCart_09 has visible geometry
+PASS Asset_ToolCart_09 has active collision or an explicit replacement collision
+PASS Asset_ToolCart_09 has finite, non-flat imported geometry
+PASS Asset_ToolCart_09 collision is aligned with its visual geometry
+PASS Asset_ToolCart_09 visual base is grounded (gap=0.00m)
+PASS Asset_IndustrialEngine_10 has a unique instance name
+PASS Asset_IndustrialEngine_10 has visible geometry
+PASS Asset_IndustrialEngine_10 has active collision or an explicit replacement collision
+PASS Asset_IndustrialEngine_10 has finite, non-flat imported geometry
+PASS Asset_IndustrialEngine_10 collision is aligned with its visual geometry
+PASS Asset_IndustrialEngine_10 visual base is grounded (gap=0.00m)
+PASS Asset_IndustrialFlywheel_11 has a unique instance name
+PASS Asset_IndustrialFlywheel_11 has visible geometry
+PASS Asset_IndustrialFlywheel_11 has active collision or an explicit replacement collision
+PASS Asset_IndustrialFlywheel_11 has finite, non-flat imported geometry
+PASS Asset_IndustrialFlywheel_11 collision is aligned with its visual geometry
+PASS Asset_IndustrialFlywheel_11 visual base is grounded (gap=0.00m)
+PASS Asset_IndustrialPipeCoupling_12 has a unique instance name
+PASS Asset_IndustrialPipeCoupling_12 has visible geometry
+PASS Asset_IndustrialPipeCoupling_12 has active collision or an explicit replacement collision
+PASS Asset_IndustrialPipeCoupling_12 has finite, non-flat imported geometry
+PASS Asset_IndustrialPipeCoupling_12 collision is aligned with its visual geometry
+PASS Asset_FlexiblePipe_13 has a unique instance name
+PASS Asset_FlexiblePipe_13 has visible geometry
+PASS Asset_FlexiblePipe_13 has active collision or an explicit replacement collision
+PASS Asset_FlexiblePipe_13 has finite, non-flat imported geometry
+PASS Asset_FlexiblePipe_13 collision is aligned with its visual geometry
+PASS Asset_IndustrialPipe_14 has a unique instance name
+PASS Asset_IndustrialPipe_14 has visible geometry
+PASS Asset_IndustrialPipe_14 has active collision or an explicit replacement collision
+PASS Asset_IndustrialPipe_14 has finite, non-flat imported geometry
+PASS Asset_IndustrialPipe_14 collision is aligned with its visual geometry
+PASS Asset_IndustrialPipe_14 visual base is grounded (gap=0.00m)
+PASS Asset_WeatheredIndustrialGenerator_15 has a unique instance name
+PASS Asset_WeatheredIndustrialGenerator_15 has visible geometry
+PASS Asset_WeatheredIndustrialGenerator_15 has active collision or an explicit replacement collision
+PASS Asset_WeatheredIndustrialGenerator_15 has finite, non-flat imported geometry
+PASS Asset_WeatheredIndustrialGenerator_15 collision is aligned with its visual geometry
+PASS Asset_WeatheredIndustrialGenerator_15 visual base is grounded (gap=0.00m)
+PASS Asset_IndustrialValve_16 has a unique instance name
+PASS Asset_IndustrialValve_16 has visible geometry
+PASS Asset_IndustrialValve_16 has active collision or an explicit replacement collision
+PASS Asset_IndustrialValve_16 has finite, non-flat imported geometry
+PASS Asset_IndustrialValve_16 collision is aligned with its visual geometry
+PASS Asset_IndustrialValve_16 visual base is grounded (gap=0.00m)
+PASS Asset_IndustrialPipeBundle_17 has a unique instance name
+PASS Asset_IndustrialPipeBundle_17 has visible geometry
+PASS Asset_IndustrialPipeBundle_17 has active collision or an explicit replacement collision
+PASS Asset_IndustrialPipeBundle_17 has finite, non-flat imported geometry
+PASS Asset_IndustrialPipeBundle_17 collision is aligned with its visual geometry
+PASS Asset_IndustrialPipeBundle_17 visual base is grounded (gap=0.00m)
+PASS Asset_IndustrialPlatform_18 has a unique instance name
+PASS Asset_IndustrialPlatform_18 has visible geometry
+PASS Asset_IndustrialPlatform_18 has active collision or an explicit replacement collision
+PASS Asset_IndustrialPlatform_18 has finite, non-flat imported geometry
+PASS Asset_IndustrialPlatform_18 collision is aligned with its visual geometry
+PASS Asset_IndustrialPlatform_18 visual base is grounded (gap=0.00m)
+PASS Asset_RustyMetalDrain_19 has a unique instance name
+PASS Asset_RustyMetalDrain_19 has visible geometry
+PASS Asset_RustyMetalDrain_19 has active collision or an explicit replacement collision
+PASS Asset_RustyMetalDrain_19 has finite, non-flat imported geometry
+PASS Asset_RustyMetalDrain_19 collision is aligned with its visual geometry
+PASS Asset_RustyMetalDrain_19 visual base is grounded (gap=0.00m)
+PASS Asset_ToolCart_20 has a unique instance name
+PASS Asset_ToolCart_20 has visible geometry
+PASS Asset_ToolCart_20 has active collision or an explicit replacement collision
+PASS Asset_ToolCart_20 has finite, non-flat imported geometry
+PASS Asset_ToolCart_20 collision is aligned with its visual geometry
+PASS Asset_ToolCart_20 visual base is grounded (gap=0.00m)
+PASS Asset_IndustrialGate_21 has a unique instance name
+PASS Asset_IndustrialGate_21 has visible geometry
+PASS Asset_IndustrialGate_21 has active collision or an explicit replacement collision
+PASS Asset_IndustrialGate_21 has finite, non-flat imported geometry
+PASS Asset_IndustrialGate_21 collision is aligned with its visual geometry
+PASS Asset_IndustrialGate_21 visual base is grounded (gap=0.00m)
+PASS Asset_RustyFence_22 has a unique instance name
+PASS Asset_RustyFence_22 has visible geometry
+PASS Asset_RustyFence_22 has active collision or an explicit replacement collision
+PASS Asset_RustyFence_22 has finite, non-flat imported geometry
+PASS Asset_RustyFence_22 collision is aligned with its visual geometry
+PASS Asset_RustyFence_22 visual base is grounded (gap=0.00m)
+PASS Asset_RustedMetalGate_23 has a unique instance name
+PASS Asset_RustedMetalGate_23 has visible geometry
+PASS Asset_RustedMetalGate_23 has active collision or an explicit replacement collision
+PASS Asset_RustedMetalGate_23 has finite, non-flat imported geometry
+PASS Asset_RustedMetalGate_23 collision is aligned with its visual geometry
+PASS Asset_RustedMetalGate_23 visual base is grounded (gap=0.00m)
+PASS Asset_IndustrialPump_24 has a unique instance name
+PASS Asset_IndustrialPump_24 has visible geometry
+PASS Asset_IndustrialPump_24 has active collision or an explicit replacement collision
+PASS Asset_IndustrialPump_24 has finite, non-flat imported geometry
+PASS Asset_IndustrialPump_24 collision is aligned with its visual geometry
+PASS Asset_IndustrialPump_24 visual base is grounded (gap=0.00m)
+PASS Asset_IndustrialValve_25 has a unique instance name
+PASS Asset_IndustrialValve_25 has visible geometry
+PASS Asset_IndustrialValve_25 has active collision or an explicit replacement collision
+PASS Asset_IndustrialValve_25 has finite, non-flat imported geometry
+PASS Asset_IndustrialValve_25 collision is aligned with its visual geometry
+PASS Asset_IndustrialValve_25 visual base is grounded (gap=0.00m)
+PASS Asset_IndustrialPipeBundle_26 has a unique instance name
+PASS Asset_IndustrialPipeBundle_26 has visible geometry
+PASS Asset_IndustrialPipeBundle_26 has active collision or an explicit replacement collision
+PASS Asset_IndustrialPipeBundle_26 has finite, non-flat imported geometry
+PASS Asset_IndustrialPipeBundle_26 collision is aligned with its visual geometry
+PASS Asset_IndustrialPipeBundle_26 visual base is grounded (gap=0.00m)
+PASS Asset_IndustrialPipeCoupling_27 has a unique instance name
+PASS Asset_IndustrialPipeCoupling_27 has visible geometry
+PASS Asset_IndustrialPipeCoupling_27 has active collision or an explicit replacement collision
+PASS Asset_IndustrialPipeCoupling_27 has finite, non-flat imported geometry
+PASS Asset_IndustrialPipeCoupling_27 collision is aligned with its visual geometry
+PASS Asset_FlexiblePipe_28 has a unique instance name
+PASS Asset_FlexiblePipe_28 has visible geometry
+PASS Asset_FlexiblePipe_28 has active collision or an explicit replacement collision
+PASS Asset_FlexiblePipe_28 has finite, non-flat imported geometry
+PASS Asset_FlexiblePipe_28 collision is aligned with its visual geometry
+PASS Asset_WeatheredIndustrialGenerator_29 has a unique instance name
+PASS Asset_WeatheredIndustrialGenerator_29 has visible geometry
+PASS Asset_WeatheredIndustrialGenerator_29 has active collision or an explicit replacement collision
+PASS Asset_WeatheredIndustrialGenerator_29 has finite, non-flat imported geometry
+PASS Asset_WeatheredIndustrialGenerator_29 collision is aligned with its visual geometry
+PASS Asset_WeatheredIndustrialGenerator_29 visual base is grounded (gap=0.00m)
+PASS Asset_PortableLightTower_30 has a unique instance name
+PASS Asset_PortableLightTower_30 has visible geometry
+PASS Asset_PortableLightTower_30 has active collision or an explicit replacement collision
+PASS Asset_PortableLightTower_30 has finite, non-flat imported geometry
+PASS Asset_PortableLightTower_30 collision is aligned with its visual geometry
+PASS Asset_PortableLightTower_30 visual base is grounded (gap=0.00m)
+PASS Asset_RustyFence_31 has a unique instance name
+PASS Asset_RustyFence_31 has visible geometry
+PASS Asset_RustyFence_31 has active collision or an explicit replacement collision
+PASS Asset_RustyFence_31 has finite, non-flat imported geometry
+PASS Asset_RustyFence_31 collision is aligned with its visual geometry
+PASS Asset_RustyFence_31 visual base is grounded (gap=0.00m)
+PASS Asset_ShippingContainer_32 has a unique instance name
+PASS Asset_ShippingContainer_32 has visible geometry
+PASS Asset_ShippingContainer_32 has active collision or an explicit replacement collision
+PASS Asset_ShippingContainer_32 has finite, non-flat imported geometry
+PASS Asset_ShippingContainer_32 collision is aligned with its visual geometry
+PASS Asset_ShippingContainer_32 visual base is grounded (gap=0.00m)
+PASS Asset_WeatheredMilitaryCrates_33 has a unique instance name
+PASS Asset_WeatheredMilitaryCrates_33 has visible geometry
+PASS Asset_WeatheredMilitaryCrates_33 has active collision or an explicit replacement collision
+PASS Asset_WeatheredMilitaryCrates_33 has finite, non-flat imported geometry
+PASS Asset_WeatheredMilitaryCrates_33 collision is aligned with its visual geometry
+PASS Asset_WeatheredMilitaryCrates_33 visual base is grounded (gap=0.00m)
+PASS Asset_RustyOilBarrels_34 has a unique instance name
+PASS Asset_RustyOilBarrels_34 has visible geometry
+PASS Asset_RustyOilBarrels_34 has active collision or an explicit replacement collision
+PASS Asset_RustyOilBarrels_34 has finite, non-flat imported geometry
+PASS Asset_RustyOilBarrels_34 collision is aligned with its visual geometry
+PASS Asset_RustyOilBarrels_34 visual base is grounded (gap=0.00m)
+PASS Asset_SteelCarport_35 has a unique instance name
+PASS Asset_SteelCarport_35 has visible geometry
+PASS Asset_SteelCarport_35 has active collision or an explicit replacement collision
+PASS Asset_SteelCarport_35 has finite, non-flat imported geometry
+PASS Asset_SteelCarport_35 collision is aligned with its visual geometry
+PASS Asset_SteelCarport_35 visual base is grounded (gap=0.00m)
+PASS Asset_ConstructionBarrier_36 has a unique instance name
+PASS Asset_ConstructionBarrier_36 has visible geometry
+PASS Asset_ConstructionBarrier_36 has active collision or an explicit replacement collision
+PASS Asset_ConstructionBarrier_36 has finite, non-flat imported geometry
+PASS Asset_ConstructionBarrier_36 collision is aligned with its visual geometry
+PASS Asset_ConstructionBarrier_36 visual base is grounded (gap=0.00m)
+PASS Asset_ConcreteBarrier_37 has a unique instance name
+PASS Asset_ConcreteBarrier_37 has visible geometry
+PASS Asset_ConcreteBarrier_37 has active collision or an explicit replacement collision
+PASS Asset_ConcreteBarrier_37 has finite, non-flat imported geometry
+PASS Asset_ConcreteBarrier_37 collision is aligned with its visual geometry
+PASS Asset_ConcreteBarrier_37 visual base is grounded (gap=0.00m)
+PASS Asset_ToolCart_38 has a unique instance name
+PASS Asset_ToolCart_38 has visible geometry
+PASS Asset_ToolCart_38 has active collision or an explicit replacement collision
+PASS Asset_ToolCart_38 has finite, non-flat imported geometry
+PASS Asset_ToolCart_38 collision is aligned with its visual geometry
+PASS Asset_ToolCart_38 visual base is grounded (gap=0.00m)
+PASS Asset_IndustrialPipe_39 has a unique instance name
+PASS Asset_IndustrialPipe_39 has visible geometry
+PASS Asset_IndustrialPipe_39 has active collision or an explicit replacement collision
+PASS Asset_IndustrialPipe_39 has finite, non-flat imported geometry
+PASS Asset_IndustrialPipe_39 collision is aligned with its visual geometry
+PASS Asset_IndustrialPipe_39 visual base is grounded (gap=0.00m)
+PASS Asset_IndustrialEngine_40 has a unique instance name
+PASS Asset_IndustrialEngine_40 has visible geometry
+PASS Asset_IndustrialEngine_40 has active collision or an explicit replacement collision
+PASS Asset_IndustrialEngine_40 has finite, non-flat imported geometry
+PASS Asset_IndustrialEngine_40 collision is aligned with its visual geometry
+PASS Asset_IndustrialEngine_40 visual base is grounded (gap=0.00m)
+PASS Asset_IndustrialFlywheel_41 has a unique instance name
+PASS Asset_IndustrialFlywheel_41 has visible geometry
+PASS Asset_IndustrialFlywheel_41 has active collision or an explicit replacement collision
+PASS Asset_IndustrialFlywheel_41 has finite, non-flat imported geometry
+PASS Asset_IndustrialFlywheel_41 collision is aligned with its visual geometry
+PASS Asset_IndustrialFlywheel_41 visual base is grounded (gap=0.00m)
+PASS Asset_RustyMetalMeshDoor_42 has a unique instance name
+PASS Asset_RustyMetalMeshDoor_42 has visible geometry
+PASS Asset_RustyMetalMeshDoor_42 has active collision or an explicit replacement collision
+PASS Asset_RustyMetalMeshDoor_42 has finite, non-flat imported geometry
+PASS Asset_RustyMetalMeshDoor_42 collision is aligned with its visual geometry
+PASS Asset_RustyMetalMeshDoor_42 visual base is grounded (gap=0.00m)
+PASS Asset_RustedMetalShutter_43 has a unique instance name
+PASS Asset_RustedMetalShutter_43 has visible geometry
+PASS Asset_RustedMetalShutter_43 has active collision or an explicit replacement collision
+PASS Asset_RustedMetalShutter_43 has finite, non-flat imported geometry
+PASS Asset_RustedMetalShutter_43 collision is aligned with its visual geometry
+PASS Asset_RustedMetalShutter_43 visual base is grounded (gap=0.00m)
+PASS Asset_RustyMetalDrain_44 has a unique instance name
+PASS Asset_RustyMetalDrain_44 has visible geometry
+PASS Asset_RustyMetalDrain_44 has active collision or an explicit replacement collision
+PASS Asset_RustyMetalDrain_44 has finite, non-flat imported geometry
+PASS Asset_RustyMetalDrain_44 collision is aligned with its visual geometry
+PASS Asset_RustyMetalDrain_44 visual base is grounded (gap=0.00m)
+PASS Asset_IndustrialPump_45 has a unique instance name
+PASS Asset_IndustrialPump_45 has visible geometry
+PASS Asset_IndustrialPump_45 has active collision or an explicit replacement collision
+PASS Asset_IndustrialPump_45 has finite, non-flat imported geometry
+PASS Asset_IndustrialPump_45 collision is aligned with its visual geometry
+PASS Asset_IndustrialPump_45 visual base is grounded (gap=0.00m)
+PASS Asset_IndustrialValve_46 has a unique instance name
+PASS Asset_IndustrialValve_46 has visible geometry
+PASS Asset_IndustrialValve_46 has active collision or an explicit replacement collision
+PASS Asset_IndustrialValve_46 has finite, non-flat imported geometry
+PASS Asset_IndustrialValve_46 collision is aligned with its visual geometry
+PASS Asset_IndustrialValve_46 visual base is grounded (gap=0.00m)
+PASS Asset_FlexiblePipe_47 has a unique instance name
+PASS Asset_FlexiblePipe_47 has visible geometry
+PASS Asset_FlexiblePipe_47 has active collision or an explicit replacement collision
+PASS Asset_FlexiblePipe_47 has finite, non-flat imported geometry
+PASS Asset_FlexiblePipe_47 collision is aligned with its visual geometry
+PASS Asset_IndustrialPlatform_48 has a unique instance name
+PASS Asset_IndustrialPlatform_48 has visible geometry
+PASS Asset_IndustrialPlatform_48 has active collision or an explicit replacement collision
+PASS Asset_IndustrialPlatform_48 has finite, non-flat imported geometry
+PASS Asset_IndustrialPlatform_48 collision is aligned with its visual geometry
+PASS Asset_IndustrialPlatform_48 visual base is grounded (gap=0.00m)
+PASS Asset_ShippingContainer_49 has a unique instance name
+PASS Asset_ShippingContainer_49 has visible geometry
+PASS Asset_ShippingContainer_49 has active collision or an explicit replacement collision
+PASS Asset_ShippingContainer_49 has finite, non-flat imported geometry
+PASS Asset_ShippingContainer_49 collision is aligned with its visual geometry
+PASS Asset_ShippingContainer_49 visual base is grounded (gap=0.00m)
+PASS Asset_WeatheredMilitaryCrates_50 has a unique instance name
+PASS Asset_WeatheredMilitaryCrates_50 has visible geometry
+PASS Asset_WeatheredMilitaryCrates_50 has active collision or an explicit replacement collision
+PASS Asset_WeatheredMilitaryCrates_50 has finite, non-flat imported geometry
+PASS Asset_WeatheredMilitaryCrates_50 collision is aligned with its visual geometry
+PASS Asset_WeatheredMilitaryCrates_50 visual base is grounded (gap=0.00m)
+PASS Asset_IndustrialPipeBundle_51 has a unique instance name
+PASS Asset_IndustrialPipeBundle_51 has visible geometry
+PASS Asset_IndustrialPipeBundle_51 has active collision or an explicit replacement collision
+PASS Asset_IndustrialPipeBundle_51 has finite, non-flat imported geometry
+PASS Asset_IndustrialPipeBundle_51 collision is aligned with its visual geometry
+PASS Asset_IndustrialPipeBundle_51 visual base is grounded (gap=0.00m)
+PASS Asset_RustyMetalMeshDoor_52 has a unique instance name
+PASS Asset_RustyMetalMeshDoor_52 has visible geometry
+PASS Asset_RustyMetalMeshDoor_52 has active collision or an explicit replacement collision
+PASS Asset_RustyMetalMeshDoor_52 has finite, non-flat imported geometry
+PASS Asset_RustyMetalMeshDoor_52 collision is aligned with its visual geometry
+PASS Asset_RustyMetalMeshDoor_52 visual base is grounded (gap=0.00m)
+PASS Asset_RustedMetalShutter_53 has a unique instance name
+PASS Asset_RustedMetalShutter_53 has visible geometry
+PASS Asset_RustedMetalShutter_53 has active collision or an explicit replacement collision
+PASS Asset_RustedMetalShutter_53 has finite, non-flat imported geometry
+PASS Asset_RustedMetalShutter_53 collision is aligned with its visual geometry
+PASS Asset_RustedMetalShutter_53 visual base is grounded (gap=0.00m)
+PASS new colliders do not penetrate existing active structures or props
+PASS no nonconvex mesh pair has overlapping broad-phase bounds without a supported penetration query
+NOTE unresolvedNonconvexMeshPairs=0
+PASS Asset_IndustrialGate_21 uses visual-matched mesh collision rather than a solid bounding box
+PASS Asset_RustyFence_22 uses visual-matched mesh collision rather than a solid bounding box
+PASS Asset_RustedMetalGate_23 uses visual-matched mesh collision rather than a solid bounding box
+PASS Asset_RustyFence_31 uses visual-matched mesh collision rather than a solid bounding box
+PASS Asset_SteelCarport_35 uses visual-matched mesh collision rather than a solid bounding box
+PASS B1 player capsule remains clear of new assets
+PASS B2 player capsule remains clear of new assets
+PASS B3 player capsule remains clear of new assets
+PASS B4 player capsule remains clear of new assets
+PASS R1 player capsule remains clear of new assets
+PASS R2 player capsule remains clear of new assets
+PASS R3 player capsule remains clear of new assets
+PASS R4 player capsule remains clear of new assets
+PASS R5 player capsule remains clear of new assets
+PASS R6 player capsule remains clear of new assets
+PASS R7 player capsule remains clear of new assets
+PASS R8 player capsule remains clear of new assets
+PASS X1 player capsule remains clear of new assets
+PASS X2 player capsule remains clear of new assets
+PASS X3 player capsule remains clear of new assets
+PASS X4 player capsule remains clear of new assets
+PASS X5 player capsule remains clear of new assets
+PASS X6 player capsule remains clear of new assets
+PASS X7 player capsule remains clear of new assets
+PASS DOOR_C1 player capsule remains clear of new assets
+PASS DOOR_C2 player capsule remains clear of new assets
+PASS DOOR_TOOL player capsule remains clear of new assets
+PASS DOOR_HN player capsule remains clear of new assets
+PASS DOOR_HE player capsule remains clear of new assets
+PASS DOOR_HS player capsule remains clear of new assets
+PASS DOOR_HW player capsule remains clear of new assets
+PASS DOOR_P1 player capsule remains clear of new assets
+PASS DOOR_P2 player capsule remains clear of new assets
+PASS DOOR_L1 player capsule remains clear of new assets
+PASS DOOR_L2 player capsule remains clear of new assets
+PASS DOOR_G1_CORE player capsule remains clear of new assets
+PASS DOOR_G2_CORE player capsule remains clear of new assets
+PASS DOOR_G3_CORE player capsule remains clear of new assets
+PASS DOOR_G4 player capsule remains clear of new assets
+PASS B1 to W0 authored access lane accepts a 0.4m radius, 2m tall player capsule
+PASS B2 to W1 authored access lane accepts a 0.4m radius, 2m tall player capsule
+PASS B3 to W4 authored access lane accepts a 0.4m radius, 2m tall player capsule
+PASS B4 to W5 authored access lane accepts a 0.4m radius, 2m tall player capsule
+PASS R8 to W5 authored access lane accepts a 0.4m radius, 2m tall player capsule
+PASS X1 to W0 authored access lane accepts a 0.4m radius, 2m tall player capsule
+PASS X2 to W4 authored access lane accepts a 0.4m radius, 2m tall player capsule
+PASS X3 to W4 authored access lane accepts a 0.4m radius, 2m tall player capsule
+PASS X4 to N3 authored access lane accepts a 0.4m radius, 2m tall player capsule
+PASS X5 to E2 authored access lane accepts a 0.4m radius, 2m tall player capsule
+PASS X6 to BS1 authored access lane accepts a 0.4m radius, 2m tall player capsule
+PASS X7 to S2 authored access lane accepts a 0.4m radius, 2m tall player capsule
+PASS B4/R8 remain distinct anchors; R1-R8 remain inactive for random spawn
+NOTE B2_X6_HIGH_BUDGET complete=True start=(-242.00, 1.04, 0.00) end=(59.00, 0.04, -189.00) begin=InProgress update=Success endStatus=Success iterations=4404 polygons=95 copied=95 fullPolygonPath=01120000,01720125,01720126,01720127,01720124,01720123,01720122,01720110,0172011E,01720120,0172012B,01620130,01620152,01620155,01620154,01620133,01620134,01620132,0162012D,0162012E,0162013D,01620115,01620116,01620117,01620118,016200E7,016200F4,016200F3,016200DF,016200E0,016200E1,016200D7,016200D8,016200D2,016200D1,016200B0,016200A0,016200A1,016200A2,01620099,0162009B,0162009A,01620079,0162007A,01620096,01620078,0162006B,0162006A,01620065,01620063,01620062,01520064,01520067,01520068,01520065,0152005A,01520041,01520040,01520042,01520031,01520032,0152002D,0152002C,0152002B,0152001D,0152001F,0152002E,01520048,0152000E,01B201E3,01B201E2,01A20156,01A20157,01A20158,01A20159,01A20004,01A20005,01A20144,01A20145,01920032,01920031,0192002E,0192002F,01920034,0192004F,01920038,0192005E,0192004D,01920030,01920033,01A20039,01A20033,01A20035,01A2000A,02020002
+PASS V14 collision audit does not regress relative to its recorded baseline
+PASS V15 core/building overlap audit does not regress relative to its recorded baseline
+NOTE V14 baseline=True after=False V15 baseline=True after=True
+NOTE V14 report:
+STAGE_A_COLLISION_V14_INDEPENDENT_VALIDATION
+generatedUtc=2026-09-24T00:48:21.2010662Z
+result=FAIL
+passes=122 failures=2 warnings=1
+FAIL B2->X6 navigation status=PathPartial calculated=True
+FAIL basic-entry/extraction matrix remains reachable (complete=26/28, knownWarn=1)
+WARN B1->X6 public query remains Partial but a fresh 16384-node query proves complete topology: B1->X6_V14 begin=InProgress update=Success end=Success outOfNodes=False partial=False iterations=4996 updateCalls=5 polygons=109 copied=109
+NOTE excluded occupied lane NWC_01 interior -2.8 visual=Generated/Override_ENV11_BUILDING_NWC_01/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_Utility_C/SupplyCabinet_2/Cabinet
+NOTE excluded occupied lane NWC_01 interior -2.1 visual=Generated/Override_ENV11_BUILDING_NWC_01/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_Utility_C/SupplyCabinet_2/CabinetDoor
+NOTE excluded occupied lane NWC_01 interior -1.4 visual=Generated/Override_ENV11_BUILDING_NWC_01/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_Utility_C/SupplyCabinet_2/CabinetDoor
+NOTE excluded occupied lane NWC_01 interior 2.2 visual=Generated/Override_ENV11_BUILDING_NWC_01/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_WorkArea_A/UtilityVentAssembly
+NOTE excluded occupied lane NWC_01 interior 2.9 visual=Generated/Override_ENV11_BUILDING_NWC_01/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_WorkArea_A/UtilityVentAssembly
+NOTE excluded occupied lane NWC_02 interior -4.4 visual=Generated/Override_ENV11_BUILDING_NWC_02/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_Utility_C/MedicalStorage_2/CabinetDoor
+NOTE excluded occupied lane NWC_02 interior -3.6 visual=Generated/Override_ENV11_BUILDING_NWC_02/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_Utility_C/MedicalStorage_2/CabinetDoor
+NOTE excluded occupied lane NWC_02 interior 2.8 visual=Generated/Override_ENV11_BUILDING_NWC_02/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_WorkArea_A/UtilityVentAssembly
+NOTE excluded occupied lane NWC_02 interior 3.6 visual=Generated/Override_ENV11_BUILDING_NWC_02/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_Storage_B/SupplyCabinet_1/CabinetDoor
+NOTE excluded occupied lane NWC_02 interior 4.3 visual=Generated/Override_ENV11_BUILDING_NWC_02/FactoryFrame/Interior_Role_NW_CLINIC_UtilityHut/Interior_Storage_B/SupplyCabinet_1/Cabinet
+NOTE excluded occupied lane NWC_03 interior -3.3 visual=Generated/Override_ENV11_BUILDING_NWC_03/FactoryFrame/Interior_Role_NW_CLINIC_ClinicAnnex/Interior_Utility_C/SafetyExtinguisher_2
+NOTE excluded occupied lane NWC_03 interior -2.6 visual=Generated/Override_ENV11_BUILDING_NWC_03/FactoryFrame/Interior_Role_NW_CLINIC_ClinicAnnex/Interior_Utility_C/SafetyExtinguisher_2
+NOTE excluded occupied lane NWC_03 interior 2.4 visual=Generated/Override_ENV11_BUILDING_NWC_03/FactoryFrame/Interior_Role_NW_CLINIC_ClinicAnnex/Interior_Storage_B/MedicalStorage_1/CabinetDoor
+NOTE excluded occupied lane NWC_03 interior 3.1 visual=Generated/Override_ENV11_BUILDING_NWC_03/FactoryFrame/Interior_Role_NW_CLINIC_ClinicAnnex/Interior_Storage_B/MedicalStorage_1/Cabinet
+NOTE excluded occupied lane NWC_03 interior 3.9 visual=Generated/Override_ENV11_BUILDING_NWC_03/FactoryFrame/Interior_Role_NW_CLINIC_ClinicAnnex/Interior_Storage_B/MedicalStorage_1/Cabinet
+NOTE excluded occupied lane WM_01 interior -5.0 visual=Generated/Override_ENV11_BUILDING_WM_01/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/StorageCabinet_2/Cabinet
+NOTE excluded occupied lane WM_01 interior -4.3 visual=Generated/Override_ENV11_BUILDING_WM_01/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/StorageCabinet_2/Cabinet
+NOTE excluded occupied lane WM_01 interior -3.6 visual=Generated/Override_ENV11_BUILDING_WM_01/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/StorageCabinet_2/Cabinet
+NOTE excluded occupied lane WM_01 interior -2.9 visual=Generated/Override_ENV11_BUILDING_WM_01/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_WorkArea_A/UtilityPanel_0
+NOTE excluded occupied lane WM_02 interior -4.3 visual=Generated/Override_ENV11_BUILDING_WM_02/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_Utility_C/ControlPanel_2
+NOTE excluded occupied lane WM_02 interior -3.6 visual=Generated/Override_ENV11_BUILDING_WM_02/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_Utility_C/ControlPanel_2
+NOTE excluded occupied lane WM_02 interior -2.8 visual=Generated/Override_ENV11_BUILDING_WM_02/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/SafetyExtinguisher_0
+NOTE excluded occupied lane WM_02 interior -2.1 visual=Generated/Override_ENV11_BUILDING_WM_02/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/SafetyExtinguisher_0
+NOTE excluded occupied lane WM_02 interior 4.4 visual=Generated/Override_ENV11_BUILDING_WM_02/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/UtilityVentAssembly
+NOTE excluded occupied lane WM_02 interior 5.1 visual=Generated/Override_ENV11_BUILDING_WM_02/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/UtilityVentAssembly
+NOTE excluded occupied lane WM_02 interior 5.8 visual=Generated/Override_ENV11_BUILDING_WM_02/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_Storage_B/PowerBank_1
+NOTE excluded occupied lane WM_02 interior 6.5 visual=Generated/Override_ENV11_BUILDING_WM_02/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_Storage_B/PowerBank_1
+NOTE excluded occupied lane WM_04 interior -3.6 visual=Generated/Override_ENV11_BUILDING_WM_04/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Storage_B/UtilityPanel_1
+NOTE excluded occupied lane WM_04 interior -2.8 visual=Generated/Override_ENV11_BUILDING_WM_04/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Storage_B/UtilityPanel_1
+NOTE excluded occupied lane WM_04 interior 2.9 visual=Generated/Override_ENV11_BUILDING_WM_04/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_WorkArea_A/RustBarrel_0
+NOTE excluded occupied lane WM_04 interior 3.6 visual=Generated/Override_ENV11_BUILDING_WM_04/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_WorkArea_A/RustBarrel_0
+NOTE excluded occupied lane WM_05 interior -3.5 visual=Generated/Override_ENV11_BUILDING_WM_05/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/VentMotor_0
+NOTE excluded occupied lane WM_05 interior -2.7 visual=Generated/Override_ENV11_BUILDING_WM_05/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/VentMotor_0
+NOTE excluded occupied lane WM_05 interior 2.3 visual=Generated/Override_ENV11_BUILDING_WM_05/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/UtilityVentAssembly
+NOTE excluded occupied lane WM_05 interior 3.0 visual=Generated/Override_ENV11_BUILDING_WM_05/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/UtilityVentAssembly
+NOTE excluded occupied lane WM_05 interior 3.7 visual=Generated/Override_ENV11_BUILDING_WM_05/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/UtilityVentAssembly
+NOTE excluded occupied lane WM_06 interior 3.2 visual=Generated/Override_ENV11_BUILDING_WM_06/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/RustBarrel_2
+NOTE excluded occupied lane WM_06 interior 4.0 visual=Generated/Override_ENV11_BUILDING_WM_06/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/RustBarrel_2
+NOTE excluded occupied lane WM_07 interior -2.8 visual=Generated/Override_ENV11_BUILDING_WM_07/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Storage_B/RustBarrel_1
+NOTE excluded occupied lane WM_07 interior -2.1 visual=Generated/Override_ENV11_BUILDING_WM_07/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Storage_B/RustBarrel_1
+NOTE excluded occupied lane WM_07 interior 2.2 visual=Generated/Override_ENV11_BUILDING_WM_07/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/UtilityPanel_2
+NOTE excluded occupied lane WM_07 interior 2.9 visual=Generated/Override_ENV11_BUILDING_WM_07/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/UtilityPanel_2
+NOTE excluded occupied lane WM_08 interior 2.0 visual=Generated/Override_ENV11_BUILDING_WM_08/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/ControlPanel_0
+NOTE excluded occupied lane WM_08 interior 2.7 visual=Generated/Override_ENV11_BUILDING_WM_08/FactoryFrame/Interior_Role_W_MAINT_UtilityHut/Interior_WorkArea_A/ControlPanel_0
+NOTE excluded occupied lane WM_09 interior -2.9 visual=Generated/Override_ENV11_BUILDING_WM_09/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_WorkArea_A/UtilityPanel_0
+NOTE excluded occupied lane WM_09 interior 2.2 visual=Generated/Override_ENV11_BUILDING_WM_09/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/StorageCabinet_2/Cabinet
+NOTE excluded occupied lane WM_09 interior 2.9 visual=Generated/Override_ENV11_BUILDING_WM_09/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/StorageCabinet_2/Cabinet
+NOTE excluded occupied lane WM_09 interior 3.6 visual=Generated/Override_ENV11_BUILDING_WM_09/FactoryFrame/Interior_Role_W_MAINT_Workshop/Interior_Utility_C/StorageCabinet_2/Cabinet
+NOTE excluded occupied lane SWR_02 facade West -3.5 visual=Generated/Override_ENV11_BUILDING_SWR_02/FactoryFrame/Interior_Role_SW_RUINS_RuinedHome/Interior_WorkArea_A/ScatteredDebris_0
+NOTE excluded occupied lane SWR_02 facade West -2.7 visual=Generated/Override_ENV11_BUILDING_SWR_02/FactoryFrame/Interior_Role_SW_RUINS_RuinedHome/Interior_WorkArea_A/ScatteredDebris_0
+NOTE excluded occupied lane SWR_02 facade West -2.0 visual=Generated/Override_ENV11_BUILDING_SWR_02/FactoryFrame/Interior_Role_SW_RUINS_RuinedHome/Interior_WorkArea_A/ScatteredDebris_0
+NOTE excluded occupied lane SWR_02 facade West -1.2 visual=Generated/Override_ENV11_BUILDING_SWR_02/FactoryFrame/Interior_Role_SW_RUINS_RuinedHome/Interior_WorkArea_A/ScatteredDebris_0
+NOTE excluded occupied lane SWR_03 facade West -1.1 visual=Generated/Override_ENV11_BUILDING_SWR_03/FactoryFrame/Interior_Role_SW_RUINS_RuinedHome/Interior_Storage_B/CollapsedMasonry_1
+NOTE excluded occupied lane SWR_04 facade East 1.8 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_04 facade East 2.5 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_04 facade East 3.3 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_04 facade East 4.0 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_04 interior -4.2 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Storage_B/ScatteredDebris_1
+NOTE excluded occupied lane SWR_04 interior -3.4 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Storage_B/ScatteredDebris_1
+NOTE excluded occupied lane SWR_04 interior -2.7 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Storage_B/ScatteredDebris_1
+NOTE excluded occupied lane SWR_04 interior -2.0 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Storage_B/ScatteredDebris_1
+NOTE excluded occupied lane SWR_04 interior 2.3 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_04 interior 3.0 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_04 interior 3.8 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_04 interior 4.5 visual=Generated/Override_ENV11_BUILDING_SWR_04/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_05 facade East 1.8 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Storage_B/RustBarrel_1
+NOTE excluded occupied lane SWR_05 facade East 2.6 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Storage_B/RustBarrel_1
+NOTE excluded occupied lane SWR_05 facade West -3.3 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Utility_C/CollapsedMasonry_2
+NOTE excluded occupied lane SWR_05 facade West -2.6 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Utility_C/CollapsedMasonry_2
+NOTE excluded occupied lane SWR_05 facade West -1.8 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Utility_C/CollapsedMasonry_2
+NOTE excluded occupied lane SWR_05 interior -3.8 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Utility_C/CollapsedMasonry_2
+NOTE excluded occupied lane SWR_05 interior -3.1 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Utility_C/CollapsedMasonry_2
+NOTE excluded occupied lane SWR_05 interior -2.4 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Utility_C/CollapsedMasonry_2
+NOTE excluded occupied lane SWR_05 interior -1.7 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Utility_C/CollapsedMasonry_2
+NOTE excluded occupied lane SWR_05 interior 1.9 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Storage_B/RustBarrel_1
+NOTE excluded occupied lane SWR_05 interior 2.7 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Storage_B/RustBarrel_1
+NOTE excluded occupied lane SWR_05 interior 3.4 visual=Generated/Override_ENV11_BUILDING_SWR_05/FactoryFrame/Interior_Role_SW_RUINS_RowHouse/Interior_Storage_B/RustBarrel_1
+NOTE excluded occupied lane SWR_07 facade West -3.1 visual=Generated/Override_ENV11_BUILDING_SWR_07/FactoryFrame/Interior_Role_SW_RUINS_RuinedHome/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_07 facade West -2.3 visual=Generated/Override_ENV11_BUILDING_SWR_07/FactoryFrame/Interior_Role_SW_RUINS_RuinedHome/Interior_WorkArea_A/CollapsedMasonry_0
+NOTE excluded occupied lane SWR_07 facade West -1.6 visual=Generated/Override_ENV11_BUILDING_SWR_07/FactoryFrame/Interior_Role_SW_RUINS_RuinedHome/Interior_WorkArea_A/CollapsedMasonry_0
+PASS map reference is live
+PASS v11 district record set remains complete
+PASS NWC_01 has exactly one replace-on-rerun v14 collision root
+PASS NWC_01 v14 root contains active visible-structure boxes
+PASS NWC_02 has exactly one replace-on-rerun v14 collision root
+PASS NWC_02 v14 root contains active visible-structure boxes
+PASS NWC_03 has exactly one replace-on-rerun v14 collision root
+PASS NWC_03 v14 root contains active visible-structure boxes
+PASS WM_01 has exactly one replace-on-rerun v14 collision root
+PASS WM_01 v14 root contains active visible-structure boxes
+PASS WM_02 has exactly one replace-on-rerun v14 collision root
+PASS WM_02 v14 root contains active visible-structure boxes
+PASS WM_03 has exactly one replace-on-rerun v14 collision root
+PASS WM_03 v14 root contains active visible-structure boxes
+PASS WM_04 has exactly one replace-on-rerun v14 collision root
+PASS WM_04 v14 root contains active visible-structure boxes
+PASS WM_05 has exactly one replace-on-rerun v14 collision root
+PASS WM_05 v14 root contains active visible-structure boxes
+PASS WM_06 has exactly one replace-on-rerun v14 collision root
+PASS WM_06 v14 root contains active visible-structure boxes
+PASS WM_07 has exactly one replace-on-rerun v14 collision root
+PASS WM_07 v14 root contains active visible-structure boxes
+PASS WM_08 has exactly one replace-on-rerun v14 collision root
+PASS WM_08 v14 root contains active visible-structure boxes
+PASS WM_09 has exactly one replace-on-rerun v14 collision root
+PASS WM_09 v14 root contains active visible-structure boxes
+PASS SWR_01 has exactly one replace-on-rerun v14 collision root
+PASS SWR_01 v14 root contains active visible-structure boxes
+PASS SWR_02 has exactly one replace-on-rerun v14 collision root
+PASS SWR_02 v14 root contains active visible-structure boxes
+PASS SWR_03 has exactly one replace-on-rerun v14 collision root
+PASS SWR_03 v14 root contains active visible-structure boxes
+PASS SWR_04 has exactly one replace-on-rerun v14 collision root
+PASS SWR_04 v14 root contains active visible-structure boxes
+PASS SWR_05 has exactly one replace-on-rerun v14 collision root
+PASS SWR_05 v14 root contains active visible-structure boxes
+PASS SWR_06 has exactly one replace-on-rerun v14 collision root
+PASS SWR_06 v14 root contains active visible-structure boxes
+PASS SWR_07 has exactly one replace-on-rerun v14 collision root
+PASS SWR_07 v14 root contains active visible-structure boxes
+PASS SWR_08 has exactly one replace-on-rerun v14 collision root
+PASS SWR_08 v14 root contains active visible-structure boxes
+PASS SWR_09 has exactly one replace-on-rerun v14 collision root
+PASS SWR_09 v14 root contains active visible-structure boxes
+PASS SWR_10 has exactly one replace-on-rerun v14 collision root
+PASS SWR_10 v14 root contains active visible-structure boxes
+PASS SWR_11 has exactly one replace-on-rerun v14 collision root
+PASS SWR_11 v14 root contains active visible-structure boxes
+PASS SWR_12 has exactly one replace-on-rerun v14 collision root
+PASS SWR_12 v14 root contains active visible-structure boxes
+PASS SWR_13 has exactly one replace-on-rerun v14 collision root
+PASS SWR_13 v14 root contains active visible-structure boxes
+PASS SWR_14 has exactly one replace-on-rerun v14 collision root
+PASS SWR_14 v14 root contains active visible-structure boxes
+PASS SS_01 has exactly one replace-on-rerun v14 collision root
+PASS SS_01 v14 root contains active visible-structure boxes
+PASS SS_02 has exactly one replace-on-rerun v14 collision root
+PASS SS_02 v14 root contains active visible-structure boxes
+PASS SS_03 has exactly one replace-on-rerun v14 collision root
+PASS SS_03 v14 root contains active visible-structure boxes
+PASS SS_04 has exactly one replace-on-rerun v14 collision root
+PASS SS_04 v14 root contains active visible-structure boxes
+PASS SS_05 has exactly one replace-on-rerun v14 collision root
+PASS SS_05 v14 root contains active visible-structure boxes
+PASS EU_01 has exactly one replace-on-rerun v14 collision root
+PASS EU_01 v14 root contains active visible-structure boxes
+PASS EU_02 has exactly one replace-on-rerun v14 collision root
+PASS EU_02 v14 root contains active visible-structure boxes
+PASS NWC_04 has exactly one replace-on-rerun v14 collision root
+PASS NWC_04 v14 root contains active visible-structure boxes
+PASS SS_06 has exactly one replace-on-rerun v14 collision root
+PASS SS_06 v14 root contains active visible-structure boxes
+PASS EU_03 has exactly one replace-on-rerun v14 collision root
+PASS EU_03 v14 root contains active visible-structure boxes
+PASS EU_04 has exactly one replace-on-rerun v14 collision root
+PASS EU_04 v14 root contains active visible-structure boxes
+PASS EU_05 has exactly one replace-on-rerun v14 collision root
+PASS EU_05 v14 root contains active visible-structure boxes
+PASS EU_06 has exactly one replace-on-rerun v14 collision root
+PASS EU_06 v14 root contains active visible-structure boxes
+PASS legacy structural collider inventory was inspected (count=362)
+PASS no old wall, partition, ruin support, or shed post remains active
+PASS replacement visible-structure colliders exist (count=532)
+PASS at least three old-collider/visible-facade gaps were independently derived (actual=44)
+PASS orphan interior partition passages were independently derived (actual=157)
+PASS candidate lanes excluded for visible doors/props/debris=146
+PASS all independently sampled visual gaps pass the player capsule (201/201)
+PASS representative walk SWR_01 facade East gap 1.2 (-171.48, 0.04, -150.50) -> (-168.91, 0.03, -150.08) evidence=old=StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_01__Collision/East_Broken__Collision; factoryWallOrColumnAtLane=false
+PASS representative walk SWR_02 facade East gap 1.2 (-159.29, 0.03, -182.06) -> (-156.70, 0.03, -181.91) evidence=old=StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_02__Collision/East_Broken__Collision; factoryWallOrColumnAtLane=false
+PASS representative walk SWR_03 facade East gap 1.1 (-100.46, 0.18, -172.86) -> (-97.92, 0.18, -172.28) evidence=old=StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_03__Collision/East_Broken__Collision; factoryWallOrColumnAtLane=false
+PASS representative walk SWR_04 facade West gap -4.7 (-243.94, 0.13, -64.67) -> (-246.54, 0.14, -64.58) evidence=old=StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_SWR_04__Collision/West_Broken__Collision; factoryWallOrColumnAtLane=false
+PASS representative walk NWC_01 removed interior partition -3.5 (-138.76, 5.03, 164.48) -> (-139.34, 5.05, 167.01) evidence=old=StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_NWC_01__Collision/InteriorPartition_L__Collision; currentVisibleGeometryAtLane=false
+PASS representative walk NWC_02 removed interior partition -5.8 (-232.89, 4.76, 173.39) -> (-233.69, 4.73, 175.86) evidence=old=StageA_District_v11/01_Collision_Separate/ENV11_BUILDING_NWC_02__Collision/InteriorPartition_L__Collision; currentVisibleGeometryAtLane=false
+PASS visible factory wall meshes were ray-tested (rays=376)
+PASS every visible factory wall ray hits its replacement collision (376/376)
+PASS v08 gameplay structure remains present
+PASS four basic entry references are populated
+PASS seven extraction references are populated
+PASS B1 identity and ordered reference are preserved
+PASS B2 identity and ordered reference are preserved
+PASS B3 identity and ordered reference are preserved
+PASS B4 identity and ordered reference are preserved
+PASS X1 identity and ordered reference are preserved
+PASS X2 identity and ordered reference are preserved
+PASS X3 identity and ordered reference are preserved
+PASS X4 identity and ordered reference are preserved
+PASS X5 identity and ordered reference are preserved
+PASS X6 identity and ordered reference are preserved
+PASS X7 identity and ordered reference are preserved
+PASS twelve authored B/R marker references remain intact
+PASS B/R tier metadata remains 4 basic plus 8 risk
+PASS risk entries remain excluded from default random spawning
+PASS spawn array still points to ordered B1-B4 then disabled-risk R1-R8 identities
+PASS V13 hall root remains present
+PASS V13 hall layer controller still targets the same hall
+PASS v14 district repair created no object inside HALLV13
+PASS HALLV13 retains non-degenerate authored collision
+PASS HALLV13 comparison signature=1345:7175FCB081BDA847
+PASS v13 vegetation zone inventory remains present
+PASS vegetation zones were inspected (zones=20)
+PASS vegetation remains render-only with zero enabled colliders
+PASS temporary collision-based NavMesh builds
+
+NOTE after transforms=10887 renderers=5278 colliders=4295
+SUMMARY passed=392 failed=0
+RESULT PASS

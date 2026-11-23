@@ -1,0 +1,1 @@
+LIVE 17e38f9b0e47c3c4f968b61c02deaa24_URP_Weathered shader=Escape/Environment/Weathered Lit strength=0.65 rust=0.55 kind=2 scale=1.8

@@ -1,0 +1,66 @@
+{
+  "output": "C:\\Users\\ehoji\\Downloads\\edel_eye_cleanup_20261016\\edel_eyes_clean_sclera_v11.blend",
+  "eye_specs": [
+    {
+      "side": "L",
+      "center": [
+        0.06179619953036308,
+        -0.07500000298023224,
+        0.7095795273780823
+      ],
+      "front": [
+        0.06179619953036308,
+        -0.10100000351667404,
+        0.7095795273780823
+      ],
+      "radii": [
+        0.048,
+        0.034,
+        0.019
+      ],
+      "iris_radii": [
+        0.01965,
+        0.0256
+      ],
+      "iris_offset": 0.00035,
+      "original_uv_bounds": [
+        0.04025539010763168,
+        0.0833369642496109,
+        0.6819294691085815,
+        0.7372294664382935
+      ]
+    },
+    {
+      "side": "R",
+      "center": [
+        -0.06179619953036308,
+        -0.07500000298023224,
+        0.7095795273780823
+      ],
+      "front": [
+        -0.06179619953036308,
+        -0.10100000351667404,
+        0.7095795273780823
+      ],
+      "radii": [
+        0.048,
+        0.034,
+        0.019
+      ],
+      "iris_radii": [
+        0.01965,
+        0.0256
+      ],
+      "iris_offset": 0.00035,
+      "original_uv_bounds": [
+        -0.08333699405193329,
+        -0.04025541990995407,
+        0.6819294691085815,
+        0.7372294664382935
+      ]
+    }
+  ],
+  "source": "C:\\Users\\ehoji\\OneDrive\\\ubb38\uc11c\\ChatGPT\\\uc775\uc2a4\ud2b8\ub799\uc158\\outputs\\change_records\\2026-10-16\\edel-eye-sclera-cleanup\\before_live_snapshot.blend",
+  "face_and_lids_untouched": true,
+  "animations_added": false
+}

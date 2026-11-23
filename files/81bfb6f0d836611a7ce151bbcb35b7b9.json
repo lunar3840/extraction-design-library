@@ -1,0 +1,161 @@
+{
+  "scope": "concept art only; no Unity or Tripo generation",
+  "date": "2026-10-12",
+  "count": 14,
+  "items": [
+    {
+      "id": "T01",
+      "key": "ClinicRoundedTileCorner",
+      "name": "진료소 둥근 타일·회반죽 코너",
+      "family": "진료소",
+      "planningSize": "2.0×2.8×0.65m",
+      "priority": "낮음/기존 코너와 비교 후 최종 생성",
+      "route": "Tripo candidate, not generated",
+      "file": "assets/T01_ClinicRoundedTileCorner_v01.png",
+      "prompt": "Use case: stylized-concept.\nAsset type: SINGLE isolated modular architectural component reference for later image-to-3D modeling, for a top-down extraction game.\nWorld: abandoned inland municipal machinery maintenance district with old flood staining; restrained stylized realism, convincing thickness and broad worn materials, slightly painterly game asset finish, not a photoreal photograph, not voxel/Minecraft. Readable strong silhouette over tiny photographic noise.\nComposition: exactly ONE connected component, three-quarter elevated front-right view showing front, a return edge, top and depth. Entire component centered with generous margins on uniform pale warm gray studio background. Soft diffuse ambient illumination, tiny neutral contact shadow only. No ground scenery, no neighboring objects, no floor slab/base, no labels, text, people, plants, poles, props or scale ruler. No multiple views, no collage. All joint ends clean and planar where the description says modular. Rear attachment face designed flat. Visible thickness and bevels, grounded believable construction.\nThis is visual design only, not measured blueprint. Do not add a whole building, a room, roof or wall beyond the small attachment margin explicitly requested. No backed-up solid wall filling a requested opening. No luminous windows. No ornamental filigree, hanging wires or unnecessary floating fragments.\n\nSubject: A single compact vertical external corner cladding panel, ivory cracked lime plaster above a desaturated dark-green glazed tile plinth, a gently rounded convex external corner, both returns short and unequal. Local peeling plaster exposes a little red brick at base. The tile band wraps the round corner. It is a 2.8m-tall architectural shell corner, not two long courtyard walls; no doors or windows. Moderate weathering, planar ends and thin wall section visible."
+    },
+    {
+      "id": "T02",
+      "key": "ClinicRibbonWindow",
+      "name": "진료소 깊은 가로창",
+      "family": "진료소",
+      "planningSize": "2.4×1.0×0.25m",
+      "priority": "우선",
+      "route": "Tripo candidate, not generated",
+      "file": "assets/T02_ClinicRibbonWindow_v01.png",
+      "prompt": "Use case: stylized-concept.\nAsset type: SINGLE isolated modular architectural component reference for later image-to-3D modeling, for a top-down extraction game.\nWorld: abandoned inland municipal machinery maintenance district with old flood staining; restrained stylized realism, convincing thickness and broad worn materials, slightly painterly game asset finish, not a photoreal photograph, not voxel/Minecraft. Readable strong silhouette over tiny photographic noise.\nComposition: exactly ONE connected component, three-quarter elevated front-right view showing front, a return edge, top and depth. Entire component centered with generous margins on uniform pale warm gray studio background. Soft diffuse ambient illumination, tiny neutral contact shadow only. No ground scenery, no neighboring objects, no floor slab/base, no labels, text, people, plants, poles, props or scale ruler. No multiple views, no collage. All joint ends clean and planar where the description says modular. Rear attachment face designed flat. Visible thickness and bevels, grounded believable construction.\nThis is visual design only, not measured blueprint. Do not add a whole building, a room, roof or wall beyond the small attachment margin explicitly requested. No backed-up solid wall filling a requested opening. No luminous windows. No ornamental filigree, hanging wires or unnecessary floating fragments.\n\nSubject: One shallow-wide recessed steel medical-clinic ribbon window unit, about 2.4m wide and 1m high, faded teal-gray metal outer frame, eight opaque frosted glass panes in a clean two-by-four grid, strongly projecting muted-green tiled sill, thick ivory plaster reveal as a very narrow surround only. Frosted panes intentionally present. No full wall. Fine oxidized edges, no glowing glass, no boarded panels."
+    },
+    {
+      "id": "T03",
+      "key": "PowerLouverBay",
+      "name": "전력동 콘크리트 루버 벽 베이",
+      "family": "전력·전장",
+      "planningSize": "1.8×3.0×0.45m",
+      "priority": "우선",
+      "route": "Tripo candidate, not generated",
+      "file": "assets/T03_PowerLouverBay_v01.png",
+      "prompt": "Use case: stylized-concept.\nAsset type: SINGLE isolated modular architectural component reference for later image-to-3D modeling, for a top-down extraction game.\nWorld: abandoned inland municipal machinery maintenance district with old flood staining; restrained stylized realism, convincing thickness and broad worn materials, slightly painterly game asset finish, not a photoreal photograph, not voxel/Minecraft. Readable strong silhouette over tiny photographic noise.\nComposition: exactly ONE connected component, three-quarter elevated front-right view showing front, a return edge, top and depth. Entire component centered with generous margins on uniform pale warm gray studio background. Soft diffuse ambient illumination, tiny neutral contact shadow only. No ground scenery, no neighboring objects, no floor slab/base, no labels, text, people, plants, poles, props or scale ruler. No multiple views, no collage. All joint ends clean and planar where the description says modular. Rear attachment face designed flat. Visible thickness and bevels, grounded believable construction.\nThis is visual design only, not measured blueprint. Do not add a whole building, a room, roof or wall beyond the small attachment margin explicitly requested. No backed-up solid wall filling a requested opening. No luminous windows. No ornamental filigree, hanging wires or unnecessary floating fragments.\n\nSubject: One narrow tall freestanding precast concrete service wall bay about 1.8m wide and 3m tall, deep recessed vertical ventilation opening containing broad dark steel horizontal louvers, two asymmetrical concrete side ribs/buttresses integrated with the panel, visible flat joint sides and broad back mounting plane. A desaturated blue-gray lower paint band and subtle soot near louver. No full tower, no pipes, no separate machinery, no doors, no floor."
+    },
+    {
+      "id": "T04",
+      "key": "BrickArchedWindowBay",
+      "name": "물류동 벽돌 아치 고창",
+      "family": "정밀부품·물류",
+      "planningSize": "2.0×2.5×0.35m",
+      "priority": "우선",
+      "route": "Tripo candidate, not generated",
+      "file": "assets/T04_BrickArchedWindowBay_v01.png",
+      "prompt": "Use case: stylized-concept.\nAsset type: SINGLE isolated modular architectural component reference for later image-to-3D modeling, for a top-down extraction game.\nWorld: abandoned inland municipal machinery maintenance district with old flood staining; restrained stylized realism, convincing thickness and broad worn materials, slightly painterly game asset finish, not a photoreal photograph, not voxel/Minecraft. Readable strong silhouette over tiny photographic noise.\nComposition: exactly ONE connected component, three-quarter elevated front-right view showing front, a return edge, top and depth. Entire component centered with generous margins on uniform pale warm gray studio background. Soft diffuse ambient illumination, tiny neutral contact shadow only. No ground scenery, no neighboring objects, no floor slab/base, no labels, text, people, plants, poles, props or scale ruler. No multiple views, no collage. All joint ends clean and planar where the description says modular. Rear attachment face designed flat. Visible thickness and bevels, grounded believable construction.\nThis is visual design only, not measured blueprint. Do not add a whole building, a room, roof or wall beyond the small attachment margin explicitly requested. No backed-up solid wall filling a requested opening. No luminous windows. No ornamental filigree, hanging wires or unnecessary floating fragments.\n\nSubject: One compact red-brown brick segmented-arch high-security window bay, a thick masonry arch and two short brick side pilasters around a recessed small arched window. Deep dark metal window frame with only two sturdy vertical protective bars and crosspiece. The opening shows neutral gray through the empty pane spaces, no flat backing panel; glass will be added separately. Stone sill, visible arch voussoirs and real brick depth, planar module sides. Just the framed bay, not an entire facade, not a doorway."
+    },
+    {
+      "id": "T05",
+      "key": "WorkshopProjectingWindow",
+      "name": "공방 돌출 격자창",
+      "family": "공구·가공",
+      "planningSize": "1.6×1.5×0.55m",
+      "priority": "우선",
+      "route": "Tripo candidate, not generated",
+      "file": "assets/T05_WorkshopProjectingWindow_v01.png",
+      "prompt": "Use case: stylized-concept.\nAsset type: SINGLE isolated modular architectural component reference for later image-to-3D modeling, for a top-down extraction game.\nWorld: abandoned inland municipal machinery maintenance district with old flood staining; restrained stylized realism, convincing thickness and broad worn materials, slightly painterly game asset finish, not a photoreal photograph, not voxel/Minecraft. Readable strong silhouette over tiny photographic noise.\nComposition: exactly ONE connected component, three-quarter elevated front-right view showing front, a return edge, top and depth. Entire component centered with generous margins on uniform pale warm gray studio background. Soft diffuse ambient illumination, tiny neutral contact shadow only. No ground scenery, no neighboring objects, no floor slab/base, no labels, text, people, plants, poles, props or scale ruler. No multiple views, no collage. All joint ends clean and planar where the description says modular. Rear attachment face designed flat. Visible thickness and bevels, grounded believable construction.\nThis is visual design only, not measured blueprint. Do not add a whole building, a room, roof or wall beyond the small attachment margin explicitly requested. No backed-up solid wall filling a requested opening. No luminous windows. No ornamental filigree, hanging wires or unnecessary floating fragments.\n\nSubject: One projecting box-bay workshop window with a weathered dark olive timber and steel frame, flat front plus narrow angled side glazing panels, small grid of six front pane openings. Pane spaces empty and show neutral gray background; glass is a separate future material. Thick worn timber sill and shallow galvanized sheet metal cap attached above. A narrow ochre plaster mounting rim only, no full wall, no roof or detached supports. Chunky legible joinery, not delicate decorative vintage furniture."
+    },
+    {
+      "id": "T06",
+      "key": "WorkshopPatchedCorner",
+      "name": "공방 회반죽·판금 접합 코너",
+      "family": "공구·가공",
+      "planningSize": "1.8×2.7×0.5m",
+      "priority": "우선",
+      "route": "Tripo candidate, not generated",
+      "file": "assets/T06_WorkshopPatchedCorner_v01.png",
+      "prompt": "Use case: stylized-concept.\nAsset type: SINGLE isolated modular architectural component reference for later image-to-3D modeling, for a top-down extraction game.\nWorld: abandoned inland municipal machinery maintenance district with old flood staining; restrained stylized realism, convincing thickness and broad worn materials, slightly painterly game asset finish, not a photoreal photograph, not voxel/Minecraft. Readable strong silhouette over tiny photographic noise.\nComposition: exactly ONE connected component, three-quarter elevated front-right view showing front, a return edge, top and depth. Entire component centered with generous margins on uniform pale warm gray studio background. Soft diffuse ambient illumination, tiny neutral contact shadow only. No ground scenery, no neighboring objects, no floor slab/base, no labels, text, people, plants, poles, props or scale ruler. No multiple views, no collage. All joint ends clean and planar where the description says modular. Rear attachment face designed flat. Visible thickness and bevels, grounded believable construction.\nThis is visual design only, not measured blueprint. Do not add a whole building, a room, roof or wall beyond the small attachment margin explicitly requested. No backed-up solid wall filling a requested opening. No luminous windows. No ornamental filigree, hanging wires or unnecessary floating fragments.\n\nSubject: One small right-angle wall corner cladding panel, ochre chipped lime plaster upper face meeting repaired rusted corrugated steel sheets along lower and right return, a bolted flat trim seam clearly marks the repair. A little exposed warm brick under missing plaster, no enormous collapse. Compact upright corner, narrow returns, flat back attachment surfaces and clean straight modular ends. No window, door, floor, roof, pipe or separate pile of debris."
+    },
+    {
+      "id": "T07",
+      "key": "OfficeTripleWindow",
+      "name": "관리동 세로 3연창",
+      "family": "직원 지원·관리",
+      "planningSize": "2.4×1.7×0.3m",
+      "priority": "우선",
+      "route": "Tripo candidate, not generated",
+      "file": "assets/T07_OfficeTripleWindow_v01.png",
+      "prompt": "Use case: stylized-concept.\nAsset type: SINGLE isolated modular architectural component reference for later image-to-3D modeling, for a top-down extraction game.\nWorld: abandoned inland municipal machinery maintenance district with old flood staining; restrained stylized realism, convincing thickness and broad worn materials, slightly painterly game asset finish, not a photoreal photograph, not voxel/Minecraft. Readable strong silhouette over tiny photographic noise.\nComposition: exactly ONE connected component, three-quarter elevated front-right view showing front, a return edge, top and depth. Entire component centered with generous margins on uniform pale warm gray studio background. Soft diffuse ambient illumination, tiny neutral contact shadow only. No ground scenery, no neighboring objects, no floor slab/base, no labels, text, people, plants, poles, props or scale ruler. No multiple views, no collage. All joint ends clean and planar where the description says modular. Rear attachment face designed flat. Visible thickness and bevels, grounded believable construction.\nThis is visual design only, not measured blueprint. Do not add a whole building, a room, roof or wall beyond the small attachment margin explicitly requested. No backed-up solid wall filling a requested opening. No luminous windows. No ornamental filigree, hanging wires or unnecessary floating fragments.\n\nSubject: One grouped triplet of tall slender office windows inside a thick pale gray stone outer surround and sill; three distinct vertical casements, weathered muted mustard painted timber frames, straight classical civic proportions without ornate decoration. Each casement has two empty pane openings showing gray backdrop, no glass and no solid infill. Deep reveal, narrow cream brick mounting border only. No full wall, balcony, roof or signage."
+    },
+    {
+      "id": "T08",
+      "key": "TerracottaEaveCorner",
+      "name": "기와 처마·용마루 코너",
+      "family": "관리동·생활 폐허",
+      "planningSize": "1.6×1.3×0.7m",
+      "priority": "우선",
+      "route": "Tripo candidate, not generated",
+      "file": "assets/T08_TerracottaEaveCorner_v01.png",
+      "prompt": "Use case: stylized-concept.\nAsset type: SINGLE isolated modular architectural component reference for later image-to-3D modeling, for a top-down extraction game.\nWorld: abandoned inland municipal machinery maintenance district with old flood staining; restrained stylized realism, convincing thickness and broad worn materials, slightly painterly game asset finish, not a photoreal photograph, not voxel/Minecraft. Readable strong silhouette over tiny photographic noise.\nComposition: exactly ONE connected component, three-quarter elevated front-right view showing front, a return edge, top and depth. Entire component centered with generous margins on uniform pale warm gray studio background. Soft diffuse ambient illumination, tiny neutral contact shadow only. No ground scenery, no neighboring objects, no floor slab/base, no labels, text, people, plants, poles, props or scale ruler. No multiple views, no collage. All joint ends clean and planar where the description says modular. Rear attachment face designed flat. Visible thickness and bevels, grounded believable construction.\nThis is visual design only, not measured blueprint. Do not add a whole building, a room, roof or wall beyond the small attachment margin explicitly requested. No backed-up solid wall filling a requested opening. No luminous windows. No ornamental filigree, hanging wires or unnecessary floating fragments.\n\nSubject: One compact outside corner section of a terracotta hipped tiled roof eave: two short adjacent eave runs meeting under a diagonal hip cap of curved ridge tiles, layered red-orange ceramic tiles, thick pale weathered timber fascia and a few visible rafter ends underneath. Roof fragment only, no building or walls, no overly complex rafters. Moderately chipped, mostly intact tiles, clear planar cut ends for joining to a roof mesh. One connected L-shaped roof-edge module in isometric view."
+    },
+    {
+      "id": "T09",
+      "key": "ResidentialShutterWindow",
+      "name": "폐주거 셔터창",
+      "family": "생활 폐허",
+      "planningSize": "1.4×1.7×0.3m",
+      "priority": "우선",
+      "route": "Tripo candidate, not generated",
+      "file": "assets/T09_ResidentialShutterWindow_v01.png",
+      "prompt": "Use case: stylized-concept.\nAsset type: SINGLE isolated modular architectural component reference for later image-to-3D modeling, for a top-down extraction game.\nWorld: abandoned inland municipal machinery maintenance district with old flood staining; restrained stylized realism, convincing thickness and broad worn materials, slightly painterly game asset finish, not a photoreal photograph, not voxel/Minecraft. Readable strong silhouette over tiny photographic noise.\nComposition: exactly ONE connected component, three-quarter elevated front-right view showing front, a return edge, top and depth. Entire component centered with generous margins on uniform pale warm gray studio background. Soft diffuse ambient illumination, tiny neutral contact shadow only. No ground scenery, no neighboring objects, no floor slab/base, no labels, text, people, plants, poles, props or scale ruler. No multiple views, no collage. All joint ends clean and planar where the description says modular. Rear attachment face designed flat. Visible thickness and bevels, grounded believable construction.\nThis is visual design only, not measured blueprint. Do not add a whole building, a room, roof or wall beyond the small attachment margin explicitly requested. No backed-up solid wall filling a requested opening. No luminous windows. No ornamental filigree, hanging wires or unnecessary floating fragments.\n\nSubject: One old domestic window frame with attached pair of simple teal-green wooden shutters, one shutter swung partly open and the other resting against a short mounting rim. Thick weathered frame, two vertical pane openings empty to the neutral gray backdrop, worn stone sill, very narrow off-white chipped plaster surround with red brick exposed at one corner. Visible depth and hinge logic. No decorative flowers, curtain, room, roof or whole wall. No glowing lights."
+    },
+    {
+      "id": "T10",
+      "key": "RuinedPlasterCorner",
+      "name": "붕괴 회반죽·벽돌 코너",
+      "family": "생활 폐허",
+      "planningSize": "2.0×2.5×0.75m",
+      "priority": "낮음/기존 폐허 코너와 비교 후 최종 생성",
+      "route": "Tripo candidate, not generated",
+      "file": "assets/T10_RuinedPlasterCorner_v01.png",
+      "prompt": "Use case: stylized-concept.\nAsset type: SINGLE isolated modular architectural component reference for later image-to-3D modeling, for a top-down extraction game.\nWorld: abandoned inland municipal machinery maintenance district with old flood staining; restrained stylized realism, convincing thickness and broad worn materials, slightly painterly game asset finish, not a photoreal photograph, not voxel/Minecraft. Readable strong silhouette over tiny photographic noise.\nComposition: exactly ONE connected component, three-quarter elevated front-right view showing front, a return edge, top and depth. Entire component centered with generous margins on uniform pale warm gray studio background. Soft diffuse ambient illumination, tiny neutral contact shadow only. No ground scenery, no neighboring objects, no floor slab/base, no labels, text, people, plants, poles, props or scale ruler. No multiple views, no collage. All joint ends clean and planar where the description says modular. Rear attachment face designed flat. Visible thickness and bevels, grounded believable construction.\nThis is visual design only, not measured blueprint. Do not add a whole building, a room, roof or wall beyond the small attachment margin explicitly requested. No backed-up solid wall filling a requested opening. No luminous windows. No ornamental filigree, hanging wires or unnecessary floating fragments.\n\nSubject: One selectively broken L-shaped exterior masonry corner fragment of former worker housing, off-white flaking plaster over warm red brick, irregular upper fracture exposes wall thickness and individual staggered bricks, coherent stable lower courses. The two short returns form one connected corner with one edge largely intact for attachment and the top opposite edge broken. No separate debris, no roof, no floor, no entire ruined room. Distinct from a plain full-height clinic corner: substantial readable top collapse but not a rubble mound."
+    },
+    {
+      "id": "T11",
+      "key": "BrokenTileRafterEave",
+      "name": "파손 기와·노출 서까래 처마",
+      "family": "생활 폐허",
+      "planningSize": "1.8×1.1×0.65m",
+      "priority": "우선",
+      "route": "Tripo candidate, not generated",
+      "file": "assets/T11_BrokenTileRafterEave_v01.png",
+      "prompt": "Use case: stylized-concept.\nAsset type: SINGLE isolated modular architectural component reference for later image-to-3D modeling, for a top-down extraction game.\nWorld: abandoned inland municipal machinery maintenance district with old flood staining; restrained stylized realism, convincing thickness and broad worn materials, slightly painterly game asset finish, not a photoreal photograph, not voxel/Minecraft. Readable strong silhouette over tiny photographic noise.\nComposition: exactly ONE connected component, three-quarter elevated front-right view showing front, a return edge, top and depth. Entire component centered with generous margins on uniform pale warm gray studio background. Soft diffuse ambient illumination, tiny neutral contact shadow only. No ground scenery, no neighboring objects, no floor slab/base, no labels, text, people, plants, poles, props or scale ruler. No multiple views, no collage. All joint ends clean and planar where the description says modular. Rear attachment face designed flat. Visible thickness and bevels, grounded believable construction.\nThis is visual design only, not measured blueprint. Do not add a whole building, a room, roof or wall beyond the small attachment margin explicitly requested. No backed-up solid wall filling a requested opening. No luminous windows. No ornamental filigree, hanging wires or unnecessary floating fragments.\n\nSubject: One small broken terracotta roof eave fragment, warm red curved tiles missing in an irregular local patch to expose three chunky weathered timber rafters and a few laths beneath, attached intact fascia at one short end. Single connected piece, clear thickness and structurally readable layers, jagged damage on one edge only and a straight modular cut at the other. No dangling debris, no complete roof, no house, no wall, no floor."
+    },
+    {
+      "id": "T12",
+      "key": "AngledObservationWindow",
+      "name": "제어동 꺾인 관찰창 프레임",
+      "family": "통신·제어",
+      "planningSize": "2.4×1.6×0.8m",
+      "priority": "우선",
+      "route": "Tripo candidate, not generated",
+      "file": "assets/T12_AngledObservationWindow_v01.png",
+      "prompt": "Use case: stylized-concept.\nAsset type: SINGLE isolated modular architectural component reference for later image-to-3D modeling, for a top-down extraction game.\nWorld: abandoned inland municipal machinery maintenance district with old flood staining; restrained stylized realism, convincing thickness and broad worn materials, slightly painterly game asset finish, not a photoreal photograph, not voxel/Minecraft. Readable strong silhouette over tiny photographic noise.\nComposition: exactly ONE connected component, three-quarter elevated front-right view showing front, a return edge, top and depth. Entire component centered with generous margins on uniform pale warm gray studio background. Soft diffuse ambient illumination, tiny neutral contact shadow only. No ground scenery, no neighboring objects, no floor slab/base, no labels, text, people, plants, poles, props or scale ruler. No multiple views, no collage. All joint ends clean and planar where the description says modular. Rear attachment face designed flat. Visible thickness and bevels, grounded believable construction.\nThis is visual design only, not measured blueprint. Do not add a whole building, a room, roof or wall beyond the small attachment margin explicitly requested. No backed-up solid wall filling a requested opening. No luminous windows. No ornamental filigree, hanging wires or unnecessary floating fragments.\n\nSubject: One angular wraparound industrial observation-window frame segment: broad sloped trapezoid front frame with two narrow angled side returns, faded navy-blue enamel steel and thick off-white chamfered precast surround. Three large EMPTY window apertures show the neutral backdrop, no glass, no interior wall and no back wall. Squat outward-leaning industrial geometry, clean planar side attachment ends, sturdy mullions, restrained rust. Only window module, not a complete cabin, tower, cockpit, balcony or roof."
+    },
+    {
+      "id": "T13",
+      "key": "WaterworksStoneButtress",
+      "name": "배수동 석재 경사 부벽",
+      "family": "배수·수문",
+      "planningSize": "1.0×2.8×1.0m",
+      "priority": "우선",
+      "route": "Tripo candidate, not generated",
+      "file": "assets/T13_WaterworksStoneButtress_v01.png",
+      "prompt": "Use case: stylized-concept.\nAsset type: SINGLE isolated modular architectural component reference for later image-to-3D modeling, for a top-down extraction game.\nWorld: abandoned inland municipal machinery maintenance district with old flood staining; restrained stylized realism, convincing thickness and broad worn materials, slightly painterly game asset finish, not a photoreal photograph, not voxel/Minecraft. Readable strong silhouette over tiny photographic noise.\nComposition: exactly ONE connected component, three-quarter elevated front-right view showing front, a return edge, top and depth. Entire component centered with generous margins on uniform pale warm gray studio background. Soft diffuse ambient illumination, tiny neutral contact shadow only. No ground scenery, no neighboring objects, no floor slab/base, no labels, text, people, plants, poles, props or scale ruler. No multiple views, no collage. All joint ends clean and planar where the description says modular. Rear attachment face designed flat. Visible thickness and bevels, grounded believable construction.\nThis is visual design only, not measured blueprint. Do not add a whole building, a room, roof or wall beyond the small attachment margin explicitly requested. No backed-up solid wall filling a requested opening. No luminous windows. No ornamental filigree, hanging wires or unnecessary floating fragments.\n\nSubject: One tapered stone-and-concrete structural buttress intended to sit against an existing pump-house wall: broad stepped base narrows toward top, inclined front profile, rectangular rough-cut gray stone courses with a plain concrete coping at top, perfectly FLAT vertical back attachment face. Old flood stain and restrained dark moss on lower third. One solid coherent pillar-like buttress, no attached long wall, floor, pipes, ground or water. Show front and one side clearly."
+    },
+    {
+      "id": "T14",
+      "key": "WaterproofSmallWindow",
+      "name": "배수동 깊은 방수 소창",
+      "family": "배수·수문",
+      "planningSize": "1.1×1.2×0.35m",
+      "priority": "우선",
+      "route": "Tripo candidate, not generated",
+      "file": "assets/T14_WaterproofSmallWindow_v01.png",
+      "prompt": "Use case: stylized-concept.\nAsset type: SINGLE isolated modular architectural component reference for later image-to-3D modeling, for a top-down extraction game.\nWorld: abandoned inland municipal machinery maintenance district with old flood staining; restrained stylized realism, convincing thickness and broad worn materials, slightly painterly game asset finish, not a photoreal photograph, not voxel/Minecraft. Readable strong silhouette over tiny photographic noise.\nComposition: exactly ONE connected component, three-quarter elevated front-right view showing front, a return edge, top and depth. Entire component centered with generous margins on uniform pale warm gray studio background. Soft diffuse ambient illumination, tiny neutral contact shadow only. No ground scenery, no neighboring objects, no floor slab/base, no labels, text, people, plants, poles, props or scale ruler. No multiple views, no collage. All joint ends clean and planar where the description says modular. Rear attachment face designed flat. Visible thickness and bevels, grounded believable construction.\nThis is visual design only, not measured blueprint. Do not add a whole building, a room, roof or wall beyond the small attachment margin explicitly requested. No backed-up solid wall filling a requested opening. No luminous windows. No ornamental filigree, hanging wires or unnecessary floating fragments.\n\nSubject: One compact almost-square waterproof pump-house inspection window, thick dark blue-green steel frame deeply recessed inside a narrow beveled gray concrete surround, bolted gasket lip and heavy stone sill. Four empty small pane apertures show neutral background; glass is separate. A few large bolts only, clear bevel and thickness, staining at lower sill. No wall beyond narrow surround, no door, roof, pipe or extra objects."
+    }
+  ]
+}

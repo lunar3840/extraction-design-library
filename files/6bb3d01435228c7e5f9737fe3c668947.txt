@@ -1,0 +1,5 @@
+Weathering pass rendering: PASS. Actual DrawRenderer captures saved to C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ivy-weathering-tools/pass_probes_195906.
+PASS ForwardLit rendered; full=41616 cut=20808 weathered=20808 maskDiff=0
+PASS DepthOnly rendered; full=41616 cut=20808 weathered=20808 maskDiff=0 (depth-occlusion mask)
+PASS DepthNormals rendered; full=41616 cut=20808 weathered=20808 maskDiff=0
+PASS ShadowCaster rendered; full=41616 cut=20808 weathered=20808 maskDiff=0 (depth-occlusion mask)

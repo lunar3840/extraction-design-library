@@ -1,0 +1,13 @@
+2026-10-15T09:48:14.2064934+09:00 Stage A sparse faction contacts V01
+WEST G6_02 A home=(145.67, 230.65) contact=(151.50, 218.00) H1 variants with static LOS/range=1/3
+WEST G6_02 B unchanged: no clear local contact route; original spawn/patrol retained.
+WEST G6_02 C home=(148.59, 227.06) contact=(153.00, 213.50) H1 variants with static LOS/range=3/3
+EAST G10_01 A home=(372.50, 171.00) contact=(369.00, 171.00) (off V33 road surface)
+EAST G10_01 B unchanged: no clear EP/EA workface route; original spawn/patrol retained.
+EAST G10_01 C unchanged: no clear EP/EA workface route; original spawn/patrol retained.
+EAST H2_03 A home=(353.27, 162.42) contact=(361.50, 166.00) G10 variants with static LOS/range=1/3
+EAST H2_02 B home=(352.71, 162.79) contact=(361.50, 166.00) G10 variants with static LOS/range=1/3
+EAST H2_01 C home=(353.06, 162.57) contact=(361.50, 166.00) G10 variants with static LOS/range=1/3
+PASS sparse contacts, static sight/range pair coverage west=4/9 east=3/9.
+49 slots and all named homes retained. New G10 machine homes avoid road surfaces and N4's planned bounds.
+LOS checks use current static map geometry; actor timing, visibility animation and live firefights require Play verification. No scene/prefab saved by this method.

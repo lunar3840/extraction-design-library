@@ -1,0 +1,178 @@
+PASS unique immutable catalog entry att_muzzle_rifle_suppressor
+PASS valid economy, fit and future mount att_muzzle_rifle_suppressor
+PASS unique immutable catalog entry att_muzzle_rifle_brake
+PASS valid economy, fit and future mount att_muzzle_rifle_brake
+PASS unique immutable catalog entry att_muzzle_pistol_suppressor
+PASS valid economy, fit and future mount att_muzzle_pistol_suppressor
+PASS unique immutable catalog entry att_muzzle_pistol_compensator
+PASS valid economy, fit and future mount att_muzzle_pistol_compensator
+PASS unique immutable catalog entry att_muzzle_shotgun_choke
+PASS valid economy, fit and future mount att_muzzle_shotgun_choke
+PASS unique immutable catalog entry att_barrel_long
+PASS valid economy, fit and future mount att_barrel_long
+PASS unique immutable catalog entry att_barrel_short
+PASS valid economy, fit and future mount att_barrel_short
+PASS unique immutable catalog entry att_barrel_precision
+PASS valid economy, fit and future mount att_barrel_precision
+PASS unique immutable catalog entry att_foregrip_vertical
+PASS valid economy, fit and future mount att_foregrip_vertical
+PASS unique immutable catalog entry att_foregrip_angled
+PASS valid economy, fit and future mount att_foregrip_angled
+PASS unique immutable catalog entry att_foregrip_stubby
+PASS valid economy, fit and future mount att_foregrip_stubby
+PASS unique immutable catalog entry att_reargrip_ergo
+PASS valid economy, fit and future mount att_reargrip_ergo
+PASS unique immutable catalog entry att_reargrip_rubber
+PASS valid economy, fit and future mount att_reargrip_rubber
+PASS unique immutable catalog entry att_stock_stable
+PASS valid economy, fit and future mount att_stock_stable
+PASS unique immutable catalog entry att_stock_light
+PASS valid economy, fit and future mount att_stock_light
+PASS unique immutable catalog entry att_stock_tactical
+PASS valid economy, fit and future mount att_stock_tactical
+PASS unique immutable catalog entry att_mag_extended
+PASS valid economy, fit and future mount att_mag_extended
+PASS unique immutable catalog entry att_mag_quick
+PASS valid economy, fit and future mount att_mag_quick
+PASS unique immutable catalog entry att_mag_drum
+PASS valid economy, fit and future mount att_mag_drum
+PASS unique immutable catalog entry att_mag_pistol_extended
+PASS valid economy, fit and future mount att_mag_pistol_extended
+PASS unique immutable catalog entry att_mag_precision_extended
+PASS valid economy, fit and future mount att_mag_precision_extended
+PASS unique immutable catalog entry att_optic_red_dot
+PASS valid economy, fit and future mount att_optic_red_dot
+PASS unique immutable catalog entry att_optic_2x
+PASS valid economy, fit and future mount att_optic_2x
+PASS unique immutable catalog entry att_optic_4x
+PASS valid economy, fit and future mount att_optic_4x
+PASS unique immutable catalog entry att_tactical_flashlight
+PASS valid economy, fit and future mount att_tactical_flashlight
+PASS unique immutable catalog entry att_tactical_laser
+PASS valid economy, fit and future mount att_tactical_laser
+PASS unique immutable catalog entry att_tactical_combo
+PASS valid economy, fit and future mount att_tactical_combo
+PASS unique immutable catalog entry att_handguard_light
+PASS valid economy, fit and future mount att_handguard_light
+PASS unique immutable catalog entry att_handguard_stable
+PASS valid economy, fit and future mount att_handguard_stable
+PASS 29 entries cover all nine exclusive slots
+PASS suppressor attaches
+PASS suppressor reduces actual shot-noise multiplier
+PASS suppressor range tradeoff
+PASS attachment never mutates source or live base definition
+PASS invalid ID and wrong slot rejected
+PASS laser attaches disabled
+PASS disabled laser gives no accuracy bonus
+PASS tactical control enables laser
+PASS active laser improves actual hip spread
+PASS same tactical preview preserves active state
+PASS replacement tactical preview starts disabled
+PASS tactical replacement exclusive and disabled
+PASS swapping to light removes laser bonus
+PASS flashlight range follows active toggle
+PASS combo enables both functions in one slot
+PASS slot replacement never duplicates installed parts
+PASS extended mag expands empty capacity without spawning rounds
+PASS extended reload starts
+PASS all mods blocked during live reload
+PASS extended reload transfers only available matching rounds
+PASS loaded gun fires before instant modding
+PASS raid mod mutates same weapon identity
+PASS attachment preserves loaded rounds, bloom, cadence and clock
+PASS mixed ammo reload starts
+PASS extended reload keeps ordered mixed rounds and exact reserve conservation
+PASS overflow replacement preview is pure and accurate
+PASS capacity shrink rejects atomically without round loss or free ammo
+PASS spend real round before shrink 0
+PASS spend real round before shrink 1
+PASS spend real round before shrink 2
+PASS spend real round before shrink 3
+PASS spend real round before shrink 4
+PASS spend real round before shrink 5
+PASS spend real round before shrink 6
+PASS spend real round before shrink 7
+PASS spend real round before shrink 8
+PASS spend real round before shrink 9
+PASS spend real round before shrink 10
+PASS spend real round before shrink 11
+PASS spend real round before shrink 12
+PASS spend real round before shrink 13
+PASS spend real round before shrink 14
+PASS removing magazine retains loaded mixed ammunition and selection
+PASS quick mag reuses base capacity
+PASS quick mag changes actual reload duration
+PASS attachments combine with growth and injury reload multipliers
+PASS scope improves view without altering damage or cadence
+PASS schema3 persists installed catalog IDs
+PASS schema3 roundtrip preserves identity, attachments and exact ordered rounds
+PASS unknown saved attachment rejected
+PASS duplicate saved slot rejected
+PASS active tactical without device rejected
+PASS incompatible saved attachment rejected
+PASS legacy schema1 restores without reroll or attachments
+PASS legacy schema2 remains supported
+PASS grandfathered historical capacity survives schema3 save
+PASS unrelated mod preserves grandfathered rounds without false capacity rejection
+PASS unsupported mag fit rejected P_003/att_mag_extended
+PASS unsupported mag fit rejected P_003/att_mag_quick
+PASS unsupported mag fit rejected P_003/att_mag_drum
+PASS unsupported mag fit rejected P_003/att_mag_pistol_extended
+PASS unsupported mag fit rejected P_003/att_mag_precision_extended
+PASS unsupported mag fit rejected P_011/att_mag_extended
+PASS unsupported mag fit rejected P_011/att_mag_quick
+PASS unsupported mag fit rejected P_011/att_mag_drum
+PASS unsupported mag fit rejected P_011/att_mag_pistol_extended
+PASS unsupported mag fit rejected P_011/att_mag_precision_extended
+PASS unsupported mag fit rejected SG_004/att_mag_extended
+PASS unsupported mag fit rejected SG_004/att_mag_quick
+PASS unsupported mag fit rejected SG_004/att_mag_drum
+PASS unsupported mag fit rejected SG_004/att_mag_pistol_extended
+PASS unsupported mag fit rejected SG_004/att_mag_precision_extended
+PASS unsupported mag fit rejected SR_002/att_mag_extended
+PASS unsupported mag fit rejected SR_002/att_mag_quick
+PASS unsupported mag fit rejected SR_002/att_mag_drum
+PASS unsupported mag fit rejected SR_002/att_mag_pistol_extended
+PASS unsupported mag fit rejected SR_002/att_mag_precision_extended
+PASS unsupported mag fit rejected MG_003/att_mag_extended
+PASS unsupported mag fit rejected MG_003/att_mag_quick
+PASS unsupported mag fit rejected MG_003/att_mag_drum
+PASS unsupported mag fit rejected MG_003/att_mag_pistol_extended
+PASS unsupported mag fit rejected MG_003/att_mag_precision_extended
+PASS melee excludes att_muzzle_rifle_suppressor
+PASS melee excludes att_muzzle_rifle_brake
+PASS melee excludes att_muzzle_pistol_suppressor
+PASS melee excludes att_muzzle_pistol_compensator
+PASS melee excludes att_muzzle_shotgun_choke
+PASS melee excludes att_barrel_long
+PASS melee excludes att_barrel_short
+PASS melee excludes att_barrel_precision
+PASS melee excludes att_foregrip_vertical
+PASS melee excludes att_foregrip_angled
+PASS melee excludes att_foregrip_stubby
+PASS melee excludes att_reargrip_ergo
+PASS melee excludes att_reargrip_rubber
+PASS melee excludes att_stock_stable
+PASS melee excludes att_stock_light
+PASS melee excludes att_stock_tactical
+PASS melee excludes att_mag_extended
+PASS melee excludes att_mag_quick
+PASS melee excludes att_mag_drum
+PASS melee excludes att_mag_pistol_extended
+PASS melee excludes att_mag_precision_extended
+PASS melee excludes att_optic_red_dot
+PASS melee excludes att_optic_2x
+PASS melee excludes att_optic_4x
+PASS melee excludes att_tactical_flashlight
+PASS melee excludes att_tactical_laser
+PASS melee excludes att_tactical_combo
+PASS melee excludes att_handguard_light
+PASS melee excludes att_handguard_stable
+PASS owned gun accepts active device
+PASS lost ownership prevents mods and active-device effects
+PASS maximum stability stack attaches
+PASS recoil combines affix exactly once and stays bounded
+PASS handling affix combines exactly once with aim-time parts
+PASS separate pitch tuning affects emitted recoil
+PASS separate yaw tuning affects emitted recoil
+ALL ATTACHMENT CORE CHECKS PASSED

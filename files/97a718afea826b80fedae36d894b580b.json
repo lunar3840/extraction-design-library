@@ -1,0 +1,64 @@
+{
+  "verifiedAtKST": "2026-10-29T20:14:32.264086",
+  "files": [
+    {
+      "path": "Assets/Escape/Editor/Environment/SurfaceIvyGenerator.cs",
+      "sha256": "c3041cfefa2d3d5d75c4e4818ec2a8224195ab249c744bbabc18157e4edb499a",
+      "stagingNormalizedMatch": true
+    },
+    {
+      "path": "Assets/Escape/Editor/Environment/SurfaceIvyWindow.cs",
+      "sha256": "14a2769a4bb3ac508557cf3298f96c9a0b89c9dc7fba37734ceda689cef1f5a7",
+      "stagingNormalizedMatch": true
+    },
+    {
+      "path": "Assets/Escape/Editor/Environment/EnvironmentWeatheringAuthoring.cs",
+      "sha256": "b76050b5dbf4313d6a66f3883eb3010c27931165b02d1fc0f7210c7427294856",
+      "stagingNormalizedMatch": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Environment/EnvironmentWeatheringInstance.cs",
+      "sha256": "36eea7c184a88b540152f3951bca9c2f0f18dcf892559f45192b33f1678e57eb",
+      "stagingNormalizedMatch": true
+    },
+    {
+      "path": "Assets/Escape/Art/SurfaceWeathering/WeatheredLit.shader",
+      "sha256": "2070a9fb8b131a399e452b36f3c34f4f568961529774cdefbe203a124cff2a49",
+      "stagingNormalizedMatch": true
+    },
+    {
+      "path": "Assets/Escape/Art/SurfaceWeathering/WeatheredLitD09Weathering.hlsl",
+      "sha256": "8d1cf81720d64b14dc916d2fbc4f0c00c41cd6c1b4269a8b0a4020020efa0b7e",
+      "stagingNormalizedMatch": true
+    },
+    {
+      "path": "Assets/Escape/Art/SurfaceWeathering/WeatheredLitForwardPass.hlsl",
+      "sha256": "dc511ca4d55010fd3d1e8b2f3b46a071fb34a2bf20faaf28e1eba41d9e92523d",
+      "stagingNormalizedMatch": true
+    },
+    {
+      "path": "Assets/Escape/Art/SurfaceWeathering/WeatheredLitGBufferPass.hlsl",
+      "sha256": "baf3385daff303d1dda533d3d8745dd517acc97f29bbe2b283bd49ad2de060a6",
+      "stagingNormalizedMatch": true
+    },
+    {
+      "path": "Assets/Escape/Art/SurfaceWeathering/WeatheredLitInput.hlsl",
+      "sha256": "73c1d6cc5ef95d801b5b4b6860a1c6c9f5a26a99d6eb18ed653f347760c28cb5",
+      "stagingNormalizedMatch": true
+    },
+    {
+      "path": "Assets/Escape/Art/SurfaceWeathering/WeatheredLitWeather.hlsl",
+      "sha256": "4dfd4cff6f80852fff086d75c478b75b28e7ddfb3893736715acead3701e1f12",
+      "stagingNormalizedMatch": true
+    },
+    {
+      "path": "Assets/Escape/Editor/Environment/EnvironmentToolsValidation.cs",
+      "sha256": "48f821b7aaca995d91dbf48d738eea41d1a3eaf9c15037e255ecc8283b4ac6be",
+      "stagingNormalizedMatch": true
+    }
+  ],
+  "allStagingMatches": true,
+  "temporaryHelpersAbsent": true,
+  "ownedRequestAbsent": true,
+  "foreignRequest": "StageAFactoryV12Request.txt empty / last written 2026-10-15 09:33:05 / untouched"
+}

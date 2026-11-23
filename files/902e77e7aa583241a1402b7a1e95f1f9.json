@@ -1,0 +1,13 @@
+{
+  "status": "PRIOR_GENERATED_ROOT_REVIEW_REQUIRED",
+  "verifiedUtc": "2026-10-29T18:01:01.408200+00:00",
+  "expected": 3580,
+  "current": 3580,
+  "changedCount": 0,
+  "missingCount": 0,
+  "addedCount": 0,
+  "changed": [],
+  "missing": [],
+  "added": [],
+  "note": "Checks every old StageARollout generated file; selected new ivy must write only to StageALargeIvy20261030."
+}

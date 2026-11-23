@@ -1,0 +1,50 @@
+[
+  {
+    "view_sha256": "a1c18cf92edc01a75d2514a1068fcc7f0801935aaa9fd7bc15577a5959676df4",
+    "quality": 78,
+    "source_preserved": true,
+    "file": "01_ankle_before_after.jpg",
+    "height": 680,
+    "source_sha256": "b1b68ddc9e0327eb2435b04ad098c3641cd31956ee22edac34df33a0aac729c2",
+    "bytes": 49051,
+    "source_path": "C:/Users/이호진/Documents/Codex/2026-11-14/1-x20/outputs/EDEL_SD_Ankle_Preview.png",
+    "role": "기존 발목 전후 비교 대표 이미지. 최신 모딩 총기 검증과 별개.",
+    "width": 1280
+  },
+  {
+    "view_sha256": "20ae1dc73acb07d96d0bafb0769a33ac190a97bc7311bb7b9528749fcdb59259",
+    "quality": 78,
+    "source_preserved": true,
+    "file": "02_weapon_proportions_before_after.jpg",
+    "height": 1440,
+    "source_sha256": "e0a428a4ba3a3cf30b3c7335d16d9acfa5c1257b765751cfa6ad267bc6ccffca",
+    "bytes": 108701,
+    "source_path": "D:/CodexAssets/2026-11-15_WeaponRoster_34/Full_Review/01_Rifles_Before_After.jpg",
+    "role": "소총·SMG 사진 대조 형상 수정 전후. 정적 모델 비교.",
+    "width": 1241
+  },
+  {
+    "view_sha256": "9ac91e12e8b750d778f2bc939d000acef26d9cef32f490042ec71a7acdd7619e",
+    "quality": 78,
+    "source_preserved": true,
+    "file": "03_scar_modding_four_views.jpg",
+    "height": 1060,
+    "source_sha256": "7fb9aaeae64c587b10851ab2c6e0c7002dca78386362a5480b2e19750118aa55",
+    "bytes": 74659,
+    "source_path": "D:/CodexAssets/2026-11-15_Weapon_ModFit/Previews/AR_013_A_4Views.jpg",
+    "role": "SCAR 모딩 A 네 방향. 총기 정적 장착 검토 대표.",
+    "width": 1440
+  },
+  {
+    "view_sha256": "f7572e5e1d7a134bde79677dadfecbfbc544f93a54eaf23017baedeea7b32e3e",
+    "quality": 78,
+    "source_preserved": true,
+    "file": "04_edel_reload_work_in_progress.jpg",
+    "height": 750,
+    "source_sha256": "c813e1fabd641a75309eade92b6ea2b8a6d26a5760308551483d418ec43661cd",
+    "bytes": 64183,
+    "source_path": "D:/CodexAssets/2026-11-15_Edel_ModRoster/Native_Master_Previews/AR_013_A_Reload_061.jpg",
+    "role": "저장된 에델 통합본 장전 f61. 미완성 WIP이며 장전 전 구간 무관통 완료 이미지가 아님.",
+    "width": 1000
+  }
+]

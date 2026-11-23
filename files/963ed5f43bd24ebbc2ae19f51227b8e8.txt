@@ -1,0 +1,25 @@
+STAGE_A_WEST_D02_ACTUAL_PLAYER_TRAVERSAL
+Actual PlayerMotor.Simulate(Time.deltaTime) once per rendered frame, walking, sprint=false, enabled CharacterController; enemies frozen=0
+This test establishes passage and player-view captures, not active AI combat.
+LANE P0_G1_A_forward start=(-153.00, 1.02, -20.00) goal=(-104.50, 1.52, -9.00) pathCorners=4
+PASS P0_G1_A_forward steps=1894 elapsedSim=13.61s travelled=54.42m end=(-104.56, 1.43, -9.72) skippedHitchFrames=2
+LANE P0_G1_A_reverse start=(-104.50, 1.52, -9.00) goal=(-153.00, 1.02, -20.00) pathCorners=4
+PASS P0_G1_A_reverse steps=1937 elapsedSim=13.61s travelled=54.42m end=(-152.28, 0.94, -19.94) skippedHitchFrames=2
+LANE A_B1_B2_WEST_forward start=(-104.50, 1.52, -9.00) goal=(-116.00, 1.38, 17.00) pathCorners=3
+PASS A_B1_B2_WEST_forward steps=993 elapsedSim=7.08s travelled=28.34m end=(-115.88, 1.32, 16.28) skippedHitchFrames=2
+LANE A_B1_B2_WEST_reverse start=(-116.00, 1.38, 17.00) goal=(-104.50, 1.52, -9.00) pathCorners=3
+PASS A_B1_B2_WEST_reverse steps=1004 elapsedSim=7.08s travelled=28.32m end=(-104.91, 1.44, -8.37) skippedHitchFrames=2
+LANE A_B2_SOUTH_B2_EAST_B2_WEST_forward start=(-104.50, 1.52, -9.00) goal=(-116.00, 1.38, 17.00) pathCorners=4
+PASS A_B2_SOUTH_B2_EAST_B2_WEST_forward steps=1550 elapsedSim=11.24s travelled=44.94m end=(-115.28, 1.33, 16.80) skippedHitchFrames=3
+LANE A_B2_SOUTH_B2_EAST_B2_WEST_reverse start=(-116.00, 1.38, 17.00) goal=(-104.50, 1.52, -9.00) pathCorners=4
+PASS A_B2_SOUTH_B2_EAST_B2_WEST_reverse steps=1448 elapsedSim=11.24s travelled=44.95m end=(-103.88, 1.45, -8.59) skippedHitchFrames=3
+LANE B2_WEST_B2_NORTH_C_C_WORKFACE_forward start=(-116.00, 1.38, 17.00) goal=(-136.00, 1.75, 27.00) pathCorners=4
+PASS B2_WEST_B2_NORTH_C_C_WORKFACE_forward steps=853 elapsedSim=6.69s travelled=26.76m end=(-135.25, 1.71, 26.94) skippedHitchFrames=3
+LANE B2_WEST_B2_NORTH_C_C_WORKFACE_reverse start=(-136.00, 1.75, 27.00) goal=(-116.00, 1.38, 17.00) pathCorners=4
+PASS B2_WEST_B2_NORTH_C_C_WORKFACE_reverse steps=821 elapsedSim=6.72s travelled=26.86m end=(-116.11, 1.36, 17.71) skippedHitchFrames=3
+LANE C_WORKFACE_C_B2_NORTH_G2_G2_OUTSIDE_forward start=(-136.00, 1.75, 27.00) goal=(-118.00, 3.32, 57.00) pathCorners=5
+PASS C_WORKFACE_C_B2_NORTH_G2_G2_OUTSIDE_forward steps=1663 elapsedSim=12.89s travelled=51.58m end=(-118.00, 3.20, 56.28) skippedHitchFrames=4
+LANE C_WORKFACE_C_B2_NORTH_G2_G2_OUTSIDE_reverse start=(-118.00, 3.32, 57.00) goal=(-136.00, 1.75, 27.00) pathCorners=5
+PASS C_WORKFACE_C_B2_NORTH_G2_G2_OUTSIDE_reverse steps=1621 elapsedSim=12.86s travelled=51.46m end=(-135.28, 1.71, 26.94) skippedHitchFrames=4
+passed=10 failed=0 captureFailures=0 expected=10
+RESULT PASS

@@ -1,0 +1,16 @@
+{
+  "pass": true,
+  "exactly_footer_render_and_height_changed": true,
+  "other_three_files_unchanged": [
+    "Assets/Escape/Runtime/UI/ItemTierPresentation.cs",
+    "Assets/Escape/Runtime/Stage/SessionTestWorld.cs",
+    "Assets/Escape/Runtime/Stage/SessionGlassView.cs"
+  ],
+  "hint_parameter_and_registration_preserved": true,
+  "footer_label_and_divider_removed": true,
+  "body_padding_logical_px": 14,
+  "runtime_compile_exit": 0,
+  "runtime_compile_errors": 0,
+  "existing_warnings": 21,
+  "sha256": "c87d7dff6a96599cf58b3d8ff395d38f5ea5954b6d12ceb52d1445fd5e594008"
+}

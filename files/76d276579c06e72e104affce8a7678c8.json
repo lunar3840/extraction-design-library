@@ -1,0 +1,67 @@
+{
+  "time": "2026-10-15T21:49:59.2265111+09:00",
+  "scene_before": "C9E3D324A6DA7849188D1D92F9D79843B8E4820DCBE8325C3A0B227CD13D1874",
+  "prefab_before": "527EFAAF5CA130BAC0FA888AEDE33F1C9B8DB80E1153D2F15158E1E416AAA416",
+  "files": [
+    {
+      "file": "Editor\\BodyHitChecks.cs",
+      "sha256": "F9C365249A4BE9FE0D7EDB19049E83497A337AEFEF07EE02FF9BA15C3E33968D"
+    },
+    {
+      "file": "Editor\\MedicalUiChecks.cs",
+      "sha256": "F7BFD30DFB8C773D6C9A083E59067F2004101B8341F09E87EB258FB0805B2F8A"
+    },
+    {
+      "file": "Editor\\MedicalUiChecks.cs.meta",
+      "sha256": "AE3AD576708D0E2E9F77E9339A14D30697EB76B798BEE0FBD3CDF15B5A6C9890"
+    },
+    {
+      "file": "Editor\\MedicalUiImportChecks.cs",
+      "sha256": "A4DC81A37AFC01D958C85C84DE010896FC621FE347DC08E752F8DE9C89132F8C"
+    },
+    {
+      "file": "Editor\\MedicalUiImportChecks.cs.meta",
+      "sha256": "8EE31ED27CA831C6AB4F29949F627C233D7CF8CF7C719D73EE058967514946FB"
+    },
+    {
+      "file": "Runtime\\Inventory\\InventoryController.cs",
+      "sha256": "CDE6003A2267DC958DEBEA436BD59B2A27B08B52866F787A47F7CBF4B73883C5"
+    },
+    {
+      "file": "Runtime\\Inventory\\InventoryGlassView.cs",
+      "sha256": "F7B97921C013D3E64F2557A349AE6A4DF4627484C87F49F1D4048F1859A522BB"
+    },
+    {
+      "file": "Runtime\\Inventory\\InventoryInjuryView.cs",
+      "sha256": "E30A62A654E382F3B30B3D8ECED2A48ADB30CFF8B219ACA0700850E847472E38"
+    },
+    {
+      "file": "Runtime\\Inventory\\InventoryMedicalDetails.cs",
+      "sha256": "4B28EABD4835A27B183F9E67AEAEADD3E0C21347359052AA1842CCDD2BB7D41A"
+    },
+    {
+      "file": "Runtime\\Inventory\\InventoryMedicalDetails.cs.meta",
+      "sha256": "AC54AD09BA230E54A32C96C8E00903B348FEF2917C3E8C48F00C43C121F4D2E1"
+    },
+    {
+      "file": "Runtime\\Inventory\\InventoryTestWorld.cs",
+      "sha256": "77AD3C7AFCD3B7BCFB9261163D87160CBE32961E4994875CDA2F4BDE10457358"
+    },
+    {
+      "file": "Runtime\\Stage\\SessionTestWorld.cs",
+      "sha256": "A3428E9E0C8EA48664CC38A0306365D9741B959AEFF498C9E5CC5F61FEB04C9D"
+    },
+    {
+      "file": "Runtime\\UI\\GlassIcons.cs",
+      "sha256": "CAD8558DE4CC429243781EBA205D451E221E6C07A0C55D6C911713A01E9FC01C"
+    },
+    {
+      "file": "Runtime\\UI\\MedicalIcons.cs",
+      "sha256": "F2CE3CE0A101075D99940688D3BF26657DC8F5042A968BE0868DDD0C7918DAC4"
+    },
+    {
+      "file": "Runtime\\UI\\MedicalIcons.cs.meta",
+      "sha256": "3862712B5AB0AEED777696E8CC4CA9906E9310B028D4D5039BD9AA28564DEC24"
+    }
+  ]
+}

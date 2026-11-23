@@ -1,0 +1,1 @@
+PASS saved A scene and Resources prefab with 65 slots; all previous 60 slots and all existing map objects retained unchanged.

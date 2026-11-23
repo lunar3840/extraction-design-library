@@ -1,0 +1,130 @@
+Stage A enemy visual validation
+UTC 2026-10-15 11:00:34Z
+Scavenger: renderers=14 size=(1.621, 1.850, 1.327) minY=-0.160
+  material Scavenger_URP: shader=Universal Render Pipeline/Lit baseTexture=Scavenger_BaseColor
+  material Weapon_URP_0b9c51cf_URP: shader=Universal Render Pipeline/Lit baseTexture=Low Poly Weapon
+  material Flash_URP_15fbf505_URP: shader=Universal Render Pipeline/Lit baseTexture=NULL
+  avatar generic valid; skinned bones=65
+  held muzzle forwardDot=1.000
+  Idle: generic=true length=1.250 curves=660 skinVertexDelta=0.04768
+  Idle ground minY=-0.5047
+  Idle renderer minY=-0.1600 (BakeMesh edit-mode minY is diagnostic only)
+  Idle hand drop L=0.380 R=0.356
+  Walk: generic=true length=1.333 curves=660 skinVertexDelta=0.36818
+  Run: generic=true length=1.000 curves=660 skinVertexDelta=0.61871
+  Attack: generic=true length=0.667 curves=660 skinVertexDelta=0.19916
+  Death: generic=true length=1.000 curves=660 skinVertexDelta=0.87819
+  image Scavenger_front.png
+  image Scavenger_side.png
+Breacher: renderers=11 size=(1.727, 1.850, 0.960) minY=-0.200
+  material Breacher_URP: shader=Universal Render Pipeline/Lit baseTexture=Breacher_BaseColor
+  material Weapon_URP_0b9c51cf_URP: shader=Universal Render Pipeline/Lit baseTexture=Low Poly Weapon
+  material Flash_URP_15fbf505_URP: shader=Universal Render Pipeline/Lit baseTexture=NULL
+  avatar generic valid; skinned bones=65
+  held muzzle forwardDot=1.000
+  Idle: generic=true length=1.250 curves=660 skinVertexDelta=0.04868
+  Idle ground minY=-0.5706
+  Idle renderer minY=-0.2000 (BakeMesh edit-mode minY is diagnostic only)
+  Idle hand drop L=0.425 R=0.090
+  Walk: generic=true length=1.333 curves=660 skinVertexDelta=0.38198
+  Run: generic=true length=1.000 curves=660 skinVertexDelta=0.66492
+  Attack: generic=true length=0.667 curves=660 skinVertexDelta=0.12996
+  Death: generic=true length=1.000 curves=660 skinVertexDelta=0.89987
+  image Breacher_front.png
+  image Breacher_side.png
+Suppressor: renderers=14 size=(1.597, 1.850, 1.276) minY=-0.190
+  material Suppressor_URP: shader=Universal Render Pipeline/Lit baseTexture=Suppressor_BaseColor
+  material Weapon_URP_0b9c51cf_URP: shader=Universal Render Pipeline/Lit baseTexture=Low Poly Weapon
+  material Flash_URP_15fbf505_URP: shader=Universal Render Pipeline/Lit baseTexture=NULL
+  avatar generic valid; skinned bones=65
+  held muzzle forwardDot=1.000
+  Idle: generic=true length=1.250 curves=660 skinVertexDelta=0.04686
+  Idle ground minY=-0.4881
+  Idle renderer minY=-0.1900 (BakeMesh edit-mode minY is diagnostic only)
+  Idle hand drop L=0.334 R=0.336
+  Walk: generic=true length=1.333 curves=660 skinVertexDelta=0.35015
+  Run: generic=true length=1.000 curves=660 skinVertexDelta=0.54801
+  Attack: generic=true length=0.667 curves=660 skinVertexDelta=0.17911
+  Death: generic=true length=1.000 curves=660 skinVertexDelta=0.88258
+  image Suppressor_front.png
+  image Suppressor_side.png
+SpiderLight: renderers=3 size=(1.911, 1.600, 1.895) minY=0.000
+  material A_Spiders_Mat_8b80dc15_URP: shader=Universal Render Pipeline/Lit baseTexture=MC_Spiders_Diffuse_Red
+  controller=Legs_Spider_Lt_Ctrl clips=24 rootMotion=False animation=Legs_Spider_Lt_Idle,Legs_Spider_Lt_Walk,Legs_Spider_Lt_Transform_to_Roller,Legs_Spider_Lt_Transform_to_Spider,Legs_Spider_Lt_Death,Legs_Spider_Lt_Roller_Idle,Legs_Spider_Lt_Roller_Roll,Legs_Spider_Lt_Roller_Death,Legs_Spider_Lt_Turn_L,Legs_Spider_Lt_Turn_R,Legs_Spider_Lt_Walk_Back,Legs_Spider_Lt_Strafe_L,Legs_Spider_Lt_Strafe_R,Legs_Spider_Lt_Walk_Turn_R,Legs_Spider_Lt_Walk_Turn_L,Legs_Spider_Lt_Turn_45deg_L,Legs_Spider_Lt_Turn_45deg_R,Legs_Spider_Lt_Roller_Roll_Turn_R,Legs_Spider_Lt_Roller_Roll_Turn_L,Legs_Spider_Lt_Deactivate,Legs_Spider_Lt_Activate,Legs_Spider_Lt_Roller_Deactivate,Legs_Spider_Lt_Roller_Activate,Legs_Spider_Lt_Strafe_L_Faster
+  state Idle: definition=True animatorHasState=True
+  state Walk: definition=True animatorHasState=True
+  state Walk_Back: definition=True animatorHasState=True
+  state Strafe_L: definition=True animatorHasState=True
+  state Strafe_R: definition=True animatorHasState=True
+  state Turn_L: definition=True animatorHasState=True
+  state Turn_R: definition=True animatorHasState=True
+  state Walk_Turn_L: definition=True animatorHasState=True
+  state Walk_Turn_R: definition=True animatorHasState=True
+  state Death: definition=True animatorHasState=True
+  walk skinVertexDelta=1.24494
+  image SpiderLight_front.png
+  image SpiderLight_side.png
+SpiderMedium: renderers=30 size=(2.674, 2.200, 3.006) minY=0.000
+  material A_Spiders_Mat_8b80dc15_URP: shader=Universal Render Pipeline/Lit baseTexture=MC_Spiders_Diffuse_Red
+  controller=Legs_Spider_Med_Ctrl clips=24 rootMotion=False animation=Legs_Spider_Med_Idle,Legs_Spider_Med_Walk,Legs_Spider_Med_Death,Legs_Spider_Med_Transform_to_Roller,Legs_Spider_Med_Transform_to_Spider,Legs_Spider_Med_Roller_Idle,Legs_Spider_Med_Roller_Roll,Legs_Spider_Med_Roller_Death,Legs_Spider_Med_Walk_Back,Legs_Spider_Med_Turn_L,Legs_Spider_Med_Turn_R,Legs_Spider_Med_Strafe_L,Legs_Spider_Med_Strafe_R,Legs_Spider_Med_Walk_Turn_R,Legs_Spider_Med_Walk_Turn_L,Legs_Spider_Med_Turn_45deg_L,Legs_Spider_Med_Turn_45deg_R,Legs_Spider_Med_Roller_Roll_Turn_L,Legs_Spider_Med_Roller_Roll_Turn_R,Legs_Spider_Med_Deactivate,Legs_Spider_Med_Activate,Legs_Spider_Med_Roller_Deactivate,Legs_Spider_Med_Roller_Activate,Legs_Spider_Med_Strafe_L_Faster
+  state Idle: definition=True animatorHasState=True
+  state Walk: definition=True animatorHasState=True
+  state Walk_Back: definition=True animatorHasState=True
+  state Strafe_L: definition=True animatorHasState=True
+  state Strafe_R: definition=True animatorHasState=True
+  state Turn_L: definition=True animatorHasState=True
+  state Turn_R: definition=True animatorHasState=True
+  state Walk_Turn_L: definition=True animatorHasState=True
+  state Walk_Turn_R: definition=True animatorHasState=True
+  state Death: definition=True animatorHasState=True
+  walk skin sample unavailable; transform animation only
+  image SpiderMedium_front.png
+  image SpiderMedium_side.png
+SpiderTransformer: renderers=6 size=(3.026, 2.400, 3.402) minY=0.000
+  material A_Spiders_Mat_8b80dc15_URP: shader=Universal Render Pipeline/Lit baseTexture=MC_Spiders_Diffuse_Red
+  material A_Spiders_Tracks_Mat_8edb0cb1_URP: shader=Universal Render Pipeline/Lit baseTexture=MC_Spiders_Tank_Tracks_Blue
+  controller=Legs_Spider_Med_Ctrl clips=24 rootMotion=False animation=Legs_Spider_Med_Idle,Legs_Spider_Med_Walk,Legs_Spider_Med_Death,Legs_Spider_Med_Transform_to_Roller,Legs_Spider_Med_Transform_to_Spider,Legs_Spider_Med_Roller_Idle,Legs_Spider_Med_Roller_Roll,Legs_Spider_Med_Roller_Death,Legs_Spider_Med_Walk_Back,Legs_Spider_Med_Turn_L,Legs_Spider_Med_Turn_R,Legs_Spider_Med_Strafe_L,Legs_Spider_Med_Strafe_R,Legs_Spider_Med_Walk_Turn_R,Legs_Spider_Med_Walk_Turn_L,Legs_Spider_Med_Turn_45deg_L,Legs_Spider_Med_Turn_45deg_R,Legs_Spider_Med_Roller_Roll_Turn_L,Legs_Spider_Med_Roller_Roll_Turn_R,Legs_Spider_Med_Deactivate,Legs_Spider_Med_Activate,Legs_Spider_Med_Roller_Deactivate,Legs_Spider_Med_Roller_Activate,Legs_Spider_Med_Strafe_L_Faster
+  state Idle: definition=True animatorHasState=True
+  state Walk: definition=True animatorHasState=True
+  state Walk_Back: definition=True animatorHasState=True
+  state Strafe_L: definition=True animatorHasState=True
+  state Strafe_R: definition=True animatorHasState=True
+  state Turn_L: definition=True animatorHasState=True
+  state Turn_R: definition=True animatorHasState=True
+  state Walk_Turn_L: definition=True animatorHasState=True
+  state Walk_Turn_R: definition=True animatorHasState=True
+  state Death: definition=True animatorHasState=True
+  walk skinVertexDelta=1.54515
+  image SpiderTransformer_front.png
+  image SpiderTransformer_side.png
+Tank: renderers=4 size=(3.165, 2.600, 3.756) minY=0.000
+  material A_Spiders_Mat_8b80dc15_URP: shader=Universal Render Pipeline/Lit baseTexture=MC_Spiders_Diffuse_Red
+  material A_Spiders_Tracks_Mat_8edb0cb1_URP: shader=Universal Render Pipeline/Lit baseTexture=MC_Spiders_Tank_Tracks_Blue
+  controller=Chassis_Tank_CTRL clips=7 rootMotion=False animation=Tank_Anim_Idle,Tank_Anim_Drive_Forward,Tank_Anim_Drive_Turn_L,Tank_Anim_Drive_Turn_R,Tank_Anim_Turn_L,Tank_Anim_Turn_R,Tank_Anim_Drive_Forward
+  state Idle: definition=True animatorHasState=True
+  state Move_Forward: definition=True animatorHasState=True
+  state Move_Backwards: definition=True animatorHasState=True
+  state Turn_L: definition=True animatorHasState=True
+  state Turn_R: definition=True animatorHasState=True
+  state Move_Forward_Turn_L: definition=True animatorHasState=True
+  state Move_Forward_Turn_R: definition=True animatorHasState=True
+  walk skin sample unavailable; transform animation only
+  image Tank_front.png
+  image Tank_side.png
+SpiderHeavy: renderers=3 size=(3.883, 3.000, 4.346) minY=0.000
+  material A_Spiders_Mat_8b80dc15_URP: shader=Universal Render Pipeline/Lit baseTexture=MC_Spiders_Diffuse_Red
+  controller=Legs_Spider_Hvy_Ctrl clips=25 rootMotion=False animation=Legs_Spider_Hvy_Idle,Legs_Spider_Hvy_Walk,Legs_Spider_Hvy_Death,Legs_Spider_Hvy_Transform_to_Roller,Legs_Spider_Hvy_Transform_to_Spider,Legs_Spider_Hvy_Roller_Idle,Legs_Spider_Hvy_Roller_Roll,Legs_Spider_Hvy_Roller_Death,Legs_Spider_Hvy_Walk_Back,Legs_Spider_Hvy_Turn_L,Legs_Spider_Hvy_Turn_R,Legs_Spider_Hvy_Strafe_L,Legs_Spider_Hvy_Strafe_R,Legs_Spider_Hvy_Walk_Turn_R,Legs_Spider_Hvy_Walk_Turn_L,Legs_Spider_Hvy_Turn_45deg_L,Legs_Spider_Hvy_Turn_45deg_R,Legs_Spider_Hvy_Roller_Roll_Turn_L,Legs_Spider_Hvy_Roller_Roll_Turn_R,Legs_Spider_Hvy_Deactivate,Legs_Spider_Hvy_Activate,Legs_Spider_Hvy_Roller_Deactivate,Legs_Spider_Hvy_Roller_Activate,Legs_Spider_Hvy_Strafe_L_Faster,Legs_Spider_Hvy_Strafe_L_Faster
+  state Idle: definition=True animatorHasState=True
+  state Walk: definition=True animatorHasState=True
+  state Walk_Back: definition=True animatorHasState=True
+  state Strafe_L: definition=True animatorHasState=True
+  state Strafe_R: definition=True animatorHasState=True
+  state Turn_L: definition=True animatorHasState=True
+  state Turn_R: definition=True animatorHasState=True
+  state Walk_Turn_L: definition=True animatorHasState=True
+  state Walk_Turn_R: definition=True animatorHasState=True
+  state Death: definition=True animatorHasState=True
+  walk skinVertexDelta=1.92942
+  image SpiderHeavy_front.png
+  image SpiderHeavy_side.png
+FAILURES 0

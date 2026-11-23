@@ -1,0 +1,6 @@
+{
+  "exit": 0,
+  "errors": [],
+  "warnings": 0,
+  "scope": "isolated changed core source against existing domain references; not integration execution"
+}

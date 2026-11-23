@@ -1,0 +1,26 @@
+ACTUAL_VISIBILITY_RESTORE_RESIZE_PERF
+store=C:\Users\ehoji\AppData\Local\Temp\DefaultCompany\escape\StageMapPreview\1a313c529b814bcdbbb88a403b023ebd\slot-1.json
+METHOD controlled fixedW03; AI frozen; original/mask30rendered warmframes plus6screenshotsettleframes excluded,45sampleframes; RTreadback happens only after timing; editor full-frameCPU and available globalGPU timing are comparative observations, not standalone build benchmarks.
+PASS warm actual actor mask ready
+MASK_BOUNDS main_resolution rt=960x540 bounds=(0.468155, 0.424242, 0.537636, 0.584768) actorRectFraction=0.01115341 coveragePixels=628 directOutside=0 flippedReadbackOutside=0
+PASS actual RG actor mask has coverage: main_resolution
+PASS conservative rect contains actual coverage with explicit readbackY conventions: main_resolution
+PASS mask resized with actual1024x576 camera target
+MASK_BOUNDS resized_camera rt=512x288 bounds=(0.468214, 0.420250, 0.539879, 0.586500) actorRectFraction=0.01191438 coveragePixels=185 directOutside=0 flippedReadbackOutside=0
+PASS actual RG actor mask has coverage: resized_camera
+PASS conservative rect contains actual coverage with explicit readbackY conventions: resized_camera
+PASS mask restored to actual Game camera resolution
+MASK_BOUNDS restored_resolution rt=960x540 bounds=(0.471062, 0.424271, 0.537633, 0.581641) actorRectFraction=0.01047634 coveragePixels=634 directOutside=0 flippedReadbackOutside=0
+PASS actual RG actor mask has coverage: restored_resolution
+PASS conservative rect contains actual coverage with explicit readbackY conventions: restored_resolution
+PASS disabled cleanup restores all original building material references; mismatches=0
+PASS disabled cleanup releases active surfaces and privateRT
+PASS source actor materials and skinned meshes preserved; mismatches=0
+PASS original material asset file hashes unchanged; checked=848 changed=0
+PASS disabled cleanup destroys runtime veil renderers; remaining=0
+PERF originalCPU n=45 median=53.2443039119244 p90=86.8657976388931 max=139.356806874275
+PERF maskCPU n=45 median=144.120395183563 p90=151.030495762825 max=156.853899359703
+PERF originalGPU n=44 median=3.910656 p90=4.214784 max=4.850688
+PERF maskGPU n=45 median=5.019648 p90=5.286912 max=5.67296
+PERF editorCompileBusyPolls=0; unavailableGPU must not be reported as0cost; warm30frames and compileBusy excluded.
+RESULT passed=14 failed=0

@@ -1,0 +1,45 @@
+D11_OUTDOOR_ACTUAL_PLAYER
+METHOD 20 representative road/entry/green locations, local 12m path with actual enabled CharacterController and PlayerMotor.Simulate. Initial positioning only is teleported. Combat frozen for deterministic testing. This is not a whole-map performance benchmark.
+PASS runtime selected B4; R8 remains ineligible, probe below is diagnostic initial positioning only.
+LANE clinic desired=(-162.00, 3.99, 93.00) actualStart=(-162.00, 4.08, 93.00) corners=2
+PASS clinic steps=87 end=(-162.00, 4.02, 104.60)
+LANE north desired=(-10.00, 9.00, 81.00) actualStart=(-10.00, 9.00, 81.00) corners=2
+PASS north steps=87 end=(-10.00, 8.12, 92.60)
+LANE power desired=(177.00, 8.33, 78.00) actualStart=(177.32, 8.40, 77.97) corners=8
+PASS power steps=135 end=(178.75, 8.41, 89.72)
+LANE west desired=(-166.00, 1.78, 41.00) actualStart=(-166.00, 1.86, 41.00) corners=2
+PASS west steps=87 end=(-166.00, 2.02, 52.60)
+LANE workshop desired=(-168.00, 0.68, -4.00) actualStart=(-168.00, 1.02, -4.00) corners=2
+PASS workshop steps=87 end=(-168.00, 1.02, 7.60)
+LANE hall_west desired=(-78.00, 1.69, -4.00) actualStart=(-78.00, 1.74, -4.00) corners=2
+PASS hall_west steps=87 end=(-78.00, 1.88, 7.60)
+LANE hall_south desired=(-8.00, 1.68, -57.00) actualStart=(-8.43, 1.72, -56.97) corners=4
+PASS hall_south steps=87 end=(-8.43, 1.90, -45.38)
+LANE logistics desired=(160.00, 2.68, -35.00) actualStart=(160.15, 3.06, -34.94) corners=4
+PASS logistics steps=93 end=(160.63, 3.02, -23.15)
+LANE ruins desired=(-180.00, 0.04, -73.00) actualStart=(-180.00, 0.22, -73.00) corners=5
+PASS ruins steps=133 end=(-179.81, 0.21, -61.32)
+LANE scrapyard desired=(-20.00, -0.10, -119.00) actualStart=(-20.09, -0.06, -119.76) corners=6
+PASS scrapyard steps=113 end=(-13.94, -0.08, -109.76)
+LANE waterworks desired=(160.00, 0.00, -154.00) actualStart=(160.00, 0.12, -154.00) corners=2
+PASS waterworks steps=86 end=(148.96, 0.13, -157.11)
+LANE B1 desired=(-240.00, 2.00, 145.00) actualStart=(-240.00, 2.10, 145.00) corners=2
+PASS B1 steps=87 end=(-240.00, 3.02, 156.60)
+LANE B2 desired=(-242.00, 1.00, 0.00) actualStart=(-242.00, 1.04, 0.00) corners=2
+PASS B2 steps=87 end=(-242.00, 1.03, 11.60)
+LANE B3 desired=(-231.00, 0.00, -102.00) actualStart=(-231.00, 0.05, -102.00) corners=2
+PASS B3 steps=87 end=(-231.00, 0.03, -90.40)
+LANE B4 desired=(-119.00, 0.00, -129.00) actualStart=(-119.00, 0.08, -129.00) corners=2
+PASS B4 steps=87 end=(-116.00, 0.02, -117.80)
+LANE R8_inactive_probe desired=(-58.00, 0.00, -141.00) actualStart=(-58.00, 0.10, -141.00) corners=2
+PASS R8_inactive_probe steps=87 end=(-58.00, -0.01, -129.40)
+LANE green_north desired=(-16.00, 9.23, 133.00) actualStart=(-16.70, 9.36, 132.91) corners=6
+PASS green_north steps=125 end=(-25.53, 9.35, 124.61)
+LANE green_west desired=(-199.00, 0.53, -15.00) actualStart=(-199.00, 0.62, -15.00) corners=2
+PASS green_west steps=87 end=(-199.00, 0.89, -3.40)
+LANE green_east desired=(205.00, 2.97, -25.00) actualStart=(205.00, 2.99, -25.00) corners=7
+PASS green_east steps=113 end=(208.20, 3.00, -13.79)
+LANE green_south desired=(24.00, -0.10, -116.00) actualStart=(24.00, 0.06, -116.00) corners=7
+PASS green_south steps=130 end=(29.58, -0.08, -126.30)
+passed=20 failed=0 expected=20
+RESULT PASS

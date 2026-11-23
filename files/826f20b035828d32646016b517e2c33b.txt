@@ -1,0 +1,16 @@
+PASS CQB physical rooms, same-building player routes, new 4m openings, short small-machine routes, and line-of-sight checks. Existing long-route machine limits are noted below.
+POWER P1 to equipment door complete inside footprint length=15.93m player+small machine clear
+POWER equipment doorway to room complete inside footprint length=6.00m player+small machine clear
+POWER P2 to equipment room complete inside footprint length=39.91m player clear
+LIMITATION POWER P2 to equipment room: existing 0.4m NavMesh corner is too close for 0.9m machine; local=(17.92, 0.06, -3.77) collider=East_Collision
+PARTS L1 to first staggered door complete inside footprint length=13.00m player+small machine clear
+PARTS first to second staggered door complete inside footprint length=8.49m player+small machine clear
+PARTS second door to inner floor complete inside footprint length=5.66m player+small machine clear
+PARTS L2 to inner floor complete inside footprint length=26.02m player clear
+LIMITATION PARTS L2 to inner floor: existing 0.4m NavMesh corner is too close for 0.9m machine; local=(7.75, 0.06, 4.09) collider=North_Collision
+POWER open door sight clear through opening
+POWER closed wall blocks sight blocked by new wall
+PARTS first open door sight clear through opening
+PARTS first screen blocks sight blocked by new wall
+PARTS second open door sight clear through opening
+PARTS second screen blocks sight blocked by new wall

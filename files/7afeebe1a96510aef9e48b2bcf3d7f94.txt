@@ -1,0 +1,108 @@
+Final applied production DLL pure-model regression.
+Compiler exit=0
+Runner exit=0
+PASS assertion count=89
+All eight input hashes stable before/after=true
+Actual Assembly-CSharp SHA256=F95A61D863E7FA00030E829E12DA68BE32F2AD474BB5D3E56B71C7F30CB3B63C
+Expected final handoff SHA256 match=true
+
+SUITE double click exact current production sequence source
+PASS first completed click selects only
+PASS same source and item activates after second completed release
+PASS duplicate release does not replay
+PASS third click does not activate
+PASS first completed click selects only
+PASS independent second clickCount one is not double click
+PASS first completed click selects only
+PASS another UID is not double click
+PASS first completed click selects only
+PASS another owner is not double click
+PASS first completed click selects only
+PASS Shift double press does not trigger ordinary action
+PASS first completed click selects only
+PASS second press drag does not trigger action
+PASS first press drag does not seed history
+PASS drag then click is not double click
+PASS first completed click selects only
+PASS release outside visible bounds or invalid UID is rejected
+PASS first completed click selects only
+PASS cancel reset rejects stale second press
+PASS first completed click selects only
+PASS second MouseDown without completing release does not activate
+PASS missing owner is rejected
+PASS empty UID is rejected
+RESULT 24 checks passed. Pure sequence only; Unity/API integration not executed.
+SUITE rig/grid/loot pure compiled production domain
+PASS unarmed rig exposes only twelve cells
+PASS hidden entry reserve cannot be farmed
+PASS rig edges and disabled backpack fail without mutation
+PASS capacity and equipped weight BP_SCOUT_18
+PASS capacity and equipped weight BP_PATROL_24
+PASS capacity and equipped weight BP_EXPEDITION_36
+PASS rotated multi-cell move into backpack
+PASS rotated item fails short rig
+PASS sort preserves compartment and actual partial medical object
+PASS explicit move determines rig readiness
+PASS snapshot preserves pack and compartment
+PASS too-small pack fails atomically
+PASS nonempty pack cannot be dropped
+PASS valid smaller replacement preserves contents
+PASS empty pack ground drop preserves identity
+PASS unsearched backpack is protected
+PASS searched pack equips through actual loot domain
+TOTAL_PASS=17
+SUITE finite inventory/loot transactions and region exchanges
+PASS contained-group region swap preview is read-only
+PASS 3x3 source exchanges a contained 1x2+2x3 group
+PASS region exchange conserves every exact UID and occupied cell
+PASS partially protruding target rejects region exchange atomically
+PASS partial fast transfer fills only free stack capacity and retains target UID
+PASS full destination rejects transfer without source loss
+PASS 10000 finite stack transfers conserve 200 rounds
+PASS unsearched loot cannot be fast-taken or reveal hidden quantity
+PASS searched loot takes only available destination stack space
+PASS full-bag repeat loot action is an exact no-op
+TOTAL_TRANSFER_PASS=10
+SUITE automatic reload exact current rules source with compiled production RifleState
+PASS highest owned compatible tier wins over base selection and wrong family
+PASS empty magazine begins timed reload without attack request
+PASS starting auto reload does not create or consume rounds early
+PASS pending reload is not restarted every frame
+PASS normal reload delay is preserved
+PASS completion transfers only available highest tier once
+PASS unselected tiers and incompatible family stay untouched
+PASS partial magazine does not trigger automatic top-up
+PASS manual R reload API still accepts selected base ammunition on partial magazine
+PASS manual partial reload preserves explicit ammunition selection
+PASS finite loaded round fires 0
+PASS finite loaded round fires 1
+PASS finite loaded round fires 2
+PASS finite loaded round fires 3
+PASS finite loaded round fires 4
+PASS finite loaded round fires 5
+PASS finite loaded round fires 6
+PASS after last shot next empty reload falls back to next owned tier
+PASS caller state guard blocks reload and leaves selected ammo unchanged
+PASS invalid/backward time rejected without selection mutation NaN
+PASS invalid/backward time rejected without selection mutation ∞
+PASS invalid/backward time rejected without selection mutation -∞
+PASS invalid/backward time rejected without selection mutation -1
+PASS existing weapon time axis is respected
+PASS allowed state resumes the pending empty-magazine opportunity
+PASS empty reserve leaves magazine empty
+PASS incompatible-only reserve cannot reload rifle
+PASS missing weapon or reserve is safe
+PASS removed ownership cannot reload
+PASS melee equipment never auto reloads
+PASS legacy custom exact ammunition remains supported
+PASS registered custom family honors tier priority
+PASS empty shell weapon starts existing timed shell reload
+PASS shell reload transfers one highest-tier shell per interval
+PASS shell reload stops at selected tier exhaustion without altering manual mixing rules
+PASS cancellation preserves reserve and does not grant ammunition
+PASS reserve removed during reload cannot be duplicated at completion
+PASS two owned reloads share finite reserve without duplication
+TOTAL PASS 38
+ALL_OFFLINE_SUITES_PASS
+Scope: no Editor, native input, GameObject, scene, save profile or Assets writes.
+

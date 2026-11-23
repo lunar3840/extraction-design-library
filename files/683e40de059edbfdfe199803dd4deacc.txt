@@ -1,0 +1,413 @@
+V37 ACTUAL UNITY PLAY CAPTURES, 1600x1000. Combat ticks frozen; scaled time runs normally for water/rain. Same camera and position pairs, 0.8s second view for animation. Editor observed frame intervals are not a GPU or production FPS benchmark.
+bridge_west player=(102.50000, 0.10000, -125.00000) camera=(132.50000, 49.10000, -177.00000) rotation=(0.31962, -0.24409, 0.08559, 0.91156) fov=48 time=4.505
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=28
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=248 median=13.608 p95=18.123
+frameTiming cpuMs=13.2566 gpuMs=4.468736 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+bridge_west_t1 player=(102.50000, 0.10000, -125.00000) camera=(132.50000, 49.10000, -177.00000) rotation=(0.31962, -0.24409, 0.08559, 0.91156) fov=48 time=5.473
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=28
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=308 median=13.531 p95=16.486
+frameTiming cpuMs=13.6375 gpuMs=4.214784 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+bridge_east player=(196.50000, 1.06000, -88.50000) camera=(221.50000, 44.06000, -135.50000) rotation=(0.31807, -0.22863, 0.07933, 0.91666) fov=48 time=9.131
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=14
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=232 median=12.428 p95=19.025
+frameTiming cpuMs=13.3405 gpuMs=3.64544 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+bridge_east_t1 player=(196.50000, 1.06000, -88.50000) camera=(221.50000, 44.06000, -135.50000) rotation=(0.31807, -0.22863, 0.07933, 0.91666) fov=48 time=10.097
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=14
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=296 median=12.450 p95=18.276
+frameTiming cpuMs=11.9355 gpuMs=3.627008 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+bank_north player=(141.80880, 0.13136, -91.75857) camera=(146.15910, 15.18850, -84.22366) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=13.744
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=25
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=285 median=12.147 p95=13.606
+frameTiming cpuMs=13.6108 gpuMs=2.501632 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+bank_north_t1 player=(141.80880, 0.13136, -91.75857) camera=(146.15910, 15.18850, -84.22366) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=14.700
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=25
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=347 median=12.293 p95=13.795
+frameTiming cpuMs=12.4279 gpuMs=2.487296 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+bank_south player=(62.08067, 0.16000, -170.20470) camera=(66.43095, 15.21714, -162.66980) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=18.354
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=7
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=277 median=12.465 p95=14.452
+frameTiming cpuMs=12.1739 gpuMs=2.27328 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+bank_south_t1 player=(62.08067, 0.16000, -170.20470) camera=(66.43095, 15.21714, -162.66980) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=19.298
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=7
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=342 median=12.473 p95=14.064
+frameTiming cpuMs=12.5382 gpuMs=2.264064 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+bridge_entry player=(89.00000, 0.10000, -93.00000) camera=(93.35028, 15.15714, -85.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=22.939
+rain=Stage A bounded drizzle particles=537 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=54
+rainStat LiveParticleCount=537
+rainStat ParticleCount=537
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=76
+rainStat IsEmitting=True
+observedEditorFrameMs samples=278 median=12.435 p95=14.402
+frameTiming cpuMs=12.7449 gpuMs=2.30912 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=537 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+bridge_entry_t1 player=(89.00000, 0.10000, -93.00000) camera=(93.35028, 15.15714, -85.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=23.897
+rain=Stage A bounded drizzle particles=538 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=54
+rainStat LiveParticleCount=538
+rainStat ParticleCount=538
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=104
+rainStat IsEmitting=True
+observedEditorFrameMs samples=342 median=12.456 p95=14.347
+frameTiming cpuMs=11.7657 gpuMs=2.308096 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=538 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+hall_1f player=(-22.00000, 2.08000, -27.00000) camera=(-17.64972, 17.13713, -19.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=26.709
+rain=Stage A bounded drizzle particles=176 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=91
+rainStat LiveParticleCount=176
+rainStat ParticleCount=176
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=5
+rainStat BlockedParticles=646
+rainStat IsEmitting=True
+observedEditorFrameMs samples=136 median=15.742 p95=19.381
+frameTiming cpuMs=15.7426 gpuMs=2.028544 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=176 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=True expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+hall_1f_t1 player=(-22.00000, 2.08000, -27.00000) camera=(-17.64972, 17.13713, -19.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=27.659
+rain=Stage A bounded drizzle particles=179 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=91
+rainStat LiveParticleCount=179
+rainStat ParticleCount=179
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=4
+rainStat BlockedParticles=844
+rainStat IsEmitting=True
+observedEditorFrameMs samples=186 median=15.848 p95=18.834
+frameTiming cpuMs=16.2898 gpuMs=2.030592 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=179 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=True expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+hall_2f player=(-22.00000, 8.08000, -27.00000) camera=(-17.64972, 23.13713, -19.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=31.326
+rain=Stage A bounded drizzle particles=176 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=91
+rainStat LiveParticleCount=176
+rainStat ParticleCount=176
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=7
+rainStat BlockedParticles=1584
+rainStat IsEmitting=True
+observedEditorFrameMs samples=198 median=17.479 p95=19.447
+frameTiming cpuMs=17.6259 gpuMs=2.240512 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=176 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=True expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+hall_2f_t1 player=(-22.00000, 8.08000, -27.00000) camera=(-17.64972, 23.13713, -19.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=32.274
+rain=Stage A bounded drizzle particles=199 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=91
+rainStat LiveParticleCount=199
+rainStat ParticleCount=199
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=3
+rainStat BlockedParticles=1764
+rainStat IsEmitting=True
+observedEditorFrameMs samples=243 median=17.484 p95=19.479
+frameTiming cpuMs=17.8015 gpuMs=2.302976 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=199 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=True expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+inside_N03 player=(-115.00000, 6.70000, 146.00000) camera=(-110.64970, 21.75714, 153.53490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=35.929
+rain=Stage A bounded drizzle particles=456 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=43
+rainStat LiveParticleCount=456
+rainStat ParticleCount=456
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=1991
+rainStat IsEmitting=True
+observedEditorFrameMs samples=288 median=12.121 p95=13.050
+frameTiming cpuMs=12.4096 gpuMs=1.959936 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=456 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=False expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+inside_N03_t1 player=(-115.00000, 6.70000, 146.00000) camera=(-110.64970, 21.75714, 153.53490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=36.872
+rain=Stage A bounded drizzle particles=437 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=43
+rainStat LiveParticleCount=437
+rainStat ParticleCount=437
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=1
+rainStat BlockedParticles=2062
+rainStat IsEmitting=True
+observedEditorFrameMs samples=352 median=12.150 p95=13.250
+frameTiming cpuMs=12.1158 gpuMs=1.972224 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=437 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=False expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+inside_E01 player=(188.00000, 6.76000, 115.00000) camera=(192.35030, 21.81713, 122.53490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=40.520
+rain=Stage A bounded drizzle particles=384 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=60
+rainStat LiveParticleCount=384
+rainStat ParticleCount=384
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=1
+rainStat BlockedParticles=2425
+rainStat IsEmitting=True
+observedEditorFrameMs samples=289 median=11.941 p95=13.693
+frameTiming cpuMs=11.5014 gpuMs=1.85856 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=384 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=False expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+inside_E01_t1 player=(188.00000, 6.76000, 115.00000) camera=(192.35030, 21.81713, 122.53490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=41.464
+rain=Stage A bounded drizzle particles=367 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=60
+rainStat LiveParticleCount=367
+rainStat ParticleCount=367
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=2535
+rainStat IsEmitting=True
+observedEditorFrameMs samples=353 median=12.024 p95=13.808
+frameTiming cpuMs=12.2101 gpuMs=1.847296 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=367 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=False expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+inside_TOOLS player=(-167.50000, 1.06000, 5.50000) camera=(-163.14970, 16.11714, 13.03490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=45.104
+rain=Stage A bounded drizzle particles=438 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=99
+rainStat LiveParticleCount=438
+rainStat ParticleCount=438
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=1
+rainStat BlockedParticles=2799
+rainStat IsEmitting=True
+observedEditorFrameMs samples=281 median=12.481 p95=13.486
+frameTiming cpuMs=13.2718 gpuMs=1.824768 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=438 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=False expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+inside_TOOLS_t1 player=(-167.50000, 1.06000, 5.50000) camera=(-163.14970, 16.11714, 13.03490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=46.060
+rain=Stage A bounded drizzle particles=408 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=99
+rainStat LiveParticleCount=408
+rainStat ParticleCount=408
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=2890
+rainStat IsEmitting=True
+observedEditorFrameMs samples=343 median=12.588 p95=13.617
+frameTiming cpuMs=13.4473 gpuMs=1.824768 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=408 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=False expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+PASS map deactivation stops and clears the one rain emitter.
+PASS map reactivation reuses one emitter and resumes rain; no duplicate. This is an active-map lifecycle test, not a complete profile/session extraction test.
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=437 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=False expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+RESULT PASS
+
+capturedPairs=10 expected=10
+RESULT PASS
+candidate=v37-tuned-20261016-1804

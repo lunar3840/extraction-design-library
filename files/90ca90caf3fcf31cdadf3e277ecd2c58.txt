@@ -1,0 +1,179 @@
+V25 physical CharacterController walks / normal StageMapRouter.LateUpdate / normal follow camera. No manual atmosphere Evaluate or volume stack Update.
+START east position=(71.2000, 2.7918, -10.0000)
+PASS FRAME east reverse=False feet=(71.2000, 2.7918, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS initial outside weight
+PASS FRAME east reverse=False feet=(71.2000, 2.7918, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME east reverse=False feet=(71.0667, 2.7852, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME east reverse=False feet=(70.9333, 2.7786, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME east reverse=False feet=(70.8000, 2.7721, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME east reverse=False feet=(70.6667, 2.7655, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME east reverse=False feet=(70.5333, 2.7589, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME east reverse=False feet=(70.4000, 2.7523, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME east reverse=False feet=(70.2667, 2.7458, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME east reverse=False feet=(70.1333, 2.7392, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME east reverse=False feet=(70.0000, 2.7321, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME east reverse=False feet=(69.8667, 2.7266, -10.0000) weight=0.00006783 expected=0.00006783 tone=Neutral
+PASS FRAME east reverse=False feet=(69.7333, 2.7208, -10.0000) weight=0.00027037 expected=0.00027037 tone=Neutral
+PASS FRAME east reverse=False feet=(69.6000, 2.7149, -10.0000) weight=0.00060642 expected=0.00060642 tone=Neutral
+PASS FRAME east reverse=False feet=(69.4667, 2.7090, -10.0000) weight=0.00107461 expected=0.00107461 tone=Neutral
+PASS FRAME east reverse=False feet=(69.3333, 2.7032, -10.0000) weight=0.00167370 expected=0.00167370 tone=Neutral
+PASS FRAME east reverse=False feet=(69.2000, 2.6973, -10.0000) weight=0.00240237 expected=0.00240237 tone=Neutral
+PASS FRAME east reverse=False feet=(69.0667, 2.6915, -10.0000) weight=0.00325924 expected=0.00325924 tone=Neutral
+PASS FRAME east reverse=False feet=(68.9333, 2.6856, -10.0000) weight=0.00424320 expected=0.00424320 tone=Neutral
+PASS FRAME east reverse=False feet=(68.8000, 2.6797, -10.0000) weight=0.00535280 expected=0.00535280 tone=Neutral
+PASS east inward crossing
+PASS FRAME east reverse=True feet=(68.8000, 2.6797, -10.0000) weight=0.00535280 expected=0.00535280 tone=Neutral
+PASS FRAME east reverse=True feet=(68.9333, 2.6856, -10.0000) weight=0.00424320 expected=0.00424320 tone=Neutral
+PASS FRAME east reverse=True feet=(69.0667, 2.6915, -10.0000) weight=0.00325924 expected=0.00325924 tone=Neutral
+PASS FRAME east reverse=True feet=(69.2000, 2.6973, -10.0000) weight=0.00240237 expected=0.00240237 tone=Neutral
+PASS FRAME east reverse=True feet=(69.3333, 2.7032, -10.0000) weight=0.00167370 expected=0.00167370 tone=Neutral
+PASS FRAME east reverse=True feet=(69.4667, 2.7090, -10.0000) weight=0.00107461 expected=0.00107461 tone=Neutral
+PASS FRAME east reverse=True feet=(69.6000, 2.7149, -10.0000) weight=0.00060642 expected=0.00060642 tone=Neutral
+PASS FRAME east reverse=True feet=(69.7333, 2.7208, -10.0000) weight=0.00027037 expected=0.00027037 tone=Neutral
+PASS FRAME east reverse=True feet=(69.8667, 2.7266, -10.0000) weight=0.00006783 expected=0.00006783 tone=Neutral
+PASS FRAME east reverse=True feet=(70.0000, 2.7321, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME east reverse=True feet=(70.1333, 2.7392, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME east reverse=True feet=(70.2667, 2.7458, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME east reverse=True feet=(70.4000, 2.7523, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME east reverse=True feet=(70.5333, 2.7589, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME east reverse=True feet=(70.6667, 2.7655, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME east reverse=True feet=(70.8000, 2.7721, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME east reverse=True feet=(70.9333, 2.7786, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME east reverse=True feet=(71.0667, 2.7852, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME east reverse=True feet=(71.2000, 2.7918, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS east reverse crossing
+START west position=(-71.2000, 1.6275, -10.0000)
+PASS FRAME west reverse=False feet=(-71.2000, 1.6275, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS initial outside weight
+PASS FRAME west reverse=False feet=(-71.2000, 1.6275, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME west reverse=False feet=(-71.0667, 1.6278, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME west reverse=False feet=(-70.9333, 1.6282, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME west reverse=False feet=(-70.8000, 1.6285, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME west reverse=False feet=(-70.6667, 1.6289, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME west reverse=False feet=(-70.5333, 1.6293, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME west reverse=False feet=(-70.4000, 1.6296, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME west reverse=False feet=(-70.2667, 1.6300, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME west reverse=False feet=(-70.1333, 1.6304, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME west reverse=False feet=(-70.0000, 1.6307, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME west reverse=False feet=(-69.8667, 1.6307, -10.0000) weight=0.00006783 expected=0.00006783 tone=Neutral
+PASS FRAME west reverse=False feet=(-69.7333, 1.6308, -10.0000) weight=0.00027037 expected=0.00027037 tone=Neutral
+PASS FRAME west reverse=False feet=(-69.6000, 1.6308, -10.0000) weight=0.00060642 expected=0.00060642 tone=Neutral
+PASS FRAME west reverse=False feet=(-69.4667, 1.6308, -10.0000) weight=0.00107461 expected=0.00107461 tone=Neutral
+PASS FRAME west reverse=False feet=(-69.3333, 1.6309, -10.0000) weight=0.00167370 expected=0.00167370 tone=Neutral
+PASS FRAME west reverse=False feet=(-69.2000, 1.6309, -10.0000) weight=0.00240237 expected=0.00240237 tone=Neutral
+PASS FRAME west reverse=False feet=(-69.0667, 1.6309, -10.0000) weight=0.00325924 expected=0.00325924 tone=Neutral
+PASS FRAME west reverse=False feet=(-68.9333, 1.6309, -10.0000) weight=0.00424320 expected=0.00424320 tone=Neutral
+PASS FRAME west reverse=False feet=(-68.8000, 1.6310, -10.0000) weight=0.00535280 expected=0.00535280 tone=Neutral
+PASS west inward crossing
+PASS FRAME west reverse=True feet=(-68.8000, 1.6310, -10.0000) weight=0.00535280 expected=0.00535280 tone=Neutral
+PASS FRAME west reverse=True feet=(-68.9333, 1.6309, -10.0000) weight=0.00424320 expected=0.00424320 tone=Neutral
+PASS FRAME west reverse=True feet=(-69.0667, 1.6309, -10.0000) weight=0.00325924 expected=0.00325924 tone=Neutral
+PASS FRAME west reverse=True feet=(-69.2000, 1.6309, -10.0000) weight=0.00240237 expected=0.00240237 tone=Neutral
+PASS FRAME west reverse=True feet=(-69.3333, 1.6309, -10.0000) weight=0.00167370 expected=0.00167370 tone=Neutral
+PASS FRAME west reverse=True feet=(-69.4667, 1.6308, -10.0000) weight=0.00107461 expected=0.00107461 tone=Neutral
+PASS FRAME west reverse=True feet=(-69.6000, 1.6308, -10.0000) weight=0.00060642 expected=0.00060642 tone=Neutral
+PASS FRAME west reverse=True feet=(-69.7333, 1.6308, -10.0000) weight=0.00027037 expected=0.00027037 tone=Neutral
+PASS FRAME west reverse=True feet=(-69.8667, 1.6307, -10.0000) weight=0.00006783 expected=0.00006783 tone=Neutral
+PASS FRAME west reverse=True feet=(-70.0000, 1.6307, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME west reverse=True feet=(-70.1333, 1.6304, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME west reverse=True feet=(-70.2667, 1.6300, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME west reverse=True feet=(-70.4000, 1.6296, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME west reverse=True feet=(-70.5333, 1.6293, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME west reverse=True feet=(-70.6667, 1.6289, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME west reverse=True feet=(-70.8000, 1.6285, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME west reverse=True feet=(-70.9333, 1.6282, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME west reverse=True feet=(-71.0667, 1.6278, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME west reverse=True feet=(-71.2000, 1.6275, -10.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS west reverse crossing
+START north position=(0.0000, 2.0404, 54.2000)
+PASS FRAME north reverse=False feet=(0.0000, 2.0404, 54.2000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS initial outside weight
+PASS FRAME north reverse=False feet=(0.0000, 2.0404, 54.2000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME north reverse=False feet=(0.0000, 2.0390, 54.0667) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME north reverse=False feet=(0.0000, 2.0376, 53.9333) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME north reverse=False feet=(0.0000, 2.0370, 53.8000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME north reverse=False feet=(0.0000, 2.0363, 53.6667) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME north reverse=False feet=(0.0000, 2.0356, 53.5333) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME north reverse=False feet=(0.0000, 2.0349, 53.4000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME north reverse=False feet=(0.0000, 2.0343, 53.2667) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME north reverse=False feet=(0.0000, 2.0336, 53.1333) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME north reverse=False feet=(0.0000, 2.0329, 53.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME north reverse=False feet=(0.0000, 2.0322, 52.8667) weight=0.00006783 expected=0.00006783 tone=Neutral
+PASS FRAME north reverse=False feet=(0.0000, 2.0316, 52.7333) weight=0.00027037 expected=0.00027037 tone=Neutral
+PASS FRAME north reverse=False feet=(0.0000, 2.0309, 52.6000) weight=0.00060642 expected=0.00060642 tone=Neutral
+PASS FRAME north reverse=False feet=(0.0000, 2.0302, 52.4667) weight=0.00107461 expected=0.00107461 tone=Neutral
+PASS FRAME north reverse=False feet=(0.0000, 2.0295, 52.3333) weight=0.00167370 expected=0.00167370 tone=Neutral
+PASS FRAME north reverse=False feet=(0.0000, 2.0289, 52.2000) weight=0.00240231 expected=0.00240231 tone=Neutral
+PASS FRAME north reverse=False feet=(0.0000, 2.0282, 52.0667) weight=0.00325924 expected=0.00325924 tone=Neutral
+PASS FRAME north reverse=False feet=(0.0000, 2.0276, 51.9333) weight=0.00424314 expected=0.00424314 tone=Neutral
+PASS FRAME north reverse=False feet=(0.0000, 2.0273, 51.8000) weight=0.00535280 expected=0.00535280 tone=Neutral
+PASS north inward crossing
+PASS FRAME north reverse=True feet=(0.0000, 2.0273, 51.8000) weight=0.00535280 expected=0.00535280 tone=Neutral
+PASS FRAME north reverse=True feet=(0.0000, 2.0276, 51.9333) weight=0.00424314 expected=0.00424314 tone=Neutral
+PASS FRAME north reverse=True feet=(0.0000, 2.0282, 52.0667) weight=0.00325924 expected=0.00325924 tone=Neutral
+PASS FRAME north reverse=True feet=(0.0000, 2.0289, 52.2000) weight=0.00240231 expected=0.00240231 tone=Neutral
+PASS FRAME north reverse=True feet=(0.0000, 2.0295, 52.3333) weight=0.00167370 expected=0.00167370 tone=Neutral
+PASS FRAME north reverse=True feet=(0.0000, 2.0302, 52.4667) weight=0.00107461 expected=0.00107461 tone=Neutral
+PASS FRAME north reverse=True feet=(0.0000, 2.0309, 52.6000) weight=0.00060642 expected=0.00060642 tone=Neutral
+PASS FRAME north reverse=True feet=(0.0000, 2.0316, 52.7333) weight=0.00027037 expected=0.00027037 tone=Neutral
+PASS FRAME north reverse=True feet=(0.0000, 2.0322, 52.8667) weight=0.00006783 expected=0.00006783 tone=Neutral
+PASS FRAME north reverse=True feet=(0.0000, 2.0329, 53.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME north reverse=True feet=(0.0000, 2.0336, 53.1333) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME north reverse=True feet=(0.0000, 2.0343, 53.2667) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME north reverse=True feet=(0.0000, 2.0349, 53.4000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME north reverse=True feet=(0.0000, 2.0356, 53.5333) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME north reverse=True feet=(0.0000, 2.0363, 53.6667) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME north reverse=True feet=(0.0000, 2.0370, 53.8000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME north reverse=True feet=(0.0000, 2.0376, 53.9333) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME north reverse=True feet=(0.0000, 2.0390, 54.0667) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME north reverse=True feet=(0.0000, 2.0404, 54.2000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS north reverse crossing
+START south position=(0.0000, 0.0066, -97.2000)
+PASS FRAME south reverse=False feet=(0.0000, 0.0066, -97.2000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS initial outside weight
+PASS FRAME south reverse=False feet=(0.0000, 0.0066, -97.2000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME south reverse=False feet=(0.0000, 0.0098, -97.0667) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME south reverse=False feet=(0.0000, 0.0130, -96.9333) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME south reverse=False feet=(0.0000, 0.0162, -96.8000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME south reverse=False feet=(0.0000, 0.0194, -96.6667) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME south reverse=False feet=(0.0000, 0.0226, -96.5333) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME south reverse=False feet=(0.0000, 0.0258, -96.4000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME south reverse=False feet=(0.0000, 0.0290, -96.2667) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME south reverse=False feet=(0.0000, 0.0322, -96.1333) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME south reverse=False feet=(0.0000, 0.0353, -96.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME south reverse=False feet=(0.0000, 0.0369, -95.8667) weight=0.00006783 expected=0.00006783 tone=Neutral
+PASS FRAME south reverse=False feet=(0.0000, 0.0385, -95.7333) weight=0.00027037 expected=0.00027037 tone=Neutral
+PASS FRAME south reverse=False feet=(0.0000, 0.0401, -95.6000) weight=0.00060642 expected=0.00060642 tone=Neutral
+PASS FRAME south reverse=False feet=(0.0000, 0.0417, -95.4667) weight=0.00107461 expected=0.00107461 tone=Neutral
+PASS FRAME south reverse=False feet=(0.0000, 0.0433, -95.3333) weight=0.00167370 expected=0.00167370 tone=Neutral
+PASS FRAME south reverse=False feet=(0.0000, 0.0449, -95.2000) weight=0.00240237 expected=0.00240237 tone=Neutral
+PASS FRAME south reverse=False feet=(0.0000, 0.0465, -95.0667) weight=0.00325924 expected=0.00325924 tone=Neutral
+PASS FRAME south reverse=False feet=(0.0000, 0.0481, -94.9333) weight=0.00424320 expected=0.00424320 tone=Neutral
+PASS FRAME south reverse=False feet=(0.0000, 0.0497, -94.8000) weight=0.00535280 expected=0.00535280 tone=Neutral
+PASS south inward crossing
+PASS FRAME south reverse=True feet=(0.0000, 0.0497, -94.8000) weight=0.00535280 expected=0.00535280 tone=Neutral
+PASS FRAME south reverse=True feet=(0.0000, 0.0481, -94.9333) weight=0.00424320 expected=0.00424320 tone=Neutral
+PASS FRAME south reverse=True feet=(0.0000, 0.0465, -95.0667) weight=0.00325924 expected=0.00325924 tone=Neutral
+PASS FRAME south reverse=True feet=(0.0000, 0.0449, -95.2000) weight=0.00240237 expected=0.00240237 tone=Neutral
+PASS FRAME south reverse=True feet=(0.0000, 0.0433, -95.3333) weight=0.00167370 expected=0.00167370 tone=Neutral
+PASS FRAME south reverse=True feet=(0.0000, 0.0417, -95.4667) weight=0.00107461 expected=0.00107461 tone=Neutral
+PASS FRAME south reverse=True feet=(0.0000, 0.0401, -95.6000) weight=0.00060642 expected=0.00060642 tone=Neutral
+PASS FRAME south reverse=True feet=(0.0000, 0.0385, -95.7333) weight=0.00027037 expected=0.00027037 tone=Neutral
+PASS FRAME south reverse=True feet=(0.0000, 0.0369, -95.8667) weight=0.00006783 expected=0.00006783 tone=Neutral
+PASS FRAME south reverse=True feet=(0.0000, 0.0353, -96.0000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME south reverse=True feet=(0.0000, 0.0322, -96.1333) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME south reverse=True feet=(0.0000, 0.0290, -96.2667) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME south reverse=True feet=(0.0000, 0.0258, -96.4000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME south reverse=True feet=(0.0000, 0.0226, -96.5333) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME south reverse=True feet=(0.0000, 0.0194, -96.6667) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME south reverse=True feet=(0.0000, 0.0162, -96.8000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME south reverse=True feet=(0.0000, 0.0130, -96.9333) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME south reverse=True feet=(0.0000, 0.0098, -97.0667) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS FRAME south reverse=True feet=(0.0000, 0.0066, -97.2000) weight=0.00000000 expected=0.00000000 tone=Neutral
+PASS south reverse crossing
+PASS Leave disables A look
+PASS Leave restores B visibility
+PASS Leave resets hall exterior veil
+LEAVE tone=ACES ambient=Trilight farClip=150
+samples=156 failures=0
+RESULT PASS

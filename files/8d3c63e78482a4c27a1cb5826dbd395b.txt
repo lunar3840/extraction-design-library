@@ -1,0 +1,8 @@
+START 2026-10-30T04:22:32.8583582Z
+command=save
+PASS_NATIVE_SAVE_RELOAD
+ownedRoots=1
+ownedRenderers=6
+addedOverrides=0
+PASS_STATIC_ONLY: C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/a-map-clinic-reclaimed-mood-strengthening\staging/validation/AFTER_PRESERVATION_reloaded_save04_001.txt
+COMPLETE

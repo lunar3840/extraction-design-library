@@ -1,0 +1,78 @@
+{
+  "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\equipment-fitting-20261102\\Edel_BASE.blend",
+  "source_sha256": "b315833e6a6ef5b86bd13499f85570aa9b7d46cd6b3eaf6827e20fe49d0b5c31",
+  "original_model_unchanged": true,
+  "body_geometry_scale_unchanged": true,
+  "head_and_hair_excluded": true,
+  "all_views_share_same_evaluated_geometry": true,
+  "camera": "single orthographic camera; one render of four rigidly rotated identical evaluated meshes",
+  "ortho_width": 1.840000033378601,
+  "resolution": [
+    3456,
+    1440
+  ],
+  "pose": "source upper arms rotated down, no bone length/translation/scale changes",
+  "body_material": "neutral gray fitting surface; remaining original source materials preserved",
+  "views": [
+    {
+      "view": "FRONT",
+      "rotation_degrees": 0.0,
+      "panel_center_x": -0.66,
+      "bounds_min": [
+        -0.8578488826751709,
+        -0.12098634243011475,
+        -2.3392208170491813e-09
+      ],
+      "bounds_max": [
+        -0.4621511399745941,
+        0.07774413377046585,
+        0.6201171875
+      ]
+    },
+    {
+      "view": "BACK",
+      "rotation_degrees": 180.0,
+      "panel_center_x": -0.22,
+      "bounds_min": [
+        -0.4178488850593567,
+        -0.07774413377046585,
+        -2.3392208170491813e-09
+      ],
+      "bounds_max": [
+        -0.02215111069381237,
+        0.12098634988069534,
+        0.6201171875
+      ]
+    },
+    {
+      "view": "LEFT",
+      "rotation_degrees": -90.0,
+      "panel_center_x": 0.22,
+      "bounds_min": [
+        0.09901365637779236,
+        -0.19784888625144958,
+        -2.3392208170491813e-09
+      ],
+      "bounds_max": [
+        0.29774412512779236,
+        0.19784888625144958,
+        0.6201171875
+      ]
+    },
+    {
+      "view": "RIGHT",
+      "rotation_degrees": 90.0,
+      "panel_center_x": 0.66,
+      "bounds_min": [
+        0.5822558999061584,
+        -0.19784888625144958,
+        -2.3392208170491813e-09
+      ],
+      "bounds_max": [
+        0.7809863686561584,
+        0.19784888625144958,
+        0.6201171875
+      ]
+    }
+  ]
+}

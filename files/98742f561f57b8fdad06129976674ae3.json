@@ -1,0 +1,60 @@
+{
+  "ownedTemporaryFilesArchived": 22,
+  "changedExisting": [
+    {
+      "bytes": 23999,
+      "path": "Assets/Escape/Art/BuildingV33/Reveal/BuildingV33LocalReveal.shader",
+      "sha256": "1e443568bb3977cd4d8ea64189fb8dfce6601ad58c7ace3c0585913b93729909"
+    },
+    {
+      "bytes": 88268093,
+      "path": "Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab",
+      "sha256": "b849090f053449e3c64b1f8bf65d50b78311bc1bcf046d14fe0250422cad04b7"
+    },
+    {
+      "bytes": 46618,
+      "path": "Assets/Escape/Runtime/Enemy/EnemyController.cs",
+      "sha256": "9282d7efa7e3dca2848d613fd211494143eb8ac6693e29d41ce02abb356de841"
+    },
+    {
+      "bytes": 59788,
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageABuildingV33Reveal.cs",
+      "sha256": "a4d706077dbfe0f7759ac0ae829deb50465e425049feea485311276e6758139a"
+    },
+    {
+      "bytes": 20557,
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageAWestD02OccludedPlayerSilhouette.cs",
+      "sha256": "fece045974a89ae68eab7f33729b357768372f2e6eeaddfcee7645d2d1e29c3f"
+    },
+    {
+      "bytes": 14071,
+      "path": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+      "sha256": "c9e3d324a6da7849188d1d92f9d79843b8e4820dcbe8325c3a0b227cd13d1874"
+    }
+  ],
+  "at": "2026-10-29T17:32:41.4005879+09:00",
+  "baselineFiles": 9065,
+  "pairedGameViews": 18,
+  "unityReturn": "main/UNITY_RETURN.md",
+  "removedBaseline": [],
+  "productionFrozenBeforeUnityReturn": true,
+  "limits": [
+    "18개 고정 GPU화면과69동3333개native표본이며 전건물 자연보행 검증은 아님",
+    "전맵 밸런스/자연 삼자전 빈도는 미확정. 반입가치별 진입확대 미구현/R비활성 유지",
+    "Editor전체프레임 측정 변동, 직접 함수 CPU측정은 완성빌드 성능 보증이 아님"
+  ],
+  "status": "verified_with_documented_limits",
+  "actorMaskMeta": {
+    "sha256": "e5f73c9a95f89837a1039021389447a93df2384463539444532302a4881e7834",
+    "path": "Assets/Escape/Resources/EscapeVision/BuildingV33ActorMask.shader.meta"
+  },
+  "pairedResolution": "1920x1080",
+  "afterSnapshotFiles": 9066,
+  "addedSource": [
+    {
+      "bytes": 2436,
+      "path": "Assets/Escape/Resources/EscapeVision/BuildingV33ActorMask.shader",
+      "sha256": "a896f27a5202d92dc041b126e4e620456f457d320baada1f3f52e422f296fa5b"
+    }
+  ]
+}

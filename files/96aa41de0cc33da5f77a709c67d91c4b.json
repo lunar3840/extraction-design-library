@@ -1,0 +1,21 @@
+{
+  "status": "PASS_POST_HELPER_REMOVAL_CLEAN_RETURN",
+  "utc": "2026-10-30T15:00:31.7531603Z",
+  "nativePlayOff": true,
+  "nativeSceneTitleNoDirtyAsterisk": true,
+  "nativeNoCompileOrImportProgress": true,
+  "helperDirectoryAbsent": true,
+  "pilotDirectoryAbsent": true,
+  "mainRequestAbsent": true,
+  "perfRequestAbsent": true,
+  "productionExtraMeshFiles": 34,
+  "current452BodyAndMetaMatch": true,
+  "currentManifestSha256": "E92538D561A39FE76F2B43E5BF13D0C4DB2851BB6B742F4E57D0584FD56145CA",
+  "sceneSha256": "11C4100C8D129FFD04C83AAD7BBA97B20C1D7F703D4F84DE9E84754D9D988E6A",
+  "prefabSha256": "26C8E548B074D96A36A33BFB9CFA7D354BF1C220729D6BD3F1455710D65E98E9",
+  "afterNativeScreenshot": "after_editor_native.jpg",
+  "afterNativeScreenshotSha256": "DD578AF5CA959202727C9F47FBD2320C831AC7B136E742A94FFA782ADD043E2B",
+  "knownExistingWarning": "Duplicate Escape/Stage A/Run Density V04 Shot Checks menu warning persists; no warning-free claim",
+  "sourcePreservationAudit": "staging/validation/final_static_fin06b_scope/FINAL_STATIC_SCOPE_REPORT.json",
+  "unityLease": "returned_after_this_checkpoint"
+}

@@ -1,0 +1,326 @@
+STAGE_A_TRIPO_D06_INDEPENDENT_VALIDATION
+PASS fresh D06 before baseline exists
+PASS active retained Stage A map exists
+PASS before collision/transform/spawn signature exists
+PASS all original transforms, colliders and spawn tiers exactly match D06 before
+PASS original protected scene signature exists
+PASS exact original renderer allowlist exists
+PASS protected original component-line count unchanged: 62752/62752
+PASS protected original line 16233 changed only by allowlisted renderer disable: EnclosuresV33_ConnectedFacilities/Boundaries/CN_W5/CN_W5_1_3/Wall
+PASS protected original line 19757 changed only by allowlisted renderer disable: EnclosuresV33_ConnectedFacilities/Boundaries/SC_W2/SC_W2_1_8/Wall
+PASS protected original line 19763 changed only by allowlisted renderer disable: EnclosuresV33_ConnectedFacilities/Boundaries/SC_W3/SC_W3_1_0/Wall
+PASS protected original line 19840 changed only by allowlisted renderer disable: EnclosuresV33_ConnectedFacilities/Boundaries/SC_W5/SC_W5_1_4/Wall
+PASS protected original line 19846 changed only by allowlisted renderer disable: EnclosuresV33_ConnectedFacilities/Boundaries/SC_W6/SC_W6_1_0/Wall
+PASS protected original line 19861 changed only by allowlisted renderer disable: EnclosuresV33_ConnectedFacilities/Boundaries/SC_W6/SC_W6_1_11/Wall
+PASS protected original line 19926 changed only by allowlisted renderer disable: EnclosuresV33_ConnectedFacilities/Boundaries/SC_W6/SC_W6_1_8/Wall
+PASS protected original line 19989 changed only by allowlisted renderer disable: EnclosuresV33_ConnectedFacilities/Boundaries/WC_W3/WC_W3_1_3/Wall
+PASS every allowlisted original renderer was disabled and no other original state changed: 8/8
+PASS exact D06 placement root exists and is active
+PASS approved received GLB has imported prefab: ConcreteBrickWall
+PASS source visual prefab is collider-free: ConcreteBrickWall
+PASS approved received GLB has imported prefab: ConcreteDrainageTrough
+PASS source visual prefab is collider-free: ConcreteDrainageTrough
+PASS approved received GLB has imported prefab: ConcretePillar
+PASS source visual prefab is collider-free: ConcretePillar
+PASS approved received GLB has imported prefab: IndustrialMachinery
+PASS source visual prefab is collider-free: IndustrialMachinery
+PASS approved received GLB has imported prefab: IndustrialMetalPlatform
+PASS source visual prefab is collider-free: IndustrialMetalPlatform
+PASS approved received GLB has imported prefab: IndustrialPlatform
+PASS source visual prefab is collider-free: IndustrialPlatform
+PASS approved received GLB has imported prefab: IndustrialSilo
+PASS source visual prefab is collider-free: IndustrialSilo
+PASS approved received GLB has imported prefab: IndustrialTurbine
+PASS source visual prefab is collider-free: IndustrialTurbine
+PASS approved received GLB has imported prefab: MetalGate
+PASS source visual prefab is collider-free: MetalGate
+PASS approved received GLB has imported prefab: RuinedWallSection
+PASS source visual prefab is collider-free: RuinedWallSection
+PASS approved received GLB has imported prefab: RustedIndustrialMachine
+PASS source visual prefab is collider-free: RustedIndustrialMachine
+PASS approved received GLB has imported prefab: RustedMetalArchway
+PASS source visual prefab is collider-free: RustedMetalArchway
+PASS approved received GLB has imported prefab: RustyMetalBarrier
+PASS source visual prefab is collider-free: RustyMetalBarrier
+PASS approved received GLB has imported prefab: SluiceGate
+PASS source visual prefab is collider-free: SluiceGate
+PASS all 14 received GLBs imported once; 14/14
+PASS 14-source import audit with hashes and bounds exists
+NOTE Importing all 14 sources does not require placing all 14; every placement still needs a site-specific clearance decision.
+PASS D06 zone has active placements: Boundaries
+PASS D06 placement ID prefix: Boundaries/D06_YardWall_SC
+PASS unique D06 placement ID: D06_YardWall_SC
+PASS active D06 placement: D06_YardWall_SC
+PASS D06 placement ID prefix: Boundaries/D06_YardWall_WC
+PASS unique D06 placement ID: D06_YardWall_WC
+PASS active D06 placement: D06_YardWall_WC
+PASS D06 placement ID prefix: Boundaries/D06_YardWall_CN
+PASS unique D06 placement ID: D06_YardWall_CN
+PASS active D06 placement: D06_YardWall_CN
+PASS D06 placement ID prefix: Boundaries/D06_IndustrialMasonryBay_SC
+PASS unique D06 placement ID: D06_IndustrialMasonryBay_SC
+PASS active D06 placement: D06_IndustrialMasonryBay_SC
+PASS D06 placement ID prefix: Boundaries/D06_YardGateShoulder_SC_G1_A
+PASS unique D06 placement ID: D06_YardGateShoulder_SC_G1_A
+PASS active D06 placement: D06_YardGateShoulder_SC_G1_A
+PASS D06 placement ID prefix: Boundaries/D06_YardGateShoulder_SC_G1_B
+PASS unique D06 placement ID: D06_YardGateShoulder_SC_G1_B
+PASS active D06 placement: D06_YardGateShoulder_SC_G1_B
+PASS D06 placement ID prefix: Boundaries/D06_BoundaryJunctionPier_SC
+PASS unique D06 placement ID: D06_BoundaryJunctionPier_SC
+PASS active D06 placement: D06_BoundaryJunctionPier_SC
+PASS D06 zone has active placements: SortingYard
+PASS D06 placement ID prefix: SortingYard/D06_LoadingDock_E05
+PASS unique D06 placement ID: D06_LoadingDock_E05
+PASS active D06 placement: D06_LoadingDock_E05
+PASS D06 placement ID prefix: SortingYard/D06_CantileverCanopy_E05
+PASS unique D06 placement ID: D06_CantileverCanopy_E05
+PASS active D06 placement: D06_CantileverCanopy_E05
+PASS D06 zone has active placements: WestWorkshop
+PASS D06 placement ID prefix: WestWorkshop/D06_MaintenancePortal_W02
+PASS unique D06 placement ID: D06_MaintenancePortal_W02
+PASS active D06 placement: D06_MaintenancePortal_W02
+PASS D06 zone has active placements: NorthService
+PASS D06 placement ID prefix: NorthService/D06_RoofWaterTank_Ground_EN2
+PASS unique D06 placement ID: D06_RoofWaterTank_Ground_EN2
+PASS active D06 placement: D06_RoofWaterTank_Ground_EN2
+PASS D06 zone has active placements: VehicleYard
+PASS D06 placement ID prefix: VehicleYard/D06_TurbineCradle_Y01
+PASS unique D06 placement ID: D06_TurbineCradle_Y01
+PASS active D06 placement: D06_TurbineCradle_Y01
+PASS D06 zone has active placements: PowerYard
+PASS D06 placement ID prefix: PowerYard/D06_MachinePowerCoupler_PC
+PASS unique D06 placement ID: D06_MachinePowerCoupler_PC
+PASS active D06 placement: D06_MachinePowerCoupler_PC
+PASS D06 zone has active placements: Waterfront
+PASS D06 placement ID prefix: Waterfront/D06_ReclamationBasin_NorthBank
+PASS unique D06 placement ID: D06_ReclamationBasin_NorthBank
+PASS active D06 placement: D06_ReclamationBasin_NorthBank
+PASS D06 has at least one explicit placement
+PASS D06_YardWall_SC has active Visual child
+PASS D06_YardWall_SC has no unowned supplemental renderer outside Visual
+PASS D06_YardWall_SC has live, materialized visual renderers
+PASS D06_YardWall_SC mesh renderer has a nonempty mesh: Primitive_0
+PASS D06_YardWall_SC uses one of the 14 approved imported meshes: Primitive_0
+PASS D06_YardWall_SC keeps collision outside Visual
+PASS D06_YardWall_SC has no hidden/unowned collider outside Collision
+PASS D06_YardWall_SC is visual-only; original V33/BankGuard collider must remain
+PASS D06_YardWall_SC retained original wall BoxCollider
+PASS D06_YardWall_SC replacement visual aligns with retained wall solid; visual=Center: (116.35, 4.34, 30.16), Extents: (1.60, 1.10, 0.71) originalCollision=Center: (116.35, 4.22, 30.16), Extents: (1.60, 1.22, 0.71)
+PASS D06_YardWall_WC has active Visual child
+PASS D06_YardWall_WC has no unowned supplemental renderer outside Visual
+PASS D06_YardWall_WC has live, materialized visual renderers
+PASS D06_YardWall_WC mesh renderer has a nonempty mesh: Primitive_0
+PASS D06_YardWall_WC uses one of the 14 approved imported meshes: Primitive_0
+PASS D06_YardWall_WC keeps collision outside Visual
+PASS D06_YardWall_WC has no hidden/unowned collider outside Collision
+PASS D06_YardWall_WC is visual-only; original V33/BankGuard collider must remain
+PASS D06_YardWall_WC retained original wall BoxCollider
+PASS D06_YardWall_WC replacement visual aligns with retained wall solid; visual=Center: (-88.23, 2.81, 5.60), Extents: (0.16, 1.10, 1.74) originalCollision=Center: (-88.23, 2.69, 5.60), Extents: (0.16, 1.22, 1.74)
+PASS D06_YardWall_CN has active Visual child
+PASS D06_YardWall_CN has no unowned supplemental renderer outside Visual
+PASS D06_YardWall_CN has live, materialized visual renderers
+PASS D06_YardWall_CN mesh renderer has a nonempty mesh: Primitive_0
+PASS D06_YardWall_CN uses one of the 14 approved imported meshes: Primitive_0
+PASS D06_YardWall_CN keeps collision outside Visual
+PASS D06_YardWall_CN has no hidden/unowned collider outside Collision
+PASS D06_YardWall_CN is visual-only; original V33/BankGuard collider must remain
+PASS D06_YardWall_CN retained original wall BoxCollider
+PASS D06_YardWall_CN replacement visual aligns with retained wall solid; visual=Center: (-104.38, 6.18, 90.69), Extents: (1.64, 1.10, 0.33) originalCollision=Center: (-104.38, 6.06, 90.69), Extents: (1.64, 1.22, 0.33)
+PASS D06_IndustrialMasonryBay_SC has active Visual child
+PASS D06_IndustrialMasonryBay_SC has no unowned supplemental renderer outside Visual
+PASS D06_IndustrialMasonryBay_SC has live, materialized visual renderers
+PASS D06_IndustrialMasonryBay_SC mesh renderer has a nonempty mesh: Primitive_0
+PASS D06_IndustrialMasonryBay_SC uses one of the 14 approved imported meshes: Primitive_0
+PASS D06_IndustrialMasonryBay_SC keeps collision outside Visual
+PASS D06_IndustrialMasonryBay_SC has no hidden/unowned collider outside Collision
+PASS D06_IndustrialMasonryBay_SC is visual-only; original V33/BankGuard collider must remain
+PASS D06_IndustrialMasonryBay_SC retained original wall BoxCollider
+PASS D06_IndustrialMasonryBay_SC replacement visual aligns with retained wall solid; visual=Center: (125.64, 3.61, 26.69), Extents: (1.60, 1.10, 0.71) originalCollision=Center: (125.64, 3.49, 26.69), Extents: (1.60, 1.22, 0.71)
+PASS D06_YardGateShoulder_SC_G1_A has active Visual child
+PASS D06_YardGateShoulder_SC_G1_A has no unowned supplemental renderer outside Visual
+PASS D06_YardGateShoulder_SC_G1_A has live, materialized visual renderers
+PASS D06_YardGateShoulder_SC_G1_A mesh renderer has a nonempty mesh: Primitive_0
+PASS D06_YardGateShoulder_SC_G1_A uses one of the 14 approved imported meshes: Primitive_0
+PASS D06_YardGateShoulder_SC_G1_A keeps collision outside Visual
+PASS D06_YardGateShoulder_SC_G1_A has no hidden/unowned collider outside Collision
+PASS D06_YardGateShoulder_SC_G1_A has active non-convex mesh collision on navigable layer
+PASS D06_YardGateShoulder_SC_G1_A collision references only its own visible mesh assets
+PASS D06_YardGateShoulder_SC_G1_A collider bounds follow visual bounds; visual=Center: (84.58, 3.49, -38.80), Extents: (1.60, 1.15, 0.37) collision=Center: (84.58, 3.49, -38.80), Extents: (1.60, 1.15, 0.37)
+NOTE D06_YardGateShoulder_SC_G1_A bounds are a broadphase only; mesh surface, doorway cavity, steps and overhang need actual play inspection.
+PASS D06_YardGateShoulder_SC_G1_B has active Visual child
+PASS D06_YardGateShoulder_SC_G1_B has no unowned supplemental renderer outside Visual
+PASS D06_YardGateShoulder_SC_G1_B has live, materialized visual renderers
+PASS D06_YardGateShoulder_SC_G1_B mesh renderer has a nonempty mesh: Primitive_0
+PASS D06_YardGateShoulder_SC_G1_B uses one of the 14 approved imported meshes: Primitive_0
+PASS D06_YardGateShoulder_SC_G1_B keeps collision outside Visual
+PASS D06_YardGateShoulder_SC_G1_B has no hidden/unowned collider outside Collision
+PASS D06_YardGateShoulder_SC_G1_B has active non-convex mesh collision on navigable layer
+PASS D06_YardGateShoulder_SC_G1_B collision references only its own visible mesh assets
+PASS D06_YardGateShoulder_SC_G1_B collider bounds follow visual bounds; visual=Center: (83.52, 3.63, -28.47), Extents: (0.68, 1.15, 1.59) collision=Center: (83.52, 3.63, -28.47), Extents: (0.68, 1.15, 1.59)
+NOTE D06_YardGateShoulder_SC_G1_B bounds are a broadphase only; mesh surface, doorway cavity, steps and overhang need actual play inspection.
+PASS D06_BoundaryJunctionPier_SC has active Visual child
+PASS corner pier has exactly two active, collider-free, materialized V33 seam trims
+PASS D06_BoundaryJunctionPier_SC has live, materialized visual renderers
+PASS D06_BoundaryJunctionPier_SC mesh renderer has a nonempty mesh: Primitive_0
+PASS D06_BoundaryJunctionPier_SC uses one of the 14 approved imported meshes: Primitive_0
+PASS D06_BoundaryJunctionPier_SC keeps collision outside Visual
+PASS D06_BoundaryJunctionPier_SC has no hidden/unowned collider outside Collision
+PASS D06_BoundaryJunctionPier_SC has active non-convex mesh collision on navigable layer
+PASS D06_BoundaryJunctionPier_SC collision references only its own visible mesh assets
+PASS D06_BoundaryJunctionPier_SC collider bounds follow visual bounds; visual=Center: (90.00, 7.25, 40.00), Extents: (0.33, 1.10, 0.33) collision=Center: (90.00, 7.25, 40.00), Extents: (0.32, 1.10, 0.33)
+NOTE D06_BoundaryJunctionPier_SC bounds are a broadphase only; mesh surface, doorway cavity, steps and overhang need actual play inspection.
+PASS D06_LoadingDock_E05 has active Visual child
+PASS D06_LoadingDock_E05 has no unowned supplemental renderer outside Visual
+PASS D06_LoadingDock_E05 has live, materialized visual renderers
+PASS D06_LoadingDock_E05 mesh renderer has a nonempty mesh: Primitive_0
+PASS D06_LoadingDock_E05 uses one of the 14 approved imported meshes: Primitive_0
+PASS D06_LoadingDock_E05 keeps collision outside Visual
+PASS D06_LoadingDock_E05 has no hidden/unowned collider outside Collision
+PASS D06_LoadingDock_E05 has active non-convex mesh collision on navigable layer
+PASS D06_LoadingDock_E05 collision references only its own visible mesh assets
+PASS D06_LoadingDock_E05 collider bounds follow visual bounds; visual=Center: (109.50, 3.26, -4.18), Extents: (2.65, 0.33, 1.59) collision=Center: (109.50, 3.26, -4.18), Extents: (2.65, 0.33, 1.59)
+NOTE D06_LoadingDock_E05 bounds are a broadphase only; mesh surface, doorway cavity, steps and overhang need actual play inspection.
+PASS D06_CantileverCanopy_E05 has active Visual child
+PASS D06_CantileverCanopy_E05 has no unowned supplemental renderer outside Visual
+PASS D06_CantileverCanopy_E05 has live, materialized visual renderers
+PASS D06_CantileverCanopy_E05 mesh renderer has a nonempty mesh: Primitive_0
+PASS D06_CantileverCanopy_E05 uses one of the 14 approved imported meshes: Primitive_0
+PASS D06_CantileverCanopy_E05 keeps collision outside Visual
+PASS D06_CantileverCanopy_E05 has no hidden/unowned collider outside Collision
+PASS D06_CantileverCanopy_E05 has active non-convex mesh collision on navigable layer
+PASS D06_CantileverCanopy_E05 collision references only its own visible mesh assets
+PASS D06_CantileverCanopy_E05 collider bounds follow visual bounds; visual=Center: (109.50, 6.58, -4.00), Extents: (2.70, 1.05, 1.91) collision=Center: (109.50, 6.58, -4.00), Extents: (2.70, 1.05, 1.91)
+NOTE D06_CantileverCanopy_E05 bounds are a broadphase only; mesh surface, doorway cavity, steps and overhang need actual play inspection.
+PASS D06_MaintenancePortal_W02 has active Visual child
+PASS D06_MaintenancePortal_W02 has no unowned supplemental renderer outside Visual
+PASS D06_MaintenancePortal_W02 has live, materialized visual renderers
+PASS D06_MaintenancePortal_W02 mesh renderer has a nonempty mesh: Primitive_0
+PASS D06_MaintenancePortal_W02 uses one of the 14 approved imported meshes: Primitive_0
+PASS D06_MaintenancePortal_W02 keeps collision outside Visual
+PASS D06_MaintenancePortal_W02 has no hidden/unowned collider outside Collision
+PASS D06_MaintenancePortal_W02 has active non-convex mesh collision on navigable layer
+PASS D06_MaintenancePortal_W02 collision references only its own visible mesh assets
+PASS D06_MaintenancePortal_W02 collider bounds follow visual bounds; visual=Center: (-182.21, 3.56, 29.18), Extents: (2.54, 1.80, 0.75) collision=Center: (-182.21, 3.56, 29.18), Extents: (2.54, 1.80, 0.75)
+NOTE D06_MaintenancePortal_W02 bounds are a broadphase only; mesh surface, doorway cavity, steps and overhang need actual play inspection.
+PASS D06_RoofWaterTank_Ground_EN2 has active Visual child
+PASS D06_RoofWaterTank_Ground_EN2 has no unowned supplemental renderer outside Visual
+PASS D06_RoofWaterTank_Ground_EN2 has live, materialized visual renderers
+PASS D06_RoofWaterTank_Ground_EN2 mesh renderer has a nonempty mesh: Primitive_0
+PASS D06_RoofWaterTank_Ground_EN2 uses one of the 14 approved imported meshes: Primitive_0
+PASS D06_RoofWaterTank_Ground_EN2 keeps collision outside Visual
+PASS D06_RoofWaterTank_Ground_EN2 has no hidden/unowned collider outside Collision
+PASS D06_RoofWaterTank_Ground_EN2 has active non-convex mesh collision on navigable layer
+PASS D06_RoofWaterTank_Ground_EN2 collision references only its own visible mesh assets
+PASS D06_RoofWaterTank_Ground_EN2 collider bounds follow visual bounds; visual=Center: (-203.00, 4.46, 74.00), Extents: (1.10, 1.50, 1.10) collision=Center: (-203.00, 4.46, 74.00), Extents: (1.10, 1.50, 1.10)
+NOTE D06_RoofWaterTank_Ground_EN2 bounds are a broadphase only; mesh surface, doorway cavity, steps and overhang need actual play inspection.
+PASS D06_TurbineCradle_Y01 has active Visual child
+PASS D06_TurbineCradle_Y01 has no unowned supplemental renderer outside Visual
+PASS D06_TurbineCradle_Y01 has live, materialized visual renderers
+PASS D06_TurbineCradle_Y01 mesh renderer has a nonempty mesh: Primitive_0
+PASS D06_TurbineCradle_Y01 uses one of the 14 approved imported meshes: Primitive_0
+PASS D06_TurbineCradle_Y01 keeps collision outside Visual
+PASS D06_TurbineCradle_Y01 has no hidden/unowned collider outside Collision
+PASS D06_TurbineCradle_Y01 has active non-convex mesh collision on navigable layer
+PASS D06_TurbineCradle_Y01 collision references only its own visible mesh assets
+PASS D06_TurbineCradle_Y01 collider bounds follow visual bounds; visual=Center: (-7.00, 1.31, -93.00), Extents: (2.61, 1.20, 1.34) collision=Center: (-7.00, 1.31, -93.00), Extents: (2.61, 1.20, 1.34)
+NOTE D06_TurbineCradle_Y01 bounds are a broadphase only; mesh surface, doorway cavity, steps and overhang need actual play inspection.
+PASS D06_MachinePowerCoupler_PC has active Visual child
+PASS D06_MachinePowerCoupler_PC has no unowned supplemental renderer outside Visual
+PASS D06_MachinePowerCoupler_PC has live, materialized visual renderers
+PASS D06_MachinePowerCoupler_PC mesh renderer has a nonempty mesh: Primitive_0
+PASS D06_MachinePowerCoupler_PC uses one of the 14 approved imported meshes: Primitive_0
+PASS D06_MachinePowerCoupler_PC keeps collision outside Visual
+PASS D06_MachinePowerCoupler_PC has no hidden/unowned collider outside Collision
+PASS D06_MachinePowerCoupler_PC has active non-convex mesh collision on navigable layer
+PASS D06_MachinePowerCoupler_PC collision references only its own visible mesh assets
+PASS D06_MachinePowerCoupler_PC collider bounds follow visual bounds; visual=Center: (210.00, 8.41, 80.00), Extents: (0.90, 1.65, 0.90) collision=Center: (210.00, 8.41, 80.00), Extents: (0.90, 1.65, 0.90)
+NOTE D06_MachinePowerCoupler_PC bounds are a broadphase only; mesh surface, doorway cavity, steps and overhang need actual play inspection.
+PASS D06_ReclamationBasin_NorthBank has active Visual child
+PASS D06_ReclamationBasin_NorthBank has no unowned supplemental renderer outside Visual
+PASS D06_ReclamationBasin_NorthBank has live, materialized visual renderers
+PASS D06_ReclamationBasin_NorthBank mesh renderer has a nonempty mesh: Primitive_0
+PASS D06_ReclamationBasin_NorthBank uses one of the 14 approved imported meshes: Primitive_0
+PASS D06_ReclamationBasin_NorthBank keeps collision outside Visual
+PASS D06_ReclamationBasin_NorthBank has no hidden/unowned collider outside Collision
+PASS D06_ReclamationBasin_NorthBank has active non-convex mesh collision on navigable layer
+PASS D06_ReclamationBasin_NorthBank collision references only its own visible mesh assets
+PASS D06_ReclamationBasin_NorthBank collider bounds follow visual bounds; visual=Center: (125.00, 0.86, -82.00), Extents: (3.00, 0.60, 1.65) collision=Center: (125.00, 0.86, -82.00), Extents: (3.00, 0.60, 1.65)
+NOTE D06_ReclamationBasin_NorthBank bounds are a broadphase only; mesh surface, doorway cavity, steps and overhang need actual play inspection.
+PASS D06 aggregate root has no broad collider
+PASS no coincident D06 placements
+PASS D06 gate probe has terrain heights
+PASS approved 12 V33 gate samples available
+PASS CN_G2 remains clear of new D06 solids: 0/41
+PASS CN_G1 remains clear of new D06 solids: 0/41
+PASS WC_G2 remains clear of new D06 solids: 0/44
+PASS WC_G1 remains clear of new D06 solids: 0/41
+PASS PC_G1 remains clear of new D06 solids: 0/47
+PASS PC_G2 remains clear of new D06 solids: 0/33
+PASS PC_G3 remains clear of new D06 solids: 0/44
+PASS SC_G1 remains clear of new D06 solids: 0/47
+PASS SC_G2 remains clear of new D06 solids: 0/47
+PASS YC_G1 remains clear of new D06 solids: 0/41
+PASS YC_G3 remains clear of new D06 solids: 0/48
+PASS YC_G2 remains clear of new D06 solids: 0/47
+PASS D03 alternative route plan and terrain are available
+PASS D03 A/B alternatives avoid all new D06 solids: 0 blockers / 3765 player-capsule samples
+PASS B4 and R8 anchor identities retained
+PASS B4/R8 transforms exist
+NOTE B4↔R8 straight distance=62.2m; R8 remains an inactive risk-entry candidate, not a danger boundary.
+PASS B4 has no nearby new D06 solid
+PASS R8 has no nearby new D06 solid
+NOTE D06_CantileverCanopy_E05 roof-cutaway registration=False; if false, actual top-down player visibility must be proven in D06 Play or placement withheld.
+NOTE D06_RoofWaterTank_Ground_EN2 roof-cutaway registration=False; if false, actual top-down player visibility must be proven in D06 Play or placement withheld.
+PASS D06 collision-derived NavMesh builds and activates
+PASS D06 navigation retains B1-B4, X1-X7 and terrain
+PASS B1-B4 to X1-X7 paths complete after D06: 28/28
+PASS B1 reaches existing relay T1
+PASS B1 reaches existing relay T2
+PASS B1 reaches existing relay T3
+PASS west bridge remains traversable
+PASS east bridge remains traversable
+PASS B1 reaches all retained indoor targets: 5
+PASS retained stair pair 1 remains connected
+PASS retained stair pair 2 remains connected
+PASS retained stair pair 3 remains connected
+PASS retained stair pair 4 remains connected
+PASS 12 retained V33 gate corridors available for path regression
+PASS V33 gate both halves remain traversable: CN_G2
+PASS V33 gate both halves remain traversable: CN_G1
+PASS V33 gate both halves remain traversable: WC_G2
+PASS V33 gate both halves remain traversable: WC_G1
+PASS V33 gate both halves remain traversable: PC_G1
+PASS V33 gate both halves remain traversable: PC_G2
+PASS V33 gate both halves remain traversable: PC_G3
+PASS V33 gate both halves remain traversable: SC_G1
+PASS V33 gate both halves remain traversable: SC_G2
+PASS V33 gate both halves remain traversable: YC_G1
+PASS V33 gate both halves remain traversable: YC_G3
+PASS V33 gate both halves remain traversable: YC_G2
+PASS D03 SC_TRANSFER choice A remains NavMesh-connected
+PASS D03 SC_TRANSFER choice B remains NavMesh-connected
+PASS D03 SC_SORTING choice A remains NavMesh-connected
+PASS D03 SC_SORTING choice B remains NavMesh-connected
+PASS D03 PC_TRANSFORMER choice A remains NavMesh-connected
+PASS D03 PC_TRANSFORMER choice B remains NavMesh-connected
+PASS D03 PC_CABLE choice A remains NavMesh-connected
+PASS D03 PC_CABLE choice B remains NavMesh-connected
+PASS D03 YC_DISMANTLE choice A remains NavMesh-connected
+PASS D03 YC_DISMANTLE choice B remains NavMesh-connected
+PASS D03 YC_PARTS choice A remains NavMesh-connected
+PASS D03 YC_PARTS choice B remains NavMesh-connected
+PASS D03 SW_RUIN_W choice A remains NavMesh-connected
+PASS D03 SW_RUIN_W choice B remains NavMesh-connected
+PASS D03 SW_RUIN_E choice A remains NavMesh-connected
+PASS D03 SW_RUIN_E choice B remains NavMesh-connected
+PASS D03 NORTH_SERVICE choice A remains NavMesh-connected
+PASS D03 NORTH_SERVICE choice B remains NavMesh-connected
+PASS D03 NORTH_LOADING choice A remains NavMesh-connected
+PASS D03 NORTH_LOADING choice B remains NavMesh-connected
+PASS D04 buildings full established regression: RESULT PASS
+NOTE D04 buildings: B4–R8 remain approximately 62.2m apart; R8 is an inactive risk-entry candidate. D04 does not alter spawn policy.
+NOTE R8 is an inactive risk-entry candidate. An unchanged B4/R8 policy does not resolve their similar early W5 approach; independent differentiation remains open.
+NOTE Edit-mode collider/NavMesh checks are not proof of PlayerMotor traversal or top-down visibility; run D06 Play and inspect matched screenshots.
+passed=306 failed=0
+RESULT PASS

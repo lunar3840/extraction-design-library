@@ -1,0 +1,75 @@
+Unity actual JsonUtility, actual runtime catalogs, isolated disk profile.
+PASS inventory adds gun and low/high ammunition
+PASS load lower-tier rounds
+PASS load higher-tier mixed topup
+PASS actual local disk commit of mixed magazine
+PASS Unity JSON/checksum disk reload: 
+PASS disk reload preserves exact affixes identity FIFO ammo and loose rounds
+PASS deposit gun through atomic profile transaction
+PASS storage deposit retains one owner and exact gun state
+PASS withdraw gun through atomic profile transaction
+PASS storage withdrawal preserves state
+PASS finite loot initial pickup
+PASS deposit mixed magazine gun into real loot inventory
+PASS loot retains original gun without reroll
+PASS loot pickup cannot duplicate gun
+PASS looted gun preserves identity affixes and loaded rounds
+PASS real departure and extraction profile transactions
+PASS extraction retains instance options and mixed ammo
+PASS death commits new weapon snapshot into grave
+PASS grave loses rounds and preserves original instance affixes
+PASS grave survives real Unity JSON disk reload: 
+PASS failed save leaves owner magazine and options unchanged
+PASS AR_002 previous full magazine preserved after capacity reduction
+PASS AR_002 overfull legacy rounds survive schema2 save/load without reroll
+PASS AR_003 previous full magazine preserved after capacity reduction
+PASS AR_003 overfull legacy rounds survive schema2 save/load without reroll
+PASS AR_004 previous full magazine preserved after capacity reduction
+PASS AR_004 overfull legacy rounds survive schema2 save/load without reroll
+PASS AR_011 previous full magazine preserved after capacity reduction
+PASS AR_011 overfull legacy rounds survive schema2 save/load without reroll
+PASS AR_012 previous full magazine preserved after capacity reduction
+PASS AR_012 overfull legacy rounds survive schema2 save/load without reroll
+PASS AR_013 previous full magazine preserved after capacity reduction
+PASS AR_013 overfull legacy rounds survive schema2 save/load without reroll
+PASS SG_001 previous full magazine preserved after capacity reduction
+PASS SG_001 overfull legacy rounds survive schema2 save/load without reroll
+PASS SG_002 previous full magazine preserved after capacity reduction
+PASS SG_002 overfull legacy rounds survive schema2 save/load without reroll
+PASS SG_003 previous full magazine preserved after capacity reduction
+PASS SG_003 overfull legacy rounds survive schema2 save/load without reroll
+PASS SG_004 previous full magazine preserved after capacity reduction
+PASS SG_004 overfull legacy rounds survive schema2 save/load without reroll
+PASS SG_011 previous full magazine preserved after capacity reduction
+PASS SG_011 overfull legacy rounds survive schema2 save/load without reroll
+PASS SG_012 previous full magazine preserved after capacity reduction
+PASS SG_012 overfull legacy rounds survive schema2 save/load without reroll
+PASS SG_013 previous full magazine preserved after capacity reduction
+PASS SG_013 overfull legacy rounds survive schema2 save/load without reroll
+PASS SR_001 previous full magazine preserved after capacity reduction
+PASS SR_001 overfull legacy rounds survive schema2 save/load without reroll
+PASS SR_002 previous full magazine preserved after capacity reduction
+PASS SR_002 overfull legacy rounds survive schema2 save/load without reroll
+PASS SR_003 previous full magazine preserved after capacity reduction
+PASS SR_003 overfull legacy rounds survive schema2 save/load without reroll
+PASS SR_004 previous full magazine preserved after capacity reduction
+PASS SR_004 overfull legacy rounds survive schema2 save/load without reroll
+PASS SR_011 previous full magazine preserved after capacity reduction
+PASS SR_011 overfull legacy rounds survive schema2 save/load without reroll
+PASS SR_012 previous full magazine preserved after capacity reduction
+PASS SR_012 overfull legacy rounds survive schema2 save/load without reroll
+PASS SR_013 previous full magazine preserved after capacity reduction
+PASS SR_013 overfull legacy rounds survive schema2 save/load without reroll
+PASS legacy magazine reduction cases covered
+PASS risk 0 ammo cache <=5 entries; T6 restricted to highest risk
+PASS risk 1 ammo cache <=5 entries; T6 restricted to highest risk
+PASS risk 2 ammo cache <=5 entries; T6 restricted to highest risk
+PASS T6 reachable in highest-risk cache
+PASS all firearm variants reachable from finite ammunition caches
+PASS all 24 ammunition variants reachable
+PASS all active loot IDs resolve to inventory definitions
+PASS actual shotgun RifleController firing succeeds
+PASS shotgun consumes shell once and casts intended pellet count
+PASS all actual shotgun pellet hits classified Bullet with fired T6 penetration
+PASS shotgun total flesh damage equals catalog per-pellet damage without tier inflation
+PASS ALL 73 independent Unity checks.

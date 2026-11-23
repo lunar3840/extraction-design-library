@@ -1,0 +1,4 @@
+Before reverse-angle images are reconstructed, not initial captures. D06 root temporarily disabled; the exact eight allowed original renderers restored. Original collision/transform signature equals baseline. All changes were temporary and original scene reloaded without save.
+views=tank_reverse,power_coupler_reverse
+scene=ACC227F15F4A33CB57CF3FDD0778721D98388C19E2512AEC1D1F7731F48ED984
+prefab=83E4367FBC4B019442057C549F5AF3CB28D04744FA5E08FE9143912436031922

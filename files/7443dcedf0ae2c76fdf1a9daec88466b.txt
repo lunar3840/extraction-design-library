@@ -1,0 +1,2 @@
+System.Exception: D08 candidate fails validation; retained scene not saved.
+  at Escape.EditorTools.StageABuildingD08Workflow.Apply () [0x001f4] in C:\UnityProject\escape\Assets\Escape\Editor\StageABuildingD08Workflow.cs:88 

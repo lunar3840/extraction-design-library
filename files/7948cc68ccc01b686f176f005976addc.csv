@@ -1,0 +1,14 @@
+﻿id,group,map_x,map_y,ground_y,yaw,scale,visual_width,visual_depth,collision_width,collision_depth,prefab
+A_ReceivingCar,A_Receiving,166.500,208.000,1.535,90.0,1.000,3.976,1.815,1.815,3.976,StageA_v12_RustyVehicle_Car.prefab
+A_InboundCrates,A_Receiving,168.000,200.000,1.620,90.0,1.000,1.569,1.442,1.442,1.569,MAV16_WeatheredMilitaryCrates.prefab
+A_OilDrums,A_Receiving,168.000,195.500,1.655,0.0,1.000,1.658,1.715,1.658,1.715,MAV16_RustyOilBarrels.prefab
+B1_IndustrialEngine,B1_Repair,149.500,193.500,1.246,-12.0,1.000,1.132,2.459,1.132,2.459,MAV16_IndustrialEngine.prefab
+B1_WaitingPipes,B1_Repair,152.000,199.000,1.334,84.0,0.764,1.052,2.100,2.100,1.052,MAV16_IndustrialPipeBundle.prefab
+B1_ToolCart,B1_Repair,153.000,188.500,1.303,6.0,1.000,0.586,1.143,0.586,1.143,MAV16_ToolCart.prefab
+B1_RepairPump,B1_WorkCell,155.000,194.000,1.365,90.0,1.000,1.029,2.258,2.258,1.029,MAV16_IndustrialPump.prefab
+B1_PipeRack,B1_WorkCell,158.500,199.000,1.485,0.0,0.817,3.200,1.318,3.200,1.318,MAV16_IndustrialPipeRack.prefab
+B1_CableReel,B1_WorkCell,159.000,190.000,1.430,23.0,1.000,2.060,1.525,2.060,1.525,MAV16_IndustrialCableReel.prefab
+B1_SpareFlywheel,B1_WorkCell,156.500,202.000,1.456,-17.0,1.000,1.790,1.968,1.790,1.968,MAV16_IndustrialFlywheel.prefab
+C_ServiceGenerator,C_Service,129.500,176.800,1.685,8.0,1.000,2.773,1.368,2.773,1.368,MAV16_WeatheredIndustrialGenerator.prefab
+C_ToolPoint,C_Service,121.500,174.000,1.686,-20.0,1.000,0.586,1.143,0.586,1.143,MAV16_ToolCart.prefab
+C_SpareCouplings,C_Service,114.500,175.000,1.678,25.0,1.000,1.540,1.770,1.540,1.770,MAV16_IndustrialPipeCoupling.prefab

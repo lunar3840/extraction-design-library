@@ -1,0 +1,13 @@
+STAGE_A_LOOK_V19_BASELINE
+generatedUtc=2026-09-22T17:01:11.5820824Z
+PASS map reference is live
+PASS no V19-owned roots exist before capture
+PASS structure and V16/V17 controllers exist
+PASS existing V17 west repair root exists
+PASS all eleven explicitly allowed old panel transforms exist
+PASS all 4,665 existing colliders inventoried
+PASS all 5,990 existing renderers, including V18, inventoried
+PASS all 46 existing gameplay anchors inventoried
+NOTE colliders=4665:43525D51EC75A825 renderers=5990:117FC7C47E872C53 anchors=46:86E2F0F4D46F8D4B settings=28942B7387F2A992 allowedOldTransforms=E8BAB187D7ECFF1A
+SUMMARY passed=8 failed=0
+RESULT BASELINE_CAPTURED

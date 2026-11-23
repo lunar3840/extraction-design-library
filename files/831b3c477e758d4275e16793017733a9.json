@@ -1,0 +1,99 @@
+{
+  "reviewed_at_kst": "2026-11-21T04:59:55.154218+09:00",
+  "actually_viewed": [
+    {
+      "file": "SPATIAL_BEFORE_AFTER.png",
+      "sha256": "d6d3ca23c1ee2858816dff631e5dc96cb6262405407b61f3815c28633b930f96"
+    },
+    {
+      "file": "SPATIAL_CADENCE.png",
+      "sha256": "4c3b2b558486e137dc5fc500e43f7cd2a7c355e7ae41054c7dcff11f45039d00"
+    },
+    {
+      "file": "TEMPORAL_initial_release.png",
+      "sha256": "38ed6c5018103195f969a4b1b02ed95a566db06203f8bc7221e829170fb81652"
+    },
+    {
+      "file": "TEMPORAL_pouch_turn.png",
+      "sha256": "74493494592ce8b8c8bf5b9e63399489f0079b9b481b42c5ce442d273d036105"
+    },
+    {
+      "file": "TEMPORAL_carry_outer.png",
+      "sha256": "5b169d96c80e126dae76c01d8faad34bef44b95dbd96595982e375dfdc255bc7"
+    },
+    {
+      "file": "TEMPORAL_foregrip_rejoin.png",
+      "sha256": "6e434684c7f1ce5c36f15b1cad275d50e53ec45295cc50455811e35009de546a"
+    }
+  ],
+  "findings": [
+    "Initial finger opening is accompanied by a small continuing wrist movement.",
+    "Pouch turn1.267..1.333s and carry2.467..2.517s show progressing hand/rotation through former waypoints in sequential stills.",
+    "Source contact choreography, hand direction and character/material appearance remain recognizable in viewed panels.",
+    "Temporal-board source layout is top=Flow02,bottom=Spatial01 for each time; comparison movie is left=Flow02,right=Spatial01."
+  ],
+  "scope": "Six boards actually viewed; no real-time continuous video observation or aesthetic-realism certification.",
+  "geometry_scope": "Spatial paths have changed. Prior common-time-remap proof cannot replace fresh changed-window geometry QA.",
+  "media_verification": "All three final movies fully decoded,counts212/180/212 and60fps,frameMD5/PTS recorded in VIDEO_VERIFICATION_01.json.",
+  "unity_applied": false,
+  "additional_elbow_review": {
+    "reviewed_at_kst": "2026-11-21T05:16:34.153338+09:00",
+    "actually_viewed": [
+      {
+        "file": "qa-independent/ELBOW_flow02_inner.png",
+        "sha256": "16b940807f3a3947f95c6b12acadfb756b781ae1845d18d09d4aa62eec4560cd"
+      },
+      {
+        "file": "qa-independent/ELBOW_flow02_side.png",
+        "sha256": "e100c22495cf83efb729d2aa565a7afcb03f4b5a2e7f8a53f04dad40352fed6f"
+      },
+      {
+        "file": "qa-independent/ELBOW_flow02_context.png",
+        "sha256": "f73e07d84714c661c4c78f2dd550411ca7d43b02bc679d7541033ea27e0120d3"
+      },
+      {
+        "file": "qa-independent/ELBOW_spatial01_inner.png",
+        "sha256": "7050e9dea726f1ae8b5837c8566302e2ba742ae4b5a760c1c0f28b5c10e4abdb"
+      },
+      {
+        "file": "qa-independent/ELBOW_spatial01_side.png",
+        "sha256": "afbcf4ed50d29e8aa24a03996899623f3d22dddcab02abe6c76e2c29b5807f9e"
+      },
+      {
+        "file": "qa-independent/ELBOW_spatial01_context.png",
+        "sha256": "e7acc585b019efa300737e6f7b3104336aaf110c00b00f69c12fd06a1951267d"
+      }
+    ],
+    "provenance_sha256": "c5927b6ea187f8d5657bdd5829a6d5e59c3791f929cc8df9c841ed41e7a9013c",
+    "findings": "At the rendered474.077689 native frame, same-camera original-material inner/side/context images show broadly the same pre-existing inner-elbow fold. No new conspicuous external silhouette tear seen at that selected view. This does not classify all other elbow candidates or certify whole-skin nonintersection.",
+    "display_mask_note": "Temporary arm visibility mask creates cutoffs; these are not holes authored into the native mesh. Diagnostic reference images are not the official pre-edit8pairs.",
+    "independent_geometry_verdict_pending_separately": true
+  },
+  "extra_411_review": {
+    "reviewed_at_kst": "2026-11-21T05:22:50.361450+09:00",
+    "actually_viewed": [
+      {
+        "file": "qa-independent/ELBOW411_flow02_inner.png",
+        "sha256": "d2f3a09e4d6c6021ef81cf837151235eed70fce9c2890b8d8dd6c3424a6152bd"
+      },
+      {
+        "file": "qa-independent/ELBOW411_flow02_side.png",
+        "sha256": "97cf4a0a5c699b3f2785edefc8a87ac8892ce6d0b6249c27b676eb5fa325e01d"
+      },
+      {
+        "file": "qa-independent/ELBOW411_spatial01_inner.png",
+        "sha256": "0368f604c4a53042ff049466288e3341755c09e098b33240d87952d4b53416d4"
+      },
+      {
+        "file": "qa-independent/ELBOW411_spatial01_side.png",
+        "sha256": "8c3c0ae2e004707112bb514164562f6582b97ee8910045e82019f35a516614e9"
+      }
+    ],
+    "provenance_sha256": "59782f9d95d1e36ee71a077b317a2572822ac2e697bf695bb4b56d379069bb5d",
+    "findings": "At411.9392968, old/new inner and side diagnostic images show a closely matching existing elbow crease. Small surface-boundary change is retained in the quantitative independent report; this visual check is not a claim of whole-skin nonintersection or zero raw pairs.",
+    "display_mask_note": "Temporary diagnostic visibility mask; cutoff edges are not native mesh holes."
+  },
+  "status_at_visual_review_time": "Main actual-render/decoded-still review complete; independent new-space geometry verdict pending separately.",
+  "status": "Main visual review complete; final independent result read and accepted only inMAIN_FINAL_ACCEPTANCE scope.",
+  "final_resolution": "MAIN_FINAL_ACCEPTANCE.json; local skin folds explicitly remain."
+}

@@ -1,0 +1,14 @@
+{
+  "inputRows": 3155,
+  "concreteEffectInterpretations": 943,
+  "syntaxAndConnectionRoles": 2212,
+  "unmatched": 0,
+  "sourceFiles": 90,
+  "method": "Read-only Roslyn syntax trees, method symbols, exact source-line and literal-value correspondence; nine manual original-text/declaration comparisons; no Unity execution",
+  "valueMismatch": {
+    "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L93:4",
+    "published": 75,
+    "source": 0.75,
+    "changed": false
+  }
+}

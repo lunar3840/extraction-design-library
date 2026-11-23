@@ -1,0 +1,145 @@
+{
+  "run": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\routes\\runtime_regression_critical_normal_639288555545273273",
+  "totalRows": 252,
+  "lanes": [
+    {
+      "lane": "curb01_original_fail_east",
+      "rows": 42,
+      "firstStep": 1,
+      "lastStep": 42,
+      "uniqueFrames": 42,
+      "maxStepsPerFrame": 1,
+      "minFrameGap": 1,
+      "maxFrameGap": 1,
+      "sampledActualGameSeconds": 5.288399,
+      "groundedRows": 39,
+      "flags": {
+        "Below": 39,
+        "None": 3
+      },
+      "maxRecorded3DStep": 0.08871602302289776,
+      "maxRecordedYStep": 0.05852900000000005,
+      "end": [
+        -37.4,
+        1.383924,
+        -51.48
+      ]
+    },
+    {
+      "lane": "curb01_original_fail_west",
+      "rows": 42,
+      "firstStep": 1,
+      "lastStep": 42,
+      "uniqueFrames": 42,
+      "maxStepsPerFrame": 1,
+      "minFrameGap": 1,
+      "maxFrameGap": 1,
+      "sampledActualGameSeconds": 5.222368999999999,
+      "groundedRows": 39,
+      "flags": {
+        "Below": 39,
+        "None": 3
+      },
+      "maxRecorded3DStep": 0.08937612039017943,
+      "maxRecordedYStep": 0.05953600000000003,
+      "end": [
+        -40.2,
+        1.342962,
+        -51.48
+      ]
+    },
+    {
+      "lane": "join_south_01_east",
+      "rows": 42,
+      "firstStep": 1,
+      "lastStep": 42,
+      "uniqueFrames": 42,
+      "maxStepsPerFrame": 1,
+      "minFrameGap": 1,
+      "maxFrameGap": 1,
+      "sampledActualGameSeconds": 5.310987000000001,
+      "groundedRows": 39,
+      "flags": {
+        "Below": 39,
+        "None": 3
+      },
+      "maxRecorded3DStep": 0.08846512761534515,
+      "maxRecordedYStep": 0.058147999999999866,
+      "end": [
+        -37.4,
+        1.517964,
+        -48.65
+      ]
+    },
+    {
+      "lane": "join_south_01_west",
+      "rows": 42,
+      "firstStep": 1,
+      "lastStep": 42,
+      "uniqueFrames": 42,
+      "maxStepsPerFrame": 1,
+      "minFrameGap": 1,
+      "maxFrameGap": 1,
+      "sampledActualGameSeconds": 5.197671,
+      "groundedRows": 39,
+      "flags": {
+        "Below": 39,
+        "None": 3
+      },
+      "maxRecorded3DStep": 0.089639056777723,
+      "maxRecordedYStep": 0.05993000000000004,
+      "end": [
+        -40.2,
+        1.484505,
+        -48.65
+      ]
+    },
+    {
+      "lane": "join_north_02_east",
+      "rows": 42,
+      "firstStep": 1,
+      "lastStep": 42,
+      "uniqueFrames": 42,
+      "maxStepsPerFrame": 1,
+      "minFrameGap": 1,
+      "maxFrameGap": 1,
+      "sampledActualGameSeconds": 5.216358999999997,
+      "groundedRows": 39,
+      "flags": {
+        "Below": 39,
+        "None": 3
+      },
+      "maxRecorded3DStep": 0.08880250278004184,
+      "maxRecordedYStep": 0.058660000000000156,
+      "end": [
+        -37.4,
+        1.530724,
+        -48.35
+      ]
+    },
+    {
+      "lane": "join_north_02_west",
+      "rows": 42,
+      "firstStep": 1,
+      "lastStep": 42,
+      "uniqueFrames": 42,
+      "maxStepsPerFrame": 1,
+      "minFrameGap": 1,
+      "maxFrameGap": 1,
+      "sampledActualGameSeconds": 5.246015,
+      "groundedRows": 39,
+      "flags": {
+        "Below": 39,
+        "None": 3
+      },
+      "maxRecorded3DStep": 0.08923504118898508,
+      "maxRecordedYStep": 0.059324000000000154,
+      "end": [
+        -40.2,
+        1.498134,
+        -48.35
+      ]
+    }
+  ],
+  "currentSavedPrefabSHA256": "b849090f053449e3c64b1f8bf65d50b78311bc1bcf046d14fe0250422cad04b7"
+}

@@ -1,0 +1,9 @@
+{
+  "new_compile_error_count": 0,
+  "new_exception_headings": [
+    "IOException: Sharing violation on path C:\\UnityProject\\escape\\Library\\GamePerf53CombinedFinal.request",
+    "IOException: Sharing violation on path C:\\UnityProject\\escape\\Library\\GamePerf53CombinedFinal.request"
+  ],
+  "note": "Includes temporary request polling errors; cleanup interval separate FINAL26_CLEAN_EDIT_LOG.txt",
+  "at": "2026-11-03T12:47:28.0906377+09:00"
+}

@@ -1,0 +1,1370 @@
+A map V13 independent integration checks
+2026-09-22 오전 2:35:41
+PASS hall root exists
+PASS group Floor_B1
+PASS group Floor_1F
+PASS group Floor_2F
+PASS group Roof
+PASS group Exterior
+PASS group Anchors
+PASS layer controller references actual hall
+PASS roof renderers populated
+PASS 2F renderers populated
+PASS render-only terrain cut arrays populated and matched
+PASS roof at (0.00, 2.00, -40.00)
+PASS colliders unchanged by cutaway at (0.00, 2.00, -40.00)
+PASS upper layer at (0.00, 2.00, -40.00)
+PASS 1F ceiling hidden from basement at (0.00, 2.00, -40.00)
+PASS terrain visual layer at (0.00, 2.00, -40.00) tile=0
+PASS terrain physical mesh retained at (0.00, 2.00, -40.00) tile=0
+PASS terrain visual layer at (0.00, 2.00, -40.00) tile=1
+PASS terrain physical mesh retained at (0.00, 2.00, -40.00) tile=1
+PASS terrain visual layer at (0.00, 2.00, -40.00) tile=2
+PASS terrain physical mesh retained at (0.00, 2.00, -40.00) tile=2
+PASS terrain visual layer at (0.00, 2.00, -40.00) tile=3
+PASS terrain physical mesh retained at (0.00, 2.00, -40.00) tile=3
+PASS roof at (0.00, 2.00, -26.00)
+PASS colliders unchanged by cutaway at (0.00, 2.00, -26.00)
+PASS upper layer at (0.00, 2.00, -26.00)
+PASS 1F ceiling hidden from basement at (0.00, 2.00, -26.00)
+PASS terrain visual layer at (0.00, 2.00, -26.00) tile=0
+PASS terrain physical mesh retained at (0.00, 2.00, -26.00) tile=0
+PASS terrain visual layer at (0.00, 2.00, -26.00) tile=1
+PASS terrain physical mesh retained at (0.00, 2.00, -26.00) tile=1
+PASS terrain visual layer at (0.00, 2.00, -26.00) tile=2
+PASS terrain physical mesh retained at (0.00, 2.00, -26.00) tile=2
+PASS terrain visual layer at (0.00, 2.00, -26.00) tile=3
+PASS terrain physical mesh retained at (0.00, 2.00, -26.00) tile=3
+PASS roof at (-23.00, -4.00, 0.00)
+PASS colliders unchanged by cutaway at (-23.00, -4.00, 0.00)
+PASS upper layer at (-23.00, -4.00, 0.00)
+PASS 1F ceiling hidden from basement at (-23.00, -4.00, 0.00)
+PASS terrain visual layer at (-23.00, -4.00, 0.00) tile=0
+PASS terrain physical mesh retained at (-23.00, -4.00, 0.00) tile=0
+PASS terrain visual layer at (-23.00, -4.00, 0.00) tile=1
+PASS terrain physical mesh retained at (-23.00, -4.00, 0.00) tile=1
+PASS terrain visual layer at (-23.00, -4.00, 0.00) tile=2
+PASS terrain physical mesh retained at (-23.00, -4.00, 0.00) tile=2
+PASS terrain visual layer at (-23.00, -4.00, 0.00) tile=3
+PASS terrain physical mesh retained at (-23.00, -4.00, 0.00) tile=3
+PASS roof at (-23.00, 8.00, 0.00)
+PASS colliders unchanged by cutaway at (-23.00, 8.00, 0.00)
+PASS upper layer at (-23.00, 8.00, 0.00)
+PASS 1F ceiling hidden from basement at (-23.00, 8.00, 0.00)
+PASS terrain visual layer at (-23.00, 8.00, 0.00) tile=0
+PASS terrain physical mesh retained at (-23.00, 8.00, 0.00) tile=0
+PASS terrain visual layer at (-23.00, 8.00, 0.00) tile=1
+PASS terrain physical mesh retained at (-23.00, 8.00, 0.00) tile=1
+PASS terrain visual layer at (-23.00, 8.00, 0.00) tile=2
+PASS terrain physical mesh retained at (-23.00, 8.00, 0.00) tile=2
+PASS terrain visual layer at (-23.00, 8.00, 0.00) tile=3
+PASS terrain physical mesh retained at (-23.00, 8.00, 0.00) tile=3
+PASS roof at (0.00, 2.00, -40.00)
+PASS colliders unchanged by cutaway at (0.00, 2.00, -40.00)
+PASS upper layer at (0.00, 2.00, -40.00)
+PASS 1F ceiling hidden from basement at (0.00, 2.00, -40.00)
+PASS terrain visual layer at (0.00, 2.00, -40.00) tile=0
+PASS terrain physical mesh retained at (0.00, 2.00, -40.00) tile=0
+PASS terrain visual layer at (0.00, 2.00, -40.00) tile=1
+PASS terrain physical mesh retained at (0.00, 2.00, -40.00) tile=1
+PASS terrain visual layer at (0.00, 2.00, -40.00) tile=2
+PASS terrain physical mesh retained at (0.00, 2.00, -40.00) tile=2
+PASS terrain visual layer at (0.00, 2.00, -40.00) tile=3
+PASS terrain physical mesh retained at (0.00, 2.00, -40.00) tile=3
+PASS valid hall material B1_Floor_Structure
+PASS valid hall material B1_Floor_FactorySurface_0_0
+PASS valid hall material B1_Floor_FactorySurface_0_1
+PASS valid hall material B1_Floor_FactorySurface_0_2
+PASS valid hall material B1_Floor_FactorySurface_0_3
+PASS valid hall material B1_Floor_FactorySurface_0_4
+PASS valid hall material B1_Floor_FactorySurface_1_0
+PASS valid hall material B1_Floor_FactorySurface_1_1
+PASS valid hall material B1_Floor_FactorySurface_1_2
+PASS valid hall material B1_Floor_FactorySurface_1_3
+PASS valid hall material B1_Floor_FactorySurface_1_4
+PASS valid hall material B1_Floor_FactorySurface_2_0
+PASS valid hall material B1_Floor_FactorySurface_2_1
+PASS valid hall material B1_Floor_FactorySurface_2_2
+PASS valid hall material B1_Floor_FactorySurface_2_3
+PASS valid hall material B1_Floor_FactorySurface_2_4
+PASS valid hall material B1_Floor_FactorySurface_3_0
+PASS valid hall material B1_Floor_FactorySurface_3_1
+PASS valid hall material B1_Floor_FactorySurface_3_2
+PASS valid hall material B1_Floor_FactorySurface_3_3
+PASS valid hall material B1_Floor_FactorySurface_3_4
+PASS valid hall material B1_Floor_FactorySurface_4_0
+PASS valid hall material B1_Floor_FactorySurface_4_1
+PASS valid hall material B1_Floor_FactorySurface_4_2
+PASS valid hall material B1_Floor_FactorySurface_4_3
+PASS valid hall material B1_Floor_FactorySurface_4_4
+PASS valid hall material B1_Floor_FactorySurface_5_0
+PASS valid hall material B1_Floor_FactorySurface_5_1
+PASS valid hall material B1_Floor_FactorySurface_5_2
+PASS valid hall material B1_Floor_FactorySurface_5_3
+PASS valid hall material B1_Floor_FactorySurface_5_4
+PASS valid hall material B1_Floor_FactorySurface_6_0
+PASS valid hall material B1_Floor_FactorySurface_6_1
+PASS valid hall material B1_Floor_FactorySurface_6_2
+PASS valid hall material B1_Floor_FactorySurface_6_3
+PASS valid hall material B1_Floor_FactorySurface_6_4
+PASS valid hall material WestConnection_North_-39.7_Panel_0
+PASS valid hall material WestConnection_North_-28.4_Panel_0
+PASS valid hall material WestConnection_South_-39.7_Panel_0
+PASS valid hall material WestConnection_South_-39.7_Panel_1
+PASS valid hall material WestConnection_East_-7.0_Panel_0
+PASS valid hall material WestConnection_East_1.6_Panel_0
+PASS valid hall material WestService_North_-37.0_Panel_0
+PASS valid hall material WestService_North_-28.4_Panel_0
+PASS valid hall material WestService_North_-24.8_Panel_0
+PASS valid hall material WestService_East_-28.0_Panel_0
+PASS valid hall material WestService_East_-18.3_Panel_0
+PASS valid hall material WestService_South_-37.0_Panel_0
+PASS valid hall material WestService_South_-37.0_Panel_1
+PASS valid hall material EastService_West_-27.0_Panel_0
+PASS valid hall material EastService_West_-16.8_Panel_0
+PASS valid hall material EastService_West_-16.8_Panel_1
+PASS valid hall material EastService_West_1.7_Panel_0
+PASS valid hall material EastService_Divider_17.0_Panel_0
+PASS valid hall material EastService_Divider_33.6_Panel_0
+PASS valid hall material EastService_South_17.0_Panel_0
+PASS valid hall material EastService_South_17.0_Panel_1
+PASS valid hall material EastService_North_17.0_Panel_0
+PASS valid hall material EastService_North_17.0_Panel_1
+PASS valid hall material InspectionLoop_South_-27.0_Panel_0
+PASS valid hall material InspectionLoop_South_-22.2_Panel_0
+PASS valid hall material InspectionLoop_South_-22.2_Panel_1
+PASS valid hall material InspectionLoop_South_1.8_Panel_0
+PASS valid hall material InspectionLoop_South_1.8_Panel_1
+PASS valid hall material InspectionLoop_South_25.8_Panel_0
+PASS valid hall material InspectionLoop_NorthRail
+PASS valid hall material ContinuousRamp
+PASS valid hall material TopLanding
+PASS valid hall material Tread_01
+PASS valid hall material Tread_02
+PASS valid hall material Tread_03
+PASS valid hall material Tread_04
+PASS valid hall material Tread_05
+PASS valid hall material Tread_06
+PASS valid hall material Tread_07
+PASS valid hall material Tread_08
+PASS valid hall material Tread_09
+PASS valid hall material Tread_10
+PASS valid hall material Tread_11
+PASS valid hall material Tread_12
+PASS valid hall material Tread_13
+PASS valid hall material Tread_14
+PASS valid hall material Tread_15
+PASS valid hall material Tread_16
+PASS valid hall material Tread_17
+PASS valid hall material Tread_18
+PASS valid hall material Tread_19
+PASS valid hall material Tread_20
+PASS valid hall material Tread_21
+PASS valid hall material Tread_22
+PASS valid hall material Tread_23
+PASS valid hall material Tread_24
+PASS valid hall material Guard_W
+PASS valid hall material Guard_E
+PASS valid hall material ContinuousRamp
+PASS valid hall material TopLanding
+PASS valid hall material Tread_01
+PASS valid hall material Tread_02
+PASS valid hall material Tread_03
+PASS valid hall material Tread_04
+PASS valid hall material Tread_05
+PASS valid hall material Tread_06
+PASS valid hall material Tread_07
+PASS valid hall material Tread_08
+PASS valid hall material Tread_09
+PASS valid hall material Tread_10
+PASS valid hall material Tread_11
+PASS valid hall material Tread_12
+PASS valid hall material Tread_13
+PASS valid hall material Tread_14
+PASS valid hall material Tread_15
+PASS valid hall material Tread_16
+PASS valid hall material Tread_17
+PASS valid hall material Tread_18
+PASS valid hall material Tread_19
+PASS valid hall material Tread_20
+PASS valid hall material Tread_21
+PASS valid hall material Tread_22
+PASS valid hall material Tread_23
+PASS valid hall material Tread_24
+PASS valid hall material Guard_W
+PASS valid hall material Guard_E
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Transformer_A
+PASS valid hall material Transformer_B
+PASS valid hall material ExtractionFan
+PASS valid hall material Top
+PASS valid hall material Leg_-1_-1
+PASS valid hall material Leg_-1_1
+PASS valid hall material Leg_1_-1
+PASS valid hall material Leg_1_1
+PASS valid hall material ServiceBottle_A
+PASS valid hall material ServiceBottle_B
+PASS valid hall material Base
+PASS valid hall material Post_-1_-1
+PASS valid hall material Post_-1_1
+PASS valid hall material Post_1_-1
+PASS valid hall material Post_1_1
+PASS valid hall material Beam_N
+PASS valid hall material Beam_S
+PASS valid hall material Top
+PASS valid hall material Leg_-1_-1
+PASS valid hall material Leg_-1_1
+PASS valid hall material Leg_1_-1
+PASS valid hall material Leg_1_1
+PASS valid hall material Top
+PASS valid hall material Leg_-1_-1
+PASS valid hall material Leg_-1_1
+PASS valid hall material Leg_1_-1
+PASS valid hall material Leg_1_1
+PASS valid hall material LooseDriveUnit
+PASS valid hall material CentralSpares_0
+PASS valid hall material CentralSpares_1
+PASS valid hall material CentralSpares_2
+PASS valid hall material HydraulicPack_A
+PASS valid hall material HydraulicPack_B
+PASS valid hall material Top
+PASS valid hall material Leg_-1_-1
+PASS valid hall material Leg_-1_1
+PASS valid hall material Leg_1_-1
+PASS valid hall material Leg_1_1
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material PartsCases_A_0
+PASS valid hall material PartsCases_A_1
+PASS valid hall material PartsCases_A_2
+PASS valid hall material PartsCases_A_3
+PASS valid hall material PartsCases_B_0
+PASS valid hall material PartsCases_B_1
+PASS valid hall material PartsCases_B_2
+PASS valid hall material Visual
+PASS valid hall material Visual
+PASS valid hall material Lamp_1
+PASS valid hall material Lamp_2
+PASS valid hall material Lamp_3
+PASS valid hall material Lamp_4
+PASS valid hall material Lamp_5
+PASS valid hall material Lamp_6
+PASS valid hall material CheckpointPanel
+PASS valid hall material Top
+PASS valid hall material Leg_-1_-1
+PASS valid hall material Leg_-1_1
+PASS valid hall material Leg_1_-1
+PASS valid hall material Leg_1_1
+PASS valid hall material CheckpointLamp
+PASS valid hall material CheckpointFloor_Structure
+PASS valid hall material CheckpointFloor_FactorySurface_0_0
+PASS valid hall material ConnectionCorridorFloor_Structure
+PASS valid hall material ConnectionCorridorFloor_FactorySurface_0_0
+PASS valid hall material CheckpointNorth_-51.0_Panel_0
+PASS valid hall material CheckpointWest_-0.5_Panel_0
+PASS valid hall material CheckpointSouth_-51.0_Panel_0
+PASS valid hall material CorridorNorth_-45.0_Panel_0
+PASS valid hall material CorridorSouth_-45.0_Panel_0
+PASS valid hall material 1F_CenterSlab_Structure
+PASS valid hall material 1F_CenterSlab_FactorySurface_0_0
+PASS valid hall material 1F_CenterSlab_FactorySurface_0_1
+PASS valid hall material 1F_CenterSlab_FactorySurface_0_2
+PASS valid hall material 1F_CenterSlab_FactorySurface_0_3
+PASS valid hall material 1F_CenterSlab_FactorySurface_0_4
+PASS valid hall material 1F_CenterSlab_FactorySurface_1_0
+PASS valid hall material 1F_CenterSlab_FactorySurface_1_1
+PASS valid hall material 1F_CenterSlab_FactorySurface_1_2
+PASS valid hall material 1F_CenterSlab_FactorySurface_1_3
+PASS valid hall material 1F_CenterSlab_FactorySurface_1_4
+PASS valid hall material 1F_CenterSlab_FactorySurface_2_0
+PASS valid hall material 1F_CenterSlab_FactorySurface_2_1
+PASS valid hall material 1F_CenterSlab_FactorySurface_2_2
+PASS valid hall material 1F_CenterSlab_FactorySurface_2_3
+PASS valid hall material 1F_CenterSlab_FactorySurface_2_4
+PASS valid hall material 1F_CenterSlab_FactorySurface_3_0
+PASS valid hall material 1F_CenterSlab_FactorySurface_3_1
+PASS valid hall material 1F_CenterSlab_FactorySurface_3_2
+PASS valid hall material 1F_CenterSlab_FactorySurface_3_3
+PASS valid hall material 1F_CenterSlab_FactorySurface_3_4
+PASS valid hall material 1F_CenterSlab_FactorySurface_4_0
+PASS valid hall material 1F_CenterSlab_FactorySurface_4_1
+PASS valid hall material 1F_CenterSlab_FactorySurface_4_2
+PASS valid hall material 1F_CenterSlab_FactorySurface_4_3
+PASS valid hall material 1F_CenterSlab_FactorySurface_4_4
+PASS valid hall material 1F_WestOuterSlab_Structure
+PASS valid hall material 1F_WestOuterSlab_FactorySurface_0_0
+PASS valid hall material 1F_WestOuterSlab_FactorySurface_0_1
+PASS valid hall material 1F_WestOuterSlab_FactorySurface_0_2
+PASS valid hall material 1F_WestOuterSlab_FactorySurface_0_3
+PASS valid hall material 1F_WestOuterSlab_FactorySurface_0_4
+PASS valid hall material 1F_WestHoleSouth_Structure
+PASS valid hall material 1F_WestHoleSouth_FactorySurface_0_0
+PASS valid hall material 1F_WestHoleSouth_FactorySurface_0_1
+PASS valid hall material 1F_WestHoleNorth_Structure
+PASS valid hall material 1F_WestHoleNorth_FactorySurface_0_0
+PASS valid hall material 1F_WestHoleNorth_FactorySurface_0_1
+PASS valid hall material 1F_WestHoleNorth_FactorySurface_0_2
+PASS valid hall material 1F_EastOuterSlab_Structure
+PASS valid hall material 1F_EastOuterSlab_FactorySurface_0_0
+PASS valid hall material 1F_EastOuterSlab_FactorySurface_0_1
+PASS valid hall material 1F_EastOuterSlab_FactorySurface_0_2
+PASS valid hall material 1F_EastOuterSlab_FactorySurface_0_3
+PASS valid hall material 1F_EastOuterSlab_FactorySurface_0_4
+PASS valid hall material 1F_EastHoleSouth_Structure
+PASS valid hall material 1F_EastHoleSouth_FactorySurface_0_0
+PASS valid hall material 1F_EastHoleSouth_FactorySurface_0_1
+PASS valid hall material 1F_EastHoleNorth_Structure
+PASS valid hall material 1F_EastHoleNorth_FactorySurface_0_0
+PASS valid hall material 1F_EastHoleNorth_FactorySurface_0_1
+PASS valid hall material 1F_EastHoleNorth_FactorySurface_0_2
+PASS valid hall material Lobby_North_-13.0_Panel_0
+PASS valid hall material Lobby_North_-2.2_Panel_0
+PASS valid hall material Lobby_North_5.5_Panel_0
+PASS valid hall material Lobby_West_-32.7_Panel_0
+PASS valid hall material Lobby_West_-23.7_Panel_0
+PASS valid hall material Lobby_East_-32.7_Panel_0
+PASS valid hall material Lobby_East_-23.7_Panel_0
+PASS valid hall material InspectionLane_W
+PASS valid hall material InspectionLane_E
+PASS valid hall material WestWorkshop_East_-19.0_Panel_0
+PASS valid hall material WestWorkshop_East_-8.5_Panel_0
+PASS valid hall material WestWorkshop_East_6.5_Panel_0
+PASS valid hall material WestWorkshop_South_-39.7_Panel_0
+PASS valid hall material WestWorkshop_South_-39.7_Panel_1
+PASS valid hall material WestWorkshop_South_-23.8_Panel_0
+PASS valid hall material WestWorkshop_North_-39.7_Panel_0
+PASS valid hall material WestWorkshop_North_-28.4_Panel_0
+PASS valid hall material EastParts_West_-19.0_Panel_0
+PASS valid hall material EastParts_West_-8.5_Panel_0
+PASS valid hall material EastParts_West_6.5_Panel_0
+PASS valid hall material EastParts_South_18.0_Panel_0
+PASS valid hall material EastParts_South_28.0_Panel_0
+PASS valid hall material EastParts_North_18.0_Panel_0
+PASS valid hall material EastParts_North_33.6_Panel_0
+PASS valid hall material ContinuousRamp
+PASS valid hall material TopLanding
+PASS valid hall material Tread_01
+PASS valid hall material Tread_02
+PASS valid hall material Tread_03
+PASS valid hall material Tread_04
+PASS valid hall material Tread_05
+PASS valid hall material Tread_06
+PASS valid hall material Tread_07
+PASS valid hall material Tread_08
+PASS valid hall material Tread_09
+PASS valid hall material Tread_10
+PASS valid hall material Tread_11
+PASS valid hall material Tread_12
+PASS valid hall material Tread_13
+PASS valid hall material Tread_14
+PASS valid hall material Tread_15
+PASS valid hall material Tread_16
+PASS valid hall material Tread_17
+PASS valid hall material Tread_18
+PASS valid hall material Tread_19
+PASS valid hall material Tread_20
+PASS valid hall material Tread_21
+PASS valid hall material Tread_22
+PASS valid hall material Tread_23
+PASS valid hall material Tread_24
+PASS valid hall material Guard_W
+PASS valid hall material Guard_E
+PASS valid hall material ContinuousRamp
+PASS valid hall material TopLanding
+PASS valid hall material Tread_01
+PASS valid hall material Tread_02
+PASS valid hall material Tread_03
+PASS valid hall material Tread_04
+PASS valid hall material Tread_05
+PASS valid hall material Tread_06
+PASS valid hall material Tread_07
+PASS valid hall material Tread_08
+PASS valid hall material Tread_09
+PASS valid hall material Tread_10
+PASS valid hall material Tread_11
+PASS valid hall material Tread_12
+PASS valid hall material Tread_13
+PASS valid hall material Tread_14
+PASS valid hall material Tread_15
+PASS valid hall material Tread_16
+PASS valid hall material Tread_17
+PASS valid hall material Tread_18
+PASS valid hall material Tread_19
+PASS valid hall material Tread_20
+PASS valid hall material Tread_21
+PASS valid hall material Tread_22
+PASS valid hall material Tread_23
+PASS valid hall material Tread_24
+PASS valid hall material Guard_W
+PASS valid hall material Guard_E
+PASS valid hall material Top
+PASS valid hall material Leg_-1_-1
+PASS valid hall material Leg_-1_1
+PASS valid hall material Leg_1_-1
+PASS valid hall material Leg_1_1
+PASS valid hall material Top
+PASS valid hall material Leg_-1_-1
+PASS valid hall material Leg_-1_1
+PASS valid hall material Leg_1_-1
+PASS valid hall material Leg_1_1
+PASS valid hall material Top
+PASS valid hall material Leg_-1_-1
+PASS valid hall material Leg_-1_1
+PASS valid hall material Leg_1_-1
+PASS valid hall material Leg_1_1
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material MotorOnBench
+PASS valid hall material WorkshopBarrel
+PASS valid hall material WorkshopScrap
+PASS valid hall material GeneratorPlinth
+PASS valid hall material IndustrialGeneratorFrame
+PASS valid hall material Visual
+PASS valid hall material Visual
+PASS valid hall material Post_-1_-1
+PASS valid hall material Post_-1_1
+PASS valid hall material Post_1_-1
+PASS valid hall material Post_1_1
+PASS valid hall material Beam_N
+PASS valid hall material Beam_S
+PASS valid hall material SafetyRail_N
+PASS valid hall material SafetyRail_S
+PASS valid hall material SafetyRail_W
+PASS valid hall material SafetyRail_E
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Top
+PASS valid hall material Leg_-1_-1
+PASS valid hall material Leg_-1_1
+PASS valid hall material Leg_1_-1
+PASS valid hall material Leg_1_1
+PASS valid hall material Top
+PASS valid hall material Leg_-1_-1
+PASS valid hall material Leg_-1_1
+PASS valid hall material Leg_1_-1
+PASS valid hall material Leg_1_1
+PASS valid hall material PartsPallet_A_0
+PASS valid hall material PartsPallet_A_1
+PASS valid hall material PartsPallet_A_2
+PASS valid hall material PartsPallet_A_3
+PASS valid hall material PartsPallet_B_0
+PASS valid hall material PartsPallet_B_1
+PASS valid hall material PartsPallet_B_2
+PASS valid hall material PartsPallet_B_3
+PASS valid hall material PartsPallet_B_4
+PASS valid hall material Visual
+PASS valid hall material Visual
+PASS valid hall material ToolTestPanel
+PASS valid hall material IncomingCrates_0
+PASS valid hall material IncomingCrates_1
+PASS valid hall material IncomingCrates_2
+PASS valid hall material IncomingCrates_3
+PASS valid hall material IncomingCrates_4
+PASS valid hall material Top
+PASS valid hall material Leg_-1_-1
+PASS valid hall material Leg_-1_1
+PASS valid hall material Leg_1_-1
+PASS valid hall material Leg_1_1
+PASS valid hall material LoadingBarrel_A
+PASS valid hall material LoadingBarrel_B
+PASS valid hall material Lamp_1
+PASS valid hall material Lamp_2
+PASS valid hall material Lamp_3
+PASS valid hall material Lamp_4
+PASS valid hall material Lamp_5
+PASS valid hall material Lamp_6
+PASS valid hall material 2F_WestOuter_Structure
+PASS valid hall material 2F_WestOuter_FactorySurface_0_0
+PASS valid hall material 2F_WestOuter_FactorySurface_0_1
+PASS valid hall material 2F_WestOuter_FactorySurface_0_2
+PASS valid hall material 2F_WestOuter_FactorySurface_0_3
+PASS valid hall material 2F_WestOuter_FactorySurface_0_4
+PASS valid hall material 2F_WestInner_Structure
+PASS valid hall material 2F_WestInner_FactorySurface_0_0
+PASS valid hall material 2F_WestInner_FactorySurface_0_1
+PASS valid hall material 2F_WestInner_FactorySurface_0_2
+PASS valid hall material 2F_WestInner_FactorySurface_0_3
+PASS valid hall material 2F_WestInner_FactorySurface_0_4
+PASS valid hall material 2F_WestInner_FactorySurface_1_0
+PASS valid hall material 2F_WestInner_FactorySurface_1_1
+PASS valid hall material 2F_WestInner_FactorySurface_1_2
+PASS valid hall material 2F_WestInner_FactorySurface_1_3
+PASS valid hall material 2F_WestInner_FactorySurface_1_4
+PASS valid hall material 2F_WestStairSouth_Structure
+PASS valid hall material 2F_WestStairSouth_FactorySurface_0_0
+PASS valid hall material 2F_WestStairSouth_FactorySurface_0_1
+PASS valid hall material 2F_WestStairSouth_FactorySurface_0_2
+PASS valid hall material 2F_WestStairSouth_FactorySurface_0_3
+PASS valid hall material 2F_WestStairNorth_Structure
+PASS valid hall material 2F_WestStairNorth_FactorySurface_0_0
+PASS valid hall material 2F_EastOuter_Structure
+PASS valid hall material 2F_EastOuter_FactorySurface_0_0
+PASS valid hall material 2F_EastOuter_FactorySurface_0_1
+PASS valid hall material 2F_EastOuter_FactorySurface_0_2
+PASS valid hall material 2F_EastOuter_FactorySurface_0_3
+PASS valid hall material 2F_EastOuter_FactorySurface_0_4
+PASS valid hall material 2F_EastInner_Structure
+PASS valid hall material 2F_EastInner_FactorySurface_0_0
+PASS valid hall material 2F_EastInner_FactorySurface_0_1
+PASS valid hall material 2F_EastInner_FactorySurface_0_2
+PASS valid hall material 2F_EastInner_FactorySurface_0_3
+PASS valid hall material 2F_EastInner_FactorySurface_0_4
+PASS valid hall material 2F_EastInner_FactorySurface_1_0
+PASS valid hall material 2F_EastInner_FactorySurface_1_1
+PASS valid hall material 2F_EastInner_FactorySurface_1_2
+PASS valid hall material 2F_EastInner_FactorySurface_1_3
+PASS valid hall material 2F_EastInner_FactorySurface_1_4
+PASS valid hall material 2F_EastStairSouth_Structure
+PASS valid hall material 2F_EastStairSouth_FactorySurface_0_0
+PASS valid hall material 2F_EastStairSouth_FactorySurface_0_1
+PASS valid hall material 2F_EastStairSouth_FactorySurface_0_2
+PASS valid hall material 2F_EastStairSouth_FactorySurface_0_3
+PASS valid hall material 2F_EastStairNorth_Structure
+PASS valid hall material 2F_EastStairNorth_FactorySurface_0_0
+PASS valid hall material 2F_NorthConnector_Structure
+PASS valid hall material 2F_NorthConnector_FactorySurface_0_0
+PASS valid hall material 2F_NorthConnector_FactorySurface_0_1
+PASS valid hall material 2F_NorthConnector_FactorySurface_1_0
+PASS valid hall material 2F_NorthConnector_FactorySurface_1_1
+PASS valid hall material 2F_NorthConnector_FactorySurface_2_0
+PASS valid hall material 2F_NorthConnector_FactorySurface_2_1
+PASS valid hall material WestWing_Inner_-20.0_Panel_0
+PASS valid hall material WestWing_Inner_-20.0_Panel_1
+PASS valid hall material WestWing_Inner_-2.5_Panel_0
+PASS valid hall material WestWing_Inner_-2.5_Panel_1
+PASS valid hall material WestWing_Inner_13.5_Panel_0
+PASS valid hall material WestRecords_Divider_-39.7_Panel_0
+PASS valid hall material WestRecords_Divider_-25.5_Panel_0
+PASS valid hall material WestPlanning_Divider_-20.0_Panel_0
+PASS valid hall material WestPlanning_Divider_-20.0_Panel_1
+PASS valid hall material WestPlanning_Divider_7.5_Panel_0
+PASS valid hall material EastWing_Inner_-20.0_Panel_0
+PASS valid hall material EastWing_Inner_-20.0_Panel_1
+PASS valid hall material EastWing_Inner_-2.5_Panel_0
+PASS valid hall material EastWing_Inner_-2.5_Panel_1
+PASS valid hall material EastWing_Inner_13.5_Panel_0
+PASS valid hall material EastElectronics_Divider_15.0_Panel_0
+PASS valid hall material EastElectronics_Divider_29.0_Panel_0
+PASS valid hall material EastControl_Divider_-20.0_Panel_0
+PASS valid hall material EastControl_Divider_-20.0_Panel_1
+PASS valid hall material EastControl_Divider_7.5_Panel_0
+PASS valid hall material AtriumRail_W
+PASS valid hall material AtriumRail_E
+PASS valid hall material AtriumRail_N
+PASS valid hall material Top
+PASS valid hall material Leg_-1_-1
+PASS valid hall material Leg_-1_1
+PASS valid hall material Leg_1_-1
+PASS valid hall material Leg_1_1
+PASS valid hall material PlanningTable_Map
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Top
+PASS valid hall material Leg_-1_-1
+PASS valid hall material Leg_-1_1
+PASS valid hall material Leg_1_-1
+PASS valid hall material Leg_1_1
+PASS valid hall material PlanningBoard
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material ArchiveCases_0
+PASS valid hall material ArchiveCases_1
+PASS valid hall material ArchiveCases_2
+PASS valid hall material ControlConsole_A_Body
+PASS valid hall material ControlConsole_A_Panel
+PASS valid hall material ControlConsole_B_Body
+PASS valid hall material ControlConsole_B_Panel
+PASS valid hall material ControlConsole_C_Body
+PASS valid hall material ControlConsole_C_Panel
+PASS valid hall material ControlPower
+PASS valid hall material Top
+PASS valid hall material Leg_-1_-1
+PASS valid hall material Leg_-1_1
+PASS valid hall material Leg_1_-1
+PASS valid hall material Leg_1_1
+PASS valid hall material Top
+PASS valid hall material Leg_-1_-1
+PASS valid hall material Leg_-1_1
+PASS valid hall material Leg_1_-1
+PASS valid hall material Leg_1_1
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material Cabinet
+PASS valid hall material CabinetDoor
+PASS valid hall material ElectronicsVent
+PASS valid hall material Lamp_1
+PASS valid hall material Lamp_2
+PASS valid hall material Lamp_3
+PASS valid hall material Lamp_4
+PASS valid hall material Lamp_5
+PASS valid hall material WestWingRoof_0_0
+PASS valid hall material WestWingRoof_0_1
+PASS valid hall material WestWingRoof_0_2
+PASS valid hall material WestWingRoof_0_3
+PASS valid hall material WestWingRoof_0_4
+PASS valid hall material WestWingRoof_1_0
+PASS valid hall material WestWingRoof_1_1
+PASS valid hall material WestWingRoof_1_2
+PASS valid hall material WestWingRoof_1_3
+PASS valid hall material WestWingRoof_1_4
+PASS valid hall material WestWingRoof_2_0
+PASS valid hall material WestWingRoof_2_1
+PASS valid hall material WestWingRoof_2_2
+PASS valid hall material WestWingRoof_2_3
+PASS valid hall material WestWingRoof_2_4
+PASS valid hall material EastWingRoof_0_0
+PASS valid hall material EastWingRoof_0_1
+PASS valid hall material EastWingRoof_0_2
+PASS valid hall material EastWingRoof_0_3
+PASS valid hall material EastWingRoof_0_4
+PASS valid hall material EastWingRoof_1_0
+PASS valid hall material EastWingRoof_1_1
+PASS valid hall material EastWingRoof_1_2
+PASS valid hall material EastWingRoof_1_3
+PASS valid hall material EastWingRoof_1_4
+PASS valid hall material EastWingRoof_2_0
+PASS valid hall material EastWingRoof_2_1
+PASS valid hall material EastWingRoof_2_2
+PASS valid hall material EastWingRoof_2_3
+PASS valid hall material EastWingRoof_2_4
+PASS valid hall material SouthLobbyRoof_0_0
+PASS valid hall material SouthLobbyRoof_0_1
+PASS valid hall material SouthLobbyRoof_1_0
+PASS valid hall material SouthLobbyRoof_1_1
+PASS valid hall material SouthLobbyRoof_2_0
+PASS valid hall material SouthLobbyRoof_2_1
+PASS valid hall material NorthConnectorRoof_0_0
+PASS valid hall material NorthConnectorRoof_1_0
+PASS valid hall material NorthConnectorRoof_2_0
+PASS valid hall material HighBayRoof_0_0
+PASS valid hall material HighBayRoof_0_1
+PASS valid hall material HighBayRoof_1_0
+PASS valid hall material HighBayRoof_1_1
+PASS valid hall material Factory1Wall02
+PASS valid hall material Factory1Wall02Glass
+PASS valid hall material Factory1Wall02
+PASS valid hall material Factory1Wall02Glass
+PASS valid hall material Factory1Wall02
+PASS valid hall material Factory1Wall02Glass
+PASS valid hall material Factory1Wall02
+PASS valid hall material Factory1Wall02Glass
+PASS valid hall material Factory1Wall02
+PASS valid hall material Factory1Wall02Glass
+PASS valid hall material Factory1Wall02
+PASS valid hall material Factory1Wall02Glass
+PASS valid hall material Factory1Wall02
+PASS valid hall material Factory1Wall02Glass
+PASS valid hall material Factory1Wall02
+PASS valid hall material Factory1Wall02Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material TunnelRoof_SoilCap_Structure
+PASS valid hall material TunnelRoof_SoilCap_FactorySurface_0_0
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material Factory2Wall05
+PASS valid hall material Factory2Wall05Glass
+PASS valid hall material GroundSlabRim_W_Structure
+PASS valid hall material GroundSlabRim_W_FactorySurface_0_0
+PASS valid hall material GroundSlabRim_W_FactorySurface_0_1
+PASS valid hall material GroundSlabRim_W_FactorySurface_0_2
+PASS valid hall material GroundSlabRim_W_FactorySurface_0_3
+PASS valid hall material GroundSlabRim_W_FactorySurface_0_4
+PASS valid hall material GroundSlabRim_E_Structure
+PASS valid hall material GroundSlabRim_E_FactorySurface_0_0
+PASS valid hall material GroundSlabRim_E_FactorySurface_0_1
+PASS valid hall material GroundSlabRim_E_FactorySurface_0_2
+PASS valid hall material GroundSlabRim_E_FactorySurface_0_3
+PASS valid hall material GroundSlabRim_E_FactorySurface_0_4
+PASS valid hall material GroundSlabRim_S_Structure
+PASS valid hall material GroundSlabRim_S_FactorySurface_0_0
+PASS valid hall material GroundSlabRim_S_FactorySurface_1_0
+PASS valid hall material GroundSlabRim_S_FactorySurface_2_0
+PASS valid hall material GroundSlabRim_S_FactorySurface_3_0
+PASS valid hall material GroundSlabRim_S_FactorySurface_4_0
+PASS valid hall material GroundSlabRim_S_FactorySurface_5_0
+PASS valid hall material GroundSlabRim_S_FactorySurface_6_0
+PASS valid hall material GroundSlabRim_N_Structure
+PASS valid hall material GroundSlabRim_N_FactorySurface_0_0
+PASS valid hall material GroundSlabRim_N_FactorySurface_1_0
+PASS valid hall material GroundSlabRim_N_FactorySurface_2_0
+PASS valid hall material GroundSlabRim_N_FactorySurface_3_0
+PASS valid hall material GroundSlabRim_N_FactorySurface_4_0
+PASS valid hall material GroundSlabRim_N_FactorySurface_5_0
+PASS valid hall material GroundSlabRim_N_FactorySurface_6_0
+PASS valid hall material 1F_SouthFacade_-40.0_Panel_0
+PASS valid hall material 1F_SouthFacade_-40.0_Panel_1
+PASS valid hall material 1F_SouthFacade_-40.0_Panel_2
+PASS valid hall material 1F_SouthFacade_-40.0_Panel_3
+PASS valid hall material 1F_SouthFacade_2.2_Panel_0
+PASS valid hall material 1F_SouthFacade_2.2_Panel_1
+PASS valid hall material 1F_SouthFacade_34.5_Panel_0
+PASS valid hall material 1F_NorthFacade_-40.0_Panel_0
+PASS valid hall material 1F_NorthFacade_-40.0_Panel_1
+PASS valid hall material 1F_NorthFacade_-40.0_Panel_2
+PASS valid hall material 1F_NorthFacade_-40.0_Panel_3
+PASS valid hall material 1F_NorthFacade_-40.0_Panel_4
+PASS valid hall material 1F_NorthFacade_-40.0_Panel_5
+PASS valid hall material 1F_NorthFacade_-40.0_Panel_6
+PASS valid hall material 1F_WestFacade_-33.0_Panel_0
+PASS valid hall material 1F_WestFacade_-33.0_Panel_1
+PASS valid hall material 1F_WestFacade_-33.0_Panel_2
+PASS valid hall material 1F_WestFacade_-33.0_Panel_3
+PASS valid hall material 1F_WestFacade_-33.0_Panel_4
+PASS valid hall material 1F_EastFacade_-33.0_Panel_0
+PASS valid hall material 1F_EastFacade_-33.0_Panel_1
+PASS valid hall material 1F_EastFacade_-33.0_Panel_2
+PASS valid hall material 1F_EastFacade_-33.0_Panel_3
+PASS valid hall material 1F_EastFacade_-33.0_Panel_4
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material Factory2Wall04
+PASS valid hall material Factory2Wall04Glass
+PASS valid hall material MainSouthDoorFrame_Left
+PASS valid hall material MainSouthDoorFrame_Right
+PASS valid hall material MainSouthDoorFrame_Lintel
+PASS valid hall material MainSouthDoorThreshold
+PASS valid hall material Border
+PASS valid hall material Left
+PASS valid hall material Right
+PASS valid hall material LoadingShutterFrame_Left
+PASS valid hall material LoadingShutterFrame_Right
+PASS valid hall material LoadingShutterFrame_Lintel
+PASS valid hall material LoadingShutterThreshold
+PASS valid hall material LoadingShutterSlat_0
+PASS valid hall material LoadingShutterSlat_1
+PASS valid hall material LoadingShutterSlat_2
+PASS valid hall material LoadingShutterSlat_3
+PASS valid hall material LoadingShutterSlat_4
+PASS valid hall material LoadingShutterSlat_5
+PASS valid hall material LoadingShutterSlat_6
+PASS valid hall material SouthReveal_-36
+PASS valid hall material NorthReveal_-36
+PASS valid hall material SouthReveal_-24
+PASS valid hall material NorthReveal_-24
+PASS valid hall material SouthReveal_-12
+PASS valid hall material NorthReveal_-12
+PASS valid hall material SouthReveal_0
+PASS valid hall material NorthReveal_0
+PASS valid hall material SouthReveal_12
+PASS valid hall material NorthReveal_12
+PASS valid hall material SouthReveal_24
+PASS valid hall material NorthReveal_24
+PASS valid hall material SouthReveal_36
+PASS valid hall material NorthReveal_36
+PASS valid hall material WestReveal_-27
+PASS valid hall material EastReveal_-27
+PASS valid hall material WestReveal_-16
+PASS valid hall material EastReveal_-16
+PASS valid hall material WestReveal_-5
+PASS valid hall material EastReveal_-5
+PASS valid hall material WestReveal_6
+PASS valid hall material EastReveal_6
+PASS valid hall material WestReveal_17
+PASS valid hall material EastReveal_17
+PASS valid hall material ExteriorSecretRamp
+PASS valid hall material SecretRampEntryApron
+PASS valid hall material RampRetaining_N_0
+PASS valid hall material RampRetaining_S_0
+PASS valid hall material RampRetaining_N_1
+PASS valid hall material RampRetaining_S_1
+PASS valid hall material RampRetaining_N_2
+PASS valid hall material RampRetaining_S_2
+PASS valid hall material RampRetaining_N_3
+PASS valid hall material RampRetaining_S_3
+PASS valid hall material RampRetaining_N_4
+PASS valid hall material RampRetaining_S_4
+PASS valid hall material RampRetaining_N_5
+PASS valid hall material RampRetaining_S_5
+PASS valid hall material SecretEntryPortal_Left
+PASS valid hall material SecretEntryPortal_Right
+PASS valid hall material SecretEntryPortal_Lintel
+PASS actual router NavMesh builds
+PASS 4x7 basic entry-exit test matrix populated
+PASS B1->X1 status=PathComplete length=48.3 a=(-240.00, 2.10, 145.00) b=(-196.00, 2.10, 165.00) last=(-196.00, 2.10, 165.00)
+PASS B1->X2 status=PathComplete length=190.1 a=(-240.00, 2.10, 145.00) b=(-245.00, 0.12, -45.00) last=(-245.00, 0.12, -45.00)
+PASS B1->X3 status=PathComplete length=297.2 a=(-240.00, 2.10, 145.00) b=(-169.00, 0.12, -143.00) last=(-169.00, 0.12, -143.00)
+PASS B1->X4 status=PathComplete length=426.5 a=(-240.00, 2.10, 145.00) b=(177.00, 12.10, 163.00) last=(177.00, 12.10, 163.00)
+PASS B1->X5 status=PathComplete length=549.5 a=(-240.00, 2.10, 145.00) b=(247.00, 1.09, -35.00) last=(247.00, 1.09, -35.00)
+WARN B1->X6 default/public CalculatePath is still Partial (node budget); not a physical disconnection. Runtime long-distance AI limitation remains.
+PASS high-budget topology connected B1->X6 pool16384 begin=InProgress update=Success end=Success outOfNodes=False partial=False iterations=4441 updateCalls=5 polygons=96 copied=96
+PASS B1->X7 status=PathComplete length=584.5 a=(-240.00, 2.10, 145.00) b=(221.00, 0.06, -169.00) last=(221.00, 0.06, -169.00)
+PASS B2->X1 status=PathComplete length=172.2 a=(-242.00, 1.04, 0.00) b=(-196.00, 2.10, 165.00) last=(-196.00, 2.10, 165.00)
+PASS B2->X2 status=PathComplete length=45.1 a=(-242.00, 1.04, 0.00) b=(-245.00, 0.12, -45.00) last=(-245.00, 0.12, -45.00)
+PASS B2->X3 status=PathComplete length=160.6 a=(-242.00, 1.04, 0.00) b=(-169.00, 0.12, -143.00) last=(-169.00, 0.12, -143.00)
+PASS B2->X4 status=PathComplete length=471.6 a=(-242.00, 1.04, 0.00) b=(177.00, 12.10, 163.00) last=(177.00, 12.10, 163.00)
+PASS B2->X5 status=PathComplete length=499.1 a=(-242.00, 1.04, 0.00) b=(247.00, 1.09, -35.00) last=(247.00, 1.09, -35.00)
+PASS B2->X6 status=PathComplete length=483.5 a=(-242.00, 1.04, 0.00) b=(59.00, 0.04, -189.00) last=(59.00, 0.04, -189.00)
+PASS B2->X7 status=PathComplete length=515.7 a=(-242.00, 1.04, 0.00) b=(221.00, 0.06, -169.00) last=(221.00, 0.06, -169.00)
+PASS B3->X1 status=PathComplete length=272.3 a=(-231.00, 0.02, -102.00) b=(-196.00, 2.10, 165.00) last=(-196.00, 2.10, 165.00)
+PASS B3->X2 status=PathComplete length=63.3 a=(-231.00, 0.02, -102.00) b=(-245.00, 0.12, -45.00) last=(-245.00, 0.12, -45.00)
+PASS B3->X3 status=PathComplete length=74.3 a=(-231.00, 0.02, -102.00) b=(-169.00, 0.12, -143.00) last=(-169.00, 0.12, -143.00)
+PASS B3->X4 status=PathComplete length=506.8 a=(-231.00, 0.02, -102.00) b=(177.00, 12.10, 163.00) last=(177.00, 12.10, 163.00)
+PASS B3->X5 status=PathComplete length=487.5 a=(-231.00, 0.02, -102.00) b=(247.00, 1.09, -35.00) last=(247.00, 1.09, -35.00)
+PASS B3->X6 status=PathComplete length=453.8 a=(-231.00, 0.02, -102.00) b=(59.00, 0.04, -189.00) last=(59.00, 0.04, -189.00)
+PASS B3->X7 status=PathComplete length=492.4 a=(-231.00, 0.02, -102.00) b=(221.00, 0.06, -169.00) last=(221.00, 0.06, -169.00)
+PASS B4->X1 status=PathComplete length=308.5 a=(-119.00, 0.07, -129.00) b=(-196.00, 2.10, 165.00) last=(-196.00, 2.10, 165.00)
+PASS B4->X2 status=PathComplete length=151.6 a=(-119.00, 0.07, -129.00) b=(-245.00, 0.12, -45.00) last=(-245.00, 0.12, -45.00)
+PASS B4->X3 status=PathComplete length=51.9 a=(-119.00, 0.07, -129.00) b=(-169.00, 0.12, -143.00) last=(-169.00, 0.12, -143.00)
+PASS B4->X4 status=PathComplete length=442.9 a=(-119.00, 0.07, -129.00) b=(177.00, 12.10, 163.00) last=(177.00, 12.10, 163.00)
+PASS B4->X5 status=PathComplete length=378.3 a=(-119.00, 0.07, -129.00) b=(247.00, 1.09, -35.00) last=(247.00, 1.09, -35.00)
+PASS B4->X6 status=PathComplete length=347.8 a=(-119.00, 0.07, -129.00) b=(59.00, 0.04, -189.00) last=(59.00, 0.04, -189.00)
+PASS B4->X7 status=PathComplete length=384.7 a=(-119.00, 0.07, -129.00) b=(221.00, 0.06, -169.00) last=(221.00, 0.06, -169.00)
+PASS main entrance -> central hall status=PathComplete length=21.4 a=(0.00, 2.10, -38.00) b=(0.00, 2.04, -18.00) last=(0.00, 2.04, -18.00)
+PASS loading entrance -> east room status=PathComplete length=17.7 a=(29.00, 1.86, -38.00) b=(24.00, 2.04, -21.00) last=(24.00, 2.04, -21.00)
+PASS B1 stair -31 status=PathComplete length=17.1 a=(-31.00, -3.96, -19.00) b=(-31.00, 2.04, -3.00) last=(-31.00, 2.04, -3.00)
+PASS 2F stair -31 status=PathComplete length=17.1 a=(-31.00, 2.04, 3.00) b=(-31.00, 8.04, 19.00) last=(-31.00, 8.04, 19.00)
+PASS B1 stair lower -31 floor support=B1_Floor_Structure
+PASS 1F stair upper -31 floor support=1F_WestHoleNorth_Structure
+PASS 2F stair upper -31 floor support=2F_WestStairNorth_Structure
+PASS B1 stair 31 status=PathComplete length=17.1 a=(31.00, -3.96, -19.00) b=(31.00, 2.04, -3.00) last=(31.00, 2.04, -3.00)
+PASS 2F stair 31 status=PathComplete length=17.1 a=(31.00, 2.04, 3.00) b=(31.00, 8.04, 19.00) last=(31.00, 8.04, 19.00)
+PASS B1 stair lower 31 floor support=B1_Floor_Structure
+PASS 1F stair upper 31 floor support=1F_EastHoleNorth_Structure
+PASS 2F stair upper 31 floor support=2F_EastStairNorth_Structure
+PASS B1 east-west loop status=PathComplete length=46.0 a=(-23.00, -3.96, 0.00) b=(23.00, -3.96, 0.00) last=(23.00, -3.96, 0.00)
+PASS 2F west-east loop status=PathComplete length=58.0 a=(-23.00, 8.04, 0.00) b=(23.00, 8.04, 0.00) last=(23.00, 8.04, 0.00)
+PASS external secret access status=PathComplete length=30.6 a=(-65.00, 1.97, 6.00) b=(-37.00, -3.96, 0.00) last=(-37.00, -3.96, 0.00)
+PASS B1 to front outdoor status=PathComplete length=83.4 a=(-37.00, -3.96, 0.00) b=(0.00, 2.10, -38.00) last=(0.00, 2.10, -38.00)
+spawn refs=12 tiers=0,0,0,0,3,3,3,3,3,3,3,3
+PASS B/R metadata unchanged (runtime selection checked separately in Play)
+PASS imported props root present
+PASS four prop clusters
+PASS prop render/material PhoneBooth_01
+PASS prop collider PhoneBooth_01
+PASS persistent prop mesh PhoneBooth_01
+PASS prop render/material VendingMachine_02
+PASS prop collider VendingMachine_02
+PASS persistent prop mesh VendingMachine_02
+PASS prop render/material ParkBench_03
+PASS prop collider ParkBench_03
+PASS persistent prop mesh ParkBench_03
+PASS prop render/material TrashCan_04
+PASS prop collider TrashCan_04
+PASS persistent prop mesh TrashCan_04
+PASS prop render/material ConcretePlanter_05
+PASS prop collider ConcretePlanter_05
+PASS persistent prop mesh ConcretePlanter_05
+PASS prop render/material StreetLamp_06
+PASS prop collider StreetLamp_06
+PASS persistent prop mesh StreetLamp_06
+PASS prop render/material AirConditioningUnit_07
+PASS prop collider AirConditioningUnit_07
+PASS persistent prop mesh AirConditioningUnit_07
+PASS prop render/material ElectricalCabinet_08
+PASS prop collider ElectricalCabinet_08
+PASS persistent prop mesh ElectricalCabinet_08
+PASS prop render/material IndustrialGenerator_09
+PASS prop collider IndustrialGenerator_09
+PASS persistent prop mesh IndustrialGenerator_09
+PASS prop render/material MilitaryStorageCrate_10
+PASS prop collider MilitaryStorageCrate_10
+PASS persistent prop mesh MilitaryStorageCrate_10
+PASS prop render/material MobileLightTower_11
+PASS prop collider MobileLightTower_11
+PASS persistent prop mesh MobileLightTower_11
+PASS prop render/material ShippingContainer_12
+PASS prop collider ShippingContainer_12
+PASS persistent prop mesh ShippingContainer_12
+PASS prop render/material CratesOnPallet_13
+PASS prop collider CratesOnPallet_13
+PASS persistent prop mesh CratesOnPallet_13
+PASS prop render/material MetalShutter_14
+PASS prop collider MetalShutter_14
+PASS persistent prop mesh MetalShutter_14
+PASS prop render/material CityBus_15
+PASS prop collider CityBus_15
+PASS persistent prop mesh CityBus_15
+PASS prop render/material Truck_16
+PASS prop collider Truck_16
+PASS persistent prop mesh Truck_16
+PASS prop render/material DamagedSedan_17
+PASS prop collider DamagedSedan_17
+PASS persistent prop mesh DamagedSedan_17
+PASS prop render/material ConcreteBarrier_18
+PASS prop collider ConcreteBarrier_18
+PASS persistent prop mesh ConcreteBarrier_18
+PASS prop render/material MetalBarrier_19
+PASS prop collider MetalBarrier_19
+PASS persistent prop mesh MetalBarrier_19
+PASS prop render/material TrafficLight_20
+PASS prop collider TrafficLight_20
+PASS persistent prop mesh TrafficLight_20
+PASS twenty unique attached prop types placed
+PASS nondegenerate hall collider B1_Floor_Structure
+PASS nondegenerate hall collider WestConnection_North_-39.7__Collision
+PASS nondegenerate hall collider WestConnection_North_-28.4__Collision
+PASS nondegenerate hall collider WestConnection_South_-39.7__Collision
+PASS nondegenerate hall collider WestConnection_East_-7.0__Collision
+PASS nondegenerate hall collider WestConnection_East_1.6__Collision
+PASS nondegenerate hall collider WestService_North_-37.0__Collision
+PASS nondegenerate hall collider WestService_North_-28.4__Collision
+PASS nondegenerate hall collider WestService_North_-24.8__Collision
+PASS nondegenerate hall collider WestService_East_-28.0__Collision
+PASS nondegenerate hall collider WestService_East_-18.3__Collision
+PASS nondegenerate hall collider WestService_South_-37.0__Collision
+PASS nondegenerate hall collider EastService_West_-27.0__Collision
+PASS nondegenerate hall collider EastService_West_-16.8__Collision
+PASS nondegenerate hall collider EastService_West_1.7__Collision
+PASS nondegenerate hall collider EastService_Divider_17.0__Collision
+PASS nondegenerate hall collider EastService_Divider_33.6__Collision
+PASS nondegenerate hall collider EastService_South_17.0__Collision
+PASS nondegenerate hall collider EastService_North_17.0__Collision
+PASS nondegenerate hall collider InspectionLoop_South_-27.0__Collision
+PASS nondegenerate hall collider InspectionLoop_South_-22.2__Collision
+PASS nondegenerate hall collider InspectionLoop_South_1.8__Collision
+PASS nondegenerate hall collider InspectionLoop_South_25.8__Collision
+PASS nondegenerate hall collider InspectionLoop_NorthRail
+PASS nondegenerate hall collider ContinuousRamp
+PASS nondegenerate hall collider TopLanding
+PASS nondegenerate hall collider Guard_W
+PASS nondegenerate hall collider Guard_E
+PASS nondegenerate hall collider ContinuousRamp
+PASS nondegenerate hall collider TopLanding
+PASS nondegenerate hall collider Guard_W
+PASS nondegenerate hall collider Guard_E
+PASS nondegenerate hall collider ServiceCabinets__Collision
+PASS nondegenerate hall collider Top
+PASS nondegenerate hall collider Leg_-1_-1
+PASS nondegenerate hall collider Leg_-1_1
+PASS nondegenerate hall collider Leg_1_-1
+PASS nondegenerate hall collider Leg_1_1
+PASS nondegenerate hall collider Base
+PASS nondegenerate hall collider Post_-1_-1
+PASS nondegenerate hall collider Post_-1_1
+PASS nondegenerate hall collider Post_1_-1
+PASS nondegenerate hall collider Post_1_1
+PASS nondegenerate hall collider Beam_N
+PASS nondegenerate hall collider Beam_S
+PASS nondegenerate hall collider Top
+PASS nondegenerate hall collider Leg_-1_-1
+PASS nondegenerate hall collider Leg_-1_1
+PASS nondegenerate hall collider Leg_1_-1
+PASS nondegenerate hall collider Leg_1_1
+PASS nondegenerate hall collider Top
+PASS nondegenerate hall collider Leg_-1_-1
+PASS nondegenerate hall collider Leg_-1_1
+PASS nondegenerate hall collider Leg_1_-1
+PASS nondegenerate hall collider Leg_1_1
+PASS nondegenerate hall collider CentralSpares_0
+PASS nondegenerate hall collider CentralSpares_1
+PASS nondegenerate hall collider CentralSpares_2
+PASS nondegenerate hall collider Top
+PASS nondegenerate hall collider Leg_-1_-1
+PASS nondegenerate hall collider Leg_-1_1
+PASS nondegenerate hall collider Leg_1_-1
+PASS nondegenerate hall collider Leg_1_1
+PASS nondegenerate hall collider HydraulicCabinets__Collision
+PASS nondegenerate hall collider PartsCabinets__Collision
+PASS nondegenerate hall collider PartsCases_A_0
+PASS nondegenerate hall collider PartsCases_A_1
+PASS nondegenerate hall collider PartsCases_A_2
+PASS nondegenerate hall collider PartsCases_A_3
+PASS nondegenerate hall collider PartsCases_B_0
+PASS nondegenerate hall collider PartsCases_B_1
+PASS nondegenerate hall collider PartsCases_B_2
+PASS nondegenerate hall collider NativePartsPallet
+PASS nondegenerate hall collider NativePartsCrate
+PASS nondegenerate hall collider Top
+PASS nondegenerate hall collider Leg_-1_-1
+PASS nondegenerate hall collider Leg_-1_1
+PASS nondegenerate hall collider Leg_1_-1
+PASS nondegenerate hall collider Leg_1_1
+PASS nondegenerate hall collider CheckpointFloor_Structure
+PASS nondegenerate hall collider ConnectionCorridorFloor_Structure
+PASS nondegenerate hall collider CheckpointNorth_-51.0__Collision
+PASS nondegenerate hall collider CheckpointWest_-0.5__Collision
+PASS nondegenerate hall collider CheckpointSouth_-51.0__Collision
+PASS nondegenerate hall collider CorridorNorth_-45.0__Collision
+PASS nondegenerate hall collider CorridorSouth_-45.0__Collision
+PASS nondegenerate hall collider 1F_CenterSlab_Structure
+PASS nondegenerate hall collider 1F_WestOuterSlab_Structure
+PASS nondegenerate hall collider 1F_WestHoleSouth_Structure
+PASS nondegenerate hall collider 1F_WestHoleNorth_Structure
+PASS nondegenerate hall collider 1F_EastOuterSlab_Structure
+PASS nondegenerate hall collider 1F_EastHoleSouth_Structure
+PASS nondegenerate hall collider 1F_EastHoleNorth_Structure
+PASS nondegenerate hall collider Lobby_North_-13.0__Collision
+PASS nondegenerate hall collider Lobby_North_-2.2__Collision
+PASS nondegenerate hall collider Lobby_North_5.5__Collision
+PASS nondegenerate hall collider Lobby_West_-32.7__Collision
+PASS nondegenerate hall collider Lobby_West_-23.7__Collision
+PASS nondegenerate hall collider Lobby_East_-32.7__Collision
+PASS nondegenerate hall collider Lobby_East_-23.7__Collision
+PASS nondegenerate hall collider InspectionLane_W
+PASS nondegenerate hall collider InspectionLane_E
+PASS nondegenerate hall collider WestWorkshop_East_-19.0__Collision
+PASS nondegenerate hall collider WestWorkshop_East_-8.5__Collision
+PASS nondegenerate hall collider WestWorkshop_East_6.5__Collision
+PASS nondegenerate hall collider WestWorkshop_South_-39.7__Collision
+PASS nondegenerate hall collider WestWorkshop_South_-23.8__Collision
+PASS nondegenerate hall collider WestWorkshop_North_-39.7__Collision
+PASS nondegenerate hall collider WestWorkshop_North_-28.4__Collision
+PASS nondegenerate hall collider EastParts_West_-19.0__Collision
+PASS nondegenerate hall collider EastParts_West_-8.5__Collision
+PASS nondegenerate hall collider EastParts_West_6.5__Collision
+PASS nondegenerate hall collider EastParts_South_18.0__Collision
+PASS nondegenerate hall collider EastParts_South_28.0__Collision
+PASS nondegenerate hall collider EastParts_North_18.0__Collision
+PASS nondegenerate hall collider EastParts_North_33.6__Collision
+PASS nondegenerate hall collider ContinuousRamp
+PASS nondegenerate hall collider TopLanding
+PASS nondegenerate hall collider Guard_W
+PASS nondegenerate hall collider Guard_E
+PASS nondegenerate hall collider ContinuousRamp
+PASS nondegenerate hall collider TopLanding
+PASS nondegenerate hall collider Guard_W
+PASS nondegenerate hall collider Guard_E
+PASS nondegenerate hall collider Top
+PASS nondegenerate hall collider Leg_-1_-1
+PASS nondegenerate hall collider Leg_-1_1
+PASS nondegenerate hall collider Leg_1_-1
+PASS nondegenerate hall collider Leg_1_1
+PASS nondegenerate hall collider Top
+PASS nondegenerate hall collider Leg_-1_-1
+PASS nondegenerate hall collider Leg_-1_1
+PASS nondegenerate hall collider Leg_1_-1
+PASS nondegenerate hall collider Leg_1_1
+PASS nondegenerate hall collider Top
+PASS nondegenerate hall collider Leg_-1_-1
+PASS nondegenerate hall collider Leg_-1_1
+PASS nondegenerate hall collider Leg_1_-1
+PASS nondegenerate hall collider Leg_1_1
+PASS nondegenerate hall collider WorkshopCabinets__Collision
+PASS nondegenerate hall collider GeneratorPlinth
+PASS nondegenerate hall collider IndustrialGenerator_W
+PASS nondegenerate hall collider IndustrialGenerator_E
+PASS nondegenerate hall collider Post_-1_-1
+PASS nondegenerate hall collider Post_-1_1
+PASS nondegenerate hall collider Post_1_-1
+PASS nondegenerate hall collider Post_1_1
+PASS nondegenerate hall collider Beam_N
+PASS nondegenerate hall collider Beam_S
+PASS nondegenerate hall collider SafetyRail_N
+PASS nondegenerate hall collider SafetyRail_S
+PASS nondegenerate hall collider SafetyRail_W
+PASS nondegenerate hall collider SafetyRail_E
+PASS nondegenerate hall collider ToolCabinets_North__Collision
+PASS nondegenerate hall collider Top
+PASS nondegenerate hall collider Leg_-1_-1
+PASS nondegenerate hall collider Leg_-1_1
+PASS nondegenerate hall collider Leg_1_-1
+PASS nondegenerate hall collider Leg_1_1
+PASS nondegenerate hall collider Top
+PASS nondegenerate hall collider Leg_-1_-1
+PASS nondegenerate hall collider Leg_-1_1
+PASS nondegenerate hall collider Leg_1_-1
+PASS nondegenerate hall collider Leg_1_1
+PASS nondegenerate hall collider PartsPallet_A_0
+PASS nondegenerate hall collider PartsPallet_A_1
+PASS nondegenerate hall collider PartsPallet_A_2
+PASS nondegenerate hall collider PartsPallet_A_3
+PASS nondegenerate hall collider PartsPallet_B_0
+PASS nondegenerate hall collider PartsPallet_B_1
+PASS nondegenerate hall collider PartsPallet_B_2
+PASS nondegenerate hall collider PartsPallet_B_3
+PASS nondegenerate hall collider PartsPallet_B_4
+PASS nondegenerate hall collider NativeIncomingPallet
+PASS nondegenerate hall collider NativeToolCrate
+PASS nondegenerate hall collider IncomingCrates_0
+PASS nondegenerate hall collider IncomingCrates_1
+PASS nondegenerate hall collider IncomingCrates_2
+PASS nondegenerate hall collider IncomingCrates_3
+PASS nondegenerate hall collider IncomingCrates_4
+PASS nondegenerate hall collider Top
+PASS nondegenerate hall collider Leg_-1_-1
+PASS nondegenerate hall collider Leg_-1_1
+PASS nondegenerate hall collider Leg_1_-1
+PASS nondegenerate hall collider Leg_1_1
+PASS nondegenerate hall collider 2F_WestOuter_Structure
+PASS nondegenerate hall collider 2F_WestInner_Structure
+PASS nondegenerate hall collider 2F_WestStairSouth_Structure
+PASS nondegenerate hall collider 2F_WestStairNorth_Structure
+PASS nondegenerate hall collider 2F_EastOuter_Structure
+PASS nondegenerate hall collider 2F_EastInner_Structure
+PASS nondegenerate hall collider 2F_EastStairSouth_Structure
+PASS nondegenerate hall collider 2F_EastStairNorth_Structure
+PASS nondegenerate hall collider 2F_NorthConnector_Structure
+PASS nondegenerate hall collider WestWing_Inner_-20.0__Collision
+PASS nondegenerate hall collider WestWing_Inner_-2.5__Collision
+PASS nondegenerate hall collider WestWing_Inner_13.5__Collision
+PASS nondegenerate hall collider WestRecords_Divider_-39.7__Collision
+PASS nondegenerate hall collider WestRecords_Divider_-25.5__Collision
+PASS nondegenerate hall collider WestPlanning_Divider_-20.0__Collision
+PASS nondegenerate hall collider WestPlanning_Divider_7.5__Collision
+PASS nondegenerate hall collider EastWing_Inner_-20.0__Collision
+PASS nondegenerate hall collider EastWing_Inner_-2.5__Collision
+PASS nondegenerate hall collider EastWing_Inner_13.5__Collision
+PASS nondegenerate hall collider EastElectronics_Divider_15.0__Collision
+PASS nondegenerate hall collider EastElectronics_Divider_29.0__Collision
+PASS nondegenerate hall collider EastControl_Divider_-20.0__Collision
+PASS nondegenerate hall collider EastControl_Divider_7.5__Collision
+PASS nondegenerate hall collider AtriumRail_W
+PASS nondegenerate hall collider AtriumRail_E
+PASS nondegenerate hall collider AtriumRail_N
+PASS nondegenerate hall collider Top
+PASS nondegenerate hall collider Leg_-1_-1
+PASS nondegenerate hall collider Leg_-1_1
+PASS nondegenerate hall collider Leg_1_-1
+PASS nondegenerate hall collider Leg_1_1
+PASS nondegenerate hall collider PlanArchive__Collision
+PASS nondegenerate hall collider Top
+PASS nondegenerate hall collider Leg_-1_-1
+PASS nondegenerate hall collider Leg_-1_1
+PASS nondegenerate hall collider Leg_1_-1
+PASS nondegenerate hall collider Leg_1_1
+PASS nondegenerate hall collider Records_North__Collision
+PASS nondegenerate hall collider Records_South__Collision
+PASS nondegenerate hall collider ArchiveCases_0
+PASS nondegenerate hall collider ArchiveCases_1
+PASS nondegenerate hall collider ArchiveCases_2
+PASS nondegenerate hall collider ControlConsole_A_Body
+PASS nondegenerate hall collider ControlConsole_B_Body
+PASS nondegenerate hall collider ControlConsole_C_Body
+PASS nondegenerate hall collider Top
+PASS nondegenerate hall collider Leg_-1_-1
+PASS nondegenerate hall collider Leg_-1_1
+PASS nondegenerate hall collider Leg_1_-1
+PASS nondegenerate hall collider Leg_1_1
+PASS nondegenerate hall collider Top
+PASS nondegenerate hall collider Leg_-1_-1
+PASS nondegenerate hall collider Leg_-1_1
+PASS nondegenerate hall collider Leg_1_-1
+PASS nondegenerate hall collider Leg_1_1
+PASS nondegenerate hall collider ElectronicsCabinets__Collision
+PASS nondegenerate hall collider WestWingRoof__Collision
+PASS nondegenerate hall collider EastWingRoof__Collision
+PASS nondegenerate hall collider SouthLobbyRoof__Collision
+PASS nondegenerate hall collider NorthConnectorRoof__Collision
+PASS nondegenerate hall collider HighBayRoof__Collision
+PASS nondegenerate hall collider Clerestory_West_-18.0__Collision
+PASS nondegenerate hall collider Clerestory_East_-18.0__Collision
+PASS nondegenerate hall collider Clerestory_South_-15.0__Collision
+PASS nondegenerate hall collider Clerestory_North_-15.0__Collision
+PASS nondegenerate hall collider TunnelRoof_SoilCap_Structure
+PASS nondegenerate hall collider B1_RetainingWest_-33.5__Collision
+PASS nondegenerate hall collider B1_RetainingWest_1.7__Collision
+PASS nondegenerate hall collider B1_RetainingEast_-33.5__Collision
+PASS nondegenerate hall collider B1_RetainingSouth_-40.5__Collision
+PASS nondegenerate hall collider B1_RetainingNorth_-40.5__Collision
+PASS nondegenerate hall collider GroundSlabRim_W_Structure
+PASS nondegenerate hall collider GroundSlabRim_E_Structure
+PASS nondegenerate hall collider GroundSlabRim_S_Structure
+PASS nondegenerate hall collider GroundSlabRim_N_Structure
+PASS nondegenerate hall collider 1F_SouthFacade_-40.0__Collision
+PASS nondegenerate hall collider 1F_SouthFacade_2.2__Collision
+PASS nondegenerate hall collider 1F_SouthFacade_34.5__Collision
+PASS nondegenerate hall collider 1F_NorthFacade_-40.0__Collision
+PASS nondegenerate hall collider 1F_WestFacade_-33.0__Collision
+PASS nondegenerate hall collider 1F_EastFacade_-33.0__Collision
+PASS nondegenerate hall collider 2F_SouthFacade_-40.0__Collision
+PASS nondegenerate hall collider 2F_NorthFacade_-40.0__Collision
+PASS nondegenerate hall collider 2F_WestFacade_-33.0__Collision
+PASS nondegenerate hall collider 2F_EastFacade_-33.0__Collision
+PASS nondegenerate hall collider MainSouthDoorFrame_Left
+PASS nondegenerate hall collider MainSouthDoorFrame_Right
+PASS nondegenerate hall collider MainSouthDoorFrame_Lintel
+PASS nondegenerate hall collider MainSouthDoorThreshold
+PASS nondegenerate hall collider LoadingShutterFrame_Left
+PASS nondegenerate hall collider LoadingShutterFrame_Right
+PASS nondegenerate hall collider LoadingShutterFrame_Lintel
+PASS nondegenerate hall collider LoadingShutterThreshold
+PASS nondegenerate hall collider ExteriorSecretRamp
+PASS nondegenerate hall collider SecretRampEntryApron
+PASS nondegenerate hall collider RampRetaining_N_0
+PASS nondegenerate hall collider RampRetaining_S_0
+PASS nondegenerate hall collider RampRetaining_N_1
+PASS nondegenerate hall collider RampRetaining_S_1
+PASS nondegenerate hall collider RampRetaining_N_2
+PASS nondegenerate hall collider RampRetaining_S_2
+PASS nondegenerate hall collider RampRetaining_N_3
+PASS nondegenerate hall collider RampRetaining_S_3
+PASS nondegenerate hall collider RampRetaining_N_4
+PASS nondegenerate hall collider RampRetaining_S_4
+PASS nondegenerate hall collider RampRetaining_N_5
+PASS nondegenerate hall collider RampRetaining_S_5
+PASS nondegenerate hall collider SecretEntryPortal_Left
+PASS nondegenerate hall collider SecretEntryPortal_Right
+PASS nondegenerate hall collider SecretEntryPortal_Lintel
+SUMMARY passed=1365 failed=0 warnings=1
