@@ -1,0 +1,16 @@
+STYLIZED LOOK PLAY CAPTURE label=after
+METHOD: actual Stage A play session; player teleported to recorded spots; enemies/world ticks frozen; regular TopDownCamera framing (no look-ahead); 1600x1000 render of player.view. after = control pass (look off) then look-on pass in the same session.
+NOTE preview used older inline geometry / departure failed (pre-existing); entered runtime map prefab directly without encounters/loot. map=A_Blockout__Partially_Flooded_Maintenance_District v33=True
+spots=5 lookType=True cutoutType=True
+CAPTURED control_tree_1 pos=(-32.84, 7.00, 63.14) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_tree_3 pos=(69.13, 10.74, 141.94) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_prop_1 pos=(-235.39, 0.01, -116.92) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_building_inside_1 pos=(-211.00, 0.24, -124.00) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_prop_2 pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=off (never enabled)
+LOOK ON on=True litRenderers=10757 litClones=415 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=defaults
+CAPTURED after_tree_1 pos=(-32.84, 7.00, 63.14) v33Revealing=False v33Active=0 look=on=True litRenderers=10757 litClones=415 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=defaults
+CAPTURED after_tree_3 pos=(69.13, 10.74, 141.94) v33Revealing=False v33Active=0 look=on=True litRenderers=10757 litClones=415 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=defaults
+CAPTURED after_prop_1 pos=(-235.39, 0.01, -116.92) v33Revealing=False v33Active=0 look=on=True litRenderers=10757 litClones=415 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=defaults
+CAPTURED after_building_inside_1 pos=(-211.00, 0.24, -124.00) v33Revealing=False v33Active=0 look=on=True litRenderers=10757 litClones=415 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=defaults
+CAPTURED after_prop_2 pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=on=True litRenderers=10757 litClones=415 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=defaults
+RESULT COMPLETE captured=5 pass=1

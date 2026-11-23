@@ -10,6 +10,7 @@
 ## 보관본 이후 추가 회차
 
 - 2026-11-24 · A맵 건물 가림·재질 개선 V33 주제의 `2026-11-24-01` 회차 — 가림 처리 통합(깎인 경계의 Cutout, 건물·나무·소품). 원문 `outputs/change_records/2026-11-24/occluder-cutout/CHANGE_RECORD.md`, 전후 11쌍.
+- 2026-11-24 · D15 반실사 서브컬처 셰이더 주제의 `2026-11-24-01` 회차 — 환경 툰 통일 룩 테스트(A맵 5지점, 기본 꺼짐). 원문 `outputs/change_records/2026-11-24/stylized-environment-look/CHANGE_RECORD.md`, 전후 5쌍. 분류 그래픽 및 셰이더 › 셰이더·재질.
 
 ## 분류 변경
 

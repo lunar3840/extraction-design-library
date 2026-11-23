@@ -1,0 +1,20 @@
+        public class Settings
+        {
+            // shared shader rule
+            public float weight = 1f, bandSoftness = .035f, shadowEdge = .14f, specularKeep = .35f;
+            public float midThreshold = .10f, brightThreshold = .40f, midLevel = .55f, lightGain = .58f;
+            public Color shadeTint = new Color(.90f, .95f, 1f); public float ambientGain = 1.15f;
+            public float albedoSaturation = 1f, posterizeSteps = 8f, posterizeStrength = .5f, albedoGain = 1f;
+            public float envMipBias = 1.75f, foliageMipBias = .5f, foliageNormalUp = .3f, foliageMinLevel = .15f, foliageAlbedoGain = .95f;
+            // palette
+            public Color sunColor = new Color(1f, .94f, .83f); public float sunIntensity = 1.7f, sunShadowStrength = .8f;
+            public Color ambientSky = new Color(.56f, .61f, .70f), ambientEquator = new Color(.44f, .48f, .55f), ambientGround = new Color(.30f, .31f, .34f);
+            public bool fog = true; public Color fogColor = new Color(.56f, .59f, .62f); public float fogStartBeyondPlayer = 14f, fogRange = 300f;
+            // grading
+            public int tonemapping = 1; // 0 none, 1 neutral, 2 ACES
+            public float postExposure = .15f, contrast = 4f, saturation = 0f;
+            public Color splitShadows = new Color(.47f, .50f, .56f), splitHighlights = new Color(.54f, .52f, .48f); public float splitBalance = 0f;
+            public float bloomThreshold = 1.05f, bloomIntensity = .12f, vignette = .10f;
+            // character readability
+            public float characterRim = .38f, characterRimPower = 4.5f;
+        }

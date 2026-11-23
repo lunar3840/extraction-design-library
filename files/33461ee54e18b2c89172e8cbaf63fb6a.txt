@@ -1,0 +1,5 @@
+prop_2               control vs before: pixels differing by >8/255 = 0.001%, max diff = 46
+tree_3               control vs before: pixels differing by >8/255 = 0.010%, max diff = 18
+building_inside_1    control vs before: pixels differing by >8/255 = 0.020%, max diff = 92
+tree_1               control vs before: pixels differing by >8/255 = 0.028%, max diff = 92
+prop_1               control vs before: pixels differing by >8/255 = 0.007%, max diff = 98
