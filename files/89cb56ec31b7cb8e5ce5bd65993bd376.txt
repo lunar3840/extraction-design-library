@@ -1,0 +1,16 @@
+OCCLUDER CUTOUT PLAY CAPTURE label=before
+METHOD: actual Stage A play session; player teleported to recorded spots; enemies/world ticks frozen; regular TopDownCamera framing (no look-ahead); 1600x1000 render of player.view.
+NOTE preview used older inline geometry / departure failed (pre-existing); entered runtime map prefab directly without encounters/loot. map=A_Blockout__Partially_Flooded_Maintenance_District v33=True
+spots=11 cutoutComponent=False
+CAPTURED tree_1 kind=tree target=D14_Vegetation/Trees/V27_Tree_West/PT_Fruit_Tree_01_green_LOD0 pos=(-32.84, 7.00, 63.14) aim=False v33Revealing=False v33Active=0
+CAPTURED tree_2 kind=tree target=D14_Vegetation/Trees/V27_Tree_East/PT_Fruit_Tree_01_green_LOD0 pos=(-9.47, 3.53, 61.21) aim=False v33Revealing=False v33Active=0
+CAPTURED tree_3 kind=tree target=D14_Vegetation/Trees/V09_ENV09_TREE_116/PT_Pine_Tree_03_green_LOD0 pos=(69.13, 10.74, 141.94) aim=False v33Revealing=False v33Active=0
+CAPTURED prop_1 kind=prop target=D14_Vegetation/Rocks/V09_ENV09_ROCK_054/PT_Generic_Rock_01_LOD0 pos=(-235.39, 0.01, -116.92) aim=False v33Revealing=False v33Active=0
+CAPTURED prop_2 kind=prop target=EnclosuresV33_ConnectedFacilities/Equipment/EW1/Unit_01/ReplaceableVisual/SM_asset_04/Model/__A33_Ruin_Ivy_Generated/__A33_Ivy/Leaves pos=(-232.48, 0.06, -62.72) aim=False v33Revealing=False v33Active=0
+CAPTURED prop_3 kind=prop target=D14_Vegetation/Rocks/V09_ENV09_ROCK_006/PT_Generic_Rock_01_LOD2 pos=(-239.00, 0.15, -152.53) aim=False v33Revealing=False v33Active=0
+CAPTURED building_inside_1 kind=building-inside target=EnclosuresV33_ConnectedFacilities/Buildings/S05 pos=(-211.00, 0.24, -124.00) aim=False v33Revealing=False v33Active=0
+CAPTURED building_behind_1 kind=building-behind target=EnclosuresV33_ConnectedFacilities/Buildings/S05 pos=(-209.67, 0.12, -134.82) aim=False v33Revealing=True v33Active=4
+CAPTURED building_inside_2 kind=building-inside target=EnclosuresV33_ConnectedFacilities/Buildings/S01 pos=(-207.00, 0.12, -71.00) aim=False v33Revealing=False v33Active=0
+CAPTURED building_behind_2 kind=building-behind target=EnclosuresV33_ConnectedFacilities/Buildings/S01 pos=(-209.27, 0.06, -81.66) aim=False v33Revealing=True v33Active=3
+CAPTURED tree_1_aiming kind=tree-aim target=D14_Vegetation/Trees/V27_Tree_West/PT_Fruit_Tree_01_green_LOD0 pos=(-32.84, 7.00, 63.14) aim=True v33Revealing=False v33Active=0
+RESULT COMPLETE captured=11

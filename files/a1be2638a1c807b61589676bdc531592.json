@@ -1,0 +1,191 @@
+{
+    "spots": [
+        {
+            "name": "tree_1",
+            "kind": "tree",
+            "target": "D14_Vegetation/Trees/V27_Tree_West/PT_Fruit_Tree_01_green_LOD0",
+            "position": {
+                "x": -32.83845901489258,
+                "y": 7.003421783447266,
+                "z": 63.137542724609378
+            },
+            "yaw": 210.0,
+            "aim": false,
+            "aimTarget": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "name": "tree_2",
+            "kind": "tree",
+            "target": "D14_Vegetation/Trees/V27_Tree_East/PT_Fruit_Tree_01_green_LOD0",
+            "position": {
+                "x": -9.472916603088379,
+                "y": 3.5289783477783205,
+                "z": 61.21238327026367
+            },
+            "yaw": 210.0,
+            "aim": false,
+            "aimTarget": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "name": "tree_3",
+            "kind": "tree",
+            "target": "D14_Vegetation/Trees/V09_ENV09_TREE_116/PT_Pine_Tree_03_green_LOD0",
+            "position": {
+                "x": 69.12921142578125,
+                "y": 10.738255500793457,
+                "z": 141.93919372558595
+            },
+            "yaw": 210.0,
+            "aim": false,
+            "aimTarget": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "name": "prop_1",
+            "kind": "prop",
+            "target": "D14_Vegetation/Rocks/V09_ENV09_ROCK_054/PT_Generic_Rock_01_LOD0",
+            "position": {
+                "x": -235.3866424560547,
+                "y": 0.00762711837887764,
+                "z": -116.91905975341797
+            },
+            "yaw": 210.0,
+            "aim": false,
+            "aimTarget": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "name": "prop_2",
+            "kind": "prop",
+            "target": "EnclosuresV33_ConnectedFacilities/Equipment/EW1/Unit_01/ReplaceableVisual/SM_asset_04/Model/__A33_Ruin_Ivy_Generated/__A33_Ivy/Leaves",
+            "position": {
+                "x": -232.477294921875,
+                "y": 0.06000041961669922,
+                "z": -62.7183952331543
+            },
+            "yaw": 210.0,
+            "aim": false,
+            "aimTarget": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "name": "prop_3",
+            "kind": "prop",
+            "target": "D14_Vegetation/Rocks/V09_ENV09_ROCK_006/PT_Generic_Rock_01_LOD2",
+            "position": {
+                "x": -239.00015258789063,
+                "y": 0.1545974463224411,
+                "z": -152.5268096923828
+            },
+            "yaw": 210.0,
+            "aim": false,
+            "aimTarget": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "name": "building_inside_1",
+            "kind": "building-inside",
+            "target": "EnclosuresV33_ConnectedFacilities/Buildings/S05",
+            "position": {
+                "x": -211.0,
+                "y": 0.24000024795532227,
+                "z": -124.0
+            },
+            "yaw": 210.0,
+            "aim": false,
+            "aimTarget": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "name": "building_behind_1",
+            "kind": "building-behind",
+            "target": "EnclosuresV33_ConnectedFacilities/Buildings/S05",
+            "position": {
+                "x": -209.67359924316407,
+                "y": 0.12000036239624024,
+                "z": -134.82008361816407
+            },
+            "yaw": 210.0,
+            "aim": false,
+            "aimTarget": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "name": "building_inside_2",
+            "kind": "building-inside",
+            "target": "EnclosuresV33_ConnectedFacilities/Buildings/S01",
+            "position": {
+                "x": -207.0,
+                "y": 0.12000036239624024,
+                "z": -71.0
+            },
+            "yaw": 210.0,
+            "aim": false,
+            "aimTarget": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "name": "building_behind_2",
+            "kind": "building-behind",
+            "target": "EnclosuresV33_ConnectedFacilities/Buildings/S01",
+            "position": {
+                "x": -209.2677459716797,
+                "y": 0.0626312643289566,
+                "z": -81.66404724121094
+            },
+            "yaw": 210.0,
+            "aim": false,
+            "aimTarget": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "name": "tree_1_aiming",
+            "kind": "tree-aim",
+            "target": "D14_Vegetation/Trees/V27_Tree_West/PT_Fruit_Tree_01_green_LOD0",
+            "position": {
+                "x": -32.83845901489258,
+                "y": 7.003421783447266,
+                "z": 63.137542724609378
+            },
+            "yaw": 359.0362548828125,
+            "aim": true,
+            "aimTarget": {
+                "x": -32.93938064575195,
+                "y": 8.053421974182129,
+                "z": 69.1366958618164
+            }
+        }
+    ]
+}
