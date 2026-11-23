@@ -1,0 +1,24 @@
+{
+  "video": "AR_013_A_Reload_Review.mp4",
+  "sha256": "af7149caa69cf472b22b23ba496dc0ed25a06c3d9254273677850a4260cbdc7e",
+  "bytes": 981111,
+  "decoded_frames": 271,
+  "fps": 30,
+  "expected_duration_seconds": 9.033333333333333,
+  "native_sha256": "61c3c29985a19116f0f7b1f4e08be58a2b7293ceccb6546ff345eaf95dd31519",
+  "source": "actual saved GR_AR_013_A_Reload, Blender render; not Unity runtime",
+  "qa_status": "PASS_SCOPED_WITH_NOTES",
+  "drop_detail": {
+    "file": "AR_013_A_EmptyMagazine_Detail.mp4",
+    "sha256": "785905187f633f535cb2aef7af44b1e7ad031ef92ccf86be16fd127b7db95486",
+    "decoded_frames": 24,
+    "source_frames": [
+      100,
+      123
+    ],
+    "source_fps": 30,
+    "playback_fps": 15,
+    "play_speed": 0.5
+  },
+  "independent_report_sha256": "be4adec82c3d14538030e1d34c0d63d32b0c1c7c977df6047ddf3583e8706150"
+}

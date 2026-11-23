@@ -1,0 +1,342 @@
+DENSITY V04 / CQB ACTUAL UNITY VALIDATION
+PASS found controlled raid seed for named-count coverage
+PASS variant 0 seed=61026 covers named=3 N1=True
+PASS variant 0 creates expected normal + 3/4 named actors
+PASS ordinary machines plus selected named machines remain the main faction
+PASS spawned named actors have real display identities
+PASS expected added machine count is present
+PASS CQB room range is applied after weapon initialization: G12_01
+PASS CQB room range is applied after weapon initialization: G12_04
+PASS CQB room range is applied after weapon initialization: D_HALL_01
+PASS CQB room range is applied after weapon initialization: D_HALL_02
+PASS CQB room range is applied after weapon initialization: D_POWER_01
+PASS CQB room range is applied after weapon initialization: D_PARTS_01
+PASS CQB room range is applied after weapon initialization: D_TOOLS_01
+PASS B1-B4 entry policy and inactive risk entries unchanged
+PASS retained physical doors exist
+PASS both exterior doors reach navigation
+PASS door-to-door route complete: DOOR_P1 / DOOR_P2
+PASS retained physical doors exist
+PASS both exterior doors reach navigation
+PASS door-to-door route complete: DOOR_L1 / DOOR_L2
+ANIMATION diagnostic forces AlwaysAnimate for hidden machines; FRAME includes this test overhead.
+INDOOR variant=0 id=G12_01 moved=1.664 health=90 role=Discharger starts=0 roleShots=0 phase=Ready mode=Patrol
+INDOOR variant=0 id=G12_04 moved=1.455 health=140 role=Suppressor starts=0 roleShots=0 phase=Ready mode=Patrol
+INDOOR variant=0 id=D_HALL_01 moved=0.504 health=90 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol
+INDOOR variant=0 id=D_HALL_02 moved=1.664 health=90 role=Discharger starts=0 roleShots=0 phase=Ready mode=Patrol
+INDOOR variant=0 id=D_POWER_01 moved=1.664 health=90 role=Discharger starts=0 roleShots=0 phase=Ready mode=Patrol
+INDOOR variant=0 id=D_PARTS_01 moved=0.504 health=90 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol
+INDOOR variant=0 id=D_TOOLS_01 moved=1.117 health=90 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol
+FIXED_ROOT actor=N3_Tank role=GuardTank max=0.1559313
+FIXED_ROOT actor=N4_SpiderMedium role=ArcRifle max=0
+FIXED_ROOT actor=G1_01_SpiderLight role=Scout max=0.036652
+FIXED_ROOT actor=G1_02_SpiderLight role=Scout max=0.03311672
+FIXED_ROOT actor=G2_01_SpiderLight role=Scout max=0.0366502
+FIXED_ROOT actor=G2_02_SpiderLight role=Scout max=0.0366502
+FIXED_ROOT actor=G3_01_SpiderLight role=Scout max=0.03665203
+FIXED_ROOT actor=G3_02_SpiderLight role=Scout max=0.03665203
+FIXED_ROOT actor=G4_01_SpiderLight role=Scout max=0.03665203
+FIXED_ROOT actor=G4_02_SpiderLight role=Scout max=0.03311135
+FIXED_ROOT actor=G5_01_SpiderLight role=Scout max=0.03664993
+FIXED_ROOT actor=G5_02_SpiderLight role=Scout max=0.03664993
+FIXED_ROOT actor=G5_03_SpiderLight role=Suppressor max=0.02594989
+FIXED_ROOT actor=G6_01_SpiderLight role=Scout max=0.03311067
+FIXED_ROOT actor=G6_02_SpiderLight role=Scout max=0.03260843
+FIXED_ROOT actor=G6_03_SpiderLight role=Scout max=0.03311079
+FIXED_ROOT actor=G7_01_SpiderLight role=Scout max=0.004299648
+FIXED_ROOT actor=G7_02_SpiderLight role=Scout max=0.03664941
+FIXED_ROOT actor=G7_03_SpiderLight role=Sniper max=0.0142327
+FIXED_ROOT actor=G8_01_SpiderLight role=Scout max=0.03664836
+FIXED_ROOT actor=G8_02_SpiderLight role=Scout max=0.03665203
+FIXED_ROOT actor=G8_03_SpiderLight role=Scout max=0.03665203
+FIXED_ROOT actor=G9_01_SpiderLight role=Scout max=0.036652
+FIXED_ROOT actor=G9_02_SpiderLight role=Sniper max=0.01423443
+FIXED_ROOT actor=G9_03_SpiderMedium role=Grenadier max=1.067177E-05
+FIXED_ROOT actor=G9_04_SpiderMedium role=GuardTank max=0.02015899
+FIXED_ROOT actor=G10_01_SpiderLight role=Suppressor max=0.02595246
+FIXED_ROOT actor=G10_02_SpiderLight role=Sniper max=0.01423375
+FIXED_ROOT actor=G10_03_SpiderMedium role=Grenadier max=1.00794E-05
+FIXED_ROOT actor=G10_04_SpiderMedium role=GuardTank max=0.02015874
+FIXED_ROOT actor=G11_01_SpiderLight role=Scout max=0.03664993
+FIXED_ROOT actor=G11_02_SpiderLight role=Sniper max=0.01423241
+FIXED_ROOT actor=G11_03_SpiderMedium role=ArcRifle max=0.02159287
+FIXED_ROOT actor=G12_01_SpiderLight role=Discharger max=0.01198609
+FIXED_ROOT actor=G12_02_SpiderLight role=Scout max=0.03664862
+FIXED_ROOT actor=G12_03_SpiderLight role=Suppressor max=0.01938225
+FIXED_ROOT actor=G12_04_SpiderMedium role=Suppressor max=0.03032228
+FIXED_ROOT actor=G12_05_SpiderMedium role=GuardTank max=0.02015872
+FIXED_ROOT actor=G12_06_SpiderMedium role=ArcRifle max=0.02159917
+FIXED_ROOT actor=D_HALL_01_SpiderLight role=Scout max=0.03664717
+FIXED_ROOT actor=D_HALL_02_SpiderLight role=Discharger max=0.01198609
+FIXED_ROOT actor=D_POWER_01_SpiderLight role=Discharger max=0.01198635
+FIXED_ROOT actor=D_PARTS_01_SpiderLight role=Scout max=0.03664928
+FIXED_ROOT actor=D_TOOLS_01_SpiderLight role=Scout max=0.03664979
+FIXED_ROOT actor=D_G5_01_SpiderLight role=Scout max=0.03664993
+FIXED_ROOT actor=D_G7_01_SpiderLight role=Scout max=0.03664837
+FIXED_ROOT actor=D_G9_01_SpiderLight role=Scout max=0.03664998
+FIXED_ROOT actor=D_G11_01_SpiderLight role=Scout max=0.03664993
+FIXED_ROOT actor=V4_G5_01_SpiderLight role=Scout max=0.03665203
+FIXED_ROOT actor=V4_G7_01_SpiderLight role=Discharger max=0.01198635
+FIXED_ROOT actor=V4_G8_01_SpiderLight role=Scout max=0.03664993
+FIXED_ROOT actor=V4_G9_01_SpiderMedium role=ArcRifle max=0.0215998
+FIXED_ROOT actor=V4_G10_01_SpiderMedium role=ArcRifle max=0.02159952
+FIXED_ROOT actor=V4_G10_02_SpiderLight role=Scout max=0.03664836
+FIXED_ROOT actor=V4_G11_01_SpiderLight role=Scout max=0.03664993
+FIXED_ROOT actor=V4_G12_01_SpiderLight role=Scout max=0.03664993
+CONTACT variant=0 id=N1 position=(-112.20, 1.26, 10.23) moved=5.95 health=200.0 travelled=12.30 movingFrames=271 role=None starts=0 roleShots=0 phase=Ready mode=Return avoiding=False avoidanceFrames=162 target=none shots=0
+CONTACT variant=0 id=H1_01 position=(-105.85, 1.38, 7.57) moved=0.99 health=70.0 travelled=1.07 movingFrames=30 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=H1_02 position=(-103.82, 1.44, 6.55) moved=2.81 health=70.0 travelled=25.02 movingFrames=562 role=None starts=0 roleShots=0 phase=Ready mode=Return avoiding=False avoidanceFrames=276 target=none shots=0
+CONTACT variant=0 id=H1_03 position=(-108.91, 1.38, -0.24) moved=3.65 health=62.0 travelled=21.60 movingFrames=313 role=None starts=0 roleShots=0 phase=Ready mode=Return avoiding=False avoidanceFrames=152 target=none shots=6
+CONTACT variant=0 id=H2_01 position=(89.82, 6.33, 45.95) moved=1.89 health=70.0 travelled=14.45 movingFrames=378 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=H2_02 position=(96.79, 6.46, 39.94) moved=1.89 health=70.0 travelled=14.45 movingFrames=378 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=H2_03 position=(87.40, 5.84, 33.23) moved=7.31 health=70.0 travelled=40.70 movingFrames=923 role=None starts=0 roleShots=0 phase=Ready mode=Return avoiding=True avoidanceFrames=529 target=none shots=0
+CONTACT variant=0 id=H3_01 position=(-145.35, 2.56, 65.25) moved=1.89 health=70.0 travelled=14.45 movingFrames=378 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=H1_04 position=(-111.80, 1.31, -0.40) moved=1.87 health=70.0 travelled=14.40 movingFrames=376 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=H2_04 position=(91.08, 6.10, 35.49) moved=1.12 health=70.0 travelled=22.99 movingFrames=555 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=173 target=none shots=0
+CONTACT variant=0 id=H4_01 position=(-153.00, 0.81, -26.51) moved=1.90 health=70.0 travelled=14.45 movingFrames=378 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=H4_02 position=(-148.49, 0.92, -26.97) moved=1.89 health=70.0 travelled=14.45 movingFrames=378 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=H5_01 position=(116.44, 0.49, -48.08) moved=1.88 health=70.0 travelled=14.44 movingFrames=378 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=H5_02 position=(108.00, 0.21, -48.89) moved=1.89 health=70.0 travelled=14.45 movingFrames=378 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=H6_01 position=(21.71, 6.71, 46.10) moved=1.89 health=70.0 travelled=14.45 movingFrames=378 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=V4_G5_01 position=(-74.27, 7.64, 114.68) moved=0.50 health=90.0 travelled=25.55 movingFrames=823 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=V4_G7_01 position=(-47.42, 8.68, 89.37) moved=1.66 health=90.0 travelled=23.85 movingFrames=607 role=Discharger starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=V4_G8_01 position=(-54.93, 0.74, -77.73) moved=0.50 health=90.0 travelled=25.55 movingFrames=823 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=V4_G9_01 position=(199.98, 7.32, 53.12) moved=2.49 health=140.0 travelled=18.82 movingFrames=625 role=ArcRifle starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=V4_G10_01 position=(198.49, 2.90, -30.14) moved=2.49 health=140.0 travelled=18.81 movingFrames=625 role=ArcRifle starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=V4_G10_02 position=(197.94, 1.02, -62.12) moved=0.50 health=90.0 travelled=25.55 movingFrames=823 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=V4_G11_01 position=(57.57, -0.01, -125.00) moved=0.50 health=90.0 travelled=25.55 movingFrames=823 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=V4_G12_01 position=(59.50, 1.08, -70.00) moved=0.50 health=90.0 travelled=25.55 movingFrames=823 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+PASS Rover wheels animate during patrol: G7_03_SpiderLight
+PASS Rover wheels animate during patrol: G9_02_SpiderLight
+PASS Rover wheels animate during patrol: G10_02_SpiderLight
+PASS Rover wheels animate during patrol: G11_02_SpiderLight
+PASS Rover wheels animate during patrol: G12_01_SpiderLight
+PASS Rover wheels animate during patrol: D_HALL_02_SpiderLight
+PASS Rover wheels animate during patrol: D_POWER_01_SpiderLight
+PASS Rover wheels animate during patrol: V4_G7_01_SpiderLight
+FRAME variant=0 samples=978 averageMs=30.9874603739758 maxMs=333.333340419501
+PASS variant 0 live movement: samples=69438 offNav=0 jumps=0 rolls=0 maxSpeed=2.275059 animatorDrift=0 fixedRootDrift=0.1559313 visualActor=N3_Tank/GuardTank/fixed:GLauncher
+PASS found controlled raid seed for named-count coverage
+PASS variant 1 seed=61042 covers named=4 N1=False
+PASS variant 1 creates expected normal + 3/4 named actors
+PASS ordinary machines plus selected named machines remain the main faction
+PASS spawned named actors have real display identities
+PASS expected added machine count is present
+PASS CQB room range is applied after weapon initialization: G12_01
+PASS CQB room range is applied after weapon initialization: G12_04
+PASS CQB room range is applied after weapon initialization: D_HALL_01
+PASS CQB room range is applied after weapon initialization: D_HALL_02
+PASS CQB room range is applied after weapon initialization: D_POWER_01
+PASS CQB room range is applied after weapon initialization: D_PARTS_01
+PASS CQB room range is applied after weapon initialization: D_TOOLS_01
+ANIMATION diagnostic forces AlwaysAnimate for hidden machines; FRAME includes this test overhead.
+INDOOR variant=1 id=G12_01 moved=0.999 health=90 role=Discharger starts=0 roleShots=0 phase=Ready mode=Patrol
+INDOOR variant=1 id=G12_04 moved=1.031 health=140 role=Suppressor starts=0 roleShots=0 phase=Ready mode=Patrol
+INDOOR variant=1 id=D_HALL_01 moved=0.839 health=90 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol
+INDOOR variant=1 id=D_HALL_02 moved=0.999 health=90 role=Discharger starts=0 roleShots=0 phase=Ready mode=Patrol
+INDOOR variant=1 id=D_POWER_01 moved=0.999 health=90 role=Discharger starts=0 roleShots=0 phase=Ready mode=Patrol
+INDOOR variant=1 id=D_PARTS_01 moved=0.839 health=90 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol
+INDOOR variant=1 id=D_TOOLS_01 moved=0.839 health=90 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol
+FIXED_ROOT actor=N2_SpiderTransformer role=Discharger max=0.06312855
+FIXED_ROOT actor=N3_Tank role=GuardTank max=0.1479698
+FIXED_ROOT actor=N4_SpiderMedium role=ArcRifle max=0
+FIXED_ROOT actor=N5_SpiderHeavy role=Suppressor max=0.1077378
+FIXED_ROOT actor=G1_01_SpiderLight role=Scout max=0.03665312
+FIXED_ROOT actor=G1_02_SpiderLight role=Scout max=0.03311336
+FIXED_ROOT actor=G2_01_SpiderLight role=Scout max=0.03665074
+FIXED_ROOT actor=G2_02_SpiderLight role=Scout max=0.03665074
+FIXED_ROOT actor=G3_01_SpiderLight role=Scout max=0.036652
+FIXED_ROOT actor=G3_02_SpiderLight role=Scout max=0.036652
+FIXED_ROOT actor=G4_01_SpiderLight role=Scout max=0.03664989
+FIXED_ROOT actor=G4_02_SpiderLight role=Scout max=0.036652
+FIXED_ROOT actor=G5_01_SpiderLight role=Scout max=0.03665101
+FIXED_ROOT actor=G5_02_SpiderLight role=Scout max=0.03665101
+FIXED_ROOT actor=G5_03_SpiderLight role=Suppressor max=0.02595615
+FIXED_ROOT actor=G6_01_SpiderLight role=Scout max=0.03310995
+FIXED_ROOT actor=G6_02_SpiderLight role=Scout max=0.03311094
+FIXED_ROOT actor=G6_03_SpiderLight role=Scout max=0.03664945
+FIXED_ROOT actor=G7_01_SpiderLight role=Scout max=0.03664734
+FIXED_ROOT actor=G7_02_SpiderLight role=Scout max=0.03664623
+FIXED_ROOT actor=G7_03_SpiderLight role=Sniper max=0.01387693
+FIXED_ROOT actor=G8_01_SpiderLight role=Scout max=0.0366499
+FIXED_ROOT actor=G8_02_SpiderLight role=Scout max=0.03664945
+FIXED_ROOT actor=G8_03_SpiderLight role=Scout max=0.0366499
+FIXED_ROOT actor=G9_01_SpiderLight role=Scout max=0.03311408
+FIXED_ROOT actor=G9_02_SpiderLight role=Sniper max=0.0142282
+FIXED_ROOT actor=G9_03_SpiderMedium role=Grenadier max=1.116525E-05
+FIXED_ROOT actor=G9_04_SpiderMedium role=GuardTank max=0.01789838
+FIXED_ROOT actor=G10_01_SpiderLight role=Suppressor max=0.02595391
+FIXED_ROOT actor=G10_02_SpiderLight role=Sniper max=0.01423097
+FIXED_ROOT actor=G10_03_SpiderMedium role=Grenadier max=1.018843E-05
+FIXED_ROOT actor=G10_04_SpiderMedium role=GuardTank max=0.02015805
+FIXED_ROOT actor=G11_01_SpiderLight role=Scout max=0.0366499
+FIXED_ROOT actor=G11_02_SpiderLight role=Sniper max=0.01422867
+FIXED_ROOT actor=G11_03_SpiderMedium role=ArcRifle max=0.02159793
+FIXED_ROOT actor=G12_01_SpiderLight role=Discharger max=0.01198261
+FIXED_ROOT actor=G12_02_SpiderLight role=Scout max=0.0366489
+FIXED_ROOT actor=G12_03_SpiderLight role=Suppressor max=0.02595243
+FIXED_ROOT actor=G12_04_SpiderMedium role=Suppressor max=0.03874106
+FIXED_ROOT actor=G12_05_SpiderMedium role=GuardTank max=0.0201583
+FIXED_ROOT actor=G12_06_SpiderMedium role=ArcRifle max=0.02159885
+FIXED_ROOT actor=D_HALL_01_SpiderLight role=Scout max=0.03664798
+FIXED_ROOT actor=D_HALL_02_SpiderLight role=Discharger max=0.0119823
+FIXED_ROOT actor=D_POWER_01_SpiderLight role=Discharger max=0.01198356
+FIXED_ROOT actor=D_PARTS_01_SpiderLight role=Scout max=0.0366502
+FIXED_ROOT actor=D_TOOLS_01_SpiderLight role=Scout max=0.03665028
+FIXED_ROOT actor=D_G5_01_SpiderLight role=Scout max=0.03665101
+FIXED_ROOT actor=D_G7_01_SpiderLight role=Scout max=0.0366468
+FIXED_ROOT actor=D_G9_01_SpiderLight role=Scout max=0.0366562
+FIXED_ROOT actor=D_G11_01_SpiderLight role=Scout max=0.0366499
+FIXED_ROOT actor=V4_G5_01_SpiderLight role=Scout max=0.0366499
+FIXED_ROOT actor=V4_G7_01_SpiderLight role=Discharger max=0.01198356
+FIXED_ROOT actor=V4_G8_01_SpiderLight role=Scout max=0.0366499
+FIXED_ROOT actor=V4_G9_01_SpiderMedium role=ArcRifle max=0.02159258
+FIXED_ROOT actor=V4_G10_01_SpiderMedium role=ArcRifle max=0.02159227
+FIXED_ROOT actor=V4_G10_02_SpiderLight role=Scout max=0.03664945
+FIXED_ROOT actor=V4_G11_01_SpiderLight role=Scout max=0.0366499
+FIXED_ROOT actor=V4_G12_01_SpiderLight role=Scout max=0.0366499
+CONTACT variant=1 id=N1 removed after combat
+CONTACT variant=1 id=H1_01 position=(-104.76, 1.42, 1.82) moved=1.79 health=70.0 travelled=12.87 movingFrames=358 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H1_02 position=(-108.74, 1.38, -0.50) moved=0.54 health=70.0 travelled=0.54 movingFrames=12 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H1_03 position=(-111.60, 1.30, 0.09) moved=1.88 health=70.0 travelled=14.29 movingFrames=392 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H2_01 position=(96.82, 6.47, 40.36) moved=1.88 health=70.0 travelled=14.21 movingFrames=390 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H2_02 position=(96.30, 6.28, 35.90) moved=3.82 health=70.0 travelled=32.48 movingFrames=827 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H2_03 position=(85.59, 5.70, 36.77) moved=1.37 health=70.0 travelled=14.20 movingFrames=383 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H3_01 position=(-154.47, 2.22, 63.95) moved=1.60 health=70.0 travelled=10.20 movingFrames=288 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H1_04 position=(-115.02, 1.24, -0.63) moved=1.88 health=70.0 travelled=14.32 movingFrames=392 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H2_04 position=(86.73, 6.13, 40.07) moved=1.89 health=70.0 travelled=14.36 movingFrames=394 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H4_01 position=(-148.73, 0.92, -27.08) moved=1.88 health=70.0 travelled=14.29 movingFrames=392 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H4_02 position=(-152.50, 0.83, -26.78) moved=1.88 health=70.0 travelled=14.29 movingFrames=392 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H5_01 position=(107.86, 0.21, -48.75) moved=1.88 health=70.0 travelled=14.29 movingFrames=392 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H5_02 position=(107.03, 0.82, -42.42) moved=1.89 health=70.0 travelled=14.37 movingFrames=395 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H6_01 position=(22.69, 6.71, 47.24) moved=1.88 health=70.0 travelled=14.21 movingFrames=390 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=V4_G5_01 position=(-96.00, 7.06, 114.50) moved=0.84 health=90.0 travelled=25.81 movingFrames=868 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=V4_G7_01 position=(-40.79, 8.81, 91.99) moved=1.00 health=90.0 travelled=24.57 movingFrames=648 role=Discharger starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=V4_G8_01 position=(-47.98, 0.68, -77.49) moved=0.84 health=90.0 travelled=25.81 movingFrames=868 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=V4_G9_01 position=(205.65, 7.61, 57.83) moved=2.48 health=140.0 travelled=18.56 movingFrames=648 role=ArcRifle starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=V4_G10_01 position=(205.59, 2.87, -27.48) moved=2.48 health=140.0 travelled=18.56 movingFrames=648 role=ArcRifle starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=V4_G10_02 position=(182.46, 1.14, -63.23) moved=0.84 health=90.0 travelled=25.81 movingFrames=868 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=V4_G11_01 position=(54.03, -0.02, -122.24) moved=0.84 health=90.0 travelled=25.81 movingFrames=868 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=V4_G12_01 position=(57.01, 1.01, -73.83) moved=0.84 health=90.0 travelled=25.81 movingFrames=868 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+PASS Rover wheels animate during patrol: G7_03_SpiderLight
+PASS Rover wheels animate during patrol: G9_02_SpiderLight
+PASS Rover wheels animate during patrol: G10_02_SpiderLight
+PASS Rover wheels animate during patrol: G11_02_SpiderLight
+PASS Rover wheels animate during patrol: G12_01_SpiderLight
+PASS Rover wheels animate during patrol: D_HALL_02_SpiderLight
+PASS Rover wheels animate during patrol: D_POWER_01_SpiderLight
+PASS Rover wheels animate during patrol: V4_G7_01_SpiderLight
+FRAME variant=1 samples=1024 averageMs=29.5465964873091 maxMs=267.521605725623
+PASS variant 1 live movement: samples=143166 offNav=0 jumps=0 rolls=0 maxSpeed=2.275059 animatorDrift=0 fixedRootDrift=0.1559313 visualActor=N3_Tank/GuardTank/fixed:GLauncher
+PASS found controlled raid seed for named-count coverage
+PASS variant 2 seed=61030 covers named=4 N1=True
+PASS variant 2 creates expected normal + 3/4 named actors
+PASS ordinary machines plus selected named machines remain the main faction
+PASS spawned named actors have real display identities
+PASS expected added machine count is present
+PASS CQB room range is applied after weapon initialization: G12_01
+PASS CQB room range is applied after weapon initialization: G12_04
+PASS CQB room range is applied after weapon initialization: D_HALL_01
+PASS CQB room range is applied after weapon initialization: D_HALL_02
+PASS CQB room range is applied after weapon initialization: D_POWER_01
+PASS CQB room range is applied after weapon initialization: D_PARTS_01
+PASS CQB room range is applied after weapon initialization: D_TOOLS_01
+ANIMATION diagnostic forces AlwaysAnimate for hidden machines; FRAME includes this test overhead.
+INDOOR variant=2 id=G12_01 moved=0.816 health=90 role=Discharger starts=0 roleShots=0 phase=Ready mode=Patrol
+INDOOR variant=2 id=G12_04 moved=2.246 health=140 role=Suppressor starts=0 roleShots=0 phase=Ready mode=Patrol
+INDOOR variant=2 id=D_HALL_01 moved=0.334 health=90 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol
+INDOOR variant=2 id=D_HALL_02 moved=0.816 health=90 role=Discharger starts=0 roleShots=0 phase=Ready mode=Patrol
+INDOOR variant=2 id=D_POWER_01 moved=0.816 health=90 role=Discharger starts=0 roleShots=0 phase=Ready mode=Patrol
+INDOOR variant=2 id=D_PARTS_01 moved=0.334 health=90 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol
+INDOOR variant=2 id=D_TOOLS_01 moved=0.334 health=90 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol
+FIXED_ROOT actor=N2_SpiderTransformer role=Discharger max=0.06321318
+FIXED_ROOT actor=N4_SpiderMedium role=ArcRifle max=0
+FIXED_ROOT actor=N5_SpiderHeavy role=Suppressor max=0.1077377
+FIXED_ROOT actor=G1_01_SpiderLight role=Scout max=0.03311089
+FIXED_ROOT actor=G1_02_SpiderLight role=Scout max=0.0306453
+FIXED_ROOT actor=G2_01_SpiderLight role=Scout max=0.03664887
+FIXED_ROOT actor=G2_02_SpiderLight role=Scout max=0.03664887
+FIXED_ROOT actor=G3_01_SpiderLight role=Scout max=0.03664887
+FIXED_ROOT actor=G3_02_SpiderLight role=Scout max=0.03664887
+FIXED_ROOT actor=G4_01_SpiderLight role=Scout max=0.03664887
+FIXED_ROOT actor=G4_02_SpiderLight role=Scout max=0.03664887
+FIXED_ROOT actor=G5_01_SpiderLight role=Scout max=0.03664887
+FIXED_ROOT actor=G5_02_SpiderLight role=Scout max=0.03664887
+FIXED_ROOT actor=G5_03_SpiderLight role=Suppressor max=0.02595391
+FIXED_ROOT actor=G6_01_SpiderLight role=Scout max=0.03664887
+FIXED_ROOT actor=G6_02_SpiderLight role=Scout max=0.02471196
+FIXED_ROOT actor=G6_03_SpiderLight role=Scout max=0.03064216
+FIXED_ROOT actor=G7_01_SpiderLight role=Scout max=0.0366478
+FIXED_ROOT actor=G7_02_SpiderLight role=Scout max=0.03664782
+FIXED_ROOT actor=G7_03_SpiderLight role=Sniper max=0.01423217
+FIXED_ROOT actor=G8_01_SpiderLight role=Scout max=0.03064083
+FIXED_ROOT actor=G8_02_SpiderLight role=Scout max=0.03310933
+FIXED_ROOT actor=G8_03_SpiderLight role=Scout max=0.03664887
+FIXED_ROOT actor=G9_01_SpiderLight role=Scout max=0.0366541
+FIXED_ROOT actor=G9_02_SpiderLight role=Sniper max=0.01423126
+FIXED_ROOT actor=G9_03_SpiderMedium role=Grenadier max=1.097957E-05
+FIXED_ROOT actor=G9_04_SpiderMedium role=GuardTank max=0.0169634
+FIXED_ROOT actor=G10_01_SpiderLight role=Suppressor max=0.02595229
+FIXED_ROOT actor=G10_02_SpiderLight role=Sniper max=0.0142314
+FIXED_ROOT actor=G10_03_SpiderMedium role=Grenadier max=1.016336E-05
+FIXED_ROOT actor=G10_04_SpiderMedium role=GuardTank max=0.02015897
+FIXED_ROOT actor=G11_01_SpiderLight role=Scout max=0.03664782
+FIXED_ROOT actor=G11_02_SpiderLight role=Sniper max=0.01423282
+FIXED_ROOT actor=G11_03_SpiderMedium role=ArcRifle max=0.02159947
+FIXED_ROOT actor=G12_01_SpiderLight role=Discharger max=0.01198597
+FIXED_ROOT actor=G12_02_SpiderLight role=Scout max=0.03664812
+FIXED_ROOT actor=G12_03_SpiderLight role=Suppressor max=0.02595437
+FIXED_ROOT actor=G12_04_SpiderMedium role=Suppressor max=0.03042149
+FIXED_ROOT actor=G12_05_SpiderMedium role=GuardTank max=0.02015833
+FIXED_ROOT actor=G12_06_SpiderMedium role=ArcRifle max=0.02159903
+FIXED_ROOT actor=D_HALL_01_SpiderLight role=Scout max=0.03664808
+FIXED_ROOT actor=D_HALL_02_SpiderLight role=Discharger max=0.01198593
+FIXED_ROOT actor=D_POWER_01_SpiderLight role=Discharger max=0.01198694
+FIXED_ROOT actor=D_PARTS_01_SpiderLight role=Scout max=0.03664928
+FIXED_ROOT actor=D_TOOLS_01_SpiderLight role=Scout max=0.03664896
+FIXED_ROOT actor=D_G5_01_SpiderLight role=Scout max=0.03664887
+FIXED_ROOT actor=D_G7_01_SpiderLight role=Scout max=0.03664888
+FIXED_ROOT actor=D_G9_01_SpiderLight role=Scout max=0.0366562
+FIXED_ROOT actor=D_G11_01_SpiderLight role=Scout max=0.03664782
+FIXED_ROOT actor=V4_G5_01_SpiderLight role=Scout max=0.03664887
+FIXED_ROOT actor=V4_G7_01_SpiderLight role=Discharger max=0.01198694
+FIXED_ROOT actor=V4_G8_01_SpiderLight role=Scout max=0.03664782
+FIXED_ROOT actor=V4_G9_01_SpiderMedium role=ArcRifle max=0.02159841
+FIXED_ROOT actor=V4_G10_01_SpiderMedium role=ArcRifle max=0.02159864
+FIXED_ROOT actor=V4_G10_02_SpiderLight role=Scout max=0.03664887
+FIXED_ROOT actor=V4_G11_01_SpiderLight role=Scout max=0.03664782
+FIXED_ROOT actor=V4_G12_01_SpiderLight role=Scout max=0.03664782
+CONTACT variant=2 id=N1 position=(-113.33, 1.26, 10.66) moved=6.84 health=200.0 travelled=11.62 movingFrames=267 role=None starts=0 roleShots=0 phase=Ready mode=Return avoiding=False avoidanceFrames=197 target=none shots=2
+CONTACT variant=2 id=H1_01 position=(-111.50, 1.26, 3.78) moved=4.32 health=62.0 travelled=37.50 movingFrames=743 role=None starts=0 roleShots=0 phase=Ready mode=Return avoiding=False avoidanceFrames=345 target=none shots=8
+CONTACT variant=2 id=H1_02 position=(-113.00, 1.23, 1.11) moved=1.89 health=70.0 travelled=14.25 movingFrames=384 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H1_03 position=(-114.53, 1.20, 4.02) moved=1.88 health=70.0 travelled=14.17 movingFrames=380 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H2_01 position=(97.45, 6.25, 35.64) moved=4.74 health=70.0 travelled=32.55 movingFrames=822 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H2_02 position=(85.51, 5.66, 36.13) moved=1.93 health=70.0 travelled=14.80 movingFrames=398 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H2_03 position=(96.83, 6.47, 40.47) moved=1.89 health=70.0 travelled=14.21 movingFrames=383 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H3_01 position=(-149.97, 3.78, 76.20) moved=1.89 health=70.0 travelled=14.21 movingFrames=383 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H1_04 position=(-114.42, 1.21, 6.45) moved=1.89 health=70.0 travelled=14.21 movingFrames=383 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H2_04 position=(86.97, 6.19, 44.45) moved=1.89 health=70.0 travelled=14.21 movingFrames=383 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H4_01 position=(-157.79, 0.72, -23.95) moved=1.31 health=70.0 travelled=17.35 movingFrames=456 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H4_02 position=(-148.10, 0.88, -30.00) moved=1.90 health=70.0 travelled=14.34 movingFrames=395 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H5_01 position=(106.47, 0.67, -44.04) moved=1.90 health=70.0 travelled=14.52 movingFrames=391 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H5_02 position=(111.03, 1.27, -39.57) moved=1.89 health=70.0 travelled=14.54 movingFrames=392 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H6_01 position=(21.44, 6.77, 50.84) moved=1.90 health=70.0 travelled=14.45 movingFrames=389 role=None starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=V4_G5_01 position=(-95.76, 7.09, 120.60) moved=0.33 health=90.0 travelled=24.73 movingFrames=843 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=V4_G7_01 position=(-37.30, 8.65, 88.97) moved=0.82 health=90.0 travelled=24.66 movingFrames=641 role=Discharger starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=V4_G8_01 position=(-61.12, 0.96, -68.88) moved=0.33 health=90.0 travelled=24.73 movingFrames=843 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=V4_G9_01 position=(210.34, 7.79, 58.53) moved=2.47 health=140.0 travelled=18.59 movingFrames=647 role=ArcRifle starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=V4_G10_01 position=(205.78, 2.50, -32.24) moved=2.47 health=140.0 travelled=18.59 movingFrames=647 role=ArcRifle starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=V4_G10_02 position=(178.96, 1.21, -58.94) moved=0.33 health=90.0 travelled=24.73 movingFrames=843 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=V4_G11_01 position=(55.04, -0.02, -117.72) moved=0.33 health=90.0 travelled=24.73 movingFrames=843 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=V4_G12_01 position=(52.02, 0.94, -72.24) moved=0.33 health=90.0 travelled=24.74 movingFrames=843 role=Scout starts=0 roleShots=0 phase=Ready mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+PASS Rover wheels animate during patrol: G7_03_SpiderLight
+PASS Rover wheels animate during patrol: G9_02_SpiderLight
+PASS Rover wheels animate during patrol: G10_02_SpiderLight
+PASS Rover wheels animate during patrol: G11_02_SpiderLight
+PASS Rover wheels animate during patrol: G12_01_SpiderLight
+PASS Rover wheels animate during patrol: D_HALL_02_SpiderLight
+PASS Rover wheels animate during patrol: D_POWER_01_SpiderLight
+PASS Rover wheels animate during patrol: V4_G7_01_SpiderLight
+FRAME variant=2 samples=1014 averageMs=29.7644423088104 maxMs=210.59039824263
+PASS variant 2 live movement: samples=216174 offNav=0 jumps=0 rolls=0 maxSpeed=2.275059 animatorDrift=0 fixedRootDrift=0.1559313 visualActor=N3_Tank/GuardTank/fixed:GLauncher
+COMPLETE PASS

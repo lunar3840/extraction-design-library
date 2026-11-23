@@ -1,0 +1,320 @@
+STAGE_A_ACCESS_V27_VALIDATION
+PASS live Stage A map exists
+PASS V27 cluster root is active
+PASS matching V26 baseline metrics were captured before placement
+PASS root has exactly A01, A02, and A03 groups
+PASS A01 direct group exists and is active
+PASS A01 has multiple authored cluster elements; children=29
+PASS A01 has visible geometry and physical cover; renderers=29 colliders=11
+PASS A01 visible detail exceeds V26 baseline 9 -> 29
+PASS A01 renderer within approach area: A01/Tree_West/Dogwood_Kousa/ViewDependentTree
+PASS A01 renderer within approach area: A01/Tree_WestMid/Dogwood_Kousa/ViewDependentTree
+PASS A01 renderer within approach area: A01/Tree_Center/Dogwood_Kousa/ViewDependentTree
+PASS A01 renderer within approach area: A01/Tree_EastMid/Dogwood_Kousa/ViewDependentTree
+PASS A01 renderer within approach area: A01/Tree_East/Dogwood_Kousa/ViewDependentTree
+PASS A01 renderer within approach area: A01/Shrub_01/Dogwood_Kousa/ViewDependentTree
+PASS A01 renderer within approach area: A01/Shrub_02/Dogwood_Kousa/ViewDependentTree
+PASS A01 renderer within approach area: A01/Shrub_03/Dogwood_Kousa/ViewDependentTree
+PASS A01 renderer within approach area: A01/Shrub_04/Dogwood_Kousa/ViewDependentTree
+PASS A01 renderer within approach area: A01/Shrub_05/Dogwood_Kousa/ViewDependentTree
+PASS A01 renderer within approach area: A01/Shrub_06/Dogwood_Kousa/ViewDependentTree
+PASS A01 renderer within approach area: A01/Shrub_07/Dogwood_Kousa/ViewDependentTree
+PASS A01 renderer within approach area: A01/Shrub_08/Dogwood_Kousa/ViewDependentTree
+PASS A01 renderer within approach area: A01/Shrub_09/Dogwood_Kousa/ViewDependentTree
+PASS A01 renderer within approach area: A01/Shrub_10/Dogwood_Kousa/ViewDependentTree
+PASS A01 renderer within approach area: A01/Shrub_11/Dogwood_Kousa/ViewDependentTree
+PASS A01 renderer within approach area: A01/Shrub_12/Dogwood_Kousa/ViewDependentTree
+PASS A01 renderer within approach area: A01/Rock_01/V10Dress_Rock_00/Content/SourceModel/mesh_LOD1
+PASS A01 renderer within approach area: A01/Rock_02/V10Dress_Rock_01/Content/SourceModel/mesh_LOD1
+PASS A01 renderer within approach area: A01/Rock_03/V10Dress_Rock_00/Content/SourceModel/mesh_LOD1
+PASS A01 renderer within approach area: A01/Rock_04/V10Dress_Rock_01/Content/SourceModel/mesh_LOD1
+PASS A01 renderer within approach area: A01/Rock_05/V10Dress_Rock_01/Content/SourceModel/mesh_LOD1
+PASS A01 renderer within approach area: A01/Rock_06/V10Dress_Rock_00/Content/SourceModel/mesh_LOD1
+PASS A01 renderer within approach area: A01/Grass_01/V10Dress_MeadowGrass_00/Content/SourceModel/mesh_LOD1
+PASS A01 renderer within approach area: A01/Grass_02/V10Dress_MeadowGrass_01/Content/SourceModel/mesh_LOD1
+PASS A01 renderer within approach area: A01/Grass_03/V10Dress_MeadowGrass_02/Content/SourceModel/mesh_LOD1
+PASS A01 renderer within approach area: A01/Grass_04/V10Dress_MeadowGrass_00/Content/SourceModel/mesh_LOD1
+PASS A01 renderer within approach area: A01/Grass_05/V10Dress_MeadowGrass_01/Content/SourceModel/mesh_LOD1
+PASS A01 renderer within approach area: A01/Grass_06/V10Dress_MeadowGrass_02/Content/SourceModel/mesh_LOD1
+PASS A01 visible elements spread across an approach, size=(30.65, 11.86, 9.55)
+PASS A01 collider within approach area: A01/Tree_West
+PASS A01 has no area-wide solid collider: Tree_West
+PASS A01 preserves approach strip 1: Tree_West
+PASS A01 preserves approach strip 2: Tree_West
+PASS A01 collider within approach area: A01/Tree_WestMid
+PASS A01 has no area-wide solid collider: Tree_WestMid
+PASS A01 preserves approach strip 1: Tree_WestMid
+PASS A01 preserves approach strip 2: Tree_WestMid
+PASS A01 collider within approach area: A01/Tree_Center
+PASS A01 has no area-wide solid collider: Tree_Center
+PASS A01 preserves approach strip 1: Tree_Center
+PASS A01 preserves approach strip 2: Tree_Center
+PASS A01 collider within approach area: A01/Tree_EastMid
+PASS A01 has no area-wide solid collider: Tree_EastMid
+PASS A01 preserves approach strip 1: Tree_EastMid
+PASS A01 preserves approach strip 2: Tree_EastMid
+PASS A01 collider within approach area: A01/Tree_East
+PASS A01 has no area-wide solid collider: Tree_East
+PASS A01 preserves approach strip 1: Tree_East
+PASS A01 preserves approach strip 2: Tree_East
+PASS A01 collider within approach area: A01/Rock_01
+PASS A01 has no area-wide solid collider: Rock_01
+PASS A01 preserves approach strip 1: Rock_01
+PASS A01 preserves approach strip 2: Rock_01
+PASS A01 collider within approach area: A01/Rock_02
+PASS A01 has no area-wide solid collider: Rock_02
+PASS A01 preserves approach strip 1: Rock_02
+PASS A01 preserves approach strip 2: Rock_02
+PASS A01 collider within approach area: A01/Rock_03
+PASS A01 has no area-wide solid collider: Rock_03
+PASS A01 preserves approach strip 1: Rock_03
+PASS A01 preserves approach strip 2: Rock_03
+PASS A01 collider within approach area: A01/Rock_04
+PASS A01 has no area-wide solid collider: Rock_04
+PASS A01 preserves approach strip 1: Rock_04
+PASS A01 preserves approach strip 2: Rock_04
+PASS A01 collider within approach area: A01/Rock_05
+PASS A01 has no area-wide solid collider: Rock_05
+PASS A01 preserves approach strip 1: Rock_05
+PASS A01 preserves approach strip 2: Rock_05
+PASS A01 collider within approach area: A01/Rock_06
+PASS A01 has no area-wide solid collider: Rock_06
+PASS A01 preserves approach strip 1: Rock_06
+PASS A01 preserves approach strip 2: Rock_06
+PASS A02 direct group exists and is active
+PASS A02 has multiple authored cluster elements; children=12
+PASS A02 has visible geometry and physical cover; renderers=12 colliders=12
+PASS A02 visible detail exceeds V26 baseline 1 -> 12
+PASS A02 renderer within approach area: A02/Car_West/StageA_v12_RustyVehicle_Car/SM_asset_03/Model
+PASS A02 renderer within approach area: A02/Car_East/StageA_v12_RustyVehicle_Car/SM_asset_03/Model
+PASS A02 renderer within approach area: A02/PipeRack_West/MAV16_IndustrialPipeRack/Visual
+PASS A02 renderer within approach area: A02/Generator_East/MAV16_WeatheredIndustrialGenerator/Visual
+PASS A02 renderer within approach area: A02/CableReel/MAV16_IndustrialCableReel/Visual
+PASS A02 renderer within approach area: A02/ToolCart/MAV16_ToolCart/Visual
+PASS A02 renderer within approach area: A02/Crates_East/MAV16_WeatheredMilitaryCrates/Visual
+PASS A02 renderer within approach area: A02/Crates_West/MAV16_WeatheredMilitaryCrates/Visual
+PASS A02 renderer within approach area: A02/Barrels_West/MAV16_RustyOilBarrels/Visual
+PASS A02 renderer within approach area: A02/Barrels_East/MAV16_RustyOilBarrels/Visual
+PASS A02 renderer within approach area: A02/Fence_West/MAV16_RustyFence/Visual
+PASS A02 renderer within approach area: A02/Fence_North/MAV16_RustyFence/Visual
+PASS A02 visible elements spread across an approach, size=(17.50, 2.27, 10.77)
+PASS A02 has a usable interior lateral gap at map y=187.0; clear width=11.5m
+PASS A02 collider within approach area: A02/Car_West
+PASS A02 has no area-wide solid collider: Car_West
+PASS A02 preserves approach strip 1: Car_West
+PASS A02 preserves approach strip 2: Car_West
+PASS A02 collider within approach area: A02/Car_East
+PASS A02 has no area-wide solid collider: Car_East
+PASS A02 preserves approach strip 1: Car_East
+PASS A02 preserves approach strip 2: Car_East
+PASS A02 collider within approach area: A02/PipeRack_West
+PASS A02 has no area-wide solid collider: PipeRack_West
+PASS A02 preserves approach strip 1: PipeRack_West
+PASS A02 preserves approach strip 2: PipeRack_West
+PASS A02 collider within approach area: A02/Generator_East
+PASS A02 has no area-wide solid collider: Generator_East
+PASS A02 preserves approach strip 1: Generator_East
+PASS A02 preserves approach strip 2: Generator_East
+PASS A02 collider within approach area: A02/CableReel
+PASS A02 has no area-wide solid collider: CableReel
+PASS A02 preserves approach strip 1: CableReel
+PASS A02 preserves approach strip 2: CableReel
+PASS A02 collider within approach area: A02/ToolCart
+PASS A02 has no area-wide solid collider: ToolCart
+PASS A02 preserves approach strip 1: ToolCart
+PASS A02 preserves approach strip 2: ToolCart
+PASS A02 collider within approach area: A02/Crates_East
+PASS A02 has no area-wide solid collider: Crates_East
+PASS A02 preserves approach strip 1: Crates_East
+PASS A02 preserves approach strip 2: Crates_East
+PASS A02 collider within approach area: A02/Crates_West
+PASS A02 has no area-wide solid collider: Crates_West
+PASS A02 preserves approach strip 1: Crates_West
+PASS A02 preserves approach strip 2: Crates_West
+PASS A02 collider within approach area: A02/Barrels_West
+PASS A02 has no area-wide solid collider: Barrels_West
+PASS A02 preserves approach strip 1: Barrels_West
+PASS A02 preserves approach strip 2: Barrels_West
+PASS A02 collider within approach area: A02/Barrels_East
+PASS A02 has no area-wide solid collider: Barrels_East
+PASS A02 preserves approach strip 1: Barrels_East
+PASS A02 preserves approach strip 2: Barrels_East
+PASS A02 collider within approach area: A02/Fence_West
+PASS A02 has no area-wide solid collider: Fence_West
+PASS A02 preserves approach strip 1: Fence_West
+PASS A02 preserves approach strip 2: Fence_West
+PASS A02 collider within approach area: A02/Fence_North
+PASS A02 has no area-wide solid collider: Fence_North
+PASS A02 preserves approach strip 1: Fence_North
+PASS A02 preserves approach strip 2: Fence_North
+PASS A03 direct group exists and is active
+PASS A03 has multiple authored cluster elements; children=12
+PASS A03 has visible geometry and physical cover; renderers=12 colliders=12
+PASS A03 visible detail exceeds V26 baseline 1 -> 12
+PASS A03 renderer within approach area: A03/Van/StageA_v12_RustyVehicle_Van/SM_asset_04/Model
+PASS A03 renderer within approach area: A03/PipeRack_NorthWest/MAV16_IndustrialPipeRack/Visual
+PASS A03 renderer within approach area: A03/Generator_West/MAV16_WeatheredIndustrialGenerator/Visual
+PASS A03 renderer within approach area: A03/PipeRack_SouthEast/MAV16_IndustrialPipeRack/Visual
+PASS A03 renderer within approach area: A03/ToolCart/MAV16_ToolCart/Visual
+PASS A03 renderer within approach area: A03/Pipe/MAV16_FlexiblePipe/Visual
+PASS A03 renderer within approach area: A03/Crates_West/MAV16_WeatheredMilitaryCrates/Visual
+PASS A03 renderer within approach area: A03/Crates_East/MAV16_WeatheredMilitaryCrates/Visual
+PASS A03 renderer within approach area: A03/CableReel/MAV16_IndustrialCableReel/Visual
+PASS A03 renderer within approach area: A03/Barrels_South/MAV16_RustyOilBarrels/Visual
+PASS A03 renderer within approach area: A03/Fence_SouthWest/MAV16_RustyFence/Visual
+PASS A03 renderer within approach area: A03/Fence_East/MAV16_RustyFence/Visual
+PASS A03 visible elements spread across an approach, size=(13.36, 2.78, 15.23)
+PASS A03 has a usable interior lateral gap at map y=193.5; clear width=3.0m
+PASS A03 collider within approach area: A03/Van
+PASS A03 has no area-wide solid collider: Van
+PASS A03 preserves approach strip 1: Van
+PASS A03 preserves approach strip 2: Van
+PASS A03 collider within approach area: A03/PipeRack_NorthWest
+PASS A03 has no area-wide solid collider: PipeRack_NorthWest
+PASS A03 preserves approach strip 1: PipeRack_NorthWest
+PASS A03 preserves approach strip 2: PipeRack_NorthWest
+PASS A03 collider within approach area: A03/Generator_West
+PASS A03 has no area-wide solid collider: Generator_West
+PASS A03 preserves approach strip 1: Generator_West
+PASS A03 preserves approach strip 2: Generator_West
+PASS A03 collider within approach area: A03/PipeRack_SouthEast
+PASS A03 has no area-wide solid collider: PipeRack_SouthEast
+PASS A03 preserves approach strip 1: PipeRack_SouthEast
+PASS A03 preserves approach strip 2: PipeRack_SouthEast
+PASS A03 collider within approach area: A03/ToolCart
+PASS A03 has no area-wide solid collider: ToolCart
+PASS A03 preserves approach strip 1: ToolCart
+PASS A03 preserves approach strip 2: ToolCart
+PASS A03 collider within approach area: A03/Pipe
+PASS A03 has no area-wide solid collider: Pipe
+PASS A03 preserves approach strip 1: Pipe
+PASS A03 preserves approach strip 2: Pipe
+PASS A03 collider within approach area: A03/Crates_West
+PASS A03 has no area-wide solid collider: Crates_West
+PASS A03 preserves approach strip 1: Crates_West
+PASS A03 preserves approach strip 2: Crates_West
+PASS A03 collider within approach area: A03/Crates_East
+PASS A03 has no area-wide solid collider: Crates_East
+PASS A03 preserves approach strip 1: Crates_East
+PASS A03 preserves approach strip 2: Crates_East
+PASS A03 collider within approach area: A03/CableReel
+PASS A03 has no area-wide solid collider: CableReel
+PASS A03 preserves approach strip 1: CableReel
+PASS A03 preserves approach strip 2: CableReel
+PASS A03 collider within approach area: A03/Barrels_South
+PASS A03 has no area-wide solid collider: Barrels_South
+PASS A03 preserves approach strip 1: Barrels_South
+PASS A03 preserves approach strip 2: Barrels_South
+PASS A03 collider within approach area: A03/Fence_SouthWest
+PASS A03 has no area-wide solid collider: Fence_SouthWest
+PASS A03 preserves approach strip 1: Fence_SouthWest
+PASS A03 preserves approach strip 2: Fence_SouthWest
+PASS A03 collider within approach area: A03/Fence_East
+PASS A03 has no area-wide solid collider: Fence_East
+PASS A03 preserves approach strip 1: Fence_East
+PASS A03 preserves approach strip 2: Fence_East
+PASS all new physical colliders belong to A01-A03
+PASS new colliders avoid existing non-ground penetration >0.12m; count=0
+PASS new colliders avoid each other >0.12m; count=0
+PASS no overlapping nonconvex mesh pairs remain unresolved; count=0
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/B1
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/B2
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/B3
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/B4
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/R1
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/R2
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/R3
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/R4
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/R5
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/R6
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/R7
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/R8
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/X1
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/X2
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/X3
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/X4
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/X5
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/X6
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/X7
+PASS entry, exit, stair or door accepts player capsule: V13_HallRoot/Anchors/Landing_West_B1
+PASS entry, exit, stair or door accepts player capsule: V13_HallRoot/Anchors/Landing_East_B1
+PASS entry, exit, stair or door accepts player capsule: V13_HallRoot/Anchors/Landing_West_1F_North
+PASS entry, exit, stair or door accepts player capsule: V13_HallRoot/Anchors/Landing_East_1F_North
+PASS entry, exit, stair or door accepts player capsule: V13_HallRoot/Anchors/Landing_West_1F_South
+PASS entry, exit, stair or door accepts player capsule: V13_HallRoot/Anchors/Landing_East_1F_South
+PASS entry, exit, stair or door accepts player capsule: V13_HallRoot/Anchors/Landing_West_2F
+PASS entry, exit, stair or door accepts player capsule: V13_HallRoot/Anchors/Landing_East_2F
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_C1
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_C2
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_TOOL
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_HN
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_HE
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_HS
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_HW
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_P1
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_P2
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_L1
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_L2
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_G1_CORE
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_G2_CORE
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_G3_CORE
+PASS entry, exit, stair or door accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_G4
+PASS B4 and inactive R8 retain their distinct spawn policy
+PASS temporary collision-derived NavMesh builds
+PASS four basic entries and seven exits define 28 routes
+NOTE MATRIX B1->X1=COMPLETE
+NOTE MATRIX B1->X2=COMPLETE
+NOTE MATRIX B1->X3=COMPLETE
+NOTE MATRIX B1->X4=COMPLETE
+NOTE MATRIX B1->X5=COMPLETE
+NOTE MATRIX B1->X6=COMPLETE
+NOTE MATRIX B1->X7=COMPLETE
+NOTE MATRIX B2->X1=COMPLETE
+NOTE MATRIX B2->X2=COMPLETE
+NOTE MATRIX B2->X3=COMPLETE
+NOTE MATRIX B2->X4=COMPLETE
+NOTE MATRIX B2->X5=COMPLETE
+NOTE MATRIX B2->X6=COMPLETE
+NOTE MATRIX B2->X7=COMPLETE
+NOTE MATRIX B3->X1=COMPLETE
+NOTE MATRIX B3->X2=COMPLETE
+NOTE MATRIX B3->X3=COMPLETE
+NOTE MATRIX B3->X4=COMPLETE
+NOTE MATRIX B3->X5=COMPLETE
+NOTE MATRIX B3->X6=COMPLETE
+NOTE MATRIX B3->X7=COMPLETE
+NOTE MATRIX B4->X1=COMPLETE
+NOTE MATRIX B4->X2=COMPLETE
+NOTE MATRIX B4->X3=COMPLETE
+NOTE MATRIX B4->X4=COMPLETE
+NOTE MATRIX B4->X5=COMPLETE
+NOTE MATRIX B4->X6=COMPLETE
+NOTE MATRIX B4->X7=COMPLETE
+PASS baseline complete extraction routes preserved; 28/28 complete, regressions=0
+PASS four hall stair pairs remain registered
+PASS stair pair 1 does not regress: public PathComplete
+PASS stair pair 2 does not regress: public PathComplete
+PASS stair pair 3 does not regress: public PathComplete
+PASS stair pair 4 does not regress: public PathComplete
+PASS active landform supports approach probes
+PASS A01_north previously available approach remains available: complete=True direct=True corners=2 length=30.00 public PathComplete
+NOTE DELTA A01_north direct True->True corners 2->2 length 30.00->30.00
+PASS A01_south previously available approach remains available: complete=True direct=True corners=2 length=30.00 public PathComplete
+NOTE DELTA A01_south direct True->True corners 2->2 length 30.00->30.00
+PASS A02_east previously available approach remains available: complete=True direct=True corners=2 length=23.00 public PathComplete
+NOTE DELTA A02_east direct True->True corners 2->2 length 23.00->23.00
+PASS A02_south previously available approach remains available: complete=True direct=True corners=3 length=32.26 public PathComplete
+NOTE DELTA A02_south direct True->True corners 3->3 length 32.26->32.26
+PASS A03_north previously available approach remains available: complete=True direct=True corners=2 length=28.17 public PathComplete
+NOTE DELTA A03_north direct True->True corners 2->2 length 28.15->28.17
+PASS A03_south previously available approach remains available: complete=True direct=True corners=2 length=28.02 public PathComplete
+NOTE DELTA A03_south direct True->True corners 2->2 length 28.02->28.02
+PASS A01_cross previously available approach remains available: complete=True direct=False corners=6 length=45.18 public PathComplete
+NOTE DELTA A01_cross direct False->False corners 8->6 length 47.71->45.18
+PASS A02_cross previously available approach remains available: complete=True direct=False corners=5 length=22.54 public PathComplete
+NOTE DELTA A02_cross direct True->False corners 2->5 length 22.00->22.54
+PASS A03_cross previously available approach remains available: complete=True direct=False corners=4 length=26.43 public PathComplete
+NOTE DELTA A03_cross direct True->False corners 2->4 length 25.00->26.43
+NOTE NavMesh plans and clearance checks do not replace physical play traversal.
+passed=279 failed=0
+RESULT PASS

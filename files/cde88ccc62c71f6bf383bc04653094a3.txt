@@ -1,0 +1,41 @@
+STAGE_A_WEATHER_V37_INDEPENDENT_PRESERVATION
+PASS immutable fresh V37 baseline exists
+PASS full source-file and current-map baseline schema valid
+PASS same retained A scene as actual V37 before baseline
+PASS current scene capture remains nonempty and unique
+PASS all original hierarchy, transforms, meshes, colliders, nav/AI fields and gameplay anchors unchanged except narrowly inspected V37 component hosts; missing=0 added=0 changed=0
+PASS map root original identity and serialized components retained; new permitted V37 components=2
+PASS water surface original identity and serialized components retained; new permitted V37 components=0
+PASS only original water and D14 shared-source channel slots bind dedicated supported V37 material; changed=3 missing=0 added=0 shaderHealthy=True
+NOTE CHANGED_MATERIAL D14_Outskirts[0]/Channels[0]/D14_EastChannel[0]|0|0 Assets/Escape/Resources/StageMaps/Generated_v09/0065_StageA_v09_Water.mat -> Assets/Escape/Art/WeatherV37/Materials/WaterV37.mat
+NOTE CHANGED_MATERIAL D14_Outskirts[0]/Channels[0]/D14_SouthChannel[0]|0|0 Assets/Escape/Resources/StageMaps/Generated_v09/0065_StageA_v09_Water.mat -> Assets/Escape/Art/WeatherV37/Materials/WaterV37.mat
+NOTE CHANGED_MATERIAL StageA_Landform_v09[0]/WaterSurface_v09[0]|0|0 Assets/Escape/Resources/StageMaps/Generated_v09/0065_StageA_v09_Water.mat -> Assets/Escape/Art/WeatherV37/Materials/WaterV37.mat
+PASS V37 root components bind only dedicated water/rain materials and retain the original water reference
+PASS all originally referenced A-map asset dependencies and protected AI/router/lighting code are byte-identical; count=14136 changed=0
+PASS all new Unity files are confined to V37 dedicated assets/scripts; new=5 outOfScope=0
+NOTE V37_CANDIDATE_FILES current=18 modifiedFromBefore=0 removedFromBefore=0
+NOTE V37_CANDIDATE_SHA256 Assets/Escape/Art/WeatherV37.meta=46B46457AF2FE5F37ECB4E9636F0AE3873604891671D96B353C33EDC5C6F0B53
+NOTE V37_CANDIDATE_SHA256 Assets/Escape/Art/WeatherV37/Materials.meta=5BB7CDBE69FB27C0BC510FECCC211ED8813A00B7692D80702D61812065BBA3B6
+NOTE V37_CANDIDATE_SHA256 Assets/Escape/Art/WeatherV37/Materials/RainV37.mat=59AB91EC97AFB486E51C0DFD42710D11D7F419302D5979B9DED7E784BD7E50D9
+NOTE V37_CANDIDATE_SHA256 Assets/Escape/Art/WeatherV37/Materials/RainV37.mat.meta=DFD181D23D51106AAE9974E7EB2FB2430EBAD3A5CB2BD2C362F57C80FEDC794E
+NOTE V37_CANDIDATE_SHA256 Assets/Escape/Art/WeatherV37/Materials/WaterV37.mat=CC777D44AD1D691034762C26AABEDC7EF9B31955A8EB8F0D498DC03A98A8D33C
+NOTE V37_CANDIDATE_SHA256 Assets/Escape/Art/WeatherV37/Materials/WaterV37.mat.meta=A08F277BE231F4920EECA31A5F2778E0D90090CB480FA0CF1B46A658D2D887D9
+NOTE V37_CANDIDATE_SHA256 Assets/Escape/Art/WeatherV37/StageAWaterV37.shader=08A5E18C78FFD4C59AE7A150015061B4176B07C30EE49380975460F8A9D00CF0
+NOTE V37_CANDIDATE_SHA256 Assets/Escape/Art/WeatherV37/StageAWaterV37.shader.meta=2150A5D4A230E8BBC5DE29E62D5825080245E725C50C7B61671C5422C0114C9A
+NOTE V37_CANDIDATE_SHA256 Assets/Escape/Editor/StageAWeatherV37Play.cs=0F7CC12F64B2408D9B77BDE5F6D9EC0B9DF13F99BF60807BE80F0EFB43744B8D
+NOTE V37_CANDIDATE_SHA256 Assets/Escape/Editor/StageAWeatherV37Play.cs.meta=ED4FD829EAFFE41F0CE6631830055E70AC7E9A86F0A5CD04DD4A72877F17060C
+NOTE V37_CANDIDATE_SHA256 Assets/Escape/Editor/StageAWeatherV37Validation.cs=A4DC5CC07A9654DCDCAD43134D283971A915C5062C12DC76951709D96FA5CB9F
+NOTE V37_CANDIDATE_SHA256 Assets/Escape/Editor/StageAWeatherV37Validation.cs.meta=4FCC90916122ADBA60A90FC14CA77D03164CBAF5D136F46BF96A6FE9E72EBB67
+NOTE V37_CANDIDATE_SHA256 Assets/Escape/Editor/StageAWeatherV37Workflow.cs=C028879B777E665D3CD40106269A0B598E0801AF043770E1FAE436341225299B
+NOTE V37_CANDIDATE_SHA256 Assets/Escape/Editor/StageAWeatherV37Workflow.cs.meta=7EE378ED57AED32E355E4E4F6ED6231E9408DEEC64E0671939ED484EE4CC4016
+NOTE V37_CANDIDATE_SHA256 Assets/Escape/Runtime/Stage/Blockout/StageARainV37.cs=CBF5B7E78C8C6163E9B8AED5FC06E3C96C4816F2A08DE23E589F9211C5A73EAA
+NOTE V37_CANDIDATE_SHA256 Assets/Escape/Runtime/Stage/Blockout/StageARainV37.cs.meta=06234A159DD43C735A4002408B3B7EB11B3C4DDC05BB47C5B7A69D6BAD5D853E
+NOTE V37_CANDIDATE_SHA256 Assets/Escape/Runtime/Stage/Blockout/StageAWaterV37.cs=8BFE386586283CA6CE97B2E4181ECA303747A237498CCE7CCBEB9D18E6689B10
+NOTE V37_CANDIDATE_SHA256 Assets/Escape/Runtime/Stage/Blockout/StageAWaterV37.cs.meta=2654572EAB932A1EA8F4F5559206FABC83A630D0F3766EC30649CFD97E8D4384
+PASS all scene Lights/Volumes and ambient/fog/skybox/quality rendering state unchanged
+PASS B1-B4 basic, R1-R8 inactive and seven exits retained
+PASS latest encounter slot census remains present
+SCOPE: current saved A map; only original water/D14 channel material slots and two named V37 visual components are allowed to change. Originally referenced asset dependencies, protected gameplay/lighting code, hierarchy, geometry, collision, light and global rendering are protected.
+SEPARATE ACCEPTANCE: matched before/after images, actual water animation, outdoor/indoor rain, runtime routes, shader health, performance and save/reload require their own evidence.
+passed=14 failed=0
+RESULT PASS

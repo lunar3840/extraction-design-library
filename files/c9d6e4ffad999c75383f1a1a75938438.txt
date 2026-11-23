@@ -1,0 +1,4 @@
+Rifle_Light_mixamo best aiming-like sample=0.57 score=-0.0332
+Rifle_Medium_mixamo best aiming-like sample=0.87 score=0.3288
+Rifle_Heavy_mixamo best aiming-like sample=0.90 score=0.3595
+ShotgunFight_mixamo best aiming-like sample=0.71 score=0.3182

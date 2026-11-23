@@ -1,0 +1,650 @@
+[
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Special_Forces_Helmet/AE_Special_Forces_Helmet_A.tga",
+    "before": "dee21ac8b96a186a97877fe846196f5876ede59c55c2ce97eff17b52b9c25115",
+    "after": "dee21ac8b96a186a97877fe846196f5876ede59c55c2ce97eff17b52b9c25115",
+    "changed": false
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Special_Forces_Helmet/AE_Special_Forces_Helmet_A.tga.meta",
+    "before": "40aeee726fd2e92d8798a5073fae1b9fc806914d32dcda8fa3d81bcd87f34c88",
+    "after": "40aeee726fd2e92d8798a5073fae1b9fc806914d32dcda8fa3d81bcd87f34c88",
+    "changed": false
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Vest_Body/AE_Vest_Body_A.tga",
+    "before": "df8b154cb204596ac26a97b18b1ec7b25ecd51ed4a4eb5689cfc22db4d0968f1",
+    "after": "df8b154cb204596ac26a97b18b1ec7b25ecd51ed4a4eb5689cfc22db4d0968f1",
+    "changed": false
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Vest_Body/AE_Vest_Body_A.tga.meta",
+    "before": "c63e08e6272c5418813cbac172911a859b4ce0ef5dd562a3eb809fc5d7c744da",
+    "after": "c63e08e6272c5418813cbac172911a859b4ce0ef5dd562a3eb809fc5d7c744da",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/AE_Special_Forces_Helmet_URP.mat",
+    "before": "c6ab0f3f1dcdd4c9debc9f8633c488e0116dd54571435eedb342c83f9a753e50",
+    "after": "c6ab0f3f1dcdd4c9debc9f8633c488e0116dd54571435eedb342c83f9a753e50",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/AE_Special_Forces_Helmet_URP.mat.meta",
+    "before": "5691d3ffab8453de23afceba2a473b94d2e0a0dbd1caba19dee6bafcd8d037a0",
+    "after": "5691d3ffab8453de23afceba2a473b94d2e0a0dbd1caba19dee6bafcd8d037a0",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/AE_Vest_Body_URP.mat",
+    "before": "9610aa0bc50eb04e914fa460871ef75f0856da7c09390b28856ced564ada9684",
+    "after": "9610aa0bc50eb04e914fa460871ef75f0856da7c09390b28856ced564ada9684",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/AE_Vest_Body_URP.mat.meta",
+    "before": "cbfebe6963fc70d7f73e9ea7b7304dd9a995744a8e264b6f0055126245228e15",
+    "after": "cbfebe6963fc70d7f73e9ea7b7304dd9a995744a8e264b6f0055126245228e15",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/ArmorLibrary.asset",
+    "before": "0a0a5b362d4011dce837f9673ef40273166347e19a9cf1b718455991f152e769",
+    "after": "6e6234eb744d829a37dcfad59e865e97e15a617174f647db3747ace92ddc9e2f",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/ArmorLibrary.asset.meta",
+    "before": "306f0bfcc85cb3ac79e9e525b2c3569a263dd4844795978741b4dbe801079563",
+    "after": "306f0bfcc85cb3ac79e9e525b2c3569a263dd4844795978741b4dbe801079563",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/HelmetCap.mat",
+    "before": "64c3d2845512933d0a1174e7d8e65e1ea1ee625cc80c5ff2bf824daef8df058e",
+    "after": "64c3d2845512933d0a1174e7d8e65e1ea1ee625cc80c5ff2bf824daef8df058e",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/HelmetCap.mat.meta",
+    "before": "0228e42c3f17de959a76319275f4d6fe07fa06fe92abde80d57600fb7d18b8b0",
+    "after": "0228e42c3f17de959a76319275f4d6fe07fa06fe92abde80d57600fb7d18b8b0",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/BaseLayer.mat",
+    "before": null,
+    "after": "e4e72e5fba7d9a98150d9a73c96f2c4a75f14d739c8b66bf2c97230c07d1d591",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/BaseLayer.mat.meta",
+    "before": null,
+    "after": "59e3848a9d4aee6008b957fcf6a7db8830c47d7767bf5f9f961d87b3200c0faf",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_ActualGoggles.asset",
+    "before": null,
+    "after": "8b2237607275e5c0c525f1363a6fbaf8cc4137c59d3a075e743458d0f9254da8",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_ActualGoggles.asset.meta",
+    "before": null,
+    "after": "6889a7fd08a87124b362390dbd37ad0d12fee3a3d4cc4be0f16ed05d79ea0b7d",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_FullHeadHelmet.asset",
+    "before": "011579eea683ee551aad3c0032c0ade9952db3b7f72082ed213729c863dba665",
+    "after": "cbf0121ee9a386b520081c8bce48b52b4626550e411404334222eb1914937c84",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_FullHeadHelmet.asset.meta",
+    "before": "7beba1d8c34d2209b4d7bfe28d1ee90f0d25e831ff2e90dac9d6276f7bd43952",
+    "after": "7beba1d8c34d2209b4d7bfe28d1ee90f0d25e831ff2e90dac9d6276f7bd43952",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Helmet.prefab",
+    "before": "6a544a260be8ab42c916a61523a5b7c0f617222ed68706c3ee1217b71a3fb487",
+    "after": "d29f1df0f13e107acfdeacae585b2b4e138379aa40a7d10ee69c38d33998636e",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Helmet.prefab.meta",
+    "before": "33c338e797d741b2f8445c2b1f2b02aaf5906afcee905ac201aa9e51c47da1b3",
+    "after": "33c338e797d741b2f8445c2b1f2b02aaf5906afcee905ac201aa9e51c47da1b3",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Mesh_Costume_03_Skin_Tucked.asset",
+    "before": "a4748e019ae595182a364514938faa1f47922d0b41439afc368025020fd89ec9",
+    "after": "a4748e019ae595182a364514938faa1f47922d0b41439afc368025020fd89ec9",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Mesh_Costume_03_Skin_Tucked.asset.meta",
+    "before": "ea576f122a9d7fc6027d0fa54324d65f30c58bc13b051ec032a13b6670f09f07",
+    "after": "ea576f122a9d7fc6027d0fa54324d65f30c58bc13b051ec032a13b6670f09f07",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Mesh_Costume_03_Tucked.asset",
+    "before": "ced15453e27c3c10dfbf4df9bf398a6f52b28fb1433a70e74c0c66bbc8f8a010",
+    "after": "ced15453e27c3c10dfbf4df9bf398a6f52b28fb1433a70e74c0c66bbc8f8a010",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Mesh_Costume_03_Tucked.asset.meta",
+    "before": "c09f9dcc4bfaef620dc5d2c12f7145dac0d5b14bab9103a7ddf3d52949e15ef7",
+    "after": "c09f9dcc4bfaef620dc5d2c12f7145dac0d5b14bab9103a7ddf3d52949e15ef7",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Nape.asset",
+    "before": "4226de16f70c0bb11c9e800fc03ac6f74ddb063de487251285add2c07ac4f35a",
+    "after": "4226de16f70c0bb11c9e800fc03ac6f74ddb063de487251285add2c07ac4f35a",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Nape.asset.meta",
+    "before": "b0434a508cb5acf11e34c581a4f5854c77d376c8225291f8e690d50bd21d3103",
+    "after": "b0434a508cb5acf11e34c581a4f5854c77d376c8225291f8e690d50bd21d3103",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_OriginalScalp.asset",
+    "before": "c465b09d11930df7e7d76e26b5ee39f3b31098cf19cb087490f8a8c3827bd8c0",
+    "after": "9c69d417b279253ac4f26e7f12f8e8e5ad18f27811aabfbf5c1be3e0cae642e7",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_OriginalScalp.asset.meta",
+    "before": "97466ab4a086ae0183370d89a4b33cf1667d3a6d6cfd55f75ec4346e1e5b6879",
+    "after": "97466ab4a086ae0183370d89a4b33cf1667d3a6d6cfd55f75ec4346e1e5b6879",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_SkinnedVest.asset",
+    "before": "16a820a621be4f7610a22c04a29e20cfb0d5dcae3d08642bf314aff27807be53",
+    "after": "1cac3be9d613465619ba37f53cb641b91081498e24778b800f234e5c0ae71620",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_SkinnedVest.asset.meta",
+    "before": "66b99247252d56bf939807687b52e38749d0ae3aa94c72b3399577cb85562a6e",
+    "after": "66b99247252d56bf939807687b52e38749d0ae3aa94c72b3399577cb85562a6e",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Vest.prefab",
+    "before": "bfbff0eec1ae854c6c1d629e0914f75d8c4509529b32767022598cef2b04e8c7",
+    "after": "bfbff0eec1ae854c6c1d629e0914f75d8c4509529b32767022598cef2b04e8c7",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Melee_Yuko_Vest.prefab.meta",
+    "before": "67819ceccf647059d86d71e87c714deaad6fdc51757bc8816c43c434a86d0aa0",
+    "after": "67819ceccf647059d86d71e87c714deaad6fdc51757bc8816c43c434a86d0aa0",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_ActualGoggles.asset",
+    "before": null,
+    "after": "e63c72924e1b4457e460a84e288baa7bc60e57a6ec8e2fbe3fcc9897f36e5dfd",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_ActualGoggles.asset.meta",
+    "before": null,
+    "after": "2c715066e196bbc0e7290eef3f888c0a9bec1f57a520a78fd78de2ade738bb32",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_BaseLayer.asset",
+    "before": null,
+    "after": "afb841bc3b007604cac8730dcb995d74c2a5cc595899b0abbb804a72a9bf8385",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_BaseLayer.asset.meta",
+    "before": null,
+    "after": "81c252c1fe1329f5b393ccdafe38aaee8b4c73036af6cadd0b63916e697ab7d6",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_FullHeadHelmet.asset",
+    "before": "21103b840de790711e4020f6f952a85c2d91ce1407093b699ceacbf57e046a0e",
+    "after": "1282f6e7a9aa2549f626316cd396517acff50ce167b5d2eb8895ff54ab46b991",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_FullHeadHelmet.asset.meta",
+    "before": "5b62deff1e9693ce81f6e36f468065a8d0130bd7fe74abf04b227360da46b330",
+    "after": "5b62deff1e9693ce81f6e36f468065a8d0130bd7fe74abf04b227360da46b330",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_Helmet.prefab",
+    "before": "0d251b4b1f5a27ce3442bc501175a00524704c233cc578744a199d2bf2e17a7a",
+    "after": "e4b6ca4cde60cc499d0723ddf4ab21bf608fbc2e83aefaf300b527f716a04593",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_Helmet.prefab.meta",
+    "before": "38f17ab27a3ab60c3e7f9e762616db9de6f7c87e5412f4dcf2f449f5e80288f1",
+    "after": "38f17ab27a3ab60c3e7f9e762616db9de6f7c87e5412f4dcf2f449f5e80288f1",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_Mesh_Costume_01_Skin_Tucked.asset",
+    "before": "5c2939a8a9b1c17024a90e763881537bdb6f300a5a9eaf2901152bac3f099dc3",
+    "after": "3f4691fbf8ed932778a46e948688ca95ccfd331847dd43dee39f7ba080200b89",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_Mesh_Costume_01_Skin_Tucked.asset.meta",
+    "before": "a4d8cd6a153b5877e712cb2c4a28eeebb3d03ed321f46dbfa45b00312f584fa5",
+    "after": "a4d8cd6a153b5877e712cb2c4a28eeebb3d03ed321f46dbfa45b00312f584fa5",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_Nape.asset",
+    "before": "b2603bc09b05b73d033a5689dbdbe56fc8764b1d9406571cdfea86ac40f079dd",
+    "after": "b2603bc09b05b73d033a5689dbdbe56fc8764b1d9406571cdfea86ac40f079dd",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_Nape.asset.meta",
+    "before": "4035e83cc6523432c94939ea92bc7dba2420c445b0a71a38887c4b0dff344c6e",
+    "after": "4035e83cc6523432c94939ea92bc7dba2420c445b0a71a38887c4b0dff344c6e",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_OriginalScalp.asset",
+    "before": "93ae3ebe7575fe62a74cc0e5cc7d8ef518ee08750a9a1cd6babab4edd5167e41",
+    "after": "75ae4b041cded24eaf70bfdfc46a7ef2a801e90498264487b72b1b587a55c7bb",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_OriginalScalp.asset.meta",
+    "before": "eba80c28cfe79321e2acc23d82b21f0f3a5ae9d31c7485c6d665c7069ec1a99d",
+    "after": "eba80c28cfe79321e2acc23d82b21f0f3a5ae9d31c7485c6d665c7069ec1a99d",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_OuterwearRemoved.asset",
+    "before": null,
+    "after": "fbac007d1e8b404aa49adacfb9dbbb69236dbe46d43d541e816ab28fa8a4cbe3",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_OuterwearRemoved.asset.meta",
+    "before": null,
+    "after": "3621ec24e8fbc0cbaaeafb54ae2d72eedae0791fa8a4e02ccd45b8135407fff5",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_SkinnedVest.asset",
+    "before": "d23dd42a8092637e52cd637084ef6bbfe060433270b10c2266c4510a0f1010a1",
+    "after": "92bd99f14288cc8d142a93ccf45c8c232e7f9453f1d53bf20bb62e4327846a07",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_SkinnedVest.asset.meta",
+    "before": "a6e74125ecfa1ac94c11ed73ef6249d09b424b2d94e407e9f83769be2d77acce",
+    "after": "a6e74125ecfa1ac94c11ed73ef6249d09b424b2d94e407e9f83769be2d77acce",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_Vest.prefab",
+    "before": "3daadeca46efaa5b4cfef84d4cf3efd182b73d104395a1d6556d3f506fd7f7a9",
+    "after": "d5a7cf5f4cd55fdbab2ee167398be2fea23f87dd0d2c4d4a0793dbb0d73fe262",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Player_UnityChan_Vest.prefab.meta",
+    "before": "96c4ecdb1bea0cb08f97ea512265cc6b30d28c42a831938541a535f377ae7f80",
+    "after": "96c4ecdb1bea0cb08f97ea512265cc6b30d28c42a831938541a535f377ae7f80",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_ActualGoggles.asset",
+    "before": null,
+    "after": "1d318697ba71968b05e85ef469da38e4d026171ddcb0891c0278fb28ac1afac5",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_ActualGoggles.asset.meta",
+    "before": null,
+    "after": "e329c27f085c25b63d48ff8178ebf201dd2ac0f1b67506d00c6cef04300eb595",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_FullHeadHelmet.asset",
+    "before": "2cd4ea235b10b31b6b21d28ee06d34c1ac7d86e57dff66381168c35f187ed9c0",
+    "after": "82ffa5adc0303b9502611cbbf8c7b52b4f7b29be3e64169742001a88c0c68e19",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_FullHeadHelmet.asset.meta",
+    "before": "5e2e4cbaec6499c4f30885e70321ff7762b06ff792a070f2b020eb0f21d84e6a",
+    "after": "5e2e4cbaec6499c4f30885e70321ff7762b06ff792a070f2b020eb0f21d84e6a",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Helmet.prefab",
+    "before": "ef83f0e4167e0e7d30b745c5f4fb2655f4a05ab62c3dd7e6dfe285ff243bb4fd",
+    "after": "47e7206bf1f8fd18cfbe6c97536c769b5f623e4cf4fb1bb54a4d0c72d7e55d27",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Helmet.prefab.meta",
+    "before": "aa34ab3f1927a5275f29deed12da381f4b483763185041e80550468397e3cb86",
+    "after": "aa34ab3f1927a5275f29deed12da381f4b483763185041e80550468397e3cb86",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Mesh_Costume_02_Skin_Tucked.asset",
+    "before": "f3f820e1215e579099e36e4c7145ebcf3e5f049bbb9fa6b13fec23cdd8d9e040",
+    "after": "f3f820e1215e579099e36e4c7145ebcf3e5f049bbb9fa6b13fec23cdd8d9e040",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Mesh_Costume_02_Skin_Tucked.asset.meta",
+    "before": "39eca390a314cd4d7a0b3c5ca41534fb22bf2e724a66d9a3eacc86aa99a1b749",
+    "after": "39eca390a314cd4d7a0b3c5ca41534fb22bf2e724a66d9a3eacc86aa99a1b749",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Mesh_Costume_02_Tucked.asset",
+    "before": "6f674ad47b3ba3f528cb58f84617db29efd57122cbbddf782f961961cd07fbc5",
+    "after": "6f674ad47b3ba3f528cb58f84617db29efd57122cbbddf782f961961cd07fbc5",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Mesh_Costume_02_Tucked.asset.meta",
+    "before": "d9d22771202f5b4c90ec619ec8bfa0e638127e4cb49b0c95c121051dacbb2e4a",
+    "after": "d9d22771202f5b4c90ec619ec8bfa0e638127e4cb49b0c95c121051dacbb2e4a",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Nape.asset",
+    "before": "b0e5dbff74bce3b3a2f6a4ea2bd66ec025e63173875b0be7c0ddf7a4d02b783f",
+    "after": "b0e5dbff74bce3b3a2f6a4ea2bd66ec025e63173875b0be7c0ddf7a4d02b783f",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Nape.asset.meta",
+    "before": "4aa05caa5954594c93121c2d43db869ffdd640d26c6f0aabec54b74442745a79",
+    "after": "4aa05caa5954594c93121c2d43db869ffdd640d26c6f0aabec54b74442745a79",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_OriginalScalp.asset",
+    "before": "4ddf696f1ae38e1f613ec6f03bd636e91522f12ffd2b87fd71dbdf1923fd35ba",
+    "after": "b1573ecc91f47d95a63f202d7f561ac05f93bac5c3141e843f07063269ad715b",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_OriginalScalp.asset.meta",
+    "before": "a1a1ad2b8c5fd8ff49e597ff39375f46157c6ba3123924376198a142d2bb9aa8",
+    "after": "a1a1ad2b8c5fd8ff49e597ff39375f46157c6ba3123924376198a142d2bb9aa8",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_SkinnedVest.asset",
+    "before": "d36971b66b45c098ad6f978a553d2d0661184ea4b3186154bccbbb5e0aab8162",
+    "after": "faceb567055778e48d03d17594acdac3391454cdfb9a31a043af50a07f10693f",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_SkinnedVest.asset.meta",
+    "before": "2e17a601824b0f70a42b42603375b4fc63105f3516ee0f56295875718239917d",
+    "after": "2e17a601824b0f70a42b42603375b4fc63105f3516ee0f56295875718239917d",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Vest.prefab",
+    "before": "37a60ad96be63556d6edf179c58fd67f6df81e5c93e00deb4cb6c7289b107f2a",
+    "after": "37a60ad96be63556d6edf179c58fd67f6df81e5c93e00deb4cb6c7289b107f2a",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Tailored/Ranged_Misaki_Vest.prefab.meta",
+    "before": "12dd339de0c9411750aed788d8c6ecbcb60759ac245fc31bc877a06dff8d053b",
+    "after": "12dd339de0c9411750aed788d8c6ecbcb60759ac245fc31bc877a06dff8d053b",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Costume1_v0_URP.mat",
+    "before": "dd0c09b75380be41ec603fa4b5f1514012ee6ca579e98cb4a04b7a9fc4535da2",
+    "after": "dd0c09b75380be41ec603fa4b5f1514012ee6ca579e98cb4a04b7a9fc4535da2",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Costume1_v0_URP.mat.meta",
+    "before": "da2ca9c0951a380f359e52e8e3c4a8528699b5707ced898f7a293de55770c571",
+    "after": "da2ca9c0951a380f359e52e8e3c4a8528699b5707ced898f7a293de55770c571",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_FaceSkin1_v1_99_FCE1BB_default_URP.mat",
+    "before": "4e1d91d76a0574fc1d44aa6947f0b554c0cda249d699ca331c6a5b60a68dc13e",
+    "after": "4e1d91d76a0574fc1d44aa6947f0b554c0cda249d699ca331c6a5b60a68dc13e",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_FaceSkin1_v1_99_FCE1BB_default_URP.mat.meta",
+    "before": "5686aa778b60539d80f77e483b6f35a2bf0ce9b505defac6368b3741c6172bf7",
+    "after": "5686aa778b60539d80f77e483b6f35a2bf0ce9b505defac6368b3741c6172bf7",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Hair0_C5_URP.mat",
+    "before": "962d99811e99a29c8e29a90d5406873b466672d76b19275c9ad237949a56e205",
+    "after": "962d99811e99a29c8e29a90d5406873b466672d76b19275c9ad237949a56e205",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Hair0_C5_URP.mat.meta",
+    "before": "221f90c2ad6a65f3fc03413b32699ff8c30bf64be9d9427214d547fe1492532b",
+    "after": "221f90c2ad6a65f3fc03413b32699ff8c30bf64be9d9427214d547fe1492532b",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Hair0_subA_subB_FF7936_URP.mat",
+    "before": "856f0a55c6745c4bfc72d7785023f6d23575437377f7637d0c569082501ac172",
+    "after": "856f0a55c6745c4bfc72d7785023f6d23575437377f7637d0c569082501ac172",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Hair0_subA_subB_FF7936_URP.mat.meta",
+    "before": "fbc0c2ee30c3e081c7becfda5560158a1b84495e6b09e96904c441cd1eb58735",
+    "after": "fbc0c2ee30c3e081c7becfda5560158a1b84495e6b09e96904c441cd1eb58735",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Hair1_A4_URP.mat",
+    "before": "666df3abb1f16a7ed4c7b4ecb117c5ffd664147e058997e78b3e5d22d89b88e3",
+    "after": "666df3abb1f16a7ed4c7b4ecb117c5ffd664147e058997e78b3e5d22d89b88e3",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Hair1_A4_URP.mat.meta",
+    "before": "662b0bcb30c2b47de855a800558be0677aef722f74e77dcb2de10ada35b4ae6c",
+    "after": "662b0bcb30c2b47de855a800558be0677aef722f74e77dcb2de10ada35b4ae6c",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Hair2_C7_URP.mat",
+    "before": "b54afef4cf18101fe0eb3c104484c35749e3b030325cb2f881b5efd17bcf96ab",
+    "after": "b54afef4cf18101fe0eb3c104484c35749e3b030325cb2f881b5efd17bcf96ab",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Materials/mat_Hair2_C7_URP.mat.meta",
+    "before": "54dca96f295fea3f70359194aa79ea3a4066fcf38cc35f845b9e2973475977ae",
+    "after": "54dca96f295fea3f70359194aa79ea3a4066fcf38cc35f845b9e2973475977ae",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdArmorLibrary.cs",
+    "before": "76780b34992a10cd6e5ec73617e4af108cfbab9ca1a9a4691577155ad73dfec0",
+    "after": "76780b34992a10cd6e5ec73617e4af108cfbab9ca1a9a4691577155ad73dfec0",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdArmorLibrary.cs.meta",
+    "before": "4214ee4dda62cabd3cf2e240f69895867aebf0823a6bc37fa995527f0f6d7e1b",
+    "after": "4214ee4dda62cabd3cf2e240f69895867aebf0823a6bc37fa995527f0f6d7e1b",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdArmorRig.cs",
+    "before": "d4d3d5440746768e9e19978c1099d56b31b668aed31b59f47e601f00862b6e5c",
+    "after": "4fb2afd2470b700adba331af006da5552f8d26149096ead919140b0b8bc0f6c4",
+    "changed": true
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdArmorRig.cs.meta",
+    "before": "b60aaf9ff5d1565cadf76c1e21776d32df020793f983b02b14d6b46f8a863055",
+    "after": "b60aaf9ff5d1565cadf76c1e21776d32df020793f983b02b14d6b46f8a863055",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdArmorVisual.cs",
+    "before": "e7245c60a8c88a959d572bf60940a1e5846ef516bfa6b7a7af7c1b91b6554d6e",
+    "after": "e7245c60a8c88a959d572bf60940a1e5846ef516bfa6b7a7af7c1b91b6554d6e",
+    "changed": false
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdArmorVisual.cs.meta",
+    "before": "037144511b71190366c11c26dff915d78bc45508a632796c54dee06bf938a9bc",
+    "after": "037144511b71190366c11c26dff915d78bc45508a632796c54dee06bf938a9bc",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Animation Setting/_Avatar_HaonSdCharacter_Common.fbx",
+    "before": "ce2a7a24291e255b5a7d3479c305c1949ccc637ff7589a2a36b3baeb7d95e186",
+    "after": "ce2a7a24291e255b5a7d3479c305c1949ccc637ff7589a2a36b3baeb7d95e186",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Animation Setting/_Avatar_HaonSdCharacter_Common.fbx.meta",
+    "before": "a0fd2eba1822e38712850b7a3570425f393fb9f40fa994fe7bb7a7c0bd1236aa",
+    "after": "a0fd2eba1822e38712850b7a3570425f393fb9f40fa994fe7bb7a7c0bd1236aa",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Mesh/CharacterParts/mesh_Costume1.fbx",
+    "before": "0c8c5953b425acaaf438f9e8f1c59e2818222ea9c130e31eede08c2b9fef928d",
+    "after": "0c8c5953b425acaaf438f9e8f1c59e2818222ea9c130e31eede08c2b9fef928d",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Mesh/CharacterParts/mesh_Costume1.fbx.meta",
+    "before": "cd316125d10ec88308efee281776c85d22bdf11d592fde27205fe2a895593d4a",
+    "after": "cd316125d10ec88308efee281776c85d22bdf11d592fde27205fe2a895593d4a",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Mesh/CharacterParts/mesh_Costume2.fbx",
+    "before": "f776a91ab35dbea442f9a24a42a8bdf795f53922c58e99bc2894b3b981e18491",
+    "after": "f776a91ab35dbea442f9a24a42a8bdf795f53922c58e99bc2894b3b981e18491",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Mesh/CharacterParts/mesh_Costume2.fbx.meta",
+    "before": "57d40b6b0ea7495c1bd68f0503e0fbc90a1c32f67eb1b3c0a3faaf174450003c",
+    "after": "57d40b6b0ea7495c1bd68f0503e0fbc90a1c32f67eb1b3c0a3faaf174450003c",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Mesh/CharacterParts/mesh_Costume3.fbx",
+    "before": "a9ee04cce1faa2c538e788b593448c461bda69bca772595113761d61dcbb4626",
+    "after": "a9ee04cce1faa2c538e788b593448c461bda69bca772595113761d61dcbb4626",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Mesh/CharacterParts/mesh_Costume3.fbx.meta",
+    "before": "572c89aedc8fdc2da87c18add79ad4cc224b089b59d538309d94ffbd13272ee6",
+    "after": "572c89aedc8fdc2da87c18add79ad4cc224b089b59d538309d94ffbd13272ee6",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Texture/Character/FaceSkin/T_FaceSkin1_v1_ToneShadow.png",
+    "before": "61bf909e471c8871e046103e11379ba7e6b31085f8a66b572d44a3c81efe4b88",
+    "after": "61bf909e471c8871e046103e11379ba7e6b31085f8a66b572d44a3c81efe4b88",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Texture/Character/FaceSkin/T_FaceSkin1_v1_ToneShadow.png.meta",
+    "before": "4a39554b9335e046d14e935335390342729cc4d547f7f8d2a3d1af1c1a81180b",
+    "after": "4a39554b9335e046d14e935335390342729cc4d547f7f8d2a3d1af1c1a81180b",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Texture/Character/Hair/T_Hair0_RedToneShadow.png",
+    "before": "a6a122bcbc97a5dcd131fe08403ebd688cf461915edf49d64c43c3d0234e4d4c",
+    "after": "a6a122bcbc97a5dcd131fe08403ebd688cf461915edf49d64c43c3d0234e4d4c",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Texture/Character/Hair/T_Hair0_RedToneShadow.png.meta",
+    "before": "58d58c4d0714eb4ca3caaa19365f86e3cab449ee62411adec183094fbda7eceb",
+    "after": "58d58c4d0714eb4ca3caaa19365f86e3cab449ee62411adec183094fbda7eceb",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Texture/Character/Hair/T_Hair0_subA_subB_ToneShadow.png",
+    "before": "71e012335eb83fba64039bf4fc3d731bd8262ae93486a694e22eb819dd84c2bf",
+    "after": "71e012335eb83fba64039bf4fc3d731bd8262ae93486a694e22eb819dd84c2bf",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Texture/Character/Hair/T_Hair0_subA_subB_ToneShadow.png.meta",
+    "before": "4196c95072a1f45cafcf1a3b6fe00331832b16ae5a67bc6c6e0beac5971e8548",
+    "after": "4196c95072a1f45cafcf1a3b6fe00331832b16ae5a67bc6c6e0beac5971e8548",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Texture/Character/Hair/T_Hair1_RedToneShadow.png",
+    "before": "7432238903342a028029a297f1cd69e3e37db14363e5a60925fe6ec0abc930bc",
+    "after": "7432238903342a028029a297f1cd69e3e37db14363e5a60925fe6ec0abc930bc",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Texture/Character/Hair/T_Hair1_RedToneShadow.png.meta",
+    "before": "c53d7aa179ecb00456bd74d59a80342e94dd36eb6fd4936c43110ec8ba90a048",
+    "after": "c53d7aa179ecb00456bd74d59a80342e94dd36eb6fd4936c43110ec8ba90a048",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Texture/Character/Hair/T_Hair2_BlueToneShadow.png",
+    "before": "8bd75e56ff3d0c67d429752f4d5201d88b2e8f928905faa158fa2b1cb4727ef1",
+    "after": "8bd75e56ff3d0c67d429752f4d5201d88b2e8f928905faa158fa2b1cb4727ef1",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Texture/Character/Hair/T_Hair2_BlueToneShadow.png.meta",
+    "before": "34750126427af25c936283fff824f452c2f42b525ac02d9879f0ec447dbcbe98",
+    "after": "34750126427af25c936283fff824f452c2f42b525ac02d9879f0ec447dbcbe98",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/_GuideAsset/Materials/Guide_20.mat",
+    "before": "27617f53d7162043fa573cb67b894279aabe08e0c598bb86727b36c01ee5cfa1",
+    "after": "27617f53d7162043fa573cb67b894279aabe08e0c598bb86727b36c01ee5cfa1",
+    "changed": false
+  },
+  {
+    "path": "Assets/Haons SD series Pack/_GuideAsset/Materials/Guide_20.mat.meta",
+    "before": "861b2265d53c21a8c60147101000a240ade033211276e39cf1169715d956bbcf",
+    "after": "861b2265d53c21a8c60147101000a240ade033211276e39cf1169715d956bbcf",
+    "changed": false
+  }
+]

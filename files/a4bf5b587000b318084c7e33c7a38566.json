@@ -1,0 +1,574 @@
+{
+  "status": "paper_arithmetic_not_game_validation",
+  "derived": [
+    {
+      "name": "회수 소총",
+      "category": "소총",
+      "shots100": 12,
+      "ttk100Seconds": 2.2,
+      "shots200": 23,
+      "ttk200FullReloadSeconds": 4.4,
+      "roundsDamage": 270,
+      "nominalDps": 45,
+      "emptyMagazineCycleSeconds": 8.6,
+      "fullMagazineCycleDps": 31.39534884,
+      "T1AmmoCost100": 120,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "K-2",
+      "category": "소총",
+      "shots100": 11,
+      "ttk100Seconds": 1.9,
+      "shots200": 21,
+      "ttk200FullReloadSeconds": 3.8,
+      "roundsDamage": 291,
+      "nominalDps": 51.05263158,
+      "emptyMagazineCycleSeconds": 8.21,
+      "fullMagazineCycleDps": 35.44457978,
+      "T1AmmoCost100": 110,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "M4A1",
+      "category": "소총",
+      "shots100": 11,
+      "ttk100Seconds": 1.7,
+      "shots200": 22,
+      "ttk200FullReloadSeconds": 3.57,
+      "roundsDamage": 282,
+      "nominalDps": 55.29411765,
+      "emptyMagazineCycleSeconds": 7.33,
+      "fullMagazineCycleDps": 38.47203274,
+      "T1AmmoCost100": 110,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "AK47",
+      "category": "소총",
+      "shots100": 8,
+      "ttk100Seconds": 1.68,
+      "shots200": 16,
+      "ttk200FullReloadSeconds": 3.6,
+      "roundsDamage": 390,
+      "nominalDps": 54.16666667,
+      "emptyMagazineCycleSeconds": 9.86,
+      "fullMagazineCycleDps": 39.55375254,
+      "T1AmmoCost100": 80,
+      "oldSellExceedsProposedPrice": true
+    },
+    {
+      "name": "FAMAS",
+      "category": "소총",
+      "shots100": 12,
+      "ttk100Seconds": 1.46666667,
+      "shots200": 24,
+      "ttk200FullReloadSeconds": 3.06666667,
+      "roundsDamage": 212.5,
+      "nominalDps": 63.75,
+      "emptyMagazineCycleSeconds": 6.3,
+      "fullMagazineCycleDps": 33.73015873,
+      "T1AmmoCost100": 120,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "M16",
+      "category": "소총",
+      "shots100": 11,
+      "ttk100Seconds": 1.78,
+      "shots200": 21,
+      "ttk200FullReloadSeconds": 3.56,
+      "roundsDamage": 230.4,
+      "nominalDps": 51.42857143,
+      "emptyMagazineCycleSeconds": 6.77,
+      "fullMagazineCycleDps": 34.03249631,
+      "T1AmmoCost100": 110,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "SCAR",
+      "category": "소총",
+      "shots100": 8,
+      "ttk100Seconds": 1.75,
+      "shots200": 16,
+      "ttk200FullReloadSeconds": 3.75,
+      "roundsDamage": 256,
+      "nominalDps": 51.2,
+      "emptyMagazineCycleSeconds": 7.75,
+      "fullMagazineCycleDps": 33.03225806,
+      "T1AmmoCost100": 80,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "MP5",
+      "category": "기관단총",
+      "shots100": 13,
+      "ttk100Seconds": 1.68,
+      "shots200": 25,
+      "ttk200FullReloadSeconds": 3.36,
+      "roundsDamage": 240,
+      "nominalDps": 57.14285714,
+      "emptyMagazineCycleSeconds": 6.16,
+      "fullMagazineCycleDps": 38.96103896,
+      "T1AmmoCost100": 78,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "UMP",
+      "category": "기관단총",
+      "shots100": 10,
+      "ttk100Seconds": 1.8,
+      "shots200": 20,
+      "ttk200FullReloadSeconds": 3.8,
+      "roundsDamage": 250,
+      "nominalDps": 50,
+      "emptyMagazineCycleSeconds": 7.3,
+      "fullMagazineCycleDps": 34.24657534,
+      "T1AmmoCost100": 60,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "P90",
+      "category": "기관단총",
+      "shots100": 17,
+      "ttk100Seconds": 1.6,
+      "shots200": 34,
+      "ttk200FullReloadSeconds": 3.3,
+      "roundsDamage": 300,
+      "nominalDps": 60,
+      "emptyMagazineCycleSeconds": 8,
+      "fullMagazineCycleDps": 37.5,
+      "T1AmmoCost100": 102,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "회수 권총",
+      "category": "권총",
+      "shots100": 12,
+      "ttk100Seconds": 4.73,
+      "shots200": 23,
+      "ttk200FullReloadSeconds": 10.68,
+      "roundsDamage": 108,
+      "nominalDps": 20.93023256,
+      "emptyMagazineCycleSeconds": 6.38,
+      "fullMagazineCycleDps": 16.92789969,
+      "T1AmmoCost100": 72,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "B.92Fs",
+      "category": "권총",
+      "shots100": 13,
+      "ttk100Seconds": 4.08,
+      "shots200": 25,
+      "ttk200FullReloadSeconds": 9.72,
+      "roundsDamage": 120,
+      "nominalDps": 23.52941177,
+      "emptyMagazineCycleSeconds": 6.66,
+      "fullMagazineCycleDps": 18.01801802,
+      "T1AmmoCost100": 78,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "Anaconda",
+      "category": "권총",
+      "shots100": 6,
+      "ttk100Seconds": 3.5,
+      "shots200": 12,
+      "ttk200FullReloadSeconds": 9.8,
+      "roundsDamage": 108,
+      "nominalDps": 25.71428571,
+      "emptyMagazineCycleSeconds": 6.3,
+      "fullMagazineCycleDps": 17.14285714,
+      "T1AmmoCost100": 36,
+      "oldSellExceedsProposedPrice": true
+    },
+    {
+      "name": "회수 산탄총",
+      "category": "산탄총",
+      "shots100": 3,
+      "ttk100Seconds": 1.9,
+      "shots200": 6,
+      "ttk200FullReloadSeconds": 4.75,
+      "roundsDamage": 216,
+      "nominalDps": 37.89473684,
+      "emptyMagazineCycleSeconds": 7.87,
+      "fullMagazineCycleDps": 27.44599746,
+      "T1AmmoCost100": 48,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "APS-12",
+      "category": "산탄총",
+      "shots100": 4,
+      "ttk100Seconds": 1.86,
+      "shots200": 7,
+      "ttk200FullReloadSeconds": 3.72,
+      "roundsDamage": 240,
+      "nominalDps": 48.38709678,
+      "emptyMagazineCycleSeconds": 9.3,
+      "fullMagazineCycleDps": 25.80645161,
+      "T1AmmoCost100": 64,
+      "oldSellExceedsProposedPrice": true
+    },
+    {
+      "name": "소드오프",
+      "category": "산탄총",
+      "shots100": 2,
+      "ttk100Seconds": 1.08,
+      "shots200": 4,
+      "ttk200FullReloadSeconds": 4.96,
+      "roundsDamage": 108,
+      "nominalDps": 50,
+      "emptyMagazineCycleSeconds": 3.88,
+      "fullMagazineCycleDps": 27.83505155,
+      "T1AmmoCost100": 32,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "정찰 지정사수총",
+      "category": "DMR",
+      "shots100": 6,
+      "ttk100Seconds": 2.5,
+      "shots200": 12,
+      "ttk200FullReloadSeconds": 5.5,
+      "roundsDamage": 360,
+      "nominalDps": 36,
+      "emptyMagazineCycleSeconds": 12.4,
+      "fullMagazineCycleDps": 29.03225806,
+      "T1AmmoCost100": 60,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "M14",
+      "category": "DMR",
+      "shots100": 5,
+      "ttk100Seconds": 2.48,
+      "shots200": 10,
+      "ttk200FullReloadSeconds": 5.58,
+      "roundsDamage": 315,
+      "nominalDps": 33.87096774,
+      "emptyMagazineCycleSeconds": 11.88,
+      "fullMagazineCycleDps": 26.51515152,
+      "T1AmmoCost100": 50,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "SR-25",
+      "category": "DMR",
+      "shots100": 7,
+      "ttk100Seconds": 2.52,
+      "shots200": 13,
+      "ttk200FullReloadSeconds": 5.04,
+      "roundsDamage": 320,
+      "nominalDps": 38.0952381,
+      "emptyMagazineCycleSeconds": 10.58,
+      "fullMagazineCycleDps": 30.24574669,
+      "T1AmmoCost100": 70,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "Mosin Nagant",
+      "category": "저격총",
+      "shots100": 3,
+      "ttk100Seconds": 3.8,
+      "shots200": 5,
+      "ttk200FullReloadSeconds": 7.6,
+      "roundsDamage": 200,
+      "nominalDps": 21.05263158,
+      "emptyMagazineCycleSeconds": 11.3,
+      "fullMagazineCycleDps": 17.69911504,
+      "T1AmmoCost100": 72,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "Scout",
+      "category": "저격총",
+      "shots100": 4,
+      "ttk100Seconds": 4.05,
+      "shots200": 7,
+      "ttk200FullReloadSeconds": 9.45,
+      "roundsDamage": 160,
+      "nominalDps": 23.7037037,
+      "emptyMagazineCycleSeconds": 8.1,
+      "fullMagazineCycleDps": 19.75308642,
+      "T1AmmoCost100": 96,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "AWP",
+      "category": "저격총",
+      "shots100": 3,
+      "ttk100Seconds": 3.8,
+      "shots200": 5,
+      "ttk200FullReloadSeconds": 7.6,
+      "roundsDamage": 230,
+      "nominalDps": 24.21052632,
+      "emptyMagazineCycleSeconds": 11.5,
+      "fullMagazineCycleDps": 20,
+      "T1AmmoCost100": 72,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "RPK",
+      "category": "기관총",
+      "shots100": 10,
+      "ttk100Seconds": 2.07,
+      "shots200": 19,
+      "ttk200FullReloadSeconds": 4.14,
+      "roundsDamage": 495,
+      "nominalDps": 47.82608696,
+      "emptyMagazineCycleSeconds": 14.42,
+      "fullMagazineCycleDps": 34.32732316,
+      "T1AmmoCost100": 100,
+      "oldSellExceedsProposedPrice": false
+    },
+    {
+      "name": "M249",
+      "category": "기관총",
+      "shots100": 13,
+      "ttk100Seconds": 1.8,
+      "shots200": 26,
+      "ttk200FullReloadSeconds": 3.75,
+      "roundsDamage": 624,
+      "nominalDps": 52,
+      "emptyMagazineCycleSeconds": 18.05,
+      "fullMagazineCycleDps": 34.57063712,
+      "T1AmmoCost100": 130,
+      "oldSellExceedsProposedPrice": false
+    }
+  ],
+  "repairComparison": [
+    {
+      "tier": "C",
+      "balancedOriginal": 90,
+      "fieldOriginal": 84,
+      "afterFourRepairsBalanced": 76.4411904,
+      "afterFourRepairsField": 77.47892544,
+      "firstMaximumCrossover": 4
+    },
+    {
+      "tier": "B",
+      "balancedOriginal": 117,
+      "fieldOriginal": 108,
+      "afterFourRepairsBalanced": 97.31938327,
+      "afterFourRepairsField": 98.60315693,
+      "firstMaximumCrossover": 4
+    },
+    {
+      "tier": "A",
+      "balancedOriginal": 144,
+      "fieldOriginal": 132,
+      "afterFourRepairsBalanced": 117.2889,
+      "afterFourRepairsField": 119.28680156,
+      "firstMaximumCrossover": 4
+    },
+    {
+      "tier": "S",
+      "balancedOriginal": 180,
+      "fieldOriginal": 164,
+      "afterFourRepairsBalanced": 143.54885711,
+      "afterFourRepairsField": 146.69060104,
+      "firstMaximumCrossover": 4
+    }
+  ],
+  "carryCases": [
+    {
+      "name": "A 중장",
+      "baseKitKg": 18.728,
+      "armorKg": 16,
+      "totalKg": 34.728,
+      "roomBefore50Kg": 15.272,
+      "equipmentPenaltyPercent": 6,
+      "uninjuredUnderweightMoveMultiplier": 0.94
+    },
+    {
+      "name": "S 기동",
+      "baseKitKg": 18.728,
+      "armorKg": 8.8,
+      "totalKg": 27.528,
+      "roomBefore50Kg": 22.472,
+      "equipmentPenaltyPercent": 3,
+      "uninjuredUnderweightMoveMultiplier": 0.97
+    },
+    {
+      "name": "S 균형",
+      "baseKitKg": 18.728,
+      "armorKg": 14.5,
+      "totalKg": 33.228,
+      "roomBefore50Kg": 16.772,
+      "equipmentPenaltyPercent": 5.3,
+      "uninjuredUnderweightMoveMultiplier": 0.947
+    },
+    {
+      "name": "S 중장",
+      "baseKitKg": 18.728,
+      "armorKg": 22,
+      "totalKg": 40.728,
+      "roomBefore50Kg": 9.272,
+      "equipmentPenaltyPercent": 8,
+      "uninjuredUnderweightMoveMultiplier": 0.92
+    }
+  ],
+  "machineGunCase": {
+    "name": "S 중장 + M249 + 대형배낭",
+    "totalKg": 46.328,
+    "equipmentPenaltyPercent": 8,
+    "roomBefore50Kg": 3.672,
+    "with10KgLoot": 56.328,
+    "moveWith10KgLoot": 0.644,
+    "with15KgLoot": 61.328
+  },
+  "sword200": {
+    "fullReloadShots": [
+      0,
+      1.08,
+      3.88,
+      4.96
+    ],
+    "idealPartialInterruptionShots": [
+      0,
+      1.08,
+      2.48,
+      3.88
+    ]
+  },
+  "armorPaperComparison": [
+    {
+      "name": "회수 방탄조끼",
+      "tier": "C",
+      "durability": 90,
+      "T1": {
+        "shots": 21,
+        "ttk": 3.4
+      },
+      "T4": {
+        "shots": 19,
+        "ttk": 3.06
+      },
+      "T6": {
+        "shots": 19,
+        "ttk": 3.06
+      }
+    },
+    {
+      "name": "철판 보강복",
+      "tier": "C",
+      "durability": 100,
+      "T1": {
+        "shots": 22,
+        "ttk": 3.57
+      },
+      "T4": {
+        "shots": 20,
+        "ttk": 3.23
+      },
+      "T6": {
+        "shots": 19,
+        "ttk": 3.06
+      }
+    },
+    {
+      "name": "순찰 방탄복",
+      "tier": "B",
+      "durability": 117,
+      "T1": {
+        "shots": 24,
+        "ttk": 3.91
+      },
+      "T4": {
+        "shots": 22,
+        "ttk": 3.57
+      },
+      "T6": {
+        "shots": 21,
+        "ttk": 3.4
+      }
+    },
+    {
+      "name": "구문명 진압복",
+      "tier": "B",
+      "durability": 130,
+      "T1": {
+        "shots": 25,
+        "ttk": 4.08
+      },
+      "T4": {
+        "shots": 23,
+        "ttk": 3.74
+      },
+      "T6": {
+        "shots": 22,
+        "ttk": 3.57
+      }
+    },
+    {
+      "name": "군용 전투복",
+      "tier": "A",
+      "durability": 144,
+      "T1": {
+        "shots": 26,
+        "ttk": 4.25
+      },
+      "T4": {
+        "shots": 24,
+        "ttk": 3.91
+      },
+      "T6": {
+        "shots": 23,
+        "ttk": 3.74
+      }
+    },
+    {
+      "name": "돌입 방탄복",
+      "tier": "A",
+      "durability": 160,
+      "T1": {
+        "shots": 28,
+        "ttk": 4.59
+      },
+      "T4": {
+        "shots": 26,
+        "ttk": 4.25
+      },
+      "T6": {
+        "shots": 24,
+        "ttk": 3.91
+      }
+    },
+    {
+      "name": "특수작전 방탄복",
+      "tier": "S",
+      "durability": 180,
+      "T1": {
+        "shots": 30,
+        "ttk": 4.93
+      },
+      "T4": {
+        "shots": 27,
+        "ttk": 4.42
+      },
+      "T6": {
+        "shots": 26,
+        "ttk": 4.25
+      }
+    },
+    {
+      "name": "저거넛 방탄복",
+      "tier": "S",
+      "durability": 200,
+      "T1": {
+        "shots": 32,
+        "ttk": 7.5
+      },
+      "T4": {
+        "shots": 29,
+        "ttk": 4.76
+      },
+      "T6": {
+        "shots": 28,
+        "ttk": 4.59
+      }
+    }
+  ]
+}

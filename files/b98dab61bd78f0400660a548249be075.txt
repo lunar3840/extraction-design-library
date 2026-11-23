@@ -1,0 +1,19 @@
+UTC=2026-10-22T21:17:00.6473023Z
+command=cleanup_resolution_edit
+label=Temporary inventory vitals evidence 1600x900
+width=1600 height=900
+countBefore=0
+removed=0
+countAfter=0
+customCountBefore=5
+customCountAfter=5
+selectedIndexBefore=3
+selectedIndexAfter=3
+selectionBefore=Full HD
+selectionAfter=Full HD
+targetBefore=1920x1080
+targetAfter=1920x1080
+PASS exact temporary entry removed or absent
+PASS current selected item preserved
+PASS all unrelated entries preserved
+PASS Edit clean no profile no Play

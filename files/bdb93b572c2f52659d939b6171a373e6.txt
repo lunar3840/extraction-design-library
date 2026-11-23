@@ -1,0 +1,34 @@
+STAGE_A_LOOK_V17_VALIDATION
+generatedUtc=2026-09-22T15:25:07.5792566Z
+PASS map reference is live
+PASS pre-apply baseline exists for this map
+PASS v0.8 structure remains present
+PASS v1.1 district remains present
+PASS all pre-V17 collider geometry/state, including V16, is unchanged
+PASS ordered entry, exit, door and B4/R8 anchor transforms remain unchanged
+PASS remote district visual state is unchanged
+PASS V16 renderer/material references and surface settings remain unchanged
+PASS hall transform/renderer structure outside LookV17 roots remains unchanged
+PASS protected CORE_G1-G3 and doorway geometry remains unchanged
+PASS four basic entries remain populated
+PASS eight risk markers remain populated
+PASS R1-R8, including R8, stay excluded from default spawn selection
+PASS B1-B4 and R1-R8 remain ordered without activating R8
+PASS V17-owned roots are present
+PASS V17 facade variation is owned beneath the hall Exterior/Roof cutaway hierarchy
+PASS west repair, central entry and east loading facade zones are all present
+PASS V17 yard has the expected direct map-owned root
+PASS new visual roots have renderers with supported, non-null materials/shaders
+PASS V17 major props are present
+PASS facade canopy major pieces have enabled solid collision
+PASS facade canopy and columns leave central and loading doorway walking capsules clear
+PASS all V17 major props have collision and all yard colliders are non-degenerate
+PASS new major props do not occupy entry, exit or door capsules
+PASS new yard structures do not substantially penetrate old solid obstacles
+PASS new yard structures keep the central, loading, H3 patrol and observer lanes clear
+NOTE ownedRoots=10 renderers=66 majorProps=2 facadeMajor=2 facadeColliders=16 facadeDoorHits=0 yardColliders=24 missingCollider=0 degenerate=0 anchorHits=0 oldColliderHits=0 laneHits=0
+PASS V14 collision regression passes (known B1-X6 warning allowed)
+PASS V15 overlap regression passes
+NOTE post collider=4625:003376CCEA6A7694 anchor=46:EFE65898133CE0FA remote=33:B7A69F39766475BE v16=457:8A57D13CBD94A006
+SUMMARY passed=28 failed=0
+RESULT PASS

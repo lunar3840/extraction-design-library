@@ -1,0 +1,4 @@
+ACTUAL A-MAP MACHINE MOTION CHECKS
+EnemyTest Play fixture with static assets and temporary roll actors.
+PASS machine motion static and EnemyTest Play checks completed; see CHECKS.txt
+RESULT PASS

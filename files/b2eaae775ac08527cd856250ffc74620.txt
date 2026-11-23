@@ -1,0 +1,48 @@
+PASS unsearched contents hidden
+PASS unused slot accepts deposits without search
+PASS unsearched loot cannot be taken
+PASS only first slot searching
+PASS search incomplete remains hidden
+PASS chronological sequential search
+PASS full bag accepts partial maximum stack only
+PASS full bag repeat does not consume remaining loot
+PASS remaining loot recoverable exactly once
+PASS empty repeated take cannot duplicate
+PASS closed UI elapsed time completes sequential searches
+PASS different item cannot overwrite occupied loot slot
+PASS deposit into searched empty slot
+PASS weapon can be recovered after completed search
+PASS weapon identity preserved through deposit and pickup
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS weighted generation excludes zero-weight entry
+PASS time reversal rejected

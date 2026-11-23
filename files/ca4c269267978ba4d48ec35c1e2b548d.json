@@ -1,0 +1,16 @@
+{
+  "beforePass": true,
+  "afterPass": true,
+  "poseCameraLogsMatch": true,
+  "pairedPlayViews": 10,
+  "uv0AndVertexLogsMatch": true,
+  "meshRows": 13,
+  "beforeOutlineActive": true,
+  "afterOutlineActive": true,
+  "runtimeRendererReferenceMatch": true,
+  "beforePixelDifference": "changedPixels=59961 meanAbsRgb8=0.4716",
+  "afterPixelDifference": "changedPixels=170946 meanAbsRgb8=1.1419",
+  "skinPreservedBoth": true,
+  "unexpectedChanges": [],
+  "scope": "fixed Editor camera renders; no dynamic hidden-enemy/HUD/mobile/GPU/FPS/Player build verification"
+}

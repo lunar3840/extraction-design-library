@@ -1,0 +1,22 @@
+{
+  "status": "PASS_FINAL_STATIC_SCOPE",
+  "approvedExtras": 17,
+  "originalSceneObjectPaths": 46693,
+  "newOwnedObjectPaths": 52,
+  "originalReferencedAssets": 8511,
+  "preservedReferencedAssets": 8063,
+  "changedOriginalBaseMeshBodies": 448,
+  "newReferencedExtraMeshAssets": 34,
+  "originalA33MeshMetasPreserved": 452,
+  "clinicOwnedFilesPreserved": 38,
+  "protectedFilesPreserved": 29,
+  "additionalSourceFilesPreserved": 8,
+  "originalPrefabYamlDocumentsPreserved": 141593,
+  "newOwnedPrefabYamlDocuments": 206,
+  "sceneSha256": "11C4100C8D129FFD04C83AAD7BBA97B20C1D7F703D4F84DE9E84754D9D988E6A",
+  "prefabSha256": "26C8E548B074D96A36A33BFB9CFA7D354BF1C220729D6BD3F1455710D65E98E9",
+  "nativeReportSha256": "14800C748074D78EE21DE2AB6C12F5F9ED9A4C39BB7AEEA5EDCA2611F6C5AB02",
+  "yamlReportSha256": "88CA6321C88F02A651593ED06EF3991E379826AFCF9BFAF70545484997E530FA",
+  "changedBasePathListSha256": "6DFEF0FFDE09CC06B84D65C3585E651F460F7F79B127820321FC31A99D2DB3FE",
+  "timingScope": "one final read-only full referenced-asset scan; no standalone build performance certification"
+}

@@ -1,0 +1,47 @@
+{
+  "candidate": "pass_17",
+  "method": "Negative nearest-normal diagnostics checked against exact AABB and closed-part ray parity; raw diagnostic retained. This is not a penetration depth.",
+  "candidates": [
+    {
+      "clip": "Reload",
+      "frame": 3.5,
+      "side": "L",
+      "vertex": 23513,
+      "part": "EF_AR_013_A__AR_013_A__ADAPTER_foreend_receiver_collar",
+      "signed_nearest_diagnostic_mm": 11.247153393924236,
+      "inside_part_aabb": false,
+      "ray_parity_inside": false
+    },
+    {
+      "clip": "Reload",
+      "frame": 6.5,
+      "side": "L",
+      "vertex": 4229,
+      "part": "EF_AR_013_A__AR_013_A__ADAPTER_foreend_receiver_collar",
+      "signed_nearest_diagnostic_mm": 22.179309278726578,
+      "inside_part_aabb": false,
+      "ray_parity_inside": false
+    },
+    {
+      "clip": "Reload",
+      "frame": 6.5,
+      "side": "L",
+      "vertex": 23872,
+      "part": "EF_AR_013_A__AR_013_A__ADAPTER_foreend_receiver_collar",
+      "signed_nearest_diagnostic_mm": 20.113304257392883,
+      "inside_part_aabb": false,
+      "ray_parity_inside": false
+    },
+    {
+      "clip": "Reload",
+      "frame": 269.25,
+      "side": "L",
+      "vertex": 23904,
+      "part": "EF_AR_013_A__AR_013_A__ADAPTER_foreend_receiver_collar",
+      "signed_nearest_diagnostic_mm": 22.45727740228176,
+      "inside_part_aabb": false,
+      "ray_parity_inside": false
+    }
+  ],
+  "contained_candidates": 0
+}

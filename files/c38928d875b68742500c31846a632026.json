@@ -1,0 +1,239 @@
+{
+  "ok": true,
+  "rows": 14685,
+  "changes": [
+    {
+      "id": "Assets/Escape/Runtime/BraidWarmStartProjectionMath.cs#L14:7",
+      "before": 1,
+      "after": -1,
+      "saved": -1
+    },
+    {
+      "id": "Assets/Escape/Runtime/BraidWarmStartProjectionMath.cs#L17:2",
+      "before": 1,
+      "after": -1,
+      "saved": -1
+    },
+    {
+      "id": "Assets/Escape/Runtime/BraidWarmStartProjectionMath.cs#L17:3",
+      "before": 1,
+      "after": -1,
+      "saved": -1
+    },
+    {
+      "id": "Assets/Escape/Runtime/BraidWarmStartProjectionMath.cs#L23:1",
+      "before": 1,
+      "after": -1,
+      "saved": -1
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyArmSurfaceClearance.cs#L80:1",
+      "before": 0.08,
+      "after": -0.08,
+      "saved": -0.08
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyArmTorsoExactAudit.cs#L109:4",
+      "before": 0.08,
+      "after": -0.08,
+      "saved": -0.08
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyArmTorsoExactAudit.cs#L135:5",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyArmTorsoExactAudit.cs#L136:1",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyArmTorsoExactAudit.cs#L136:4",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyArmTorsoExactAudit.cs#L149:1",
+      "before": 1e-10,
+      "after": -1e-10,
+      "saved": -1e-10
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyArmTorsoExactAudit.cs#L149:2",
+      "before": 1e-10,
+      "after": -1e-10,
+      "saved": -1e-10
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyHairArmSurfaceAudit.cs#L132:4",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyHairArmSurfaceAudit.cs#L132:7",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyHairArmSurfaceAudit.cs#L132:10",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyHairObstacleSurfaceAudit.cs#L241:5",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyHairObstacleSurfaceAudit.cs#L241:8",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyHairObstacleSurfaceAudit.cs#L241:11",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyHairObstacleSurfaceAuditV2.cs#L330:5",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyHairObstacleSurfaceAuditV2.cs#L330:8",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyHairObstacleSurfaceAuditV2.cs#L330:11",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyHairObstacleSurfaceAuditV22.cs#L335:5",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyHairObstacleSurfaceAuditV22.cs#L335:8",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyHairObstacleSurfaceAuditV22.cs#L335:11",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyHairObstacleSurfaceAuditV23.cs#L457:5",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyHairObstacleSurfaceAuditV23.cs#L457:8",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyHairObstacleSurfaceAuditV23.cs#L457:11",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadySupportContactAudit.cs#L140:2",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadySupportContactAudit.cs#L141:1",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ClosedWeaponSurfaceEscape.cs#L126:1",
+      "before": 0.00001,
+      "after": -0.00001,
+      "saved": -0.00001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ClosedWeaponSurfaceEscape.cs#L126:2",
+      "before": 0.00001,
+      "after": -0.00001,
+      "saved": -0.00001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ClosedWeaponSurfaceEscape.cs#L126:3",
+      "before": 0.00001,
+      "after": -0.00001,
+      "saved": -0.00001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ClosedWeaponSurfaceEscape.cs#L159:6",
+      "before": 1e-7,
+      "after": -1e-7,
+      "saved": -1e-7
+    },
+    {
+      "id": "Assets/Escape/Runtime/ClosedWeaponSurfaceEscape.cs#L159:10",
+      "before": 1e-7,
+      "after": -1e-7,
+      "saved": -1e-7
+    },
+    {
+      "id": "Assets/Escape/Runtime/HairWeaponLifecycleAcceptance.cs#L154:1",
+      "before": 1,
+      "after": -1,
+      "saved": -1
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyWeaponHeadClearance.cs#L237:2",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyWeaponHeadClearance.cs#L238:1",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/ReadyWeaponHeadClearance.cs#L239:1",
+      "before": 0.000001,
+      "after": -0.000001,
+      "saved": -0.000001
+    },
+    {
+      "id": "Assets/Escape/Runtime/Stage/Blockout/StageMapRouter.cs#L135:3",
+      "before": 0.3,
+      "after": -0.3,
+      "saved": -0.3
+    }
+  ],
+  "removed": [
+    "Assets/Escape/Runtime/ReadyHairProxyWitnessAudit.cs#L15:1"
+  ],
+  "savedDifferences": 0,
+  "unitySourceWrites": 0
+}

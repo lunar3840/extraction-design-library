@@ -1,0 +1,33 @@
+{
+  "candidate": "pass_20",
+  "native_sha256": "253e45d8e0782197685f090625b02c5f7184477b4496848b6d24f2613aa121cc",
+  "protected_original_character_sha256": "9d5eed10bd1313c586108332e76d64334ef948f5691e971dd12452bb0fd9243d",
+  "original_actions_verified": 106,
+  "GR_action_sha256": {
+    "GR_AR_013_A_Aim": "42a39aff5388950c3225bd19c756368f9a694afa874ea496d1ef361b957f5cfa",
+    "GR_AR_013_A_Fire": "d02f0d074cadf993e3b5bce03c1143c9dbfd6bc4700f5223ac7c2ec9b58fc3c6",
+    "GR_AR_013_A_Idle": "15941ca759a35bdee85c67a145e3e5e2b820d6dd2ddc66ca4ee44b9957a8ac2a",
+    "GR_AR_013_A_Reload": "b23f146ef7e632e351e1f42745c048d0b8ae71cd9b99c94e74c55bd2e2e1b0cc",
+    "GR_AR_013_A_Run": "8880ee52d4f8b8564fac39ebfdfad6d339d8dfb0cdf71a455c7ab56b879064ba",
+    "GR_AR_013_A_Walk": "f2d9d885eb02e06b6b45351efb373d7e805bb74768ab1d6e90354d3c03bda276"
+  },
+  "actual_new_shape_key_f32_sha256": "b2b445c4f078cf6663fd8e940a4629b752b16e389bc6422e2a1ee936212ef51a",
+  "actual_new_shape_nonzero_vertices": 521,
+  "actual_new_shape_vertices_gt_0p00001_mm": 516,
+  "new_shape_max_rest_delta_mm": 13.766042236031483,
+  "packed_textures": {
+    "Body_Skin_Clean.png": "397bdf0366ce455bfa2e5499566c8a3ee4c7178d0315dd4fe764dd54a5bb26dd",
+    "Edel_BaseColor_HairClean_v17.png": "bc810b8a3c7e06f1e8611321e9b9093418d0faaf0dc94563192ffaac60420b16",
+    "Eyebrow.png": "6ef94cc3e21d054c3e412123c9a6df729be8c7f735f716868de65c3a019d1933",
+    "Eyelashes.png": "0ac25241a9abf874063234bd3a145a917d859f7321d0f51fcfd7d55c3e3ddfcf",
+    "Eyelid_Fold.png": "c143310aa2d7842a83166830c350c0fae089af7e68e36c4b206d38cc6669ff72",
+    "Face_Skin.png": "6023c9adf60ad2ebcfbc82e6349fae4d419128e6df8e7d1e44c632303ec33d97",
+    "Innerwear_Bottom.png": "9d7893b8d199aa4be276ec82dd716cef43fac6e3cb8b01d46a746890a30efbeb",
+    "Innerwear_Top.png": "31d894f6fb3d50fa58d63fd5d936bcd2088463db8866a68f7481e05ff0794567",
+    "Sclera.png": "e615563277ec656d060e52fd86823f0f730b522e94430f1708f8ad0c4dbea9a1"
+  },
+  "unity_applied": false,
+  "native_saved_by_this_check": false,
+  "source_master_sha256": "358e1c318e3886693f0aaf09023baa88a0758794b2a01d7226e435cfec077e8c",
+  "packed_original_textures_equal": true
+}

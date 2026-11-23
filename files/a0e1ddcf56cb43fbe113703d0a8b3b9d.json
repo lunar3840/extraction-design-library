@@ -1,0 +1,12 @@
+{
+    "originalGarmentTriangles": 11102,
+    "removedInvalidBridgeTriangles": 71,
+    "remainingGarmentTriangles": 11031,
+    "originalBodyTriangles": 45631,
+    "coveredBefore": 31505,
+    "coveredAfter": 31505,
+    "restoredUnderRemovedBridge": 0,
+    "sourceVerticesUVWeightsAndMorphsPreserved": true,
+    "garmentMesh": "Assets/Escape/Art/EdelS4/Repairs/S4_SleeveHarness_BridgeRepairR15.asset",
+    "coverageMesh": "Assets/Escape/Art/EdelS4/Repairs/S4_BridgeCoverageR15.asset"
+}

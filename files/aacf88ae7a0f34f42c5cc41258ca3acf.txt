@@ -1,0 +1,26 @@
+PASS faction behavior public contract and physical sight probe exist
+PASS ordinary and named humans detect machines before even named machines detect humans
+PASS human wide view and machine narrower view use production role settings
+PASS production humans disable desperate rush while machine and legacy defaults retain it
+PASS first sight pair has mutual unobstructed physical sight
+PASS human first sight begins avoidance without firing or granting machine target
+PASS avoidance goal is reachable, farther from machine, and inside human activity radius
+PASS test actor can move on the EnemyTest navigation surface
+PASS visible lateral machine patrol does not license human preemptive fire
+PASS after contact breaks human leaves avoidance and resumes home or patrol behavior
+PASS machine recognizes human but human initially evades rather than firing
+PASS visible sustained aim licenses defense before machine fires or hurts human
+PASS licensed human can actually fire without waiting for machine's first shot
+PASS test actor can move on the EnemyTest navigation surface
+PASS test actor can move on the EnemyTest navigation surface
+PASS test actor can move on the EnemyTest navigation surface
+PASS test actor can move on the EnemyTest navigation surface
+PASS sustained aligned approach licenses defense before machine can detect or fire
+PASS machine's hidden current target alone cannot license human defense from behind
+PASS machine cue behind a physical wall does not license human fire
+PASS actual machine hit permits immediate human defense
+PASS low-health defense fixture is alive and below desperate threshold
+PASS low-health human acquires its real machine attacker
+PASS low-health human defends with ordinary aimed fire without entering rush
+PASS human still recognizes a visible player as a real hostile target
+PASS machine still recognizes a visible player as a real hostile target

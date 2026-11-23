@@ -1,0 +1,263 @@
+{
+  "status": "PARTIAL: authored upper attachment restored; collision rework remains incomplete",
+  "libraryReady": false,
+  "candidate": "C15b",
+  "timeKST": "2026-10-27T00:17:22.001447+09:00",
+  "upperAttachmentRestorationVerified": true,
+  "seamOpenings": 0,
+  "samples": [
+    {
+      "tag": "r27_rootdrape_c15b",
+      "drape": {
+        "tag": "r27_rootdrape_c15b",
+        "sourceComparison": "original weights/rest and current original bone matrices",
+        "rootPositionErrorMm": 0.0007398242704454905,
+        "upperKnotVertexCount": 335,
+        "upperKnotMaxDisplacementMm": 0.012672476817117497,
+        "wholeBraidMaxDisplacementMm": 86.03928771838189,
+        "wholeBraidMaximumVerticalLiftMm": 48.666025832495905,
+        "limits": "Upper knot mask is authored source points at/above Braid01 along the source first segment; actual visual shape and contacts checked separately."
+      },
+      "seams": {
+        "tag": "r27_rootdrape_c15b",
+        "sourceFingerprintEqual": true,
+        "sourcePositionsEqual": true,
+        "sourceWeightsEqual": true,
+        "uv0Equal": true,
+        "topologyMaterialsEqual": true,
+        "outsideRegionWeightsEqual": true,
+        "openedCoincidentGroups": 0,
+        "maxCoincidentGapMm": 0,
+        "rows": [],
+        "limits": "Native exported surface seam check only; visual shape and collision results require separate review."
+      },
+      "collision": {
+        "newMovableInteriorIntersections": 148,
+        "authoredMovableInteriorIntersections": 132,
+        "newRootProxyMovedIntersections": 0,
+        "sourceUnavailableHairTriangles": 0
+      }
+    },
+    {
+      "tag": "r27_rootdrape_c15b_curious",
+      "drape": {
+        "tag": "r27_rootdrape_c15b_curious",
+        "sourceComparison": "original weights/rest and current original bone matrices",
+        "rootPositionErrorMm": 0.0009387731552124023,
+        "upperKnotVertexCount": 335,
+        "upperKnotMaxDisplacementMm": 0.00990308304465639,
+        "wholeBraidMaxDisplacementMm": 116.18826410121284,
+        "wholeBraidMaximumVerticalLiftMm": 6.705830378838318,
+        "limits": "Upper knot mask is authored source points at/above Braid01 along the source first segment; actual visual shape and contacts checked separately."
+      },
+      "seams": {
+        "tag": "r27_rootdrape_c15b_curious",
+        "sourceFingerprintEqual": true,
+        "sourcePositionsEqual": true,
+        "sourceWeightsEqual": true,
+        "uv0Equal": true,
+        "topologyMaterialsEqual": true,
+        "outsideRegionWeightsEqual": true,
+        "openedCoincidentGroups": 0,
+        "maxCoincidentGapMm": 0,
+        "rows": [],
+        "limits": "Native exported surface seam check only; visual shape and collision results require separate review."
+      },
+      "collision": {
+        "newMovableInteriorIntersections": 400,
+        "authoredMovableInteriorIntersections": 434,
+        "newRootProxyMovedIntersections": 0,
+        "sourceUnavailableHairTriangles": 0
+      }
+    },
+    {
+      "tag": "r27_rootdrape_c15b_joy",
+      "drape": {
+        "tag": "r27_rootdrape_c15b_joy",
+        "sourceComparison": "original weights/rest and current original bone matrices",
+        "rootPositionErrorMm": 0.0009610960183499514,
+        "upperKnotVertexCount": 335,
+        "upperKnotMaxDisplacementMm": 0.00902831317331375,
+        "wholeBraidMaxDisplacementMm": 40.67058996632418,
+        "wholeBraidMaximumVerticalLiftMm": 9.31895963098739,
+        "limits": "Upper knot mask is authored source points at/above Braid01 along the source first segment; actual visual shape and contacts checked separately."
+      },
+      "seams": {
+        "tag": "r27_rootdrape_c15b_joy",
+        "sourceFingerprintEqual": true,
+        "sourcePositionsEqual": true,
+        "sourceWeightsEqual": true,
+        "uv0Equal": true,
+        "topologyMaterialsEqual": true,
+        "outsideRegionWeightsEqual": true,
+        "openedCoincidentGroups": 0,
+        "maxCoincidentGapMm": 0,
+        "rows": [],
+        "limits": "Native exported surface seam check only; visual shape and collision results require separate review."
+      },
+      "collision": {
+        "newMovableInteriorIntersections": 200,
+        "authoredMovableInteriorIntersections": 311,
+        "newRootProxyMovedIntersections": 0,
+        "sourceUnavailableHairTriangles": 0
+      }
+    },
+    {
+      "tag": "r27_rootdrape_c15b_inspection",
+      "drape": {
+        "tag": "r27_rootdrape_c15b_inspection",
+        "sourceComparison": "original weights/rest and current original bone matrices",
+        "rootPositionErrorMm": 0.0008264437093652515,
+        "upperKnotVertexCount": 335,
+        "upperKnotMaxDisplacementMm": 0.009162754480169859,
+        "wholeBraidMaxDisplacementMm": 47.80429117073847,
+        "wholeBraidMaximumVerticalLiftMm": 11.573364463821623,
+        "limits": "Upper knot mask is authored source points at/above Braid01 along the source first segment; actual visual shape and contacts checked separately."
+      },
+      "seams": {
+        "tag": "r27_rootdrape_c15b_inspection",
+        "sourceFingerprintEqual": true,
+        "sourcePositionsEqual": true,
+        "sourceWeightsEqual": true,
+        "uv0Equal": true,
+        "topologyMaterialsEqual": true,
+        "outsideRegionWeightsEqual": true,
+        "openedCoincidentGroups": 0,
+        "maxCoincidentGapMm": 0,
+        "rows": [],
+        "limits": "Native exported surface seam check only; visual shape and collision results require separate review."
+      },
+      "collision": {
+        "newMovableInteriorIntersections": 266,
+        "authoredMovableInteriorIntersections": 202,
+        "newRootProxyMovedIntersections": 0,
+        "sourceUnavailableHairTriangles": 0
+      }
+    }
+  ],
+  "continuousCurious": {
+    "model": "Player_Edel",
+    "pose": "Curious",
+    "method": "Continuous authored phase sweep; six sampled current/source surfaces. Audit pauses input advancement; no video or all-frame proof.",
+    "maxPhaseStep": 0.0357142873108387,
+    "samples": [
+      {
+        "phase": 0.15000000596046448,
+        "weight": 0.20610742270946503,
+        "frame": 430,
+        "newPairs": 244,
+        "authoredPairs": 211,
+        "unknown": 0,
+        "file": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-24/edel-natural-arm-pose/r27_rootdrape_c15b_sweep_phase0.json",
+        "warmResetTotal": 0,
+        "warmFailureFrame": 395,
+        "warmProjectionTotal": 10,
+        "warmProjectionFailures": 0,
+        "warmLink": "Braid02",
+        "warmConstraint": "world_up_projection_m",
+        "warmValue": -0.17652560770511627,
+        "warmLimit": -0.1816108673810959,
+        "warmSourceValue": -0.1965075582265854
+      },
+      {
+        "phase": 0.30000001192092896,
+        "weight": 0.6545085906982422,
+        "frame": 436,
+        "newPairs": 353,
+        "authoredPairs": 519,
+        "unknown": 0,
+        "file": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-24/edel-natural-arm-pose/r27_rootdrape_c15b_sweep_phase1.json",
+        "warmResetTotal": 0,
+        "warmFailureFrame": 395,
+        "warmProjectionTotal": 10,
+        "warmProjectionFailures": 0,
+        "warmLink": "Braid02",
+        "warmConstraint": "world_up_projection_m",
+        "warmValue": -0.17652560770511627,
+        "warmLimit": -0.1816108673810959,
+        "warmSourceValue": -0.1965075582265854
+      },
+      {
+        "phase": 0.5,
+        "weight": 1.0,
+        "frame": 443,
+        "newPairs": 376,
+        "authoredPairs": 459,
+        "unknown": 0,
+        "file": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-24/edel-natural-arm-pose/r27_rootdrape_c15b_sweep_phase2.json",
+        "warmResetTotal": 0,
+        "warmFailureFrame": 395,
+        "warmProjectionTotal": 10,
+        "warmProjectionFailures": 0,
+        "warmLink": "Braid02",
+        "warmConstraint": "world_up_projection_m",
+        "warmValue": -0.17652560770511627,
+        "warmLimit": -0.1816108673810959,
+        "warmSourceValue": -0.1965075582265854
+      },
+      {
+        "phase": 0.699999988079071,
+        "weight": 0.6545085310935974,
+        "frame": 450,
+        "newPairs": 431,
+        "authoredPairs": 387,
+        "unknown": 0,
+        "file": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-24/edel-natural-arm-pose/r27_rootdrape_c15b_sweep_phase3.json",
+        "warmResetTotal": 0,
+        "warmFailureFrame": 395,
+        "warmProjectionTotal": 10,
+        "warmProjectionFailures": 0,
+        "warmLink": "Braid02",
+        "warmConstraint": "world_up_projection_m",
+        "warmValue": -0.17652560770511627,
+        "warmLimit": -0.1816108673810959,
+        "warmSourceValue": -0.1965075582265854
+      },
+      {
+        "phase": 0.8500000238418579,
+        "weight": 0.20610745251178741,
+        "frame": 456,
+        "newPairs": 255,
+        "authoredPairs": 200,
+        "unknown": 0,
+        "file": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-24/edel-natural-arm-pose/r27_rootdrape_c15b_sweep_phase4.json",
+        "warmResetTotal": 0,
+        "warmFailureFrame": 395,
+        "warmProjectionTotal": 10,
+        "warmProjectionFailures": 0,
+        "warmLink": "Braid02",
+        "warmConstraint": "world_up_projection_m",
+        "warmValue": -0.17652560770511627,
+        "warmLimit": -0.1816108673810959,
+        "warmSourceValue": -0.1965075582265854
+      },
+      {
+        "phase": 1.0,
+        "weight": 0.0,
+        "frame": 462,
+        "newPairs": 164,
+        "authoredPairs": 120,
+        "unknown": 0,
+        "file": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-24/edel-natural-arm-pose/r27_rootdrape_c15b_sweep_phase5.json",
+        "warmResetTotal": 0,
+        "warmFailureFrame": 395,
+        "warmProjectionTotal": 10,
+        "warmProjectionFailures": 0,
+        "warmLink": "Braid02",
+        "warmConstraint": "world_up_projection_m",
+        "warmValue": -0.17652560770511627,
+        "warmLimit": -0.1816108673810959,
+        "warmSourceValue": -0.1965075582265854
+      }
+    ],
+    "restored": true
+  },
+  "fullHairCollisionComplete": false,
+  "compileAndFixture": "Final source compiled and fresh native fixture ran; no r27_rootdrape_c15b_probe_errors.txt. Earlier C12 boot interrupted by script reload, discarded and restarted; never used as passing evidence.",
+  "limitations": [
+    "Native Editor only; no player build or video",
+    "Only Edel changed in this round; other characters and broader hair collision remain separate unfinished work",
+    "Surface-pair counts are triangle pairs, not a count of visibly separate holes",
+    "Preserving the upper knot leaves authored contacts during head tilt; source/current intersection review must be resolved without lifting the attachment again"
+  ]
+}

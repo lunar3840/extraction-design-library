@@ -1,0 +1,1 @@
+D14 continuous grass carpet: accepted=146252; candidates=146252; triangles=2632536; chunkRenderers=323; width=1.6..2.1m height=0.35..0.65m; colliders=0; manifest=Assets/Escape/Art/NatureD14/Vegetation/Diagnostics/D14_Plants.csv

@@ -1,0 +1,30 @@
+id,name,footprint_width,footprint_depth,prefab,count,axis,turned,source_width,source_depth,scale,status
+EN1,비상 발전기,9.00,5.00,MAV16_WeatheredIndustrialGenerator,1,width,False,2.77,1.37,1.080,PASS
+EN2,급수탱크,7.00,9.00,MAV16_IndustrialPipeRack,1,width,False,3.92,1.61,1.080,PASS
+EN3,케이블 릴 적치,13.00,6.01,MAV16_IndustrialCableReel,5,width,False,2.06,1.52,1.080,PASS
+EN4,철재 적치,12.00,6.00,MAV16_IndustrialPipeRack,5,width,True,3.92,1.61,1.080,PASS
+EW1,폐차 정비열,14.00,8.00,StageA_v12_RustyVehicle_Van,4,width,False,1.95,4.59,1.080,PASS
+EW2,부품 적치대,2.50,12.00,MAV16_IndustrialPipeRack,2,depth,True,3.92,1.61,1.080,PASS
+EW3,공구 캐비닛열,5.00,12.00,MAV16_WeatheredMilitaryCrates,5,depth,False,1.44,1.57,1.080,PASS
+EW4,철재 적치열,16.00,6.00,MAV16_IndustrialPipeRack,6,width,True,3.92,1.61,1.080,PASS
+EW5,크레인 부속 적치,20.00,5.00,MAV16_IndustrialPipeRack,6,width,True,3.92,1.61,1.080,PASS
+EW6,주차 차량열,16.00,5.00,StageA_v12_RustyVehicle_Van,4,width,False,1.95,4.59,1.024,PASS
+EC1,북측 하역 랙,17.00,5.00,MAV16_IndustrialPipeRack,6,width,True,3.92,1.61,1.080,PASS
+EC2,남측 압축설비,12.00,9.00,MAV16_IndustrialPipeRack,1,width,False,3.92,1.61,1.080,PASS
+EC3,폐차 대기,7.00,13.00,StageA_v12_RustyVehicle_Car,3,depth,True,1.82,3.98,1.080,PASS
+EE1,변압기 열 A,5.00,25.00,MAV16_IndustrialTransformer,6,depth,False,1.49,2.25,1.080,PASS
+EE2,변압기 열 B,8.00,29.00,MAV16_IndustrialTransformer,6,depth,False,1.49,2.25,1.080,PASS
+EE3,폐 케이블 적치,15.00,5.00,MAV16_IndustrialCableReel,6,width,True,2.06,1.52,1.080,PASS
+EE4,배관 선반,7.00,17.00,MAV16_IndustrialPipeRack,6,depth,False,3.92,1.61,1.080,PASS
+EE5,창고 폐차열,8.00,19.00,StageA_v12_RustyVehicle_Van,5,depth,True,1.95,4.59,1.080,PASS
+EE6,배수펌프,11.00,8.00,MAV16_IndustrialPump,1,width,False,2.26,1.03,1.080,PASS
+ES1,무너진 담 잔해,9.99,3.01,MAV16_ConcreteBarrier,1,width,True,0.79,3.04,1.080,PASS
+ES2,고철 적치,6.00,13.99,MAV16_IndustrialPipeRack,6,depth,False,3.92,1.61,1.080,PASS
+ES3,빨래터 잔해,7.00,3.00,MAV16_ConcreteBarrier,1,width,True,0.79,3.04,1.080,PASS
+ES4,폐차,8.00,15.00,StageA_v12_RustyVehicle_Car,4,depth,True,1.82,3.98,1.080,PASS
+EY1,폐차 압축열,13.99,6.00,StageA_v12_RustyVehicle_Van,3,width,False,1.95,4.59,1.080,PASS
+EY2,폐차 대기열,13.99,6.00,StageA_v12_RustyVehicle_Van,3,width,False,1.95,4.59,1.080,PASS
+EY3,철재 적치,16.99,6.00,MAV16_IndustrialPipeRack,6,width,True,3.92,1.61,1.080,PASS
+EY4,컨테이너,10.00,4.00,MAV16_ShippingContainer,1,width,False,5.98,2.92,1.080,PASS
+EF1,제방 배수펌프,11.00,7.00,MAV16_IndustrialPump,1,width,False,2.26,1.03,1.080,PASS
+EF2,관리용 자재,10.00,7.00,MAV16_IndustrialPipeRack,1,width,False,3.92,1.61,1.080,PASS

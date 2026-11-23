@@ -1,0 +1,67 @@
+D13 ACTUAL PLAYER OUTER BOUNDARY TEST
+METHOD: first/quarter/middle/three-quarter/last of four sides, four diagonal corners, all seven exit approaches. Actual enabled CharacterController and PlayerMotor.Simulate. Initial positioning only is teleported; collision never bypassed. Water-only starts skipped explicitly. Combat/world automatic ticks frozen in this runtime only. Exit InsideExit predicate tested; no save/extract transaction executed.
+PASS actual basic spawn B2; R8 inactive. before=True
+SKIP WATER-ONLY boundary SouthGuard_27
+Expected trials=30 boundary/corners=23 exits=7
+TRIAL edge_NorthGuard_01 start=(-255.000, 4.427, 198.300) end=(-255.000, 4.427, 202.300) push=True
+PASS edge_NorthGuard_01 steps=120 actual=(-255.000, 4.438, 199.580) signedInward=0.720 fall=0.011 insideMap=True
+TRIAL edge_NorthGuard_14 start=(-125.000, 4.603, 198.300) end=(-125.000, 4.603, 202.300) push=True
+PASS edge_NorthGuard_14 steps=120 actual=(-125.000, 4.610, 199.580) signedInward=0.720 fall=0.007 insideMap=True
+TRIAL edge_NorthGuard_27 start=(5.000, 4.842, 198.300) end=(5.000, 4.842, 202.300) push=True
+PASS edge_NorthGuard_27 steps=120 actual=(5.000, 4.830, 199.580) signedInward=0.720 fall=-0.012 insideMap=True
+TRIAL edge_NorthGuard_40 start=(135.000, 4.964, 198.300) end=(135.000, 4.964, 202.300) push=True
+PASS edge_NorthGuard_40 steps=120 actual=(135.000, 4.958, 199.580) signedInward=0.720 fall=-0.006 insideMap=True
+TRIAL edge_NorthGuard_52 start=(255.000, 4.438, 198.300) end=(255.000, 4.438, 202.300) push=True
+PASS edge_NorthGuard_52 steps=120 actual=(255.000, 4.454, 199.580) signedInward=0.720 fall=0.016 insideMap=True
+TRIAL edge_SouthGuard_01 start=(255.000, 0.161, -198.300) end=(255.000, 0.161, -202.300) push=True
+PASS edge_SouthGuard_01 steps=120 actual=(255.000, 0.182, -199.580) signedInward=0.720 fall=0.021 insideMap=True
+TRIAL edge_SouthGuard_14 start=(125.000, -0.059, -198.300) end=(125.000, -0.059, -202.300) push=True
+PASS edge_SouthGuard_14 steps=120 actual=(125.000, -0.046, -199.580) signedInward=0.720 fall=0.014 insideMap=True
+TRIAL edge_SouthGuard_40 start=(-135.000, 0.063, -198.300) end=(-135.000, 0.063, -202.300) push=True
+PASS edge_SouthGuard_40 steps=120 actual=(-135.000, 0.083, -199.580) signedInward=0.720 fall=0.020 insideMap=True
+TRIAL edge_SouthGuard_52 start=(-255.000, 0.288, -198.300) end=(-255.000, 0.288, -202.300) push=True
+PASS edge_SouthGuard_52 steps=120 actual=(-255.000, 0.309, -199.580) signedInward=0.720 fall=0.021 insideMap=True
+TRIAL edge_EastGuard_01 start=(258.300, 4.448, 195.000) end=(262.300, 4.448, 195.000) push=True
+PASS edge_EastGuard_01 steps=120 actual=(259.580, 4.468, 195.000) signedInward=0.720 fall=0.020 insideMap=True
+TRIAL edge_EastGuard_11 start=(258.300, 3.563, 95.000) end=(262.300, 3.563, 95.000) push=True
+PASS edge_EastGuard_11 steps=120 actual=(259.580, 3.569, 95.000) signedInward=0.720 fall=0.006 insideMap=True
+TRIAL edge_EastGuard_21 start=(258.300, 0.787, -5.000) end=(262.300, 0.787, -5.000) push=True
+PASS edge_EastGuard_21 steps=120 actual=(259.580, 0.740, -5.000) signedInward=0.720 fall=-0.047 insideMap=True
+TRIAL edge_EastGuard_31 start=(258.300, 0.041, -105.000) end=(262.300, 0.041, -105.000) push=True
+PASS edge_EastGuard_31 steps=120 actual=(259.580, 0.073, -105.000) signedInward=0.720 fall=0.032 insideMap=True
+TRIAL edge_EastGuard_40 start=(258.300, 0.137, -195.000) end=(262.300, 0.137, -195.000) push=True
+PASS edge_EastGuard_40 steps=120 actual=(259.580, 0.148, -195.000) signedInward=0.720 fall=0.012 insideMap=True
+TRIAL edge_WestGuard_01 start=(-258.300, 0.269, -195.000) end=(-262.300, 0.269, -195.000) push=True
+PASS edge_WestGuard_01 steps=120 actual=(-259.580, 0.282, -195.000) signedInward=0.720 fall=0.013 insideMap=True
+TRIAL edge_WestGuard_11 start=(-258.300, 0.062, -95.000) end=(-262.300, 0.062, -95.000) push=True
+PASS edge_WestGuard_11 steps=120 actual=(-259.580, 0.087, -95.000) signedInward=0.720 fall=0.025 insideMap=True
+TRIAL edge_WestGuard_21 start=(-258.300, 1.003, 5.000) end=(-262.300, 1.003, 5.000) push=True
+PASS edge_WestGuard_21 steps=120 actual=(-259.580, 1.020, 5.000) signedInward=0.720 fall=0.017 insideMap=True
+TRIAL edge_WestGuard_31 start=(-258.300, 3.798, 105.000) end=(-262.300, 3.798, 105.000) push=True
+PASS edge_WestGuard_31 steps=120 actual=(-259.580, 3.806, 105.000) signedInward=0.720 fall=0.007 insideMap=True
+TRIAL edge_WestGuard_40 start=(-258.300, 4.447, 195.000) end=(-262.300, 4.447, 195.000) push=True
+PASS edge_WestGuard_40 steps=120 actual=(-259.580, 4.466, 195.000) signedInward=0.720 fall=0.019 insideMap=True
+TRIAL corner_WN start=(-258.162, 4.426, 198.162) end=(-261.414, 0.000, 201.414) push=True
+PASS corner_WN steps=120 actual=(-259.586, 4.438, 199.586) signedInward=0.586 fall=0.011 insideMap=True
+TRIAL corner_EN start=(258.162, 4.440, 198.162) end=(261.414, 0.000, 201.414) push=True
+PASS corner_EN steps=120 actual=(259.586, 4.459, 199.586) signedInward=0.586 fall=0.019 insideMap=True
+TRIAL corner_WS start=(-258.162, 0.273, -198.162) end=(-261.414, 0.000, -201.414) push=True
+PASS corner_WS steps=120 actual=(-259.586, 0.286, -199.586) signedInward=0.586 fall=0.013 insideMap=True
+TRIAL corner_ES start=(258.162, 0.140, -198.162) end=(261.414, 0.000, -201.414) push=True
+PASS corner_ES steps=120 actual=(259.586, 0.151, -199.586) signedInward=0.586 fall=0.011 insideMap=True
+TRIAL exit_01 start=(-190.645, 2.320, 160.492) end=(-196.000, 2.150, 165.000) push=False
+PASS exit_01 steps=50 actual=(-195.745, 2.020, 164.785) exit InsideExit=True actual approach; no extraction save invoked
+TRIAL exit_02 start=(-238.115, 0.071, -43.735) end=(-245.000, 0.150, -45.000) push=False
+PASS exit_02 steps=50 actual=(-244.672, 0.020, -44.940) exit InsideExit=True actual approach; no extraction save invoked
+TRIAL exit_03 start=(-163.656, 0.096, -138.478) end=(-169.000, 0.150, -143.000) push=False
+PASS exit_03 steps=50 actual=(-168.746, 0.020, -142.785) exit InsideExit=True actual approach; no extraction save invoked
+TRIAL exit_04 start=(171.851, 12.014, 158.258) end=(177.000, 12.150, 163.000) push=False
+PASS exit_04 steps=50 actual=(176.755, 12.020, 162.774) exit InsideExit=True actual approach; no extraction save invoked
+TRIAL exit_05 start=(240.069, 1.157, -34.018) end=(247.000, 1.150, -35.000) push=False
+PASS exit_05 steps=50 actual=(246.670, 1.034, -34.953) exit InsideExit=True actual approach; no extraction save invoked
+TRIAL exit_06 start=(56.914, 0.084, -182.318) end=(59.000, 0.150, -189.000) push=False
+PASS exit_06 steps=50 actual=(58.901, 0.020, -188.682) exit InsideExit=True actual approach; no extraction save invoked
+TRIAL exit_07 start=(215.440, 0.060, -164.748) end=(221.000, 0.150, -169.000) push=False
+PASS exit_07 steps=50 actual=(220.735, 0.020, -168.798) exit InsideExit=True actual approach; no extraction save invoked
+passed=30 failed=0 expected=30
+RESULT PASS

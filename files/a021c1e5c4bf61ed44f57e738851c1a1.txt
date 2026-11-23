@@ -1,0 +1,21 @@
+STAGE_A_INTERIOR_V36_INDEPENDENT_VALIDATION
+PASS saved A scene available in Edit mode
+PASS immutable CQB handoff snapshot exists
+PASS snapshot schema and original inventories valid
+PASS same A scene as CQB handoff
+PASS original hierarchy, transforms, active/enabled state, meshes, colliders and gameplay fields preserved; original=43472 missing=0 altered=0
+PASS all original renderer slots and enabled states retained; missing=0 added=0 rendererStateChanges=0
+PASS only allowed interior/floor/CQB/furniture slots replaced with supported dedicated V36 materials; changed=107 outOfScope=0 shaderErrors=0
+PASS all added objects belong to exact interior V36 props or floor-surface root(s) beside their D04 room; roots=80 props=58 surfaces=22 objects=280 misplaced=0 duplicateRootNames=0
+PASS new visual-only floor sheets are horizontal, inset within their V33 footprint and 0.015m above the retained WalkableFloor; sheets=22 unsafe=0
+PASS new V36 visual objects contain zero Collider, Light, Rigidbody, scripts or other components; colliders=0 lights=0 rigidbodies=0 scripts=0 other=0
+PASS visible new renderers use supported shaders and finite non-empty bounds; renderers=128 shaderErrors=0 boundsErrors=0
+NOTE NEW_RENDERER_COUNT 128
+NOTE NEW_WORLD_BOUNDS center=(7.34, 5.61, 0.25) size=(471.71, 11.15, 336.21)
+PASS all pre-V36 referenced source assets/dependencies byte-identical; changed=0
+PASS all original scene Light/Volume and global sky, fog, quality and render-pipeline state unchanged
+PASS B1-B4 basic spawns, R1-R8 dormant risk candidates and seven exits retained
+SCOPE: exact saved CQB handoff to V36 structural/material comparison. Added visual meshes can still obscure actors, doors, cover or route cues without colliders.
+SEPARATE ACCEPTANCE: matched before/after actual Unity views, roof/floor cutaway, 166 D04 player routes, new CQB door/room/corridor routes, enemy encounters and save/reload are not proved here.
+passed=14 failed=0
+RESULT PASS

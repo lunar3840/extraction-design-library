@@ -1,0 +1,25 @@
+﻿A-map machine identity V2 saved verification UTC 2026-10-16 08:46:34Z
+protected map PASS
+73 role slots PASS
+named meshes/transforms/Animator with allowlisted N3 controller-only delta PASS
+saved A scene and map prefab hashes PASS
+N3 motion-only exception PASS: exactly original Animator path 0:ForwardAligned/0:TankRig uses in-place controller; source geometry/avatar/root-motion signature and states/parameters preserved.
+V1 role backup Scout PASS
+V1 role backup Suppressor PASS
+V1 role backup Sniper PASS
+V1 role backup Grenadier PASS
+V1 role backup Discharger PASS
+V1 role backup ArcRifle PASS
+V1 role backup GuardTank PASS
+V1 named backup N2 PASS
+V1 named backup N3 PASS
+V1 named backup N4 PASS
+V1 named backup N5 PASS
+Scout paint=MachinePaint_Yellow_URP bounds=(1.452, 1.216, 1.456) renderers=4 muzzles=2 PASS
+Suppressor paint=MachinePaint_Red_URP bounds=(2.545, 1.971, 2.848) renderers=4 muzzles=2 PASS
+Sniper paint=MachinePaint_White_URP bounds=(1.074, 0.766, 1.538) renderers=8 muzzles=1 PASS
+Grenadier paint=MachinePaint_Green_URP bounds=(2.127, 2.173, 1.850) renderers=7 muzzles=2 PASS
+Discharger paint=MachinePaint_Blue_URP bounds=(1.075, 0.812, 1.476) renderers=7 muzzles=1 PASS
+ArcRifle paint=MachinePaint_Camo_Albedo_Teal_URP bounds=(2.039, 1.249, 2.460) renderers=11 muzzles=1 PASS
+GuardTank paint=MachinePaint_Black_URP bounds=(2.128, 1.801, 2.460) renderers=7 muzzles=2 PASS
+PASS saved map and protected objects unchanged, named meshes/transforms preserved with explicit N3 controller-only exception verified when applied, seven painted role prefabs valid; clean edit A scene.

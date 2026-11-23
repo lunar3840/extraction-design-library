@@ -1,0 +1,6 @@
+saved=2026-10-07T13:48:35.5366816Z
+geometryMatchesTested=True
+appearanceMatchesTested=False
+revealAndDisabledCuesPersisted=True
+sceneCleanEditMode=True
+RESULT FAIL

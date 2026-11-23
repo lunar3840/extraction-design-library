@@ -1,0 +1,14 @@
+STAGE_A_LOOK_V16_BASELINE
+generatedUtc=2026-09-21T19:17:13.5279619Z
+PASS map reference is live
+PASS v0.8 structural metadata is present
+PASS v1.1 district metadata is present
+PASS legacy collider inventory captured (count=4576)
+PASS entry, exit and door inventory captured (count=46)
+PASS remote district inventory captured (records=33, renderers=864)
+NOTE legacyColliderSignature=4576:063AD4A877420139
+NOTE gameplayAnchorSignature=46:05C8EC9161C27983
+NOTE remoteDistrictSignature=33:09E56EEFB27CC005
+NOTE hallSignature=1210:683455BD8D12EEC1 coreSignature=18:C0ECE487E9223325
+SUMMARY passed=6 failed=0
+RESULT BASELINE_CAPTURED

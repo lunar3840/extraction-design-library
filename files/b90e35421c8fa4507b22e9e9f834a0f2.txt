@@ -1,0 +1,5 @@
+snapshot=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-14/a-map-ground-waterfront-d12/D12_CURRENT_MAP_SNAPSHOT.json
+currentObjects=32490
+bankGuards=327
+bridgeVisuals=6
+originalMaterialFiles=545

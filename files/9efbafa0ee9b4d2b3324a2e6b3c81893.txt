@@ -1,0 +1,49 @@
+Stage A machine role visual model validation
+UTC 2026-10-16 04:22:29Z
+Scout bounds=(1.612, 1.350, 1.616) minY=0.000 renderers=4
+  material A_Spiders_Mat_8b80dc15_URP / Universal Render Pipeline/Lit
+  animator Chassis states=Idle,Walk,Transform_to_Roller,Transform_to_Spider,Death,Roller_Idle,Roller_Roll,Roller_Death,Turn_L,Turn_R,Walk_Back,Strafe_L,Strafe_R,Walk_Turn_R,Walk_Turn_L,Turn_45deg_L,Turn_45deg_R,Roller_Roll_Turn_R,Roller_Roll_Turn_L,Deactivate,Activate,Roller_Deactivate,Roller_Activate,Strafe_L_Faster rootMotion=False
+  animator Weapon states=Shoot_Single,Shoot_Round rootMotion=False
+  muzzleCount=2
+  muzzle Barrel_End_1 rootLocalPosition=(-0.083, 1.012, 0.808) rootLocalForward=(0.000, 0.000, 1.000)
+  muzzle Barrel_End_2 rootLocalPosition=(0.097, 1.012, 0.808) rootLocalForward=(0.000, 0.000, 1.000)
+Suppressor bounds=(2.669, 2.126, 3.000) minY=0.000 renderers=31
+  material A_Spiders_Mat_8b80dc15_URP / Universal Render Pipeline/Lit
+  animator Chassis states=Idle,Walk,Death,Transform_to_Roller,Transform_to_Spider,Roller_Idle,Roller_Roll,Roller_Death,Walk_Back,Turn_L,Turn_R,Strafe_L,Strafe_R,Walk_Turn_R,Walk_Turn_L,Turn_45deg_L,Turn_45deg_R,Roller_Roll_Turn_L,Roller_Roll_Turn_R,Deactivate,Activate,Roller_Deactivate,Roller_Activate,Strafe_L_Faster rootMotion=False
+  animator Weapon states=Shoot_Single,Shoot_Round rootMotion=False
+  muzzleCount=2
+  muzzle Barrel_End_1 rootLocalPosition=(-0.209, 1.841, 1.054) rootLocalForward=(0.000, 0.000, 1.000)
+  muzzle Barrel_End_2 rootLocalPosition=(0.150, 1.841, 1.054) rootLocalForward=(0.000, 0.000, 1.000)
+Sniper bounds=(1.483, 1.350, 1.588) minY=0.000 renderers=6
+  material A_Spiders_Mat_8b80dc15_URP / Universal Render Pipeline/Lit
+  animator Chassis states=Idle,Walk,Transform_to_Roller,Transform_to_Spider,Death,Roller_Idle,Roller_Roll,Roller_Death,Turn_L,Turn_R,Walk_Back,Strafe_L,Strafe_R,Walk_Turn_R,Walk_Turn_L,Turn_45deg_L,Turn_45deg_R,Roller_Roll_Turn_R,Roller_Roll_Turn_L,Deactivate,Activate,Roller_Deactivate,Roller_Activate,Strafe_L_Faster rootMotion=False
+  animator Weapon states=Shoot rootMotion=False
+  muzzleCount=1
+  muzzle Barrel_end rootLocalPosition=(-0.077, 1.060, 0.794) rootLocalForward=(0.000, 0.000, 1.000)
+Grenadier bounds=(2.147, 2.300, 1.954) minY=0.000 renderers=7
+  material A_Spiders_Mat_8b80dc15_URP / Universal Render Pipeline/Lit
+  material A_Spiders_Tracks_Mat_8edb0cb1_URP / Universal Render Pipeline/Lit
+  animator Chassis states=Idle,Move_Forward,Move_Backwards,Move_Forward_Turn_L,Move_Forward_Turn_R,Turn_L,Turn_R,Death rootMotion=False
+  animator Weapon states=Demo,Fold,Unfold,Shoot rootMotion=False
+  muzzleCount=2
+  muzzle Barrel_end_1 rootLocalPosition=(0.079, 1.614, 0.629) rootLocalForward=(0.000, 0.000, 1.000)
+  muzzle Barrel_end_2 rootLocalPosition=(0.077, 1.962, 0.626) rootLocalForward=(0.000, 0.000, 1.000)
+Discharger bounds=(1.790, 1.350, 1.754) minY=0.000 renderers=7
+  material A_Spiders_Mat_8b80dc15_URP / Universal Render Pipeline/Lit
+  animator Chassis states=Idle,Walk,Transform_to_Roller,Transform_to_Spider,Death,Roller_Idle,Roller_Roll,Roller_Death,Turn_L,Turn_R,Walk_Back,Strafe_L,Strafe_R,Walk_Turn_R,Walk_Turn_L,Turn_45deg_L,Turn_45deg_R,Roller_Roll_Turn_R,Roller_Roll_Turn_L,Deactivate,Activate,Roller_Deactivate,Roller_Activate,Strafe_L_Faster rootMotion=False
+  muzzleCount=1
+  muzzle Barrel_end rootLocalPosition=(-0.003, 1.164, 0.311) rootLocalForward=(0.000, 0.000, 1.000)
+ArcRifle bounds=(2.669, 2.196, 3.000) minY=0.000 renderers=31
+  material A_Spiders_Mat_8b80dc15_URP / Universal Render Pipeline/Lit
+  animator Chassis states=Idle,Walk,Death,Transform_to_Roller,Transform_to_Spider,Roller_Idle,Roller_Roll,Roller_Death,Walk_Back,Turn_L,Turn_R,Strafe_L,Strafe_R,Walk_Turn_R,Walk_Turn_L,Turn_45deg_L,Turn_45deg_R,Roller_Roll_Turn_L,Roller_Roll_Turn_R,Deactivate,Activate,Roller_Deactivate,Roller_Activate,Strafe_L_Faster rootMotion=False
+  muzzleCount=1
+  muzzle Barrel_end rootLocalPosition=(-0.029, 1.911, 0.307) rootLocalForward=(0.000, 0.000, 1.000)
+GuardTank bounds=(2.486, 1.941, 3.000) minY=0.000 renderers=11
+  material A_Spiders_Mat_8b80dc15_URP / Universal Render Pipeline/Lit
+  material A_Spiders_Tracks_Mat_8edb0cb1_URP / Universal Render Pipeline/Lit
+  animator TankRig states=Idle,Move_Forward,Move_Forward_Turn_L,Move_Forward_Turn_R,Turn_L,Turn_R,Move_Backwards rootMotion=False
+  animator Weapon states=Demo,Fold,Unfold,Shoot rootMotion=False
+  muzzleCount=2
+  muzzle Barrel_end_1 rootLocalPosition=(-0.183, 0.985, 0.859) rootLocalForward=(0.000, 0.000, 1.000)
+  muzzle Barrel_end_2 rootLocalPosition=(0.168, 0.986, 0.855) rootLocalForward=(0.000, 0.000, 1.000)
+FAILURES 0

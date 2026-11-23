@@ -1,0 +1,42 @@
+STAGE_A_OUTDOOR_D11_INDEPENDENT_VALIDATION
+PASS retained Stage A map is available in edit mode
+PASS pre-change exact original-object snapshot exists
+PASS snapshot schema and entries are valid
+PASS all original transforms, component types, visible meshes/materials and physical states retained; before=31150 after=31150 missing=0 added=0 changed=0
+NOTE Original snapshot capturedUtc=2026-10-13T18:04:01.9617612Z
+PASS D11 road root exists and is active
+PASS D11 vegetation root exists and is active
+PASS one instance of each D11 owned root; no duplicate application
+PASS all new paving and vegetation are visual-only; original physical path/collision stays authoritative
+PASS retained V09 terrain is present as the independent height reference
+PASS road surfaces and edge details have separate owned groups
+PASS 16 active surface tiles carry visible authored meshes; actual=16
+PASS road mesh is nondegenerate, upward facing and within map; triangles=104000 invalid=0 downward=0
+PASS every road vertex follows actual V09/V33 terrain at +0.024m within 0.075m; mismatches=0
+PASS no identical overlapping paving triangles (z-fighting); duplicates=0
+PASS paving reaches all four map quadrants; triangles=26000,26000,26000,26000
+PASS paving mask is a readable 0.5m map-wide 1040x800 texture
+PASS asphalt/setts/workshop concrete/sidewalk masks have substantial coverage in every quadrant; pavedCells=41977,37950,38064,28576 channelCells=53019,31575,17879,44094
+NOTE Mask blending overlaps=0 cells. Inspect actual rendering for visual seams and material hierarchy.
+PASS visible road tiles bind the generated D11 mask to the pavement shader
+NOTE Road edge details triangles=1920; visible curb/terrain joins and threshold appearance require matched image inspection.
+PASS authored plant position diagnostic exists for independent distribution review
+PASS vegetation renderer/material budget; renderers=612 missingMaterial=0 ceiling=2000
+PASS vegetation triangle budget including added trees; triangles=443574 ceiling=4000000
+PASS plant CSV exposes mapX,mapY,groundY,height,kind,chunkX,chunkY
+FAIL dense plant source records have valid map coordinates and 25m chunk indexes; rows=109542 malformed=0 badChunk=6
+PASS plant bases conform to sampled V09/V33 ground within 0.20m; mismatches=0
+PASS no authored plant center occupies D11 reserved paving; conflicts=0
+PASS plant distribution reaches whole map rather than isolated clusters; 25m cells=298 quadrant plants=24337,29680,31724,23801
+NOTE Plant source kinds=low:105141,shrub:1482,tall:2658,tree:261; actual visual density remains an image gate.
+FAIL D10/D09 retained 69-building, 102-door, route and cutaway technical validation passes
+NOTE LEGACY FAIL full original map signature matches except exact allowlisted renderer/collider activation changes; new content is confined to D09 roots
+NOTE LEGACY FAIL unchanged D09 original-state/material/features/102door/routes/cutaway checks pass
+PASS four basic and eight dormant risk entry anchors remain registered
+PASS R8 remains inactive tier3 and B4 remains basic tier0; spawn pool identity retained
+PASS B4/R8 original positions and ~62m spacing retained; distance=62.1691246
+NOTE B4/R8 both lead toward W5. This vegetation/paving pass does not make R8 a distinct active risk entry; starting experience remains a future design decision.
+VISUAL_ACCEPTANCE requires direct matched before/after overview, all districts, street and green closeups; source counts alone cannot establish outdoor quality.
+PLAY_ACCEPTANCE requires a fresh D11 actual PlayerMotor 204-door-lane and representative outdoor walking report. Record rendering cost; no hardware FPS target was specified.
+passed=28 failed=2
+RESULT FAIL

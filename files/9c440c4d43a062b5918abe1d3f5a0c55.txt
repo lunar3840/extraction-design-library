@@ -1,0 +1,131 @@
+using System;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Reflection;
+using System.Collections.Generic;
+using Escape.Player;
+using Escape.Enemy;
+using Escape.Stage.Blockout;
+using UnityEditor;
+using UnityEngine;
+using UnityEngine.AI;
+
+namespace Escape.EditorTools
+{
+ [InitializeOnLoad] public static class StageAOutdoorD11Play
+ {
+  const string Key="Escape.OutdoorD11Play";
+  static StageABlockoutMap map;static PlayerMotor player;static StringBuilder report;
+  static string output;static int frame=-1,frames,index,phase,corner,steps,passed,failed;
+  static Vector3[] path;static double ready;static bool initialized;
+  struct Site {public string name;public Vector2 point;public Site(string n,float x,float y){name=n;point=new Vector2(x,y);}}
+  static readonly Site[] sites={new Site("clinic",98,107),new Site("north",250,119),new Site("power",437,122),
+   new Site("west",94,159),new Site("workshop",92,204),new Site("hall_west",182,204),new Site("hall_south",252,257),
+   new Site("logistics",420,235),new Site("ruins",80,273),new Site("scrapyard",240,319),new Site("waterworks",420,354),
+   new Site("B1",20,55),new Site("B2",18,200),new Site("B3",29,302),new Site("B4",141,329),new Site("R8_inactive_probe",202,341),
+   new Site("green_north",244,67),new Site("green_west",61,215),new Site("green_east",465,225),new Site("green_south",284,316)};
+  static StageAOutdoorD11Play(){EditorApplication.update+=Poll;}
+  public static void Run()
+  {
+   if(EditorApplication.isPlayingOrWillChangePlaymode)throw new Exception("Edit mode required.");
+   int n=1;do{output=StageAOutdoorD11Workflow.Record+"/outdoor_play_"+(n++).ToString("D2");}while(Directory.Exists(output));
+   Directory.CreateDirectory(output);SessionState.SetString(Key+".Output",output);SessionState.SetString(Key+".Start",DateTime.UtcNow.Ticks.ToString());
+   SessionState.SetBool(Key+".Background",Application.runInBackground);SessionState.SetBool(Key+".Initialized",false);SessionState.SetBool(Key,true);
+   Application.runInBackground=true;EditorApplication.isPaused=false;EditorApplication.isPlaying=true;
+  }
+  static void Poll()
+  {
+   if(!SessionState.GetBool(Key,false))return;
+   output=SessionState.GetString(Key+".Output","");
+   try
+   {
+    if(report==null){if(SessionState.GetBool(Key+".Initialized",false))throw new Exception("Interrupted by domain reload; preserve partial evidence.");report=new StringBuilder("D11_OUTDOOR_ACTUAL_PLAYER\nMETHOD 20 representative road/entry/green locations, local 12m path with actual enabled CharacterController and PlayerMotor.Simulate. Initial positioning only is teleported. Combat frozen for deterministic testing. This is not a whole-map performance benchmark.\n");}
+    if((DateTime.UtcNow-new DateTime(long.Parse(SessionState.GetString(Key+".Start","0")),DateTimeKind.Utc)).TotalSeconds>1200)throw new TimeoutException("Outdoor validation timeout.");
+    if(!EditorApplication.isPlaying){if(initialized)Finish(new Exception("Play ended before completion."));return;}
+    if(Time.frameCount==frame)return;frame=Time.frameCount;frames++;
+    if(!initialized){if(frames>25)Initialize();return;}
+    if(phase==1){if(EditorApplication.timeSinceStartup<ready)return;Capture("start");phase=2;return;}
+    if(phase==2)Move();
+    if(phase==3&&EditorApplication.timeSinceStartup>=ready){Capture("end");index++;Begin();}
+   }
+   catch(Exception e){Finish(e);}
+  }
+  static void Initialize()
+  {
+   var preview=UnityEngine.Object.FindFirstObjectByType<StageScenePreview>();if(!preview||preview.World==null||!preview.World.Inventory||!preview.World.Inventory.Player)return;
+   map=preview.World.MapRouter.Map;player=preview.World.Inventory.Player;if(!map||!map.transform.Find("D11_Vegetation")||!map.transform.Find("D11_Roads"))throw new Exception("D11 runtime roots missing.");
+   var st=map.GetComponent<StageABlockoutStructureV08>();int selected=preview.World.MapRouter.SelectedSpawn;
+   if(preview.World.MapRouter.SelectedTier!=0||!st.BasicEntrySlots.Contains(map.SpawnPoints[selected]))throw new Exception("Unexpected risk spawn policy.");
+   report.AppendLine("PASS runtime selected "+map.SpawnPoints[selected].name+"; R8 remains ineligible, probe below is diagnostic initial positioning only.");
+   preview.World.UseAutomaticTicks=false;player.UseLiveInput=false;player.MovementInputBlocked=false;player.MapInputBlocked=false;
+   foreach(var e in UnityEngine.Object.FindObjectsByType<EnemyController>(FindObjectsSortMode.None)){e.UseAutomaticTicks=false;e.Frozen=true;}
+   initialized=true;SessionState.SetBool(Key+".Initialized",true);Begin();
+  }
+  static void Begin()
+  {
+   while(index<sites.Length)
+   {
+    try
+    {
+     var land=map.GetComponent<StageALandformV09>();var s=sites[index];var want=new Vector3(s.point.x-260,StageAOutdoorD11Roads.MeshGroundHeight(land,s.point.x,s.point.y),200-s.point.y);
+     if(!NavMesh.SamplePosition(want,out NavMeshHit a,5f,NavMesh.AllAreas)||Vector3.ProjectOnPlane(a.position-want,Vector3.up).magnitude>4.5f)throw new Exception("No nearby safe representative start.");
+     path=null;
+     for(int k=0;k<24;k++)
+     {
+      Vector3 dir=Quaternion.Euler(0,k*15,0)*Vector3.forward;
+      if(!NavMesh.SamplePosition(a.position+dir*12,out NavMeshHit b,2f,NavMesh.AllAreas))continue;
+      var p=new NavMeshPath();if(!NavMesh.CalculatePath(a.position,b.position,NavMesh.AllAreas,p)||p.status!=NavMeshPathStatus.PathComplete||p.corners.Length<2)continue;
+      float length=0;for(int j=1;j<p.corners.Length;j++)length+=Vector3.Distance(p.corners[j-1],p.corners[j]);
+      if(length>20||length<9)continue;path=p.corners;break;
+     }
+     if(path==null)throw new Exception("No 9-20m local movement path.");
+     var body=player.GetComponent<CharacterController>();body.enabled=false;player.transform.position=path[0]+Vector3.up*.04f;body.enabled=true;Physics.SyncTransforms();
+     for(int i=0;i<12;i++)player.Simulate(1f/60,Vector3.zero,false,false,false);
+     corner=1;steps=0;phase=1;ready=EditorApplication.timeSinceStartup+.25;
+     report.AppendLine("LANE "+s.name+" desired="+want.ToString("F2")+" actualStart="+path[0].ToString("F2")+" corners="+path.Length);Flush();return;
+    }
+    catch(Exception e){failed++;report.AppendLine("FAIL "+sites[index].name+" setup="+e.Message);index++;}
+   }
+   Finish(null);
+  }
+  static void Move()
+  {
+   for(int i=0;i<8;i++)
+   {
+    Vector3 delta=Vector3.ProjectOnPlane(path[corner]-player.transform.position,Vector3.up);
+    if(delta.magnitude<.5f)
+    {
+     if(corner<path.Length-1){corner++;continue;}
+     if(Mathf.Abs(player.transform.position.y-path[corner].y)>.9f){failed++;report.AppendLine("FAIL "+sites[index].name+" destination height");}
+     else{passed++;report.AppendLine("PASS "+sites[index].name+" steps="+steps+" end="+player.transform.position.ToString("F2"));}
+     phase=3;ready=EditorApplication.timeSinceStartup+.18;Flush();return;
+    }
+    if(++steps>1500){failed++;report.AppendLine("FAIL "+sites[index].name+" stalled="+player.transform.position.ToString("F2"));phase=3;ready=0;Flush();return;}
+    player.Simulate(1f/30,delta.normalized,false,false,false);
+    if(!player.GetComponent<CharacterController>().enabled)throw new Exception("CharacterController disabled.");
+   }
+  }
+  static void Capture(string stage)
+  {
+   var follow=player.view.GetComponent<TopDownCamera>();var s=follow.settings;follow.LookAheadDistanceOverride=0;
+   Vector3 offset=(Quaternion.Euler(0,s.cameraYaw,0)*Quaternion.Euler(-s.cameraPitch,0,0)*Vector3.forward*s.cameraDistance+Vector3.up*s.cameraHeight)*s.worldScale;
+   var p=player.transform.position+Vector3.up+offset;player.view.transform.SetPositionAndRotation(p,Quaternion.LookRotation(-offset));player.view.fieldOfView=s.fieldOfView;
+   typeof(TopDownCamera).GetField("previousPosition",BindingFlags.NonPublic|BindingFlags.Instance)?.SetValue(follow,p);
+   typeof(TopDownCamera).GetField("initialized",BindingFlags.NonPublic|BindingFlags.Instance)?.SetValue(follow,true);
+   map.ConfigurePreviewVisibility(player.transform.position);
+   var reveal=map.GetComponent<StageABuildingV33Reveal>();if(reveal)reveal.RefreshForDiagnostics(player.view,player.transform,.25f);
+   string f=output+"/after_play_"+sites[index].name+"_"+stage+".png";if(File.Exists(f))throw new Exception("Never overwrite play evidence.");StageABlockoutBuild.Capture(player.view,f);
+   var pos=player.view.WorldToViewportPoint(player.transform.position+Vector3.up);if(pos.z<=0||pos.x<.1||pos.x>.9||pos.y<.1||pos.y>.9)throw new Exception("Player outside evidence view.");
+  }
+  static void Flush(){File.WriteAllText(output+"/OUTDOOR_PLAY.txt",report+"IN PROGRESS "+index+" passed="+passed+" failed="+failed+"\n");}
+  static void Finish(Exception e)
+  {
+   SessionState.SetBool(Key,false);Application.runInBackground=SessionState.GetBool(Key+".Background",false);
+   if(report==null)report=new StringBuilder();if(e!=null){failed++;report.AppendLine("FAIL terminal "+e);}
+   report.AppendLine("passed="+passed+" failed="+failed+" expected=20");report.AppendLine(e==null&&failed==0&&passed==20?"RESULT PASS":"RESULT FAIL");
+   File.WriteAllText(output+"/OUTDOOR_PLAY.txt",report.ToString());if(EditorApplication.isPlaying)EditorApplication.isPlaying=false;
+   report=null;map=null;player=null;initialized=false;frame=-1;frames=index=phase=corner=steps=passed=failed=0;
+  }
+ }
+}

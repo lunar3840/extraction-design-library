@@ -1,0 +1,41 @@
+{
+  "method": "Real Play; fixture API for setup/direct analgesic, queued Unity Input System V event for input route; no OS-key success claimed",
+  "results": [
+    {
+      "check": "Standard backpack has 24 cells plus permanent rig 12",
+      "pass": true
+    },
+    {
+      "check": "Large backpack has 36 cells plus permanent rig 12",
+      "pass": true
+    },
+    {
+      "check": "Without backpack only permanent rig 12 remains",
+      "pass": true
+    },
+    {
+      "check": "Automatic treatment restores HP75 to HP100",
+      "pass": true
+    },
+    {
+      "check": "Exact rig injector UID spent only 25 of 30 capacity",
+      "pass": true
+    },
+    {
+      "check": "No second item was used or queued",
+      "pass": true
+    },
+    {
+      "check": "No medical wheel appeared",
+      "pass": true
+    },
+    {
+      "check": "Preventive analgesic succeeds at full HP without trauma",
+      "pass": true
+    },
+    {
+      "check": "Preventive analgesic spends one charge",
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+2026-10-07 오후 4:55:27
+Recreated transient render pipeline after temporary baseline-scene diagnostic; camera targets cleared; active probes refreshed=2. No graphics project setting changed. Subsequent captures must be checked.

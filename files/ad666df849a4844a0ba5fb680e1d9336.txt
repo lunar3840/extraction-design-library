@@ -1,0 +1,4 @@
+RESULT PASS
+lootBoxes=50
+views=north,south,interior
+finishedUtc=2026-10-26T13:33:44.2835987Z

@@ -1,0 +1,16 @@
+{
+  "archive": "outputs\\handoffs\\2026-10-27\\EDEL_Animation_Handoff_2026-10-27.zip",
+  "bytes": 84864108,
+  "sha256": "bf6dd5044129a6ddd55a9bc10b34312d7d9f5697771351d317f2263c22f69c78",
+  "zipCRCVerified": true,
+  "fileHashReadBackVerified": true,
+  "filesInArchive": 136,
+  "editableBlendReopened": true,
+  "packedTextures": 9,
+  "bones": 52,
+  "actions": 92,
+  "staticGeometryReopened": true,
+  "missingUnityAssetGuids": {},
+  "URPDependenciesIdentified": true,
+  "scope": "Handoff package ready; existing motion/IK/hair work not promoted to completed."
+}

@@ -1,0 +1,257 @@
+[
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Companions\\CompanionChipCatalog.cs",
+    "bytes": 1606,
+    "sha256": "33B5B5F3332BC5F3D689430C5AD6E51CF0A0C349453CDE94FDEB6EC24F6005F0"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Companions\\CompanionTransformationVfx.cs",
+    "bytes": 22693,
+    "sha256": "5425FE205DB28EF75EC66FBD0C4B2123ED4BCB8EB13D96246A89A3119B05D453"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\SdCharacterVisual.cs",
+    "bytes": 13746,
+    "sha256": "D511AC9DA4E2F398D0A9C1118FE321748CE4D759313CCC7E4A231EBBD0F5F190"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Story\\CutsceneStage.cs",
+    "bytes": 22446,
+    "sha256": "7A531AC7C5185262A62D1FE4FC59981318AFF7A5F2DE3A102268732305AB523A"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Inventory\\InventoryCompanionChips.cs",
+    "bytes": 5218,
+    "sha256": "A0572A952F96B256C3BB963D55677E79C4FD6C7B4BAA591D6168B318E543153C"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Stage\\SessionCompanionChips.cs",
+    "bytes": 2591,
+    "sha256": "C45E7BED0C27B7108F51F1E71A9229CC556A059AA5DF62D66C81FEC2C4E504FE"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\UI\\InventoryPortrait.cs",
+    "bytes": 19148,
+    "sha256": "6E84A46ABF48340B5C0F54E54234E55F854CBFBE319C0AA6266C70C912944ADA"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\COMPANION_CHIPS_README.txt",
+    "bytes": 3924,
+    "sha256": "228FCD40D9589D27F70B3ED5C7F4462FC3202B9F9FFB4FA4C8D8BF791CB0E561"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\Player_Edel.prefab",
+    "bytes": 111085,
+    "sha256": "69AE9390675AFE49FCAECB1F2F176460D372BE857D766C66933CF9CCAD9326B7"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\Player_Edel.prefab.meta",
+    "bytes": 154,
+    "sha256": "02D4A01EADA2F74A76E9E37EDEED0E9BF21FA8DF8C928C3ECE17589663D1A051"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\Armor\\ArmorLibrary.asset",
+    "bytes": 2952,
+    "sha256": "372EE645D1AB5BB34A134BC801B33697A02B71C8AF5F994B13FB0E2B096AE51C"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Edel.fbx",
+    "bytes": 4021836,
+    "sha256": "BFA085A32FF5FBC0A5A32142DAEE898638B6D1B89F7A0920EF591980D03BDE2B"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Edel.fbx.meta",
+    "bytes": 26847,
+    "sha256": "112959F9BC51598C3517FAAC813010455035C65F9F11D4409F60DC869F55BB6A"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Materials.meta",
+    "bytes": 172,
+    "sha256": "A47A2874E17106CE2FD5769634B22202DC5C2AA53D8E2EB05C3E1F116961FF6E"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Textures.meta",
+    "bytes": 172,
+    "sha256": "63F66A37E59D4FAAA620729E13C538D734631EB53CB3013DC7286475CD4607DA"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Materials\\Eyebrow.mat",
+    "bytes": 3827,
+    "sha256": "5823F04FEE6A677C506155D90E0783498434096A42845DEFB1883FF03A404E5F"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Materials\\Eyebrow.mat.meta",
+    "bytes": 188,
+    "sha256": "DC991269786FAB92F2069634DE7D12A7F30718C8BE744D111CFCB66A17D36511"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Materials\\Eyelashes.mat",
+    "bytes": 3826,
+    "sha256": "B5CD60FA6699DEF12DBF1A00388958AC4DE71C095283B0258485735DD677EE57"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Materials\\Eyelashes.mat.meta",
+    "bytes": 188,
+    "sha256": "9724DA0B96958712CF8861FBEE5EDCFF5C74C697911F032C198811ADFFD664EC"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Materials\\Eyelid_Fold.mat",
+    "bytes": 3831,
+    "sha256": "92BD7EC33108E37DD67CB308B6B8FCBACAE0420D4403D9B0B346AE4C1E11DF11"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Materials\\Eyelid_Fold.mat.meta",
+    "bytes": 188,
+    "sha256": "A5A32515BDF8AF370180E8C2D7490B972D170DEFE4F54E03632E2D1E585BBF5D"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Materials\\Face_Skin.mat",
+    "bytes": 3828,
+    "sha256": "F0EF81AE86991730E2979A3F869004CE6923738568BC0A66FB7B747AF0BE5601"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Materials\\Face_Skin.mat.meta",
+    "bytes": 188,
+    "sha256": "E9F009D6A1FB3E097AA4B3D5E8E5E637C6F1164A06AEAEFFA200592B70D8483E"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Materials\\Original_Rest_Iris.mat",
+    "bytes": 3837,
+    "sha256": "0F12A9B3FEB0355E0186EEE44FAAFBEEB05119DD58E95B256551056703F21DBD"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Materials\\Original_Rest_Iris.mat.meta",
+    "bytes": 188,
+    "sha256": "38EDDF4646E8979774E0E2E0694A1F23F147C198180CFF9F56C7744914927793"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Materials\\Sclera.mat",
+    "bytes": 3825,
+    "sha256": "1D20CCBFCAD99978DFAD50EABE790D898B9C66068FA52C8B57FCF1EB5AEBE7BF"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Materials\\Sclera.mat.meta",
+    "bytes": 188,
+    "sha256": "083EC393943C23BCD243ECD1C43F43F78DA184FF7C8D0344CD081C96A9016737"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Textures\\Eyebrow.png",
+    "bytes": 60080,
+    "sha256": "4928ADFECAC21D74FF3E2687A710A604DF241D4CAA60ED30551E47B32E19FC61"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Textures\\Eyebrow.png.meta",
+    "bytes": 3007,
+    "sha256": "04F8453F83651C38EC9D9D41566C7BBFA2FBCB07D4D063E4685493AF3B0C952F"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Textures\\Eyelashes.png",
+    "bytes": 76724,
+    "sha256": "4288987D1CCC12D9BC1B541EBA728733A395470262A788C01320811DA6A078CD"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Textures\\Eyelashes.png.meta",
+    "bytes": 3007,
+    "sha256": "6611430A2B7DA87AF56C7BD66700A0DCE1B17D8001E8CE8441E5DB780DFFA41D"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Textures\\Eyelid_Fold.png",
+    "bytes": 58636,
+    "sha256": "C143310AA2D7842A83166830C350C0FAE089AF7E68E36C4B206D38CC6669FF72"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Textures\\Eyelid_Fold.png.meta",
+    "bytes": 3007,
+    "sha256": "CF30BEA498693254D314666A76006BA5406376F073A3B9FF5099160F15203CC5"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Textures\\Face_Skin.png",
+    "bytes": 207012,
+    "sha256": "6023C9ADF60AD2EBCFBC82E6349FAE4D419128E6DF8E7D1E44C632303EC33D97"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Textures\\Face_Skin.png.meta",
+    "bytes": 3007,
+    "sha256": "49C95B44C8776458D48750C63CE4BDC27A5020640AA33C94A1E1AD3FBC0A2FB5"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Textures\\Original_Rest_Iris.jpg",
+    "bytes": 892492,
+    "sha256": "9AF190BED170220CF9979FFB5F30C0A4CC4C6F4A22037027B3135AF65166E90A"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Textures\\Original_Rest_Iris.jpg.meta",
+    "bytes": 3007,
+    "sha256": "0F1A012083E515176F488F7848ABCF1B381748FA95F4D841DB12A46BF5DCF0AA"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Textures\\Sclera.png",
+    "bytes": 77272,
+    "sha256": "E615563277EC656D060E52FD86823F0F730B522E94430F1708F8AD0C4DBEA9A1"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Edel\\Textures\\Sclera.png.meta",
+    "bytes": 3007,
+    "sha256": "F4646EB1D77679FAD177B05DCC3081CA81AD6327F566039D70F4C4AE6FFA7F35"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\Armor\\Edel\\Edel_HelmetGoggles.asset",
+    "bytes": 56546,
+    "sha256": "E32551CD56B3EDD123C134090B5BF8EDCE9E6201C6DE6E262B5B2DC5CD5F561C"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\Armor\\Edel\\Edel_HelmetGoggles.asset.meta",
+    "bytes": 188,
+    "sha256": "2C9550CC4FC4E12BF228FF0352C8BAB81A5312567224018206318553A7B03778"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\Armor\\Edel\\Edel_HelmetShell.asset",
+    "bytes": 240127,
+    "sha256": "56EBBC6B8AAC76EAE719B0650B526D723EF118D1278136AD47D6264B9970AF8C"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\Armor\\Edel\\Edel_HelmetShell.asset.meta",
+    "bytes": 188,
+    "sha256": "4E7A0EFEFE1101409B8E6B97FE929E143C25DAE2553697BF1F1F9BF9866BBC37"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\Armor\\Edel\\Edel_SkinnedVest.asset",
+    "bytes": 1137099,
+    "sha256": "0228E627CCDD753A2040BCDFC5A9AB84168B8BFBC23DC4C08FD1AC69BB61B1AF"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\Armor\\Edel\\Edel_SkinnedVest.asset.meta",
+    "bytes": 188,
+    "sha256": "6B619D18DD9644856A51C8FD84056691232B8C423A74F3CF789CFFDAB7CCC473"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\Armor\\Edel\\Player_Edel_Helmet.prefab",
+    "bytes": 3560,
+    "sha256": "8E5DEF9C6ECE20A8E801D06CC3EB79C93F4F1F124135F60082355244C6F26926"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\Armor\\Edel\\Player_Edel_Helmet.prefab.meta",
+    "bytes": 154,
+    "sha256": "48C4D13C6534F8C77B9F669B159FA3606D69C8675742A04781854EA0CE0B7B7B"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\Armor\\Edel\\Player_Edel_Vest.prefab",
+    "bytes": 3089,
+    "sha256": "2C509F41EB7E14617015EC2BB9E225254730CF05D86433287DAC6DCF65F81A1F"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\Armor\\Edel\\Player_Edel_Vest.prefab.meta",
+    "bytes": 154,
+    "sha256": "AA150F59157B40A5547195E2AC6139BA18745B568E527E38AEF4C7F1C7EE7DAC"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\CompanionVfx\\CompanionTransformationParticle.shader",
+    "bytes": 1672,
+    "sha256": "50C2C2637A9305C25578B846957D879071FB877ABDE9D5B4E5398FAFD30C56CA"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\CompanionVfx\\CompanionTransformationParticle.shader.meta",
+    "bytes": 204,
+    "sha256": "2470657B61153102DE13AB8B18625AF593F964C8EF4D8895AB77D162C4EC2F89"
+  }
+]

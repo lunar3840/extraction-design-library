@@ -1,0 +1,27 @@
+[
+  {
+    "path": "Assets/Escape/Runtime/UI/ItemTierPresentation.cs",
+    "sha256": "78732A0D5A11B81827A3E969EC3855C176D0249D9CE7A50758796E0A2A38AE9D",
+    "bytes": 4796
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/InventoryHoverTooltip.cs",
+    "sha256": "C87D7DFF6A96599CF58B3D8FF395D38F5EA5954B6D12CEB52D1445FD5E594008",
+    "bytes": 11766
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/SessionTestWorld.cs",
+    "sha256": "56A358C3016D3C38D5AB6BB5322537CE8887653B2E02AFCE6138B602042CB9F9",
+    "bytes": 36911
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/SessionGlassView.cs",
+    "sha256": "2E25C95B251F7BE5EB6304EBBBA90CE212396BA75525AE58BD08742BAE94B9A3",
+    "bytes": 23041
+  },
+  {
+    "path": "Assets/Escape/Editor/UiKitEvidenceChecks.cs",
+    "sha256": "39795BB9C24843D20B71D73C29664CE0EA75F8E421697CD27C9A512385F86072",
+    "bytes": 56184
+  }
+]

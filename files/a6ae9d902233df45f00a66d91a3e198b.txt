@@ -1,0 +1,1 @@
+D08 imported=32 bounds=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-13/a-map-building-identities-d08\IMPORT_BOUNDS.json

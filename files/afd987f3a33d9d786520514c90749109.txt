@@ -1,0 +1,30 @@
+ACTUAL A-MAP MACHINE MOTION AFTER
+Temporary StageScenePreview profile; no normal save slot or authored scene is saved.
+Camera is fixed across early/threat sequence and reused for Before/After.
+PASS temporary preview returned to camp for reproducible A candidates
+PASS serialized A encounter candidates available
+PASS fixed authored candidates departed for comparable machine motion
+PASS test seed includes tank, transformer and heavy named machines
+PASS final audit includes all five machine kinds using the unchanged production selection policy
+AFTER ONLY test generation seed=6; full production generation replaced before sampling; random state restored.
+Fixture uses existing G6 C/H1 A/G10 A/H2 A; other ordinary groups A. Arrays restored immediately; no actor teleport or rule edits.
+PASS machine roster exists on actual A map
+PASS living machine available for closeup: SpiderLight
+PASS living machine available for closeup: SpiderMedium
+PASS living machine available for closeup: SpiderTransformer
+PASS living machine available for closeup: SpiderHeavy
+PASS living machine available for closeup: Tank
+CONTROLLED BeginRoll attempted on actual machine actor(s) but returned false; no roll was forced or simulated.
+Frames=2755 rollFrames=0 naturalRollFrames=0 controlledAttempted=True controlledSucceeded=False controlledRollFrames=0
+Max root speed=3.400m/s; vertical=0.774m/s; angular=110.104deg/s; agent velocity=3.400m/s; nav height error=0.000m; offNav samples=0
+Living machine samples=110200; dead samples=0; distinct dead machines=0. Death/fade samples excluded from motion maxima.
+Living max Animator local-position drift=0.00000m; local-rotation delta=0.00000deg; visual-bounds center drift in actor space=1.54962m.
+Living visual root scale range=1.73205..1.73205; dead visual root scale range=not observed; min dead actor-root scale=not observed; dead max Animator local-position drift=0.00000m.
+PASS machines never enter human-style roll
+PASS actual machine BeginRoll rejects controlled roll request
+PASS living machine Animator remains anchored to its actor (position <= 5cm, rotation <= 5deg)
+PASS machine root speed remains below 8m/s diagnostic ceiling
+PASS machine roots stay on the A-map NavMesh
+PASS temporary preview returned to camp
+PASS raid root detached
+RESULT PASS

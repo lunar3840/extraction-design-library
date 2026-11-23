@@ -1,0 +1,365 @@
+{
+  "scope": "Local SVG fallback assets only; no Figma or Unity changes or verification",
+  "checkedDate": "2026-10-22",
+  "result": "PASS",
+  "count": 12,
+  "sourceChecks": [
+    {
+      "name": "water",
+      "file": "icons/water.svg",
+      "checks": {
+        "dimensions24": true,
+        "viewBox24": true,
+        "stroke2": true,
+        "roundCaps": true,
+        "roundJoins": true,
+        "noChildOverride": true,
+        "editableVectorOnly": true,
+        "noEmbeddedRaster": true,
+        "noTransformScaling": true
+      },
+      "pass": true
+    },
+    {
+      "name": "energy",
+      "file": "icons/energy.svg",
+      "checks": {
+        "dimensions24": true,
+        "viewBox24": true,
+        "stroke2": true,
+        "roundCaps": true,
+        "roundJoins": true,
+        "noChildOverride": true,
+        "editableVectorOnly": true,
+        "noEmbeddedRaster": true,
+        "noTransformScaling": true
+      },
+      "pass": true
+    },
+    {
+      "name": "reposition",
+      "file": "icons/reposition.svg",
+      "checks": {
+        "dimensions24": true,
+        "viewBox24": true,
+        "stroke2": true,
+        "roundCaps": true,
+        "roundJoins": true,
+        "noChildOverride": true,
+        "editableVectorOnly": true,
+        "noEmbeddedRaster": true,
+        "noTransformScaling": true
+      },
+      "pass": true
+    },
+    {
+      "name": "haste",
+      "file": "icons/haste.svg",
+      "checks": {
+        "dimensions24": true,
+        "viewBox24": true,
+        "stroke2": true,
+        "roundCaps": true,
+        "roundJoins": true,
+        "noChildOverride": true,
+        "editableVectorOnly": true,
+        "noEmbeddedRaster": true,
+        "noTransformScaling": true
+      },
+      "pass": true
+    },
+    {
+      "name": "exit",
+      "file": "icons/exit.svg",
+      "checks": {
+        "dimensions24": true,
+        "viewBox24": true,
+        "stroke2": true,
+        "roundCaps": true,
+        "roundJoins": true,
+        "noChildOverride": true,
+        "editableVectorOnly": true,
+        "noEmbeddedRaster": true,
+        "noTransformScaling": true
+      },
+      "pass": true
+    },
+    {
+      "name": "bleeding",
+      "file": "icons/bleeding.svg",
+      "checks": {
+        "dimensions24": true,
+        "viewBox24": true,
+        "stroke2": true,
+        "roundCaps": true,
+        "roundJoins": true,
+        "noChildOverride": true,
+        "editableVectorOnly": true,
+        "noEmbeddedRaster": true,
+        "noTransformScaling": true
+      },
+      "pass": true
+    },
+    {
+      "name": "leg",
+      "file": "icons/leg.svg",
+      "checks": {
+        "dimensions24": true,
+        "viewBox24": true,
+        "stroke2": true,
+        "roundCaps": true,
+        "roundJoins": true,
+        "noChildOverride": true,
+        "editableVectorOnly": true,
+        "noEmbeddedRaster": true,
+        "noTransformScaling": true
+      },
+      "pass": true
+    },
+    {
+      "name": "exhausted",
+      "file": "icons/exhausted.svg",
+      "checks": {
+        "dimensions24": true,
+        "viewBox24": true,
+        "stroke2": true,
+        "roundCaps": true,
+        "roundJoins": true,
+        "noChildOverride": true,
+        "editableVectorOnly": true,
+        "noEmbeddedRaster": true,
+        "noTransformScaling": true
+      },
+      "pass": true
+    },
+    {
+      "name": "lock",
+      "file": "icons/lock.svg",
+      "checks": {
+        "dimensions24": true,
+        "viewBox24": true,
+        "stroke2": true,
+        "roundCaps": true,
+        "roundJoins": true,
+        "noChildOverride": true,
+        "editableVectorOnly": true,
+        "noEmbeddedRaster": true,
+        "noTransformScaling": true
+      },
+      "pass": true
+    },
+    {
+      "name": "bag",
+      "file": "icons/bag.svg",
+      "checks": {
+        "dimensions24": true,
+        "viewBox24": true,
+        "stroke2": true,
+        "roundCaps": true,
+        "roundJoins": true,
+        "noChildOverride": true,
+        "editableVectorOnly": true,
+        "noEmbeddedRaster": true,
+        "noTransformScaling": true
+      },
+      "pass": true
+    },
+    {
+      "name": "clock",
+      "file": "icons/clock.svg",
+      "checks": {
+        "dimensions24": true,
+        "viewBox24": true,
+        "stroke2": true,
+        "roundCaps": true,
+        "roundJoins": true,
+        "noChildOverride": true,
+        "editableVectorOnly": true,
+        "noEmbeddedRaster": true,
+        "noTransformScaling": true
+      },
+      "pass": true
+    },
+    {
+      "name": "crosshair",
+      "file": "icons/crosshair.svg",
+      "checks": {
+        "dimensions24": true,
+        "viewBox24": true,
+        "stroke2": true,
+        "roundCaps": true,
+        "roundJoins": true,
+        "noChildOverride": true,
+        "editableVectorOnly": true,
+        "noEmbeddedRaster": true,
+        "noTransformScaling": true
+      },
+      "pass": true
+    }
+  ],
+  "renderChecks": [
+    {
+      "name": "bag",
+      "render24": true,
+      "render96": true,
+      "inkBounds96": [
+        16,
+        8,
+        79,
+        87
+      ],
+      "edgeClear": true
+    },
+    {
+      "name": "bleeding",
+      "render24": true,
+      "render96": true,
+      "inkBounds96": [
+        20,
+        7,
+        75,
+        85
+      ],
+      "edgeClear": true
+    },
+    {
+      "name": "clock",
+      "render24": true,
+      "render96": true,
+      "inkBounds96": [
+        8,
+        8,
+        87,
+        87
+      ],
+      "edgeClear": true
+    },
+    {
+      "name": "crosshair",
+      "render24": true,
+      "render96": true,
+      "inkBounds96": [
+        4,
+        4,
+        91,
+        91
+      ],
+      "edgeClear": true
+    },
+    {
+      "name": "energy",
+      "render24": true,
+      "render96": true,
+      "inkBounds96": [
+        16,
+        6,
+        78,
+        89
+      ],
+      "edgeClear": true
+    },
+    {
+      "name": "exhausted",
+      "render24": true,
+      "render96": true,
+      "inkBounds96": [
+        24,
+        9,
+        70,
+        83
+      ],
+      "edgeClear": true
+    },
+    {
+      "name": "exit",
+      "render24": true,
+      "render96": true,
+      "inkBounds96": [
+        12,
+        8,
+        87,
+        87
+      ],
+      "edgeClear": true
+    },
+    {
+      "name": "haste",
+      "render24": true,
+      "render96": true,
+      "inkBounds96": [
+        12,
+        16,
+        79,
+        79
+      ],
+      "edgeClear": true
+    },
+    {
+      "name": "leg",
+      "render24": true,
+      "render96": true,
+      "inkBounds96": [
+        28,
+        6,
+        70,
+        87
+      ],
+      "edgeClear": true
+    },
+    {
+      "name": "lock",
+      "render24": true,
+      "render96": true,
+      "inkBounds96": [
+        16,
+        8,
+        79,
+        87
+      ],
+      "edgeClear": true
+    },
+    {
+      "name": "reposition",
+      "render24": true,
+      "render96": true,
+      "inkBounds96": [
+        12,
+        8,
+        83,
+        87
+      ],
+      "edgeClear": true
+    },
+    {
+      "name": "water",
+      "render24": true,
+      "render96": true,
+      "inkBounds96": [
+        20,
+        7,
+        75,
+        85
+      ],
+      "edgeClear": true
+    }
+  ],
+  "visualReview": {
+    "preview": "icons/preview.png",
+    "backgrounds": [
+      "dark",
+      "light"
+    ],
+    "result": "PASS",
+    "observations": [
+      "Water drop, lightning, opposing reposition arrows, haste chevrons and exit arrow retain their source silhouettes.",
+      "All symbols share a 2px rounded stroke language without decorative stars or frames.",
+      "Water and bleeding intentionally reuse the drop silhouette; separate HUD location, label and existing semantic color must retain the meaning.",
+      "Energy and exhausted retain their related lightning silhouettes; exhausted is intentionally narrower.",
+      "Leg, bag, lock, clock and crosshair remain identifiable and neither 24px nor 96px rendering clips the artwork."
+    ]
+  },
+  "limitations": [
+    "This audit does not establish that these SVGs were imported or that native Figma changes finished.",
+    "Figma screenshots, application scale and gameplay backgrounds require separate verification."
+  ]
+}

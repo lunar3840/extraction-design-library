@@ -1,0 +1,25 @@
+PASS first completed click selects only
+PASS same source and item activates after second completed release
+PASS duplicate release does not replay
+PASS third click does not activate
+PASS first completed click selects only
+PASS independent second clickCount one is not double click
+PASS first completed click selects only
+PASS another UID is not double click
+PASS first completed click selects only
+PASS another owner is not double click
+PASS first completed click selects only
+PASS Shift double press does not trigger ordinary action
+PASS first completed click selects only
+PASS second press drag does not trigger action
+PASS first press drag does not seed history
+PASS drag then click is not double click
+PASS first completed click selects only
+PASS release outside visible bounds or invalid UID is rejected
+PASS first completed click selects only
+PASS cancel reset rejects stale second press
+PASS first completed click selects only
+PASS second MouseDown without completing release does not activate
+PASS missing owner is rejected
+PASS empty UID is rejected
+RESULT 24 checks passed. Pure sequence only; Unity/API integration not executed.

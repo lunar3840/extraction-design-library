@@ -1,0 +1,42 @@
+STAGE_A_LOOK_V16_VALIDATION
+generatedUtc=2026-09-21T19:37:22.6342690Z
+PASS map reference is live
+PASS pre-apply baseline exists in SessionState
+PASS baseline belongs to this map (StageA_Relay_Blockout_v08)
+PASS v0.8 structural metadata remains present
+PASS v1.1 district metadata remains present
+PASS all pre-v1.6 colliders retain hierarchy, transforms, enabled state and geometry
+PASS ordered entry, exit and door references retain identities and transforms
+PASS remote NW, west, south-west and east district geometry/material bindings are untouched
+PASS authored V13 hall transform/render/collision structure is preserved outside additive look roots
+PASS protected CORE_G1-G3 and doorway signatures are unchanged
+NOTE post legacyColliderSignature=4576:063AD4A877420139
+NOTE post gameplayAnchorSignature=46:05C8EC9161C27983
+NOTE post remoteDistrictSignature=33:09E56EEFB27CC005
+PASS four basic entries remain populated
+PASS eight authored risk markers remain populated
+PASS R1-R8, including R8, remain excluded from default random spawning
+PASS spawn tier metadata remains four basic followed by eight disabled-risk entries
+PASS spawn array remains ordered B1-B4 then R1-R8 without activating R8
+PASS additive LookV16 roots are present (count=9)
+PASS LookV16-owned material assets are bound (count=15)
+PASS the v1.6 ground-slice shader is used by a live renderer
+PASS LookV16 renderers have no null material slots
+PASS LookV16 materials have no missing/null shaders
+PASS StageALookV16Atmosphere is present in the applied map
+NOTE lookRoots=9 lookMaterials=15 customGroundShaderBindings=8
+PASS live landform renderers use the GroundSlice material
+PASS serialized GroundSlice world-to-map rows are finite, nonzero and match the live map transform
+PASS GroundSlice center, hall/yard bounds, 70 m radial cap and 7 m feather retain the approved scope
+PASS GroundSlice is bound only to intact StageALandformV09 mesh renderers
+PASS remote district renderer bounds remain outside the conservative GroundSlice influence mask
+NOTE groundRenderers=4 groundMaterials=1 badRows=0 badBounds=0 badOwners=0 badMeshes=0 remoteMaskIntersections=0
+PASS new major look-slice props are present (count=2)
+PASS every LookV16_Large prop owns enabled non-trigger collision
+PASS new major-prop colliders are non-degenerate
+PASS new major-prop collision does not occupy a protected entry, exit or door capsule
+NOTE majorProps=2 missingCollision=0 degenerateColliders=0 anchorIntrusions=0
+PASS V14 collision regression validator still passes
+PASS V15 overlap regression validator still passes
+SUMMARY passed=32 failed=0
+RESULT PASS

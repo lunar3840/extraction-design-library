@@ -1,0 +1,1 @@
+D06 REFINED 2 sites: PowerYard/D06_MachinePowerCoupler_PC (446,113)->(470,120) terrain-grounded; WestWorkshop/D06_MaintenancePortal_W02 W02 DOOR_EXTERIOR_A->B. Only these two D06 holder transforms changed; rerun independent validation and play before saving.

@@ -1,0 +1,1 @@
+hall_core_doors_entries_exits_vegetation=True

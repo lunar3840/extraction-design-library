@@ -1,0 +1,81 @@
+PASS empty weapon slot preview does not acquire
+PASS bag observer sees complete empty-slot transaction
+PASS loot directly equips weapon slot 0
+PASS no intermediate bag slot or replacement weapon instance
+PASS repeated acquisition cannot duplicate
+PASS empty weapon slot preview does not acquire
+PASS bag observer sees complete empty-slot transaction
+PASS loot directly equips weapon slot 1
+PASS no intermediate bag slot or replacement weapon instance
+PASS repeated acquisition cannot duplicate
+PASS fixture owns P_001
+PASS fixture equips P_001
+PASS fixture begins loading P_001
+PASS fixture loads exact rounds P_001
+PASS fixture begins loading AR_001
+PASS fixture loads exact rounds AR_001
+PASS full bag occupied-slot preview stays unchanged
+PASS swap observer sees returned old weapon
+PASS full bag swaps directly without temporary capacity
+PASS both equipment UIDs and full bag contents preserved
+PASS weapon state objects retained on both sides
+PASS loaded ammunition retained on both swapped weapons
+PASS one notification each and final equipped weight
+PASS fixture owns SD_BASIC_HELMET
+PASS fixture equips SD_BASIC_HELMET
+PASS direct armor swap Helmet
+PASS same-type armor swaps exact individual identities
+PASS armor wear is retained, not reset
+PASS returned equipment is revealed at original loot anchor
+PASS equipped armor save round-trip
+PASS fixture owns SD_BASIC_VEST
+PASS fixture equips SD_BASIC_VEST
+PASS direct armor swap BodyArmor
+PASS same-type armor swaps exact individual identities
+PASS armor wear is retained, not reset
+PASS returned equipment is revealed at original loot anchor
+PASS equipped armor save round-trip
+PASS fixture owns AR_001
+PASS fixture equips AR_001
+PASS larger returned item uses actual free neighbouring loot cells
+PASS returned loot footprint is updated for selection and collision
+PASS fixture owns AR_001
+PASS fixture equips AR_001
+PASS edge rotation fixture placed at source anchor
+PASS returned rifle rotates in place when only alternate orientation fits
+PASS fixture owns AR_001
+PASS fixture equips AR_001
+PASS corner rejection fixture placed
+PASS old equipment cannot cross source boundary preview read-only
+PASS old equipment cannot cross source boundary atomic rejection
+PASS stale loot identity preview read-only
+PASS stale loot identity atomic rejection
+PASS invalid weapon index preview read-only
+PASS invalid weapon index atomic rejection
+PASS weapon into armor slot preview read-only
+PASS weapon into armor slot atomic rejection
+PASS helmet into body armor slot preview read-only
+PASS helmet into body armor slot atomic rejection
+PASS armor into weapon slot preview read-only
+PASS armor into weapon slot atomic rejection
+PASS non-equipment item preview read-only
+PASS non-equipment item atomic rejection
+PASS multiple equipment objects in one pile preview read-only
+PASS multiple equipment objects in one pile atomic rejection
+PASS unsearched equipment remains unavailable
+PASS fixture owns AR_001
+PASS fixture equips AR_001
+PASS neighbouring loot blocks both old-rifle orientations
+PASS no return space preview read-only
+PASS no return space atomic rejection
+PASS fixture owns AR_001
+PASS fixture equips AR_001
+PASS real loot panel opens
+PASS acquisition event names incoming item only
+PASS UI target route equips exact secondary slot and reports acquisition once
+PASS stale queued UI drop cannot repeat acquisition
+PASS empty-slot direct equipment consumes only source item
+PASS UI armor target reaches direct loot operation
+PASS closed inventory discards delayed equip callback
+PASS frozen inventory discards delayed equip callback
+PASS leaving container range rejects queued equip

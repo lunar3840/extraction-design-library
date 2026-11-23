@@ -1,0 +1,43 @@
+{
+  "status": "PASS_ARCHIVED_WITHOUT_DELETE",
+  "utc": "2026-10-30T05:25:45.3270354Z",
+  "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\ClinicMoodStrengthening20261030",
+  "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\a-map-clinic-reclaimed-mood-strengthening\\execution_tools\\final",
+  "files": [
+    {
+      "name": "ClinicMoodStrengtheningBridge.cs",
+      "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\ClinicMoodStrengthening20261030\\ClinicMoodStrengtheningBridge.cs",
+      "sha256": "6568C2F7DC4DA9E541E04ABF7C109109FAA0E8A7B007827886FE5B33A0F9A7B2"
+    },
+    {
+      "name": "ClinicMoodStrengtheningBridge.cs.meta",
+      "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\ClinicMoodStrengthening20261030\\ClinicMoodStrengtheningBridge.cs.meta",
+      "sha256": "64E017573D8AE7AED34779C0DD6393820D59E6719CF195B259A176C5781DA544"
+    },
+    {
+      "name": "StageAClinicMoodStrengtheningValidation.cs",
+      "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\ClinicMoodStrengthening20261030\\StageAClinicMoodStrengtheningValidation.cs",
+      "sha256": "29875040F6F4AE6A128832B28D9472AC1224F05F4E4E8367CD963E598BD5DB70"
+    },
+    {
+      "name": "StageAClinicMoodStrengtheningValidation.cs.meta",
+      "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\ClinicMoodStrengthening20261030\\StageAClinicMoodStrengtheningValidation.cs.meta",
+      "sha256": "2429C35C295D3F4076FA2B605EB89B4EF0D1C2A55B0BFF1F08ED8ECAEACCA6E9"
+    },
+    {
+      "name": "StageAClinicMoodTrialBuilder.cs",
+      "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\ClinicMoodStrengthening20261030\\StageAClinicMoodTrialBuilder.cs",
+      "sha256": "3ED5688B034DA292A254EACAB37729850B48145F3E4F8E63D953137F92DFA26F"
+    },
+    {
+      "name": "StageAClinicMoodTrialBuilder.cs.meta",
+      "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\ClinicMoodStrengthening20261030\\StageAClinicMoodTrialBuilder.cs.meta",
+      "sha256": "15CAEC2D34CDC68BDCA7AA63986F4F7FE765D41DDA0A5A744DAC6F02CCAA42C1"
+    }
+  ],
+  "folderMetaSha256": "AD2AD8F07F4FA2A62CF8F9A304715EB08FD305B6774ED26B147C3E93D5987782",
+  "sourceAbsent": true,
+  "sourceMetaAbsent": true,
+  "ownRequestAbsent": true,
+  "nativeRecompile": "PASS_NATIVE_REFRESH_COMPLETE_WITH_EXISTING_DUPLICATE_MENU_WARNING"
+}

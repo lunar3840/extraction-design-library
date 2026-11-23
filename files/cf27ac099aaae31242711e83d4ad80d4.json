@@ -1,0 +1,14 @@
+{
+  "start": 1176616198,
+  "end": 1179663458,
+  "bytes": 3047260,
+  "compiler_errors": 0,
+  "exception_headers": [
+    "InvalidOperationException: Starter fixture could not fit SD_BASIC_VEST",
+    "InvalidOperationException: Interactive profile did not enter its isolated base camp.",
+    "InvalidOperationException: Owned Play required",
+    "InvalidOperationException: Fixture restore transfer failed",
+    "IOException: Sharing violation on path C:\\UnityProject\\escape\\Library\\ChestRigReview.request"
+  ],
+  "particle_curve_messages": 44734
+}

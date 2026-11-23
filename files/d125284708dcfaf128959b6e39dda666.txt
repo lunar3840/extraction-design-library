@@ -1,0 +1,11 @@
+Use case: precise-object-edit / background-extraction
+Edit the supplied S4 illustrated inventory icon. Make ONLY the following correction: remove ALL peach/pink flesh-colored regions and make those exact regions genuinely TRANSPARENT, revealing whatever background the PNG is displayed on.
+The user wants a standalone EQUIPMENT icon with empty openings, not skin or an invisible mannequin.
+Specific regions to erase to transparent alpha:
+- both exposed side-waist patches, between the chest plate and the waist belt;
+- the bare upper-arm shape on the VIEWER RIGHT;
+- all bare thigh and knee areas on the VIEWER RIGHT, including the skin between and below the two dark thigh fastening bands.
+Remove black contour strokes that ONLY outline the erased human arm/thigh/knee silhouette. Do not leave a hollow human-limb outline behind. Keep clean dark contours along actual equipment edges.
+Preserve EVERYTHING ELSE: existing bold-outline SD/cel-shaded style; exact charcoal/orange/gray equipment colors; the narrow central dark abdominal panel; chest plate; collar and shoulder clasps; waist belt; shorts; maintenance pouch; viewer-left orange short sleeve; viewer-left orange armored leg and knee guard; both slim VIEWER-RIGHT thigh bands and their small buckles. The two thigh bands remain as equipment pieces with transparent space around and between them. They must not be deleted along with the flesh.
+Do not fill the removed skin with black, white, cloth, pants, armor, scenery or any solid color. These are actual cutout holes / empty alpha, not colored patches. Do not add a head, body, mannequin, skin, hands, feet, boots, weapon, dangling diagonal strap, text, border, card or background. No redesign, no extra props, no change of angle or framing.
+Output one standalone transparent PNG icon. Outside canvas AND all removed skin openings must have genuine transparent alpha.

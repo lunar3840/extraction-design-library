@@ -1,0 +1,9 @@
+D12 BANK APRONS PATCHED
+D12 BANK APRON CENSUS
+reachableIntervals=15 apronObjects=15 renderers=15 matchingNonconvexMeshColliders=15 sameVisualCollisionMesh=15
+intentionalBridgeOpeningGaps=4 outerMapBoundaryEdgesSkipped=2 apronThickness=0.100m maxEndpointBoundsErrorSquared=0.000
+originalTerrainBankFenceBridgeObjectsChanged=0
+RESULT PASS
+
+scene=C9E3D324A6DA7849188D1D92F9D79843B8E4820DCBE8325C3A0B227CD13D1874
+prefab=890A194C1A82F8C2020B156836C76867A93CB8DE2ADCFC8CF9B9267B94FE9EB0

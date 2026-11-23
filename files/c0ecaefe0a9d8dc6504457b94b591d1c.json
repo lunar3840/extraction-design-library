@@ -1,0 +1,58 @@
+{
+  "figmaFile": "kvFB4V57SyJeLrPp8xspIc",
+  "sourcePage": "34:17",
+  "sourceReference": "https://www.figma.com/design/kvFB4V57SyJeLrPp8xspIc?node-id=34-70",
+  "components": {
+    "navigation": "36:289",
+    "categoryRail": "36:297",
+    "dropdown": "36:298",
+    "backplate": "95:1466"
+  },
+  "colors": {
+    "background": "#080A12",
+    "panel": "#0C0E1A",
+    "slot": "#111725",
+    "ink": "#F6EAD5",
+    "muted": "#A4A5AD",
+    "border": "#505868",
+    "button": "#343B4A",
+    "backplate": "#0B0C1A / 60%"
+  },
+  "assets": [
+    {
+      "file": "grid-dark.svg",
+      "bytes": 423,
+      "sha256": "9b35e1a874147c693799a97372ceb1d4bfb0bb4d54e8cc559a1a309a64610f49",
+      "nativeDimensions": [
+        "32",
+        "32"
+      ],
+      "callsite": "workspace-theme.css; navigation and date sort"
+    },
+    {
+      "file": "grid.png",
+      "bytes": 2259,
+      "sha256": "06f2efb567d7bfd30b3914d55b4350d9138d2cc1212a3d1cfb7070dfc899c23e",
+      "nativeDimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "callsite": "workspace-theme.css; navigation and date sort"
+    },
+    {
+      "file": "sort.svg",
+      "bytes": 262,
+      "sha256": "9f1a7eba0d216d4f2df661081ef2233b06c7aaa90464719b205174d757ac13a0",
+      "nativeDimensions": [
+        "25",
+        "16"
+      ],
+      "callsite": "workspace-theme.css; navigation and date sort"
+    }
+  ],
+  "figmaReadOnly": true,
+  "privatePortfolioContentCopied": false,
+  "itemArtworkCopied": false,
+  "sourceRights": "ARC Raiders UI assets copyright Embark Studios; user-reconstructed design reference, not an official kit",
+  "adaptation": "Existing web geometry and Korean Noto Sans KR retained; raw source-scale dimensions adapted to functional web controls"
+}

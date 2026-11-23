@@ -1,0 +1,14 @@
+[
+  {
+    "path": "Assets/Escape/Editor/Environment/RuinGeometryEngine.cs",
+    "sha256": "9582f60c1eb20cff85deaa2beebc26948081d3383b30edf06eb34e2d5cbcd263"
+  },
+  {
+    "path": "Assets/Escape/Editor/Environment/VehicleLiningBuilder.cs",
+    "sha256": "3d2f3efa179030ee9273b4d2f1c9c77b58a1fe7696dd81b24304c894cd7ffc3f"
+  },
+  {
+    "path": "Assets/Escape/Editor/Environment/RuinVehicleLiningValidation.cs",
+    "sha256": "01af924237ab35384c616281ab792a2f8e00488458330137956f847d637ead98"
+  }
+]

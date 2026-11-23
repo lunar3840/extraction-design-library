@@ -1,0 +1,95 @@
+Tactical image live checks
+stage=StageB
+time=2026-10-22T20:28:13.8140407+09:00
+scene=Assets/Escape/Scenes/SystemsTest.unity
+isolation=C:\UnityProject\escape\Library\UiKitEvidence\input-1126529f797c482ea3919946c59cb85c
+PASS runtime selected the authored image
+PASS image resource key is present
+PASS background is loaded and readable
+PASS image resource resolves as Texture2D
+PASS image calibration resolves as TextAsset
+PASS calibration schema is 1
+PASS background dimensions match calibration
+PASS displayed background dimensions match the resource
+PASS calibration metres and map rectangle agree
+PASS image uses baker resolution with at most half-pixel dimension rounding
+PASS calibration describes a nonempty orthographic bake
+PASS calibrated top-left world corner (actual=(-24.50, 0.00, 24.50), expected=(-24.50, 0.00, 24.50))
+PASS calibrated top-right world corner (actual=(24.50, 0.00, 24.50), expected=(24.50, 0.00, 24.50))
+PASS calibrated bottom-left world corner (actual=(-24.50, 0.00, -24.50), expected=(-24.50, 0.00, -24.50))
+PASS calibrated bottom-right world corner (actual=(24.50, 0.00, -24.50), expected=(24.50, 0.00, -24.50))
+INFO resource=TacticalMaps/StageB pixels=245x245 ppm=5.000
+PASS B map uses its own image resource
+PASS B map has positive calibrated metre dimensions
+PASS B map corner/centre follows calibrated legacy root at (0.00, 0.00) (actual=(-24.50, 0.00, 24.50), expected=(-24.50, 0.00, 24.50))
+PASS B map corner/centre projects back at (0.00, 0.00) (actual=(0.00, 0.00), expected=(0.00, 0.00))
+PASS B map corner/centre follows calibrated legacy root at (49.00, 0.00) (actual=(24.50, 0.00, 24.50), expected=(24.50, 0.00, 24.50))
+PASS B map corner/centre projects back at (49.00, 0.00) (actual=(49.00, 0.00), expected=(49.00, 0.00))
+PASS B map corner/centre follows calibrated legacy root at (0.00, 49.00) (actual=(-24.50, 0.00, -24.50), expected=(-24.50, 0.00, -24.50))
+PASS B map corner/centre projects back at (0.00, 49.00) (actual=(0.00, 49.00), expected=(0.00, 49.00))
+PASS B map corner/centre follows calibrated legacy root at (49.00, 49.00) (actual=(24.50, 0.00, -24.50), expected=(24.50, 0.00, -24.50))
+PASS B map corner/centre projects back at (49.00, 49.00) (actual=(49.00, 49.00), expected=(49.00, 49.00))
+PASS B map corner/centre follows calibrated legacy root at (24.50, 24.50) (actual=(0.00, 0.00, 0.00), expected=(0.00, 0.00, 0.00))
+PASS B map corner/centre projects back at (24.50, 24.50) (actual=(24.50, 24.50), expected=(24.50, 24.50))
+PASS B player position projects from the live legacy root and calibration (actual=(24.50, 24.50), expected=(24.50, 24.50))
+PASS B player position falls within its image
+INFO B player map=(24.50, 24.50) legacyLocal=(0.00, 0.02, 0.00)
+PASS player marker pivot at scale 0.5 heading 0 (actual=(75.00, 87.00, 0.00), expected=(75.00, 87.00, 0.00))
+PASS player marker heading at scale 0.5 heading 0 (actual=(0.00, -5.00, 0.00), expected=(0.00, -5.00, 0.00))
+PASS player marker pivot at scale 0.5 heading 45 (actual=(75.00, 87.00, 0.00), expected=(75.00, 87.00, 0.00))
+PASS player marker heading at scale 0.5 heading 45 (actual=(3.54, -3.54, 0.00), expected=(3.54, -3.54, 0.00))
+PASS player marker pivot at scale 0.5 heading 90 (actual=(75.00, 87.00, 0.00), expected=(75.00, 87.00, 0.00))
+PASS player marker heading at scale 0.5 heading 90 (actual=(5.00, 0.00, 0.00), expected=(5.00, 0.00, 0.00))
+PASS player marker pivot at scale 0.5 heading 180 (actual=(75.00, 87.00, 0.00), expected=(75.00, 87.00, 0.00))
+PASS player marker heading at scale 0.5 heading 180 (actual=(0.00, 5.00, 0.00), expected=(0.00, 5.00, 0.00))
+PASS player marker pivot at scale 0.5 heading 270 (actual=(75.00, 87.00, 0.00), expected=(75.00, 87.00, 0.00))
+PASS player marker heading at scale 0.5 heading 270 (actual=(-5.00, 0.00, 0.00), expected=(-5.00, 0.00, 0.00))
+PASS player marker pivot at scale 1 heading 0 (actual=(133.00, 145.00, 0.00), expected=(133.00, 145.00, 0.00))
+PASS player marker heading at scale 1 heading 0 (actual=(0.00, -10.00, 0.00), expected=(0.00, -10.00, 0.00))
+PASS player marker pivot at scale 1 heading 45 (actual=(133.00, 145.00, 0.00), expected=(133.00, 145.00, 0.00))
+PASS player marker heading at scale 1 heading 45 (actual=(7.07, -7.07, 0.00), expected=(7.07, -7.07, 0.00))
+PASS player marker pivot at scale 1 heading 90 (actual=(133.00, 145.00, 0.00), expected=(133.00, 145.00, 0.00))
+PASS player marker heading at scale 1 heading 90 (actual=(10.00, 0.00, 0.00), expected=(10.00, 0.00, 0.00))
+PASS player marker pivot at scale 1 heading 180 (actual=(133.00, 145.00, 0.00), expected=(133.00, 145.00, 0.00))
+PASS player marker heading at scale 1 heading 180 (actual=(0.00, 10.00, 0.00), expected=(0.00, 10.00, 0.00))
+PASS player marker pivot at scale 1 heading 270 (actual=(133.00, 145.00, 0.00), expected=(133.00, 145.00, 0.00))
+PASS player marker heading at scale 1 heading 270 (actual=(-10.00, 0.00, 0.00), expected=(-10.00, 0.00, 0.00))
+PASS player marker pivot at scale 1.2 heading 0 (actual=(156.20, 168.20, 0.00), expected=(156.20, 168.20, 0.00))
+PASS player marker heading at scale 1.2 heading 0 (actual=(0.00, -12.00, 0.00), expected=(0.00, -12.00, 0.00))
+PASS player marker pivot at scale 1.2 heading 45 (actual=(156.20, 168.20, 0.00), expected=(156.20, 168.20, 0.00))
+PASS player marker heading at scale 1.2 heading 45 (actual=(8.49, -8.49, 0.00), expected=(8.49, -8.49, 0.00))
+PASS player marker pivot at scale 1.2 heading 90 (actual=(156.20, 168.20, 0.00), expected=(156.20, 168.20, 0.00))
+PASS player marker heading at scale 1.2 heading 90 (actual=(12.00, 0.00, 0.00), expected=(12.00, 0.00, 0.00))
+PASS player marker pivot at scale 1.2 heading 180 (actual=(156.20, 168.20, 0.00), expected=(156.20, 168.20, 0.00))
+PASS player marker heading at scale 1.2 heading 180 (actual=(0.00, 12.00, 0.00), expected=(0.00, 12.00, 0.00))
+PASS player marker pivot at scale 1.2 heading 270 (actual=(156.20, 168.20, 0.00), expected=(156.20, 168.20, 0.00))
+PASS player marker heading at scale 1.2 heading 270 (actual=(-12.00, 0.00, 0.00), expected=(-12.00, 0.00, 0.00))
+PASS player marker pivot at scale 1.5 heading 0 (actual=(191.00, 203.00, 0.00), expected=(191.00, 203.00, 0.00))
+PASS player marker heading at scale 1.5 heading 0 (actual=(0.00, -15.00, 0.00), expected=(0.00, -15.00, 0.00))
+PASS player marker pivot at scale 1.5 heading 45 (actual=(191.00, 203.00, 0.00), expected=(191.00, 203.00, 0.00))
+PASS player marker heading at scale 1.5 heading 45 (actual=(10.61, -10.61, 0.00), expected=(10.61, -10.61, 0.00))
+PASS player marker pivot at scale 1.5 heading 90 (actual=(191.00, 203.00, 0.00), expected=(191.00, 203.00, 0.00))
+PASS player marker heading at scale 1.5 heading 90 (actual=(15.00, 0.00, 0.00), expected=(15.00, 0.00, 0.00))
+PASS player marker pivot at scale 1.5 heading 180 (actual=(191.00, 203.00, 0.00), expected=(191.00, 203.00, 0.00))
+PASS player marker heading at scale 1.5 heading 180 (actual=(0.00, 15.00, 0.00), expected=(0.00, 15.00, 0.00))
+PASS player marker pivot at scale 1.5 heading 270 (actual=(191.00, 203.00, 0.00), expected=(191.00, 203.00, 0.00))
+PASS player marker heading at scale 1.5 heading 270 (actual=(-15.00, 0.00, 0.00), expected=(-15.00, 0.00, 0.00))
+INFO historical screen-pivot rotation was sensitive to HUD scale; current marker pivot stayed fixed at all tested scales.
+PASS 10 m east increases map X (actual=(10.00, 0.00), expected=(10.00, 0.00))
+PASS 10 m north decreases map Y (actual=(0.00, -10.00), expected=(0.00, -10.00))
+PASS 10 m east has expected minimap pixel delta (actual=(16.57, 0.00), expected=(16.57, 0.00))
+PASS 10 m north has expected minimap pixel delta (actual=(0.00, -16.57), expected=(0.00, -16.57))
+PASS map heading follows active map root at 0 degrees
+PASS map heading follows active map root at 45 degrees
+PASS map heading follows active map root at 90 degrees
+PASS map heading follows active map root at 180 degrees
+PASS map heading follows active map root at 270 degrees
+PASS sample region fits within the active map
+PASS circular crop corners are transparent
+PASS circular crop centre is opaque
+PASS north-up bilinear circular image sample (32, 32) matches authored background
+PASS north-up bilinear circular image sample (32, 46) matches authored background
+FAILED System.InvalidOperationException: north-up bilinear circular image sample (32, 18) matches authored background
+  at Escape.Tests.TacticalMapImageChecks.Require (System.Boolean condition, System.String message, System.Text.StringBuilder report) [0x0001c] in C:\UnityProject\escape\Assets\Escape\Editor\TacticalMapImageChecks.cs:390 
+  at Escape.Tests.TacticalMapImageChecks.CheckCircularSamples (Escape.Mapping.TacticalMapData data, System.Text.StringBuilder report) [0x0023d] in C:\UnityProject\escape\Assets\Escape\Editor\TacticalMapImageChecks.cs:277 
+  at Escape.Tests.TacticalMapImageChecks.RunLive () [0x00204] in C:\UnityProject\escape\Assets\Escape\Editor\TacticalMapImageChecks.cs:67 

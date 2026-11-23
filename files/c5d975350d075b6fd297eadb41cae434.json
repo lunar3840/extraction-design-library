@@ -1,0 +1,14 @@
+{
+    "utc": "2026-11-03T21:48:51.9866196Z",
+    "scene": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+    "graphicsDevice": "Direct3D12",
+    "assemblyMvid": "3c67587a-bc2b-4d5a-a389-cf60c96ab7e9",
+    "dirty": false,
+    "playing": false,
+    "shaderSupported": true,
+    "sourceAvailable": true,
+    "passed": true,
+    "serializationMode": 2,
+    "bodyShapes": 78,
+    "shaderErrors": []
+}

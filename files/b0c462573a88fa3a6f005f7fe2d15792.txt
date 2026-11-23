@@ -1,0 +1,3 @@
+DENSITY V04 / CQB ACTUAL UNITY VALIDATION
+PASS enemy, combat, faction targeting, human avoidance and ordinary/named human shot checks passed
+COMPLETE PASS

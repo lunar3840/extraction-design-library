@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-13",
+  "scope": "Tripo existing model exports for A-map D08",
+  "historicalBrowserAttemptOnly": true,
+  "supersededByCurrentReceivedFiles": "RECEIVED_MANIFEST.json",
+  "downloadDirectory": "downloads",
+  "sourceLedgers": [
+    "../a-map-tripo-d07-generation/TRIPO_JOBS.md",
+    "../a-map-tripo-zone-expansion/TRIPO_JOBS.md"
+  ],
+  "requestedIds": [
+    "T01", "T02", "T03", "T04", "T05", "T06", "T07", "T08", "T09", "T10", "T11", "T12", "T13", "T14",
+    "Z01", "Z02", "Z03", "Z04", "Z05", "Z06", "Z07r", "Z08", "Z09r", "Z10b", "Z11", "Z13", "Z14", "Z15", "Z16", "Z18", "Z19r", "Z20"
+  ],
+  "excludedIds": ["Z07", "Z09", "Z12", "Z17", "Z19"],
+  "verifiedFiles": [],
+  "attempts": [
+    {
+      "id": "T01",
+      "sourceUrl": "https://studio.tripo3d.ai/ko/workspace/generate/614f5f43-03c1-4a84-9688-ca055a06826e",
+      "format": "GLB",
+      "textureResolutionsTried": ["2K", "1K"],
+      "siteResult": "Export completed toast for 2K; 1K export button returned from disabled processing state",
+      "browserDownloadEvent": false,
+      "localFileFound": false,
+      "verifiedHeader": false,
+      "verifiedLength": false,
+      "verifiedMesh": false,
+      "status": "blocked_no_download_file"
+    }
+  ],
+  "summary": {
+    "requested": 32,
+    "verifiedGlb": 0,
+    "remaining": 32,
+    "creditsBefore": 1640,
+    "creditsAfterObserved": 1640,
+    "newGenerationCount": 0,
+    "paidPostProcessingCount": 0
+  }
+}

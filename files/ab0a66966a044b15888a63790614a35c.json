@@ -1,0 +1,28 @@
+{
+  "verifiedAt": "2026-10-29T18:39:16.7198429+09:00",
+  "files": [
+    {
+      "path": "Assets/Escape/Editor/Environment/SurfaceIvyGenerator.cs",
+      "sha256": "234d5008b44f2dc54a354eec14443e98f1d3b61f3e9d654fea2ff563c2b2d871"
+    },
+    {
+      "path": "Assets/Escape/Editor/Environment/SurfaceIvyWindow.cs",
+      "sha256": "f4cf25fea5cf9b85c780c0e0ba0cb36a43964bfea2e50b4911db1146e2e6d010"
+    },
+    {
+      "path": "Assets/Escape/Editor/Environment/SurfaceIvyLeafProfile.cs",
+      "sha256": "ec6a20dbfd607dccc21e9f7a288cad8b83d0ac2c0b4121b87774cf5316029e66"
+    },
+    {
+      "path": "Assets/Escape/Editor/Environment/SurfaceIvyValidation.cs",
+      "sha256": "41b3d862e93dde19bab9ccd6083ab67f1ef2c41a0f17975d7e4e36a5710ba2e2"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Environment/SurfaceIvyInstance.cs",
+      "sha256": "231e6fad039385e64239f5696b8b822c246a1b1c0059c9d6adeca0e5a5acc7f0"
+    }
+  ],
+  "runtimeInstanceUnchanged": true,
+  "helperArchived": true,
+  "pendingRequest": false
+}

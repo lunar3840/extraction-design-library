@@ -1,0 +1,766 @@
+[
+  {
+    "path": "Runtime\\PlayerDebugHud.cs",
+    "sha256": "D7C9ECA1A2ABD68DCA5494531ADF0CBF5A39D7684984DAE0D41C340B0F14D197"
+  },
+  {
+    "path": "Runtime\\PlayerMotor.cs",
+    "sha256": "A53F79BF84C9AE4EBB38A60C0FA52A796A283318F24FA9D6AD89640C85E4514A"
+  },
+  {
+    "path": "Runtime\\PlayerSettings.cs",
+    "sha256": "78CB49564713659E32830C32EFBD51A71642A3E9B312ABC5580B5E262FE30583"
+  },
+  {
+    "path": "Runtime\\PlayerTestWorld.cs",
+    "sha256": "927F1C95AEB57F42639E9047BC54581E3E98F5A13B5C19AA54ECAE707C7C7E88"
+  },
+  {
+    "path": "Runtime\\PrototypeGunModels.cs",
+    "sha256": "9852E70B1914C5981421168DCEE0357CA53CBD251F6AE19D68FCF360BF9F9499"
+  },
+  {
+    "path": "Runtime\\RokokoGunsPreview.cs",
+    "sha256": "880CDC379901EA999D57A6C60BC0CA0ACF028342FD5EA4AC3FB3640536295D57"
+  },
+  {
+    "path": "Runtime\\SdArmorLibrary.cs",
+    "sha256": "76780B34992A10CD6E5EC73617E4AF108CFBAB9CA1A9A4691577155AD73DFEC0"
+  },
+  {
+    "path": "Runtime\\SdArmorRig.cs",
+    "sha256": "4FB2AFD2470B700ADBA331AF006DA5552F8D26149096EAD919140B0B8BC0F6C4"
+  },
+  {
+    "path": "Runtime\\SdArmorVisual.cs",
+    "sha256": "E7245C60A8C88A959D572BF60940A1E5846EF516BFA6B7A7AF7C1B91B6554D6E"
+  },
+  {
+    "path": "Runtime\\SdCharacterLibrary.cs",
+    "sha256": "AF40618C5A618EA36D824A5B9DB820096DA4779BC2FD334C5268C7D439909774"
+  },
+  {
+    "path": "Runtime\\SdCharacterVisual.cs",
+    "sha256": "F90A0ED578286EC4DB14A4267D2B50FBFBE6B39ED9264595379D52F28D4E6FAF"
+  },
+  {
+    "path": "Runtime\\SdGunLibrary.cs",
+    "sha256": "5AB1DA8DFC22DD97501207E06F7BE54AC0F7CF62DA96DE613CBFE5E293AD9FE6"
+  },
+  {
+    "path": "Runtime\\SdGunModel.cs",
+    "sha256": "FE43BAD10415C448B8B89212C219D1E90EE95EF37AEC769E51BA0FE53AABEFCD"
+  },
+  {
+    "path": "Runtime\\SdWeaponPose.cs",
+    "sha256": "241A3E95FC0900F45DC4D47B79D759A87A995B52AA4A90F7E5DF780803344B76"
+  },
+  {
+    "path": "Runtime\\SerinLateCapture.cs",
+    "sha256": "306F266B3F3BF01C365F3964FA664D7F24DDA2E5F05A893729DC0120F4E4E9D6"
+  },
+  {
+    "path": "Runtime\\TopDownCamera.cs",
+    "sha256": "4E43794DEF73BA8C0017BE5A9FA9166B297AB3D53C437370AE2DE89F850A061B"
+  },
+  {
+    "path": "Runtime\\Basecamp\\GrowthRules.cs",
+    "sha256": "85A1DCE8FC508D29C1A0EC5671810053361ED65F5A2B99736A71909F7BDD0ADA"
+  },
+  {
+    "path": "Runtime\\Basecamp\\MainQuestRules.cs",
+    "sha256": "6374E3DE7429390667098DA3A4C808FBC73FC512AAFE2AA4D04F05952DFAFD46"
+  },
+  {
+    "path": "Runtime\\Basecamp\\QuestCatalog.cs",
+    "sha256": "EBBF788B873F040E3E5F239BBB984FE63FF2A3A9EDB3AD1D8D1999B5B946D29E"
+  },
+  {
+    "path": "Runtime\\Basecamp\\QuestDefinitionAsset.cs",
+    "sha256": "6A7AC084C515268A6F3C4265EA8E0D060ACDFFFBE84E097016340557883B9446"
+  },
+  {
+    "path": "Runtime\\Basecamp\\ResearchCatalog.cs",
+    "sha256": "F3739EAC9969828637A3EF5D40969E13E3D77ABA0AEA56855D3BA7CA30A6F714"
+  },
+  {
+    "path": "Runtime\\Basecamp\\ShopCatalog.cs",
+    "sha256": "E1AD28AFD51DA08FA7B6C3792CE500C8F785F31DB3FE837DB85840577126D750"
+  },
+  {
+    "path": "Runtime\\Combat\\AimTarget.cs",
+    "sha256": "6E918D13D84EAEDA8D425E2E02AF884272EA9B652EF49C82DD07266216D1AC17"
+  },
+  {
+    "path": "Runtime\\Combat\\BodyHitboxRig.cs",
+    "sha256": "DB68A40A4E6CF0522924F70FA797AE7A38613D0A6039B4D4CD8970C59E175F92"
+  },
+  {
+    "path": "Runtime\\Combat\\CombatDummy.cs",
+    "sha256": "1476595D66B1560FE590C02CA8C8F21A5FC711A597189FBCA18425EA69041257"
+  },
+  {
+    "path": "Runtime\\Combat\\CombatSignals.cs",
+    "sha256": "AC241350D728BDCD79FE7D6F0218C2929D3654AC09FC98505CF223D98DC63473"
+  },
+  {
+    "path": "Runtime\\Combat\\CombatTestShooter.cs",
+    "sha256": "1BB7E8F77D9E5FDC898056426298BC9522963E3A89E836A92CA1AD96E6E54D7A"
+  },
+  {
+    "path": "Runtime\\Combat\\CombatTestWorld.cs",
+    "sha256": "4C4B7F7550D683D4D7209CB65005DEACA0F1FF041B7531FF26E4BFCAFC128EAA"
+  },
+  {
+    "path": "Runtime\\Combat\\DamageReceiver.cs",
+    "sha256": "2C4B4F13B08CF649FC691CD15D8F6B9FB2504BF5DB5CC9F8A4FA142C86ECBE79"
+  },
+  {
+    "path": "Runtime\\Combat\\Hitbox.cs",
+    "sha256": "5E6291DCF326F9F439D8103D08F487513C6AE0D62F8F6F67AF718F3C230469F8"
+  },
+  {
+    "path": "Runtime\\Combat\\HitscanService.cs",
+    "sha256": "CD5FC2E94DCB86FB52C6FFD12A4AC3B92BDA3B0315A0716781DA724F5CCA2844"
+  },
+  {
+    "path": "Runtime\\Combat\\Core\\DamageRules.cs",
+    "sha256": "18C17AAF292D0FE3DDBCF800A6EF3260637F6AEB6D000CEE781AB8294C43E254"
+  },
+  {
+    "path": "Runtime\\Combat\\Core\\InjuryState.cs",
+    "sha256": "18A72E37E633BFA319996F3100260C0BB918E53B1F04616ACE6381DE3E16FF21"
+  },
+  {
+    "path": "Runtime\\Companions\\CompanionAbilityCatalog.cs",
+    "sha256": "D342AF7465752AF85A932D3C23C7D6F26A683E92C97B08B3B606F1F502DFC8B7"
+  },
+  {
+    "path": "Runtime\\Companions\\CompanionAbilityController.cs",
+    "sha256": "ADF2AA0C90F312EF443DD044D1EF8F0866401C7D7FDD2F01B43136A2A3A4F72A"
+  },
+  {
+    "path": "Runtime\\Companions\\CompanionAbilityState.cs",
+    "sha256": "269FC969D2CB617B595B18C4A36AE4C82EEA279B809F9CED6BBB1177D9599F31"
+  },
+  {
+    "path": "Runtime\\Companions\\CompanionChipCatalog.cs",
+    "sha256": "D50ED2CDAEED6A1F18557DA161C6BDE0CABBAD7686D335764C3693F31AC5172B"
+  },
+  {
+    "path": "Runtime\\Core\\PlayerRules.cs",
+    "sha256": "A5E391798D5CD08809D7464E2506BD70D59778B7BA821FFF19B881F0083042D8"
+  },
+  {
+    "path": "Runtime\\Enemy\\EnemyController.cs",
+    "sha256": "7A2887A419F8C5E2678706678C4A177467C4112EC5D2D64A483F1D61D7AB8727"
+  },
+  {
+    "path": "Runtime\\Enemy\\EnemyController.FactionAwareness.cs",
+    "sha256": "F2920AD27E6D7368461BC315794A93690441ACF16FC91C4DBE8A6955CC590C50"
+  },
+  {
+    "path": "Runtime\\Enemy\\EnemyController.MachineMotion.cs",
+    "sha256": "B5EEDDD6D97DCDA0C35AE5BB429C8BFEE8813000D6B7DC0974BAA7402D81D47C"
+  },
+  {
+    "path": "Runtime\\Enemy\\EnemyController.MachineRoles.cs",
+    "sha256": "0A2AED7298D2058C5C9683C93F768ACC44448D90E36F3708DCB6A44C9D92A1EA"
+  },
+  {
+    "path": "Runtime\\Enemy\\EnemyTestWorld.cs",
+    "sha256": "FCF27491AB65D2170012B2F6A974D4C8A11DE4B6249492121CD36828768AA959"
+  },
+  {
+    "path": "Runtime\\Enemy\\MachineAttackProjectile.cs",
+    "sha256": "593D0B30CE3082AB7100C6B5B4F6A150E9DC0FB4D97FBECD996FD2EC523FFC5B"
+  },
+  {
+    "path": "Runtime\\Enemy\\PlayerNoiseEmitter.cs",
+    "sha256": "F6747420F743E76BFFF3E3AD6CFDB0E1782862AEB50DDCF3252448CC28D7C6CA"
+  },
+  {
+    "path": "Runtime\\Enemy\\StageAEnemyVisual.cs",
+    "sha256": "C05568D14B037D2CEEF6669D9E227982FD0FB6DEE663F8AC934FCC23C7A848D8"
+  },
+  {
+    "path": "Runtime\\Enemy\\StageAMachineRole.cs",
+    "sha256": "7B08C770CE78388A67C3D21462E7EBA7ED6A35C706AF9C31265E9A1AECF7E320"
+  },
+  {
+    "path": "Runtime\\Enemy\\StageAMachineWeaponVisual.cs",
+    "sha256": "6F6E6A4CE719BD06E2559E6E1BB31E51F3F8CF949D14DADDF689E9B31A30BCC1"
+  },
+  {
+    "path": "Runtime\\Enemy\\StageANamedCatalog.cs",
+    "sha256": "F38DFA08EAB93CD76A7A9D13107669A621267267B6EEE69F60ADC4DCAA396397"
+  },
+  {
+    "path": "Runtime\\Enemy\\Core\\EnemyBrain.cs",
+    "sha256": "BD3FEB5B9C45657A137F453E522AA4D32072BF450088B7AA21A559224C6529DE"
+  },
+  {
+    "path": "Runtime\\Enemy\\Core\\EnemyFaction.cs",
+    "sha256": "10BD370E0F7F37FA7A77FF0C48A4E2D63B0557243289B96B77C793642B52E693"
+  },
+  {
+    "path": "Runtime\\Enemy\\Core\\EnemyTargetPerception.cs",
+    "sha256": "1F13B0CF013D119D0E0E284E04953DD0A8B2D5EBEA157D6ADE426310F0488510"
+  },
+  {
+    "path": "Runtime\\Enemy\\Core\\EnemyWeaponState.cs",
+    "sha256": "9E934AF5CB4FFB20F97C3B3A98471DF70E0361E0067796DE9F17A9A3A7DE8596"
+  },
+  {
+    "path": "Runtime\\Equipment\\ArmorCatalog.cs",
+    "sha256": "582C99FCF5E17C1D2CBA121E18B1A219FC445D503278BFF5E7DDC946123EC8B2"
+  },
+  {
+    "path": "Runtime\\Equipment\\Core\\ArmorState.cs",
+    "sha256": "143F28748C2B0C444F66538BA09DB649ED603DA21569CFEA58154F8F0BAB3CAC"
+  },
+  {
+    "path": "Runtime\\Equipment\\Core\\RepairCalculator.cs",
+    "sha256": "7194E415E7F6FE03A54E9E2C9E4AA54EF34BE141F90914C21BFFC75722A907E9"
+  },
+  {
+    "path": "Runtime\\Inventory\\CompanionChipOverlay.cs",
+    "sha256": "40BAF75D50FDCBA8A185BC975DF73405EF5066CB92832BE7CFEA6855DC28C045"
+  },
+  {
+    "path": "Runtime\\Inventory\\GameDefinitions.cs",
+    "sha256": "D288EA38D3EC4EA8B9B3E252046DB19B6B079323083CBE05558F36ED580C16BE"
+  },
+  {
+    "path": "Runtime\\Inventory\\InventoryCompanionChips.cs",
+    "sha256": "144C6569CF640C92D1C6BEEC1D6805C7D96435AE55C9CA7BCD49CFBB4AA179D9"
+  },
+  {
+    "path": "Runtime\\Inventory\\InventoryController.cs",
+    "sha256": "9B83D5817B6C4ABE85174006605AA6F208679E501C1BFC221920854A7AA5C575"
+  },
+  {
+    "path": "Runtime\\Inventory\\InventoryGlassView.cs",
+    "sha256": "0E250397DE3C05C76072DF4971D88B9BACB26FF9615EE2F432690D8EE039D17D"
+  },
+  {
+    "path": "Runtime\\Inventory\\InventoryGridPresentation.cs",
+    "sha256": "E447AC2061C04BB4EDF1C557E7498F425535DFDF23460758C17BB8C8AA627766"
+  },
+  {
+    "path": "Runtime\\Inventory\\InventoryGroundPresentation.cs",
+    "sha256": "5C314B53545912FCA65D7C1B8801878BB03B66D555700AD5D1E72305AC6126C4"
+  },
+  {
+    "path": "Runtime\\Inventory\\InventoryInjuryView.cs",
+    "sha256": "E30A62A654E382F3B30B3D8ECED2A48ADB30CFF8B219ACA0700850E847472E38"
+  },
+  {
+    "path": "Runtime\\Inventory\\InventoryMedicalDetails.cs",
+    "sha256": "5136133354392A49437F9F7396A0197F9FC77ACA1EB69BED7DC8A985101A2AB3"
+  },
+  {
+    "path": "Runtime\\Inventory\\InventoryTestWorld.cs",
+    "sha256": "E690CED4AA80D9C0FD4254870F3D1FA5A781960D567BC1F5C8159465E0F90459"
+  },
+  {
+    "path": "Runtime\\Inventory\\InventoryWeaponDetails.cs",
+    "sha256": "86CC80AAEBC111E954F5D137712322C4868889C5A997E7D49CA6CB5610F59055"
+  },
+  {
+    "path": "Runtime\\Inventory\\ItemCatalog.cs",
+    "sha256": "544ACF4E8C949E9654F9EB82705D3415BA0A8554D9348832B78E57521E620271"
+  },
+  {
+    "path": "Runtime\\Inventory\\PrototypeItems.cs",
+    "sha256": "884A9F2CA77DED8FCA53D3DF00B87467DC5E8BDBB7C309E86FAD9B69CBA76D12"
+  },
+  {
+    "path": "Runtime\\Inventory\\Core\\InventoryEquipment.cs",
+    "sha256": "129536ACDA5E0AB44052B41BA496E9F6EF0670137A7A65DE693A7287DF3E2EDE"
+  },
+  {
+    "path": "Runtime\\Inventory\\Core\\InventoryExternalEquipment.cs",
+    "sha256": "F6AF3325751E9D6B744B25F0307503286C6DCB98D1239CF27D8923F174F86E46"
+  },
+  {
+    "path": "Runtime\\Inventory\\Core\\InventoryGrid.cs",
+    "sha256": "8987DDAAE2A8CBC731CD6CBB7A69CFEB801D3A936B8D0E8CF7E88C9606ECC465"
+  },
+  {
+    "path": "Runtime\\Inventory\\Core\\InventoryGroundTransfer.cs",
+    "sha256": "50C224CE2FCF9EC2096005659C69A9458ACFBB2D85B3745A6A3BB683002DB077"
+  },
+  {
+    "path": "Runtime\\Inventory\\Core\\InventorySnapshot.cs",
+    "sha256": "2BF410896A67A257F8E5422F4DB865E0138F59E8A7E2AF600B4D14A69E3A9BAF"
+  },
+  {
+    "path": "Runtime\\Inventory\\Core\\InventoryState.cs",
+    "sha256": "B3597C7E03E2E01EFEC5A733F6FC242D0D790D4CCE6F40894EC917AE03A8CA6A"
+  },
+  {
+    "path": "Runtime\\Inventory\\Core\\ItemDefinition.cs",
+    "sha256": "961C9016249D7D909764CFE6A0EBD14870F7B24F5B95E7E2AAD2417F6376FE9C"
+  },
+  {
+    "path": "Runtime\\Inventory\\Core\\ItemResourceState.cs",
+    "sha256": "D1370AA49DD1C5508BA41C091C749A6481FF83A42346BE9C81D87192332022D9"
+  },
+  {
+    "path": "Runtime\\Inventory\\Core\\ItemUseState.cs",
+    "sha256": "828A3E4CADE61A465A1EB21F186CCFA220D376D282A2A32B7BE60D136CCABC2F"
+  },
+  {
+    "path": "Runtime\\Inventory\\Core\\ItemValueTier.cs",
+    "sha256": "8C8D75A7152AD0DB7AB99AE98F99C9816B10E304E73B92CBB44B69DE3D9FF05B"
+  },
+  {
+    "path": "Runtime\\Loot\\GroundLootDrop.cs",
+    "sha256": "6392B28C84CD75191C08DEACD3AC90C93D3D935062C0BCF3BF4B4DF5EB01FB57"
+  },
+  {
+    "path": "Runtime\\Loot\\LootCatalog.cs",
+    "sha256": "33B47703DECA9DD01FF1F5E4D275ED09F8A713D1054A09D690257A8EB83889DF"
+  },
+  {
+    "path": "Runtime\\Loot\\LootContainer.cs",
+    "sha256": "61C4C1030BC25B1B90DF8EC07F86C125AD5E99CCB1EB46EBC1C09D28EABA37DB"
+  },
+  {
+    "path": "Runtime\\Loot\\LootContainerVisuals.cs",
+    "sha256": "AE8D7E89DD80110E60364FCF821ECD58528E945DDA3CD6DF3B9B6B5DE2547958"
+  },
+  {
+    "path": "Runtime\\Loot\\LootInteractor.cs",
+    "sha256": "0A2A268BC45098D87E698B1FC0E1A996E5D9FB7E25B3CCAF32D26FE46CF6D89D"
+  },
+  {
+    "path": "Runtime\\Loot\\LootItemVisuals.cs",
+    "sha256": "F7306970ACD007998F668E656A462507FCC504694C3139AA9C9720B2468934A5"
+  },
+  {
+    "path": "Runtime\\Loot\\LootPromptSelection.cs",
+    "sha256": "16BB614E64040D5E20F97C56AFF10460509A08F894AD9771270BBFE644AC2D04"
+  },
+  {
+    "path": "Runtime\\Loot\\LootTestWorld.cs",
+    "sha256": "29648BFAC951545CE42430A10C3FDD8A7A1DB35D910E589FF29589C9005CFF11"
+  },
+  {
+    "path": "Runtime\\Loot\\Core\\LootEquipment.cs",
+    "sha256": "18D5341734BA9D167B7E41A787149E74889F92B0B989CC21CB6C87DCC492A5ED"
+  },
+  {
+    "path": "Runtime\\Loot\\Core\\LootGroundTransfer.cs",
+    "sha256": "01961ECC9146CA78C7668CD6BC3297BA3D54F7A0035A4F80CE5A9C1E0DDF4F52"
+  },
+  {
+    "path": "Runtime\\Loot\\Core\\LootRegionSwap.cs",
+    "sha256": "9774D3219E2131A828CFFDF8B261B28CCC8F2694166DDE39E0B9F04315B76CA9"
+  },
+  {
+    "path": "Runtime\\Loot\\Core\\LootState.cs",
+    "sha256": "4318E4F308C93AD5E19F61DA8CDB4165AF447C074D44794147B7451CCF1A8989"
+  },
+  {
+    "path": "Runtime\\Mapping\\TacticalMapController.cs",
+    "sha256": "25E15990981FB496B86F024C24BAEA7ED44AAD41346F4FBF981E20B8ABFA7CFA"
+  },
+  {
+    "path": "Runtime\\Mapping\\TacticalMapData.cs",
+    "sha256": "87F5044482D147378D65CCF3322BD96BC0EA8A14ED202429210E79A18FE66BCE"
+  },
+  {
+    "path": "Runtime\\Mapping\\TacticalMapView.cs",
+    "sha256": "C381B46C4BBB71F33A43C9C34B8D2F87616A7BAA84CA9CD2816DCC6971A61221"
+  },
+  {
+    "path": "Runtime\\Save\\BasecampTransactions.cs",
+    "sha256": "9F9B17A9F045C4124A61CB613C19846B6B66137094FBBCCA4DFEBE93E54E722E"
+  },
+  {
+    "path": "Runtime\\Save\\InventoryTransactions.cs",
+    "sha256": "7ED144C916821AA70A4432AC4A9C1957D6336F82268F530FAA51056484E19221"
+  },
+  {
+    "path": "Runtime\\Save\\LocalProfileStore.cs",
+    "sha256": "482D49217E38399833D0A984BB73FA5216E6277A07955A4426488AAD79606DEF"
+  },
+  {
+    "path": "Runtime\\Save\\ProfileCompanions.cs",
+    "sha256": "3E5E40F23B076BEF6F8BBCD5A4EA9F726720A9E215BFDC5B4A7CF5F6EAB3EBDD"
+  },
+  {
+    "path": "Runtime\\Save\\ProfileMigration.cs",
+    "sha256": "DEFDB1CC330BA773DC2BC6FC7E309E44D4559FA73E2453D99FC5A7D0CD2A85B2"
+  },
+  {
+    "path": "Runtime\\Save\\ProfileResearch.cs",
+    "sha256": "15EA3B67501393D7FC77CB405460EA8EA87F78C42C834C98182EA34D8FCC25CD"
+  },
+  {
+    "path": "Runtime\\Save\\ProfileSession.cs",
+    "sha256": "910BB473ECBE029495E8E1FDE987BE2D8565728B557B60BAF9F508B41E7C0454"
+  },
+  {
+    "path": "Runtime\\Save\\ProfileStory.cs",
+    "sha256": "31BFF16DCFC333DB52F526B812326C4DD524011B3F549B8CF62067D2FDF7C1F5"
+  },
+  {
+    "path": "Runtime\\Save\\QuestTransactions.cs",
+    "sha256": "8276D6CC7857B0179DABAA0CD06782A7DC2FA7F22DCE41BAF080271E69E4D35C"
+  },
+  {
+    "path": "Runtime\\Save\\Core\\ProfileData.cs",
+    "sha256": "A294122892D0270EC33042BE62B9095AF746E291BA5363ADAB88DC4E05592512"
+  },
+  {
+    "path": "Runtime\\Stage\\SessionBaseCamp.cs",
+    "sha256": "94602A42C7E8BD0529CDE0A7DAAABE1FB6175D3BDA39724C4DF0307C5F1BCAD0"
+  },
+  {
+    "path": "Runtime\\Stage\\SessionCompanionChips.cs",
+    "sha256": "CF60473685EBB2E47D6C5601E42B7F67BCCBC4DE32D425A019945D7F5E73090C"
+  },
+  {
+    "path": "Runtime\\Stage\\SessionGlassView.cs",
+    "sha256": "66667B9C0660C6CEBE51DBA63D1D66040A10B49C7A9E8E5D0D00A60F91E4527B"
+  },
+  {
+    "path": "Runtime\\Stage\\SessionGrowthView.cs",
+    "sha256": "F859690371D50068F9FB4667F05FB34F5373309D9DBDC49C340E25BC595F9861"
+  },
+  {
+    "path": "Runtime\\Stage\\SessionInventoryPresentation.cs",
+    "sha256": "646C4FB773888F2F9CC1B2845BD50C3BDE622611443569FCE598CEB8B9FD93EB"
+  },
+  {
+    "path": "Runtime\\Stage\\SessionQuestView.cs",
+    "sha256": "A47458B4CDA2E68583CF733F8948E3E621EE9EF9C752AE932E1E953085064861"
+  },
+  {
+    "path": "Runtime\\Stage\\SessionStory.cs",
+    "sha256": "FC4F029CFE5A86A31F60D097FC470901BB64748F2A2807BEF519DB3EDDD878C7"
+  },
+  {
+    "path": "Runtime\\Stage\\SessionTestWorld.cs",
+    "sha256": "BA811E460B157BE798423AE9FB5AE61ACD419F9BD6FB9FE61BB75244C6455DEB"
+  },
+  {
+    "path": "Runtime\\Stage\\SmallBaseCampView.cs",
+    "sha256": "3F3E82A44F7D74C9FD1A1BBF049876E355547E4533B82765EA03A9FC6FFD108D"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\BlockoutSurface.cs",
+    "sha256": "F0E08FB3A24FD67655D58DFF648506E43BCBBB199079B92B23F001BD9D9271AC"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageABlockoutMap.cs",
+    "sha256": "632250104DEA17530C55686798765CC8A5FA9DB346AACC78196E639B295AF1D5"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageABlockoutSemanticAnchor.cs",
+    "sha256": "62FB4158C153992A424C9AA1FEE49F3880663A76F437E1D1E035CE4B4D24DA0A"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageABlockoutStructureV08.cs",
+    "sha256": "AC4FB3A40281B536079B284498C5CDC17B392EEE34C4680089E6DC7C2C3C7CBB"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageABlockoutVisualOverlapFixV081.cs",
+    "sha256": "1D64784679C36ABAEA8E1BE9DE2F364CDEF8C99F5B14921FD9F6EFE29D3A33CC"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageABuildingD09Footprint.cs",
+    "sha256": "CF5F8601B84C391EF5425DC57F50EFDA6072DD22CCA54A1C82B3551CA35B9A56"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageABuildingV33Reveal.cs",
+    "sha256": "FA1E2CFDB26AEA135A179F01D97291D8DF51890D74AFF3DF0EAE63D6C96272A9"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageADistrictSlotV11.cs",
+    "sha256": "78FAA66CA2F40251143A77049690311B9267E62AE29C97458D938EAA96EB73D9"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageADistrictV11.cs",
+    "sha256": "FDD4B39835D2C13DC7C9097ABEF42F70A15950539DA18BFB3D1324AE63CAF42D"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageAEnclosuresV33Building.cs",
+    "sha256": "0BBBB91253FED6601CEECD273978FFA66A61A82E4F0C5C6B59326E98B5D810CA"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageAEnclosuresV33GroundProfile.cs",
+    "sha256": "B405397452676C353D1ED25EB7B721903B009ABDA2F0554AF81093ED3430B8B6"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageAEncounterLayout.cs",
+    "sha256": "271989FDF72B58CEFF2A8E251D721D2C58E77681A12A9ED454EAA131E0B1C532"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageAEncounterSpawner.cs",
+    "sha256": "5FB50E89285D7BB4A9BBB6D36902F182F4FB9CA46D6A44D8D50864924A8A14BC"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageAEnvironmentSlotV09.cs",
+    "sha256": "A48D63C328EA537FD480D21921AF305A3D6E3F2D398A4F1926A9AA3E02FF436E"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageAEnvironmentV09.cs",
+    "sha256": "290982435B5FBE0DF16607B253A64436678C802E24E3FD4387E9463849BF14C9"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageAGraphicsV31Environment.cs",
+    "sha256": "26A0A1EB95A9C4260ACAC1507F0FDA3F07EF318185C4DC8F1796D9F88D6C9A4A"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageAHallV13LayerVisibility.cs",
+    "sha256": "9A5946D69601F9F808196E8524FF862DDC73926B2B3EA62D174320E91ACC878F"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageAHallV24OccludedPlayerSilhouette.cs",
+    "sha256": "D97AB10C9A2B5B4B1788A55D4ECA6A30AE68F7245CA60151349523F426791E76"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageAHumanDensityCaptureOverlay.cs",
+    "sha256": "A83F1F01342637342346C440D0BBEDB9781937AFF9A2FF5E791B03A99AA5D4BC"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageALandformV09.cs",
+    "sha256": "AB3ABF77E305E2864494AB64C1BF71504F0C483007F5CF4BA05CA280641D8E4B"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageALongRouteV17.cs",
+    "sha256": "6301A5630DFD5250ECE48192BF964FE91CE2228F53905F6E9CEB2760BB819EDB"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageALookV16Atmosphere.cs",
+    "sha256": "B8C592B609F36A310F2C7F3F1A1FEE10D4B0E03CF2F5F49D90BDD474FBBE65F3"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageALookV17RoofVisibility.cs",
+    "sha256": "7D43380DCA64E208673DACCFB1899A4030E5BE11B1FA8A42F8643256668D072F"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageALootSpawner.cs",
+    "sha256": "976A6E25DBE3D4FF398BC5224A1DEA8587B23D184F4FD0BE58FC5E23C0192AA6"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageARainV37.cs",
+    "sha256": "E584EE12D61F88BB44C9944327C0D565AFC1BEB69D9FC5BB392E911464EFEF31"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageATerrainFoundationV08.cs",
+    "sha256": "3CA63B5D3DE01339C63943EA2B99A6BF99FC814DE4962BA82680CFB3EDC6D2DB"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageAWaterV37.cs",
+    "sha256": "8BFE386586283CA6CE97B2E4181ECA303747A237498CCE7CCBEB9D18E6689B10"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageAWestD02OccludedPlayerSilhouette.cs",
+    "sha256": "AC12C6C5C423000E5236F6A0B2E3A01E40374109E23D90C8609DFD91BDB1776D"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageMapRouter.cs",
+    "sha256": "BFA99CCFC3FC1555796A825D07A2B7580DE81276D67311F8DEF0230D1C0AE72B"
+  },
+  {
+    "path": "Runtime\\Stage\\Blockout\\StageScenePreview.cs",
+    "sha256": "554A882AF9037A3AEEFC9910E2F056C2B34FC63254BC177ACEACFA2AF1765B87"
+  },
+  {
+    "path": "Runtime\\Stage\\Core\\ExtractionState.cs",
+    "sha256": "7D3D3964C0E500BA21E2B1DF241A5839C1409E6F3590F564211CC401C166E260"
+  },
+  {
+    "path": "Runtime\\Stage\\Core\\InfectionState.cs",
+    "sha256": "193A7E0C33728FC2696509F29CAE045DBBEA46E0D164B34E6EC322E863419C60"
+  },
+  {
+    "path": "Runtime\\Story\\CutsceneCatalog.cs",
+    "sha256": "7611DE8334A6F573C9C83192E3839DDB2CCD040ECFFE9A3DD369086D6E26128D"
+  },
+  {
+    "path": "Runtime\\Story\\CutsceneDefinition.cs",
+    "sha256": "F71C8CE209D7A04938C0AB71D922B298D843A59D71D820032C2F28D698593C87"
+  },
+  {
+    "path": "Runtime\\Story\\CutsceneDirector.cs",
+    "sha256": "2C897103CAD862FB4C5EFA125AC199684FDB614FDB8265725F2C3C6D360DEB0B"
+  },
+  {
+    "path": "Runtime\\Story\\CutsceneStage.cs",
+    "sha256": "2881EBE2381B8218CF8CE1CE16C9AD072FEF6693D5377EA364D1A7E43E2C1B2B"
+  },
+  {
+    "path": "Runtime\\UI\\FrontEndController.cs",
+    "sha256": "3D87F3F1A0A19B734A0B6ECA3AEFFAA40A2EE905326ECA6ACD28E6024AB90E9D"
+  },
+  {
+    "path": "Runtime\\UI\\GlassIcons.cs",
+    "sha256": "DD47860E9E34F815875761DA7F795A73C4A679FD4A4E009C7FD768F277D36563"
+  },
+  {
+    "path": "Runtime\\UI\\InjuryScreenEffect.cs",
+    "sha256": "D678A97BEE2C696F06212226D56B8C6C305BC291CDE4B1ADCE29FCD1263C00CF"
+  },
+  {
+    "path": "Runtime\\UI\\InventoryPortrait.cs",
+    "sha256": "09C73CD3EAD5562DBD89E194C7D42E4FD72A946AC7FDE48FDE4B7798CEEA724C"
+  },
+  {
+    "path": "Runtime\\UI\\ItemTierPresentation.cs",
+    "sha256": "88B6975E20F80BE97A6B28D1839CA8E1395002F190A7958B0972F949F94C1735"
+  },
+  {
+    "path": "Runtime\\UI\\MedicalIcons.cs",
+    "sha256": "F2CE3CE0A101075D99940688D3BF26657DC8F5042A968BE0868DDD0C7918DAC4"
+  },
+  {
+    "path": "Runtime\\UI\\UiTheme.cs",
+    "sha256": "080AAB1D215A18542204923371FDBC04DBD80E125B4C19D639603EAF1D91E1DE"
+  },
+  {
+    "path": "Runtime\\Vision\\PlayerVisionController.cs",
+    "sha256": "C21D6583865260CB375C03F8FA2BD479CFE257A080A6C8CB243C49098840F85F"
+  },
+  {
+    "path": "Runtime\\Visuals\\RainCourtyardAtmosphere.cs",
+    "sha256": "F7425563777B596870B0CD9C30CCFA6F66DECAAC5EA604FF5D70EA5732111D15"
+  },
+  {
+    "path": "Runtime\\Visuals\\StageAArtPass.cs",
+    "sha256": "45587A89A0CF149620A4748B1062E65058847D70D395125AF9BB4668514B4A2E"
+  },
+  {
+    "path": "Runtime\\Visuals\\SubcultureD15Profile.cs",
+    "sha256": "B44205B8AB5DAC427C6CB9BA909F4B62590FDA99C3ADDB9DB4BE142735D15555"
+  },
+  {
+    "path": "Runtime\\Visuals\\ToonCharacterStyle.cs",
+    "sha256": "0C1F86280D1DC595D18481ED7581020C1E9F9928B270713D9070B4A1B9DE1EF6"
+  },
+  {
+    "path": "Runtime\\Visuals\\ToonOutlineCamera.cs",
+    "sha256": "F46FE3AA3FAC3FA6463E42B0B64EA0733453FF689FD273CAC9C1B7447859D30B"
+  },
+  {
+    "path": "Runtime\\Visuals\\ToonOutlineFeature.cs",
+    "sha256": "413E735EAF936B386BC599AD3BC1B020C6C5ED4BCE9C450F8742C77A2F8C5321"
+  },
+  {
+    "path": "Runtime\\Weapon\\AmmoCatalog.cs",
+    "sha256": "BA0C086BFAE418510B21D6B986439612EEBA5157EE40673987BB957CCC2B232A"
+  },
+  {
+    "path": "Runtime\\Weapon\\MeleeService.cs",
+    "sha256": "C326FB77BC622E521E703C79EEB0ADB46A169926EA40701E1D0ADE937EE07C9C"
+  },
+  {
+    "path": "Runtime\\Weapon\\RifleController.cs",
+    "sha256": "972860056D227D2C9FB2F66CD9D993AFF9B70B5F83862D6121FE7B99512F05EC"
+  },
+  {
+    "path": "Runtime\\Weapon\\RifleSettings.cs",
+    "sha256": "7FDF207A45CCD412D953C40DF6BDA25CE059E03053381871E13148266253883E"
+  },
+  {
+    "path": "Runtime\\Weapon\\WeaponCatalog.cs",
+    "sha256": "8FECF252D905307DD302A7272EF0639B2D1957DD03E80A9B269F371EB69330FF"
+  },
+  {
+    "path": "Runtime\\Weapon\\WeaponTestWorld.cs",
+    "sha256": "D20530D99984789A40FAC4A51B99B7FFEA0D9C830831FB25EBB9225C262D348D"
+  },
+  {
+    "path": "Runtime\\Weapon\\Core\\AmmoRules.cs",
+    "sha256": "510CDE19BEF4343DDE5499A1FDB4D9C70EEDB427E366598CF0F9473218FC97BA"
+  },
+  {
+    "path": "Runtime\\Weapon\\Core\\RifleState.cs",
+    "sha256": "EE340268B3D791B2EC293AEDD5DEF594960FBB4B7FF49B763EEE681EAD902326"
+  },
+  {
+    "path": "Runtime\\Weapon\\Core\\WeaponAffixes.cs",
+    "sha256": "FF345DC960CA0258A908A2F13A768D63A3E15D2EF6D4BF3FC90DC90D12C876C2"
+  },
+  {
+    "path": "Resources\\AmmoCatalog.json",
+    "sha256": "8AEAD8581292F4F71A026AE0288F2752AC631A5CC15F07C3B768BB806A4243D0"
+  },
+  {
+    "path": "Resources\\ArmorCatalog.json",
+    "sha256": "FF6086111251EA2E0BA0FB6210F51A8B48DAE15705DEE29F716D6F59F66DAC6C"
+  },
+  {
+    "path": "Resources\\EnemyWeaponReserves.json",
+    "sha256": "3A47EC4E2F13358D8803B669D3C4DB5F48ADDA4F68314C454B94614CC630DDAC"
+  },
+  {
+    "path": "Resources\\ItemCatalog.json",
+    "sha256": "8A9D86424259C014D0C6A77B0D69602383B6FDF000EAC6AC6813EDC42F962984"
+  },
+  {
+    "path": "Resources\\ItemUseCatalog.json",
+    "sha256": "DE6A58CD9BAE95B8A8C24535E7A01D2A3A53E680BBE2F41743048602894CAB8B"
+  },
+  {
+    "path": "Resources\\PrototypeItems.json",
+    "sha256": "5972F4DE46ABEF26999DF64CC9E6C32A5204CCA39FEB1009762B58090889F364"
+  },
+  {
+    "path": "Resources\\ShopCatalog.json",
+    "sha256": "6562D8D442360574777D6D780BC21C50098616B63146A2FFEB309F0E73755584"
+  },
+  {
+    "path": "Resources\\StageALootPlacements.json",
+    "sha256": "3C6AFD4466CF4EC857B673C18A4829013AAB624840BDBBB60D5236C8B20F273B"
+  },
+  {
+    "path": "Resources\\WeaponCatalog.json",
+    "sha256": "58C052B1DBCF5AFAA1EC40105521EE1A8E90C1A0DEA6FCAA5F86D99C58617884"
+  },
+  {
+    "path": "Editor/ArsenalChecks.cs",
+    "sha256": "16883C2B79B9E4BBE73464EBAD70780A12495E375105BDE94C0471521289BB28"
+  },
+  {
+    "path": "Editor/BasecampChecks.cs",
+    "sha256": "4D18DC1500BC57997678A8B8C3C523B24458EEF89AC09B6F57EAEB89AC55FEEC"
+  },
+  {
+    "path": "Editor/EnemyChecks.cs",
+    "sha256": "80C47D752FEDFDB0E3171AC42EF3A8F0FF4CAF80E82D39250A400364C0199037"
+  },
+  {
+    "path": "Editor/EquipmentChecks.cs",
+    "sha256": "993F62021A873D5BCA2252B535ECEECDC3755BBBCDE99252D06BEF6283A3C87F"
+  },
+  {
+    "path": "Editor/InventoryChecks.cs",
+    "sha256": "9782DAFE0CF241E200E0663D8D48582935E2F46B1C4814161EFDDB67C6D62519"
+  },
+  {
+    "path": "Editor/InventoryRegionSwapChecks.cs",
+    "sha256": "6043F97A08D64E813FC632B814D465E4EFF292145FB9834A6C5AF45A0E6A2430"
+  },
+  {
+    "path": "Editor/LootEconomyChecks.cs",
+    "sha256": "C00DFBA45E8F69FAF5DCB0E875B55B96B81F4E03C8B6D726C1718A97219CBC93"
+  },
+  {
+    "path": "Editor/LootEquipmentChecks.cs",
+    "sha256": "B0AC1E21BD84D7C9B1E750FBBC299BD21553729825B7A71CD21B1728C534B05C"
+  },
+  {
+    "path": "Editor/SerinGunChecks.cs",
+    "sha256": "0FB511B737B49CD76C0CB600AC04A94714DAF6A06807D987E3BD789A52D3DE28"
+  },
+  {
+    "path": "Editor/WeaponChecks.cs",
+    "sha256": "D7C89B515C248BF57E45CEEA27174C18EDDCD44895BDAB605FBEE5B4EA8D64A4"
+  }
+]

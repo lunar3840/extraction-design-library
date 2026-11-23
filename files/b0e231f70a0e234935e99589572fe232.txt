@@ -1,0 +1,16 @@
+STAGE_A_LOOK_V17_BASELINE
+generatedUtc=2026-09-22T15:05:15.0958876Z
+PASS map reference is live
+PASS v0.8 structure is present
+PASS v1.1 district inventory is present
+PASS no V17-owned roots exist before capture
+PASS all current colliders, including V16, inventoried: 4625
+PASS gameplay anchors inventoried: 46
+PASS remote district inventoried: 33 buildings, 864 renderers
+PASS V16 material references inventoried: 457 renderers
+PASS hall structure inventoried: 1259 transforms
+NOTE collider=4625:003376CCEA6A7694 anchor=46:EFE65898133CE0FA
+NOTE remote=33:B7A69F39766475BE v16=457:8A57D13CBD94A006
+NOTE hall=1259:65E10BE2E13F31E0 core=18:C0ECE487E9223325
+SUMMARY passed=9 failed=0
+RESULT BASELINE_CAPTURED

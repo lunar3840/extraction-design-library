@@ -1,0 +1,3 @@
+02_Visual_Replaceable[0]/CLINIC__Visual[0]/Generated[0]/Override_CLINIC[0]/FactoryFrame[0]/Interior_Role_CLINIC[0]/Interior_Utility_C[0]/CeilingLamp_A[0]/ClinicV32_Downlight[0]|Spot|enabled=True|intensity=8|color=RGBA(1.000, 0.940, 0.820, 1.000)|range=11|shadows=Soft
+02_Visual_Replaceable[0]/CLINIC__Visual[0]/Generated[0]/Override_CLINIC[0]/FactoryFrame[0]/Interior_Role_CLINIC[0]/Interior_Utility_C[0]/CeilingLamp_B[0]/ClinicV32_Downlight[0]|Spot|enabled=True|intensity=8|color=RGBA(1.000, 0.940, 0.820, 1.000)|range=11|shadows=Soft
+Edit overview light[0]|Directional|enabled=True|intensity=1.5|color=RGBA(0.990, 0.970, 0.930, 1.000)|range=10|shadows=Soft

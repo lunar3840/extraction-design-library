@@ -1,0 +1,590 @@
+[
+  {
+    "label": "paired",
+    "scope": "Current-only adopted candidate; same-input inclusive Step CPU; 3 reference/3 optimized; warm10 excluded; no FPS claim",
+    "reference": {
+      "n": 210,
+      "mean": 58.68247380952383,
+      "median": 59.9649,
+      "p95": 63.2468,
+      "max": 64.32990000000001
+    },
+    "optimized": {
+      "n": 210,
+      "mean": 56.881069999999994,
+      "median": 57.874100000000006,
+      "p95": 61.7759,
+      "max": 65.2565
+    },
+    "meanReductionPercent": 3.0697475627407447,
+    "referenceRefresh": {
+      "n": 210,
+      "mean": 12.88366476190476,
+      "median": 13.0043,
+      "p95": 13.6931,
+      "max": 14.8643
+    },
+    "optimizedRefresh": {
+      "n": 210,
+      "mean": 11.065756190476193,
+      "median": 11.0698,
+      "p95": 12.5483,
+      "max": 14.8504
+    },
+    "checks": [
+      {
+        "round": 0,
+        "reference": true,
+        "oracle": false,
+        "steps": 80,
+        "digestMismatches": 0,
+        "workCounterMismatches": 0,
+        "wall": {
+          "n": 80,
+          "mean": 59.269113749999995,
+          "median": 60.644000000000005,
+          "p95": 64.0347,
+          "max": 64.4821
+        },
+        "refresh": {
+          "n": 80,
+          "mean": 12.71219625,
+          "median": 12.9806,
+          "p95": 13.5108,
+          "max": 14.012
+        },
+        "bindChecks": 0.0,
+        "bindMismatchMax": 0.0,
+        "bindReads": 0.0,
+        "skinChecks": 0.0,
+        "skinMismatchMax": 0.0,
+        "bindMs": 1258.3728
+      },
+      {
+        "round": 1,
+        "reference": false,
+        "oracle": false,
+        "steps": 80,
+        "digestMismatches": 0,
+        "workCounterMismatches": 0,
+        "wall": {
+          "n": 80,
+          "mean": 57.071237499999995,
+          "median": 57.9007,
+          "p95": 62.129200000000004,
+          "max": 63.1353
+        },
+        "refresh": {
+          "n": 80,
+          "mean": 10.905958749999995,
+          "median": 11.0474,
+          "p95": 12.91,
+          "max": 14.165
+        },
+        "bindChecks": 0.0,
+        "bindMismatchMax": 0.0,
+        "bindReads": 2189025.0,
+        "skinChecks": 0.0,
+        "skinMismatchMax": 0.0,
+        "bindMs": 1052.7818
+      },
+      {
+        "round": 2,
+        "reference": false,
+        "oracle": false,
+        "steps": 80,
+        "digestMismatches": 0,
+        "workCounterMismatches": 0,
+        "wall": {
+          "n": 80,
+          "mean": 57.16991,
+          "median": 58.252700000000004,
+          "p95": 61.9378,
+          "max": 65.0793
+        },
+        "refresh": {
+          "n": 80,
+          "mean": 10.883048749999999,
+          "median": 11.0455,
+          "p95": 11.5354,
+          "max": 13.9121
+        },
+        "bindChecks": 0.0,
+        "bindMismatchMax": 0.0,
+        "bindReads": 2189025.0,
+        "skinChecks": 0.0,
+        "skinMismatchMax": 0.0,
+        "bindMs": 1054.8991
+      },
+      {
+        "round": 3,
+        "reference": true,
+        "oracle": false,
+        "steps": 80,
+        "digestMismatches": 0,
+        "workCounterMismatches": 0,
+        "wall": {
+          "n": 80,
+          "mean": 59.18224875000002,
+          "median": 60.3695,
+          "p95": 63.4191,
+          "max": 65.0539
+        },
+        "refresh": {
+          "n": 80,
+          "mean": 12.822619999999997,
+          "median": 13.0389,
+          "p95": 14.0409,
+          "max": 14.8643
+        },
+        "bindChecks": 0.0,
+        "bindMismatchMax": 0.0,
+        "bindReads": 0.0,
+        "skinChecks": 0.0,
+        "skinMismatchMax": 0.0,
+        "bindMs": 1216.1663
+      },
+      {
+        "round": 4,
+        "reference": true,
+        "oracle": false,
+        "steps": 80,
+        "digestMismatches": 0,
+        "workCounterMismatches": 0,
+        "wall": {
+          "n": 80,
+          "mean": 58.984644999999986,
+          "median": 60.1755,
+          "p95": 63.8286,
+          "max": 64.8944
+        },
+        "refresh": {
+          "n": 80,
+          "mean": 12.70751,
+          "median": 12.9678,
+          "p95": 13.6931,
+          "max": 14.3531
+        },
+        "bindChecks": 0.0,
+        "bindMismatchMax": 0.0,
+        "bindReads": 0.0,
+        "skinChecks": 0.0,
+        "skinMismatchMax": 0.0,
+        "bindMs": 1112.4138
+      },
+      {
+        "round": 5,
+        "reference": false,
+        "oracle": false,
+        "steps": 80,
+        "digestMismatches": 0,
+        "workCounterMismatches": 0,
+        "wall": {
+          "n": 80,
+          "mean": 57.72784750000002,
+          "median": 58.452400000000004,
+          "p95": 63.4189,
+          "max": 65.2565
+        },
+        "refresh": {
+          "n": 80,
+          "mean": 10.998070000000006,
+          "median": 11.1055,
+          "p95": 12.5483,
+          "max": 14.8504
+        },
+        "bindChecks": 0.0,
+        "bindMismatchMax": 0.0,
+        "bindReads": 2189025.0,
+        "skinChecks": 0.0,
+        "skinMismatchMax": 0.0,
+        "bindMs": 1046.8766
+      },
+      {
+        "round": 6,
+        "reference": false,
+        "oracle": true,
+        "steps": 80,
+        "digestMismatches": 0,
+        "workCounterMismatches": 0,
+        "wall": {
+          "n": 80,
+          "mean": 57.88878624999999,
+          "median": 59.200300000000006,
+          "p95": 62.602700000000006,
+          "max": 64.09660000000001
+        },
+        "refresh": {
+          "n": 80,
+          "mean": 11.493616249999999,
+          "median": 11.639,
+          "p95": 13.5033,
+          "max": 13.9373
+        },
+        "bindChecks": 2189025.0,
+        "bindMismatchMax": 0.0,
+        "bindReads": 2189025.0,
+        "skinChecks": 0.0,
+        "skinMismatchMax": 0.0,
+        "bindMs": 1208.037
+      }
+    ]
+  },
+  {
+    "label": "paired_serin",
+    "scope": "Earlier V1+V2 six-pose regression; final Hair V1 was reverted; not a performance benchmark",
+    "reference": {
+      "n": 6,
+      "mean": 153.79913333333334,
+      "median": 157.18210000000002,
+      "p95": 179.946,
+      "max": 179.946
+    },
+    "optimized": {
+      "n": 6,
+      "mean": 148.77321666666668,
+      "median": 149.6824,
+      "p95": 174.30280000000002,
+      "max": 174.30280000000002
+    },
+    "meanReductionPercent": 3.2678445955698883,
+    "referenceRefresh": {
+      "n": 6,
+      "mean": 13.5102,
+      "median": 15.96,
+      "p95": 16.4487,
+      "max": 16.4487
+    },
+    "optimizedRefresh": {
+      "n": 6,
+      "mean": 9.9182,
+      "median": 11.8105,
+      "p95": 11.915,
+      "max": 11.915
+    },
+    "checks": [
+      {
+        "round": 0,
+        "reference": true,
+        "oracle": false,
+        "steps": 6,
+        "digestMismatches": 0,
+        "workCounterMismatches": 0,
+        "wall": {
+          "n": 6,
+          "mean": 153.79913333333334,
+          "median": 157.18210000000002,
+          "p95": 179.946,
+          "max": 179.946
+        },
+        "refresh": {
+          "n": 6,
+          "mean": 13.5102,
+          "median": 15.96,
+          "p95": 16.4487,
+          "max": 16.4487
+        },
+        "bindChecks": 0.0,
+        "bindMismatchMax": 0.0,
+        "bindReads": 0.0,
+        "skinChecks": 0.0,
+        "skinMismatchMax": 0.0,
+        "bindMs": 1824.7158000000002
+      },
+      {
+        "round": 1,
+        "reference": false,
+        "oracle": false,
+        "steps": 6,
+        "digestMismatches": 0,
+        "workCounterMismatches": 0,
+        "wall": {
+          "n": 6,
+          "mean": 148.77321666666668,
+          "median": 149.6824,
+          "p95": 174.30280000000002,
+          "max": 174.30280000000002
+        },
+        "refresh": {
+          "n": 6,
+          "mean": 9.9182,
+          "median": 11.8105,
+          "p95": 11.915,
+          "max": 11.915
+        },
+        "bindChecks": 0.0,
+        "bindMismatchMax": 0.0,
+        "bindReads": 289700.0,
+        "skinChecks": 0.0,
+        "skinMismatchMax": 0.0,
+        "bindMs": 1825.575
+      },
+      {
+        "round": 2,
+        "reference": false,
+        "oracle": true,
+        "steps": 6,
+        "digestMismatches": 0,
+        "workCounterMismatches": 0,
+        "wall": {
+          "n": 6,
+          "mean": 150.3068166666667,
+          "median": 150.6056,
+          "p95": 179.0523,
+          "max": 179.0523
+        },
+        "refresh": {
+          "n": 6,
+          "mean": 10.980316666666667,
+          "median": 13.1026,
+          "p95": 13.3316,
+          "max": 13.3316
+        },
+        "bindChecks": 289700.0,
+        "bindMismatchMax": 0.0,
+        "bindReads": 289700.0,
+        "skinChecks": 0.0,
+        "skinMismatchMax": 0.0,
+        "bindMs": 1817.2319
+      }
+    ]
+  },
+  {
+    "label": "paired_liv",
+    "scope": "Current-only six-pose regression; not a performance benchmark",
+    "reference": {
+      "n": 6,
+      "mean": 30.790050000000004,
+      "median": 32.7824,
+      "p95": 36.723800000000004,
+      "max": 36.723800000000004
+    },
+    "optimized": {
+      "n": 6,
+      "mean": 27.004666666666665,
+      "median": 29.061400000000003,
+      "p95": 31.9947,
+      "max": 31.9947
+    },
+    "meanReductionPercent": 12.294177285627462,
+    "referenceRefresh": {
+      "n": 6,
+      "mean": 13.729333333333335,
+      "median": 16.3598,
+      "p95": 16.5465,
+      "max": 16.5465
+    },
+    "optimizedRefresh": {
+      "n": 6,
+      "mean": 10.327583333333333,
+      "median": 12.1609,
+      "p95": 12.8499,
+      "max": 12.8499
+    },
+    "checks": [
+      {
+        "round": 0,
+        "reference": true,
+        "oracle": false,
+        "steps": 6,
+        "digestMismatches": 0,
+        "workCounterMismatches": 0,
+        "wall": {
+          "n": 6,
+          "mean": 30.790050000000004,
+          "median": 32.7824,
+          "p95": 36.723800000000004,
+          "max": 36.723800000000004
+        },
+        "refresh": {
+          "n": 6,
+          "mean": 13.729333333333335,
+          "median": 16.3598,
+          "p95": 16.5465,
+          "max": 16.5465
+        },
+        "bindChecks": 0.0,
+        "bindMismatchMax": 0.0,
+        "bindReads": 0.0,
+        "skinChecks": 0.0,
+        "skinMismatchMax": 0.0,
+        "bindMs": 1350.0513
+      },
+      {
+        "round": 1,
+        "reference": false,
+        "oracle": false,
+        "steps": 6,
+        "digestMismatches": 0,
+        "workCounterMismatches": 0,
+        "wall": {
+          "n": 6,
+          "mean": 27.004666666666665,
+          "median": 29.061400000000003,
+          "p95": 31.9947,
+          "max": 31.9947
+        },
+        "refresh": {
+          "n": 6,
+          "mean": 10.327583333333333,
+          "median": 12.1609,
+          "p95": 12.8499,
+          "max": 12.8499
+        },
+        "bindChecks": 0.0,
+        "bindMismatchMax": 0.0,
+        "bindReads": 281470.0,
+        "skinChecks": 0.0,
+        "skinMismatchMax": 0.0,
+        "bindMs": 1321.8124
+      },
+      {
+        "round": 2,
+        "reference": false,
+        "oracle": true,
+        "steps": 6,
+        "digestMismatches": 0,
+        "workCounterMismatches": 0,
+        "wall": {
+          "n": 6,
+          "mean": 27.99371666666667,
+          "median": 29.413800000000002,
+          "p95": 33.8463,
+          "max": 33.8463
+        },
+        "refresh": {
+          "n": 6,
+          "mean": 11.320983333333333,
+          "median": 13.5177,
+          "p95": 13.6662,
+          "max": 13.6662
+        },
+        "bindChecks": 281470.0,
+        "bindMismatchMax": 0.0,
+        "bindReads": 281470.0,
+        "skinChecks": 0.0,
+        "skinMismatchMax": 0.0,
+        "bindMs": 1336.3055000000002
+      }
+    ]
+  },
+  {
+    "label": "paired_yui",
+    "scope": "Current-only six-pose regression; not a performance benchmark",
+    "reference": {
+      "n": 6,
+      "mean": 24.944983333333337,
+      "median": 27.4422,
+      "p95": 33.0722,
+      "max": 33.0722
+    },
+    "optimized": {
+      "n": 6,
+      "mean": 22.055633333333336,
+      "median": 24.018,
+      "p95": 30.909200000000002,
+      "max": 30.909200000000002
+    },
+    "meanReductionPercent": 11.582890080102947,
+    "referenceRefresh": {
+      "n": 6,
+      "mean": 13.072783333333334,
+      "median": 15.5392,
+      "p95": 15.8102,
+      "max": 15.8102
+    },
+    "optimizedRefresh": {
+      "n": 6,
+      "mean": 9.943,
+      "median": 11.8551,
+      "p95": 11.8865,
+      "max": 11.8865
+    },
+    "checks": [
+      {
+        "round": 0,
+        "reference": true,
+        "oracle": false,
+        "steps": 6,
+        "digestMismatches": 0,
+        "workCounterMismatches": 0,
+        "wall": {
+          "n": 6,
+          "mean": 24.944983333333337,
+          "median": 27.4422,
+          "p95": 33.0722,
+          "max": 33.0722
+        },
+        "refresh": {
+          "n": 6,
+          "mean": 13.072783333333334,
+          "median": 15.5392,
+          "p95": 15.8102,
+          "max": 15.8102
+        },
+        "bindChecks": 0.0,
+        "bindMismatchMax": 0.0,
+        "bindReads": 0.0,
+        "skinChecks": 0.0,
+        "skinMismatchMax": 0.0,
+        "bindMs": 1276.2630000000001
+      },
+      {
+        "round": 1,
+        "reference": false,
+        "oracle": false,
+        "steps": 6,
+        "digestMismatches": 0,
+        "workCounterMismatches": 0,
+        "wall": {
+          "n": 6,
+          "mean": 22.055633333333336,
+          "median": 24.018,
+          "p95": 30.909200000000002,
+          "max": 30.909200000000002
+        },
+        "refresh": {
+          "n": 6,
+          "mean": 9.943,
+          "median": 11.8551,
+          "p95": 11.8865,
+          "max": 11.8865
+        },
+        "bindChecks": 0.0,
+        "bindMismatchMax": 0.0,
+        "bindReads": 278865.0,
+        "skinChecks": 0.0,
+        "skinMismatchMax": 0.0,
+        "bindMs": 1249.9525
+      },
+      {
+        "round": 2,
+        "reference": false,
+        "oracle": true,
+        "steps": 6,
+        "digestMismatches": 0,
+        "workCounterMismatches": 0,
+        "wall": {
+          "n": 6,
+          "mean": 22.871783333333337,
+          "median": 24.936300000000003,
+          "p95": 30.8231,
+          "max": 30.8231
+        },
+        "refresh": {
+          "n": 6,
+          "mean": 11.026133333333334,
+          "median": 13.1743,
+          "p95": 13.5367,
+          "max": 13.5367
+        },
+        "bindChecks": 278865.0,
+        "bindMismatchMax": 0.0,
+        "bindReads": 278865.0,
+        "skinChecks": 0.0,
+        "skinMismatchMax": 0.0,
+        "bindMs": 1242.7172
+      }
+    ]
+  }
+]

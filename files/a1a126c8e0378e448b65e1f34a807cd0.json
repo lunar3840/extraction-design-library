@@ -1,0 +1,151 @@
+{
+  "pairCount": 13,
+  "allSameDimensions": true,
+  "allHaveChange": false,
+  "pairs": [
+    {
+      "id": "B4_R8",
+      "before": "before_B4_R8.png",
+      "after": "after_saved_B4_R8.png",
+      "size": [
+        1600,
+        1000
+      ],
+      "sameDimensions": true,
+      "changedPixelFraction": 0.030347
+    },
+    {
+      "id": "CLINIC",
+      "before": "before_CLINIC.png",
+      "after": "after_saved_CLINIC.png",
+      "size": [
+        1600,
+        1000
+      ],
+      "sameDimensions": true,
+      "changedPixelFraction": 0.047457
+    },
+    {
+      "id": "F01",
+      "before": "before_F01.png",
+      "after": "after_saved_F01.png",
+      "size": [
+        1600,
+        1000
+      ],
+      "sameDimensions": true,
+      "changedPixelFraction": 0.120813
+    },
+    {
+      "id": "HALL",
+      "before": "before_HALL.png",
+      "after": "after_saved_HALL.png",
+      "size": [
+        1600,
+        1000
+      ],
+      "sameDimensions": true,
+      "changedPixelFraction": 0.058116
+    },
+    {
+      "id": "N01",
+      "before": "before_N01.png",
+      "after": "after_saved_N01.png",
+      "size": [
+        1600,
+        1000
+      ],
+      "sameDimensions": true,
+      "changedPixelFraction": 0.0
+    },
+    {
+      "id": "overview",
+      "before": "before_overview.png",
+      "after": "after_saved_overview.png",
+      "size": [
+        1600,
+        1000
+      ],
+      "sameDimensions": true,
+      "changedPixelFraction": 0.039767
+    },
+    {
+      "id": "PARTS",
+      "before": "before_PARTS.png",
+      "after": "after_saved_PARTS.png",
+      "size": [
+        1600,
+        1000
+      ],
+      "sameDimensions": true,
+      "changedPixelFraction": 0.059286
+    },
+    {
+      "id": "POWER",
+      "before": "before_POWER.png",
+      "after": "after_saved_POWER.png",
+      "size": [
+        1600,
+        1000
+      ],
+      "sameDimensions": true,
+      "changedPixelFraction": 0.074391
+    },
+    {
+      "id": "S06",
+      "before": "before_S06.png",
+      "after": "after_saved_S06.png",
+      "size": [
+        1600,
+        1000
+      ],
+      "sameDimensions": true,
+      "changedPixelFraction": 0.170407
+    },
+    {
+      "id": "TOOLS",
+      "before": "before_TOOLS.png",
+      "after": "after_saved_TOOLS.png",
+      "size": [
+        1600,
+        1000
+      ],
+      "sameDimensions": true,
+      "changedPixelFraction": 0.166307
+    },
+    {
+      "id": "W05",
+      "before": "before_W05.png",
+      "after": "after_saved_W05.png",
+      "size": [
+        1600,
+        1000
+      ],
+      "sameDimensions": true,
+      "changedPixelFraction": 0.098406
+    },
+    {
+      "id": "water_south",
+      "before": "before_water_south.png",
+      "after": "after_saved_water_south.png",
+      "size": [
+        1600,
+        1000
+      ],
+      "sameDimensions": true,
+      "changedPixelFraction": 0.263202
+    },
+    {
+      "id": "Y01",
+      "before": "before_Y01.png",
+      "after": "after_saved_Y01.png",
+      "size": [
+        1600,
+        1000
+      ],
+      "sameDimensions": true,
+      "changedPixelFraction": 0.155902
+    }
+  ],
+  "note": "Pixel change is evidence of difference, not visual quality or Play visibility."
+}

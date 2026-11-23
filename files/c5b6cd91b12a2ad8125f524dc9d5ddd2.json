@@ -1,0 +1,105 @@
+{
+  "status": "PASS",
+  "independent_verdict_exact": "PASS_SCOPED_WITH_NOTES",
+  "candidate": "pass_17",
+  "scope": "Edel + AR_013_A actual saved GR Idle/Aim/Fire/Walk/Run/Reload native Blender preview. Pre-Unity only.",
+  "accepted_at_utc": "2026-11-20T06:56:40.981856+00:00",
+  "native_sha256": "61c3c29985a19116f0f7b1f4e08be58a2b7293ceccb6546ff345eaf95dd31519",
+  "generator_sha256": "a24cf04b60c655c85dc531635b167ccb84b916941afb0832056ed4532e395c53",
+  "independent_agent": "/root/weapon_collision_qa",
+  "independent_report_sha256": "be4adec82c3d14538030e1d34c0d63d32b0c1c7c977df6047ddf3583e8706150",
+  "independent_findings_sha256": "aa64c3a8b99808b5e67bf760651f66ab7d230c4bdcba2154c2a19caf88b3bdbf",
+  "independent_manifest_sha256": "462057a5f969bc2e09f5e225070d7c361ac1ed2255d67a774d14cae8575d30c4",
+  "independent_manifest_files_verified": 397,
+  "independent_coverage": {
+    "unique_actual_geometry_poses": 3598,
+    "original_half_frame_grid_included": 1194,
+    "reload_actual_geometry_poses": 2297,
+    "reload_full_range_spacing": 0.125,
+    "reload_between_saved_key_ranges": [
+      [
+        100,
+        109,
+        0.0625
+      ],
+      [
+        170,
+        176,
+        0.0625
+      ],
+      [
+        216,
+        218,
+        0.0625
+      ]
+    ],
+    "other_five_native_half_poses": 653,
+    "other_five_between_half_poses": 648,
+    "other_five_total": 1301,
+    "face_meshes": 12,
+    "actual_prop_meshes": 26,
+    "selected_prop_pairs": 129,
+    "drop_support_quarter_probe": 1081,
+    "motion_peak_1over32_poses": 161
+  },
+  "independent_visual_coverage": {
+    "generated_original_images": 331,
+    "viewed_original_images_via_boards": 331,
+    "viewed_boards": 30,
+    "original_material_scene_images": 319,
+    "isolated_neutral_diagnostic_images": 12,
+    "motion_peak_added_images": 24,
+    "image_frame_label_rule": "Exact times are JSON frame values; some risk filenames use rounded6-significant-digit display labels."
+  },
+  "blocking_failures": 0,
+  "nonblocking_notes": [
+    {
+      "id": "N17-01",
+      "classification": "NONBLOCKING_REFERENCE",
+      "title": "원래 부착부/관절 피부 접힘 및 가중치 경계 후보",
+      "scope": "두피/쇄골 접힘과 같은 손 내부 접촉 원문 보존. 새 외형 실패로 확정하지 않았으며 전체 피부 무교차로 인증하지 않음."
+    },
+    {
+      "id": "N17-02",
+      "classification": "INTENDED_ASSEMBLY_CONTACT_REFERENCE",
+      "title": "탄창 삽입/좌정 슬롯 접촉",
+      "sample_count": 70,
+      "first_frame": 209.25,
+      "last_frame": 216.9375,
+      "scope": "Spare–Lower만 해당. 실제 삽입 외형은 수용하며 내부magwell 구조 전체 인증으로 확대하지 않음. raw 접촉 유지."
+    },
+    {
+      "id": "N17-03",
+      "classification": "PRODUCER_HEURISTIC_REFERENCE",
+      "title": "nearest-normal 원시22.457mm",
+      "producer_raw_mm": 22.457,
+      "scope": "실제 침투 깊이로 사용하지 않음. 제작측 AABB/내부 판정과 본 실제표면/시각검사를 구분. 원본 raw값을 지우거나0으로 바꾸지 않음."
+    }
+  ],
+  "scope_limits": [
+    "유한한 저장 시점 표본과 명시된 다각도 자세의 검증. 모든 연속시각/픽셀의 수학적 증명은 아님.",
+    "Unity 적용/GPU피부/상태전환 후 바닥소품 지속성/인벤토리/연속재장전/다른캐릭터·총기는 범위밖.",
+    "기존 전체애니메이션134catalog/63도달/662실게임 보고서의 확정 실패는 이번PASS로 해소하지 않음.",
+    "원본106곡선/캐릭터UVweightrest 보존은 메인 보호감사와 구분. 본 회차 입력SHA 전후 동일.",
+    "가려진 후면 손 화면만으로 접촉 통과시키지 않았고 원래 재질 장면과 중립 손진단을 분리."
+  ],
+  "producer_saved_geometry_samples": 1938,
+  "source_master_sha256": "358e1c318e3886693f0aaf09023baa88a0758794b2a01d7226e435cfec077e8c",
+  "source_actions_preserved": 106,
+  "character_signature_equal": {
+    "before": "9d5eed10bd1313c586108332e76d64334ef948f5691e971dd12452bb0fd9243d",
+    "after": "9d5eed10bd1313c586108332e76d64334ef948f5691e971dd12452bb0fd9243d",
+    "equal": true
+  },
+  "packed_textures": 9,
+  "unity_applied": 0,
+  "all_weapons_completed": false,
+  "existing_four_player_animation_review": {
+    "result": "FAIL",
+    "confirmed": 8,
+    "candidates": 6,
+    "game_changes": 0
+  },
+  "media_native_sha256": "61c3c29985a19116f0f7b1f4e08be58a2b7293ceccb6546ff345eaf95dd31519",
+  "before_after_comparison_pairs": 7
+}

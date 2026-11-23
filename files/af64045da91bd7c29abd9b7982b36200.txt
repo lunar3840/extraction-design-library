@@ -1,0 +1,144 @@
+DENSITY V04 / CQB ACTUAL UNITY VALIDATION
+PASS found controlled raid seed for named-count coverage
+PASS variant 0 seed=61026 covers named=3 N1=True
+PASS variant 0 creates expected normal + 3/4 named actors
+PASS ordinary machines plus selected named machines remain the main faction
+PASS spawned named actors have real display identities
+PASS expected added machine count is present
+PASS CQB room range is applied after weapon initialization: G12_01
+PASS CQB room range is applied after weapon initialization: G12_04
+PASS CQB room range is applied after weapon initialization: D_HALL_01
+PASS CQB room range is applied after weapon initialization: D_HALL_02
+PASS CQB room range is applied after weapon initialization: D_POWER_01
+PASS CQB room range is applied after weapon initialization: D_PARTS_01
+PASS CQB room range is applied after weapon initialization: D_TOOLS_01
+PASS B1-B4 entry policy and inactive risk entries unchanged
+PASS retained physical doors exist
+PASS both exterior doors reach navigation
+PASS door-to-door route complete: DOOR_P1 / DOOR_P2
+PASS retained physical doors exist
+PASS both exterior doors reach navigation
+PASS door-to-door route complete: DOOR_L1 / DOOR_L2
+INDOOR variant=0 id=G12_01 moved=0.318 health=90 mode=Patrol
+INDOOR variant=0 id=G12_04 moved=2.175 health=140 mode=Patrol
+INDOOR variant=0 id=D_HALL_01 moved=0.318 health=90 mode=Patrol
+INDOOR variant=0 id=D_HALL_02 moved=0.318 health=90 mode=Patrol
+INDOOR variant=0 id=D_POWER_01 moved=0.318 health=90 mode=Patrol
+INDOOR variant=0 id=D_PARTS_01 moved=0.318 health=90 mode=Patrol
+INDOOR variant=0 id=D_TOOLS_01 moved=0.715 health=90 mode=Patrol
+CONTACT variant=0 id=N1 position=(-112.71, 1.38, 16.76) moved=12.35 health=200.0 mode=Return avoiding=False avoidanceFrames=659 target=none shots=0
+CONTACT variant=0 id=H1_01 position=(-105.83, 1.38, 7.58) moved=1.01 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=H1_02 position=(-104.06, 1.44, 4.51) moved=1.49 health=70.0 mode=Return avoiding=False avoidanceFrames=924 target=none shots=0
+CONTACT variant=0 id=H1_03 position=(-104.29, 1.43, 1.83) moved=1.99 health=14.0 mode=Patrol avoiding=False avoidanceFrames=84 target=none shots=16
+CONTACT variant=0 id=H2_01 position=(89.80, 6.33, 45.97) moved=1.86 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=H2_02 position=(96.77, 6.46, 39.97) moved=1.86 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=H2_03 position=(85.96, 5.62, 32.30) moved=9.04 health=70.0 mode=Return avoiding=True avoidanceFrames=1315 target=none shots=0
+CONTACT variant=0 id=H3_01 position=(-145.37, 2.56, 65.25) moved=1.87 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=H1_04 position=(-111.78, 1.31, -0.39) moved=1.86 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=H2_04 position=(91.08, 6.05, 34.74) moved=1.87 health=70.0 mode=Patrol avoiding=False avoidanceFrames=389 target=none shots=0
+CONTACT variant=0 id=H4_01 position=(-153.00, 0.81, -26.48) moved=1.87 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=H4_02 position=(-148.46, 0.92, -26.97) moved=1.86 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=H5_01 position=(116.42, 0.49, -48.08) moved=1.87 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=H5_02 position=(107.98, 0.21, -48.89) moved=1.87 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=H6_01 position=(21.68, 6.71, 46.10) moved=1.86 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=V4_G5_01 position=(-74.46, 7.63, 114.68) moved=0.32 health=90.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=V4_G7_01 position=(-46.08, 8.68, 89.37) moved=0.32 health=90.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=V4_G8_01 position=(-55.12, 0.74, -77.73) moved=0.32 health=90.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=V4_G9_01 position=(200.31, 7.34, 53.12) moved=2.16 health=140.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=V4_G10_01 position=(198.16, 2.90, -30.14) moved=2.16 health=140.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=V4_G10_02 position=(195.99, 1.07, -69.68) moved=0.32 health=90.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=V4_G11_01 position=(57.39, -0.01, -125.00) moved=0.32 health=90.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=0 id=V4_G12_01 position=(59.32, 1.08, -70.00) moved=0.32 health=90.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+FRAME variant=0 samples=2332 averageMs=12.9597676685025 maxMs=233.536004818594
+PASS variant 0 live movement: samples=165016 offNav=0 jumps=0 rolls=0 maxSpeed=2.276123 animatorDrift=0
+PASS found controlled raid seed for named-count coverage
+PASS variant 1 seed=61042 covers named=4 N1=False
+PASS variant 1 creates expected normal + 3/4 named actors
+PASS ordinary machines plus selected named machines remain the main faction
+PASS spawned named actors have real display identities
+PASS expected added machine count is present
+PASS CQB room range is applied after weapon initialization: G12_01
+PASS CQB room range is applied after weapon initialization: G12_04
+PASS CQB room range is applied after weapon initialization: D_HALL_01
+PASS CQB room range is applied after weapon initialization: D_HALL_02
+PASS CQB room range is applied after weapon initialization: D_POWER_01
+PASS CQB room range is applied after weapon initialization: D_PARTS_01
+PASS CQB room range is applied after weapon initialization: D_TOOLS_01
+INDOOR variant=1 id=G12_01 moved=0.326 health=90 mode=Patrol
+INDOOR variant=1 id=G12_04 moved=1.714 health=140 mode=Patrol
+INDOOR variant=1 id=D_HALL_01 moved=0.326 health=90 mode=Patrol
+INDOOR variant=1 id=D_HALL_02 moved=0.326 health=90 mode=Patrol
+INDOOR variant=1 id=D_POWER_01 moved=0.326 health=90 mode=Patrol
+INDOOR variant=1 id=D_PARTS_01 moved=0.326 health=90 mode=Patrol
+INDOOR variant=1 id=D_TOOLS_01 moved=0.326 health=90 mode=Patrol
+CONTACT variant=1 id=N1 removed after combat
+CONTACT variant=1 id=H1_01 position=(-104.77, 1.42, 1.82) moved=1.78 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H1_02 position=(-108.75, 1.38, -0.50) moved=0.53 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H1_03 position=(-111.61, 1.30, 0.09) moved=1.86 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H2_01 position=(96.81, 6.47, 40.37) moved=1.86 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H2_02 position=(96.10, 6.27, 35.98) moved=3.61 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H2_03 position=(85.21, 5.62, 36.39) moved=1.91 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H3_01 position=(-154.45, 2.22, 63.93) moved=1.57 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H1_04 position=(-115.02, 1.24, -0.61) moved=1.86 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H2_04 position=(86.70, 6.13, 40.07) moved=1.87 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H4_01 position=(-148.71, 0.92, -27.08) moved=1.86 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H4_02 position=(-152.50, 0.83, -26.76) moved=1.86 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H5_01 position=(107.84, 0.21, -48.75) moved=1.86 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H5_02 position=(107.00, 0.82, -42.42) moved=1.86 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=H6_01 position=(22.71, 6.71, 47.24) moved=1.86 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=V4_G5_01 position=(-95.49, 7.06, 114.50) moved=0.33 health=90.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=V4_G7_01 position=(-41.46, 8.81, 91.99) moved=0.33 health=90.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=V4_G8_01 position=(-48.49, 0.68, -77.49) moved=0.33 health=90.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=V4_G9_01 position=(204.89, 7.61, 57.83) moved=1.71 health=140.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=V4_G10_01 position=(204.82, 2.87, -27.48) moved=1.71 health=140.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=V4_G10_02 position=(202.24, 1.02, -67.67) moved=0.33 health=90.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=V4_G11_01 position=(53.52, -0.02, -122.24) moved=0.33 health=90.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=1 id=V4_G12_01 position=(56.50, 1.01, -73.83) moved=0.33 health=90.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+FRAME variant=1 samples=2422 averageMs=12.4191348064136 maxMs=92.701601473923
+PASS variant 1 live movement: samples=339400 offNav=0 jumps=0 rolls=0 maxSpeed=2.276123 animatorDrift=0
+PASS found controlled raid seed for named-count coverage
+PASS variant 2 seed=61030 covers named=4 N1=True
+PASS variant 2 creates expected normal + 3/4 named actors
+PASS ordinary machines plus selected named machines remain the main faction
+PASS spawned named actors have real display identities
+PASS expected added machine count is present
+PASS CQB room range is applied after weapon initialization: G12_01
+PASS CQB room range is applied after weapon initialization: G12_04
+PASS CQB room range is applied after weapon initialization: D_HALL_01
+PASS CQB room range is applied after weapon initialization: D_HALL_02
+PASS CQB room range is applied after weapon initialization: D_POWER_01
+PASS CQB room range is applied after weapon initialization: D_PARTS_01
+PASS CQB room range is applied after weapon initialization: D_TOOLS_01
+INDOOR variant=2 id=G12_01 moved=0.334 health=90 mode=Patrol
+INDOOR variant=2 id=G12_04 moved=1.488 health=140 mode=Patrol
+INDOOR variant=2 id=D_HALL_01 moved=0.334 health=90 mode=Patrol
+INDOOR variant=2 id=D_HALL_02 moved=0.334 health=90 mode=Patrol
+INDOOR variant=2 id=D_POWER_01 moved=0.334 health=90 mode=Patrol
+INDOOR variant=2 id=D_PARTS_01 moved=0.333 health=90 mode=Patrol
+INDOOR variant=2 id=D_TOOLS_01 moved=0.333 health=90 mode=Patrol
+CONTACT variant=2 id=N1 position=(-111.27, 1.26, 4.88) moved=1.34 health=200.0 mode=Return avoiding=False avoidanceFrames=927 target=none shots=0
+CONTACT variant=2 id=H1_01 position=(-109.04, 1.37, -0.58) moved=1.86 health=62.0 mode=Patrol avoiding=False avoidanceFrames=384 target=none shots=4
+CONTACT variant=2 id=H1_02 position=(-113.76, 1.22, 1.03) moved=1.13 health=70.0 mode=Patrol avoiding=False avoidanceFrames=33 target=none shots=10
+CONTACT variant=2 id=H1_03 position=(-115.28, 1.19, 3.94) moved=1.14 health=70.0 mode=Patrol avoiding=False avoidanceFrames=50 target=none shots=8
+CONTACT variant=2 id=H2_01 position=(97.12, 6.27, 35.78) moved=4.39 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H2_02 position=(85.87, 5.73, 36.48) moved=1.43 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H2_03 position=(96.51, 6.47, 40.79) moved=1.43 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H3_01 position=(-150.42, 3.78, 76.20) moved=1.43 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H1_04 position=(-114.44, 1.21, 6.47) moved=1.86 health=70.0 mode=Patrol avoiding=False avoidanceFrames=331 target=none shots=0
+CONTACT variant=2 id=H2_04 position=(86.50, 6.18, 44.45) moved=1.42 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H4_01 position=(-157.85, 0.72, -24.33) moved=1.68 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H4_02 position=(-148.57, 0.87, -30.00) moved=1.43 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H5_01 position=(106.01, 0.70, -44.04) moved=1.43 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H5_02 position=(110.57, 1.23, -39.57) moved=1.43 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=H6_01 position=(20.97, 6.80, 50.84) moved=1.43 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=V4_G5_01 position=(-95.77, 7.09, 120.60) moved=0.34 health=90.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=V4_G7_01 position=(-37.79, 8.65, 88.97) moved=0.33 health=90.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=V4_G8_01 position=(-61.12, 0.96, -68.88) moved=0.33 health=90.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=V4_G9_01 position=(209.35, 7.76, 58.53) moved=1.47 health=140.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=V4_G10_01 position=(204.82, 2.53, -32.24) moved=1.51 health=140.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=V4_G10_02 position=(188.49, 1.03, -73.67) moved=0.33 health=90.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=V4_G11_01 position=(55.04, -0.02, -117.72) moved=0.33 health=90.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+CONTACT variant=2 id=V4_G12_01 position=(52.03, 0.94, -72.24) moved=0.34 health=90.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+FRAME variant=2 samples=2402 averageMs=12.5167133639814 maxMs=82.0216978458106
+PASS variant 2 live movement: samples=511297 offNav=0 jumps=0 rolls=0 maxSpeed=2.276123 animatorDrift=0
+COMPLETE PASS

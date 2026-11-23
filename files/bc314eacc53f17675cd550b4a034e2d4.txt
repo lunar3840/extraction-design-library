@@ -1,0 +1,16 @@
+Scene equipped weapon before isolated test: AR_001
+PASS player-only calmer Run: state speed=0.82 root vertical range=0.0487; gameplay speed and shared SD Run unchanged
+PASS six Low Poly model variants swap through the live pose path with finite grip results
+PASS AR_001 = LP_AR_A_1 from Low Poly AR Weapon Pack 1; armor visuals absent
+hold: right error=0.00000 left error=0.00000
+aim: right error=0.00000 left error=0.00000
+aim right elbow local=(0.1481, 0.4865, 0.1129) hand=(0.0800, 0.4782, 0.0643)
+Low Poly gun local z=-0.0861..0.4739 length=0.5600
+fire: right error=0.00000 left error=0.00000
+reload: right error=0.00000 left error=0.00000
+PASS live FireDirection: shot count +1, magazine -1, flash/recoil/tracer at muzzle; reload completes
+PASS Blender rifle upper-body layer sampled for idle, aim, fire and reload
+PASS side-tail head-relative transforms unchanged by arm posing
+Walk (60 samples): right error=0.00000 left error=0.00000
+Run (60 samples): right error=0.00000 left error=0.00000
+Gun world scale=(1.67, 1.67, 1.67) model scale=(1.85, 1.85, 1.85)

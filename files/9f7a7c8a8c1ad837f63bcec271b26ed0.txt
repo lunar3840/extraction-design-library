@@ -1,0 +1,15 @@
+POWER: one enclosed equipment room and service passage beside existing control room; shift=0.0; internal opening=4.0m; P1/P2 and center anchor clear; walls=7; root=CQB_Interior_POWER_ServiceCorridor
+  Wall_EquipmentRoom_FrontLeft localXZ=(-14.00, 4.50) -> (-10.00, 4.50)
+  Wall_EquipmentRoom_FrontRight localXZ=(-6.00, 4.50) -> (-2.00, 4.50)
+  Wall_EquipmentRoom_Left localXZ=(-14.00, 4.50) -> (-14.00, 15.00)
+  Wall_EquipmentRoom_Right localXZ=(-2.00, 4.50) -> (-2.00, 15.00)
+  Wall_EquipmentRoom_Rear localXZ=(-14.00, 15.00) -> (-2.00, 15.00)
+  Wall_ServicePassage_Screen localXZ=(-4.00, -15.00) -> (-4.00, -2.00)
+  Wall_ServicePassage_Return localXZ=(-4.00, -15.00) -> (0.00, -15.00)
+PARTS: staggered warehouse screens and storage returns; side=1; openings=4.0m; outer flanks available; walls=6; root=CQB_Interior_PARTS_StaggeredStorage
+  Wall_WestScreen_North localXZ=(-10.00, -17.00) -> (-10.00, -12.00)
+  Wall_WestScreen_South localXZ=(-10.00, -8.00) -> (-10.00, 14.00)
+  Wall_EastScreen_North localXZ=(-4.00, -17.00) -> (-4.00, -6.00)
+  Wall_EastScreen_South localXZ=(-4.00, -2.00) -> (-4.00, 15.00)
+  Wall_StorageReturnWest localXZ=(-10.00, 14.00) -> (-5.00, 14.00)
+  Wall_StorageReturnEast localXZ=(-9.00, -17.00) -> (-4.00, -17.00)

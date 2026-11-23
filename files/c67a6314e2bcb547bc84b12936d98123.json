@@ -1,0 +1,61 @@
+{
+  "checked_at": "2026-10-29T06:19:49.843Z",
+  "scope": "Read-only source and existing records. No Unity execution, live game verification or implementation.",
+  "records": [
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Resources/ArmorCatalog.json",
+      "bytes": 6919,
+      "sha256": "ff6086111251ea2e0ba0fb6210f51a8b48dae15705dee29f716d6f59f66dac6c"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Resources/WeaponCatalog.json",
+      "bytes": 23404,
+      "sha256": "58c052b1dbcf5afaa1ec40105521ee1a8e90c1a0dea6fcaa5f86d99c58617884"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Resources/AmmoCatalog.json",
+      "bytes": 3662,
+      "sha256": "8aead8581292f4f71a026ae0288f2752ac631a5cc15f07c3b768bb806a4243d0"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Equipment/Core/ArmorState.cs",
+      "bytes": 6912,
+      "sha256": "143f28748c2b0c444f66538ba09db649ed603da21569cfea58154f8f0bab3cac"
+    },
+    {
+      "path": "outputs/change_records/2026-10-19/weapon-ammo-tiers/CHANGE_RECORD.md",
+      "bytes": 13780,
+      "sha256": "b7b9fd0d27e2fbc1c66158323a8585535b6516cd51821563cc58e48709ae4fa0"
+    },
+    {
+      "path": "outputs/change_records/2026-10-20/weapon-modding/CHANGE_RECORD.md",
+      "bytes": 11825,
+      "sha256": "ba9216975a07adced1c188b4be83ec622d7693a78ff712c2d9015084148387a4"
+    },
+    {
+      "path": "outputs/balance_review/2026-10-22/recovered-rifle-baseline/combat/COMBAT_AUDIT.md",
+      "bytes": 23068,
+      "sha256": "51a7fb4c825683c19844b423283cd996051cee8a395920b88fe559171566e350"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Combat/DamageReceiver.cs",
+      "bytes": 2104,
+      "sha256": "2c4b4f13b08cf649fc691cd15d8f6b9fb2504bf5db5cc9f8a4fa142c86ecbe79"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Inventory/Core/InventoryCarried.cs",
+      "bytes": 8036,
+      "sha256": "d7a222afdaf63739d44b9a15338205b5896fee65a37fb7dc9604128ffb9dba76"
+    },
+    {
+      "path": "outputs/change_records/2026-10-23/chest-rig-backpack/CHANGE_RECORD.md",
+      "bytes": 12571,
+      "sha256": "1d821af77434ee660d1f918daa22298a58a14d91cdb54f578d5684b5a23fd551"
+    },
+    {
+      "path": "C:/UnityProject/escape/Assets/Escape/Runtime/Inventory/Core/InventoryEquipment.cs",
+      "bytes": 2941,
+      "sha256": "129536acda5e0ab44052b41ba496e9f6ef0670137a7a65de693a7287df3e2ede"
+    }
+  ]
+}

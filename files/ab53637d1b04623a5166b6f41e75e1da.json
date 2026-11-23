@@ -1,0 +1,149 @@
+{
+  "source": "outputs\\change_records\\2026-10-29\\a-map-intent-audit\\main\\runtime_core_639288501309967787\\NAVIGATION.csv",
+  "rows": 1205,
+  "failed": [],
+  "kinds": {
+    "entry_exit": {
+      "count": 28,
+      "publicComplete": 22,
+      "partialResolved": 6,
+      "minLength": 45.10973,
+      "medianLength": 387.43065,
+      "maxLength": 628.1593,
+      "zeroLength": 0
+    },
+    "entry_loot": {
+      "count": 200,
+      "publicComplete": 172,
+      "partialResolved": 28,
+      "minLength": 30.68329,
+      "medianLength": 282.54985,
+      "maxLength": 620.6829,
+      "zeroLength": 0
+    },
+    "loot_exit": {
+      "count": 350,
+      "publicComplete": 310,
+      "partialResolved": 40,
+      "minLength": 33.51613,
+      "medianLength": 341.20085,
+      "maxLength": 634.02,
+      "zeroLength": 0
+    },
+    "patrol": {
+      "count": 627,
+      "publicComplete": 627,
+      "partialResolved": 0,
+      "minLength": 0.0,
+      "medianLength": 3.0,
+      "maxLength": 14.25838,
+      "zeroLength": 209
+    }
+  },
+  "basicLocalChoices": {
+    "B1": {
+      "nearestLoot": [
+        {
+          "id": "B1_loot_n01_food",
+          "length": 33.49706
+        },
+        {
+          "id": "B1_loot_clinic_triage",
+          "length": 115.9808
+        },
+        {
+          "id": "B1_loot_clinic_dispensary",
+          "length": 116.1771
+        }
+      ],
+      "nearestExit": [
+        {
+          "id": "B1_X1",
+          "length": 48.57788
+        },
+        {
+          "id": "B1_X2",
+          "length": 193.2147
+        }
+      ]
+    },
+    "B2": {
+      "nearestLoot": [
+        {
+          "id": "B2_loot_w01_timber",
+          "length": 61.27337
+        },
+        {
+          "id": "B2_loot_w08_garage",
+          "length": 66.38535
+        },
+        {
+          "id": "B2_loot_s01_dorm",
+          "length": 81.92891
+        }
+      ],
+      "nearestExit": [
+        {
+          "id": "B2_X2",
+          "length": 45.10973
+        },
+        {
+          "id": "B2_X3",
+          "length": 167.7247
+        }
+      ]
+    },
+    "B3": {
+      "nearestLoot": [
+        {
+          "id": "B3_loot_s05_home",
+          "length": 30.68329
+        },
+        {
+          "id": "B3_loot_s01_dorm",
+          "length": 41.1889
+        },
+        {
+          "id": "B3_loot_s02_canteen",
+          "length": 70.27882
+        }
+      ],
+      "nearestExit": [
+        {
+          "id": "B3_X2",
+          "length": 58.69414
+        },
+        {
+          "id": "B3_X3",
+          "length": 76.30391
+        }
+      ]
+    },
+    "B4": {
+      "nearestLoot": [
+        {
+          "id": "B4_loot_s08_store",
+          "length": 33.91097
+        },
+        {
+          "id": "B4_loot_s07_house",
+          "length": 43.13869
+        },
+        {
+          "id": "B4_loot_s02_canteen",
+          "length": 87.13652
+        }
+      ],
+      "nearestExit": [
+        {
+          "id": "B4_X3",
+          "length": 52.33303
+        },
+        {
+          "id": "B4_X2",
+          "length": 160.9885
+        }
+      ]
+    }
+  }
+}

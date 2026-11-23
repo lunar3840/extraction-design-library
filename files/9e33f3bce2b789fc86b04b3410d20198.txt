@@ -1,0 +1,17 @@
+UTC=2026-10-22T23:15:30.2675945Z
+scene=Assets/Escape/Scenes/SystemsTest.unity playing=True dirty=False
+homeVerified=True active=True owned=True cleaning=False interactive=False nativeCapture= step=40/43
+gameTarget=1600x900 rawScreen=1600x900 lastPaint=1600x900 paintFrame=5084 frame=5084
+page=Lobby busy=False location=BaseCamp panel=-1
+save=C:\UnityProject\escape\Library\UnifiedUiEvidence\after-1600x900-28830382966743bdb7e02d650fd46c8b ownedSave=True
+position=(0.00, 0.05, -2.60) rotation=(0.00, 0.00, 0.00) camera=(7.48, 13.71, 3.79)
+inventory=False input=False frozen=False mapBlocked=False
+health=100 stamina=48 energy=35 water=62 bleeding=False traumas=0 analgesic=0
+using=False activeUid= rigUse=False useStatus=Ready medicalStatus=응급 주사기 자동 치료 시작
+wheel=False carried=True rig= 6x2 pack= packSize=0x0
+lootCandidates=3 lootActive=
+slot[0]=companion_chip_prototype uid=5ddcc32a793e4953b0202fdf341594b0 quantity=1 page=0 grid=0,0 rotated=False
+slot[1]=companion_chip_liv uid=de9d61c8f96641d0856fde412a02146a quantity=1 page=0 grid=1,0 rotated=False
+slot[2]=companion_chip_yui uid=02c1720bbe9f488f9e656bdb311a8563 quantity=1 page=0 grid=2,0 rotated=False
+weapon[0]= mag= tier= reloading=
+weapon[1]= mag= tier= reloading=

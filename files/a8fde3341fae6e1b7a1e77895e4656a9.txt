@@ -1,0 +1,18 @@
+STAGE_A_INTERIOR_V36B_INDEPENDENT_VALIDATION
+PASS saved A scene available in Edit mode
+PASS immutable post-V36 V36b baseline exists
+PASS snapshot schema, original inventories and 32×2×2 window-wall slot census valid
+PASS same saved A scene as V36b baseline
+PASS baseline hierarchy, exact sibling order, transforms, activation, meshes, colliders, scripts and gameplay fields unchanged; objects=43798 missing=0 added=0 altered=0
+PASS all baseline renderer slot counts and enabled states unchanged; missing=0 added=0 rendererStateChanges=0
+PASS only 32 reviewed RoomPartition Factory2Wall05 opaque slot0/1 replacements permitted; metal slot2 and Glass unchanged; phase=pilot changed=12 expected=12 sites=3 outOfScope=0 shaderErrors=0
+PASS only expected dedicated V36b clone assets exist; materials=6 expected=6
+PASS all original V36/CQB/D09/V12 source assets and dependencies byte-identical; changed=0
+PASS Light/Volume and global rendering state unchanged
+PASS B1-B4 basic spawns, dormant R1-R8 candidates and seven exits retained
+SCOPE: saved post-V36 scene to V36b material-only comparison; all V36 objects, original meshes, colliders, transforms, hierarchy, gameplay anchors, enemies, Light/Volume and source asset bytes are baseline.
+SEPARATE ACCEPTANCE: matching Unity before/after views, per-building palette and retained window appearance, actual PlayerMotor routes, live combat and save/reload are not proved solely by this audit.
+passed=11 failed=0
+RESULT PASS
+
+candidate=e89892f66fd0419facdf4955e96d7313

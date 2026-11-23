@@ -1,0 +1,104 @@
+{
+  "capturedUTC": "2026-11-03T12:46:34.4766209Z",
+  "runtimeFrames": 156,
+  "characters": {
+    "serin": {
+      "images": 78,
+      "actions": [
+        "aim",
+        "appearance_on_again",
+        "death_early",
+        "death_settled",
+        "fire_recoil",
+        "gesture_BackStretch",
+        "gesture_NeckStretch",
+        "gesture_WeaponInspection",
+        "hit_recoil",
+        "initial_auto_reload",
+        "innerwear_off",
+        "low_ready_settled",
+        "melee",
+        "reaction_Determined",
+        "reaction_Joy",
+        "reload_early",
+        "reload_middle",
+        "roll_late",
+        "roll_middle",
+        "roll_return",
+        "roll_start",
+        "run_late",
+        "run_mid",
+        "unmodelled_armor",
+        "walk_late",
+        "walk_mid"
+      ],
+      "gestures": [
+        "gesture_BackStretch",
+        "gesture_NeckStretch",
+        "gesture_WeaponInspection"
+      ],
+      "reactions": [
+        "reaction_Determined",
+        "reaction_Joy"
+      ],
+      "fullBodyRestored": 25513,
+      "wornBodyTriangles": 8198,
+      "typedPrefabPartsFromImportReports": 50,
+      "runtimeNamedSubsetCount": 50,
+      "runtimeNamedSubsetNote": "Fixture field garmentParts counts Serin_S4/tripo_part/source-panel name prefixes. Edel fitted custom accessories have other names; its measured39 is a subset of typed51, not an absent-part count.",
+      "rollReloadFireDeathStateChecks": true
+    },
+    "edel": {
+      "images": 78,
+      "actions": [
+        "aim",
+        "appearance_on_again",
+        "death_early",
+        "death_settled",
+        "fire_recoil",
+        "gesture_BackStretch",
+        "gesture_NeckStretch",
+        "gesture_WeaponInspection",
+        "hit_recoil",
+        "innerwear_off",
+        "low_ready",
+        "low_ready_settled",
+        "melee",
+        "reaction_Curious",
+        "reaction_Surprise",
+        "reload_early",
+        "reload_middle",
+        "roll_late",
+        "roll_middle",
+        "roll_return",
+        "roll_start",
+        "run_late",
+        "run_mid",
+        "unmodelled_armor",
+        "walk_late",
+        "walk_mid"
+      ],
+      "gestures": [
+        "gesture_BackStretch",
+        "gesture_NeckStretch",
+        "gesture_WeaponInspection"
+      ],
+      "reactions": [
+        "reaction_Curious",
+        "reaction_Surprise"
+      ],
+      "fullBodyRestored": 45631,
+      "wornBodyTriangles": 29156,
+      "typedPrefabPartsFromImportReports": 51,
+      "runtimeNamedSubsetCount": 39,
+      "runtimeNamedSubsetNote": "Fixture field garmentParts counts Serin_S4/tripo_part/source-panel name prefixes. Edel fitted custom accessories have other names; its measured39 is a subset of typed51, not an absent-part count.",
+      "rollReloadFireDeathStateChecks": true
+    }
+  },
+  "missingImages": [],
+  "fixtureTiming": "deterministic 30Hz; roll_start is an initial motor-state sample before the next visual LateUpdate; roll_middle/late/return and Steps samples follow EndOfFrame",
+  "performancePassClaimed": false,
+  "standaloneBuildTested": false,
+  "nativeInventoryUiToggleAndRotationEvidence": true,
+  "newRuntimeAndCompileErrorLines": []
+}

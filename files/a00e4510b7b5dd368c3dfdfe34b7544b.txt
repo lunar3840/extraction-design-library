@@ -1,0 +1,3 @@
+PASS human ordinary and N1 named real-shot multipliers
+Scavenger named=False weapon=AR_001 pellets=1 default=10 tuned=6.5 ratio=0.65
+Breacher named=True weapon=SG_001 pellets=6 default=24 tuned=19.20007 ratio=0.8000031

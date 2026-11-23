@@ -1,0 +1,44 @@
+PASS factory creates armor presentation and fitted models
+PASS Player_UnityChan visuals add no gameplay colliders
+PASS Player_UnityChan covered torso actually removes geometry
+PASS Player_UnityChan masked mesh preserves skeleton and remaining clothing
+PASS Player_UnityChan supported URP material and texture
+PASS Ranged_Misaki visuals add no gameplay colliders
+PASS Ranged_Misaki covered torso actually removes geometry
+PASS Ranged_Misaki masked mesh preserves skeleton and remaining clothing
+PASS Ranged_Misaki supported URP material and texture
+PASS Melee_Yuko visuals add no gameplay colliders
+PASS Melee_Yuko covered torso actually removes geometry
+PASS Melee_Yuko masked mesh preserves skeleton and remaining clothing
+PASS Melee_Yuko supported URP material and texture
+PASS hair and clothing targets resolved
+PASS empty equipment slots keep original appearance
+PASS pickup SD_BASIC_HELMET
+PASS pickup SD_BASIC_VEST
+PASS equip real helmet item
+PASS helmet slot controls only helmet
+PASS helmet hides hair without changing clothes
+PASS helmet follows animated head
+PASS unequip helmet through inventory
+PASS equip real vest item
+PASS vest slot controls only vest
+PASS vest masks torso and restores hair
+PASS vest follows animated chest
+PASS both slots visible together
+PASS armored gun grip Idle 0
+PASS armored gun grip Idle 0.25
+PASS armored gun grip Idle 0.5
+PASS armored gun grip Idle 0.75
+PASS armored gun grip Walk 0
+PASS armored gun grip Walk 0.25
+PASS armored gun grip Walk 0.5
+PASS armored gun grip Walk 0.75
+PASS armored gun grip Run 0
+PASS armored gun grip Run 0.25
+PASS armored gun grip Run 0.5
+PASS armored gun grip Run 0.75
+PASS broken but equipped armor remains visible
+PASS disabling presentation restores original meshes and visibility
+PASS reenabling resynchronizes equipped state
+PASS unequipping both restores exact original appearance
+PASS replacing inventory on load clears stale armor appearance

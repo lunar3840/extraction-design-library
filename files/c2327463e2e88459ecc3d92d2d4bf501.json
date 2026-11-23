@@ -1,0 +1,113 @@
+{
+  "ok": true,
+  "tests": 26,
+  "passed": 26,
+  "fixtureOnly": true,
+  "unityFilesOpened": 0,
+  "results": [
+    {
+      "name": "Anonymous catalog and CSV remain readable without a login",
+      "passed": true
+    },
+    {
+      "name": "All editable endpoints reject anonymous requests before modifying state",
+      "passed": true
+    },
+    {
+      "name": "Login rejects cross-origin and missing-origin requests",
+      "passed": true
+    },
+    {
+      "name": "Persistent rate limit reserves attempts before password checking",
+      "passed": true
+    },
+    {
+      "name": "Correct login issues a signed HttpOnly Secure SameSite cookie and CSRF token",
+      "passed": true
+    },
+    {
+      "name": "Forged sessions, missing CSRF and cross-origin mutation cannot save",
+      "passed": true
+    },
+    {
+      "name": "Validation rejects immutable, unknown, wrong type, fractional and out-of-range edits",
+      "passed": true
+    },
+    {
+      "name": "Server saves persist full replacement edits and reject stale revision",
+      "passed": true
+    },
+    {
+      "name": "CSV round trips BOM, quoted commas and multiline strings while staging only",
+      "passed": true
+    },
+    {
+      "name": "CSV rejects altered metadata, duplicate rows, unknown headers and malformed quotes",
+      "passed": true
+    },
+    {
+      "name": "Apply queues a request without claiming that the game has changed",
+      "passed": true
+    },
+    {
+      "name": "Bridge credentials and project identity are required",
+      "passed": true
+    },
+    {
+      "name": "A lease claims exactly one job and blocks a second bridge until expiry",
+      "passed": true
+    },
+    {
+      "name": "Wrong lease and unproven applied snapshots cannot complete a job",
+      "passed": true
+    },
+    {
+      "name": "Expired leases can be reclaimed for an idempotent local-result retry",
+      "passed": true
+    },
+    {
+      "name": "Active jobs prevent an unrelated source snapshot from replacing the baseline",
+      "passed": true
+    },
+    {
+      "name": "Verified acknowledgement promotes real baseline and clears applied pending values",
+      "passed": true
+    },
+    {
+      "name": "External game changes preserve saved edits and expose comparison conflicts",
+      "passed": true
+    },
+    {
+      "name": "Failed jobs can be retried with a fresh idempotency key",
+      "passed": true
+    },
+    {
+      "name": "Server blocks a later web save while an earlier apply is queued",
+      "passed": true
+    },
+    {
+      "name": "Applying an unsaved revision replaces older saved pending values after proof",
+      "passed": true
+    },
+    {
+      "name": "Snapshot source fingerprint must prove every published source hash",
+      "passed": true
+    },
+    {
+      "name": "Server blocks clearing saved edits while an earlier apply is queued",
+      "passed": true
+    },
+    {
+      "name": "Changing password revokes earlier sessions and requires the current password",
+      "passed": true
+    },
+    {
+      "name": "Logout revokes a copied session token on the server",
+      "passed": true
+    },
+    {
+      "name": "History contains verified apply status and no request performs schema DDL",
+      "passed": true
+    }
+  ]
+}

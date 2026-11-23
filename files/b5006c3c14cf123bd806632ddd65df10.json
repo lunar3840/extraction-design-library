@@ -1,0 +1,14 @@
+{
+  "tool": "built-in image_gen",
+  "intent": "new character-specific costume concept; reference original game renders only",
+  "references": [
+    {
+      "role": "Edel appearance and proportion reference",
+      "path": "outputs/handoffs/2026-10-30/Edel_Serin_Equipment_Art_Handoff/02_REFERENCES/Edel/2026-10-29/after_inventory_close.png"
+    },
+    {
+      "role": "Serin appearance and proportion reference",
+      "path": "outputs/handoffs/2026-10-30/Edel_Serin_Equipment_Art_Handoff/02_REFERENCES/Serin/2026-10-24/latest_front_restored.png"
+    }
+  ]
+}

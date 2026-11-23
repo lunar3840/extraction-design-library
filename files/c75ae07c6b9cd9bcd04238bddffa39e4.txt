@@ -1,0 +1,1 @@
+before=20 after=20; actual player/camera/rotation/FOV differences=0; ten views each with time-separated second image. Dynamic weather/time and randomized sortie NPCs may differ.

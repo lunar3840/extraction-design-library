@@ -1,0 +1,2 @@
+PASS current roster liv,yui,serin,prototype; title preview does not create session/equip chip; original initial appearance restored on slots; simulated unbound return previews current roster and restores unbound body on leaving; no save changes.
+PASS native Windows pointer: next Edel→Liv, previous Liv→Edel; correct names and models visible; arrows do not trigger portrait rotation.

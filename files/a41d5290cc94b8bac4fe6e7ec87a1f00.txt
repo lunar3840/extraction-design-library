@@ -1,0 +1,9 @@
+Assets/Escape/Art/EnemiesA/RolePalettesV2/MachinePaint_Black_URP.mat
+Assets/Escape/Art/EnemiesA/RolePalettesV2/MachinePaint_Blue_URP.mat
+Assets/Escape/Art/EnemiesA/RolePalettesV2/MachinePaint_Camo_Albedo_Red_URP.mat
+Assets/Escape/Art/EnemiesA/RolePalettesV2/MachinePaint_Camo_Albedo_Teal_URP.mat
+Assets/Escape/Art/EnemiesA/RolePalettesV2/MachinePaint_Green_URP.mat
+Assets/Escape/Art/EnemiesA/RolePalettesV2/MachinePaint_Red_URP.mat
+Assets/Escape/Art/EnemiesA/RolePalettesV2/MachinePaint_White_URP.mat
+Assets/Escape/Art/EnemiesA/RolePalettesV2/MachinePaint_Yellow_URP.mat
+Assets/Escape/Editor/StageAMachinePalettesV2.cs

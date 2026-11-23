@@ -1,0 +1,30 @@
+[
+  {
+    "Path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Companions\\CompanionChipCatalog.cs",
+    "Hash": "686B273F11005E22A7FA413C4183A67B81E32B3792432C88B3BB6A19DB39C729"
+  },
+  {
+    "Path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Save\\ProfileCompanions.cs",
+    "Hash": "47E4B094026E1E14B054846698DB08397EC8E6000229C402E8E0231D9F4D257B"
+  },
+  {
+    "Path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Stage\\SessionCompanionChips.cs",
+    "Hash": "515CD452C6AFC193EBD40D5838F5D9E96FD637B6B3190B06E51F81FBBD105478"
+  },
+  {
+    "Path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Inventory\\InventoryCompanionChips.cs",
+    "Hash": "F82DA2ED207953E405F3009262CFEF7078F2EB982F193BB1C19E6104E165C853"
+  },
+  {
+    "Path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Inventory\\Core\\InventoryCompanionChipTransactions.cs",
+    "Hash": "47EA7F12EAAAF2154F69ED47444F8975A42C8662C8C9735B5EC9BD4C9A5B163D"
+  },
+  {
+    "Path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\PhysicalCompanionChipChecks.cs",
+    "Hash": "E0CC1318A13421D4B7FE656CBA68B896136D660A32E83F991EA79DA71CB5BF79"
+  },
+  {
+    "Path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\CompanionChipChecks.cs",
+    "Hash": "00577D444C10340CF6D369A1D3487E037E3AE954F380D6C47118DC40CE71B3D5"
+  }
+]

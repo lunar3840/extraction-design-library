@@ -1,0 +1,169 @@
+{
+  "input_sha256": "b1bdc1fd1cba88b58dbcb7a648d0c55ae76e341ba6c2eb4ac6ac27f7a0b61be0",
+  "overall_result": "FAIL",
+  "next_final_candidate": 17,
+  "coverage": {
+    "saved_actions": 6,
+    "native_half_frame_grid_samples": 1194,
+    "reload_supplemental_geometry_times": 30,
+    "total_full_geometry_samples": 1224,
+    "additional_local_contact_0125_samples": 13,
+    "face_meshes": 12,
+    "actual_prop_meshes": 26,
+    "selected_prop_pairs": 129,
+    "generated_source_images": 320
+  },
+  "confirmed_failures": [
+    {
+      "id": "R16-F01",
+      "severity": "P1",
+      "title": "숨김 직전 보간으로 새 탄창이 손에서 튐",
+      "frames": [
+        216.625,
+        216.75,
+        216.875
+      ],
+      "body_intersection_frame": 216.75,
+      "body_triangle_pairs": 18,
+      "object": "EF_AR_013_A__SPARE_Magazine",
+      "evidence": "BOARD_16_ghost_magazine.png",
+      "cause": "가시216.5와 숨김217 사이에 hidden 보관 자세로 먼저 보간됨.",
+      "requested_fix": "숨김 후 보관 재배치 블록을 제거하거나, 숨김 전 가시 자세를 연속 유지."
+    },
+    {
+      "id": "R16-F02",
+      "severity": "P1",
+      "title": "놓은 빈 탄창의 공중 정지",
+      "confirmed_frames": [
+        104,
+        107,
+        107.5,
+        108
+      ],
+      "minimum_hand_surface_gap_mm": {
+        "104": 5.08093,
+        "107p5": 9.61311
+      },
+      "palm_gap_at107p5_mm": 12.89855,
+      "magazine107_to107p5_world_vertex_move_mm": 0.0,
+      "evidence": "BOARD_16_delayed_drop.png",
+      "requested_fix": "실제 손 지지 해제와 낙하 시작 시각을 맞춤."
+    },
+    {
+      "id": "R16-F03",
+      "severity": "P2",
+      "title": "half 저장 키 사이 엄지–탄창 밑판 얕은 간섭",
+      "measured_depths": [
+        {
+          "frame": 173.25,
+          "maximum_depth_mm": 0.061172161628733936,
+          "triangle_pairs": 5,
+          "method": "Exact closed convex actual component, not a proxy or signed-normal heuristic."
+        },
+        {
+          "frame": 173.625,
+          "maximum_depth_mm": 0.009728123159742684,
+          "triangle_pairs": 5,
+          "method": "Exact closed convex actual component, not a proxy or signed-normal heuristic."
+        },
+        {
+          "frame": 173.75,
+          "maximum_depth_mm": 0.10991854763584474,
+          "triangle_pairs": 5,
+          "method": "Exact closed convex actual component, not a proxy or signed-normal heuristic."
+        },
+        {
+          "frame": 174.25,
+          "maximum_depth_mm": 0.08377682519173464,
+          "triangle_pairs": 5,
+          "method": "Exact closed convex actual component, not a proxy or signed-normal heuristic."
+        }
+      ],
+      "body_witness_vertex": 23510,
+      "body_witness_weights": {
+        "Hand.L": 0.1306314468,
+        "Thumb1.L": 0.5972787738,
+        "Thumb2.L": 0.2720897794
+      },
+      "magazine_component_vertex_ids": [
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363
+      ],
+      "evidence": [
+        "EXACT_SUBFRAME_CONTACT_DEPTH.json",
+        "BOARD_16_thumb_contact.png"
+      ],
+      "cause": "native half키에서0이나 중간 시각 Hand.L 상대 탄창 기하가0.486~0.637mm 어긋남. LINEAR 저장 곡선 확인.",
+      "requested_fix": "손가락 모양을 바꾸지 않고 저장 키 밀도/보간을 수정한 뒤 키 사이도 재검사."
+    }
+  ],
+  "accepted_scoped_results": [
+    "1194 native-grid 팔/몸/헤어/별도얼굴/가시소품 교차0 재현. 추가시각에서 새 문제 발견.",
+    "기존14 접근/인출6표본 교차는 이번 샘플에서 제거.",
+    "작은 홀더/윗부분 노출/0.20011mm 컵 받침 유지.",
+    "낙하 소품이117.5에도 보이고271까지 남음. 실제 바닥 여유 약0.5mm.",
+    "반복5클립의 몸 표면 양끝0차, ReloadIdle몸복귀. 소모 재고/낙하 소품 잔류 강제리셋 없음."
+  ],
+  "candidates_not_added_as_confirmed_failures": [
+    {
+      "title": "Spare–Lower 삽입/좌정 접촉",
+      "half_frames": [
+        209.5,
+        210.0,
+        210.5,
+        211.0,
+        211.5,
+        212.0,
+        212.5,
+        213.0,
+        213.5,
+        214.0,
+        214.5,
+        215.0,
+        215.5,
+        216.0,
+        216.5
+      ],
+      "raw_pairs_range": [
+        17,
+        20
+      ],
+      "note": "실제 삽입 슬롯 문맥과 구분. 외형 실패로 확정하지 않으며 내부magwell 전체 통과 인증도 하지 않음."
+    },
+    {
+      "title": "두피 부착/쇄골 경계/손 내부 접힘",
+      "note": "기존 후보 원문 유지. 새 기괴한 손가락 형태나 모든 내부 접촉0로 보고하지 않음."
+    }
+  ],
+  "limits": [
+    "전6동작의 최종 시각 통과 검토는 후속17에 연결. 현재는 발견 실패를 동결.",
+    "Unity 미적용이며 실제GPU/상태전환 후 인벤토리/바닥소품 지속성은 미검증.",
+    "생성 자세와 비교한 제작측 진단과 본 실제저장본 검증을 구분.",
+    "원본106곡선/UVweightrest 보존은 메인 보호감사 범위. 본 회차는 입력frozen SHA 전후 일치 확인."
+  ],
+  "source_mutations": 0,
+  "unity_mutations": 0,
+  "generator_calls": 0
+}

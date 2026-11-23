@@ -1,0 +1,15 @@
+{
+    "startedUtc": "2026-10-29T17:39:57.3367942Z",
+    "finishedUtc": "2026-10-29T17:43:00.7708002Z",
+    "sourceResultPath": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/a-map-large-building-ivy/ROLLOUT_RESULT.json",
+    "plannedIvyGroups": 62,
+    "attemptedIvyGroups": 62,
+    "succeededIvyGroups": 62,
+    "failedIvyGroups": 0,
+    "ivyGroupsAfter": 226,
+    "ivyLeavesAfter": 243327,
+    "weatherSlotsAdded": 0,
+    "generatedMeshesThisRun": 124,
+    "generatedMaterialsThisRun": 2,
+    "failures": []
+}

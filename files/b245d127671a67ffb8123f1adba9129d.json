@@ -1,0 +1,87 @@
+{
+  "status": "ui_deployed",
+  "workComplete": true,
+  "scope": "white_black_shared_semantic_ui",
+  "deployments": [
+    {
+      "id": "appgdep_6ae07430a2408191ae357792454176ba",
+      "project_id": "appgprj_6ada69960b9c8191864d71a4e05fac66",
+      "title": "익스트랙션 기획 라이브러리",
+      "version_id": "appgprj_6ada69960b9c8191864d71a4e05fac66~appgver_fd725d6ccf508191a5ae5db7ba8b9031",
+      "type": "publish",
+      "status": "succeeded",
+      "url": "https://extraction-design-library-ehoji.ehojin0415.chatgpt.site",
+      "has_mcp": false,
+      "screenshot_asset_pointer": null,
+      "provider_deployment_id": "site---6ada69960b9c8191864d71a4e05fac66",
+      "failure_message": null,
+      "env_set_revision": 7,
+      "updated_at": "2026-10-27T09:52:01.168233+00:00"
+    },
+    {
+      "id": "appgdep_6ae07447f6848191b83f9686e480e4ee",
+      "project_id": "appgprj_6ada7933c358819183fbd5135edb9562",
+      "title": "익스트랙션 데이터 편집기",
+      "version_id": "appgprj_6ada7933c358819183fbd5135edb9562~appgver_63f655a18a6c81919f8eaf1c9a4d026a",
+      "type": "publish",
+      "status": "succeeded",
+      "url": "https://extraction-balance-editor.ehojin0415.chatgpt.site",
+      "has_mcp": false,
+      "screenshot_asset_pointer": null,
+      "provider_deployment_id": "site---6ada7933c358819183fbd5135edb9562",
+      "failure_message": null,
+      "env_set_revision": 1,
+      "updated_at": "2026-10-27T09:52:22.494858+00:00"
+    }
+  ],
+  "versions": [
+    {
+      "id": "appgprj_6ada69960b9c8191864d71a4e05fac66~appgver_fd725d6ccf508191a5ae5db7ba8b9031",
+      "number": 17,
+      "project": "appgprj_6ada69960b9c8191864d71a4e05fac66",
+      "commit": "c24d7131b28d5af21893a38f9792cdfacd797022"
+    },
+    {
+      "id": "appgprj_6ada7933c358819183fbd5135edb9562~appgver_63f655a18a6c81919f8eaf1c9a4d026a",
+      "number": 6,
+      "project": "appgprj_6ada7933c358819183fbd5135edb9562",
+      "commit": "7b8cb28ae6af2e9e5af03cd403fe01ff8eebcb55"
+    }
+  ],
+  "themes": [
+    "white",
+    "black"
+  ],
+  "legacySourcesPreserved": true,
+  "sharedIcons": 21,
+  "sharedGeometryAndRadius": true,
+  "themePersistence": {
+    "browserPreference": true,
+    "refreshVerified": true,
+    "publicCrossOriginTabNavigationVerified": true,
+    "mechanism": "localStorage per origin + explicit theme query parameter on two tool links"
+  },
+  "data": {
+    "datasets": 103,
+    "rows": 12931,
+    "sourceFingerprint": "7dae3ef2c6cfcc501fd08cdacdaba5ce0cddde4710f4ae120bdbf41d8d773f8e",
+    "unchanged": true
+  },
+  "checks": {
+    "anonymousThemeAssetHashes": 54,
+    "editorFixtures": 29,
+    "editorPassed": 29,
+    "libraryOrganization": true,
+    "libraryWorker": true,
+    "syntax": true,
+    "productionWriteOrUnityApply": false,
+    "gameFilesOpened": 0
+  },
+  "screenshots": {
+    "before": 4,
+    "afterBlack": 4,
+    "afterWhite": 4,
+    "format": "Original JPEGs retained; PNG encoding conversion only"
+  },
+  "libraryPublication": "pending"
+}

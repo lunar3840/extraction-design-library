@@ -1,0 +1,460 @@
+V37 ACTUAL UNITY PLAY CAPTURES, 1600x1000. Combat ticks frozen; scaled time runs normally for water/rain. Same camera and position pairs, 0.8s second view for animation. Editor observed frame intervals are not a GPU or production FPS benchmark.
+bridge_west player=(102.50000, 0.10000, -125.00000) camera=(132.50000, 49.10000, -177.00000) rotation=(0.31962, -0.24409, 0.08559, 0.91156) fov=48 time=4.289
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=28
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=257 median=13.445 p95=15.327
+frameTiming cpuMs=14.0999 gpuMs=4.194304 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False hallAuthoredFootprints=1 playerInHallAuthored=False highColumnHallParticles=0 skippedOutdoorEaveParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+bridge_west_t1 player=(102.50000, 0.10000, -125.00000) camera=(132.50000, 49.10000, -177.00000) rotation=(0.31962, -0.24409, 0.08559, 0.91156) fov=48 time=5.259
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=28
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=317 median=13.432 p95=15.178
+frameTiming cpuMs=13.3445 gpuMs=4.163584 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False hallAuthoredFootprints=1 playerInHallAuthored=False highColumnHallParticles=0 skippedOutdoorEaveParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+bridge_east player=(196.50000, 1.06000, -88.50000) camera=(221.50000, 44.06000, -135.50000) rotation=(0.31807, -0.22863, 0.07933, 0.91666) fov=48 time=8.915
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=14
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=264 median=12.631 p95=14.376
+frameTiming cpuMs=11.795 gpuMs=3.8144 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False hallAuthoredFootprints=1 playerInHallAuthored=False highColumnHallParticles=0 skippedOutdoorEaveParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+bridge_east_t1 player=(196.50000, 1.06000, -88.50000) camera=(221.50000, 44.06000, -135.50000) rotation=(0.31807, -0.22863, 0.07933, 0.91666) fov=48 time=9.884
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=14
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=328 median=12.612 p95=14.370
+frameTiming cpuMs=12.1573 gpuMs=3.639296 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False hallAuthoredFootprints=1 playerInHallAuthored=False highColumnHallParticles=0 skippedOutdoorEaveParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+bank_north player=(141.80880, 0.13136, -91.75857) camera=(146.15910, 15.18850, -84.22366) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=13.535
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=25
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=288 median=12.068 p95=12.977
+frameTiming cpuMs=12.7271 gpuMs=2.494464 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False hallAuthoredFootprints=1 playerInHallAuthored=False highColumnHallParticles=0 skippedOutdoorEaveParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+bank_north_t1 player=(141.80880, 0.13136, -91.75857) camera=(146.15910, 15.18850, -84.22366) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=14.488
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=25
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=353 median=12.100 p95=13.231
+frameTiming cpuMs=12.2046 gpuMs=2.505728 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False hallAuthoredFootprints=1 playerInHallAuthored=False highColumnHallParticles=0 skippedOutdoorEaveParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+bank_south player=(62.08067, 0.16000, -170.20470) camera=(66.43095, 15.21714, -162.66980) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=18.137
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=7
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=278 median=12.440 p95=13.968
+frameTiming cpuMs=14.6879 gpuMs=2.287616 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False hallAuthoredFootprints=1 playerInHallAuthored=False highColumnHallParticles=0 skippedOutdoorEaveParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+bank_south_t1 player=(62.08067, 0.16000, -170.20470) camera=(66.43095, 15.21714, -162.66980) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=19.084
+rain=Stage A bounded drizzle particles=570 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=7
+rainStat LiveParticleCount=570
+rainStat ParticleCount=570
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=0
+rainStat IsEmitting=True
+observedEditorFrameMs samples=342 median=12.440 p95=14.068
+frameTiming cpuMs=13.9744 gpuMs=2.284544 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=570 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False hallAuthoredFootprints=1 playerInHallAuthored=False highColumnHallParticles=0 skippedOutdoorEaveParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+bridge_entry player=(89.00000, 0.10000, -93.00000) camera=(93.35028, 15.15714, -85.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=22.730
+rain=Stage A bounded drizzle particles=540 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=54
+rainStat LiveParticleCount=540
+rainStat ParticleCount=540
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=75
+rainStat IsEmitting=True
+observedEditorFrameMs samples=275 median=12.593 p95=14.493
+frameTiming cpuMs=14.3139 gpuMs=2.307072 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=540 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False hallAuthoredFootprints=1 playerInHallAuthored=False highColumnHallParticles=0 skippedOutdoorEaveParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+bridge_entry_t1 player=(89.00000, 0.10000, -93.00000) camera=(93.35028, 15.15714, -85.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=23.687
+rain=Stage A bounded drizzle particles=542 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=54
+rainStat LiveParticleCount=542
+rainStat ParticleCount=542
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=103
+rainStat IsEmitting=True
+observedEditorFrameMs samples=338 median=12.598 p95=14.403
+frameTiming cpuMs=12.3433 gpuMs=2.308096 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=542 d09Footprints=69 d09Regions=71 playerD09Regions=0 playerUnderHallRoof=False expectedIndoor=False
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=0 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False hallAuthoredFootprints=1 playerInHallAuthored=False highColumnHallParticles=0 skippedOutdoorEaveParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+hall_1f player=(-22.00000, 2.08000, -27.00000) camera=(-17.64972, 17.13713, -19.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=27.360
+rain=Stage A bounded drizzle particles=187 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=91
+rainStat LiveParticleCount=187
+rainStat ParticleCount=187
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=3
+rainStat BlockedParticles=819
+rainStat IsEmitting=True
+observedEditorFrameMs samples=210 median=16.111 p95=19.602
+frameTiming cpuMs=18.4563 gpuMs=2.01728 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=187 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=True expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=1 highColumnD09Particles=0 hiddenHallRoofOverPlayer=True hallAuthoredFootprints=1 playerInHallAuthored=True highColumnHallParticles=0 skippedOutdoorEaveParticles=2
+HALL_OUTDOOR_EAVE_SKIPPED particle=-9.039328,10.0173883,-33.45686 player=-22,2.08,-27 roof=V13_HallRoot[0]/Roof[0]/TallCentralRoof[0]/D09_Roof_HALL[0]/D09_RoofPart_Detail_Hall_Clerestory_SteelMullions[0] boundsMin=-15.075,13.65,-33.47 boundsMax=15.075,21.51686,23.47 rendererType=MeshRenderer mesh=HALL_Detail_Hall_Clerestory_SteelMullions/vertices=1104 hallLocal=-9.039328,10.0173883,-33.45686 hallXZ=False tunnelXZ=False allAuthoredD09XZ=none roofAncestorD09=HALL playerInside=True particleXZInside=False mapRoofZones=none playerAuthoredRegionXZ=none
+HALL_OUTDOOR_EAVE_SKIPPED particle=-37.54154,9.771631,-33.2415123 player=-22,2.08,-27 roof=V13_HallRoot[0]/Roof[0]/TallCentralRoof[0]/D09_Roof_HALL[0]/D09_RoofPart_Roof_Hall_LowSideGallery_-1[0] boundsMin=-40.45,13.67,-33.45 boundsMax=-14.5499992,16.1,23.45 rendererType=MeshRenderer mesh=HALL_Roof_Hall_LowSideGallery_-1/vertices=48 hallLocal=-37.54154,9.771631,-33.2415123 hallXZ=False tunnelXZ=False allAuthoredD09XZ=none roofAncestorD09=HALL playerInside=True particleXZInside=False mapRoofZones=none playerAuthoredRegionXZ=none
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+hall_1f_t1 player=(-22.00000, 2.08000, -27.00000) camera=(-17.64972, 17.13713, -19.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=28.324
+rain=Stage A bounded drizzle particles=187 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=91
+rainStat LiveParticleCount=187
+rainStat ParticleCount=187
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=3
+rainStat BlockedParticles=1013
+rainStat IsEmitting=True
+observedEditorFrameMs samples=260 median=16.130 p95=18.759
+frameTiming cpuMs=15.8337 gpuMs=2.030592 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=187 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=True expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=1 highColumnD09Particles=0 hiddenHallRoofOverPlayer=True hallAuthoredFootprints=1 playerInHallAuthored=True highColumnHallParticles=0 skippedOutdoorEaveParticles=1
+HALL_OUTDOOR_EAVE_SKIPPED particle=-18.2243614,11.124754,-33.336113 player=-22,2.08,-27 roof=V13_HallRoot[0]/Roof[0]/TallCentralRoof[0]/D09_Roof_HALL[0]/D09_RoofPart_Roof_Hall_LowSideGallery_-1[0] boundsMin=-40.45,13.67,-33.45 boundsMax=-14.5499992,16.1,23.45 rendererType=MeshRenderer mesh=HALL_Roof_Hall_LowSideGallery_-1/vertices=48 hallLocal=-18.2243614,11.124754,-33.336113 hallXZ=False tunnelXZ=False allAuthoredD09XZ=none roofAncestorD09=HALL playerInside=True particleXZInside=False mapRoofZones=none playerAuthoredRegionXZ=none
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+hall_2f player=(-22.00000, 8.08000, -27.00000) camera=(-17.64972, 23.13713, -19.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=31.997
+rain=Stage A bounded drizzle particles=192 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=91
+rainStat LiveParticleCount=192
+rainStat ParticleCount=192
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=4
+rainStat BlockedParticles=1765
+rainStat IsEmitting=True
+observedEditorFrameMs samples=197 median=17.517 p95=19.884
+frameTiming cpuMs=17.5945 gpuMs=2.23232 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=192 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=True expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=1 highColumnD09Particles=0 hiddenHallRoofOverPlayer=True hallAuthoredFootprints=1 playerInHallAuthored=True highColumnHallParticles=0 skippedOutdoorEaveParticles=1
+HALL_OUTDOOR_EAVE_SKIPPED particle=-20.4114361,20.35221,-33.3278847 player=-22,8.08,-27 roof=V13_HallRoot[0]/Roof[0]/TallCentralRoof[0]/D09_Roof_HALL[0]/D09_RoofPart_Roof_Hall_LowSideGallery_-1[0] boundsMin=-40.45,13.67,-33.45 boundsMax=-14.5499992,16.1,23.45 rendererType=MeshRenderer mesh=HALL_Roof_Hall_LowSideGallery_-1/vertices=48 hallLocal=-20.4114361,20.35221,-33.3278847 hallXZ=False tunnelXZ=False allAuthoredD09XZ=none roofAncestorD09=HALL playerInside=True particleXZInside=False mapRoofZones=none playerAuthoredRegionXZ=none
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+hall_2f_t1 player=(-22.00000, 8.08000, -27.00000) camera=(-17.64972, 23.13713, -19.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=32.950
+rain=Stage A bounded drizzle particles=190 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=91
+rainStat LiveParticleCount=190
+rainStat ParticleCount=190
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=3
+rainStat BlockedParticles=1959
+rainStat IsEmitting=True
+observedEditorFrameMs samples=243 median=17.473 p95=19.597
+frameTiming cpuMs=18.2932 gpuMs=2.238464 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=190 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=True expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=1 highColumnD09Particles=0 hiddenHallRoofOverPlayer=True hallAuthoredFootprints=1 playerInHallAuthored=True highColumnHallParticles=0 skippedOutdoorEaveParticles=1
+HALL_OUTDOOR_EAVE_SKIPPED particle=0.213520974,16.7309074,-33.40262 player=-22,8.08,-27 roof=V13_HallRoot[0]/Roof[0]/TallCentralRoof[0]/D09_Roof_HALL[0]/D09_RoofPart_Roof_Hall_TallCentralGlazedGable[0] boundsMin=-15.45,17.72,-33.45 boundsMax=15.45,21.4,23.45 rendererType=MeshRenderer mesh=HALL/vertices=48 hallLocal=0.213520974,16.7309074,-33.40262 hallXZ=False tunnelXZ=False allAuthoredD09XZ=none roofAncestorD09=HALL playerInside=True particleXZInside=False mapRoofZones=none playerAuthoredRegionXZ=none
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+inside_N03 player=(-115.00000, 6.70000, 146.00000) camera=(-110.64970, 21.75714, 153.53490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=36.613
+rain=Stage A bounded drizzle particles=459 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=43
+rainStat LiveParticleCount=459
+rainStat ParticleCount=459
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=2185
+rainStat IsEmitting=True
+observedEditorFrameMs samples=288 median=12.144 p95=13.091
+frameTiming cpuMs=11.9423 gpuMs=1.968128 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=459 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=False expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=1 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False hallAuthoredFootprints=1 playerInHallAuthored=False highColumnHallParticles=0 skippedOutdoorEaveParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+inside_N03_t1 player=(-115.00000, 6.70000, 146.00000) camera=(-110.64970, 21.75714, 153.53490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=37.557
+rain=Stage A bounded drizzle particles=434 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=43
+rainStat LiveParticleCount=434
+rainStat ParticleCount=434
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=2
+rainStat BlockedParticles=2258
+rainStat IsEmitting=True
+observedEditorFrameMs samples=351 median=12.150 p95=13.541
+frameTiming cpuMs=12.8682 gpuMs=2.00192 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=434 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=False expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=1 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False hallAuthoredFootprints=1 playerInHallAuthored=False highColumnHallParticles=0 skippedOutdoorEaveParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+inside_E01 player=(188.00000, 6.76000, 115.00000) camera=(192.35030, 21.81713, 122.53490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=41.208
+rain=Stage A bounded drizzle particles=382 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=60
+rainStat LiveParticleCount=382
+rainStat ParticleCount=382
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=0
+rainStat BlockedParticles=2625
+rainStat IsEmitting=True
+observedEditorFrameMs samples=290 median=12.012 p95=13.243
+frameTiming cpuMs=12.5154 gpuMs=1.85344 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=382 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=False expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=1 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False hallAuthoredFootprints=1 playerInHallAuthored=False highColumnHallParticles=0 skippedOutdoorEaveParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+inside_E01_t1 player=(188.00000, 6.76000, 115.00000) camera=(192.35030, 21.81713, 122.53490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=42.157
+rain=Stage A bounded drizzle particles=369 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=60
+rainStat LiveParticleCount=369
+rainStat ParticleCount=369
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=3
+rainStat BlockedParticles=2732
+rainStat IsEmitting=True
+observedEditorFrameMs samples=354 median=12.099 p95=13.404
+frameTiming cpuMs=12.6445 gpuMs=1.87904 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=369 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=False expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=1 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False hallAuthoredFootprints=1 playerInHallAuthored=False highColumnHallParticles=0 skippedOutdoorEaveParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+inside_TOOLS player=(-167.50000, 1.06000, 5.50000) camera=(-163.14970, 16.11714, 13.03490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=45.817
+rain=Stage A bounded drizzle particles=442 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=99
+rainStat LiveParticleCount=442
+rainStat ParticleCount=442
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=4
+rainStat BlockedParticles=2998
+rainStat IsEmitting=True
+observedEditorFrameMs samples=274 median=12.788 p95=13.788
+frameTiming cpuMs=12.3869 gpuMs=1.818624 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=442 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=False expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=1 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False hallAuthoredFootprints=1 playerInHallAuthored=False highColumnHallParticles=0 skippedOutdoorEaveParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+inside_TOOLS_t1 player=(-167.50000, 1.06000, 5.50000) camera=(-163.14970, 16.11714, 13.03490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 time=46.772
+rain=Stage A bounded drizzle particles=421 max=760 world=World
+rainStat CoverCount=1025
+rainStat RoofCount=1025
+rainStat NearbyCoverCount=99
+rainStat LiveParticleCount=421
+rainStat ParticleCount=421
+rainStat IndoorParticleCount=0
+rainStat CulledUnderRoofLastFrame=2
+rainStat BlockedParticles=3084
+rainStat IsEmitting=True
+observedEditorFrameMs samples=335 median=12.845 p95=13.970
+frameTiming cpuMs=12.276 gpuMs=1.825792 (zero may mean unavailable; editor observation only)
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=421 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=False expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=1 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False hallAuthoredFootprints=1 playerInHallAuthored=False highColumnHallParticles=0 skippedOutdoorEaveParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+PASS map deactivation stops and clears the one rain emitter.
+PASS map reactivation reuses one emitter and resumes rain; no duplicate. This is an active-map lifecycle test, not a complete profile/session extraction test.
+V37_INDEPENDENT_RUNTIME_RAIN_INSPECTION
+particles=437 d09Footprints=69 d09Regions=71 playerD09Regions=1 playerUnderHallRoof=False expectedIndoor=True
+nearFloorD09Particles=0 nearFloorHallParticles=0
+hiddenPlayerD09Footprints=1 highColumnD09Particles=0 hiddenHallRoofOverPlayer=False hallAuthoredFootprints=1 playerInHallAuthored=False highColumnHallParticles=0 skippedOutdoorEaveParticles=0
+rainChildColliders=0 rainChildNavObstacles=0 rainChildLights=0 rainChildVolumes=0
+Method: D09 region local XZ and lower 2.4m above authored floor; HALL roof bounds and a 3m player-centered lower 2.4m volume. Drops still high above roofs are excluded.
+Cutaway probe: for the player's authored D09 footprint or HALL, count actual drops at any height in authored interior XZ columns whose roof renderer is hidden. Outdoor eave AABB overlaps are reported separately, not counted as indoor drops; missing HALL authored footprint fails indoor validation.
+RESULT PASS
+
+capturedPairs=10 expected=10
+RESULT PASS
+candidate=v37-tuned-20261016-1804

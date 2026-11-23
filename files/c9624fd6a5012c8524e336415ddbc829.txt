@@ -1,0 +1,42 @@
+CONTROLLED PATTERN CHECK - actual EnemyController.Tick telemetry
+UTC 2026-10-16 06:34:00Z
+Scene Assets/Escape/Scenes/EnemyTest.unity; one real machine versus one 1000 HP human per role
+Tick cadence: at most one 0.2 second combat Tick per 0.2 second real elapsed time
+FIRE image confirms a real shot was emitted; projectile impact and damage are separate events.
+Scout setup source=(-12.00, 0.03, -8.00) target=(-12.00, 0.03, 4.00) distance=12.00 min/max=1.5/19
+Scout TELEGRAPH t=0.80 phase=Telegraph starts=1 shots=0
+  saved after_pattern_Scout_telegraph.png bytes=341846
+Scout FIRE t=1.20 phase=Burst shots=1 targetHP=995.0
+  saved after_pattern_Scout_fire.png bytes=340307
+Suppressor setup source=(-12.00, 0.03, -8.00) target=(-12.00, 0.03, 4.00) distance=12.00 min/max=3/22
+Suppressor TELEGRAPH t=0.40 phase=Telegraph starts=1 shots=0
+  saved after_pattern_Suppressor_telegraph.png bytes=360678
+Suppressor FIRE t=1.20 phase=Burst shots=1 targetHP=1000.0
+  saved after_pattern_Suppressor_fire.png bytes=358076
+Sniper setup source=(-12.00, 0.03, -8.00) target=(-12.00, 0.03, 4.00) distance=12.00 min/max=6/24
+Sniper TELEGRAPH t=0.40 phase=Telegraph starts=1 shots=0
+  saved after_pattern_Sniper_telegraph.png bytes=341501
+Sniper FIRE t=2.20 phase=Recovery shots=1 targetHP=979.0
+  saved after_pattern_Sniper_fire.png bytes=340882
+Grenadier setup source=(-12.00, 0.03, -8.00) target=(-12.00, 0.03, 4.00) distance=12.00 min/max=5/24
+Grenadier TELEGRAPH t=0.80 phase=Telegraph starts=1 shots=0
+  saved after_pattern_Grenadier_telegraph.png bytes=357215
+Grenadier FIRE t=2.20 phase=Recovery shots=1 targetHP=1000.0
+  saved after_pattern_Grenadier_fire.png bytes=353938
+Discharger setup source=(-12.00, 0.03, -8.00) target=(-12.00, 0.03, -4.40) distance=3.60 min/max=0.3/6.5
+Discharger TELEGRAPH t=0.40 phase=Telegraph starts=1 shots=0
+  saved after_pattern_Discharger_telegraph.png bytes=305075
+Discharger FIRE t=1.60 phase=Recovery shots=1 targetHP=993.8
+  saved after_pattern_Discharger_fire.png bytes=304451
+ArcRifle setup source=(-12.00, 0.03, -8.00) target=(-12.00, 0.03, 4.00) distance=12.00 min/max=3/22
+ArcRifle TELEGRAPH t=0.80 phase=Telegraph starts=1 shots=0
+  saved after_pattern_ArcRifle_telegraph.png bytes=356165
+ArcRifle FIRE t=2.20 phase=Recovery shots=1 targetHP=985.0
+  saved after_pattern_ArcRifle_fire.png bytes=355047
+GuardTank setup source=(-12.00, 0.03, -8.00) target=(-12.00, 0.03, 4.00) distance=12.00 min/max=4/24
+GuardTank TELEGRAPH t=0.40 phase=Telegraph starts=1 shots=0
+  saved after_pattern_GuardTank_telegraph.png bytes=362499
+GuardTank FIRE t=1.80 phase=Recovery shots=1 targetHP=1000.0
+GuardTank FIRE image delayed 0.10 real seconds after emission to show the shell clear of the barrel.
+  saved after_pattern_GuardTank_fire.png bytes=358760
+PASS seven controlled role patterns

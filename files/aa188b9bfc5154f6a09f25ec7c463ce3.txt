@@ -1,0 +1,1 @@
+D14 COMPACT APPLIED outerX=[-310,310] outerZ=[-250,250] groundChunks=22 groundTriangles=27328 waterStrips=2 trees=439 shrubs=268 grass=35580 grassChunks=100 grassTriangles=660720 rocks=59 seam=0.000 colliders=0 lights=0 volumes=0 retainedOriginalAssets=true RESULT PASS

@@ -1,0 +1,40 @@
+[
+  {
+    "Source": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-24/edel-natural-arm-pose/r26_finalgrip_edel_metrics.json",
+    "Copy": "evidence/r26_finalgrip_edel_metrics.json",
+    "SHA256": "D254AA76B8744BCADB329909F5A77A1FE1FA626B0101930F99B0CB6D96C3ED21",
+    "ByteIdentical": true,
+    "MeasurementDateKST": "2026-10-26",
+    "DateBasis": "Character owner handoff; fixed exporter directory retains 2026-10-24"
+  },
+  {
+    "Source": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-24/edel-natural-arm-pose/r26_finalgrip_serin_metrics.json",
+    "Copy": "evidence/r26_finalgrip_serin_metrics.json",
+    "SHA256": "6124392F8E71CCE7B6E994D754AAE4C17EEA5A90F5C152048BC9DAC0685C53B4",
+    "ByteIdentical": true,
+    "MeasurementDateKST": "2026-10-26",
+    "DateBasis": "Character owner handoff; fixed exporter directory retains 2026-10-24"
+  },
+  {
+    "Source": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-24/edel-natural-arm-pose/r26_finalgrip_liv_metrics.json",
+    "Copy": "evidence/r26_finalgrip_liv_metrics.json",
+    "SHA256": "78CD7D9B077E366768055603825BBEE3451E5E3BF2EF2DCD4C866C02F7DE5063",
+    "ByteIdentical": true,
+    "MeasurementDateKST": "2026-10-26",
+    "DateBasis": "Character owner handoff; fixed exporter directory retains 2026-10-24"
+  },
+  {
+    "Source": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-24/edel-natural-arm-pose/r26_finalgrip_yui_metrics.json",
+    "Copy": "evidence/r26_finalgrip_yui_metrics.json",
+    "SHA256": "9598443081DE617C0A1F6A1E95BD10E41178123218B689E2449188724A3C4E1F",
+    "ByteIdentical": true,
+    "MeasurementDateKST": "2026-10-26",
+    "DateBasis": "Character owner handoff; fixed exporter directory retains 2026-10-24"
+  },
+  {
+    "Source": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/work/character-resume-20261025/CURRENT_STATE.json",
+    "Copy": "evidence/CURRENT_STATE.json",
+    "SHA256": "47DA65C447152FD149C4BFD59E474088B905340EEFFE269BBA9D98BBDE8210D5",
+    "Purpose": "Last character source state; not a new performance measurement"
+  }
+]

@@ -1,0 +1,167 @@
+{
+  "iteration": 6,
+  "captureUtc": "2026-10-29T08:20:54.6607152Z",
+  "method": "Frozen actualGame final18 artifact signatures; independent visual review current6 representative views only; previous iteration05 all18 viewed separately. JSON signatures do not prove gameplay.",
+  "directlyViewedFinalViews": [
+    "POWER_outside",
+    "semantic_W5_S11",
+    "W03_outside",
+    "HALL_2F",
+    "E08_outside",
+    "TOOLS_outside"
+  ],
+  "production": [
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Stage\\Blockout\\StageABuildingV33Reveal.cs",
+      "sha256": "a4d706077dbfe0f7759ac0ae829deb50465e425049feea485311276e6758139a"
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Stage\\Blockout\\StageAWestD02OccludedPlayerSilhouette.cs",
+      "sha256": "fece045974a89ae68eab7f33729b357768372f2e6eeaddfcee7645d2d1e29c3f"
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\BuildingV33\\Reveal\\BuildingV33LocalReveal.shader",
+      "sha256": "1e443568bb3977cd4d8ea64189fb8dfce6601ad58c7ace3c0585913b93729909"
+    },
+    {
+      "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\EscapeVision\\BuildingV33ActorMask.shader",
+      "sha256": "a896f27a5202d92dc041b126e4e620456f457d320baada1f3f52e422f296fa5b"
+    }
+  ],
+  "evidenceLog": {
+    "path": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\main\\after_EVIDENCE.txt",
+    "sha256": "90c3dce79b209d6c44df2c25fe7c39278a5d3a8dfd0b750e6fac4cba9d46a5a5"
+  },
+  "manifest": {
+    "path": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\visibility\\PATCH_MANIFEST_ITER06.json",
+    "sha256": "26b324ded752928884c75e7af36d1620864c145c316789496a8e886e34df2984"
+  },
+  "images": [
+    {
+      "view": "curb_blocked",
+      "afterPath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\after\\after_curb_blocked.png",
+      "afterSha256": "ba9d18e94b9b54cd490c4a9081951212666c92b26044dbd7421265a6e884a9b7",
+      "beforePath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\before\\before_curb_blocked.png",
+      "beforeSha256": "113e378addff862bdc2bec6fdc520a28d4bfed5a02eb89fa1d594b05e1c307b2"
+    },
+    {
+      "view": "E08_inside",
+      "afterPath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\after\\after_E08_inside.png",
+      "afterSha256": "ae2661f4a46c79c091d97e1fbaea225a918fcb44eb2e6ebf7921f9352af52e67",
+      "beforePath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\before\\before_E08_inside.png",
+      "beforeSha256": "d7eb2e379727efe214fab9783f0195955d1c5b9f63c9b9b4ef11c3e121331613"
+    },
+    {
+      "view": "E08_outside",
+      "afterPath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\after\\after_E08_outside.png",
+      "afterSha256": "92b120e0be25b0b1d005b5a9784fe7b29bf9437e6ccc3be83de38d47912241ff",
+      "beforePath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\before\\before_E08_outside.png",
+      "beforeSha256": "52b3a5cebc46bee3dad7603f9e25ff38a3f785b8f2e48f424eb8ecbf0509e635"
+    },
+    {
+      "view": "HALL_2F",
+      "afterPath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\after\\after_HALL_2F.png",
+      "afterSha256": "20ca4e378b794c09bc076908acf1ffbe4d4819a176070f55e26266326f417553",
+      "beforePath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\before\\before_HALL_2F.png",
+      "beforeSha256": "8e9c9abe31c1a0080c7ce91e2a6a89e50708ea9b191540a20481fa4c24154af8"
+    },
+    {
+      "view": "HALL_G12_B",
+      "afterPath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\after\\after_HALL_G12_B.png",
+      "afterSha256": "51dd03fe918fe7c3576cf259ccbd3f3be451a95ac7e705dd4c6841aae9a9c97f",
+      "beforePath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\before\\before_HALL_G12_B.png",
+      "beforeSha256": "2ceebd6f5004fb9bf790bc555fc4214204eb3ea9477b8e887b032ec2b293c4e6"
+    },
+    {
+      "view": "HALL_inside",
+      "afterPath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\after\\after_HALL_inside.png",
+      "afterSha256": "7ec49d855edff63c78641f1592cec16905738174e8fa7618297f67c1eb3cec09",
+      "beforePath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\before\\before_HALL_inside.png",
+      "beforeSha256": "3cb1a96f79b447de999d68404e4f3ed76a1596e9213b1894ede29fff135ab498"
+    },
+    {
+      "view": "HALL_outside",
+      "afterPath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\after\\after_HALL_outside.png",
+      "afterSha256": "6e5c3e572aa2017130e662873432a11a4ddb5d83078e7cee989b8d8827cf8c12",
+      "beforePath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\before\\before_HALL_outside.png",
+      "beforeSha256": "1d8b78ef408ba8871e262bbad32f483d0abff8e51c6464c0918bce15ef62ffe1"
+    },
+    {
+      "view": "PARTS_inside",
+      "afterPath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\after\\after_PARTS_inside.png",
+      "afterSha256": "b556b686267a1e40ec04aff38f386672b9c7a7820c8dc33a629ab98fdadd1cff",
+      "beforePath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\before\\before_PARTS_inside.png",
+      "beforeSha256": "2f98198cec2dcad5d7c41ff6cd740a6e1aa7bb6cc2dab69afee6e7d6c5433f34"
+    },
+    {
+      "view": "PARTS_outside",
+      "afterPath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\after\\after_PARTS_outside.png",
+      "afterSha256": "161d035fa39b41887a51d3a040f003cd852d391c995e5223c95567bab17505c9",
+      "beforePath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\before\\before_PARTS_outside.png",
+      "beforeSha256": "8e2979352534d94cfbcefa47a3581649992da39008838cb50d81ff0a0f1d346b"
+    },
+    {
+      "view": "POWER_inside",
+      "afterPath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\after\\after_POWER_inside.png",
+      "afterSha256": "054e64d8fe134b54a779410fa77f071364e68b6a77c204b435a39dba070c1575",
+      "beforePath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\before\\before_POWER_inside.png",
+      "beforeSha256": "1b05648c9521bf494a7bd58381deacf5cafdbc825d5bd732c0da67bb853965f7"
+    },
+    {
+      "view": "POWER_outside",
+      "afterPath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\after\\after_POWER_outside.png",
+      "afterSha256": "cb106db1ef3e7ca273ee6694bc0408fa5abb1a52e1c2e12926d2b04ebe57e738",
+      "beforePath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\before\\before_POWER_outside.png",
+      "beforeSha256": "5d0f1031880cf846f5f735bfbcacb40f04e7ad0babc6c109b9f5c801688659dd"
+    },
+    {
+      "view": "semantic_W5_S11",
+      "afterPath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\after\\after_semantic_W5_S11.png",
+      "afterSha256": "81c1ee2d6755fab95881b040c553c09070314c46682e630667d41c5930167bad",
+      "beforePath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\before\\before_semantic_W5_S11.png",
+      "beforeSha256": "e2dead5efe1bbfc36cf7a50f72aed3a1687045df629030a6ba894349f706f1c7"
+    },
+    {
+      "view": "TOOLS_inside",
+      "afterPath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\after\\after_TOOLS_inside.png",
+      "afterSha256": "1248efc33726f1e0509eeb0346473d309191989f980e9157474a7255bd6c2a38",
+      "beforePath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\before\\before_TOOLS_inside.png",
+      "beforeSha256": "e59dd3fb885db9f09dd635da5847927125adfdfcf41f6761eb13a13ee56139e2"
+    },
+    {
+      "view": "TOOLS_outside",
+      "afterPath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\after\\after_TOOLS_outside.png",
+      "afterSha256": "1be7aeeb2eb397688e1129fa32830a551472fdbc1437baf4ec5433ad8ffa9ce7",
+      "beforePath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\before\\before_TOOLS_outside.png",
+      "beforeSha256": "779e44f7aa8e91fc6607e0b18e9f8e9a580d17781253920219b31ed46f2b1531"
+    },
+    {
+      "view": "W03_inside",
+      "afterPath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\after\\after_W03_inside.png",
+      "afterSha256": "8f43827f655d8044527dc5c55e7458174ff4dc03739936ad7edf261b41437072",
+      "beforePath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\before\\before_W03_inside.png",
+      "beforeSha256": "6f4c5a05de6a943a40525df1e077b8b97524809398b852dcf8450cfb213c4c5f"
+    },
+    {
+      "view": "W03_outside",
+      "afterPath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\after\\after_W03_outside.png",
+      "afterSha256": "dd844920610624dd6342d14d431fd80017b3aeb68a5486ce952bc40c055e6ec1",
+      "beforePath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\before\\before_W03_outside.png",
+      "beforeSha256": "4ab2a60c5a9709102c4268c6784cfba810ff187d638de38c72955ca18b853c59"
+    },
+    {
+      "view": "W04_inside",
+      "afterPath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\after\\after_W04_inside.png",
+      "afterSha256": "7daa0ce64c8d6c3d02f052cf2d2a75007759be4f2393c063b6bc5b43d0c894e7",
+      "beforePath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\before\\before_W04_inside.png",
+      "beforeSha256": "cdebba0f0316f8a26ebc8c7ae0361104f924de323329a1a70eff74c5d7e191ac"
+    },
+    {
+      "view": "W04_outside",
+      "afterPath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\after\\after_W04_outside.png",
+      "afterSha256": "c608f85714ced47a05a610a5c1c634d5ae786b54cac6d48795856a281368557f",
+      "beforePath": "outputs\\change_records\\2026-10-29\\a-map-behavior-visibility-fixes\\before\\before_W04_outside.png",
+      "beforeSha256": "8388e81a4e4662e1c31148ed169e2d38d32c9d0f936d34557ae018b8d70305c0"
+    }
+  ]
+}

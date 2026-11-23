@@ -1,0 +1,314 @@
+﻿{
+    "source": "V33 WC retained, D02 functional-yard revision",
+    "routes": [
+        {
+            "id": "P0_Approach",
+            "purpose": "WS to south gate along W05 exterior",
+            "width": 3.5999999046325685,
+            "points": [
+                {
+                    "x": 107.0,
+                    "y": 220.0
+                },
+                {
+                    "x": 119.0,
+                    "y": 220.0
+                },
+                {
+                    "x": 135.0,
+                    "y": 221.0
+                },
+                {
+                    "x": 144.0,
+                    "y": 222.0
+                },
+                {
+                    "x": 155.5,
+                    "y": 216.0
+                },
+                {
+                    "x": 155.5,
+                    "y": 209.0
+                }
+            ]
+        },
+        {
+            "id": "B2_Bypass",
+            "purpose": "A to C around W04 south without entering B1",
+            "width": 3.5999999046325685,
+            "points": [
+                {
+                    "x": 155.5,
+                    "y": 209.0
+                },
+                {
+                    "x": 164.0,
+                    "y": 204.0
+                },
+                {
+                    "x": 164.0,
+                    "y": 188.0
+                },
+                {
+                    "x": 155.0,
+                    "y": 185.0
+                },
+                {
+                    "x": 144.0,
+                    "y": 183.0
+                },
+                {
+                    "x": 143.0,
+                    "y": 176.0
+                },
+                {
+                    "x": 142.0,
+                    "y": 157.0
+                },
+                {
+                    "x": 142.0,
+                    "y": 150.0
+                }
+            ]
+        },
+        {
+            "id": "B1_Workface",
+            "purpose": "Optional W05 east repair walk reconnecting to B2",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 155.5,
+                    "y": 209.0
+                },
+                {
+                    "x": 148.0,
+                    "y": 205.0
+                },
+                {
+                    "x": 145.5,
+                    "y": 202.0
+                },
+                {
+                    "x": 145.5,
+                    "y": 194.0
+                },
+                {
+                    "x": 145.5,
+                    "y": 186.0
+                },
+                {
+                    "x": 144.0,
+                    "y": 183.0
+                }
+            ]
+        },
+        {
+            "id": "C_Service",
+            "purpose": "Side gate to service workface and tool point",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 143.0,
+                    "y": 174.0
+                },
+                {
+                    "x": 133.0,
+                    "y": 172.0
+                },
+                {
+                    "x": 124.0,
+                    "y": 173.0
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "A_ReceivingCar",
+            "group": "A_Receiving",
+            "prefab": "Assets/Escape/Art/FactoryV12/Prefabs/StageA_v12_RustyVehicle_Car.prefab",
+            "x": 166.5,
+            "y": 208.0,
+            "yaw": 90.0,
+            "maxWidth": 5.300000190734863,
+            "maxDepth": 3.0
+        },
+        {
+            "id": "A_InboundCrates",
+            "group": "A_Receiving",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_WeatheredMilitaryCrates.prefab",
+            "x": 168.0,
+            "y": 200.0,
+            "yaw": 90.0,
+            "maxWidth": 2.5999999046325685,
+            "maxDepth": 2.0999999046325685
+        },
+        {
+            "id": "A_OilDrums",
+            "group": "A_Receiving",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_RustyOilBarrels.prefab",
+            "x": 168.0,
+            "y": 195.5,
+            "yaw": 0.0,
+            "maxWidth": 2.200000047683716,
+            "maxDepth": 2.0
+        },
+        {
+            "id": "B1_IndustrialEngine",
+            "group": "B1_Repair",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialEngine.prefab",
+            "x": 149.5,
+            "y": 193.5,
+            "yaw": -12.0,
+            "maxWidth": 3.0999999046325685,
+            "maxDepth": 2.799999952316284
+        },
+        {
+            "id": "B1_WaitingPipes",
+            "group": "B1_Repair",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeBundle.prefab",
+            "x": 152.0,
+            "y": 199.0,
+            "yaw": 84.0,
+            "maxWidth": 3.5,
+            "maxDepth": 2.0999999046325685
+        },
+        {
+            "id": "B1_ToolCart",
+            "group": "B1_Repair",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ToolCart.prefab",
+            "x": 153.0,
+            "y": 188.5,
+            "yaw": 6.0,
+            "maxWidth": 1.5,
+            "maxDepth": 1.5
+        },
+        {
+            "id": "B1_RepairPump",
+            "group": "B1_WorkCell",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPump.prefab",
+            "x": 155.0,
+            "y": 194.0,
+            "yaw": 90.0,
+            "maxWidth": 3.799999952316284,
+            "maxDepth": 3.299999952316284
+        },
+        {
+            "id": "B1_PipeRack",
+            "group": "B1_WorkCell",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeRack.prefab",
+            "x": 158.5,
+            "y": 199.0,
+            "yaw": 0.0,
+            "maxWidth": 3.200000047683716,
+            "maxDepth": 2.200000047683716
+        },
+        {
+            "id": "B1_CableReel",
+            "group": "B1_WorkCell",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialCableReel.prefab",
+            "x": 159.0,
+            "y": 190.0,
+            "yaw": 23.0,
+            "maxWidth": 2.200000047683716,
+            "maxDepth": 2.200000047683716
+        },
+        {
+            "id": "B1_SpareFlywheel",
+            "group": "B1_WorkCell",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialFlywheel.prefab",
+            "x": 156.5,
+            "y": 202.0,
+            "yaw": -17.0,
+            "maxWidth": 2.0,
+            "maxDepth": 2.0
+        },
+        {
+            "id": "C_ServiceGenerator",
+            "group": "C_Service",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_WeatheredIndustrialGenerator.prefab",
+            "x": 129.5,
+            "y": 176.8000030517578,
+            "yaw": 8.0,
+            "maxWidth": 3.4000000953674318,
+            "maxDepth": 2.5
+        },
+        {
+            "id": "C_ToolPoint",
+            "group": "C_Service",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ToolCart.prefab",
+            "x": 121.5,
+            "y": 174.0,
+            "yaw": -20.0,
+            "maxWidth": 1.5,
+            "maxDepth": 1.5
+        },
+        {
+            "id": "C_SpareCouplings",
+            "group": "C_Service",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeCoupling.prefab",
+            "x": 114.5,
+            "y": 175.0,
+            "yaw": 25.0,
+            "maxWidth": 2.0999999046325685,
+            "maxDepth": 1.7999999523162842
+        }
+    ],
+    "anchors": [
+        {
+            "id": "P0",
+            "x": 107.0,
+            "y": 220.0
+        },
+        {
+            "id": "G1",
+            "x": 155.5,
+            "y": 216.0
+        },
+        {
+            "id": "A",
+            "x": 155.5,
+            "y": 209.0
+        },
+        {
+            "id": "B1",
+            "x": 145.5,
+            "y": 194.0
+        },
+        {
+            "id": "B2_SOUTH",
+            "x": 164.0,
+            "y": 204.0
+        },
+        {
+            "id": "B2_EAST",
+            "x": 164.0,
+            "y": 188.0
+        },
+        {
+            "id": "B2_WEST",
+            "x": 144.0,
+            "y": 183.0
+        },
+        {
+            "id": "B2_NORTH",
+            "x": 143.0,
+            "y": 176.0
+        },
+        {
+            "id": "C",
+            "x": 143.0,
+            "y": 174.0
+        },
+        {
+            "id": "C_WORKFACE",
+            "x": 124.0,
+            "y": 173.0
+        },
+        {
+            "id": "G2",
+            "x": 142.0,
+            "y": 150.0
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema": "A_MAP_BLENDER_EXPANSION_VISUAL_APPROVAL_1",
+  "approved": true,
+  "reviewer": "/root main integration review",
+  "reviewedUtc": "2026-10-28T07:48:36.3250048Z",
+  "approvedContractSha256": "b06607b437aa72cf92790f984ff65ad8de1bcf2138d52f9947da4d05d1bf8a52",
+  "performanceReviewAccepted": true,
+  "performanceReview": "Original-diagnostic same resident session yields broad GPU ~4-7% and HALL8.2% additional candidate cost; old-before absolute timing is not reproduced by original geometry either. Memory +388MB retained original/replacement meshes is documented. Current prototype tradeoff accepted, no shipping FPS claim. Weld trial rejected and exact original model dependency signature restored.",
+  "performanceEvidence": "validation/PERFORMANCE_CONTEXT_REVIEW.json",
+  "visualEvidence": "main/PARENT_VISUAL_REVIEW.md",
+  "modelRollbackEvidence": "main/WELD_ROLLBACK_VERIFIED.txt",
+  "editorPassed": 4706,
+  "playPassed": 276,
+  "lootOpened": 50,
+  "nestedFbxClonePassed": 211
+}

@@ -1,0 +1,79 @@
+UTC=2026-10-21T23:27:16.9659804Z
+scene=Assets/Escape/Scenes/SystemsTest.unity
+playing=True
+resolution=1920x1080
+rawScreen=1920x1080
+view=GameView #397834 position=(x:424.67, y:86.67, width:829.33, height:534.00) target=1920x1080 focused=GameView
+page=Stage
+location=Stage
+panel=-1
+save=C:\UnityProject\escape\Library\UiKitEvidence\input-5fd6952482d646679c392d5c9575947f
+position=(-119.00, 0.02, -129.00)
+inventory=True
+medicalWheelOpen=False
+medicalCaptureHold=False
+inventoryControllerEnabled=True
+applicationFocused=True
+useLiveInput=True
+simulationFrozen=False
+movementInputBlocked=False
+mapInputBlocked=False
+menuLocked=False
+frontEndBlocksGameplay=False
+abilitiesCanActivate=False
+abilitiesStatus=
+tacticalCooldown=0
+tacticalRemaining=0
+ultimateRemaining=0
+ultimateCharge=0
+keyboardPresent=True
+keyboardCurrent=Keyboard
+simulatedInputActive=False
+simulatedInputKey=none
+simulatedDynamicDown=False
+simulatedDynamicUp=False
+interactiveOwned=True
+interactiveSaveOwned=True
+textInputFocused=False
+isDragging=False
+dragQuantity=2147483647
+detailsVisible=False
+cameras=Player Camera pixels=1920x1080; Portrait camera pixels=768x1152 RT=768x1152
+operationTimerFit=deferred (existing styles: clock=False, caption=False)
+scrap=5000
+shopPurchased[item_003]=0
+shopPurchased[item_009]=0
+shopPurchased[item_018]=0
+shopPurchased[item_018_t2]=0
+shopPurchased[item_018_t3]=0
+shopPurchased[item_018_t4]=0
+shopPurchased[item_018_t5]=0
+shopPurchased[item_018_t6]=0
+shopPurchased[med_injector_c]=0
+loot[0]=Completed id=item_018 qty=20
+loot[1]=Completed id=item_018_t2 qty=20
+loot[2]=Completed id=item_018_t3 qty=20
+loot[3]=Completed id=item_018_t4 qty=20
+loot[4]=Completed id=item_018_t5 qty=20
+loot[5]=Completed id=item_018_t6 qty=20
+loot[6]=Completed id=med_injector_c qty=1
+loot[7]=Completed id=item_022 qty=1
+frame=10605
+vitals=health 100 stamina 100 hunger 97.83643 thirst 93.50913
+hoverCandidate=item_018_t6 uid=38ecca18599e47a3b7bbd6fd1d0641bb
+hoverRegistrationFrame=10605
+bagViewportLogical=(x:664.00, y:302.00, width:380.00, height:360.00) scroll=(0.00, 0.00)
+itemCoordinates=game-render pixels from top left; native editor offset/zoom is separate
+item[0] item_018 uid=34089f3b639c4864967a99f6acb3ec54 qty=50 page=0 grid=0,0 rotated=False logical=(x:664.00, y:302.00, width:59.00, height:59.00) centerPixels=(832.20, 397.80)
+item[1] item_018 uid=eccfea0e3aa445a99c8a7dc34b6e0845 qty=50 page=0 grid=1,0 rotated=False logical=(x:724.00, y:302.00, width:59.00, height:59.00) centerPixels=(904.20, 397.80)
+item[2] med_injector_c uid=adf2f1e865384e1dae9cd20c650a8bc5 qty=1 page=0 grid=2,0 rotated=False logical=(x:784.00, y:302.00, width:59.00, height:59.00) centerPixels=(976.20, 397.80)
+item[3] med_field_kit_b uid=d39b7c7816e841fdbc61781111d804b3 qty=1 page=0 grid=3,0 rotated=False logical=(x:844.00, y:302.00, width:59.00, height:59.00) centerPixels=(1048.20, 397.80)
+item[4] med_tactical_bag_a uid=5d7e150e71a74a75b24005987fdc82b4 qty=1 page=0 grid=4,0 rotated=False logical=(x:904.00, y:302.00, width:59.00, height:119.00) centerPixels=(1120.20, 433.80)
+item[5] med_tourniquet_b uid=1f9a098d866749a4b31f2a49ffea8692 qty=1 page=0 grid=5,0 rotated=False logical=(x:964.00, y:302.00, width:59.00, height:59.00) centerPixels=(1192.20, 397.80)
+item[6] med_analgesic_b uid=611ea39d562b4dc6bd6b3f953d316315 qty=1 page=0 grid=0,1 rotated=False logical=(x:664.00, y:362.00, width:59.00, height:59.00) centerPixels=(832.20, 469.80)
+item[7] med_analgesic_a uid=968e2421dc5d40cdafe5f8caca49affc qty=1 page=0 grid=1,1 rotated=False logical=(x:724.00, y:362.00, width:59.00, height:59.00) centerPixels=(904.20, 469.80)
+item[8] SURGERY_KIT uid=7476875186554be5bab05980658e5996 qty=1 page=0 grid=2,1 rotated=False logical=(x:784.00, y:362.00, width:59.00, height:59.00) centerPixels=(976.20, 469.80)
+item[9] med_surgery_b uid=4460e6aab70d4a32a436c6881b2f8f3d qty=1 page=0 grid=3,1 rotated=False logical=(x:844.00, y:362.00, width:59.00, height:119.00) centerPixels=(1048.20, 505.80)
+item[10] med_surgery_a uid=835b8a011f764105acae8e8241cd82c5 qty=1 page=0 grid=5,1 rotated=False logical=(x:964.00, y:362.00, width:59.00, height:119.00) centerPixels=(1192.20, 505.80)
+item[11] SD_BASIC_HELMET uid=ac6dce993d484f32819c4cb80f023756 qty=1 page=0 grid=0,2 rotated=False logical=(x:664.00, y:422.00, width:119.00, height:119.00) centerPixels=(868.20, 577.80)
+item[12] SD_BASIC_VEST uid=e4ffbf0bea364c149be29ed1943851e6 qty=1 page=0 grid=2,3 rotated=False logical=(x:784.00, y:482.00, width:179.00, height:179.00) centerPixels=(1048.20, 685.80)

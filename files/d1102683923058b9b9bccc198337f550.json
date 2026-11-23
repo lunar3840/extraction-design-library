@@ -1,0 +1,109 @@
+{
+  "audit_date_kst": "2026-10-29",
+  "scope": "Stage A authored loot, character cargo, recovered-rifle resource economics, extraction/death persistence",
+  "runtime_status": "Today runtime reviewed: geometry2010/0; controlled seed193 N4 lifecycle40/0 plus3screenshots; actual continuous B4 S08 loot search/take no-warp X3 automatic grounded extraction passed. Core overall1277/1 retains B4_PARTS physical stall as routes issue. Combat survival/economy recovery unmeasured.",
+  "source_manifest": "source_manifest_before.csv",
+  "source_changes_during_compute": 0,
+  "rules_checks": {
+    "passed": 20,
+    "failed": 0,
+    "seeds_per_character": 20000
+  },
+  "findings": [
+    {
+      "id": "LOOT-01",
+      "severity": "P3",
+      "kind": "latent_failure_handling_current_fit_and_N4_drop_passed",
+      "title": "Supported-drop placement failure permanently consumes a named boss reward event",
+      "file": "C:/UnityProject/escape/Assets/Escape/Runtime/Loot/LootTestWorld.cs",
+      "line": 68,
+      "related_lines": [
+        78,
+        94,
+        98,
+        99
+      ],
+      "evidence": "defeatedSources.Add(enemy.GetInstanceID()) occurs before physical drop fitting. If TryResolveDrop returns false, OnDefeated logs and returns. No retry, reward escrow, rollback of consumed ID or alternate persistent reward exists in this path.",
+      "reproduction": "Isolated StageMapPreview only: defeat selected N2/N3/N4 at a location where real TryResolveDrop cannot find supported clear reachable floor (crowded stair/ledge or deliberately blocked test location); observe error and missing drop. Restore clearance or duplicate callback; no reward retry. Naturally occurring occurrence is not yet demonstrated.",
+      "impact": "The rules return a guaranteed matching fragment but a failed physical placement can prevent any fragment or full cargo reaching the world. This does not prove current authored home positions fail.",
+      "recommendation": "Validate current authored homes, patrol waypoints, stairs and cramped destinations with real drop+Interactor probes. If any failure occurs, retain pending rewards and retry safely or recover to a supported reachable location before consuming defeat identity; do not spawn embedded loot. No production fix made.",
+      "runtime_update": "No failure reproduced today. 209 authored enemy locations plus12 stair fraction fitting checks passed; live N4 death created exactly1 accessible searched drop with guaranteed fragment and seeded fullchip. Failure branch still lacks retry, but current runtime does not establish an actual loss."
+    },
+    {
+      "id": "LOOT-02",
+      "severity": "P2",
+      "kind": "confirmed_transaction_and_capacity_conditions_balance_unverified",
+      "title": "Death-return rig shape and clean-chip placement prevent price-only rearm assumptions",
+      "file": "C:/UnityProject/escape/Assets/Escape/Runtime/Save/ProfileSession.cs",
+      "line": 125,
+      "related_files": [
+        {
+          "file": "C:/UnityProject/escape/Assets/Escape/Runtime/Inventory/Core/InventoryCarried.cs",
+          "line": 12
+        },
+        {
+          "file": "C:/UnityProject/escape/Assets/Escape/Runtime/Inventory/BackpackCatalog.cs",
+          "line": 21
+        },
+        {
+          "file": "C:/UnityProject/escape/Assets/Escape/Runtime/Stage/SessionTestWorld.cs",
+          "line": 137
+        }
+      ],
+      "reproduction": "See session_probe/run_session_probe.ps1 and SESSION_PROBE_RESULTS.json; isolated MemoryStore and output-only LocalProfileStore. No Unity or personal saves used.",
+      "impact": "Initial free36-cell medium pack masks both geometric purchase constraints and replacement cost. Price-only4880 pack-free fullbaseline is not directly buyable because3x3vest cannot enter6x2rig. Recovery success and natural sortie economy remain unmeasured.",
+      "recommendation": "Report explicit purchase order, chip storage and backpack choice; test real short recovery sorties. Decide support/buy-to-equipment UI policy only with design confirmation. Do not infer absolute insolvency.",
+      "evidence": "Today actual ProfileSession/InventoryState/Buy/LocalProfileStore compiled unchanged: 79 PASS. Medium36 to death-return12. Preserved3clean chips obstruct AR4x2; moving chips to storage permits rifle. Vest3x3 cannot fit6x2rig even empty. Small-pack-first unarmored AR+60T1+injector+water costs4380, leaves620 from5000; second death yieldsrig12 cash620. Full basic armor plus small pack6680 or medium pack9080 confirmed under explicit funding fixtures."
+    },
+    {
+      "id": "LOOT-03",
+      "severity": "P3",
+      "kind": "confirmed_memory_and_isolated_disk_behavior_policy_confirmation_needed",
+      "title": "Closing before the explicit death-return save can restore departure equipment",
+      "file": "C:/UnityProject/escape/Assets/Escape/Runtime/Save/ProfileSession.cs",
+      "line": 97,
+      "related_lines": [
+        84,
+        99,
+        130,
+        133,
+        136
+      ],
+      "evidence": "Today actual ProfileSession and LocalProfileStore show BeginDeath makes no storewrite. Reload before ReturnAfterDeath restores same checkpoint rifle/backpack instance IDs and excludes newly acquired Livcargo. Reload after successful deathreturn retainsDied andrig12. 79 total independent checks passed with54source/resource hashes stable.",
+      "reproduction": "session_probe/run_session_probe.ps1. MemoryStore and actual LocalProfileStore write only under loot/session_probe/isolated_disk/freshGUID. Reload recreatesProfileSession; no OS/Unity termination performed.",
+      "impact": "Unextracted new loot is not saved, but old equipment may be regained by restarting before death commit. Whether interruption rollback is intended is not established by the available current design; do not call it an approved insurance policy or a confirmed design violation.",
+      "recommendation": "Confirm intended interruption/death persistence policy and test disk behavior. If death must be irrevocable, consider an atomic pending-run/death marker with safe retry semantics. No change made."
+    }
+  ],
+  "explicit_non_findings": [
+    "High-value safe loot is not guaranteed, and35% is an additive roll rather than total discovery probability.",
+    "N2/N3/N4 guaranteed fragments plus optional8% full chips are present in current rules.",
+    "Serin is excluded from surface cargo; Yui keeps uui persisted item keys.",
+    "Full cargo does not currently purify or unlock a character; that is explicitly disclosed and is not claimed complete.",
+    "No unlimited-cash exploit or all-routes impossible economy has been demonstrated.",
+    "2026-10-28 loot50 geometry is historical evidence, not today's runtime proof."
+  ],
+  "session_policy_checks": {
+    "report": "SESSION_POLICY_CONFIRMATION.md",
+    "failed": 0,
+    "source_resources": 54,
+    "passed": 79,
+    "source_changes": 0
+  },
+  "runtime_review": {
+    "geometry_fail": 0,
+    "core_overall_fail": 1,
+    "controlled_lifecycle_fail": 0,
+    "geometry_pass": 2010,
+    "authored_drop_fit_positions": 209,
+    "stair_fraction_positions": 12,
+    "core_overall_pass": 1277,
+    "controlled_seed": 193,
+    "report": "LOOT_RUNTIME_REVIEW.md",
+    "core_actual_short_loop": "B4 → loot_s08_store → X3 → BaseCamp",
+    "controlled_lifecycle_pass": 40,
+    "core_remaining_failure": "B4_PARTS physical movement stall; route domain",
+    "actual_named": "N4",
+    "fixture_fragments_added": 4
+  }
+}

@@ -1,0 +1,835 @@
+STAGE_A_INTERIOR_V36B_ACTUAL_PLAYER_TRAVERSAL
+68 ingress/return pairs and confirmed two-opening crossings; actual PlayerMotor after Play-mode reload
+OPENINGS C01 1 scanned_Xminus_-2
+OPENINGS C02 2 scanned_Zplus_-19,scanned_Zplus_1
+OPENINGS C03 1 metadata_0
+OPENINGS C04 1 metadata_0
+OPENINGS CLINIC 1 metadata_0
+OPENINGS E01 2 metadata_0,scanned_Zplus_-17
+OPENINGS E02 1 scanned_Xminus_0
+OPENINGS E03 1 metadata_1
+OPENINGS E04 2 metadata_0,scanned_Zminus_0
+OPENINGS E05 1 metadata_1
+OPENINGS E06 1 scanned_Zminus_0
+OPENINGS E07 2 metadata_0,metadata_1
+OPENINGS E08 1 metadata_1
+OPENINGS E09 2 metadata_0,scanned_Zminus_-2
+OPENINGS E10 1 scanned_Zminus_-2
+OPENINGS E11 2 metadata_0,metadata_1
+OPENINGS E12 2 metadata_0,metadata_1
+OPENINGS F01 1 scanned_Xminus_0
+OPENINGS F02 1 scanned_Zminus_0
+OPENINGS F03 1 metadata_1
+OPENINGS N01 1 metadata_1
+OPENINGS N02 1 metadata_0
+OPENINGS N03 1 metadata_1
+OPENINGS N04 1 metadata_0
+OPENINGS N05 1 scanned_Zminus_0
+OPENINGS N06 1 scanned_Zminus_0
+OPENINGS N07 2 metadata_0,metadata_1
+OPENINGS N08 1 metadata_1
+OPENINGS N09 3 metadata_0,scanned_Zplus_-3,scanned_Zplus_3
+OPENINGS N10 2 metadata_0,scanned_Zplus_-16
+OPENINGS N11 1 metadata_1
+OPENINGS N12 1 metadata_1
+OPENINGS N13 2 metadata_0,scanned_Zplus_-17
+OPENINGS N14 1 scanned_Xminus_-1
+OPENINGS N15 2 metadata_0,scanned_Zplus_-17
+OPENINGS N16 1 scanned_Xminus_-2
+OPENINGS N17 1 metadata_0
+OPENINGS PARTS 1 metadata_0
+OPENINGS POWER 1 metadata_0
+OPENINGS S01 2 metadata_0,metadata_1
+OPENINGS S02 2 metadata_0,metadata_1
+OPENINGS S03 2 metadata_0,metadata_1
+OPENINGS S04 2 metadata_0,metadata_1
+OPENINGS S05 2 metadata_0,metadata_1
+OPENINGS S06 2 metadata_0,metadata_1
+OPENINGS S07 2 metadata_0,metadata_1
+OPENINGS S08 2 metadata_0,metadata_1
+OPENINGS S09 2 metadata_0,metadata_1
+OPENINGS S10 2 metadata_0,metadata_1
+OPENINGS S11 2 metadata_0,metadata_1
+OPENINGS S12 2 metadata_0,metadata_1
+OPENINGS TOOLS 1 metadata_0
+OPENINGS W01 1 scanned_Zminus_-1
+OPENINGS W02 1 metadata_1
+OPENINGS W03 1 metadata_1
+OPENINGS W04 1 scanned_Zminus_-1
+OPENINGS W05 2 metadata_0,scanned_Zplus_-13
+OPENINGS W06 2 metadata_0,metadata_1
+OPENINGS W07 1 metadata_1
+OPENINGS W08 2 metadata_0,scanned_Zplus_-17
+OPENINGS W09 1 metadata_0
+OPENINGS W10 2 metadata_0,metadata_1
+OPENINGS W11 2 metadata_0,metadata_1
+OPENINGS Y01 3 metadata_1,scanned_Zminus_-3,scanned_Zminus_3
+OPENINGS Y02 3 metadata_1,scanned_Zminus_-3,scanned_Zminus_3
+OPENINGS Y03 1 scanned_Xminus_-2
+OPENINGS Y04 2 metadata_0,metadata_1
+OPENINGS Y05 2 metadata_0,scanned_Zplus_-17
+CQB: six actual PlayerMotor routes through equipment-room door, service passage, and both staggered warehouse openings. Expected total=172.
+missingOpenings=
+confirmedTwoOpeningCrossings=30
+active sites=68 lanes=172
+actual PlayerMotor.Simulate with enabled CharacterController; enemies frozen; temporary player/NPC collision pairs ignored=128
+Geometry-only passage regression. Original building colliders remain enabled. This does not certify live combat/crowd traversal; ignored pairs exist only in this Play session.
+LANE C01_in pathCorners=7 start=(-60.21, 1.00, -70.43) goal=(-47.00, 1.08, -68.00)
+CAMERA_FOCUS C01_in viewport=(0.500, 0.500, 16.532) camera=(-55.86, 16.01, -62.89)
+VISIBILITY_CUE C01 outside showing=True blocker=D09_RoofPart_Roof_Administration_MainHipRoof
+VISIBILITY_CAPTURE C01 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_C01_player_outside.png
+DYNAMIC_PAIR_ASSERT C01_in pairs=128
+PASS C01_in steps=100 end=(-47.55, 1.09, -68.22)
+LANE C01_out pathCorners=7 start=(-47.00, 1.08, -68.00) goal=(-60.21, 1.00, -70.43)
+DYNAMIC_PAIR_ASSERT C01_out pairs=128
+PASS C01_out steps=100 end=(-59.67, 0.95, -70.51)
+LANE C02_in pathCorners=5 start=(-6.09, 1.81, -54.22) goal=(7.00, 1.86, -66.00)
+CAMERA_FOCUS C02_in viewport=(0.500, 0.500, 16.532) camera=(-1.74, 16.84, -46.68)
+VISIBILITY_CUE C02 outside showing=False blocker=none
+VISIBILITY_CAPTURE C02 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_C02_player_outside.png
+DYNAMIC_PAIR_ASSERT C02_in pairs=128
+PASS C02_in steps=136 end=(6.61, 1.84, -65.63)
+LANE C02_out pathCorners=5 start=(7.00, 1.86, -66.00) goal=(-6.09, 1.81, -54.22)
+DYNAMIC_PAIR_ASSERT C02_out pairs=128
+PASS C02_out steps=142 end=(-6.08, 1.78, -54.76)
+LANE C02_cross pathCorners=7 start=(-6.09, 1.81, -54.22) goal=(8.83, 1.80, -55.79)
+DYNAMIC_PAIR_ASSERT C02_cross pairs=128
+PASS C02_cross steps=208 end=(8.76, 1.72, -56.29)
+LANE C03_in pathCorners=3 start=(69.00, 2.46, -4.10) goal=(69.00, 2.52, -19.00)
+CAMERA_FOCUS C03_in viewport=(0.500, 0.500, 16.532) camera=(73.35, 17.54, 3.43)
+VISIBILITY_CUE C03 outside showing=True blocker=D09_FacadePart_Detail_Workshop_DeepSupportedWorkCanopy
+VISIBILITY_CAPTURE C03 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_C03_player_outside.png
+DYNAMIC_PAIR_ASSERT C03_in pairs=128
+PASS C03_in steps=108 end=(69.00, 2.54, -18.50)
+LANE C03_out pathCorners=3 start=(69.00, 2.52, -19.00) goal=(69.00, 2.46, -4.10)
+DYNAMIC_PAIR_ASSERT C03_out pairs=128
+PASS C03_out steps=108 end=(69.00, 2.48, -4.60)
+LANE C04_in pathCorners=3 start=(64.63, 4.14, 34.27) goal=(63.00, 4.20, 24.00)
+CAMERA_FOCUS C04_in viewport=(0.500, 0.500, 16.532) camera=(68.98, 19.16, 41.81)
+VISIBILITY_CUE C04 outside showing=False blocker=none
+VISIBILITY_CAPTURE C04 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_C04_player_outside.png
+DYNAMIC_PAIR_ASSERT C04_in pairs=128
+PASS C04_in steps=74 end=(63.08, 4.16, 24.53)
+LANE C04_out pathCorners=3 start=(63.00, 4.20, 24.00) goal=(64.63, 4.14, 34.27)
+DYNAMIC_PAIR_ASSERT C04_out pairs=128
+PASS C04_out steps=74 end=(64.54, 4.10, 33.75)
+LANE CLINIC_in pathCorners=7 start=(-160.59, 4.04, 99.35) goal=(-166.00, 4.02, 121.00)
+CAMERA_FOCUS CLINIC_in viewport=(0.500, 0.500, 16.532) camera=(-156.24, 19.08, 106.89)
+VISIBILITY_CUE CLINIC outside showing=False blocker=none
+VISIBILITY_CAPTURE CLINIC outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_CLINIC_player_outside.png
+DYNAMIC_PAIR_ASSERT CLINIC_in pairs=128
+PASS CLINIC_in steps=181 end=(-166.34, 4.02, 120.65)
+CAMERA_FOCUS CLINIC_in viewport=(0.500, 0.500, 16.532) camera=(-161.99, 19.08, 128.19)
+VISIBILITY_CUE CLINIC inside showing=False blocker=none
+VISIBILITY_CAPTURE CLINIC inside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_CLINIC_player_inside.png
+LANE CLINIC_out pathCorners=7 start=(-166.00, 4.02, 121.00) goal=(-160.59, 4.04, 99.35)
+DYNAMIC_PAIR_ASSERT CLINIC_out pairs=128
+PASS CLINIC_out steps=181 end=(-160.72, 4.02, 99.87)
+LANE E01_in pathCorners=3 start=(186.55, 6.66, 126.81) goal=(188.00, 6.72, 115.00)
+CAMERA_FOCUS E01_in viewport=(0.500, 0.500, 16.532) camera=(190.90, 21.68, 134.34)
+VISIBILITY_CUE E01 outside showing=False blocker=none
+VISIBILITY_CAPTURE E01 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_E01_player_outside.png
+DYNAMIC_PAIR_ASSERT E01_in pairs=128
+PASS E01_in steps=85 end=(187.93, 6.69, 115.56)
+LANE E01_out pathCorners=3 start=(188.00, 6.72, 115.00) goal=(186.55, 6.66, 126.81)
+DYNAMIC_PAIR_ASSERT E01_out pairs=128
+PASS E01_out steps=85 end=(186.62, 6.63, 126.25)
+LANE E01_cross pathCorners=6 start=(186.55, 6.66, 126.81) goal=(173.90, 6.69, 125.20)
+DYNAMIC_PAIR_ASSERT E01_cross pairs=128
+PASS E01_cross steps=215 end=(174.04, 6.63, 124.70)
+LANE E02_in pathCorners=5 start=(175.70, 8.35, 84.08) goal=(188.00, 8.43, 83.00)
+CAMERA_FOCUS E02_in viewport=(0.500, 0.500, 16.532) camera=(180.05, 23.41, 91.61)
+VISIBILITY_CUE E02 outside showing=True blocker=D09_RoofPart_Detail_Power_Parapet
+VISIBILITY_CAPTURE E02 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_E02_player_outside.png
+DYNAMIC_PAIR_ASSERT E02_in pairs=128
+PASS E02_in steps=89 end=(187.49, 8.41, 83.06)
+LANE E02_out pathCorners=5 start=(188.00, 8.43, 83.00) goal=(175.70, 8.35, 84.08)
+DYNAMIC_PAIR_ASSERT E02_out pairs=128
+PASS E02_out steps=89 end=(176.22, 8.35, 84.11)
+LANE E03_in pathCorners=3 start=(200.28, 6.61, 147.25) goal=(202.00, 6.66, 157.00)
+CAMERA_FOCUS E03_in viewport=(0.500, 0.500, 16.532) camera=(204.63, 21.68, 154.79)
+VISIBILITY_CUE E03 outside showing=True blocker=D09_RoofPart_Roof_Power_SteppedServiceBlocks
+VISIBILITY_CAPTURE E03 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_E03_player_outside.png
+DYNAMIC_PAIR_ASSERT E03_in pairs=128
+PASS E03_in steps=70 end=(201.90, 6.68, 156.44)
+LANE E03_out pathCorners=3 start=(202.00, 6.66, 157.00) goal=(200.28, 6.61, 147.25)
+DYNAMIC_PAIR_ASSERT E03_out pairs=128
+PASS E03_out steps=70 end=(200.38, 6.62, 147.81)
+LANE E04_in pathCorners=3 start=(119.00, 7.28, 64.40) goal=(119.00, 7.50, 54.00)
+CAMERA_FOCUS E04_in viewport=(0.500, 0.500, 16.532) camera=(123.35, 22.34, 71.93)
+VISIBILITY_CUE E04 outside showing=True blocker=D09_FacadePart_Detail_Logistics_DeepSteelLoadingCanopy
+VISIBILITY_CAPTURE E04 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_E04_player_outside.png
+DYNAMIC_PAIR_ASSERT E04_in pairs=128
+PASS E04_in steps=74 end=(119.00, 7.47, 54.53)
+LANE E04_out pathCorners=3 start=(119.00, 7.50, 54.00) goal=(119.00, 7.28, 64.40)
+DYNAMIC_PAIR_ASSERT E04_out pairs=128
+PASS E04_out steps=74 end=(119.00, 7.36, 63.87)
+LANE E04_cross pathCorners=5 start=(119.00, 7.28, 64.40) goal=(119.00, 7.02, 43.65)
+DYNAMIC_PAIR_ASSERT E04_cross pairs=128
+PASS E04_cross steps=152 end=(119.00, 7.15, 44.13)
+LANE E05_in pathCorners=3 start=(102.86, 2.94, -5.27) goal=(101.00, 3.00, 8.00)
+CAMERA_FOCUS E05_in viewport=(0.500, 0.500, 16.532) camera=(107.21, 18.01, 2.27)
+VISIBILITY_CUE E05 outside showing=True blocker=D09_RoofPart_Roof_Logistics_UnequalGable_1
+VISIBILITY_CAPTURE E05 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_E05_player_outside.png
+DYNAMIC_PAIR_ASSERT E05_in pairs=128
+PASS E05_in steps=96 end=(101.08, 3.01, 7.41)
+LANE E05_out pathCorners=3 start=(101.00, 3.00, 8.00) goal=(102.86, 2.94, -5.27)
+DYNAMIC_PAIR_ASSERT E05_out pairs=128
+PASS E05_out steps=96 end=(102.78, 2.95, -4.68)
+LANE E06_in pathCorners=3 start=(121.40, 2.65, -37.33) goal=(122.00, 3.06, -26.00)
+CAMERA_FOCUS E06_in viewport=(0.500, 0.500, 16.532) camera=(125.75, 17.69, -29.80)
+VISIBILITY_CUE E06 outside showing=True blocker=D09_RoofPart_Roof_Logistics_UnequalGable_1
+VISIBILITY_CAPTURE E06 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_E06_player_outside.png
+DYNAMIC_PAIR_ASSERT E06_in pairs=128
+PASS E06_in steps=81 end=(121.97, 3.08, -26.55)
+LANE E06_out pathCorners=3 start=(122.00, 3.06, -26.00) goal=(121.40, 2.65, -37.33)
+DYNAMIC_PAIR_ASSERT E06_out pairs=128
+PASS E06_out steps=81 end=(121.43, 2.79, -36.79)
+LANE E07_in pathCorners=3 start=(222.00, 3.93, 29.40) goal=(222.00, 3.96, 17.00)
+CAMERA_FOCUS E07_in viewport=(0.500, 0.500, 16.532) camera=(226.35, 18.95, 36.93)
+VISIBILITY_CUE E07 outside showing=True blocker=D09_FacadePart_Detail_Administration_EntryPorch
+VISIBILITY_CAPTURE E07 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_E07_player_outside.png
+DYNAMIC_PAIR_ASSERT E07_in pairs=128
+PASS E07_in steps=89 end=(222.00, 3.96, 17.53)
+LANE E07_out pathCorners=3 start=(222.00, 3.96, 17.00) goal=(222.00, 3.93, 29.40)
+DYNAMIC_PAIR_ASSERT E07_out pairs=128
+PASS E07_out steps=89 end=(222.00, 3.89, 28.87)
+LANE E07_cross pathCorners=5 start=(222.00, 3.93, 29.40) goal=(222.00, 3.90, 4.60)
+DYNAMIC_PAIR_ASSERT E07_cross pairs=128
+PASS E07_cross steps=182 end=(222.00, 3.89, 5.13)
+LANE E08_in pathCorners=3 start=(95.53, 1.42, -66.28) goal=(97.00, 1.86, -57.00)
+CAMERA_FOCUS E08_in viewport=(0.500, 0.500, 16.532) camera=(99.88, 16.42, -58.75)
+VISIBILITY_CUE E08 outside showing=True blocker=D09_RoofPart_Roof_Workshop_OffsetShed_1
+VISIBILITY_CAPTURE E08 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_E08_player_outside.png
+DYNAMIC_PAIR_ASSERT E08_in pairs=128
+PASS E08_in steps=66 end=(96.91, 1.88, -57.59)
+CAMERA_FOCUS E08_in viewport=(0.500, 0.500, 16.532) camera=(101.26, 16.93, -50.06)
+VISIBILITY_CUE E08 inside showing=False blocker=none
+VISIBILITY_CAPTURE E08 inside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_E08_player_inside.png
+LANE E08_out pathCorners=3 start=(97.00, 1.86, -57.00) goal=(95.53, 1.42, -66.28)
+DYNAMIC_PAIR_ASSERT E08_out pairs=128
+PASS E08_out steps=66 end=(95.62, 1.54, -65.69)
+LANE E09_in pathCorners=3 start=(70.76, 0.92, -73.20) goal=(72.00, 1.02, -81.00)
+CAMERA_FOCUS E09_in viewport=(0.500, 0.500, 16.532) camera=(75.11, 15.96, -65.66)
+VISIBILITY_CUE E09 outside showing=False blocker=none
+VISIBILITY_CAPTURE E09 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_E09_player_outside.png
+DYNAMIC_PAIR_ASSERT E09_in pairs=128
+PASS E09_in steps=55 end=(71.91, 1.01, -80.44)
+LANE E09_out pathCorners=3 start=(72.00, 1.02, -81.00) goal=(70.76, 0.92, -73.20)
+DYNAMIC_PAIR_ASSERT E09_out pairs=128
+PASS E09_out steps=55 end=(70.85, 0.87, -73.76)
+LANE E09_cross pathCorners=6 start=(70.76, 0.92, -73.20) goal=(72.49, 0.64, -88.72)
+DYNAMIC_PAIR_ASSERT E09_cross pairs=128
+PASS E09_cross steps=115 end=(72.37, 0.73, -88.21)
+LANE E10_in pathCorners=4 start=(153.91, 2.00, -65.25) goal=(154.00, 2.40, -58.00)
+CAMERA_FOCUS E10_in viewport=(0.500, 0.500, 16.532) camera=(158.27, 16.99, -57.71)
+VISIBILITY_CUE E10 outside showing=True blocker=D09_RoofPart_Shell_SealedService_LaboratoryAnnex
+VISIBILITY_CAPTURE E10 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_E10_player_outside.png
+DYNAMIC_PAIR_ASSERT E10_in pairs=128
+PASS E10_in steps=52 end=(153.91, 2.36, -58.54)
+LANE E10_out pathCorners=4 start=(154.00, 2.40, -58.00) goal=(153.91, 2.00, -65.25)
+DYNAMIC_PAIR_ASSERT E10_out pairs=128
+PASS E10_out steps=52 end=(153.81, 2.10, -64.68)
+LANE E11_in pathCorners=3 start=(237.59, 4.08, 95.29) goal=(236.00, 4.14, 84.00)
+CAMERA_FOCUS E11_in viewport=(0.500, 0.500, 16.532) camera=(241.94, 19.11, 102.83)
+VISIBILITY_CUE E11 outside showing=False blocker=none
+VISIBILITY_CAPTURE E11 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_E11_player_outside.png
+DYNAMIC_PAIR_ASSERT E11_in pairs=128
+PASS E11_in steps=82 end=(236.07, 4.15, 84.46)
+LANE E11_out pathCorners=3 start=(236.00, 4.14, 84.00) goal=(237.59, 4.08, 95.29)
+DYNAMIC_PAIR_ASSERT E11_out pairs=128
+PASS E11_out steps=82 end=(237.52, 4.08, 94.83)
+LANE E11_cross pathCorners=5 start=(237.59, 4.08, 95.29) goal=(234.41, 3.81, 72.71)
+DYNAMIC_PAIR_ASSERT E11_cross pairs=128
+PASS E11_cross steps=167 end=(234.49, 3.91, 73.24)
+LANE E12_in pathCorners=3 start=(233.06, 5.19, 147.37) goal=(234.00, 5.28, 134.00)
+CAMERA_FOCUS E12_in viewport=(0.500, 0.500, 16.532) camera=(237.41, 20.19, 154.90)
+VISIBILITY_CUE E12 outside showing=True blocker=D09_FacadePart_Detail_Logistics_DeepSteelLoadingCanopy
+VISIBILITY_CAPTURE E12 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_E12_player_outside.png
+DYNAMIC_PAIR_ASSERT E12_in pairs=128
+PASS E12_in steps=96 end=(233.96, 5.27, 134.60)
+LANE E12_out pathCorners=3 start=(234.00, 5.28, 134.00) goal=(233.06, 5.19, 147.37)
+DYNAMIC_PAIR_ASSERT E12_out pairs=128
+PASS E12_out steps=96 end=(233.10, 5.18, 146.77)
+LANE E12_cross pathCorners=5 start=(233.06, 5.19, 147.37) goal=(234.94, 5.01, 120.63)
+DYNAMIC_PAIR_ASSERT E12_cross pairs=128
+PASS E12_cross steps=197 end=(234.90, 5.05, 121.16)
+LANE F01_in pathCorners=5 start=(137.84, 0.06, -153.14) goal=(150.00, 0.12, -151.00)
+CAMERA_FOCUS F01_in viewport=(0.500, 0.500, 16.532) camera=(142.19, 15.08, -145.61)
+VISIBILITY_CUE F01 outside showing=True blocker=D09_RoofPart_Roof_Waterworks_MainSteepShed
+VISIBILITY_CAPTURE F01 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_F01_player_outside.png
+DYNAMIC_PAIR_ASSERT F01_in pairs=128
+PASS F01_in steps=89 end=(149.48, 0.13, -151.07)
+LANE F01_out pathCorners=5 start=(150.00, 0.12, -151.00) goal=(137.84, 0.06, -153.14)
+DYNAMIC_PAIR_ASSERT F01_out pairs=128
+PASS F01_out steps=89 end=(138.33, 0.02, -152.97)
+LANE F02_in pathCorners=3 start=(203.61, 0.41, -158.26) goal=(205.00, 0.84, -147.00)
+CAMERA_FOCUS F02_in viewport=(0.500, 0.500, 16.532) camera=(207.96, 15.45, -150.73)
+VISIBILITY_CUE F02 outside showing=True blocker=D09_RoofPart_Roof_Waterworks_MainSteepShed
+VISIBILITY_CAPTURE F02 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_F02_player_outside.png
+DYNAMIC_PAIR_ASSERT F02_in pairs=128
+PASS F02_in steps=81 end=(204.93, 0.85, -147.55)
+LANE F02_out pathCorners=3 start=(205.00, 0.84, -147.00) goal=(203.61, 0.41, -158.26)
+DYNAMIC_PAIR_ASSERT F02_out pairs=128
+PASS F02_out steps=81 end=(203.68, 0.55, -157.72)
+LANE F03_in pathCorners=3 start=(105.00, -0.06, -189.40) goal=(105.00, 0.06, -182.00)
+CAMERA_FOCUS F03_in viewport=(0.500, 0.500, 16.532) camera=(109.35, 15.00, -181.87)
+VISIBILITY_CUE F03 outside showing=True blocker=D09_RoofPart_Detail_Roof_Waterworks_MainSteepShed_StandingSeams
+VISIBILITY_CAPTURE F03 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_F03_player_outside.png
+DYNAMIC_PAIR_ASSERT F03_in pairs=128
+PASS F03_in steps=51 end=(105.00, 0.07, -182.60)
+LANE F03_out pathCorners=3 start=(105.00, 0.06, -182.00) goal=(105.00, -0.06, -189.40)
+DYNAMIC_PAIR_ASSERT F03_out pairs=128
+PASS F03_out steps=51 end=(105.00, -0.06, -188.80)
+LANE N01_in pathCorners=3 start=(-218.53, 3.66, 155.71) goal=(-220.00, 3.72, 165.00)
+CAMERA_FOCUS N01_in viewport=(0.500, 0.500, 16.532) camera=(-214.18, 18.69, 163.25)
+VISIBILITY_CUE N01 outside showing=True blocker=D09_RoofPart_Roof_Administration_AnnexHipRoof
+VISIBILITY_CAPTURE N01 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_N01_player_outside.png
+DYNAMIC_PAIR_ASSERT N01_in pairs=128
+PASS N01_in steps=67 end=(-219.93, 3.69, 164.54)
+LANE N01_out pathCorners=3 start=(-220.00, 3.72, 165.00) goal=(-218.53, 3.66, 155.71)
+DYNAMIC_PAIR_ASSERT N01_out pairs=128
+PASS N01_out steps=67 end=(-218.60, 3.63, 156.18)
+LANE N02_in pathCorners=3 start=(-221.36, 2.28, 122.30) goal=(-223.00, 2.46, 109.00)
+CAMERA_FOCUS N02_in viewport=(0.500, 0.500, 16.532) camera=(-217.01, 17.28, 129.83)
+VISIBILITY_CUE N02 outside showing=False blocker=none
+VISIBILITY_CAPTURE N02 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_N02_player_outside.png
+DYNAMIC_PAIR_ASSERT N02_in pairs=128
+PASS N02_in steps=96 end=(-222.93, 2.48, 109.60)
+LANE N02_out pathCorners=3 start=(-223.00, 2.46, 109.00) goal=(-221.36, 2.28, 122.30)
+DYNAMIC_PAIR_ASSERT N02_out pairs=128
+PASS N02_out steps=96 end=(-221.44, 2.31, 121.70)
+LANE N03_in pathCorners=3 start=(-115.86, 6.60, 136.14) goal=(-115.00, 6.66, 146.00)
+CAMERA_FOCUS N03_in viewport=(0.500, 0.500, 16.532) camera=(-111.51, 21.66, 143.67)
+VISIBILITY_CUE N03 outside showing=True blocker=D09_RoofPart_Roof_Administration_AnnexHipRoof
+VISIBILITY_CAPTURE N03 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_N03_player_outside.png
+DYNAMIC_PAIR_ASSERT N03_in pairs=128
+PASS N03_in steps=70 end=(-115.05, 6.67, 145.43)
+LANE N03_out pathCorners=3 start=(-115.00, 6.66, 146.00) goal=(-115.86, 6.60, 136.14)
+DYNAMIC_PAIR_ASSERT N03_out pairs=128
+PASS N03_out steps=70 end=(-115.81, 6.61, 136.70)
+LANE N04_in pathCorners=3 start=(-85.00, 7.79, 128.40) goal=(-85.00, 8.22, 116.00)
+CAMERA_FOCUS N04_in viewport=(0.500, 0.500, 16.532) camera=(-80.65, 22.81, 135.93)
+VISIBILITY_CUE N04 outside showing=False blocker=none
+VISIBILITY_CAPTURE N04 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_N04_player_outside.png
+CAMERA_FOCUS N04_in viewport=(0.500, 0.500, 16.532) camera=(-80.65, 22.85, 108.84)
+VISIBILITY_CUE N04 rear_outside showing=False blocker=none
+REAR_VISIBILITY_CAPTURE N04=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_N04_player_rear_outside.png position=(-85.00, 7.79, 101.31)
+CAMERA_FOCUS N04_in viewport=(0.500, 0.500, 16.532) camera=(-80.65, 22.81, 135.93)
+VISIBILITY_CUE N04 outside_restored showing=False blocker=none
+DYNAMIC_PAIR_ASSERT N04_in pairs=128
+PASS N04_in steps=89 end=(-85.00, 8.24, 116.53)
+CAMERA_FOCUS N04_in viewport=(0.500, 0.500, 16.532) camera=(-80.65, 23.29, 124.07)
+VISIBILITY_CUE N04 inside showing=False blocker=none
+VISIBILITY_CAPTURE N04 inside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_N04_player_inside.png
+LANE N04_out pathCorners=3 start=(-85.00, 8.22, 116.00) goal=(-85.00, 7.79, 128.40)
+DYNAMIC_PAIR_ASSERT N04_out pairs=128
+PASS N04_out steps=89 end=(-85.00, 7.91, 127.87)
+LANE N05_in pathCorners=3 start=(-157.00, 3.31, 64.65) goal=(-157.00, 3.78, 72.00)
+CAMERA_FOCUS N05_in viewport=(0.500, 0.500, 16.532) camera=(-152.65, 18.32, 72.18)
+VISIBILITY_CUE N05 outside showing=True blocker=D09_RoofPart_Roof_Medical_LowAnnexHip
+VISIBILITY_CAPTURE N05 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_N05_player_outside.png
+DYNAMIC_PAIR_ASSERT N05_in pairs=128
+PASS N05_in steps=51 end=(-157.00, 3.77, 71.45)
+LANE N05_out pathCorners=3 start=(-157.00, 3.78, 72.00) goal=(-157.00, 3.31, 64.65)
+DYNAMIC_PAIR_ASSERT N05_out pairs=128
+PASS N05_out steps=51 end=(-157.00, 3.44, 65.20)
+LANE N06_in pathCorners=3 start=(-189.77, 2.58, 55.23) goal=(-191.00, 3.00, 64.00)
+CAMERA_FOCUS N06_in viewport=(0.500, 0.500, 16.532) camera=(-185.42, 17.56, 62.77)
+VISIBILITY_CUE N06 outside showing=True blocker=D09_RoofPart_Roof_Medical_LowAnnexHip
+VISIBILITY_CAPTURE N06 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_N06_player_outside.png
+DYNAMIC_PAIR_ASSERT N06_in pairs=128
+PASS N06_in steps=62 end=(-190.92, 3.02, 63.42)
+LANE N06_out pathCorners=3 start=(-191.00, 3.00, 64.00) goal=(-189.77, 2.58, 55.23)
+DYNAMIC_PAIR_ASSERT N06_out pairs=128
+PASS N06_out steps=62 end=(-189.85, 2.69, 55.81)
+LANE N07_in pathCorners=3 start=(-68.00, 8.26, 102.40) goal=(-68.00, 8.28, 96.00)
+CAMERA_FOCUS N07_in viewport=(0.500, 0.500, 16.532) camera=(-63.65, 23.24, 109.93)
+VISIBILITY_CUE N07 outside showing=False blocker=none
+VISIBILITY_CAPTURE N07 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_N07_player_outside.png
+DYNAMIC_PAIR_ASSERT N07_in pairs=128
+PASS N07_in steps=44 end=(-68.00, 8.25, 96.53)
+LANE N07_out pathCorners=3 start=(-68.00, 8.28, 96.00) goal=(-68.00, 8.26, 102.40)
+DYNAMIC_PAIR_ASSERT N07_out pairs=128
+PASS N07_out steps=44 end=(-68.00, 8.19, 101.87)
+LANE N07_cross pathCorners=5 start=(-68.00, 8.26, 102.40) goal=(-68.00, 8.22, 89.60)
+DYNAMIC_PAIR_ASSERT N07_cross pairs=128
+PASS N07_cross steps=92 end=(-68.00, 8.19, 90.13)
+LANE N08_in pathCorners=3 start=(-74.00, 7.99, 135.60) goal=(-74.00, 8.22, 145.00)
+CAMERA_FOCUS N08_in viewport=(0.500, 0.500, 16.532) camera=(-69.65, 23.00, 143.13)
+VISIBILITY_CUE N08 outside showing=True blocker=D09_RoofPart_Roof_Power_SteppedServiceBlocks
+VISIBILITY_CAPTURE N08 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_N08_player_outside.png
+DYNAMIC_PAIR_ASSERT N08_in pairs=128
+PASS N08_in steps=66 end=(-74.00, 8.22, 144.40)
+LANE N08_out pathCorners=3 start=(-74.00, 8.22, 145.00) goal=(-74.00, 7.99, 135.60)
+DYNAMIC_PAIR_ASSERT N08_out pairs=128
+PASS N08_out steps=66 end=(-74.00, 8.04, 136.20)
+LANE N09_in pathCorners=3 start=(-30.09, 9.18, 138.34) goal=(-29.00, 9.36, 128.00)
+CAMERA_FOCUS N09_in viewport=(0.500, 0.500, 16.532) camera=(-25.74, 24.16, 145.88)
+VISIBILITY_CUE N09 outside showing=True blocker=D09_FacadePart_Detail_Workshop_DeepSupportedWorkCanopy
+VISIBILITY_CAPTURE N09 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_N09_player_outside.png
+DYNAMIC_PAIR_ASSERT N09_in pairs=128
+PASS N09_in steps=74 end=(-29.06, 9.35, 128.53)
+LANE N09_out pathCorners=3 start=(-29.00, 9.36, 128.00) goal=(-30.09, 9.18, 138.34)
+DYNAMIC_PAIR_ASSERT N09_out pairs=128
+PASS N09_out steps=74 end=(-30.03, 9.18, 137.81)
+LANE N10_in pathCorners=3 start=(12.48, 7.74, 121.64) goal=(10.00, 7.80, 110.00)
+CAMERA_FOCUS N10_in viewport=(0.500, 0.500, 16.532) camera=(16.83, 22.80, 129.17)
+VISIBILITY_CUE N10 outside showing=False blocker=none
+VISIBILITY_CAPTURE N10 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_N10_player_outside.png
+DYNAMIC_PAIR_ASSERT N10_in pairs=128
+PASS N10_in steps=85 end=(10.12, 7.81, 110.55)
+LANE N10_out pathCorners=3 start=(10.00, 7.80, 110.00) goal=(12.48, 7.74, 121.64)
+DYNAMIC_PAIR_ASSERT N10_out pairs=128
+PASS N10_out steps=85 end=(12.36, 7.74, 121.09)
+LANE N10_cross pathCorners=8 start=(12.48, 7.74, 121.64) goal=(0.73, 7.80, 124.09)
+DYNAMIC_PAIR_ASSERT N10_cross pairs=128
+PASS N10_cross steps=211 end=(0.70, 7.74, 123.61)
+LANE N11_in pathCorners=3 start=(48.16, 9.06, 81.83) goal=(46.00, 9.12, 92.00)
+CAMERA_FOCUS N11_in viewport=(0.500, 0.500, 16.532) camera=(52.51, 24.08, 89.37)
+VISIBILITY_CUE N11 outside showing=True blocker=D09_RoofPart_Roof_Administration_AnnexHipRoof
+VISIBILITY_CAPTURE N11 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_N11_player_outside.png
+DYNAMIC_PAIR_ASSERT N11_in pairs=128
+PASS N11_in steps=74 end=(46.11, 9.08, 91.48)
+LANE N11_out pathCorners=3 start=(46.00, 9.12, 92.00) goal=(48.16, 9.06, 81.83)
+DYNAMIC_PAIR_ASSERT N11_out pairs=128
+PASS N11_out steps=74 end=(48.05, 9.02, 82.35)
+LANE N12_in pathCorners=3 start=(69.91, 9.06, 105.77) goal=(72.00, 9.12, 119.00)
+CAMERA_FOCUS N12_in viewport=(0.500, 0.500, 16.532) camera=(74.26, 24.08, 113.30)
+VISIBILITY_CUE N12 outside showing=True blocker=D09_RoofPart_Roof_Power_SteppedServiceBlocks
+VISIBILITY_CAPTURE N12 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_N12_player_outside.png
+DYNAMIC_PAIR_ASSERT N12_in pairs=128
+PASS N12_in steps=96 end=(71.91, 9.08, 118.41)
+LANE N12_out pathCorners=3 start=(72.00, 9.12, 119.00) goal=(69.91, 9.06, 105.77)
+DYNAMIC_PAIR_ASSERT N12_out pairs=128
+PASS N12_out steps=96 end=(70.00, 9.02, 106.36)
+LANE N13_in pathCorners=3 start=(17.85, 9.32, 170.33) goal=(19.00, 9.36, 161.00)
+CAMERA_FOCUS N13_in viewport=(0.500, 0.500, 16.532) camera=(22.20, 24.33, 177.86)
+VISIBILITY_CUE N13 outside showing=False blocker=none
+VISIBILITY_CAPTURE N13 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_N13_player_outside.png
+DYNAMIC_PAIR_ASSERT N13_in pairs=128
+PASS N13_in steps=66 end=(18.93, 9.34, 161.60)
+LANE N13_out pathCorners=3 start=(19.00, 9.36, 161.00) goal=(17.85, 9.32, 170.33)
+DYNAMIC_PAIR_ASSERT N13_out pairs=128
+PASS N13_out steps=66 end=(17.93, 9.28, 169.73)
+LANE N13_cross pathCorners=6 start=(17.85, 9.32, 170.33) goal=(5.20, 9.29, 168.72)
+DYNAMIC_PAIR_ASSERT N13_cross pairs=128
+PASS N13_cross steps=187 end=(5.34, 9.28, 168.24)
+LANE N14_in pathCorners=4 start=(59.15, 9.06, 84.25) goal=(68.00, 9.12, 85.00)
+CAMERA_FOCUS N14_in viewport=(0.500, 0.500, 16.532) camera=(63.50, 24.08, 91.78)
+VISIBILITY_CUE N14 outside showing=True blocker=D09_RoofPart_Detail_Power_Parapet
+VISIBILITY_CAPTURE N14 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_N14_player_outside.png
+DYNAMIC_PAIR_ASSERT N14_in pairs=128
+PASS N14_in steps=63 end=(67.52, 9.08, 84.96)
+LANE N14_out pathCorners=4 start=(68.00, 9.12, 85.00) goal=(59.15, 9.06, 84.25)
+DYNAMIC_PAIR_ASSERT N14_out pairs=128
+PASS N14_out steps=63 end=(59.63, 9.02, 84.32)
+LANE N15_in pathCorners=3 start=(-50.92, 8.58, 84.83) goal=(-52.00, 8.64, 76.00)
+CAMERA_FOCUS N15_in viewport=(0.500, 0.500, 16.532) camera=(-46.57, 23.62, 92.37)
+VISIBILITY_CUE N15 outside showing=True blocker=D09_FacadePart_Detail_Workshop_DeepSupportedWorkCanopy
+VISIBILITY_CAPTURE N15 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_N15_player_outside.png
+DYNAMIC_PAIR_ASSERT N15_in pairs=128
+PASS N15_in steps=63 end=(-51.94, 8.62, 76.50)
+LANE N15_out pathCorners=3 start=(-52.00, 8.64, 76.00) goal=(-50.92, 8.58, 84.83)
+DYNAMIC_PAIR_ASSERT N15_out pairs=128
+PASS N15_out steps=63 end=(-50.98, 8.56, 84.34)
+LANE N15_cross pathCorners=7 start=(-50.92, 8.58, 84.83) goal=(-63.58, 8.53, 86.34)
+DYNAMIC_PAIR_ASSERT N15_cross pairs=128
+PASS N15_cross steps=183 end=(-63.56, 8.56, 85.85)
+LANE N16_in pathCorners=7 start=(-24.35, 3.42, 57.50) goal=(-11.00, 3.48, 59.00)
+CAMERA_FOCUS N16_in viewport=(0.500, 0.500, 16.532) camera=(-20.00, 18.44, 65.03)
+VISIBILITY_CUE N16 outside showing=True blocker=D09_RoofPart_Roof_Workshop_OffsetShed_0
+VISIBILITY_CAPTURE N16 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_N16_player_outside.png
+DYNAMIC_PAIR_ASSERT N16_in pairs=128
+PASS N16_in steps=100 end=(-11.51, 3.45, 59.00)
+LANE N16_out pathCorners=7 start=(-11.00, 3.48, 59.00) goal=(-24.35, 3.42, 57.50)
+DYNAMIC_PAIR_ASSERT N16_out pairs=128
+PASS N16_out steps=100 end=(-23.80, 3.38, 57.63)
+LANE N17_in pathCorners=3 start=(35.00, 6.67, 62.40) goal=(35.00, 6.72, 53.00)
+CAMERA_FOCUS N17_in viewport=(0.500, 0.500, 16.532) camera=(39.35, 21.73, 69.93)
+VISIBILITY_CUE N17 outside showing=False blocker=none
+VISIBILITY_CAPTURE N17 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_N17_player_outside.png
+DYNAMIC_PAIR_ASSERT N17_in pairs=128
+PASS N17_in steps=67 end=(35.00, 6.74, 53.47)
+LANE N17_out pathCorners=3 start=(35.00, 6.72, 53.00) goal=(35.00, 6.67, 62.40)
+DYNAMIC_PAIR_ASSERT N17_out pairs=128
+PASS N17_out steps=67 end=(35.00, 6.68, 61.93)
+LANE PARTS_in pathCorners=5 start=(152.74, 3.04, -22.14) goal=(174.50, 3.06, -2.50)
+CAMERA_FOCUS PARTS_in viewport=(0.500, 0.500, 16.532) camera=(157.09, 18.08, -14.60)
+VISIBILITY_CUE PARTS outside showing=True blocker=D09_RoofPart_Roof_Logistics_UnequalGable_0
+VISIBILITY_CAPTURE PARTS outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_PARTS_player_outside.png
+DYNAMIC_PAIR_ASSERT PARTS_in pairs=128
+PASS PARTS_in steps=226 end=(174.23, 3.02, -2.99)
+CAMERA_FOCUS PARTS_in viewport=(0.500, 0.500, 16.532) camera=(178.58, 18.08, 4.54)
+VISIBILITY_CUE PARTS inside showing=False blocker=none
+VISIBILITY_CAPTURE PARTS inside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_PARTS_player_inside.png
+LANE PARTS_out pathCorners=5 start=(174.50, 3.06, -2.50) goal=(152.74, 3.04, -22.14)
+DYNAMIC_PAIR_ASSERT PARTS_out pairs=128
+PASS PARTS_out steps=226 end=(153.17, 3.02, -21.78)
+LANE POWER_in pathCorners=3 start=(102.37, 12.02, 114.47) goal=(128.50, 12.06, 107.00)
+CAMERA_FOCUS POWER_in viewport=(0.500, 0.500, 16.532) camera=(106.72, 27.08, 122.00)
+VISIBILITY_CUE POWER outside showing=True blocker=D09_FacadePart_Detail_Power_ProjectingButtresses
+VISIBILITY_CAPTURE POWER outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_POWER_player_outside.png
+CAMERA_FOCUS POWER_in viewport=(0.500, 0.500, 16.532) camera=(167.39, 25.94, 104.67)
+VISIBILITY_CUE POWER rear_outside showing=False blocker=none
+REAR_VISIBILITY_CAPTURE POWER=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_POWER_player_rear_outside.png position=(163.04, 10.88, 97.13)
+CAMERA_FOCUS POWER_in viewport=(0.500, 0.500, 16.532) camera=(106.72, 27.08, 122.00)
+VISIBILITY_CUE POWER outside_restored showing=True blocker=D09_FacadePart_Detail_Power_ProjectingButtresses
+DYNAMIC_PAIR_ASSERT POWER_in pairs=128
+PASS POWER_in steps=200 end=(128.01, 12.02, 107.14)
+CAMERA_FOCUS POWER_in viewport=(0.500, 0.500, 16.532) camera=(132.36, 27.08, 114.68)
+VISIBILITY_CUE POWER inside showing=False blocker=none
+VISIBILITY_CAPTURE POWER inside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_POWER_player_inside.png
+LANE POWER_out pathCorners=3 start=(128.50, 12.06, 107.00) goal=(102.37, 12.02, 114.47)
+DYNAMIC_PAIR_ASSERT POWER_out pairs=128
+PASS POWER_out steps=200 end=(102.86, 12.01, 114.33)
+LANE S01_in pathCorners=3 start=(-204.73, 0.07, -60.34) goal=(-207.00, 0.12, -71.00)
+CAMERA_FOCUS S01_in viewport=(0.500, 0.500, 16.532) camera=(-200.38, 15.11, -52.80)
+VISIBILITY_CUE S01 outside showing=False blocker=none
+VISIBILITY_CAPTURE S01 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_S01_player_outside.png
+DYNAMIC_PAIR_ASSERT S01_in pairs=128
+PASS S01_in steps=78 end=(-206.90, 0.12, -70.51)
+LANE S01_out pathCorners=3 start=(-207.00, 0.12, -71.00) goal=(-204.73, 0.07, -60.34)
+DYNAMIC_PAIR_ASSERT S01_out pairs=128
+PASS S01_out steps=78 end=(-204.84, 0.05, -60.83)
+LANE S01_cross pathCorners=5 start=(-204.73, 0.07, -60.34) goal=(-209.27, 0.06, -81.66)
+DYNAMIC_PAIR_ASSERT S01_cross pairs=128
+PASS S01_cross steps=160 end=(-209.17, 0.02, -81.20)
+LANE S02_in pathCorners=3 start=(-173.03, 0.14, -69.16) goal=(-172.00, 0.18, -79.00)
+CAMERA_FOCUS S02_in viewport=(0.500, 0.500, 16.532) camera=(-168.68, 15.17, -61.62)
+VISIBILITY_CUE S02 outside showing=False blocker=none
+VISIBILITY_CAPTURE S02 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_S02_player_outside.png
+DYNAMIC_PAIR_ASSERT S02_in pairs=128
+PASS S02_in steps=70 end=(-172.06, 0.19, -78.44)
+LANE S02_out pathCorners=3 start=(-172.00, 0.18, -79.00) goal=(-173.03, 0.14, -69.16)
+DYNAMIC_PAIR_ASSERT S02_out pairs=128
+PASS S02_out steps=70 end=(-172.97, 0.10, -69.72)
+LANE S02_cross pathCorners=5 start=(-173.03, 0.14, -69.16) goal=(-170.97, 0.06, -88.84)
+DYNAMIC_PAIR_ASSERT S02_cross pairs=128
+PASS S02_cross steps=144 end=(-171.03, 0.06, -88.25)
+LANE S03_in pathCorners=3 start=(-140.69, 0.12, -64.69) goal=(-142.00, 0.18, -74.00)
+CAMERA_FOCUS S03_in viewport=(0.500, 0.500, 16.532) camera=(-136.34, 15.14, -57.15)
+VISIBILITY_CUE S03 outside showing=False blocker=none
+VISIBILITY_CAPTURE S03 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_S03_player_outside.png
+DYNAMIC_PAIR_ASSERT S03_in pairs=128
+PASS S03_in steps=67 end=(-141.93, 0.19, -73.53)
+LANE S03_out pathCorners=3 start=(-142.00, 0.18, -74.00) goal=(-140.69, 0.12, -64.69)
+DYNAMIC_PAIR_ASSERT S03_out pairs=128
+PASS S03_out steps=67 end=(-140.75, 0.07, -65.15)
+LANE S03_cross pathCorners=5 start=(-140.69, 0.12, -64.69) goal=(-143.31, 0.06, -83.31)
+DYNAMIC_PAIR_ASSERT S03_cross pairs=128
+PASS S03_cross steps=137 end=(-143.24, 0.13, -82.78)
+LANE S04_in pathCorners=3 start=(-113.45, 0.06, -72.70) goal=(-112.00, 0.12, -83.00)
+CAMERA_FOCUS S04_in viewport=(0.500, 0.500, 16.532) camera=(-109.10, 15.11, -65.17)
+VISIBILITY_CUE S04 outside showing=False blocker=none
+VISIBILITY_CAPTURE S04 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_S04_player_outside.png
+DYNAMIC_PAIR_ASSERT S04_in pairs=128
+PASS S04_in steps=74 end=(-112.07, 0.13, -82.47)
+LANE S04_out pathCorners=3 start=(-112.00, 0.12, -83.00) goal=(-113.45, 0.06, -72.70)
+DYNAMIC_PAIR_ASSERT S04_out pairs=128
+PASS S04_out steps=74 end=(-113.37, 0.05, -73.23)
+LANE S04_cross pathCorners=5 start=(-113.45, 0.06, -72.70) goal=(-110.55, 0.03, -93.30)
+DYNAMIC_PAIR_ASSERT S04_cross pairs=128
+PASS S04_cross steps=152 end=(-110.63, 0.02, -92.77)
+LANE S05_in pathCorners=3 start=(-212.33, 0.06, -113.18) goal=(-211.00, 0.24, -124.00)
+CAMERA_FOCUS S05_in viewport=(0.500, 0.500, 16.532) camera=(-207.98, 15.13, -105.65)
+VISIBILITY_CUE S05 outside showing=False blocker=none
+VISIBILITY_CAPTURE S05 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_S05_player_outside.png
+DYNAMIC_PAIR_ASSERT S05_in pairs=128
+PASS S05_in steps=78 end=(-211.06, 0.21, -123.50)
+LANE S05_out pathCorners=3 start=(-211.00, 0.24, -124.00) goal=(-212.33, 0.06, -113.18)
+DYNAMIC_PAIR_ASSERT S05_out pairs=128
+PASS S05_out steps=78 end=(-212.27, 0.07, -113.68)
+LANE S05_cross pathCorners=5 start=(-212.33, 0.06, -113.18) goal=(-209.67, 0.12, -134.82)
+DYNAMIC_PAIR_ASSERT S05_cross pairs=128
+PASS S05_cross steps=160 end=(-209.73, 0.09, -134.35)
+LANE S06_in pathCorners=3 start=(-171.92, 0.27, -107.30) goal=(-174.00, 0.36, -118.00)
+CAMERA_FOCUS S06_in viewport=(0.500, 0.500, 16.532) camera=(-167.57, 15.26, -99.77)
+VISIBILITY_CUE S06 outside showing=False blocker=none
+VISIBILITY_CAPTURE S06 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_S06_player_outside.png
+DYNAMIC_PAIR_ASSERT S06_in pairs=128
+PASS S06_in steps=78 end=(-173.90, 0.32, -117.51)
+LANE S06_out pathCorners=3 start=(-174.00, 0.36, -118.00) goal=(-171.92, 0.27, -107.30)
+DYNAMIC_PAIR_ASSERT S06_out pairs=128
+PASS S06_out steps=78 end=(-172.02, 0.24, -107.79)
+LANE S06_cross pathCorners=5 start=(-171.92, 0.27, -107.30) goal=(-176.08, 0.23, -128.70)
+DYNAMIC_PAIR_ASSERT S06_cross pairs=128
+PASS S06_cross steps=159 end=(-175.97, 0.22, -128.11)
+LANE S07_in pathCorners=3 start=(-145.95, 0.25, -98.14) goal=(-145.00, 0.36, -109.00)
+CAMERA_FOCUS S07_in viewport=(0.500, 0.500, 16.532) camera=(-141.60, 15.27, -90.61)
+VISIBILITY_CUE S07 outside showing=False blocker=none
+VISIBILITY_CAPTURE S07 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_S07_player_outside.png
+DYNAMIC_PAIR_ASSERT S07_in pairs=128
+PASS S07_in steps=78 end=(-145.04, 0.32, -108.50)
+CAMERA_FOCUS S07_in viewport=(0.500, 0.500, 16.532) camera=(-140.69, 15.38, -100.97)
+VISIBILITY_CUE S07 inside showing=False blocker=none
+VISIBILITY_CAPTURE S07 inside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_S07_player_inside.png
+LANE S07_out pathCorners=3 start=(-145.00, 0.36, -109.00) goal=(-145.95, 0.25, -98.14)
+DYNAMIC_PAIR_ASSERT S07_out pairs=128
+PASS S07_out steps=78 end=(-145.91, 0.25, -98.64)
+LANE S07_cross pathCorners=5 start=(-145.95, 0.25, -98.14) goal=(-144.05, 0.34, -119.86)
+DYNAMIC_PAIR_ASSERT S07_cross pairs=128
+PASS S07_cross steps=160 end=(-144.09, 0.26, -119.39)
+LANE S08_in pathCorners=3 start=(-143.79, 0.22, -137.18) goal=(-145.00, 0.30, -147.00)
+CAMERA_FOCUS S08_in viewport=(0.500, 0.500, 16.532) camera=(-139.44, 15.27, -129.64)
+VISIBILITY_CUE S08 outside showing=False blocker=none
+VISIBILITY_CAPTURE S08 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_S08_player_outside.png
+DYNAMIC_PAIR_ASSERT S08_in pairs=128
+PASS S08_in steps=70 end=(-144.93, 0.27, -146.44)
+LANE S08_out pathCorners=3 start=(-145.00, 0.30, -147.00) goal=(-143.79, 0.22, -137.18)
+DYNAMIC_PAIR_ASSERT S08_out pairs=128
+PASS S08_out steps=70 end=(-143.86, 0.21, -137.74)
+LANE S08_cross pathCorners=5 start=(-143.79, 0.22, -137.18) goal=(-146.21, 0.17, -156.82)
+DYNAMIC_PAIR_ASSERT S08_cross pairs=128
+PASS S08_cross steps=144 end=(-146.14, 0.16, -156.23)
+LANE S09_in pathCorners=3 start=(-197.55, 0.17, -147.22) goal=(-196.00, 0.24, -157.00)
+CAMERA_FOCUS S09_in viewport=(0.500, 0.500, 16.532) camera=(-193.20, 15.23, -139.69)
+VISIBILITY_CUE S09 outside showing=False blocker=none
+VISIBILITY_CAPTURE S09 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_S09_player_outside.png
+DYNAMIC_PAIR_ASSERT S09_in pairs=128
+PASS S09_in steps=70 end=(-196.09, 0.24, -156.44)
+LANE S09_out pathCorners=3 start=(-196.00, 0.24, -157.00) goal=(-197.55, 0.17, -147.22)
+DYNAMIC_PAIR_ASSERT S09_out pairs=128
+PASS S09_out steps=70 end=(-197.46, 0.17, -147.78)
+LANE S09_cross pathCorners=5 start=(-197.55, 0.17, -147.22) goal=(-194.45, 0.18, -166.78)
+DYNAMIC_PAIR_ASSERT S09_cross pairs=128
+PASS S09_cross steps=144 end=(-194.55, 0.16, -166.19)
+LANE S10_in pathCorners=3 start=(-103.91, 0.22, -151.17) goal=(-105.00, 0.24, -160.00)
+CAMERA_FOCUS S10_in viewport=(0.500, 0.500, 16.532) camera=(-99.56, 15.19, -143.63)
+VISIBILITY_CUE S10 outside showing=False blocker=none
+VISIBILITY_CAPTURE S10 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_S10_player_outside.png
+DYNAMIC_PAIR_ASSERT S10_in pairs=128
+PASS S10_in steps=63 end=(-104.94, 0.22, -159.50)
+LANE S10_out pathCorners=3 start=(-105.00, 0.24, -160.00) goal=(-103.91, 0.22, -151.17)
+DYNAMIC_PAIR_ASSERT S10_out pairs=128
+PASS S10_out steps=63 end=(-103.98, 0.16, -151.66)
+LANE S10_cross pathCorners=5 start=(-103.91, 0.22, -151.17) goal=(-106.09, 0.18, -168.83)
+DYNAMIC_PAIR_ASSERT S10_cross pairs=128
+PASS S10_cross steps=130 end=(-106.03, 0.16, -168.37)
+LANE S11_in pathCorners=3 start=(-79.14, 0.34, -81.73) goal=(-81.00, 0.48, -95.00)
+CAMERA_FOCUS S11_in viewport=(0.500, 0.500, 16.532) camera=(-74.79, 15.41, -74.20)
+VISIBILITY_CUE S11 outside showing=False blocker=none
+VISIBILITY_CAPTURE S11 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_S11_player_outside.png
+DYNAMIC_PAIR_ASSERT S11_in pairs=128
+PASS S11_in steps=96 end=(-80.92, 0.46, -94.41)
+LANE S11_out pathCorners=3 start=(-81.00, 0.48, -95.00) goal=(-79.14, 0.34, -81.73)
+DYNAMIC_PAIR_ASSERT S11_out pairs=128
+PASS S11_out steps=96 end=(-79.22, 0.33, -82.32)
+LANE S11_cross pathCorners=5 start=(-79.14, 0.34, -81.73) goal=(-82.86, 0.27, -108.27)
+DYNAMIC_PAIR_ASSERT S11_cross pairs=128
+PASS S11_cross steps=197 end=(-82.79, 0.29, -107.74)
+LANE S12_in pathCorners=3 start=(-52.91, -0.05, -103.66) goal=(-52.00, 0.08, -111.00)
+CAMERA_FOCUS S12_in viewport=(0.500, 0.500, 16.532) camera=(-48.56, 14.98, -96.12)
+VISIBILITY_CUE S12 outside showing=False blocker=none
+VISIBILITY_CAPTURE S12 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_S12_player_outside.png
+DYNAMIC_PAIR_ASSERT S12_in pairs=128
+PASS S12_in steps=52 end=(-52.06, 0.05, -110.54)
+LANE S12_out pathCorners=3 start=(-52.00, 0.08, -111.00) goal=(-52.91, -0.05, -103.66)
+DYNAMIC_PAIR_ASSERT S12_out pairs=128
+PASS S12_out steps=52 end=(-52.85, -0.07, -104.12)
+LANE S12_cross pathCorners=5 start=(-52.91, -0.05, -103.66) goal=(-51.09, 0.00, -118.34)
+DYNAMIC_PAIR_ASSERT S12_cross pairs=128
+PASS S12_cross steps=107 end=(-51.16, -0.02, -117.81)
+TOOLS_GOAL_DYNAMIC_ACTOR collider=Body owner=D_TOOLS_01_SpiderLight center=(-167.50, 1.67, 5.50)
+TOOLS_GOAL_DYNAMIC_ACTOR collider=Core owner=D_TOOLS_01_SpiderLight center=(-167.50, 2.13, 5.50)
+LANE TOOLS_in pathCorners=3 start=(-155.30, 1.03, 4.92) goal=(-167.50, 1.02, 5.50)
+CAMERA_FOCUS TOOLS_in viewport=(0.500, 0.500, 16.532) camera=(-150.95, 16.08, 12.45)
+VISIBILITY_CUE TOOLS outside showing=True blocker=D09_FacadePart_Detail_Workshop_DeepSupportedWorkCanopy
+VISIBILITY_CAPTURE TOOLS outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_TOOLS_player_outside.png
+DYNAMIC_PAIR_ASSERT TOOLS_in pairs=128
+PASS TOOLS_in steps=88 end=(-167.02, 1.02, 5.48)
+CAMERA_FOCUS TOOLS_in viewport=(0.500, 0.500, 16.532) camera=(-162.67, 16.08, 13.01)
+VISIBILITY_CUE TOOLS inside showing=False blocker=none
+VISIBILITY_CAPTURE TOOLS inside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_TOOLS_player_inside.png
+LANE TOOLS_out pathCorners=3 start=(-167.50, 1.02, 5.50) goal=(-155.30, 1.03, 4.92)
+DYNAMIC_PAIR_ASSERT TOOLS_out pairs=128
+PASS TOOLS_out steps=88 end=(-155.78, 1.02, 4.94)
+LANE W01_in pathCorners=4 start=(-213.07, 2.05, 40.83) goal=(-214.00, 2.46, 50.00)
+CAMERA_FOCUS W01_in viewport=(0.500, 0.500, 16.532) camera=(-208.71, 17.04, 48.37)
+VISIBILITY_CUE W01 outside showing=True blocker=D09_RoofPart_Roof_Workshop_OffsetShed_1
+VISIBILITY_CAPTURE W01 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_W01_player_outside.png
+DYNAMIC_PAIR_ASSERT W01_in pairs=128
+PASS W01_in steps=65 end=(-213.96, 2.42, 49.44)
+LANE W01_out pathCorners=4 start=(-214.00, 2.46, 50.00) goal=(-213.07, 2.05, 40.83)
+DYNAMIC_PAIR_ASSERT W01_out pairs=128
+PASS W01_out steps=65 end=(-213.16, 2.17, 41.39)
+LANE W02_in pathCorners=3 start=(-182.21, 1.67, 29.18) goal=(-181.00, 1.92, 39.00)
+CAMERA_FOCUS W02_in viewport=(0.500, 0.500, 16.532) camera=(-177.86, 16.70, 36.71)
+VISIBILITY_CUE W02 outside showing=True blocker=D09_RoofPart_Roof_Workshop_OffsetShed_1
+VISIBILITY_CAPTURE W02 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_W02_player_outside.png
+DYNAMIC_PAIR_ASSERT W02_in pairs=128
+PASS W02_in steps=70 end=(-181.07, 1.90, 38.44)
+LANE W02_out pathCorners=3 start=(-181.00, 1.92, 39.00) goal=(-182.21, 1.67, 29.18)
+DYNAMIC_PAIR_ASSERT W02_out pairs=128
+PASS W02_out steps=70 end=(-182.14, 1.73, 29.74)
+LANE W03_in pathCorners=3 start=(-135.09, 2.47, 31.64) goal=(-136.00, 2.94, 42.00)
+CAMERA_FOCUS W03_in viewport=(0.500, 0.500, 16.532) camera=(-130.74, 17.47, 39.18)
+VISIBILITY_CUE W03 outside showing=True blocker=D09_RoofPart_Roof_Logistics_UnequalGable_1
+VISIBILITY_CAPTURE W03 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_W03_player_outside.png
+DYNAMIC_PAIR_ASSERT W03_in pairs=128
+PASS W03_in steps=74 end=(-135.95, 2.91, 41.47)
+CAMERA_FOCUS W03_in viewport=(0.500, 0.500, 16.532) camera=(-131.60, 17.97, 49.00)
+VISIBILITY_CUE W03 inside showing=False blocker=none
+VISIBILITY_CAPTURE W03 inside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_W03_player_inside.png
+LANE W03_out pathCorners=3 start=(-136.00, 2.94, 42.00) goal=(-135.09, 2.47, 31.64)
+DYNAMIC_PAIR_ASSERT W03_out pairs=128
+PASS W03_out steps=74 end=(-135.14, 2.57, 32.17)
+LANE W04_in pathCorners=4 start=(-100.65, 1.93, 17.37) goal=(-99.00, 2.28, 31.00)
+CAMERA_FOCUS W04_in viewport=(0.500, 0.500, 16.532) camera=(-96.30, 16.93, 24.90)
+VISIBILITY_CUE W04 outside showing=True blocker=D09_RoofPart_Roof_Workshop_OffsetShed_1
+VISIBILITY_CAPTURE W04 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_W04_player_outside.png
+DYNAMIC_PAIR_ASSERT W04_in pairs=128
+PASS W04_in steps=99 end=(-99.07, 2.30, 30.47)
+LANE W04_out pathCorners=4 start=(-99.00, 2.28, 31.00) goal=(-100.65, 1.93, 17.37)
+DYNAMIC_PAIR_ASSERT W04_out pairs=128
+PASS W04_out steps=99 end=(-100.61, 2.03, 17.90)
+LANE W05_in pathCorners=3 start=(-133.57, 1.72, 21.80) goal=(-132.00, 1.80, 9.00)
+CAMERA_FOCUS W05_in viewport=(0.500, 0.500, 16.532) camera=(-129.22, 16.74, 29.34)
+VISIBILITY_CUE W05 outside showing=True blocker=D09_FacadePart_Detail_Workshop_DeepSupportedWorkCanopy
+VISIBILITY_CAPTURE W05 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_W05_player_outside.png
+DYNAMIC_PAIR_ASSERT W05_in pairs=128
+PASS W05_in steps=93 end=(-132.06, 1.76, 9.50)
+LANE W05_out pathCorners=3 start=(-132.00, 1.80, 9.00) goal=(-133.57, 1.72, 21.80)
+DYNAMIC_PAIR_ASSERT W05_out pairs=128
+PASS W05_out steps=93 end=(-133.51, 1.66, 21.31)
+LANE W05_cross pathCorners=6 start=(-133.57, 1.72, 21.80) goal=(-143.24, 1.56, 20.57)
+DYNAMIC_PAIR_ASSERT W05_cross pairs=128
+PASS W05_cross steps=211 end=(-143.11, 1.59, 20.03)
+LANE W06_in pathCorners=3 start=(-79.00, 1.72, -3.10) goal=(-79.00, 1.80, -17.00)
+CAMERA_FOCUS W06_in viewport=(0.500, 0.500, 16.532) camera=(-74.65, 16.78, 4.43)
+VISIBILITY_CUE W06 outside showing=True blocker=D09_FacadePart_Detail_Workshop_DeepSupportedWorkCanopy
+VISIBILITY_CAPTURE W06 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_W06_player_outside.png
+DYNAMIC_PAIR_ASSERT W06_in pairs=128
+PASS W06_in steps=100 end=(-79.00, 1.80, -16.43)
+LANE W06_out pathCorners=3 start=(-79.00, 1.80, -17.00) goal=(-79.00, 1.72, -3.10)
+DYNAMIC_PAIR_ASSERT W06_out pairs=128
+PASS W06_out steps=100 end=(-79.00, 1.71, -3.67)
+LANE W06_cross pathCorners=5 start=(-79.00, 1.72, -3.10) goal=(-79.00, 1.65, -30.90)
+DYNAMIC_PAIR_ASSERT W06_cross pairs=128
+PASS W06_cross steps=204 end=(-79.00, 1.65, -30.30)
+LANE W07_in pathCorners=3 start=(-100.55, 1.25, -46.78) goal=(-99.00, 1.44, -37.00)
+CAMERA_FOCUS W07_in viewport=(0.500, 0.500, 16.532) camera=(-96.19, 16.26, -39.24)
+VISIBILITY_CUE W07 outside showing=True blocker=D09_RoofPart_Roof_Administration_AnnexHipRoof
+VISIBILITY_CAPTURE W07 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_W07_player_outside.png
+DYNAMIC_PAIR_ASSERT W07_in pairs=128
+PASS W07_in steps=70 end=(-99.09, 1.45, -37.56)
+LANE W07_out pathCorners=3 start=(-99.00, 1.44, -37.00) goal=(-100.55, 1.25, -46.78)
+DYNAMIC_PAIR_ASSERT W07_out pairs=128
+PASS W07_out steps=70 end=(-100.46, 1.29, -46.22)
+LANE W08_in pathCorners=3 start=(-184.38, 0.51, -25.19) goal=(-183.00, 0.54, -35.00)
+CAMERA_FOCUS W08_in viewport=(0.500, 0.500, 16.532) camera=(-180.03, 15.46, -17.66)
+VISIBILITY_CUE W08 outside showing=False blocker=none
+VISIBILITY_CAPTURE W08 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_W08_player_outside.png
+DYNAMIC_PAIR_ASSERT W08_in pairs=128
+PASS W08_in steps=70 end=(-183.08, 0.51, -34.44)
+LANE W08_out pathCorners=3 start=(-183.00, 0.54, -35.00) goal=(-184.38, 0.51, -25.19)
+DYNAMIC_PAIR_ASSERT W08_out pairs=128
+PASS W08_out steps=70 end=(-184.30, 0.38, -25.76)
+LANE W08_cross pathCorners=7 start=(-184.38, 0.51, -25.19) goal=(-197.00, 0.43, -27.02)
+DYNAMIC_PAIR_ASSERT W08_cross pairs=128
+PASS W08_cross steps=192 end=(-196.84, 0.39, -27.54)
+LANE W09_in pathCorners=3 start=(-212.00, 1.08, 22.35) goal=(-213.00, 1.14, 11.00)
+CAMERA_FOCUS W09_in viewport=(0.500, 0.500, 16.532) camera=(-207.65, 16.08, 29.89)
+VISIBILITY_CUE W09 outside showing=True blocker=D09_FacadePart_Detail_Administration_EntryPorch
+VISIBILITY_CAPTURE W09 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_W09_player_outside.png
+DYNAMIC_PAIR_ASSERT W09_in pairs=128
+PASS W09_in steps=81 end=(-212.95, 1.14, 11.60)
+LANE W09_out pathCorners=3 start=(-213.00, 1.14, 11.00) goal=(-212.00, 1.08, 22.35)
+DYNAMIC_PAIR_ASSERT W09_out pairs=128
+PASS W09_out steps=81 end=(-212.06, 1.06, 21.76)
+LANE W10_in pathCorners=3 start=(-139.41, 0.93, -37.62) goal=(-140.00, 1.09, -46.00)
+CAMERA_FOCUS W10_in viewport=(0.500, 0.500, 16.532) camera=(-135.06, 15.98, -30.08)
+VISIBILITY_CUE W10 outside showing=True blocker=D09_FacadePart_Detail_Logistics_DeepSteelLoadingCanopy
+VISIBILITY_CAPTURE W10 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_W10_player_outside.png
+DYNAMIC_PAIR_ASSERT W10_in pairs=128
+PASS W10_in steps=59 end=(-139.96, 1.07, -45.47)
+LANE W10_out pathCorners=3 start=(-140.00, 1.09, -46.00) goal=(-139.41, 0.93, -37.62)
+DYNAMIC_PAIR_ASSERT W10_out pairs=128
+PASS W10_out steps=59 end=(-139.45, 0.92, -38.15)
+LANE W10_cross pathCorners=5 start=(-139.41, 0.93, -37.62) goal=(-140.59, 0.85, -54.38)
+DYNAMIC_PAIR_ASSERT W10_cross pairs=128
+PASS W10_cross steps=122 end=(-140.55, 0.87, -53.85)
+LANE W11_in pathCorners=3 start=(-82.19, 5.17, 87.24) goal=(-84.00, 5.34, 77.00)
+CAMERA_FOCUS W11_in viewport=(0.500, 0.500, 16.532) camera=(-77.84, 20.13, 94.78)
+VISIBILITY_CUE W11 outside showing=True blocker=D09_FacadePart_Detail_Logistics_DeepSteelLoadingCanopy
+VISIBILITY_CAPTURE W11 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_W11_player_outside.png
+DYNAMIC_PAIR_ASSERT W11_in pairs=128
+PASS W11_in steps=74 end=(-83.91, 5.31, 77.53)
+LANE W11_out pathCorners=3 start=(-84.00, 5.34, 77.00) goal=(-82.19, 5.17, 87.24)
+DYNAMIC_PAIR_ASSERT W11_out pairs=128
+PASS W11_out steps=74 end=(-82.29, 5.17, 86.72)
+LANE W11_cross pathCorners=5 start=(-82.19, 5.17, 87.24) goal=(-85.81, 5.24, 66.76)
+DYNAMIC_PAIR_ASSERT W11_cross pairs=128
+PASS W11_cross steps=152 end=(-85.71, 5.20, 67.29)
+LANE Y01_in pathCorners=3 start=(-28.51, 0.09, -119.30) goal=(-27.00, 0.12, -107.00)
+CAMERA_FOCUS Y01_in viewport=(0.500, 0.500, 16.532) camera=(-24.16, 15.07, -111.77)
+VISIBILITY_CUE Y01 outside showing=True blocker=D10_RoofPart_BarrelStandingSeams_StopAtTornMetal
+VISIBILITY_CAPTURE Y01 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_Y01_player_outside.png
+DYNAMIC_PAIR_ASSERT Y01_in pairs=128
+PASS Y01_in steps=89 end=(-27.06, 0.13, -107.53)
+LANE Y01_out pathCorners=3 start=(-27.00, 0.12, -107.00) goal=(-28.51, 0.09, -119.30)
+DYNAMIC_PAIR_ASSERT Y01_out pairs=128
+PASS Y01_out steps=89 end=(-28.45, 0.05, -118.78)
+LANE Y02_in pathCorners=3 start=(21.47, -0.06, -126.28) goal=(20.00, 0.06, -117.00)
+CAMERA_FOCUS Y02_in viewport=(0.500, 0.500, 16.532) camera=(25.82, 14.98, -118.75)
+VISIBILITY_CUE Y02 outside showing=True blocker=D10_RoofPart_BarrelMetalRoof_LocalizedRaggedTears
+VISIBILITY_CAPTURE Y02 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_Y02_player_outside.png
+DYNAMIC_PAIR_ASSERT Y02_in pairs=128
+PASS Y02_in steps=66 end=(20.09, 0.02, -117.59)
+LANE Y02_out pathCorners=3 start=(20.00, 0.06, -117.00) goal=(21.47, -0.06, -126.28)
+DYNAMIC_PAIR_ASSERT Y02_out pairs=128
+PASS Y02_out steps=66 end=(21.38, -0.08, -125.69)
+LANE Y03_in pathCorners=7 start=(-51.94, 0.02, -156.37) goal=(-39.00, 0.06, -156.00)
+CAMERA_FOCUS Y03_in viewport=(0.500, 0.500, 16.532) camera=(-47.59, 15.04, -148.84)
+VISIBILITY_CUE Y03 outside showing=True blocker=D09_RoofPart_Roof_Administration_MainHipRoof
+VISIBILITY_CAPTURE Y03 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_Y03_player_outside.png
+DYNAMIC_PAIR_ASSERT Y03_in pairs=128
+PASS Y03_in steps=97 end=(-39.56, 0.06, -156.14)
+LANE Y03_out pathCorners=7 start=(-39.00, 0.06, -156.00) goal=(-51.94, 0.02, -156.37)
+DYNAMIC_PAIR_ASSERT Y03_out pairs=128
+PASS Y03_out steps=97 end=(-51.45, -0.02, -156.51)
+LANE Y04_in pathCorners=3 start=(50.39, 0.11, -82.21) goal=(49.00, 0.18, -91.00)
+CAMERA_FOCUS Y04_in viewport=(0.500, 0.500, 16.532) camera=(54.74, 15.11, -74.68)
+VISIBILITY_CUE Y04 outside showing=False blocker=none
+VISIBILITY_CAPTURE Y04 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_Y04_player_outside.png
+DYNAMIC_PAIR_ASSERT Y04_in pairs=128
+PASS Y04_in steps=63 end=(49.08, 0.18, -90.51)
+LANE Y04_out pathCorners=3 start=(49.00, 0.18, -91.00) goal=(50.39, 0.11, -82.21)
+DYNAMIC_PAIR_ASSERT Y04_out pairs=128
+PASS Y04_out steps=63 end=(50.31, 0.05, -82.70)
+LANE Y04_cross pathCorners=5 start=(50.39, 0.11, -82.21) goal=(47.61, 0.12, -99.79)
+DYNAMIC_PAIR_ASSERT Y04_cross pairs=128
+PASS Y04_cross steps=129 end=(47.70, 0.11, -99.20)
+LANE Y05_in pathCorners=3 start=(-89.00, 0.18, -173.10) goal=(-89.00, 0.36, -182.00)
+CAMERA_FOCUS Y05_in viewport=(0.500, 0.500, 16.532) camera=(-84.65, 15.32, -165.56)
+VISIBILITY_CUE Y05 outside showing=False blocker=none
+VISIBILITY_CAPTURE Y05 outside=C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-interior-consistency-v36b/after_play_Y05_player_outside.png
+DYNAMIC_PAIR_ASSERT Y05_in pairs=128
+PASS Y05_in steps=63 end=(-89.00, 0.35, -181.50)
+LANE Y05_out pathCorners=3 start=(-89.00, 0.36, -182.00) goal=(-89.00, 0.18, -173.10)
+DYNAMIC_PAIR_ASSERT Y05_out pairs=128
+PASS Y05_out steps=63 end=(-89.00, 0.29, -173.60)
+LANE Y05_cross pathCorners=7 start=(-89.00, 0.18, -173.10) goal=(-101.75, 0.18, -173.15)
+DYNAMIC_PAIR_ASSERT Y05_cross pairs=128
+PASS Y05_cross steps=182 end=(-101.65, 0.19, -173.63)
+LANE CQB_POWER_EquipmentRoom_forward pathCorners=4 start=(121.36, 12.06, 111.12) goal=(123.01, 12.06, 116.89)
+DYNAMIC_PAIR_ASSERT CQB_POWER_EquipmentRoom_forward pairs=128
+PASS CQB_POWER_EquipmentRoom_forward steps=41 end=(122.89, 12.02, 116.35)
+LANE CQB_POWER_EquipmentRoom_reverse pathCorners=4 start=(123.01, 12.06, 116.89) goal=(121.36, 12.06, 111.12)
+DYNAMIC_PAIR_ASSERT CQB_POWER_EquipmentRoom_reverse pairs=128
+PASS CQB_POWER_EquipmentRoom_reverse steps=41 end=(121.52, 12.02, 111.65)
+LANE CQB_POWER_ServicePassage_forward pathCorners=3 start=(124.65, 12.06, 108.10) goal=(124.24, 12.06, 95.74)
+DYNAMIC_PAIR_ASSERT CQB_POWER_ServicePassage_forward pairs=128
+PASS CQB_POWER_ServicePassage_forward steps=90 end=(124.38, 12.02, 96.30)
+LANE CQB_POWER_ServicePassage_reverse pathCorners=3 start=(124.24, 12.06, 95.74) goal=(124.65, 12.06, 108.10)
+DYNAMIC_PAIR_ASSERT CQB_POWER_ServicePassage_reverse pairs=128
+PASS CQB_POWER_ServicePassage_reverse steps=90 end=(124.71, 12.02, 107.53)
+LANE CQB_PARTS_BothOpenings_forward pathCorners=7 start=(166.78, 3.06, -16.08) goal=(174.50, 3.06, -2.50)
+DYNAMIC_PAIR_ASSERT CQB_PARTS_BothOpenings_forward pairs=128
+PASS CQB_PARTS_BothOpenings_forward steps=127 end=(174.40, 3.02, -3.00)
+LANE CQB_PARTS_BothOpenings_reverse pathCorners=7 start=(174.50, 3.06, -2.50) goal=(166.78, 3.06, -16.08)
+DYNAMIC_PAIR_ASSERT CQB_PARTS_BothOpenings_reverse pairs=128
+PASS CQB_PARTS_BothOpenings_reverse steps=127 end=(167.28, 3.02, -15.87)
+successes=172 failures=0 expected=172
+RESULT PASS
+candidate=0dfc538c992b40d28a73e6c92744988b

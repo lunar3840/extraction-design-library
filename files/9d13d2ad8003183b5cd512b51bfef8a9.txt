@@ -1,0 +1,92 @@
+Actual last script assembly reload after temporary workflow removal; no historical errors were cleared.
+Reloading assemblies after finishing script compilation.
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+Total cache size 268409013
+Total cache size after purge 268409013, took 00:00:00.2184468
+- Loaded All Assemblies, in  1.656 seconds
+Refreshing native plugins compatible for Editor in 2.62 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+Cannot add menu item 'Escape/Stage A/Run Density V04 Shot Checks' for method 'Escape.Tests.StageAMachineRolesChecks.RunShotChecks' because a menu item with the same name already exists.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEditor.MenuItemScriptCommand:Update (UnityEditor.MenuItem,System.Reflection.MethodInfo)
+UnityEditor.MenuService:ExtractMenuItemsFromAttributes ()
+UnityEditor.MenuService:GetMenuItemsFromAttributesById (string)
+UnityEditor.MenuService:GetMenuItemsFromAttributes ()
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.871 seconds
+Domain Reload Profiling: 4527ms
+	BeginReloadAssembly (1200ms)
+		ExecutionOrderSort (1ms)
+		DisableScriptedObjects (80ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (27ms)
+		CreateAndSetChildDomain (519ms)
+	RebuildCommonClasses (72ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (77ms)
+	LoadAllAssembliesAndSetupDomain (295ms)
+		LoadAssemblies (243ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (199ms)
+			TypeCache.Refresh (25ms)
+				TypeCache.ScanAssembly (10ms)
+			BuildScriptInfoCaches (160ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (2871ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1539ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (42ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (417ms)
+			ProcessInitializeOnLoadAttributes (988ms)
+			ProcessInitializeOnLoadMethodAttributes (83ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (1ms)
+		AwakeInstancesAfterBackupRestoration (647ms)
+Asset Pipeline Refresh (id=00552de83bb852c4890308c20f73fb63): Total: 4.877 seconds - Initiated by StopAssetImportingV2(ForceSynchronousImport | ForceDomainReload)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=3119 ms
+		Asset DB Callback time: managed=78 ms, native=0 ms
+		Scripting: domain reloads=1, domain reload time=1676 ms, compile time=2 ms, other=0 ms
+		Project Asset Count: scripts=2097, non-scripts=14411
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokeCustomDependenciesCallbacks: 0.003ms
+	InvokePackagesCallback: 2.093ms
+	ApplyChangesToAssetFolders: 0.431ms
+	Scan: 0.001ms
+	OnSourceAssetsModified: 0.001ms
+	CategorizeAssetsWithTransientArtifact: 0.004ms
+	ProcessAssetsWithTransientArtifactChanges: 9.500ms
+	CategorizeAssets: 148.750ms
+	ImportOutOfDateAssets: 2889.725ms (2874.432ms without children)
+		CompileScripts: 2.226ms
+		CollectScriptTypesHashes: 3.387ms
+		ReloadNativeAssets: 6.213ms
+		UnloadImportedAssets: 0.005ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 2.552ms
+		InitializingProgressBar: 0.001ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.000ms
+		OnDemandSchedulerStart: 0.909ms
+	PostProcessAllAssets: 78.111ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.697ms
+	UnloadStreamsBegin: 0.002ms
+	PersistCurrentRevisions: 0.896ms
+	UnloadStreamsEnd: 0.003ms
+	GenerateScriptTypeHashes: 3.808ms
+	Untracked: 1747.278ms
+

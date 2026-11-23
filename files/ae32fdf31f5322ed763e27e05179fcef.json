@@ -1,0 +1,820 @@
+{
+  "date": "2026-10-13",
+  "status": "all_requested_received_and_container_verified_not_yet_unity_imported",
+  "sourceLedgers": [
+    "../a-map-tripo-d07-generation/TRIPO_JOBS.md",
+    "../a-map-tripo-zone-expansion/TRIPO_JOBS.md"
+  ],
+  "verification": {
+    "format": "GLB",
+    "magic": "glTF",
+    "version": 2,
+    "declaredLengthEqualsFileLength": true,
+    "primitivesPerFile": 1,
+    "materialsPerFile": 1,
+    "embeddedImagesPerFile": 3,
+    "textureResolution": "2048x2048",
+    "identityEvidence": "glTF index accessor triangle count matched Tripo UI ledger; T06 and T13 both have 7385 triangles and were disambiguated by Tripo result images versus embedded color atlas and model naming"
+  },
+  "requestedIds": [
+    "T01",
+    "T02",
+    "T03",
+    "T04",
+    "T05",
+    "T06",
+    "T07",
+    "T08",
+    "T09",
+    "T10",
+    "T11",
+    "T12",
+    "T13",
+    "T14",
+    "Z01",
+    "Z02",
+    "Z03",
+    "Z04",
+    "Z05",
+    "Z06",
+    "Z07r",
+    "Z08",
+    "Z09r",
+    "Z10b",
+    "Z11",
+    "Z13",
+    "Z14",
+    "Z15",
+    "Z16",
+    "Z18",
+    "Z19r",
+    "Z20"
+  ],
+  "heldIds": [
+    "Z07",
+    "Z09",
+    "Z12",
+    "Z17",
+    "Z19"
+  ],
+  "missingRequestedIds": [],
+  "received": [
+    {
+      "id": "T01",
+      "sourceDownloadsName": "aged+wall+pillar+3d+model.glb",
+      "archivePath": "downloads/D08_T01.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/614f5f43-03c1-4a84-9688-ca055a06826e",
+      "triangles": 7211,
+      "bytes": 4084996,
+      "sha256": "93a169df1c0c49c7b7f9f839aaca10e73740dd67c193f5e255931f5e9e4bb408",
+      "rawPositionMin": [
+        -0.251800537109375,
+        0,
+        -0.25433349609375
+      ],
+      "rawPositionMax": [
+        0.251800537109375,
+        1,
+        0.25433349609375
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "T02",
+      "sourceDownloadsName": "weathered+window+frame+3d+model (1).glb",
+      "archivePath": "downloads/D08_T02.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/3af7eaee-c242-4421-8c4a-7aa8f41a88f2",
+      "triangles": 6490,
+      "bytes": 4295028,
+      "sha256": "a1813f523ca0185e4807ddc64051cc7055bf8f14d82c6ca62217f94fa2662602",
+      "rawPositionMin": [
+        -0.12424468994140625,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.12424468994140625,
+        0.498992919921875,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "T03",
+      "sourceDownloadsName": "concrete+vent+3d+model.glb",
+      "archivePath": "downloads/D08_T03.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/66d292d1-d744-4606-8982-a1d50705b69b",
+      "triangles": 6124,
+      "bytes": 3661396,
+      "sha256": "0e8729082b071d8cecae76b698ef30010f450a448b56b20e057158a137283f9a",
+      "rawPositionMin": [
+        -0.07721710205078125,
+        0,
+        -0.2960205078125
+      ],
+      "rawPositionMax": [
+        0.07721710205078125,
+        1,
+        0.2960205078125
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "T04",
+      "sourceDownloadsName": "brick+arch+window+3d+model.glb",
+      "archivePath": "downloads/D08_T04.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/794cd834-ec3c-4a44-8f25-0d90f83fc951",
+      "triangles": 7420,
+      "bytes": 5077496,
+      "sha256": "2943fcee76bc4ddc334238a10856d588990d72082698929e90bbd7da7cc050de",
+      "rawPositionMin": [
+        -0.1971435546875,
+        0,
+        -0.455078125
+      ],
+      "rawPositionMax": [
+        0.1971435546875,
+        1,
+        0.455078125
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "T05",
+      "sourceDownloadsName": "window+frame+3d+model.glb",
+      "archivePath": "downloads/D08_T05.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/3dfca65f-a102-49bf-9789-3d579e5f97c7",
+      "triangles": 6230,
+      "bytes": 4138028,
+      "sha256": "53e9fe9e34c941cc607d5917cb88ae878d4c0e78a4313f0d630df9d872acb880",
+      "rawPositionMin": [
+        -0.1656036376953125,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.1656036376953125,
+        0.72601318359375,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "T06",
+      "sourceDownloadsName": "weathered+wall+panel+3d+model.glb",
+      "archivePath": "downloads/D08_T06.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/87b5762e-b910-421d-9b6b-40d0c96b51ca",
+      "triangles": 7385,
+      "bytes": 4363348,
+      "sha256": "254323eba4bd2b4befe9836bbe7fd699de5f353810abb45d0a996d484d988e23",
+      "rawPositionMin": [
+        -0.2010345458984375,
+        0,
+        -0.437774658203125
+      ],
+      "rawPositionMax": [
+        0.2010345458984375,
+        1,
+        0.437774658203125
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "T07",
+      "sourceDownloadsName": "stone+window+frame+3d+model.glb",
+      "archivePath": "downloads/D08_T07.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/d5db1e54-4e8c-4648-a630-9bf2ec63e69d",
+      "triangles": 6633,
+      "bytes": 4395136,
+      "sha256": "fb2c79899b9aa1c06d7d67e4a807edf075c72ea59942e44267b7eae8f60686e4",
+      "rawPositionMin": [
+        -0.10205078125,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.10205078125,
+        0.7867431640625,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "T08",
+      "sourceDownloadsName": "terracotta+roof+tile+3d+model.glb",
+      "archivePath": "downloads/D08_T08.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/4b4320c9-f961-4ae7-840e-fbdf1a689702",
+      "triangles": 6537,
+      "bytes": 3958504,
+      "sha256": "9e07fea8ce3f518c0e8db1ae957401bba882892363867cc618fd1aa3bcd1f89c",
+      "rawPositionMin": [
+        -0.36090087890625,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.36090087890625,
+        0.39215087890625,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "T09",
+      "sourceDownloadsName": "antique+window+3d+model.glb",
+      "archivePath": "downloads/D08_T09.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/5426caa9-d8bc-4881-9ad9-a1f85fa74464",
+      "triangles": 6692,
+      "bytes": 4706916,
+      "sha256": "6a8a50d60fdcc8648a899ae7713849390fd9cdf21b2ee0c3249d9d7b832bc78b",
+      "rawPositionMin": [
+        -0.235107421875,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.235107421875,
+        0.92730712890625,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "T10",
+      "sourceDownloadsName": "ruined+brick+wall+3d+model.glb",
+      "archivePath": "downloads/D08_T10.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/8fa4d336-e9d1-4557-915f-89ed322edc65",
+      "triangles": 7370,
+      "bytes": 5412980,
+      "sha256": "9ca8654e1f7ef2866d8148255af62455c9e7d65e15d33f222a4ad6f456a1b465",
+      "rawPositionMin": [
+        -0.450103759765625,
+        0,
+        -0.39605712890625
+      ],
+      "rawPositionMax": [
+        0.450103759765625,
+        1,
+        0.39605712890625
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "T11",
+      "sourceDownloadsName": "weathered+tile+roof+3d+model.glb",
+      "archivePath": "downloads/D08_T11.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/3af023c1-9574-4873-8671-d880d08e3053",
+      "triangles": 7232,
+      "bytes": 3813884,
+      "sha256": "d3fb434aae0f45bf0e054cbd69ad7133454c3ef0e1a95725c2b04e55ec314126",
+      "rawPositionMin": [
+        -0.444305419921875,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.444305419921875,
+        0.43426513671875,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "T12",
+      "sourceDownloadsName": "industrial+window+frame+3d+model.glb",
+      "archivePath": "downloads/D08_T12.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/424aecb3-9d76-4552-93cd-aa138341f5ae",
+      "triangles": 6705,
+      "bytes": 3814668,
+      "sha256": "1a6ba72d0dcfef792297ab5db5b35c1299c9f5355806862819b679de481f3130",
+      "rawPositionMin": [
+        -0.25140380859375,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.25140380859375,
+        0.45703125,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "T13",
+      "sourceDownloadsName": "stone+pillar+3d+model.glb",
+      "archivePath": "downloads/D08_T13.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/ddffd908-35d5-4287-b15a-276f26df2cb9",
+      "triangles": 7385,
+      "bytes": 5507960,
+      "sha256": "a119ea36b07a31f79997efed8d7a45eb1456dfe06732b5dbf62c104d6b58b19f",
+      "rawPositionMin": [
+        -0.27655029296875,
+        0,
+        -0.2439117431640625
+      ],
+      "rawPositionMax": [
+        0.27655029296875,
+        1,
+        0.2439117431640625
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "T14",
+      "sourceDownloadsName": "weathered+window+frame+3d+model.glb",
+      "archivePath": "downloads/D08_T14.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/dc01c210-a436-4226-b826-8d18030f85bb",
+      "triangles": 6401,
+      "bytes": 4615512,
+      "sha256": "6b81ca49c6c0ed4ea3df5f90b9b65b6f8bfc69219de6b7e5cad69a60347ddd27",
+      "rawPositionMin": [
+        -0.1494293212890625,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.1494293212890625,
+        0.94647216796875,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "Z01",
+      "sourceDownloadsName": "rusty+metal+shelving+3d+model.glb",
+      "archivePath": "downloads/D08_Z01.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/dfdb4b14-230c-44fe-a6d0-1547ddde49b5",
+      "triangles": 6200,
+      "bytes": 3643940,
+      "sha256": "57c793dfbcb7d88475cd733d0fe5e540de459844848136b12c82510ef3a180d6",
+      "rawPositionMin": [
+        -0.2872314453125,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.2872314453125,
+        0.7518310546875,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "Z02",
+      "sourceDownloadsName": "industrial+cart+3d+model.glb",
+      "archivePath": "downloads/D08_Z02.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/4289c80d-8ceb-4b8e-9274-c07918789d0f",
+      "triangles": 6399,
+      "bytes": 3297604,
+      "sha256": "45c0ba56cb0d6c5be9e52a212e21929709d148e64e1dcc70e8aa00cae6e11969",
+      "rawPositionMin": [
+        -0.263763427734375,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.263763427734375,
+        0.7952880859375,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "Z03",
+      "sourceDownloadsName": "rusty+industrial+bench+3d+model.glb",
+      "archivePath": "downloads/D08_Z03.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/595541e4-0938-4a43-b13d-205fcf144510",
+      "triangles": 6507,
+      "bytes": 3613588,
+      "sha256": "a09bb80455158ff02de99738ee8faa2725ce73f806bb2b5518821ea03069aa44",
+      "rawPositionMin": [
+        -0.200225830078125,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.200225830078125,
+        0.461944580078125,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "Z04",
+      "sourceDownloadsName": "industrial+insulator+3d+model.glb",
+      "archivePath": "downloads/D08_Z04.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/61a368a4-9a8b-4ba4-9683-e81d9c775cf9",
+      "triangles": 6881,
+      "bytes": 4062156,
+      "sha256": "3fd0ca78928f70f0987c5932aa6799634e2d3d09a02894837b98bc1cfb556b5c",
+      "rawPositionMin": [
+        -0.16339111328125,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.16339111328125,
+        0.49761962890625,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "Z05",
+      "sourceDownloadsName": "rusty+industrial+machine+3d+model.glb",
+      "archivePath": "downloads/D08_Z05.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/1a7a79b2-dc96-41f6-ae55-d5e4df29c152",
+      "triangles": 7183,
+      "bytes": 3698924,
+      "sha256": "404b8cdf36e0aa0cdf735dbc18b43b95b4de11510fe07d1779ce3b4180d210ef",
+      "rawPositionMin": [
+        -0.5,
+        0,
+        -0.388824462890625
+      ],
+      "rawPositionMax": [
+        0.5,
+        0.825927734375,
+        0.388824462890625
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "Z06",
+      "sourceDownloadsName": "industrial+hopper+3d+model.glb",
+      "archivePath": "downloads/D08_Z06.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/21051014-0072-414e-8d8f-ce2f701e33f2",
+      "triangles": 7703,
+      "bytes": 5825988,
+      "sha256": "de212e68675b97aafe83eea60da4ade5c1da789a0e58df1244aa4519a4634163",
+      "rawPositionMin": [
+        -0.31787109375,
+        0,
+        -0.39410400390625
+      ],
+      "rawPositionMax": [
+        0.31787109375,
+        1,
+        0.39410400390625
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "Z07",
+      "sourceDownloadsName": "rusty+industrial+forge+3d+model.glb",
+      "archivePath": "downloads/D08_Z07.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/dd33366b-db75-4e88-9ecc-02d998641c44",
+      "triangles": 6737,
+      "bytes": 4078604,
+      "sha256": "2152d4ed0116cbc4256ca5a9cde1f073c4e5baab35d9b12f75c616f999b4c89d",
+      "rawPositionMin": [
+        -0.420379638671875,
+        0,
+        -0.494049072265625
+      ],
+      "rawPositionMax": [
+        0.420379638671875,
+        1,
+        0.494049072265625
+      ],
+      "disposition": "held_not_imported_or_placed"
+    },
+    {
+      "id": "Z07r",
+      "sourceDownloadsName": "industrial+press+3d+model (1).glb",
+      "archivePath": "downloads/D08_Z07r.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/160dfe76-3034-41b2-a351-e7968fbe45e6",
+      "triangles": 6004,
+      "bytes": 3896656,
+      "sha256": "80e0df2ba6173318aba0b547b75e79cfdb0cbfa438c7bcb590f8b11578ead617",
+      "rawPositionMin": [
+        -0.356964111328125,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.356964111328125,
+        0.90008544921875,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "Z08",
+      "sourceDownloadsName": "rusted+iron+stocks+3d+model.glb",
+      "archivePath": "downloads/D08_Z08.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/9f11f3b2-d860-4fa8-b2c4-b171760d36f8",
+      "triangles": 7239,
+      "bytes": 4275660,
+      "sha256": "e7187d302d56dc32773fac99a143fb88fbb42f8cdfd65fd147b89a5077eb974f",
+      "rawPositionMin": [
+        -0.5,
+        0,
+        -0.47662353515625
+      ],
+      "rawPositionMax": [
+        0.5,
+        0.51531982421875,
+        0.47662353515625
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "Z09",
+      "sourceDownloadsName": "industrial+scale+3d+model.glb",
+      "archivePath": "downloads/D08_Z09.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/37e86a50-8a6a-4a35-9020-72b52120c98f",
+      "triangles": 6251,
+      "bytes": 4528316,
+      "sha256": "46475ab8a79efdb6c2d5e68f7898e3c0a2f5c6a2ad0ae21e7ccaf6263ee9c7b3",
+      "rawPositionMin": [
+        -0.5,
+        0,
+        -0.3531494140625
+      ],
+      "rawPositionMax": [
+        0.5,
+        0.496978759765625,
+        0.3531494140625
+      ],
+      "disposition": "held_not_imported_or_placed"
+    },
+    {
+      "id": "Z09r",
+      "sourceDownloadsName": "industrial+scale+3d+model (1).glb",
+      "archivePath": "downloads/D08_Z09r.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/c4d5d448-3d3e-4a70-8211-7c6b34325825",
+      "triangles": 6528,
+      "bytes": 4136844,
+      "sha256": "1c434826242f87a7efe9cc602354e4bb7e8942663c2467685545747d0e580118",
+      "rawPositionMin": [
+        -0.474884033203125,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.474884033203125,
+        0.82891845703125,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "Z10b",
+      "sourceDownloadsName": "industrial+press+3d+model.glb",
+      "archivePath": "downloads/D08_Z10b.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/40aa0612-8575-4c85-a5dc-f207d9492202",
+      "triangles": 6954,
+      "bytes": 3748552,
+      "sha256": "750f9d891f01f21aa11026aea86676b357e8fa71834eee936332ea8a760a80b7",
+      "rawPositionMin": [
+        -0.300445556640625,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.300445556640625,
+        0.83428955078125,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "Z11",
+      "sourceDownloadsName": "industrial+roller+conveyor+3d+model.glb",
+      "archivePath": "downloads/D08_Z11.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/26024d24-37ac-4291-8963-db94b692fa12",
+      "triangles": 6841,
+      "bytes": 4156624,
+      "sha256": "56aa1203331dd654abeb7f0df27568dc0613625ff2c9998f230eea8bb80aa55c",
+      "rawPositionMin": [
+        -0.5,
+        0,
+        -0.359954833984375
+      ],
+      "rawPositionMax": [
+        0.5,
+        0.52935791015625,
+        0.359954833984375
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "Z12",
+      "sourceDownloadsName": "crumbling+stair+3d+model.glb",
+      "archivePath": "downloads/D08_Z12.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/7950df9a-a336-43ec-bf52-521793842d23",
+      "triangles": 7448,
+      "bytes": 5566424,
+      "sha256": "af57a3eb2635bc41b45d797204c40bc1a3bde6133829206716d5a842d2a4e1a9",
+      "rawPositionMin": [
+        -0.2955322265625,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.2955322265625,
+        0.7977294921875,
+        0.5
+      ],
+      "disposition": "held_not_imported_or_placed"
+    },
+    {
+      "id": "Z13",
+      "sourceDownloadsName": "rusty+metal+shelf+3d+model.glb",
+      "archivePath": "downloads/D08_Z13.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/1151fe8a-9385-4ee9-9f58-2e50395d2e7c",
+      "triangles": 6313,
+      "bytes": 3836760,
+      "sha256": "3da799bc0d88930cd928c4b8f754d57e55dd63c20a620a137655d6d5590668a3",
+      "rawPositionMin": [
+        -0.3450927734375,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.3450927734375,
+        0.87457275390625,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "Z14",
+      "sourceDownloadsName": "industrial+car+lift+3d+model.glb",
+      "archivePath": "downloads/D08_Z14.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/97e23add-810e-4b1f-8762-ba1386d69eb4",
+      "triangles": 6549,
+      "bytes": 3976276,
+      "sha256": "67a785ffa3275fcea1b943e48167410ac8a63685c2aa64fbb773c446384470f2",
+      "rawPositionMin": [
+        -0.178436279296875,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.178436279296875,
+        0.76568603515625,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "Z15",
+      "sourceDownloadsName": "rusty+industrial+clamp+3d+model.glb",
+      "archivePath": "downloads/D08_Z15.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/8648447c-d1e9-422d-a951-a74ed47aac55",
+      "triangles": 7299,
+      "bytes": 3973460,
+      "sha256": "1047ed205346460ee0be7cf17637502aa0bb47f65a405b95e72bc1019c9e1311",
+      "rawPositionMin": [
+        -0.2460784912109375,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.2460784912109375,
+        0.456268310546875,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "Z16",
+      "sourceDownloadsName": "rusty+metal+grate+3d+model.glb",
+      "archivePath": "downloads/D08_Z16.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/6dc3fab8-b0bc-48e0-9890-908c9d0481f7",
+      "triangles": 6923,
+      "bytes": 4093472,
+      "sha256": "40be214f5b2949ef460ed5cbe654ea718a6d3c4c47cdd74d686e50aa64da0097",
+      "rawPositionMin": [
+        -0.329071044921875,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.329071044921875,
+        0.9405517578125,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "Z17",
+      "sourceDownloadsName": "concrete+manhole+3d+model.glb",
+      "archivePath": "downloads/D08_Z17.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/40fe4e9f-eff2-4f4f-a075-926698c0de8b",
+      "triangles": 7402,
+      "bytes": 5015684,
+      "sha256": "9fd9d7053a8b0535851986c0963e40a8eacd797f98f34880d60e19bff0b279b4",
+      "rawPositionMin": [
+        -0.5,
+        0,
+        -0.489105224609375
+      ],
+      "rawPositionMax": [
+        0.5,
+        0.469146728515625,
+        0.489105224609375
+      ],
+      "disposition": "held_not_imported_or_placed"
+    },
+    {
+      "id": "Z18",
+      "sourceDownloadsName": "rusty+metal+workbench+3d+model.glb",
+      "archivePath": "downloads/D08_Z18.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/b53d2a2b-d156-4ec5-8170-d0360052012b",
+      "triangles": 6216,
+      "bytes": 3974740,
+      "sha256": "6540cbaae1fe789c36c582273b6cdab7dee57f72096edf4aed108333823f2dcd",
+      "rawPositionMin": [
+        -0.1881866455078125,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.1881866455078125,
+        0.57391357421875,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "Z19",
+      "sourceDownloadsName": "industrial+machinery+3d+model (1).glb",
+      "archivePath": "downloads/D08_Z19.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/654d3b7d-5f70-439e-9cdc-d89bbc7ead1a",
+      "triangles": 6959,
+      "bytes": 4174300,
+      "sha256": "4fbc5eae3bcaa73af9c7548a27f3b8d85fef3f7c54d1ac5d55f3b2934f616f69",
+      "rawPositionMin": [
+        -0.298095703125,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.298095703125,
+        0.734619140625,
+        0.5
+      ],
+      "disposition": "held_not_imported_or_placed"
+    },
+    {
+      "id": "Z19r",
+      "sourceDownloadsName": "industrial+equipment+3d+model.glb",
+      "archivePath": "downloads/D08_Z19r.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/87c9f2c0-bcda-49ca-9ed2-53ae2922df51",
+      "triangles": 7204,
+      "bytes": 4973568,
+      "sha256": "afe869d23a62a38cbc9938bcb216ddb92af6ddd0d464a83516270dbe5e3b551c",
+      "rawPositionMin": [
+        -0.260589599609375,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.260589599609375,
+        0.43646240234375,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    },
+    {
+      "id": "Z20",
+      "sourceDownloadsName": "tire+rack+3d+model.glb",
+      "archivePath": "downloads/D08_Z20.glb",
+      "tripoJobUrl": "https://studio.tripo3d.ai/ko/workspace/generate/bcdc7b49-68fb-4983-921f-d9d383f7091d",
+      "triangles": 7658,
+      "bytes": 4008936,
+      "sha256": "3a7df15ef3cd03a1a0e47072b3d975c9d02a77e8caf770dc146164ae9ab26063",
+      "rawPositionMin": [
+        -0.235748291015625,
+        0,
+        -0.5
+      ],
+      "rawPositionMax": [
+        0.235748291015625,
+        0.57080078125,
+        0.5
+      ],
+      "disposition": "import_candidate"
+    }
+  ],
+  "summary": {
+    "received": 37,
+    "receivedRequested": 32,
+    "receivedHeld": 5,
+    "missingRequested": 0,
+    "unityPrefabsVerified": 0
+  },
+  "ignoredDuplicateDownloads": [
+    {
+      "file": "concrete+pillar+3d+model (1).glb",
+      "reason": "BIN chunk byte-identical to previously downloaded D05 concrete+pillar+3d+model.glb; not a D08 Tripo job"
+    },
+    {
+      "file": "concrete+brick+wall+3d+model (1).glb",
+      "reason": "BIN chunk byte-identical to previously downloaded D05 concrete+brick+wall+3d+model.glb; not a D08 Tripo job"
+    }
+  ]
+}

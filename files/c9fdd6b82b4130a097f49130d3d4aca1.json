@@ -1,0 +1,30 @@
+{
+  "reviewed_at_kst": "2026-11-21T04:16:09.418292+09:00",
+  "actually_viewed": [
+    {
+      "file": "FLOW02_BEFORE_AFTER.png",
+      "sha256": "3538e5ae857240ccbe27df5c8309390cb4f0a25ae72ce5fce4908fdff9043c47"
+    },
+    {
+      "file": "FLOW02_CADENCE.png",
+      "sha256": "2e83e97a2a684fa7a3756b1e229527ef2e22768112b385c7751c91c77d8af9f5"
+    },
+    {
+      "file": "candidate_02_frames/0005.png",
+      "sha256": "1992575d6170c70efbc686af7fc85fe9660e58340160ed93e2b73d36c7493dba"
+    },
+    {
+      "file": "candidate_02_frames/0008.png",
+      "sha256": "8f0ce57c7962783c48765adf446d422c48d23077908ae70602cf52b2df8a2c60"
+    }
+  ],
+  "observed": "Flow02 initial finger opening detail atframes5/8 and bothboards viewed. Finger opening time was restored afterFlow01 was rejected as too compressed. Same original progression, shorter intermediate residence, more time in transit.",
+  "scope": "Actual saved-candidate renders and decoded movie stills viewed; no claim of continuous real-time video observation or fresh all-surface collision scan.",
+  "source_path_preservation_basis": "CANDIDATE_01_PROVENANCE plus independent common-knot/channel/default comparison, not image boards alone.",
+  "remaining_limitations": [
+    "Original spatial endpoints/tangents are retained.",
+    "Falling magazine uses the same temporal remap.",
+    "Unity/export not performed."
+  ],
+  "unity_applied": false
+}

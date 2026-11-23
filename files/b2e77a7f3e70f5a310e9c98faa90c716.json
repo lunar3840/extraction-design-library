@@ -1,0 +1,163 @@
+{
+  "scope": "14 helmet candidate products/28 primary character head views; not14 new tiers",
+  "source": "outputs/handoffs/2026-10-30/Edel_Serin_Equipment_Art_Handoff/03_DESIGN/EQUIPMENT_ROSTER.md",
+  "identifierNote": "H-prefix is review-artifact labeling to distinguish helmet legacy codes from armor codes, not a database item rename",
+  "missingBalancedLowTiers": "No C/B balanced helmet in existing roster; no invented placeholder products",
+  "products": [
+    {
+      "id": "H-C1",
+      "tier": "C",
+      "role": "mobility",
+      "name": "탐색 경량헬멧",
+      "matchingArmorCode": "C1",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "H-C2",
+      "tier": "C",
+      "role": "heavy",
+      "name": "철판 보강헬멧",
+      "matchingArmorCode": "C3",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "H-C3",
+      "tier": "C",
+      "role": "maintenance",
+      "name": "작업반 정비헬멧",
+      "matchingArmorCode": "C4",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "H-B1",
+      "tier": "B",
+      "role": "mobility",
+      "name": "훈련 경량헬멧",
+      "matchingArmorCode": "B1",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "H-B2",
+      "tier": "B",
+      "role": "heavy",
+      "name": "구문명 진압헬멧",
+      "matchingArmorCode": "B3",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "H-B3",
+      "tier": "B",
+      "role": "maintenance",
+      "name": "수색대 야전헬멧",
+      "matchingArmorCode": "B4",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "H-A1",
+      "tier": "A",
+      "role": "mobility",
+      "name": "군용 정찰헬멧",
+      "matchingArmorCode": "A1",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "H-A2",
+      "tier": "A",
+      "role": "balanced",
+      "name": "군용 전투헬멧",
+      "matchingArmorCode": "A2",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "H-A3",
+      "tier": "A",
+      "role": "heavy",
+      "name": "SWAT 안면보호헬멧",
+      "matchingArmorCode": "A3",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "H-A4",
+      "tier": "A",
+      "role": "maintenance",
+      "name": "공병 정비헬멧",
+      "matchingArmorCode": "A4",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "H-S1",
+      "tier": "S",
+      "role": "mobility",
+      "name": "특수부대 경량헬멧",
+      "matchingArmorCode": "S1",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "H-S2",
+      "tier": "S",
+      "role": "balanced",
+      "name": "특수작전 전투헬멧",
+      "matchingArmorCode": "S2",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "H-S3",
+      "tier": "S",
+      "role": "heavy",
+      "name": "저거넛 안면보호헬멧",
+      "matchingArmorCode": "S3",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    },
+    {
+      "id": "H-S4",
+      "tier": "S",
+      "role": "maintenance",
+      "name": "원정대 장기작전헬멧",
+      "matchingArmorCode": "S4",
+      "characters": [
+        "Edel",
+        "Serin"
+      ]
+    }
+  ],
+  "productionChanges": false
+}

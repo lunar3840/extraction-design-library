@@ -1,0 +1,11 @@
+{
+  "Checked": 17634,
+  "Missing": [],
+  "Changed": [
+    {
+      "Path": "C:\\UnityProject\\escape\\Assets\\Escape\\Settings\\PlayerDefaults.asset",
+      "Before": "DF75B4CFBBE71CB0AE7CDBE06765BE883F3B3C1C616B7DD5C32EFD173396816F",
+      "After": "FF958978BF348140D5D1460E08A9401D586CB8CF2E0A9266FC0663A6F9EBE8D3"
+    }
+  ]
+}

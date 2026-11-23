@@ -1,0 +1,62 @@
+{
+  "status": "PASS",
+  "characters": [
+    {
+      "character": "serin",
+      "cameraScaleDrift": 0.0,
+      "cameraPositionDrift": 0.0,
+      "plantedPoseMaxDrift": 0.0,
+      "reactions": [
+        "Shy",
+        "Curious",
+        "Determined",
+        "Shy"
+      ],
+      "status": "PASS"
+    },
+    {
+      "character": "prototype",
+      "cameraScaleDrift": 0.0,
+      "cameraPositionDrift": 0.0,
+      "plantedPoseMaxDrift": 0.0,
+      "reactions": [
+        "Joy",
+        "Surprise",
+        "Joy",
+        "Determined"
+      ],
+      "status": "PASS"
+    },
+    {
+      "character": "liv",
+      "cameraScaleDrift": 0.0,
+      "cameraPositionDrift": 0.0,
+      "plantedPoseMaxDrift": 0.0,
+      "reactions": [
+        "Surprise",
+        "Joy",
+        "Shy",
+        "Surprise"
+      ],
+      "status": "PASS"
+    },
+    {
+      "character": "yui",
+      "cameraScaleDrift": 0.0,
+      "cameraPositionDrift": 0.0,
+      "plantedPoseMaxDrift": 0.0,
+      "reactions": [
+        "Determined",
+        "Curious",
+        "Surprise",
+        "Shy"
+      ],
+      "status": "PASS"
+    }
+  ],
+  "lobbyReaction": "PASS",
+  "automaticInventoryLobbyWorld": "PASS",
+  "itemMovePreservesQuietDeadline": "PASS",
+  "directControlCancels": "PASS",
+  "scope": "Rendered inventory/main portraits and world automatic reaction; pointer tests recorded separately."
+}

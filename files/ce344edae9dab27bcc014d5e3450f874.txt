@@ -1,0 +1,41 @@
+V36 actual Play-mode captures; 1600x1000. Fixed positions/orientation; combat and time frozen. Room surveys intentionally use a wider fixed camera; gameplay shots retain player camera settings. Not an FPS benchmark.
+room_C02 player=(7.00000, 1.90000, -66.00000) camera=(15.67994, 30.79979, -82.11988) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_E01 player=(188.00000, 6.76000, 115.00000) camera=(196.11910, 33.85720, 99.92162) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+game_E01 player=(188.00000, 6.76000, 115.00000) camera=(192.35030, 21.81713, 122.53490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 roomSurvey=False
+room_E03 player=(202.00000, 6.70000, 157.00000) camera=(208.44010, 28.40043, 145.03970) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_E05 player=(101.00000, 3.04000, 8.00000) camera=(107.71820, 25.63424, -4.47667) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_E06 player=(122.00000, 3.10000, -26.00000) camera=(127.59930, 22.09783, -36.39874) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_E08 player=(97.00000, 1.90000, -57.00000) camera=(103.44100, 23.60307, -68.96178) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_E10 player=(154.00000, 2.44000, -58.00000) camera=(159.59880, 21.43628, -68.39785) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_F02 player=(205.00000, 0.88000, -147.00000) camera=(211.16140, 21.68456, -158.44260) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_F03 player=(105.00000, 0.10000, -182.00000) camera=(110.32000, 18.20000, -191.88000) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_N01 player=(-220.00000, 3.76000, 165.00000) camera=(-214.39820, 22.76572, 154.59670) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_N03 player=(-115.00000, 6.70000, 146.00000) camera=(-108.83890, 27.50353, 134.55800) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+game_N03 player=(-115.00000, 6.70000, 146.00000) camera=(-110.64970, 21.75714, 153.53490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 roomSurvey=False
+room_N05 player=(-157.00000, 3.82000, 72.00000) camera=(-150.28000, 26.42000, 59.52000) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_N06 player=(-191.00000, 3.04000, 64.00000) camera=(-184.00180, 26.53411, 51.00340) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_N08 player=(-74.00000, 8.26000, 145.00000) camera=(-67.84000, 29.06000, 133.56000) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_N09 player=(-29.00000, 9.40000, 128.00000) camera=(-21.43786, 34.70686, 113.95600) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_N10 player=(10.00000, 7.84000, 110.00000) camera=(17.56038, 33.14121, 95.95930) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_N11 player=(46.00000, 9.16000, 92.00000) camera=(51.59929, 28.15773, 81.60131) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_N12 player=(72.00000, 9.16000, 119.00000) camera=(78.71855, 31.75536, 106.52270) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_N13 player=(19.00000, 9.40000, 161.00000) camera=(27.12191, 36.50615, 145.91640) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_N14 player=(68.00000, 9.16000, 85.00000) camera=(73.04000, 26.36000, 75.64000) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_N15 player=(-52.00000, 8.68000, 76.00000) camera=(-44.16044, 34.87859, 61.44082) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_TOOLS player=(-167.50000, 1.06000, 5.50000) camera=(-159.66000, 27.26000, -9.06000) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+game_TOOLS player=(-167.50000, 1.06000, 5.50000) camera=(-163.14970, 16.11714, 13.03490) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 roomSurvey=False
+room_W01 player=(-214.00000, 2.50000, 50.00000) camera=(-207.55990, 24.20044, 38.03975) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_W02 player=(-181.00000, 1.96000, 39.00000) camera=(-174.00090, 25.45710, 26.00168) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_W03 player=(-136.00000, 2.98000, 42.00000) camera=(-129.27970, 25.58105, 29.51939) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_W04 player=(-99.00000, 2.32000, 31.00000) camera=(-91.99982, 25.82056, 17.99968) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_W05 player=(-132.00000, 1.84000, 9.00000) camera=(-124.72170, 26.23462, -4.51689) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_W07 player=(-99.00000, 1.48000, -37.00000) camera=(-92.55947, 23.18169, -48.96098) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_W08 player=(-183.00000, 0.58000, -35.00000) camera=(-174.87920, 27.68249, -50.08144) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_Y01 player=(-27.00000, 0.16000, -107.00000) camera=(-19.99812, 23.66603, -120.00350) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_Y02 player=(20.00000, 0.10000, -117.00000) camera=(26.71900, 22.69678, -129.47810) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+room_Y05 player=(-89.00000, 0.40000, -182.00000) camera=(-81.16000, 26.60000, -196.56000) rotation=(0.46065, -0.21512, 0.11614, 0.85325) fov=54 roomSurvey=True
+hall_1f player=(-22.00000, 2.08000, -27.00000) camera=(-17.64972, 17.13713, -19.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 roomSurvey=False
+hall_2f player=(-22.00000, 8.08000, -27.00000) camera=(-17.64972, 23.13713, -19.46510) rotation=(-0.12596, 0.84382, -0.47009, -0.22610) fov=60 roomSurvey=False
+captured=37 expected=37
+RESULT PASS
+candidate=0dfc538c992b40d28a73e6c92744988b

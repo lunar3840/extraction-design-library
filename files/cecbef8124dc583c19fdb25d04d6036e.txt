@@ -1,0 +1,73 @@
+STAGE_A_BUILDING_OVERLAP_V15_VALIDATION
+generatedUtc=2026-09-28T10:42:12.6785669Z
+PASS map reference is live
+PASS v0.8 structural metadata is present
+NOTE activeFactoryBuildings=53 protectedSignature=18:C0ECE487E9223325
+PASS CORE_G1 core anchor and semantic kind are preserved
+PASS DOOR_G1_CORE doorway anchor and semantic kind are preserved
+PASS CORE_G1 anchor transform is unchanged
+PASS DOOR_G1_CORE anchor transform is unchanged
+PASS CORE_G1 retains one floor and five authored wall visual parts
+PASS DOOR_G1_CORE retains the authored 1.6 m doorway marker
+PASS CORE_G1 collider count remains exactly 6
+PASS CORE_G1/Floor_Collision authored transform and collision are unchanged
+PASS CORE_G1/North_Collision authored transform and collision are unchanged
+PASS CORE_G1/South_A_Collision authored transform and collision are unchanged
+PASS CORE_G1/South_B_Collision authored transform and collision are unchanged
+PASS CORE_G1/West_Collision authored transform and collision are unchanged
+PASS CORE_G1/East_Collision authored transform and collision are unchanged
+PASS DOOR_G1_CORE accepts a radius 0.38 m, height 1.74 m doorway capsule
+PASS CORE_G1 wall remains blocking on both sides of its 1.6 m opening
+PASS CORE_G2 core anchor and semantic kind are preserved
+PASS DOOR_G2_CORE doorway anchor and semantic kind are preserved
+PASS CORE_G2 anchor transform is unchanged
+PASS DOOR_G2_CORE anchor transform is unchanged
+PASS CORE_G2 retains one floor and five authored wall visual parts
+PASS DOOR_G2_CORE retains the authored 1.6 m doorway marker
+PASS CORE_G2 collider count remains exactly 6
+PASS CORE_G2/Floor_Collision authored transform and collision are unchanged
+PASS CORE_G2/North_Collision authored transform and collision are unchanged
+PASS CORE_G2/South_Collision authored transform and collision are unchanged
+PASS CORE_G2/West_A_Collision authored transform and collision are unchanged
+PASS CORE_G2/West_B_Collision authored transform and collision are unchanged
+PASS CORE_G2/East_Collision authored transform and collision are unchanged
+PASS DOOR_G2_CORE accepts a radius 0.38 m, height 1.74 m doorway capsule
+PASS CORE_G2 wall remains blocking on both sides of its 1.6 m opening
+PASS CORE_G3 core anchor and semantic kind are preserved
+PASS DOOR_G3_CORE doorway anchor and semantic kind are preserved
+PASS CORE_G3 anchor transform is unchanged
+PASS DOOR_G3_CORE anchor transform is unchanged
+PASS CORE_G3 retains one floor and five authored wall visual parts
+PASS DOOR_G3_CORE retains the authored 1.6 m doorway marker
+PASS CORE_G3 collider count remains exactly 6
+PASS CORE_G3/Floor_Collision authored transform and collision are unchanged
+PASS CORE_G3/North_Collision authored transform and collision are unchanged
+PASS CORE_G3/South_Collision authored transform and collision are unchanged
+PASS CORE_G3/West_A_Collision authored transform and collision are unchanged
+PASS CORE_G3/West_B_Collision authored transform and collision are unchanged
+PASS CORE_G3/East_Collision authored transform and collision are unchanged
+PASS DOOR_G3_CORE accepts a radius 0.38 m, height 1.74 m doorway capsule
+PASS CORE_G3 wall remains blocking on both sides of its 1.6 m opening
+PASS POWER shell roots are present
+PASS POWER no longer contains visible RoomPartition_-1
+PASS POWER no longer contains collision RoomPartition_-1
+PASS POWER no longer contains visible RoomPartition_1
+PASS POWER no longer contains collision RoomPartition_1
+PASS PARTS shell roots are present
+PASS PARTS no longer contains visible RoomPartition_-1
+PASS PARTS no longer contains collision RoomPartition_-1
+PASS PARTS no longer contains visible RoomPartition_1
+PASS PARTS no longer contains collision RoomPartition_1
+NOTE obbInventory buildings=53 addedColliders=185 exteriorColliders=585 visualRendererTests=228 pairAlignmentTests=185
+PASS active v0.8/v0.9/v1.1 V12 interior collision inventory was inspected
+PASS solid V12 prop renderers were independently OBB-tested
+PASS no solid V12 prop crosses a retained core wall or its building exterior (actual=0)
+PASS no V12 prop obstructs a protected 1.6 m core doorway capsule (actual=0)
+PASS POWER saved shell prefab can be read back
+PASS POWER saved shell prefab contains no RoomPartition_-1
+PASS POWER saved shell prefab contains no RoomPartition_1
+PASS PARTS saved shell prefab can be read back
+PASS PARTS saved shell prefab contains no RoomPartition_-1
+PASS PARTS saved shell prefab contains no RoomPartition_1
+SUMMARY passed=67 failed=0 findings=0
+RESULT PASS

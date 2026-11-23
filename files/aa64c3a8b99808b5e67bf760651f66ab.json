@@ -1,0 +1,1641 @@
+{
+  "input": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\weapon-grip-reload-20261119\\qa_inputs\\AR_013_A_pass_17.blend",
+  "input_sha256": "61c3c29985a19116f0f7b1f4e08be58a2b7293ceccb6546ff345eaf95dd31519",
+  "source_sha256_after": "61c3c29985a19116f0f7b1f4e08be58a2b7293ceccb6546ff345eaf95dd31519",
+  "result": "PASS_SCOPED_WITH_NOTES",
+  "confirmed_blocking_failures": [],
+  "scope": "Edel + AR_013_A actual saved GR Idle/Aim/Fire/Walk/Run/Reload native Blender preview. Pre-Unity only.",
+  "coverage": {
+    "unique_actual_geometry_poses": 3598,
+    "original_half_frame_grid_included": 1194,
+    "reload_actual_geometry_poses": 2297,
+    "reload_full_range_spacing": 0.125,
+    "reload_between_saved_key_ranges": [
+      [
+        100,
+        109,
+        0.0625
+      ],
+      [
+        170,
+        176,
+        0.0625
+      ],
+      [
+        216,
+        218,
+        0.0625
+      ]
+    ],
+    "other_five_native_half_poses": 653,
+    "other_five_between_half_poses": 648,
+    "other_five_total": 1301,
+    "face_meshes": 12,
+    "actual_prop_meshes": 26,
+    "selected_prop_pairs": 129,
+    "drop_support_quarter_probe": 1081,
+    "motion_peak_1over32_poses": 161
+  },
+  "resolved_previous_failures": [
+    {
+      "previous": "R16-F01",
+      "title": "217 직전 탄창 튐",
+      "status": "RESOLVED_IN_SAVED17",
+      "evidence": [
+        "BOARD17_between_keys_02.png",
+        "BOARD17_between_keys_03.png",
+        "DENSE_HANDOFF_CONTINUITY.json"
+      ],
+      "metrics": {
+        "installed_max_world_vertex_drift_102_to102p4375_mm": 0.0,
+        "old102p4375_to_spent102p5_vertex_delta_mm": 6.537857552757487e-05,
+        "spare_max_world_vertex_drift_216p5_to216p9375_mm": 0.002209646627306938,
+        "spare216p9375_to_installed217_vertex_delta_mm": 0.00012489448999986053
+      }
+    },
+    {
+      "previous": "R16-F02",
+      "title": "놓은 빈 탄창 공중 정지",
+      "status": "RESOLVED_IN_SAVED17",
+      "evidence": [
+        "BOARD17_reload_hands_04.png",
+        "BOARD17_drop_01.png",
+        "BOARD17_drop_02.png"
+      ],
+      "release_handoff_frame": 102.5,
+      "spent_actual_remains_through_frame": 271
+    },
+    {
+      "previous": "R16-F03",
+      "title": "173.x 키 사이 엄지–밑판 간섭",
+      "status": "RESOLVED_IN_SAVED17",
+      "evidence": [
+        "BOARD17_between_keys_01.png",
+        "FULL_SIX_ACTION_ARM_AUDIT.json"
+      ],
+      "tested_saved_key_mid_spacing": 0.0625,
+      "character_spare_surface_intersections": 0
+    }
+  ],
+  "accepted_results": [
+    "3598표본에서 전체 팔–몸/헤어/별도얼굴, 양팔/양손, 몸전체·얼굴–가시소품 차단교차0.",
+    "홀더/총·탄창상호·Spent/총·실제바닥 차단교차0. 설계된 삽입슬롯 접촉은 별도.",
+    "지지 가능한 자연스러운 닫힌 파지. 짧은 그립 약지/소지 필수접촉 강제 없음.",
+    "컵 받침0.20011mm, 실제 바닥 안착 여유 약0.5mm, 빈 탄창끝271잔류.",
+    "반복5클립의 몸표면 양끝0차 및 ReloadIdle몸복귀. 재고1->0과Spent잔류는 의도된 비반복 상태."
+  ],
+  "minimum_spent_floor_clearance": {
+    "frame": 241.875,
+    "minimum_plane_clearance_mm": 0.4998703896999359,
+    "surface_triangle_pairs": 0
+  },
+  "cup_support": {
+    "floor_triangles": 89,
+    "bottom20percent_to_floor_min_mm": 0.20011294691357762,
+    "median_mm": 20.89062612503767
+  },
+  "handoff_continuity": {
+    "installed_max_world_vertex_drift_102_to102p4375_mm": 0.0,
+    "old102p4375_to_spent102p5_vertex_delta_mm": 6.537857552757487e-05,
+    "spare_max_world_vertex_drift_216p5_to216p9375_mm": 0.002209646627306938,
+    "spare216p9375_to_installed217_vertex_delta_mm": 0.00012489448999986053
+  },
+  "motion_naturalness": {
+    "decision": "ACCEPTED",
+    "specific_risk_interval": [
+      132.375,
+      132.5
+    ],
+    "method": "130..135 every1/32 tracking +12 ordered consecutive poses rendered with2 fixed cameras.",
+    "interpretation": "빠르게 손바닥을 홀더 방향으로 맞추는 동작. 순간 반전/관절 뜀/손가락 파손은 보이지 않아 수치만으로 실패 추가하지 않음.",
+    "evidence": [
+      "MOTION_PEAK_REVIEW.json",
+      "BOARD17_motion_peak_front.png",
+      "BOARD17_motion_peak_side.png"
+    ],
+    "video_playback_claim": false
+  },
+  "nonblocking_notes": [
+    {
+      "id": "N17-01",
+      "classification": "NONBLOCKING_REFERENCE",
+      "title": "원래 부착부/관절 피부 접힘 및 가중치 경계 후보",
+      "scope": "두피/쇄골 접힘과 같은 손 내부 접촉 원문 보존. 새 외형 실패로 확정하지 않았으며 전체 피부 무교차로 인증하지 않음.",
+      "evidence": [
+        "FULL_SIX_ACTION_ARM_AUDIT.json",
+        "OTHER_FIVE_BETWEEN_KEYS_AUDIT.json",
+        "HAND_AND_CONTAINER_DIAGNOSIS.json"
+      ]
+    },
+    {
+      "id": "N17-02",
+      "classification": "INTENDED_ASSEMBLY_CONTACT_REFERENCE",
+      "title": "탄창 삽입/좌정 슬롯 접촉",
+      "sample_count": 70,
+      "first_frame": 209.25,
+      "last_frame": 216.9375,
+      "scope": "Spare–Lower만 해당. 실제 삽입 외형은 수용하며 내부magwell 구조 전체 인증으로 확대하지 않음. raw 접촉 유지.",
+      "raw_samples": [
+        {
+          "clip": "Reload",
+          "frame": 209.25,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 9,
+              "first_a_triangle": [
+                6,
+                10,
+                33
+              ],
+              "first_b_triangle": [
+                8,
+                10,
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 209.375,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 11,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                8,
+                10,
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 209.5,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 17,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                8,
+                6,
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 209.625,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 17,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                8,
+                6,
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 209.75,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                8,
+                6,
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 209.875,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 19,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 210.0,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 210.125,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 210.25,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 210.375,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 210.5,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 210.625,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 210.75,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 210.875,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 211.0,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 211.125,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 211.25,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 211.375,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 211.5,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 211.625,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 211.75,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 211.875,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 212.0,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 212.125,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 212.25,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 212.375,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 20,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 212.5,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 20,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 212.625,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 20,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 212.75,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 20,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 212.875,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 20,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 213.0,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 20,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 213.125,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 20,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                6,
+                7,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 213.25,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 213.375,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 213.5,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 213.625,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 213.75,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 213.875,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 214.0,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 214.125,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 214.25,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 214.375,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 214.5,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 214.625,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 214.75,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 214.875,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 215.0,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 215.125,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 215.25,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 215.375,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 215.5,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 215.625,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 215.75,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 215.875,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 216.0,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 216.0625,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 216.125,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 216.1875,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 216.25,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 216.3125,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 216.375,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 216.4375,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 216.5,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 216.5625,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 216.625,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 216.6875,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 216.75,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 216.8125,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 216.875,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "clip": "Reload",
+          "frame": 216.9375,
+          "contacts": [
+            {
+              "object_a": "EF_AR_013_A__AR_013__Lower",
+              "object_b": "EF_AR_013_A__SPARE_Magazine",
+              "surface_triangle_pairs": 18,
+              "first_a_triangle": [
+                6,
+                33,
+                31
+              ],
+              "first_b_triangle": [
+                16,
+                17,
+                25
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "N17-03",
+      "classification": "PRODUCER_HEURISTIC_REFERENCE",
+      "title": "nearest-normal 원시22.457mm",
+      "producer_raw_mm": 22.457,
+      "scope": "실제 침투 깊이로 사용하지 않음. 제작측 AABB/내부 판정과 본 실제표면/시각검사를 구분. 원본 raw값을 지우거나0으로 바꾸지 않음."
+    }
+  ],
+  "limits": [
+    "유한한 저장 시점 표본과 명시된 다각도 자세의 검증. 모든 연속시각/픽셀의 수학적 증명은 아님.",
+    "Unity 적용/GPU피부/상태전환 후 바닥소품 지속성/인벤토리/연속재장전/다른캐릭터·총기는 범위밖.",
+    "기존 전체애니메이션134catalog/63도달/662실게임 보고서의 확정 실패는 이번PASS로 해소하지 않음.",
+    "원본106곡선/캐릭터UVweightrest 보존은 메인 보호감사와 구분. 본 회차 입력SHA 전후 동일.",
+    "가려진 후면 손 화면만으로 접촉 통과시키지 않았고 원래 재질 장면과 중립 손진단을 분리."
+  ],
+  "source_mutations": 0,
+  "unity_mutations": 0,
+  "producer_generation_calls": 0,
+  "tool_retry_record": {
+    "other_five_reader_initial_preexecution_syntax_error": "Preserved in _tools/other_five_between_keys_audit_first_attempt.log; corrected reader completed648 poses. Not a character/game failure."
+  },
+  "visual_coverage": {
+    "generated_original_images": 331,
+    "viewed_original_images_via_boards": 331,
+    "viewed_boards": 30,
+    "original_material_scene_images": 319,
+    "isolated_neutral_diagnostic_images": 12,
+    "motion_peak_added_images": 24,
+    "image_frame_label_rule": "Exact times are JSON frame values; some risk filenames use rounded6-significant-digit display labels."
+  }
+}

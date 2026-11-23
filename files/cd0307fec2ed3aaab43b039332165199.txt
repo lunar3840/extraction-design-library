@@ -1,0 +1,206 @@
+2026-10-07 오후 6:48:25
+STAGE_A_BUILDING_D04_BEFORE_ACCESS_BASELINE
+sites=68 V33=64
+navigationBuilt=True
+SITE C01 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY C01/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY C01/1 originalDoorBlocker=South_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+SITE C02 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY C02/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY C02/1 originalDoorBlocker=Skirt_S originalAisleBlocker=none doorNav=True aisleNav=True
+SITE C03 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY C03/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY C03/1 originalDoorBlocker=South_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+SITE C04 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY C04/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY C04/1 originalDoorBlocker=South_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+SITE CLINIC anchors=True roofRendererAndCutawayRegistration=True
+ENTRY CLINIC/0 originalDoorBlocker=none originalAisleBlocker=South_B_Collision doorNav=True aisleNav=True
+SITE E01 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY E01/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY E01/1 originalDoorBlocker=South_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+SITE E02 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY E02/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY E02/1 originalDoorBlocker=South_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+SITE E03 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY E03/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY E03/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE E04 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY E04/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY E04/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE E05 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY E05/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY E05/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE E06 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY E06/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY E06/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE E07 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY E07/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY E07/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE E08 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY E08/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY E08/1 originalDoorBlocker=Skirt_S originalAisleBlocker=none doorNav=True aisleNav=True
+SITE E09 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY E09/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY E09/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE E10 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY E10/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY E10/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE E11 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY E11/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY E11/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE E12 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY E12/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY E12/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE F01 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY F01/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY F01/1 originalDoorBlocker=South_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+SITE F02 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY F02/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY F02/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE F03 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY F03/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY F03/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE N01 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY N01/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY N01/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE N02 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY N02/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY N02/1 originalDoorBlocker=South_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+SITE N03 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY N03/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY N03/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE N04 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY N04/0 originalDoorBlocker=Skirt_N originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY N04/1 originalDoorBlocker=South_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+SITE N05 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY N05/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY N05/1 originalDoorBlocker=Skirt_S originalAisleBlocker=none doorNav=True aisleNav=True
+SITE N06 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY N06/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY N06/1 originalDoorBlocker=Skirt_S originalAisleBlocker=none doorNav=True aisleNav=True
+SITE N07 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY N07/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY N07/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE N08 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY N08/0 originalDoorBlocker=Skirt_N originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY N08/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE N09 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY N09/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY N09/1 originalDoorBlocker=Skirt_S originalAisleBlocker=none doorNav=True aisleNav=True
+SITE N10 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY N10/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY N10/1 originalDoorBlocker=South_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+SITE N11 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY N11/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY N11/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE N12 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY N12/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY N12/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE N13 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY N13/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY N13/1 originalDoorBlocker=South_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+SITE N14 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY N14/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY N14/1 originalDoorBlocker=South_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+SITE N15 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY N15/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY N15/1 originalDoorBlocker=South_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+SITE N16 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY N16/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY N16/1 originalDoorBlocker=South_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+SITE N17 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY N17/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY N17/1 originalDoorBlocker=South_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+SITE PARTS anchors=True roofRendererAndCutawayRegistration=True
+ENTRY PARTS/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE POWER anchors=True roofRendererAndCutawayRegistration=True
+ENTRY POWER/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE S01 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY S01/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY S01/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE S02 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY S02/0 originalDoorBlocker=none originalAisleBlocker=RustyBarricade_03_Southwest_Ruins doorNav=True aisleNav=False
+ENTRY S02/1 originalDoorBlocker=none originalAisleBlocker=RustyBarricade_03_Southwest_Ruins doorNav=True aisleNav=False
+SITE S03 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY S03/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY S03/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE S04 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY S04/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY S04/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE S05 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY S05/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY S05/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE S06 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY S06/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY S06/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE S07 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY S07/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY S07/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE S08 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY S08/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY S08/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE S09 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY S09/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY S09/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE S10 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY S10/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY S10/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE S11 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY S11/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY S11/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE S12 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY S12/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY S12/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE TOOLS anchors=True roofRendererAndCutawayRegistration=True
+ENTRY TOOLS/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE W01 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY W01/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY W01/1 originalDoorBlocker=Skirt_S originalAisleBlocker=none doorNav=True aisleNav=True
+SITE W02 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY W02/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY W02/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE W03 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY W03/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY W03/1 originalDoorBlocker=Skirt_S originalAisleBlocker=none doorNav=True aisleNav=True
+SITE W04 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY W04/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY W04/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE W05 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY W05/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY W05/1 originalDoorBlocker=South_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+SITE W06 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY W06/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY W06/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE W07 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY W07/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY W07/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE W08 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY W08/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY W08/1 originalDoorBlocker=South_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+SITE W09 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY W09/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY W09/1 originalDoorBlocker=South_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+SITE W10 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY W10/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY W10/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE W11 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY W11/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY W11/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE Y01 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY Y01/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY Y01/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE Y02 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY Y02/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY Y02/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE Y03 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY Y03/0 originalDoorBlocker=North_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY Y03/1 originalDoorBlocker=South_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+SITE Y04 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY Y04/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY Y04/1 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+SITE Y05 anchors=True roofRendererAndCutawayRegistration=True
+ENTRY Y05/0 originalDoorBlocker=none originalAisleBlocker=none doorNav=True aisleNav=True
+ENTRY Y05/1 originalDoorBlocker=South_Collision originalAisleBlocker=none doorNav=True aisleNav=True
+existingFailures=57
+RESULT BASELINE_RECORDED

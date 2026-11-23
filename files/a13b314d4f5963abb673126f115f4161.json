@@ -1,0 +1,437 @@
+{
+  "bodyOverflow": false,
+  "groups": [
+    "플레이어01",
+    "적02",
+    "무기·탄약03",
+    "경제·거래04",
+    "인벤토리·장비05",
+    "의료·생존06",
+    "성장·연구07",
+    "동료08",
+    "전리품09",
+    "스테이지10",
+    "전투11"
+  ],
+  "navText": [
+    {
+      "id": "96a87fc12098098a",
+      "text": "플레이어 기본 규칙"
+    },
+    {
+      "id": "2d3ea49057a6262b",
+      "text": "플레이어 설정 기본값"
+    },
+    {
+      "id": "a56e86406b5de3fe",
+      "text": "플레이어 실제 설정"
+    },
+    {
+      "id": "cd894ee9de7cf30e",
+      "text": "플레이어 이동"
+    },
+    {
+      "id": "bc26b95cc703da92",
+      "text": "적 인식·전투 규칙"
+    },
+    {
+      "id": "4abda5c0c2fd213c",
+      "text": "적 탄약 보유량"
+    },
+    {
+      "id": "8a80e017e1b1ce58",
+      "text": "적 행동"
+    },
+    {
+      "id": "964b446904e046b3",
+      "text": "A맵 적 구성"
+    },
+    {
+      "id": "af16732bcb0e2ee9",
+      "text": "A맵 적 생성·스탯"
+    },
+    {
+      "id": "0316089b3233bbd3",
+      "text": "EnemyController.FactionAwareness"
+    },
+    {
+      "id": "78e5ab1312976a0b",
+      "text": "EnemyController.MachineRoles"
+    },
+    {
+      "id": "faa015d697a76425",
+      "text": "EnemyTargetPerception"
+    },
+    {
+      "id": "9ab1dcf6c6983894",
+      "text": "EnemyWeaponState"
+    },
+    {
+      "id": "87fbefc85aef37a6",
+      "text": "MachineAttackProjectile"
+    },
+    {
+      "id": "c2535f4cb8d5352d",
+      "text": "PlayerNoiseEmitter"
+    },
+    {
+      "id": "974453d87f981be6",
+      "text": "StageAMachineRole"
+    },
+    {
+      "id": "bde96324a08d147e",
+      "text": "무기"
+    },
+    {
+      "id": "26bd216b95b592e1",
+      "text": "탄약"
+    },
+    {
+      "id": "af5864b3bd93f59c",
+      "text": "회수 소총 실제 설정"
+    },
+    {
+      "id": "47b48891816b2187",
+      "text": "AmmoRules"
+    },
+    {
+      "id": "30f75e9a574e7a93",
+      "text": "InventoryWeaponAttachments"
+    },
+    {
+      "id": "a394c5109cf4ad83",
+      "text": "InventoryWeaponDetails"
+    },
+    {
+      "id": "34b08b41e8c9dcc5",
+      "text": "InventoryWeaponModding"
+    },
+    {
+      "id": "3ef122cdebe2f8ec",
+      "text": "MeleeService"
+    },
+    {
+      "id": "d291c59a970a0d36",
+      "text": "RifleController"
+    },
+    {
+      "id": "5ef6ff50ffce9328",
+      "text": "RifleState"
+    },
+    {
+      "id": "15b31af2675670e3",
+      "text": "WeaponAffixes"
+    },
+    {
+      "id": "45e9592b49479e09",
+      "text": "WeaponAttachments"
+    },
+    {
+      "id": "5a7c421a13a7a690",
+      "text": "WeaponModdingTransactions"
+    },
+    {
+      "id": "9695cfb33be47134",
+      "text": "거점 거래"
+    },
+    {
+      "id": "c43f6094045831c3",
+      "text": "상점"
+    },
+    {
+      "id": "1fba9b63e455033c",
+      "text": "상점"
+    },
+    {
+      "id": "19214fedf24ad404",
+      "text": "수리 비용·효율"
+    },
+    {
+      "id": "d5bd5ce462b20817",
+      "text": "ItemValueTier"
+    },
+    {
+      "id": "e28f92a5adc93e6a",
+      "text": "LocalProfileStore"
+    },
+    {
+      "id": "7c4f22890990d5af",
+      "text": "ProfileData"
+    },
+    {
+      "id": "6a11a4ff1cf5a097",
+      "text": "ProfileMigration"
+    },
+    {
+      "id": "48e6119e000d7006",
+      "text": "ProfileStory"
+    },
+    {
+      "id": "ae15f9784152d795",
+      "text": "방어구"
+    },
+    {
+      "id": "70231e8b90f2e976",
+      "text": "배낭"
+    },
+    {
+      "id": "7bab945d65047f16",
+      "text": "아이템"
+    },
+    {
+      "id": "49ac8d87ef130727",
+      "text": "아이템"
+    },
+    {
+      "id": "518d6fb11e018b75",
+      "text": "아이템 원형"
+    },
+    {
+      "id": "c47e204662ae1579",
+      "text": "장비·소모품 정의"
+    },
+    {
+      "id": "63eb5bbd81d80bff",
+      "text": "ArmorState"
+    },
+    {
+      "id": "929de866d0f10f62",
+      "text": "InventoryCarried"
+    },
+    {
+      "id": "2396e610f88d27b2",
+      "text": "InventoryController"
+    },
+    {
+      "id": "6977f98dc81d13e7",
+      "text": "InventoryDoubleClick"
+    },
+    {
+      "id": "0ed1b26aa461e6b5",
+      "text": "InventoryDoubleClickSequence"
+    },
+    {
+      "id": "3a5c56e7d06ec7fd",
+      "text": "InventoryEquipment"
+    },
+    {
+      "id": "b94f1a5cc0176174",
+      "text": "InventoryExternalEquipment"
+    },
+    {
+      "id": "47e5c4c24297f302",
+      "text": "InventoryGrid"
+    },
+    {
+      "id": "ea348e90f1d3f44d",
+      "text": "InventoryGroundTransfer"
+    },
+    {
+      "id": "564932c6f3072d74",
+      "text": "InventoryMedicalDetails"
+    },
+    {
+      "id": "0a6e496a55f9e4b0",
+      "text": "InventorySnapshot"
+    },
+    {
+      "id": "a2bce015ed30f613",
+      "text": "InventoryState"
+    },
+    {
+      "id": "cb877afd6d5ed9b4",
+      "text": "InventoryTransactions"
+    },
+    {
+      "id": "45bc94f4316409db",
+      "text": "ItemDefinition"
+    },
+    {
+      "id": "9f79c1f0ef2b7154",
+      "text": "ItemResourceState"
+    },
+    {
+      "id": "ff534dda0344cb90",
+      "text": "감염"
+    },
+    {
+      "id": "a1d5d71ac6d976fe",
+      "text": "부상"
+    },
+    {
+      "id": "3fb228763a1ad8dd",
+      "text": "의료·소모품 사용"
+    },
+    {
+      "id": "2ee8215c3cf384e3",
+      "text": "ItemUseState"
+    },
+    {
+      "id": "28653800ef12c230",
+      "text": "성장 효과"
+    },
+    {
+      "id": "66f49844f89378db",
+      "text": "연구 비용·재료"
+    },
+    {
+      "id": "bf6f2347810caf91",
+      "text": "주요 퀘스트"
+    },
+    {
+      "id": "a5eeeac50853a465",
+      "text": "퀘스트·보상"
+    },
+    {
+      "id": "e13d77b4483eef13",
+      "text": "ProfileResearch"
+    },
+    {
+      "id": "89189adf0cd59951",
+      "text": "QuestDefinitionAsset"
+    },
+    {
+      "id": "4876c96922dfd6f9",
+      "text": "QuestTransactions"
+    },
+    {
+      "id": "cfe0c00afcd188da",
+      "text": "동료 능력 동작"
+    },
+    {
+      "id": "59287035b6823abb",
+      "text": "동료 능력 수치"
+    },
+    {
+      "id": "b34f7a08549b044f",
+      "text": "동료 칩"
+    },
+    {
+      "id": "c370deadf87d170f",
+      "text": "동료 칩 운반"
+    },
+    {
+      "id": "3f7c14548926faf9",
+      "text": "InventoryCompanionChips"
+    },
+    {
+      "id": "5db757b39154252f",
+      "text": "ProfileChipRecovery"
+    },
+    {
+      "id": "bcdd89bbe048d226",
+      "text": "ProfileCompanions"
+    },
+    {
+      "id": "618903ba11e2f36d",
+      "text": "전리품 확률·수량"
+    },
+    {
+      "id": "f0cdef000afdec51",
+      "text": "A맵 전리품 배치"
+    },
+    {
+      "id": "a4be9d2734b88862",
+      "text": "A맵 전리품 보상"
+    },
+    {
+      "id": "60786ef5243c89ae",
+      "text": "GroundLootDrop"
+    },
+    {
+      "id": "17de9ccd5bb5d4c9",
+      "text": "LootContainer"
+    },
+    {
+      "id": "362985d63f499619",
+      "text": "LootEquipment"
+    },
+    {
+      "id": "2548f155da9272b1",
+      "text": "LootGroundTransfer"
+    },
+    {
+      "id": "92f109acb7340a5f",
+      "text": "LootInteractor"
+    },
+    {
+      "id": "2a4a278385d7ca99",
+      "text": "LootPromptSelection"
+    },
+    {
+      "id": "1faa12ad5ddeb020",
+      "text": "LootRegionSwap"
+    },
+    {
+      "id": "547bc793afe01e72",
+      "text": "LootState"
+    },
+    {
+      "id": "5964ac0399532caf",
+      "text": "StageALootSpawner"
+    },
+    {
+      "id": "fb624e5f8bc8f1d2",
+      "text": "출격 세션"
+    },
+    {
+      "id": "c096694f3426a3d4",
+      "text": "탈출"
+    },
+    {
+      "id": "61f1958d8fa07625",
+      "text": "프로필 초기값·경제"
+    },
+    {
+      "id": "b325d2457b1ce366",
+      "text": "SessionBaseCamp"
+    },
+    {
+      "id": "85a77c7377896cd7",
+      "text": "SessionStory"
+    },
+    {
+      "id": "f9198df180e2a9a6",
+      "text": "StageMapRouter"
+    },
+    {
+      "id": "b1224b485f0966c6",
+      "text": "피해 계산"
+    },
+    {
+      "id": "7d0cea044ef310b1",
+      "text": "AimTarget"
+    },
+    {
+      "id": "50ff6ae8abcac524",
+      "text": "CombatDummy"
+    },
+    {
+      "id": "a5ce653b6acf3bfc",
+      "text": "CombatFeedbackAudio"
+    },
+    {
+      "id": "f6509364735648fb",
+      "text": "CombatFeedbackController"
+    },
+    {
+      "id": "a66703c2eda62f1a",
+      "text": "CombatSignals"
+    },
+    {
+      "id": "e87c11c911498583",
+      "text": "DamageReceiver"
+    },
+    {
+      "id": "debe4123f1aa21f6",
+      "text": "HitscanService"
+    }
+  ],
+  "scrollY": 127.33333587646484,
+  "selected": "A맵 적 생성·스탯",
+  "sidebarScroll": 252,
+  "viewport": {
+    "height": 720,
+    "width": 960
+  }
+}

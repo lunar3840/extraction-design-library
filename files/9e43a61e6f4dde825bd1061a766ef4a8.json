@@ -1,0 +1,108 @@
+{
+  "status": "NAVIGATION_REVIEW_REQUIRED",
+  "snapshots": {
+    "before_edit": {
+      "count": 1205,
+      "kinds": {
+        "entry_loot": 200,
+        "entry_exit": 28,
+        "loot_exit": 350,
+        "patrol": 627
+      },
+      "matchesOriginal1205Shape": true,
+      "summaryFailed": 0,
+      "csvFailed": 0,
+      "setupException": "",
+      "failedIds": []
+    },
+    "before_play": {
+      "count": 1205,
+      "kinds": {
+        "entry_loot": 200,
+        "entry_exit": 28,
+        "loot_exit": 350,
+        "patrol": 627
+      },
+      "matchesOriginal1205Shape": true,
+      "summaryFailed": 0,
+      "csvFailed": 0,
+      "setupException": "",
+      "failedIds": []
+    },
+    "after_edit": {
+      "count": 1205,
+      "kinds": {
+        "entry_loot": 200,
+        "entry_exit": 28,
+        "loot_exit": 350,
+        "patrol": 627
+      },
+      "matchesOriginal1205Shape": true,
+      "summaryFailed": 0,
+      "csvFailed": 0,
+      "setupException": "",
+      "failedIds": []
+    },
+    "after_play": {
+      "count": 1205,
+      "kinds": {
+        "entry_loot": 200,
+        "entry_exit": 28,
+        "loot_exit": 350,
+        "patrol": 627
+      },
+      "matchesOriginal1205Shape": true,
+      "summaryFailed": 0,
+      "csvFailed": 0,
+      "setupException": "",
+      "failedIds": []
+    }
+  },
+  "comparisons": {
+    "before_after_edit": {
+      "beforeCount": 1205,
+      "afterCount": 1205,
+      "beforeFailures": 0,
+      "afterFailures": 0,
+      "removedIds": [],
+      "addedIds": [],
+      "rawStatusChanges": [],
+      "outcomeChanges": [],
+      "lengthChangesOver5m": []
+    },
+    "before_after_play": {
+      "beforeCount": 1205,
+      "afterCount": 1205,
+      "beforeFailures": 0,
+      "afterFailures": 0,
+      "removedIds": [],
+      "addedIds": [],
+      "rawStatusChanges": [],
+      "outcomeChanges": [],
+      "lengthChangesOver5m": []
+    },
+    "edit_play_before": {
+      "beforeCount": 1205,
+      "afterCount": 1205,
+      "beforeFailures": 0,
+      "afterFailures": 0,
+      "removedIds": [],
+      "addedIds": [],
+      "rawStatusChanges": [],
+      "outcomeChanges": [],
+      "lengthChangesOver5m": []
+    },
+    "edit_play_after": {
+      "beforeCount": 1205,
+      "afterCount": 1205,
+      "beforeFailures": 0,
+      "afterFailures": 0,
+      "removedIds": [],
+      "addedIds": [],
+      "rawStatusChanges": [],
+      "outcomeChanges": [],
+      "lengthChangesOver5m": []
+    }
+  },
+  "note": "Raw public PathPartial can be V17-resolved. Inspect every failed ID and status change. Static paths do not certify actual PlayerMotor/EnemyController movement, extraction or combat."
+}

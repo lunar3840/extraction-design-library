@@ -1,0 +1,61 @@
+{
+  "runtime": {
+    "before": {
+      "pass_count": 19,
+      "complete": true
+    },
+    "after": {
+      "pass_count": 51,
+      "complete": true
+    },
+    "main_map": {
+      "pass_count": 13,
+      "complete": true
+    }
+  },
+  "audio": {
+    "before": {
+      "channels": 2,
+      "sample_rate": 48000,
+      "seconds": 19.690666666666665,
+      "peak_pcm": 0.762420654296875,
+      "clipped_samples": 0,
+      "nonzero_samples": 301554
+    },
+    "after": {
+      "channels": 2,
+      "sample_rate": 48000,
+      "seconds": 33.856,
+      "peak_pcm": 0.729156494140625,
+      "clipped_samples": 0,
+      "nonzero_samples": 555528
+    }
+  },
+  "right_warning_red_pixels": {
+    "before": 388,
+    "after": 4682
+  },
+  "protected_files": [
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Scenes\\StageA_Relay_Blockout_v08.unity",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Combat\\DamageReceiver.cs",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Combat\\Core\\DamageRules.cs",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Enemy\\EnemyController.cs",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Weapon\\RifleController.cs",
+      "unchanged": true
+    }
+  ],
+  "temporary_probe_removed": true
+}

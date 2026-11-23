@@ -1,0 +1,22 @@
+{
+    "utc": "2026-11-02T20:39:19.2221490Z",
+    "itemId": "TEST_EDEL_S4_MAINTENANCE",
+    "character": "Assets/Escape/Resources/SD/Player_Edel.prefab",
+    "outfit": "Assets/Escape/Resources/SD/Armor/EdelS4/Outfit.prefab",
+    "dependencyHash": "03a98b8a7cd0798060df936fd5bc6e37:03ad4fa33ba1427ac1dc014250d3a121",
+    "output": "Assets/Escape/Resources/UI/ItemIcons/TEST_EDEL_S4_MAINTENANCE.png",
+    "meshCount": 50,
+    "width": 762,
+    "height": 768,
+    "opaquePixels": 181882,
+    "transparentPixels": 403334,
+    "alphaMinX": 20,
+    "alphaMinY": 20,
+    "alphaMaxX": 741,
+    "alphaMaxY": 747,
+    "pngBytes": 295620,
+    "sourceUnchanged": true,
+    "sceneUnchanged": true,
+    "transientObjectsReleased": true,
+    "note": "Actual S4 rest-pose garment meshes/materials; no body or head. Explicit Editor bake, no runtime renderer. Rebuild from menu after changing source models."
+}

@@ -1,0 +1,2190 @@
+﻿{
+    "source": "Saved 2026-10-03 D02 + V33 Stage A; D03 outdoor work cells; North service/loading replaces V33 EN3, EN4 and EW5 display rows (disabled, retained in source)",
+    "disabled_v33_equipment": [
+        "EE1",
+        "EE4",
+        "EY1",
+        "EY2",
+        "EY3",
+        "ES1",
+        "ES2",
+        "ES4",
+        "EN3",
+        "EN4",
+        "EW5"
+    ],
+    "cells": [
+        {
+            "id": "SC_TRANSFER",
+            "facility": "SC",
+            "existing_connection": "SC_W6 and E05 east wall",
+            "blocked_desire_line": "E05 to PARTS straight grass crossing",
+            "isolation_reason": "",
+            "width": 2.799999952316284,
+            "direct_start": {
+                "x": 375.0,
+                "y": 183.0
+            },
+            "direct_end": {
+                "x": 396.0,
+                "y": 183.0
+            },
+            "alternative_a": [
+                {
+                    "x": 375.0,
+                    "y": 183.0
+                },
+                {
+                    "x": 375.0,
+                    "y": 180.0
+                },
+                {
+                    "x": 396.0,
+                    "y": 180.0
+                },
+                {
+                    "x": 396.0,
+                    "y": 183.0
+                }
+            ],
+            "alternative_b": [
+                {
+                    "x": 375.0,
+                    "y": 183.0
+                },
+                {
+                    "x": 376.0,
+                    "y": 188.0
+                },
+                {
+                    "x": 396.0,
+                    "y": 188.0
+                },
+                {
+                    "x": 396.0,
+                    "y": 183.0
+                }
+            ]
+        },
+        {
+            "id": "SC_SORTING",
+            "facility": "SC",
+            "existing_connection": "E05 south wall and E06 west service face",
+            "blocked_desire_line": "SC south grass diagonal crossing",
+            "isolation_reason": "Fenced incoming-material sorting island between E05 and E06, with separate north and south alleys",
+            "width": 2.799999952316284,
+            "direct_start": {
+                "x": 353.0,
+                "y": 213.0
+            },
+            "direct_end": {
+                "x": 370.0,
+                "y": 213.0
+            },
+            "alternative_a": [
+                {
+                    "x": 353.0,
+                    "y": 213.0
+                },
+                {
+                    "x": 353.0,
+                    "y": 207.5
+                },
+                {
+                    "x": 370.0,
+                    "y": 207.5
+                },
+                {
+                    "x": 370.0,
+                    "y": 213.0
+                }
+            ],
+            "alternative_b": [
+                {
+                    "x": 353.0,
+                    "y": 213.0
+                },
+                {
+                    "x": 353.0,
+                    "y": 231.0
+                },
+                {
+                    "x": 370.0,
+                    "y": 231.0
+                },
+                {
+                    "x": 370.0,
+                    "y": 213.0
+                }
+            ]
+        },
+        {
+            "id": "PC_TRANSFORMER",
+            "facility": "PC",
+            "existing_connection": "POWER east wall and PC_W1 mesh fence",
+            "blocked_desire_line": "POWER to E01/E02 straight grass crossing",
+            "isolation_reason": "Internal transformer and cable service island between E01 and E02, bounded by continuous wire segments",
+            "width": 2.799999952316284,
+            "direct_start": {
+                "x": 433.0,
+                "y": 103.0
+            },
+            "direct_end": {
+                "x": 465.0,
+                "y": 103.0
+            },
+            "alternative_a": [
+                {
+                    "x": 433.0,
+                    "y": 103.0
+                },
+                {
+                    "x": 432.0,
+                    "y": 99.0
+                },
+                {
+                    "x": 465.0,
+                    "y": 99.0
+                },
+                {
+                    "x": 465.0,
+                    "y": 103.0
+                }
+            ],
+            "alternative_b": [
+                {
+                    "x": 433.0,
+                    "y": 103.0
+                },
+                {
+                    "x": 431.0,
+                    "y": 106.0
+                },
+                {
+                    "x": 465.0,
+                    "y": 106.0
+                },
+                {
+                    "x": 465.0,
+                    "y": 103.0
+                }
+            ]
+        },
+        {
+            "id": "PC_CABLE",
+            "facility": "PC",
+            "existing_connection": "E02 south wall and PC_W2 fence",
+            "blocked_desire_line": "PC south enclosure grass crossing",
+            "isolation_reason": "Cable storage island just inside PC_W2, using its own short mesh edge and two approach alleys",
+            "width": 2.799999952316284,
+            "direct_start": {
+                "x": 421.0,
+                "y": 129.0
+            },
+            "direct_end": {
+                "x": 466.0,
+                "y": 129.0
+            },
+            "alternative_a": [
+                {
+                    "x": 421.0,
+                    "y": 129.0
+                },
+                {
+                    "x": 421.0,
+                    "y": 99.0
+                },
+                {
+                    "x": 465.0,
+                    "y": 99.0
+                },
+                {
+                    "x": 465.0,
+                    "y": 129.0
+                },
+                {
+                    "x": 466.0,
+                    "y": 129.0
+                }
+            ],
+            "alternative_b": [
+                {
+                    "x": 421.0,
+                    "y": 129.0
+                },
+                {
+                    "x": 427.0,
+                    "y": 129.0
+                },
+                {
+                    "x": 427.0,
+                    "y": 136.0
+                },
+                {
+                    "x": 466.0,
+                    "y": 136.0
+                },
+                {
+                    "x": 466.0,
+                    "y": 129.0
+                }
+            ]
+        },
+        {
+            "id": "YC_DISMANTLE",
+            "facility": "YC",
+            "existing_connection": "Y01 east wall and Y02 west wall",
+            "blocked_desire_line": "Y01 to Y02 straight grass crossing",
+            "isolation_reason": "Vehicle dismantling work island in the open space between Y01 and Y02, bounded by concrete work barriers",
+            "width": 2.799999952316284,
+            "direct_start": {
+                "x": 247.0,
+                "y": 318.0
+            },
+            "direct_end": {
+                "x": 264.0,
+                "y": 318.0
+            },
+            "alternative_a": [
+                {
+                    "x": 247.0,
+                    "y": 318.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 309.0
+                },
+                {
+                    "x": 264.0,
+                    "y": 309.0
+                },
+                {
+                    "x": 264.0,
+                    "y": 318.0
+                }
+            ],
+            "alternative_b": [
+                {
+                    "x": 247.0,
+                    "y": 318.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 329.0
+                },
+                {
+                    "x": 264.0,
+                    "y": 329.0
+                },
+                {
+                    "x": 264.0,
+                    "y": 318.0
+                }
+            ]
+        },
+        {
+            "id": "YC_PARTS",
+            "facility": "YC",
+            "existing_connection": "Y01 south wall and YC_W4 mesh edge",
+            "blocked_desire_line": "Y01 to YC south grass crossing",
+            "isolation_reason": "Parts inventory island beside Y01 and the yard service gate, with a short mesh boundary",
+            "width": 2.799999952316284,
+            "direct_start": {
+                "x": 218.0,
+                "y": 327.0
+            },
+            "direct_end": {
+                "x": 247.0,
+                "y": 327.0
+            },
+            "alternative_a": [
+                {
+                    "x": 218.0,
+                    "y": 327.0
+                },
+                {
+                    "x": 217.0,
+                    "y": 323.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 323.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 327.0
+                }
+            ],
+            "alternative_b": [
+                {
+                    "x": 218.0,
+                    "y": 327.0
+                },
+                {
+                    "x": 217.0,
+                    "y": 334.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 334.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 327.0
+                }
+            ]
+        },
+        {
+            "id": "SW_RUIN_W",
+            "facility": "SW",
+            "existing_connection": "WS1 S01 S05 ruined wall ends",
+            "blocked_desire_line": "S01-S05 gap grass crossing",
+            "isolation_reason": "Low ruined household salvage island in the S01-S05 gap, with a broken barrier workface and separate north and south alleys",
+            "width": 2.799999952316284,
+            "direct_start": {
+                "x": 63.0,
+                "y": 295.0
+            },
+            "direct_end": {
+                "x": 85.0,
+                "y": 295.0
+            },
+            "alternative_a": [
+                {
+                    "x": 63.0,
+                    "y": 295.0
+                },
+                {
+                    "x": 64.0,
+                    "y": 291.0
+                },
+                {
+                    "x": 85.0,
+                    "y": 291.0
+                },
+                {
+                    "x": 85.0,
+                    "y": 295.0
+                }
+            ],
+            "alternative_b": [
+                {
+                    "x": 63.0,
+                    "y": 295.0
+                },
+                {
+                    "x": 63.0,
+                    "y": 292.0
+                },
+                {
+                    "x": 69.0999984741211,
+                    "y": 292.0
+                },
+                {
+                    "x": 69.0999984741211,
+                    "y": 303.0
+                },
+                {
+                    "x": 85.0,
+                    "y": 303.0
+                },
+                {
+                    "x": 85.0,
+                    "y": 295.0
+                }
+            ]
+        },
+        {
+            "id": "SW_RUIN_E",
+            "facility": "SW",
+            "existing_connection": "S07 east wall and ES2 scrap edge",
+            "blocked_desire_line": "S07 to S04 backlot grass crossing",
+            "isolation_reason": "Abandoned household salvage island in the open S07-S04 backlot, offset from ruined walls to keep two walkable side alleys",
+            "width": 2.799999952316284,
+            "direct_start": {
+                "x": 128.0,
+                "y": 310.0
+            },
+            "direct_end": {
+                "x": 145.0,
+                "y": 310.0
+            },
+            "alternative_a": [
+                {
+                    "x": 128.0,
+                    "y": 310.0
+                },
+                {
+                    "x": 128.0,
+                    "y": 305.0
+                },
+                {
+                    "x": 143.8000030517578,
+                    "y": 305.0
+                },
+                {
+                    "x": 143.8000030517578,
+                    "y": 310.0
+                },
+                {
+                    "x": 145.0,
+                    "y": 310.0
+                }
+            ],
+            "alternative_b": [
+                {
+                    "x": 128.0,
+                    "y": 310.0
+                },
+                {
+                    "x": 129.1999969482422,
+                    "y": 310.0
+                },
+                {
+                    "x": 129.1999969482422,
+                    "y": 323.0
+                },
+                {
+                    "x": 145.0,
+                    "y": 323.0
+                },
+                {
+                    "x": 145.0,
+                    "y": 310.0
+                }
+            ]
+        },
+        {
+            "id": "NORTH_SERVICE",
+            "facility": "NORTH",
+            "existing_connection": "N15 east corner and cable-processing yard",
+            "blocked_desire_line": "N15-to-N10 open-grass crossing south of NW road",
+            "isolation_reason": "Four touching storage faces make a 15 by 10 metre L-shaped service mass; N15 east wall flanks a west alley and the north alley remains available",
+            "width": 2.799999952316284,
+            "direct_start": {
+                "x": 220.0,
+                "y": 108.0
+            },
+            "direct_end": {
+                "x": 247.0,
+                "y": 108.0
+            },
+            "alternative_a": [
+                {
+                    "x": 220.0,
+                    "y": 108.0
+                },
+                {
+                    "x": 221.0,
+                    "y": 99.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 99.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 108.0
+                }
+            ],
+            "alternative_b": [
+                {
+                    "x": 220.0,
+                    "y": 108.0
+                },
+                {
+                    "x": 226.5,
+                    "y": 113.0
+                },
+                {
+                    "x": 226.5,
+                    "y": 122.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 122.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 108.0
+                }
+            ]
+        },
+        {
+            "id": "NORTH_LOADING",
+            "facility": "NORTH",
+            "existing_connection": "N15 south apron and N16 west service face",
+            "blocked_desire_line": "N15-to-N16 open-grass crossing north of N road",
+            "isolation_reason": "Two staggered touching container rows and a tall north nose replace EW5's display; N16 west wall forms the opposite side of an open alley, with north and full-width south road-side choices",
+            "width": 2.799999952316284,
+            "direct_start": {
+                "x": 208.0,
+                "y": 146.5
+            },
+            "direct_end": {
+                "x": 234.0,
+                "y": 146.5
+            },
+            "alternative_a": [
+                {
+                    "x": 208.0,
+                    "y": 146.5
+                },
+                {
+                    "x": 208.0,
+                    "y": 137.0
+                },
+                {
+                    "x": 234.0,
+                    "y": 137.0
+                },
+                {
+                    "x": 234.0,
+                    "y": 146.5
+                }
+            ],
+            "alternative_b": [
+                {
+                    "x": 208.0,
+                    "y": 146.5
+                },
+                {
+                    "x": 208.0,
+                    "y": 158.0
+                },
+                {
+                    "x": 234.0,
+                    "y": 158.0
+                },
+                {
+                    "x": 234.0,
+                    "y": 146.5
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "SC_T_Container",
+            "cell": "SC_TRANSFER",
+            "role": "workface",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 385.0,
+            "y": 184.1999969482422,
+            "yaw": 0.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "SC_T_PipeRack",
+            "cell": "SC_TRANSFER",
+            "role": "wall-attachment",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeRack.prefab",
+            "x": 377.5,
+            "y": 183.60000610351563,
+            "yaw": 90.0,
+            "long_m": 3.700000047683716
+        },
+        {
+            "id": "SC_T_Crates01",
+            "cell": "SC_TRANSFER",
+            "role": "inventory",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_WeatheredMilitaryCrates.prefab",
+            "x": 390.0,
+            "y": 184.0,
+            "yaw": 0.0,
+            "long_m": 2.0999999046325685
+        },
+        {
+            "id": "SC_T_Crates02",
+            "cell": "SC_TRANSFER",
+            "role": "inventory",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_WeatheredMilitaryCrates.prefab",
+            "x": 385.0,
+            "y": 191.5,
+            "yaw": 0.0,
+            "long_m": 2.0999999046325685
+        },
+        {
+            "id": "SC_T_Drums",
+            "cell": "SC_TRANSFER",
+            "role": "inventory",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_RustyOilBarrels.prefab",
+            "x": 380.5,
+            "y": 185.10000610351563,
+            "yaw": 0.0,
+            "long_m": 2.299999952316284
+        },
+        {
+            "id": "SC_T_MidRack",
+            "cell": "SC_TRANSFER",
+            "role": "west-wall workface",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeRack.prefab",
+            "x": 380.0,
+            "y": 191.5,
+            "yaw": 0.0,
+            "long_m": 3.700000047683716
+        },
+        {
+            "id": "SC_T_MidContainer",
+            "cell": "SC_TRANSFER",
+            "role": "service-storage wing",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 381.0,
+            "y": 197.5,
+            "yaw": 90.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "SC_T_MidBundle",
+            "cell": "SC_TRANSFER",
+            "role": "service-storage wing",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeBundle.prefab",
+            "x": 385.0,
+            "y": 202.0,
+            "yaw": 0.0,
+            "long_m": 3.5
+        },
+        {
+            "id": "SC_T_EdgeBarrier",
+            "cell": "SC_TRANSFER",
+            "role": "wall-side edge",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ConcreteBarrier.prefab",
+            "x": 375.3999938964844,
+            "y": 190.0,
+            "yaw": 90.0,
+            "long_m": 2.4000000953674318
+        },
+        {
+            "id": "SC_S_Container",
+            "cell": "SC_SORTING",
+            "role": "workface",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 358.5,
+            "y": 213.5,
+            "yaw": 90.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "SC_S_Pipes01",
+            "cell": "SC_SORTING",
+            "role": "inventory",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeBundle.prefab",
+            "x": 355.5,
+            "y": 213.0,
+            "yaw": 90.0,
+            "long_m": 3.5
+        },
+        {
+            "id": "SC_S_Pipes02",
+            "cell": "SC_SORTING",
+            "role": "inventory",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeBundle.prefab",
+            "x": 365.5,
+            "y": 213.0,
+            "yaw": 90.0,
+            "long_m": 3.5
+        },
+        {
+            "id": "SC_S_Barrier01",
+            "cell": "SC_SORTING",
+            "role": "connected-edge",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ConcreteBarrier.prefab",
+            "x": 357.5,
+            "y": 220.10000610351563,
+            "yaw": 90.0,
+            "long_m": 3.200000047683716
+        },
+        {
+            "id": "SC_S_Barrier02",
+            "cell": "SC_SORTING",
+            "role": "connected-edge",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ConcreteBarrier.prefab",
+            "x": 360.70001220703127,
+            "y": 220.10000610351563,
+            "yaw": 90.0,
+            "long_m": 3.200000047683716
+        },
+        {
+            "id": "SC_S_CableReel",
+            "cell": "SC_SORTING",
+            "role": "workface",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialCableReel.prefab",
+            "x": 363.8999938964844,
+            "y": 220.0,
+            "yaw": 20.0,
+            "long_m": 2.200000047683716
+        },
+        {
+            "id": "SC_S_Crates",
+            "cell": "SC_SORTING",
+            "role": "inventory",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_WeatheredMilitaryCrates.prefab",
+            "x": 359.5,
+            "y": 222.5,
+            "yaw": 0.0,
+            "long_m": 2.0999999046325685
+        },
+        {
+            "id": "SC_S_E05SouthContainer",
+            "cell": "SC_SORTING",
+            "role": "E05 south-wall loading wing",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 375.6000061035156,
+            "y": 207.5,
+            "yaw": 90.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "SC_S_LinkContainer",
+            "cell": "SC_SORTING",
+            "role": "broad sorting-workface",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 379.0,
+            "y": 207.5,
+            "yaw": 90.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "SC_S_LinkRack",
+            "cell": "SC_SORTING",
+            "role": "broad sorting-workface",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeRack.prefab",
+            "x": 374.0,
+            "y": 213.5,
+            "yaw": 0.0,
+            "long_m": 3.700000047683716
+        },
+        {
+            "id": "PC_T_Transformer01",
+            "cell": "PC_TRANSFORMER",
+            "role": "workface",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialTransformer.prefab",
+            "x": 441.0,
+            "y": 103.0,
+            "yaw": 0.0,
+            "long_m": 2.9000000953674318
+        },
+        {
+            "id": "PC_T_Transformer02",
+            "cell": "PC_TRANSFORMER",
+            "role": "workface",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialTransformer.prefab",
+            "x": 452.0,
+            "y": 103.0,
+            "yaw": 0.0,
+            "long_m": 2.9000000953674318
+        },
+        {
+            "id": "PC_T_Cable01",
+            "cell": "PC_TRANSFORMER",
+            "role": "inventory",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialCableReel.prefab",
+            "x": 430.0,
+            "y": 117.0,
+            "yaw": 0.0,
+            "long_m": 2.200000047683716
+        },
+        {
+            "id": "PC_T_Cable02",
+            "cell": "PC_TRANSFORMER",
+            "role": "inventory",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialCableReel.prefab",
+            "x": 430.0,
+            "y": 121.0,
+            "yaw": 0.0,
+            "long_m": 2.200000047683716
+        },
+        {
+            "id": "PC_T_Wire01",
+            "cell": "PC_TRANSFORMER",
+            "role": "connected-wire-edge",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_RustyFence.prefab",
+            "x": 444.1000061035156,
+            "y": 103.0,
+            "yaw": 90.0,
+            "long_m": 4.199999809265137
+        },
+        {
+            "id": "PC_T_Wire02",
+            "cell": "PC_TRANSFORMER",
+            "role": "connected-wire-edge",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_RustyFence.prefab",
+            "x": 448.29998779296877,
+            "y": 103.0,
+            "yaw": 90.0,
+            "long_m": 4.199999809265137
+        },
+        {
+            "id": "PC_T_Wire03",
+            "cell": "PC_TRANSFORMER",
+            "role": "connected-wire-edge",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_RustyFence.prefab",
+            "x": 455.1000061035156,
+            "y": 103.0,
+            "yaw": 90.0,
+            "long_m": 4.199999809265137
+        },
+        {
+            "id": "PC_T_Wire04",
+            "cell": "PC_TRANSFORMER",
+            "role": "cable-workface-endcap",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeRack.prefab",
+            "x": 459.3999938964844,
+            "y": 103.0,
+            "yaw": 0.0,
+            "long_m": 4.0
+        },
+        {
+            "id": "PC_T_ServiceRack01",
+            "cell": "PC_TRANSFORMER",
+            "role": "cable-service-wing",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeRack.prefab",
+            "x": 433.0,
+            "y": 114.0,
+            "yaw": 0.0,
+            "long_m": 4.0
+        },
+        {
+            "id": "PC_T_ServiceRack02",
+            "cell": "PC_TRANSFORMER",
+            "role": "cable-service-wing",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeRack.prefab",
+            "x": 434.5,
+            "y": 110.0,
+            "yaw": 0.0,
+            "long_m": 4.0
+        },
+        {
+            "id": "PC_C_Container",
+            "cell": "PC_CABLE",
+            "role": "workface",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 446.0,
+            "y": 130.0,
+            "yaw": 0.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "PC_C_PipeRack01",
+            "cell": "PC_CABLE",
+            "role": "inventory",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeRack.prefab",
+            "x": 439.0,
+            "y": 128.3000030517578,
+            "yaw": 0.0,
+            "long_m": 3.4000000953674318
+        },
+        {
+            "id": "PC_C_PipeRack02",
+            "cell": "PC_CABLE",
+            "role": "inventory",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeRack.prefab",
+            "x": 456.0,
+            "y": 128.8000030517578,
+            "yaw": 0.0,
+            "long_m": 3.4000000953674318
+        },
+        {
+            "id": "PC_C_Crates01",
+            "cell": "PC_CABLE",
+            "role": "inventory",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_WeatheredMilitaryCrates.prefab",
+            "x": 440.0,
+            "y": 132.5,
+            "yaw": 90.0,
+            "long_m": 2.0999999046325685
+        },
+        {
+            "id": "PC_C_Crates02",
+            "cell": "PC_CABLE",
+            "role": "inventory",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_WeatheredMilitaryCrates.prefab",
+            "x": 459.0,
+            "y": 131.6999969482422,
+            "yaw": 90.0,
+            "long_m": 2.0999999046325685
+        },
+        {
+            "id": "PC_C_Fence01",
+            "cell": "PC_CABLE",
+            "role": "connected-edge",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_RustyFence.prefab",
+            "x": 431.0,
+            "y": 132.0,
+            "yaw": 90.0,
+            "long_m": 3.799999952316284
+        },
+        {
+            "id": "PC_C_Fence02",
+            "cell": "PC_CABLE",
+            "role": "connected-edge",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_RustyFence.prefab",
+            "x": 434.79998779296877,
+            "y": 132.0,
+            "yaw": 90.0,
+            "long_m": 3.799999952316284
+        },
+        {
+            "id": "PC_C_WestContainer01",
+            "cell": "PC_CABLE",
+            "role": "E02 west-wall cable annex",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 433.5,
+            "y": 118.0,
+            "yaw": 90.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "PC_C_WestContainer02",
+            "cell": "PC_CABLE",
+            "role": "E02 west-wall cable annex",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 433.5,
+            "y": 125.0,
+            "yaw": 90.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "PC_C_E02EastContainer01",
+            "cell": "PC_CABLE",
+            "role": "E02 east-wall service yard",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 461.3999938964844,
+            "y": 115.0,
+            "yaw": 90.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "PC_C_E02EastContainer02",
+            "cell": "PC_CABLE",
+            "role": "E02 east-wall service yard",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 461.3999938964844,
+            "y": 122.0,
+            "yaw": 90.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "YC_D_Truck",
+            "cell": "YC_DISMANTLE",
+            "role": "workface",
+            "prefab": "Assets/Escape/Art/FactoryV12/Prefabs/StageA_v12_RustyVehicle_Truck.prefab",
+            "x": 257.0,
+            "y": 318.0,
+            "yaw": 0.0,
+            "long_m": 7.099999904632568
+        },
+        {
+            "id": "YC_D_Engine01",
+            "cell": "YC_DISMANTLE",
+            "role": "removed-part",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialEngine.prefab",
+            "x": 251.0,
+            "y": 318.5,
+            "yaw": 90.0,
+            "long_m": 3.4000000953674318
+        },
+        {
+            "id": "YC_D_Engine02",
+            "cell": "YC_DISMANTLE",
+            "role": "removed-part",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialEngine.prefab",
+            "x": 257.29998779296877,
+            "y": 323.5,
+            "yaw": 90.0,
+            "long_m": 3.4000000953674318
+        },
+        {
+            "id": "YC_D_Drums",
+            "cell": "YC_DISMANTLE",
+            "role": "fluid-workface",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_RustyOilBarrels.prefab",
+            "x": 261.0,
+            "y": 324.0,
+            "yaw": 0.0,
+            "long_m": 2.299999952316284
+        },
+        {
+            "id": "YC_D_Barrier01",
+            "cell": "YC_DISMANTLE",
+            "role": "connected-edge",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ConcreteBarrier.prefab",
+            "x": 250.60000610351563,
+            "y": 323.5,
+            "yaw": 90.0,
+            "long_m": 3.200000047683716
+        },
+        {
+            "id": "YC_D_Barrier02",
+            "cell": "YC_DISMANTLE",
+            "role": "connected-edge",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ConcreteBarrier.prefab",
+            "x": 253.8000030517578,
+            "y": 323.5,
+            "yaw": 90.0,
+            "long_m": 3.200000047683716
+        },
+        {
+            "id": "YC_D_EngineBayCrates",
+            "cell": "YC_DISMANTLE",
+            "role": "removed-part workface",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_WeatheredMilitaryCrates.prefab",
+            "x": 261.0,
+            "y": 318.0,
+            "yaw": 0.0,
+            "long_m": 2.0999999046325685
+        },
+        {
+            "id": "YC_D_NorthContainer",
+            "cell": "YC_DISMANTLE",
+            "role": "incoming-vehicle core",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 259.0,
+            "y": 301.5,
+            "yaw": 0.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "YC_D_NorthCar",
+            "cell": "YC_DISMANTLE",
+            "role": "disassembly wing",
+            "prefab": "Assets/Escape/Art/FactoryV12/Prefabs/StageA_v12_RustyVehicle_Car.prefab",
+            "x": 251.5,
+            "y": 304.5,
+            "yaw": 0.0,
+            "long_m": 4.699999809265137
+        },
+        {
+            "id": "YC_D_NorthParts",
+            "cell": "YC_DISMANTLE",
+            "role": "disassembly wing",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeBundle.prefab",
+            "x": 260.0,
+            "y": 305.0,
+            "yaw": 0.0,
+            "long_m": 3.5
+        },
+        {
+            "id": "YC_D_MidVan",
+            "cell": "YC_DISMANTLE",
+            "role": "continuous dismantling workface",
+            "prefab": "Assets/Escape/Art/FactoryV12/Prefabs/StageA_v12_RustyVehicle_Van.prefab",
+            "x": 251.5,
+            "y": 314.0,
+            "yaw": 0.0,
+            "long_m": 5.699999809265137
+        },
+        {
+            "id": "YC_D_NorthWallRack",
+            "cell": "YC_DISMANTLE",
+            "role": "Y01 east-wall disassembly rack",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeRack.prefab",
+            "x": 249.60000610351563,
+            "y": 299.0,
+            "yaw": 0.0,
+            "long_m": 3.700000047683716
+        },
+        {
+            "id": "YC_P_Container",
+            "cell": "YC_PARTS",
+            "role": "workface",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 232.0,
+            "y": 328.0,
+            "yaw": 0.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "YC_P_WestContainer",
+            "cell": "YC_PARTS",
+            "role": "Y01 south-wall returning storage wing",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 226.5,
+            "y": 328.0,
+            "yaw": 90.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "YC_P_EastContainer",
+            "cell": "YC_PARTS",
+            "role": "continuous dismantled-parts workface",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 239.0,
+            "y": 327.5,
+            "yaw": 0.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "YC_P_PipeRack01",
+            "cell": "YC_PARTS",
+            "role": "inventory",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeRack.prefab",
+            "x": 223.0,
+            "y": 328.79998779296877,
+            "yaw": 0.0,
+            "long_m": 3.5
+        },
+        {
+            "id": "YC_P_PipeRack02",
+            "cell": "YC_PARTS",
+            "role": "inventory",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeRack.prefab",
+            "x": 244.0,
+            "y": 328.0,
+            "yaw": 90.0,
+            "long_m": 3.5
+        },
+        {
+            "id": "YC_P_Crates01",
+            "cell": "YC_PARTS",
+            "role": "inventory",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_WeatheredMilitaryCrates.prefab",
+            "x": 221.10000610351563,
+            "y": 326.29998779296877,
+            "yaw": 0.0,
+            "long_m": 2.0999999046325685
+        },
+        {
+            "id": "YC_P_Crates02",
+            "cell": "YC_PARTS",
+            "role": "inventory",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_WeatheredMilitaryCrates.prefab",
+            "x": 238.0,
+            "y": 330.29998779296877,
+            "yaw": 0.0,
+            "long_m": 2.0999999046325685
+        },
+        {
+            "id": "YC_P_Fence02",
+            "cell": "YC_PARTS",
+            "role": "connected-edge",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_RustyFence.prefab",
+            "x": 222.3000030517578,
+            "y": 330.0,
+            "yaw": 90.0,
+            "long_m": 3.799999952316284
+        },
+        {
+            "id": "SW_W_Van",
+            "cell": "SW_RUIN_W",
+            "role": "workface",
+            "prefab": "Assets/Escape/Art/FactoryV12/Prefabs/StageA_v12_RustyVehicle_Van.prefab",
+            "x": 73.5,
+            "y": 296.0,
+            "yaw": 90.0,
+            "long_m": 5.699999809265137
+        },
+        {
+            "id": "SW_W_Crates01",
+            "cell": "SW_RUIN_W",
+            "role": "household salvage",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_WeatheredMilitaryCrates.prefab",
+            "x": 66.5,
+            "y": 297.20001220703127,
+            "yaw": 0.0,
+            "long_m": 2.0999999046325685
+        },
+        {
+            "id": "SW_W_Crates02",
+            "cell": "SW_RUIN_W",
+            "role": "household salvage",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_WeatheredMilitaryCrates.prefab",
+            "x": 78.5,
+            "y": 296.20001220703127,
+            "yaw": 0.0,
+            "long_m": 2.0999999046325685
+        },
+        {
+            "id": "SW_W_Barrier01",
+            "cell": "SW_RUIN_W",
+            "role": "broken-yard-edge",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ConcreteBarrier.prefab",
+            "x": 72.4000015258789,
+            "y": 300.0,
+            "yaw": 90.0,
+            "long_m": 3.0999999046325685
+        },
+        {
+            "id": "SW_W_Barrier02",
+            "cell": "SW_RUIN_W",
+            "role": "broken-yard-edge",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ConcreteBarrier.prefab",
+            "x": 75.5,
+            "y": 300.0,
+            "yaw": 90.0,
+            "long_m": 3.0999999046325685
+        },
+        {
+            "id": "SW_W_Drums",
+            "cell": "SW_RUIN_W",
+            "role": "discarded-storage",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_RustyOilBarrels.prefab",
+            "x": 81.5,
+            "y": 299.5,
+            "yaw": 0.0,
+            "long_m": 2.299999952316284
+        },
+        {
+            "id": "SW_W_SalvageCar",
+            "cell": "SW_RUIN_W",
+            "role": "household-vehicle salvage return",
+            "prefab": "Assets/Escape/Art/FactoryV12/Prefabs/StageA_v12_RustyVehicle_Car.prefab",
+            "x": 81.5,
+            "y": 296.0,
+            "yaw": 0.0,
+            "long_m": 4.699999809265137
+        },
+        {
+            "id": "SW_W_LinkCrates",
+            "cell": "SW_RUIN_W",
+            "role": "broken-yard salvaged-goods link",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_WeatheredMilitaryCrates.prefab",
+            "x": 78.4000015258789,
+            "y": 299.3999938964844,
+            "yaw": 0.0,
+            "long_m": 2.0999999046325685
+        },
+        {
+            "id": "SW_W_WS1Wall01",
+            "cell": "SW_RUIN_W",
+            "role": "WS1 ruin-wall continuation",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ConcreteBarrier.prefab",
+            "x": 66.19999694824219,
+            "y": 300.29998779296877,
+            "yaw": 0.0,
+            "long_m": 3.0999999046325685
+        },
+        {
+            "id": "SW_W_WS1Wall02",
+            "cell": "SW_RUIN_W",
+            "role": "WS1 ruin-wall continuation",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ConcreteBarrier.prefab",
+            "x": 66.44999694824219,
+            "y": 304.0,
+            "yaw": 0.0,
+            "long_m": 3.0999999046325685
+        },
+        {
+            "id": "SW_W_WallTurn",
+            "cell": "SW_RUIN_W",
+            "role": "low broken yard return",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ConcreteBarrier.prefab",
+            "x": 68.80000305175781,
+            "y": 306.0,
+            "yaw": 90.0,
+            "long_m": 3.0999999046325685
+        },
+        {
+            "id": "SW_E_Container",
+            "cell": "SW_RUIN_E",
+            "role": "abandoned-vehicle",
+            "prefab": "Assets/Escape/Art/FactoryV12/Prefabs/StageA_v12_RustyVehicle_Car.prefab",
+            "x": 136.5,
+            "y": 311.0,
+            "yaw": 90.0,
+            "long_m": 4.699999809265137
+        },
+        {
+            "id": "SW_E_Pipes01",
+            "cell": "SW_RUIN_E",
+            "role": "household salvage",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_WeatheredMilitaryCrates.prefab",
+            "x": 132.1999969482422,
+            "y": 310.5,
+            "yaw": 0.0,
+            "long_m": 2.0999999046325685
+        },
+        {
+            "id": "SW_E_Pipes02",
+            "cell": "SW_RUIN_E",
+            "role": "household salvage",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_WeatheredMilitaryCrates.prefab",
+            "x": 140.0,
+            "y": 310.5,
+            "yaw": 0.0,
+            "long_m": 2.0999999046325685
+        },
+        {
+            "id": "SW_E_Fence01",
+            "cell": "SW_RUIN_E",
+            "role": "broken-yard-edge",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_RustyFence.prefab",
+            "x": 132.89999389648438,
+            "y": 315.0,
+            "yaw": 90.0,
+            "long_m": 3.799999952316284
+        },
+        {
+            "id": "SW_E_Fence02",
+            "cell": "SW_RUIN_E",
+            "role": "broken-yard-edge",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_RustyFence.prefab",
+            "x": 136.6999969482422,
+            "y": 315.0,
+            "yaw": 90.0,
+            "long_m": 3.799999952316284
+        },
+        {
+            "id": "SW_E_Crates",
+            "cell": "SW_RUIN_E",
+            "role": "discarded-storage",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_RustyOilBarrels.prefab",
+            "x": 139.5,
+            "y": 318.0,
+            "yaw": 0.0,
+            "long_m": 2.4000000953674318
+        },
+        {
+            "id": "SW_E_SalvageVan",
+            "cell": "SW_RUIN_E",
+            "role": "S07 backlot abandoned-vehicle return",
+            "prefab": "Assets/Escape/Art/FactoryV12/Prefabs/StageA_v12_RustyVehicle_Van.prefab",
+            "x": 141.89999389648438,
+            "y": 315.0,
+            "yaw": 0.0,
+            "long_m": 5.699999809265137
+        },
+        {
+            "id": "SW_E_S07Wall01",
+            "cell": "SW_RUIN_E",
+            "role": "S07 ruin-wall continuation",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ConcreteBarrier.prefab",
+            "x": 126.30000305175781,
+            "y": 317.0,
+            "yaw": 0.0,
+            "long_m": 3.0999999046325685
+        },
+        {
+            "id": "SW_E_S07Wall02",
+            "cell": "SW_RUIN_E",
+            "role": "S07 ruin-wall continuation",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ConcreteBarrier.prefab",
+            "x": 126.30000305175781,
+            "y": 320.1000061035156,
+            "yaw": 0.0,
+            "long_m": 3.0999999046325685
+        },
+        {
+            "id": "SW_E_BrokenWallEast",
+            "cell": "SW_RUIN_E",
+            "role": "low salvage-yard boundary",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ConcreteBarrier.prefab",
+            "x": 133.0,
+            "y": 319.0,
+            "yaw": 90.0,
+            "long_m": 3.0999999046325685
+        },
+        {
+            "id": "SW_E_BrokenWallMid",
+            "cell": "SW_RUIN_E",
+            "role": "S07-side ruined-wall return",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ConcreteBarrier.prefab",
+            "x": 136.10000610351563,
+            "y": 319.0,
+            "yaw": 90.0,
+            "long_m": 3.0999999046325685
+        },
+        {
+            "id": "NS_CornerBarrier",
+            "cell": "NORTH_SERVICE",
+            "role": "N15-corner-attached edge",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ConcreteBarrier.prefab",
+            "x": 223.3000030517578,
+            "y": 116.0,
+            "yaw": 45.0,
+            "long_m": 3.200000047683716
+        },
+        {
+            "id": "NS_ContainerWest",
+            "cell": "NORTH_SERVICE",
+            "role": "direct-crossing storage nose",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 230.0,
+            "y": 109.0,
+            "yaw": 90.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "NS_ContainerEast",
+            "cell": "NORTH_SERVICE",
+            "role": "touching east storage face",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 240.5,
+            "y": 111.0,
+            "yaw": 0.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "NS_ContainerMid",
+            "cell": "NORTH_SERVICE",
+            "role": "touching inner storage face",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 234.5,
+            "y": 111.0,
+            "yaw": 0.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "NS_ContainerSouth",
+            "cell": "NORTH_SERVICE",
+            "role": "continuous south workface",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 237.0,
+            "y": 113.93000030517578,
+            "yaw": 0.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "NS_RackWest",
+            "cell": "NORTH_SERVICE",
+            "role": "N15-edge workface",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeRack.prefab",
+            "x": 217.0,
+            "y": 111.0,
+            "yaw": 90.0,
+            "long_m": 3.5
+        },
+        {
+            "id": "NS_RackEast",
+            "cell": "NORTH_SERVICE",
+            "role": "east workface",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialPipeRack.prefab",
+            "x": 242.0,
+            "y": 117.0,
+            "yaw": 0.0,
+            "long_m": 3.5
+        },
+        {
+            "id": "NS_CableReel",
+            "cell": "NORTH_SERVICE",
+            "role": "north cable inventory",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_IndustrialCableReel.prefab",
+            "x": 226.5,
+            "y": 103.0,
+            "yaw": 10.0,
+            "long_m": 2.200000047683716
+        },
+        {
+            "id": "NS_CratesSouth",
+            "cell": "NORTH_SERVICE",
+            "role": "south inventory",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_WeatheredMilitaryCrates.prefab",
+            "x": 234.0,
+            "y": 118.0,
+            "yaw": 12.0,
+            "long_m": 2.0999999046325685
+        },
+        {
+            "id": "NS_OilDrums",
+            "cell": "NORTH_SERVICE",
+            "role": "service consumables",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_RustyOilBarrels.prefab",
+            "x": 237.0,
+            "y": 119.0,
+            "yaw": 25.0,
+            "long_m": 2.299999952316284
+        },
+        {
+            "id": "NL_ContainerWest",
+            "cell": "NORTH_LOADING",
+            "role": "first loading row west",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 216.0,
+            "y": 150.5,
+            "yaw": 0.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "NL_Container",
+            "cell": "NORTH_LOADING",
+            "role": "first loading row centre",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 222.0,
+            "y": 150.5,
+            "yaw": 0.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "NL_ContainerEast",
+            "cell": "NORTH_LOADING",
+            "role": "first loading row east",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 228.0,
+            "y": 150.5,
+            "yaw": 0.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "NL_ContainerNose",
+            "cell": "NORTH_LOADING",
+            "role": "tall north-facing blocking wing",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 230.5,
+            "y": 146.0,
+            "yaw": 90.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "NL_ContainerSouthWest",
+            "cell": "NORTH_LOADING",
+            "role": "touching second row west",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 219.0,
+            "y": 153.42999267578126,
+            "yaw": 0.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "NL_ContainerSouthEast",
+            "cell": "NORTH_LOADING",
+            "role": "touching second row east",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_ShippingContainer.prefab",
+            "x": 225.0,
+            "y": 153.42999267578126,
+            "yaw": 0.0,
+            "long_m": 6.0
+        },
+        {
+            "id": "NL_NorthFenceWest",
+            "cell": "NORTH_LOADING",
+            "role": "west loading-face screen",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_RustyFence.prefab",
+            "x": 216.0,
+            "y": 148.5,
+            "yaw": 90.0,
+            "long_m": 4.5
+        },
+        {
+            "id": "NL_NorthFenceMid",
+            "cell": "NORTH_LOADING",
+            "role": "centre loading-face screen",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_RustyFence.prefab",
+            "x": 222.0,
+            "y": 148.5,
+            "yaw": 90.0,
+            "long_m": 4.5
+        },
+        {
+            "id": "NL_Crates",
+            "cell": "NORTH_LOADING",
+            "role": "staged cargo",
+            "prefab": "Assets/Escape/Art/MapAssetsV16/Generated/Prefabs/MAV16_WeatheredMilitaryCrates.prefab",
+            "x": 211.0,
+            "y": 149.0,
+            "yaw": 0.0,
+            "long_m": 2.0999999046325685
+        }
+    ],
+    "routes": [
+        {
+            "id": "SC_TRANSFER_A",
+            "cell": "SC_TRANSFER",
+            "purpose": "first playable alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 375.0,
+                    "y": 183.0
+                },
+                {
+                    "x": 375.0,
+                    "y": 180.0
+                },
+                {
+                    "x": 396.0,
+                    "y": 180.0
+                },
+                {
+                    "x": 396.0,
+                    "y": 183.0
+                }
+            ]
+        },
+        {
+            "id": "SC_TRANSFER_B",
+            "cell": "SC_TRANSFER",
+            "purpose": "second playable alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 375.0,
+                    "y": 183.0
+                },
+                {
+                    "x": 376.0,
+                    "y": 188.0
+                },
+                {
+                    "x": 396.0,
+                    "y": 188.0
+                },
+                {
+                    "x": 396.0,
+                    "y": 183.0
+                }
+            ]
+        },
+        {
+            "id": "SC_SORTING_A",
+            "cell": "SC_SORTING",
+            "purpose": "first playable alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 353.0,
+                    "y": 213.0
+                },
+                {
+                    "x": 353.0,
+                    "y": 207.5
+                },
+                {
+                    "x": 370.0,
+                    "y": 207.5
+                },
+                {
+                    "x": 370.0,
+                    "y": 213.0
+                }
+            ]
+        },
+        {
+            "id": "SC_SORTING_B",
+            "cell": "SC_SORTING",
+            "purpose": "second playable alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 353.0,
+                    "y": 213.0
+                },
+                {
+                    "x": 353.0,
+                    "y": 231.0
+                },
+                {
+                    "x": 370.0,
+                    "y": 231.0
+                },
+                {
+                    "x": 370.0,
+                    "y": 213.0
+                }
+            ]
+        },
+        {
+            "id": "PC_TRANSFORMER_A",
+            "cell": "PC_TRANSFORMER",
+            "purpose": "first playable alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 433.0,
+                    "y": 103.0
+                },
+                {
+                    "x": 432.0,
+                    "y": 99.0
+                },
+                {
+                    "x": 465.0,
+                    "y": 99.0
+                },
+                {
+                    "x": 465.0,
+                    "y": 103.0
+                }
+            ]
+        },
+        {
+            "id": "PC_TRANSFORMER_B",
+            "cell": "PC_TRANSFORMER",
+            "purpose": "second playable alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 433.0,
+                    "y": 103.0
+                },
+                {
+                    "x": 431.0,
+                    "y": 106.0
+                },
+                {
+                    "x": 465.0,
+                    "y": 106.0
+                },
+                {
+                    "x": 465.0,
+                    "y": 103.0
+                }
+            ]
+        },
+        {
+            "id": "PC_CABLE_A",
+            "cell": "PC_CABLE",
+            "purpose": "first playable alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 421.0,
+                    "y": 129.0
+                },
+                {
+                    "x": 421.0,
+                    "y": 99.0
+                },
+                {
+                    "x": 465.0,
+                    "y": 99.0
+                },
+                {
+                    "x": 465.0,
+                    "y": 129.0
+                },
+                {
+                    "x": 466.0,
+                    "y": 129.0
+                }
+            ]
+        },
+        {
+            "id": "PC_CABLE_B",
+            "cell": "PC_CABLE",
+            "purpose": "second playable alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 421.0,
+                    "y": 129.0
+                },
+                {
+                    "x": 427.0,
+                    "y": 129.0
+                },
+                {
+                    "x": 427.0,
+                    "y": 136.0
+                },
+                {
+                    "x": 466.0,
+                    "y": 136.0
+                },
+                {
+                    "x": 466.0,
+                    "y": 129.0
+                }
+            ]
+        },
+        {
+            "id": "YC_DISMANTLE_A",
+            "cell": "YC_DISMANTLE",
+            "purpose": "first playable alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 247.0,
+                    "y": 318.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 309.0
+                },
+                {
+                    "x": 264.0,
+                    "y": 309.0
+                },
+                {
+                    "x": 264.0,
+                    "y": 318.0
+                }
+            ]
+        },
+        {
+            "id": "YC_DISMANTLE_B",
+            "cell": "YC_DISMANTLE",
+            "purpose": "second playable alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 247.0,
+                    "y": 318.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 329.0
+                },
+                {
+                    "x": 264.0,
+                    "y": 329.0
+                },
+                {
+                    "x": 264.0,
+                    "y": 318.0
+                }
+            ]
+        },
+        {
+            "id": "YC_PARTS_A",
+            "cell": "YC_PARTS",
+            "purpose": "first playable alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 218.0,
+                    "y": 327.0
+                },
+                {
+                    "x": 217.0,
+                    "y": 323.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 323.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 327.0
+                }
+            ]
+        },
+        {
+            "id": "YC_PARTS_B",
+            "cell": "YC_PARTS",
+            "purpose": "second playable alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 218.0,
+                    "y": 327.0
+                },
+                {
+                    "x": 217.0,
+                    "y": 334.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 334.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 327.0
+                }
+            ]
+        },
+        {
+            "id": "SW_RUIN_W_A",
+            "cell": "SW_RUIN_W",
+            "purpose": "first playable alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 63.0,
+                    "y": 295.0
+                },
+                {
+                    "x": 64.0,
+                    "y": 291.0
+                },
+                {
+                    "x": 85.0,
+                    "y": 291.0
+                },
+                {
+                    "x": 85.0,
+                    "y": 295.0
+                }
+            ]
+        },
+        {
+            "id": "SW_RUIN_W_B",
+            "cell": "SW_RUIN_W",
+            "purpose": "second playable alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 63.0,
+                    "y": 295.0
+                },
+                {
+                    "x": 63.0,
+                    "y": 292.0
+                },
+                {
+                    "x": 69.0999984741211,
+                    "y": 292.0
+                },
+                {
+                    "x": 69.0999984741211,
+                    "y": 303.0
+                },
+                {
+                    "x": 85.0,
+                    "y": 303.0
+                },
+                {
+                    "x": 85.0,
+                    "y": 295.0
+                }
+            ]
+        },
+        {
+            "id": "SW_RUIN_E_A",
+            "cell": "SW_RUIN_E",
+            "purpose": "first playable alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 128.0,
+                    "y": 310.0
+                },
+                {
+                    "x": 128.0,
+                    "y": 305.0
+                },
+                {
+                    "x": 143.8000030517578,
+                    "y": 305.0
+                },
+                {
+                    "x": 143.8000030517578,
+                    "y": 310.0
+                },
+                {
+                    "x": 145.0,
+                    "y": 310.0
+                }
+            ]
+        },
+        {
+            "id": "SW_RUIN_E_B",
+            "cell": "SW_RUIN_E",
+            "purpose": "second playable alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 128.0,
+                    "y": 310.0
+                },
+                {
+                    "x": 129.1999969482422,
+                    "y": 310.0
+                },
+                {
+                    "x": 129.1999969482422,
+                    "y": 323.0
+                },
+                {
+                    "x": 145.0,
+                    "y": 323.0
+                },
+                {
+                    "x": 145.0,
+                    "y": 310.0
+                }
+            ]
+        },
+        {
+            "id": "NORTH_SERVICE_A",
+            "cell": "NORTH_SERVICE",
+            "purpose": "north service alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 220.0,
+                    "y": 108.0
+                },
+                {
+                    "x": 221.0,
+                    "y": 99.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 99.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 108.0
+                }
+            ]
+        },
+        {
+            "id": "NORTH_SERVICE_B",
+            "cell": "NORTH_SERVICE",
+            "purpose": "south service alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 220.0,
+                    "y": 108.0
+                },
+                {
+                    "x": 226.5,
+                    "y": 113.0
+                },
+                {
+                    "x": 226.5,
+                    "y": 122.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 122.0
+                },
+                {
+                    "x": 247.0,
+                    "y": 108.0
+                }
+            ]
+        },
+        {
+            "id": "NORTH_LOADING_A",
+            "cell": "NORTH_LOADING",
+            "purpose": "north loading alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 208.0,
+                    "y": 146.5
+                },
+                {
+                    "x": 208.0,
+                    "y": 137.0
+                },
+                {
+                    "x": 234.0,
+                    "y": 137.0
+                },
+                {
+                    "x": 234.0,
+                    "y": 146.5
+                }
+            ]
+        },
+        {
+            "id": "NORTH_LOADING_B",
+            "cell": "NORTH_LOADING",
+            "purpose": "south loading alley",
+            "width": 2.799999952316284,
+            "points": [
+                {
+                    "x": 208.0,
+                    "y": 146.5
+                },
+                {
+                    "x": 208.0,
+                    "y": 158.0
+                },
+                {
+                    "x": 234.0,
+                    "y": 158.0
+                },
+                {
+                    "x": 234.0,
+                    "y": 146.5
+                }
+            ]
+        }
+    ],
+    "anchors": [
+        {
+            "id": "SC_TRANSFER_START",
+            "x": 375.0,
+            "y": 183.0
+        },
+        {
+            "id": "SC_TRANSFER_END",
+            "x": 396.0,
+            "y": 183.0
+        },
+        {
+            "id": "SC_SORTING_START",
+            "x": 353.0,
+            "y": 213.0
+        },
+        {
+            "id": "SC_SORTING_END",
+            "x": 370.0,
+            "y": 213.0
+        },
+        {
+            "id": "PC_TRANSFORMER_START",
+            "x": 433.0,
+            "y": 103.0
+        },
+        {
+            "id": "PC_TRANSFORMER_END",
+            "x": 465.0,
+            "y": 103.0
+        },
+        {
+            "id": "PC_CABLE_START",
+            "x": 421.0,
+            "y": 129.0
+        },
+        {
+            "id": "PC_CABLE_END",
+            "x": 466.0,
+            "y": 129.0
+        },
+        {
+            "id": "YC_DISMANTLE_START",
+            "x": 247.0,
+            "y": 318.0
+        },
+        {
+            "id": "YC_DISMANTLE_END",
+            "x": 264.0,
+            "y": 318.0
+        },
+        {
+            "id": "YC_PARTS_START",
+            "x": 218.0,
+            "y": 327.0
+        },
+        {
+            "id": "YC_PARTS_END",
+            "x": 247.0,
+            "y": 327.0
+        },
+        {
+            "id": "SW_RUIN_W_START",
+            "x": 63.0,
+            "y": 295.0
+        },
+        {
+            "id": "SW_RUIN_W_END",
+            "x": 85.0,
+            "y": 295.0
+        },
+        {
+            "id": "SW_RUIN_E_START",
+            "x": 128.0,
+            "y": 310.0
+        },
+        {
+            "id": "SW_RUIN_E_END",
+            "x": 145.0,
+            "y": 310.0
+        },
+        {
+            "id": "NORTH_SERVICE_START",
+            "x": 220.0,
+            "y": 108.0
+        },
+        {
+            "id": "NORTH_SERVICE_END",
+            "x": 247.0,
+            "y": 108.0
+        },
+        {
+            "id": "NORTH_LOADING_START",
+            "x": 208.0,
+            "y": 146.5
+        },
+        {
+            "id": "NORTH_LOADING_END",
+            "x": 234.0,
+            "y": 146.5
+        }
+    ]
+}

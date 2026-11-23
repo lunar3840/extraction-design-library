@@ -1,0 +1,161 @@
+{
+  "status": "PASS_REVIEWED_BASE224_SAVED",
+  "utc": "2026-10-30T13:54:37.5100040Z",
+  "changedGroups": 224.0,
+  "changedMeshBodies": 448,
+  "protectedGroups": 2,
+  "finalManifest": "execution_tools/batch_chain/rollout06_apply015_current.tsv",
+  "finalManifestSha256": "E92538D561A39FE76F2B43E5BF13D0C4DB2851BB6B742F4E57D0584FD56145CA",
+  "batches": [
+    {
+      "id": "rollout06_apply001",
+      "first": 1,
+      "count": 2,
+      "changedMeshes": 4,
+      "receipt": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\a-map-intertwined-vines-rollout/staging/builder/BATCH_20261030T134735884Z_9411aa_BUILDER_RESULT.tsv",
+      "receiptSha256": "429D8ADB90A99CFCCF5E04144B28D5AA360F483B88F2516599B6BB023B57C630",
+      "currentManifest": "execution_tools/batch_chain/rollout06_apply001_current.tsv",
+      "currentManifestSha256": "E997D4101365F1F6B10F5B82FF4FC68E1F73E13DD553968711EF49D0DFF575F9"
+    },
+    {
+      "id": "rollout06_apply002",
+      "first": 4,
+      "count": 16,
+      "changedMeshes": 32,
+      "receipt": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\a-map-intertwined-vines-rollout/staging/builder/BATCH_20261030T134754297Z_43b4b6_BUILDER_RESULT.tsv",
+      "receiptSha256": "D6E2E084C6DC4DCED5FBF91781237CB7B67BEF4C11038788EA6F497C89C56A42",
+      "currentManifest": "execution_tools/batch_chain/rollout06_apply002_current.tsv",
+      "currentManifestSha256": "34A0BEC344F09E716D8B8A18384BBBBD788D766632214B2F284EFC311795E7B5"
+    },
+    {
+      "id": "rollout06_apply003",
+      "first": 20,
+      "count": 16,
+      "changedMeshes": 32,
+      "receipt": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\a-map-intertwined-vines-rollout/staging/builder/BATCH_20261030T134824160Z_727bd6_BUILDER_RESULT.tsv",
+      "receiptSha256": "0EA8FA8D8BDA4AD4C389D24CEAD0C0EA0EF37A454C179EA39CC03AD9971962F1",
+      "currentManifest": "execution_tools/batch_chain/rollout06_apply003_current.tsv",
+      "currentManifestSha256": "0C7BB8C29E6170978B480E52993F1ECC8C58A071E80685B07034BDB1AD000E82"
+    },
+    {
+      "id": "rollout06_apply004",
+      "first": 36,
+      "count": 16,
+      "changedMeshes": 32,
+      "receipt": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\a-map-intertwined-vines-rollout/staging/builder/BATCH_20261030T134848255Z_8968a0_BUILDER_RESULT.tsv",
+      "receiptSha256": "476DDD3396F369586F3DEEDBCC19169257BF6FA542C06E50C9C17B626CA9E6F5",
+      "currentManifest": "execution_tools/batch_chain/rollout06_apply004_current.tsv",
+      "currentManifestSha256": "C9E4E7D20D71347BB2092DB26C4CAA4ECF0C621ADFCC436BBCE66FACD3D1A97B"
+    },
+    {
+      "id": "rollout06_apply005",
+      "first": 52,
+      "count": 16,
+      "changedMeshes": 32,
+      "receipt": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\a-map-intertwined-vines-rollout/staging/builder/BATCH_20261030T134915419Z_c54312_BUILDER_RESULT.tsv",
+      "receiptSha256": "2069BC738E94423A85C422096773438F408FFB754DD417D3AE9A5BCC1E7D49F0",
+      "currentManifest": "execution_tools/batch_chain/rollout06_apply005_current.tsv",
+      "currentManifestSha256": "ED3F4C95B46B84C574E93E635E5B0BBFC496A33A7618D06CECF16DAB71D785AA"
+    },
+    {
+      "id": "rollout06_apply006",
+      "first": 68,
+      "count": 16,
+      "changedMeshes": 32,
+      "receipt": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\a-map-intertwined-vines-rollout/staging/builder/BATCH_20261030T134945356Z_7bd1e7_BUILDER_RESULT.tsv",
+      "receiptSha256": "9E237C00E7DF64E2267FC0CFBC13379BD43E3A18F85253B975B8A2A4B447977F",
+      "currentManifest": "execution_tools/batch_chain/rollout06_apply006_current.tsv",
+      "currentManifestSha256": "7FF908556ED886873F5FC3A6DFD716F47EAC87DEE6FE863C44EC0CFE44C8FA8A"
+    },
+    {
+      "id": "rollout06_apply007",
+      "first": 84,
+      "count": 16,
+      "changedMeshes": 32,
+      "receipt": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\a-map-intertwined-vines-rollout/staging/builder/BATCH_20261030T135013058Z_c0af3c_BUILDER_RESULT.tsv",
+      "receiptSha256": "420337BD2008E6B2156A2726F8B1973271A52CBFDD87F43FD46BC22921AA902B",
+      "currentManifest": "execution_tools/batch_chain/rollout06_apply007_current.tsv",
+      "currentManifestSha256": "093145F3867574441BB7ABC151884C5984AF72CF3F58BEB3108229D0C96B6E54"
+    },
+    {
+      "id": "rollout06_apply008",
+      "first": 100,
+      "count": 16,
+      "changedMeshes": 32,
+      "receipt": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\a-map-intertwined-vines-rollout/staging/builder/BATCH_20261030T135039079Z_09924f_BUILDER_RESULT.tsv",
+      "receiptSha256": "89DA8BF4C4A3A1523D425C55969CF978376B82C6886B65C2BA48BE5C84226435",
+      "currentManifest": "execution_tools/batch_chain/rollout06_apply008_current.tsv",
+      "currentManifestSha256": "ED49D554D2C97A15C579281AECB57532ACE01CF3A847580B28734A6EA78EDB45"
+    },
+    {
+      "id": "rollout06_apply009",
+      "first": 116,
+      "count": 16,
+      "changedMeshes": 32,
+      "receipt": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\a-map-intertwined-vines-rollout/staging/builder/BATCH_20261030T135106066Z_a43b9f_BUILDER_RESULT.tsv",
+      "receiptSha256": "3F4C0E90FB961B364D4741C9D760E7C281FF4D671DEE50704443D7D4D48702FC",
+      "currentManifest": "execution_tools/batch_chain/rollout06_apply009_current.tsv",
+      "currentManifestSha256": "473857F913680F8B05495C50F8B53B2BE929073031959669839426E4BD4000D2"
+    },
+    {
+      "id": "rollout06_apply010",
+      "first": 132,
+      "count": 16,
+      "changedMeshes": 32,
+      "receipt": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\a-map-intertwined-vines-rollout/staging/builder/BATCH_20261030T135129931Z_e1ad6e_BUILDER_RESULT.tsv",
+      "receiptSha256": "1B888B82A1FD9C55EEFBCADD18BCCA6CB2D628C598BEFA089A4ACF670F7CDC31",
+      "currentManifest": "execution_tools/batch_chain/rollout06_apply010_current.tsv",
+      "currentManifestSha256": "C0DF5272637D3B0618DD2375F1486EFDA80D0EA06E74BF3F01AA2C2EBCBC9437"
+    },
+    {
+      "id": "rollout06_apply011",
+      "first": 148,
+      "count": 16,
+      "changedMeshes": 32,
+      "receipt": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\a-map-intertwined-vines-rollout/staging/builder/BATCH_20261030T135156984Z_1f6b35_BUILDER_RESULT.tsv",
+      "receiptSha256": "B79C317A01AF1E159BF5A084B2888D387EBE297D7B25D1102B31F53C63117EBD",
+      "currentManifest": "execution_tools/batch_chain/rollout06_apply011_current.tsv",
+      "currentManifestSha256": "7928E06B0DADE4C8F6AC2EDC98CD48BD6D3AC487BBFA7F82BA27D030455D2A30"
+    },
+    {
+      "id": "rollout06_apply012",
+      "first": 164,
+      "count": 16,
+      "changedMeshes": 32,
+      "receipt": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\a-map-intertwined-vines-rollout/staging/builder/BATCH_20261030T135223876Z_100ff8_BUILDER_RESULT.tsv",
+      "receiptSha256": "E697CA298AC80D2400989854E28FCD9267A5DB2E7670CCABD3B23AA2B8DC4F95",
+      "currentManifest": "execution_tools/batch_chain/rollout06_apply012_current.tsv",
+      "currentManifestSha256": "9418DB86EC2ACB206AE29BCD0493DB286C8761A3449DA406750B68256CC87CFB"
+    },
+    {
+      "id": "rollout06_apply013",
+      "first": 180,
+      "count": 16,
+      "changedMeshes": 32,
+      "receipt": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\a-map-intertwined-vines-rollout/staging/builder/BATCH_20261030T135247787Z_c5c424_BUILDER_RESULT.tsv",
+      "receiptSha256": "2BD5C0795A8F2195EA44E61796DADFA9C086DD89DE47C78A937A9642B789964E",
+      "currentManifest": "execution_tools/batch_chain/rollout06_apply013_current.tsv",
+      "currentManifestSha256": "981E5C01C5A09BC8E4AD2EACC29D6D02585C8F51563888925DDD0B17A2613FE4"
+    },
+    {
+      "id": "rollout06_apply014",
+      "first": 196,
+      "count": 16,
+      "changedMeshes": 32,
+      "receipt": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\a-map-intertwined-vines-rollout/staging/builder/BATCH_20261030T135329878Z_c041e8_BUILDER_RESULT.tsv",
+      "receiptSha256": "A9F607682B9A4F2CA62972797CA5983FF05C9A7C6CDFC127C0952B90FCA0D63B",
+      "currentManifest": "execution_tools/batch_chain/rollout06_apply014_current.tsv",
+      "currentManifestSha256": "CCA2CB71CA7375F81F05F1C49F63A06A2C8DB91A2F9CC736559C417514815EB6"
+    },
+    {
+      "id": "rollout06_apply015",
+      "first": 212,
+      "count": 14,
+      "changedMeshes": 28,
+      "receipt": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\a-map-intertwined-vines-rollout/staging/builder/BATCH_20261030T135411901Z_e5333d_BUILDER_RESULT.tsv",
+      "receiptSha256": "51AD9FE90D6B86A0A6BE4BC4A79F7A1FE965626693FAAC57E886FB999EEA0B88",
+      "currentManifest": "execution_tools/batch_chain/rollout06_apply015_current.tsv",
+      "currentManifestSha256": "E92538D561A39FE76F2B43E5BF13D0C4DB2851BB6B742F4E57D0584FD56145CA"
+    }
+  ]
+}

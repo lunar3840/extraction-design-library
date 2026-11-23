@@ -1,0 +1,156 @@
+STAGE_A_ACCESS_V26_VALIDATION
+PASS live Stage A map exists
+PASS V26 addition root is present and active
+PASS matching before-placement path baseline exists in editor session
+PASS only A01, A02 and A03 are added; A04, A05 and H01 remain absent
+PASS A01 direct group exists and is active
+PASS A01 contains active visible geometry
+PASS A01 contains active physical collision
+PASS A01 full renderer bounds stay within proposed rectangle (0.15m tolerance): ViewDependentTree
+PASS A01 full renderer bounds keep suggested opening strip 1 free: ViewDependentTree
+PASS A01 full renderer bounds keep suggested opening strip 2 free: ViewDependentTree
+PASS A01 full renderer bounds stay within proposed rectangle (0.15m tolerance): ViewDependentTree
+PASS A01 full renderer bounds keep suggested opening strip 1 free: ViewDependentTree
+PASS A01 full renderer bounds keep suggested opening strip 2 free: ViewDependentTree
+PASS A01 full renderer bounds stay within proposed rectangle (0.15m tolerance): ViewDependentTree
+PASS A01 full renderer bounds keep suggested opening strip 1 free: ViewDependentTree
+PASS A01 full renderer bounds keep suggested opening strip 2 free: ViewDependentTree
+PASS A01 full renderer bounds stay within proposed rectangle (0.15m tolerance): ViewDependentTree
+PASS A01 full renderer bounds keep suggested opening strip 1 free: ViewDependentTree
+PASS A01 full renderer bounds keep suggested opening strip 2 free: ViewDependentTree
+PASS A01 full renderer bounds stay within proposed rectangle (0.15m tolerance): ViewDependentTree
+PASS A01 full renderer bounds keep suggested opening strip 1 free: ViewDependentTree
+PASS A01 full renderer bounds keep suggested opening strip 2 free: ViewDependentTree
+PASS A01 full renderer bounds stay within proposed rectangle (0.15m tolerance): mesh_LOD1
+PASS A01 full renderer bounds keep suggested opening strip 1 free: mesh_LOD1
+PASS A01 full renderer bounds keep suggested opening strip 2 free: mesh_LOD1
+PASS A01 full renderer bounds stay within proposed rectangle (0.15m tolerance): mesh_LOD1
+PASS A01 full renderer bounds keep suggested opening strip 1 free: mesh_LOD1
+PASS A01 full renderer bounds keep suggested opening strip 2 free: mesh_LOD1
+PASS A01 full renderer bounds stay within proposed rectangle (0.15m tolerance): mesh_LOD1
+PASS A01 full renderer bounds keep suggested opening strip 1 free: mesh_LOD1
+PASS A01 full renderer bounds keep suggested opening strip 2 free: mesh_LOD1
+PASS A01 full renderer bounds stay within proposed rectangle (0.15m tolerance): mesh_LOD1
+PASS A01 full renderer bounds keep suggested opening strip 1 free: mesh_LOD1
+PASS A01 full renderer bounds keep suggested opening strip 2 free: mesh_LOD1
+PASS A01 collider center remains near its proposed rectangle: A01_ScaledDogwoodTree_1
+PASS A01 has no single solid collider spanning the full proposed rectangle: A01_ScaledDogwoodTree_1
+PASS A01 new collider keeps suggested opening strip 1 free: A01_ScaledDogwoodTree_1
+PASS A01 new collider keeps suggested opening strip 2 free: A01_ScaledDogwoodTree_1
+PASS A01 collider center remains near its proposed rectangle: A01_ScaledDogwoodTree_2
+PASS A01 has no single solid collider spanning the full proposed rectangle: A01_ScaledDogwoodTree_2
+PASS A01 new collider keeps suggested opening strip 1 free: A01_ScaledDogwoodTree_2
+PASS A01 new collider keeps suggested opening strip 2 free: A01_ScaledDogwoodTree_2
+PASS A02 direct group exists and is active
+PASS A02 contains active visible geometry
+PASS A02 contains active physical collision
+PASS A02 full renderer bounds stay within proposed rectangle (0.15m tolerance): Model
+PASS A02 full renderer bounds keep suggested opening strip 1 free: Model
+PASS A02 full renderer bounds keep suggested opening strip 2 free: Model
+PASS A02 collider center remains near its proposed rectangle: A02_RustyCar
+PASS A02 has no single solid collider spanning the full proposed rectangle: A02_RustyCar
+PASS A02 new collider keeps suggested opening strip 1 free: A02_RustyCar
+PASS A02 new collider keeps suggested opening strip 2 free: A02_RustyCar
+PASS A03 direct group exists and is active
+PASS A03 contains active visible geometry
+PASS A03 contains active physical collision
+PASS A03 full renderer bounds stay within proposed rectangle (0.15m tolerance): Model
+PASS A03 full renderer bounds keep suggested opening strip 1 free: Model
+PASS A03 full renderer bounds keep suggested opening strip 2 free: Model
+PASS A03 collider center remains near its proposed rectangle: A03_RustyVan
+PASS A03 has no single solid collider spanning the full proposed rectangle: A03_RustyVan
+PASS A03 new collider keeps suggested opening strip 1 free: A03_RustyVan
+PASS A03 new collider keeps suggested opening strip 2 free: A03_RustyVan
+PASS every V26 collider belongs to one of the three candidate groups
+NOTE Opening strips are proposed new-object exclusion regions; existing obstacles and measured road widths are separate checks.
+PASS V26 physical colliders do not penetrate existing active non-ground colliders >0.12m
+PASS no new/existing nonconvex mesh pair has unresolved overlapping bounds
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/B1
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/B2
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/B3
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/B4
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/R1
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/R2
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/R3
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/R4
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/R5
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/R6
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/R7
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/R8
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/X1
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/X2
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/X3
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/X4
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/X5
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/X6
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/X7
+PASS B/R/X, door or stair anchor accepts player capsule: V13_HallRoot/Anchors/Landing_West_B1
+PASS B/R/X, door or stair anchor accepts player capsule: V13_HallRoot/Anchors/Landing_East_B1
+PASS B/R/X, door or stair anchor accepts player capsule: V13_HallRoot/Anchors/Landing_West_1F_North
+PASS B/R/X, door or stair anchor accepts player capsule: V13_HallRoot/Anchors/Landing_East_1F_North
+PASS B/R/X, door or stair anchor accepts player capsule: V13_HallRoot/Anchors/Landing_West_1F_South
+PASS B/R/X, door or stair anchor accepts player capsule: V13_HallRoot/Anchors/Landing_East_1F_South
+PASS B/R/X, door or stair anchor accepts player capsule: V13_HallRoot/Anchors/Landing_West_2F
+PASS B/R/X, door or stair anchor accepts player capsule: V13_HallRoot/Anchors/Landing_East_2F
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_C1
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_C2
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_TOOL
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_HN
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_HE
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_HS
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_HW
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_P1
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_P2
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_L1
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_L2
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_G1_CORE
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_G2_CORE
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_G3_CORE
+PASS B/R/X, door or stair anchor accepts player capsule: 00_Structural_Anchors_Preserved/DOOR_G4
+PASS B4 and inactive risk-entry R8 retain their distinct spawn policy
+PASS temporary collision-derived Stage A NavMesh builds
+PASS four basic entries and seven exits define the 28-route matrix
+NOTE MATRIX B1->X1=COMPLETE public PathComplete
+NOTE MATRIX B1->X2=COMPLETE public PathComplete
+NOTE MATRIX B1->X3=COMPLETE public PathComplete
+NOTE MATRIX B1->X4=COMPLETE public PathComplete
+NOTE MATRIX B1->X5=COMPLETE public PathComplete
+NOTE MATRIX B1->X6=COMPLETE V17 verified legs=8 complete high-budget corridor; polygons=124 publicCompleteLegs=8 queryCalls=5
+NOTE MATRIX B1->X7=COMPLETE public PathComplete
+NOTE MATRIX B2->X1=COMPLETE public PathComplete
+NOTE MATRIX B2->X2=COMPLETE public PathComplete
+NOTE MATRIX B2->X3=COMPLETE public PathComplete
+NOTE MATRIX B2->X4=COMPLETE public PathComplete
+NOTE MATRIX B2->X5=COMPLETE public PathComplete
+NOTE MATRIX B2->X6=COMPLETE V17 verified legs=9 complete high-budget corridor; polygons=95 publicCompleteLegs=9 queryCalls=5
+NOTE MATRIX B2->X7=COMPLETE public PathComplete
+NOTE MATRIX B3->X1=COMPLETE public PathComplete
+NOTE MATRIX B3->X2=COMPLETE public PathComplete
+NOTE MATRIX B3->X3=COMPLETE public PathComplete
+NOTE MATRIX B3->X4=COMPLETE public PathComplete
+NOTE MATRIX B3->X5=COMPLETE public PathComplete
+NOTE MATRIX B3->X6=COMPLETE public PathComplete
+NOTE MATRIX B3->X7=COMPLETE public PathComplete
+NOTE MATRIX B4->X1=COMPLETE public PathComplete
+NOTE MATRIX B4->X2=COMPLETE public PathComplete
+NOTE MATRIX B4->X3=COMPLETE public PathComplete
+NOTE MATRIX B4->X4=COMPLETE public PathComplete
+NOTE MATRIX B4->X5=COMPLETE public PathComplete
+NOTE MATRIX B4->X6=COMPLETE public PathComplete
+NOTE MATRIX B4->X7=COMPLETE public PathComplete
+PASS no previously complete B1-B4 to X1-X7 route regresses (28/28 now, regressions=0)
+PASS active landform provides local path elevations
+PASS A01_north local route does not regress from baseline: public PathComplete
+PASS A01_south local route does not regress from baseline: public PathComplete
+PASS A02_east local route does not regress from baseline: public PathComplete
+PASS A02_south local route does not regress from baseline: public PathComplete
+PASS A03_north local route does not regress from baseline: public PathComplete
+PASS A03_south local route does not regress from baseline: public PathComplete
+PASS four actual hall stair start/end pairs are registered
+PASS hall stair pair 1 does not regress from baseline: public PathComplete
+PASS hall stair pair 2 does not regress from baseline: public PathComplete
+PASS hall stair pair 3 does not regress from baseline: public PathComplete
+PASS hall stair pair 4 does not regress from baseline: public PathComplete
+NOTE PathComplete or verified V17 legs establish a navigation plan, not successful physical play traversal.
+passed=123 failed=0
+RESULT PASS

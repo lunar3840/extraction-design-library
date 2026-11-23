@@ -1,0 +1,4 @@
+ACTUAL UNITY PLAY VALIDATION
+Temporary StageScenePreview profile; normal user save slots untouched.
+PASS Existing enemy/damage checks and new faction checks completed.
+RESULT PASS

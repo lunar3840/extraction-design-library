@@ -1,0 +1,17 @@
+Consolidated results: ten existing rule groups passed in legacy_checks_final.log; EquipmentChecks passed separately after fixture correction in equipment_recheck.log.
+
+PASS BasecampChecks
+PASS WeaponChecks
+PASS ArsenalChecks
+PASS LootEconomyChecks
+PASS InventoryChecks
+PASS EnemyChecks
+PASS LootEquipmentChecks
+PASS InventoryRegionSwapChecks
+PASS GrowthReworkChecks
+PASS SessionChecks
+PASS EquipmentChecks after replacing outdated fixed supply weight with catalog-weight conservation.
+PASS 32 firearm model/anchor/icon catalog checks.
+Full-scene Serin animation QA was not rerun.
+
+11 existing rule groups, 2241 PASS assertions. No runtime/data values changed by this follow-up.

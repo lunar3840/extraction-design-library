@@ -1,0 +1,464 @@
+{
+  "status": "ACTUAL_GAME_IMAGE_AND_EDITOR_SAMPLE_REVIEW_REQUIRED",
+  "beforePath": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-ruin-ivy-rollout\\staging\\validation\\play_before\\PLAY_AUDIT.json",
+  "afterPath": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\a-map-ruin-ivy-rollout\\staging\\validation\\play_after\\PLAY_AUDIT.json",
+  "beforeStatus": "CAPTURES_COMPLETE_VISUAL_REVIEW_REQUIRED",
+  "afterStatus": "CAPTURES_COMPLETE_VISUAL_REVIEW_REQUIRED",
+  "rows": [
+    {
+      "id": "HALL_outside",
+      "status": "SIDE_BY_SIDE_VISUAL_REVIEW_REQUIRED",
+      "beforeGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_game_HALL_outside.png",
+      "afterGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_game_HALL_outside.png",
+      "beforeGameBytes": 2987495,
+      "afterGameBytes": 3010346,
+      "beforeCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_camera_HALL_outside.png",
+      "afterCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_camera_HALL_outside.png",
+      "beforeCameraBytes": 2332561,
+      "afterCameraBytes": 2351502,
+      "playerDisplacementMetres": 0,
+      "cameraDisplacementMetres": 0,
+      "beforeSampledFrames": 150,
+      "afterSampledFrames": 150,
+      "beforeRevealRenderers": 0,
+      "afterRevealRenderers": 0,
+      "beforeProjectedBoundsObstructors": 4,
+      "afterProjectedBoundsObstructors": 4,
+      "editorMedianMs": {
+        "before": 83.40200805664062,
+        "after": 132.83189392089844,
+        "ratio": 1.5927
+      },
+      "editorP95Ms": {
+        "before": 194.67730712890625,
+        "after": 223.72439575195312,
+        "ratio": 1.1492
+      },
+      "gpuMedianMs": {
+        "before": 5.228544235229492,
+        "after": 6.455296039581299,
+        "ratio": 1.2346
+      },
+      "unityStatsDrawCallsMedian": {
+        "before": 3168,
+        "after": 2749,
+        "ratio": 0.8677
+      },
+      "unityStatsTrianglesMedian": {
+        "before": 3439903,
+        "after": 4573896,
+        "ratio": 1.3297
+      }
+    },
+    {
+      "id": "HALL_inside",
+      "status": "SIDE_BY_SIDE_VISUAL_REVIEW_REQUIRED",
+      "beforeGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_game_HALL_inside.png",
+      "afterGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_game_HALL_inside.png",
+      "beforeGameBytes": 2858689,
+      "afterGameBytes": 2860118,
+      "beforeCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_camera_HALL_inside.png",
+      "afterCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_camera_HALL_inside.png",
+      "beforeCameraBytes": 2199547,
+      "afterCameraBytes": 2203311,
+      "playerDisplacementMetres": 0,
+      "cameraDisplacementMetres": 0,
+      "beforeSampledFrames": 150,
+      "afterSampledFrames": 150,
+      "beforeRevealRenderers": 0,
+      "afterRevealRenderers": 0,
+      "beforeProjectedBoundsObstructors": 3,
+      "afterProjectedBoundsObstructors": 5,
+      "editorMedianMs": {
+        "before": 92.51740264892578,
+        "after": 113.37820434570312,
+        "ratio": 1.2255
+      },
+      "editorP95Ms": {
+        "before": 198.05210876464844,
+        "after": 192.3297119140625,
+        "ratio": 0.9711
+      },
+      "gpuMedianMs": {
+        "before": 4.3724799156188965,
+        "after": 4.890624046325684,
+        "ratio": 1.1185
+      },
+      "unityStatsDrawCallsMedian": {
+        "before": 2165,
+        "after": 1888,
+        "ratio": 0.8721
+      },
+      "unityStatsTrianglesMedian": {
+        "before": 1969724,
+        "after": 2836241,
+        "ratio": 1.4399
+      }
+    },
+    {
+      "id": "CLINIC_outside",
+      "status": "SIDE_BY_SIDE_VISUAL_REVIEW_REQUIRED",
+      "beforeGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_game_CLINIC_outside.png",
+      "afterGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_game_CLINIC_outside.png",
+      "beforeGameBytes": 2597164,
+      "afterGameBytes": 2886916,
+      "beforeCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_camera_CLINIC_outside.png",
+      "afterCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_camera_CLINIC_outside.png",
+      "beforeCameraBytes": 1979909,
+      "afterCameraBytes": 2229793,
+      "playerDisplacementMetres": 0,
+      "cameraDisplacementMetres": 0,
+      "beforeSampledFrames": 150,
+      "afterSampledFrames": 150,
+      "beforeRevealRenderers": 2,
+      "afterRevealRenderers": 3,
+      "beforeProjectedBoundsObstructors": 6,
+      "afterProjectedBoundsObstructors": 9,
+      "editorMedianMs": {
+        "before": 90.75160217285156,
+        "after": 109.05169677734375,
+        "ratio": 1.2017
+      },
+      "editorP95Ms": {
+        "before": 246.08969116210938,
+        "after": 267.8603820800781,
+        "ratio": 1.0885
+      },
+      "gpuMedianMs": {
+        "before": 7.028736114501953,
+        "after": 6.863872051239014,
+        "ratio": 0.9765
+      },
+      "unityStatsDrawCallsMedian": {
+        "before": 1967,
+        "after": 1717,
+        "ratio": 0.8729
+      },
+      "unityStatsTrianglesMedian": {
+        "before": 2450776,
+        "after": 2584042,
+        "ratio": 1.0544
+      }
+    },
+    {
+      "id": "CLINIC_inside",
+      "status": "SIDE_BY_SIDE_VISUAL_REVIEW_REQUIRED",
+      "beforeGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_game_CLINIC_inside.png",
+      "afterGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_game_CLINIC_inside.png",
+      "beforeGameBytes": 2499754,
+      "afterGameBytes": 2497475,
+      "beforeCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_camera_CLINIC_inside.png",
+      "afterCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_camera_CLINIC_inside.png",
+      "beforeCameraBytes": 1891278,
+      "afterCameraBytes": 1886894,
+      "playerDisplacementMetres": 0,
+      "cameraDisplacementMetres": 0,
+      "beforeSampledFrames": 150,
+      "afterSampledFrames": 150,
+      "beforeRevealRenderers": 0,
+      "afterRevealRenderers": 0,
+      "beforeProjectedBoundsObstructors": 6,
+      "afterProjectedBoundsObstructors": 8,
+      "editorMedianMs": {
+        "before": 77.21289825439453,
+        "after": 114.06559753417969,
+        "ratio": 1.4773
+      },
+      "editorP95Ms": {
+        "before": 173.76409912109375,
+        "after": 207.91549682617188,
+        "ratio": 1.1965
+      },
+      "gpuMedianMs": {
+        "before": 3.655679941177368,
+        "after": 4.1113600730896,
+        "ratio": 1.1246
+      },
+      "unityStatsDrawCallsMedian": {
+        "before": 1880,
+        "after": 1498,
+        "ratio": 0.7968
+      },
+      "unityStatsTrianglesMedian": {
+        "before": 2126537,
+        "after": 2345732,
+        "ratio": 1.1031
+      }
+    },
+    {
+      "id": "S06_outside",
+      "status": "SIDE_BY_SIDE_VISUAL_REVIEW_REQUIRED",
+      "beforeGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_game_S06_outside.png",
+      "afterGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_game_S06_outside.png",
+      "beforeGameBytes": 3437908,
+      "afterGameBytes": 3454214,
+      "beforeCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_camera_S06_outside.png",
+      "afterCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_camera_S06_outside.png",
+      "beforeCameraBytes": 2661534,
+      "afterCameraBytes": 2669701,
+      "playerDisplacementMetres": 0,
+      "cameraDisplacementMetres": 0,
+      "beforeSampledFrames": 150,
+      "afterSampledFrames": 150,
+      "beforeRevealRenderers": 0,
+      "afterRevealRenderers": 0,
+      "beforeProjectedBoundsObstructors": 2,
+      "afterProjectedBoundsObstructors": 2,
+      "editorMedianMs": {
+        "before": 97.36149597167969,
+        "after": 87.66339874267578,
+        "ratio": 0.9004
+      },
+      "editorP95Ms": {
+        "before": 181.75160217285156,
+        "after": 171.94140625,
+        "ratio": 0.946
+      },
+      "gpuMedianMs": {
+        "before": 6.859776020050049,
+        "after": 8.212479591369629,
+        "ratio": 1.1972
+      },
+      "unityStatsDrawCallsMedian": {
+        "before": 2665,
+        "after": 2509,
+        "ratio": 0.9415
+      },
+      "unityStatsTrianglesMedian": {
+        "before": 3593508,
+        "after": 4698527,
+        "ratio": 1.3075
+      }
+    },
+    {
+      "id": "S06_inside",
+      "status": "SIDE_BY_SIDE_VISUAL_REVIEW_REQUIRED",
+      "beforeGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_game_S06_inside.png",
+      "afterGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_game_S06_inside.png",
+      "beforeGameBytes": 3107873,
+      "afterGameBytes": 3089457,
+      "beforeCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_camera_S06_inside.png",
+      "afterCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_camera_S06_inside.png",
+      "beforeCameraBytes": 2377352,
+      "afterCameraBytes": 2362736,
+      "playerDisplacementMetres": 0,
+      "cameraDisplacementMetres": 0,
+      "beforeSampledFrames": 150,
+      "afterSampledFrames": 150,
+      "beforeRevealRenderers": 0,
+      "afterRevealRenderers": 0,
+      "beforeProjectedBoundsObstructors": 4,
+      "afterProjectedBoundsObstructors": 6,
+      "editorMedianMs": {
+        "before": 75.61400604248047,
+        "after": 127.72000122070312,
+        "ratio": 1.6891
+      },
+      "editorP95Ms": {
+        "before": 226.30099487304688,
+        "after": 284.03228759765625,
+        "ratio": 1.2551
+      },
+      "gpuMedianMs": {
+        "before": 5.429247856140137,
+        "after": 6.817791938781738,
+        "ratio": 1.2558
+      },
+      "unityStatsDrawCallsMedian": {
+        "before": 2247,
+        "after": 2061,
+        "ratio": 0.9172
+      },
+      "unityStatsTrianglesMedian": {
+        "before": 2876907,
+        "after": 3534403,
+        "ratio": 1.2285
+      }
+    },
+    {
+      "id": "W05_vehicle",
+      "status": "SIDE_BY_SIDE_VISUAL_REVIEW_REQUIRED",
+      "beforeGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_game_W05_vehicle.png",
+      "afterGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_game_W05_vehicle.png",
+      "beforeGameBytes": 3065447,
+      "afterGameBytes": 3038670,
+      "beforeCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_camera_W05_vehicle.png",
+      "afterCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_camera_W05_vehicle.png",
+      "beforeCameraBytes": 2331559,
+      "afterCameraBytes": 2310577,
+      "playerDisplacementMetres": 0,
+      "cameraDisplacementMetres": 0,
+      "beforeSampledFrames": 150,
+      "afterSampledFrames": 150,
+      "beforeRevealRenderers": 1,
+      "afterRevealRenderers": 1,
+      "beforeProjectedBoundsObstructors": 8,
+      "afterProjectedBoundsObstructors": 10,
+      "editorMedianMs": {
+        "before": 76.33319854736328,
+        "after": 108.37150573730469,
+        "ratio": 1.4197
+      },
+      "editorP95Ms": {
+        "before": 167.5294952392578,
+        "after": 195.30519104003906,
+        "ratio": 1.1658
+      },
+      "gpuMedianMs": {
+        "before": 4.885503768920898,
+        "after": 5.906432151794434,
+        "ratio": 1.209
+      },
+      "unityStatsDrawCallsMedian": {
+        "before": 2695,
+        "after": 2246,
+        "ratio": 0.8334
+      },
+      "unityStatsTrianglesMedian": {
+        "before": 2897672,
+        "after": 3575265,
+        "ratio": 1.2338
+      }
+    },
+    {
+      "id": "south_bridge",
+      "status": "SIDE_BY_SIDE_VISUAL_REVIEW_REQUIRED",
+      "beforeGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_game_south_bridge.png",
+      "afterGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_game_south_bridge.png",
+      "beforeGameBytes": 2460864,
+      "afterGameBytes": 2477148,
+      "beforeCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_camera_south_bridge.png",
+      "afterCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_camera_south_bridge.png",
+      "beforeCameraBytes": 1866492,
+      "afterCameraBytes": 1874499,
+      "playerDisplacementMetres": 0,
+      "cameraDisplacementMetres": 0,
+      "beforeSampledFrames": 150,
+      "afterSampledFrames": 150,
+      "beforeRevealRenderers": 0,
+      "afterRevealRenderers": 0,
+      "beforeProjectedBoundsObstructors": 3,
+      "afterProjectedBoundsObstructors": 3,
+      "editorMedianMs": {
+        "before": 65.2135009765625,
+        "after": 94.60330200195312,
+        "ratio": 1.4507
+      },
+      "editorP95Ms": {
+        "before": 162.17739868164062,
+        "after": 170.4477081298828,
+        "ratio": 1.051
+      },
+      "gpuMedianMs": {
+        "before": 6.569983959197998,
+        "after": 7.215104103088379,
+        "ratio": 1.0982
+      },
+      "unityStatsDrawCallsMedian": {
+        "before": 2757,
+        "after": 2575,
+        "ratio": 0.934
+      },
+      "unityStatsTrianglesMedian": {
+        "before": 5033752,
+        "after": 5457839,
+        "ratio": 1.0842
+      }
+    },
+    {
+      "id": "B4",
+      "status": "SIDE_BY_SIDE_VISUAL_REVIEW_REQUIRED",
+      "beforeGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_game_B4.png",
+      "afterGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_game_B4.png",
+      "beforeGameBytes": 3588154,
+      "afterGameBytes": 3596715,
+      "beforeCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_camera_B4.png",
+      "afterCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_camera_B4.png",
+      "beforeCameraBytes": 2784327,
+      "afterCameraBytes": 2793367,
+      "playerDisplacementMetres": 0,
+      "cameraDisplacementMetres": 0,
+      "beforeSampledFrames": 150,
+      "afterSampledFrames": 150,
+      "beforeRevealRenderers": 0,
+      "afterRevealRenderers": 0,
+      "beforeProjectedBoundsObstructors": 3,
+      "afterProjectedBoundsObstructors": 3,
+      "editorMedianMs": {
+        "before": 70.38450622558594,
+        "after": 125.44170379638672,
+        "ratio": 1.7822
+      },
+      "editorP95Ms": {
+        "before": 225.3365020751953,
+        "after": 248.77609252929688,
+        "ratio": 1.104
+      },
+      "gpuMedianMs": {
+        "before": 7.1045122146606445,
+        "after": 8.415231704711914,
+        "ratio": 1.1845
+      },
+      "unityStatsDrawCallsMedian": {
+        "before": 2256,
+        "after": 2123,
+        "ratio": 0.941
+      },
+      "unityStatsTrianglesMedian": {
+        "before": 3634066,
+        "after": 4507978,
+        "ratio": 1.2405
+      }
+    },
+    {
+      "id": "R8_comparison_only",
+      "status": "SIDE_BY_SIDE_VISUAL_REVIEW_REQUIRED",
+      "beforeGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_game_R8_comparison_only.png",
+      "afterGame": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_game_R8_comparison_only.png",
+      "beforeGameBytes": 3551483,
+      "afterGameBytes": 3554415,
+      "beforeCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_before\\before_play_camera_R8_comparison_only.png",
+      "afterCamera": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-29/a-map-ruin-ivy-rollout/staging/validation\\play_after\\after_play_camera_R8_comparison_only.png",
+      "beforeCameraBytes": 2756522,
+      "afterCameraBytes": 2758039,
+      "playerDisplacementMetres": 0,
+      "cameraDisplacementMetres": 0,
+      "beforeSampledFrames": 150,
+      "afterSampledFrames": 150,
+      "beforeRevealRenderers": 0,
+      "afterRevealRenderers": 0,
+      "beforeProjectedBoundsObstructors": 1,
+      "afterProjectedBoundsObstructors": 1,
+      "editorMedianMs": {
+        "before": 81.95449829101562,
+        "after": 92.01270294189453,
+        "ratio": 1.1227
+      },
+      "editorP95Ms": {
+        "before": 187.5926971435547,
+        "after": 179.68011474609375,
+        "ratio": 0.9578
+      },
+      "gpuMedianMs": {
+        "before": 6.756351947784424,
+        "after": 7.490560054779053,
+        "ratio": 1.1087
+      },
+      "unityStatsDrawCallsMedian": {
+        "before": 2991,
+        "after": 2088,
+        "ratio": 0.6981
+      },
+      "unityStatsTrianglesMedian": {
+        "before": 2766610,
+        "after": 3430805,
+        "ratio": 1.2401
+      }
+    }
+  ],
+  "notes": [
+    "Compare PNG pixels by eye; image existence, bounds approximation and reveal renderer counts do not prove visual correctness.",
+    "Editor frame interval ratios are observations from 150-frame fixed-camera samples. They are not a standalone build FPS measurement.",
+    "The before CLINIC_outside and W05_vehicle labels did not show true exterior/vehicle; use corrected supplement before_retry02 and after instead."
+  ]
+}

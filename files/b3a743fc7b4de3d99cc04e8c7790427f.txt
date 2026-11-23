@@ -1,0 +1,22 @@
+START 2026-10-30T04:16:17.6460917Z
+command=revise04
+PASS_REVISION04_GATE scene/prefab/owned34/protected29/after03ReportSha256/manualReview
+CANDIDATE04_WALL_UPDATED_IN_PLACE A34_CLINIC_MOOD_TRIAL_AUDIT
+root=__A34_ClinicMoodTrial
+candidate03MarkerAndSource=True
+renderers=6 vertices=10825 triangles=7996 colliders=0 lights=0
+v33DirectNameEligible=False
+wetRadialAndColorChannels=True
+profileLeaves=220 valid=True originalLeafTintAndTexture=True
+RESULT PASS
+
+CANDIDATE04_GRASS_POCKETS_APPLIED gapChanged=112 carpetChanged=363 rays=811 maxDown=0.650
+A34_CLINIC_GRASS_POCKET04_AUDIT
+gapChanged=112 carpetChanged=363 outsideChanged=0 maxDown=0.650 gapChangedXZ=(-173.24, 141.49, -164.32, 144.81) carpetChangedXZ=(-173.38, 141.05, -164.04, 144.79) pair=True normalsUvColorsIndicesPreserved=True
+RESULT PASS
+
+CANDIDATE04_ROOF_BLADE_UPDATED_IN_PLACE A34_CLINIC_ROOF_BLADE04_AUDIT
+petioleAnchored=6045/6045 tipLifted=5148 maxWorldY=0.200 stemVerticesOriginal=41840/41840
+RESULT PASS
+
+COMPLETE

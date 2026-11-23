@@ -1,0 +1,5 @@
+D11 roads visual-only: surfaceTiles=16 asphaltPixels=48892 settsPixels=8291 workshopConcretePixels=11403 sidewalkPixels=20792 curbDrainSegments=31 brokenSettShards=78 colliders=0 terrainChanges=0 routeMaterialChanges=0
+D11 vegetation: low=112128, tall=2870, shrub=1588, trees=274; chunks=301, renderers=631, triangles=1188640; lowSectors=14711/10757/13279/16620/18208/14573/10200/13780; safetyRejects=234219, roadClearanceRejects=47106, densityRejects=33976; collidersAdded=0; diagnostics=Assets/Escape/Art/OutdoorD11/Vegetation/Diagnostics
+
+scene=C9E3D324A6DA7849188D1D92F9D79843B8E4820DCBE8325C3A0B227CD13D1874
+prefab=D40135C4993CB32208C7E42D58715CA2F5CE530A7F37501AC8EB887F6DA547C3

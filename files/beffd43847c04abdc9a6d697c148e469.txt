@@ -1,0 +1,7 @@
+PASS V4_G10_02 inland refinement: 73 slots, 54 ordinary machines, 14 ordinary humans, five named candidates.
+Only the three V4_G10_02 spawn/WP pairs are moved. Other 72 slots and their routes passed NavMesh/collision recheck; old 24-candidate placement log remains intact.
+Search probe radius=3.4m (actual actor radius=0.9m). Water tested at actual radius+3.0m over the entire NavMesh path; body, fence, building, road, bridge-side and human/machine spacing checks use the enlarged probe.
+V4_G10_02 A old=(455.99, 270.00)→(455.99, 267.00) new=(457.43, 262.12)→(460.43, 262.12) | nearest-human=H5_01/A patrol=81.1m envelope-clearance=51.2m sight=occluded nearest-machine=V4_G10_01 30.0m entry=323.4m exit=53.9m B4-R8-W5=267.3m
+V4_G10_02 B old=(462.56, 267.67)→(459.56, 267.67) new=(443.30, 263.23)→(440.30, 263.23) | nearest-human=H5_01/A patrol=64.5m envelope-clearance=34.7m sight=occluded nearest-machine=V4_G10_01 35.4m entry=306.4m exit=69.7m B4-R8-W5=250.7m
+V4_G10_02 C old=(448.82, 273.67)→(445.82, 273.67) new=(439.29, 258.94)→(436.29, 258.94) | nearest-human=H5_01/A patrol=59.7m envelope-clearance=29.8m sight=occluded nearest-machine=V4_G10_01 33.3m entry=303.5m exit=71.8m B4-R8-W5=248.2m
+No scene or prefab saved. Main workflow must inspect feet/fence at the same cameras and validate all raid variants.

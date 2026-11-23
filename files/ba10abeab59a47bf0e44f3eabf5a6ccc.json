@@ -1,0 +1,15 @@
+{
+    "context": "Current portrait rig, independent closeup camera",
+    "model": "Player_Edel",
+    "halfHeight": 0.18461161851882935,
+    "target": {
+        "x": 0.3227120637893677,
+        "y": -99.01679992675781,
+        "z": -0.14786884188652039
+    },
+    "files": [
+        "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-24/edel-natural-arm-pose/r25_right5_edel_off_hands_right_0.png",
+        "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-24/edel-natural-arm-pose/r25_right5_edel_off_hands_right_90.png",
+        "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-24/edel-natural-arm-pose/r25_right5_edel_off_hands_right_270.png"
+    ]
+}

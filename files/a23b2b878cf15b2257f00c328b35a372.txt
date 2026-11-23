@@ -1,0 +1,40 @@
+A_MAP_ROUTE_FIX_PLAY_REGRESSION
+startedUtc=2026-10-29T07:26:03.6573063Z
+PASS GUID StageMapPreview private save guard
+SOURCE kind=retained_scene_editGeometry scene=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity root=StageA_Relay_Blockout_v08 linkedPrefab=none ResourcesKey=StageMaps/StageA_Relay_Blockout_v08
+savedPrefabSHA256=b849090f053449e3c64b1f8bf65d50b78311bc1bcf046d14fe0250422cad04b7
+NOTE retained_scene is not a fresh Resources clone. Runtime-resource mode must be created by the coordinator and is labelled from actual map reference, never inferred from a file hash.
+PASS B4/basic4/inactiveR policy
+PLAYER COLLISION PHASE all existing NPC frozen; world timers off. No new NPC spawned; registered=72 activeEncounter=72
+Player steps=1x1/60 per rendered frame; simulation clock and actual game timestamps both logged; not survival/normal completion-time evidence.
+SCOPE CRITICAL_NORMAL_ONLY: six short curb lanes, no full B4/PARTS route, no G12 actor fixture/observation. Existing209 prediction still recorded separately.
+PASS unchanged player CC radius.4 and stepOffset.25
+PASS 209 actual-geometry patrol predictions clear; raw endpoints valid; NOT209 actual movements
+NATURAL_G12 selected=C home=-3.799652,2.040000,14.209380
+LANE curb01_original_fail_east independent start warp only; length=2.800950 corners=2 start=-40.200000,1.389452,-51.480000 end=-37.400000,1.462413,-51.480000
+CAPTURE start_curb01_original_fail_east after10 natural camera/roof frames; camera=-35.343580,15.007630,-43.068390 player=-40.200000,1.342962,-51.480000. Start/finish are different locations, not matched before/after change images.
+PASS PHYSICAL curb01_original_fail_east steps=42 simulatedSeconds=0.700000 actualEnd=-37.400000,1.383924,-51.480000
+CAPTURE finish_curb01_original_fail_east after10 natural camera/roof frames; camera=-32.543650,15.048070,-43.068540 player=-37.400000,1.383924,-51.480000. Start/finish are different locations, not matched before/after change images.
+LANE curb01_original_fail_west independent start warp only; length=2.800950 corners=2 start=-37.400000,1.462413,-51.480000 end=-40.200000,1.389452,-51.480000
+CAPTURE start_curb01_original_fail_west after10 natural camera/roof frames; camera=-32.543640,15.048220,-43.068540 player=-37.400000,1.383925,-51.480000. Start/finish are different locations, not matched before/after change images.
+PASS PHYSICAL curb01_original_fail_west steps=42 simulatedSeconds=0.700000 actualEnd=-40.200000,1.342962,-51.480000
+CAPTURE finish_curb01_original_fail_west after10 natural camera/roof frames; camera=-35.343640,15.007110,-43.068540 player=-40.200000,1.342962,-51.480000. Start/finish are different locations, not matched before/after change images.
+LANE join_south_01_east independent start warp only; length=2.800538 corners=2 start=-40.200000,1.538300,-48.650000 end=-37.400000,1.593210,-48.650000
+CAPTURE start_join_south_01_east after10 natural camera/roof frames; camera=-35.343640,15.148720,-40.238780 player=-40.200000,1.484506,-48.650000. Start/finish are different locations, not matched before/after change images.
+PASS PHYSICAL join_south_01_east steps=42 simulatedSeconds=0.700000 actualEnd=-37.400000,1.517964,-48.650000
+CAPTURE finish_join_south_01_east after10 natural camera/roof frames; camera=-32.543650,15.182110,-40.238540 player=-37.400000,1.517964,-48.650000. Start/finish are different locations, not matched before/after change images.
+LANE join_south_01_west independent start warp only; length=2.800538 corners=2 start=-37.400000,1.593210,-48.650000 end=-40.200000,1.538300,-48.650000
+CAPTURE start_join_south_01_west after10 natural camera/roof frames; camera=-32.543640,15.182240,-40.238540 player=-37.400000,1.517965,-48.650000. Start/finish are different locations, not matched before/after change images.
+PASS PHYSICAL join_south_01_west steps=42 simulatedSeconds=0.700000 actualEnd=-40.200000,1.484505,-48.650000
+CAPTURE finish_join_south_01_west after10 natural camera/roof frames; camera=-35.343640,15.148650,-40.238540 player=-40.200000,1.484505,-48.650000. Start/finish are different locations, not matched before/after change images.
+LANE join_north_02_east independent start warp only; length=2.800572 corners=2 start=-40.200000,1.543825,-48.350000 end=-37.400000,1.600450,-48.350000
+CAPTURE start_join_north_02_east after10 natural camera/roof frames; camera=-35.343640,15.162290,-39.938550 player=-40.200000,1.498134,-48.350000. Start/finish are different locations, not matched before/after change images.
+PASS PHYSICAL join_north_02_east steps=42 simulatedSeconds=0.700000 actualEnd=-37.400000,1.530724,-48.350000
+CAPTURE finish_join_north_02_east after10 natural camera/roof frames; camera=-32.543650,15.194870,-39.938540 player=-37.400000,1.530724,-48.350000. Start/finish are different locations, not matched before/after change images.
+LANE join_north_02_west independent start warp only; length=2.800572 corners=2 start=-37.400000,1.600450,-48.350000 end=-40.200000,1.543825,-48.350000
+CAPTURE start_join_north_02_west after10 natural camera/roof frames; camera=-32.543640,15.195030,-39.938540 player=-37.400000,1.530724,-48.350000. Start/finish are different locations, not matched before/after change images.
+PASS PHYSICAL join_north_02_west steps=42 simulatedSeconds=0.700000 actualEnd=-40.200000,1.498134,-48.350000
+CAPTURE finish_join_north_02_west after10 natural camera/roof frames; camera=-35.343640,15.162280,-39.938540 player=-40.200000,1.498134,-48.350000. Start/finish are different locations, not matched before/after change images.
+COMPLETED critical normal-only six local curb lanes; no full-route or actual-NPC observation claim.
+
+STATE FINISHED pass=10 fail=0 phase=3 lane=6

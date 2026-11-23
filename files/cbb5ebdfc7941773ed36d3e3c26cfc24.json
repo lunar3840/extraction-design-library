@@ -1,0 +1,15 @@
+{
+  "checked_utc": "2026-10-22T10:33:01.598622+00:00",
+  "changed_since_start": [
+    "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Stage\\SessionTestWorld.cs"
+  ],
+  "newly_tracked_after_start": [
+    "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Enemy\\StageAMachineRole.cs",
+    "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-21\\a-map-loot-containers-chips\\RESOLVED_PLACEMENTS.csv",
+    "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-21\\a-map-loot-containers-chips\\PLACEMENT_CHECKS.txt",
+    "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-21\\a-map-loot-containers-chips\\FINAL_MAP_HASHES.txt",
+    "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-21\\a-map-loot-containers-chips\\FINAL_SOURCE_HASHES.txt",
+    "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-02\\a-map-enclosures-v33-implementation\\V33_ROUTE_AS_BUILT.csv"
+  ],
+  "changed_since_extended_start": []
+}

@@ -1,0 +1,7 @@
+VEHICLE BACKING+BAKE PASS backingMeshes=1 backingTriangles=4042 stitchTriangles=652 recessWorld=0.042..0.1475168 prefab=Assets/Escape/Art/SurfaceRuin/Generated/Validation/VehicleLining/StageA_v12_RustyVehicle_Car_RuinPreview_Ruin_fda061e95ee5/StageA_v12_RustyVehicle_Car_RuinPreview_Ruin.prefab
+VEHICLE SEED PASS fixed seed backing fingerprint replayed; next seed changed
+VEHICLE BUDGET PASS tiny budget rolled back all generated geometry
+VEHICLE POST-GENERATION BUDGET PASS fixture source=12 full=26 backing+stitch=9 rejectedBudget=25 rollback complete
+VEHICLE ZERO DAMAGE PASS damage=0 yielded no backing/stitch or generated root
+BUILDING UNCHANGED PASS fixed S06 seed81231 report/body fingerprint and kept prefab dependency unchanged
+RESULT PASS

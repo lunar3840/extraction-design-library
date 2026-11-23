@@ -1,0 +1,9 @@
+﻿PASS_STATIC_ONLY
+existingObjectRows=46684 unchanged=true
+ownedRootRows=9 unchanged=true
+protectedFiles=29 unchanged=true
+originalSourceMeshMeta=8 unchanged=true
+referencedAssetPaths=8497 changedOnlyOwnedRoofMeshBodies=2
+ownedFiles=38 changedOnlyFourVineMeshBodies=true
+scenePrefabDiskSame=true wallRenderers=6 wallVertices=15648 wallTriangles=13500 roofRenderers=2 roofTriangles=154050 combinedTriangles=167550 collider=0 light=0
+Graph crossing/contact metrics require the separate builder Audit and actual Game visual review.

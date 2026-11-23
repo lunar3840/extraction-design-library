@@ -1,0 +1,73 @@
+2026-10-07 오후 7:16:48
+D04 architecture built=68 (V33=64, retained=4, HALL=0); Gable=11, Sawtooth=13, Monitor=10, Stepped=12, Shed=10, Ruin=12; buildings=N01:Stepped,N02:Stepped,N03:Stepped,N04:Gable,N05:Shed,N06:Shed,N07:Stepped,N08:Monitor,N09:Gable,N10:Gable,N11:Stepped,N12:Monitor,N13:Monitor,N14:Monitor,N15:Gable,N16:Monitor,W01:Sawtooth,W02:Sawtooth,W03:Shed,W04:Monitor,W05:Sawtooth,W06:Sawtooth,W07:Stepped,W08:Shed,W09:Stepped,W10:Sawtooth,W11:Shed,C01:Stepped,C02:Sawtooth,C03:Sawtooth,C04:Shed,E01:Gable,E02:Stepped,E03:Monitor,E04:Shed,E05:Gable,E06:Gable,E07:Stepped,E08:Gable,E09:Monitor,E10:Gable,E11:Monitor,E12:Shed,S01:Ruin,S02:Ruin,S03:Ruin,S04:Ruin,S05:Ruin,S06:Ruin,S07:Ruin,S08:Ruin,S09:Ruin,S10:Ruin,S11:Ruin,S12:Ruin,Y01:Sawtooth,Y02:Sawtooth,Y03:Sawtooth,Y04:Shed,Y05:Sawtooth,F01:Stepped,F02:Shed,F03:Monitor,N17:Gable,CLINIC:Stepped,POWER:Sawtooth,PARTS:Sawtooth,TOOLS:Gable
+accepted=257 skipped=476 renderers=2660 colliders=1687
+D04 interiors: 68 buildings, HALL excluded
+C01 하역 관리실 accepted=5 skipped=3 renderers=50 colliders=40
+C02 도장 전처리실 accepted=4 skipped=10 renderers=52 colliders=28
+C03 설비 수리동 accepted=3 skipped=5 renderers=39 colliders=21
+C04 검수 부속고 accepted=3 skipped=5 renderers=36 colliders=27
+CLINIC 직원 진료소 accepted=17 skipped=12 renderers=154 colliders=137
+E01 축전지실 accepted=5 skipped=8 renderers=50 colliders=10
+E02 전력 관리실 accepted=3 skipped=6 renderers=30 colliders=24
+E03 변압기 정비실 accepted=3 skipped=8 renderers=30 colliders=6
+E04 케이블 창고 accepted=3 skipped=5 renderers=36 colliders=27
+E05 포장 작업동 accepted=4 skipped=13 renderers=52 colliders=28
+E06 출하 검수실 accepted=3 skipped=8 renderers=39 colliders=21
+E07 반입 관리실 accepted=3 skipped=5 renderers=30 colliders=24
+E08 배관 공작실 accepted=2 skipped=9 renderers=10 colliders=6
+E09 배수 관리동 accepted=3 skipped=5 renderers=30 colliders=24
+E10 유류 검사실 accepted=2 skipped=12 renderers=17 colliders=8
+E11 배전 부속실 accepted=3 skipped=5 renderers=30 colliders=6
+E12 보관 부속고 accepted=3 skipped=5 renderers=36 colliders=27
+F01 수문 관리실 accepted=3 skipped=6 renderers=30 colliders=24
+F02 제방 정비소 accepted=3 skipped=8 renderers=39 colliders=21
+F03 배수 장비고 accepted=2 skipped=11 renderers=9 colliders=4
+N01 급식소 accepted=2 skipped=9 renderers=24 colliders=16
+N02 숙직실 accepted=4 skipped=5 renderers=36 colliders=32
+N03 기록실 accepted=2 skipped=9 renderers=20 colliders=16
+N04 소독실 accepted=3 skipped=5 renderers=30 colliders=27
+N05 약품 부속고 accepted=2 skipped=6 renderers=20 colliders=18
+N06 구급차 차고 accepted=3 skipped=8 renderers=30 colliders=27
+N07 통신 관리실 accepted=2 skipped=7 renderers=20 colliders=16
+N08 변압기 수리실 accepted=3 skipped=8 renderers=30 colliders=6
+N09 케이블 가공실 accepted=4 skipped=5 renderers=52 colliders=28
+N10 검수실 accepted=5 skipped=8 renderers=65 colliders=35
+N11 기술자료 보관실 accepted=3 skipped=8 renderers=30 colliders=24
+N12 전력 부속고 accepted=4 skipped=12 renderers=40 colliders=8
+N13 폐쇄 실험실 accepted=3 skipped=6 renderers=30 colliders=27
+N14 배전 제어실 accepted=2 skipped=8 renderers=20 colliders=16
+N15 시설 작업동 accepted=3 skipped=6 renderers=39 colliders=21
+N16 압축기실 accepted=4 skipped=4 renderers=40 colliders=8
+N17 크레인 제어실 accepted=3 skipped=6 renderers=30 colliders=24
+PARTS 정밀부품 창고 accepted=23 skipped=16 renderers=246 colliders=187
+POWER 전력·전장시설 accepted=15 skipped=13 renderers=140 colliders=34
+S01 폐숙소 accepted=2 skipped=4 renderers=8 colliders=4
+S02 옛 식당 accepted=2 skipped=5 renderers=24 colliders=16
+S03 세탁실 accepted=2 skipped=7 renderers=26 colliders=14
+S04 휴게동 accepted=2 skipped=8 renderers=18 colliders=16
+S05 소형 주거동 accepted=3 skipped=4 renderers=27 colliders=24
+S06 옛 매점 accepted=2 skipped=8 renderers=24 colliders=16
+S07 관리인 주택 accepted=3 skipped=7 renderers=27 colliders=24
+S08 공동 창고 accepted=2 skipped=5 renderers=24 colliders=18
+S09 폐숙소 별동 accepted=2 skipped=4 renderers=8 colliders=4
+S10 부품 수집소 accepted=3 skipped=4 renderers=39 colliders=21
+S11 폐 정비차고 accepted=3 skipped=2 renderers=12 colliders=6
+S12 전기 작업실 accepted=2 skipped=8 renderers=17 colliders=8
+TOOLS 공구 정비점 accepted=3 skipped=5 renderers=39 colliders=21
+W01 목공 부속동 accepted=3 skipped=8 renderers=39 colliders=21
+W02 기계 수리소 accepted=4 skipped=5 renderers=52 colliders=28
+W03 공구 창고 accepted=4 skipped=5 renderers=48 colliders=36
+W04 압축기 작업실 accepted=4 skipped=12 renderers=40 colliders=8
+W05 폐부품 분해실 accepted=6 skipped=5 renderers=78 colliders=42
+W06 용접 부속실 accepted=3 skipped=6 renderers=39 colliders=21
+W07 관리 사무실 accepted=3 skipped=8 renderers=30 colliders=24
+W08 소형 차고 accepted=4 skipped=5 renderers=31 colliders=28
+W09 수리 접수동 accepted=4 skipped=5 renderers=40 colliders=32
+W10 반출 검수실 accepted=4 skipped=5 renderers=52 colliders=28
+W11 공구 부속고 accepted=3 skipped=6 renderers=36 colliders=27
+Y01 차량 분해동 accepted=3 skipped=14 renderers=30 colliders=27
+Y02 차량 부품고 accepted=2 skipped=9 renderers=20 colliders=18
+Y03 반출 관리소 accepted=4 skipped=5 renderers=40 colliders=32
+Y04 펌프 부속고 accepted=4 skipped=4 renderers=20 colliders=12
+Y05 폐 차량고 accepted=4 skipped=5 renderers=31 colliders=28
+

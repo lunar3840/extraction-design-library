@@ -1,0 +1,17 @@
+PASS blast damage, faction, source, duplicate, cover, radius evasion
+PASS named N2/N3/N4 repeated tells, N5 extended suppression
+PASS Scout prefire, shots=3, damage, cooldown
+PASS Suppressor prefire, shots=8, damage, cooldown
+PASS Sniper prefire, shots=1, damage, cooldown
+PASS Grenadier prefire, shots=1, damage, cooldown
+PASS Discharger prefire, shots=1, damage, cooldown
+PASS ArcRifle prefire, shots=1, damage, cooldown
+PASS GuardTank prefire, shots=1, damage, cooldown
+PASS Sniper locked aim misses moved target
+PASS ArcRifle locked aim misses moved target
+PASS Suppressor locked aim misses moved target
+PASS Grenadier wall collision and covered victim
+PASS GuardTank wall collision and covered victim
+PASS GuardTank locked range and projectile dodge
+PASS LOS, freeze, death charge cancellation
+PASS initialized human sees machine aim and prepares defense before first sniper shot

@@ -1,0 +1,1 @@
+PASS new starter equipped; S4 visible; off/on preserves equipment; hidden restores 45631-triangle live and portrait innerwear body; on restores 31505-triangle portrait coverage; other armor hidden; Serin has no Edel outfit; returning to Edel restores binding; toggle pointer/chip separation

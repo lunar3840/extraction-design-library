@@ -1,0 +1,19 @@
+{
+  "scope": "Edel skin shading only; hair candidates rejected and production Hair restored to EC7BF1",
+  "sourceFingerprintEqual": true,
+  "uv0Equal": true,
+  "sourcePositionsEqual": true,
+  "sourceWeightsEqual": true,
+  "topologyMaterialsEqual": true,
+  "currentNormalsEqual": true,
+  "headImageRectangle": [
+    0,
+    0,
+    768,
+    350
+  ],
+  "headRectanglePixelDifferences": 2593,
+  "sourceFbxSha256": "779ED67BABB89920E190573C05E63FAF484111A1A46A16C5861CB4E536F4949B",
+  "productionHairSha256": "EC7BF1BE6DD556F15E9DAF989D39DC29570207FE58FADFBA0A40D13E3B288F72",
+  "limits": "No player build performed for new skin shader; Unity Editor actual rendering verified. Exact comparison rectangle covers head hair only, not complete animated braid. UV4 is the new shader mask stream, UV0 is preserved. New hair continuity candidates did not pass visual/collision acceptance."
+}

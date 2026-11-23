@@ -1,0 +1,11 @@
+VEHICLE BACKING+BAKE FAIL System.InvalidOperationException: Backing has nonfinite or degenerate world triangle: __RuinGenerated_VehicleBacking_Model tri=80
+  at Escape.EditorTools.RuinValidation.RuinVehicleLiningValidation.CheckBackingMesh (UnityEngine.MeshFilter filter) [0x002c5] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\RuinVehicleLiningValidation.cs:133 
+  at System.Linq.Enumerable.Sum[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] selector) [0x0002e] in <3b11d295d3e9492a81e8e8a8258af567>:0 
+  at Escape.EditorTools.RuinValidation.RuinVehicleLiningValidation.CheckVehicleStructureAndPersistence () [0x0018b] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\RuinVehicleLiningValidation.cs:157 
+  at Escape.EditorTools.RuinValidation.RuinVehicleLiningValidation.Check (System.Text.StringBuilder report, System.String name, System.Func`1[TResult] test) [0x00000] in C:\UnityProject\escape\Assets\Escape\Editor\Environment\RuinVehicleLiningValidation.cs:343 
+VEHICLE SEED PASS fixed seed backing fingerprint replayed; next seed changed
+VEHICLE BUDGET PASS tiny budget rolled back all generated geometry
+VEHICLE POST-GENERATION BUDGET PASS fixture source=12 full=26 backing+stitch=9 rejectedBudget=25 rollback complete
+VEHICLE ZERO DAMAGE PASS damage=0 yielded no backing/stitch or generated root
+BUILDING UNCHANGED PASS fixed S06 seed81231 report/body fingerprint and kept prefab dependency unchanged
+RESULT FAIL

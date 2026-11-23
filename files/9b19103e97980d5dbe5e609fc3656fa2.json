@@ -1,0 +1,12 @@
+{
+  "utc": "2026-11-03T13:00:25.836389+00:00",
+  "restoredScene": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+  "ownedPlayStopped": true,
+  "nativeEditorScreenshot": "after_editor.png",
+  "freshCompileAndRuntimeErrors": [],
+  "protectedSourcesMatched": 13,
+  "protectedSourcesTotal": 13,
+  "retiredReviewFiles": 30,
+  "remainingS4Requests": [],
+  "knownUnrelatedWarning": "Existing Stage A density V04 duplicate menu-item warning; map source unchanged and outside this clothing change."
+}

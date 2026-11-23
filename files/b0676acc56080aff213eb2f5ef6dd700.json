@@ -1,0 +1,60 @@
+{
+  "dateKorea": "2026-10-23",
+  "tables": 104,
+  "rows": 12956,
+  "valueChanges": 0,
+  "pending": 0,
+  "csvChanges": [],
+  "appLogicUnchanged": true,
+  "sourceChanges": [],
+  "regularFontBytes": 6225344,
+  "boldFontBytes": 6223192,
+  "browserErrors": [],
+  "screenshots": [
+    {
+      "name": "before_editor.png",
+      "bytes": 94654,
+      "width": 65536,
+      "height": 4292542531
+    },
+    {
+      "name": "after_editor.png",
+      "bytes": 90073,
+      "width": 65536,
+      "height": 4292542531
+    },
+    {
+      "name": "after_review.png",
+      "bytes": 43838,
+      "width": 65536,
+      "height": 4292542531
+    },
+    {
+      "name": "after_import.png",
+      "bytes": 35521,
+      "width": 65536,
+      "height": 4292542531
+    },
+    {
+      "name": "after_compact.png",
+      "bytes": 62447,
+      "width": 65536,
+      "height": 4292542531
+    },
+    {
+      "name": "after_compact_details.png",
+      "bytes": 44269,
+      "width": 65536,
+      "height": 4292542531
+    }
+  ],
+  "checks": [
+    "1280x720 표영역242px·본문4행·상태열기본표시",
+    "960x720 CSV/필터표시·문서가로넘침없음·상세입력스크롤접근",
+    "민트색 포커스·입력·미저장표시·변경검토창확인",
+    "검토 100→110 후 돌아가기·실행취소로100복구; CSV저장/게임반영없음",
+    "CSV 가져오기대화상자형태확인·취소",
+    "Noto Sans KR 두글꼴 HTTP200·font/ttf·정확한바이트수",
+    "API/이벤트 app.js 바이트불변·저장CSV내용불변"
+  ]
+}

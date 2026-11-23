@@ -1,0 +1,71 @@
+{
+  "schema": "A_MAP_PERFORMANCE_CONTEXT_REVIEW_1",
+  "candidate": "validation/PERFORMANCE_AFTER_02.json",
+  "residentOriginalControl": "validation/PERFORMANCE_DIAGNOSTIC_ORIGINAL_01.json",
+  "frozenBefore": "validation/PERFORMANCE_BEFORE.json",
+  "context": "Same editor and imported assets resident. Diagnostic temporarily restores original geometry only in Play and is not candidate acceptance. Old-before absolute GPU timing differs even for original geometry. No cause such as VRAM spill is asserted.",
+  "decision": "Accept current prototype tradeoff; retain all validated geometry/materials. Broad-view GPU increment versus resident-original control ~5-8%; original geometry is already slow in this editor session. Standalone performance target not established.",
+  "rollback": "main/WELD_ROLLBACK_VERIFIED.txt",
+  "rows": [
+    {
+      "view": "region_west_south",
+      "candidateGPUms": 46.285,
+      "originalResidentGPUms": 43.273,
+      "differencePercent": 6.96
+    },
+    {
+      "view": "region_east_south",
+      "candidateGPUms": 41.987,
+      "originalResidentGPUms": 40.035,
+      "differencePercent": 4.88
+    },
+    {
+      "view": "region_west_north",
+      "candidateGPUms": 48.626,
+      "originalResidentGPUms": 45.959,
+      "differencePercent": 5.8
+    },
+    {
+      "view": "region_east_north",
+      "candidateGPUms": 48.101,
+      "originalResidentGPUms": 46.177,
+      "differencePercent": 4.17
+    },
+    {
+      "view": "building_HALL_exterior",
+      "candidateGPUms": 25.104,
+      "originalResidentGPUms": 23.2,
+      "differencePercent": 8.21
+    },
+    {
+      "view": "building_W10_exterior",
+      "candidateGPUms": 5.275,
+      "originalResidentGPUms": 5.767,
+      "differencePercent": -8.54
+    },
+    {
+      "view": "entry_B4",
+      "candidateGPUms": 8.423,
+      "originalResidentGPUms": 9.582,
+      "differencePercent": -12.09
+    },
+    {
+      "view": "outdoor_detail_D11_Roads_2",
+      "candidateGPUms": 7.559,
+      "originalResidentGPUms": 7.583,
+      "differencePercent": -0.31
+    },
+    {
+      "view": "outdoor_detail_D12_Waterfront_2",
+      "candidateGPUms": 2.495,
+      "originalResidentGPUms": 3.238,
+      "differencePercent": -22.93
+    },
+    {
+      "view": "outdoor_detail_D13_OuterFence_2",
+      "candidateGPUms": 6.627,
+      "originalResidentGPUms": 6.275,
+      "differencePercent": 5.61
+    }
+  ]
+}

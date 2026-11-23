@@ -1,0 +1,60 @@
+{
+  "status": "historical_record_packaging_verified",
+  "packagedDateKst": "2026-11-20",
+  "instructionDateKst": "2026-10-23",
+  "round": "2026-10-23-02",
+  "roundMeaning": "Newly archived historical round; exact within-day instruction timestamp not reconstructed; existing01 unchanged",
+  "originalRecordSHA256": "6cc213572d5e6348c7ccb6941b6718ecf74b0d352db4b0201886a1b0b4a168e7",
+  "originalRecordBytes": 7841,
+  "originalRecordBackup": "CHANGE_RECORD.original_20261023.md",
+  "originalRecordBodyBytesPreserved": true,
+  "oldTopLevelFiles": 302,
+  "unchangedOldTopLevelFilesAtOriginalPaths": 301,
+  "onlyExistingFileChanged": "CHANGE_RECORD.md:metadata prefix only",
+  "originalScreenshotsChanged": 0,
+  "newGameExecutions": 0,
+  "newGameSourceChanges": 0,
+  "newVideos": 0,
+  "historicalChecks": {
+    "finalValidation": "PASS",
+    "characters": 4,
+    "sizeSamplesPerCharacter": 19,
+    "cameraScaleDrift": 0,
+    "cameraPositionDrift": 0,
+    "plantedPreviewPoseDrift": 0,
+    "manualReactionAndDragPointerSurfaces": 2,
+    "nativePointer": [
+      {
+        "surface": "lobby",
+        "click": "Manual Joy",
+        "dragYaw": 292.2916259765625,
+        "dragReaction": "None",
+        "cameraUnchanged": true
+      },
+      {
+        "surface": "inventory",
+        "click": "Manual Joy",
+        "dragYaw": 311.25,
+        "dragReaction": "None",
+        "cameraUnchanged": true
+      }
+    ],
+    "compilationErrors": 0,
+    "reloadConfirmed": true,
+    "sceneRestoreSnapshot": "scene_restored.txt",
+    "finalSourceAndTemporaryToolRemovalSnapshot": "final_files.json"
+  },
+  "selectedDocuments": 20,
+  "selectedImages": 26,
+  "comparisonPairs": 9,
+  "covers": 3,
+  "implementationStatus": "historical_portrait_feature_verified_quality_not_current_pass",
+  "currentWholeAnimationQuality": "FAIL from 2026-11-20 independent QA; not rerun or resolved by this packaging",
+  "pausedPostUiVideoResumed": false,
+  "globalPublisher": "01a08af2-ed89-7f10-840c-890641b84ba2",
+  "globalIndexOrReservationsOrPublisherFilesModified": false,
+  "publicPublishStatus": "pending_owner_handoff",
+  "baselineExcludesNewScopeDocument": true,
+  "fullOriginalManifestPublic": false,
+  "fullOriginalManifestLocalOnly": "HISTORICAL_PACKAGING_BASELINE.json"
+}

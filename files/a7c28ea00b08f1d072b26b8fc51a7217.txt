@@ -1,0 +1,44 @@
+PASS integrated world loaded
+PASS fresh isolated save and Stage A departure
+PASS rain courtyard is active in real SystemsTest
+PASS drizzle particle system is running
+PASS visual courtyard does not add collision
+PASS original SD character instantiated
+PASS starter weapon is equipped
+PASS starter magazine reload accepted
+PASS existing weapon fires with new visuals enabled
+PASS character moves on courtyard without decorative collision
+PASS shot registered by existing weapon system
+PASS courtyard reflection capture has a texture after rendering
+PASS player and both enemy presentations exist for toon verification
+PASS Generic ranged system fixture has runtime toon materials
+PASS Generic ranged system fixture keeps texture/color/UV/cull/alpha/queue
+PASS Generic ranged system fixture restores/reapplies without changing mesh or hair bindings
+PASS Generic melee system fixture has runtime toon materials
+PASS Generic melee system fixture keeps texture/color/UV/cull/alpha/queue
+PASS Generic melee system fixture restores/reapplies without changing mesh or hair bindings
+PASS Player (Serin) has runtime toon materials
+PASS Player (Serin) keeps texture/color/UV/cull/alpha/queue
+PASS Player (Serin) restores/reapplies without changing mesh or hair bindings
+PASS main gameplay camera opts into cartoon outlines
+PASS outline pass changes a bounded set of actual rendered pixels: 3549
+PASS Generic ranged system fixture preserves original hair bindings after equipment request
+PASS Generic melee system fixture preserves original hair bindings after equipment request
+PASS Player (Serin) preserves original hair bindings after equipment request
+PASS all six wall lamps have directional pools and local fill
+PASS every lamp pool uses a patterned spot cookie
+PASS three selected lamp pools cast soft shadows
+PASS three lamp zones have local reflection probes
+PASS local lamp reflection probes finish their one-shot capture
+PIXELS Lamp_Lighting_On.png / Lamp_Lighting_Off.png: 16142
+PASS lamp rig changes actual gameplay lighting pixels
+PASS Ground uses animated wet stone shader
+PASS WetGround uses animated wet stone shader
+PIXELS Wet_Gameplay.png / Wet_Dry_Control.png: 517535
+PASS wet surface changes actual gameplay pixels compared with dry control
+PIXELS Wet_Gameplay.png / Wet_Ripple_Later.png: 30827
+PASS rain ripple time changes actual reflected lighting pixels
+GPU: NVIDIA GeForce RTX 4050 Laptop GPU
+Unity: 6000.1.0f1
+Capture: 1280x720 URP camera; IMGUI HUD is not included by render request.
+Editor-driven fixed-step motion samples are not an FPS benchmark.

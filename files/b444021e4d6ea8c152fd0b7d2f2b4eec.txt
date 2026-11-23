@@ -1,0 +1,14 @@
+PASS machine chooses visible hostile human before farther player [selected=Encounter human check, humanVisible=True, playerVisible=False, firstRay=none, playerDead=False, humanDead=False]
+PASS human sees machine and avoids without opening fire
+PASS closer player does not automatically override established NPC target
+PASS NPC shot damages hostile NPC and records actual attacker
+PASS machine hit authorizes human defensive target acquisition
+PASS opposing NPC fires back with real damage before player intervention
+PASS visible direct attacker immediately overrides existing NPC target
+PASS NPC kill does not earn player kill credit
+PASS visible player outside leash remains a valid target
+PASS same-faction actor is excluded even when visible and nearby
+PASS large-body clearance probe can access runtime path check
+PASS large body rejects offset obstacle while accepting unobstructed path
+PASS player fatal damage earns direct kill credit
+PASS legacy test actor retains player-only targeting

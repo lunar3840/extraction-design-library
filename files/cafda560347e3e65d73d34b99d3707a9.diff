@@ -1,0 +1,149 @@
+--- CompanionChipCatalog.before.cs
++++ CompanionChipCatalog.cs
+@@ -9,8 +9,9 @@
+         public string Id { get; }
+         public string DisplayName { get; }
+         public bool IsPrototype { get; }
+-        internal CompanionChipDefinition(string id, string displayName, bool prototype = false)
+-        { Id = id; DisplayName = displayName; IsPrototype = prototype; }
++        public string ModelResourcePath { get; }
++        internal CompanionChipDefinition(string id, string displayName, bool prototype = false, string modelResourcePath = null)
++        { Id = id; DisplayName = displayName; IsPrototype = prototype; ModelResourcePath = modelResourcePath; }
+     }
+ 
+     // Clean physical equipment is distinct from unpurified surface cargo.
+@@ -27,10 +28,10 @@
+         public const string LivId = "liv", YuiId = "yui";
+         static readonly IReadOnlyList<CompanionChipDefinition> entries = Array.AsReadOnly(new[]
+         {
+-            new CompanionChipDefinition(SerinId, "세린"),
+-            new CompanionChipDefinition(EdelId, "에델"),
+-            new CompanionChipDefinition(LivId, "리브"),
+-            new CompanionChipDefinition(YuiId, "유이")
++            new CompanionChipDefinition(SerinId, "세린", modelResourcePath: "SD/Player_Serin"),
++            new CompanionChipDefinition(EdelId, "에델", modelResourcePath: "SD/Player_Edel"),
++            new CompanionChipDefinition(LivId, "리브", modelResourcePath: "SD/Player_Liv"),
++            new CompanionChipDefinition(YuiId, "유이", modelResourcePath: "SD/Player_Yui")
+         });
+         public static IReadOnlyList<CompanionChipDefinition> All => entries;
+         public static CompanionChipDefinition Find(string id)
+--- SdCharacterVisual.before.cs
++++ SdCharacterVisual.cs
+@@ -79,13 +79,12 @@
+                 showWeapon = library.playerShowsWeapon;
+                 showArmor = library.playerArmorChangesAppearance;
+             }
+-            else if (companionId == "prototype" || companionId == "liv" || companionId == "yui")
+-            {
+-                string modelName = companionId == "prototype" ? "Edel" : companionId == "liv" ? "Liv" : "Yui";
+-                prefab = Resources.Load<GameObject>("SD/Player_" + modelName);
++            else if (Escape.Companions.CompanionChipCatalog.Find(companionId) is Escape.Companions.CompanionChipDefinition definition)
++            {
++                prefab = string.IsNullOrEmpty(definition.ModelResourcePath) ? null : Resources.Load<GameObject>(definition.ModelResourcePath);
+                 controller = prefab != null ? prefab.GetComponentInChildren<Animator>(true)?.runtimeAnimatorController : null;
+                 controller = controller != null ? controller : library.controller;
+-                displayName = Escape.Companions.CompanionChipCatalog.Find(companionId)?.DisplayName;
++                displayName = definition.DisplayName;
+             }
+             else if (companionId == null)
+             {
+--- FrontEndController.before.cs
++++ FrontEndController.cs
+@@ -41,7 +41,9 @@
+ 
+         public void Initialize(SessionTestWorld owner,InventoryTestWorld inventoryUI)
+         {
+-            world=owner;bagUI=inventoryUI;SetPage(FrontPage.Title);
++            world=owner;bagUI=inventoryUI;
++            gameObject.AddComponent<TitleRosterPresentation>().Initialize(this,owner);
++            SetPage(FrontPage.Title);
+         }
+         void SetPage(FrontPage page)
+         {
+@@ -222,11 +224,13 @@
+             UiTheme.Text(new Rect(left,panel.yMax-84,width,58),Message,FigmaGameSkin.Body,UiTheme.Muted);
+             if(bagUI!=null && bagUI.PortraitTexture!=null)
+                 GUI.DrawTexture(TitleCharacterRect,bagUI.PortraitTexture,ScaleMode.ScaleToFit,true);
++            GetComponent<TitleRosterPresentation>()?.DrawControls();
+             HandleTitlePortraitInput(TitleCharacterRect);
+         }
+         void HandleTitlePortraitInput(Rect rect)
+         {
+             var current=Event.current;
++            if(!titlePortraitDragging && TitleRosterPresentation.ControlsRect.Contains(current.mousePosition))return;
+             if(titlePortraitDragging && GUIUtility.hotControl!=titlePortraitControl){ReleaseTitlePortraitCapture();return;}
+             if(!titlePortraitDragging && GUIUtility.hotControl==0 && current.type==EventType.MouseDown && current.button==0 && rect.Contains(current.mousePosition))
+             {
+--- TitleRosterPresentation.before.cs
++++ TitleRosterPresentation.cs
+@@ -0,0 +1,70 @@
++using Escape.Companions;
++using Escape.Stage;
++using Escape.Visuals;
++using UnityEngine;
++
++namespace Escape.UI
++{
++    // Cosmetic title preview only. Never equips a chip or writes profile/save data.
++    [DefaultExecutionOrder(100)]
++    public sealed class TitleRosterPresentation : MonoBehaviour
++    {
++        FrontEndController front;
++        SessionTestWorld world;
++        SdCharacterVisual visual;
++        object originalSession;
++        string originalId;
++        bool previewing;
++        int index=-1,pendingDirection;
++        readonly System.Random random=new System.Random();
++        public static Rect ControlsRect=>FigmaInventoryLayout.Rect(1120,976,460,40);
++        public string DisplayedCharacterId=>previewing && visual!=null?visual.CurrentCompanionId:null;
++        public void Initialize(FrontEndController controller,SessionTestWorld owner){front=controller;world=owner;}
++        void LateUpdate()
++        {
++            bool visible=front!=null && front.isActiveAndEnabled && front.Page==FrontPage.Title && world!=null && !world.StoryPlaying;
++            if(!visible){Restore();return;}
++            if(previewing){if(pendingDirection!=0){int direction=pendingDirection;pendingDirection=0;Step(direction);}return;}
++            visual=world.Inventory.Player.GetComponent<SdCharacterVisual>();
++            if(visual==null)return;
++            originalId=visual.CurrentCompanionId;originalSession=world.Session;
++            previewing=true;
++            int count=CompanionChipCatalog.All.Count;
++            if(count>0)ShowFrom(random.Next(count),1);
++        }
++        public bool Step(int direction)
++        {
++            if(!previewing || front.Page!=FrontPage.Title)return false;
++            return ShowFrom(index+(direction<0?-1:1),direction<0?-1:1);
++        }
++        bool ShowFrom(int start,int direction)
++        {
++            var roster=CompanionChipCatalog.All;
++            for(int n=0;n<roster.Count;n++)
++            {
++                int candidate=((start+n*direction)%roster.Count+roster.Count)%roster.Count;
++                var entry=roster[candidate];
++                if(string.IsNullOrEmpty(entry.ModelResourcePath) || Resources.Load<GameObject>(entry.ModelResourcePath)==null)continue;
++                if(visual.ApplyCompanion(entry.Id)){index=candidate;return true;}
++            }
++            return false;
++        }
++        void Restore()
++        {
++            if(!previewing)return;
++            previewing=false;index=-1;pendingDirection=0;
++            // A newly loaded profile already owns the actor's appearance; do not overwrite it.
++            if(visual!=null && world!=null && ReferenceEquals(originalSession,world.Session))visual.ApplyCompanion(world.Session!=null?world.Session.SelectedCompanionId:originalId);
++        }
++        void OnDisable(){if(Application.isPlaying && visual!=null && visual.gameObject.activeInHierarchy)Restore();}
++        public void DrawControls()
++        {
++            if(!previewing || front==null || front.Page!=FrontPage.Title || world==null || world.StoryPlaying)return;
++            var rect=ControlsRect;
++            string name=CompanionChipCatalog.Find(DisplayedCharacterId)?.DisplayName??"";
++            UiTheme.Text(new Rect(rect.x+60,rect.y,rect.width-120,rect.height),name,FigmaGameSkin.Heading);
++            if(FigmaGameSkin.Pill(new Rect(rect.x,rect.y,48,40),"‹"))pendingDirection=-1;
++            if(FigmaGameSkin.Pill(new Rect(rect.xMax-48,rect.y,48,40),"›"))pendingDirection=1;
++        }
++    }
++}

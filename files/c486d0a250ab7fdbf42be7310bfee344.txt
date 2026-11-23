@@ -1,0 +1,11 @@
+V16 actual PlayerMotor core and new carport traversal tests
+2026-09-24 오전 9:45:56
+PASS G1 enter steps=31 (-169.00, 4.02, 115.90) -> (-169.00, 4.02, 120.03)
+PASS G1 exit steps=31 (-169.00, 4.02, 120.10) -> (-169.00, 4.02, 115.97)
+PASS G2 enter steps=31 (174.90, 3.06, -4.00) -> (179.03, 3.02, -4.00)
+PASS G2 exit steps=31 (179.10, 3.06, -4.00) -> (174.97, 3.02, -4.00)
+PASS G3 enter steps=31 (129.90, 12.06, 106.00) -> (134.03, 12.02, 106.00)
+PASS G3 exit steps=31 (134.10, 12.06, 106.00) -> (129.97, 12.02, 106.00)
+PASS SteelCarport clear opening enter steps=49 (28.58, -0.06, -139.23) -> (35.11, -0.08, -139.00)
+PASS SteelCarport clear opening return steps=49 (35.18, -0.06, -139.00) -> (28.65, -0.08, -139.23)
+RESULT PASS

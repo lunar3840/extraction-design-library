@@ -1,0 +1,2 @@
+2026-10-07 오후 4:55:26
+Unvalidated working scene saved only to recover editor rendering. Original scene backup retained; production prefab remains original D02. This is not final acceptance.

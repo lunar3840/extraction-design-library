@@ -1,0 +1,96 @@
+Actual last successful script-assembly reload after temporary helpers were removed. Earlier diagnostics remain in session log.
+Reloading assemblies after finishing script compilation.
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+Total cache size 268409013
+Total cache size after purge 268409013, took 00:00:00.2796981
+- Loaded All Assemblies, in  1.568 seconds
+Refreshing native plugins compatible for Editor in 1.92 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+Cannot add menu item 'Escape/Stage A/Run Density V04 Shot Checks' for method 'Escape.Tests.StageAMachineRolesChecks.RunShotChecks' because a menu item with the same name already exists.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEditor.MenuItemScriptCommand:Update (UnityEditor.MenuItem,System.Reflection.MethodInfo)
+UnityEditor.MenuService:ExtractMenuItemsFromAttributes ()
+UnityEditor.MenuService:GetMenuItemsFromAttributesById (string)
+UnityEditor.MenuService:GetMenuItemsFromAttributes ()
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.713 seconds
+Domain Reload Profiling: 4282ms
+	BeginReloadAssembly (1135ms)
+		ExecutionOrderSort (1ms)
+		DisableScriptedObjects (52ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (25ms)
+		CreateAndSetChildDomain (450ms)
+	RebuildCommonClasses (100ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (284ms)
+		LoadAssemblies (224ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (207ms)
+			TypeCache.Refresh (23ms)
+				TypeCache.ScanAssembly (10ms)
+			BuildScriptInfoCaches (168ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (2714ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1488ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (45ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (443ms)
+			ProcessInitializeOnLoadAttributes (918ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (2ms)
+		AwakeInstancesAfterBackupRestoration (554ms)
+Asset Pipeline Refresh (id=7cb329851b2ae2c4f83afce45a83cee1): Total: 4.618 seconds - Initiated by StopAssetImportingV2(ForceSynchronousImport | ForceDomainReload)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=2962 ms
+		Asset DB Callback time: managed=67 ms, native=0 ms
+		Scripting: domain reloads=1, domain reload time=1586 ms, compile time=1 ms, other=0 ms
+		Project Asset Count: scripts=2090, non-scripts=14195
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokeCustomDependenciesCallbacks: 0.003ms
+	InvokePackagesCallback: 2.619ms
+	ApplyChangesToAssetFolders: 0.749ms
+	Scan: 0.001ms
+	OnSourceAssetsModified: 0.002ms
+	CategorizeAssetsWithTransientArtifact: 0.003ms
+	ProcessAssetsWithTransientArtifactChanges: 9.469ms
+	CategorizeAssets: 147.103ms
+	ImportOutOfDateAssets: 2730.924ms (2717.677ms without children)
+		CompileScripts: 1.260ms
+		CollectScriptTypesHashes: 3.272ms
+		ReloadNativeAssets: 5.960ms
+		UnloadImportedAssets: 0.003ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 2.039ms
+		InitializingProgressBar: 0.001ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.001ms
+		OnDemandSchedulerStart: 0.711ms
+	PostProcessAllAssets: 67.620ms
+	GatherAllCurrentPrimaryArtifactRevisions: 1.500ms
+	UnloadStreamsBegin: 0.003ms
+	PersistCurrentRevisions: 0.681ms
+	UnloadStreamsEnd: 0.005ms
+	GenerateScriptTypeHashes: 3.638ms
+	Untracked: 1657.438ms
+
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "2ZuQDuij"... (expires: 2027-10-29T13:01:46Z)
+[Licensing::Client] Successfully resolved entitlement details
+UPID Received '3d368e1e-a9e4-4492-af7e-bb350c1816f2'.

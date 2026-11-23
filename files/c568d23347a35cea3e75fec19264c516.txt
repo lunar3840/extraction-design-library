@@ -1,0 +1,80 @@
+using System;
+using Escape.Companions;
+using Escape.Save;
+using Escape.UI;
+using UnityEngine;
+
+namespace Escape.Inventory
+{
+    public sealed partial class InventoryTestWorld
+    {
+        public ProfileSession CompanionSession { get; set; }
+        public Func<string,bool> SelectCompanionChip;
+        bool companionPickerOpen;
+        public bool CompanionPickerOpen => companionPickerOpen;
+        void CloseCompanionPicker(){companionPickerOpen=false;pendingUi=null;}
+        public Rect CompanionChipRect => FullInventoryLayout
+            ? new Rect(330,114,238,70) : new Rect(EquipmentRect.x+12,EquipmentRect.y-44,136,40);
+        public Rect CompanionPickerRect => new Rect(CompanionChipRect.x,CompanionChipRect.yMax+6,300,238);
+        public bool CompanionPointerBlocked(Vector2 point) => CompanionSession!=null &&
+            (CompanionChipRect.Contains(point) || companionPickerOpen && CompanionPickerRect.Contains(point));
+        bool CanEditCompanion => CompanionSession!=null && CompanionSession.CanChangeCompanionChip &&
+            Controller!=null && !Controller.Player.State.MenuLocked && !Controller.Player.SimulationFrozen &&
+            !Controller.Player.State.IsDead && !IsDragging;
+        public bool RequestCompanionChip(string id)
+        {
+            var expected=CompanionSession;
+            if(!CanEditCompanion || SelectCompanionChip==null)return false;
+            bool changed=SelectCompanionChip(id);
+            if(ReferenceEquals(expected,CompanionSession))
+                message=changed?string.IsNullOrEmpty(id)?"동료 칩을 해제했습니다. 정화된 칩은 동료 목록에서 보관합니다.":"동료 칩 장착 · "+CompanionChipCatalog.Find(id).DisplayName:
+                    CompanionSession.LastCompanionError??"동료 칩을 변경하지 못했습니다.";
+            companionPickerOpen=!changed;
+            return changed;
+        }
+        void DrawCompanionChips()
+        {
+            if(CompanionSession==null)return;
+            int oldDepth=GUI.depth;GUI.depth=-35;
+            var slot=CompanionChipRect;var current=CompanionSession.SelectedCompanionChip;
+            bool editable=CanEditCompanion;
+            if(UiTheme.Press(slot,"",!IsDragging,UiTheme.InventoryCard))
+            { if(companionPickerOpen)CloseCompanionPicker();else companionPickerOpen=true; }
+            UiTheme.Text(new Rect(slot.x+10,slot.y+5,slot.width-20,17),"동료 칩 · 현현 소켓",UiTheme.InventoryCaption,Gold);
+            UiTheme.Text(new Rect(slot.x+10,slot.y+25,slot.width-20,20),current?.DisplayName??"미장착 · 기본 신체",UiTheme.InventoryText);
+            if(FullInventoryLayout)UiTheme.Text(new Rect(slot.x+10,slot.y+49,slot.width-20,16),editable?"클릭하여 선택 / 해제":"지상 동기화 잠금 · 탈착 불가",UiTheme.InventoryCaption,editable?UiTheme.Accent:UiTheme.Muted);
+            if(companionPickerOpen)
+            {
+                var session=CompanionSession;
+                var r=CompanionPickerRect;UiTheme.InventoryBox(r);
+                UiTheme.Text(new Rect(r.x+12,r.y+10,r.width-55,22),"동료 칩 선택",UiTheme.InventoryHeading);
+                if(UiTheme.Press(new Rect(r.xMax-34,r.y+9,24,24),"×",true,UiTheme.InventoryButton))CloseCompanionPicker();
+                float y=r.y+42;
+                foreach(var definition in CompanionChipCatalog.All)
+                {
+                    string id=definition.Id;bool chosen=id==CompanionSession.SelectedCompanionId;
+                    if(UiTheme.Press(new Rect(r.x+12,y,r.width-24,38),(chosen?"● ":"○ ")+definition.DisplayName,editable,chosen?UiTheme.InventorySelectedCard:UiTheme.InventoryCard))
+                        Queue(()=>{if(ReferenceEquals(session,CompanionSession))RequestCompanionChip(id);});
+                    y+=44;
+                }
+                if(UiTheme.Press(new Rect(r.x+12,y,r.width-24,30),"칩 해제 · 기본 신체",editable && current!=null,UiTheme.InventoryButton))
+                    Queue(()=>{if(ReferenceEquals(session,CompanionSession))RequestCompanionChip(null);});
+                UiTheme.Text(new Rect(r.x+12,y+37,r.width-24,46),editable?"정화된 칩은 가방에 들어가지 않습니다.\n테스트 동료는 임시 외형입니다.":"지상의 오염 때문에 칩을 뺄 수 없습니다.\n거점 귀환 후 변경할 수 있습니다.",UiTheme.InventoryCaption,UiTheme.Muted);
+                var e=Event.current;
+                if(r.Contains(e.mousePosition) && (e.type==EventType.MouseDown || e.type==EventType.MouseUp || e.type==EventType.ScrollWheel))e.Use();
+            }
+            GUI.depth=oldDepth;
+        }
+        ProfileSession expectedCompanionSession;
+        public void DrawCompanionOverlay()
+        {
+            if(Controller==null || CompanionSession==null || !ShowUI || !ShowInventoryContent || !Controller.Player.State.InventoryOpen || Controller.Player.MapInputBlocked)return;
+            using(UiTheme.Begin())using(UiTheme.InventorySurface())
+            { PrepareCompanionPicker();DrawCompanionChips(); }
+        }
+        void PrepareCompanionPicker()
+        {
+            if(!ReferenceEquals(expectedCompanionSession,CompanionSession)){companionPickerOpen=false;expectedCompanionSession=CompanionSession;}
+        }
+    }
+}

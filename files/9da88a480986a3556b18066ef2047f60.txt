@@ -1,0 +1,46 @@
+COMBAT01 isolated regression. No natural combat/difficulty claims.
+FAIL hostile NPC intercept real damage/source/events System.InvalidOperationException: hostile intercepted damage=0
+  at AMapCombat01Regression.Intercept (Escape.Player.PlayerSettings settings, System.String mode) [0x00363] in C:\UnityProject\escape\Assets\Escape\Editor\AMapCombat01Regression.cs:170 
+  at AMapCombat01Regression+<>c__DisplayClass6_0.<Run>b__0 () [0x00000] in C:\UnityProject\escape\Assets\Escape\Editor\AMapCombat01Regression.cs:33 
+  at AMapCombat01Regression.Case (System.String label, System.Action action) [0x00000] in C:\UnityProject\escape\Assets\Escape\Editor\AMapCombat01Regression.cs:53 
+INTERCEPT ally sample=1 damage=0 playerEvidence=0 events=0
+INTERCEPT ally sample=2 damage=0 playerEvidence=0 events=0
+INTERCEPT ally sample=3 damage=0 playerEvidence=0 events=0
+INTERCEPT ally sample=4 damage=0 playerEvidence=0 events=0
+INTERCEPT ally sample=5 damage=0 playerEvidence=0 events=0
+PASS same faction intercept remains harmless and blocks penetration
+INTERCEPT wall sample=1 damage=0 playerEvidence=0 events=0
+INTERCEPT wall sample=2 damage=0 playerEvidence=0 events=0
+INTERCEPT wall sample=3 damage=0 playerEvidence=0 events=0
+INTERCEPT wall sample=4 damage=0 playerEvidence=0 events=0
+INTERCEPT wall sample=5 damage=0 playerEvidence=0 events=0
+PASS partial wall intercept remains solid and harmless
+INTERCEPT legacy sample=1 damage=0 playerEvidence=0 events=0
+INTERCEPT legacy sample=2 damage=0 playerEvidence=0 events=0
+INTERCEPT legacy sample=3 damage=0 playerEvidence=0 events=0
+INTERCEPT legacy sample=4 damage=0 playerEvidence=0 events=0
+INTERCEPT legacy sample=5 damage=0 playerEvidence=0 events=0
+PASS legacy actor still damages only its chosen player
+FAIL player chosen/NPC struck does not invent player damage evidence System.InvalidOperationException: chosenPlayer intercepted damage=0
+  at AMapCombat01Regression.Intercept (Escape.Player.PlayerSettings settings, System.String mode) [0x00363] in C:\UnityProject\escape\Assets\Escape\Editor\AMapCombat01Regression.cs:170 
+  at AMapCombat01Regression+<>c__DisplayClass6_0.<Run>b__4 () [0x00000] in C:\UnityProject\escape\Assets\Escape\Editor\AMapCombat01Regression.cs:37 
+  at AMapCombat01Regression.Case (System.String label, System.Action action) [0x00000] in C:\UnityProject\escape\Assets\Escape\Editor\AMapCombat01Regression.cs:53 
+FAIL NPC chosen/player struck records actual player damage evidence System.InvalidOperationException: struckPlayer intercepted damage=0
+  at AMapCombat01Regression.Intercept (Escape.Player.PlayerSettings settings, System.String mode) [0x00363] in C:\UnityProject\escape\Assets\Escape\Editor\AMapCombat01Regression.cs:170 
+  at AMapCombat01Regression+<>c__DisplayClass6_0.<Run>b__5 () [0x00000] in C:\UnityProject\escape\Assets\Escape\Editor\AMapCombat01Regression.cs:38 
+  at AMapCombat01Regression.Case (System.String label, System.Action action) [0x00000] in C:\UnityProject\escape\Assets\Escape\Editor\AMapCombat01Regression.cs:53 
+PASS self colliders ignored; one first hit despite overlapping hitboxes
+PASS full wall visibility blocks firing and ammo use
+FAIL intercept fatal damage once; NPC kill never earns player credit System.InvalidOperationException: fatal attribution/event mismatch
+  at AMapCombat01Regression.FatalIntercept (Escape.Player.PlayerSettings settings) [0x00143] in C:\UnityProject\escape\Assets\Escape\Editor\AMapCombat01Regression.cs:219 
+  at AMapCombat01Regression+<>c__DisplayClass6_0.<Run>b__8 () [0x00000] in C:\UnityProject\escape\Assets\Escape\Editor\AMapCombat01Regression.cs:41 
+  at AMapCombat01Regression.Case (System.String label, System.Action action) [0x00000] in C:\UnityProject\escape\Assets\Escape\Editor\AMapCombat01Regression.cs:53 
+PRODUCTION named=False damage=6.5 events=1
+PRODUCTION named=True damage=26.40234 events=6
+PASS production human AR and named shotgun damage/pellets
+PASS existing Enemy
+PASS existing Combat
+PASS existing Encounter
+PASS existing Faction
+PASS existing MachineRole
+RESULT FAIL groupsPassed=11 groupsFailed=4

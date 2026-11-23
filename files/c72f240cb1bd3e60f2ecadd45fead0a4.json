@@ -1,0 +1,98 @@
+{
+  "files": [
+    {
+      "file": "before_edel16.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "bytes": 2339496,
+      "sha256": "fa377bff7284483f99d3a774491a2dff4852300cb84f2be8d0baf099a3a85378",
+      "decodePassed": true
+    },
+    {
+      "file": "after_edel16.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "bytes": 2336940,
+      "sha256": "199b4dda9672ed303cfaec491ed31c333520ea77705802dec65e2344565eb3e1",
+      "decodePassed": true
+    },
+    {
+      "file": "before_serin16.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "bytes": 2305455,
+      "sha256": "7012987855d47378e7de0ca98c1b123ccf7b4b6cff9937aa92c6f9632a7576c7",
+      "decodePassed": true
+    },
+    {
+      "file": "after_serin16.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "bytes": 2294644,
+      "sha256": "1f5afebf294255c6d9b46fc546bcbbd542f65496168441472629d1c69f1b04d1",
+      "decodePassed": true
+    },
+    {
+      "file": "structure_study_edel16.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "bytes": 2354240,
+      "sha256": "401d31fe5a9c6d7ddee5f26de820411c1de5d068292c8acf3a07fdae4f2e25ef",
+      "decodePassed": true
+    }
+  ],
+  "beforeCopiesMatchPreviousFinal": {
+    "edel": true,
+    "serin": true
+  },
+  "productCodes": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "S1",
+    "S2",
+    "S3",
+    "S4"
+  ],
+  "productCount": 16,
+  "finalCharacterOutfitViews": 32,
+  "auxiliaryGrayStudyViews": 16,
+  "manualVisualReview": {
+    "status": "completed",
+    "reviewedBy": "primary agent",
+    "scope": [
+      "All16 cells/codes in both final posters; full hair and feet visible",
+      "Lavender braided Edel and brown ponytail Serin identity directions",
+      "Same-code product correspondence across character posters",
+      "C rough cloth/flat scrap, B rounded shell/apron, A squared plates/boxes, S asymmetric curved shell/leaf hip panels",
+      "Heavy column protection and maintenance column tools/spare panels",
+      "Gray-equipment study inspected before color transfer"
+    ],
+    "limitations": [
+      "Visual concept assessment; user approval pending",
+      "No measured material equality, player recognition test or exact mesh/body correspondence",
+      "Generated small details vary between character representations",
+      "No Unity/Blender or actual equipment fit/physics checks"
+    ]
+  },
+  "productionAssetsModified": false
+}

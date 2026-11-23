@@ -1,0 +1,315 @@
+{
+  "candidate_sha256": "fb092cefcf962954540e41b5e4320f7123484fee49da4294f07b25ca9b04ecd8",
+  "method": "Actual saved Blender bone matrices at node\u00b10.75 native frames; velocities normalized to nominal3.528s. Not live-game measurement.",
+  "rows": [
+    {
+      "window": "initial_release",
+      "node_native_frame": 35.995015223504524,
+      "before": {
+        "linear_m_s": 0.0,
+        "angular_rad_s": 6.0821062106697354e-06
+      },
+      "after": {
+        "linear_m_s": 0.0786646232008934,
+        "angular_rad_s": 0.03329027071595192
+      },
+      "borders": [
+        {
+          "frame": 21.738813400268555,
+          "incremental_velocity_discontinuity_m_s": 0.00011730741778858348
+        },
+        {
+          "frame": 51.099327087402344,
+          "incremental_velocity_discontinuity_m_s": 3.894439669963974e-05
+        }
+      ]
+    },
+    {
+      "window": "first_corridor",
+      "node_native_frame": 105.3293031393209,
+      "before": {
+        "linear_m_s": 0.0004022475332021713,
+        "angular_rad_s": 2.385047197341919
+      },
+      "after": {
+        "linear_m_s": 0.05582330748438835,
+        "angular_rad_s": 2.6737253665924072
+      },
+      "borders": [
+        {
+          "frame": 85.2113265991211,
+          "incremental_velocity_discontinuity_m_s": 1.3594563824235114e-05
+        },
+        {
+          "frame": 125.02494049072266,
+          "incremental_velocity_discontinuity_m_s": 2.8690401050297804e-05
+        }
+      ]
+    },
+    {
+      "window": "magazine_approach",
+      "node_native_frame": 174.4433923216081,
+      "before": {
+        "linear_m_s": 0.04692025110125542,
+        "angular_rad_s": 0.7808166146278381
+      },
+      "after": {
+        "linear_m_s": 0.21518965065479279,
+        "angular_rad_s": 1.151842474937439
+      },
+      "borders": [
+        {
+          "frame": 155.81021118164062,
+          "incremental_velocity_discontinuity_m_s": 2.787357298650693e-05
+        },
+        {
+          "frame": 193.07516479492188,
+          "incremental_velocity_discontinuity_m_s": 1.3931349756858127e-05
+        }
+      ]
+    },
+    {
+      "window": "discard_withdraw",
+      "node_native_frame": 277.31226601659034,
+      "before": {
+        "linear_m_s": 0.03057294338941574,
+        "angular_rad_s": 0.12116845697164536
+      },
+      "after": {
+        "linear_m_s": 0.18917866051197052,
+        "angular_rad_s": 0.753563404083252
+      },
+      "borders": [
+        {
+          "frame": 262.0606994628906,
+          "incremental_velocity_discontinuity_m_s": 0.000150507612610549
+        },
+        {
+          "frame": 292.13397216796875,
+          "incremental_velocity_discontinuity_m_s": 0.0004710001388519908
+        }
+      ]
+    },
+    {
+      "window": "pouch_outer",
+      "node_native_frame": 325.75624438371744,
+      "before": {
+        "linear_m_s": 0.041539255529642105,
+        "angular_rad_s": 0.22836123406887054
+      },
+      "after": {
+        "linear_m_s": 0.2396537810564041,
+        "angular_rad_s": 1.4208928346633911
+      },
+      "borders": [
+        {
+          "frame": 306.1868591308594,
+          "incremental_velocity_discontinuity_m_s": 0.00015542330652213574
+        },
+        {
+          "frame": 345.7546691894531,
+          "incremental_velocity_discontinuity_m_s": 0.0006294116919684796
+        }
+      ]
+    },
+    {
+      "window": "pouch_turn",
+      "node_native_frame": 398.2720020507973,
+      "before": {
+        "linear_m_s": 0.029238998889923096,
+        "angular_rad_s": 0.5995110273361206
+      },
+      "after": {
+        "linear_m_s": 0.14394348859786987,
+        "angular_rad_s": 3.0813825130462646
+      },
+      "borders": [
+        {
+          "frame": 378.7760314941406,
+          "incremental_velocity_discontinuity_m_s": 0.0006480841575046859
+        },
+        {
+          "frame": 418.626708984375,
+          "incremental_velocity_discontinuity_m_s": 0.00023727458636363407
+        }
+      ]
+    },
+    {
+      "window": "pouch_above",
+      "node_native_frame": 456.89574334424583,
+      "before": {
+        "linear_m_s": 0.06550117582082748,
+        "angular_rad_s": 0.3564254343509674
+      },
+      "after": {
+        "linear_m_s": 0.2378460317850113,
+        "angular_rad_s": 1.3756598234176636
+      },
+      "borders": [
+        {
+          "frame": 438.3634033203125,
+          "incremental_velocity_discontinuity_m_s": 0.0003410341743479524
+        },
+        {
+          "frame": 475.3713684082031,
+          "incremental_velocity_discontinuity_m_s": 7.91388800945428e-05
+        }
+      ]
+    },
+    {
+      "window": "withdraw_top",
+      "node_native_frame": 611.8187783520153,
+      "before": {
+        "linear_m_s": 0.05404375493526459,
+        "angular_rad_s": 0.4722442924976349
+      },
+      "after": {
+        "linear_m_s": 0.17012180387973785,
+        "angular_rad_s": 1.5887500047683716
+      },
+      "borders": [
+        {
+          "frame": 592.1165771484375,
+          "incremental_velocity_discontinuity_m_s": 8.601396769367843e-06
+        },
+        {
+          "frame": 632.1764526367188,
+          "incremental_velocity_discontinuity_m_s": 0.000722988455221343
+        }
+      ]
+    },
+    {
+      "window": "carry_via",
+      "node_native_frame": 694.4222982753622,
+      "before": {
+        "linear_m_s": 0.021598219871520996,
+        "angular_rad_s": 0.3999139070510864
+      },
+      "after": {
+        "linear_m_s": 0.15845027565956116,
+        "angular_rad_s": 3.010721206665039
+      },
+      "borders": [
+        {
+          "frame": 673.636962890625,
+          "incremental_velocity_discontinuity_m_s": 0.0006160517168042785
+        },
+        {
+          "frame": 714.8699951171875,
+          "incremental_velocity_discontinuity_m_s": 0.0010969132742910963
+        }
+      ]
+    },
+    {
+      "window": "carry_outer",
+      "node_native_frame": 763.82482587727,
+      "before": {
+        "linear_m_s": 0.015995515510439873,
+        "angular_rad_s": 0.20322436094284058
+      },
+      "after": {
+        "linear_m_s": 0.2619834542274475,
+        "angular_rad_s": 3.2308990955352783
+      },
+      "borders": [
+        {
+          "frame": 744.523681640625,
+          "incremental_velocity_discontinuity_m_s": 0.0022612656574891522
+        },
+        {
+          "frame": 782.2050170898438,
+          "incremental_velocity_discontinuity_m_s": 0.0009119435933301187
+        }
+      ]
+    },
+    {
+      "window": "insert_transition",
+      "node_native_frame": 819.223642461661,
+      "before": {
+        "linear_m_s": 3.400000650799484e-06,
+        "angular_rad_s": 5.313147266861051e-05
+      },
+      "after": {
+        "linear_m_s": 0.12629272043704987,
+        "angular_rad_s": 0.9391067624092102
+      },
+      "borders": [
+        {
+          "frame": 802.1719970703125,
+          "incremental_velocity_discontinuity_m_s": 0.0004445044110788266
+        },
+        {
+          "frame": 835.3346557617188,
+          "incremental_velocity_discontinuity_m_s": 1.9469398866141568e-05
+        }
+      ]
+    },
+    {
+      "window": "release_return",
+      "node_native_frame": 904.0227946870091,
+      "before": {
+        "linear_m_s": 0.012134063988924026,
+        "angular_rad_s": 0.24832744896411896
+      },
+      "after": {
+        "linear_m_s": 0.22296713292598724,
+        "angular_rad_s": 1.295669674873352
+      },
+      "borders": [
+        {
+          "frame": 885.1962890625,
+          "incremental_velocity_discontinuity_m_s": 2.5794447624527187e-05
+        },
+        {
+          "frame": 922.6376342773438,
+          "incremental_velocity_discontinuity_m_s": 4.257048948541816e-05
+        }
+      ]
+    },
+    {
+      "window": "return_corridor",
+      "node_native_frame": 965.1731917041319,
+      "before": {
+        "linear_m_s": 0.0016659254906699061,
+        "angular_rad_s": 2.5478107929229736
+      },
+      "after": {
+        "linear_m_s": 0.0829930230975151,
+        "angular_rad_s": 2.3304049968719482
+      },
+      "borders": [
+        {
+          "frame": 946.3978881835938,
+          "incremental_velocity_discontinuity_m_s": 6.298436211684403e-05
+        },
+        {
+          "frame": 983.6829223632812,
+          "incremental_velocity_discontinuity_m_s": 4.9052862950779286e-05
+        }
+      ]
+    },
+    {
+      "window": "foregrip_rejoin",
+      "node_native_frame": 1047.1897977630408,
+      "before": {
+        "linear_m_s": 1.0534517059568316e-05,
+        "angular_rad_s": 4.7890545829432085e-05
+      },
+      "after": {
+        "linear_m_s": 0.12319429963827133,
+        "angular_rad_s": 0.10125455260276794
+      },
+      "borders": [
+        {
+          "frame": 1029.292236328125,
+          "incremental_velocity_discontinuity_m_s": 0.00015205144882202148
+        },
+        {
+          "frame": 1064.7149658203125,
+          "incremental_velocity_discontinuity_m_s": 6.139278411865234e-06
+        }
+      ]
+    }
+  ],
+  "limits": "LINEAR baked approximation; finite difference metrics do not certify exact C2 or subjective naturalness."
+}

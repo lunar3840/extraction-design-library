@@ -1,0 +1,2183 @@
+{
+  "schema": "A_MAP_UNITY_MATERIAL_REGION_COMPARISON_1",
+  "actualSource": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-28\\a-map-blender-environment-expansion\\main\\ACTUAL_MATERIAL_REGIONS_639287281727982502.json",
+  "actualSourceSHA256": "134e08f5f2f51766b558603c462930418aafc932b77c02cd4a5693c5dee17b2c",
+  "expectedSourceSHA256": "73e0759e0eeaf214b0479db27fd17bba6f82a34b4c638b1298d380a4116cf85a",
+  "rendererObjects": 271,
+  "materialSlots": 1267,
+  "triangles": 1072849,
+  "maximumAABBErrorMetres": 1.430511474609375e-05,
+  "maximumCentroidErrorMetres": 0.0010855805055385304,
+  "objects": [
+    {
+      "buildingId": "C01",
+      "object": "C01_Shell_renderOpaque",
+      "materialSlots": 11,
+      "triangles": 17418,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 9.414259353324184e-05
+    },
+    {
+      "buildingId": "C01",
+      "object": "C01_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 56,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 7.802789847577429e-07
+    },
+    {
+      "buildingId": "C01",
+      "object": "C01_Roof_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 488,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 7.3909759521484375e-06
+    },
+    {
+      "buildingId": "C01",
+      "object": "C01_Interior_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 528,
+      "maxAABBErrorMetres": 3.1295776352635585e-06,
+      "maxCentroidErrorMetres": 5.9850113384385395e-05
+    },
+    {
+      "buildingId": "C02",
+      "object": "C02_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 11680,
+      "maxAABBErrorMetres": 1.376837531097408e-06,
+      "maxCentroidErrorMetres": 4.5440307432809135e-05
+    },
+    {
+      "buildingId": "C02",
+      "object": "C02_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 40,
+      "maxAABBErrorMetres": 1.0728836059570312e-06,
+      "maxCentroidErrorMetres": 7.62939453125e-06
+    },
+    {
+      "buildingId": "C02",
+      "object": "C02_Roof_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 1436,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 2.557810626679924e-05
+    },
+    {
+      "buildingId": "C02",
+      "object": "C02_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 6.961822509587989e-07,
+      "maxCentroidErrorMetres": 1.226196289749737e-05
+    },
+    {
+      "buildingId": "C03",
+      "object": "C03_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 11408,
+      "maxAABBErrorMetres": 1.913309006340569e-06,
+      "maxCentroidErrorMetres": 5.65006358268505e-05
+    },
+    {
+      "buildingId": "C03",
+      "object": "C03_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 38,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 6.675720202409252e-06
+    },
+    {
+      "buildingId": "C03",
+      "object": "C03_Roof_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 1796,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 3.0142365833225188e-05
+    },
+    {
+      "buildingId": "C03",
+      "object": "C03_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 1.5759468078302419e-06,
+      "maxCentroidErrorMetres": 6.008148175418171e-06
+    },
+    {
+      "buildingId": "C04",
+      "object": "C04_Shell_renderOpaque",
+      "materialSlots": 8,
+      "triangles": 20848,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 0.0001898748855744259
+    },
+    {
+      "buildingId": "C04",
+      "object": "C04_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 36,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 1.9073486328125e-06
+    },
+    {
+      "buildingId": "C04",
+      "object": "C04_Roof_renderOpaque",
+      "materialSlots": 5,
+      "triangles": 1760,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 3.532320252386256e-05
+    },
+    {
+      "buildingId": "C04",
+      "object": "C04_Interior_renderOpaque",
+      "materialSlots": 3,
+      "triangles": 528,
+      "maxAABBErrorMetres": 1.6334533690098851e-06,
+      "maxCentroidErrorMetres": 2.1991431264467565e-05
+    },
+    {
+      "buildingId": "CLINIC",
+      "object": "CLINIC_Shell_renderOpaque",
+      "materialSlots": 10,
+      "triangles": 29752,
+      "maxAABBErrorMetres": 1.1444091796875e-05,
+      "maxCentroidErrorMetres": 0.00031250183199382775
+    },
+    {
+      "buildingId": "CLINIC",
+      "object": "CLINIC_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 48,
+      "maxAABBErrorMetres": 1.1444091796875e-05,
+      "maxCentroidErrorMetres": 2.086162567138672e-05
+    },
+    {
+      "buildingId": "CLINIC",
+      "object": "CLINIC_Roof_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 964,
+      "maxAABBErrorMetres": 9.5367431640625e-06,
+      "maxCentroidErrorMetres": 1.8659390888853267e-05
+    },
+    {
+      "buildingId": "CLINIC",
+      "object": "CLINIC_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 1.2176513671136036e-05,
+      "maxCentroidErrorMetres": 1.5762329093504945e-05
+    },
+    {
+      "buildingId": "E01",
+      "object": "E01_Shell_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 6420,
+      "maxAABBErrorMetres": 6.67572021484375e-06,
+      "maxCentroidErrorMetres": 0.00022098449971696965
+    },
+    {
+      "buildingId": "E01",
+      "object": "E01_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 58,
+      "maxAABBErrorMetres": 5.7220458984375e-06,
+      "maxCentroidErrorMetres": 1.1444091787993216e-05
+    },
+    {
+      "buildingId": "E01",
+      "object": "E01_Roof_renderOpaque",
+      "materialSlots": 3,
+      "triangles": 1044,
+      "maxAABBErrorMetres": 5.7220458984375e-06,
+      "maxCentroidErrorMetres": 0.00010079577319288546
+    },
+    {
+      "buildingId": "E01",
+      "object": "E01_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 5.398559570046757e-06,
+      "maxCentroidErrorMetres": 8.699035651815734e-06
+    },
+    {
+      "buildingId": "E02",
+      "object": "E02_Shell_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 4930,
+      "maxAABBErrorMetres": 5.7220458984375e-06,
+      "maxCentroidErrorMetres": 2.5033950793229565e-05
+    },
+    {
+      "buildingId": "E02",
+      "object": "E02_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 44,
+      "maxAABBErrorMetres": 5.7220458984375e-06,
+      "maxCentroidErrorMetres": 4.768371590913034e-06
+    },
+    {
+      "buildingId": "E02",
+      "object": "E02_Roof_renderOpaque",
+      "materialSlots": 3,
+      "triangles": 1932,
+      "maxAABBErrorMetres": 6.67572021484375e-06,
+      "maxCentroidErrorMetres": 0.00012200936339823443
+    },
+    {
+      "buildingId": "E02",
+      "object": "E02_Interior_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 384,
+      "maxAABBErrorMetres": 5.844116209630101e-06,
+      "maxCentroidErrorMetres": 1.9147848088429953e-05
+    },
+    {
+      "buildingId": "E03",
+      "object": "E03_Shell_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 5520,
+      "maxAABBErrorMetres": 8.58306884765625e-06,
+      "maxCentroidErrorMetres": 0.00019627827913648588
+    },
+    {
+      "buildingId": "E03",
+      "object": "E03_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 50,
+      "maxAABBErrorMetres": 8.58306884765625e-06,
+      "maxCentroidErrorMetres": 8.42412312707097e-06
+    },
+    {
+      "buildingId": "E03",
+      "object": "E03_Roof_renderOpaque",
+      "materialSlots": 3,
+      "triangles": 1932,
+      "maxAABBErrorMetres": 9.5367431640625e-06,
+      "maxCentroidErrorMetres": 6.343368296057861e-05
+    },
+    {
+      "buildingId": "E03",
+      "object": "E03_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 9.007263183313796e-06,
+      "maxCentroidErrorMetres": 9.013621014908324e-06
+    },
+    {
+      "buildingId": "E04",
+      "object": "E04_Shell_renderOpaque",
+      "materialSlots": 7,
+      "triangles": 6896,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 2.3448191093677906e-05
+    },
+    {
+      "buildingId": "E04",
+      "object": "E04_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 40,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 5.722045900213857e-06
+    },
+    {
+      "buildingId": "E04",
+      "object": "E04_Roof_renderOpaque",
+      "materialSlots": 5,
+      "triangles": 1760,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 7.740408180811897e-05
+    },
+    {
+      "buildingId": "E04",
+      "object": "E04_Interior_renderOpaque",
+      "materialSlots": 3,
+      "triangles": 528,
+      "maxAABBErrorMetres": 1.0108947749998265e-06,
+      "maxCentroidErrorMetres": 1.4705657951807893e-05
+    },
+    {
+      "buildingId": "E05",
+      "object": "E05_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 21561,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 0.00010213489906440998
+    },
+    {
+      "buildingId": "E05",
+      "object": "E05_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 40,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 1.049041748046875e-05
+    },
+    {
+      "buildingId": "E05",
+      "object": "E05_Roof_renderOpaque",
+      "materialSlots": 5,
+      "triangles": 2072,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 9.34573735209554e-05
+    },
+    {
+      "buildingId": "E05",
+      "object": "E05_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 1.6372680669007877e-06,
+      "maxCentroidErrorMetres": 6.443786622511993e-06
+    },
+    {
+      "buildingId": "E06",
+      "object": "E06_Shell_renderOpaque",
+      "materialSlots": 8,
+      "triangles": 7441,
+      "maxAABBErrorMetres": 3.814697265625e-06,
+      "maxCentroidErrorMetres": 5.918728951304075e-05
+    },
+    {
+      "buildingId": "E06",
+      "object": "E06_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 38,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 6.67572021484375e-06
+    },
+    {
+      "buildingId": "E06",
+      "object": "E06_Roof_renderOpaque",
+      "materialSlots": 5,
+      "triangles": 1928,
+      "maxAABBErrorMetres": 4.76837158203125e-06,
+      "maxCentroidErrorMetres": 4.419527552190772e-05
+    },
+    {
+      "buildingId": "E06",
+      "object": "E06_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 2.9479980465652034e-06,
+      "maxCentroidErrorMetres": 5.18913270619592e-06
+    },
+    {
+      "buildingId": "E07",
+      "object": "E07_Shell_renderOpaque",
+      "materialSlots": 11,
+      "triangles": 18076,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 0.00011860463356683226
+    },
+    {
+      "buildingId": "E07",
+      "object": "E07_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 54,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 1.3351440388831293e-06
+    },
+    {
+      "buildingId": "E07",
+      "object": "E07_Roof_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 488,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 7.957220064191972e-06
+    },
+    {
+      "buildingId": "E07",
+      "object": "E07_Interior_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 528,
+      "maxAABBErrorMetres": 1.2779235839532888e-06,
+      "maxCentroidErrorMetres": 2.7725913371412503e-05
+    },
+    {
+      "buildingId": "E08",
+      "object": "E08_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 10800,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 3.932795042871362e-05
+    },
+    {
+      "buildingId": "E08",
+      "object": "E08_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 38,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 2.861022940336966e-06
+    },
+    {
+      "buildingId": "E08",
+      "object": "E08_Roof_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 1372,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 4.4610709834636e-05
+    },
+    {
+      "buildingId": "E08",
+      "object": "E08_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 1.316833495579317e-06,
+      "maxCentroidErrorMetres": 5.829366052090279e-06
+    },
+    {
+      "buildingId": "E09",
+      "object": "E09_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 17722,
+      "maxAABBErrorMetres": 4.76837158203125e-06,
+      "maxCentroidErrorMetres": 0.00012577133168267807
+    },
+    {
+      "buildingId": "E09",
+      "object": "E09_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 148,
+      "maxAABBErrorMetres": 4.76837158203125e-06,
+      "maxCentroidErrorMetres": 4.512568315434562e-06
+    },
+    {
+      "buildingId": "E09",
+      "object": "E09_Roof_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 1272,
+      "maxAABBErrorMetres": 4.76837158203125e-06,
+      "maxCentroidErrorMetres": 4.623413089532846e-05
+    },
+    {
+      "buildingId": "E09",
+      "object": "E09_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 4.508209228148985e-06,
+      "maxCentroidErrorMetres": 4.01547749961928e-06
+    },
+    {
+      "buildingId": "E10",
+      "object": "E10_Shell_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 3726,
+      "maxAABBErrorMetres": 4.291534423828125e-06,
+      "maxCentroidErrorMetres": 4.035213462572074e-05
+    },
+    {
+      "buildingId": "E10",
+      "object": "E10_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 44,
+      "maxAABBErrorMetres": 3.337860107421875e-06,
+      "maxCentroidErrorMetres": 3.1181410244940366e-06
+    },
+    {
+      "buildingId": "E10",
+      "object": "E10_Roof_renderOpaque",
+      "materialSlots": 3,
+      "triangles": 1032,
+      "maxAABBErrorMetres": 4.76837158203125e-06,
+      "maxCentroidErrorMetres": 6.975039180368015e-05
+    },
+    {
+      "buildingId": "E10",
+      "object": "E10_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 3.823852539497352e-06,
+      "maxCentroidErrorMetres": 2.9790242468408223e-06
+    },
+    {
+      "buildingId": "E11",
+      "object": "E11_Shell_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 5334,
+      "maxAABBErrorMetres": 4.291534423828125e-06,
+      "maxCentroidErrorMetres": 2.805723357957035e-05
+    },
+    {
+      "buildingId": "E11",
+      "object": "E11_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 52,
+      "maxAABBErrorMetres": 4.291534423828125e-06,
+      "maxCentroidErrorMetres": 1.1444091787993216e-05
+    },
+    {
+      "buildingId": "E11",
+      "object": "E11_Roof_renderOpaque",
+      "materialSlots": 3,
+      "triangles": 1044,
+      "maxAABBErrorMetres": 3.337860107421875e-06,
+      "maxCentroidErrorMetres": 4.373490809950198e-05
+    },
+    {
+      "buildingId": "E11",
+      "object": "E11_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 3.319549560565349e-06,
+      "maxCentroidErrorMetres": 4.920578002831633e-06
+    },
+    {
+      "buildingId": "E12",
+      "object": "E12_Shell_renderOpaque",
+      "materialSlots": 7,
+      "triangles": 4688,
+      "maxAABBErrorMetres": 8.58306884765625e-06,
+      "maxCentroidErrorMetres": 5.633895992346316e-05
+    },
+    {
+      "buildingId": "E12",
+      "object": "E12_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 36,
+      "maxAABBErrorMetres": 8.58306884765625e-06,
+      "maxCentroidErrorMetres": 9.536743167615214e-06
+    },
+    {
+      "buildingId": "E12",
+      "object": "E12_Roof_renderOpaque",
+      "materialSlots": 5,
+      "triangles": 2000,
+      "maxAABBErrorMetres": 8.58306884765625e-06,
+      "maxCentroidErrorMetres": 2.7022142495169987e-05
+    },
+    {
+      "buildingId": "E12",
+      "object": "E12_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 7.5134277359723e-06,
+      "maxCentroidErrorMetres": 1.5498860689078242e-05
+    },
+    {
+      "buildingId": "F01",
+      "object": "F01_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 18624,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 0.00017273953105778617
+    },
+    {
+      "buildingId": "F01",
+      "object": "F01_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 136,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 7.592589483462753e-06
+    },
+    {
+      "buildingId": "F01",
+      "object": "F01_Roof_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 1320,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 4.718780514689769e-05
+    },
+    {
+      "buildingId": "F01",
+      "object": "F01_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 2.5840759274586844e-06,
+      "maxCentroidErrorMetres": 2.9655456521560097e-06
+    },
+    {
+      "buildingId": "F02",
+      "object": "F02_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 18572,
+      "maxAABBErrorMetres": 7.62939453125e-06,
+      "maxCentroidErrorMetres": 0.0005403436335402745
+    },
+    {
+      "buildingId": "F02",
+      "object": "F02_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 158,
+      "maxAABBErrorMetres": 7.62939453125e-06,
+      "maxCentroidErrorMetres": 1.3537118548789806e-05
+    },
+    {
+      "buildingId": "F02",
+      "object": "F02_Roof_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 1668,
+      "maxAABBErrorMetres": 6.9141387939453125e-06,
+      "maxCentroidErrorMetres": 6.555788446505062e-05
+    },
+    {
+      "buildingId": "F02",
+      "object": "F02_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 7.5912475576700444e-06,
+      "maxCentroidErrorMetres": 1.083056131356841e-05
+    },
+    {
+      "buildingId": "F03",
+      "object": "F03_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 17890,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 0.00016391890027112055
+    },
+    {
+      "buildingId": "F03",
+      "object": "F03_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 154,
+      "maxAABBErrorMetres": 9.5367431640625e-07,
+      "maxCentroidErrorMetres": 1.7200197475197854e-06
+    },
+    {
+      "buildingId": "F03",
+      "object": "F03_Roof_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 1044,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 2.677300398801208e-05
+    },
+    {
+      "buildingId": "F03",
+      "object": "F03_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 6.103515621802558e-07,
+      "maxCentroidErrorMetres": 3.051757811345368e-06
+    },
+    {
+      "buildingId": "HALL",
+      "object": "HALL_Shell_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 372,
+      "maxAABBErrorMetres": 4.76837158203125e-06,
+      "maxCentroidErrorMetres": 3.947152034911028e-05
+    },
+    {
+      "buildingId": "HALL",
+      "object": "HALL_Roof_renderOpaque",
+      "materialSlots": 5,
+      "triangles": 4062,
+      "maxAABBErrorMetres": 5.7220458984375e-06,
+      "maxCentroidErrorMetres": 0.0010855805055385304
+    },
+    {
+      "buildingId": "HALL",
+      "object": "HALL_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 384,
+      "maxAABBErrorMetres": 3.204345702556566e-06,
+      "maxCentroidErrorMetres": 5.753424846588473e-05
+    },
+    {
+      "buildingId": "N01",
+      "object": "N01_Shell_renderOpaque",
+      "materialSlots": 11,
+      "triangles": 17890,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 0.00020291251084625372
+    },
+    {
+      "buildingId": "N01",
+      "object": "N01_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 54,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 5.392233520140621e-06
+    },
+    {
+      "buildingId": "N01",
+      "object": "N01_Roof_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 488,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 2.725442254902788e-05
+    },
+    {
+      "buildingId": "N01",
+      "object": "N01_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 1.1032104492159078e-06,
+      "maxCentroidErrorMetres": 2.5893529211895583e-06
+    },
+    {
+      "buildingId": "N02",
+      "object": "N02_Shell_renderOpaque",
+      "materialSlots": 11,
+      "triangles": 17954,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 0.0001197193152639997
+    },
+    {
+      "buildingId": "N02",
+      "object": "N02_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 46,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 5.483627315783224e-06
+    },
+    {
+      "buildingId": "N02",
+      "object": "N02_Roof_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 488,
+      "maxAABBErrorMetres": 3.814697265625e-06,
+      "maxCentroidErrorMetres": 2.804398536060404e-05
+    },
+    {
+      "buildingId": "N02",
+      "object": "N02_Interior_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 528,
+      "maxAABBErrorMetres": 1.6166687011320846e-06,
+      "maxCentroidErrorMetres": 4.278088830034221e-05
+    },
+    {
+      "buildingId": "N03",
+      "object": "N03_Shell_renderOpaque",
+      "materialSlots": 11,
+      "triangles": 17578,
+      "maxAABBErrorMetres": 9.5367431640625e-06,
+      "maxCentroidErrorMetres": 0.00021211530303677506
+    },
+    {
+      "buildingId": "N03",
+      "object": "N03_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 52,
+      "maxAABBErrorMetres": 9.5367431640625e-06,
+      "maxCentroidErrorMetres": 1.624051262716364e-05
+    },
+    {
+      "buildingId": "N03",
+      "object": "N03_Roof_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 488,
+      "maxAABBErrorMetres": 9.5367431640625e-06,
+      "maxCentroidErrorMetres": 1.6462008193940392e-05
+    },
+    {
+      "buildingId": "N03",
+      "object": "N03_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 9.741592407408461e-06,
+      "maxCentroidErrorMetres": 1.6258239751820724e-05
+    },
+    {
+      "buildingId": "N04",
+      "object": "N04_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 4978,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 2.597964652917284e-05
+    },
+    {
+      "buildingId": "N04",
+      "object": "N04_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 60,
+      "maxAABBErrorMetres": 1.1920928955078125e-06,
+      "maxCentroidErrorMetres": 5.310231999011705e-06
+    },
+    {
+      "buildingId": "N04",
+      "object": "N04_Roof_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 708,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 2.0259221357399326e-05
+    },
+    {
+      "buildingId": "N04",
+      "object": "N04_Interior_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 384,
+      "maxAABBErrorMetres": 1.2207031243605115e-06,
+      "maxCentroidErrorMetres": 9.100777764281531e-06
+    },
+    {
+      "buildingId": "N05",
+      "object": "N05_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 4718,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 8.222460741613702e-05
+    },
+    {
+      "buildingId": "N05",
+      "object": "N05_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 60,
+      "maxAABBErrorMetres": 9.5367431640625e-07,
+      "maxCentroidErrorMetres": 1.4738603071329237e-06
+    },
+    {
+      "buildingId": "N05",
+      "object": "N05_Roof_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 464,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 9.538332598424404e-06
+    },
+    {
+      "buildingId": "N05",
+      "object": "N05_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 1.258850097940467e-06,
+      "maxCentroidErrorMetres": 1.2397766155913814e-06
+    },
+    {
+      "buildingId": "N06",
+      "object": "N06_Shell_renderOpaque",
+      "materialSlots": 10,
+      "triangles": 16786,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 0.00019206929709891796
+    },
+    {
+      "buildingId": "N06",
+      "object": "N06_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 62,
+      "maxAABBErrorMetres": 2.384185791015625e-06,
+      "maxCentroidErrorMetres": 3.837403799167305e-06
+    },
+    {
+      "buildingId": "N06",
+      "object": "N06_Roof_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 464,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 1.4901161198288548e-05
+    },
+    {
+      "buildingId": "N06",
+      "object": "N06_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 1.9271850586477512e-06,
+      "maxCentroidErrorMetres": 4.384740193152936e-06
+    },
+    {
+      "buildingId": "N07",
+      "object": "N07_Shell_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 3710,
+      "maxAABBErrorMetres": 9.5367431640625e-07,
+      "maxCentroidErrorMetres": 8.583068852097142e-06
+    },
+    {
+      "buildingId": "N07",
+      "object": "N07_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 26,
+      "maxAABBErrorMetres": 9.5367431640625e-07,
+      "maxCentroidErrorMetres": 2.384185795456517e-06
+    },
+    {
+      "buildingId": "N07",
+      "object": "N07_Roof_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 780,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 4.129263816743389e-05
+    },
+    {
+      "buildingId": "N07",
+      "object": "N07_Interior_renderOpaque",
+      "materialSlots": 3,
+      "triangles": 672,
+      "maxAABBErrorMetres": 7.152557373046875e-07,
+      "maxCentroidErrorMetres": 1.0995864862195504e-05
+    },
+    {
+      "buildingId": "N08",
+      "object": "N08_Shell_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 4992,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 0.00016656615626775562
+    },
+    {
+      "buildingId": "N08",
+      "object": "N08_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 58,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 2.8610229438896795e-06
+    },
+    {
+      "buildingId": "N08",
+      "object": "N08_Roof_renderOpaque",
+      "materialSlots": 3,
+      "triangles": 1932,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 6.343368296057861e-05
+    },
+    {
+      "buildingId": "N08",
+      "object": "N08_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 1.0871887203833808e-06,
+      "maxCentroidErrorMetres": 5.245208730464412e-06
+    },
+    {
+      "buildingId": "N09",
+      "object": "N09_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 11414,
+      "maxAABBErrorMetres": 5.7220458984375e-06,
+      "maxCentroidErrorMetres": 7.634915536058884e-05
+    },
+    {
+      "buildingId": "N09",
+      "object": "N09_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 40,
+      "maxAABBErrorMetres": 4.76837158203125e-06,
+      "maxCentroidErrorMetres": 1.9073486363652137e-06
+    },
+    {
+      "buildingId": "N09",
+      "object": "N09_Roof_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 1436,
+      "maxAABBErrorMetres": 5.7220458984375e-06,
+      "maxCentroidErrorMetres": 5.449126733658716e-05
+    },
+    {
+      "buildingId": "N09",
+      "object": "N09_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 4.463958739542306e-06,
+      "maxCentroidErrorMetres": 2.8344472271513155e-06
+    },
+    {
+      "buildingId": "N10",
+      "object": "N10_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 21837,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 0.000118824392782102
+    },
+    {
+      "buildingId": "N10",
+      "object": "N10_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 28,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 1.0430812831252467e-06
+    },
+    {
+      "buildingId": "N10",
+      "object": "N10_Roof_renderOpaque",
+      "materialSlots": 5,
+      "triangles": 1976,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 3.646276889579525e-05
+    },
+    {
+      "buildingId": "N10",
+      "object": "N10_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 1.7898559576678963e-06,
+      "maxCentroidErrorMetres": 3.0248900263069034e-06
+    },
+    {
+      "buildingId": "N11",
+      "object": "N11_Shell_renderOpaque",
+      "materialSlots": 11,
+      "triangles": 17412,
+      "maxAABBErrorMetres": 6.67572021484375e-06,
+      "maxCentroidErrorMetres": 0.0002583029212477328
+    },
+    {
+      "buildingId": "N11",
+      "object": "N11_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 54,
+      "maxAABBErrorMetres": 5.7220458984375e-06,
+      "maxCentroidErrorMetres": 6.039937337831702e-06
+    },
+    {
+      "buildingId": "N11",
+      "object": "N11_Roof_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 488,
+      "maxAABBErrorMetres": 6.67572021484375e-06,
+      "maxCentroidErrorMetres": 8.702278125660712e-06
+    },
+    {
+      "buildingId": "N11",
+      "object": "N11_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 5.704116821103611e-06,
+      "maxCentroidErrorMetres": 6.932667890868771e-06
+    },
+    {
+      "buildingId": "N12",
+      "object": "N12_Shell_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 5798,
+      "maxAABBErrorMetres": 8.58306884765625e-06,
+      "maxCentroidErrorMetres": 0.00017408991875988988
+    },
+    {
+      "buildingId": "N12",
+      "object": "N12_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 56,
+      "maxAABBErrorMetres": 9.5367431640625e-06,
+      "maxCentroidErrorMetres": 7.629394543684498e-06
+    },
+    {
+      "buildingId": "N12",
+      "object": "N12_Roof_renderOpaque",
+      "materialSlots": 3,
+      "triangles": 1044,
+      "maxAABBErrorMetres": 9.5367431640625e-06,
+      "maxCentroidErrorMetres": 4.024090970133898e-05
+    },
+    {
+      "buildingId": "N12",
+      "object": "N12_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 7.74612426734933e-06,
+      "maxCentroidErrorMetres": 9.920501715221519e-06
+    },
+    {
+      "buildingId": "N13",
+      "object": "N13_Shell_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 5242,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 5.159296859647e-05
+    },
+    {
+      "buildingId": "N13",
+      "object": "N13_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 40,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 7.629394520591859e-06
+    },
+    {
+      "buildingId": "N13",
+      "object": "N13_Roof_renderOpaque",
+      "materialSlots": 3,
+      "triangles": 1032,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 7.580069519175225e-05
+    },
+    {
+      "buildingId": "N13",
+      "object": "N13_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 2.339696884179343e-06,
+      "maxCentroidErrorMetres": 8.765920005870953e-06
+    },
+    {
+      "buildingId": "N14",
+      "object": "N14_Shell_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 4080,
+      "maxAABBErrorMetres": 9.5367431640625e-07,
+      "maxCentroidErrorMetres": 1.2221967058856364e-05
+    },
+    {
+      "buildingId": "N14",
+      "object": "N14_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 42,
+      "maxAABBErrorMetres": 9.5367431640625e-07,
+      "maxCentroidErrorMetres": 2.334515255775216e-06
+    },
+    {
+      "buildingId": "N14",
+      "object": "N14_Roof_renderOpaque",
+      "materialSlots": 3,
+      "triangles": 1932,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 4.82663175782605e-05
+    },
+    {
+      "buildingId": "N14",
+      "object": "N14_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 5.71385026015836e-07,
+      "maxCentroidErrorMetres": 2.3651123068901825e-06
+    },
+    {
+      "buildingId": "N15",
+      "object": "N15_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 11410,
+      "maxAABBErrorMetres": 5.245208740234375e-06,
+      "maxCentroidErrorMetres": 7.253410100105384e-05
+    },
+    {
+      "buildingId": "N15",
+      "object": "N15_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 40,
+      "maxAABBErrorMetres": 3.337860107421875e-06,
+      "maxCentroidErrorMetres": 5.245208740234375e-06
+    },
+    {
+      "buildingId": "N15",
+      "object": "N15_Roof_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 1292,
+      "maxAABBErrorMetres": 4.291534423828125e-06,
+      "maxCentroidErrorMetres": 2.612386437483849e-05
+    },
+    {
+      "buildingId": "N15",
+      "object": "N15_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 4.096984863366515e-06,
+      "maxCentroidErrorMetres": 6.23302459756836e-06
+    },
+    {
+      "buildingId": "N16",
+      "object": "N16_Shell_renderOpaque",
+      "materialSlots": 8,
+      "triangles": 4384,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 2.033321798178278e-05
+    },
+    {
+      "buildingId": "N16",
+      "object": "N16_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 38,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 4.549821204236082e-06
+    },
+    {
+      "buildingId": "N16",
+      "object": "N16_Roof_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 1598,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 4.91331066960754e-05
+    },
+    {
+      "buildingId": "N16",
+      "object": "N16_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 1.1825561516687344e-06,
+      "maxCentroidErrorMetres": 8.138020825221304e-06
+    },
+    {
+      "buildingId": "N17",
+      "object": "N17_Shell_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 4142,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 1.3233623447739262e-05
+    },
+    {
+      "buildingId": "N17",
+      "object": "N17_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 32,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 2.8610229545478205e-06
+    },
+    {
+      "buildingId": "N17",
+      "object": "N17_Roof_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 780,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 5.190713065061914e-05
+    },
+    {
+      "buildingId": "N17",
+      "object": "N17_Interior_renderOpaque",
+      "materialSlots": 3,
+      "triangles": 636,
+      "maxAABBErrorMetres": 8.583068851208964e-07,
+      "maxCentroidErrorMetres": 1.2927055362155215e-05
+    },
+    {
+      "buildingId": "PARTS",
+      "object": "PARTS_Shell_renderOpaque",
+      "materialSlots": 7,
+      "triangles": 21075,
+      "maxAABBErrorMetres": 9.5367431640625e-06,
+      "maxCentroidErrorMetres": 0.00029797688023514013
+    },
+    {
+      "buildingId": "PARTS",
+      "object": "PARTS_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 30,
+      "maxAABBErrorMetres": 7.62939453125e-06,
+      "maxCentroidErrorMetres": 1.9073486328125e-05
+    },
+    {
+      "buildingId": "PARTS",
+      "object": "PARTS_Roof_renderOpaque",
+      "materialSlots": 5,
+      "triangles": 3344,
+      "maxAABBErrorMetres": 9.5367431640625e-06,
+      "maxCentroidErrorMetres": 0.00015165824039153897
+    },
+    {
+      "buildingId": "PARTS",
+      "object": "PARTS_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 8.285522461903838e-06,
+      "maxCentroidErrorMetres": 3.9260864298285014e-05
+    },
+    {
+      "buildingId": "POWER",
+      "object": "POWER_Shell_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 10902,
+      "maxAABBErrorMetres": 9.5367431640625e-06,
+      "maxCentroidErrorMetres": 0.0004591589296714105
+    },
+    {
+      "buildingId": "POWER",
+      "object": "POWER_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 52,
+      "maxAABBErrorMetres": 7.62939453125e-06,
+      "maxCentroidErrorMetres": 1.335144045810921e-05
+    },
+    {
+      "buildingId": "POWER",
+      "object": "POWER_Roof_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 4992,
+      "maxAABBErrorMetres": 7.62939453125e-06,
+      "maxCentroidErrorMetres": 0.00015594647333916356
+    },
+    {
+      "buildingId": "POWER",
+      "object": "POWER_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 9.01489257998378e-06,
+      "maxCentroidErrorMetres": 2.480773920865431e-05
+    },
+    {
+      "buildingId": "S01",
+      "object": "S01_Shell_renderOpaque",
+      "materialSlots": 10,
+      "triangles": 21034,
+      "maxAABBErrorMetres": 9.5367431640625e-06,
+      "maxCentroidErrorMetres": 0.00031756418909267836
+    },
+    {
+      "buildingId": "S01",
+      "object": "S01_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 36,
+      "maxAABBErrorMetres": 9.5367431640625e-06,
+      "maxCentroidErrorMetres": 8.719308036253537e-06
+    },
+    {
+      "buildingId": "S01",
+      "object": "S01_Roof_renderOpaque",
+      "materialSlots": 5,
+      "triangles": 4335,
+      "maxAABBErrorMetres": 9.5367431640625e-06,
+      "maxCentroidErrorMetres": 4.552207931851626e-05
+    },
+    {
+      "buildingId": "S01",
+      "object": "S01_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 48,
+      "maxAABBErrorMetres": 8.721160888569557e-06,
+      "maxCentroidErrorMetres": 1.0552215574222146e-05
+    },
+    {
+      "buildingId": "S02",
+      "object": "S02_Shell_renderOpaque",
+      "materialSlots": 65,
+      "triangles": 23034,
+      "maxAABBErrorMetres": 4.76837158203125e-06,
+      "maxCentroidErrorMetres": 0.00027275130563175765
+    },
+    {
+      "buildingId": "S02",
+      "object": "S02_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 30,
+      "maxAABBErrorMetres": 3.814697265625e-06,
+      "maxCentroidErrorMetres": 4.473186677067531e-06
+    },
+    {
+      "buildingId": "S02",
+      "object": "S02_Roof_renderOpaque",
+      "materialSlots": 8,
+      "triangles": 5655,
+      "maxAABBErrorMetres": 4.76837158203125e-06,
+      "maxCentroidErrorMetres": 0.0002291817316999456
+    },
+    {
+      "buildingId": "S02",
+      "object": "S02_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 48,
+      "maxAABBErrorMetres": 4.016113280158606e-06,
+      "maxCentroidErrorMetres": 3.7109374932953187e-06
+    },
+    {
+      "buildingId": "S03",
+      "object": "S03_Shell_renderOpaque",
+      "materialSlots": 10,
+      "triangles": 20496,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 8.636845005760563e-05
+    },
+    {
+      "buildingId": "S03",
+      "object": "S03_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 44,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 1.1970599475830124e-06
+    },
+    {
+      "buildingId": "S03",
+      "object": "S03_Roof_renderOpaque",
+      "materialSlots": 5,
+      "triangles": 3874,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 5.657290588736985e-05
+    },
+    {
+      "buildingId": "S03",
+      "object": "S03_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 48,
+      "maxAABBErrorMetres": 8.707046508238392e-07,
+      "maxCentroidErrorMetres": 1.2893676739622606e-06
+    },
+    {
+      "buildingId": "S04",
+      "object": "S04_Shell_renderOpaque",
+      "materialSlots": 10,
+      "triangles": 20946,
+      "maxAABBErrorMetres": 7.62939453125e-06,
+      "maxCentroidErrorMetres": 0.0002784725204083571
+    },
+    {
+      "buildingId": "S04",
+      "object": "S04_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 40,
+      "maxAABBErrorMetres": 6.67572021484375e-06,
+      "maxCentroidErrorMetres": 7.099575466185115e-06
+    },
+    {
+      "buildingId": "S04",
+      "object": "S04_Roof_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 4572,
+      "maxAABBErrorMetres": 8.58306884765625e-06,
+      "maxCentroidErrorMetres": 3.118458073458896e-05
+    },
+    {
+      "buildingId": "S04",
+      "object": "S04_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 48,
+      "maxAABBErrorMetres": 8.05206298792882e-06,
+      "maxCentroidErrorMetres": 6.4323425310597315e-06
+    },
+    {
+      "buildingId": "S05",
+      "object": "S05_Shell_renderOpaque",
+      "materialSlots": 10,
+      "triangles": 21348,
+      "maxAABBErrorMetres": 5.7220458984375e-06,
+      "maxCentroidErrorMetres": 0.0003924282881690999
+    },
+    {
+      "buildingId": "S05",
+      "object": "S05_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 48,
+      "maxAABBErrorMetres": 5.7220458984375e-06,
+      "maxCentroidErrorMetres": 5.006790161465879e-06
+    },
+    {
+      "buildingId": "S05",
+      "object": "S05_Roof_renderOpaque",
+      "materialSlots": 5,
+      "triangles": 5324,
+      "maxAABBErrorMetres": 6.67572021484375e-06,
+      "maxCentroidErrorMetres": 5.734214505803692e-05
+    },
+    {
+      "buildingId": "S05",
+      "object": "S05_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 48,
+      "maxAABBErrorMetres": 5.944824218673261e-06,
+      "maxCentroidErrorMetres": 5.754089357434822e-06
+    },
+    {
+      "buildingId": "S06",
+      "object": "S06_Shell_renderOpaque",
+      "materialSlots": 53,
+      "triangles": 21300,
+      "maxAABBErrorMetres": 7.62939453125e-06,
+      "maxCentroidErrorMetres": 0.0003743195444467773
+    },
+    {
+      "buildingId": "S06",
+      "object": "S06_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 32,
+      "maxAABBErrorMetres": 7.62939453125e-06,
+      "maxCentroidErrorMetres": 6.579173106313618e-06
+    },
+    {
+      "buildingId": "S06",
+      "object": "S06_Roof_renderOpaque",
+      "materialSlots": 8,
+      "triangles": 5065,
+      "maxAABBErrorMetres": 7.62939453125e-06,
+      "maxCentroidErrorMetres": 2.0443828708138767e-05
+    },
+    {
+      "buildingId": "S06",
+      "object": "S06_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 48,
+      "maxAABBErrorMetres": 7.556915283757348e-06,
+      "maxCentroidErrorMetres": 1.0401153570427368e-05
+    },
+    {
+      "buildingId": "S07",
+      "object": "S07_Shell_renderOpaque",
+      "materialSlots": 10,
+      "triangles": 21002,
+      "maxAABBErrorMetres": 3.814697265625e-06,
+      "maxCentroidErrorMetres": 0.00038148202970589296
+    },
+    {
+      "buildingId": "S07",
+      "object": "S07_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 48,
+      "maxAABBErrorMetres": 3.814697265625e-06,
+      "maxCentroidErrorMetres": 2.731879553741212e-06
+    },
+    {
+      "buildingId": "S07",
+      "object": "S07_Roof_renderOpaque",
+      "materialSlots": 5,
+      "triangles": 4310,
+      "maxAABBErrorMetres": 3.814697265625e-06,
+      "maxCentroidErrorMetres": 4.4577651638455507e-05
+    },
+    {
+      "buildingId": "S07",
+      "object": "S07_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 48,
+      "maxAABBErrorMetres": 3.0834197999318746e-06,
+      "maxCentroidErrorMetres": 2.9683828349502672e-06
+    },
+    {
+      "buildingId": "S08",
+      "object": "S08_Shell_renderOpaque",
+      "materialSlots": 10,
+      "triangles": 21048,
+      "maxAABBErrorMetres": 1.1444091796875e-05,
+      "maxCentroidErrorMetres": 0.000193110356091708
+    },
+    {
+      "buildingId": "S08",
+      "object": "S08_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 32,
+      "maxAABBErrorMetres": 9.5367431640625e-06,
+      "maxCentroidErrorMetres": 1.4034907021454046e-05
+    },
+    {
+      "buildingId": "S08",
+      "object": "S08_Roof_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 4747,
+      "maxAABBErrorMetres": 1.1444091796875e-05,
+      "maxCentroidErrorMetres": 4.8655611784631514e-05
+    },
+    {
+      "buildingId": "S08",
+      "object": "S08_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 48,
+      "maxAABBErrorMetres": 1.064910888715076e-05,
+      "maxCentroidErrorMetres": 9.886169434647485e-06
+    },
+    {
+      "buildingId": "S09",
+      "object": "S09_Shell_renderOpaque",
+      "materialSlots": 10,
+      "triangles": 21526,
+      "maxAABBErrorMetres": 1.430511474609375e-05,
+      "maxCentroidErrorMetres": 0.00021255955073185007
+    },
+    {
+      "buildingId": "S09",
+      "object": "S09_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 50,
+      "maxAABBErrorMetres": 1.430511474609375e-05,
+      "maxCentroidErrorMetres": 8.24751677352964e-06
+    },
+    {
+      "buildingId": "S09",
+      "object": "S09_Roof_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 4866,
+      "maxAABBErrorMetres": 1.33514404296875e-05,
+      "maxCentroidErrorMetres": 4.349348129650821e-05
+    },
+    {
+      "buildingId": "S09",
+      "object": "S09_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 48,
+      "maxAABBErrorMetres": 1.428833007821595e-05,
+      "maxCentroidErrorMetres": 1.3294124606488822e-05
+    },
+    {
+      "buildingId": "S10",
+      "object": "S10_Shell_renderOpaque",
+      "materialSlots": 10,
+      "triangles": 21648,
+      "maxAABBErrorMetres": 6.67572021484375e-06,
+      "maxCentroidErrorMetres": 0.0002268816213266689
+    },
+    {
+      "buildingId": "S10",
+      "object": "S10_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 46,
+      "maxAABBErrorMetres": 6.67572021484375e-06,
+      "maxCentroidErrorMetres": 5.523363750120636e-06
+    },
+    {
+      "buildingId": "S10",
+      "object": "S10_Roof_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 5018,
+      "maxAABBErrorMetres": 6.67572021484375e-06,
+      "maxCentroidErrorMetres": 9.190327259206432e-05
+    },
+    {
+      "buildingId": "S10",
+      "object": "S10_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 48,
+      "maxAABBErrorMetres": 6.826782227520312e-06,
+      "maxCentroidErrorMetres": 6.7504882910185415e-06
+    },
+    {
+      "buildingId": "S11",
+      "object": "S11_Shell_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 5054,
+      "maxAABBErrorMetres": 4.76837158203125e-06,
+      "maxCentroidErrorMetres": 6.541432321860441e-05
+    },
+    {
+      "buildingId": "S11",
+      "object": "S11_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 36,
+      "maxAABBErrorMetres": 4.76837158203125e-06,
+      "maxCentroidErrorMetres": 3.8146972620722863e-06
+    },
+    {
+      "buildingId": "S11",
+      "object": "S11_Roof_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 10430,
+      "maxAABBErrorMetres": 5.7220458984375e-06,
+      "maxCentroidErrorMetres": 0.0001459576490221437
+    },
+    {
+      "buildingId": "S11",
+      "object": "S11_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 5.076599119746561e-06,
+      "maxCentroidErrorMetres": 1.1485290517754265e-05
+    },
+    {
+      "buildingId": "S12",
+      "object": "S12_Shell_renderOpaque",
+      "materialSlots": 10,
+      "triangles": 18308,
+      "maxAABBErrorMetres": 2.384185791015625e-06,
+      "maxCentroidErrorMetres": 8.153501475227642e-05
+    },
+    {
+      "buildingId": "S12",
+      "object": "S12_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 48,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 2.0861625669166273e-06
+    },
+    {
+      "buildingId": "S12",
+      "object": "S12_Roof_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 2193,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 2.933461128851178e-05
+    },
+    {
+      "buildingId": "S12",
+      "object": "S12_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 48,
+      "maxAABBErrorMetres": 1.4926910401058535e-06,
+      "maxCentroidErrorMetres": 2.39868163909307e-06
+    },
+    {
+      "buildingId": "TOOLS",
+      "object": "TOOLS_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 10992,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 7.730267653371925e-05
+    },
+    {
+      "buildingId": "TOOLS",
+      "object": "TOOLS_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 24,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 1.430511474609375e-06
+    },
+    {
+      "buildingId": "TOOLS",
+      "object": "TOOLS_Roof_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 1840,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 5.420725395843817e-05
+    },
+    {
+      "buildingId": "TOOLS",
+      "object": "TOOLS_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 1.1992454528320096e-06,
+      "maxCentroidErrorMetres": 1.7007191979168113e-06
+    },
+    {
+      "buildingId": "W01",
+      "object": "W01_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 10922,
+      "maxAABBErrorMetres": 7.62939453125e-06,
+      "maxCentroidErrorMetres": 5.430330762123958e-05
+    },
+    {
+      "buildingId": "W01",
+      "object": "W01_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 34,
+      "maxAABBErrorMetres": 7.62939453125e-06,
+      "maxCentroidErrorMetres": 8.208411079735356e-06
+    },
+    {
+      "buildingId": "W01",
+      "object": "W01_Roof_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 1372,
+      "maxAABBErrorMetres": 7.62939453125e-06,
+      "maxCentroidErrorMetres": 2.561296742165098e-05
+    },
+    {
+      "buildingId": "W01",
+      "object": "W01_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 7.367324829310462e-06,
+      "maxCentroidErrorMetres": 1.0745747881735213e-05
+    },
+    {
+      "buildingId": "W02",
+      "object": "W02_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 10800,
+      "maxAABBErrorMetres": 8.58306884765625e-06,
+      "maxCentroidErrorMetres": 3.3838209812397935e-05
+    },
+    {
+      "buildingId": "W02",
+      "object": "W02_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 42,
+      "maxAABBErrorMetres": 7.62939453125e-06,
+      "maxCentroidErrorMetres": 8.58306884765625e-06
+    },
+    {
+      "buildingId": "W02",
+      "object": "W02_Roof_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 1364,
+      "maxAABBErrorMetres": 8.58306884765625e-06,
+      "maxCentroidErrorMetres": 3.995757898134222e-05
+    },
+    {
+      "buildingId": "W02",
+      "object": "W02_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 8.085632323684422e-06,
+      "maxCentroidErrorMetres": 8.800888061433199e-06
+    },
+    {
+      "buildingId": "W03",
+      "object": "W03_Shell_renderOpaque",
+      "materialSlots": 8,
+      "triangles": 20958,
+      "maxAABBErrorMetres": 9.5367431640625e-06,
+      "maxCentroidErrorMetres": 0.00018607102746059923
+    },
+    {
+      "buildingId": "W03",
+      "object": "W03_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 42,
+      "maxAABBErrorMetres": 8.58306884765625e-06,
+      "maxCentroidErrorMetres": 9.606281917040604e-06
+    },
+    {
+      "buildingId": "W03",
+      "object": "W03_Roof_renderOpaque",
+      "materialSlots": 5,
+      "triangles": 1760,
+      "maxAABBErrorMetres": 1.049041748046875e-05,
+      "maxCentroidErrorMetres": 3.203004595686565e-05
+    },
+    {
+      "buildingId": "W03",
+      "object": "W03_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 8.825683593727263e-06,
+      "maxCentroidErrorMetres": 4.820251467307912e-06
+    },
+    {
+      "buildingId": "W04",
+      "object": "W04_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 11724,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 6.681225919979994e-05
+    },
+    {
+      "buildingId": "W04",
+      "object": "W04_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 40,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 1.6987323769868112e-06
+    },
+    {
+      "buildingId": "W04",
+      "object": "W04_Roof_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 1768,
+      "maxAABBErrorMetres": 3.814697265625e-06,
+      "maxCentroidErrorMetres": 4.691273517298811e-05
+    },
+    {
+      "buildingId": "W04",
+      "object": "W04_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 3.0227661138582107e-06,
+      "maxCentroidErrorMetres": 3.998692831963524e-06
+    },
+    {
+      "buildingId": "W05",
+      "object": "W05_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 11780,
+      "maxAABBErrorMetres": 4.76837158203125e-06,
+      "maxCentroidErrorMetres": 5.0141593487929015e-05
+    },
+    {
+      "buildingId": "W05",
+      "object": "W05_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 34,
+      "maxAABBErrorMetres": 3.814697265625e-06,
+      "maxCentroidErrorMetres": 1.049041748046875e-05
+    },
+    {
+      "buildingId": "W05",
+      "object": "W05_Roof_renderOpaque",
+      "materialSlots": 4,
+      "triangles": 1652,
+      "maxAABBErrorMetres": 4.76837158203125e-06,
+      "maxCentroidErrorMetres": 2.7157011530221098e-05
+    },
+    {
+      "buildingId": "W05",
+      "object": "W05_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 4.127502442941022e-06,
+      "maxCentroidErrorMetres": 4.700342817187675e-06
+    },
+    {
+      "buildingId": "W06",
+      "object": "W06_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 11326,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 3.381201933372324e-05
+    },
+    {
+      "buildingId": "W06",
+      "object": "W06_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 28,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 1.9073486292597863e-06
+    },
+    {
+      "buildingId": "W06",
+      "object": "W06_Roof_renderOpaque",
+      "materialSlots": 3,
+      "triangles": 1620,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 3.570930982377263e-05
+    },
+    {
+      "buildingId": "W06",
+      "object": "W06_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 1.678466798438194e-06,
+      "maxCentroidErrorMetres": 8.392333977980115e-06
+    },
+    {
+      "buildingId": "W07",
+      "object": "W07_Shell_renderOpaque",
+      "materialSlots": 11,
+      "triangles": 17814,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 0.00016044745378884784
+    },
+    {
+      "buildingId": "W07",
+      "object": "W07_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 54,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 3.207297549545629e-06
+    },
+    {
+      "buildingId": "W07",
+      "object": "W07_Roof_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 488,
+      "maxAABBErrorMetres": 3.814697265625e-06,
+      "maxCentroidErrorMetres": 1.0910034154321124e-05
+    },
+    {
+      "buildingId": "W07",
+      "object": "W07_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 3.1295776352635585e-06,
+      "maxCentroidErrorMetres": 5.159886680150549e-06
+    },
+    {
+      "buildingId": "W08",
+      "object": "W08_Shell_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 5232,
+      "maxAABBErrorMetres": 5.7220458984375e-06,
+      "maxCentroidErrorMetres": 9.271793986886934e-05
+    },
+    {
+      "buildingId": "W08",
+      "object": "W08_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 36,
+      "maxAABBErrorMetres": 4.76837158203125e-06,
+      "maxCentroidErrorMetres": 4.291534422051768e-06
+    },
+    {
+      "buildingId": "W08",
+      "object": "W08_Roof_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 8882,
+      "maxAABBErrorMetres": 3.814697265625e-06,
+      "maxCentroidErrorMetres": 0.000381025264593049
+    },
+    {
+      "buildingId": "W08",
+      "object": "W08_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 3.7322998043265443e-06,
+      "maxCentroidErrorMetres": 1.7573293054073957e-05
+    },
+    {
+      "buildingId": "W09",
+      "object": "W09_Shell_renderOpaque",
+      "materialSlots": 11,
+      "triangles": 17610,
+      "maxAABBErrorMetres": 3.814697265625e-06,
+      "maxCentroidErrorMetres": 0.00026425164408028223
+    },
+    {
+      "buildingId": "W09",
+      "object": "W09_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 52,
+      "maxAABBErrorMetres": 3.337860107421875e-06,
+      "maxCentroidErrorMetres": 5.348523460568799e-06
+    },
+    {
+      "buildingId": "W09",
+      "object": "W09_Roof_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 488,
+      "maxAABBErrorMetres": 3.0994415283203125e-06,
+      "maxCentroidErrorMetres": 8.225440995879296e-06
+    },
+    {
+      "buildingId": "W09",
+      "object": "W09_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 3.0719757075914345e-06,
+      "maxCentroidErrorMetres": 2.9515743247832127e-06
+    },
+    {
+      "buildingId": "W11",
+      "object": "W11_Shell_renderOpaque",
+      "materialSlots": 7,
+      "triangles": 4608,
+      "maxAABBErrorMetres": 3.814697265625e-06,
+      "maxCentroidErrorMetres": 0.0001055567822243475
+    },
+    {
+      "buildingId": "W11",
+      "object": "W11_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 36,
+      "maxAABBErrorMetres": 3.814697265625e-06,
+      "maxCentroidErrorMetres": 3.6557515468160773e-06
+    },
+    {
+      "buildingId": "W11",
+      "object": "W11_Roof_renderOpaque",
+      "materialSlots": 5,
+      "triangles": 1760,
+      "maxAABBErrorMetres": 4.291534423828125e-06,
+      "maxCentroidErrorMetres": 4.94718552426221e-05
+    },
+    {
+      "buildingId": "W11",
+      "object": "W11_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 3.453445434953295e-06,
+      "maxCentroidErrorMetres": 4.759216295280311e-06
+    },
+    {
+      "buildingId": "Y01",
+      "object": "Y01_Shell_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 6360,
+      "maxAABBErrorMetres": 4.76837158203125e-06,
+      "maxCentroidErrorMetres": 5.670758991271896e-05
+    },
+    {
+      "buildingId": "Y01",
+      "object": "Y01_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 30,
+      "maxAABBErrorMetres": 4.76837158203125e-06,
+      "maxCentroidErrorMetres": 5.722045896661143e-06
+    },
+    {
+      "buildingId": "Y01",
+      "object": "Y01_Roof_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 9982,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 0.00047681125476373154
+    },
+    {
+      "buildingId": "Y01",
+      "object": "Y01_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 3.6228895187451204e-06,
+      "maxCentroidErrorMetres": 8.582305911275512e-06
+    },
+    {
+      "buildingId": "Y02",
+      "object": "Y02_Shell_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 5366,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 6.040138301832698e-05
+    },
+    {
+      "buildingId": "Y02",
+      "object": "Y02_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 36,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 5.722045887779359e-06
+    },
+    {
+      "buildingId": "Y02",
+      "object": "Y02_Roof_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 8674,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 0.0003751295518590325
+    },
+    {
+      "buildingId": "Y02",
+      "object": "Y02_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 1.179504394599462e-06,
+      "maxCentroidErrorMetres": 2.5550842309707278e-06
+    },
+    {
+      "buildingId": "Y03",
+      "object": "Y03_Shell_renderOpaque",
+      "materialSlots": 11,
+      "triangles": 17616,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 0.00018283399346952223
+    },
+    {
+      "buildingId": "Y03",
+      "object": "Y03_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 54,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 1.6856611821935985e-06
+    },
+    {
+      "buildingId": "Y03",
+      "object": "Y03_Roof_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 488,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 7.721886959410895e-06
+    },
+    {
+      "buildingId": "Y03",
+      "object": "Y03_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 1.2435913081532135e-06,
+      "maxCentroidErrorMetres": 6.647745766752422e-06
+    },
+    {
+      "buildingId": "Y04",
+      "object": "Y04_Shell_renderOpaque",
+      "materialSlots": 9,
+      "triangles": 17834,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 0.0002545056812079949
+    },
+    {
+      "buildingId": "Y04",
+      "object": "Y04_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 146,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 8.778073465887104e-07
+    },
+    {
+      "buildingId": "Y04",
+      "object": "Y04_Roof_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 1320,
+      "maxAABBErrorMetres": 2.86102294921875e-06,
+      "maxCentroidErrorMetres": 4.0637122293851746e-05
+    },
+    {
+      "buildingId": "Y04",
+      "object": "Y04_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 72,
+      "maxAABBErrorMetres": 1.8524169922429223e-06,
+      "maxCentroidErrorMetres": 2.651087444682787e-06
+    },
+    {
+      "buildingId": "Y05",
+      "object": "Y05_Shell_renderOpaque",
+      "materialSlots": 6,
+      "triangles": 6148,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 7.8649129527264e-05
+    },
+    {
+      "buildingId": "Y05",
+      "object": "Y05_ShellStain_renderStain",
+      "materialSlots": 2,
+      "triangles": 38,
+      "maxAABBErrorMetres": 1.430511474609375e-06,
+      "maxCentroidErrorMetres": 1.3709068293898952e-06
+    },
+    {
+      "buildingId": "Y05",
+      "object": "Y05_Roof_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 7778,
+      "maxAABBErrorMetres": 1.9073486328125e-06,
+      "maxCentroidErrorMetres": 0.0002784948232879003
+    },
+    {
+      "buildingId": "Y05",
+      "object": "Y05_Interior_renderOpaque",
+      "materialSlots": 2,
+      "triangles": 108,
+      "maxAABBErrorMetres": 1.0108947749998265e-06,
+      "maxCentroidErrorMetres": 4.99089558925192e-06
+    }
+  ],
+  "result": "PASS",
+  "errors": []
+}

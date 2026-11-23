@@ -1,0 +1,24 @@
+A_MAP_CONTACT_DIAGNOSTIC
+mode=blocked_replan
+startedUtc=2026-10-29T06:07:44.6050523Z
+CONTROL only live player/CC warped. NPC frozen/automatic off, world timers off. No asset/scene/save writes. One Simulate(1/60) per distinct rendered game frame; this remains a controlled collision/visibility test, not survival balance.
+playerCC radius=0.400000 height=2.000000 center=0.000000,1.000000,0.000000 stepOffset=0.250000 skinWidth=0.020000 slopeLimit=45.000000 scale=1.000000,1.000000,1.000000
+store=C:\Users\ehoji\AppData\Local\Temp\DefaultCompany\escape\StageMapPreview\a08b5a6895714d6e8224c07f43cf1506\slot-1.json actorsFrozen=71
+COLLIDER MAP StageA_Relay_Blockout_v08/StageA_Landform_v09/SurfaceTiles/LandSurface_09 type=MeshCollider boundsCenter=-65.000000,0.950000,-50.000000 boundsSize=130.000000,2.100000,100.000000 layer=0 trigger=False
+MESH asset=Assets/Escape/Art/RealismV13/TerrainCuts/Cut_LandSurface_09.asset mesh=V13_Cut_LandSurface_09 vertexCount=17630 readable=True convex=False
+SETTLED frames=10 player=-39.380000,1.350000,-51.290000 grounded=True camera=-35.483220,15.008390,-43.131870
+PROBE start feet=-39.380000,1.350000,-51.290000 grounded=True flags=Below castRadius=0.390000
+COLLIDER MAP StageA_Relay_Blockout_v08/LookV16_SouthYardDressing/ConcreteApron_And_Drainage/Curb_WestEdge_Tile_01 type=BoxCollider boundsCenter=-38.800000,1.528796,-50.250000 boundsSize=0.339996,0.240000,3.500000 layer=0 trigger=False
+BOX localCenter=0.000000,0.000000,0.000000 localSize=1.000000,1.000000,1.000000 worldRotation=0.000000,0.000000,0.000000
+LOCAL_NAV sf=True st=True bool=True status=PathComplete corners=2
+LOCAL_CORNER 0 -39.380000,1.393891,-51.290000
+LOCAL_CORNER 1 19.320000,1.860000,-40.080000
+PROBE step1 feet=-39.376630,1.350000,-51.277500 grounded=True flags=5 castRadius=0.390000
+PROBE step60 feet=-39.376630,1.350000,-51.218480 grounded=True flags=5 castRadius=0.390000
+PROBE step120 feet=-39.376630,1.350000,-51.218480 grounded=True flags=5 castRadius=0.390000
+PROBE step180 feet=-39.376630,1.350000,-51.218480 grounded=True flags=5 castRadius=0.390000
+END 180steps simSeconds=3 actualEnd=-39.376630,1.350000,-51.218480 XZdistanceFromOriginalBlocked=0.071598 currentCorner=1 goalXZ=59.744120
+CONTACT_SCREEN_FILE_EXISTS=True
+OBSERVATION_COMPLETE; movement/contacts recorded, no forced PASS/FAIL attribution
+
+STATE FINISHED step=180

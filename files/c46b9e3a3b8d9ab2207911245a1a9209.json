@@ -1,0 +1,84 @@
+{
+  "verifiedAt": "2026-10-26T19:07:58.7518885+09:00",
+  "sources": [
+    {
+      "file": "Runtime/CurrentSourceClearanceFieldBudget.cs",
+      "sha256": "3B945AA150F68F695B91E1265C0F9D9DB0E4EB75FB32CAC774DFEB6BE2931628"
+    },
+    {
+      "file": "Runtime/Stage/Blockout/StageASmokeV38.cs",
+      "sha256": "63BD9B1C00F46E2984F01B033E7025249ED45135279FE3E8E07B41F6170692A4"
+    },
+    {
+      "file": "Editor/StageASmokeV38Setup.cs",
+      "sha256": "47742811608DB11482B6A7D6895CD7376DD8C8FE30BDAA91316B61DA6054D6C8"
+    },
+    {
+      "file": "Resources/StageMaps/StageA_Relay_Blockout_v08.prefab",
+      "sha256": "C7DCDED57C8828D3C6FE350E73C2BAC5675B9728EF743A9D400DABB7E4211A29"
+    },
+    {
+      "file": "Runtime/SdHairCollisionMotion.cs",
+      "sha256": "32183682DD67C6625CA47B602B42A9C18D1E3C9A0A15ECE4A0AE4421B6763CF7"
+    },
+    {
+      "file": "Runtime/BodySurfaceProjector.cs",
+      "sha256": "6C295E67279BC9ED5314CF7123AB3F7DAE67E4DC21F7C316E0BA0466688DF33C"
+    },
+    {
+      "file": "Runtime/SdWeaponPose.cs",
+      "sha256": "5F61536E38A21E011D416397C924FAE41245FE70A3F6D091F774DC88D2BDA465"
+    },
+    {
+      "file": "Runtime/EdelIndexSkinBinding.cs",
+      "sha256": "0FFA3743EE352A2B3F1006296E7832780B23BCC2D2A37D858F52235670ABF6A3"
+    }
+  ],
+  "restoredOrUnchanged": [
+    {
+      "file": "SdHairCollisionMotion.cs",
+      "matchesBackup": true
+    },
+    {
+      "file": "BodySurfaceProjector.cs",
+      "matchesBackup": true
+    },
+    {
+      "file": "SdWeaponPose.cs",
+      "matchesBackup": true
+    },
+    {
+      "file": "EdelIndexSkinBinding.cs",
+      "matchesBackup": true
+    }
+  ],
+  "temporaryEditorHelperAbsent": true,
+  "temporaryMetaAbsent": true,
+  "archivedHelper": true,
+  "editorAssemblyWriteTime": "2026-10-26T19:04:38.5713026+09:00",
+  "finalRefresh": "START 2026-10-26 오후 7:04:30 +09:00\nplaying=False\nAssets/Escape/Scenes/StageA_Relay_Blockout_v08.unity dirty=False\r\nenemies=0\r\n\nCOMPLETE\n",
+  "logWindowAfterFixed": {
+    "to": 34957114,
+    "compilerErrors": 0,
+    "particleVelocityErrors": 0,
+    "from": 34905303
+  },
+  "screenshots": [
+    {
+      "file": "before_editor.png",
+      "exists": true
+    },
+    {
+      "file": "after_editor.png",
+      "exists": true
+    },
+    {
+      "file": "before_frozen.png",
+      "exists": true
+    },
+    {
+      "file": "fixed_frozen.png",
+      "exists": true
+    }
+  ]
+}

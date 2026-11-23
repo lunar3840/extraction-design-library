@@ -1,0 +1,93 @@
+{
+  "local_session_files": 17,
+  "unique_local_threads": 15,
+  "codex_messages": 550,
+  "codex_statuses": {
+    "지침 도입 전·소급 참고": 227,
+    "질문/검토·변경 기록 필요성 개별 참고": 77,
+    "기록 누락 확인": 11,
+    "분석/확인·독립 게임 변경 없음": 31,
+    "기록 대응 확인": 194,
+    "승인/조율/후속 조건": 3,
+    "시스템/자동화 전달·인간 지시 집계 제외": 1,
+    "인계 산출물 있음·별도 변경 기록 연결 미확인": 3,
+    "응답 원문 없음·확정 불가": 2,
+    "이번 감사 작업": 1
+  },
+  "supplement_threads": 21,
+  "supplement_messages": 135,
+  "chat_sources": [
+    {
+      "id": "6a9aa012-2568-83ee-b24a-38588f3e743a",
+      "title": "세계관 설정 작성",
+      "turns": 5,
+      "requests": 5,
+      "record": "outputs\\change_records\\2026-10-21\\scenario-chat-6a9aa012\\CHANGE_RECORD.md",
+      "has_more": false,
+      "truncated_items": 1
+    },
+    {
+      "id": "6a9cfb2c-d738-83e8-92f4-a2f5fee2435f",
+      "title": "주인공 캐릭터 제작",
+      "turns": 5,
+      "requests": 5,
+      "record": "outputs\\change_records\\2026-10-21\\scenario-chat-6a9cfb2c\\CHANGE_RECORD.md",
+      "has_more": false,
+      "truncated_items": 0
+    },
+    {
+      "id": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+      "title": "히로인 컨셉 리스트(1 - 메인부관)",
+      "turns": 6,
+      "requests": 6,
+      "record": "outputs\\change_records\\2026-10-21\\scenario-chat-6a9d0fc0\\CHANGE_RECORD.md",
+      "has_more": false,
+      "truncated_items": 0
+    },
+    {
+      "id": "6ab1142e-9aac-83ee-8525-8814ed92ed3d",
+      "title": "익스트랙션 게임 에셋 분석",
+      "turns": 5,
+      "requests": 5,
+      "record": "outputs\\change_records\\2026-10-21\\scenario-chat-6ab1142e\\CHANGE_RECORD.md",
+      "has_more": false,
+      "truncated_items": 0
+    },
+    {
+      "id": "6ab11e2e-dabc-83e8-9094-4aed2579ba47",
+      "title": "맵 구조와 메인 미션 구상",
+      "turns": 2,
+      "requests": 2,
+      "record": "outputs\\change_records\\2026-10-21\\scenario-chat-6ab11e2e\\CHANGE_RECORD.md",
+      "has_more": false,
+      "truncated_items": 0
+    },
+    {
+      "id": "6ad19e97-fff8-83ee-a88e-b2ce41f587df",
+      "title": "히로인 컨셉 리스트(2)",
+      "turns": 5,
+      "requests": 5,
+      "record": "outputs\\change_records\\2026-10-21\\scenario-chat-6ad19e97\\CHANGE_RECORD.md",
+      "has_more": false,
+      "truncated_items": 0
+    },
+    {
+      "id": "6ad1a2cb-b0b0-83e8-86b5-3421dc898b6b",
+      "title": "히로인 컨셉 리스트(3)",
+      "turns": 6,
+      "requests": 6,
+      "record": "outputs\\change_records\\2026-10-21\\scenario-chat-6ad1a2cb\\CHANGE_RECORD.md",
+      "has_more": false,
+      "truncated_items": 0
+    }
+  ],
+  "chat_requests": 34,
+  "chat_statuses": {
+    "기획/분석 응답 보존·로컬 개별 기록 없었음": 13,
+    "대화 산출물 링크 있음·로컬 원본 미확보": 6,
+    "사용자 지시만 있음·실행 결과 원문 없음": 15
+  },
+  "evidence_folders": 136,
+  "zero_byte_images": 0,
+  "image_validation_limit": "전체 파일 존재/크기 점검. OneDrive 원격 파일의 전체 디코딩과 전 이미지 육안 검토는 완료하지 않음"
+}

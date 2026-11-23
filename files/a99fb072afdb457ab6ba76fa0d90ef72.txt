@@ -1,0 +1,11 @@
+Main-agent normalized inventory comparison after save/reload.
+Only Unity runtime instanceID fields in collider JSON were normalized.
+Difference lines: 22. Unexpected difference lines: 0.
+Allowed changes: V13_HallRoot/Floor_2F/Rooms/{WestPlanning,EastControl}_Divider_-20.0 and new GapNorth_V24 segment/collider.
+Transforms: 14149 -> 14153 (+4)
+Renderers: 6011 -> 6013 (+2)
+Colliders: 4739 -> 4741 (+2)
+All other transforms, active state, material references, mesh paths/names, and collider fields match.
+This includes all original V16 placement/replacement objects and existing V23 material references.
+Independent geometry author reviewed the planned repair; supplemental post-save inventory audit is by main agent (independent follow-up agent unavailable due usage limit).
+RESULT PASS

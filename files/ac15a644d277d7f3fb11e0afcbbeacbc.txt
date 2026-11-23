@@ -1,0 +1,5 @@
+visionActive=True
+nearRangedDistance=4.00
+nearRangedVisible=True
+farRearMeleeDistance=10.00
+farRearMeleeVisible=False

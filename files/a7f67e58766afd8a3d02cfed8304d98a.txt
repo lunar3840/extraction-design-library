@@ -1,0 +1,148 @@
+V31 actual Play camera. Fixed player and camera per boundary; atmosphere evaluation feet sampled across each edge.
+B_BASELINE ambient=Trilight sky=RGBA(0.340, 0.380, 0.400, 1.000) equator=RGBA(0.200, 0.240, 0.250, 1.000) ground=RGBA(0.110, 0.140, 0.150, 1.000) sunColor=RGBA(0.900, 0.940, 1.000, 1.000) sunIntensity=1.6 fog=True
+VISIBILITY east_outside evaluate rendererChanged=0 meshChanged=0 cameraMain=Player Camera#-1069150 playerCamera=Player Camera#-1069150 floor=99 hiddenV17Zones=0
+SAMPLE east_outside feet=(70.1200, 2.4783, -10.0000) weight=0.00000000 tone=Neutral
+VISIBILITY east_outside render request rendererChanged=0 meshChanged=0 cameraMain=Player Camera#-1069150 playerCamera=Player Camera#-1069150 floor=99 hiddenV17Zones=0
+VISIBILITY east_inside from previous sample rendererChanged=0 meshChanged=0 cameraMain=Player Camera#-1069150 playerCamera=Player Camera#-1069150 floor=99 hiddenV17Zones=0
+VISIBILITY east_inside evaluate rendererChanged=0 meshChanged=0 cameraMain=Player Camera#-1069150 playerCamera=Player Camera#-1069150 floor=99 hiddenV17Zones=0
+SAMPLE east_inside feet=(69.8800, 2.4783, -10.0000) weight=0.00005496 tone=Neutral
+VISIBILITY east_inside render request rendererChanged=0 meshChanged=0 cameraMain=Player Camera#-1069150 playerCamera=Player Camera#-1069150 floor=99 hiddenV17Zones=0
+BOUNDARY east outsideMean=0.241776 insideMean=0.241778 meanAbsLumaDelta=0.000001
+PASS east tone continuity Neutral -> Neutral
+PASS east immediate brightness continuity delta=0.000001 threshold=.005
+SWEEP east inward=0.12 weight=0.00005496 tone=Neutral exposure=0.000014 ambient=Trilight fog=True
+PASS east sweep tone/ambient 0.12 tone=Neutral ambient=Trilight
+SWEEP east inward=2 weight=0.01457727 tone=Neutral exposure=0.003644 ambient=Trilight fog=True
+PASS east sweep tone/ambient 2 tone=Neutral ambient=Trilight
+SWEEP east inward=7 weight=0.15625000 tone=Neutral exposure=0.039063 ambient=Trilight fog=True
+PASS east sweep tone/ambient 7 tone=Neutral ambient=Trilight
+SWEEP east inward=14 weight=0.50000000 tone=Neutral exposure=0.125000 ambient=Trilight fog=True
+PASS east sweep tone/ambient 14 tone=Neutral ambient=Trilight
+SWEEP east inward=21 weight=0.84375000 tone=Neutral exposure=0.210938 ambient=Trilight fog=True
+PASS east sweep tone/ambient 21 tone=Neutral ambient=Trilight
+SWEEP east inward=28 weight=1.00000000 tone=Neutral exposure=0.250000 ambient=Trilight fog=True
+PASS east sweep tone/ambient 28 tone=Neutral ambient=Trilight
+SWEEP east inward=21 weight=0.84375000 tone=Neutral exposure=0.210938 ambient=Trilight fog=True
+PASS east sweep tone/ambient 21 tone=Neutral ambient=Trilight
+SWEEP east inward=14 weight=0.50000000 tone=Neutral exposure=0.125000 ambient=Trilight fog=True
+PASS east sweep tone/ambient 14 tone=Neutral ambient=Trilight
+SWEEP east inward=7 weight=0.15625000 tone=Neutral exposure=0.039063 ambient=Trilight fog=True
+PASS east sweep tone/ambient 7 tone=Neutral ambient=Trilight
+SWEEP east inward=2 weight=0.01457727 tone=Neutral exposure=0.003644 ambient=Trilight fog=True
+PASS east sweep tone/ambient 2 tone=Neutral ambient=Trilight
+SWEEP east inward=0.12 weight=0.00005496 tone=Neutral exposure=0.000014 ambient=Trilight fog=True
+PASS east sweep tone/ambient 0.12 tone=Neutral ambient=Trilight
+SWEEP east inward=-0.12 weight=0.00000000 tone=Neutral exposure=0.000000 ambient=Trilight fog=False
+PASS east sweep tone/ambient -0.12 tone=Neutral ambient=Trilight
+VISIBILITY east_reverse_outside from previous sample rendererChanged=0 meshChanged=0 cameraMain=Player Camera#-1069150 playerCamera=Player Camera#-1069150 floor=99 hiddenV17Zones=0
+VISIBILITY east_reverse_outside evaluate rendererChanged=0 meshChanged=0 cameraMain=Player Camera#-1069150 playerCamera=Player Camera#-1069150 floor=99 hiddenV17Zones=0
+SAMPLE east_reverse_outside feet=(70.1200, 2.4783, -10.0000) weight=0.00000000 tone=Neutral
+VISIBILITY east_reverse_outside render request rendererChanged=0 meshChanged=0 cameraMain=Player Camera#-1069150 playerCamera=Player Camera#-1069150 floor=99 hiddenV17Zones=0
+PASS east outside restored delta=0.000000
+SAMPLE west_outside feet=(-70.1200, 1.6307, -10.0000) weight=0.00000000 tone=Neutral
+SAMPLE west_inside feet=(-69.8800, 1.6307, -10.0000) weight=0.00005496 tone=Neutral
+BOUNDARY west outsideMean=0.278503 insideMean=0.278504 meanAbsLumaDelta=0.000001
+PASS west tone continuity Neutral -> Neutral
+PASS west immediate brightness continuity delta=0.000001 threshold=.005
+SWEEP west inward=0.12 weight=0.00005496 tone=Neutral exposure=0.000014 ambient=Trilight fog=True
+PASS west sweep tone/ambient 0.12 tone=Neutral ambient=Trilight
+SWEEP west inward=2 weight=0.01457727 tone=Neutral exposure=0.003644 ambient=Trilight fog=True
+PASS west sweep tone/ambient 2 tone=Neutral ambient=Trilight
+SWEEP west inward=7 weight=0.15625000 tone=Neutral exposure=0.039063 ambient=Trilight fog=True
+PASS west sweep tone/ambient 7 tone=Neutral ambient=Trilight
+SWEEP west inward=14 weight=0.50000000 tone=Neutral exposure=0.125000 ambient=Trilight fog=True
+PASS west sweep tone/ambient 14 tone=Neutral ambient=Trilight
+SWEEP west inward=21 weight=0.84375000 tone=Neutral exposure=0.210938 ambient=Trilight fog=True
+PASS west sweep tone/ambient 21 tone=Neutral ambient=Trilight
+SWEEP west inward=28 weight=1.00000000 tone=Neutral exposure=0.250000 ambient=Trilight fog=True
+PASS west sweep tone/ambient 28 tone=Neutral ambient=Trilight
+SWEEP west inward=21 weight=0.84375000 tone=Neutral exposure=0.210938 ambient=Trilight fog=True
+PASS west sweep tone/ambient 21 tone=Neutral ambient=Trilight
+SWEEP west inward=14 weight=0.50000000 tone=Neutral exposure=0.125000 ambient=Trilight fog=True
+PASS west sweep tone/ambient 14 tone=Neutral ambient=Trilight
+SWEEP west inward=7 weight=0.15625000 tone=Neutral exposure=0.039063 ambient=Trilight fog=True
+PASS west sweep tone/ambient 7 tone=Neutral ambient=Trilight
+SWEEP west inward=2 weight=0.01457727 tone=Neutral exposure=0.003644 ambient=Trilight fog=True
+PASS west sweep tone/ambient 2 tone=Neutral ambient=Trilight
+SWEEP west inward=0.12 weight=0.00005496 tone=Neutral exposure=0.000014 ambient=Trilight fog=True
+PASS west sweep tone/ambient 0.12 tone=Neutral ambient=Trilight
+SWEEP west inward=-0.12 weight=0.00000000 tone=Neutral exposure=0.000000 ambient=Trilight fog=False
+PASS west sweep tone/ambient -0.12 tone=Neutral ambient=Trilight
+SAMPLE west_reverse_outside feet=(-70.1200, 1.6307, -10.0000) weight=0.00000000 tone=Neutral
+PASS west outside restored delta=0.000000
+SAMPLE north_outside feet=(0.0000, 3.3794, 53.1200) weight=0.00000000 tone=Neutral
+SAMPLE north_inside feet=(0.0000, 3.3794, 52.8800) weight=0.00005496 tone=Neutral
+BOUNDARY north outsideMean=0.279312 insideMean=0.279313 meanAbsLumaDelta=0.000001
+PASS north tone continuity Neutral -> Neutral
+PASS north immediate brightness continuity delta=0.000001 threshold=.005
+SWEEP north inward=0.12 weight=0.00005496 tone=Neutral exposure=0.000014 ambient=Trilight fog=True
+PASS north sweep tone/ambient 0.12 tone=Neutral ambient=Trilight
+SWEEP north inward=2 weight=0.01457727 tone=Neutral exposure=0.003644 ambient=Trilight fog=True
+PASS north sweep tone/ambient 2 tone=Neutral ambient=Trilight
+SWEEP north inward=7 weight=0.15625000 tone=Neutral exposure=0.039063 ambient=Trilight fog=True
+PASS north sweep tone/ambient 7 tone=Neutral ambient=Trilight
+SWEEP north inward=14 weight=0.50000000 tone=Neutral exposure=0.125000 ambient=Trilight fog=True
+PASS north sweep tone/ambient 14 tone=Neutral ambient=Trilight
+SWEEP north inward=21 weight=0.84375000 tone=Neutral exposure=0.210938 ambient=Trilight fog=True
+PASS north sweep tone/ambient 21 tone=Neutral ambient=Trilight
+SWEEP north inward=28 weight=1.00000000 tone=Neutral exposure=0.250000 ambient=Trilight fog=True
+PASS north sweep tone/ambient 28 tone=Neutral ambient=Trilight
+SWEEP north inward=21 weight=0.84375000 tone=Neutral exposure=0.210938 ambient=Trilight fog=True
+PASS north sweep tone/ambient 21 tone=Neutral ambient=Trilight
+SWEEP north inward=14 weight=0.50000000 tone=Neutral exposure=0.125000 ambient=Trilight fog=True
+PASS north sweep tone/ambient 14 tone=Neutral ambient=Trilight
+SWEEP north inward=7 weight=0.15625000 tone=Neutral exposure=0.039063 ambient=Trilight fog=True
+PASS north sweep tone/ambient 7 tone=Neutral ambient=Trilight
+SWEEP north inward=2 weight=0.01457727 tone=Neutral exposure=0.003644 ambient=Trilight fog=True
+PASS north sweep tone/ambient 2 tone=Neutral ambient=Trilight
+SWEEP north inward=0.12 weight=0.00005496 tone=Neutral exposure=0.000014 ambient=Trilight fog=True
+PASS north sweep tone/ambient 0.12 tone=Neutral ambient=Trilight
+SWEEP north inward=-0.12 weight=0.00000000 tone=Neutral exposure=0.000000 ambient=Trilight fog=False
+PASS north sweep tone/ambient -0.12 tone=Neutral ambient=Trilight
+SAMPLE north_reverse_outside feet=(0.0000, 3.3794, 53.1200) weight=0.00000000 tone=Neutral
+PASS north outside restored delta=0.000000
+SAMPLE south_outside feet=(0.0000, 0.0353, -96.1200) weight=0.00000000 tone=Neutral
+SAMPLE south_inside feet=(0.0000, 0.0353, -95.8800) weight=0.00005496 tone=Neutral
+BOUNDARY south outsideMean=0.224982 insideMean=0.224983 meanAbsLumaDelta=0.000001
+PASS south tone continuity Neutral -> Neutral
+PASS south immediate brightness continuity delta=0.000001 threshold=.005
+SWEEP south inward=0.12 weight=0.00005496 tone=Neutral exposure=0.000014 ambient=Trilight fog=True
+PASS south sweep tone/ambient 0.12 tone=Neutral ambient=Trilight
+SWEEP south inward=2 weight=0.01457727 tone=Neutral exposure=0.003644 ambient=Trilight fog=True
+PASS south sweep tone/ambient 2 tone=Neutral ambient=Trilight
+SWEEP south inward=7 weight=0.15625000 tone=Neutral exposure=0.039063 ambient=Trilight fog=True
+PASS south sweep tone/ambient 7 tone=Neutral ambient=Trilight
+SWEEP south inward=14 weight=0.50000000 tone=Neutral exposure=0.125000 ambient=Trilight fog=True
+PASS south sweep tone/ambient 14 tone=Neutral ambient=Trilight
+SWEEP south inward=21 weight=0.84375000 tone=Neutral exposure=0.210938 ambient=Trilight fog=True
+PASS south sweep tone/ambient 21 tone=Neutral ambient=Trilight
+SWEEP south inward=28 weight=1.00000000 tone=Neutral exposure=0.250000 ambient=Trilight fog=True
+PASS south sweep tone/ambient 28 tone=Neutral ambient=Trilight
+SWEEP south inward=21 weight=0.84375000 tone=Neutral exposure=0.210938 ambient=Trilight fog=True
+PASS south sweep tone/ambient 21 tone=Neutral ambient=Trilight
+SWEEP south inward=14 weight=0.50000000 tone=Neutral exposure=0.125000 ambient=Trilight fog=True
+PASS south sweep tone/ambient 14 tone=Neutral ambient=Trilight
+SWEEP south inward=7 weight=0.15625000 tone=Neutral exposure=0.039063 ambient=Trilight fog=True
+PASS south sweep tone/ambient 7 tone=Neutral ambient=Trilight
+SWEEP south inward=2 weight=0.01457727 tone=Neutral exposure=0.003644 ambient=Trilight fog=True
+PASS south sweep tone/ambient 2 tone=Neutral ambient=Trilight
+SWEEP south inward=0.12 weight=0.00005496 tone=Neutral exposure=0.000014 ambient=Trilight fog=True
+PASS south sweep tone/ambient 0.12 tone=Neutral ambient=Trilight
+SWEEP south inward=-0.12 weight=0.00000000 tone=Neutral exposure=0.000000 ambient=Trilight fog=False
+PASS south sweep tone/ambient -0.12 tone=Neutral ambient=Trilight
+SAMPLE south_reverse_outside feet=(0.0000, 0.0353, -96.1200) weight=0.00000000 tone=Neutral
+PASS south outside restored delta=0.000000
+PASS factory_1f visible floor floor=0
+PASS factory_1f tone and look tone=Neutral weight=1
+INTERIOR factory_1f player=(0.0000, 2.1323, -28.0000) camera=(4.3503, 17.1895, -20.4651)
+PASS factory_2f visible floor floor=1
+PASS factory_2f tone and look tone=Neutral weight=1
+INTERIOR factory_2f player=(-22.0000, 8.0800, -27.0000) camera=(-17.6497, 23.1371, -19.4651)
+PASS remote A look weight zero weight=0
+PASS Leave deactivates A active=False
+PASS B ambient mode restored expected=Trilight actual=Trilight
+PASS B ambient colors restored sky=RGBA(0.340, 0.380, 0.400, 1.000) equator=RGBA(0.200, 0.240, 0.250, 1.000) ground=RGBA(0.110, 0.140, 0.150, 1.000)
+PASS B sun restored sun=RGBA(0.900, 0.940, 1.000, 1.000) intensity=1.6
+PASS B fog restored expected=True actual=True
+defects=0
+RESULT PASS

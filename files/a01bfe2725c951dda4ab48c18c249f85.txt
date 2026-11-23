@@ -1,0 +1,1 @@
+PASS saved A scene and Resources map prefab, roster validated in both, every original object retained unchanged.

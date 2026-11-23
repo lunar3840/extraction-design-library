@@ -1,0 +1,58 @@
+START phase=after feedbackPresent=True unity=6000.1.0f1 screen=1280x720
+PASS controller-bound 
+PASS miss-fired 
+PASS miss-damage 
+PASS miss-no-confirmation shot=1 hit=0
+PASS body-fired 
+PASS body-real-hit 
+PASS body-cue kind=Hit
+PASS head-fired 
+PASS head-real-hit 
+PASS head-cue kind=Headshot
+PASS kill-fired 
+PASS kill-real-hit 
+PASS kill-precedence kind=Kill
+PASS new-body-shot-replaces-kill kind=Hit
+PASS dead-target-fired 
+PASS dead-target-status 
+PASS dead-no-confirm 
+PASS protected-target-status 
+PASS protected-no-confirm 
+PASS pellets-real-hit 
+PASS pellets-single-cue 
+PASS mixed-pellets-real-regions 
+PASS mixed-pellets-kill-priority-single-cue kind=Kill
+PASS actual-npc-attack-fired 
+PASS actual-npc-shot-audible-no-confirmation 
+PASS npc-combat-no-player-cues 
+PASS player-impact-direction directions=1
+PASS duplicate-status 
+PASS duplicate-no-cue 
+PASS armor-absorbed-ledger 
+PASS absorbed-impact-cue 
+DIRECTION stored=(-1.00, 0.00, 0.00) actualAngle=-90 expectedAngle=-90
+PASS direction-left expectedAngle=-90
+DIRECTION stored=(0.00, 0.00, 1.00) actualAngle=0 expectedAngle=0
+PASS direction-front expectedAngle=0
+DIRECTION stored=(0.00, 0.00, -1.00) actualAngle=180 expectedAngle=180
+PASS direction-back expectedAngle=180
+DIRECTION stored=(0.00, 0.00, 1.00) actualAngle=-90.00001 expectedAngle=-90
+PASS rotated-camera-direction world+Z maps to camera-left at yaw+90
+PASS source-null-generic-only directions=1
+PASS paused-fire-blocked 
+PASS pause-no-cue 
+PASS inventory-fire-blocked 
+PASS inventory-clear 
+PASS inventory-live-incoming-impact 
+PASS rebind-no-duplicate-listeners 
+PASS scene-player-replacement-rebound 
+PASS replacement-local-fire 
+PASS overlap-mix-no-clipping peak=0.7291843
+PASS bounded-audio-pool 
+PASS incoming-warning-still-readable-at-550ms 
+PASS lethal-player-state 
+PASS lethal-final-cue-immediate 
+PASS lethal-final-cue-cleared 
+AUDIO frames=1625088 nonZero=557340 peak=0.7291843
+PASS actual-audio-output 
+COMPLETE failures=0 baseline=False allCapturesUseSameCamera=true

@@ -1,0 +1,76 @@
+2026-09-24 오전 9:43:18
+mapAssetsV16 placements=53 groups=5 industrialSlotReplacements=21 B4/R8/bridges/routes/doors=protected rejectedCandidates=door=76,existingCollider=15,roadOrRoute=53,slope=18,v16PropCollision=1,water=239
+Replacement ENV09_INDUSTRIALPROP_PIPERACK_025: IndustrialPipeRack map=(503.8,4.76,44.0) yaw=56.9 fittedScale=0.932
+Replacement ENV09_INDUSTRIALPROP_PIPERACK_026: IndustrialPipeRack map=(234.7,-0.10,327.1) yaw=329.3 fittedScale=0.932
+Replacement ENV09_INDUSTRIALPROP_PIPERACK_027: IndustrialPipeRack map=(474.3,5.44,55.7) yaw=138.8 fittedScale=0.932
+Replacement ENV09_INDUSTRIALPROP_PIPERACK_028: IndustrialPipeRack map=(209.7,0.00,290.6) yaw=67.6 fittedScale=0.932
+Replacement ENV09_INDUSTRIALPROP_PIPERACK_029: IndustrialPipeRack map=(460.6,5.90,70.5) yaw=234.8 fittedScale=0.932
+Replacement ENV09_INDUSTRIALPROP_PIPERACK_030: IndustrialPipeRack map=(225.7,-0.09,348.7) yaw=265.0 fittedScale=0.932
+Replacement ENV09_INDUSTRIALPROP_PIPERACK_031: IndustrialPipeRack map=(346.1,6.32,142.7) yaw=231.3 fittedScale=0.932
+Replacement ENV09_INDUSTRIALPROP_PIPERACK_032: IndustrialPipeRack map=(189.5,-0.03,343.3) yaw=207.0 fittedScale=0.932
+Replacement ENV09_INDUSTRIALPROP_CABLEREEL_043: IndustrialCableReel map=(140.1,1.09,200.8) yaw=417.2 fittedScale=1.141
+Replacement ENV09_INDUSTRIALPROP_CABLEREEL_044: IndustrialCableReel map=(289.9,-0.09,256.8) yaw=420.7 fittedScale=1.141
+Replacement ENV09_INDUSTRIALPROP_CABLEREEL_045: IndustrialCableReel map=(77.6,0.88,212.5) yaw=368.2 fittedScale=1.141
+Replacement ENV09_INDUSTRIALPROP_CABLEREEL_046: IndustrialCableReel map=(306.0,-0.10,328.4) yaw=375.0 fittedScale=1.141
+Replacement ENV09_INDUSTRIALPROP_CABLEREEL_047: IndustrialCableReel map=(48.6,0.84,180.3) yaw=417.8 fittedScale=1.141
+Replacement ENV09_INDUSTRIALPROP_CABLEREEL_048: IndustrialCableReel map=(196.6,-0.06,298.5) yaw=372.5 fittedScale=1.141
+Replacement ENV09_INDUSTRIALPROP_CABLEREEL_049: IndustrialCableReel map=(168.9,0.96,255.3) yaw=355.3 fittedScale=1.141
+Replacement ENV09_INDUSTRIALPROP_TRANSFORMER_050: IndustrialTransformer map=(222.4,-0.08,331.0) yaw=210.3 fittedScale=1.089
+Replacement ENV09_INDUSTRIALPROP_TRANSFORMER_051: IndustrialTransformer map=(461.5,5.81,58.7) yaw=100.2 fittedScale=1.089
+Replacement ENV09_INDUSTRIALPROP_TRANSFORMER_052: IndustrialTransformer map=(268.1,-0.10,337.8) yaw=195.8 fittedScale=1.089
+Replacement ENV09_INDUSTRIALPROP_TRANSFORMER_053: IndustrialTransformer map=(506.0,3.64,107.9) yaw=136.4 fittedScale=1.089
+Replacement ENV09_INDUSTRIALPROP_TRANSFORMER_054: IndustrialTransformer map=(307.8,-0.10,317.8) yaw=294.1 fittedScale=1.089
+Replacement ENV09_INDUSTRIALPROP_TRANSFORMER_055: IndustrialTransformer map=(408.1,2.81,237.4) yaw=333.8 fittedScale=1.089
+Asset_MedicalCart_01: Clinic map=(77.0,4.00,83.0) yaw=20.0 offset=(0,0)
+Asset_TelephoneBooth_02: Clinic map=(151.0,4.64,111.0) yaw=-8.0 offset=(0,0)
+Asset_RustedPhoneBooth_03: Clinic map=(162.9,4.64,119.8) yaw=13.0 offset=(+2.9,+0.8)
+Asset_WeatheredMilitaryCrates_04: Clinic map=(144.1,3.99,130.1) yaw=-17.0 offset=(+2.1,+2.1)
+Asset_ConcreteBarrier_05: Clinic map=(151.0,4.11,132.0) yaw=80.0 offset=(0,0)
+Asset_PortableLightTower_06: Clinic map=(177.0,7.45,105.0) yaw=-12.0 offset=(0,0)
+Asset_RustyOilBarrels_07: Clinic map=(145.0,3.82,137.0) yaw=17.0 offset=(0,0)
+Asset_ConstructionBarrier_08: Clinic map=(171.0,4.49,129.0) yaw=73.0 offset=(0,0)
+Asset_ToolCart_09: WestWorkshop map=(86.4,1.00,190.1) yaw=-15.0 offset=(+0.4,+1.1)
+Asset_IndustrialEngine_10: WestWorkshop map=(118.1,1.69,169.2) yaw=80.0 offset=(-2.9,-0.8)
+Asset_IndustrialFlywheel_11: WestWorkshop map=(131.0,1.69,167.8) yaw=-15.0 offset=(+3.0,-5.2)
+Asset_IndustrialPipeCoupling_12: WestWorkshop map=(120.0,1.27,183.2) yaw=40.0 offset=(-3.0,+5.2)
+Asset_FlexiblePipe_13: WestWorkshop map=(117.0,1.69,175.0) yaw=18.0 offset=(0,0)
+Asset_IndustrialPipe_14: WestWorkshop map=(139.0,1.65,173.0) yaw=96.0 offset=(0,0)
+Asset_WeatheredIndustrialGenerator_15: WestWorkshop map=(145.0,1.29,184.0) yaw=13.0 offset=(0,0)
+Asset_IndustrialValve_16: WestWorkshop map=(136.0,1.37,183.0) yaw=-16.0 offset=(0,0)
+Asset_IndustrialPipeBundle_17: WestWorkshop map=(154.0,1.42,177.0) yaw=78.0 offset=(0,0)
+Asset_IndustrialPlatform_18: WestWorkshop map=(153.0,1.52,173.2) yaw=93.0 offset=(-3.0,+5.2)
+Asset_RustyMetalDrain_19: WestWorkshop map=(130.0,1.02,220.0) yaw=22.0 offset=(0,0)
+Asset_ToolCart_20: WestWorkshop map=(147.0,1.20,194.0) yaw=-36.0 offset=(0,0)
+Asset_IndustrialGate_21: PowerPerimeter map=(482.2,3.79,118.9) yaw=6.0 offset=(-0.8,+2.9)
+Asset_RustyFence_22: PowerPerimeter map=(478.0,5.10,126.0) yaw=8.0 offset=(0,0)
+Asset_RustedMetalGate_23: PowerPerimeter map=(486.0,7.13,141.0) yaw=12.0 offset=(0,+6.0)
+Asset_IndustrialPump_24: PowerPerimeter map=(450.0,7.67,143.0) yaw=-27.0 offset=(0,0)
+Asset_IndustrialValve_25: PowerPerimeter map=(455.9,6.46,149.1) yaw=5.0 offset=(-2.1,+2.1)
+Asset_IndustrialPipeBundle_26: PowerPerimeter map=(466.8,7.30,146.9) yaw=91.0 offset=(+0.8,+2.9)
+Asset_IndustrialPipeCoupling_27: PowerPerimeter map=(459.9,5.73,154.1) yaw=53.0 offset=(-2.1,+2.1)
+Asset_FlexiblePipe_28: PowerPerimeter map=(474.0,7.23,151.0) yaw=18.0 offset=(0,+6.0)
+Asset_WeatheredIndustrialGenerator_29: PowerPerimeter map=(485.0,4.63,94.0) yaw=-7.0 offset=(0,0)
+Asset_PortableLightTower_30: PowerPerimeter map=(463.8,4.92,106.9) yaw=9.0 offset=(+0.8,+2.9)
+Asset_RustyFence_31: PowerPerimeter map=(491.0,6.43,141.0) yaw=-12.0 offset=(0,0)
+Asset_ShippingContainer_32: SouthDryStaging map=(255.0,-0.10,349.0) yaw=78.0 offset=(+6.0,0)
+Asset_WeatheredMilitaryCrates_33: SouthDryStaging map=(262.0,-0.10,338.0) yaw=11.0 offset=(0,0)
+Asset_RustyOilBarrels_34: SouthDryStaging map=(273.9,-0.10,344.8) yaw=-13.0 offset=(+2.9,+0.8)
+Asset_SteelCarport_35: SouthDryStaging map=(291.9,-0.10,339.1) yaw=88.0 offset=(-2.1,+2.1)
+Asset_ConstructionBarrier_36: SouthDryStaging map=(309.6,-0.10,333.6) yaw=77.0 offset=(-4.4,-16.4)
+Asset_ConcreteBarrier_37: SouthDryStaging map=(292.0,-0.10,343.0) yaw=91.0 offset=(-12.0,-12.0)
+Asset_ToolCart_38: SouthDryStaging map=(293.8,-0.10,341.0) yaw=-4.0 offset=(-5.2,-3.0)
+Asset_IndustrialPipe_39: SouthDryStaging map=(280.1,-0.10,349.2) yaw=86.0 offset=(-2.9,-0.8)
+Asset_IndustrialEngine_40: SouthDryStaging map=(306.1,-0.10,334.8) yaw=31.0 offset=(-2.9,+0.8)
+Asset_IndustrialFlywheel_41: SouthDryStaging map=(313.6,-0.10,331.6) yaw=-13.0 offset=(-6.4,-6.4)
+Asset_RustyMetalMeshDoor_42: SouthDryStaging map=(277.0,-0.10,349.0) yaw=80.0 offset=(-12.0,-12.0)
+Asset_RustedMetalShutter_43: SouthDryStaging map=(264.1,-0.10,356.2) yaw=94.0 offset=(-2.9,-0.8)
+Asset_RustyMetalDrain_44: ChannelService map=(403.0,-0.02,341.0) yaw=19.0 offset=(0,0)
+Asset_IndustrialPump_45: ChannelService map=(399.0,-0.03,340.0) yaw=-22.0 offset=(0,0)
+Asset_IndustrialValve_46: ChannelService map=(406.0,-0.01,342.0) yaw=44.0 offset=(0,0)
+Asset_FlexiblePipe_47: ChannelService map=(410.0,0.00,344.0) yaw=51.0 offset=(0,0)
+Asset_IndustrialPlatform_48: ChannelService map=(438.0,0.25,346.0) yaw=-9.0 offset=(0,0)
+Asset_ShippingContainer_49: ChannelService map=(452.0,0.00,355.8) yaw=-10.0 offset=(-3.0,-5.2)
+Asset_WeatheredMilitaryCrates_50: ChannelService map=(445.0,0.00,367.0) yaw=23.0 offset=(0,0)
+Asset_IndustrialPipeBundle_51: ChannelService map=(478.0,0.20,348.0) yaw=83.0 offset=(0,0)
+Asset_RustyMetalMeshDoor_52: ChannelService map=(464.0,-0.04,349.0) yaw=2.0 offset=(0,0)
+Asset_RustedMetalShutter_53: ChannelService map=(484.0,0.00,355.0) yaw=82.0 offset=(0,0)

@@ -1,0 +1,136 @@
+[
+  {
+    "file": "lod_camera_1.csv",
+    "n": 90,
+    "unscaled_dt_ms": {
+      "median": 22.609049797058105,
+      "p95": 24.96259880065918,
+      "n": 90
+    },
+    "native_cpu_main_ms": {
+      "median": 19.723599999999998,
+      "p95": 22.0378,
+      "n": 90
+    },
+    "native_gpu_ms": {
+      "median": 5.3201920000000005,
+      "p95": 5.673984,
+      "n": 86
+    },
+    "hair_step_ms": {
+      "median": 3.21045,
+      "p95": 3.4467,
+      "n": 90
+    },
+    "gc_allocated_frame_value": {
+      "median": 121457.0,
+      "p95": 128333.0,
+      "n": 90
+    },
+    "lod_reported_size_reference_px": {
+      "median": 146.45101928710938,
+      "p95": 146.45101928710938,
+      "n": 90
+    }
+  },
+  {
+    "file": "lod_camera_2.csv",
+    "n": 90,
+    "unscaled_dt_ms": {
+      "median": 26.483099937438965,
+      "p95": 31.08949851989746,
+      "n": 90
+    },
+    "native_cpu_main_ms": {
+      "median": 23.6261,
+      "p95": 26.8067,
+      "n": 90
+    },
+    "native_gpu_ms": {
+      "median": 5.267456,
+      "p95": 5.608448,
+      "n": 85
+    },
+    "hair_step_ms": {
+      "median": 3.1497,
+      "p95": 3.5219,
+      "n": 90
+    },
+    "gc_allocated_frame_value": {
+      "median": 121457.0,
+      "p95": 128281.0,
+      "n": 90
+    },
+    "lod_reported_size_reference_px": {
+      "median": 146.45101928710938,
+      "p95": 146.45101928710938,
+      "n": 90
+    }
+  },
+  {
+    "file": "lod_precise_1.csv",
+    "n": 90,
+    "unscaled_dt_ms": {
+      "median": 60.893550872802734,
+      "p95": 64.97019958496094,
+      "n": 90
+    },
+    "native_cpu_main_ms": {
+      "median": 57.749300000000005,
+      "p95": 61.6005,
+      "n": 90
+    },
+    "native_gpu_ms": {
+      "median": 6.038528,
+      "p95": 6.401024,
+      "n": 90
+    },
+    "hair_step_ms": {
+      "median": 37.4751,
+      "p95": 39.3914,
+      "n": 90
+    },
+    "gc_allocated_frame_value": {
+      "median": 193729.0,
+      "p95": 200347.0,
+      "n": 90
+    },
+    "lod_reported_size_reference_px": {
+      "n": 0,
+      "note": "unavailable or NaN, no zero imputation"
+    }
+  },
+  {
+    "file": "lod_precise_2.csv",
+    "n": 90,
+    "unscaled_dt_ms": {
+      "median": 60.89020347595215,
+      "p95": 65.49259948730469,
+      "n": 90
+    },
+    "native_cpu_main_ms": {
+      "median": 57.92435,
+      "p95": 61.843,
+      "n": 90
+    },
+    "native_gpu_ms": {
+      "median": 6.064640000000001,
+      "p95": 6.433792,
+      "n": 89
+    },
+    "hair_step_ms": {
+      "median": 37.4919,
+      "p95": 39.419,
+      "n": 90
+    },
+    "gc_allocated_frame_value": {
+      "median": 193819.0,
+      "p95": 199921.0,
+      "n": 90
+    },
+    "lod_reported_size_reference_px": {
+      "n": 0,
+      "note": "unavailable or NaN, no zero imputation"
+    }
+  }
+]

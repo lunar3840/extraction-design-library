@@ -1,0 +1,8 @@
+2026-10-21 오후 2:05:43 +09:00 label=repeat3 initialThumbnailLights=2
+outdoor player=(-121.00000, 0.12415, -132.00000) camera=(-115.68680, 13.78829, -122.79720) cameraRotation=(-0.10938, 0.87543, -0.40822, -0.23457) fov=60 sun=Test Sun sunIntensity=1.5 tone=Neutral exposure=0 totalThumbnailLights=2 activeThumbnailLights=0 nativeThumbnailLights=0
+hall_1f player=(-22.00000, 2.08000, -27.00000) camera=(-16.68676, 15.74415, -17.79720) cameraRotation=(-0.10938, 0.87543, -0.40822, -0.23457) fov=60 sun=Test Sun sunIntensity=1.5 tone=Neutral exposure=0.25 totalThumbnailLights=2 activeThumbnailLights=0 nativeThumbnailLights=0
+hall_2f player=(-22.00000, 8.08000, -27.00000) camera=(-16.68676, 21.74415, -17.79720) cameraRotation=(-0.10938, 0.87543, -0.40822, -0.23457) fov=60 sun=Test Sun sunIntensity=1.5 tone=Neutral exposure=0.25 totalThumbnailLights=2 activeThumbnailLights=0 nativeThumbnailLights=0
+icon=AR_001 width=768 height=323 visiblePixels=73366
+inventory open renderedIcons=1 thumbnailLights=2 active=0
+inventory closed activeThumbnailLights=0 nativeThumbnailLights=0
+RESULT PASS

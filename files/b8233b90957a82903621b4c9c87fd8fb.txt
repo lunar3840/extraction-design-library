@@ -1,0 +1,77 @@
+PASS fixture adds AR_001
+PASS fixture equips owned rifle
+PASS fixture adds item_018
+PASS fixture adds att_mag_extended
+PASS fixture adds att_muzzle_rifle_suppressor
+PASS fixture adds att_tactical_combo
+PASS fixture adds att_foregrip_vertical
+PASS fixture adds att_tactical_laser
+PASS fixture adds att_optic_4x
+PASS profile equips att_mag_extended: 
+PASS profile equips att_muzzle_rifle_suppressor: 
+PASS profile equips att_tactical_combo: 
+PASS modded profile rifle reload begins
+PASS expanded magazine reload conserves all rounds
+PASS modded profile rifle fires one round
+PASS camp failed disk commit rejects attachment change
+PASS failed camp change restores exact profile and keeps live weapon object
+PASS failed camp change preserves fire cooldown (10.3000000029802 / 10.3000000029802)
+PASS failed camp change preserves accumulated spread (0.447999984025955 / 0.447999984025955)
+PASS failed camp change preserves tactical state and all rounds
+PASS profile equips att_foregrip_vertical: 
+PASS successful camp change preserves fire cooldown (10.3000000029802 / 10.3000000029802)
+PASS successful camp change preserves ownership and ammunition
+PASS complete profile JSON round-trip retains installed parts
+PASS complete profile JSON retains gun identity loaded rounds and device state
+PASS JSON round-trip has no transient reload or duplicate rounds
+PASS attachment-bearing profile departs
+PASS departure keeps live weapon object
+PASS departure keeps live fire cooldown (10.3000000029802 / 10.3000000029802)
+PASS profile equips att_optic_4x: 
+PASS profile equips att_tactical_laser: 
+PASS raid modding changes no committed departure checkpoint
+PASS raid modding keeps same live gun and finite ammunition
+PASS raid modding does not reset fire cooldown (10.3000000029802 / 10.3000000029802)
+PASS modding cannot bypass shot cadence
+PASS raid reload begins after modding
+PASS raid modification is blocked during pending reload
+PASS blocked change preserves pending reload deadline (13.635999917984 / 13.635999917984)
+PASS blocked pending-reload change is atomic
+PASS failed extraction preserves raid modifications for retry
+PASS failed extraction leaves pre-raid committed save intact
+PASS retry extraction commits modded raid gun
+PASS saved extraction retains raid changes after JSON restore
+PASS extraction JSON retains ammunition identity and enabled device
+PASS replaced tactical device exists exactly once as loose cargo after extraction
+PASS fixture adds AR_001
+PASS death fixture equips rifle
+PASS fixture adds item_018
+PASS fixture adds att_muzzle_rifle_suppressor
+PASS fixture adds att_mag_extended
+PASS fixture adds att_tactical_combo
+PASS profile equips att_muzzle_rifle_suppressor: 
+PASS profile equips att_mag_extended: 
+PASS profile equips att_tactical_combo: 
+PASS death fixture begins finite reload
+PASS death fixture has only one occupied rifle with embedded parts
+PASS death fixture departs
+PASS death transaction captures modded gun
+PASS death state rejects modding
+PASS failed death save retains retry state
+PASS death return commits once
+PASS death clears live bag and creates one deterministic recovery item
+PASS grave keeps gun identity and follows existing lost-magazine policy
+PASS grave JSON retains all installed attachments
+PASS return sortie can access saved grave
+PASS grave recovery transfers complete modded weapon
+PASS recovered modded gun extracts
+PASS recovery removes grave claim with no recreated ammo
+PASS recovered weapon retains parts through second extraction JSON
+PASS generated shop product purchases a real bag attachment
+PASS shop charges attachment price exactly once
+PASS fixture adds AR_001
+PASS profile equips att_muzzle_rifle_suppressor: 
+PASS selling selected second same-type gun handles installed attachment ownership
+PASS selected gun sale credits body plus embedded part once and retains other same-type gun
+PASS shop integration final profile remains valid and saveable
+PASS independent profile integration: 76 assertions

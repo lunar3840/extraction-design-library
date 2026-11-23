@@ -1,0 +1,5 @@
+PASS
+clusters=80
+blockingBoxColliders=241
+spawnToIndoorAndExitPaths=156
+Existing building geometry untouched. A scene and A prefab receive additive cover only.

@@ -1,0 +1,83 @@
+{
+  "modelCameraPairs": [
+    {
+      "view": "car_iso.png",
+      "exactCamera": true
+    },
+    {
+      "view": "car_top.png",
+      "exactCamera": true
+    },
+    {
+      "view": "car_detail.png",
+      "exactCamera": true
+    },
+    {
+      "view": "car_noivy_iso.png",
+      "exactCamera": true
+    },
+    {
+      "view": "car_noivy_top.png",
+      "exactCamera": true
+    },
+    {
+      "view": "car_noivy_detail.png",
+      "exactCamera": true
+    },
+    {
+      "view": "building_iso.png",
+      "exactCamera": true
+    },
+    {
+      "view": "building_top.png",
+      "exactCamera": true
+    },
+    {
+      "view": "building_detail.png",
+      "exactCamera": true
+    },
+    {
+      "view": "car_noivy_low.png",
+      "exactCamera": true
+    }
+  ],
+  "buildingImages": [
+    {
+      "view": "iso",
+      "byteIdentical": true
+    },
+    {
+      "view": "top",
+      "byteIdentical": true
+    },
+    {
+      "view": "detail",
+      "byteIdentical": true
+    }
+  ],
+  "buildingCoreExact": true,
+  "existingCarBodyAndFragmentsChanged": [],
+  "addedMeshes": [
+    "__RuinGenerated_VehicleBacking_Model"
+  ],
+  "noIvyReloadImages": [
+    {
+      "view": "iso",
+      "byteIdentical": true
+    },
+    {
+      "view": "top",
+      "byteIdentical": true
+    },
+    {
+      "view": "detail",
+      "byteIdentical": true
+    },
+    {
+      "view": "low",
+      "byteIdentical": true
+    }
+  ],
+  "sameIvyRecipeButSurfaceAttachmentsMayChange": true,
+  "beforeIsFreshPreChangeCapture": true
+}

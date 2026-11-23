@@ -1,0 +1,7 @@
+generation,seconds,human,threat,position,goal,agentDestination
+ordinary,5.45,H1_02_Scavenger,G6_02_SpiderLight,"(-108.75, 1.38, -0.50)","(-108.75, 1.38, -0.50)","(-108.75, 1.38, -0.50)"
+ordinary,6.25,N1_Breacher,G6_02_SpiderLight,"(-108.08, 1.35, 4.73)","(-107.91, 1.35, 13.72)","(-107.91, 1.35, 13.72)"
+contact,61.26,H2_03_Suppressor,G10_01_SpiderLight,"(93.22, 6.23, 37.56)","(87.67, 5.99, 35.43)","(87.67, 5.99, 35.43)"
+contact,64.82,H1_03_Scavenger,G6_02_SpiderLight,"(-104.60, 1.42, 2.25)","(-97.03, 1.58, 7.14)","(-97.03, 1.58, 7.14)"
+contact,65.26,H1_02_Scavenger,G6_02_SpiderLight,"(-104.38, 1.44, 4.32)","(-96.91, 1.56, 9.31)","(-96.91, 1.56, 9.31)"
+contact,66.24,N1_Breacher,G6_02_SpiderLight,"(-108.81, 1.34, 4.72)","(-115.16, 1.24, 11.10)","(-115.16, 1.24, 11.10)"

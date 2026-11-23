@@ -1,0 +1,7 @@
+Before repair capsule casts, radius .4 height 2
+SWR_01 facade East gap 1.2 (-171.48, 0.04, -150.50) -> (-168.91, 0.03, -150.08) hits=East_Broken__Collision
+SWR_02 facade East gap 1.2 (-159.29, 0.03, -182.06) -> (-156.70, 0.03, -181.91) hits=East_Broken__Collision
+SWR_03 facade East gap 1.1 (-100.46, 0.18, -172.86) -> (-97.92, 0.18, -172.28) hits=East_Broken__Collision
+SWR_04 facade East gap 1.8 (-234.54, 0.03, -58.47) -> (-231.94, 0.03, -58.56) hits=East_Broken__Collision
+NWC_01 removed interior partition -3.5 (-138.76, 5.03, 164.48) -> (-139.34, 5.05, 167.01) hits=InteriorPartition_L__Collision
+NWC_02 removed interior partition -5.8 (-232.89, 4.76, 173.39) -> (-233.69, 4.73, 175.86) hits=InteriorPartition_L__Collision

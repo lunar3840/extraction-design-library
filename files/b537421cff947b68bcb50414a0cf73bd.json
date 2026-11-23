@@ -1,0 +1,21 @@
+{
+  "thread": "01a1aa62-ae2b-7ac3-a99c-8fb67424d0b4",
+  "host": "DESKTOP-2TKQ90L",
+  "turns": [
+    {
+      "id": "01a1d204-a38f-7c71-9d88-1a3078abf3a0",
+      "date": "2026-11-13",
+      "startedAt": 1794524881,
+      "contentSHA256": "3d5c373ea62218bc869a27807ecfd842797921aefae86301f263ed2f35022d3d",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    },
+    {
+      "id": "01a1d1e2-4b60-7543-8bed-79a188c98747",
+      "date": "2026-11-13",
+      "startedAt": 1794522631,
+      "contentSHA256": "5a997a2de977db7bcc83cff797e4d09c67a39ca30693c751d85dcde0e29c110f",
+      "coverage": "Returned cached user/final response evidence; long messages may be truncated; not a claim of complete recovery."
+    }
+  ],
+  "originals": "Local archive preserved; public owner reports are the source documents. Excluded retouch chats and private references are not included."
+}

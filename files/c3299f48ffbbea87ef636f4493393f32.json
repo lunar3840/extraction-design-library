@@ -1,0 +1,31 @@
+{
+  "editorClean": true,
+  "sceneHash": "8670cf85f4de5dc9e6dafca3ce8b2bac927ed016efd5141e6aa2c391fd525150",
+  "helperFilesRemoved": 16,
+  "differences": [],
+  "pendingRequest": false,
+  "legacyBridgeLogs": [
+    {
+      "restored": true,
+      "hash": "89c35d2a64ac092bb8d87dcc1e940cd7b8775ad837d8ce2772d0ac197d41761e",
+      "file": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-enemy-placement-unity/COMMAND_status.txt"
+    },
+    {
+      "restored": true,
+      "hash": "0bd2ca3bb5188027e92c5fe75eace29e49d4428b091b73d6f70fb4646b7340e3",
+      "file": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-enemy-placement-unity/COMMAND_refresh.txt"
+    },
+    {
+      "restored": true,
+      "hash": "8e7d5581e250b329300db160563300d6dfd454560cca900728346b52a5619680",
+      "file": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-15/a-map-enemy-placement-unity/COMMAND_invoke.txt"
+    }
+  ],
+  "afterCount": 9065,
+  "beforeCount": 9065,
+  "checkedAtKst": "2026-10-29 15:18:30 +09:00",
+  "allOwnedAbsent": true,
+  "productionUnchanged": true,
+  "editorAssemblyWriteUtc": "2026-10-29T06:13:37.0951275Z",
+  "prefabHash": "9489641679e2d21554e7475f47b779d3e1d6d95d6a79dfeb3f30000bd3af7568"
+}

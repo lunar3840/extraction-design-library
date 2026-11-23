@@ -1,0 +1,61 @@
+MODE LEGACY_B_ONLY: Stage A was not validated
+PASS boot has no Unity errors
+PASS integrated SystemsTest world is ready
+PASS title does not show the new base or activate a profile
+PASS title does not create a save
+PASS failed first save cannot reveal the base or start gameplay
+PASS new slot enters the base
+PASS new slot defaults to a walkable base
+PASS base gameplay and protected player mode are active
+PASS player starts at the base arrival point
+PASS base hides both stage roots
+PASS base disables legacy stage navigation
+PASS base has solid floor, edge and facility colliders
+PASS TAB mode opens the retained UI without moving the player
+PASS TAB mode returns to walking at the same location
+PASS base storage panel can open
+PASS TAB closes a modal before showing the retained UI
+PASS stations cannot be used from the remote arrival point
+PASS Departure has a distinct reachable interaction point
+PASS Departure opens its existing shared facility panel
+PASS Storage has a distinct reachable interaction point
+PASS Storage opens its existing shared facility panel
+PASS Supply has a distinct reachable interaction point
+PASS Supply opens its existing shared facility panel
+PASS Quest has a distinct reachable interaction point
+PASS Quest opens its existing shared facility panel
+PASS workbench is visibly reachable but has no crafting or housing panel
+PASS locked destination remains unavailable from the shared front end
+PASS temporary profile explicitly removes its default companion chip for guard coverage
+PASS companion chip requirement applies to physical and UI departure alike
+PASS temporary profile selects a clean companion chip
+PASS legacy-only first departure selects temporary B access
+PASS physical departure opens the same preparation panel
+PASS departure enters its save transition
+PASS duplicate departure is rejected
+PASS failed departure save leaves the same live base and session
+PASS failed departure save preserves disk state
+PASS departure can retry after the file lock clears
+PASS successful departure hides the base
+PASS legacy-only first operation shows B and hides A if present
+PASS legacy-only first operation uses B navigation
+PASS legacy-only first operation retains B origin spawn
+PASS station commands cannot run during an operation
+PASS successful extraction returns to a clean walking base
+PASS extraction restores base spawn with stage roots hidden
+PASS extraction removes stage navigation from the base
+PASS shared destination can select unlocked B
+PASS physical departure reads the destination selected in the UI
+PASS B departure uses the same transition
+PASS legacy operation shows only the legacy stage
+PASS legacy operation restores only legacy navigation
+PASS legacy operation retains its existing origin spawn
+PASS death waits in the active stage rather than exposing the base
+PASS failed death save retains the frozen stage for retry
+PASS death save returns to the walking base
+PASS death return removes stage navigation from the base
+PASS base can request saved title return
+PASS title return hides the base and freezes gameplay
+PASS saved slot can be reloaded
+PASS reloaded slot opens the walking base at its arrival point
+PASS run has no Unity errors

@@ -1,0 +1,19 @@
+A_MAP_CONTACT_DIAGNOSTIC
+mode=W5_visibility
+startedUtc=2026-10-29T06:07:53.8697040Z
+CONTROL only live player/CC warped. NPC frozen/automatic off, world timers off. No asset/scene/save writes. One Simulate(1/60) per distinct rendered game frame; this remains a controlled collision/visibility test, not survival balance.
+playerCC radius=0.400000 height=2.000000 center=0.000000,1.000000,0.000000 stepOffset=0.250000 skinWidth=0.020000 slopeLimit=45.000000 scale=1.000000,1.000000,1.000000
+store=C:\Users\ehoji\AppData\Local\Temp\DefaultCompany\escape\StageMapPreview\a08b5a6895714d6e8224c07f43cf1506\slot-1.json actorsFrozen=71
+COLLIDER MAP StageA_Relay_Blockout_v08/StageA_Landform_v09/SurfaceTiles/LandSurface_09 type=MeshCollider boundsCenter=-65.000000,0.950000,-50.000000 boundsSize=130.000000,2.100000,100.000000 layer=0 trigger=False
+MESH asset=Assets/Escape/Art/RealismV13/TerrainCuts/Cut_LandSurface_09.asset mesh=V13_Cut_LandSurface_09 vertexCount=17630 readable=True convex=False
+SETTLED frames=10 player=-92.000000,0.022240,-93.000000 grounded=True camera=-87.253000,13.689370,-84.520490
+CAPTURE requested ScreenCapture actual Game view after10 natural camera/roof-update frames; camera-only image separately named.
+W5 feet=-92.000000,0.022240,-93.000000 view=-87.253000,13.689370,-84.520490 rotation=49.999990,210.000000,-0.000001 FOV=60.000000
+COLLIDER MAP StageA_Relay_Blockout_v08/EnclosuresV33_ConnectedFacilities/Buildings/S11/BlenderExpansion_S11_Shell/S11_Shell/S11_Shell_colliderOnly type=MeshCollider boundsCenter=-79.148160,2.462370,-95.260010 boundsSize=27.319640,4.669352,27.574460 layer=0 trigger=False
+MESH asset=Assets/Escape/Art/BlenderEnvironmentExpansion/Buildings/S11/S11_Shell.fbx mesh=S11_Shell_colliderOnly vertexCount=4960 readable=True convex=False
+V33_REVEAL active=True revealing=False
+NOTE physics rays omit non-colliding roof renderers. Human inspection of game image decides character readability; ray list alone is not visibility PASS.
+SCREEN_CAPTURE_FILE_EXISTS=True
+VISIBILITY_CAPTURE_COMPLETE; image still requires human review
+
+STATE FINISHED step=0

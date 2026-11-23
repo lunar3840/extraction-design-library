@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "verifiedAt": "2026-10-27T12:56:32.322Z",
+  "url": "https://extraction-balance-editor.ehojin0415.chatgpt.site",
+  "version": 10,
+  "sourceFingerprint": "7dae3ef2c6cfcc501fd08cdacdaba5ce0cddde4710f4ae120bdbf41d8d773f8e",
+  "baselineFingerprint": "7dae3ef2c6cfcc501fd08cdacdaba5ce0cddde4710f4ae120bdbf41d8d773f8e",
+  "rows": 12931,
+  "numbers": 8530,
+  "datasets": 103,
+  "publicDifferences": [
+    {
+      "id": "Assets/Escape/Runtime/Stage/Blockout/StageMapRouter.cs#L135:3",
+      "before": 0.3,
+      "after": -0.3
+    }
+  ],
+  "publicExport": {
+    "allDatasetsChecked": true,
+    "rows": 12931,
+    "numbers": 8530,
+    "failures": [],
+    "numericFormat": "csharp-literal-v3"
+  },
+  "localExport": {
+    "allDatasetsChecked": true,
+    "rows": 14685,
+    "numbers": 9993
+  },
+  "migrationHistory": [
+    {
+      "action": "numeric-parser-repaired",
+      "at": "2026-10-27T12:55:50.334Z",
+      "changes": 1,
+      "files": [
+        "Assets/Escape/Runtime/Stage/Blockout/StageMapRouter.cs"
+      ],
+      "status": "completed",
+      "jobId": null
+    }
+  ],
+  "stableAfterSecondRead": true,
+  "unauthenticated": true,
+  "realUnitySourceWrites": 0
+}

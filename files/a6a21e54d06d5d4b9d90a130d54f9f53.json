@@ -1,0 +1,358 @@
+[
+  {
+    "path": "Assets/AE_Battle Royale_Props.meta",
+    "sha256": "3af68970fa98da791780508254cf67ef591fd599de0c903d6b629e6636042eae"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Materials.meta",
+    "sha256": "6fded074188437be408732e27dfa4558cc2c2ba9ede17e6b761125bf5ea27214"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Materials/AE_Special_Forces_Helmet.mat",
+    "sha256": "37b5e291b5c023dc02b85296731b2b1158f6134011f15ddf1ee76e39f469476f"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Materials/AE_Special_Forces_Helmet.mat.meta",
+    "sha256": "f10de12917b884a89e2507b078c1356a68508fe98dec8e7ec2da2c3069f16c93"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Materials/AE_Vest_Body.mat",
+    "sha256": "156a45b8314f0be27bc5de11b43d8175820d0e1623aabb0f60921a503c135a25"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Materials/AE_Vest_Body.mat.meta",
+    "sha256": "df84a88ec311526f29329668efc01fc448e72706422984ccd56a939bc2ed3e74"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Models.meta",
+    "sha256": "2050125815fb5d9c4a29d4f259807375832a64a4f9e14f54babc0ba9e67b052e"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Models/AE_Special_Forces_Helmet.fbx",
+    "sha256": "5c622ce1858e283856086e6e95a710a1f25ae3dbc0c15f080d5bf4dc8f3aa449"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Models/AE_Special_Forces_Helmet.fbx.meta",
+    "sha256": "fab70e0cf32e9ea248789e8bad6d1a0129bad1d2438f87a1fa384abd3151921b"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Models/AE_Vest_Body.fbx",
+    "sha256": "19f331a2fbbe94efd4de731d69f97aeff0bdf1bea6d82e985496995419483d12"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Models/AE_Vest_Body.fbx.meta",
+    "sha256": "a9ba72a07db6b8faadb41b7301d22bc6e0e0aef8b21d541373a23eb54f705166"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Prefabs.meta",
+    "sha256": "32021cd7736b4007abc666e092d3333feb0def0446df2dc73d6a77390e3a26bd"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Prefabs/AE_Special_Forces_Helmet.prefab",
+    "sha256": "ea7a602f46ae99a4c9abc89fa134e6a2c7933442b7a89ea5a314685fcb062eb5"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Prefabs/AE_Special_Forces_Helmet.prefab.meta",
+    "sha256": "1100ead20d1353c75161477aeb34e4c29f1d06747494f76841b771081b5ac38a"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Prefabs/AE_Vest_Body.prefab",
+    "sha256": "2f600f0f21d8217ab6a73bb027da52449252552addd7b4c77017fe27c6c9d4d3"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Prefabs/AE_Vest_Body.prefab.meta",
+    "sha256": "46a11e4a0ca947325646c8c2d5876274bc89028b6b5b4d107a3a25b5c793e472"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures.meta",
+    "sha256": "5a70fed3713e7f3e60d2913eae15de345636fb351ce339f384d3c2e978af3576"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Special_Forces_Helmet.meta",
+    "sha256": "11add64426b106945d8bb6c3f46a073a742eeedf10d3fcac767a99801d47bf33"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Special_Forces_Helmet/AE_Special_Forces_Helmet_A.tga",
+    "sha256": "dee21ac8b96a186a97877fe846196f5876ede59c55c2ce97eff17b52b9c25115"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Special_Forces_Helmet/AE_Special_Forces_Helmet_A.tga.meta",
+    "sha256": "40aeee726fd2e92d8798a5073fae1b9fc806914d32dcda8fa3d81bcd87f34c88"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Special_Forces_Helmet/AE_Special_Forces_Helmet_AO.tga",
+    "sha256": "bc9f2f11ee16fee6534f429a8625dd95c10eb5e3158d1e52f497858652f71d27"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Special_Forces_Helmet/AE_Special_Forces_Helmet_AO.tga.meta",
+    "sha256": "1cb7f319e12e8aa95584540651253f2261e5b4c94f447787bbbbc819f5877197"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Special_Forces_Helmet/AE_Special_Forces_Helmet_MS.tga",
+    "sha256": "7986fc07f384b2e5350a6e2e02899f2969bf20ed68a3262c3ebea3dac8a47aeb"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Special_Forces_Helmet/AE_Special_Forces_Helmet_MS.tga.meta",
+    "sha256": "f8120bae92f46dcbb843c4014b3bb83f9eb5921d8442fd0799fd3d942d6a4aa9"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Special_Forces_Helmet/AE_Special_Forces_Helmet_N.tga",
+    "sha256": "158a66bb670f8a9131884d08a6fd9a9866bc4784091de85fd92b911bfd653951"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Special_Forces_Helmet/AE_Special_Forces_Helmet_N.tga.meta",
+    "sha256": "0a5819b23e2f29773f1fee50073a35d24b9ce49fdd3232dd36a0561740651303"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Vest_Body.meta",
+    "sha256": "088a99e692d1becc3763e14499fde2caa5d9e699278423ec78e4912b4559fe5a"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Vest_Body/AE_Vest_Body_A.tga",
+    "sha256": "df8b154cb204596ac26a97b18b1ec7b25ecd51ed4a4eb5689cfc22db4d0968f1"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Vest_Body/AE_Vest_Body_A.tga.meta",
+    "sha256": "c63e08e6272c5418813cbac172911a859b4ce0ef5dd562a3eb809fc5d7c744da"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Vest_Body/AE_Vest_Body_AO.tga",
+    "sha256": "778fc22155ae14b4f7ea9383c7ed30a312f050578afc183a072f9869b5132f04"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Vest_Body/AE_Vest_Body_AO.tga.meta",
+    "sha256": "a7b14e72fb3ab1d6a282dd8c12bc4ae9afc2d4b7a0087c01032ecb46ebb52c5f"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Vest_Body/AE_Vest_Body_MS.tga",
+    "sha256": "f769b5e9a86dd6bff13eb176d2980060f3c60d1ed507b212c8d79a0d989e3beb"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Vest_Body/AE_Vest_Body_MS.tga.meta",
+    "sha256": "539c9b80fdf4e278f450f9e052d82447169dfbcf0d831210be3adcdc5691b44d"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Vest_Body/AE_Vest_Body_N.tga",
+    "sha256": "b81921fded0cfa2403090c0a963a56d9bb6b90e3606bfab0142cbb6514fa4685"
+  },
+  {
+    "path": "Assets/AE_Battle Royale_Props/Textures/AE_Vest_Body/AE_Vest_Body_N.tga.meta",
+    "sha256": "af1dc6b1feccbd7b14aee439f591f20d310babe144a4a9d60cdb9c6b31239d03"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor.meta",
+    "sha256": "a336640ebac8f8ea303e905fb6e4495bded0e616d06bd321d16909f15c69d2e7"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/AE_Special_Forces_Helmet_URP.mat",
+    "sha256": "c6ab0f3f1dcdd4c9debc9f8633c488e0116dd54571435eedb342c83f9a753e50"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/AE_Special_Forces_Helmet_URP.mat.meta",
+    "sha256": "5691d3ffab8453de23afceba2a473b94d2e0a0dbd1caba19dee6bafcd8d037a0"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/AE_Vest_Body_URP.mat",
+    "sha256": "9610aa0bc50eb04e914fa460871ef75f0856da7c09390b28856ced564ada9684"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/AE_Vest_Body_URP.mat.meta",
+    "sha256": "cbfebe6963fc70d7f73e9ea7b7304dd9a995744a8e264b6f0055126245228e15"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/ArmorLibrary.asset",
+    "sha256": "efccfdde042b396b25c336eb20e72dab4c0c0d447dfbe117e448736c243e5f87"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/ArmorLibrary.asset.meta",
+    "sha256": "306f0bfcc85cb3ac79e9e525b2c3569a263dd4844795978741b4dbe801079563"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/HelmetCap.mat",
+    "sha256": "6a5fae1de033f8dc1ffc5b01c897c6df29560264221c073b626de4967303864d"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/HelmetCap.mat.meta",
+    "sha256": "0228e42c3f17de959a76319275f4d6fe07fa06fe92abde80d57600fb7d18b8b0"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_Helmet.prefab",
+    "sha256": "bb2975415303cf3955863631694422542f3a7978d7f1dd6dbca5b681ce8517b0"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_Helmet.prefab.meta",
+    "sha256": "51cc558a3309dce796227c943e490fad953d1a0d02f7f2248a5295f69f6d0ec6"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_HelmetCap.asset",
+    "sha256": "49b17551e26cea40b03a71ebb8de5f04f4322aafe278efc379d6610bc614213e"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_HelmetCap.asset.meta",
+    "sha256": "e4e7cd72fcac1e37db3d1e874e776f1d650cb66fbff01eec5e09221b61b51aee"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_Mesh_Costume_03_Covered.asset",
+    "sha256": "591abad5c34d23e9eec02036792b41a12865d5f915b61c8fb3cb91fb52d40b55"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_Mesh_Costume_03_Covered.asset.meta",
+    "sha256": "8824b452e1d9ef5ccac495921bf4b5b96f3a5b35b90973d6139ccb05bb0b11ea"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_Mesh_Costume_03_Skin_Covered.asset",
+    "sha256": "8fbfe515633239bc424924f81e954b3a5d0b76c7877841c9f063e1988795e5fb"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_Mesh_Costume_03_Skin_Covered.asset.meta",
+    "sha256": "62d2d4f1d319b51b712008e69d92b106d9ad93ed72997bb62f6a4d88b2c506fa"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_Vest.prefab",
+    "sha256": "a18d6d336147b750d15390b80a27fd86caa87a4600459345c910c48e276e7fe5"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Melee_Yuko_Vest.prefab.meta",
+    "sha256": "789fa53df052230eaa2412d76c324b1a26b2538f322581f68995240e3ece0744"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_Helmet.prefab",
+    "sha256": "2f44f3388faa347eef7acf8a33e71a0d818f65c477c38ffe3eac30d6993ab97c"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_Helmet.prefab.meta",
+    "sha256": "dd6546567c97e82c469fa95cca229f652f0d72f44f6a90e7deb9fc2b45167796"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_HelmetCap.asset",
+    "sha256": "f8742d1ddc8dbda1f830bfb6c19ac7873dcd0c6a72498d4907025e01a396121e"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_HelmetCap.asset.meta",
+    "sha256": "e202a752f4f187ab8eab6c4e15510ae03d7128ab112f79bba83dc93f8bdc0e0c"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_Mesh_Costume_01_Covered.asset",
+    "sha256": "bb9337a5a7a41e0df36583bd8c5a3999b0d749b20eb2b32eb072efa8def5485e"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_Mesh_Costume_01_Covered.asset.meta",
+    "sha256": "5d189ca50e16dc8f657e31db6add6bbf72558b7092a833bf09071832a0914395"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_Mesh_Costume_01_Skin_Covered.asset",
+    "sha256": "1b2bb21329a8d35c3a98897f161e341197de6e601b3cf6868a567981d29c9f71"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_Mesh_Costume_01_Skin_Covered.asset.meta",
+    "sha256": "2499e9441f8cdeed2a4351a9dca171b6f0c7d057411746e0b3f06405d5f3692e"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_Vest.prefab",
+    "sha256": "659144320889158c5a5c6c0d46e8030ceb807fffb63b2fed13116c117478b6d7"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Player_UnityChan_Vest.prefab.meta",
+    "sha256": "f52229ef05563440e39a7a5cafa6d678731986d7d4d122809af9757003ed9454"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_Helmet.prefab",
+    "sha256": "6f2c3848926624761f6c18213159d578888cf632bc20bb1e88da26df3d34a4b7"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_Helmet.prefab.meta",
+    "sha256": "576ba62e2ed1a66cdbd7350eecb1911d4d52b47582deb7ad717cf2572f84466a"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_HelmetCap.asset",
+    "sha256": "9a6c38430064fd12ac7b4093c1efb3cf2e4e21fb5ecd3175b65a836747672a0b"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_HelmetCap.asset.meta",
+    "sha256": "1547bfa4e5d6aa4bc0fd20fb4a67bb620eeba7d14caae73944bb4f5d77889d02"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_Mesh_Costume_02_Covered.asset",
+    "sha256": "f4c5ca11f034f30b551763b727ea37ab6b606a2d3ce91077c79e233017aac475"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_Mesh_Costume_02_Covered.asset.meta",
+    "sha256": "50b3b6a9669efa4a08993d3ce10ffdad148d212732ddc757a318021bc3ccd51e"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_Mesh_Costume_02_Skin_Covered.asset",
+    "sha256": "784f698397080b5571cfa09b29adf0dcc4283b548741dc2af23409ffb74e9a8a"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_Mesh_Costume_02_Skin_Covered.asset.meta",
+    "sha256": "1705ab86dbf0f7cab30b56b95a58c867bc9f1da42b609874b10fc2e2fff46aa5"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_Vest.prefab",
+    "sha256": "37956cf9a26f4d1bc76a3330c35bea20d356de6e7ede5ac2fa04843b65495a5c"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/Ranged_Misaki_Vest.prefab.meta",
+    "sha256": "297d07e00a63679807a0d54ff13b040e2aa4f10926c1614482f683ce302564f9"
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdArmorLibrary.cs",
+    "sha256": "76780b34992a10cd6e5ec73617e4af108cfbab9ca1a9a4691577155ad73dfec0"
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdArmorLibrary.cs.meta",
+    "sha256": "4214ee4dda62cabd3cf2e240f69895867aebf0823a6bc37fa995527f0f6d7e1b"
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdArmorVisual.cs",
+    "sha256": "0d04cebd904fab4980f502d046343cece5e4f9175d7cc1e05b754b9c8544ca93"
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdArmorVisual.cs.meta",
+    "sha256": "037144511b71190366c11c26dff915d78bc45508a632796c54dee06bf938a9bc"
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdCharacterVisual.cs",
+    "sha256": "2482350a408a785bf38e980e23f517412a885744a3419677f0620cc63e4bb5e6"
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Animation Setting/_Avatar_HaonSdCharacter_Common.fbx",
+    "sha256": "ce2a7a24291e255b5a7d3479c305c1949ccc637ff7589a2a36b3baeb7d95e186"
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Animation Setting/_Avatar_HaonSdCharacter_Common.fbx.meta",
+    "sha256": "a0fd2eba1822e38712850b7a3570425f393fb9f40fa994fe7bb7a7c0bd1236aa"
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Mesh/CharacterParts/mesh_Costume1.fbx",
+    "sha256": "0c8c5953b425acaaf438f9e8f1c59e2818222ea9c130e31eede08c2b9fef928d"
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Mesh/CharacterParts/mesh_Costume1.fbx.meta",
+    "sha256": "cd316125d10ec88308efee281776c85d22bdf11d592fde27205fe2a895593d4a"
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Mesh/CharacterParts/mesh_Costume2.fbx",
+    "sha256": "f776a91ab35dbea442f9a24a42a8bdf795f53922c58e99bc2894b3b981e18491"
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Mesh/CharacterParts/mesh_Costume2.fbx.meta",
+    "sha256": "57d40b6b0ea7495c1bd68f0503e0fbc90a1c32f67eb1b3c0a3faaf174450003c"
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Mesh/CharacterParts/mesh_Costume3.fbx",
+    "sha256": "a9ee04cce1faa2c538e788b593448c461bda69bca772595113761d61dcbb4626"
+  },
+  {
+    "path": "Assets/Haons SD series Pack/Mesh/CharacterParts/mesh_Costume3.fbx.meta",
+    "sha256": "572c89aedc8fdc2da87c18add79ad4cc224b089b59d538309d94ffbd13272ee6"
+  },
+  {
+    "path": "Assets/Haons SD series Pack/_GuideAsset/Materials/Guide_20.mat",
+    "sha256": "27617f53d7162043fa573cb67b894279aabe08e0c598bb86727b36c01ee5cfa1"
+  },
+  {
+    "path": "Assets/Haons SD series Pack/_GuideAsset/Materials/Guide_20.mat.meta",
+    "sha256": "861b2265d53c21a8c60147101000a240ade033211276e39cf1169715d956bbcf"
+  }
+]

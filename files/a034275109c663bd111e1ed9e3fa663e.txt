@@ -1,0 +1,90 @@
+CONTROLLED G12_02 CANDIDATE DIAGNOSTIC
+Only this actor is warped; frozen and automatic ticks disabled temporarily. Production geometry, model, tuning and NavMesh are unchanged. Stop Play after collecting results.
+ACTUAL agentType=0 areaMask=-1 radius=0.9 height=1.35 leash=18
+Original actor=(-4.44029, 2.04000, 19.07556) mode=Idle motion=Stop
+
+VARIANT A matchesObservedB4=False horizontalError=4.908156 heightError=0 spawn=(-8.71216, 2.04000, 21.49246)
+LEG 0 from=(-8.71216, 2.04000, 21.49246) goal=(-8.71216, 2.04000, 21.49246) warp=True rawNav=True/PathComplete actualAgent=True/PathComplete corners=1
+CORNER (-8.71216, 2.04000, 21.49246) homeDistance=0
+PRECONDITIONS goalSample=True sampledGoal=(-8.71216, 2.04000, 21.49246) sampledHomeDistance=0 pathLeash=True actualBodyClearAlong=True
+BODY_REJECT_DISTINCT_COLLIDERS=0
+SAMPLED_GOAL_ACTUAL_AGENT calculated=True status=PathComplete corners=1 leash=True BodyClearAlong=True
+BODY_REJECT_DISTINCT_COLLIDERS=0
+REAL_MOVE_RESULT stopped=False hasPath=False pathStatus=PathComplete requestedSpeed=2.1 speed=0 remainingDistance=0
+INTERPRETATION acceptedPath=False; speedZeroAloneDoesNotProveRejection
+LEG 1 from=(-8.71216, 2.04000, 21.49246) goal=(-5.71216, 2.04000, 21.49246) warp=True rawNav=True/PathComplete actualAgent=True/PathComplete corners=2
+CORNER (-8.71216, 2.04000, 21.49246) homeDistance=0
+CORNER (-5.71216, 2.04000, 21.49246) homeDistance=3
+PRECONDITIONS goalSample=True sampledGoal=(-5.71216, 2.04000, 21.49246) sampledHomeDistance=3 pathLeash=True actualBodyClearAlong=True
+BODY_REJECT_DISTINCT_COLLIDERS=0
+SAMPLED_GOAL_ACTUAL_AGENT calculated=True status=PathComplete corners=2 leash=True BodyClearAlong=True
+BODY_REJECT_DISTINCT_COLLIDERS=0
+REAL_MOVE_RESULT stopped=False hasPath=True pathStatus=PathComplete requestedSpeed=2.1 speed=0 remainingDistance=3
+INTERPRETATION acceptedPath=True; speedZeroAloneDoesNotProveRejection
+LEG 2 from=(-5.71216, 2.04000, 21.49246) goal=(-8.71216, 2.04000, 21.49246) warp=True rawNav=True/PathComplete actualAgent=True/PathComplete corners=2
+CORNER (-5.71216, 2.04000, 21.49246) homeDistance=3
+CORNER (-8.71216, 2.04000, 21.49246) homeDistance=0
+PRECONDITIONS goalSample=True sampledGoal=(-8.71216, 2.04000, 21.49246) sampledHomeDistance=0 pathLeash=True actualBodyClearAlong=True
+BODY_REJECT_DISTINCT_COLLIDERS=0
+SAMPLED_GOAL_ACTUAL_AGENT calculated=True status=PathComplete corners=2 leash=True BodyClearAlong=True
+BODY_REJECT_DISTINCT_COLLIDERS=0
+REAL_MOVE_RESULT stopped=False hasPath=True pathStatus=PathComplete requestedSpeed=2.1 speed=0 remainingDistance=3
+INTERPRETATION acceptedPath=True; speedZeroAloneDoesNotProveRejection
+
+VARIANT B matchesObservedB4=True horizontalError=3.890243E-05 heightError=0 spawn=(-4.44029, 2.04000, 19.07556)
+LEG 0 from=(-4.44029, 2.04000, 19.07556) goal=(-4.44029, 2.04000, 19.07556) warp=True rawNav=True/PathComplete actualAgent=True/PathComplete corners=1
+CORNER (-4.44029, 2.04000, 19.07556) homeDistance=0
+PRECONDITIONS goalSample=True sampledGoal=(-4.44029, 2.04000, 19.07556) sampledHomeDistance=0 pathLeash=True actualBodyClearAlong=True
+BODY_REJECT_DISTINCT_COLLIDERS=0
+SAMPLED_GOAL_ACTUAL_AGENT calculated=True status=PathComplete corners=1 leash=True BodyClearAlong=True
+BODY_REJECT_DISTINCT_COLLIDERS=0
+REAL_MOVE_RESULT stopped=False hasPath=False pathStatus=PathComplete requestedSpeed=2.1 speed=0 remainingDistance=0
+INTERPRETATION acceptedPath=False; speedZeroAloneDoesNotProveRejection
+LEG 1 from=(-4.44029, 2.04000, 19.07556) goal=(-1.44031, 2.04000, 19.07556) warp=True rawNav=False/PathInvalid actualAgent=False/PathInvalid corners=0
+PRECONDITIONS goalSample=True sampledGoal=(-2.04001, 2.04000, 19.07556) sampledHomeDistance=2.400284 pathLeash=True actualBodyClearAlong=True
+BODY_REJECT_DISTINCT_COLLIDERS=0
+SAMPLED_GOAL_ACTUAL_AGENT calculated=True status=PathComplete corners=2 leash=True BodyClearAlong=False
+BODY_REJECT firstFeet=(-2.04001, 2.04000, 19.07556) collider=StageA_Relay_Blockout_v08/V13_HallRoot/Exterior/Facade/BlenderExpansion_HALL_Interior/HALL_Interior/HALL_Interior_colliderOnly bounds=Center: (18.93, 3.38, 1.33), Extents: (20.40, 1.38, 21.14)
+BODY_REJECT_DISTINCT_COLLIDERS=1
+REAL_MOVE_RESULT stopped=False hasPath=False pathStatus=PathComplete requestedSpeed=0 speed=0 remainingDistance=0
+INTERPRETATION acceptedPath=False; speedZeroAloneDoesNotProveRejection
+LEG 2 from=(-1.44031, 2.04000, 19.07556) goal=(-4.44029, 2.04000, 19.07556) warp=True rawNav=False/PathInvalid actualAgent=True/PathComplete corners=2
+CORNER (-2.04001, 2.04000, 19.07556) homeDistance=2.400284
+CORNER (-4.44029, 2.04000, 19.07556) homeDistance=0
+PRECONDITIONS goalSample=True sampledGoal=(-4.44029, 2.04000, 19.07556) sampledHomeDistance=0 pathLeash=True actualBodyClearAlong=False
+BODY_REJECT firstFeet=(-1.44031, 2.04000, 19.07556) collider=StageA_Relay_Blockout_v08/V13_HallRoot/Exterior/Facade/BlenderExpansion_HALL_Interior/HALL_Interior/HALL_Interior_colliderOnly bounds=Center: (18.93, 3.38, 1.33), Extents: (20.40, 1.38, 21.14)
+BODY_REJECT_DISTINCT_COLLIDERS=1
+SAMPLED_GOAL_ACTUAL_AGENT calculated=True status=PathComplete corners=2 leash=True BodyClearAlong=False
+BODY_REJECT firstFeet=(-1.44031, 2.04000, 19.07556) collider=StageA_Relay_Blockout_v08/V13_HallRoot/Exterior/Facade/BlenderExpansion_HALL_Interior/HALL_Interior/HALL_Interior_colliderOnly bounds=Center: (18.93, 3.38, 1.33), Extents: (20.40, 1.38, 21.14)
+BODY_REJECT_DISTINCT_COLLIDERS=1
+REAL_MOVE_RESULT stopped=False hasPath=False pathStatus=PathComplete requestedSpeed=0 speed=0 remainingDistance=0
+INTERPRETATION acceptedPath=False; speedZeroAloneDoesNotProveRejection
+
+VARIANT C matchesObservedB4=False horizontalError=4.908209 heightError=0 spawn=(-3.79965, 2.04000, 14.20938)
+LEG 0 from=(-3.79965, 2.04000, 14.20938) goal=(-3.79965, 2.04000, 14.20938) warp=True rawNav=True/PathComplete actualAgent=True/PathComplete corners=1
+CORNER (-3.79965, 2.04000, 14.20938) homeDistance=0
+PRECONDITIONS goalSample=True sampledGoal=(-3.79965, 2.04000, 14.20938) sampledHomeDistance=0 pathLeash=True actualBodyClearAlong=True
+BODY_REJECT_DISTINCT_COLLIDERS=0
+SAMPLED_GOAL_ACTUAL_AGENT calculated=True status=PathComplete corners=1 leash=True BodyClearAlong=True
+BODY_REJECT_DISTINCT_COLLIDERS=0
+REAL_MOVE_RESULT stopped=False hasPath=False pathStatus=PathComplete requestedSpeed=2.1 speed=0 remainingDistance=0
+INTERPRETATION acceptedPath=False; speedZeroAloneDoesNotProveRejection
+LEG 1 from=(-3.79965, 2.04000, 14.20938) goal=(-0.79965, 2.04000, 14.20938) warp=True rawNav=True/PathComplete actualAgent=True/PathComplete corners=2
+CORNER (-3.79965, 2.04000, 14.20938) homeDistance=0
+CORNER (-0.79965, 2.04000, 14.20938) homeDistance=3
+PRECONDITIONS goalSample=True sampledGoal=(-0.79965, 2.04000, 14.20938) sampledHomeDistance=3 pathLeash=True actualBodyClearAlong=True
+BODY_REJECT_DISTINCT_COLLIDERS=0
+SAMPLED_GOAL_ACTUAL_AGENT calculated=True status=PathComplete corners=2 leash=True BodyClearAlong=True
+BODY_REJECT_DISTINCT_COLLIDERS=0
+REAL_MOVE_RESULT stopped=False hasPath=True pathStatus=PathComplete requestedSpeed=2.1 speed=0 remainingDistance=3
+INTERPRETATION acceptedPath=True; speedZeroAloneDoesNotProveRejection
+LEG 2 from=(-0.79965, 2.04000, 14.20938) goal=(-3.79965, 2.04000, 14.20938) warp=True rawNav=True/PathComplete actualAgent=True/PathComplete corners=2
+CORNER (-0.79965, 2.04000, 14.20938) homeDistance=3
+CORNER (-3.79965, 2.04000, 14.20938) homeDistance=0
+PRECONDITIONS goalSample=True sampledGoal=(-3.79965, 2.04000, 14.20938) sampledHomeDistance=0 pathLeash=True actualBodyClearAlong=True
+BODY_REJECT_DISTINCT_COLLIDERS=0
+SAMPLED_GOAL_ACTUAL_AGENT calculated=True status=PathComplete corners=2 leash=True BodyClearAlong=True
+BODY_REJECT_DISTINCT_COLLIDERS=0
+REAL_MOVE_RESULT stopped=False hasPath=True pathStatus=PathComplete requestedSpeed=2.1 speed=0 remainingDistance=3
+INTERPRETATION acceptedPath=True; speedZeroAloneDoesNotProveRejection
+FINALLY original fields/position/path/flags restored best effort; navigation internal velocity is not snapshotted. Caller must end this diagnostic Play session.

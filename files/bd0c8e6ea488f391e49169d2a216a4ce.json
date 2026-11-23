@@ -1,0 +1,68 @@
+[
+  {
+    "target": "car",
+    "comparison": "weather_only_delta",
+    "meanRGBByte": 0.751263125,
+    "boundingBox": [
+      337,
+      260,
+      1262,
+      834
+    ]
+  },
+  {
+    "target": "car",
+    "comparison": "weather_tuning_03_04",
+    "meanRGBByte": 0.05981208333333333,
+    "boundingBox": [
+      337,
+      260,
+      1262,
+      834
+    ]
+  },
+  {
+    "target": "shell",
+    "comparison": "weather_only_delta",
+    "meanRGBByte": 1.2250220833333334,
+    "boundingBox": [
+      159,
+      186,
+      1435,
+      831
+    ]
+  },
+  {
+    "target": "shell",
+    "comparison": "weather_tuning_03_04",
+    "meanRGBByte": 0.666719375,
+    "boundingBox": [
+      159,
+      187,
+      1435,
+      831
+    ]
+  },
+  {
+    "target": "roof",
+    "comparison": "weather_only_delta",
+    "meanRGBByte": 1.5611754166666667,
+    "boundingBox": [
+      151,
+      309,
+      1444,
+      785
+    ]
+  },
+  {
+    "target": "roof",
+    "comparison": "weather_tuning_03_04",
+    "meanRGBByte": 0.321806875,
+    "boundingBox": [
+      151,
+      309,
+      1444,
+      785
+    ]
+  }
+]

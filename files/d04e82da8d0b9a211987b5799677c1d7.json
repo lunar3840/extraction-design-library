@@ -1,0 +1,32 @@
+{
+  "status": "READABLE_DRAFT_IMAGES",
+  "files": [
+    {
+      "file": "before_character_design.png",
+      "width": 1312,
+      "height": 1199,
+      "format": "PNG",
+      "bytes": 2155147,
+      "sha256": "c74e92c57a1697f976aa3a5a19f117714370acbe765cbe0ce3b653e8dd26123b"
+    },
+    {
+      "file": "after_character_design.png",
+      "width": 1402,
+      "height": 1122,
+      "format": "PNG",
+      "bytes": 2210080,
+      "sha256": "86bac26101da9a434ebc77b1cf5f5ffc283cd730919a23c73e8f9f94005bcc42"
+    }
+  ],
+  "beforeMatchesPriorPublishedLocalImage": true,
+  "referenceScope": "Actual Edel and Serin game renders only; no mannequin or prior armor image in generation references",
+  "visualReview": {
+    "charactersAndTierGrid": true,
+    "fullFeetIncluded": true,
+    "originalHairColorDirection": true,
+    "distinctGarmentCutsAndHipSilhouettes": true,
+    "notVerifiedThreeDimensionalFitting": true
+  },
+  "productionAssetsChanged": false,
+  "userApproval": "pending"
+}
