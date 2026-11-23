@@ -1,0 +1,1 @@
+PASS same-frame Clear/Spawn: old=58, replacement=58, live=58, raw registered including pending Destroy=116

@@ -1,0 +1,12 @@
+[
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\UI\\FigmaInventoryVitals.cs",
+    "before": "a66b07434b1786fb89309e9838f0f483e667d820c3d142453736515c242e3b78",
+    "after": "af8bfdb41afeb792299cd567f1434d207e7165b7e1acdb87bad615f524e01f38"
+  },
+  {
+    "path": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\InventoryVitalsReviewBridge.cs",
+    "before": "1b43eea1fd8ea325b50867945431e4b5964caca370d38487dd3a2dbf947664c8",
+    "after": "0937a4f4046338e81bfd6a26efe024c16c47990d8ffd20b0e9c6a9dfa3854b21"
+  }
+]

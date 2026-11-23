@@ -1,0 +1,43 @@
+PASS round-trip preserves equipped magazine and loose ammo
+PASS save restore preserves identity and cancels transient reload
+PASS save restore preserves two weapon slots and active selection
+PASS storage failure leaves bag/storage exactly unchanged
+PASS failed departure does not enter stage
+PASS storage and bag committed together
+PASS departure persists camp checkpoint before stage
+PASS stage cannot access camp storage or save unextracted bag
+PASS run loot never mutates committed departure checkpoint
+PASS extraction starts hold
+PASS hold requires full four seconds
+PASS leaving cancels hold
+PASS continuous four-second hold commits once
+PASS duplicate tick cannot commit twice
+PASS failed extraction preserves live inventory and stage
+PASS failed extraction waits for zone exit
+PASS exit and reentry permit retry
+PASS successful extraction commits loot and returns camp
+PASS duplicate extraction is idempotently rejected
+PASS death fixture departure 0
+PASS death creates fixed pending transaction 0
+PASS duplicate death rejected 0
+PASS failed death save remains frozen for retry 0
+PASS death return empties bag/equipment exactly once 0
+PASS death fixture departure 1
+PASS death creates fixed pending transaction 1
+PASS duplicate death rejected 1
+PASS failed death save remains frozen for retry 1
+PASS death return empties bag/equipment exactly once 1
+PASS death fixture departure 2
+PASS death creates fixed pending transaction 2
+PASS duplicate death rejected 2
+PASS failed death save remains frozen for retry 2
+PASS death return empties bag/equipment exactly once 2
+PASS latest two graves each retain two occupied slots, not two units
+PASS death restores HP but retains needs
+PASS missing local save is distinguished from corruption
+PASS atomic initial local save: 
+PASS atomic replace retains backup: 
+PASS disk round-trip reads latest version
+PASS backup preserves previous committed version
+PASS corrupt save blocks overwrite and preserves backup
+PASS corrupt primary does not destroy valid backup

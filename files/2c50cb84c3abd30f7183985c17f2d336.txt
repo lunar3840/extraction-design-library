@@ -1,0 +1,8 @@
+Fixture overrides: altitude300m, no auto AI ticks, disabled navigation, HP10000. Real TryVisibleAim/TryAttack/weapon RNG/hitscan/damage path.
+INTERCEPT shot=1 end=(0.06010, 301.37220, 6.50000) hostileHPdelta=0
+INTERCEPT shot=3 end=(0.11519, 301.06760, 6.50000) hostileHPdelta=0
+INTERCEPT shot=7 end=(0.07754, 301.48720, 6.50000) hostileHPdelta=0
+INTERCEPT shot=13 end=(0.09171, 301.47620, 6.50000) hostileHPdelta=0
+INTERCEPT shot=19 end=(0.05864, 301.42830, 6.50000) hostileHPdelta=0
+fired=19 tracedHostileIntercepts=5 zeroDamageIntercepts=5 blockerHP=10000->10000 chosenHP=9915.5
+REPRODUCED hostile intercepted human bullets cause no damage

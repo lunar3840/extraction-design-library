@@ -1,0 +1,5 @@
+key=Escape.HideArmorAppearance
+original_exists=True
+original_raw=0
+restored_exact=True
+toggle_complete=True

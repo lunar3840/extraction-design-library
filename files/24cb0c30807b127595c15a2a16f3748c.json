@@ -1,0 +1,21 @@
+{
+    "utc": "2026-11-02T23:12:33.4550026Z",
+    "item": "TEST_EDEL_S4_MAINTENANCE",
+    "equipment": "TEST_EDEL_S4_MAINTENANCE",
+    "profile": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-11-03/armor-illustration-unity/isolated_profile_639292578767511123",
+    "inventoryOpen": true,
+    "inventoryUnchanged": true,
+    "pngPresent": true,
+    "textureReused": true,
+    "readable": false,
+    "matrixRestored": true,
+    "onlyIsolatedProfile": true,
+    "width": 512,
+    "height": 512,
+    "mipCount": 1,
+    "cameraBefore": 5,
+    "cameraAfter": 5,
+    "lightBefore": 24,
+    "lightAfter": 24,
+    "textureBytes": 525120
+}

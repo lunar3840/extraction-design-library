@@ -1,0 +1,2 @@
+PASS UI equip/unequip, no-chip departure and all raid removal/swap routes
+chip=prototype

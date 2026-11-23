@@ -1,0 +1,467 @@
+{
+    "status": "FAIL",
+    "phase": "after",
+    "generatedUtc": "2026-09-14T16:51:55.9083983Z",
+    "prefab": "Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab",
+    "anchorPoseHash": "A020347635B7E3FF0F4E0F603205A4B7ABF42E258A5131A8560E3B348A0BAC66",
+    "colliderStateHash": "3936341CA6C3015449D3CAE711F75F4C725BBC67C0B188B30724714C64A65FBC",
+    "authoredVisualPartHash": "D9313DBF1DB098E9A4944595655BF8D7A6D4B4E98DB1600A014C0770D98BED32",
+    "semanticAnchorCount": 143,
+    "enabledColliderCount": 2301,
+    "rendererCount": 2376,
+    "exposedTriangleCount": 5033,
+    "coplanarRendererPairCount": 2,
+    "coplanarOverlapArea": 0.0024613142013549806,
+    "opposingSeamPairCount": 364,
+    "opposingSeamArea": 16401.435546875,
+    "groundTopMinimum": 0.0,
+    "groundTopMaximum": 0.0,
+    "routeSurfaceMinimum": -3.5762786865234377e-7,
+    "routeSurfaceMaximum": 12.0,
+    "totalCoverageCells": 207464,
+    "surfaceUnionSampleCount": 2492574,
+    "surfaceUnionSampleHash": "35BF0143ACE85F2A30099ABE610FE1D12648C93A5F906CADB3EDCBC66227C686",
+    "coverageByKind": [
+        {
+            "kind": "Boundary",
+            "cells": 3664
+        },
+        {
+            "kind": "Bridge",
+            "cells": 709
+        },
+        {
+            "kind": "Building",
+            "cells": 12454
+        },
+        {
+            "kind": "Core",
+            "cells": 192
+        },
+        {
+            "kind": "Door",
+            "cells": 3
+        },
+        {
+            "kind": "EntryBasic",
+            "cells": 64
+        },
+        {
+            "kind": "EntryRisk",
+            "cells": 128
+        },
+        {
+            "kind": "Exit",
+            "cells": 112
+        },
+        {
+            "kind": "Gate",
+            "cells": 680
+        },
+        {
+            "kind": "Ground",
+            "cells": 193815
+        },
+        {
+            "kind": "Interaction",
+            "cells": 12
+        },
+        {
+            "kind": "RelayConsole",
+            "cells": 6
+        },
+        {
+            "kind": "RelaySite",
+            "cells": 144
+        },
+        {
+            "kind": "Roof",
+            "cells": 12302
+        },
+        {
+            "kind": "Route",
+            "cells": 15387
+        },
+        {
+            "kind": "Stair",
+            "cells": 12
+        },
+        {
+            "kind": "UpperWalk",
+            "cells": 35
+        },
+        {
+            "kind": "Water",
+            "cells": 11685
+        }
+    ],
+    "largestOverlaps": [
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_320_West",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_330_West",
+            "area": 0.001385122537612915
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_340_West",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_350_West",
+            "area": 0.0010761916637420655
+        }
+    ],
+    "largestOpposingSeams": [
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "MAP_BOUNDARY",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_000",
+            "rendererB": "02_Visual_Replaceable/MAP_BOUNDARY__Visual/Generated/North",
+            "area": 1039.998291015625
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "MAP_BOUNDARY",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_390_West",
+            "rendererB": "02_Visual_Replaceable/MAP_BOUNDARY__Visual/Generated/South",
+            "area": 506.0000915527344
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "MAP_BOUNDARY",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_390_East",
+            "rendererB": "02_Visual_Replaceable/MAP_BOUNDARY__Visual/Generated/South",
+            "area": 454.56988525390627
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_000",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_010",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_010",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_020",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_020",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_030",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_030",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_040",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_040",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_050",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_050",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_060",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_060",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_070",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_070",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_080",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_080",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_090",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_090",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_100",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_100",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_110",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_110",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_120",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_120",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_130",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_130",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_140",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_140",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_150",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_150",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_160",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_160",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_170",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_170",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_180",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_180",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_190",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_190",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_200",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_200",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_210",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_210",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_220",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_220",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_230",
+            "area": 312.0000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_230",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_240",
+            "area": 312.0
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_240",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_250_West",
+            "area": 309.6461181640625
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_250_West",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_260_West",
+            "area": 286.1076965332031
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_260_West",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_270_West",
+            "area": 270.0545349121094
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_270_West",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_280_West",
+            "area": 255.87271118164063
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_280_West",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_290_West",
+            "area": 234.7411651611328
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_290_West",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_300_West",
+            "area": 208.97647094726563
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_300_West",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_310_West",
+            "area": 201.0
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_310_West",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_320_West",
+            "area": 195.00001525878907
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_320_West",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_330_West",
+            "area": 186.7411651611328
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_330_West",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_340_West",
+            "area": 175.0941162109375
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_340_West",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_350_West",
+            "area": 163.4470672607422
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_360_West",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_370_West",
+            "area": 151.80001831054688
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_370_West",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_380_West",
+            "area": 151.80001831054688
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_380_West",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_390_West",
+            "area": 151.80001831054688
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_350_West",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_360_West",
+            "area": 151.8000030517578
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_380_East",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_390_East",
+            "area": 129.51431274414063
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_370_East",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_380_East",
+            "area": 122.65715026855469
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_360_East",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_370_East",
+            "area": 115.80000305175781
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_350_East",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_360_East",
+            "area": 100.94285583496094
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_340_East",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_350_East",
+            "area": 86.0857162475586
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_330_East",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_340_East",
+            "area": 69.60000610351563
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_320_East",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_330_East",
+            "area": 53.05262756347656
+        },
+        {
+            "semanticA": "GROUND_BASE",
+            "semanticB": "GROUND_BASE",
+            "rendererA": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_310_East",
+            "rendererB": "02_Visual_Replaceable/GROUND_BASE__Visual/Generated/GroundBand_320_East",
+            "area": 37.578956604003909
+        }
+    ],
+    "details": "PASS v0.8 prefab exists\r\nPASS prefab has StageABlockoutStructureV08\r\nPASS stable roots are assigned\r\nPASS base land remains a flat Y=0 surface in this overlap-only pass\r\nPASS route collision still spans the authored 0m to 12m elevations\r\nPASS every authored visual slot retains a renderer\r\nINFO phase=after anchors=143 colliders=2301 renderers=2376 coplanarPairs=2 coplanarArea=0.0025 opposingSeams=364 opposingSeamArea=16401.4400 surfaceUnionSamples=2492574 coverageCells=207464\r\nPASS before overlap report exists\r\nPASS before report is readable\r\nPASS all semantic-anchor poses are byte-stable\r\nPASS all collider poses, shapes, layers and enabled states are byte-stable\r\nPASS authored visual-part placement data is unchanged\r\nPASS semantic anchor count is unchanged\r\nPASS enabled collider count is unchanged\r\nPASS ground top remains unchanged\r\nPASS authored road elevation range remains unchanged\r\nSystem.Exception: FAIL exposed coplanar renderer overlap is zero after cleanup\r\n  at Escape.EditorTools.StageAOverlapV081Checks.Require (System.Boolean condition, System.String message, System.Text.StringBuilder details) [0x00026] in C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\stage-a-v03-validation\\Assets\\Escape\\Editor\\StageAOverlapV081Checks.cs:730 \r\n  at Escape.EditorTools.StageAOverlapV081Checks.CompareWithBefore (Escape.EditorTools.StageAOverlapV081Checks+Report after, System.Text.StringBuilder details) [0x0015d] in C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\stage-a-v03-validation\\Assets\\Escape\\Editor\\StageAOverlapV081Checks.cs:252 \r\n  at Escape.EditorTools.StageAOverlapV081Checks.Execute (System.String phase, System.Boolean compareWithBefore) [0x00015] in C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\stage-a-v03-validation\\Assets\\Escape\\Editor\\StageAOverlapV081Checks.cs:120 \r\n"
+}

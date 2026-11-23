@@ -1,0 +1,101 @@
+D12 ACTUAL PLAYER WATERFRONT TEST
+METHOD: both complete bridges in both directions, both rails at three longitudinal locations, representative banks and polygon corners. Actual enabled CharacterController and PlayerMotor.Simulate. Initial positioning only is teleported; movement/collision never bypassed. Combat frozen for deterministic test. Static full fence continuity is assessed separately.
+PASS runtime basic spawn B1; R8 inactive.
+Expected trials=47 full crossings=4 rail pushes=12 remaining=bank first/middle/last per water polygon edge (outer map-boundary banks skipped).
+
+TRIAL BRIDGE_WEST_north_to_south start=(88.417, 0.016, -91.618) end=(116.583, 0.000, -158.382) push=False
+PASS BRIDGE_WEST_north_to_south steps=540 actual=(116.403, 0.020, -157.956) complete crossing
+TRIAL BRIDGE_WEST_south_to_north start=(116.583, 0.000, -158.382) end=(88.417, 0.016, -91.618) push=False
+PASS BRIDGE_WEST_south_to_north steps=540 actual=(88.597, 0.035, -92.044) complete crossing
+TRIAL BRIDGE_WEST_Rail_W_Collision_-0.46 start=(91.324, 0.000, -95.035) end=(94.549, 0.000, -93.675) push=True
+PASS BRIDGE_WEST_Rail_W_Collision_-0.46 steps=120 actual=(92.204, 0.028, -94.664) signedLandDistance=0.545 fall=0.028 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL BRIDGE_WEST_Rail_W_Collision_0.00 start=(103.744, 0.000, -124.475) end=(106.969, 0.000, -123.115) push=True
+PASS BRIDGE_WEST_Rail_W_Collision_0.00 steps=120 actual=(104.624, 0.020, -124.104) signedLandDistance=0.545 fall=0.020 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL BRIDGE_WEST_Rail_W_Collision_0.46 start=(116.164, 0.000, -153.915) end=(119.389, 0.000, -152.555) push=True
+PASS BRIDGE_WEST_Rail_W_Collision_0.46 steps=120 actual=(117.044, 0.020, -153.544) signedLandDistance=0.545 fall=0.020 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL BRIDGE_WEST_Rail_E_Collision_-0.46 start=(88.836, 0.000, -96.085) end=(85.611, 0.000, -97.445) push=True
+PASS BRIDGE_WEST_Rail_E_Collision_-0.46 steps=120 actual=(87.956, 0.024, -96.456) signedLandDistance=0.545 fall=0.024 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL BRIDGE_WEST_Rail_E_Collision_0.00 start=(101.256, 0.000, -125.525) end=(98.031, 0.000, -126.885) push=True
+PASS BRIDGE_WEST_Rail_E_Collision_0.00 steps=120 actual=(100.376, 0.020, -125.896) signedLandDistance=0.545 fall=0.020 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL BRIDGE_WEST_Rail_E_Collision_0.46 start=(113.676, 0.000, -154.965) end=(110.451, 0.000, -156.325) push=True
+PASS BRIDGE_WEST_Rail_E_Collision_0.46 steps=120 actual=(112.796, 0.020, -155.336) signedLandDistance=0.545 fall=0.020 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL BRIDGE_EAST_north_to_south start=(189.667, 1.007, -58.538) end=(203.334, 0.993, -118.462) push=False
+PASS BRIDGE_EAST_north_to_south steps=458 actual=(203.245, 1.015, -118.075) complete crossing
+TRIAL BRIDGE_EAST_south_to_north start=(203.334, 0.993, -118.462) end=(189.667, 1.007, -58.538) push=False
+PASS BRIDGE_EAST_south_to_north steps=458 actual=(189.755, 1.025, -58.925) complete crossing
+TRIAL BRIDGE_EAST_Rail_W_Collision_-0.46 start=(191.349, 1.000, -62.091) end=(194.761, 1.000, -61.313) push=True
+PASS BRIDGE_EAST_Rail_W_Collision_-0.46 steps=120 actual=(192.280, 1.020, -61.879) signedLandDistance=0.545 fall=0.020 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL BRIDGE_EAST_Rail_W_Collision_0.00 start=(197.329, 1.000, -88.311) end=(200.741, 1.000, -87.533) push=True
+PASS BRIDGE_EAST_Rail_W_Collision_0.00 steps=120 actual=(198.260, 1.020, -88.099) signedLandDistance=0.545 fall=0.020 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL BRIDGE_EAST_Rail_W_Collision_0.46 start=(203.309, 1.000, -114.531) end=(206.721, 1.000, -113.753) push=True
+PASS BRIDGE_EAST_Rail_W_Collision_0.46 steps=120 actual=(204.240, 1.020, -114.319) signedLandDistance=0.545 fall=0.020 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL BRIDGE_EAST_Rail_E_Collision_-0.46 start=(189.691, 1.000, -62.469) end=(186.279, 1.000, -63.247) push=True
+PASS BRIDGE_EAST_Rail_E_Collision_-0.46 steps=120 actual=(188.760, 1.024, -62.681) signedLandDistance=0.545 fall=0.024 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL BRIDGE_EAST_Rail_E_Collision_0.00 start=(195.671, 1.000, -88.689) end=(192.259, 1.000, -89.467) push=True
+PASS BRIDGE_EAST_Rail_E_Collision_0.00 steps=120 actual=(194.740, 1.020, -88.901) signedLandDistance=0.545 fall=0.020 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL BRIDGE_EAST_Rail_E_Collision_0.46 start=(201.651, 1.000, -114.909) end=(198.239, 1.000, -115.687) push=True
+PASS BRIDGE_EAST_Rail_E_Collision_0.46 steps=120 actual=(200.720, 1.020, -115.121) signedLandDistance=0.545 fall=0.020 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_00_001 start=(-6.755, -0.100, -162.961) end=(-5.060, -0.100, -166.250) push=True
+PASS bank_BankGuard_00_001 steps=120 actual=(-6.237, 0.027, -163.966) signedLandDistance=0.570 fall=0.127 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_00_020 start=(26.090, -0.139, -146.041) end=(27.784, -0.139, -149.331) push=True
+PASS bank_BankGuard_00_020 steps=120 actual=(26.608, 0.027, -147.046) signedLandDistance=0.570 fall=0.166 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_00_038 start=(57.197, -0.100, -130.016) end=(58.892, -0.100, -133.306) push=True
+PASS bank_BankGuard_00_038 steps=120 actual=(57.715, 0.027, -131.021) signedLandDistance=0.570 fall=0.127 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_01_001 start=(58.616, -0.100, -128.980) end=(61.232, -0.100, -131.596) push=True
+PASS bank_BankGuard_01_001 steps=120 actual=(59.415, 0.027, -129.779) signedLandDistance=0.570 fall=0.127 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_01_010 start=(70.992, -0.100, -116.604) end=(73.609, -0.100, -119.220) push=True
+PASS bank_BankGuard_01_010 steps=120 actual=(71.791, 0.027, -117.403) signedLandDistance=0.570 fall=0.127 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_01_018 start=(81.980, -0.015, -105.616) end=(84.596, -0.015, -108.232) push=True
+PASS bank_BankGuard_01_018 steps=120 actual=(82.779, 0.106, -106.415) signedLandDistance=0.570 fall=0.121 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_02_001 start=(84.611, -0.120, -104.112) end=(85.450, -0.120, -107.716) push=True
+PASS bank_BankGuard_02_001 steps=120 actual=(84.867, 0.116, -105.213) signedLandDistance=0.570 fall=0.236 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_02_019 start=(123.521, -0.088, -95.051) end=(124.360, -0.088, -98.655) push=True
+PASS bank_BankGuard_02_019 steps=120 actual=(123.777, 0.029, -96.152) signedLandDistance=0.570 fall=0.118 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_02_036 start=(155.499, 0.230, -87.604) end=(156.338, 0.230, -91.208) push=True
+PASS bank_BankGuard_02_036 steps=120 actual=(155.755, 0.305, -88.705) signedLandDistance=0.570 fall=0.074 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_03_001 start=(157.389, 0.192, -86.990) end=(158.830, 0.192, -90.397) push=True
+PASS bank_BankGuard_03_001 steps=120 actual=(157.829, 0.257, -88.030) signedLandDistance=0.570 fall=0.064 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_03_014 start=(180.363, 0.761, -77.270) end=(181.804, 0.761, -80.678) push=True
+PASS bank_BankGuard_03_014 steps=120 actual=(180.803, 0.829, -78.311) signedLandDistance=0.570 fall=0.068 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_03_027 start=(207.329, 0.904, -65.861) end=(208.771, 0.904, -69.269) push=True
+PASS bank_BankGuard_03_027 steps=120 actual=(207.769, 1.017, -66.902) signedLandDistance=0.570 fall=0.113 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_04_001 start=(209.694, 0.896, -65.069) end=(210.608, 0.896, -68.654) push=True
+PASS bank_BankGuard_04_001 steps=120 actual=(209.973, 1.007, -66.164) signedLandDistance=0.570 fall=0.111 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_04_014 start=(234.080, 0.999, -58.853) end=(234.994, 0.999, -62.438) push=True
+PASS bank_BankGuard_04_014 steps=120 actual=(234.359, 1.126, -59.948) signedLandDistance=0.570 fall=0.127 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_04_027 start=(258.466, 0.373, -52.637) end=(259.380, 0.373, -56.222) push=True
+PASS bank_BankGuard_04_027 steps=120 actual=(258.745, 0.503, -53.732) signedLandDistance=0.570 fall=0.130 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_06_013 start=(238.856, -0.100, -98.952) end=(237.265, -0.100, -95.611) push=True
+PASS bank_BankGuard_06_013 steps=120 actual=(238.370, 0.027, -97.931) signedLandDistance=0.570 fall=0.127 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_06_024 start=(219.764, 0.669, -108.043) end=(218.173, 0.669, -104.702) push=True
+PASS bank_BankGuard_06_024 steps=120 actual=(219.278, 0.735, -107.023) signedLandDistance=0.570 fall=0.066 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_07_001 start=(217.605, 0.786, -108.977) end=(216.267, 0.786, -105.527) push=True
+PASS bank_BankGuard_07_001 steps=120 actual=(217.196, 0.894, -107.923) signedLandDistance=0.570 fall=0.108 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_07_013 start=(192.255, 0.875, -118.806) end=(190.917, 0.875, -115.356) push=True
+PASS bank_BankGuard_07_013 steps=120 actual=(191.847, 1.019, -117.753) signedLandDistance=0.570 fall=0.144 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_07_025 start=(170.683, 0.281, -127.171) end=(169.346, 0.281, -123.721) push=True
+PASS bank_BankGuard_07_025 steps=120 actual=(170.275, 0.407, -126.117) signedLandDistance=0.570 fall=0.126 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_08_001 start=(168.485, 0.245, -127.992) end=(167.232, 0.245, -124.511) push=True
+PASS bank_BankGuard_08_001 steps=120 actual=(168.103, 0.359, -126.929) signedLandDistance=0.570 fall=0.115 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_08_014 start=(144.576, -0.035, -136.600) end=(143.323, -0.035, -133.118) push=True
+PASS bank_BankGuard_08_014 steps=120 actual=(144.193, 0.089, -135.536) signedLandDistance=0.570 fall=0.124 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_08_027 start=(120.666, -0.008, -145.207) end=(119.413, -0.008, -141.726) push=True
+PASS bank_BankGuard_08_027 steps=120 actual=(120.284, 0.117, -144.144) signedLandDistance=0.570 fall=0.125 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_09_001 start=(118.726, -0.005, -145.944) end=(117.340, -0.005, -142.513) push=True
+PASS bank_BankGuard_09_001 steps=120 actual=(118.303, 0.121, -144.896) signedLandDistance=0.570 fall=0.126 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_09_014 start=(90.458, -0.026, -157.360) end=(89.073, -0.026, -153.929) push=True
+PASS bank_BankGuard_09_014 steps=120 actual=(90.035, 0.099, -156.312) signedLandDistance=0.570 fall=0.126 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_09_026 start=(68.712, -0.044, -166.142) end=(67.326, -0.044, -162.711) push=True
+PASS bank_BankGuard_09_026 steps=120 actual=(68.289, 0.080, -165.094) signedLandDistance=0.570 fall=0.125 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_10_001 start=(67.247, -0.044, -167.043) end=(64.811, -0.044, -164.258) push=True
+PASS bank_BankGuard_10_001 steps=120 actual=(66.503, 0.080, -166.192) signedLandDistance=0.570 fall=0.124 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_10_014 start=(48.119, -0.026, -183.779) end=(45.683, -0.026, -180.995) push=True
+PASS bank_BankGuard_10_014 steps=120 actual=(47.375, 0.098, -182.929) signedLandDistance=0.570 fall=0.124 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_12_001 start=(-8.700, -0.100, -198.853) end=(-5.000, -0.100, -198.853) push=True
+PASS bank_BankGuard_12_001 steps=120 actual=(-7.570, 0.027, -198.853) signedLandDistance=0.570 fall=0.127 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_12_010 start=(-8.700, -0.100, -181.528) end=(-5.000, -0.100, -181.528) push=True
+PASS bank_BankGuard_12_010 steps=120 actual=(-7.570, 0.027, -181.528) signedLandDistance=0.570 fall=0.127 radius=0.4 (must approach barrier, stay landside, not fall)
+TRIAL bank_BankGuard_12_018 start=(-8.700, -0.100, -166.147) end=(-5.000, -0.100, -166.147) push=True
+PASS bank_BankGuard_12_018 steps=120 actual=(-7.570, 0.027, -166.147) signedLandDistance=0.570 fall=0.127 radius=0.4 (must approach barrier, stay landside, not fall)
+passed=47 failed=0 expected=47
+RESULT PASS

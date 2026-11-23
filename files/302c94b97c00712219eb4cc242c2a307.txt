@@ -1,0 +1,39 @@
+Scope: Editor.log bytes after final helper removal/CtrlR checkpoint. Existing menu duplicate warning is not a new compiler error.
+Cannot add menu item 'Escape/Stage A/Run Density V04 Shot Checks' for method 'Escape.Tests.StageADensityV04Checks.RunShotChecks' because a menu item with the same name already exists.
+[ScriptCompilation] Requested script compilation because: Assetdatabase observed changes in script compilation related files
+AssetDatabase: script compilation time: 0.000913s
+Preloading 0 native plugins for Editor in 0.00 ms.
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=1 ms, other=0 ms
+		ReloadNativeAssets: 8.838ms
+	Hotreload: 78.979ms
+Starting: C:\Program Files\Unity\Hub\Editor\6000.1.0f1\Editor\Data\Tools\netcorerun\netcorerun.exe "C:\Program Files\Unity\Hub\Editor\6000.1.0f1\Editor\Data\Tools\BuildPipeline\ScriptCompilationBuildProgram.exe" "Library/Bee/1900b0aE.dag.json" "Library/Bee/1900b0aE-inputdata.json" "Library\Bee\buildprogram0.traceevents"
+*** Tundra requires additional run (0.23 seconds), 0 items updated, 453 evaluated
+info: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Request starting HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc -
+      Executing endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+      Processing assembly Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll, with 127 defines and 314 references
+      Executed endpoint 'gRPC - /UnityILPP.PostProcessing/PostProcessAssembly'
+      Request finished HTTP/2 POST http://ilpp/UnityILPP.PostProcessing/PostProcessAssembly application/grpc - - 200 - application/grpc 1056.4275ms
+[446/808    0s] WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp
+[BUSY       6s] Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+[BUSY      16s] Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+[804/808   19s] Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+[805/808    1s] ILPostProcess Library/Bee/artifacts/1900b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll, with 127 defines and 314 references
+[806/808    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+[807/808    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+*** Tundra build success (22.05 seconds), 6 items updated, 808 evaluated
+Reloading assemblies after finishing script compilation.
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+Cannot add menu item 'Escape/Stage A/Run Density V04 Shot Checks' for method 'Escape.Tests.StageAMachineRolesChecks.RunShotChecks' because a menu item with the same name already exists.
+Mono: successfully reloaded assembly
+Domain Reload Profiling: 9106ms
+	BeginReloadAssembly (1504ms)
+	initialDomainReloadingComplete (31ms)
+				TypeCache.ScanAssembly (9ms)
+	FinalizeReload (2083ms)
+			LogAssemblyErrors (0ms)
+Asset Pipeline Refresh (id=8b7c34e3e36f9c249b6266b0b8abafa7): Total: 9.423 seconds - Initiated by StopAssetImportingV2(ForceSynchronousImport | ForceDomainReload)
+		Scripting: domain reloads=1, domain reload time=7039 ms, compile time=1 ms, other=0 ms
+		ReloadNativeAssets: 9.551ms

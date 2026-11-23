@@ -1,0 +1,33 @@
+{
+  "ok": true,
+  "url": "https://extraction-balance-editor.ehojin0415.chatgpt.site",
+  "version": 8,
+  "rows": 12931,
+  "datasets": 103,
+  "sourceFingerprint": "7dae3ef2c6cfcc501fd08cdacdaba5ce0cddde4710f4ae120bdbf41d8d773f8e",
+  "valuesUnchanged": true,
+  "appliedValuesUnchanged": true,
+  "publicAuthenticated": false,
+  "assets": {
+    "impact-code-data.js": {
+      "status": 200,
+      "bytes": 3769679,
+      "sha256": "d684f1311feec763341ab6bb51e76aeabb70ebe5c5b52affe30fbc5c5354ccd9"
+    },
+    "impact-guide.js": {
+      "status": 200,
+      "bytes": 35144,
+      "sha256": "35c5e77b264bdeb0ffb19064f95846eb73836cb6c048f980174d499b20ae7eda"
+    }
+  },
+  "coverage": {
+    "필드 설명": 4972,
+    "코드 확인": 944,
+    "구문·연결 확인": 2212,
+    "참조 정보": 2773,
+    "원문 대조 확인": 9,
+    "적용 제외 확인": 2021
+  },
+  "localAssetReady": true,
+  "verifiedAt": "2026-10-27T11:26:09.906Z"
+}

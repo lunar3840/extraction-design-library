@@ -1,0 +1,57 @@
+STAGE_A_ACCESS_V27_VALIDATION
+PASS live Stage A map exists
+PASS baseline has no V27 cluster root
+PASS V26 guidance root is present in baseline
+NOTE BASELINE A01 renderers=9 colliders=2
+NOTE BASELINE A02 renderers=1 colliders=1
+NOTE BASELINE A03 renderers=1 colliders=1
+PASS temporary collision-derived NavMesh builds
+PASS four basic entries and seven exits define 28 routes
+NOTE MATRIX B1->X1=COMPLETE
+NOTE MATRIX B1->X2=COMPLETE
+NOTE MATRIX B1->X3=COMPLETE
+NOTE MATRIX B1->X4=COMPLETE
+NOTE MATRIX B1->X5=COMPLETE
+NOTE MATRIX B1->X6=COMPLETE
+NOTE MATRIX B1->X7=COMPLETE
+NOTE MATRIX B2->X1=COMPLETE
+NOTE MATRIX B2->X2=COMPLETE
+NOTE MATRIX B2->X3=COMPLETE
+NOTE MATRIX B2->X4=COMPLETE
+NOTE MATRIX B2->X5=COMPLETE
+NOTE MATRIX B2->X6=COMPLETE
+NOTE MATRIX B2->X7=COMPLETE
+NOTE MATRIX B3->X1=COMPLETE
+NOTE MATRIX B3->X2=COMPLETE
+NOTE MATRIX B3->X3=COMPLETE
+NOTE MATRIX B3->X4=COMPLETE
+NOTE MATRIX B3->X5=COMPLETE
+NOTE MATRIX B3->X6=COMPLETE
+NOTE MATRIX B3->X7=COMPLETE
+NOTE MATRIX B4->X1=COMPLETE
+NOTE MATRIX B4->X2=COMPLETE
+NOTE MATRIX B4->X3=COMPLETE
+NOTE MATRIX B4->X4=COMPLETE
+NOTE MATRIX B4->X5=COMPLETE
+NOTE MATRIX B4->X6=COMPLETE
+NOTE MATRIX B4->X7=COMPLETE
+NOTE BASELINE matrix complete=28/28
+PASS four hall stair pairs remain registered
+NOTE BASELINE stair pair 1=True public PathComplete
+NOTE BASELINE stair pair 2=True public PathComplete
+NOTE BASELINE stair pair 3=True public PathComplete
+NOTE BASELINE stair pair 4=True public PathComplete
+PASS active landform supports approach probes
+NOTE BASELINE A01_north complete=True direct=True corners=2 length=30.00 public PathComplete
+NOTE BASELINE A01_south complete=True direct=True corners=2 length=30.00 public PathComplete
+NOTE BASELINE A02_east complete=True direct=True corners=2 length=23.00 public PathComplete
+NOTE BASELINE A02_south complete=True direct=True corners=3 length=32.26 public PathComplete
+NOTE BASELINE A03_north complete=True direct=True corners=2 length=28.15 public PathComplete
+NOTE BASELINE A03_south complete=True direct=True corners=2 length=28.02 public PathComplete
+NOTE BASELINE A01_cross complete=True direct=False corners=8 length=47.71 public PathComplete
+NOTE BASELINE A02_cross complete=True direct=True corners=2 length=22.00 public PathComplete
+NOTE BASELINE A03_cross complete=True direct=True corners=2 length=25.00 public PathComplete
+NOTE V26 before-placement baseline persisted to C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-01/a-map-approach-clusters-v27/V27_PATH_BASELINE.json
+NOTE NavMesh plans and clearance checks do not replace physical play traversal.
+passed=7 failed=0
+RESULT PASS

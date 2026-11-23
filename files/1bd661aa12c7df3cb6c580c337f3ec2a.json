@@ -1,0 +1,149 @@
+PASS Anonymous visitors cannot export unsaved transfer edits
+PASS Password login and CSRF protect the transfer export endpoint
+PASS Web export includes unsaved edits across player and economy categories in one BOM CSV
+PASS Export rejects stale revisions and invalid edit values without changing public state
+PASS A separate project PC imports all categories without a category choice, stages only, then explicitly applies backed-up sources
+PASS Per-field comparison accepts unrelated source changes when row IDs remain stable
+PASS C# line-number identity shifts reject the old file safely instead of guessing a field
+PASS An already-applied CSV value replaces an older local pending draft instead of leaving it ready to apply
+PASS An on-disk edit made after opening the local editor is not overwritten by a staged transfer
+PASS One stale edited field rejects the entire file rather than importing its other valid category
+PASS Atomic transfer validation rejects wrong project
+PASS Atomic transfer validation rejects unknown format
+PASS Atomic transfer validation rejects unknown row
+PASS Atomic transfer validation rejects wrong source
+PASS Atomic transfer validation rejects wrong field
+PASS Atomic transfer validation rejects wrong entity
+PASS Atomic transfer validation rejects wrong type
+PASS Atomic transfer validation rejects invalid numeric text
+PASS Atomic transfer validation rejects fractional integer
+PASS Atomic transfer validation rejects duplicate row
+PASS Readonly identifiers, missing headers, unknown headers and malformed quotes cannot be imported
+PASS Local domain validation rejects inconsistent item drop bounds even when CSV values are scalars
+PASS String formulas, comma, quotes and newlines survive a non-executable transfer round trip
+PASS HTTP transfer import requires a local token and stages without applying or saving sources
+PASS Restart safely recollects an unchanged canonical numeric row whose line ID is reused by a boolean field
+PASS Restart recollects the current numeric value when an unchanged row ID is reused by a different field
+PASS Restart refuses a pending canonical edit on a reused row ID and preserves every CSV and baseline byte
+PASS Restart also refuses a pending edit when a reused row ID keeps its numeric type but changes its field
+{
+  "ok": true,
+  "tests": 28,
+  "passed": 28,
+  "fixtureOnly": true,
+  "realUnityFilesOpened": 0,
+  "results": [
+    {
+      "name": "Anonymous visitors cannot export unsaved transfer edits",
+      "ok": true
+    },
+    {
+      "name": "Password login and CSRF protect the transfer export endpoint",
+      "ok": true
+    },
+    {
+      "name": "Web export includes unsaved edits across player and economy categories in one BOM CSV",
+      "ok": true
+    },
+    {
+      "name": "Export rejects stale revisions and invalid edit values without changing public state",
+      "ok": true
+    },
+    {
+      "name": "A separate project PC imports all categories without a category choice, stages only, then explicitly applies backed-up sources",
+      "ok": true
+    },
+    {
+      "name": "Per-field comparison accepts unrelated source changes when row IDs remain stable",
+      "ok": true
+    },
+    {
+      "name": "C# line-number identity shifts reject the old file safely instead of guessing a field",
+      "ok": true
+    },
+    {
+      "name": "An already-applied CSV value replaces an older local pending draft instead of leaving it ready to apply",
+      "ok": true
+    },
+    {
+      "name": "An on-disk edit made after opening the local editor is not overwritten by a staged transfer",
+      "ok": true
+    },
+    {
+      "name": "One stale edited field rejects the entire file rather than importing its other valid category",
+      "ok": true
+    },
+    {
+      "name": "Atomic transfer validation rejects wrong project",
+      "ok": true
+    },
+    {
+      "name": "Atomic transfer validation rejects unknown format",
+      "ok": true
+    },
+    {
+      "name": "Atomic transfer validation rejects unknown row",
+      "ok": true
+    },
+    {
+      "name": "Atomic transfer validation rejects wrong source",
+      "ok": true
+    },
+    {
+      "name": "Atomic transfer validation rejects wrong field",
+      "ok": true
+    },
+    {
+      "name": "Atomic transfer validation rejects wrong entity",
+      "ok": true
+    },
+    {
+      "name": "Atomic transfer validation rejects wrong type",
+      "ok": true
+    },
+    {
+      "name": "Atomic transfer validation rejects invalid numeric text",
+      "ok": true
+    },
+    {
+      "name": "Atomic transfer validation rejects fractional integer",
+      "ok": true
+    },
+    {
+      "name": "Atomic transfer validation rejects duplicate row",
+      "ok": true
+    },
+    {
+      "name": "Readonly identifiers, missing headers, unknown headers and malformed quotes cannot be imported",
+      "ok": true
+    },
+    {
+      "name": "Local domain validation rejects inconsistent item drop bounds even when CSV values are scalars",
+      "ok": true
+    },
+    {
+      "name": "String formulas, comma, quotes and newlines survive a non-executable transfer round trip",
+      "ok": true
+    },
+    {
+      "name": "HTTP transfer import requires a local token and stages without applying or saving sources",
+      "ok": true
+    },
+    {
+      "name": "Restart safely recollects an unchanged canonical numeric row whose line ID is reused by a boolean field",
+      "ok": true
+    },
+    {
+      "name": "Restart recollects the current numeric value when an unchanged row ID is reused by a different field",
+      "ok": true
+    },
+    {
+      "name": "Restart refuses a pending canonical edit on a reused row ID and preserves every CSV and baseline byte",
+      "ok": true
+    },
+    {
+      "name": "Restart also refuses a pending edit when a reused row ID keeps its numeric type but changes its field",
+      "ok": true
+    }
+  ]
+}

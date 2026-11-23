@@ -1,0 +1,22 @@
+[
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Scenes\\StageA_Relay_Blockout_v08.unity",
+    "unchanged": true
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Combat\\DamageReceiver.cs",
+    "unchanged": true
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Combat\\Core\\DamageRules.cs",
+    "unchanged": true
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Enemy\\EnemyController.cs",
+    "unchanged": true
+  },
+  {
+    "file": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Weapon\\RifleController.cs",
+    "unchanged": true
+  }
+]

@@ -1,0 +1,162 @@
+{
+  "date_kst": "2026-10-29",
+  "passed": 79,
+  "failed": 0,
+  "events": [
+    {
+      "phase": "initial",
+      "location": "BaseCamp",
+      "scrap": 5000,
+      "cells": 36,
+      "backpack": "BP_PATROL_24",
+      "weapon": "AR_001",
+      "clean": 3,
+      "newLoot": 0,
+      "revision": 1,
+      "outcome": null,
+      "graves": 0
+    },
+    {
+      "phase": "first_pending_death_live",
+      "location": "Dead",
+      "scrap": 5000,
+      "cells": 36,
+      "backpack": "BP_PATROL_24",
+      "weapon": "AR_001",
+      "clean": 3,
+      "newLoot": 1,
+      "revision": 2,
+      "outcome": null,
+      "graves": 0
+    },
+    {
+      "phase": "reload_before_death_return",
+      "location": "BaseCamp",
+      "scrap": 5000,
+      "cells": 36,
+      "backpack": "BP_PATROL_24",
+      "weapon": "AR_001",
+      "clean": 3,
+      "newLoot": 0,
+      "revision": 2,
+      "outcome": null,
+      "graves": 0
+    },
+    {
+      "phase": "first_death_return",
+      "location": "BaseCamp",
+      "scrap": 5000,
+      "cells": 12,
+      "backpack": null,
+      "weapon": null,
+      "clean": 3,
+      "newLoot": 0,
+      "revision": 3,
+      "outcome": "Died",
+      "graves": 1
+    },
+    {
+      "phase": "raw_rig_rifle_buy_rejected",
+      "location": "BaseCamp",
+      "scrap": 5000,
+      "cells": 12,
+      "backpack": null,
+      "weapon": null,
+      "clean": 3,
+      "newLoot": 0,
+      "revision": 3,
+      "outcome": "Died",
+      "graves": 1
+    },
+    {
+      "phase": "cleared_rig_vest_buy_rejected",
+      "location": "BaseCamp",
+      "scrap": 3500,
+      "cells": 12,
+      "backpack": null,
+      "weapon": "AR_001",
+      "clean": 0,
+      "newLoot": 0,
+      "revision": 6,
+      "outcome": "Died",
+      "graves": 1
+    },
+    {
+      "phase": "minimal_smallpack_rearm_4380",
+      "location": "BaseCamp",
+      "scrap": 620,
+      "cells": 30,
+      "backpack": "BP_SCOUT_18",
+      "weapon": "AR_001",
+      "clean": 3,
+      "newLoot": 0,
+      "revision": 5,
+      "outcome": "Died",
+      "graves": 1
+    },
+    {
+      "phase": "second_death_return",
+      "location": "BaseCamp",
+      "scrap": 620,
+      "cells": 12,
+      "backpack": null,
+      "weapon": null,
+      "clean": 3,
+      "newLoot": 0,
+      "revision": 7,
+      "outcome": "Died",
+      "graves": 2
+    },
+    {
+      "phase": "disk_reload_before_return",
+      "location": "BaseCamp",
+      "scrap": 5000,
+      "cells": 36,
+      "backpack": "BP_PATROL_24",
+      "weapon": "AR_001",
+      "clean": 3,
+      "newLoot": 0,
+      "revision": 1,
+      "outcome": null,
+      "graves": 0
+    },
+    {
+      "phase": "disk_reload_after_return",
+      "location": "BaseCamp",
+      "scrap": 5000,
+      "cells": 12,
+      "backpack": null,
+      "weapon": null,
+      "clean": 3,
+      "newLoot": 0,
+      "revision": 2,
+      "outcome": "Died",
+      "graves": 1
+    }
+  ],
+  "costs": [
+    {
+      "pack": "BP_SCOUT_18",
+      "fixture_start_cash": 6680,
+      "actual_spent": 6680,
+      "balance": 0,
+      "total_cells": 30,
+      "occupied_cells": 8,
+      "free_cells": 22,
+      "note": "Full basic armor\u002BAR001\u002B60T1\u002Binjector\u002Bwater; exact funding is an explicit fixture, not normal gameplay income"
+    },
+    {
+      "pack": "BP_PATROL_24",
+      "fixture_start_cash": 9080,
+      "actual_spent": 9080,
+      "balance": 0,
+      "total_cells": 36,
+      "occupied_cells": 8,
+      "free_cells": 28,
+      "note": "Full basic armor\u002BAR001\u002B60T1\u002Binjector\u002Bwater; exact funding is an explicit fixture, not normal gameplay income"
+    }
+  ],
+  "disk_path": "C:\\Users\\ehoji\\OneDrive\\\uBB38\uC11C\\ChatGPT\\\uC775\uC2A4\uD2B8\uB799\uC158\\outputs\\change_records\\2026-10-29\\a-map-intent-audit\\loot\\session_probe\\isolated_disk\\be2fa0bca2e14b85a07e34b447902154\\slot-1.json",
+  "boundaries": "Actual gameplay code directly compiled; Unity JsonUtility emulated with System.Text.Json field-only adapter, Resources text JSON files read directly, no authored ScriptableObject quests loaded, no Unity process or personal save access",
+  "scope": "Controlled memory/disk transaction proof, not player behavior or successful economy recovery"
+}

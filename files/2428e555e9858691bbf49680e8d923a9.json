@@ -1,0 +1,20 @@
+{
+  "kind": "actualGame idle with AI running, different spawn from original, not controlled before/after",
+  "n": 90,
+  "unscaled_dt_ms": {
+    "median": 26.114601135253906,
+    "n": 90
+  },
+  "native_cpu_main_ms": {
+    "median": 23.00485,
+    "n": 90
+  },
+  "native_gpu_ms": {
+    "median": 6.079488,
+    "n": 88
+  },
+  "hair_step_ms": {
+    "median": 3.80505,
+    "n": 90
+  }
+}

@@ -1,0 +1,10 @@
+Surface Ivy core: PASS. Preview scene only; user's scene was not saved.
+PASS determinism, budgets, density, seed, source invariance
+PASS empty window and exclusion clearance
+PASS rotation and nonuniform scale
+PASS cancellation and transient mesh cleanup
+  Assets/Escape/Art/FactoryV12/Prefabs/StageA_v12_RustyVehicle_Car.prefab: 1 meshes, 1 non-readable
+  result: 95314 source triangles, 8 paths, 144 stem segments, 107 leaves, 0 excluded samples. ; elapsed=1063ms (editor diagnostic only)
+  Assets/Escape/Art/FactoryV12/Buildings/ENV09_BUILDING_SW_RUIN_HOME_A_FactoryV12.prefab: 27 meshes, 0 non-readable
+  result: 11964 source triangles, 9 paths, 132 stem segments, 100 leaves, 0 excluded samples. Skipped: ScatteredDebris_0: transparent/glass submesh; ScatteredDebris_3: transparent/glass submesh; CollapsedMasonry_2: transparent/glass submesh; elapsed=136ms (editor diagnostic only)
+PASS real vehicle and structure assets

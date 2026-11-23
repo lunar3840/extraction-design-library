@@ -1,0 +1,82 @@
+V25 actual Play camera, fixed scene/camera/player per boundary; varying real atmosphere evaluation point isolates brightness from camera movement.
+SAMPLE east_outside feet=(70.1200, 2.7321, -10.0000) player=(70.0000, 2.7321, -10.0000) camera=(74.3503, 17.7893, -2.4651) weight=0.00000000 tone=Neutral
+SAMPLE east_inside feet=(69.8800, 2.7321, -10.0000) player=(70.0000, 2.7321, -10.0000) camera=(74.3503, 17.7893, -2.4651) weight=0.00005496 tone=ACES
+BOUNDARY east outsideMean=0.214549 insideMean=0.097557 meanAbsLumaDelta=0.116992
+BASELINE_DEFECT east no tone snap outside=Neutral inside=ACES
+BASELINE_DEFECT east no abrupt rendered brightness step threshold=.005 actual=0.116992
+SWEEP east inward=0.12 weight=0.00005496 tone=ACES exposure=0.000014 ambient=Trilight fog=True fogStart=1199.939
+SWEEP east inward=2 weight=0.01457727 tone=ACES exposure=0.003644 ambient=Trilight fog=True fogStart=1183.746
+SWEEP east inward=7 weight=0.15625000 tone=ACES exposure=0.039063 ambient=Trilight fog=True fogStart=1025.781
+SWEEP east inward=14 weight=0.50000000 tone=ACES exposure=0.125000 ambient=Trilight fog=True fogStart=642.5
+SWEEP east inward=21 weight=0.84375000 tone=ACES exposure=0.210938 ambient=Trilight fog=True fogStart=259.2188
+SWEEP east inward=28 weight=1.00000000 tone=ACES exposure=0.250000 ambient=Trilight fog=True fogStart=85
+SWEEP east inward=21 weight=0.84375000 tone=ACES exposure=0.210938 ambient=Trilight fog=True fogStart=259.2188
+SWEEP east inward=14 weight=0.50000000 tone=ACES exposure=0.125000 ambient=Trilight fog=True fogStart=642.5
+SWEEP east inward=7 weight=0.15625000 tone=ACES exposure=0.039063 ambient=Trilight fog=True fogStart=1025.781
+SWEEP east inward=2 weight=0.01457727 tone=ACES exposure=0.003644 ambient=Trilight fog=True fogStart=1183.746
+SWEEP east inward=0.12 weight=0.00005496 tone=ACES exposure=0.000014 ambient=Trilight fog=True fogStart=1199.939
+SWEEP east inward=-0.12 weight=0.00000000 tone=Neutral exposure=0.000000 ambient=Trilight fog=False fogStart=28
+SAMPLE east_reverse_outside feet=(70.1200, 2.7321, -10.0000) player=(70.0000, 2.7321, -10.0000) camera=(74.3503, 17.7893, -2.4651) weight=0.00000000 tone=Neutral
+PASS east restores outside appearance delta=0.000000
+SAMPLE west_outside feet=(-70.1200, 1.6307, -10.0000) player=(-70.0000, 1.6307, -10.0000) camera=(-65.6497, 16.6879, -2.4651) weight=0.00000000 tone=Neutral
+SAMPLE west_inside feet=(-69.8800, 1.6307, -10.0000) player=(-70.0000, 1.6307, -10.0000) camera=(-65.6497, 16.6879, -2.4651) weight=0.00005496 tone=ACES
+BOUNDARY west outsideMean=0.208900 insideMean=0.092784 meanAbsLumaDelta=0.116116
+BASELINE_DEFECT west no tone snap outside=Neutral inside=ACES
+BASELINE_DEFECT west no abrupt rendered brightness step threshold=.005 actual=0.116116
+SWEEP west inward=0.12 weight=0.00005496 tone=ACES exposure=0.000014 ambient=Trilight fog=True fogStart=1199.939
+SWEEP west inward=2 weight=0.01457727 tone=ACES exposure=0.003644 ambient=Trilight fog=True fogStart=1183.746
+SWEEP west inward=7 weight=0.15625000 tone=ACES exposure=0.039063 ambient=Trilight fog=True fogStart=1025.781
+SWEEP west inward=14 weight=0.50000000 tone=ACES exposure=0.125000 ambient=Trilight fog=True fogStart=642.5
+SWEEP west inward=21 weight=0.84375000 tone=ACES exposure=0.210938 ambient=Trilight fog=True fogStart=259.2188
+SWEEP west inward=28 weight=1.00000000 tone=ACES exposure=0.250000 ambient=Trilight fog=True fogStart=85
+SWEEP west inward=21 weight=0.84375000 tone=ACES exposure=0.210938 ambient=Trilight fog=True fogStart=259.2188
+SWEEP west inward=14 weight=0.50000000 tone=ACES exposure=0.125000 ambient=Trilight fog=True fogStart=642.5
+SWEEP west inward=7 weight=0.15625000 tone=ACES exposure=0.039063 ambient=Trilight fog=True fogStart=1025.781
+SWEEP west inward=2 weight=0.01457727 tone=ACES exposure=0.003644 ambient=Trilight fog=True fogStart=1183.746
+SWEEP west inward=0.12 weight=0.00005496 tone=ACES exposure=0.000014 ambient=Trilight fog=True fogStart=1199.939
+SWEEP west inward=-0.12 weight=0.00000000 tone=Neutral exposure=0.000000 ambient=Trilight fog=False fogStart=28
+SAMPLE west_reverse_outside feet=(-70.1200, 1.6307, -10.0000) player=(-70.0000, 1.6307, -10.0000) camera=(-65.6497, 16.6879, -2.4651) weight=0.00000000 tone=Neutral
+PASS west restores outside appearance delta=0.000000
+SAMPLE north_outside feet=(0.0000, 2.0328, 53.1200) player=(0.0000, 2.0328, 53.0000) camera=(4.3503, 17.0899, 60.5349) weight=0.00000000 tone=Neutral
+SAMPLE north_inside feet=(0.0000, 2.0328, 52.8800) player=(0.0000, 2.0328, 53.0000) camera=(4.3503, 17.0899, 60.5349) weight=0.00005496 tone=ACES
+BOUNDARY north outsideMean=0.202196 insideMean=0.086889 meanAbsLumaDelta=0.115308
+BASELINE_DEFECT north no tone snap outside=Neutral inside=ACES
+BASELINE_DEFECT north no abrupt rendered brightness step threshold=.005 actual=0.115308
+SWEEP north inward=0.12 weight=0.00005496 tone=ACES exposure=0.000014 ambient=Trilight fog=True fogStart=1199.939
+SWEEP north inward=2 weight=0.01457727 tone=ACES exposure=0.003644 ambient=Trilight fog=True fogStart=1183.746
+SWEEP north inward=7 weight=0.15625000 tone=ACES exposure=0.039063 ambient=Trilight fog=True fogStart=1025.781
+SWEEP north inward=14 weight=0.50000000 tone=ACES exposure=0.125000 ambient=Trilight fog=True fogStart=642.5
+SWEEP north inward=21 weight=0.84375000 tone=ACES exposure=0.210938 ambient=Trilight fog=True fogStart=259.2188
+SWEEP north inward=28 weight=1.00000000 tone=ACES exposure=0.250000 ambient=Trilight fog=True fogStart=85
+SWEEP north inward=21 weight=0.84375000 tone=ACES exposure=0.210938 ambient=Trilight fog=True fogStart=259.2188
+SWEEP north inward=14 weight=0.50000000 tone=ACES exposure=0.125000 ambient=Trilight fog=True fogStart=642.5
+SWEEP north inward=7 weight=0.15625000 tone=ACES exposure=0.039063 ambient=Trilight fog=True fogStart=1025.781
+SWEEP north inward=2 weight=0.01457727 tone=ACES exposure=0.003644 ambient=Trilight fog=True fogStart=1183.746
+SWEEP north inward=0.12 weight=0.00005496 tone=ACES exposure=0.000014 ambient=Trilight fog=True fogStart=1199.939
+SWEEP north inward=-0.12 weight=0.00000000 tone=Neutral exposure=0.000000 ambient=Trilight fog=False fogStart=28
+SAMPLE north_reverse_outside feet=(0.0000, 2.0328, 53.1200) player=(0.0000, 2.0328, 53.0000) camera=(4.3503, 17.0899, 60.5349) weight=0.00000000 tone=Neutral
+PASS north restores outside appearance delta=0.000000
+SAMPLE south_outside feet=(0.0000, 0.0353, -96.1200) player=(0.0000, 0.0353, -96.0000) camera=(4.3503, 15.0924, -88.4651) weight=0.00000000 tone=Neutral
+SAMPLE south_inside feet=(0.0000, 0.0353, -95.8800) player=(0.0000, 0.0353, -96.0000) camera=(4.3503, 15.0924, -88.4651) weight=0.00005496 tone=ACES
+BOUNDARY south outsideMean=0.214757 insideMean=0.099451 meanAbsLumaDelta=0.115306
+BASELINE_DEFECT south no tone snap outside=Neutral inside=ACES
+BASELINE_DEFECT south no abrupt rendered brightness step threshold=.005 actual=0.115306
+SWEEP south inward=0.12 weight=0.00005496 tone=ACES exposure=0.000014 ambient=Trilight fog=True fogStart=1199.939
+SWEEP south inward=2 weight=0.01457727 tone=ACES exposure=0.003644 ambient=Trilight fog=True fogStart=1183.746
+SWEEP south inward=7 weight=0.15625000 tone=ACES exposure=0.039063 ambient=Trilight fog=True fogStart=1025.781
+SWEEP south inward=14 weight=0.50000000 tone=ACES exposure=0.125000 ambient=Trilight fog=True fogStart=642.5
+SWEEP south inward=21 weight=0.84375000 tone=ACES exposure=0.210938 ambient=Trilight fog=True fogStart=259.2188
+SWEEP south inward=28 weight=1.00000000 tone=ACES exposure=0.250000 ambient=Trilight fog=True fogStart=85
+SWEEP south inward=21 weight=0.84375000 tone=ACES exposure=0.210938 ambient=Trilight fog=True fogStart=259.2188
+SWEEP south inward=14 weight=0.50000000 tone=ACES exposure=0.125000 ambient=Trilight fog=True fogStart=642.5
+SWEEP south inward=7 weight=0.15625000 tone=ACES exposure=0.039063 ambient=Trilight fog=True fogStart=1025.781
+SWEEP south inward=2 weight=0.01457727 tone=ACES exposure=0.003644 ambient=Trilight fog=True fogStart=1183.746
+SWEEP south inward=0.12 weight=0.00005496 tone=ACES exposure=0.000014 ambient=Trilight fog=True fogStart=1199.939
+SWEEP south inward=-0.12 weight=0.00000000 tone=Neutral exposure=0.000000 ambient=Trilight fog=False fogStart=28
+SAMPLE south_reverse_outside feet=(0.0000, 0.0353, -96.1200) player=(0.0000, 0.0353, -96.0000) camera=(4.3503, 15.0924, -88.4651) weight=0.00000000 tone=Neutral
+PASS south restores outside appearance delta=0.000000
+PASS remote A zero weight weight=0
+PASS remote A original tone mode=Neutral
+PASS Leave restores/deactivates look ambientBefore=Trilight after=Trilight
+defects=8
+RESULT PASS

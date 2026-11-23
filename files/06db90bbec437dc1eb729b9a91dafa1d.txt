@@ -1,0 +1,9 @@
+*** Tundra requires additional run (0.14 seconds), 0 items updated, 446 evaluated
+*** Tundra build success (6.24 seconds), 6 items updated, 808 evaluated
+Reloading assemblies after finishing script compilation.
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+Cannot add menu item 'Escape/Stage A/Run Density V04 Shot Checks' for method 'Escape.Tests.StageAMachineRolesChecks.RunShotChecks' because a menu item with the same name already exists.
+	BeginReloadAssembly (1194ms)
+	initialDomainReloadingComplete (82ms)
+Asset Pipeline Refresh (id=354798f396d90ed44a34be33f75b0a37): Total: 3.734 seconds - Initiated by StopAssetImportingV2(ForceSynchronousImport | ForceDomainReload)

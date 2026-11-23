@@ -1,0 +1,265 @@
+{
+  "inventory": {
+    "oldRows": 24131,
+    "newRows": 24131,
+    "addedCount": 2,
+    "removedCount": 2,
+    "changedCount": 122,
+    "changedFieldCounts": {
+      "materials": 122,
+      "mesh": 122,
+      "meshName": 122,
+      "position": 122,
+      "size": 122,
+      "triangles": 122,
+      "vertices": 122
+    },
+    "sourceChangedCount": 0,
+    "sourceChangedExamples": {},
+    "otherIvyChangedCount": 0,
+    "otherIvyChangedExamples": {},
+    "addedExamples": [
+      "V13_HallRoot[8]/Exterior[4]/Facade[1]/__A33_Ruin_Ivy_Generated[62]/__A33_Ivy[0]/Leaves[1]",
+      "V13_HallRoot[8]/Exterior[4]/Facade[1]/__A33_Ruin_Ivy_Generated[62]/__A33_Ivy[0]/Stems[0]"
+    ],
+    "removedExamples": [
+      "V13_HallRoot[8]/Exterior[4]/Facade[1]/BlenderExpansion_HALL_Shell[61]/HALL_Shell[0]/HALL_Shell_renderOpaque[0]/__A33_Ruin_Ivy_Generated[0]/__A33_Ivy[0]/Leaves[1]",
+      "V13_HallRoot[8]/Exterior[4]/Facade[1]/BlenderExpansion_HALL_Shell[61]/HALL_Shell[0]/HALL_Shell_renderOpaque[0]/__A33_Ruin_Ivy_Generated[0]/__A33_Ivy[0]/Stems[0]"
+    ]
+  },
+  "rolloutShape": {
+    "oldTotal": 23659,
+    "newTotal": 23659,
+    "changedRows": 62,
+    "otherFieldChanges": [],
+    "selectedBuildings": 31,
+    "roofCount": 31,
+    "facadeCount": 31,
+    "increasedSurfaces": 54,
+    "decreasedSurfaces": [
+      {
+        "building": "TOOLS",
+        "surface": "Shell",
+        "before": 946,
+        "after": 893,
+        "delta": -53,
+        "key": "02_Visual_Replaceable[2]/TOOLS__Visual[58]/BlenderExpansion_TOOLS_Shell[7]/TOOLS_Shell[0]/TOOLS_Shell_renderOpaque[1]"
+      },
+      {
+        "building": "C02",
+        "surface": "Shell",
+        "before": 1626,
+        "after": 1572,
+        "delta": -54,
+        "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/C02[28]/BlenderExpansion_C02_Shell[13]/C02_Shell[0]/C02_Shell_renderOpaque[1]"
+      },
+      {
+        "building": "N02",
+        "surface": "Shell",
+        "before": 1294,
+        "after": 1138,
+        "delta": -156,
+        "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/N02[1]/BlenderExpansion_N02_Shell[13]/N02_Shell[0]/N02_Shell_renderOpaque[1]"
+      },
+      {
+        "building": "N09",
+        "surface": "Shell",
+        "before": 1252,
+        "after": 1099,
+        "delta": -153,
+        "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/N09[8]/BlenderExpansion_N09_Shell[13]/N09_Shell[0]/N09_Shell_renderOpaque[1]"
+      },
+      {
+        "building": "S11",
+        "surface": "Shell",
+        "before": 1496,
+        "after": 1173,
+        "delta": -323,
+        "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/S11[53]/BlenderExpansion_S11_Shell[13]/S11_Shell[0]/S11_Shell_renderOpaque[1]"
+      },
+      {
+        "building": "W05",
+        "surface": "Shell",
+        "before": 1248,
+        "after": 1218,
+        "delta": -30,
+        "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/W05[20]/BlenderExpansion_W05_Shell[13]/W05_Shell[0]/W05_Shell_renderOpaque[1]"
+      },
+      {
+        "building": "W06",
+        "surface": "Shell",
+        "before": 1307,
+        "after": 1138,
+        "delta": -169,
+        "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/W06[21]/BlenderExpansion_W06_Shell[13]/W06_Shell[0]/W06_Shell_renderOpaque[1]"
+      },
+      {
+        "building": "Y05",
+        "surface": "Shell",
+        "before": 1417,
+        "after": 1087,
+        "delta": -330,
+        "key": "EnclosuresV33_ConnectedFacilities[16]/Buildings[0]/Y05[59]/BlenderExpansion_Y05_Shell[13]/Y05_Shell[0]/Y05_Shell_renderOpaque[1]"
+      }
+    ],
+    "increasedBuildings": 31,
+    "nonIncreasedBuildings": {},
+    "buildingSums": {
+      "CLINIC": {
+        "before": 2366,
+        "after": 7619,
+        "delta": 5253
+      },
+      "PARTS": {
+        "before": 3318,
+        "after": 12817,
+        "delta": 9499
+      },
+      "POWER": {
+        "before": 2845,
+        "after": 10732,
+        "delta": 7887
+      },
+      "TOOLS": {
+        "before": 1696,
+        "after": 2875,
+        "delta": 1179
+      },
+      "C02": {
+        "before": 2376,
+        "after": 4382,
+        "delta": 2006
+      },
+      "C03": {
+        "before": 1885,
+        "after": 3792,
+        "delta": 1907
+      },
+      "E01": {
+        "before": 2050,
+        "after": 5118,
+        "delta": 3068
+      },
+      "E05": {
+        "before": 2021,
+        "after": 4814,
+        "delta": 2793
+      },
+      "F02": {
+        "before": 2017,
+        "after": 4297,
+        "delta": 2280
+      },
+      "N02": {
+        "before": 2044,
+        "after": 3534,
+        "delta": 1490
+      },
+      "N09": {
+        "before": 2002,
+        "after": 2893,
+        "delta": 891
+      },
+      "N10": {
+        "before": 2146,
+        "after": 4749,
+        "delta": 2603
+      },
+      "N12": {
+        "before": 2051,
+        "after": 4813,
+        "delta": 2762
+      },
+      "N13": {
+        "before": 1918,
+        "after": 3887,
+        "delta": 1969
+      },
+      "N15": {
+        "before": 1887,
+        "after": 3995,
+        "delta": 2108
+      },
+      "S02": {
+        "before": 1430,
+        "after": 3220,
+        "delta": 1790
+      },
+      "S04": {
+        "before": 1838,
+        "after": 3242,
+        "delta": 1404
+      },
+      "S05": {
+        "before": 1839,
+        "after": 3335,
+        "delta": 1496
+      },
+      "S06": {
+        "before": 1421,
+        "after": 3355,
+        "delta": 1934
+      },
+      "S08": {
+        "before": 1615,
+        "after": 3025,
+        "delta": 1410
+      },
+      "S09": {
+        "before": 1614,
+        "after": 2891,
+        "delta": 1277
+      },
+      "S11": {
+        "before": 2246,
+        "after": 3973,
+        "delta": 1727
+      },
+      "W02": {
+        "before": 2056,
+        "after": 4362,
+        "delta": 2306
+      },
+      "W03": {
+        "before": 2063,
+        "after": 4155,
+        "delta": 2092
+      },
+      "W04": {
+        "before": 2181,
+        "after": 4776,
+        "delta": 2595
+      },
+      "W05": {
+        "before": 1998,
+        "after": 2085,
+        "delta": 87
+      },
+      "W06": {
+        "before": 2057,
+        "after": 3236,
+        "delta": 1179
+      },
+      "W08": {
+        "before": 2058,
+        "after": 4277,
+        "delta": 2219
+      },
+      "Y01": {
+        "before": 2214,
+        "after": 4833,
+        "delta": 2619
+      },
+      "Y05": {
+        "before": 2167,
+        "after": 3787,
+        "delta": 1620
+      },
+      "HALL": {
+        "before": 2572,
+        "after": 15350,
+        "delta": 12778
+      }
+    }
+  }
+}

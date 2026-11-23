@@ -1,0 +1,138 @@
+Tactical image live checks
+stage=StageA
+time=2026-10-22T20:26:37.0186525+09:00
+scene=Assets/Escape/Scenes/SystemsTest.unity
+isolation=C:\UnityProject\escape\Library\UiKitEvidence\input-ce5afcc16adb4b51a4ac050469ad8439
+PASS runtime selected the authored image
+PASS image resource key is present
+PASS background is loaded and readable
+PASS image resource resolves as Texture2D
+PASS image calibration resolves as TextAsset
+PASS calibration schema is 1
+PASS background dimensions match calibration
+PASS displayed background dimensions match the resource
+PASS A map retains its 520 by 400 metre bounds
+PASS calibration metres and map rectangle agree
+PASS image uses baker resolution with at most half-pixel dimension rounding
+PASS calibration describes a nonempty orthographic bake
+PASS calibrated top-left world corner (actual=(-260.00, 0.00, 200.00), expected=(-260.00, 0.00, 200.00))
+PASS calibrated top-right world corner (actual=(260.00, 0.00, 200.00), expected=(260.00, 0.00, 200.00))
+PASS calibrated bottom-left world corner (actual=(-260.00, 0.00, -200.00), expected=(-260.00, 0.00, -200.00))
+PASS calibrated bottom-right world corner (actual=(260.00, 0.00, -200.00), expected=(260.00, 0.00, -200.00))
+INFO resource=TacticalMaps/StageA pixels=2600x2000 ppm=5.000
+PASS MapToWorld matches A-map build point (0.00, 0.00) (actual=(-260.00, 0.00, 200.00), expected=(-260.00, 0.00, 200.00))
+PASS WorldToMap matches A-map build point (0.00, 0.00) (actual=(0.00, 0.00), expected=(0.00, 0.00))
+PASS MapToWorld matches A-map build point (520.00, 0.00) (actual=(260.00, 0.00, 200.00), expected=(260.00, 0.00, 200.00))
+PASS WorldToMap matches A-map build point (520.00, 0.00) (actual=(520.00, 0.00), expected=(520.00, 0.00))
+PASS MapToWorld matches A-map build point (0.00, 400.00) (actual=(-260.00, 0.00, -200.00), expected=(-260.00, 0.00, -200.00))
+PASS WorldToMap matches A-map build point (0.00, 400.00) (actual=(0.00, 400.00), expected=(0.00, 400.00))
+PASS MapToWorld matches A-map build point (520.00, 400.00) (actual=(260.00, 0.00, -200.00), expected=(260.00, 0.00, -200.00))
+PASS WorldToMap matches A-map build point (520.00, 400.00) (actual=(520.00, 400.00), expected=(520.00, 400.00))
+PASS MapToWorld matches A-map build point (260.00, 200.00) (actual=(0.00, 0.00, 0.00), expected=(0.00, 0.00, 0.00))
+PASS WorldToMap matches A-map build point (260.00, 200.00) (actual=(260.00, 200.00), expected=(260.00, 200.00))
+PASS MapToWorld matches A-map build point (141.00, 329.00) (actual=(-119.00, 0.00, -129.00), expected=(-119.00, 0.00, -129.00))
+PASS WorldToMap matches A-map build point (141.00, 329.00) (actual=(141.00, 329.00), expected=(141.00, 329.00))
+PASS current A map exposes its four basic entry anchors
+PASS basic entry anchor exists
+PASS basic entry B1 uses authored coordinates (actual=(20.00, 55.00), expected=(20.00, 55.00))
+PASS basic entry B1 falls inside the image
+PASS basic entry anchor exists
+PASS basic entry B2 uses authored coordinates (actual=(18.00, 200.00), expected=(18.00, 200.00))
+PASS basic entry B2 falls inside the image
+PASS basic entry anchor exists
+PASS basic entry B3 uses authored coordinates (actual=(29.00, 302.00), expected=(29.00, 302.00))
+PASS basic entry B3 falls inside the image
+PASS basic entry anchor exists
+PASS basic entry B4 uses authored coordinates (actual=(141.00, 329.00), expected=(141.00, 329.00))
+PASS basic entry B4 falls inside the image
+PASS current A map exposes extraction anchors
+PASS extraction anchor exists
+PASS extraction X1 uses authored coordinates (actual=(64.00, 35.00), expected=(64.00, 35.00))
+PASS extraction X1 falls inside the image
+PASS extraction anchor exists
+PASS extraction X2 uses authored coordinates (actual=(15.00, 245.00), expected=(15.00, 245.00))
+PASS extraction X2 falls inside the image
+PASS extraction anchor exists
+PASS extraction X3 uses authored coordinates (actual=(91.00, 343.00), expected=(91.00, 343.00))
+PASS extraction X3 falls inside the image
+PASS extraction anchor exists
+PASS extraction X4 uses authored coordinates (actual=(437.00, 37.00), expected=(437.00, 37.00))
+PASS extraction X4 falls inside the image
+PASS extraction anchor exists
+PASS extraction X5 uses authored coordinates (actual=(507.00, 235.00), expected=(507.00, 235.00))
+PASS extraction X5 falls inside the image
+PASS extraction anchor exists
+PASS extraction X6 uses authored coordinates (actual=(319.00, 389.00), expected=(319.00, 389.00))
+PASS extraction X6 falls inside the image
+PASS extraction anchor exists
+PASS extraction X7 uses authored coordinates (actual=(481.00, 369.00), expected=(481.00, 369.00))
+PASS extraction X7 falls inside the image
+PASS player marker pivot at scale 0.5 heading 0 (actual=(75.00, 87.00, 0.00), expected=(75.00, 87.00, 0.00))
+PASS player marker heading at scale 0.5 heading 0 (actual=(0.00, -5.00, 0.00), expected=(0.00, -5.00, 0.00))
+PASS player marker pivot at scale 0.5 heading 45 (actual=(75.00, 87.00, 0.00), expected=(75.00, 87.00, 0.00))
+PASS player marker heading at scale 0.5 heading 45 (actual=(3.54, -3.54, 0.00), expected=(3.54, -3.54, 0.00))
+PASS player marker pivot at scale 0.5 heading 90 (actual=(75.00, 87.00, 0.00), expected=(75.00, 87.00, 0.00))
+PASS player marker heading at scale 0.5 heading 90 (actual=(5.00, 0.00, 0.00), expected=(5.00, 0.00, 0.00))
+PASS player marker pivot at scale 0.5 heading 180 (actual=(75.00, 87.00, 0.00), expected=(75.00, 87.00, 0.00))
+PASS player marker heading at scale 0.5 heading 180 (actual=(0.00, 5.00, 0.00), expected=(0.00, 5.00, 0.00))
+PASS player marker pivot at scale 0.5 heading 270 (actual=(75.00, 87.00, 0.00), expected=(75.00, 87.00, 0.00))
+PASS player marker heading at scale 0.5 heading 270 (actual=(-5.00, 0.00, 0.00), expected=(-5.00, 0.00, 0.00))
+PASS player marker pivot at scale 1 heading 0 (actual=(133.00, 145.00, 0.00), expected=(133.00, 145.00, 0.00))
+PASS player marker heading at scale 1 heading 0 (actual=(0.00, -10.00, 0.00), expected=(0.00, -10.00, 0.00))
+PASS player marker pivot at scale 1 heading 45 (actual=(133.00, 145.00, 0.00), expected=(133.00, 145.00, 0.00))
+PASS player marker heading at scale 1 heading 45 (actual=(7.07, -7.07, 0.00), expected=(7.07, -7.07, 0.00))
+PASS player marker pivot at scale 1 heading 90 (actual=(133.00, 145.00, 0.00), expected=(133.00, 145.00, 0.00))
+PASS player marker heading at scale 1 heading 90 (actual=(10.00, 0.00, 0.00), expected=(10.00, 0.00, 0.00))
+PASS player marker pivot at scale 1 heading 180 (actual=(133.00, 145.00, 0.00), expected=(133.00, 145.00, 0.00))
+PASS player marker heading at scale 1 heading 180 (actual=(0.00, 10.00, 0.00), expected=(0.00, 10.00, 0.00))
+PASS player marker pivot at scale 1 heading 270 (actual=(133.00, 145.00, 0.00), expected=(133.00, 145.00, 0.00))
+PASS player marker heading at scale 1 heading 270 (actual=(-10.00, 0.00, 0.00), expected=(-10.00, 0.00, 0.00))
+PASS player marker pivot at scale 1.2 heading 0 (actual=(156.20, 168.20, 0.00), expected=(156.20, 168.20, 0.00))
+PASS player marker heading at scale 1.2 heading 0 (actual=(0.00, -12.00, 0.00), expected=(0.00, -12.00, 0.00))
+PASS player marker pivot at scale 1.2 heading 45 (actual=(156.20, 168.20, 0.00), expected=(156.20, 168.20, 0.00))
+PASS player marker heading at scale 1.2 heading 45 (actual=(8.49, -8.49, 0.00), expected=(8.49, -8.49, 0.00))
+PASS player marker pivot at scale 1.2 heading 90 (actual=(156.20, 168.20, 0.00), expected=(156.20, 168.20, 0.00))
+PASS player marker heading at scale 1.2 heading 90 (actual=(12.00, 0.00, 0.00), expected=(12.00, 0.00, 0.00))
+PASS player marker pivot at scale 1.2 heading 180 (actual=(156.20, 168.20, 0.00), expected=(156.20, 168.20, 0.00))
+PASS player marker heading at scale 1.2 heading 180 (actual=(0.00, 12.00, 0.00), expected=(0.00, 12.00, 0.00))
+PASS player marker pivot at scale 1.2 heading 270 (actual=(156.20, 168.20, 0.00), expected=(156.20, 168.20, 0.00))
+PASS player marker heading at scale 1.2 heading 270 (actual=(-12.00, 0.00, 0.00), expected=(-12.00, 0.00, 0.00))
+PASS player marker pivot at scale 1.5 heading 0 (actual=(191.00, 203.00, 0.00), expected=(191.00, 203.00, 0.00))
+PASS player marker heading at scale 1.5 heading 0 (actual=(0.00, -15.00, 0.00), expected=(0.00, -15.00, 0.00))
+PASS player marker pivot at scale 1.5 heading 45 (actual=(191.00, 203.00, 0.00), expected=(191.00, 203.00, 0.00))
+PASS player marker heading at scale 1.5 heading 45 (actual=(10.61, -10.61, 0.00), expected=(10.61, -10.61, 0.00))
+PASS player marker pivot at scale 1.5 heading 90 (actual=(191.00, 203.00, 0.00), expected=(191.00, 203.00, 0.00))
+PASS player marker heading at scale 1.5 heading 90 (actual=(15.00, 0.00, 0.00), expected=(15.00, 0.00, 0.00))
+PASS player marker pivot at scale 1.5 heading 180 (actual=(191.00, 203.00, 0.00), expected=(191.00, 203.00, 0.00))
+PASS player marker heading at scale 1.5 heading 180 (actual=(0.00, 15.00, 0.00), expected=(0.00, 15.00, 0.00))
+PASS player marker pivot at scale 1.5 heading 270 (actual=(191.00, 203.00, 0.00), expected=(191.00, 203.00, 0.00))
+PASS player marker heading at scale 1.5 heading 270 (actual=(-15.00, 0.00, 0.00), expected=(-15.00, 0.00, 0.00))
+INFO historical screen-pivot rotation was sensitive to HUD scale; current marker pivot stayed fixed at all tested scales.
+PASS 10 m east increases map X (actual=(10.00, 0.00), expected=(10.00, 0.00))
+PASS 10 m north decreases map Y (actual=(0.00, -10.00), expected=(0.00, -10.00))
+PASS 10 m east has expected minimap pixel delta (actual=(16.57, 0.00), expected=(16.57, 0.00))
+PASS 10 m north has expected minimap pixel delta (actual=(0.00, -16.57), expected=(0.00, -16.57))
+PASS map heading follows active map root at 0 degrees
+PASS map heading follows active map root at 45 degrees
+PASS map heading follows active map root at 90 degrees
+PASS map heading follows active map root at 180 degrees
+PASS map heading follows active map root at 270 degrees
+PASS sample region fits within the active map
+PASS circular crop corners are transparent
+PASS circular crop centre is opaque
+PASS north-up bilinear circular image sample (32, 32) matches authored background
+PASS north-up bilinear circular image sample (32, 46) matches authored background
+PASS north-up bilinear circular image sample (32, 18) matches authored background
+PASS north-up bilinear circular image sample (18, 32) matches authored background
+PASS north-up bilinear circular image sample (46, 32) matches authored background
+PASS full map reset fits both image corners
+PASS full map wheel enlarges the image
+PASS full map wheel preserves pointer coordinate (actual=(301.11, 182.38), expected=(301.11, 182.38))
+PASS full map pan follows pointer delta
+PASS full map empty-image click creates a waypoint at the same map position
+PASS waypoint screen coordinate round-trips (actual=(6.24, 394.00), expected=(6.24, 394.00))
+PASS runtime map background is an image asset
+PASS tactical controller and view do not own a runtime camera
+PASS editor bake camera was destroyed after capture
+PASS editor bake camera was destroyed after capture
+ALL IMAGE CHECKS PASSED

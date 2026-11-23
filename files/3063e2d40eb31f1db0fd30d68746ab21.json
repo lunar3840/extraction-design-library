@@ -1,0 +1,20 @@
+{
+  "utc": "2026-11-03T21:51:54.243477+00:00",
+  "passed": true,
+  "scriptReloadFinished": true,
+  "errors": [],
+  "verificationToolsRemaining": [],
+  "ownRequestFilesRemaining": [],
+  "toolsArchivedTo": "work/pro-animation-sync-20261104/validation-tools",
+  "sourceCodeRemaining": [
+    "OriginalMotionDataset.cs",
+    "OriginalDqSkin.cs",
+    "EdelOriginalMotion.cs"
+  ],
+  "serializationModeFileIsForceText": true,
+  "screenshot": "after_editor_native.jpg",
+  "freeBytes": 7804420096,
+  "existingWarnings": [
+    "Map V04 Shot Checks duplicate menu item; no compilation error"
+  ]
+}

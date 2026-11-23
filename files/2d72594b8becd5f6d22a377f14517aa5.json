@@ -1,0 +1,2474 @@
+{
+    "checkedUTC": "2026-11-03T20:21:40.7822602Z",
+    "sourceSHA256": "73fa5c397c9004cb788717df6cac7caf3bd58f105780b63fa3bdf85ac8a49908",
+    "gpuSurfacePass": true,
+    "threshold": 0.00009999999747378752,
+    "maximumError": 0.000017266807844862342,
+    "shaderErrors": [],
+    "frames": [
+        {
+            "clip": "E30_ArmedIdle",
+            "frame": 1,
+            "maximumError": 7.810060083102144e-7,
+            "rmsError": 2.555631226641708e-7,
+            "refreshMilliseconds": 50.8757
+        },
+        {
+            "clip": "E30_ArmedIdle",
+            "frame": 31,
+            "maximumError": 7.810060083102144e-7,
+            "rmsError": 2.555631226641708e-7,
+            "refreshMilliseconds": 0.6161
+        },
+        {
+            "clip": "E30_ArmedIdle",
+            "frame": 61,
+            "maximumError": 7.810060083102144e-7,
+            "rmsError": 2.555631226641708e-7,
+            "refreshMilliseconds": 0.646
+        },
+        {
+            "clip": "E30_ArmedIdle",
+            "frame": 91,
+            "maximumError": 7.810060083102144e-7,
+            "rmsError": 2.555631226641708e-7,
+            "refreshMilliseconds": 0.7367
+        },
+        {
+            "clip": "E30_ArmedIdle",
+            "frame": 121,
+            "maximumError": 7.810060083102144e-7,
+            "rmsError": 2.555631226641708e-7,
+            "refreshMilliseconds": 0.6373
+        },
+        {
+            "clip": "E30_AimIdle_RightEye",
+            "frame": 1,
+            "maximumError": 7.009883802311379e-7,
+            "rmsError": 1.8893418030074827e-7,
+            "refreshMilliseconds": 0.587
+        },
+        {
+            "clip": "E30_AimIdle_RightEye",
+            "frame": 31,
+            "maximumError": 7.06048183474195e-7,
+            "rmsError": 1.7155356601961103e-7,
+            "refreshMilliseconds": 0.5469
+        },
+        {
+            "clip": "E30_AimIdle_RightEye",
+            "frame": 61,
+            "maximumError": 7.009883802311379e-7,
+            "rmsError": 1.8893418030074827e-7,
+            "refreshMilliseconds": 0.5976
+        },
+        {
+            "clip": "E30_AimIdle_RightEye",
+            "frame": 91,
+            "maximumError": 7.009883802311379e-7,
+            "rmsError": 1.8893418030074827e-7,
+            "refreshMilliseconds": 0.6174
+        },
+        {
+            "clip": "E30_AimIdle_RightEye",
+            "frame": 121,
+            "maximumError": 7.009883802311379e-7,
+            "rmsError": 1.8893418030074827e-7,
+            "refreshMilliseconds": 0.5672
+        },
+        {
+            "clip": "E30_Walk_Secondary",
+            "frame": 1,
+            "maximumError": 0.0000019264757611381357,
+            "rmsError": 1.9376763304990164e-7,
+            "refreshMilliseconds": 1.3711
+        },
+        {
+            "clip": "E30_Walk_Secondary",
+            "frame": 9,
+            "maximumError": 9.803329703572672e-7,
+            "rmsError": 1.715386872547242e-7,
+            "refreshMilliseconds": 0.5573
+        },
+        {
+            "clip": "E30_Walk_Secondary",
+            "frame": 17,
+            "maximumError": 0.000001913657342811348,
+            "rmsError": 1.870670445214273e-7,
+            "refreshMilliseconds": 0.6281
+        },
+        {
+            "clip": "E30_Walk_Secondary",
+            "frame": 25,
+            "maximumError": 9.83765858109109e-7,
+            "rmsError": 2.019694562704899e-7,
+            "refreshMilliseconds": 0.5982
+        },
+        {
+            "clip": "E30_Walk_Secondary",
+            "frame": 33,
+            "maximumError": 0.0000019264757611381357,
+            "rmsError": 1.9376763304990164e-7,
+            "refreshMilliseconds": 0.6962
+        },
+        {
+            "clip": "E30_Run_Secondary",
+            "frame": 1,
+            "maximumError": 0.000002294899786647875,
+            "rmsError": 1.8888403019445833e-7,
+            "refreshMilliseconds": 0.547
+        },
+        {
+            "clip": "E30_Run_Secondary",
+            "frame": 6,
+            "maximumError": 0.000003377776465640636,
+            "rmsError": 1.807009510912394e-7,
+            "refreshMilliseconds": 1.3167
+        },
+        {
+            "clip": "E30_Run_Secondary",
+            "frame": 12,
+            "maximumError": 0.0000027728274289984257,
+            "rmsError": 1.772951776501941e-7,
+            "refreshMilliseconds": 0.5983
+        },
+        {
+            "clip": "E30_Run_Secondary",
+            "frame": 18,
+            "maximumError": 0.0000031880476853984875,
+            "rmsError": 2.926763329469395e-7,
+            "refreshMilliseconds": 0.643
+        },
+        {
+            "clip": "E30_Run_Secondary",
+            "frame": 23,
+            "maximumError": 0.000002294899786647875,
+            "rmsError": 1.8882674623910135e-7,
+            "refreshMilliseconds": 0.5785
+        },
+        {
+            "clip": "E30_A_Joy",
+            "frame": 1,
+            "maximumError": 7.810060083102144e-7,
+            "rmsError": 2.555631226641708e-7,
+            "refreshMilliseconds": 0.5795
+        },
+        {
+            "clip": "E30_A_Joy",
+            "frame": 31,
+            "maximumError": 7.208316219475819e-7,
+            "rmsError": 2.1518630433092768e-7,
+            "refreshMilliseconds": 0.5677
+        },
+        {
+            "clip": "E30_A_Joy",
+            "frame": 61,
+            "maximumError": 7.715578931311029e-7,
+            "rmsError": 1.8576265858882835e-7,
+            "refreshMilliseconds": 1.539
+        },
+        {
+            "clip": "E30_A_Joy",
+            "frame": 91,
+            "maximumError": 7.987077879079152e-7,
+            "rmsError": 2.1393914551026683e-7,
+            "refreshMilliseconds": 1.0234
+        },
+        {
+            "clip": "E30_A_Joy",
+            "frame": 121,
+            "maximumError": 7.810060083102144e-7,
+            "rmsError": 2.555631226641708e-7,
+            "refreshMilliseconds": 0.5747
+        },
+        {
+            "clip": "E30_A_Shy",
+            "frame": 1,
+            "maximumError": 7.810060083102144e-7,
+            "rmsError": 2.555631226641708e-7,
+            "refreshMilliseconds": 1.0743
+        },
+        {
+            "clip": "E30_A_Shy",
+            "frame": 31,
+            "maximumError": 7.552790748377447e-7,
+            "rmsError": 1.923001491377363e-7,
+            "refreshMilliseconds": 0.5891
+        },
+        {
+            "clip": "E30_A_Shy",
+            "frame": 61,
+            "maximumError": 7.328982292165165e-7,
+            "rmsError": 1.7517719186344039e-7,
+            "refreshMilliseconds": 1.5596
+        },
+        {
+            "clip": "E30_A_Shy",
+            "frame": 91,
+            "maximumError": 7.088729034876451e-7,
+            "rmsError": 1.8352700692503277e-7,
+            "refreshMilliseconds": 0.6441
+        },
+        {
+            "clip": "E30_A_Shy",
+            "frame": 121,
+            "maximumError": 7.810060083102144e-7,
+            "rmsError": 2.555631226641708e-7,
+            "refreshMilliseconds": 0.6122
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 1,
+            "maximumError": 6.188917041072273e-7,
+            "rmsError": 2.303082453636307e-7,
+            "refreshMilliseconds": 0.6595
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 2,
+            "maximumError": 6.258487701416016e-7,
+            "rmsError": 1.6206206510105404e-7,
+            "refreshMilliseconds": 0.6038
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 3,
+            "maximumError": 6.609740239582607e-7,
+            "rmsError": 1.7519856498893206e-7,
+            "refreshMilliseconds": 0.5986
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 4,
+            "maximumError": 5.497296911016747e-7,
+            "rmsError": 1.6057182961048967e-7,
+            "refreshMilliseconds": 0.5781
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 5,
+            "maximumError": 6.618133170377405e-7,
+            "rmsError": 1.9430684972121527e-7,
+            "refreshMilliseconds": 0.8963
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 6,
+            "maximumError": 5.530644671125629e-7,
+            "rmsError": 1.5381687035187498e-7,
+            "refreshMilliseconds": 0.5786
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 7,
+            "maximumError": 6.44389103854337e-7,
+            "rmsError": 1.827566791234858e-7,
+            "refreshMilliseconds": 0.8679
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 8,
+            "maximumError": 9.63518800745078e-7,
+            "rmsError": 1.9736208400900069e-7,
+            "refreshMilliseconds": 0.6109
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 9,
+            "maximumError": 7.83445443630626e-7,
+            "rmsError": 1.8226911890906195e-7,
+            "refreshMilliseconds": 1.3307
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 10,
+            "maximumError": 7.387343430309556e-7,
+            "rmsError": 1.8992054151567573e-7,
+            "refreshMilliseconds": 0.5868
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 11,
+            "maximumError": 6.57511236568098e-7,
+            "rmsError": 2.160785186333669e-7,
+            "refreshMilliseconds": 1.3368
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 12,
+            "maximumError": 8.461248626190354e-7,
+            "rmsError": 1.9854176969147375e-7,
+            "refreshMilliseconds": 0.6613
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 13,
+            "maximumError": 6.440767492676969e-7,
+            "rmsError": 1.5767909644637258e-7,
+            "refreshMilliseconds": 1.2024
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 14,
+            "maximumError": 7.413608500428381e-7,
+            "rmsError": 1.787493744132007e-7,
+            "refreshMilliseconds": 0.6193
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 15,
+            "maximumError": 6.521279942717229e-7,
+            "rmsError": 1.8640270127434634e-7,
+            "refreshMilliseconds": 1.5723
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 16,
+            "maximumError": 6.882013963149802e-7,
+            "rmsError": 1.9230125758440409e-7,
+            "refreshMilliseconds": 0.5692
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 17,
+            "maximumError": 6.16386387264356e-7,
+            "rmsError": 1.5816343079677609e-7,
+            "refreshMilliseconds": 0.9075
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 18,
+            "maximumError": 6.123996740825532e-7,
+            "rmsError": 1.677302918778878e-7,
+            "refreshMilliseconds": 0.5849
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 19,
+            "maximumError": 5.103511853121745e-7,
+            "rmsError": 1.66714357874298e-7,
+            "refreshMilliseconds": 0.9504
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 20,
+            "maximumError": 4.897588041785639e-7,
+            "rmsError": 1.9622611091563159e-7,
+            "refreshMilliseconds": 0.6046
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 21,
+            "maximumError": 5.126877908878669e-7,
+            "rmsError": 1.9411803009461438e-7,
+            "refreshMilliseconds": 0.6559
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 22,
+            "maximumError": 5.247240437711298e-7,
+            "rmsError": 1.7803621688017302e-7,
+            "refreshMilliseconds": 0.5815
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 23,
+            "maximumError": 5.939940024290991e-7,
+            "rmsError": 1.8144017133181479e-7,
+            "refreshMilliseconds": 0.9999
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 24,
+            "maximumError": 5.716712507819466e-7,
+            "rmsError": 1.6937345037604246e-7,
+            "refreshMilliseconds": 0.556
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 25,
+            "maximumError": 6.28724819762283e-7,
+            "rmsError": 2.1136924033271499e-7,
+            "refreshMilliseconds": 1.1377
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 26,
+            "maximumError": 5.772156441707921e-7,
+            "rmsError": 2.1564396490703076e-7,
+            "refreshMilliseconds": 0.5869
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 27,
+            "maximumError": 9.178438062917849e-7,
+            "rmsError": 2.2213897921119497e-7,
+            "refreshMilliseconds": 1.189
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 28,
+            "maximumError": 6.407932460206212e-7,
+            "rmsError": 2.011352506769981e-7,
+            "refreshMilliseconds": 0.5699
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 29,
+            "maximumError": 7.554168632850633e-7,
+            "rmsError": 2.2883010331042898e-7,
+            "refreshMilliseconds": 1.4435
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 30,
+            "maximumError": 6.864650003990391e-7,
+            "rmsError": 2.3241804569806846e-7,
+            "refreshMilliseconds": 0.56
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 31,
+            "maximumError": 5.445681381388567e-7,
+            "rmsError": 1.887258349597687e-7,
+            "refreshMilliseconds": 1.2567
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 32,
+            "maximumError": 6.109476089477539e-7,
+            "rmsError": 1.9469170808861237e-7,
+            "refreshMilliseconds": 0.6142
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 33,
+            "maximumError": 5.627531436402933e-7,
+            "rmsError": 1.7907520089011087e-7,
+            "refreshMilliseconds": 1.1864
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 34,
+            "maximumError": 6.331788426905405e-7,
+            "rmsError": 1.615642446495258e-7,
+            "refreshMilliseconds": 0.5679
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 35,
+            "maximumError": 6.799243124078203e-7,
+            "rmsError": 1.738868888878642e-7,
+            "refreshMilliseconds": 1.306
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 36,
+            "maximumError": 6.400564984687662e-7,
+            "rmsError": 1.8359318687544147e-7,
+            "refreshMilliseconds": 0.5672
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 37,
+            "maximumError": 6.154851348583179e-7,
+            "rmsError": 2.2735270022167243e-7,
+            "refreshMilliseconds": 1.2066
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 38,
+            "maximumError": 5.767827246927482e-7,
+            "rmsError": 2.43778998765265e-7,
+            "refreshMilliseconds": 0.5983
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 39,
+            "maximumError": 6.758296535736008e-7,
+            "rmsError": 2.15271313663834e-7,
+            "refreshMilliseconds": 0.5989
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 40,
+            "maximumError": 6.267794105951907e-7,
+            "rmsError": 2.3748829391934124e-7,
+            "refreshMilliseconds": 0.8173
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 41,
+            "maximumError": 6.677316832792712e-7,
+            "rmsError": 2.6944030651065989e-7,
+            "refreshMilliseconds": 0.598
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 42,
+            "maximumError": 6.534885415021563e-7,
+            "rmsError": 2.039268309772524e-7,
+            "refreshMilliseconds": 0.7777
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 43,
+            "maximumError": 5.548064336835523e-7,
+            "rmsError": 1.9232336967434095e-7,
+            "refreshMilliseconds": 0.5841
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 44,
+            "maximumError": 5.511415679393394e-7,
+            "rmsError": 1.8029703596766923e-7,
+            "refreshMilliseconds": 0.6274
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 45,
+            "maximumError": 6.665667910965567e-7,
+            "rmsError": 1.4171236273341493e-7,
+            "refreshMilliseconds": 0.6037
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 46,
+            "maximumError": 5.946011469859513e-7,
+            "rmsError": 1.8124100620298123e-7,
+            "refreshMilliseconds": 0.5828
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 47,
+            "maximumError": 4.826228519050346e-7,
+            "rmsError": 1.903679276438197e-7,
+            "refreshMilliseconds": 0.5895
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 48,
+            "maximumError": 6.500497988781717e-7,
+            "rmsError": 2.246684829287915e-7,
+            "refreshMilliseconds": 0.6501
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 49,
+            "maximumError": 6.485108769993531e-7,
+            "rmsError": 1.859295650774584e-7,
+            "refreshMilliseconds": 0.6176
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 50,
+            "maximumError": 5.87238560001424e-7,
+            "rmsError": 2.0272312895031065e-7,
+            "refreshMilliseconds": 0.5897
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 51,
+            "maximumError": 7.422214594043908e-7,
+            "rmsError": 1.9505026216393163e-7,
+            "refreshMilliseconds": 0.5873
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 52,
+            "maximumError": 6.005464001646033e-7,
+            "rmsError": 1.7720661560360896e-7,
+            "refreshMilliseconds": 0.577
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 53,
+            "maximumError": 5.3354949614004e-7,
+            "rmsError": 1.5849684587010416e-7,
+            "refreshMilliseconds": 0.6331
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 54,
+            "maximumError": 6.623923241022567e-7,
+            "rmsError": 1.6656125012559642e-7,
+            "refreshMilliseconds": 0.5741
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 55,
+            "maximumError": 5.553557116400043e-7,
+            "rmsError": 1.7546355479680643e-7,
+            "refreshMilliseconds": 0.6382
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 56,
+            "maximumError": 6.194744628373883e-7,
+            "rmsError": 1.8900406928423764e-7,
+            "refreshMilliseconds": 0.577
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 57,
+            "maximumError": 6.016545626152947e-7,
+            "rmsError": 2.0176480575173628e-7,
+            "refreshMilliseconds": 0.6051
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 58,
+            "maximumError": 7.625934017596592e-7,
+            "rmsError": 1.752211318262198e-7,
+            "refreshMilliseconds": 0.6442
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 59,
+            "maximumError": 6.490242867585039e-7,
+            "rmsError": 1.7244531136384467e-7,
+            "refreshMilliseconds": 0.6544
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 60,
+            "maximumError": 6.729590040777111e-7,
+            "rmsError": 2.1956059015337815e-7,
+            "refreshMilliseconds": 0.5934
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 61,
+            "maximumError": 6.872731432849832e-7,
+            "rmsError": 1.5955963306168997e-7,
+            "refreshMilliseconds": 0.6141
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 62,
+            "maximumError": 8.391831443077535e-7,
+            "rmsError": 2.131387475401425e-7,
+            "refreshMilliseconds": 0.5647
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 63,
+            "maximumError": 7.815322646820277e-7,
+            "rmsError": 1.781227751962433e-7,
+            "refreshMilliseconds": 0.6081
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 64,
+            "maximumError": 6.751825480932894e-7,
+            "rmsError": 1.9115049099127646e-7,
+            "refreshMilliseconds": 0.5835
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 65,
+            "maximumError": 5.980106152492226e-7,
+            "rmsError": 1.3772449847238023e-7,
+            "refreshMilliseconds": 0.6009
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 66,
+            "maximumError": 7.225238505270681e-7,
+            "rmsError": 1.7261807272461739e-7,
+            "refreshMilliseconds": 0.6855
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 67,
+            "maximumError": 6.827045240243024e-7,
+            "rmsError": 1.765691308719397e-7,
+            "refreshMilliseconds": 0.5699
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 68,
+            "maximumError": 0.0000011318018096062588,
+            "rmsError": 2.2743080307918718e-7,
+            "refreshMilliseconds": 0.6298
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 69,
+            "maximumError": 7.324106263695285e-7,
+            "rmsError": 1.9178092713900697e-7,
+            "refreshMilliseconds": 0.6155
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 70,
+            "maximumError": 8.154983106578584e-7,
+            "rmsError": 1.7210687985880214e-7,
+            "refreshMilliseconds": 1.3343
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 71,
+            "maximumError": 6.40923190076137e-7,
+            "rmsError": 1.565324083685482e-7,
+            "refreshMilliseconds": 0.6613
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 72,
+            "maximumError": 7.450952921317366e-7,
+            "rmsError": 1.8182801397870208e-7,
+            "refreshMilliseconds": 1.1789
+        },
+        {
+            "clip": "E34_A_Roll_Forward_IP",
+            "frame": 73,
+            "maximumError": 6.188917041072273e-7,
+            "rmsError": 2.303082453636307e-7,
+            "refreshMilliseconds": 0.6273
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 1,
+            "maximumError": 6.188917041072273e-7,
+            "rmsError": 2.303082453636307e-7,
+            "refreshMilliseconds": 0.6201
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 2,
+            "maximumError": 0.0000010150305342904176,
+            "rmsError": 1.7854732448085998e-7,
+            "refreshMilliseconds": 0.6242
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 3,
+            "maximumError": 7.634573080395057e-7,
+            "rmsError": 1.710091055429075e-7,
+            "refreshMilliseconds": 0.6401
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 4,
+            "maximumError": 7.156436936384125e-7,
+            "rmsError": 1.7665155382928789e-7,
+            "refreshMilliseconds": 0.7744
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 5,
+            "maximumError": 7.839767022232991e-7,
+            "rmsError": 1.7839307986378118e-7,
+            "refreshMilliseconds": 0.5875
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 6,
+            "maximumError": 8.085189051598718e-7,
+            "rmsError": 1.9265863215878199e-7,
+            "refreshMilliseconds": 0.729
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 7,
+            "maximumError": 6.056547476873675e-7,
+            "rmsError": 1.5312498646835594e-7,
+            "refreshMilliseconds": 0.6066
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 8,
+            "maximumError": 8.012145826796768e-7,
+            "rmsError": 1.7095450743909169e-7,
+            "refreshMilliseconds": 0.6077
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 9,
+            "maximumError": 7.84861299507611e-7,
+            "rmsError": 2.3259417503140868e-7,
+            "refreshMilliseconds": 0.6289
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 10,
+            "maximumError": 6.271003485380788e-7,
+            "rmsError": 1.7222599524302496e-7,
+            "refreshMilliseconds": 0.6072
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 11,
+            "maximumError": 6.293866476880794e-7,
+            "rmsError": 1.889949743372199e-7,
+            "refreshMilliseconds": 0.6371
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 12,
+            "maximumError": 7.807127531123115e-7,
+            "rmsError": 2.5193128294631608e-7,
+            "refreshMilliseconds": 0.6043
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 13,
+            "maximumError": 6.573422410838248e-7,
+            "rmsError": 1.9881223067841348e-7,
+            "refreshMilliseconds": 1.0343
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 14,
+            "maximumError": 5.62703860396141e-7,
+            "rmsError": 1.5767338368277707e-7,
+            "refreshMilliseconds": 0.5788
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 15,
+            "maximumError": 8.145447623064683e-7,
+            "rmsError": 2.2446930358910323e-7,
+            "refreshMilliseconds": 0.6668
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 16,
+            "maximumError": 6.293866476880794e-7,
+            "rmsError": 1.7131644369783317e-7,
+            "refreshMilliseconds": 0.6232
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 17,
+            "maximumError": 5.213310600993282e-7,
+            "rmsError": 1.679094907558465e-7,
+            "refreshMilliseconds": 0.6113
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 18,
+            "maximumError": 7.269663342412969e-7,
+            "rmsError": 1.5441594314324903e-7,
+            "refreshMilliseconds": 0.8548
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 19,
+            "maximumError": 5.855227414031106e-7,
+            "rmsError": 1.8029162163202273e-7,
+            "refreshMilliseconds": 0.6003
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 20,
+            "maximumError": 6.216213819243421e-7,
+            "rmsError": 1.8524853828694177e-7,
+            "refreshMilliseconds": 1.0562
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 21,
+            "maximumError": 5.473008286571712e-7,
+            "rmsError": 1.992805067629888e-7,
+            "refreshMilliseconds": 0.639
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 22,
+            "maximumError": 5.374756142373371e-7,
+            "rmsError": 1.8030770831956034e-7,
+            "refreshMilliseconds": 0.6086
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 23,
+            "maximumError": 4.777675712830387e-7,
+            "rmsError": 1.5544230791419978e-7,
+            "refreshMilliseconds": 0.7285
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 24,
+            "maximumError": 5.81718097691919e-7,
+            "rmsError": 2.027845908969539e-7,
+            "refreshMilliseconds": 0.6044
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 25,
+            "maximumError": 5.599347900897556e-7,
+            "rmsError": 1.8336223206461e-7,
+            "refreshMilliseconds": 1.0368
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 26,
+            "maximumError": 4.976296281711257e-7,
+            "rmsError": 1.812255590039058e-7,
+            "refreshMilliseconds": 0.6238
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 27,
+            "maximumError": 7.899021170487686e-7,
+            "rmsError": 2.679420276763267e-7,
+            "refreshMilliseconds": 0.7447
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 28,
+            "maximumError": 6.642308676418907e-7,
+            "rmsError": 3.0182619070728835e-7,
+            "refreshMilliseconds": 0.6945
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 29,
+            "maximumError": 6.186008363329165e-7,
+            "rmsError": 1.8484608688140725e-7,
+            "refreshMilliseconds": 0.6111
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 30,
+            "maximumError": 5.537540914701822e-7,
+            "rmsError": 1.6768834143476853e-7,
+            "refreshMilliseconds": 0.699
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 31,
+            "maximumError": 5.810019843011105e-7,
+            "rmsError": 1.788762205023886e-7,
+            "refreshMilliseconds": 0.9105
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 32,
+            "maximumError": 5.939940024290991e-7,
+            "rmsError": 2.2426571888445324e-7,
+            "refreshMilliseconds": 0.5985
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 33,
+            "maximumError": 5.617164902105287e-7,
+            "rmsError": 2.0688895574494382e-7,
+            "refreshMilliseconds": 1.4223
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 34,
+            "maximumError": 5.6722666386122e-7,
+            "rmsError": 1.613803704003658e-7,
+            "refreshMilliseconds": 0.6374
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 35,
+            "maximumError": 7.090588951541577e-7,
+            "rmsError": 2.3077122079939728e-7,
+            "refreshMilliseconds": 0.6307
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 36,
+            "maximumError": 5.206884452491067e-7,
+            "rmsError": 1.8859559247630387e-7,
+            "refreshMilliseconds": 0.7003
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 37,
+            "maximumError": 6.360980933095561e-7,
+            "rmsError": 1.8167948212521879e-7,
+            "refreshMilliseconds": 0.598
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 38,
+            "maximumError": 7.40133714316471e-7,
+            "rmsError": 3.3610277228035559e-7,
+            "refreshMilliseconds": 1.1807
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 39,
+            "maximumError": 8.052488738030661e-7,
+            "rmsError": 2.0281090939988645e-7,
+            "refreshMilliseconds": 0.5796
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 40,
+            "maximumError": 4.885672524324036e-7,
+            "rmsError": 1.5835841793432338e-7,
+            "refreshMilliseconds": 0.6043
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 41,
+            "maximumError": 7.729685762569716e-7,
+            "rmsError": 2.283253479617997e-7,
+            "refreshMilliseconds": 0.7648
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 42,
+            "maximumError": 5.689824433829926e-7,
+            "rmsError": 1.7506162919289637e-7,
+            "refreshMilliseconds": 0.6129
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 43,
+            "maximumError": 6.416157134481182e-7,
+            "rmsError": 1.8867550011236745e-7,
+            "refreshMilliseconds": 1.5727
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 44,
+            "maximumError": 8.141612966028333e-7,
+            "rmsError": 1.9515651672463719e-7,
+            "refreshMilliseconds": 0.5985
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 45,
+            "maximumError": 6.11129280514433e-7,
+            "rmsError": 1.6700691674031987e-7,
+            "refreshMilliseconds": 0.5786
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 46,
+            "maximumError": 5.879825266674743e-7,
+            "rmsError": 2.0208698003898463e-7,
+            "refreshMilliseconds": 0.6541
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 47,
+            "maximumError": 5.374756142373371e-7,
+            "rmsError": 1.5588857138482127e-7,
+            "refreshMilliseconds": 0.5936
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 48,
+            "maximumError": 5.778884997198475e-7,
+            "rmsError": 2.0280232604363847e-7,
+            "refreshMilliseconds": 1.5307
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 49,
+            "maximumError": 5.925436994402844e-7,
+            "rmsError": 1.361956236678452e-7,
+            "refreshMilliseconds": 0.6821
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 50,
+            "maximumError": 5.109083076604293e-7,
+            "rmsError": 1.4225119571165124e-7,
+            "refreshMilliseconds": 0.5946
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 51,
+            "maximumError": 5.22232028288272e-7,
+            "rmsError": 1.3832496392751637e-7,
+            "refreshMilliseconds": 0.5748
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 52,
+            "maximumError": 6.583547929039924e-7,
+            "rmsError": 2.1500781599570474e-7,
+            "refreshMilliseconds": 0.7018
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 53,
+            "maximumError": 4.919675689052383e-7,
+            "rmsError": 1.2848711605784048e-7,
+            "refreshMilliseconds": 0.6836
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 54,
+            "maximumError": 6.007311981193197e-7,
+            "rmsError": 1.5829424171442953e-7,
+            "refreshMilliseconds": 0.5901
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 55,
+            "maximumError": 5.601825705525698e-7,
+            "rmsError": 2.030560750654331e-7,
+            "refreshMilliseconds": 0.9508
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 56,
+            "maximumError": 8.070048238550953e-7,
+            "rmsError": 2.1574474828867097e-7,
+            "refreshMilliseconds": 0.577
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 57,
+            "maximumError": 5.70784493447718e-7,
+            "rmsError": 1.7811187547067676e-7,
+            "refreshMilliseconds": 0.596
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 58,
+            "maximumError": 6.564998216163076e-7,
+            "rmsError": 1.7897136217470689e-7,
+            "refreshMilliseconds": 0.569
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 59,
+            "maximumError": 7.440982017214992e-7,
+            "rmsError": 1.717757385222285e-7,
+            "refreshMilliseconds": 0.6092
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 60,
+            "maximumError": 7.508839985348459e-7,
+            "rmsError": 1.8448413641181106e-7,
+            "refreshMilliseconds": 0.658
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 61,
+            "maximumError": 6.684379059151979e-7,
+            "rmsError": 1.8069709994961159e-7,
+            "refreshMilliseconds": 0.5984
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 62,
+            "maximumError": 7.405765813928156e-7,
+            "rmsError": 1.9281638685697545e-7,
+            "refreshMilliseconds": 1.0906
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 63,
+            "maximumError": 6.288572649282287e-7,
+            "rmsError": 1.967602685226666e-7,
+            "refreshMilliseconds": 0.5748
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 64,
+            "maximumError": 6.032785222487291e-7,
+            "rmsError": 1.7590393497357582e-7,
+            "refreshMilliseconds": 1.3969
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 65,
+            "maximumError": 6.262062015593983e-7,
+            "rmsError": 1.455583884535372e-7,
+            "refreshMilliseconds": 0.5542
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 66,
+            "maximumError": 7.239342494358425e-7,
+            "rmsError": 1.7918821981766087e-7,
+            "refreshMilliseconds": 0.5852
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 67,
+            "maximumError": 7.962105428305222e-7,
+            "rmsError": 1.5123427488106246e-7,
+            "refreshMilliseconds": 0.6192
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 68,
+            "maximumError": 6.295740604400635e-7,
+            "rmsError": 1.8992352579516592e-7,
+            "refreshMilliseconds": 0.584
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 69,
+            "maximumError": 6.275124064814008e-7,
+            "rmsError": 1.9002243334398373e-7,
+            "refreshMilliseconds": 0.855
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 70,
+            "maximumError": 8.573106242693029e-7,
+            "rmsError": 1.7474511082582468e-7,
+            "refreshMilliseconds": 0.5721
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 71,
+            "maximumError": 5.80380628889543e-7,
+            "rmsError": 1.7625912107632758e-7,
+            "refreshMilliseconds": 1.2714
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 72,
+            "maximumError": 6.182186211844964e-7,
+            "rmsError": 1.6255911816642766e-7,
+            "refreshMilliseconds": 0.5879
+        },
+        {
+            "clip": "E34_A_Roll_Left_IP",
+            "frame": 73,
+            "maximumError": 6.188917041072273e-7,
+            "rmsError": 2.303082453636307e-7,
+            "refreshMilliseconds": 0.6168
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 1,
+            "maximumError": 6.188917041072273e-7,
+            "rmsError": 2.303082453636307e-7,
+            "refreshMilliseconds": 0.6128
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 2,
+            "maximumError": 7.301568984985352e-7,
+            "rmsError": 1.720653557413243e-7,
+            "refreshMilliseconds": 0.5792
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 3,
+            "maximumError": 6.435162731577293e-7,
+            "rmsError": 1.6085863308035187e-7,
+            "refreshMilliseconds": 0.6591
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 4,
+            "maximumError": 7.866715918680711e-7,
+            "rmsError": 1.7208083136210917e-7,
+            "refreshMilliseconds": 0.5964
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 5,
+            "maximumError": 7.233841188281076e-7,
+            "rmsError": 1.8668730206172769e-7,
+            "refreshMilliseconds": 1.0122
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 6,
+            "maximumError": 8.070048238550953e-7,
+            "rmsError": 2.3608282617715305e-7,
+            "refreshMilliseconds": 0.6345
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 7,
+            "maximumError": 7.797611942805816e-7,
+            "rmsError": 2.095417102054853e-7,
+            "refreshMilliseconds": 0.5925
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 8,
+            "maximumError": 6.200678512868763e-7,
+            "rmsError": 1.5457582946964977e-7,
+            "refreshMilliseconds": 0.5678
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 9,
+            "maximumError": 6.372751499839069e-7,
+            "rmsError": 1.4652805191417429e-7,
+            "refreshMilliseconds": 0.5944
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 10,
+            "maximumError": 6.246057751013723e-7,
+            "rmsError": 1.5916243967240008e-7,
+            "refreshMilliseconds": 0.9026
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 11,
+            "maximumError": 6.778825536457589e-7,
+            "rmsError": 1.714739994440606e-7,
+            "refreshMilliseconds": 0.6852
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 12,
+            "maximumError": 4.846457954954531e-7,
+            "rmsError": 1.5530675057107147e-7,
+            "refreshMilliseconds": 1.912
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 13,
+            "maximumError": 5.983238224871457e-7,
+            "rmsError": 1.711114805402758e-7,
+            "refreshMilliseconds": 0.5993
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 14,
+            "maximumError": 7.887554716035083e-7,
+            "rmsError": 1.6971529248621665e-7,
+            "refreshMilliseconds": 0.6538
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 15,
+            "maximumError": 5.635417323901493e-7,
+            "rmsError": 1.3746615934451257e-7,
+            "refreshMilliseconds": 1.2697
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 16,
+            "maximumError": 6.977739985813969e-7,
+            "rmsError": 2.366292761735167e-7,
+            "refreshMilliseconds": 0.7462
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 17,
+            "maximumError": 5.979061938887753e-7,
+            "rmsError": 1.5931267682844919e-7,
+            "refreshMilliseconds": 0.5947
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 18,
+            "maximumError": 8.027309377212077e-7,
+            "rmsError": 1.7194756196659e-7,
+            "refreshMilliseconds": 0.6765
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 19,
+            "maximumError": 7.200900427051238e-7,
+            "rmsError": 2.0848375470450265e-7,
+            "refreshMilliseconds": 0.5802
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 20,
+            "maximumError": 5.08389518927288e-7,
+            "rmsError": 1.5377737838662143e-7,
+            "refreshMilliseconds": 1.4814
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 21,
+            "maximumError": 5.5260005638047e-7,
+            "rmsError": 1.4299286021923764e-7,
+            "refreshMilliseconds": 0.6107
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 22,
+            "maximumError": 7.693334964642418e-7,
+            "rmsError": 1.640772779865074e-7,
+            "refreshMilliseconds": 0.6342
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 23,
+            "maximumError": 0.000001014613417282817,
+            "rmsError": 2.0544192125271366e-7,
+            "refreshMilliseconds": 0.795
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 24,
+            "maximumError": 5.786571932731022e-7,
+            "rmsError": 1.667484639256145e-7,
+            "refreshMilliseconds": 0.7858
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 25,
+            "maximumError": 7.759633149362344e-7,
+            "rmsError": 1.810174836691658e-7,
+            "refreshMilliseconds": 0.9937
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 26,
+            "maximumError": 6.989661187617458e-7,
+            "rmsError": 1.8547281399605709e-7,
+            "refreshMilliseconds": 0.545
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 27,
+            "maximumError": 8.101649768832431e-7,
+            "rmsError": 2.6410100417706419e-7,
+            "refreshMilliseconds": 0.6123
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 28,
+            "maximumError": 8.493661880493164e-7,
+            "rmsError": 2.477273426393367e-7,
+            "refreshMilliseconds": 0.5505
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 29,
+            "maximumError": 5.882184836991655e-7,
+            "rmsError": 1.9521388594512246e-7,
+            "refreshMilliseconds": 0.6458
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 30,
+            "maximumError": 6.028988650541578e-7,
+            "rmsError": 2.2131439436634538e-7,
+            "refreshMilliseconds": 0.9995
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 31,
+            "maximumError": 6.980721423133218e-7,
+            "rmsError": 2.111277126459754e-7,
+            "refreshMilliseconds": 0.5902
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 32,
+            "maximumError": 6.294775971582567e-7,
+            "rmsError": 1.944985115187592e-7,
+            "refreshMilliseconds": 1.2995
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 33,
+            "maximumError": 7.890583333391987e-7,
+            "rmsError": 2.203795190780511e-7,
+            "refreshMilliseconds": 0.5791
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 34,
+            "maximumError": 7.16844965609198e-7,
+            "rmsError": 2.1271357297791838e-7,
+            "refreshMilliseconds": 0.623
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 35,
+            "maximumError": 6.123996740825532e-7,
+            "rmsError": 1.8347560626352789e-7,
+            "refreshMilliseconds": 0.5928
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 36,
+            "maximumError": 6.475150371443306e-7,
+            "rmsError": 1.86100535870537e-7,
+            "refreshMilliseconds": 0.5973
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 37,
+            "maximumError": 5.399486440182955e-7,
+            "rmsError": 2.185137475407828e-7,
+            "refreshMilliseconds": 1.2505
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 38,
+            "maximumError": 6.310822300292784e-7,
+            "rmsError": 2.2231890284274415e-7,
+            "refreshMilliseconds": 0.6443
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 39,
+            "maximumError": 6.01034514602361e-7,
+            "rmsError": 1.9055856625982416e-7,
+            "refreshMilliseconds": 0.7285
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 40,
+            "maximumError": 7.605524956488807e-7,
+            "rmsError": 2.1659799642748113e-7,
+            "refreshMilliseconds": 0.6146
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 41,
+            "maximumError": 5.243271630206436e-7,
+            "rmsError": 2.1031851815678238e-7,
+            "refreshMilliseconds": 0.7297
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 42,
+            "maximumError": 5.402064289228292e-7,
+            "rmsError": 1.738468853318409e-7,
+            "refreshMilliseconds": 0.6782
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 43,
+            "maximumError": 7.210144872260571e-7,
+            "rmsError": 2.517187454031955e-7,
+            "refreshMilliseconds": 0.6013
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 44,
+            "maximumError": 5.417960551312717e-7,
+            "rmsError": 1.9248059857090994e-7,
+            "refreshMilliseconds": 1.4683
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 45,
+            "maximumError": 6.314999154710677e-7,
+            "rmsError": 1.801677456114703e-7,
+            "refreshMilliseconds": 0.7205
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 46,
+            "maximumError": 5.674682483913784e-7,
+            "rmsError": 1.931858690795707e-7,
+            "refreshMilliseconds": 0.6284
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 47,
+            "maximumError": 6.357489041874942e-7,
+            "rmsError": 1.689468547283468e-7,
+            "refreshMilliseconds": 1.5079
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 48,
+            "maximumError": 5.113605539008859e-7,
+            "rmsError": 1.7830650733685617e-7,
+            "refreshMilliseconds": 0.6861
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 49,
+            "maximumError": 5.465522576741932e-7,
+            "rmsError": 1.4021929928276223e-7,
+            "refreshMilliseconds": 0.6089
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 50,
+            "maximumError": 5.882303071302886e-7,
+            "rmsError": 1.6219946985529533e-7,
+            "refreshMilliseconds": 0.5944
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 51,
+            "maximumError": 6.073022973396292e-7,
+            "rmsError": 1.585325151154393e-7,
+            "refreshMilliseconds": 0.8125
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 52,
+            "maximumError": 5.336015078682976e-7,
+            "rmsError": 1.3892048400521163e-7,
+            "refreshMilliseconds": 0.5818
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 53,
+            "maximumError": 6.563280408045102e-7,
+            "rmsError": 1.771378634884968e-7,
+            "refreshMilliseconds": 1.0841
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 54,
+            "maximumError": 6.160148018352629e-7,
+            "rmsError": 1.7774546279269999e-7,
+            "refreshMilliseconds": 0.629
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 55,
+            "maximumError": 4.953935786033981e-7,
+            "rmsError": 1.821741903995644e-7,
+            "refreshMilliseconds": 0.6058
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 56,
+            "maximumError": 6.289013754212647e-7,
+            "rmsError": 1.6755507203924936e-7,
+            "refreshMilliseconds": 0.6037
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 57,
+            "maximumError": 6.679394459752075e-7,
+            "rmsError": 1.952774084656994e-7,
+            "refreshMilliseconds": 1.284
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 58,
+            "maximumError": 8.117030461107788e-7,
+            "rmsError": 2.3181797814686434e-7,
+            "refreshMilliseconds": 0.6087
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 59,
+            "maximumError": 7.232821417346713e-7,
+            "rmsError": 1.6213037667967e-7,
+            "refreshMilliseconds": 0.6332
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 60,
+            "maximumError": 7.295579393939988e-7,
+            "rmsError": 1.886432983155828e-7,
+            "refreshMilliseconds": 1.4788
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 61,
+            "maximumError": 6.459378596446186e-7,
+            "rmsError": 1.8758223063741753e-7,
+            "refreshMilliseconds": 1.1063
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 62,
+            "maximumError": 5.965119385109574e-7,
+            "rmsError": 1.7980629252178915e-7,
+            "refreshMilliseconds": 0.6382
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 63,
+            "maximumError": 7.861333415348781e-7,
+            "rmsError": 1.9648845750452893e-7,
+            "refreshMilliseconds": 0.6468
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 64,
+            "maximumError": 6.778390684303304e-7,
+            "rmsError": 2.126872402641311e-7,
+            "refreshMilliseconds": 0.7223
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 65,
+            "maximumError": 6.119037152529927e-7,
+            "rmsError": 1.7456541456795095e-7,
+            "refreshMilliseconds": 0.6131
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 66,
+            "maximumError": 7.383995921372843e-7,
+            "rmsError": 1.758266989781987e-7,
+            "refreshMilliseconds": 0.599
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 67,
+            "maximumError": 6.625572837037907e-7,
+            "rmsError": 1.8279092728334946e-7,
+            "refreshMilliseconds": 0.9899
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 68,
+            "maximumError": 7.51299694456975e-7,
+            "rmsError": 2.041718545342519e-7,
+            "refreshMilliseconds": 0.6521
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 69,
+            "maximumError": 6.134072805252799e-7,
+            "rmsError": 1.6805933000796359e-7,
+            "refreshMilliseconds": 0.6423
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 70,
+            "maximumError": 6.473114240179712e-7,
+            "rmsError": 1.775431002215555e-7,
+            "refreshMilliseconds": 0.661
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 71,
+            "maximumError": 5.941925564911799e-7,
+            "rmsError": 1.7263469942463417e-7,
+            "refreshMilliseconds": 0.6287
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 72,
+            "maximumError": 7.307648388632515e-7,
+            "rmsError": 1.79283418333398e-7,
+            "refreshMilliseconds": 0.7065
+        },
+        {
+            "clip": "E34_A_Roll_Backward_IP",
+            "frame": 73,
+            "maximumError": 6.188917041072273e-7,
+            "rmsError": 2.303082453636307e-7,
+            "refreshMilliseconds": 0.5738
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 1,
+            "maximumError": 6.188917041072273e-7,
+            "rmsError": 2.303082453636307e-7,
+            "refreshMilliseconds": 0.797
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 2,
+            "maximumError": 7.28948975847743e-7,
+            "rmsError": 1.692624351790073e-7,
+            "refreshMilliseconds": 0.8937
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 3,
+            "maximumError": 5.973953420834732e-7,
+            "rmsError": 1.7134651386641054e-7,
+            "refreshMilliseconds": 0.6005
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 4,
+            "maximumError": 6.604128088838479e-7,
+            "rmsError": 1.937140439167706e-7,
+            "refreshMilliseconds": 0.6378
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 5,
+            "maximumError": 9.024741416396864e-7,
+            "rmsError": 1.9989705890566257e-7,
+            "refreshMilliseconds": 0.7625
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 6,
+            "maximumError": 6.621487500524381e-7,
+            "rmsError": 1.7818369713040739e-7,
+            "refreshMilliseconds": 0.5695
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 7,
+            "maximumError": 6.872428457427304e-7,
+            "rmsError": 1.9379841376121477e-7,
+            "refreshMilliseconds": 0.6105
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 8,
+            "maximumError": 6.726418746438867e-7,
+            "rmsError": 1.6892340681806673e-7,
+            "refreshMilliseconds": 1.3924
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 9,
+            "maximumError": 7.300339461835392e-7,
+            "rmsError": 1.8625978270847555e-7,
+            "refreshMilliseconds": 0.5815
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 10,
+            "maximumError": 6.309722380137828e-7,
+            "rmsError": 1.6689124038293813e-7,
+            "refreshMilliseconds": 0.5978
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 11,
+            "maximumError": 6.689360247946752e-7,
+            "rmsError": 1.8569693338577054e-7,
+            "refreshMilliseconds": 1.386
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 12,
+            "maximumError": 7.485707556043053e-7,
+            "rmsError": 1.940846772185978e-7,
+            "refreshMilliseconds": 0.6361
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 13,
+            "maximumError": 6.433895691770886e-7,
+            "rmsError": 1.649195411346227e-7,
+            "refreshMilliseconds": 0.6078
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 14,
+            "maximumError": 6.573422410838248e-7,
+            "rmsError": 1.6155335913481395e-7,
+            "refreshMilliseconds": 1.2456
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 15,
+            "maximumError": 6.838317858637311e-7,
+            "rmsError": 1.7401856666765526e-7,
+            "refreshMilliseconds": 0.6201
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 16,
+            "maximumError": 6.256824462980148e-7,
+            "rmsError": 1.5165771571901133e-7,
+            "refreshMilliseconds": 0.7069
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 17,
+            "maximumError": 5.941815857113397e-7,
+            "rmsError": 1.4596842845548964e-7,
+            "refreshMilliseconds": 1.1293
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 18,
+            "maximumError": 5.757743224421574e-7,
+            "rmsError": 1.4704255590913818e-7,
+            "refreshMilliseconds": 0.7438
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 19,
+            "maximumError": 5.762049681834469e-7,
+            "rmsError": 1.5293009880679166e-7,
+            "refreshMilliseconds": 0.7823
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 20,
+            "maximumError": 4.814712610823335e-7,
+            "rmsError": 1.3638400275794994e-7,
+            "refreshMilliseconds": 1.0542
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 21,
+            "maximumError": 5.249884225122514e-7,
+            "rmsError": 1.8177695437771036e-7,
+            "refreshMilliseconds": 0.7081
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 22,
+            "maximumError": 5.475036459756666e-7,
+            "rmsError": 1.4496319522550039e-7,
+            "refreshMilliseconds": 0.6234
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 23,
+            "maximumError": 5.380949232858256e-7,
+            "rmsError": 1.5102531847333013e-7,
+            "refreshMilliseconds": 0.6532
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 24,
+            "maximumError": 6.283273705776082e-7,
+            "rmsError": 2.0861970995156299e-7,
+            "refreshMilliseconds": 1.4545
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 25,
+            "maximumError": 5.275200578580552e-7,
+            "rmsError": 1.757600642804391e-7,
+            "refreshMilliseconds": 0.5785
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 26,
+            "maximumError": 7.869450087127916e-7,
+            "rmsError": 2.647588530635403e-7,
+            "refreshMilliseconds": 0.5912
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 27,
+            "maximumError": 6.309722380137828e-7,
+            "rmsError": 1.9255148231422937e-7,
+            "refreshMilliseconds": 0.6173
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 28,
+            "maximumError": 6.730414838784782e-7,
+            "rmsError": 2.508048737581703e-7,
+            "refreshMilliseconds": 1.2595
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 29,
+            "maximumError": 6.175026783239446e-7,
+            "rmsError": 2.2058320325868409e-7,
+            "refreshMilliseconds": 0.5711
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 30,
+            "maximumError": 7.883985517764813e-7,
+            "rmsError": 2.1518472692605429e-7,
+            "refreshMilliseconds": 0.6227
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 31,
+            "maximumError": 5.568530241362168e-7,
+            "rmsError": 1.8460043804680027e-7,
+            "refreshMilliseconds": 0.5921
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 32,
+            "maximumError": 7.662153507226321e-7,
+            "rmsError": 2.2191348136857415e-7,
+            "refreshMilliseconds": 0.6415
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 33,
+            "maximumError": 5.796149480374879e-7,
+            "rmsError": 2.276612462992489e-7,
+            "refreshMilliseconds": 0.768
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 34,
+            "maximumError": 5.364418029785156e-7,
+            "rmsError": 1.617401750309e-7,
+            "refreshMilliseconds": 0.6085
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 35,
+            "maximumError": 7.725644763922901e-7,
+            "rmsError": 2.4329352754648428e-7,
+            "refreshMilliseconds": 1.2905
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 36,
+            "maximumError": 6.201909172887099e-7,
+            "rmsError": 1.9410266816066724e-7,
+            "refreshMilliseconds": 0.5987
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 37,
+            "maximumError": 5.695675326933269e-7,
+            "rmsError": 2.085687782482637e-7,
+            "refreshMilliseconds": 0.6216
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 38,
+            "maximumError": 6.125158051872859e-7,
+            "rmsError": 2.2319194670217258e-7,
+            "refreshMilliseconds": 1.1822
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 39,
+            "maximumError": 5.820996875627316e-7,
+            "rmsError": 1.9968747722032277e-7,
+            "refreshMilliseconds": 0.6127
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 40,
+            "maximumError": 5.910428626521025e-7,
+            "rmsError": 1.7135940311163723e-7,
+            "refreshMilliseconds": 0.6017
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 41,
+            "maximumError": 5.752045808549156e-7,
+            "rmsError": 2.2128770638119023e-7,
+            "refreshMilliseconds": 0.5907
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 42,
+            "maximumError": 6.957820914976764e-7,
+            "rmsError": 2.096645630444982e-7,
+            "refreshMilliseconds": 1.7839
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 43,
+            "maximumError": 6.475150371443306e-7,
+            "rmsError": 1.7803276364247723e-7,
+            "refreshMilliseconds": 0.5815
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 44,
+            "maximumError": 6.537857757393795e-7,
+            "rmsError": 1.9100045278719336e-7,
+            "refreshMilliseconds": 0.5926
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 45,
+            "maximumError": 5.84573911055486e-7,
+            "rmsError": 1.9751374225052133e-7,
+            "refreshMilliseconds": 0.885
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 46,
+            "maximumError": 5.658518489326525e-7,
+            "rmsError": 2.0452392845982104e-7,
+            "refreshMilliseconds": 0.6499
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 47,
+            "maximumError": 6.111746984061028e-7,
+            "rmsError": 1.7361350046485314e-7,
+            "refreshMilliseconds": 0.583
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 48,
+            "maximumError": 6.732373662998725e-7,
+            "rmsError": 1.9631143288734166e-7,
+            "refreshMilliseconds": 0.6296
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 49,
+            "maximumError": 5.330713293005829e-7,
+            "rmsError": 1.9339810819474224e-7,
+            "refreshMilliseconds": 1.1097
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 50,
+            "maximumError": 7.076482688717078e-7,
+            "rmsError": 1.891756795657784e-7,
+            "refreshMilliseconds": 0.6188
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 51,
+            "maximumError": 7.192898010544013e-7,
+            "rmsError": 2.0239752984707594e-7,
+            "refreshMilliseconds": 0.6081
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 52,
+            "maximumError": 6.154738798613835e-7,
+            "rmsError": 1.933363904527141e-7,
+            "refreshMilliseconds": 0.7298
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 53,
+            "maximumError": 5.204885269449733e-7,
+            "rmsError": 1.4318052876660659e-7,
+            "refreshMilliseconds": 1.1652
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 54,
+            "maximumError": 7.804371762176743e-7,
+            "rmsError": 1.933954649757652e-7,
+            "refreshMilliseconds": 0.5755
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 55,
+            "maximumError": 5.980019182061369e-7,
+            "rmsError": 1.6681534020790424e-7,
+            "refreshMilliseconds": 0.5776
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 56,
+            "maximumError": 5.440581958282564e-7,
+            "rmsError": 1.2824823159007793e-7,
+            "refreshMilliseconds": 0.5935
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 57,
+            "maximumError": 6.322027275018627e-7,
+            "rmsError": 1.897665526939818e-7,
+            "refreshMilliseconds": 0.6387
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 58,
+            "maximumError": 6.533186365231813e-7,
+            "rmsError": 1.7512117267415307e-7,
+            "refreshMilliseconds": 0.6026
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 59,
+            "maximumError": 5.337575430530706e-7,
+            "rmsError": 1.591773326481416e-7,
+            "refreshMilliseconds": 0.6073
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 60,
+            "maximumError": 9.256203270524566e-7,
+            "rmsError": 2.60046448374851e-7,
+            "refreshMilliseconds": 1.0313
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 61,
+            "maximumError": 7.146442726480018e-7,
+            "rmsError": 1.7168783017496026e-7,
+            "refreshMilliseconds": 0.5728
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 62,
+            "maximumError": 6.066163678042358e-7,
+            "rmsError": 1.6693283555468953e-7,
+            "refreshMilliseconds": 0.6253
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 63,
+            "maximumError": 5.638863740387023e-7,
+            "rmsError": 1.6570611194310914e-7,
+            "refreshMilliseconds": 1.2579
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 64,
+            "maximumError": 8.238873192567553e-7,
+            "rmsError": 1.9227036318625324e-7,
+            "refreshMilliseconds": 0.6467
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 65,
+            "maximumError": 7.162252018133586e-7,
+            "rmsError": 1.6364666066692735e-7,
+            "refreshMilliseconds": 0.5998
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 66,
+            "maximumError": 6.085834911573329e-7,
+            "rmsError": 1.5895516014552414e-7,
+            "refreshMilliseconds": 0.6056
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 67,
+            "maximumError": 6.176824740578013e-7,
+            "rmsError": 1.8759405406854058e-7,
+            "refreshMilliseconds": 0.5937
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 68,
+            "maximumError": 7.248179372254526e-7,
+            "rmsError": 1.9518412841534883e-7,
+            "refreshMilliseconds": 0.6003
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 69,
+            "maximumError": 6.845214670647692e-7,
+            "rmsError": 1.87959585673525e-7,
+            "refreshMilliseconds": 0.5621
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 70,
+            "maximumError": 9.253129178432573e-7,
+            "rmsError": 1.7802373974973308e-7,
+            "refreshMilliseconds": 0.6583
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 71,
+            "maximumError": 6.689593305964081e-7,
+            "rmsError": 1.934451887564137e-7,
+            "refreshMilliseconds": 0.9166
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 72,
+            "maximumError": 6.769888614144293e-7,
+            "rmsError": 1.6798956892216666e-7,
+            "refreshMilliseconds": 0.5886
+        },
+        {
+            "clip": "E34_A_Roll_Right_IP",
+            "frame": 73,
+            "maximumError": 6.188917041072273e-7,
+            "rmsError": 2.303082453636307e-7,
+            "refreshMilliseconds": 0.6338
+        },
+        {
+            "clip": "E41_Pistol_Aim",
+            "frame": 1,
+            "maximumError": 6.736933073625551e-7,
+            "rmsError": 2.1675603534276889e-7,
+            "refreshMilliseconds": 0.9056
+        },
+        {
+            "clip": "E41_Pistol_Aim",
+            "frame": 16,
+            "maximumError": 6.736933073625551e-7,
+            "rmsError": 2.1675603534276889e-7,
+            "refreshMilliseconds": 0.5507
+        },
+        {
+            "clip": "E41_Pistol_Aim",
+            "frame": 31,
+            "maximumError": 6.736933073625551e-7,
+            "rmsError": 2.1675603534276889e-7,
+            "refreshMilliseconds": 0.5853
+        },
+        {
+            "clip": "E41_Pistol_Aim",
+            "frame": 46,
+            "maximumError": 6.736933073625551e-7,
+            "rmsError": 2.1675603534276889e-7,
+            "refreshMilliseconds": 0.6351
+        },
+        {
+            "clip": "E41_Pistol_Aim",
+            "frame": 61,
+            "maximumError": 6.736933073625551e-7,
+            "rmsError": 2.1675603534276889e-7,
+            "refreshMilliseconds": 0.588
+        },
+        {
+            "clip": "E41_Shotgun_Reload",
+            "frame": 1,
+            "maximumError": 5.638863740387023e-7,
+            "rmsError": 1.7695150233976165e-7,
+            "refreshMilliseconds": 1.1851
+        },
+        {
+            "clip": "E41_Shotgun_Reload",
+            "frame": 30,
+            "maximumError": 6.567191235262726e-7,
+            "rmsError": 1.8356175246481144e-7,
+            "refreshMilliseconds": 0.6131
+        },
+        {
+            "clip": "E41_Shotgun_Reload",
+            "frame": 60,
+            "maximumError": 5.40770486168185e-7,
+            "rmsError": 1.5763934868573416e-7,
+            "refreshMilliseconds": 0.6087
+        },
+        {
+            "clip": "E41_Shotgun_Reload",
+            "frame": 89,
+            "maximumError": 6.155189566925401e-7,
+            "rmsError": 1.6737966745949962e-7,
+            "refreshMilliseconds": 0.5756
+        },
+        {
+            "clip": "E41_Shotgun_Reload",
+            "frame": 118,
+            "maximumError": 5.638863740387023e-7,
+            "rmsError": 1.764792045833019e-7,
+            "refreshMilliseconds": 1.2336
+        },
+        {
+            "clip": "E41_MachineGun_Fire",
+            "frame": 1,
+            "maximumError": 5.61370484319923e-7,
+            "rmsError": 1.537554794595053e-7,
+            "refreshMilliseconds": 0.6864
+        },
+        {
+            "clip": "E41_MachineGun_Fire",
+            "frame": 17,
+            "maximumError": 8.720531923245289e-7,
+            "rmsError": 1.7277760377965024e-7,
+            "refreshMilliseconds": 0.5753
+        },
+        {
+            "clip": "E41_MachineGun_Fire",
+            "frame": 32,
+            "maximumError": 7.319129053939832e-7,
+            "rmsError": 1.810173841931828e-7,
+            "refreshMilliseconds": 0.5853
+        },
+        {
+            "clip": "E41_MachineGun_Fire",
+            "frame": 48,
+            "maximumError": 5.495402888300305e-7,
+            "rmsError": 1.6304417727042165e-7,
+            "refreshMilliseconds": 0.7312
+        },
+        {
+            "clip": "E41_MachineGun_Fire",
+            "frame": 64,
+            "maximumError": 6.632906774939329e-7,
+            "rmsError": 1.8168476856317285e-7,
+            "refreshMilliseconds": 0.6825
+        },
+        {
+            "clip": "E44_Sniper_Aim",
+            "frame": 1,
+            "maximumError": 0.000009969980055757333,
+            "rmsError": 4.079412860846787e-7,
+            "refreshMilliseconds": 0.7718
+        },
+        {
+            "clip": "E44_Sniper_Aim",
+            "frame": 16,
+            "maximumError": 0.000009969980055757333,
+            "rmsError": 4.079412860846787e-7,
+            "refreshMilliseconds": 0.7466
+        },
+        {
+            "clip": "E44_Sniper_Aim",
+            "frame": 31,
+            "maximumError": 0.000009969980055757333,
+            "rmsError": 4.079412860846787e-7,
+            "refreshMilliseconds": 0.7371
+        },
+        {
+            "clip": "E44_Sniper_Aim",
+            "frame": 46,
+            "maximumError": 0.000009969980055757333,
+            "rmsError": 4.079412860846787e-7,
+            "refreshMilliseconds": 0.682
+        },
+        {
+            "clip": "E44_Sniper_Aim",
+            "frame": 61,
+            "maximumError": 0.000009969980055757333,
+            "rmsError": 4.079412860846787e-7,
+            "refreshMilliseconds": 1.6826
+        },
+        {
+            "clip": "E44_Sniper_Reload",
+            "frame": 1,
+            "maximumError": 0.000008574282219342422,
+            "rmsError": 3.1701804914519018e-7,
+            "refreshMilliseconds": 0.6888
+        },
+        {
+            "clip": "E44_Sniper_Reload",
+            "frame": 31,
+            "maximumError": 0.000017266807844862342,
+            "rmsError": 9.578967592460686e-7,
+            "refreshMilliseconds": 0.6891
+        },
+        {
+            "clip": "E44_Sniper_Reload",
+            "frame": 61,
+            "maximumError": 0.00001321464151260443,
+            "rmsError": 7.270846822393651e-7,
+            "refreshMilliseconds": 1.1913
+        },
+        {
+            "clip": "E44_Sniper_Reload",
+            "frame": 91,
+            "maximumError": 0.00001477590649301419,
+            "rmsError": 8.422116479778197e-7,
+            "refreshMilliseconds": 0.6914
+        },
+        {
+            "clip": "E44_Sniper_Reload",
+            "frame": 121,
+            "maximumError": 0.000008574282219342422,
+            "rmsError": 3.1701804914519018e-7,
+            "refreshMilliseconds": 0.8878
+        },
+        {
+            "clip": "R_Die_F",
+            "frame": 1,
+            "maximumError": 8.44121530008124e-7,
+            "rmsError": 2.897399440371373e-7,
+            "refreshMilliseconds": 0.6657
+        },
+        {
+            "clip": "R_Die_F",
+            "frame": 24,
+            "maximumError": 6.865862474114692e-7,
+            "rmsError": 2.4476338467138705e-7,
+            "refreshMilliseconds": 0.7256
+        },
+        {
+            "clip": "R_Die_F",
+            "frame": 46,
+            "maximumError": 0.000003466211865088553,
+            "rmsError": 0.0000020072907318535728,
+            "refreshMilliseconds": 1.2738
+        },
+        {
+            "clip": "R_Die_F",
+            "frame": 68,
+            "maximumError": 8.236514759119018e-7,
+            "rmsError": 2.6759320803648736e-7,
+            "refreshMilliseconds": 0.6851
+        },
+        {
+            "clip": "R_Die_F",
+            "frame": 91,
+            "maximumError": 7.84295252742595e-7,
+            "rmsError": 2.758542052561097e-7,
+            "refreshMilliseconds": 0.6945
+        }
+    ]
+}

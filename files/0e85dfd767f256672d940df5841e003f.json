@@ -1,0 +1,1670 @@
+{
+  "status": "PASS",
+  "utc": "2026-09-14T18:24:58.5256706Z",
+  "preservedFiles": 4668,
+  "newFiles": 332,
+  "updatedFiles": 1,
+  "prefabHash": "75D433A7B4F905E0197C3B0F96E532FB6EF302FD105BCFB16AD57F01EDA87600",
+  "files": [
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated.meta",
+      "action": "new",
+      "sha256": "6322F647C2475C113FCF606BFFD60F6B3A0816AE667CFB5CDC2FE15A679A259F"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected.meta",
+      "action": "new",
+      "sha256": "9C901075E9E4B4C75B9C13ECE282A669D8AE6D740A781DB9E40EA7B397D8C062"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Shaders.meta",
+      "action": "new",
+      "sha256": "8268232D9ACAB6CD8771F2E4AEA15762D0327C1C3C5D635EEC32F1641AB05312"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/TreeVisuals.meta",
+      "action": "new",
+      "sha256": "F7A8F70FD479525204DE7F714EF214DBC1CF18CB1B07C57FBF0A4987F280799B"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Materials.meta",
+      "action": "new",
+      "sha256": "0C83C18B1705CFFE2A6483BE016A6652E0B3389EE60000791034F7293FD79EE9"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes.meta",
+      "action": "new",
+      "sha256": "371EB9B9BC64ADDA6B80F84471B706BC85AA70CC68D6CF4CE5D1DBE4E5D34D30"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs.meta",
+      "action": "new",
+      "sha256": "19F08F7A2C45A3125B776BF8CAE3431FF8CB8770E25261AA87981179E79ED495"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/V10Dress_RouteBlendMask_1024.asset",
+      "action": "new",
+      "sha256": "A8B3BDDA17217AB690741CCCCAE3E0A010A68BD7B9B9C5C2328AE756C65787DF"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/V10Dress_RouteBlendMask_1024.asset.meta",
+      "action": "new",
+      "sha256": "8D8472769AFD9E92ECDFE014C1E205068AA914E2D36CAA74B63BFAB24101E9CE"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Materials/V10Dress_Ground.mat",
+      "action": "new",
+      "sha256": "22DF98862260343A9452758EEF0537B0666D0309B27C9A831CD55FF974CEEE8D"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Materials/V10Dress_Ground.mat.meta",
+      "action": "new",
+      "sha256": "C73CC7C433DDC2D3633E2AD9742D678134572CCE4E65F8228EBB94643BB03F2D"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Materials/V10Dress_GroundBlend.mat",
+      "action": "new",
+      "sha256": "C20A7B2709CE66993C00CCC985ED388CF317DDEFFD13E89FBB3B0C9637915CDA"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Materials/V10Dress_GroundBlend.mat.meta",
+      "action": "new",
+      "sha256": "2AF045638CC497EECC0CCDA2FA5278806505D2148CAAD2F58F34AE39E1DA64B7"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Materials/V10Dress_MeadowGrass_Cool.mat",
+      "action": "new",
+      "sha256": "64DAC86AC5F8295DB6752FDE663FACD4851ABC6BE0B29D8E383595F30AE71DB3"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Materials/V10Dress_MeadowGrass_Cool.mat.meta",
+      "action": "new",
+      "sha256": "D5A73779642A777B08ECA38CB6F6F9E1D97DB4A9A472F8DA2DE7F3E0CE659C15"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Materials/V10Dress_MeadowGrass_Green.mat",
+      "action": "new",
+      "sha256": "561C0EC4E9E2141A695748949FC9A5D2383C7CDEC8EB36B80CBA67FFC7492A24"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Materials/V10Dress_MeadowGrass_Green.mat.meta",
+      "action": "new",
+      "sha256": "41B0A94E5F961490EBD4F14D3BC3A2A15A5BD15633CFB6B3FB80E14793BA5B33"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Materials/V10Dress_Road.mat",
+      "action": "new",
+      "sha256": "E9CD3E030E59B8E98BD0A289C3B189D105359F0120A2EBBD0766563B4C0C86D0"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Materials/V10Dress_Road.mat.meta",
+      "action": "new",
+      "sha256": "A4F51AD295D010324B2486D3F9C3A6A2989150D5CF5661D57164DF9B20E8B6BE"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Materials/V10Dress_Rock_54.mat",
+      "action": "new",
+      "sha256": "749F9F789840FD616E445C577EC0B106BFE5F6BE366E9E20E1B5C0D394AF7565"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Materials/V10Dress_Rock_54.mat.meta",
+      "action": "new",
+      "sha256": "7A4DF0A663388050AAA73FD28B8D943A2D9AAE911701751F922E104C94C663E3"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Materials/V10Dress_Rock_82.mat",
+      "action": "new",
+      "sha256": "48E83CB769C9E5562D88D32E55A8476A592C55C06D92FDB49401A5B9F06FC06B"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Materials/V10Dress_Rock_82.mat.meta",
+      "action": "new",
+      "sha256": "4CF9901F5FA6ADE2BA27D9B45F28842173F87049BA3FD8C50764C91C9945AF6E"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Materials/V10Dress_StandardGrass_Dry.mat",
+      "action": "new",
+      "sha256": "A02E69F58D514C1AE64E41C2796B4683269FCB53071C50D4E40D31D5B715A171"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Materials/V10Dress_StandardGrass_Dry.mat.meta",
+      "action": "new",
+      "sha256": "912DDA23B2211A36DF3729117F6A0A77CCDE7D7D5D159BF760A7DA5C3E92E948"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Materials/V10Dress_StandardGrass_Green.mat",
+      "action": "new",
+      "sha256": "50DD1F4E7B77ADAE73051E3F01581C0D4CE90DB5EDB6F7830EC0A7D5F1313588"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Materials/V10Dress_StandardGrass_Green.mat.meta",
+      "action": "new",
+      "sha256": "B99406DEF889BD4942380542F6F3F7F4277A4B467A7F2DF6D8D03F49566CF1FF"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_01_M00.asset",
+      "action": "new",
+      "sha256": "5C1B927C600A011D8A9BEF617C5F507AE5F93CF8079B0BF5D08B39BD18EFAE93"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_01_M00.asset.meta",
+      "action": "new",
+      "sha256": "6D2A010ACE6FB5501148A7C760820563E9C82A5DBA9036FEBBB386D35E71142E"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_01_M01.asset",
+      "action": "new",
+      "sha256": "85BA7E66775F67551327AA6147B89200A39D6714028E07C0E96D858226F40EB3"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_01_M01.asset.meta",
+      "action": "new",
+      "sha256": "3C3966FCBD8C652E87C837EEB33B763ED230AFB2B5CD16760D72070911A9B4A6"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_01_M02.asset",
+      "action": "new",
+      "sha256": "A3C4AC7DA83394F6E88C13D188D3F1E1578CFF5233476D03F2D94B68100647B5"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_01_M02.asset.meta",
+      "action": "new",
+      "sha256": "2A6AB4B2A6C7B8140E979A8A923F3C062F7136E2E52DD69AD77F517928DDBE3A"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_01_M03.asset",
+      "action": "new",
+      "sha256": "AACB145247E8F7699B82C8B5ECE32A389F4A367833C365ADF72754639C2C006A"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_01_M03.asset.meta",
+      "action": "new",
+      "sha256": "A9C7983E171871A186583169B185FD36E206B0A26B42211D91441A33A1722D3D"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_02_M00.asset",
+      "action": "new",
+      "sha256": "79D5915864BE09AECBE98E4FEDC40124BA4D10392CD0F8CC128943E3731A8D63"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_02_M00.asset.meta",
+      "action": "new",
+      "sha256": "9F9A398155952046408EEB429E0884B9D305F5862C5ED3B8EDDF6E78A0FCB168"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_02_M01.asset",
+      "action": "new",
+      "sha256": "F50B6115342168997325DD76BDC60985A3B0FC524D6AEB10540431CAEE78EE8F"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_02_M01.asset.meta",
+      "action": "new",
+      "sha256": "D25280B17E9F3DA3A8D349A22B202D1F7EEF8BB71739419AC01A3113CFE29DFB"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_02_M02.asset",
+      "action": "new",
+      "sha256": "F894D7B3F8517251F6377423A7698CC6ACF7BBC0F1FC4B60ED175B2011CAC469"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_02_M02.asset.meta",
+      "action": "new",
+      "sha256": "32FB12218732F04FD3350018B3A910C551B3BD705F26103E244BE9481FE265A2"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_02_M03.asset",
+      "action": "new",
+      "sha256": "D97805941A9F4D0E2BF39549F6DB7334034FFAB35C17A8E74A38BF0894BEB4C8"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_02_M03.asset.meta",
+      "action": "new",
+      "sha256": "8927DFF0A8F3729AA11A4C3C5B4B5D084F73769167E3264CF996BDB13C0AC694"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_03_M00.asset",
+      "action": "new",
+      "sha256": "CF02EF4E7D04FEA42BFF916AD61D5DBE3615EB7AA70BD95E36F9A687D64BDB4D"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_03_M00.asset.meta",
+      "action": "new",
+      "sha256": "D5063477E15508AAA720AD208149B8A765E7BBAE9F51FBA59109C4E6A207E199"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_03_M01.asset",
+      "action": "new",
+      "sha256": "1B82F2489E04D2812116757F73B695C511B83508E3C6D659711E0A9111E60F4C"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_03_M01.asset.meta",
+      "action": "new",
+      "sha256": "33299C6C362F844909FF3167B1E1600448CCBC378D23A27FA1CAB8B544D461B9"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_03_M02.asset",
+      "action": "new",
+      "sha256": "464E792A68FBF21A3EAF08ACA9F654FFC552FAC22361F62356B1647DE3058653"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_03_M02.asset.meta",
+      "action": "new",
+      "sha256": "713DB4A1704AAA2715820AE96853C11F0E205EB9F2C1331DEEE3419387DF0456"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_03_M03.asset",
+      "action": "new",
+      "sha256": "1ED10CEFA2BC069F20500C1810E86D3291229608A036CEECAD227DCDB283D29C"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_03_M03.asset.meta",
+      "action": "new",
+      "sha256": "FF793A128C8F959AF499AEA1D566EC3764B94FAD494BD0836033CFBC0A443D1F"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_04_M00.asset",
+      "action": "new",
+      "sha256": "E42840CFAA95EA0B44BA67671BE135803B1A29EA44C4F437B1FAF3E608875B99"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_04_M00.asset.meta",
+      "action": "new",
+      "sha256": "65429B2BD64E527F0F7D484123397DF3803EE3E8C55859D3DD1CC5A6DE63D1C5"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_04_M01.asset",
+      "action": "new",
+      "sha256": "91DEE8D591A5933938805A177663EE5E597338ADA58F1B7594D154ED78D4FE57"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_04_M01.asset.meta",
+      "action": "new",
+      "sha256": "409DAABE32CF9798BF4012CB70773E8000CDD4CCBC1F2972C75A79E187B2F3D7"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_04_M02.asset",
+      "action": "new",
+      "sha256": "38B8C7C75111757938811A1A2E72F6412A5E73DA3C4D8C9B8F28717B352A8888"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_04_M02.asset.meta",
+      "action": "new",
+      "sha256": "6CC33E13C23C9963039E50E49D66EF4E862CD2F03AD9AD07F4989574F5133433"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_04_M03.asset",
+      "action": "new",
+      "sha256": "E067D17F1293F85A4BC446D6B83A9E0D8212364770B4521E87EE5A427BB1BE06"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_04_M03.asset.meta",
+      "action": "new",
+      "sha256": "13B89F651B086E479992E96FA083CC50A0170A75744B7078AB262D30F702568C"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_05_M00.asset",
+      "action": "new",
+      "sha256": "CDE8931B9BA62AABF26EDA0F15C306BECA08BA7D763790DFA714A31E68A40C9E"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_05_M00.asset.meta",
+      "action": "new",
+      "sha256": "50D184A5E8A8BA5B7F3301A475EDCF246C9FF72E477D2992DCBF3CF255E2C996"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_05_M01.asset",
+      "action": "new",
+      "sha256": "D1F12866831486A638484FD28C82BE06B3B5ECFA27BD7E03F94E466E517CD2E7"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_05_M01.asset.meta",
+      "action": "new",
+      "sha256": "F08D1E0E10C134C170F3B0D0928A60322E706F9F0818C1CF7DECB42D7314F35D"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_05_M02.asset",
+      "action": "new",
+      "sha256": "585A75D0866DCABB71B2B75DD8327C320812B26DF799756918FEA5EDF788E60E"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_05_M02.asset.meta",
+      "action": "new",
+      "sha256": "89DE84575EF3EF35367C6CBD59EBBE36F44490A5D4778927A5A79E839EF38178"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_05_M03.asset",
+      "action": "new",
+      "sha256": "EA0684B7564EDC078D9E2447C61AEE8F8BE75E4113A5D9448C4ECF6E9F5B90E3"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_05_M03.asset.meta",
+      "action": "new",
+      "sha256": "C79DF28621223F08F48C0BC581C81CCECEF18E36051D532B8F9708E9C6B84D89"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_06_M00.asset",
+      "action": "new",
+      "sha256": "9A88132B3579F6CEECABCBF71FFD5AE1B30061D8FA531FC7FE99A8101ECE133E"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_06_M00.asset.meta",
+      "action": "new",
+      "sha256": "17EF3204249396EA0AC1A9AB5E06FDB19FE72F557CCDF36404504113E612842D"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_06_M01.asset",
+      "action": "new",
+      "sha256": "E80110CFFB5C56B74B40A0E8EF5E019907963579A3E0BE9523A19FD238E73935"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_06_M01.asset.meta",
+      "action": "new",
+      "sha256": "DF547CBD570CEDD9C179308240C239C48E2F8D4B5D556A9D871475EFEB5B0496"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_06_M02.asset",
+      "action": "new",
+      "sha256": "643786D3CEFC4B0984874CEE9D69644FEE3B9ECB12CCD0DAFC303CA852432746"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_06_M02.asset.meta",
+      "action": "new",
+      "sha256": "6A7CA1FEA17F8141284AD790C574FEDB08CB106AFD0288FC394B0B29000C7968"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_06_M03.asset",
+      "action": "new",
+      "sha256": "0D0E18026C7993153498AC01B57423D726A69CCAB93C55FB52103B322B1B2236"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_06_M03.asset.meta",
+      "action": "new",
+      "sha256": "54BB5F78FB5E1E6510DDFC9CA3CAB9845EE9F3CF17523C9730B9882C60CA99DE"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_07_M00.asset",
+      "action": "new",
+      "sha256": "2D0F06EA196E505CBFF8406DBE92451FB94AB116A00EBE739844538F54042339"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_07_M00.asset.meta",
+      "action": "new",
+      "sha256": "1A5F0BC7FDBB3BDD246FF3339BF8B19E4C2762DDD36E3AA3272A8A515CD29805"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_07_M01.asset",
+      "action": "new",
+      "sha256": "693D09DCEEA045CB884AEB5B58A8DA505B6B6E11EA77D32C2B70A96C16DA62A2"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_07_M01.asset.meta",
+      "action": "new",
+      "sha256": "EEF1B6227163AF00E59AE023E82FFB722042E0D431F812AAB03638B49D1F0144"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_07_M02.asset",
+      "action": "new",
+      "sha256": "D935D8563B5BFFD4580C7CCB4DB74208CAD1897F5E71CF5B107FC0C461847AE3"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_07_M02.asset.meta",
+      "action": "new",
+      "sha256": "BD7C8DF6209F87F41E76658C35C9FE88D12EC00DCD205A48F8F6CD73124977BF"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_07_M03.asset",
+      "action": "new",
+      "sha256": "726FB546ABD099A7F0F4EEDD800E2BCBF7C9DB1474542DB5BD8E69DE670D4099"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_07_M03.asset.meta",
+      "action": "new",
+      "sha256": "A123C993D6C132660C4CFD63E544D0A5869C61E247B2289C841A243C665DAEDD"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_08_M00.asset",
+      "action": "new",
+      "sha256": "8ADBDCC15D0FD871AF3A3E0B4E1694E69B1312D8B72C07CE1E2F99BA15B5FF6F"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_08_M00.asset.meta",
+      "action": "new",
+      "sha256": "F3C13A96FDFFFC9A0A11ADEB70FE2A419C559CD467F5690F992271A02897155D"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_08_M01.asset",
+      "action": "new",
+      "sha256": "39C1ED316690519223641153E98B06E82D419292D60855D29F3AC1E203416EBE"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_08_M01.asset.meta",
+      "action": "new",
+      "sha256": "61D994AA1179B83566DCAD21DBE26922DC2B9E0B5F4305F2698EEF2873461BEA"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_08_M02.asset",
+      "action": "new",
+      "sha256": "AC5A635DDE8933D3401979FD66681989A5D5441B95B996F7B2C9A7C61CFA18AB"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_08_M02.asset.meta",
+      "action": "new",
+      "sha256": "55A903C69F20A89817BF6773DE5B33350824199AFFEE45B909E27D51EDD74F35"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_08_M03.asset",
+      "action": "new",
+      "sha256": "F04E0951D56DAA3C0B6CFC155D8DD63065E54FD9199941F863D246BE9E26C401"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_08_M03.asset.meta",
+      "action": "new",
+      "sha256": "4923260A4428045650E5839DB420E974FB4DFE278BFE314EBCB97D0D424C54DD"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_09_M00.asset",
+      "action": "new",
+      "sha256": "BA6928A150CE5891627C9E232879F49C36F59CC7BD9795D9EE91096923022AC0"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_09_M00.asset.meta",
+      "action": "new",
+      "sha256": "C64C08ADC23C113A9D475D11AB3009D52F4C08071E7A4F55392603372F44CF54"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_09_M01.asset",
+      "action": "new",
+      "sha256": "BE3DAA599EB17A53A04581CA10EB993C36A513DBBB65AD18F84EE11A2FE823B4"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_09_M01.asset.meta",
+      "action": "new",
+      "sha256": "51BB0561BCDB17B7417A0178841CC2281B36F04EEC698F76CA1C5218613700AE"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_09_M02.asset",
+      "action": "new",
+      "sha256": "D1140ABC90A87A95E626A4F30E96D2AB7963000C4681CD364F2E3D952BEFA5AE"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_09_M02.asset.meta",
+      "action": "new",
+      "sha256": "4E1CD7AE8E35983DAF3EC43DF0C49379675EF32A42419147AA7CBE1C8F0BCAC0"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_09_M03.asset",
+      "action": "new",
+      "sha256": "2AE9512BCF6B8499C742A9F3F764E04C7BF217910ECC94A544A138EBEACF180B"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_09_M03.asset.meta",
+      "action": "new",
+      "sha256": "320FF5E711F56155C7ED45CD637ABB1EB0A8BF7E509BDB15F46AC75F4EACA76A"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_10_M00.asset",
+      "action": "new",
+      "sha256": "398E55A3A04CC4B7A5E8CF27E8A861B4E1C4B101BACB9D437BA64C64EA9A584C"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_10_M00.asset.meta",
+      "action": "new",
+      "sha256": "B8F49A1A3FC147E813B0C16F7D5E9FF256457E5E713C866B414971A476EBE133"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_10_M01.asset",
+      "action": "new",
+      "sha256": "27CA83369D3EAA8C52CD581ADE6A7045BFC4052C3C0E0E790B3613D8BCA63423"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_10_M01.asset.meta",
+      "action": "new",
+      "sha256": "BF2F76A6056463897C4CC462ADADC0E2A071AADB87539EB29B33EED5DFD26767"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_10_M02.asset",
+      "action": "new",
+      "sha256": "9AEE9F985FB2B3E3DB6282E15500DDAF4560F9DD61C96E1CFD5B363F278B5C99"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_10_M02.asset.meta",
+      "action": "new",
+      "sha256": "C9D9123F8F10E758180ABFDB2AB34A519D380D00BCF5B4252747326CF16BB0BF"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_10_M03.asset",
+      "action": "new",
+      "sha256": "F93F6034BA48341D5E754C8A1F08E6B5245A9CBC02775C7673925426301F4ABB"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_10_M03.asset.meta",
+      "action": "new",
+      "sha256": "C03CE552C258B9021E04E5D1D94D4432B6D62B4BD457FB1CAC31FC89DACDDF30"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_11_M00.asset",
+      "action": "new",
+      "sha256": "A51920D5D6F311F52A125EE43137A078AF13894BD9B1D9C367B3D89F7B1DC708"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_11_M00.asset.meta",
+      "action": "new",
+      "sha256": "2E9AF5666B21B6F8F02A619A29D8843F5AC4D9C0B224463ED5A2C8449D8665A6"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_11_M01.asset",
+      "action": "new",
+      "sha256": "CA3B5C4C859CEE1EE0A89E68F0C00889D41477ACA46E85E8B1ED75DABF40D3F9"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_11_M01.asset.meta",
+      "action": "new",
+      "sha256": "01AFD01201743F5D59894EE0D56FCBD560BD49BCEEB0AB83BC6D9BB702A5A354"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_11_M02.asset",
+      "action": "new",
+      "sha256": "62EC06829ECB221CBE9988E020612290F638E2C2EA06CE2E652842FF070A9995"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_11_M02.asset.meta",
+      "action": "new",
+      "sha256": "3A27C8E103329B0534E734F7AB394FC7F742BADDAD621EA4477340CA5D610E76"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_11_M03.asset",
+      "action": "new",
+      "sha256": "F954407211A4CC7EAAB54CEFE112D6F42844E8E9BAC8E08AB73B364003633C77"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_11_M03.asset.meta",
+      "action": "new",
+      "sha256": "D81417561B8455365F32800478D6A63493D72E102053A8259D8D6C5548EEE4F1"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_12_M00.asset",
+      "action": "new",
+      "sha256": "304EB55392EFA0776FFA6CA4629B0CE3699DD3647D0C7CC756C0C0957C5BD5C8"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_12_M00.asset.meta",
+      "action": "new",
+      "sha256": "C484EEFA5681736668691F0E11DF77F57D36E0F19A0878C7AE45F8850293B22E"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_12_M01.asset",
+      "action": "new",
+      "sha256": "8B1517D1141FE6B360D7EFA5EDCCDC4C349DA620C0146229A117D2B85EC05E43"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_12_M01.asset.meta",
+      "action": "new",
+      "sha256": "35DD4A40A89D2DC196B6AC5F7C5A237E35100FE6241323FA35A4E5D5C107B1AA"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_12_M02.asset",
+      "action": "new",
+      "sha256": "6172BE7CD27CC009E7C376356A12FE124BC7D310ABC9D57F67C4909F4F1CC489"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_12_M02.asset.meta",
+      "action": "new",
+      "sha256": "8DD15F11143EFC43AB73E2BA9B7A3168F28D54245432F7F819C293070065D73D"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_12_M03.asset",
+      "action": "new",
+      "sha256": "3015AEEC5865F7D813705C07F09CF62D4878A00F11108BF8064D14305F8B9750"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_12_M03.asset.meta",
+      "action": "new",
+      "sha256": "7486AFF808964CB7132DE1A55B4E6DA9892C685A77C5C0C24B05CFC1195314C6"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_13_M00.asset",
+      "action": "new",
+      "sha256": "63A70F710AE7A654CFB901F1CB10433F15C6A7D524A164E723A070194191C856"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_13_M00.asset.meta",
+      "action": "new",
+      "sha256": "F1F7505CD74A89B303957D47D6114E69EDE0317E8A24A6C3CEDF7F4E444C08BD"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_13_M01.asset",
+      "action": "new",
+      "sha256": "FF4EC5085F9FFD757DC1F48B6241F1B2E9479AC493D4AAEC7F73AA94374C6622"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_13_M01.asset.meta",
+      "action": "new",
+      "sha256": "1FB0D23A7D59005A063FA0C276A90AEEC5D1ED99F88A8961C3C14E492C342982"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_13_M02.asset",
+      "action": "new",
+      "sha256": "8AD581153ADD44D8A1F6614A5076690DF5845D416337ADD0D49D604A50A040BA"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_13_M02.asset.meta",
+      "action": "new",
+      "sha256": "B28785F4B346DF4832C0905C6B6AE04DFE95A7D7E17E4E249DD52DEC6CC815E2"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_13_M03.asset",
+      "action": "new",
+      "sha256": "6096D2E4F0C429108AD49D6D8211488166D09406213399FB3F0E1B799915D7FD"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_13_M03.asset.meta",
+      "action": "new",
+      "sha256": "5039B0E3FFF62AF9B5CEB6510CB2F55BFB28C1FAABBEC03ADB79022E4F6C7C6F"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_14_M00.asset",
+      "action": "new",
+      "sha256": "CF2745D089240FB8A1EB45A8507B993061B07E3CD58E943E68BA7AF462234E88"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_14_M00.asset.meta",
+      "action": "new",
+      "sha256": "EAE84A4091A855706FE251A036C3A47331516A749805A83AA53D637B9D97A788"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_14_M01.asset",
+      "action": "new",
+      "sha256": "7C197C035093B09D8B2AFBB32224F8B8819A3B119137F484A14CEF4B17B56040"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_14_M01.asset.meta",
+      "action": "new",
+      "sha256": "20D77314431D589D959F2953511A8AF0DE827ED2AB991D1152957D88F398C4A1"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_14_M02.asset",
+      "action": "new",
+      "sha256": "31363AD825505F77A2D830BD7BE706C974E3FC2FABF114D634762D97C35F5EC2"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_14_M02.asset.meta",
+      "action": "new",
+      "sha256": "9487D09AF4BF00A17D92593ACBD074C8B00100B6E59A59AB6C030BBADAC2E967"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_14_M03.asset",
+      "action": "new",
+      "sha256": "E8CD554C00E7F1496C9F09690BB54AC3DAC9D153168E9343ADC3AFD6D2384012"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_14_M03.asset.meta",
+      "action": "new",
+      "sha256": "E42AF931FDD9EDBA5DF5C7D53FAB5F7558855B03B63A92C710D8A1EE3CE1B0F3"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_15_M00.asset",
+      "action": "new",
+      "sha256": "A0462CBA42883A9B7480F465CEBD847D887994F6000F9CDD496B96914C9B5AFF"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_15_M00.asset.meta",
+      "action": "new",
+      "sha256": "CFED48517810823A366B2DCB2F69F5DD710A3FCC0908AF405AC5319E5684D833"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_15_M01.asset",
+      "action": "new",
+      "sha256": "B0212F1839B2A425990B9EA548F66DE24C5ADDB84F91E850401B4692DE0C45EC"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_15_M01.asset.meta",
+      "action": "new",
+      "sha256": "36C06DE697E40B218A4E5D6BBC6309B1B5F128A86944F8EB57BA7C6CCAA5D6D1"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_15_M02.asset",
+      "action": "new",
+      "sha256": "C28C1F5ADA9415ABDD16C40EA2E85AD7B151D67EAE4644F8F77071FFB4D55C41"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_15_M02.asset.meta",
+      "action": "new",
+      "sha256": "3CE30749D93053CCD7D18C2F355DC07C052E9304A2FBB8D3B97E452175EA4B62"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_15_M03.asset",
+      "action": "new",
+      "sha256": "273755C1D6266281750F4A78D25C821A4AE9AFE855556367A73D841F054115EE"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_15_M03.asset.meta",
+      "action": "new",
+      "sha256": "01D90B516ED8E2EE73F28498D2348E8C42ACAB18B6D150E397F080E47603BE5C"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_16_M00.asset",
+      "action": "new",
+      "sha256": "C7F1E5E10FDE8A36B9B1B364AB2D95AA925E50F8A7B07B89C821E9404735B5BC"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_16_M00.asset.meta",
+      "action": "new",
+      "sha256": "18AFBE9E73F66654B1672841A92023FE21BE28B40592515765435F26A23BE9E7"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_16_M01.asset",
+      "action": "new",
+      "sha256": "B1C43036AFD8B68731A03190B835FE5282C189DB7C76D6655B4A09A9B29BCBDF"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_16_M01.asset.meta",
+      "action": "new",
+      "sha256": "C35424CE5901C98C9A138DD8CC930DA5A6FA473D81C89E4A288F215DB9F6FA70"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_16_M02.asset",
+      "action": "new",
+      "sha256": "F00FE832BC2BE49A869112FFDCB68519C89C8B5DDD8415AA64418C7E404A45A4"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_16_M02.asset.meta",
+      "action": "new",
+      "sha256": "FA4121507318A4F6981A41DA20AE5F3F3B0A1D390107124A43B1B5CEF38C0D4A"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_16_M03.asset",
+      "action": "new",
+      "sha256": "79315A5CB834F41220DCCAD0C69253B30CCD36F1E3C3A09F3F96CA39A3ECC197"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_16_M03.asset.meta",
+      "action": "new",
+      "sha256": "25B94568856F9136C25E8CDA5E5C02DAB7B31FE973B049555E7045602095130D"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_17_M00.asset",
+      "action": "new",
+      "sha256": "E366224D629E6A07C7BF1416762EF53D5BB848129386616D40C1FFA4FA0FE711"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_17_M00.asset.meta",
+      "action": "new",
+      "sha256": "8FDFDAB901D8A3FFCFDADECE45DFC8BFD0A9AFF001BF8C0E98E9CD7E22808728"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_17_M01.asset",
+      "action": "new",
+      "sha256": "6525997E80060396D4459589D1F8EF7091BDD454389BCEF4540AFC058DB17DB4"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_17_M01.asset.meta",
+      "action": "new",
+      "sha256": "695D868F20FAE001E701FF4CDCC0F367A5B2C24374CF04B0F3FFEB09C22E9E20"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_17_M02.asset",
+      "action": "new",
+      "sha256": "F598E89ACEC5783349FABD55F45E43A070EF2F09AB9AE832157B9E468768CB40"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_17_M02.asset.meta",
+      "action": "new",
+      "sha256": "BFEF769260FA4EEA0AB5C332E645105E455F8AF073E0C9918A6C27335DCD3020"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_17_M03.asset",
+      "action": "new",
+      "sha256": "B2AF64B4698DA5860E2F2A775F235AC300D76CE2872D3367BE9C49DC3C573ABB"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_17_M03.asset.meta",
+      "action": "new",
+      "sha256": "81CD878626A48F8621961C14C824122EA65023AC5818E1BF2BE9D54EFA03E066"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_18_M00.asset",
+      "action": "new",
+      "sha256": "76F5C88A18A62356202DFA7F66EB251B1FF12D58A3BECD968BAD61BDE18A2072"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_18_M00.asset.meta",
+      "action": "new",
+      "sha256": "B7713130A0E078FE5C21410672A1F550B900AAF0CBEF2B279CDF116EDDAC18D3"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_18_M01.asset",
+      "action": "new",
+      "sha256": "A2CB3E463CDC6ED1550E2E5F8290BDAE6823958CECFF067672AD79A55068EB70"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_18_M01.asset.meta",
+      "action": "new",
+      "sha256": "EEDD6F6E8BAB15B451E47E273FCFCAE54C4A16C8F5D9046B2507BFCE25E91E02"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_18_M02.asset",
+      "action": "new",
+      "sha256": "99AB192DCA17111E139E3E307C1053F651B14091621FC6E7585A7CE645595803"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_18_M02.asset.meta",
+      "action": "new",
+      "sha256": "22A0030BD38C413EB3A7D1148D9770AFBC6E00D2A3E4373D8FEF3A10822C72C7"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_18_M03.asset",
+      "action": "new",
+      "sha256": "532EB53A25468C145430613C0A20D761EE7D67988CF37CC53AD3A2D109A8A824"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_18_M03.asset.meta",
+      "action": "new",
+      "sha256": "E86F33410A17E79B88F3DA31A9A912F6E297C33C0C701DDE7B6F3EA302F67AD2"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_19_M00.asset",
+      "action": "new",
+      "sha256": "6201C1325B30940D71A04C49DFA6A815C2A433E520FAA79FB02945F5C65B228B"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_19_M00.asset.meta",
+      "action": "new",
+      "sha256": "BAC4B7B6C0A8DC11C87FDE82C432750C6EA87D05511CF11D4B3CB6AA173D07F0"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_19_M01.asset",
+      "action": "new",
+      "sha256": "A0E90DA79DA6863EE14A04DA075B4890D1FD500070496898EE3B99594090C40C"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_19_M01.asset.meta",
+      "action": "new",
+      "sha256": "95E5AC8266F952EA24961C6C3B6C8CDAA0FE4C3A507B037E6D57681861CE0420"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_19_M02.asset",
+      "action": "new",
+      "sha256": "D3F8B43B15EBACE793B157DF600187DCB713B5DCB9EFBA2EE51A64844C6DB5BE"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_19_M02.asset.meta",
+      "action": "new",
+      "sha256": "9809A30F0CFA3425DCB325CB9DFECD8AB267B55C31747B023E27E7B300BC5AE2"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_19_M03.asset",
+      "action": "new",
+      "sha256": "6544F31FE016DCF8CB1D2015591D1CB54A138B334D4139589B2717E3CAEFF669"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_19_M03.asset.meta",
+      "action": "new",
+      "sha256": "CCCD42FF7862F4AECF4AB1DF1F708B5ACF952C082D28A6383DBA223E8909E92F"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_20_M00.asset",
+      "action": "new",
+      "sha256": "A4DD31EAB515F9F671A4776404EC3ED84487003CECB53C2874C9D5C6806A8514"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_20_M00.asset.meta",
+      "action": "new",
+      "sha256": "CA0CEE35AA0DA6960BBB4B16DFD43F2E2019AA0C2DF7610C7167F8B40B37DE5D"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_20_M01.asset",
+      "action": "new",
+      "sha256": "AA9E6E36472C770AD77A53291697192821AC791CB41CF1AB48D4B5850FAF01BB"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_20_M01.asset.meta",
+      "action": "new",
+      "sha256": "D3FDEE3F1EE35F5C14127B55259763A216D5EA49E7862619E18529DDA727FF57"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_20_M02.asset",
+      "action": "new",
+      "sha256": "44A2381CCAE7911B0BD60C0C03FBD624441613E5A29686BA80D1D8F8DED51786"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_20_M02.asset.meta",
+      "action": "new",
+      "sha256": "8801F93A46452B5E6834CE0865505D4516ADB908B49BD5360BE8B1512F36A9D6"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_20_M03.asset",
+      "action": "new",
+      "sha256": "2462D3EA077983DACC848EDB0BF09334842EAD6249CC4E7AB8DFB5B5AA39792A"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Meshes/V10Dress_ENV09_VEGETATION_ZONE_20_M03.asset.meta",
+      "action": "new",
+      "sha256": "10A8E4F736C652359C9FC7D144C574B1BD79B7B90D5D4259D7F6CD40D73A20D2"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_01.prefab",
+      "action": "new",
+      "sha256": "1D6A33A6AA4B7B27A883E8984E1F7336079DECB1C24C545119904BF1FA597F09"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_01.prefab.meta",
+      "action": "new",
+      "sha256": "7F18C5AC1A5112B78A6F2796FE855E57653BEF7130D659D6B886D78D0957888D"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_02.prefab",
+      "action": "new",
+      "sha256": "7B2428BC4AFCCBADFC52E371302F27ACD6BDB82378FD412EC53236871A9C3D31"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_02.prefab.meta",
+      "action": "new",
+      "sha256": "3A9FF0C40D6EEA0E86819EFBF7ACCE6A4AD1D21B5B5E5C14099A2E9B4CE2219B"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_03.prefab",
+      "action": "new",
+      "sha256": "51B8A58D35DA68E98DC0FFCF572541C87AA480501A702192A0A3C8C18947157C"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_03.prefab.meta",
+      "action": "new",
+      "sha256": "52695B291475AA5574525184B0106C685A50C085A73E61E438F10D972B9921FF"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_04.prefab",
+      "action": "new",
+      "sha256": "8CC64A6898D82ABBBC1C57561E792AFAD47DC0AF25A32006AD75AE9E417F1216"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_04.prefab.meta",
+      "action": "new",
+      "sha256": "B62523AE701DF638894E2AF175384DC55101C476732264ABFAA8E5FB285B2DEE"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_05.prefab",
+      "action": "new",
+      "sha256": "5CE67F64D6CC95E3DBC52AD1A02151F976DC3FD54F9A6AA2BBF2AA430138464F"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_05.prefab.meta",
+      "action": "new",
+      "sha256": "8D57894DA6D4B6463CE943734AB1C5B572ABA9A1ACEEA62D6B793A4472F6D378"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_06.prefab",
+      "action": "new",
+      "sha256": "303C8B000CCD4EE11272BC6F0F2E4E7EF3B163D53CBEFAB91142CADE70531304"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_06.prefab.meta",
+      "action": "new",
+      "sha256": "905ED966F45753EC828A93A5C6D34D0B92E9ECDD3401A18D7FA027CCA891DFA8"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_07.prefab",
+      "action": "new",
+      "sha256": "E294B1F3D81D43D89A151EC0596F4C146A8BA1D0D0D54303F8AC187652333C32"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_07.prefab.meta",
+      "action": "new",
+      "sha256": "AAE2B3B6F45631195112F9FB2BB7757BDF8D69E3E31C9F85A124B989EA4DE68C"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_08.prefab",
+      "action": "new",
+      "sha256": "B1D1E18C5F586DD028C07C8469C20A0746F76CD7D6F2C2DF9453983E068F84A9"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_08.prefab.meta",
+      "action": "new",
+      "sha256": "64A2638385C9EA20BAA9E1952825B4B357BEB4EB492EB0B838D293ED40A8311C"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_09.prefab",
+      "action": "new",
+      "sha256": "58B0774EC7A19882012127E66F586349B5E0DA87C7A43B3986A835DC7E1CFEF9"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_09.prefab.meta",
+      "action": "new",
+      "sha256": "0F540C26974058FD8F2B0446B6A30AAD4AB4DC28D9E50D45A1AE1260A1EBFE81"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_10.prefab",
+      "action": "new",
+      "sha256": "30A22DE06993CD94EE563DC35E192269F7EA9E8FDF3A3797336040E67D5E4B6F"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_10.prefab.meta",
+      "action": "new",
+      "sha256": "2820ECADD604CFBA4C273A6E091BAEE680D941B041F5919BE2BF8AEA4D230CA6"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_11.prefab",
+      "action": "new",
+      "sha256": "59EBBD0FB228E7E05913B1E5F8DC65A6808D4486090698632D294FAFA5AE75DA"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_11.prefab.meta",
+      "action": "new",
+      "sha256": "8BE5E6B30E59BE5DB2BE27D74A41D9E3F9737C1AE504F41E49556AD9BB11C960"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_12.prefab",
+      "action": "new",
+      "sha256": "6CEE43BBA5754BB945A410286776CC91761ADC5253EE2C8BBA9B8CE892781615"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_12.prefab.meta",
+      "action": "new",
+      "sha256": "E03A17EE5480B0AE2DBB12AD29697F8AEF632CA5CB7829ACD4482EE927892D3F"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_13.prefab",
+      "action": "new",
+      "sha256": "1E72A854C453C07D869E69B9A0A156C4ACED14DF1D2B6D5308E3CE33FBC11BBC"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_13.prefab.meta",
+      "action": "new",
+      "sha256": "0F42456797193A0E42FA465BB1736A5BFB485FC167B53410EB39DCB7B3E62356"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_14.prefab",
+      "action": "new",
+      "sha256": "54D906550208315B5EEBD78765E8C19BCADB6C4D7F80A682DDF5B48385F03306"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_14.prefab.meta",
+      "action": "new",
+      "sha256": "F045FF27E7319D12B33ABEAF83E2916F8BECC191642152E3E9D3783AA4F809F4"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_15.prefab",
+      "action": "new",
+      "sha256": "3A4F38456116C63FF723D85477BF6530AEE333CAC7EBEE3F2B3AA661AAB7FB62"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_15.prefab.meta",
+      "action": "new",
+      "sha256": "E25FD6A042DA7A411135E50F1BFFCAC2B2846C9F897E1D3478CBA5C412C0329A"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_16.prefab",
+      "action": "new",
+      "sha256": "FEA41E94E3E88CA4BF63DB62F65E195A141BE581FDA7CCDB4DFC11226001A4AE"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_16.prefab.meta",
+      "action": "new",
+      "sha256": "BFB668C98B083DADF8533F51876838818920C16C4976CC5086F98FFB95928347"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_17.prefab",
+      "action": "new",
+      "sha256": "FBAC23FCE59EEEDB0C33A820B936337C854D812363A7E886D1ED097A8E5F143B"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_17.prefab.meta",
+      "action": "new",
+      "sha256": "6CEE9B297FC5BA7E9AB8B32882F483E55C62AF882432AF78B0C46BFFA8DBAED6"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_18.prefab",
+      "action": "new",
+      "sha256": "32F3C31AC26E8F946236693354988251E65F5C4648D2DF703D4D60BF24A66DAB"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_18.prefab.meta",
+      "action": "new",
+      "sha256": "64942474282637F1C642BFFAE6B0870DC5A9347879F674B902109043133136E2"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_19.prefab",
+      "action": "new",
+      "sha256": "27342CFA0A5EEB3B8A3C43C44DC1D5C62BFE3EC8AED9537676E9ADE778C537EF"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_19.prefab.meta",
+      "action": "new",
+      "sha256": "1178808CEE35BEE71E9CE739981FB1E1C1179E8500A88BA4A5F80F1BA0381243"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_20.prefab",
+      "action": "new",
+      "sha256": "B08BC389F4B49E167E781AF7C73FE5BF606DDF7AE707ABF81EB384003B4876BF"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_ENV09_VEGETATION_ZONE_20.prefab.meta",
+      "action": "new",
+      "sha256": "73844DDD65CB9F73EEE111E87DBAE906014A94AD9F1E73CE08E0CE001EBFF09B"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_MeadowGrass_00.prefab",
+      "action": "new",
+      "sha256": "60D18E392A1C323CC8842CE561B9CD9C5EAFDF33EA89ABBE0C61B4435008453C"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_MeadowGrass_00.prefab.meta",
+      "action": "new",
+      "sha256": "DA7BF12AF4C351A3900C77AA2EDF5898D1C0997865E09299431B5E87D1B53F5B"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_MeadowGrass_01.prefab",
+      "action": "new",
+      "sha256": "D1E160CDA52396C81C06F70CA39C4324DBC4F88213F5EBDF3AB3A996F0884F8B"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_MeadowGrass_01.prefab.meta",
+      "action": "new",
+      "sha256": "44CBCB2F6D381A2C42154C190C6567B6BBC848A64C981165B5951859F3385522"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_MeadowGrass_02.prefab",
+      "action": "new",
+      "sha256": "C79514E03F2657511CA0235CD08ABB7C99ADA1B68D33EBEC2F3A369455AC9A89"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_MeadowGrass_02.prefab.meta",
+      "action": "new",
+      "sha256": "00693728F2A37E7EA20B9946C75E1A39DE724E7541B2DCF0BBB0AFE04A94BC7C"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_Rock_00.prefab",
+      "action": "new",
+      "sha256": "E1AC06F8BC9A8CE3592BB4EC2A7B2C10815605E8ED4A25BC86E19ACBADA24AC1"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_Rock_00.prefab.meta",
+      "action": "new",
+      "sha256": "87C68465D726D8DB4AB7FC28C38F39C870ABE834237A03064ECEEBB051141EF3"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_Rock_01.prefab",
+      "action": "new",
+      "sha256": "13D42DDA29D5B849997539121C8711385A70EAC5D237F3198AF4062905B16D58"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_Rock_01.prefab.meta",
+      "action": "new",
+      "sha256": "5F41B8F8AA6684254C4656C8AD946E00D4ECF44CA5BE9742EEF0A7A43AF1DDD8"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_StandardGrass_00.prefab",
+      "action": "new",
+      "sha256": "59A826C3149DDC98EDFB6C7A2E36832C396783AE503D9FFF7C7BC141E7ACD95D"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_StandardGrass_00.prefab.meta",
+      "action": "new",
+      "sha256": "AE1B055EED5515069727E8B7102E14A5BB18D73A659B6E38C5AD11A9D5658681"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_StandardGrass_01.prefab",
+      "action": "new",
+      "sha256": "B6CC513C18B3F94993B07AABC90BE100B0EE929C971DC7DE630E164BA3C39E19"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_StandardGrass_01.prefab.meta",
+      "action": "new",
+      "sha256": "3694F01F2AC196FB8EC0C5047A218ABE2D47BF43FC2DD713555237BAD5937340"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_StandardGrass_02.prefab",
+      "action": "new",
+      "sha256": "BE77F6A195444DFAB74E342259639A9938667632BF483CB4653642CCB9360DA0"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Generated/Prefabs/V10Dress_StandardGrass_02.prefab.meta",
+      "action": "new",
+      "sha256": "F29B0BD755DFAAAB28891F5DB4D0727328EB2288D4048C70E896D3CD09B0579A"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art.meta",
+      "action": "new",
+      "sha256": "8715F37063D1E21C7F4D36183D8A194191874607E1F21DCC7A2C88B986F11EE9"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Environment_Assets.meta",
+      "action": "new",
+      "sha256": "EBA9FA95B56302C7367FC3EFC4D1A4D8FE11E2E319F8ECBB2A2F0B910CB3C7FD"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/StartJourney_assets.meta",
+      "action": "new",
+      "sha256": "EAE8DF2D0C49ABC9B472FA3719C461C6F4669C79E7061B8C992F6078FD240114"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Tileables.meta",
+      "action": "new",
+      "sha256": "00A9F3072414155AA7BD7842E80E3A22AE638F4C8F5A84EE1AF1CDE9C897DF45"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation.meta",
+      "action": "new",
+      "sha256": "5D088B391D029BDCAD328037C865B4E905822C09785D6DDD95DC2F2B765F0FE1"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Environment_Assets/Kullaberg.meta",
+      "action": "new",
+      "sha256": "0378A18BBD7B50BDD0BAA6F5087432AEA36A2C2A6A06DBA4D6621A23E773DAB4"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Environment_Assets/Kullaberg/Rocks.meta",
+      "action": "new",
+      "sha256": "43B451DB1A51150EAE3B3CF2EB4A34482FC76752A2FEF266B638D3000F664AC1"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Environment_Assets/Kullaberg/Rocks/kb_rock_s04_54_albedo.tif",
+      "action": "new",
+      "sha256": "504C0B98CD3D06D156ED04DD121B4D4E16D027C30C47742903DBFE3A7C325844"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Environment_Assets/Kullaberg/Rocks/kb_rock_s04_54_albedo.tif.meta",
+      "action": "new",
+      "sha256": "DE5AB7FFAE3430D5B67B90B8CC03F9B1135CC71CAA940C131AD8950B99761F6D"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Environment_Assets/Kullaberg/Rocks/kb_rock_s04_54.fbx",
+      "action": "new",
+      "sha256": "8B847AD2535577C892D279F45F98615736E2F9AB9511D066CF4EC8E67E368960"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Environment_Assets/Kullaberg/Rocks/kb_rock_s04_54.fbx.meta",
+      "action": "new",
+      "sha256": "DD16B71DED2A60EFADCF7088DB570F5279F635D45ACC6BDAB610218AC8707CFD"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Environment_Assets/Kullaberg/Rocks/kb_rock_s06_82_albedo.tif",
+      "action": "new",
+      "sha256": "005CE646C81C456EF34FF93DD6EA5E30EA8E638ABB45C25D50EE51B12F3CC771"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Environment_Assets/Kullaberg/Rocks/kb_rock_s06_82_albedo.tif.meta",
+      "action": "new",
+      "sha256": "D450A9CF319465EAFFE6BFEEB6D56F0E39AE06599B0F4753485A14403FA87F67"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Environment_Assets/Kullaberg/Rocks/kb_rock_s06_82.fbx",
+      "action": "new",
+      "sha256": "2C7CFF54FBA7F93D6C91C50B6F5EED32084F5599F44BAFA3F4CF1D9A70D50B2B"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Environment_Assets/Kullaberg/Rocks/kb_rock_s06_82.fbx.meta",
+      "action": "new",
+      "sha256": "4AD6C94F80F7C7FB9167C12E8B41C02CFF50D64C76416B9E8F99D8B6B865E7C1"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/StartJourney_assets/Trees.meta",
+      "action": "new",
+      "sha256": "251D04BB3E14E408EF789A3CF2A7BE042AC76B5F42347A0AA02071A751BC8B53"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/StartJourney_assets/Trees/Impostors.meta",
+      "action": "new",
+      "sha256": "2A4BB7D001B525C1A60988BD9B399E13F1DB55C876193500E7821623AB14E3BE"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/StartJourney_assets/Trees/Impostors/Impostor_scene_StartJourney_Env_Cedar_HibaArborvitae_Field_3.meta",
+      "action": "new",
+      "sha256": "A61BEB4BF998E272EB051DC869327A0980F4B368642BB025F225ACA80B7FDE74"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/StartJourney_assets/Trees/Impostors/Impostor_scene_StartJourney_Env_Dogwood_Kousa_Field_3.meta",
+      "action": "new",
+      "sha256": "29C615B03B2D03F354659C035D7C7CE755FDA942E2CDDF209C76059FFAB78AC0"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/StartJourney_assets/Trees/Impostors/Impostor_scene_StartJourney_Env_Cedar_HibaArborvitae_Field_3/scene_StartJourney_Env_Cedar_HibaArborvitae_Field_3_AlbedoAlpha.png",
+      "action": "new",
+      "sha256": "F3762B63135001524D6557582622315266E4C73FEB2DDA8536DDEE6814819AB1"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/StartJourney_assets/Trees/Impostors/Impostor_scene_StartJourney_Env_Cedar_HibaArborvitae_Field_3/scene_StartJourney_Env_Cedar_HibaArborvitae_Field_3_AlbedoAlpha.png.meta",
+      "action": "new",
+      "sha256": "57243FF0D8698F7ECCC477391B068802BAE816BB607DE6B7DC2209079889ECEC"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/StartJourney_assets/Trees/Impostors/Impostor_scene_StartJourney_Env_Cedar_HibaArborvitae_Field_3/scene_StartJourney_Env_Cedar_HibaArborvitae_Field_3_NormalDepth.png",
+      "action": "new",
+      "sha256": "F03CF464F3115FB9C526B0E1B5D2C1BD181C5680630F01BCD616E4583E68B7E6"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/StartJourney_assets/Trees/Impostors/Impostor_scene_StartJourney_Env_Cedar_HibaArborvitae_Field_3/scene_StartJourney_Env_Cedar_HibaArborvitae_Field_3_NormalDepth.png.meta",
+      "action": "new",
+      "sha256": "0B6F11E4C410A06144426191E5C0D49D37C565BC5608BC48CBD217BE5FAF937D"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/StartJourney_assets/Trees/Impostors/Impostor_scene_StartJourney_Env_Dogwood_Kousa_Field_3/scene_StartJourney_Env_Dogwood_Kousa_Field_3_AlbedoAlpha.png",
+      "action": "new",
+      "sha256": "85B2A3F5ADBCF113AB6D9B6B3A200C623C96090027F98723BE582B5739026387"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/StartJourney_assets/Trees/Impostors/Impostor_scene_StartJourney_Env_Dogwood_Kousa_Field_3/scene_StartJourney_Env_Dogwood_Kousa_Field_3_AlbedoAlpha.png.meta",
+      "action": "new",
+      "sha256": "F1CA8441E302DD5664397EC3C7AB11167CF046C127419033DE85E6F910F24E4B"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/StartJourney_assets/Trees/Impostors/Impostor_scene_StartJourney_Env_Dogwood_Kousa_Field_3/scene_StartJourney_Env_Dogwood_Kousa_Field_3_NormalDepth.png",
+      "action": "new",
+      "sha256": "19CC95B1429EE1BB9305CAEAC5FB9C8D392A0EE4F5FA6DAB5144143BD6B965DD"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/StartJourney_assets/Trees/Impostors/Impostor_scene_StartJourney_Env_Dogwood_Kousa_Field_3/scene_StartJourney_Env_Dogwood_Kousa_Field_3_NormalDepth.png.meta",
+      "action": "new",
+      "sha256": "6CF56761A4023BB471C301767790E51003C7F77DA1E27C0C0A5BF9FC38E94588"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Tileables/Asturias.meta",
+      "action": "new",
+      "sha256": "1700A6513E905C837AB3D2897C53F1C7E61A6958E8C20213C0BC05BC764BD32E"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Tileables/Asturias/ast_grass_ground_01.meta",
+      "action": "new",
+      "sha256": "A0F69243D7D6F9A430D51CE18322FB6F8113E6A1FD21D5C62653A27CCB17C8C4"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Tileables/Asturias/ast_rubble_ground_01.meta",
+      "action": "new",
+      "sha256": "F1522F62661D0E88B5624B5C12AF2B83D7B0271583AE7327C8915EBB4F413C8E"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Tileables/Asturias/surface_ast_road_01.meta",
+      "action": "new",
+      "sha256": "DA9C3D0E76BA7380F8372CB370F3A40BBC8AD5466C4E2819A58A7E0242C06D68"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Tileables/Asturias/ast_grass_ground_01/ast_grass_ground_01_albedo.tif",
+      "action": "new",
+      "sha256": "546B70CDFCCDB020B3913CF4EF6378A14FF08609A48C66BF65F1C949B928E708"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Tileables/Asturias/ast_grass_ground_01/ast_grass_ground_01_albedo.tif.meta",
+      "action": "new",
+      "sha256": "8CC552DDE970AA096496691DF10675B03220B27B159FEA9DE520845B42571B68"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Tileables/Asturias/ast_grass_ground_01/ast_grass_ground_01_terrainNormal.tif",
+      "action": "new",
+      "sha256": "29F3F7770540E4F73828D7A2A0EE4F58D529BCD276AAD5081DCB72ABE9E812F9"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Tileables/Asturias/ast_grass_ground_01/ast_grass_ground_01_terrainNormal.tif.meta",
+      "action": "new",
+      "sha256": "C376E49140DFEE9F2D8A0F6D9CE4455C76FCD8033AA11CB0836560EC3D9850BA"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Tileables/Asturias/ast_rubble_ground_01/ast_rubble_ground_01_albedo_v2.tif",
+      "action": "new",
+      "sha256": "C9AA18955469B1D987A18AD3969C9C324874231870BF1E9B53C3BD9649E6A1A8"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Tileables/Asturias/ast_rubble_ground_01/ast_rubble_ground_01_albedo_v2.tif.meta",
+      "action": "new",
+      "sha256": "F7EB91BDBE2DCD15A4BF7AB19B9CF329723B5634F39A4F3508CC8E9E4A8B1585"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Tileables/Asturias/ast_rubble_ground_01/ast_rubble_ground_01_normal.tif",
+      "action": "new",
+      "sha256": "8145C09ADCBB2B1C220BDAB184312F5F25816B57024CA3A3746AF512840CCB40"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Tileables/Asturias/ast_rubble_ground_01/ast_rubble_ground_01_normal.tif.meta",
+      "action": "new",
+      "sha256": "172D190CE46AD191F6D7167C7D30A17490EEF338074CA2BAF36D9B305F1B9459"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Tileables/Asturias/surface_ast_road_01/surface_ast_road_01_albedo_V2.tif",
+      "action": "new",
+      "sha256": "AD160C8CD8F55F1DBA3BC38791DB61AD545DCFEFD7CB09E1D6E49816CCE80656"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Tileables/Asturias/surface_ast_road_01/surface_ast_road_01_albedo_V2.tif.meta",
+      "action": "new",
+      "sha256": "4CD9B73959A4169772FF82C4A3A5106F1C438FEB6829D626A9EF0A7F3CC6E1AE"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Tileables/Asturias/surface_ast_road_01/surface_ast_road_01_normal.tif",
+      "action": "new",
+      "sha256": "51503DC53EB49093BD69E7C8CC388E4A2CC6524A0D29897A7BB45148DD192E2E"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Tileables/Asturias/surface_ast_road_01/surface_ast_road_01_normal.tif.meta",
+      "action": "new",
+      "sha256": "21EC7CD39506FEFE95BD10F22C83B97E0048E94EEF8FC830DED28E9CBB7A0EBF"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/MeadowGrass.meta",
+      "action": "new",
+      "sha256": "77F6C400E826DA9E7B2A4F3729D864567D7AC4B5BAD67B11C74E8BE8FA49B66D"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/Standard_Grass.meta",
+      "action": "new",
+      "sha256": "34F28001028BA9B12804F5C1122775A642C7E0E57ADFE9F16C29EDA0586CB0BB"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/MeadowGrass/Meadowgrass_01_v1.fbx",
+      "action": "new",
+      "sha256": "21BA7CDD38B3F1AEFE0F2E3C01785C3CAD0D4D1B649AF358AC11608A6F41B66F"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/MeadowGrass/Meadowgrass_01_v1.fbx.meta",
+      "action": "new",
+      "sha256": "13BB4F69FB5531667D9A00F7621E39A2DDE3ED4246E0E56B10A9F6007C868486"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/MeadowGrass/Meadowgrass_01_v3.fbx",
+      "action": "new",
+      "sha256": "EA4F347714C143FAE37499D02B1F6BCC9B614AB19ABFE74EAC573B2238227E56"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/MeadowGrass/Meadowgrass_01_v3.fbx.meta",
+      "action": "new",
+      "sha256": "E8FA2F730695DFBFF57453AC28ED4203C4DACD3F5E4ECC604CB2628EA3A923FA"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/MeadowGrass/Meadowgrass_01_v5.fbx",
+      "action": "new",
+      "sha256": "B7D87B9729E56C8CE025D8C6E9FB6E4D8D1B0F4536A283E385ED308EE6C3A137"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/MeadowGrass/Meadowgrass_01_v5.fbx.meta",
+      "action": "new",
+      "sha256": "984BF134E1DBC5476B38F918358E084E56990D4ED6A93C2FC8114F9FED743215"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/MeadowGrass/Textures.meta",
+      "action": "new",
+      "sha256": "22738FE650537A4F163BDFC151998A54FB658F748D60E5B38ECC6D33EBAC8F97"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/MeadowGrass/Textures/kb_meadow_grass_albedo_cc_2.tif",
+      "action": "new",
+      "sha256": "8CB08FF898B587962FA1E8D4D1CFD41DF9E6D793E03C26920FF1BD7D809BC98B"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/MeadowGrass/Textures/kb_meadow_grass_albedo_cc_2.tif.meta",
+      "action": "new",
+      "sha256": "CDBED8FB8D83ACFABD98C4A79CADB2D43FE9DF84C85422954FE0E820278BC1E7"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/MeadowGrass/Textures/kb_meadow_grass_albedo_green.tif",
+      "action": "new",
+      "sha256": "7331CD5792E861329292B603FD88E381A63717ADDFD386533961865ADE8F4AE4"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/MeadowGrass/Textures/kb_meadow_grass_albedo_green.tif.meta",
+      "action": "new",
+      "sha256": "3183F180180D6D92F879B7DA52B12A49FABEBFC1731032EEC9369F7C14D36588"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/MeadowGrass/Textures/kb_meadow_grass_normal.tif",
+      "action": "new",
+      "sha256": "5598B07C2099E6DFC83095519A7CB9B8E17C97FFBCD3E9ACCFDA8791CD0BED1E"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/MeadowGrass/Textures/kb_meadow_grass_normal.tif.meta",
+      "action": "new",
+      "sha256": "4B16843D5A24934CA515BB93347428ECB4E8A825E4CA5F73F58F0BB9BF6A6EBD"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/Standard_Grass/standard_grass_age_00_v01_scatter.fbx",
+      "action": "new",
+      "sha256": "3FC7C5C43DB984AF9948ECC54674BF8BEA7CEE02795BB6EC99D69342C58C6416"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/Standard_Grass/standard_grass_age_00_v01_scatter.fbx.meta",
+      "action": "new",
+      "sha256": "B9065A0F2ECBB53C06F53E4E343FC31F65C3B57B90D7671EB8E41061515845C4"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/Standard_Grass/standard_grass_age_05_v01_scatter.fbx",
+      "action": "new",
+      "sha256": "07101E5F36A6D5B0E733D37FB89C0CDE72DF285CCD0C8C5B6F7A1D8A2ED717EC"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/Standard_Grass/standard_grass_age_05_v01_scatter.fbx.meta",
+      "action": "new",
+      "sha256": "83ECA4F4ED20460CDE717FBD36C61012F81D6DE69199714FD0D3D4D4B882BD89"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/Standard_Grass/standard_grass_age_10_v01_scatter.fbx",
+      "action": "new",
+      "sha256": "971DABF00B149A8D6B254CC8F69EAEEAD910E713633C857B563BFE3265F6E1E6"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/Standard_Grass/standard_grass_age_10_v01_scatter.fbx.meta",
+      "action": "new",
+      "sha256": "E975827047CD64E3834486BF030EC918F3D714F74360B9B6FFAF4CA219048186"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/Standard_Grass/standard_grass_albedo_dry.tif",
+      "action": "new",
+      "sha256": "5C86AA8294B9011A35E98EF707AFAFF23D6B70167BD428163B3C76556D39E51F"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/Standard_Grass/standard_grass_albedo_dry.tif.meta",
+      "action": "new",
+      "sha256": "BB14F4E68474CFF05BC848598E39A240DB81913A06894B680B975B5472C3B6CE"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/Standard_Grass/standard_grass_albedo.tif",
+      "action": "new",
+      "sha256": "80ABA8346E827728C7A03BB249381809184DB8B724B8D7D43A25A07EA5A89656"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/Standard_Grass/standard_grass_albedo.tif.meta",
+      "action": "new",
+      "sha256": "901AB82F9DA00C13190CABD171E8BAAA39D0E3FF9E93969C5C1673309DDCE7BC"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/Standard_Grass/standard_grass_normal.tif",
+      "action": "new",
+      "sha256": "549EFC5A291B930A0A2F59712392582FA3899783381F2BEE26B11437DB062256"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Selected/Art/Vegetation/Standard_Grass/standard_grass_normal.tif.meta",
+      "action": "new",
+      "sha256": "053386636621F08829CDBDD330A28264FC54F4D252F828E56FB9956A9AC16750"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Shaders/TimeGhostImpostorUtility.hlsl",
+      "action": "new",
+      "sha256": "58CC381739A051A2BE110BFC11655D31280B8476C8393882D24734EBD4AB633D"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Shaders/TimeGhostImpostorUtility.hlsl.meta",
+      "action": "new",
+      "sha256": "261250458DF38736151B84A7700A5EEDB1A5C42AC19600BE220C0409F197C346"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Shaders/TimeGhostURPImpostor.shader",
+      "action": "new",
+      "sha256": "42410F128EBB69FA2DB0876C32B798256BB51C2C5320926D7A0A5D700A7C1A9E"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Shaders/TimeGhostURPImpostor.shader.meta",
+      "action": "new",
+      "sha256": "D11C24DD9B5B8E64077A4F1F92719CC3FC18E291591ABF3EB5F0861886928665"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Shaders/V10GroundBlend.shader",
+      "action": "new",
+      "sha256": "1D57B427C1B040249B6B5A23554BECFAEDEBF79B4DB3955C89C72269FEFA17FD"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/Shaders/V10GroundBlend.shader.meta",
+      "action": "new",
+      "sha256": "66AE733C25F56B4B05697CB5CA9047E1CA01B7EE6612F5E4CB0066B3B788F4D1"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/TreeVisuals/Cedar_HibaArborvitae.asset",
+      "action": "new",
+      "sha256": "521DDA819053F3E69E3FBD218879FD884ECA6C3EC9FCDD531F10CF048D93FDEA"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/TreeVisuals/Cedar_HibaArborvitae.asset.meta",
+      "action": "new",
+      "sha256": "DCE0F327D64925259A5CE5C565C3792EBCAAF97ECF2D6F29CAF24C6AADEE2845"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/TreeVisuals/Cedar_HibaArborvitae.mat",
+      "action": "new",
+      "sha256": "A6284F39C05C9AA665598E7AAE29384EE6C11A8BACC274DD568C3432D6486442"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/TreeVisuals/Cedar_HibaArborvitae.mat.meta",
+      "action": "new",
+      "sha256": "4EBC11E697ED0E9E9EB569BF370DD34D2D25EE5BF1AECF297F95398456D77669"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/TreeVisuals/Cedar_HibaArborvitae.prefab",
+      "action": "new",
+      "sha256": "5FD56F3FB6221E549364588EDAE7A8476B2EF51BCA53857F868D56E4ED4D9DD2"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/TreeVisuals/Cedar_HibaArborvitae.prefab.meta",
+      "action": "new",
+      "sha256": "780E1DC7F8C5CBA6870A593D4644168445A7F5D49DBA6289050D505231712C59"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/TreeVisuals/Dogwood_Kousa.asset",
+      "action": "new",
+      "sha256": "8C62CDB7ACAD8712BD93E11B6E16C629F4C697D49DF6F5B894C17E9717B84785"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/TreeVisuals/Dogwood_Kousa.asset.meta",
+      "action": "new",
+      "sha256": "EA5FF922A15CC4424C2DCC70CE186660CDEB8CD07CA3D0E76031790DC4A5B055"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/TreeVisuals/Dogwood_Kousa.mat",
+      "action": "new",
+      "sha256": "D4CF75BE6C346006E42C8D816CC6C31DA9006E77EDF4582BCC8AF5817AE7FC5F"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/TreeVisuals/Dogwood_Kousa.mat.meta",
+      "action": "new",
+      "sha256": "3586CBDABEC76E732C6CAF06D8CD3AB05B12D520C6DF1565A1BA48FA0F3D18B2"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/TreeVisuals/Dogwood_Kousa.prefab",
+      "action": "new",
+      "sha256": "08C350EBA7B310DE9056159D34A3149E22B4F4AC262523EBDC9E34AFA87CE1B3"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10/TreeVisuals/Dogwood_Kousa.prefab.meta",
+      "action": "new",
+      "sha256": "3B7F5505B4469A3E3F5825A21FD5E216B85C27E128D599DF4801AB07BA8C278D"
+    },
+    {
+      "path": "Assets/Escape/Art/TimeGhostV10.meta",
+      "action": "new",
+      "sha256": "0C04A1D45D8CB5E7DE8D7EA3D893D74121CFE591B04F62046E711656265921A8"
+    }
+  ]
+}

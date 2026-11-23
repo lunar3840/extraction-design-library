@@ -1,0 +1,83 @@
+C:\Users\ehoji\OneDrive\문서\ChatGPT\익스트랙션\work\weapon-ammo-tests\WeaponAmmoTests.cs(15,30): warning CS0649: 'WeaponAmmoTests.Data<T>.entries' 필드에는 할당되지 않으므로 항상 null 기본값을 사용합니다. [C:\Users\ehoji\OneDrive\문서\ChatGPT\익스트랙션\work\weapon-ammo-tests\WeaponAmmoTests.csproj]
+PASS 24 unique ammunition entries
+PASS pistol T1-T6 increase penetration without flesh damage inflation
+PASS rifle T1-T6 increase penetration without flesh damage inflation
+PASS shotgun T1-T6 increase penetration without flesh damage inflation
+PASS sniper T1-T6 increase penetration without flesh damage inflation
+PASS six playable firearm classes defined
+PASS all weapon/ammo IDs exist as inventory items
+PASS AR_001 compatible default ammunition
+PASS AR_002 compatible default ammunition
+PASS AR_003 compatible default ammunition
+PASS AR_004 compatible default ammunition
+PASS AR_011 compatible default ammunition
+PASS AR_012 compatible default ammunition
+PASS AR_013 compatible default ammunition
+PASS P_001 compatible default ammunition
+PASS P_002 compatible default ammunition
+PASS P_003 compatible default ammunition
+PASS P_004 compatible default ammunition
+PASS P_011 compatible default ammunition
+PASS SG_001 compatible default ammunition
+PASS SG_002 compatible default ammunition
+PASS SG_003 compatible default ammunition
+PASS SG_004 compatible default ammunition
+PASS SG_011 compatible default ammunition
+PASS SG_012 compatible default ammunition
+PASS SG_013 compatible default ammunition
+PASS SR_001 compatible default ammunition
+PASS SR_002 compatible default ammunition
+PASS SR_003 compatible default ammunition
+PASS SR_004 compatible default ammunition
+PASS SR_011 compatible default ammunition
+PASS SR_012 compatible default ammunition
+PASS SR_013 compatible default ammunition
+PASS DMR_001 compatible default ammunition
+PASS DMR_002 compatible default ammunition
+PASS DMR_003 compatible default ammunition
+PASS MG_001 compatible default ammunition
+PASS MG_002 compatible default ammunition
+PASS MG_003 compatible default ammunition
+PASS Rifle has >=3 distinct guns
+PASS Dmr has >=3 distinct guns
+PASS Pistol has >=3 distinct guns
+PASS Shotgun has >=3 distinct guns
+PASS Sniper has >=3 distinct guns
+PASS MachineGun has >=3 distinct guns
+PASS Magazine 30000 randomized reload/select/fire/cancel/restore actions conserve each ammo tier
+PASS Shell 30000 randomized reload/select/fire/cancel/restore actions conserve each ammo tier
+PASS initial lower-tier load begins
+PASS in-flight reload locks chosen tier
+PASS partial-magazine higher-tier topup begins
+PASS topup preserves old rounds and appends higher-tier FIFO
+PASS mixed shot 0
+PASS fired round uses actual FIFO class 0
+PASS mixed shot 1
+PASS fired round uses actual FIFO class 1
+PASS mixed shot 2
+PASS fired round uses actual FIFO class 2
+PASS mixed shot 3
+PASS fired round uses actual FIFO class 3
+PASS mixed shot 4
+PASS fired round uses actual FIFO class 4
+PASS mixed shot 5
+PASS fired round uses actual FIFO class 5
+PASS mixed shot 6
+PASS fired round uses actual FIFO class 6
+PASS mixed shot 7
+PASS fired round uses actual FIFO class 7
+PASS wrong-family and undefined tiers rejected
+PASS schema1 migrates loaded ammo and remains neutral
+PASS snapshot JSON roundtrip preserves exact affix state
+PASS captured affixes cannot mutate original state
+PASS 1000 instance affixes remain small unique handling bonuses without damage/capacity power creep
+PASS different instance identities produce varied affixes
+PASS oversized affix rejected
+PASS inconsistent magazine count rejected
+PASS whole weapon transfers ownership exactly once
+PASS transfer preserves affixes and loaded tier magazine
+PASS inventory JSON save/load preserves identity affixes and ammunition
+PASS all 36 ammo/armor class combinations bounded and monotonic; T1 preserves old absorption
+PASS high ammo penetration does not multiply unarmored flesh damage
+PASS value tiers honor all original source boundaries
+Independent checks passed: 81; pure .NET JSON semantics only; Unity serialization checked separately.

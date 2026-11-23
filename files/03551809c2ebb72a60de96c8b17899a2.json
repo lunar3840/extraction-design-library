@@ -1,0 +1,350 @@
+{
+  "status": "PASS narrowly verified12 index skin-binding rows; root review and final current pose checks pending",
+  "verificationDateKst": "2026-10-26",
+  "sourceVertexCount": 27958,
+  "rightChangedVertices": [
+    9360,
+    9362,
+    9365,
+    18194,
+    18198,
+    18203
+  ],
+  "leftChangedVertices": [
+    16079,
+    16082,
+    16085,
+    17440,
+    17442,
+    17444
+  ],
+  "allChangedVertices": [
+    9360,
+    9362,
+    9365,
+    16079,
+    16082,
+    16085,
+    17440,
+    17442,
+    17444,
+    18194,
+    18198,
+    18203
+  ],
+  "allOtherSourceWeightRowsUnchanged": true,
+  "sourcePositionsUVTrianglesUnchanged": true,
+  "rebindSameCorrectedWeights": true,
+  "sourceFbxUnchangedSha256": "779ed67babb89920e190573c05e63faf484111a1a46a16c5861cb4e536f4949b",
+  "runtimeSha256": "0ffa3743ee352a2b3f1006296e7832780b23bcc2d2a37d858f52235670abf6a3",
+  "leftCameraExactKeysEqual": [
+    "modelPosition",
+    "modelRotation",
+    "halfHeight",
+    "target"
+  ],
+  "rightCameraTargetDifferenceMetres": 5.479090306416224e-06,
+  "rightCameraHalfHeightDifferenceMetres": 4.6193599700927734e-07,
+  "rightCameraQualification": "Near-matched original closeup camera, not bit-identical; original values retained. No claim of exact pixel-alignment.",
+  "snapshotSources": [
+    {
+      "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\edel-natural-arm-pose\\r25_right5_edel_off_skin.json",
+      "sha256": "3ec2d55bd35cb799ff6a343e0c16481929d4328183ee731b9c255ef2bcc35120"
+    },
+    {
+      "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\edel-natural-arm-pose\\r25_grasp7a_edel_off_skin.json",
+      "sha256": "964b57fc20c344edf1a001bb44dc9599e0fac960e5b4c26fb407cbb977dcbee1"
+    },
+    {
+      "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\edel-natural-arm-pose\\r25_index12_edel_off_skin.json",
+      "sha256": "bc01e82a1eefdbcd9ceabb85a4c7964eadd671fc5b4fab9de35da2b10ce31ecc"
+    },
+    {
+      "file": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\edel-natural-arm-pose\\r25_index12_rebind_skin.json",
+      "sha256": "a53918c09a9b2394acdce48ace692bf9b81b441462287aa61d2349dfc75327c1"
+    }
+  ],
+  "changedRows": [
+    {
+      "vertex": 9360,
+      "original": {
+        "b0": 38,
+        "b1": 29,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.5803756713867188,
+        "w1": 0.41962432861328125,
+        "w2": 0.0,
+        "w3": 0.0
+      },
+      "corrected": {
+        "b0": 31,
+        "b1": 30,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.9311861991882324,
+        "w1": 0.06881380081176758,
+        "w2": 0.0,
+        "w3": 0.0
+      }
+    },
+    {
+      "vertex": 9362,
+      "original": {
+        "b0": 38,
+        "b1": 29,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.5803757905960083,
+        "w1": 0.4196241796016693,
+        "w2": 0.0,
+        "w3": 0.0
+      },
+      "corrected": {
+        "b0": 31,
+        "b1": 30,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.9863936901092529,
+        "w1": 0.01360630989074707,
+        "w2": 0.0,
+        "w3": 0.0
+      }
+    },
+    {
+      "vertex": 9365,
+      "original": {
+        "b0": 38,
+        "b1": 29,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.5803757905960083,
+        "w1": 0.4196241796016693,
+        "w2": 0.0,
+        "w3": 0.0
+      },
+      "corrected": {
+        "b0": 31,
+        "b1": 30,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.9986292719841003,
+        "w1": 0.0013707280158996582,
+        "w2": 0.0,
+        "w3": 0.0
+      }
+    },
+    {
+      "vertex": 16079,
+      "original": {
+        "b0": 22,
+        "b1": 13,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.5803694128990173,
+        "w1": 0.41963061690330505,
+        "w2": 0.0,
+        "w3": 0.0
+      },
+      "corrected": {
+        "b0": 15,
+        "b1": 14,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.9081609845161438,
+        "w1": 0.0918390154838562,
+        "w2": 0.0,
+        "w3": 0.0
+      }
+    },
+    {
+      "vertex": 16082,
+      "original": {
+        "b0": 22,
+        "b1": 13,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.580369234085083,
+        "w1": 0.4196307361125946,
+        "w2": 0.0,
+        "w3": 0.0
+      },
+      "corrected": {
+        "b0": 15,
+        "b1": 14,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.9789983034133911,
+        "w1": 0.021001696586608887,
+        "w2": 0.0,
+        "w3": 0.0
+      }
+    },
+    {
+      "vertex": 16085,
+      "original": {
+        "b0": 22,
+        "b1": 13,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.580369234085083,
+        "w1": 0.4196307361125946,
+        "w2": 0.0,
+        "w3": 0.0
+      },
+      "corrected": {
+        "b0": 15,
+        "b1": 14,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.9977056980133057,
+        "w1": 0.002294301986694336,
+        "w2": 0.0,
+        "w3": 0.0
+      }
+    },
+    {
+      "vertex": 17440,
+      "original": {
+        "b0": 22,
+        "b1": 13,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.5803694128990173,
+        "w1": 0.41963061690330505,
+        "w2": 0.0,
+        "w3": 0.0
+      },
+      "corrected": {
+        "b0": 15,
+        "b1": 14,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.9081609845161438,
+        "w1": 0.0918390154838562,
+        "w2": 0.0,
+        "w3": 0.0
+      }
+    },
+    {
+      "vertex": 17442,
+      "original": {
+        "b0": 22,
+        "b1": 13,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.580369234085083,
+        "w1": 0.4196307361125946,
+        "w2": 0.0,
+        "w3": 0.0
+      },
+      "corrected": {
+        "b0": 15,
+        "b1": 14,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.9789983034133911,
+        "w1": 0.021001696586608887,
+        "w2": 0.0,
+        "w3": 0.0
+      }
+    },
+    {
+      "vertex": 17444,
+      "original": {
+        "b0": 22,
+        "b1": 13,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.580369234085083,
+        "w1": 0.4196307361125946,
+        "w2": 0.0,
+        "w3": 0.0
+      },
+      "corrected": {
+        "b0": 15,
+        "b1": 14,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.9977056980133057,
+        "w1": 0.002294301986694336,
+        "w2": 0.0,
+        "w3": 0.0
+      }
+    },
+    {
+      "vertex": 18194,
+      "original": {
+        "b0": 38,
+        "b1": 29,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.5803756713867188,
+        "w1": 0.41962432861328125,
+        "w2": 0.0,
+        "w3": 0.0
+      },
+      "corrected": {
+        "b0": 31,
+        "b1": 30,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.9311861991882324,
+        "w1": 0.06881380081176758,
+        "w2": 0.0,
+        "w3": 0.0
+      }
+    },
+    {
+      "vertex": 18198,
+      "original": {
+        "b0": 38,
+        "b1": 29,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.5803757905960083,
+        "w1": 0.4196241796016693,
+        "w2": 0.0,
+        "w3": 0.0
+      },
+      "corrected": {
+        "b0": 31,
+        "b1": 30,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.9863936901092529,
+        "w1": 0.01360630989074707,
+        "w2": 0.0,
+        "w3": 0.0
+      }
+    },
+    {
+      "vertex": 18203,
+      "original": {
+        "b0": 38,
+        "b1": 29,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.5803757905960083,
+        "w1": 0.4196241796016693,
+        "w2": 0.0,
+        "w3": 0.0
+      },
+      "corrected": {
+        "b0": 31,
+        "b1": 30,
+        "b2": 0,
+        "b3": 0,
+        "w0": 0.9986292719841003,
+        "w1": 0.0013707280158996582,
+        "w2": 0.0,
+        "w3": 0.0
+      }
+    }
+  ],
+  "limits": [
+    "Latest user-perceived fingertip angle needs final current-pose review; this proves the earlier stretched strip binding repair only.",
+    "No claim of whole grasp, all characters, hair collision, performance or every transition completion.",
+    "Prior captures were reused without image modification; they were not newly shot on26."
+  ]
+}

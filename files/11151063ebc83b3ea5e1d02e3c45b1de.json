@@ -1,0 +1,41 @@
+{
+  "production_visual_changes": 0,
+  "screenshots": [
+    {
+      "image": "before_automatic_serin_front.png",
+      "source": "runtime_v5/images/automatic_natural_serin_False_before_front.png",
+      "sha256": "290123b58ab49ac9058868c3491dda873e2fe973b7032e98442f83c12b6e1afa",
+      "meaning": "actual verification before/return, not a repaired asset comparison"
+    },
+    {
+      "image": "after_automatic_serin_front.png",
+      "source": "runtime_v5/images/automatic_natural_serin_False_return_front.png",
+      "sha256": "1750a0bddcfea27e9c96737c09b00ec24094147b2edaa5895dfafeec9c22337c",
+      "meaning": "actual verification before/return, not a repaired asset comparison"
+    },
+    {
+      "image": "before_automatic_serin_side.png",
+      "source": "runtime_v5/images/automatic_natural_serin_False_before_side.png",
+      "sha256": "a030ea7a551e6135e1e459cefd9f048391ca793f17136f1b8ec0eb12ff6cd034",
+      "meaning": "actual verification before/return, not a repaired asset comparison"
+    },
+    {
+      "image": "after_automatic_serin_side.png",
+      "source": "runtime_v5/images/automatic_natural_serin_False_return_side.png",
+      "sha256": "835f9049544972d28da1d41f74cb5988633abce3b813750c1710675e6310d8fa",
+      "meaning": "actual verification before/return, not a repaired asset comparison"
+    },
+    {
+      "image": "before_automatic_serin_rear.png",
+      "source": "runtime_v5/images/automatic_natural_serin_False_before_rear.png",
+      "sha256": "621fef50fdd3fdf7565e655b98ee0b439218af1d735c0792284eaa9df49efedb",
+      "meaning": "actual verification before/return, not a repaired asset comparison"
+    },
+    {
+      "image": "after_automatic_serin_rear.png",
+      "source": "runtime_v5/images/automatic_natural_serin_False_return_rear.png",
+      "sha256": "8114bade2354cb4524ae6e32edebcaf0a4d326c744e74858ab660c40e0440c1e",
+      "meaning": "actual verification before/return, not a repaired asset comparison"
+    }
+  ]
+}

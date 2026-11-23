@@ -1,0 +1,12 @@
+D13 OUTER FENCE APPLIED
+D13 OUTER FENCE CENSUS
+retainedBoundaryCubes=184 hiddenOriginalRenderers=184 enabledOriginalBoxColliders=184
+D13Chunks=46 newColliders=0 triangles=106296 triangleBudget=150000
+maxTopDeficit=0.000m maxEndpointBoundsErrorSquared=0.000m2 visualBarsWithinOriginal0.6mPhysicalStrip=true
+N/S=52x10m E/W=40x10m cornerPosts=4 existingSolidBallisticBoundaryRetained=true
+RESULT PASS
+original changes: only MeshRenderer.enabled=false on BoundaryGuards/{NorthGuard_01..52,SouthGuard_01..52,WestGuard_01..40,EastGuard_01..40}
+original BoxColliders, transforms, meshes, materials, land, paths and anchors retained
+
+scene=C9E3D324A6DA7849188D1D92F9D79843B8E4820DCBE8325C3A0B227CD13D1874
+prefab=9CA6AF945E4A2A349C4B71D73D11399D0DE5A638063BC04E6EA57EBC6601B20F

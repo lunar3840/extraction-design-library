@@ -1,0 +1,30 @@
+{
+  "images": [
+    {
+      "file": "after_06_outline.png",
+      "page": 6,
+      "role": "verification",
+      "caption": "본편58쪽과 별첨 안내8쪽의 최종 목차. 문서 구성 결과이며 게임 개발 완료 표시는 아님.",
+      "sourceRole": "66쪽 로컬 최종 초안 PDF의 실제 렌더",
+      "comparisonEligible": false
+    },
+    {
+      "file": "after_27_rig_backpack.png",
+      "page": 27,
+      "role": "verification",
+      "caption": "기존 Unity 리그·배낭 화면을 사용한 기획서27쪽. 당시 적용된 준비 공간과 회수 공간의 역할을 설명하며 이번 작업에서 게임을 새로 수정한 화면이 아님.",
+      "sourceRole": "66쪽 로컬 최종 초안 PDF의 실제 렌더",
+      "comparisonEligible": false
+    },
+    {
+      "file": "after_40_tripo_workflow.png",
+      "page": 40,
+      "role": "verification",
+      "caption": "기획서40쪽의 Tripo 입력·형상·텍스처 제작 과정. 생성물 확인 단계와 이후 피팅·리깅·게임 적용을 구분한 설명이며 전 장비 완성을 뜻하지 않음.",
+      "sourceRole": "66쪽 로컬 최종 초안 PDF의 실제 렌더",
+      "comparisonEligible": false
+    }
+  ],
+  "comparisons": [],
+  "beforeMissingReason": "신규 문서의 빈 시작 상태 캡처 미확보. 기존18쪽과 이번66쪽의 화면을 동일 조건 전후로 짝짓지 않음."
+}

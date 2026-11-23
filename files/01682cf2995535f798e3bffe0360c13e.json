@@ -1,0 +1,10 @@
+{
+  "file": "Assets/Escape/Runtime/Loot/LootInteractor.cs",
+  "changedExistingMethods": [
+    "OnGUI()"
+  ],
+  "unchangedExistingMethods": 19,
+  "callbacksUnchanged": true,
+  "oldCallbacks": 14,
+  "newCallbacks": 14
+}

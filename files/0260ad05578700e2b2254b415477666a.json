@@ -1,0 +1,44 @@
+{
+  "actualUnityRenders": true,
+  "noImageGeneration": true,
+  "beforeCapturePrecedesProductionIntegration": true,
+  "comparisons": [
+    {
+      "view": "car_iso.png",
+      "cameraExactMatch": true,
+      "reloadPixelsDiffOver2": 12,
+      "totalPixels": 1600000
+    },
+    {
+      "view": "car_top.png",
+      "cameraExactMatch": true,
+      "reloadPixelsDiffOver2": 10,
+      "totalPixels": 1600000
+    },
+    {
+      "view": "car_detail.png",
+      "cameraExactMatch": true,
+      "reloadPixelsDiffOver2": 16,
+      "totalPixels": 1600000
+    },
+    {
+      "view": "building_iso.png",
+      "cameraExactMatch": true,
+      "reloadPixelsDiffOver2": 443,
+      "totalPixels": 1600000
+    },
+    {
+      "view": "building_top.png",
+      "cameraExactMatch": true,
+      "reloadPixelsDiffOver2": 167,
+      "totalPixels": 1600000
+    },
+    {
+      "view": "building_detail.png",
+      "cameraExactMatch": true,
+      "reloadPixelsDiffOver2": 2060,
+      "totalPixels": 1600000
+    }
+  ],
+  "fixtureDifference": "Final building omits original S06_Interior two counter planks; both source and original before images preserved. This removal is fixture cleanup, not an automatic damage feature."
+}

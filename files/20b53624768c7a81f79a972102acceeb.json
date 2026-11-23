@@ -1,0 +1,65 @@
+{
+  "verifiedAt": "2026-11-01T19:21:46.391Z",
+  "desktop": {
+    "images": [
+      {
+        "complete": true,
+        "src": "https://extraction-design-library-ehoji.ehojin0415.chatgpt.site/files/3a1d4cee1da3a8815e153970a1cfa480.webp",
+        "width": 400
+      },
+      {
+        "complete": true,
+        "src": "https://extraction-design-library-ehoji.ehojin0415.chatgpt.site/files/5ed7ec5f3aafb6fbfadb21a8b928ba7d.webp",
+        "width": 400
+      },
+      {
+        "complete": true,
+        "src": "https://extraction-design-library-ehoji.ehojin0415.chatgpt.site/files/01f2adfe56d161a0a06da91e88d53f01.webp",
+        "width": 400
+      }
+    ],
+    "stats": "307통합 주제\n575지시 회차\n240변경 기록\n1126보존 원문",
+    "summary": "작업 요약\n명중·피격 표시와 음향을 키워 전투 중 타격과 피해를 더 쉽게 알아보도록 조정.",
+    "summaryBox": {
+      "bottom": 309.1041793823242,
+      "height": 49.33333587646485,
+      "left": 292.66668701171875,
+      "right": 1232.6666870117188,
+      "top": 259.7708435058594,
+      "width": 940,
+      "x": 292.66668701171875,
+      "y": 259.7708435058594
+    },
+    "theme": "black",
+    "url": "https://extraction-design-library-ehoji.ehojin0415.chatgpt.site/?theme=black",
+    "verifiedAt": "2026-11-01T19:21:10.319Z"
+  },
+  "mobile": {
+    "bodyWidth": 383,
+    "summary": "작업 요약\n명중·피격 표시와 음향을 키워 전투 중 타격과 피해를 더 쉽게 알아보도록 조정.",
+    "summaryBox": {
+      "bottom": 454.4062728881836,
+      "height": 85.33333587646484,
+      "left": 30.666667938232425,
+      "right": 346.0000114440918,
+      "top": 369.0729370117187,
+      "width": 315.3333435058594,
+      "x": 30.666667938232425,
+      "y": 369.0729370117187
+    },
+    "textBox": {
+      "bottom": 443.7395935058594,
+      "height": 44,
+      "left": 45.33333587646485,
+      "right": 333.33333587646484,
+      "top": 399.7395935058594,
+      "width": 288,
+      "x": 45.33333587646485,
+      "y": 399.7395935058594
+    },
+    "url": "https://extraction-design-library-ehoji.ehojin0415.chatgpt.site/?theme=black",
+    "width": 390
+  },
+  "whiteVerified": true,
+  "scope": "actual hosted browser;mobile viewport emulation,not physical phone"
+}

@@ -1,0 +1,90 @@
+{
+  "generatedAt": "2026-10-22T21:07:45.438Z",
+  "temporaryRoot": "C:\\Users\\ehoji\\AppData\\Local\\Temp\\extraction-bridge-ASyKtX",
+  "total": 20,
+  "passed": 20,
+  "failed": 0,
+  "realProjectTouched": false,
+  "results": [
+    {
+      "name": "Fingerprint uses sorted path/hash pairs and does not depend on object insertion order",
+      "ok": true
+    },
+    {
+      "name": "Configuration requires HTTPS, valid credentials and an actual Unity project folder",
+      "ok": true
+    },
+    {
+      "name": "Normal apply changes only requested values, re-extracts and creates recoverable backups",
+      "ok": true
+    },
+    {
+      "name": "Different project and invalid requests are rejected without source writes",
+      "ok": true
+    },
+    {
+      "name": "Stale entire source fingerprint rejects an otherwise valid field edit",
+      "ok": true
+    },
+    {
+      "name": "Same job replay is idempotent even after restart and cannot be reused for a different edit",
+      "ok": true
+    },
+    {
+      "name": "Readonly, unknown, invalid types and invalid positive health fail local domain validation",
+      "ok": true
+    },
+    {
+      "name": "Source changed during preparation is not overwritten",
+      "ok": true
+    },
+    {
+      "name": "Crash after preparation restarts safely and applies once",
+      "ok": true
+    },
+    {
+      "name": "Crash after source write verifies committed values and acknowledges without writing again",
+      "ok": true
+    },
+    {
+      "name": "Crash after one of several writes rolls back only its own output before retrying",
+      "ok": true
+    },
+    {
+      "name": "External change after interrupted write blocks automatic recovery without any overwrite",
+      "ok": true
+    },
+    {
+      "name": "Corrupted recovery backup is detected before restoring a partially written transaction",
+      "ok": true
+    },
+    {
+      "name": "Snapshot payload contains no absolute project path, source body, bearer token or CSRF token",
+      "ok": true
+    },
+    {
+      "name": "Failed ACK is retried with a new lease while the source transaction is applied only once",
+      "ok": true
+    },
+    {
+      "name": "Outbound transport uses authenticated POST, no token in URL or body, and rejects redirects",
+      "ok": true
+    },
+    {
+      "name": "HTTP test service receives separate authenticated poll and ACK with complete verified catalog",
+      "ok": true
+    },
+    {
+      "name": "Idle snapshot publishes once per source fingerprint and active-job conflict does not overwrite the cloud baseline",
+      "ok": true
+    },
+    {
+      "name": "Headless runner remains alive across failed polls and writes only user-local status without opening a port",
+      "ok": true
+    },
+    {
+      "name": "Actual hosted worker and bridge complete password login, queued edits, temporary Unity apply and public verified result",
+      "ok": true
+    }
+  ]
+}

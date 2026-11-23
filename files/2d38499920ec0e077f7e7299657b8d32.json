@@ -1,0 +1,51 @@
+{
+  "threadId": "6a9cfb2c-d738-83e8-92f4-a2f5fee2435f",
+  "topicId": "topic:chat/6a9cfb2c-d738-83e8-92f4-a2f5fee2435f",
+  "archiveDateKst": "2026-11-09",
+  "publishedScope": "selected returned turns and verified available review images",
+  "rows": [
+    {
+      "id": "97dd89a6-9404-4962-a7df-a2f1691302c1",
+      "kind": "검토본 보고",
+      "sha256": "11f6b1b80d378fef26cf2a40f49f47032a0adeb3aaa7cf9d6d5cd25f89cf8b24",
+      "priorReferenceSHA256": "eca7309ed1237593cfcd074de3b187c16a57d0bb0ae04564c3f0c5818def0125",
+      "sourceMessageIds": [
+        "97dd89a6-9404-4962-a7df-a2f1691302c1",
+        "852c2ba0-970a-4631-a4c3-4bb868913012"
+      ],
+      "instructionTimeUtc": "2026-10-22T04:41:54.540Z",
+      "sandboxReferences": [
+        "sandbox:/mnt/data/Serin_v21_HipSeam_Comparison.png",
+        "sandbox:/mnt/data/Serin_v21_Review_Package/model/Serin_v21_SkinSeam_REVIEW.glb",
+        "sandbox:/mnt/data/Serin_v21_SkinSeam_REVIEW_Package.zip",
+        "sandbox:/mnt/data/Serin_v21_FourView_BeforeAfter.png",
+        "sandbox:/mnt/data/serin_v21/Serin_v21_Review_Report_ko.md"
+      ]
+    },
+    {
+      "id": "0df856a5-0a8f-4baa-b554-8796e83188c8",
+      "kind": "진행 확인",
+      "sha256": "8980298b22504f6086b0f0ebe1c29fd762c4cc17e3ca91dc9a73de3bfc0c9d36",
+      "priorReferenceSHA256": "941d9595660c4c392f907ef2c3350fa8ffefc49184df6daa89d7c662fca8229c",
+      "sourceMessageIds": [
+        "0df856a5-0a8f-4baa-b554-8796e83188c8",
+        "a31915c9-df21-4a99-8c23-7234253e838b"
+      ],
+      "instructionTimeUtc": "2026-10-22T08:49:42.348Z",
+      "sandboxReferences": []
+    }
+  ],
+  "images": [
+    {
+      "file": "Serin_v21_HipSeam_Comparison.png",
+      "sha256": "482fc98f1be2c8253cd53b47412547acbd84338332f22c85e122328229dbfd8c",
+      "caption": "v15 왼쪽 / v21 오른쪽. 같은 후면 카메라에서 저장된 모델을 렌더한 원본 비교 이미지."
+    },
+    {
+      "file": "Serin_v21_FourView_BeforeAfter.png",
+      "sha256": "58256aac43393092d9f16884a8e070c033894c8b72c0b37c3f7688d2bbf8e53c",
+      "caption": "v15와 v21의 정면·후면·좌우 사선 비교를 담은 기존 원본 이미지."
+    }
+  ],
+  "missing": "v22 최종 수정 GLB와 화면은 확인되지 않았습니다. v21 모델은 로컬 검토용으로 보관합니다. Blender·Unity 왕복과 전체 동작 접촉 검증은 해당 보고서의 범위 밖입니다."
+}

@@ -1,0 +1,4 @@
+2026-10-12T10:12:44.8506516+09:00
+scene=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity
+prefab=Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab
+playing=false; sceneDirty=false; placements=0

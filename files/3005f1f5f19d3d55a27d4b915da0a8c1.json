@@ -1,0 +1,52 @@
+[
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\GamePerf53Temporary\\GamePerf53FinalProbe.cs",
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-03\\game-performance-hardening\\backup\\final26_retired_tools\\Runtime\\GamePerf53FinalProbe.cs",
+    "sha": "3298EA2DEE9936085EA4EB7FE813239351F989BB9BE2629FDC2D4D3A35769A75"
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\GamePerf53Temporary\\GamePerf53FinalProbe.cs.meta",
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-03\\game-performance-hardening\\backup\\final26_retired_tools\\Runtime\\GamePerf53FinalProbe.cs.meta",
+    "sha": "947628385FB0AE3427178867071B39B55BB3731535C2214903C9E6441AF0B896"
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\GamePerf53Temporary\\GamePerf53HeadTiming.cs",
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-03\\game-performance-hardening\\backup\\final26_retired_tools\\Runtime\\GamePerf53HeadTiming.cs",
+    "sha": "560D179B5EAC2CAD6E83C7CAF7B498DC027D0D839DBA994CA38CFC5340E42F03"
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\GamePerf53Temporary\\GamePerf53HeadTiming.cs.meta",
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-03\\game-performance-hardening\\backup\\final26_retired_tools\\Runtime\\GamePerf53HeadTiming.cs.meta",
+    "sha": "30035D04CEA45C66ED4AAABCDEC311A7768A42DB93E0F524DFB9290280BCDC44"
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\GamePerf53Temporary\\PortraitAcceptanceHelper.cs",
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-03\\game-performance-hardening\\backup\\final26_retired_tools\\Runtime\\PortraitAcceptanceHelper.cs",
+    "sha": "05FD15448F783A7AA1E15B9397BE6B7E0FC3E0474B99F41E1FDF12AFDA72ED28"
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\GamePerf53Temporary\\PortraitAcceptanceHelper.cs.meta",
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-03\\game-performance-hardening\\backup\\final26_retired_tools\\Runtime\\PortraitAcceptanceHelper.cs.meta",
+    "sha": "0BA23DDA3350D96F81E89F0F409D39F71DD9D9C7D634C5493E953A31ABD309A2"
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\GamePerf53Temporary\\GamePerf53FinalBridge.cs",
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-03\\game-performance-hardening\\backup\\final26_retired_tools\\Editor\\GamePerf53FinalBridge.cs",
+    "sha": "08E8CD324780DB78E75708556EB2985E5B58D5938650908CB8570B2C192EC994"
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\GamePerf53Temporary\\GamePerf53FinalBridge.cs.meta",
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-03\\game-performance-hardening\\backup\\final26_retired_tools\\Editor\\GamePerf53FinalBridge.cs.meta",
+    "sha": "51808662EEEC2C5EE3C437F6D53E935D526704453B5BF3A896B3C7C01374E413"
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\GamePerf53Temporary\\GamePerf53FinalFrozenManifest.cs",
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-03\\game-performance-hardening\\backup\\final26_retired_tools\\Editor\\GamePerf53FinalFrozenManifest.cs",
+    "sha": "3ECBA875CB907ADBB3055E60DDB34E0C8EC6A9255BE13EF87BB92C462C098A48"
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\GamePerf53Temporary\\GamePerf53FinalFrozenManifest.cs.meta",
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-11-03\\game-performance-hardening\\backup\\final26_retired_tools\\Editor\\GamePerf53FinalFrozenManifest.cs.meta",
+    "sha": "568DF2DCF5D46887F502ECD579FE570C502EEBCAF48E6A2B6E70B11B1EC3FDBD"
+  }
+]

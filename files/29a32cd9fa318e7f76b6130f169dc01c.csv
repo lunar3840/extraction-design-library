@@ -1,0 +1,5 @@
+phase,frame,verdict,available,status,parts,gun,held,mirror_checks,mirror_mismatches,refit_injected,refit_attempted_jobs,refit_precommit_parts,refit_fallbacks,serial_refits,distance_injected,distance_parts,unverified_groups
+before_refit_fault,1279,healthy,1,Finite current source registry ready; source contacts remain unresolved,75,-11978136,-11979292,277368,0,0,0,-1,0,139,0,24,0
+refit_worker_fault,1280,zero_parallel_commit_serial_fallback_mirror_equal,1,Finite current source registry ready; source contacts remain unresolved,75,-11978136,-11979292,277368,0,1,127,0,1,139,0,25,0
+distance_worker_fault,1292,apply_false_unavailable_unverified,0,UNVERIFIED Apply source/current registry unavailable,75,-11978136,-11979292,0,0,0,0,-1,0,33,1,9,40
+post_rebind,1302,healthy_mirror_equal,1,Finite current source registry ready; source contacts remain unresolved,75,-11978136,-11979292,247783,0,0,0,-1,0,13,0,0,0

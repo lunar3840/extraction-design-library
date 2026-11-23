@@ -1,0 +1,11 @@
+Final verification completed 2026-10-23 (Asia/Seoul).
+PASS all seven current source files match validated staged versions.
+PASS AllowRaidChangesForTesting default remains true.
+PASS runtime 18, physical-chip Editor 71, UI Editor 27, native UI 4 checks; zero scoped failures.
+PASS scoped runtime_errors.txt is empty.
+PASS before/after images and final independent review are present.
+PASS three temporary evidence helpers removed; no ChipRaidTest request files remain in Unity Library.
+PASS Runtime/Editor assemblies were rebuilt after cleanup at 2026-10-22 20:43:43/20:43:51.
+PASS native screenshot confirms StageA_Relay_Blockout_v08 in Edit mode without an unsaved star.
+No new executable build was produced.
+Separate observation: current editor displays "Particle Velocity curves must all be in the same mode". Origin is unconfirmed and no particle-system/map code was changed in this chip-access task. This is not a claim that the whole project's console is error-free.

@@ -1,0 +1,2 @@
+PASS shared compile and direct equipment rules; no Play, scene selection, root count or dirty flag changes.
+scene=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity dirty=False roots=4 time=2026-10-16T03:47:03.5870345+09:00

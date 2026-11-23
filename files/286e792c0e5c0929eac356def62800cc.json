@@ -1,0 +1,18 @@
+{
+  "verifiedAt": "2026-11-01T19:22:35.454Z",
+  "status": "succeeded",
+  "url": "https://extraction-design-library-ehoji.ehojin0415.chatgpt.site",
+  "version": 19,
+  "versionId": "appgprj_6ada69960b9c8191864d71a4e05fac66~appgver_431c657903bc8191a6d67d3f0669569c",
+  "commit": "b539c67e7697008de25750fdf21dff986efe7cca",
+  "deploymentId": "appgdep_6ae7910bea8c819192eca331243fc92a",
+  "environmentRevision": 11,
+  "sourceChanges": [
+    "/index.html",
+    "/organization-ui.js",
+    "/work-summary.js",
+    "/work-summary.css"
+  ],
+  "existingRecordIndexUnchangedBeforeOwnRecord": true,
+  "cloudSchedulingChanged": false
+}

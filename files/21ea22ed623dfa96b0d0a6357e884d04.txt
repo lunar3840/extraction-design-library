@@ -1,0 +1,22 @@
+PASS edel ordinary full chip near1%, observed=205/20000
+PASS edel safe full chip near3%, observed=596/20000
+PASS edel boss full chip near8%, observed=1598/20000
+PASS edel safes improve chip chance; bosses and containers retain both hit and miss outcomes
+PASS edel safes raise high-value frequency without a high-value guarantee: ordinary=10949, safe=14133, safeMisses=5867
+PASS liv ordinary full chip near1%, observed=209/20000
+PASS liv safe full chip near3%, observed=610/20000
+PASS liv boss full chip near8%, observed=1615/20000
+PASS liv safes improve chip chance; bosses and containers retain both hit and miss outcomes
+PASS liv safes raise high-value frequency without a high-value guarantee: ordinary=10949, safe=14133, safeMisses=5867
+PASS uui ordinary full chip near1%, observed=205/20000
+PASS uui safe full chip near3%, observed=617/20000
+PASS uui boss full chip near8%, observed=1597/20000
+PASS uui safes improve chip chance; bosses and containers retain both hit and miss outcomes
+PASS uui safes raise high-value frequency without a high-value guarantee: ordinary=10949, safe=14133, safeMisses=5867
+PASS only Edel/Liv/Uui are surface chip cargo; Serin excluded
+PASS unselected/unknown boss grants no companion bonus: N1
+PASS unselected/unknown boss grants no companion bonus: N5
+PASS unselected/unknown boss grants no companion bonus: unknown
+PASS unselected/unknown boss grants no companion bonus: 
+PASS unmapped low-risk residential stock remains outside the chip acquisition pools
+

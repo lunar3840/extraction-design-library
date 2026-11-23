@@ -1,0 +1,241 @@
+{
+  "status": "VISUALLY_REVIEWED_IMAGE_CONCEPTS",
+  "productCount": 16,
+  "outfitViews": 32,
+  "characters": [
+    "Edel",
+    "Serin"
+  ],
+  "layoutPerCharacter": {
+    "rows": [
+      "C",
+      "B",
+      "A",
+      "S"
+    ],
+    "columns": [
+      "mobility",
+      "balanced",
+      "heavy",
+      "maintenance"
+    ],
+    "figures": 16
+  },
+  "files": [
+    {
+      "file": "before_balanced_only.png",
+      "width": 1402,
+      "height": 1122,
+      "format": "PNG",
+      "bytes": 2210080,
+      "sha256": "86bac26101da9a434ebc77b1cf5f5ffc283cd730919a23c73e8f9f94005bcc42"
+    },
+    {
+      "file": "after_edel16.png",
+      "width": 1024,
+      "height": 1536,
+      "format": "PNG",
+      "bytes": 2339496,
+      "sha256": "fa377bff7284483f99d3a774491a2dff4852300cb84f2be8d0baf099a3a85378"
+    },
+    {
+      "file": "after_serin16.png",
+      "width": 1024,
+      "height": 1536,
+      "format": "PNG",
+      "bytes": 2305455,
+      "sha256": "7012987855d47378e7de0ca98c1b123ccf7b4b6cff9937aa92c6f9632a7576c7"
+    }
+  ],
+  "priorReferenceMatches": true,
+  "reviewMethod": "Manual visual review of generated boards plus file decoding/hash checks; cell flags are visual checks, not inferred from a 3D model",
+  "cells": [
+    {
+      "id": "C1",
+      "name": "탐색 경량복",
+      "tier": "C",
+      "role": "mobility",
+      "edelCellPresent": true,
+      "serinCellPresent": true,
+      "visualRoleFeature": "Compact torso carrier, few hip modules, open joints",
+      "sameProductDesignDirection": true,
+      "notExactGeometryValidation": true
+    },
+    {
+      "id": "C2",
+      "name": "회수 방탄조끼",
+      "tier": "C",
+      "role": "balanced",
+      "edelCellPresent": true,
+      "serinCellPresent": true,
+      "visualRoleFeature": "Standard tier garment with moderate hip layers",
+      "sameProductDesignDirection": true,
+      "notExactGeometryValidation": true
+    },
+    {
+      "id": "C3",
+      "name": "철판 보강복",
+      "tier": "C",
+      "role": "heavy",
+      "edelCellPresent": true,
+      "serinCellPresent": true,
+      "visualRoleFeature": "Broader layered torso/shoulder/hip protection, forearm and shin guards",
+      "sameProductDesignDirection": true,
+      "notExactGeometryValidation": true
+    },
+    {
+      "id": "C4",
+      "name": "작업반 정비복",
+      "tier": "C",
+      "role": "maintenance",
+      "edelCellPresent": true,
+      "serinCellPresent": true,
+      "visualRoleFeature": "Tool roll and spare panel / accessible service construction",
+      "sameProductDesignDirection": true,
+      "notExactGeometryValidation": true
+    },
+    {
+      "id": "B1",
+      "name": "훈련 경량복",
+      "tier": "B",
+      "role": "mobility",
+      "edelCellPresent": true,
+      "serinCellPresent": true,
+      "visualRoleFeature": "Compact torso carrier, few hip modules, open joints",
+      "sameProductDesignDirection": true,
+      "notExactGeometryValidation": true
+    },
+    {
+      "id": "B2",
+      "name": "순찰 방탄복",
+      "tier": "B",
+      "role": "balanced",
+      "edelCellPresent": true,
+      "serinCellPresent": true,
+      "visualRoleFeature": "Standard tier garment with moderate hip layers",
+      "sameProductDesignDirection": true,
+      "notExactGeometryValidation": true
+    },
+    {
+      "id": "B3",
+      "name": "구문명 진압복",
+      "tier": "B",
+      "role": "heavy",
+      "edelCellPresent": true,
+      "serinCellPresent": true,
+      "visualRoleFeature": "Broader layered torso/shoulder/hip protection, forearm and shin guards",
+      "sameProductDesignDirection": true,
+      "notExactGeometryValidation": true
+    },
+    {
+      "id": "B4",
+      "name": "수색대 야전복",
+      "tier": "B",
+      "role": "maintenance",
+      "edelCellPresent": true,
+      "serinCellPresent": true,
+      "visualRoleFeature": "Tool roll and spare panel / accessible service construction",
+      "sameProductDesignDirection": true,
+      "notExactGeometryValidation": true
+    },
+    {
+      "id": "A1",
+      "name": "군용 정찰복",
+      "tier": "A",
+      "role": "mobility",
+      "edelCellPresent": true,
+      "serinCellPresent": true,
+      "visualRoleFeature": "Compact torso carrier, few hip modules, open joints",
+      "sameProductDesignDirection": true,
+      "notExactGeometryValidation": true
+    },
+    {
+      "id": "A2",
+      "name": "군용 전투복",
+      "tier": "A",
+      "role": "balanced",
+      "edelCellPresent": true,
+      "serinCellPresent": true,
+      "visualRoleFeature": "Standard tier garment with moderate hip layers",
+      "sameProductDesignDirection": true,
+      "notExactGeometryValidation": true
+    },
+    {
+      "id": "A3",
+      "name": "돌입 방탄복",
+      "tier": "A",
+      "role": "heavy",
+      "edelCellPresent": true,
+      "serinCellPresent": true,
+      "visualRoleFeature": "Broader layered torso/shoulder/hip protection, forearm and shin guards",
+      "sameProductDesignDirection": true,
+      "notExactGeometryValidation": true
+    },
+    {
+      "id": "A4",
+      "name": "공병 정비복",
+      "tier": "A",
+      "role": "maintenance",
+      "edelCellPresent": true,
+      "serinCellPresent": true,
+      "visualRoleFeature": "Tool roll and spare panel / accessible service construction",
+      "sameProductDesignDirection": true,
+      "notExactGeometryValidation": true
+    },
+    {
+      "id": "S1",
+      "name": "특수부대 경량복",
+      "tier": "S",
+      "role": "mobility",
+      "edelCellPresent": true,
+      "serinCellPresent": true,
+      "visualRoleFeature": "Compact torso carrier, few hip modules, open joints",
+      "sameProductDesignDirection": true,
+      "notExactGeometryValidation": true
+    },
+    {
+      "id": "S2",
+      "name": "특수작전 방탄복",
+      "tier": "S",
+      "role": "balanced",
+      "edelCellPresent": true,
+      "serinCellPresent": true,
+      "visualRoleFeature": "Standard tier garment with moderate hip layers",
+      "sameProductDesignDirection": true,
+      "notExactGeometryValidation": true
+    },
+    {
+      "id": "S3",
+      "name": "저거넛 방탄복",
+      "tier": "S",
+      "role": "heavy",
+      "edelCellPresent": true,
+      "serinCellPresent": true,
+      "visualRoleFeature": "Broader layered torso/shoulder/hip protection, forearm and shin guards",
+      "sameProductDesignDirection": true,
+      "notExactGeometryValidation": true
+    },
+    {
+      "id": "S4",
+      "name": "원정대 장기작전복",
+      "tier": "S",
+      "role": "maintenance",
+      "edelCellPresent": true,
+      "serinCellPresent": true,
+      "visualRoleFeature": "Tool roll and spare panel / accessible service construction",
+      "sameProductDesignDirection": true,
+      "notExactGeometryValidation": true
+    }
+  ],
+  "specificCorrections": [
+    "Edel S2 restored to asymmetric technical waistcoat instead of patrol bolero",
+    "C4/B4/A4/S4 service tool-roll/spare-panel accents clarified",
+    "A2 military shin/boot palette corrected"
+  ],
+  "limits": [
+    "No 3D model generation or fitting",
+    "No exact body/bone/UV/geometry equivalence test",
+    "No Unity changes or protective-stat/drop changes",
+    "User design approval pending"
+  ]
+}

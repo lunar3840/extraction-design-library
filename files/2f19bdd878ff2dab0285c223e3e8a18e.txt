@@ -1,0 +1,44 @@
+before shader path=Assets/Escape/Art/SurfaceWeathering/WeatheredLit.shader count=70
+_WeatherStrength
+_WeatherRust
+_WeatherDirt
+_WeatherStreaks
+_WeatherMoss
+_WeatherFading
+_WeatherScale
+_WeatherSeed
+_WeatherMinY
+_WeatherHeight
+_WeatherMaterial
+_WeatherPreserveD09
+_D09WeatherTint
+_D09WeatherAmount
+_D09WeatherScale
+_D09RainAmount
+_D09FootDamp
+_D09MapContrast
+_D09MapMean
+_D09AgeSeed
+fresh strength=0.65 D09=True
+after forceimport shader path=Assets/Escape/Art/SurfaceWeathering/WeatheredLit.shader count=70
+_WeatherStrength
+_WeatherRust
+_WeatherDirt
+_WeatherStreaks
+_WeatherMoss
+_WeatherFading
+_WeatherScale
+_WeatherSeed
+_WeatherMinY
+_WeatherHeight
+_WeatherMaterial
+_WeatherPreserveD09
+_D09WeatherTint
+_D09WeatherAmount
+_D09WeatherScale
+_D09RainAmount
+_D09FootDamp
+_D09MapContrast
+_D09MapMean
+_D09AgeSeed
+fresh strength=0.65 D09=True

@@ -1,0 +1,1 @@
+PASS: N1 and N5 Game View screenshots captured through ScreenCapture.

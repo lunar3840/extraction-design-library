@@ -1,0 +1,299 @@
+{
+  "review_status": "PRESERVED_WITH_STALE_TEST_CONTRACTS",
+  "sample_start_kst": "2026-10-19T15:20:51.0887371+09:00",
+  "sample_end_kst": "2026-10-19T15:24:44.5874373+09:00",
+  "baseline_live_pass_kst": "2026-10-19T15:10:35+09:00",
+  "scope": "Read-only production versus validated clone. No Unity launch, no production/clone edits, no save access. Later gun/ammunition features are outside loot delivery scope.",
+  "sampled_files": [
+    {
+      "relative_path": "Resources/ItemCatalog.json",
+      "clone_path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\loot-production-validation\\Assets\\Escape\\Resources\\ItemCatalog.json",
+      "clone_sha256": "F090712BE4403C233E8E69778C21919959894C06A0ED1975B6315B81C77FBF55",
+      "production_path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\ItemCatalog.json",
+      "production_sha256": "8A9D86424259C014D0C6A77B0D69602383B6FDF000EAC6AC6813EDC42F962984",
+      "production_bytes": 207026,
+      "production_last_write_utc": "2026-10-19T05:27:11.5902753Z",
+      "initial_sha256": "8A9D86424259C014D0C6A77B0D69602383B6FDF000EAC6AC6813EDC42F962984",
+      "stable_since_initial_sample": true
+    },
+    {
+      "relative_path": "Resources/ShopCatalog.json",
+      "clone_path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\loot-production-validation\\Assets\\Escape\\Resources\\ShopCatalog.json",
+      "clone_sha256": "B11CE5F01CFA7C9D3A8DDF7071401951451DA26A3BC2977BA3BD03F2406781BB",
+      "production_path": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\ShopCatalog.json",
+      "production_sha256": "6562D8D442360574777D6D780BC21C50098616B63146A2FFEB309F0E73755584",
+      "production_bytes": 10292,
+      "production_last_write_utc": "2026-10-19T05:25:36.2999166Z",
+      "initial_sha256": "6562D8D442360574777D6D780BC21C50098616B63146A2FFEB309F0E73755584",
+      "stable_since_initial_sample": true
+    },
+    {
+      "relative_path": "Runtime/Loot/LootCatalog.cs",
+      "clone_path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\loot-production-validation\\Assets\\Escape\\Runtime\\Loot\\LootCatalog.cs",
+      "clone_sha256": "6046DE8286DBCC2D609B3D3F4149B6EC26FF997F16DDEB4212DC273F3F91471F",
+      "production_path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Loot\\LootCatalog.cs",
+      "production_sha256": "33B47703DECA9DD01FF1F5E4D275ED09F8A713D1054A09D690257A8EB83889DF",
+      "production_bytes": 17271,
+      "production_last_write_utc": "2026-10-19T05:25:36.7360275Z",
+      "initial_sha256": "33B47703DECA9DD01FF1F5E4D275ED09F8A713D1054A09D690257A8EB83889DF",
+      "stable_since_initial_sample": true
+    },
+    {
+      "relative_path": "Runtime/Loot/LootInteractor.cs",
+      "clone_path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\loot-production-validation\\Assets\\Escape\\Runtime\\Loot\\LootInteractor.cs",
+      "clone_sha256": "BEF69F5CBE91CF28ED348D755E4F7D028E27148D93C1E2CFDA322846BF13B0E5",
+      "production_path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Loot\\LootInteractor.cs",
+      "production_sha256": "0A2A268BC45098D87E698B1FC0E1A996E5D9FB7E25B3CCAF32D26FE46CF6D89D",
+      "production_bytes": 20319,
+      "production_last_write_utc": "2026-10-19T05:23:51.4288985Z",
+      "initial_sha256": "0A2A268BC45098D87E698B1FC0E1A996E5D9FB7E25B3CCAF32D26FE46CF6D89D",
+      "stable_since_initial_sample": true
+    },
+    {
+      "relative_path": "Runtime/Stage/SessionInventoryPresentation.cs",
+      "clone_path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\loot-production-validation\\Assets\\Escape\\Runtime\\Stage\\SessionInventoryPresentation.cs",
+      "clone_sha256": "093C72D0A6DD12717942D3EA289B5063D2D95CD65E43ACDC44AF52E2ADE5186B",
+      "production_path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Stage\\SessionInventoryPresentation.cs",
+      "production_sha256": "646C4FB773888F2F9CC1B2845BD50C3BDE622611443569FCE598CEB8B9FD93EB",
+      "production_bytes": 15691,
+      "production_last_write_utc": "2026-10-19T05:28:20.6247506Z",
+      "initial_sha256": "646C4FB773888F2F9CC1B2845BD50C3BDE622611443569FCE598CEB8B9FD93EB",
+      "stable_since_initial_sample": true
+    }
+  ],
+  "preservation": {
+    "active_trade_count": 32,
+    "active_trade_ids": [
+      "trade_c_001",
+      "trade_c_005",
+      "trade_c_006",
+      "trade_c_018",
+      "trade_c_025",
+      "trade_c_027",
+      "trade_b_003",
+      "trade_b_006",
+      "trade_b_023",
+      "trade_c_017",
+      "trade_c_026",
+      "trade_b_012",
+      "trade_b_013",
+      "trade_b_016",
+      "trade_b_017",
+      "trade_a_006",
+      "trade_c_004",
+      "trade_c_008",
+      "trade_c_015",
+      "trade_c_016",
+      "trade_b_005",
+      "trade_b_008",
+      "trade_b_009",
+      "trade_a_018",
+      "trade_a_015",
+      "trade_a_016",
+      "trade_s_001",
+      "trade_s_002",
+      "trade_m_001",
+      "trade_m_002",
+      "trade_m_003",
+      "trade_m_004"
+    ],
+    "active_trade_sequence_identical": true,
+    "existing_trade_definition_count": 78,
+    "changed_existing_trade_definitions": [],
+    "machine_material_ids_present": [
+      "trade_m_001",
+      "trade_m_002",
+      "trade_m_003",
+      "trade_m_004"
+    ],
+    "all_original_item_ids_present": true,
+    "removed_item_ids": [],
+    "table_and_source_weights_identical": true,
+    "enemy_role_and_draw_implementation_identical": true,
+    "research_training_protected_transactions_byte_identical": true,
+    "item_purpose_research_source_tracking_unchanged": true,
+    "dependencies": [
+      {
+        "relative_path": "Runtime/Basecamp/ResearchCatalog.cs",
+        "clone_sha256": "F3739EAC9969828637A3EF5D40969E13E3D77ABA0AEA56855D3BA7CA30A6F714",
+        "production_sha256": "F3739EAC9969828637A3EF5D40969E13E3D77ABA0AEA56855D3BA7CA30A6F714",
+        "same": true
+      },
+      {
+        "relative_path": "Runtime/Save/ProfileResearch.cs",
+        "clone_sha256": "15EA3B67501393D7FC77CB405460EA8EA87F78C42C834C98182EA34D8FCC25CD",
+        "production_sha256": "15EA3B67501393D7FC77CB405460EA8EA87F78C42C834C98182EA34D8FCC25CD",
+        "same": true
+      },
+      {
+        "relative_path": "Runtime/Stage/SessionGrowthView.cs",
+        "clone_sha256": "F859690371D50068F9FB4667F05FB34F5373309D9DBDC49C340E25BC595F9861",
+        "production_sha256": "F859690371D50068F9FB4667F05FB34F5373309D9DBDC49C340E25BC595F9861",
+        "same": true
+      },
+      {
+        "relative_path": "Runtime/Loot/LootItemVisuals.cs",
+        "clone_sha256": "F7306970ACD007998F668E656A462507FCC504694C3139AA9C9720B2468934A5",
+        "production_sha256": "F7306970ACD007998F668E656A462507FCC504694C3139AA9C9720B2468934A5",
+        "same": true
+      },
+      {
+        "relative_path": "Runtime/Loot/GroundLootDrop.cs",
+        "clone_sha256": "6392B28C84CD75191C08DEACD3AC90C93D3D935062C0BCF3BF4B4DF5EB01FB57",
+        "production_sha256": "6392B28C84CD75191C08DEACD3AC90C93D3D935062C0BCF3BF4B4DF5EB01FB57",
+        "same": true
+      },
+      {
+        "relative_path": "Runtime/Save/BasecampTransactions.cs",
+        "clone_sha256": "9F9B17A9F045C4124A61CB613C19846B6B66137094FBBCCA4DFEBE93E54E722E",
+        "production_sha256": "9F9B17A9F045C4124A61CB613C19846B6B66137094FBBCCA4DFEBE93E54E722E",
+        "same": true
+      },
+      {
+        "relative_path": "Runtime/Save/ProfileSession.cs",
+        "clone_sha256": "7005768B7687A6BEC3D8824C7F7F46788830BD62AAEFAA951EBE495E59A45463",
+        "production_sha256": "910BB473ECBE029495E8E1FDE987BE2D8565728B557B60BAF9F508B41E7C0454",
+        "same": false
+      },
+      {
+        "relative_path": "Runtime/Save/Core/ProfileData.cs",
+        "clone_sha256": "A294122892D0270EC33042BE62B9095AF746E291BA5363ADAB88DC4E05592512",
+        "production_sha256": "A294122892D0270EC33042BE62B9095AF746E291BA5363ADAB88DC4E05592512",
+        "same": true
+      }
+    ],
+    "asset_subtrees": [
+      {
+        "subtree": "Resources/LootArt",
+        "baseline_file_count": 9,
+        "production_file_count": 9,
+        "changed_or_removed": []
+      },
+      {
+        "subtree": "Resources/UI/ItemIcons",
+        "baseline_file_count": 82,
+        "production_file_count": 82,
+        "changed_or_removed": []
+      },
+      {
+        "subtree": "Art/Loot/External",
+        "baseline_file_count": 64,
+        "production_file_count": 64,
+        "changed_or_removed": []
+      }
+    ],
+    "old_shop_count": 63,
+    "current_shop_count": 77,
+    "modified_original_shop_entries": [],
+    "baseline_med_stock": [
+      {
+        "id": "med_injector_c",
+        "requiredStage": "",
+        "limit": 4,
+        "enabled": true,
+        "order": 61
+      },
+      {
+        "id": "med_tourniquet_b",
+        "requiredStage": "",
+        "limit": 3,
+        "enabled": true,
+        "order": 62
+      },
+      {
+        "id": "med_field_kit_b",
+        "requiredStage": "",
+        "limit": 2,
+        "enabled": true,
+        "order": 63
+      }
+    ],
+    "finite_stock_note": "Existing 63 product rows, purchase transaction implementation and shop-cycle CompleteCycle reset are unchanged. ProfileSession.cs differs only in death/grave weapon magazine reset fields (ammoMultiplier/loadedRounds), outside finite stock. ShopCatalog.Unlimited now delegates to AmmoRules.TryResolve. The current AmmoCatalog has exactly 24 ammunition-family/tier IDs and no medical/trade ID, so all previous finite medical/non-ammo products stay finite. Base ammo was already unlimited.",
+    "shop_cycle_reset_identical": true,
+    "registered_ammo_count": 24,
+    "registered_non_ammo_ids": []
+  },
+  "external_gun_changes": {
+    "baseline_item_count": 169,
+    "current_item_count": 195,
+    "added_item_ids": [
+      "DMR_001",
+      "DMR_002",
+      "DMR_003",
+      "MG_001",
+      "MG_002",
+      "MG_003",
+      "item_017_t2",
+      "item_017_t3",
+      "item_017_t4",
+      "item_017_t5",
+      "item_017_t6",
+      "item_018_t2",
+      "item_018_t3",
+      "item_018_t4",
+      "item_018_t5",
+      "item_018_t6",
+      "item_019_t2",
+      "item_019_t3",
+      "item_019_t4",
+      "item_019_t5",
+      "item_019_t6",
+      "item_020_t2",
+      "item_020_t3",
+      "item_020_t4",
+      "item_020_t5",
+      "item_020_t6"
+    ],
+    "new_active_count_from_explicit_arrays": 100,
+    "loot_catalog_version_before": 1,
+    "loot_catalog_version_after": 2,
+    "changes": "20 ammo tier IDs and 6 DMR/MG catalog definitions; 32 firearms plus ammo variants join ActiveItemIds and ammo caches. Existing non-ammo theme draws and every enemy draw stay identical. New ammo cache tier/quantity and gun rewards require gun task validation, not credited to loot task."
+  },
+  "findings": [
+    {
+      "severity": "integration_test_contract",
+      "files": [
+        "Editor/LootEconomyChecks.cs:41",
+        "Editor/LootEconomyChecks.cs:50",
+        "Editor/LootEconomyChecks.cs:51",
+        "Editor/LootEconomyChecks.cs:149"
+      ],
+      "detail": "Production tests still require 48 active IDs, 4 ammo, no AR_001, empty firearm source and 48-ID coverage. New gun task changes these contracts to 100 active IDs and firearm/ammo-tier caches. Unmodified tests will fail despite preserved junk/material behavior.",
+      "action": "Gun integration owner should preserve material/transaction checks and update only pool/coverage/source expectations to new scope, then run combined Unity validation."
+    },
+    {
+      "severity": "integration_test_contract",
+      "files": [
+        "Editor/InventoryChecks.cs:31",
+        "Editor/BasecampChecks.cs:21"
+      ],
+      "detail": "Old exact counts 169 item definitions and 63 shop products now differ from 195 and 77. Existing 169 IDs and all original 63 product rows remain present and unchanged except firearm/ammo descriptions/stats.",
+      "action": "Gun integration owner should update obsolete count assertions with precise new-ID coverage; do not weaken stock/transaction assertions."
+    }
+  ],
+  "compile": {
+    "kind": "Roslyn compile only, no Unity runtime or editor execution",
+    "source_file_count": 172,
+    "started_kst": "2026-10-19T15:23:10.3273501+09:00",
+    "artifact": "C:\\Users\\ehoji\\AppData\\Local\\Temp\\escape-loot-after-compile\\LateIntegrationRuntime.dll",
+    "artifact_bytes": 1037824,
+    "artifact_write_kst": "2026-10-19T15:23:19.7624983+09:00",
+    "error_count": 0,
+    "warning_count": 20,
+    "stderr": null,
+    "stdout_file": "C:\\Users\\ehoji\\AppData\\Local\\Temp\\escape-loot-after-compile\\compile-late-runtime.txt",
+    "response_file": "C:\\Users\\ehoji\\AppData\\Local\\Temp\\escape-loot-after-compile\\compile-late-runtime.rsp",
+    "artifact_sha256": "2A36F5AD8ABF2A0F86FBCDA116753522B1F3B15B86F12505345117ECCA3EB98F"
+  },
+  "limitations": [
+    "Latest production was not live tested by this review. Validated clone live PASS remains a separate earlier result.",
+    "Concurrent work continues. Findings apply to sampled hashes; five target files are checked again at review end.",
+    "Compiler reads current Runtime only. Compiler success does not validate new weapon balance, animation, ammo distribution or runtime lifecycle."
+  ],
+  "additional_dependency_diff_notes": [
+    "Runtime/Basecamp/ShopCatalog.cs: Unlimited delegates to AmmoRules.TryResolve. Existing 63 finite/non-ammo products are preserved; only ammo variants gain old ammo unlimited behavior.",
+    "Runtime/Save/ProfileSession.cs: Grave weapon reset additionally clears ammoMultiplier and loadedRounds. Extract/CompleteCycle stock reset implementation is unchanged.",
+    "LootArtGeometry is a nested class in Runtime/Loot/LootItemVisuals.cs, whose entire file is byte-identical to clone."
+  ],
+  "coordination": "Parent confirmed precise stale assertion locations and new 100/195/77 scope were delivered to gun task and coordination owner. Loot review made no source changes."
+}

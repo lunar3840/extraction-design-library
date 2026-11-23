@@ -1,0 +1,127 @@
+{
+  "time": "2026-10-19T15:21:56.216775+09:00",
+  "pairs": [
+    {
+      "view": "tools_bench",
+      "before": "before_reconstructed_tools_bench.png",
+      "after": "after_tools_bench.png",
+      "beforeReconstructed": true,
+      "beforeSha256": "2F3A791514F57B46B0641DF266DBAD2F9B465585E0B65DFE97EA57494254FC6E",
+      "afterSha256": "8B05C2BE0010FAB81017877327940BF28EC774E48C305E11C0C6195746E2A57D"
+    },
+    {
+      "view": "e01_battery",
+      "before": "before_reconstructed_e01_battery.png",
+      "after": "after_e01_battery.png",
+      "beforeReconstructed": true,
+      "beforeSha256": "6C6A4AF4AFB81D54BAC687ED9672E6B698F34B0D3A6FDDE20BF69E50C98BD11F",
+      "afterSha256": "6CED03F815F05F25E79D398B73E358F97E87F885F3451272BDF755278367EC48"
+    },
+    {
+      "view": "s05_home",
+      "before": "before_reconstructed_s05_home.png",
+      "after": "after_s05_home.png",
+      "beforeReconstructed": true,
+      "beforeSha256": "F174C08A9043AD74B96A8D0ECBC5F7E6F840F3D8683C376244BA332A2901854A",
+      "afterSha256": "51D769FFEE7400F595A8FDE88EB1478FA05F59A8418F33E74A34C54E9BD6117E"
+    },
+    {
+      "view": "hall_control",
+      "before": "before_reconstructed_hall_control.png",
+      "after": "after_hall_control.png",
+      "beforeReconstructed": true,
+      "beforeSha256": "EDCC30379C2A481BE2620AA25D1B548DF84E27042F58482CE367D6626EEFFE21",
+      "afterSha256": "8DA6AE11B4BAED10C7CD512346E24434082D5A690FD825FF2E730082EE2905B2"
+    },
+    {
+      "view": "clinic_triage",
+      "before": "before_reconstructed_clinic_triage.png",
+      "after": "after_clinic_triage.png",
+      "beforeReconstructed": true,
+      "beforeSha256": "C51FB3DE59276AB430B791C2E110A96767025A29B079B07857E33AA37437AEFF",
+      "afterSha256": "789E46C51A3C23632EB91D73A7FE6924EFE60B929CC667331639F3DE1321C5B1"
+    },
+    {
+      "view": "clinic_records",
+      "before": "before_reconstructed_clinic_records.png",
+      "after": "after_clinic_records.png",
+      "beforeReconstructed": true,
+      "beforeSha256": "D01D2C000FAD57997FA052E5107D8B89755858A4CBA75F23BD6E8D72052928E8",
+      "afterSha256": "6CD8346212871954B45BC080C9D00139FC4A40B4D7B0C65B700659C656D89CEE"
+    },
+    {
+      "view": "parts_security",
+      "before": "before_reconstructed_parts_security.png",
+      "after": "after_parts_security.png",
+      "beforeReconstructed": true,
+      "beforeSha256": "5C1A990DE7B47DE344F109761ACC633E0440A188A0CD85A89500A80B93842032",
+      "afterSha256": "EF2BDF2C81A74C09E6C6976D114F2B1620D9B08FF02715A73401D269824FFC96"
+    },
+    {
+      "view": "inventory",
+      "before": "before_reconstructed_inventory.png",
+      "after": "after_inventory.png",
+      "beforeReconstructed": true,
+      "beforeSha256": "3F1265C64BCC957F2F0499EAC815DB15C621950B0F8D4A2D00ABBC950AF0B82E",
+      "afterSha256": "1B7F829322A2CC87DE51E4CE7186378446F37652476A568DD557CD1C22CE3EF7"
+    },
+    {
+      "view": "research",
+      "before": "before_reconstructed_research.png",
+      "after": "after_research.png",
+      "beforeReconstructed": true,
+      "beforeSha256": "2A02FC3E35D3D6367812C95844377E65D7972816119A911532EB0842C7ABE7E4",
+      "afterSha256": "32C27DDABC49B4D31B65F62CE51741CB5782D3D4BBC3D730766E701DB8652E9C"
+    },
+    {
+      "view": "trade_a_006",
+      "before": "tripo_refinement/before/before_trade_a_006.png",
+      "after": "tripo_refinement/after_trade_a_006.png",
+      "beforeReconstructed": false,
+      "beforeSha256": "A6B1AC4ADC25D274EA22B04C7BDE3598C961D544167DFD88C9F0A452BC2ADF6C",
+      "afterSha256": "15916F2B8A83A1EB4C34E47EFD6067E70AB28A8656F623B3A4DDA45E0E56A265"
+    },
+    {
+      "view": "trade_b_023",
+      "before": "tripo_refinement/before/before_trade_b_023.png",
+      "after": "tripo_refinement/after_trade_b_023.png",
+      "beforeReconstructed": false,
+      "beforeSha256": "5495DE42F8D7F21AC915EF1169A624B157F8235829A7630131D70A62B9415D30",
+      "afterSha256": "CBB0D7139ED9773514302438B3DF3AAFDB281F72535F1B4D9EAA1D9302D19C11"
+    },
+    {
+      "view": "trade_c_018",
+      "before": "tripo_refinement/before/before_trade_c_018.png",
+      "after": "tripo_refinement/after_trade_c_018.png",
+      "beforeReconstructed": false,
+      "beforeSha256": "C2D95084677EA2F7F0E5246D5EC9FEC9089B49ABD3B4E0753BB84455BE3082FD",
+      "afterSha256": "96B9C8BE7385ABD81F0EF72BF080D776280F600E2EB3EB47C007D03FA41641BC"
+    },
+    {
+      "view": "trade_b_009",
+      "before": "tripo_refinement/before/before_trade_b_009.png",
+      "after": "tripo_refinement/after_trade_b_009.png",
+      "beforeReconstructed": false,
+      "beforeSha256": "9D58570ED548C8E61CDB3FF53FA60883182A82EFCE75E9257DF68CBAEB1923A7",
+      "afterSha256": "C2FDE0B5FE1B56DABDEE9E4ED61E0D6022AA953E51496EBFD9963D5082D04856"
+    },
+    {
+      "view": "trade_a_015",
+      "before": "tripo_refinement/before/before_trade_a_015.png",
+      "after": "tripo_refinement/after_trade_a_015.png",
+      "beforeReconstructed": false,
+      "beforeSha256": "51B6E620145F71176EDA876D8A0FA6ECCAAB01BF76C5FD4167EDC236B2EBB880",
+      "afterSha256": "1E8424EA929ADF63E24CB0E3753BBB026B45169161755424B3D03746FD62BABC"
+    },
+    {
+      "view": "trade_m_003",
+      "before": "tripo_refinement/before/before_trade_m_003.png",
+      "after": "tripo_refinement/after_trade_m_003.png",
+      "beforeReconstructed": false,
+      "beforeSha256": "31F95E5ABDED39FE036DFDFA598F91B06C8FB6813F4E98C1641EBBCAB69B8156",
+      "afterSha256": "21FEFC09B320E0EC478EA9F53E214E02656213FE4335F8B6A4A89119B927ED1B"
+    }
+  ],
+  "liveReportSha256": "1514538C05F7B402BB569AA72FB94337DDA30857A01667A1CF063617F2DC4DF7",
+  "scope": "Final loot snapshot + reviewed Tripo art. Separate later story/gun changes are not claimed as tested."
+}

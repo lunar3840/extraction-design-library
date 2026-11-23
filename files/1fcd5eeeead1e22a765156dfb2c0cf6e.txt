@@ -1,0 +1,2 @@
+2026-09-22 오전 3:06:58
+V14 collision repair: buildings=39 swRuins=14 repaired=39 missingFacade=0 legacyMatched=362 newlyDisabled=0 alreadyDisabled=362 exteriorLegacy=252 partitionLegacy=50 supportLegacy=60 roofCollisionAudit=0 wallModules=226 columnModules=156 colliders=532 skippedMeshes=0

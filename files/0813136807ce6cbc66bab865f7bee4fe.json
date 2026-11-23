@@ -1,0 +1,109 @@
+{
+  "status": "runtime_verified_original_scene_restored",
+  "project": "C:/UnityProject/escape",
+  "scope": "DMZ-inspired concise item hover presentation; current game rules unchanged",
+  "uiSystem": "IMGUI",
+  "fileChanges": [
+    {
+      "path": "Assets/Escape/Runtime/Inventory/InventoryTestWorld.cs",
+      "sha256": "F85888E3404AC79360B2215C2A0F2F01A46963B02D7E965A31F52BD498709470",
+      "matchesRecordedFinal": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Inventory/InventoryGridPresentation.cs",
+      "sha256": "F2C8B11D538860DCA2FDA8D7A2205DFC5A2B800A295E6308D968976C91E09768",
+      "matchesRecordedFinal": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Inventory/InventoryGlassView.cs",
+      "sha256": "63E50B863DA9D391EEB52CB155FC300C137A2F0D416824D46CA0235BAFC04BEB",
+      "matchesRecordedFinal": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Inventory/InventoryGroundPresentation.cs",
+      "sha256": "2C608C72A739DED815F54B8888BD8A7B94C6769A68BA14611BE7761EA38B5C8F",
+      "matchesRecordedFinal": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Loot/LootInteractor.cs",
+      "sha256": "8AB48722E0EF631D2EC8599BD5833867127D0DAA4C9BCC69D492004183FB9B9F",
+      "matchesRecordedFinal": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Inventory/InventoryHoverTooltip.cs",
+      "sha256": "179DCAA2C98FDDB90DBDA6840A34417A3399BA7D0A30B3BEBBAB5FAF812CCE99",
+      "matchesRecordedFinal": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Inventory/InventoryHoverOverlay.cs",
+      "sha256": "C5F30AA91CEDEE4EFB130AE54AD67C040612A8060720A66EE04A5113EF191F16",
+      "matchesRecordedFinal": true
+    },
+    {
+      "path": "Assets/Escape/Editor/InventoryHoverTooltipChecks.cs",
+      "sha256": "ABE7AB1DBB2889425BE01FEDCC4708642B3A27824A68FC4B3B89BD96DFBE7F64",
+      "matchesRecordedFinal": true
+    }
+  ],
+  "valueTiers": {
+    "implemented": [
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "basis": "existing per-unit ShopSellPrice thresholds",
+    "visuallyVerified": [
+      "V1",
+      "V2"
+    ],
+    "combatAmmoTiers": "T remains separate from V"
+  },
+  "tests": {
+    "runtimeCompileExit": 0,
+    "editorCompileExit": 0,
+    "editorCatalogAndLayoutChecks": 33,
+    "standaloneDllContractChecks": 25,
+    "editorLog": "editor_hover_checks.txt",
+    "standaloneLog": "compile/contract_checks.txt"
+  },
+  "runtimeProof": {
+    "scene": "InventoryTest",
+    "nativeImageSize": [
+      1587,
+      910
+    ],
+    "screenshotSource": "genuine Unity Play captures; JPG originals retained; PNG conversion only",
+    "finalScreenshots": [
+      "after_final_inventory_hover.png",
+      "after_final_medical_hover.png",
+      "after_final_details_suppressed.png",
+      "after_final_drag_move.png"
+    ],
+    "pass": [
+      "tooltip draws fully above bag",
+      "V1 ammo hover readable",
+      "V2 medical hover shows 300 Blanks, 0.8kg, 120/120",
+      "details open suppresses hover globally while pointer remains on item",
+      "one item drag move row1col6 to row3col6 preserves details and hides hover"
+    ],
+    "beforeAfterDifference": "automatic reload changed first loose ammo stack 50 to 20 and bag mass 24.4 to 23.8 kg; catalog and item data were not edited",
+    "restoredSceneScreenshot": "after_restored_work_scene.png"
+  },
+  "limits": [
+    "V3-V6 visual captures not taken; all V thresholds covered by code checks",
+    "storage/equipped/quickslot/loot reveal combinations wired and statically reviewed but not individually captured live",
+    "these evidence captures use the finite InventoryTest fixture, not a player save"
+  ],
+  "preservation": {
+    "runtimeInputBindingsChanged": false,
+    "catalogPricesOrTiersChanged": false,
+    "sceneAssetsChanged": false,
+    "mapsOrCharactersChanged": false,
+    "applicationClosedOrRestarted": false,
+    "playStopped": true,
+    "originalSceneRestore": "StageA_Relay_Blockout_v08 restored; no dirty asterisk; Play stopped; normal editor layout; native UI confirmed by root"
+  }
+}

@@ -1,0 +1,142 @@
+SIMULATED Unity Input System keyboard test; not OS input verification.
+key=V hold=0.8 seconds; production Update receives queued events.
+BEFORE
+UTC=2026-10-22T19:53:53.7671383Z
+scene=Assets/Escape/Scenes/SystemsTest.unity
+playing=True
+resolution=1920x1080
+rawScreen=1920x1080
+view=GameView #397834 position=(x:8.00, y:86.67, width:1584.00, height:778.67) target=1920x1080 focused=GameView
+page=Stage
+location=Stage
+panel=-1
+save=C:\UnityProject\escape\Library\UiKitEvidence\input-477c595d18d44c70ada8e84344394b0b
+position=(-119.00, 0.02, -129.00)
+inventory=False
+medicalWheelOpen=False
+medicalCaptureHold=False
+inventoryControllerEnabled=True
+applicationFocused=True
+useLiveInput=True
+simulationFrozen=False
+movementInputBlocked=False
+mapInputBlocked=False
+menuLocked=False
+frontEndBlocksGameplay=False
+abilitiesCanActivate=True
+abilitiesStatus=
+tacticalCooldown=0
+tacticalRemaining=0
+ultimateRemaining=0
+ultimateCharge=0
+keyboardPresent=True
+keyboardCurrent=Keyboard
+simulatedInputActive=False
+simulatedInputKey=none
+simulatedDynamicDown=False
+simulatedDynamicUp=False
+interactiveOwned=True
+interactiveSaveOwned=True
+textInputFocused=False
+isDragging=False
+dragQuantity=2147483647
+detailsVisible=False
+cameras=Player Camera pixels=1920x1080
+operationTimerFit=PASS (logical units; clock bounds=92x33, caption bounds=90x22)
+operationTimerClock30:00=(65.31, 28.01)
+operationTimerClock88:88=(69.35, 28.01)
+operationTimerActual=29:40 size=(66.56, 28.01)
+operationTimerCaption=(78.67, 15.97)
+scrap=5000
+shopPurchased[item_003]=0
+shopPurchased[item_009]=0
+shopPurchased[item_018]=0
+shopPurchased[item_018_t2]=0
+shopPurchased[item_018_t3]=0
+shopPurchased[item_018_t4]=0
+shopPurchased[item_018_t5]=0
+shopPurchased[item_018_t6]=0
+shopPurchased[med_injector_c]=0
+frame=4108
+vitals=health 75 stamina 100 hunger 98.97755 thirst 96.93266
+hoverCandidate= uid=
+hoverRegistrationFrame=-100
+bagViewportLogical=(x:621.67, y:386.67, width:450.00, height:450.00) scroll=(0.00, 0.00)
+itemCoordinates=game-render pixels from top left; native editor offset/zoom is separate
+item[0] med_injector_c uid=1c27067144c044d397ac2dedc2976bfb qty=1 page=0 grid=0,0 rotated=False logical=(x:621.67, y:386.67, width:74.00, height:74.00) centerPixels=(790.40, 508.40)
+item[1] med_field_kit_b uid=214402be86a6460285530ac0cdb772d2 qty=1 page=0 grid=1,0 rotated=False logical=(x:696.67, y:386.67, width:74.00, height:74.00) centerPixels=(880.40, 508.40)
+item[2] med_analgesic_b uid=e7a68de986c34bdb86ea762990d94aa5 qty=1 page=0 grid=2,0 rotated=False logical=(x:771.67, y:386.67, width:74.00, height:74.00) centerPixels=(970.40, 508.40)
+item[3] med_tourniquet_b uid=d0dd48b0e6ab4c3b98fa306bed33de59 qty=1 page=0 grid=3,0 rotated=False logical=(x:846.67, y:386.67, width:74.00, height:74.00) centerPixels=(1060.40, 508.40)
+DYNAMIC_KEYDOWN frame=4109 currentVirtual=True
+KEYUP_QUEUED frame=4141 downObserved=True
+DYNAMIC_KEYUP frame=4142
+END Scheduled simulated key sequence completed.
+dynamicDown=True dynamicUp=True wheelObserved=False
+AFTER
+UTC=2026-10-22T19:53:54.6515343Z
+scene=Assets/Escape/Scenes/SystemsTest.unity
+playing=True
+resolution=1920x1080
+rawScreen=1920x1080
+view=GameView #397834 position=(x:8.00, y:86.67, width:1584.00, height:778.67) target=1920x1080 focused=GameView
+page=Stage
+location=Stage
+panel=-1
+save=C:\UnityProject\escape\Library\UiKitEvidence\input-477c595d18d44c70ada8e84344394b0b
+position=(-119.00, 0.02, -129.00)
+inventory=False
+medicalWheelOpen=False
+medicalCaptureHold=False
+inventoryControllerEnabled=True
+applicationFocused=True
+useLiveInput=True
+simulationFrozen=False
+movementInputBlocked=False
+mapInputBlocked=False
+menuLocked=False
+frontEndBlocksGameplay=False
+abilitiesCanActivate=False
+abilitiesStatus=
+tacticalCooldown=0
+tacticalRemaining=0
+ultimateRemaining=0
+ultimateCharge=0
+keyboardPresent=True
+keyboardCurrent=UiKitEvidenceSimulatedKeyboard
+simulatedInputActive=True
+simulatedInputKey=V
+simulatedDynamicDown=True
+simulatedDynamicUp=True
+interactiveOwned=True
+interactiveSaveOwned=True
+textInputFocused=False
+isDragging=False
+dragQuantity=2147483647
+detailsVisible=False
+cameras=Player Camera pixels=1920x1080
+operationTimerFit=PASS (logical units; clock bounds=92x33, caption bounds=90x22)
+operationTimerClock30:00=(65.31, 28.01)
+operationTimerClock88:88=(69.35, 28.01)
+operationTimerActual=29:39 size=(64.36, 28.01)
+operationTimerCaption=(78.67, 15.97)
+scrap=5000
+shopPurchased[item_003]=0
+shopPurchased[item_009]=0
+shopPurchased[item_018]=0
+shopPurchased[item_018_t2]=0
+shopPurchased[item_018_t3]=0
+shopPurchased[item_018_t4]=0
+shopPurchased[item_018_t5]=0
+shopPurchased[item_018_t6]=0
+shopPurchased[med_injector_c]=0
+frame=4143
+vitals=health 95.32911 stamina 100 hunger 98.93278 thirst 96.79832
+hoverCandidate= uid=
+hoverRegistrationFrame=-100
+bagViewportLogical=(x:621.67, y:386.67, width:450.00, height:450.00) scroll=(0.00, 0.00)
+itemCoordinates=game-render pixels from top left; native editor offset/zoom is separate
+item[0] med_injector_c uid=1c27067144c044d397ac2dedc2976bfb qty=1 page=0 grid=0,0 rotated=False logical=(x:621.67, y:386.67, width:74.00, height:74.00) centerPixels=(790.40, 508.40)
+item[1] med_field_kit_b uid=214402be86a6460285530ac0cdb772d2 qty=1 page=0 grid=1,0 rotated=False logical=(x:696.67, y:386.67, width:74.00, height:74.00) centerPixels=(880.40, 508.40)
+item[2] med_analgesic_b uid=e7a68de986c34bdb86ea762990d94aa5 qty=1 page=0 grid=2,0 rotated=False logical=(x:771.67, y:386.67, width:74.00, height:74.00) centerPixels=(970.40, 508.40)
+item[3] med_tourniquet_b uid=d0dd48b0e6ab4c3b98fa306bed33de59 qty=1 page=0 grid=3,0 rotated=False logical=(x:846.67, y:386.67, width:74.00, height:74.00) centerPixels=(1060.40, 508.40)
+Temporary virtual device removed; previous attached keyboard restored. No OS device state was changed.

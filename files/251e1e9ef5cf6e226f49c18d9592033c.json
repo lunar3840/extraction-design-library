@@ -1,0 +1,238 @@
+[
+  {
+    "item_id": "trade_a_006",
+    "status": "PASS",
+    "matched_review": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-19\\loot-production\\tripo_refinement\\processed\\trade_a_006\\matched_review.png",
+    "texture_pixel_checks": [
+      {
+        "material": 0,
+        "role": "basecolor",
+        "original_decoded_pixels_equal_png": true
+      },
+      {
+        "material": 0,
+        "role": "normal",
+        "original_decoded_pixels_equal_png": true
+      },
+      {
+        "material": 0,
+        "role": "metallicroughness",
+        "original_decoded_pixels_equal_png": true
+      }
+    ],
+    "extent_checks": [
+      {
+        "mesh": "trade_a_006_Mesh_00",
+        "max_extent_delta": 0.0
+      }
+    ],
+    "silhouette_comparison": [
+      {
+        "view": "front",
+        "alpha_mask_threshold": 128,
+        "intersection_over_union": 1.0,
+        "original_covered_pixels": 48952,
+        "processed_covered_pixels": 48952
+      },
+      {
+        "view": "right",
+        "alpha_mask_threshold": 128,
+        "intersection_over_union": 1.0,
+        "original_covered_pixels": 38069,
+        "processed_covered_pixels": 38069
+      },
+      {
+        "view": "back",
+        "alpha_mask_threshold": 128,
+        "intersection_over_union": 1.0,
+        "original_covered_pixels": 48965,
+        "processed_covered_pixels": 48965
+      },
+      {
+        "view": "threequarter",
+        "alpha_mask_threshold": 128,
+        "intersection_over_union": 1.0,
+        "original_covered_pixels": 57457,
+        "processed_covered_pixels": 57457
+      }
+    ],
+    "automatic_review_scope": "Texture decoded-pixel equality, triangle cap, retained material/UV layer counts and world bounds measured; image silhouette quality still requires visual review."
+  },
+  {
+    "item_id": "trade_b_023",
+    "status": "PASS",
+    "matched_review": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-19\\loot-production\\tripo_refinement\\processed\\trade_b_023\\matched_review.png",
+    "texture_pixel_checks": [
+      {
+        "material": 0,
+        "role": "basecolor",
+        "original_decoded_pixels_equal_png": true
+      },
+      {
+        "material": 0,
+        "role": "normal",
+        "original_decoded_pixels_equal_png": true
+      },
+      {
+        "material": 0,
+        "role": "metallicroughness",
+        "original_decoded_pixels_equal_png": true
+      }
+    ],
+    "extent_checks": [
+      {
+        "mesh": "trade_b_023_Mesh_00",
+        "max_extent_delta": 0.013394325971603394
+      }
+    ],
+    "silhouette_comparison": [
+      {
+        "view": "front",
+        "alpha_mask_threshold": 128,
+        "intersection_over_union": 0.9976500604270175,
+        "original_covered_pixels": 89266,
+        "processed_covered_pixels": 89252
+      },
+      {
+        "view": "right",
+        "alpha_mask_threshold": 128,
+        "intersection_over_union": 0.9915293679605325,
+        "original_covered_pixels": 53639,
+        "processed_covered_pixels": 53336
+      },
+      {
+        "view": "back",
+        "alpha_mask_threshold": 128,
+        "intersection_over_union": 0.9976948727704048,
+        "original_covered_pixels": 89273,
+        "processed_covered_pixels": 89253
+      },
+      {
+        "view": "threequarter",
+        "alpha_mask_threshold": 128,
+        "intersection_over_union": 0.9947330594381215,
+        "original_covered_pixels": 93136,
+        "processed_covered_pixels": 92819
+      }
+    ],
+    "automatic_review_scope": "Texture decoded-pixel equality, triangle cap, retained material/UV layer counts and world bounds measured; image silhouette quality still requires visual review."
+  },
+  {
+    "item_id": "trade_c_018",
+    "status": "PASS",
+    "matched_review": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-19\\loot-production\\tripo_refinement\\processed\\trade_c_018\\matched_review.png",
+    "texture_pixel_checks": [
+      {
+        "material": 0,
+        "role": "basecolor",
+        "original_decoded_pixels_equal_png": true
+      },
+      {
+        "material": 0,
+        "role": "normal",
+        "original_decoded_pixels_equal_png": true
+      },
+      {
+        "material": 0,
+        "role": "metallicroughness",
+        "original_decoded_pixels_equal_png": true
+      }
+    ],
+    "extent_checks": [
+      {
+        "mesh": "trade_c_018_Mesh_00",
+        "max_extent_delta": 9.000301361083984e-05
+      }
+    ],
+    "silhouette_comparison": [
+      {
+        "view": "front",
+        "alpha_mask_threshold": 128,
+        "intersection_over_union": 0.9960105609639788,
+        "original_covered_pixels": 85850,
+        "processed_covered_pixels": 85761
+      },
+      {
+        "view": "right",
+        "alpha_mask_threshold": 128,
+        "intersection_over_union": 0.9974758037761976,
+        "original_covered_pixels": 69260,
+        "processed_covered_pixels": 69223
+      },
+      {
+        "view": "back",
+        "alpha_mask_threshold": 128,
+        "intersection_over_union": 0.9959758551307847,
+        "original_covered_pixels": 85858,
+        "processed_covered_pixels": 85758
+      },
+      {
+        "view": "threequarter",
+        "alpha_mask_threshold": 128,
+        "intersection_over_union": 0.998179265563989,
+        "original_covered_pixels": 91104,
+        "processed_covered_pixels": 91074
+      }
+    ],
+    "automatic_review_scope": "Texture decoded-pixel equality, triangle cap, retained material/UV layer counts and world bounds measured; image silhouette quality still requires visual review."
+  },
+  {
+    "item_id": "trade_b_009",
+    "status": "PASS",
+    "matched_review": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-19\\loot-production\\tripo_refinement\\processed\\trade_b_009\\matched_review.png",
+    "texture_pixel_checks": [
+      {
+        "material": 0,
+        "role": "basecolor",
+        "original_decoded_pixels_equal_png": true
+      },
+      {
+        "material": 0,
+        "role": "normal",
+        "original_decoded_pixels_equal_png": true
+      },
+      {
+        "material": 0,
+        "role": "metallicroughness",
+        "original_decoded_pixels_equal_png": true
+      }
+    ],
+    "extent_checks": [
+      {
+        "mesh": "trade_b_009_Mesh_00",
+        "max_extent_delta": 0.00010660290718078613
+      }
+    ],
+    "silhouette_comparison": [
+      {
+        "view": "front",
+        "alpha_mask_threshold": 128,
+        "intersection_over_union": 0.9990344483897091,
+        "original_covered_pixels": 96288,
+        "processed_covered_pixels": 96255
+      },
+      {
+        "view": "right",
+        "alpha_mask_threshold": 128,
+        "intersection_over_union": 0.9994289073654153,
+        "original_covered_pixels": 59513,
+        "processed_covered_pixels": 59523
+      },
+      {
+        "view": "back",
+        "alpha_mask_threshold": 128,
+        "intersection_over_union": 0.999003394686848,
+        "original_covered_pixels": 96297,
+        "processed_covered_pixels": 96261
+      },
+      {
+        "view": "threequarter",
+        "alpha_mask_threshold": 128,
+        "intersection_over_union": 0.9994415083411764,
+        "original_covered_pixels": 96667,
+        "processed_covered_pixels": 96657
+      }
+    ],
+    "automatic_review_scope": "Texture decoded-pixel equality, triangle cap, retained material/UV layer counts and world bounds measured; image silhouette quality still requires visual review."
+  }
+]

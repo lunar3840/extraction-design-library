@@ -1,0 +1,470 @@
+[
+  {
+    "threadId": "6a9cfb2c-d738-83e8-92f4-a2f5fee2435f",
+    "title": "주인공 캐릭터 제작",
+    "turnId": "5a4aab7b-6477-4c55-8cc1-ac2667a9f508",
+    "messageId": "474f78df-4c2f-4538-ab5c-9a4f4a1a514a",
+    "reference": "sandbox:/mnt/data/Serin_FaceRig_v01_Package.zip",
+    "basename": "Serin_FaceRig_v01_Package.zip",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9cfb2c-d738-83e8-92f4-a2f5fee2435f",
+    "title": "주인공 캐릭터 제작",
+    "turnId": "5a4aab7b-6477-4c55-8cc1-ac2667a9f508",
+    "messageId": "474f78df-4c2f-4538-ab5c-9a4f4a1a514a",
+    "reference": "sandbox:/mnt/data/Serin_Modular_FaceRig_v01.glb",
+    "basename": "Serin_Modular_FaceRig_v01.glb",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9cfb2c-d738-83e8-92f4-a2f5fee2435f",
+    "title": "주인공 캐릭터 제작",
+    "turnId": "5a4aab7b-6477-4c55-8cc1-ac2667a9f508",
+    "messageId": "474f78df-4c2f-4538-ab5c-9a4f4a1a514a",
+    "reference": "sandbox:/mnt/data/Serin_Blink_Mouth_Check_1x.mp4",
+    "basename": "Serin_Blink_Mouth_Check_1x.mp4",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9cfb2c-d738-83e8-92f4-a2f5fee2435f",
+    "title": "주인공 캐릭터 제작",
+    "turnId": "5a4aab7b-6477-4c55-8cc1-ac2667a9f508",
+    "messageId": "474f78df-4c2f-4538-ab5c-9a4f4a1a514a",
+    "reference": "sandbox:/mnt/data/Serin_Facial_Expressions_1x.mp4",
+    "basename": "Serin_Facial_Expressions_1x.mp4",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9cfb2c-d738-83e8-92f4-a2f5fee2435f",
+    "title": "주인공 캐릭터 제작",
+    "turnId": "5a4aab7b-6477-4c55-8cc1-ac2667a9f508",
+    "messageId": "474f78df-4c2f-4538-ab5c-9a4f4a1a514a",
+    "reference": "sandbox:/mnt/data/Serin_FaceRig_Expressions.jpg",
+    "basename": "Serin_FaceRig_Expressions.jpg",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9cfb2c-d738-83e8-92f4-a2f5fee2435f",
+    "title": "주인공 캐릭터 제작",
+    "turnId": "5a4aab7b-6477-4c55-8cc1-ac2667a9f508",
+    "messageId": "474f78df-4c2f-4538-ab5c-9a4f4a1a514a",
+    "reference": "sandbox:/mnt/data/Serin_Work_Report_ko.md",
+    "basename": "Serin_Work_Report_ko.md",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "f35a90cf-de9c-4932-a5b6-fdaef8d35dab",
+    "messageId": "ece481c5-c411-4f0f-80ef-8b24c7df1f4b",
+    "reference": "sandbox:/mnt/data/edel_final_touchup/edel_face_separated_v2_browtipfix.glb",
+    "basename": "edel_face_separated_v2_browtipfix.glb",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "f35a90cf-de9c-4932-a5b6-fdaef8d35dab",
+    "messageId": "ece481c5-c411-4f0f-80ef-8b24c7df1f4b",
+    "reference": "sandbox:/mnt/data/edel_final_touchup/EDEL_TEXTURE_GEOMETRY_WORKFLOW.md",
+    "basename": "EDEL_TEXTURE_GEOMETRY_WORKFLOW.md",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "f35a90cf-de9c-4932-a5b6-fdaef8d35dab",
+    "messageId": "ece481c5-c411-4f0f-80ef-8b24c7df1f4b",
+    "reference": "sandbox:/mnt/data/edel_final_touchup/bridge_log.json",
+    "basename": "bridge_log.json",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "f35a90cf-de9c-4932-a5b6-fdaef8d35dab",
+    "messageId": "ece481c5-c411-4f0f-80ef-8b24c7df1f4b",
+    "reference": "sandbox:/mnt/data/edel_final_touchup/browtipfix_comparison.png",
+    "basename": "browtipfix_comparison.png",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "f35a90cf-de9c-4932-a5b6-fdaef8d35dab",
+    "messageId": "ece481c5-c411-4f0f-80ef-8b24c7df1f4b",
+    "reference": "sandbox:/mnt/data/edel_final_touchup/browtipfix_closeups.png",
+    "basename": "browtipfix_closeups.png",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "f35a90cf-de9c-4932-a5b6-fdaef8d35dab",
+    "messageId": "ece481c5-c411-4f0f-80ef-8b24c7df1f4b",
+    "reference": "sandbox:/mnt/data/Edel_face_separated_v2_browtipfix_package.zip",
+    "basename": "Edel_face_separated_v2_browtipfix_package.zip",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "726a1c31-3347-431a-9630-4dea989a2d1c",
+    "messageId": "7418eea4-06a4-44dd-90d9-710325530ac3",
+    "reference": "sandbox:/mnt/data/edel_smooth_correction/edel_lash_smooth_restored_v3.glb",
+    "basename": "edel_lash_smooth_restored_v3.glb",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "726a1c31-3347-431a-9630-4dea989a2d1c",
+    "messageId": "7418eea4-06a4-44dd-90d9-710325530ac3",
+    "reference": "sandbox:/mnt/data/edel_smooth_correction/previews/restored_oblique_pair.png",
+    "basename": "restored_oblique_pair.png",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "726a1c31-3347-431a-9630-4dea989a2d1c",
+    "messageId": "7418eea4-06a4-44dd-90d9-710325530ac3",
+    "reference": "sandbox:/mnt/data/edel_smooth_correction/EDEL_TEXTURE_GEOMETRY_WORKFLOW_CORRECTED.md",
+    "basename": "EDEL_TEXTURE_GEOMETRY_WORKFLOW_CORRECTED.md",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "726a1c31-3347-431a-9630-4dea989a2d1c",
+    "messageId": "7418eea4-06a4-44dd-90d9-710325530ac3",
+    "reference": "sandbox:/mnt/data/Edel_smooth_restore_v3_package.zip",
+    "basename": "Edel_smooth_restore_v3_package.zip",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "f912c0cb-2300-4b5a-baa6-d2c81d69dde9",
+    "messageId": "14e1902d-e7ff-4a7a-b7c3-7d9321cdeae2",
+    "reference": "sandbox:/mnt/data/edel_final_gapfix/edel_lash_gapfix_v4.glb",
+    "basename": "edel_lash_gapfix_v4.glb",
+    "localCandidates": [
+      {
+        "Name": "edel_lash_gapfix_v4.glb",
+        "Path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\edel-import-20261021\\Edel_gapfix_v4\\edel_lash_gapfix_v4.glb",
+        "Length": 2939272
+      }
+    ],
+    "state": "동일 파일명 로컬 후보 확인(원격 원본 동일성 미검증)"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "f912c0cb-2300-4b5a-baa6-d2c81d69dde9",
+    "messageId": "14e1902d-e7ff-4a7a-b7c3-7d9321cdeae2",
+    "reference": "sandbox:/mnt/data/edel_final_gapfix/gapfix_log.json",
+    "basename": "gapfix_log.json",
+    "localCandidates": [
+      {
+        "Name": "gapfix_log.json",
+        "Path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\edel-import-20261021\\Edel_gapfix_v4\\gapfix_log.json",
+        "Length": 830
+      }
+    ],
+    "state": "동일 파일명 로컬 후보 확인(원격 원본 동일성 미검증)"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "f912c0cb-2300-4b5a-baa6-d2c81d69dde9",
+    "messageId": "14e1902d-e7ff-4a7a-b7c3-7d9321cdeae2",
+    "reference": "sandbox:/mnt/data/edel_final_gapfix/gapfix_front_comparison.png",
+    "basename": "gapfix_front_comparison.png",
+    "localCandidates": [
+      {
+        "Name": "gapfix_front_comparison.png",
+        "Path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\edel-import-20261021\\Edel_gapfix_v4\\gapfix_front_comparison.png",
+        "Length": 500519
+      }
+    ],
+    "state": "동일 파일명 로컬 후보 확인(원격 원본 동일성 미검증)"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "f912c0cb-2300-4b5a-baa6-d2c81d69dde9",
+    "messageId": "14e1902d-e7ff-4a7a-b7c3-7d9321cdeae2",
+    "reference": "sandbox:/mnt/data/edel_final_gapfix/gapfix_oblique_comparison.png",
+    "basename": "gapfix_oblique_comparison.png",
+    "localCandidates": [
+      {
+        "Name": "gapfix_oblique_comparison.png",
+        "Path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\edel-import-20261021\\Edel_gapfix_v4\\gapfix_oblique_comparison.png",
+        "Length": 357297
+      }
+    ],
+    "state": "동일 파일명 로컬 후보 확인(원격 원본 동일성 미검증)"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "f912c0cb-2300-4b5a-baa6-d2c81d69dde9",
+    "messageId": "14e1902d-e7ff-4a7a-b7c3-7d9321cdeae2",
+    "reference": "sandbox:/mnt/data/Edel_gapfix_v4_package.zip",
+    "basename": "Edel_gapfix_v4_package.zip",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "62e09c2c-cf6a-4ac6-b31c-68c4fbab877a",
+    "messageId": "4a0d50ea-d413-4cb1-9b26-fcf7c60a8390",
+    "reference": "sandbox:/mnt/data/PROJECT_ANIMA_EmotionMotion_Codex_Guide.md",
+    "basename": "PROJECT_ANIMA_EmotionMotion_Codex_Guide.md",
+    "localCandidates": [
+      {
+        "Name": "PROJECT_ANIMA_EmotionMotion_Codex_Guide.md",
+        "Path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\roster-20261022\\models\\EDEL_MASTER_v24_Codex_Package\\EDEL_MASTER_v24_Codex_Package\\docs\\PROJECT_ANIMA_EmotionMotion_Codex_Guide.md",
+        "Length": 9146
+      }
+    ],
+    "state": "동일 파일명 로컬 후보 확인(원격 원본 동일성 미검증)"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "687ae8b9-3618-4657-ab92-803900fece33",
+    "messageId": "07b154c3-47c1-459c-8adf-3368b165e83f",
+    "reference": "sandbox:/mnt/data/EDEL_v6_CODEX_HANDOFF_READINESS.md",
+    "basename": "EDEL_v6_CODEX_HANDOFF_READINESS.md",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "88d10ede-8d35-46b0-b96d-26bd33be2eae",
+    "messageId": "9dd77ca5-8595-4036-b06b-88cdff14e530",
+    "reference": "sandbox:/mnt/data/edel_master_merge/output/EDEL_MASTER_v24_v6Appearance_Rigged.blend",
+    "basename": "EDEL_MASTER_v24_v6Appearance_Rigged.blend",
+    "localCandidates": [
+      {
+        "Name": "EDEL_MASTER_v24_v6Appearance_Rigged.blend",
+        "Path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\roster-20261022\\models\\EDEL_MASTER_v24_Codex_Package\\EDEL_MASTER_v24_Codex_Package\\model\\EDEL_MASTER_v24_v6Appearance_Rigged.blend",
+        "Length": 46854961
+      }
+    ],
+    "state": "동일 파일명 로컬 후보 확인(원격 원본 동일성 미검증)"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "88d10ede-8d35-46b0-b96d-26bd33be2eae",
+    "messageId": "9dd77ca5-8595-4036-b06b-88cdff14e530",
+    "reference": "sandbox:/mnt/data/EDEL_MASTER_v24_Codex_Package.zip",
+    "basename": "EDEL_MASTER_v24_Codex_Package.zip",
+    "localCandidates": [
+      {
+        "Name": "EDEL_MASTER_v24_Codex_Package.zip",
+        "Path": "C:\\Users\\ehoji\\Downloads\\EDEL_MASTER_v24_Codex_Package.zip",
+        "Length": 51150323
+      }
+    ],
+    "state": "동일 파일명 로컬 후보 확인(원격 원본 동일성 미검증)"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "88d10ede-8d35-46b0-b96d-26bd33be2eae",
+    "messageId": "9dd77ca5-8595-4036-b06b-88cdff14e530",
+    "reference": "sandbox:/mnt/data/edel_master_merge/EDEL_MASTER_v24_Codex_Package/EDEL_MASTER_v24_CODEX_HANDOFF.md",
+    "basename": "EDEL_MASTER_v24_CODEX_HANDOFF.md",
+    "localCandidates": [
+      {
+        "Name": "EDEL_MASTER_v24_CODEX_HANDOFF.md",
+        "Path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\roster-20261022\\models\\EDEL_MASTER_v24_Codex_Package\\EDEL_MASTER_v24_Codex_Package\\EDEL_MASTER_v24_CODEX_HANDOFF.md",
+        "Length": 3480
+      }
+    ],
+    "state": "동일 파일명 로컬 후보 확인(원격 원본 동일성 미검증)"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "f0edbed1-ddd2-4aaa-bcfc-d14f40c1d4ce",
+    "messageId": "b462c94b-d90c-4aa7-8d8e-a623be85f69b",
+    "reference": "sandbox:/mnt/data/edel_master_merge/examples_v24_final/EDEL_v24_emotions_preview.mp4",
+    "basename": "EDEL_v24_emotions_preview.mp4",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "f0edbed1-ddd2-4aaa-bcfc-d14f40c1d4ce",
+    "messageId": "b462c94b-d90c-4aa7-8d8e-a623be85f69b",
+    "reference": "sandbox:/mnt/data/edel_master_merge/examples_v24_final/EDEL_v24_combat_preview.mp4",
+    "basename": "EDEL_v24_combat_preview.mp4",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "f0edbed1-ddd2-4aaa-bcfc-d14f40c1d4ce",
+    "messageId": "b462c94b-d90c-4aa7-8d8e-a623be85f69b",
+    "reference": "sandbox:/mnt/data/edel_master_merge/examples_v24_final/EDEL_v24_motion_preview.mp4",
+    "basename": "EDEL_v24_motion_preview.mp4",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "title": "히로인 컨셉 리스트(1 - 메인부관)",
+    "turnId": "f0edbed1-ddd2-4aaa-bcfc-d14f40c1d4ce",
+    "messageId": "b462c94b-d90c-4aa7-8d8e-a623be85f69b",
+    "reference": "sandbox:/mnt/data/EDEL_v24_Visual_Verification_Package.zip",
+    "basename": "EDEL_v24_Visual_Verification_Package.zip",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6ad19e97-fff8-83ee-a88e-b2ce41f587df",
+    "title": "히로인 컨셉 리스트(2)",
+    "turnId": "ac745371-b48c-4f97-b2e1-3511b9a5c562",
+    "messageId": "c7b19c41-5615-4aec-821a-72b28740b8c9",
+    "reference": "sandbox:/mnt/data/Liv_Tripo_4Views_SerinBody.zip",
+    "basename": "Liv_Tripo_4Views_SerinBody.zip",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6ad19e97-fff8-83ee-a88e-b2ce41f587df",
+    "title": "히로인 컨셉 리스트(2)",
+    "turnId": "ac745371-b48c-4f97-b2e1-3511b9a5c562",
+    "messageId": "c7b19c41-5615-4aec-821a-72b28740b8c9",
+    "reference": "sandbox:/mnt/data/Liv_Tripo_Base/Liv_01_front.png",
+    "basename": "Liv_01_front.png",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6ad19e97-fff8-83ee-a88e-b2ce41f587df",
+    "title": "히로인 컨셉 리스트(2)",
+    "turnId": "ac745371-b48c-4f97-b2e1-3511b9a5c562",
+    "messageId": "c7b19c41-5615-4aec-821a-72b28740b8c9",
+    "reference": "sandbox:/mnt/data/Liv_Tripo_Base/Liv_02_left.png",
+    "basename": "Liv_02_left.png",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6ad19e97-fff8-83ee-a88e-b2ce41f587df",
+    "title": "히로인 컨셉 리스트(2)",
+    "turnId": "ac745371-b48c-4f97-b2e1-3511b9a5c562",
+    "messageId": "c7b19c41-5615-4aec-821a-72b28740b8c9",
+    "reference": "sandbox:/mnt/data/Liv_Tripo_Base/Liv_03_back.png",
+    "basename": "Liv_03_back.png",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6ad19e97-fff8-83ee-a88e-b2ce41f587df",
+    "title": "히로인 컨셉 리스트(2)",
+    "turnId": "ac745371-b48c-4f97-b2e1-3511b9a5c562",
+    "messageId": "c7b19c41-5615-4aec-821a-72b28740b8c9",
+    "reference": "sandbox:/mnt/data/Liv_Tripo_Base/Liv_04_right.png",
+    "basename": "Liv_04_right.png",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6ad822ac-0b28-83ee-92f6-de3cfe7e06da",
+    "title": "리브 모델 작업 완료",
+    "turnId": "f5eec2e3-9f17-49e2-9cf4-0aa684d47633",
+    "messageId": "005bc1bb-fc1c-4ca7-8ee3-1a195d86be74",
+    "reference": "/mnt/data/LIV_v29_work/LIV_SerinBody_FaceRig_v29_EyelidCloseFix.glb",
+    "basename": "LIV_SerinBody_FaceRig_v29_EyelidCloseFix.glb",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6ad822ac-0b28-83ee-92f6-de3cfe7e06da",
+    "title": "리브 모델 작업 완료",
+    "turnId": "f5eec2e3-9f17-49e2-9cf4-0aa684d47633",
+    "messageId": "005bc1bb-fc1c-4ca7-8ee3-1a195d86be74",
+    "reference": "/mnt/data/LIV_v29_work/LIV_v29_FaceTexture.png",
+    "basename": "LIV_v29_FaceTexture.png",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6ad822ac-0b28-83ee-92f6-de3cfe7e06da",
+    "title": "리브 모델 작업 완료",
+    "turnId": "f5eec2e3-9f17-49e2-9cf4-0aa684d47633",
+    "messageId": "005bc1bb-fc1c-4ca7-8ee3-1a195d86be74",
+    "reference": "/mnt/data/LIV_v29_work/compare_v28_v29_contact.png",
+    "basename": "compare_v28_v29_contact.png",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6ad822ac-0b28-83ee-92f6-de3cfe7e06da",
+    "title": "리브 모델 작업 완료",
+    "turnId": "f5eec2e3-9f17-49e2-9cf4-0aa684d47633",
+    "messageId": "005bc1bb-fc1c-4ca7-8ee3-1a195d86be74",
+    "reference": "/mnt/data/LIV_v29_work/blink_full.png",
+    "basename": "blink_full.png",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6ad822ac-0b28-83ee-92f6-de3cfe7e06da",
+    "title": "리브 모델 작업 완료",
+    "turnId": "f5eec2e3-9f17-49e2-9cf4-0aa684d47633",
+    "messageId": "005bc1bb-fc1c-4ca7-8ee3-1a195d86be74",
+    "reference": "/mnt/data/LIV_v29_work/wink_L.png",
+    "basename": "wink_L.png",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6ad822ac-0b28-83ee-92f6-de3cfe7e06da",
+    "title": "리브 모델 작업 완료",
+    "turnId": "f5eec2e3-9f17-49e2-9cf4-0aa684d47633",
+    "messageId": "005bc1bb-fc1c-4ca7-8ee3-1a195d86be74",
+    "reference": "/mnt/data/LIV_v29_work/LIV_v29_package.zip",
+    "basename": "LIV_v29_package.zip",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  },
+  {
+    "threadId": "6ab1142e-9aac-83ee-8525-8814ed92ed3d",
+    "title": "익스트랙션 게임 에셋 분석",
+    "turnId": "1514d4af-8c4d-4cbb-bcd6-7a05c8fc341a",
+    "messageId": "914eb7f0-965a-4f3b-b6d0-71cd92942306",
+    "reference": "sandbox:/mnt/data/Extraction_A_Indoor_Furniture_Tripo_10.zip",
+    "basename": "Extraction_A_Indoor_Furniture_Tripo_10.zip",
+    "localCandidates": [],
+    "state": "확인한 로컬 범위에서 미확보"
+  }
+]

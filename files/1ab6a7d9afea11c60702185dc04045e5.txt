@@ -1,0 +1,112 @@
+STAGE_A_TRIPO_D06_ACTUAL_PLAYER_MOTOR
+startedUtc=2026-10-12T11:31:58.3481264Z
+selectedGatePairs=3 selectedCases=16
+actual PlayerMotor.Simulate with enabled CharacterController; enemies frozen=0 selectedCases=16
+LANE SC_G1_out_in start=(75.00, 2.46, -34.50) end=(91.00, 2.36, -34.50) corners=3
+NOTE cameraFocus=SC_G1_out_in viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_SC_G1_out_in_start.png
+PASS SC_G1_out_in actual PlayerMotor steps=116 end=(90.47, 2.38, -34.50)
+NOTE cameraFocus=SC_G1_out_in viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_SC_G1_out_in_end.png
+LANE SC_G1_in_out start=(91.00, 2.41, -34.50) end=(75.00, 2.46, -34.50) corners=3
+NOTE cameraFocus=SC_G1_in_out viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_SC_G1_in_out_start.png
+PASS SC_G1_in_out actual PlayerMotor steps=116 end=(75.53, 2.48, -34.50)
+NOTE cameraFocus=SC_G1_in_out viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_SC_G1_in_out_end.png
+LANE YC_G1_out_in start=(-1.00, 0.16, -80.00) end=(-1.00, 0.05, -94.00) corners=3
+NOTE cameraFocus=YC_G1_out_in viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_YC_G1_out_in_start.png
+PASS YC_G1_out_in actual PlayerMotor steps=101 end=(-1.00, 0.07, -93.47)
+NOTE cameraFocus=YC_G1_out_in viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_YC_G1_out_in_end.png
+LANE YC_G1_in_out start=(-1.00, 0.09, -94.00) end=(-1.00, 0.11, -80.00) corners=3
+NOTE cameraFocus=YC_G1_in_out viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_YC_G1_in_out_start.png
+PASS YC_G1_in_out actual PlayerMotor steps=101 end=(-1.00, 0.13, -80.53)
+NOTE cameraFocus=YC_G1_in_out viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_YC_G1_in_out_end.png
+LANE CN_G1_out_in start=(-123.50, 4.18, 82.00) end=(-123.50, 4.78, 96.00) corners=3
+NOTE cameraFocus=CN_G1_out_in viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_CN_G1_out_in_start.png
+PASS CN_G1_out_in actual PlayerMotor steps=101 end=(-123.50, 4.80, 95.47)
+NOTE cameraFocus=CN_G1_out_in viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_CN_G1_out_in_end.png
+LANE CN_G1_in_out start=(-123.50, 4.81, 96.00) end=(-123.50, 4.09, 82.00) corners=3
+NOTE cameraFocus=CN_G1_in_out viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_CN_G1_in_out_start.png
+PASS CN_G1_in_out actual PlayerMotor steps=101 end=(-123.50, 4.13, 82.53)
+NOTE cameraFocus=CN_G1_in_out viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_CN_G1_in_out_end.png
+LANE E02_door_in start=(175.70, 8.34, 84.08) end=(178.39, 8.40, 84.24) corners=3
+NOTE cameraFocus=E02_door_in viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_E02_door_in_start.png
+PASS E02_door_in actual PlayerMotor steps=16 end=(177.83, 8.41, 84.22)
+NOTE cameraFocus=E02_door_in viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_E02_door_in_end.png
+LANE E02_door_out start=(178.39, 8.40, 84.24) end=(175.70, 8.34, 84.08) corners=3
+NOTE cameraFocus=E02_door_out viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_E02_door_out_start.png
+PASS E02_door_out actual PlayerMotor steps=16 end=(176.26, 8.35, 84.12)
+NOTE cameraFocus=E02_door_out viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_E02_door_out_end.png
+LANE W02_door_in start=(-182.21, 1.69, 29.18) end=(-181.87, 1.92, 31.95) corners=2
+NOTE cameraFocus=W02_door_in viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_W02_door_in_start.png
+PASS W02_door_in actual PlayerMotor steps=17 end=(-181.93, 1.90, 31.43)
+NOTE cameraFocus=W02_door_in viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_W02_door_in_end.png
+LANE W02_door_out start=(-181.87, 1.92, 31.95) end=(-182.21, 1.69, 29.18) corners=2
+NOTE cameraFocus=W02_door_out viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_W02_door_out_start.png
+PASS W02_door_out actual PlayerMotor steps=17 end=(-182.14, 1.72, 29.71)
+NOTE cameraFocus=W02_door_out viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_W02_door_out_end.png
+LANE E05_door_in start=(102.86, 2.94, -5.27) end=(102.47, 3.00, -2.49) corners=2
+NOTE cameraFocus=E05_door_in viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_E05_door_in_start.png
+PASS E05_door_in actual PlayerMotor steps=17 end=(102.55, 3.01, -3.02)
+NOTE cameraFocus=E05_door_in viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_E05_door_in_end.png
+LANE E05_door_out start=(102.47, 3.00, -2.49) end=(102.86, 2.94, -5.27) corners=2
+NOTE cameraFocus=E05_door_out viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_E05_door_out_start.png
+PASS E05_door_out actual PlayerMotor steps=17 end=(102.79, 2.95, -4.74)
+NOTE cameraFocus=E05_door_out viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_E05_door_out_end.png
+LANE D06_LoadingDock_E05_front_detour start=(112.78, 3.00, 0.17) end=(113.85, 2.92, -7.46) corners=7
+NOTE cameraFocus=D06_LoadingDock_E05_front_detour viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_D06_LoadingDock_E05_front_detour_start.png
+NOTE cameraFocus=D06_LoadingDock_E05_front_detour viewport=(0.500, 0.500, 16.532)
+NOTE D06_LoadingDock_E05_front_detour topDownRayHitsD06=False playerSilhouette=False localReveal=False
+PASS D06_LoadingDock_E05_front_detour actual PlayerMotor steps=151 end=(113.10, 2.95, -7.33)
+NOTE cameraFocus=D06_LoadingDock_E05_front_detour viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_D06_LoadingDock_E05_front_detour_end.png
+LANE D06_CantileverCanopy_E05_overhead start=(109.50, 3.60, -4.00) end=(109.50, 3.60, -4.00) corners=1
+NOTE cameraFocus=D06_CantileverCanopy_E05_overhead viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_D06_CantileverCanopy_E05_overhead_start.png
+NOTE cameraFocus=D06_CantileverCanopy_E05_overhead viewport=(0.500, 0.500, 16.532)
+NOTE D06_CantileverCanopy_E05_overhead topDownRayHitsD06=True playerSilhouette=True localReveal=True
+NOTE cameraFocus=D06_CantileverCanopy_E05_overhead viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_D06_CantileverCanopy_E05_overhead_visibility.png
+PASS D06_CantileverCanopy_E05_overhead visibility probe captured at (109.50, 3.60, -4.00)
+LANE D06_MaintenancePortal_W02_overhead start=(-179.79, 1.82, 48.82) end=(-179.79, 1.82, 48.82) corners=1
+NOTE cameraFocus=D06_MaintenancePortal_W02_overhead viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_D06_MaintenancePortal_W02_overhead_start.png
+NOTE cameraFocus=D06_MaintenancePortal_W02_overhead viewport=(0.500, 0.500, 16.532)
+NOTE D06_MaintenancePortal_W02_overhead topDownRayHitsD06=False playerSilhouette=False localReveal=False
+NOTE D06_MaintenancePortal_W02_overhead center ray did not intersect D06 solid; screenshot and edge probes remain necessary.
+NOTE cameraFocus=D06_MaintenancePortal_W02_overhead viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_D06_MaintenancePortal_W02_overhead_visibility.png
+PASS D06_MaintenancePortal_W02_overhead visibility probe captured at (-179.79, 1.80, 48.82)
+LANE D06_RoofWaterTank_Ground_EN2_overhead start=(-202.04, 3.00, 72.93) end=(-202.04, 3.00, 72.93) corners=1
+NOTE cameraFocus=D06_RoofWaterTank_Ground_EN2_overhead viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_D06_RoofWaterTank_Ground_EN2_overhead_start.png
+NOTE cameraFocus=D06_RoofWaterTank_Ground_EN2_overhead viewport=(0.500, 0.500, 16.532)
+NOTE D06_RoofWaterTank_Ground_EN2_overhead topDownRayHitsD06=False playerSilhouette=False localReveal=False
+NOTE D06_RoofWaterTank_Ground_EN2_overhead center ray did not intersect D06 solid; screenshot and edge probes remain necessary.
+NOTE cameraFocus=D06_RoofWaterTank_Ground_EN2_overhead viewport=(0.500, 0.500, 16.532)
+NOTE screenshot=after_play_D06_RoofWaterTank_Ground_EN2_overhead_visibility.png
+PASS D06_RoofWaterTank_Ground_EN2_overhead visibility probe captured at (-202.04, 2.97, 72.93)
+passed=16 failed=0 expected=16
+RESULT PASS

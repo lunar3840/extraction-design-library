@@ -1,0 +1,9 @@
+{
+  "status": "PASS_BACKUP_AND_SCREENSHOT_STORAGE_READBACK",
+  "backupFiles": 977,
+  "pairedGameViews": 57,
+  "pairedGameImages": 114,
+  "originalBytesAndPathsRetained": true,
+  "pilotArchive": "execution_tools/owned_pilot_archive/ARCHIVE_VERIFIED.json",
+  "utc": "2026-10-30T14:47:14.0396345Z"
+}

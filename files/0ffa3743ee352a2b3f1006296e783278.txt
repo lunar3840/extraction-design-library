@@ -1,0 +1,132 @@
+using System;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Escape.Visuals
+{
+    // Six source vertices on each index tip were bound to Thumb1/Hand. Extending the
+    // index stretched their faces into a vertical strip. The source asset stays
+    // intact: only this recognized model instance receives corrected weights.
+    public sealed class EdelIndexSkinBinding : MonoBehaviour
+    {
+        static readonly int[] RightVertices={9360,9362,9365,18194,18198,18203};
+        static readonly int[] RightBoundary={9357,9359,9361,9364,9368,9369,18192,18193,18197,18202,18205,18206};
+        static readonly Vector3[] RightPositions={
+            new Vector3(.333740234375f,-.02807622216641903f,.5400390625f),
+            new Vector3(.336181640625f,-.02807622402906418f,.53955078125f),
+            new Vector3(.339111328125f,-.02807622402906418f,.5400390625f)};
+        // Harmonic interpolation on the position-welded three-point island.
+        // Every fixed adjacent source vertex is weighted only to Index1/Index2.
+        static readonly float[] RightDistal={.9311861791802529f,.9863936908620313f,.9986292924606138f};
+        static readonly int[] LeftVertices={16079,16082,16085,17440,17442,17444};
+        static readonly int[] LeftBoundary={16076,16078,16081,16084,16086,16087,17438,17439,17441,17443,17445,17446};
+        static readonly Vector3[] LeftPositions={
+            new Vector3(-.333740234375f,-.028076136484742165f,.5400390625f),
+            new Vector3(-.336181640625f,-.028076134622097015f,.53955078125f),
+            new Vector3(-.339111328125f,-.028076134622097015f,.5400390625f)};
+        static readonly float[] LeftDistal={.9081610114463811f,.978998315224553f,.9977057277720273f};
+        public bool Applied {get;private set;}
+        public int CorrectedVertexCount {get;private set;}
+        public string Status {get;private set;}="Source signature not recognized; unchanged";
+        public string SourceMeshName {get;private set;}
+        Mesh ownedMesh,sourceMesh;
+        SkinnedMeshRenderer target;
+
+        public static void ApplyRecognized(GameObject model)
+        {
+            if(model==null||model.name!="Player_Edel"||model.GetComponent<EdelIndexSkinBinding>()!=null)return;
+            var repair=model.AddComponent<EdelIndexSkinBinding>();
+            foreach(var skin in model.GetComponentsInChildren<SkinnedMeshRenderer>(true))
+            {
+                if(skin.name!="Rest_Original")continue;
+                var mesh=skin.sharedMesh;
+                if(!TryCorrectedWeights(mesh,skin.bones,out var weights,out int count))continue;
+                repair.sourceMesh=mesh;repair.SourceMeshName=mesh.name;
+                repair.ownedMesh=Instantiate(mesh);repair.ownedMesh.name=mesh.name+" (index skin binding)";
+                repair.ownedMesh.boneWeights=weights;skin.sharedMesh=repair.ownedMesh;repair.target=skin;
+                repair.Applied=true;repair.CorrectedVertexCount=count;
+                repair.Status=count+" source index-tip weights corrected; positions, triangles, UV and morphs preserved";
+                break;
+            }
+        }
+
+        public static bool TryCorrectedWeights(Mesh mesh,Transform[] bones,out BoneWeight[] corrected)
+            =>TryCorrectedWeights(mesh,bones,out corrected,out _);
+
+        static bool TryCorrectedWeights(Mesh mesh,Transform[] bones,out BoneWeight[] corrected,out int count)
+        {
+            corrected=null;count=0;
+            if(mesh==null||!mesh.isReadable||mesh.vertexCount!=27958||mesh.subMeshCount!=4||bones==null)return false;
+            var positions=mesh.vertices;var weights=mesh.boneWeights;
+            if(weights.Length!=positions.Length)return false;
+            var result=(BoneWeight[])weights.Clone();
+            if(TrySide(mesh,bones,positions,weights,result,"R",RightVertices,RightBoundary,RightPositions,RightDistal,
+                .5803757905960083f,.4196241796016693f,0xb8140322u,0x92c56c59u))count+=RightVertices.Length;
+            if(TrySide(mesh,bones,positions,weights,result,"L",LeftVertices,LeftBoundary,LeftPositions,LeftDistal,
+                .580369234085083f,.4196307361125946f,0x0cd38839u,0x25250db0u))count+=LeftVertices.Length;
+            if(count==0)return false;
+            corrected=result;return true;
+        }
+
+        static bool TrySide(Mesh mesh,Transform[] bones,Vector3[] positions,BoneWeight[] weights,BoneWeight[] corrected,
+            string side,int[] Vertices,int[] Boundary,Vector3[] Positions,float[] Distal,
+            float sourceThumb,float sourceHand,uint expectedTopology,uint expectedSignature)
+        {
+            int index1=Array.FindIndex(bones,b=>b!=null&&b.name=="Index1."+side);
+            int index2=Array.FindIndex(bones,b=>b!=null&&b.name=="Index2."+side);
+            int thumb=Array.FindIndex(bones,b=>b!=null&&b.name=="Thumb1."+side);
+            int hand=Array.FindIndex(bones,b=>b!=null&&b.name=="Hand."+side);
+            if(index1<0||index2<0||thumb<0||hand<0)return false;
+            if(bones[index2].parent!=bones[index1]||bones[index1].parent!=bones[hand])return false;
+            var selected=new HashSet<int>(Vertices);var neighbours=new HashSet<int>();
+            foreach(int id in Vertices)
+            {
+                int at=Array.IndexOf(Vertices,id)%3;
+                if((positions[id]-Positions[at]).sqrMagnitude>1e-12f)return false;
+                if(Mathf.Abs(Amount(weights[id],thumb)-sourceThumb)>1e-6f||
+                   Mathf.Abs(Amount(weights[id],hand)-sourceHand)>1e-6f)return false;
+            }
+            int touched=0;uint topology=2166136261u;
+            for(int sub=0;sub<mesh.subMeshCount;sub++)
+            {
+                var ids=mesh.GetTriangles(sub);
+                for(int i=0;i<ids.Length;i+=3)
+                {
+                    int a=ids[i],b=ids[i+1],c=ids[i+2];
+                    if(!selected.Contains(a)&&!selected.Contains(b)&&!selected.Contains(c))continue;
+                    unchecked{topology=(topology^(uint)sub)*16777619u;topology=(topology^(uint)a)*16777619u;topology=(topology^(uint)b)*16777619u;topology=(topology^(uint)c)*16777619u;}
+                    touched++;if(!selected.Contains(a))neighbours.Add(a);if(!selected.Contains(b))neighbours.Add(b);if(!selected.Contains(c))neighbours.Add(c);
+                }
+            }
+            // Refuse a similarly named replacement model or a changed finger topology.
+            if(touched!=14||topology!=expectedTopology||!neighbours.SetEquals(Boundary))return false;
+            foreach(int id in neighbours)
+                if(Mathf.Abs(Amount(weights[id],index1)+Amount(weights[id],index2)-1)>1e-6f)return false;
+            // Include exact original positions and all four relevant influences
+            // at the six repaired vertices AND their fixed boundary. The cached
+            // harmonic weights are valid only for this unchanged neighbourhood.
+            uint signature=2166136261u;
+            void Add(uint value){unchecked{signature=(signature^value)*16777619u;}}
+            void AddVertex(int id)
+            {
+                Add((uint)id);Add((uint)BitConverter.SingleToInt32Bits(positions[id].x));Add((uint)BitConverter.SingleToInt32Bits(positions[id].y));Add((uint)BitConverter.SingleToInt32Bits(positions[id].z));
+                Add((uint)BitConverter.SingleToInt32Bits(Amount(weights[id],index1)));Add((uint)BitConverter.SingleToInt32Bits(Amount(weights[id],index2)));
+                Add((uint)BitConverter.SingleToInt32Bits(Amount(weights[id],thumb)));Add((uint)BitConverter.SingleToInt32Bits(Amount(weights[id],hand)));
+            }
+            foreach(int id in Vertices)AddVertex(id);foreach(int id in Boundary)AddVertex(id);
+            if(signature!=expectedSignature)return false;
+            for(int i=0;i<Vertices.Length;i++)corrected[Vertices[i]]=new BoneWeight{boneIndex0=index2,weight0=Distal[i%3],boneIndex1=index1,weight1=1-Distal[i%3]};
+            return true;
+        }
+
+        static float Amount(BoneWeight w,int bone)
+            =>(w.boneIndex0==bone?w.weight0:0)+(w.boneIndex1==bone?w.weight1:0)+(w.boneIndex2==bone?w.weight2:0)+(w.boneIndex3==bone?w.weight3:0);
+
+        void OnDestroy()
+        {
+            if(target!=null&&target.sharedMesh==ownedMesh)target.sharedMesh=sourceMesh;
+            if(ownedMesh==null)return;
+            if(Application.isPlaying)Destroy(ownedMesh);else DestroyImmediate(ownedMesh);
+        }
+    }
+}

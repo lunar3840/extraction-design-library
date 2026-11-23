@@ -1,0 +1,19 @@
+PRODUCTION LOOT ART INTEGRATION AUDIT
+UTC: 2026-10-19T05:16:36.8275357Z
+RESULT PASS - 9,424 file/reference/image checks, zero failures.
+
+Production: C:/UnityProject/escape/Assets/Escape
+Counts: 41 item prefabs (32 loot + 5 food + 4 ammunition), 7 container prefabs, 8 shared meshes, 33 materials, 41 PNG icons. Total: 130 generated assets.
+All 130 assets have paired metadata. Generated GUIDs have no internal duplicates. All four owned source files also have metadata.
+All 48 art prefabs are active, on normal layer 0, and contain no colliders or gameplay scripts.
+All 5,808 local prefab references resolve. Shared mesh/material GUID and fileID references resolve. Both external URP shader/material-version GUIDs resolve in the production package cache.
+All 41 PNGs are distinct 512x512 RGBA images with transparent backgrounds, opaque model pixels, and no image-border crop.
+PNG lower-bound coverage: clear pixels >= 141582; opaque pixels >= 41889.
+All icon importers preserve alpha, disable mipmaps, and use bilinear filtering.
+Runtime GlassIcons lookup UI/ItemIcons/<ItemId> matches the production resource paths exactly. All 41 supported IDs have both icon and item prefab.
+Production contains exactly 41 matching Resources/UI/ItemIcons PNG paths; no duplicate lookup names.
+Medical override lookup remains compatible. GroundLootDrop uses the same HasVisual ID set.
+Native BUILD_REPORT.txt confirms all 41 render alpha/bounds checks and seven bounded floor-pivot containers passed. Main visually approved the contact sheet and electronics case.
+
+Scope: read-only production audit; no Unity launch, no rendering, no validation-clone access. Live game behavior is validated separately by the main agent.
+Detailed evidence: INTEGRATION_AUDIT_DETAILS.txt

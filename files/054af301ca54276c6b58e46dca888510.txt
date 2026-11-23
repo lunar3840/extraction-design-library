@@ -1,0 +1,59 @@
+Unified Figma UI actual-screen route before / 1920x1080
+UTC=2026-10-22T22:27:56.8673681Z; seed=20261023; route version=2026-10-23-rig
+Library-only save=C:\UnityProject\escape\Library\UnifiedUiEvidence\before-1920x1080-42bf7ba552544e61a6d56d5998b869a7; previous override=<null>
+No scene asset save/open, app Exit, Play start/automatic stop, normal-profile load/write, fake keyboard, or medical-wheel restoration.
+Screenshots prove presentation of API-prepared runtime states, not native input correctness. Inspect every PNG before claiming visual success.
+SKIP removed medical wheel and quickslot bar by latest chest-rig policy; replaced by rig recommendation/treatment/status screens.
+Operation timers use real monotonic time, not synthetic future times. Framing/layout/seed match; elapsed seconds can differ slightly.
+PASS geometry operator inside actual logical canvas
+PASS geometry portrait inside actual logical canvas
+PASS geometry carried inside actual logical canvas
+PASS geometry context inside actual logical canvas
+PASS geometry rig/backpack inside carried panel
+PASS geometry rig above backpack without overlap
+PASS geometry deleted quickslot bar remains absent
+PASS geometry two-weapon HUD inside screen
+PASS geometry separate HP/stamina directly adjacent
+Geometry checks do not prove text fit, contrast, visual fidelity or native input.
+CAPTURE before_title_1920x1080.png bytes=1668976 verified PNG dimensions=1920x1080
+CAPTURE before_new_slots_1920x1080.png bytes=1559608 verified PNG dimensions=1920x1080
+CAPTURE before_load_slots_empty_1920x1080.png bytes=1558366 verified PNG dimensions=1920x1080
+CAPTURE before_new_slot_confirmation_1920x1080.png bytes=1562683 verified PNG dimensions=1920x1080
+CAPTURE before_loading_1920x1080.png bytes=1586237 verified PNG dimensions=1920x1080
+Fixture seeded by public APIs only: unchanged starter backpack; rig injector verified; extra tier examples in isolated storage.
+CAPTURE before_camp_hud_1920x1080.png bytes=1740617 verified PNG dimensions=1920x1080
+CAPTURE before_lobby_1920x1080.png bytes=340006 verified PNG dimensions=1920x1080
+CAPTURE before_inventory_1920x1080.png bytes=864776 verified PNG dimensions=1920x1080
+CAPTURE before_inventory_side_1920x1080.png bytes=856632 verified PNG dimensions=1920x1080
+CAPTURE before_inventory_medical_1920x1080.png bytes=902704 verified PNG dimensions=1920x1080
+CAPTURE before_weapon_modding_1920x1080.png bytes=986328 verified PNG dimensions=1920x1080
+CAPTURE before_storage_1920x1080.png bytes=864317 verified PNG dimensions=1920x1080
+CAPTURE before_storage_details_1920x1080.png bytes=949592 verified PNG dimensions=1920x1080
+CAPTURE before_supply_1920x1080.png bytes=920453 verified PNG dimensions=1920x1080
+CAPTURE before_research_1920x1080.png bytes=1068633 verified PNG dimensions=1920x1080
+CAPTURE before_companion_abilities_1920x1080.png bytes=1192697 verified PNG dimensions=1920x1080
+CAPTURE before_chip_recovery_1920x1080.png bytes=1073140 verified PNG dimensions=1920x1080
+CAPTURE before_quests_1920x1080.png bytes=1193370 verified PNG dimensions=1920x1080
+CAPTURE before_save_records_1920x1080.png bytes=1488693 verified PNG dimensions=1920x1080
+CAPTURE before_departure_1920x1080.png bytes=1369084 verified PNG dimensions=1920x1080
+CAPTURE before_departing_1920x1080.png bytes=876219 verified PNG dimensions=1920x1080
+CAPTURE before_combat_hud_1920x1080.png bytes=3341636 verified PNG dimensions=1920x1080
+CAPTURE before_medical_recommendation_1920x1080.png bytes=3343454 verified PNG dimensions=1920x1080
+CAPTURE before_medical_treatment_1920x1080.png bytes=3345337 verified PNG dimensions=1920x1080
+CAPTURE before_medical_status_1920x1080.png bytes=3349117 verified PNG dimensions=1920x1080
+CAPTURE before_loot_prompt_group_1920x1080.png bytes=3335616 verified PNG dimensions=1920x1080
+CAPTURE before_loot_search_1920x1080.png bytes=943134 verified PNG dimensions=1920x1080
+CAPTURE before_loot_revealed_1920x1080.png bytes=1036919 verified PNG dimensions=1920x1080
+CAPTURE before_tactical_map_1920x1080.png bytes=2014919 verified PNG dimensions=1920x1080
+CAPTURE before_extraction_1920x1080.png bytes=3398095 verified PNG dimensions=1920x1080
+CAPTURE before_extracted_camp_1920x1080.png bytes=1501981 verified PNG dimensions=1920x1080
+CAPTURE before_story_dialogue_1920x1080.png bytes=295516 verified PNG dimensions=1920x1080
+CAPTURE before_story_history_1920x1080.png bytes=193293 verified PNG dimensions=1920x1080
+CAPTURE before_story_skip_confirmation_1920x1080.png bytes=233295 verified PNG dimensions=1920x1080
+CAPTURE before_death_1920x1080.png bytes=3616004 verified PNG dimensions=1920x1080
+CAPTURE before_saving_1920x1080.png bytes=882162 verified PNG dimensions=1920x1080
+CAPTURE before_title_return_1920x1080.png bytes=125071 verified PNG dimensions=1920x1080
+CLEANUP_REQUESTED All route steps reached.
+COMPLETE All route steps reached.
+captures=37; geometryFailures=0; titleNoSession=True
+Play was not stopped by route. Main must inspect PNGs, send stop_play explicitly if desired, then restore original scene through normal UI.

@@ -1,0 +1,187 @@
+[
+  {
+    "file": "Assets\\Escape\\Runtime\\Basecamp\\ShopCatalog.cs",
+    "sha256": "86aaf60d43275e3b152cd8f532fef3982b8488bfee55217adbdf0751954d15a7",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\BackpackCatalog.cs",
+    "sha256": "de10e61093ed6a981c92c9930f1e92c0f340a4f309f0bc11b3406c7fa06951ab",
+    "new": true
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\GameDefinitions.cs",
+    "sha256": "1214888530ef571b99b838a8a154b312ce541f7c968943db571114b1c0d4fd37",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\InventoryController.cs",
+    "sha256": "4ca9414fb3de96cf7ba1fafd070c5a9d826fec64eb58de74778a0d6f4c8bd1f8",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\InventoryDoubleClick.cs",
+    "sha256": "7eaeeaf7bcd4919519d4463d59de33296ab33f293bec36464cce2e5da7451a7f",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\InventoryGlassView.cs",
+    "sha256": "128790cff12d63c445371b74d6238116b716f81246e0778c303d470f94f32862",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\InventoryGridPresentation.cs",
+    "sha256": "78dc32e7eaac6bac73b95323586775d6daf253ffabe323d5e795cfad1e0dfa09",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\InventoryHoverTooltip.cs",
+    "sha256": "595eab5a23ca950025bd0a4d716f1aa0f91a7034caf198ed274e2c8e3d403e1d",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\InventoryHudLayout.cs",
+    "sha256": "13a989c53b1c83c8558f7e1ef314e61c8a42d8b67ad19e8f3df6142c22adaeb2",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\InventoryHudView.cs",
+    "sha256": "d6fb1cdaf80a08c2094bc4d566c891fef279b170f16cdbbc6f7cf829e9600954",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\InventoryMedicalDetails.cs",
+    "sha256": "03d97e8d6706cd60b476bf6f016a56dc3c27fd5a6027acaf2f5a185fedc0aee0",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\InventoryTestWorld.cs",
+    "sha256": "e9a0415d4e7e98675778fc593f7dbafa2995a228cad5b3a5eae1e46cf8ccf412",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\ItemCatalog.cs",
+    "sha256": "2f776cc1ff9ad7494777f053052a7bfe558a1c4e4f16fb188d74977723779320",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\PrototypeItems.cs",
+    "sha256": "64b8a760a7ba33eac269cd500875d57166af8e8cea7f79e18a9bff10cc248587",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Save\\BasecampTransactions.cs",
+    "sha256": "3588da271874da1f8458e6e736cbf3cacfbbd4276a8d48ef453505e5b19205f4",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Save\\InventoryTransactions.cs",
+    "sha256": "d191fef9f5bad6d551b5308e5fa805efb57a2dcf7fe6ae92d3ad686ff91f3efa",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Save\\ProfileMigration.cs",
+    "sha256": "18483b704320d85563ffd553907a5d9d6c3634a8de67ef2c03e5e602a272292a",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Save\\ProfileSession.cs",
+    "sha256": "0be948c75c1f084839ea3a0ae745a9fd456dee5e38101bba2c43ef2f370c3dee",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Stage\\SessionInventoryPresentation.cs",
+    "sha256": "c8564c4edaffbb4d54701ab118fd9eb2cc702a2aa61c865e09c0fb9d8bdb2479",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Stage\\SessionTestWorld.cs",
+    "sha256": "63f4882dbca08d578c02f6c4fb2d3e1b386e46019fac708e28a4549f611feb93",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\UI\\FigmaInventorySkin.cs",
+    "sha256": "dd7cf203d08141b347fed9c51560a95d79c9ba940ca83625dff1b42b6fdf0f6a",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\UI\\GlassIcons.cs",
+    "sha256": "53a5245d0357d25eef7e288c17761e1cc3b7420a5e9766c909809da0d6871203",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\UI\\UiTheme.cs",
+    "sha256": "eb03707906b337945917f4205472655e385944e087114003c1454c47b52f0c70",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Combat\\Core\\InjuryState.cs",
+    "sha256": "42668ab4e8ef295559f9c147f79839ad7fd21aa86beb981a5e54c26aade2d395",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\Core\\InventoryCarried.cs",
+    "sha256": "d7a222afdaf63739d44b9a15338205b5896fee65a37fb7dc9604128ffb9dba76",
+    "new": true
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\Core\\InventoryExternalEquipment.cs",
+    "sha256": "3f431be43e648d9f2df7c73f6eb657fee2c111a918debb4d36d3abc42340b17f",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\Core\\InventoryGrid.cs",
+    "sha256": "de894beb0d9c5d5c4ed5d8530cd49ec2a498a8c28b445df6340ef309cba31851",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\Core\\InventoryGroundTransfer.cs",
+    "sha256": "04be326dca89f64fc559ce4c81b86b20eb54f61be139ad0dde3368c5a1ef80ac",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\Core\\InventorySnapshot.cs",
+    "sha256": "44ca5b83f29113e0b698bbf0c4d4575c4a8d8f40d1a082a5c5abee81e8426b1c",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\Core\\InventoryState.cs",
+    "sha256": "2d4c4b11a97969ce3de6d83c5995f961fb896447c2a1f8a39ddaf84a7a98656f",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Inventory\\Core\\ItemUseState.cs",
+    "sha256": "252dde07c55244077119ac640a89fa1f51097460980455ad1baba13b6a1cad31",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Loot\\Core\\LootRegionSwap.cs",
+    "sha256": "5ade78569296b445da18492e5a3e9b80df71070ea874af46c9539e4ae15cdfc5",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Runtime\\Save\\Core\\ProfileData.cs",
+    "sha256": "a4eb45433c0d860040ade655a87e2745356bc05b0b7363b9284fbb9855236e7c",
+    "new": false
+  },
+  {
+    "file": "Assets\\Escape\\Editor\\ChestRigReviewBridge.cs",
+    "sha256": "9b473c8b23867a2f259acb4e2c34b674dd31209fcf7f22a435fbcb894eb0dce8"
+  },
+  {
+    "file": "Assets\\Escape\\Editor\\ChestRigBackpackChecks.cs",
+    "sha256": "48b9d813ecf1698c17555099e234fa5824b1c897a11064b07a590a33f2d13b1a"
+  },
+  {
+    "file": "Assets\\Escape\\Editor\\AnalgesicProphylaxisChecks.cs",
+    "sha256": "44c7b2e724193219d5d877ab4c744af0309ed0aa7b4abb8a49951556fed3b63d"
+  },
+  {
+    "file": "Assets\\Escape\\Editor\\RigQuickUseChecks.cs",
+    "sha256": "0e4e1416fc682e1075bdfa80c8984b9219c16bed2f76d600dafb782c38ac1482"
+  },
+  {
+    "file": "Assets\\Escape\\Editor\\InventoryRegionSwapChecks.cs",
+    "sha256": "9c43d6c79368919c56f00db96a9e1f5d7c083bd56532c6c90340042523823f64"
+  }
+]

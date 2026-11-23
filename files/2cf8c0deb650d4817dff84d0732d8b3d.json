@@ -1,0 +1,23 @@
+[
+  {
+    "Path": "C:\\UnityProject\\escape\\Library\\ScriptAssemblies\\Assembly-CSharp.dll",
+    "Hash": "314C52B33F96AF53093E2292A3D4E13A799FC5D5C0200E0AA2C8F97E65F5B74F",
+    "Bytes": 1232896,
+    "LastWriteTimeUtc": "2026-10-22T22:35:36.5283428Z",
+    "ObservedUtc": "2026-10-22T22:36:35.2517867Z"
+  },
+  {
+    "Path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Inventory\\InventoryDoubleClickSequence.cs",
+    "Hash": "99CAB2FC009808B929E17925737C20318AAA1EE43A0B726DD6CBC952B1D7EA1C",
+    "Bytes": 1877,
+    "LastWriteTimeUtc": "2026-10-22T10:51:01.4784235Z",
+    "ObservedUtc": "2026-10-22T22:36:35.2699770Z"
+  },
+  {
+    "Path": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Weapon\\Core\\AutomaticReloadRules.cs",
+    "Hash": "8A37DE38081113D6F4FA7179AB63EEDE0DA7432E24B4E59DABF8EA5CC817F3C0",
+    "Bytes": 1110,
+    "LastWriteTimeUtc": "2026-10-22T10:51:01.4799276Z",
+    "ObservedUtc": "2026-10-22T22:36:35.2716561Z"
+  }
+]

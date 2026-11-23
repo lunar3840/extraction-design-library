@@ -1,0 +1,6 @@
+﻿entry,active,nearest_spawn_actor,variant,nearest_spawn_horizontal_m,leash_plus_detection_or_fire_min_margin_m,activity_margin_actor,activity_margin_variant
+B1,True,G1_01,A,61.186,30.186,G1_01,A
+B2,True,G2_01,A,46.017,15.017,G2_01,A
+B3,True,G3_02,C,47.391,16.391,G3_02,C
+B4,True,G4_02,B,48.332,17.332,G4_02,B
+R8,False,G4_01,B,23.137,-7.863,G4_01,B

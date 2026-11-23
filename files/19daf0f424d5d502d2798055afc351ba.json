@@ -1,0 +1,8 @@
+{
+  "bytes": 1366994,
+  "compile_errors": [],
+  "exceptions": [],
+  "existing_particle_velocity_messages": 23421,
+  "same_particle_message_present_before_this_application": false,
+  "preapplication_bounded_window_bytes": 1048576
+}

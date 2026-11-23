@@ -1,0 +1,29 @@
+UTC=2026-10-22T22:48:36.3319430Z
+scene=Assets/Escape/Scenes/SystemsTest.unity playing=True dirty=False
+homeVerified=True active=False owned=True cleaning=False interactive=True nativeCapture=equipment step=0/0
+gameTarget=1920x1080 rawScreen=1920x1080 lastPaint=1920x1080 paintFrame=20299 frame=20299
+page=Lobby busy=False location=BaseCamp panel=-1
+save=C:\UnityProject\escape\Library\UnifiedUiEvidence\interactive-1920x1080-9dba46771ec645f3ba60a739b9632653 ownedSave=True
+position=(0.00, 0.02, -2.60) rotation=(0.00, 142.39, 0.00) camera=(5.31, 13.68, 6.60)
+inventory=True input=True frozen=False mapBlocked=False
+health=100 stamina=100 energy=100 water=100 bleeding=False traumas=0 analgesic=0
+using=False activeUid= rigUse=False useStatus=Ready medicalStatus=응급 주사기 자동 치료 시작
+wheel=False carried=True rig= 6x2 pack=BP_PATROL_24 packSize=6x4
+lootCandidates=3 lootActive=
+slot[0]=SD_BASIC_VEST uid=222d155bd65a4af0bacc7e6118d46f59 quantity=1 page=1 grid=0,0 rotated=False
+slot[2]=item_018 uid=eed43b3e35ea4a518ba3aeb1bed58df6 quantity=20 page=0 grid=2,0 rotated=False
+slot[3]=item_018 uid=a36cd6ce93454e3da68c12599cb18a45 quantity=50 page=0 grid=3,0 rotated=False
+slot[4]=med_injector_c uid=4f296d709d7d4a2ea086fab83ccd8796 quantity=1 page=0 grid=4,0 rotated=False
+slot[5]=med_field_kit_b uid=a1adabffa8ce4793ae1f9708e2e9e71d quantity=1 page=0 grid=5,0 rotated=False
+slot[6]=med_tactical_bag_a uid=392625abb06747bb8e3504c71b0ce5eb quantity=1 page=0 grid=2,1 rotated=True
+slot[7]=med_tourniquet_b uid=2e1725d40cca47e987313ee141d9d131 quantity=1 page=0 grid=4,1 rotated=False
+slot[8]=med_analgesic_b uid=07e743cc14b943cf9f965fe7bdf6829f quantity=1 page=0 grid=5,1 rotated=False
+slot[9]=med_analgesic_a uid=26f978deb52d46188b5abd28bdbfb95b quantity=1 page=1 grid=3,0 rotated=False
+slot[10]=SURGERY_KIT uid=6e99d0c00a014cbcace1f516e8e4f50f quantity=1 page=1 grid=4,0 rotated=False
+slot[11]=med_surgery_b uid=cb3a71a4c22c49f5887e0b5321f1239f quantity=1 page=1 grid=5,0 rotated=False
+slot[12]=med_surgery_a uid=896f492c1ea04cd598b5f1053613861b quantity=1 page=1 grid=3,1 rotated=False
+slot[13]=companion_chip_prototype uid=ba59106f89e54839a137bd8f9f27955c quantity=1 page=1 grid=4,1 rotated=False
+slot[14]=companion_chip_liv uid=e60ec53b5b664dffa827b7a184e94eb9 quantity=1 page=1 grid=4,2 rotated=False
+slot[15]=companion_chip_yui uid=3fa175467fb44aa3a861e3303576d7f4 quantity=1 page=1 grid=5,2 rotated=False
+weapon[0]=AR_001 mag=30 tier=1 reloading=False
+weapon[1]= mag= tier= reloading=

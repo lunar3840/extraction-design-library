@@ -1,0 +1,2032 @@
+{
+  "schema": "A_MAP_UNITY_STAIN_UV_COMPARISON_1",
+  "actualFile": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-28\\a-map-blender-environment-expansion\\main\\ACTUAL_STAIN_UV_639287289736825840.json",
+  "expectedFile": "EXPECTED_STAIN_UV_CORNERS_ALL.json",
+  "positionToleranceMetres": 0.0002,
+  "uvTolerance": 0.0002,
+  "groupsCompared": 134,
+  "expectedCorners": 10182,
+  "actualCorners": 10182,
+  "trianglesCompared": 3394,
+  "triangleTopologyPass": true,
+  "triangleOrientationCounts": {
+    "cyclic": 3394,
+    "reversed": 0,
+    "ambiguous": 0
+  },
+  "pass": true,
+  "failures": {},
+  "triangleFailures": {},
+  "results": {
+    "C01/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 132,
+      "actualCorners": 132,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "C01/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 36,
+      "actualCorners": 36,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "C02/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 96,
+      "actualCorners": 96,
+      "maxPositionDifference": 1.0728836059570312e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "C02/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 24,
+      "actualCorners": 24,
+      "maxPositionDifference": 9.5367431640625e-07,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "C03/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 84,
+      "actualCorners": 84,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "C03/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 30,
+      "actualCorners": 30,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "C04/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 90,
+      "actualCorners": 90,
+      "maxPositionDifference": 1.430511474609375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "C04/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 18,
+      "actualCorners": 18,
+      "maxPositionDifference": 9.5367431640625e-07,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "CLINIC/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 96,
+      "actualCorners": 96,
+      "maxPositionDifference": 1.1444091796875e-05,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "CLINIC/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 48,
+      "actualCorners": 48,
+      "maxPositionDifference": 1.1444091796875e-05,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "E01/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 102,
+      "actualCorners": 102,
+      "maxPositionDifference": 4.76837158203125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "E01/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 72,
+      "actualCorners": 72,
+      "maxPositionDifference": 5.7220458984375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "E02/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 96,
+      "actualCorners": 96,
+      "maxPositionDifference": 5.7220458984375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "E02/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 36,
+      "actualCorners": 36,
+      "maxPositionDifference": 5.7220458984375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "E03/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 78,
+      "actualCorners": 78,
+      "maxPositionDifference": 9.5367431640625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "E03/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 72,
+      "actualCorners": 72,
+      "maxPositionDifference": 8.58306884765625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "E04/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 96,
+      "actualCorners": 96,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "E04/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 24,
+      "actualCorners": 24,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "E05/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 102,
+      "actualCorners": 102,
+      "maxPositionDifference": 2.86102294921875e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "E05/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 18,
+      "actualCorners": 18,
+      "maxPositionDifference": 2.86102294921875e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "E06/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 90,
+      "actualCorners": 90,
+      "maxPositionDifference": 3.814697265625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "E06/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 24,
+      "actualCorners": 24,
+      "maxPositionDifference": 3.814697265625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "E07/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 120,
+      "actualCorners": 120,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "E07/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 42,
+      "actualCorners": 42,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "E08/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 96,
+      "actualCorners": 96,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "E08/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 18,
+      "actualCorners": 18,
+      "maxPositionDifference": 1.430511474609375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "E09/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 396,
+      "actualCorners": 396,
+      "maxPositionDifference": 4.76837158203125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "E09/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 48,
+      "actualCorners": 48,
+      "maxPositionDifference": 4.76837158203125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "E10/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 102,
+      "actualCorners": 102,
+      "maxPositionDifference": 3.814697265625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "E10/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 30,
+      "actualCorners": 30,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "E11/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 108,
+      "actualCorners": 108,
+      "maxPositionDifference": 3.5762786865234375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "E11/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 48,
+      "actualCorners": 48,
+      "maxPositionDifference": 4.291534423828125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "E12/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 84,
+      "actualCorners": 84,
+      "maxPositionDifference": 8.58306884765625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "E12/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 24,
+      "actualCorners": 24,
+      "maxPositionDifference": 8.58306884765625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "F01/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 366,
+      "actualCorners": 366,
+      "maxPositionDifference": 2.86102294921875e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "F01/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 42,
+      "actualCorners": 42,
+      "maxPositionDifference": 2.86102294921875e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "F02/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 432,
+      "actualCorners": 432,
+      "maxPositionDifference": 7.62939453125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "F02/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 42,
+      "actualCorners": 42,
+      "maxPositionDifference": 7.62939453125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "F03/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 420,
+      "actualCorners": 420,
+      "maxPositionDifference": 1.430511474609375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "F03/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 42,
+      "actualCorners": 42,
+      "maxPositionDifference": 1.430511474609375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "N01/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 120,
+      "actualCorners": 120,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "N01/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 42,
+      "actualCorners": 42,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "N02/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 90,
+      "actualCorners": 90,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "N02/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 48,
+      "actualCorners": 48,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "N03/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 102,
+      "actualCorners": 102,
+      "maxPositionDifference": 9.5367431640625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "N03/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 54,
+      "actualCorners": 54,
+      "maxPositionDifference": 1.049041748046875e-05,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "N04/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 132,
+      "actualCorners": 132,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "N04/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 48,
+      "actualCorners": 48,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "N05/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 132,
+      "actualCorners": 132,
+      "maxPositionDifference": 1.430511474609375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "N05/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 48,
+      "actualCorners": 48,
+      "maxPositionDifference": 1.430511474609375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "N06/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 144,
+      "actualCorners": 144,
+      "maxPositionDifference": 2.384185791015625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "N06/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 42,
+      "actualCorners": 42,
+      "maxPositionDifference": 2.384185791015625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "N07/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 66,
+      "actualCorners": 66,
+      "maxPositionDifference": 9.5367431640625e-07,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "N07/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 12,
+      "actualCorners": 12,
+      "maxPositionDifference": 9.5367431640625e-07,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "N08/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 102,
+      "actualCorners": 102,
+      "maxPositionDifference": 1.430511474609375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "N08/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 72,
+      "actualCorners": 72,
+      "maxPositionDifference": 1.430511474609375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "N09/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 90,
+      "actualCorners": 90,
+      "maxPositionDifference": 4.76837158203125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "N09/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 30,
+      "actualCorners": 30,
+      "maxPositionDifference": 4.76837158203125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "N10/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 72,
+      "actualCorners": 72,
+      "maxPositionDifference": 1.6689300537109375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "N10/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 12,
+      "actualCorners": 12,
+      "maxPositionDifference": 1.1920928955078125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "N11/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 126,
+      "actualCorners": 126,
+      "maxPositionDifference": 6.198883056640625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "N11/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 36,
+      "actualCorners": 36,
+      "maxPositionDifference": 5.7220458984375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "N12/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 96,
+      "actualCorners": 96,
+      "maxPositionDifference": 9.5367431640625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "N12/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 72,
+      "actualCorners": 72,
+      "maxPositionDifference": 9.5367431640625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "N13/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 90,
+      "actualCorners": 90,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "N13/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 30,
+      "actualCorners": 30,
+      "maxPositionDifference": 2.86102294921875e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "N14/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 96,
+      "actualCorners": 96,
+      "maxPositionDifference": 9.5367431640625e-07,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "N14/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 30,
+      "actualCorners": 30,
+      "maxPositionDifference": 9.5367431640625e-07,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "N15/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 96,
+      "actualCorners": 96,
+      "maxPositionDifference": 3.337860107421875e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "N15/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 24,
+      "actualCorners": 24,
+      "maxPositionDifference": 3.337860107421875e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "N16/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 96,
+      "actualCorners": 96,
+      "maxPositionDifference": 1.430511474609375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "N16/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 18,
+      "actualCorners": 18,
+      "maxPositionDifference": 1.430511474609375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "N17/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 72,
+      "actualCorners": 72,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "N17/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 24,
+      "actualCorners": 24,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "PARTS/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 72,
+      "actualCorners": 72,
+      "maxPositionDifference": 7.62939453125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "PARTS/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 18,
+      "actualCorners": 18,
+      "maxPositionDifference": 7.62939453125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "POWER/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 96,
+      "actualCorners": 96,
+      "maxPositionDifference": 7.62939453125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "POWER/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 60,
+      "actualCorners": 60,
+      "maxPositionDifference": 9.5367431640625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "S01/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 66,
+      "actualCorners": 66,
+      "maxPositionDifference": 9.5367431640625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "S01/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 42,
+      "actualCorners": 42,
+      "maxPositionDifference": 9.5367431640625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "S02/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 42,
+      "actualCorners": 42,
+      "maxPositionDifference": 3.814697265625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "S02/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 48,
+      "actualCorners": 48,
+      "maxPositionDifference": 3.814697265625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "S03/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 84,
+      "actualCorners": 84,
+      "maxPositionDifference": 2.86102294921875e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "S03/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 48,
+      "actualCorners": 48,
+      "maxPositionDifference": 9.5367431640625e-07,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "S04/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 72,
+      "actualCorners": 72,
+      "maxPositionDifference": 7.62939453125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "S04/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 48,
+      "actualCorners": 48,
+      "maxPositionDifference": 7.62939453125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "S05/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 96,
+      "actualCorners": 96,
+      "maxPositionDifference": 5.7220458984375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "S05/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 48,
+      "actualCorners": 48,
+      "maxPositionDifference": 5.7220458984375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "S06/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 48,
+      "actualCorners": 48,
+      "maxPositionDifference": 7.62939453125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "S06/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 48,
+      "actualCorners": 48,
+      "maxPositionDifference": 7.62939453125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "S07/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 96,
+      "actualCorners": 96,
+      "maxPositionDifference": 4.291534423828125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "S07/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 48,
+      "actualCorners": 48,
+      "maxPositionDifference": 3.814697265625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "S08/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 60,
+      "actualCorners": 60,
+      "maxPositionDifference": 9.5367431640625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "S08/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 36,
+      "actualCorners": 36,
+      "maxPositionDifference": 9.5367431640625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "S09/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 108,
+      "actualCorners": 108,
+      "maxPositionDifference": 1.430511474609375e-05,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "S09/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 42,
+      "actualCorners": 42,
+      "maxPositionDifference": 1.430511474609375e-05,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "S10/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 96,
+      "actualCorners": 96,
+      "maxPositionDifference": 6.67572021484375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "S10/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 42,
+      "actualCorners": 42,
+      "maxPositionDifference": 6.67572021484375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "S11/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 84,
+      "actualCorners": 84,
+      "maxPositionDifference": 4.76837158203125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "S11/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 24,
+      "actualCorners": 24,
+      "maxPositionDifference": 4.76837158203125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "S12/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 96,
+      "actualCorners": 96,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "S12/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 48,
+      "actualCorners": 48,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "TOOLS/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 60,
+      "actualCorners": 60,
+      "maxPositionDifference": 1.430511474609375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "TOOLS/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 12,
+      "actualCorners": 12,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "W01/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 84,
+      "actualCorners": 84,
+      "maxPositionDifference": 7.62939453125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "W01/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 18,
+      "actualCorners": 18,
+      "maxPositionDifference": 7.62939453125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "W02/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 108,
+      "actualCorners": 108,
+      "maxPositionDifference": 7.62939453125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "W02/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 18,
+      "actualCorners": 18,
+      "maxPositionDifference": 7.62939453125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "W03/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 96,
+      "actualCorners": 96,
+      "maxPositionDifference": 9.5367431640625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "W03/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 30,
+      "actualCorners": 30,
+      "maxPositionDifference": 8.58306884765625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "W04/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 96,
+      "actualCorners": 96,
+      "maxPositionDifference": 2.86102294921875e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "W04/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 24,
+      "actualCorners": 24,
+      "maxPositionDifference": 2.86102294921875e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "W05/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 90,
+      "actualCorners": 90,
+      "maxPositionDifference": 3.337860107421875e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "W05/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 12,
+      "actualCorners": 12,
+      "maxPositionDifference": 3.814697265625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "W06/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 60,
+      "actualCorners": 60,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "W06/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 24,
+      "actualCorners": 24,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "W07/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 120,
+      "actualCorners": 120,
+      "maxPositionDifference": 2.86102294921875e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "W07/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 42,
+      "actualCorners": 42,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "W08/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 96,
+      "actualCorners": 96,
+      "maxPositionDifference": 4.76837158203125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "W08/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 12,
+      "actualCorners": 12,
+      "maxPositionDifference": 4.76837158203125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "W09/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 120,
+      "actualCorners": 120,
+      "maxPositionDifference": 3.337860107421875e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "W09/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 36,
+      "actualCorners": 36,
+      "maxPositionDifference": 3.814697265625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "W11/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 96,
+      "actualCorners": 96,
+      "maxPositionDifference": 3.814697265625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "W11/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 12,
+      "actualCorners": 12,
+      "maxPositionDifference": 3.814697265625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "Y01/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 66,
+      "actualCorners": 66,
+      "maxPositionDifference": 4.76837158203125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "Y01/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 24,
+      "actualCorners": 24,
+      "maxPositionDifference": 4.76837158203125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "Y02/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 90,
+      "actualCorners": 90,
+      "maxPositionDifference": 1.430511474609375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "Y02/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 18,
+      "actualCorners": 18,
+      "maxPositionDifference": 1.430511474609375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "Y03/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 114,
+      "actualCorners": 114,
+      "maxPositionDifference": 1.9073486328125e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "Y03/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 48,
+      "actualCorners": 48,
+      "maxPositionDifference": 2.384185791015625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "Y04/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 390,
+      "actualCorners": 390,
+      "maxPositionDifference": 2.384185791015625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "Y04/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 48,
+      "actualCorners": 48,
+      "maxPositionDifference": 2.384185791015625e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    },
+    "Y05/ShellStain/D10_DampStain": {
+      "pass": true,
+      "expectedCorners": 90,
+      "actualCorners": 90,
+      "maxPositionDifference": 1.430511474609375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "681c345a453f8a64a9c2746d594ad741",
+          "2100000"
+        ]
+      ]
+    },
+    "Y05/ShellStain/D10_RustStain": {
+      "pass": true,
+      "expectedCorners": 24,
+      "actualCorners": 24,
+      "maxPositionDifference": 1.430511474609375e-06,
+      "maxUvDifference": 0.0,
+      "missingExpectedExamples": [],
+      "unmatchedActualCount": 0,
+      "actualMaterialAssetIds": [
+        [
+          "4ce76be8b1418474fbcaac3e8738ff3d",
+          "2100000"
+        ]
+      ]
+    }
+  }
+}

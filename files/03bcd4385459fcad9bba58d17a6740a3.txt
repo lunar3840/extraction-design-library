@@ -1,0 +1,19 @@
+PASS static placement gates for human-density-v03: 46 ordinary machines, 14 ordinary humans, five fixed named candidates; 65 authored slots.
+Existing 60 slots and all A/B/C or fixed-home patrols passed current collision/NavMesh recheck. B1-B4, inactive R, exits and named homes were not moved.
+H4_01 A Scavenger spawn=(107.00, 224.61) patrol=(107.00, 227.61) | nearest-machine-spawn=D_TOOLS_01 36.8m sight=occluded nearest-machine-patrol=D_TOOLS_01 35.5m sight=occluded nearest-other-human-patrol=H1_04 46.8m
+H4_01 B Scavenger spawn=(113.15, 227.08) patrol=(110.15, 227.08) | nearest-machine-spawn=G6_01 33.3m sight=open nearest-machine-patrol=G6_01 33.3m sight=open nearest-other-human-patrol=H1_04 40.7m
+H4_01 C Scavenger spawn=(102.76, 222.78) patrol=(102.76, 225.78) | nearest-machine-spawn=D_TOOLS_01 24.5m sight=occluded nearest-machine-patrol=D_TOOLS_01 24.5m sight=occluded nearest-other-human-patrol=H1_02 48.6m
+H4_02 A Breacher spawn=(113.40, 226.97) patrol=(110.40, 226.97) | nearest-machine-spawn=G6_02 32.5m sight=open nearest-machine-patrol=G6_01 30.2m sight=open nearest-other-human-patrol=H1_04 42.9m
+H4_02 B Breacher spawn=(107.50, 224.90) patrol=(107.50, 227.90) | nearest-machine-spawn=D_TOOLS_01 33.9m sight=occluded nearest-machine-patrol=D_TOOLS_01 32.7m sight=occluded nearest-other-human-patrol=H1_04 44.0m
+H4_02 C Breacher spawn=(110.00, 230.00) patrol=(113.00, 230.00) | nearest-machine-spawn=D_TOOLS_01 34.0m sight=occluded nearest-machine-patrol=G6_03 31.0m sight=open nearest-other-human-patrol=H1_02 44.7m
+H5_01 A Scavenger spawn=(374.56, 248.08) patrol=(377.56, 248.08) | nearest-machine-spawn=G10_02 43.4m sight=occluded nearest-machine-patrol=G10_02 41.7m sight=occluded nearest-other-human-patrol=H2_03 83.1m
+H5_01 B Scavenger spawn=(365.98, 248.75) patrol=(368.98, 248.75) | nearest-machine-spawn=G10_04 47.1m sight=occluded nearest-machine-patrol=G10_04 44.6m sight=occluded nearest-other-human-patrol=H2_02 82.9m
+H5_01 C Scavenger spawn=(364.58, 244.04) patrol=(367.58, 244.04) | nearest-machine-spawn=G10_03 45.2m sight=occluded nearest-machine-patrol=G10_03 42.5m sight=occluded nearest-other-human-patrol=H2_01 78.1m
+H5_02 A Suppressor spawn=(366.11, 248.89) patrol=(369.11, 248.89) | nearest-machine-spawn=G10_02 49.4m sight=occluded nearest-machine-patrol=G10_02 47.4m sight=occluded nearest-other-human-patrol=H2_03 83.0m
+H5_02 B Suppressor spawn=(365.14, 242.42) patrol=(368.14, 242.42) | nearest-machine-spawn=G10_04 44.6m sight=occluded nearest-machine-patrol=G10_04 41.9m sight=occluded nearest-other-human-patrol=H2_02 76.5m
+H5_02 C Suppressor spawn=(369.14, 239.57) patrol=(372.14, 239.57) | nearest-machine-spawn=G10_03 39.1m sight=occluded nearest-machine-patrol=G10_03 36.4m sight=occluded nearest-other-human-patrol=H2_01 74.0m
+H6_01 A Scavenger spawn=(279.82, 153.90) patrol=(282.82, 153.90) | nearest-machine-spawn=G12_05 25.6m sight=occluded nearest-machine-patrol=G12_05 25.1m sight=occluded nearest-other-human-patrol=H2_01 65.7m
+H6_01 B Scavenger spawn=(284.57, 152.76) patrol=(281.57, 152.76) | nearest-machine-spawn=G12_05 30.3m sight=occluded nearest-machine-patrol=G12_05 29.4m sight=occluded nearest-other-human-patrol=H2_04 60.7m
+H6_01 C Scavenger spawn=(279.55, 149.16) patrol=(282.55, 149.16) | nearest-machine-spawn=G12_05 38.0m sight=occluded nearest-machine-patrol=G12_05 37.9m sight=occluded nearest-other-human-patrol=H2_04 62.9m
+Static contact distances and sight rays do not prove avoidance or escape. Main workflow must verify all raid variants, faction avoidance and performance.
+No scene/prefab saved.

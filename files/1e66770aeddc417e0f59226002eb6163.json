@@ -1,0 +1,37 @@
+{
+  "verifiedAt": "2026-10-22T22:50:47.571Z",
+  "topicId": "topic:outputs/change_records/2026-10-23/stat-data-editor",
+  "revision": 5,
+  "indexHash": "6f151518cdbd2240149e57d8400236fc504f5edb5dbcc2dbe5e101b51986b041",
+  "images": [
+    {
+      "alt": "변경 전",
+      "height": 720,
+      "loaded": true,
+      "width": 1280
+    },
+    {
+      "alt": "변경 후",
+      "height": 720,
+      "loaded": true,
+      "width": 1280
+    },
+    {
+      "alt": "변경 전",
+      "height": 715,
+      "loaded": true,
+      "width": 953
+    },
+    {
+      "alt": "변경 후",
+      "height": 715,
+      "loaded": true,
+      "width": 953
+    }
+  ],
+  "recordUrl": "https://extraction-design-library-ehoji.ehojin0415.chatgpt.site/#outputs%2Fchange_records%2F2026-10-23%2Fstat-data-editor-menu-wrapping%2FCHANGE_RECORD.md",
+  "title": "데이터 편집기 — 중간점을 뒤 단어와 함께 줄바꿈",
+  "transcriptLink": "https://extraction-design-library-ehoji.ehojin0415.chatgpt.site/files/ae7a15818f8de7062a8f8590e1bd2eb5.md",
+  "transcriptOpened": "https://extraction-design-library-ehoji.ehojin0415.chatgpt.site/files/ae7a15818f8de7062a8f8590e1bd2eb5.md",
+  "transcriptRequestMatches": true
+}

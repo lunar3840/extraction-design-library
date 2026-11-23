@@ -1,0 +1,25 @@
+STAGE_A_OUTER_D13_INDEPENDENT_VALIDATION
+PASS retained saved A scene available in Edit mode
+PASS immutable current-D12 pre-D13 snapshot exists
+PASS snapshot includes whole current-D12 map, 184 original guards, original materials and all scene lighting
+PASS all current-D12 original objects, transforms, meshes, colliders, gameplay fields and material references unchanged; missing=0 structure=0 appearance=0
+PASS new map objects confined to one D13 root, four side groups and 46 panels; added=51 rejected=0
+PASS all pre-D13 original material assets unchanged; changed=0
+PASS all scene lights/volumes and global sky, ambient, fog, reflection and render settings unchanged
+PASS exactly 184 original guard renderers hidden; original BoxCollider, physical bounds, transforms, materials, meshes and components identical; bad=0
+PASS original North side retains 52 guard modules
+PASS original South side retains 52 guard modules
+PASS original West side retains 40 guard modules
+PASS original East side retains 40 guard modules
+PASS one D13 fence root has exactly North, South, West and East groups
+PASS 46 low-poly panels cover retained physical run and height, visually ground at 10m ends/midpoints, remain inside the old collision strip and use three exact D13 material slots; bad=0
+PASS D13 root has no new collider; only the retained original 184 physical walls block players
+PASS added D13 renderer/mesh-instance geometry stays below 150k triangles; renderers=46 vertices=212592 triangles=106296 (not an FPS guarantee)
+NOTE Panel coverage is world-AABB screen geometry; matched screenshots and actual player edge pushes remain separate acceptance gates.
+PASS four basic, eight dormant risk entries and seven original exits retained; B4/R8 spacing and R8 inactive policy unchanged
+NOTE Exit X6 is about 11m from south perimeter and X5 about 13m from east perimeter; actual exit approach/activation and B4/R8 route experience remain Play/design checks.
+VISUAL_ACCEPTANCE separate: inspect 20 matched before/after perimeter views, seams, all four corners, water crossings, terrain contact, and seven exit approaches. Static bounds alone do not prove fence appearance.
+PLAY_ACCEPTANCE separate: actual PlayerMotor must push all four sides/corners without escaping or snagging and still reach all seven exits; retain R8 inactive policy.
+PERFORMANCE separate: static added triangle budget is not a measured frame-time or FPS guarantee.
+passed=17 failed=0
+RESULT PASS

@@ -1,0 +1,6 @@
+SHA256=3E2774F2A4B284ED412207AFBC4634822B13E1503AFE7A3D29B6E97D1ED33CE5
+sourceLocalWriteTime=2026-10-22 06:07:22
+Runtime static compile: exit0,0errors,21pre-existing warnings
+Compiler output=compile_inventory_hud/runtime_compile_final_theme.txt
+Editor static compile: separate helper agent; not rerun by this agent
+No application/native/UI action performed

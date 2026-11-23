@@ -1,0 +1,16 @@
+{
+  "Scope": "Read-only preliminary balance audit; no new Unity play measurements or production edits",
+  "ActorCandidateRows": 73,
+  "OrdinaryActors": 68,
+  "TtkRows": 438,
+  "PartialFacilityBaskets": 12,
+  "SeedsPerBasket": [
+    "20000"
+  ],
+  "SurvivalPasses": 15,
+  "SurvivalFailures": 0,
+  "SerializedPlayerFieldChecks": 22,
+  "SourceConcurrency": "Other tasks changed SessionTestWorld/PlayerMotor; semantic diffs reviewed separately. Core calculations unchanged.",
+  "IntegratedIndependentReview": "PASS; final report read and integrated by main; 438 TTK rows and 36 break-even rows independently checked with zero arithmetic errors",
+  "SurvivalIndependentReview": "PASS; actual preserved core recompiled;15 checks; two output hashes identical;22 serialized fields match"
+}

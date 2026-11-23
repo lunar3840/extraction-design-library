@@ -1,0 +1,9 @@
+STAGE_A_TRIPO_D06_COUPLER_CONTACTS
+holder=TripoD06_Placements/PowerYard/D06_MachinePowerCoupler_PC
+couplerExactMeshColliders=1
+AABB_ONLY is broadphase overlap, not proven geometric contact. ComputePenetration requires one Box/Sphere/Capsule/convex-Mesh collider.
+COUPLER TripoD06_Placements/PowerYard/D06_MachinePowerCoupler_PC/Collision/Node_0_tripo_node_69d61096_ef1f_4d4f_a871_88dbdfc98ac7/Primitive_0 bounds=Center: (210.80, 8.13, 79.00), Extents: (0.90, 1.65, 0.90)
+GROUND_AABB   StageA_Landform_v09/SurfaceTiles/LandSurface_07 type=MeshCollider aabb=Center: (195.00, 6.38, 50.00), Extents: (65.00, 5.62, 50.00) (support is assessed by downward surface ray below)
+GROUND_SUPPORT_CANDIDATE Primitive_0 surface=StageA_Landform_v09/SurfaceTiles/LandSurface_07 colliderBottomMinusSurface=0.0000m (AABB underside, not per-triangle penetration)
+aabbPairs=1 confirmedNonGroundPenetrations=0 unsupportedNonGroundPairs=0 groundAabbPairs=1 groundEmbedCandidates=0 unresolvedGround=0
+RESULT NO_CONFIRMED_PENETRATION

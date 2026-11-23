@@ -1,0 +1,20 @@
+Unified Figma UI actual-screen route interactive / 1920x1080
+UTC=2026-10-22T22:41:47.9124852Z; seed=20261023; route version=2026-10-23-rig
+Library-only save=C:\UnityProject\escape\Library\UnifiedUiEvidence\interactive-1920x1080-9dba46771ec645f3ba60a739b9632653; previous override=<null>
+No scene asset save/open, app Exit, Play start/automatic stop, normal-profile load/write, fake keyboard, or medical-wheel restoration.
+Screenshots prove presentation of API-prepared runtime states, not native input correctness. Inspect every PNG before claiming visual success.
+SKIP removed medical wheel and quickslot bar by latest chest-rig policy; replaced by rig recommendation/treatment/status screens.
+Operation timers use real monotonic time, not synthetic future times. Framing/layout/seed match; elapsed seconds can differ slightly.
+INTERACTIVE native keyboard/mouse allowed; no injected input. Only this fresh Library profile is in scope.
+NATIVE_CAPTURE interactive_native_title_1920x1080.png bytes=1475304 actual Game View only; action success must be inspected.
+NATIVE_CAPTURE interactive_native_slots_1920x1080.png bytes=1344236 actual Game View only; action success must be inspected.
+OWNED_SESSION bound after Library store verification.
+NATIVE_CAPTURE interactive_native_camp_1920x1080.png bytes=1804036 actual Game View only; action success must be inspected.
+NATIVE_CAPTURE interactive_native_inventory_1920x1080.png bytes=857042 actual Game View only; action success must be inspected.
+NATIVE_CAPTURE interactive_native_equipment_1920x1080.png bytes=861833 actual Game View only; action success must be inspected.
+NATIVE_CAPTURE interactive_native_drag_1920x1080.png bytes=861514 actual Game View only; action success must be inspected.
+NATIVE_CAPTURE interactive_native_footer_1920x1080.png bytes=868148 actual Game View only; action success must be inspected.
+CLEANUP_REQUESTED Native fixture ended explicitly; action success is not automatically asserted.
+COMPLETE Native fixture ended explicitly; action success is not automatically asserted.
+captures=7; geometryFailures=0; titleNoSession=True
+Play was not stopped by route. Main must inspect PNGs, send stop_play explicitly if desired, then restore original scene through normal UI.

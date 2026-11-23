@@ -1,0 +1,87 @@
+HUMAN DENSITY V03 / CQB ACTUAL UNITY VALIDATION
+PASS found controlled raid seed for named-count coverage
+PASS variant 0 seed=61026 covers named=3 N1=True
+PASS variant 0 creates 60 normal + 3/4 named actors
+PASS 46 ordinary machines plus selected named machines remain the main faction
+PASS spawned named actors have real display identities
+PASS five added human searchers occupy H4/H5/H6
+PASS CQB room range is applied after weapon initialization: G12_01
+PASS CQB room range is applied after weapon initialization: G12_04
+PASS CQB room range is applied after weapon initialization: D_HALL_01
+PASS CQB room range is applied after weapon initialization: D_HALL_02
+PASS CQB room range is applied after weapon initialization: D_POWER_01
+PASS CQB room range is applied after weapon initialization: D_PARTS_01
+PASS CQB room range is applied after weapon initialization: D_TOOLS_01
+PASS B1-B4 entry policy and inactive risk entries unchanged
+PASS retained physical doors exist
+PASS both exterior doors reach navigation
+PASS door-to-door route complete: DOOR_P1 / DOOR_P2
+PASS retained physical doors exist
+PASS both exterior doors reach navigation
+PASS door-to-door route complete: DOOR_L1 / DOOR_L2
+INDOOR variant=0 id=G12_01 moved=0.297 health=90 mode=Patrol
+INDOOR variant=0 id=G12_04 moved=0.875 health=140 mode=Patrol
+INDOOR variant=0 id=D_HALL_01 moved=0.297 health=90 mode=Patrol
+INDOOR variant=0 id=D_HALL_02 moved=0.297 health=90 mode=Patrol
+INDOOR variant=0 id=D_POWER_01 moved=0.297 health=90 mode=Patrol
+INDOOR variant=0 id=D_PARTS_01 moved=0.297 health=90 mode=Patrol
+INDOOR variant=0 id=D_TOOLS_01 moved=0.414 health=90 mode=Patrol
+NEW HUMAN variant=0 id=H4_01 position=(-153.00, 0.81, -25.75) moved=1.14 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+NEW HUMAN variant=0 id=H4_02 position=(-147.74, 0.94, -26.97) moved=1.13 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+NEW HUMAN variant=0 id=H5_01 position=(115.70, 0.44, -48.08) moved=1.14 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+NEW HUMAN variant=0 id=H5_02 position=(107.24, 0.22, -48.89) moved=1.13 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+NEW HUMAN variant=0 id=H6_01 position=(20.96, 6.72, 46.10) moved=1.14 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+PASS variant 0 live movement: samples=61110 offNav=0 jumps=0 rolls=0 maxSpeed=2.276198 animatorDrift=0
+PASS found controlled raid seed for named-count coverage
+PASS variant 1 seed=61042 covers named=4 N1=False
+PASS variant 1 creates 60 normal + 3/4 named actors
+PASS 46 ordinary machines plus selected named machines remain the main faction
+PASS spawned named actors have real display identities
+PASS five added human searchers occupy H4/H5/H6
+PASS CQB room range is applied after weapon initialization: G12_01
+PASS CQB room range is applied after weapon initialization: G12_04
+PASS CQB room range is applied after weapon initialization: D_HALL_01
+PASS CQB room range is applied after weapon initialization: D_HALL_02
+PASS CQB room range is applied after weapon initialization: D_POWER_01
+PASS CQB room range is applied after weapon initialization: D_PARTS_01
+PASS CQB room range is applied after weapon initialization: D_TOOLS_01
+INDOOR variant=1 id=G12_01 moved=0.304 health=90 mode=Patrol
+INDOOR variant=1 id=G12_04 moved=0.965 health=140 mode=Patrol
+INDOOR variant=1 id=D_HALL_01 moved=0.304 health=90 mode=Patrol
+INDOOR variant=1 id=D_HALL_02 moved=0.304 health=90 mode=Patrol
+INDOOR variant=1 id=D_POWER_01 moved=0.304 health=90 mode=Patrol
+INDOOR variant=1 id=D_PARTS_01 moved=0.304 health=90 mode=Patrol
+INDOOR variant=1 id=D_TOOLS_01 moved=0.304 health=90 mode=Patrol
+NEW HUMAN variant=1 id=H4_01 position=(-148.04, 0.94, -27.08) moved=1.19 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+NEW HUMAN variant=1 id=H4_02 position=(-152.50, 0.83, -26.09) moved=1.19 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+NEW HUMAN variant=1 id=H5_01 position=(107.17, 0.22, -48.75) moved=1.19 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+NEW HUMAN variant=1 id=H5_02 position=(106.34, 0.85, -42.42) moved=1.20 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+NEW HUMAN variant=1 id=H6_01 position=(23.38, 6.71, 47.24) moved=1.19 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+PASS variant 1 live movement: samples=123318 offNav=0 jumps=0 rolls=0 maxSpeed=2.276198 animatorDrift=0
+PASS found controlled raid seed for named-count coverage
+PASS variant 2 seed=61030 covers named=4 N1=True
+PASS variant 2 creates 60 normal + 3/4 named actors
+PASS 46 ordinary machines plus selected named machines remain the main faction
+PASS spawned named actors have real display identities
+PASS five added human searchers occupy H4/H5/H6
+PASS CQB room range is applied after weapon initialization: G12_01
+PASS CQB room range is applied after weapon initialization: G12_04
+PASS CQB room range is applied after weapon initialization: D_HALL_01
+PASS CQB room range is applied after weapon initialization: D_HALL_02
+PASS CQB room range is applied after weapon initialization: D_POWER_01
+PASS CQB room range is applied after weapon initialization: D_PARTS_01
+PASS CQB room range is applied after weapon initialization: D_TOOLS_01
+INDOOR variant=2 id=G12_01 moved=0.289 health=90 mode=Patrol
+INDOOR variant=2 id=G12_04 moved=0.813 health=140 mode=Patrol
+INDOOR variant=2 id=D_HALL_01 moved=0.289 health=90 mode=Patrol
+INDOOR variant=2 id=D_HALL_02 moved=0.289 health=90 mode=Patrol
+INDOOR variant=2 id=D_POWER_01 moved=0.289 health=90 mode=Patrol
+INDOOR variant=2 id=D_PARTS_01 moved=0.289 health=90 mode=Patrol
+INDOOR variant=2 id=D_TOOLS_01 moved=0.289 health=90 mode=Patrol
+NEW HUMAN variant=2 id=H4_01 position=(-157.90, 0.67, -24.82) moved=2.15 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+NEW HUMAN variant=2 id=H4_02 position=(-148.54, 0.87, -30.00) moved=1.46 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+NEW HUMAN variant=2 id=H5_01 position=(106.03, 0.70, -44.04) moved=1.45 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+NEW HUMAN variant=2 id=H5_02 position=(110.59, 1.23, -39.57) moved=1.46 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+NEW HUMAN variant=2 id=H6_01 position=(21.01, 6.80, 50.84) moved=1.47 health=70.0 mode=Patrol avoiding=False avoidanceFrames=0 target=none shots=0
+PASS variant 2 live movement: samples=185014 offNav=0 jumps=0 rolls=0 maxSpeed=2.276198 animatorDrift=0
+COMPLETE PASS

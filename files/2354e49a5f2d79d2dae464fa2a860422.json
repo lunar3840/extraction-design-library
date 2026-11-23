@@ -1,0 +1,175 @@
+{
+  "mode": "built-in image_gen edit",
+  "unityApplied": false,
+  "width": 1254,
+  "height": 1254,
+  "bitDepth": 8,
+  "colorType": 6,
+  "visibleAlphaThresholdExclusive": 24,
+  "visibleAlphaBounds": {
+    "minX": 185,
+    "minY": 54,
+    "maxX": 937,
+    "maxY": 1218
+  },
+  "rawNonzeroAlphaBounds": {
+    "minX": 0,
+    "minY": 9,
+    "maxX": 1199,
+    "maxY": 1253
+  },
+  "transparentPixels": 995806,
+  "solidPixels": 1455,
+  "antialiasedPixels": 575255,
+  "borderNonzeroAlphaPixels": 24,
+  "borderMaximumAlpha": 1,
+  "outermostEdgeFullyTransparent": false,
+  "cornerAlpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "openingSamples": [
+    {
+      "name": "viewer-left waist opening",
+      "x": 500,
+      "y": 570,
+      "patchSize": 5,
+      "expected": "transparent",
+      "alphaMin": 0,
+      "alphaMax": 0,
+      "nonzeroPixels": 0,
+      "pass": true
+    },
+    {
+      "name": "viewer-right waist opening",
+      "x": 780,
+      "y": 570,
+      "patchSize": 5,
+      "expected": "transparent",
+      "alphaMin": 0,
+      "alphaMax": 0,
+      "nonzeroPixels": 0,
+      "pass": true
+    },
+    {
+      "name": "former bare upper arm",
+      "x": 970,
+      "y": 420,
+      "patchSize": 5,
+      "expected": "transparent",
+      "alphaMin": 0,
+      "alphaMax": 0,
+      "nonzeroPixels": 0,
+      "pass": true
+    },
+    {
+      "name": "between shorts and first thigh band",
+      "x": 780,
+      "y": 905,
+      "patchSize": 5,
+      "expected": "transparent",
+      "alphaMin": 0,
+      "alphaMax": 0,
+      "nonzeroPixels": 0,
+      "pass": true
+    },
+    {
+      "name": "between thigh bands",
+      "x": 780,
+      "y": 995,
+      "patchSize": 5,
+      "expected": "transparent",
+      "alphaMin": 0,
+      "alphaMax": 1,
+      "nonzeroPixels": 1,
+      "pass": false
+    },
+    {
+      "name": "below thigh bands",
+      "x": 780,
+      "y": 1120,
+      "patchSize": 5,
+      "expected": "transparent",
+      "alphaMin": 0,
+      "alphaMax": 0,
+      "nonzeroPixels": 0,
+      "pass": true
+    }
+  ],
+  "equipmentSamples": [
+    {
+      "name": "central abdominal panel",
+      "x": 640,
+      "y": 580,
+      "patchSize": 5,
+      "expected": "visible",
+      "alphaMin": 254,
+      "alphaMax": 254,
+      "nonzeroPixels": 25,
+      "pass": true
+    },
+    {
+      "name": "waist belt",
+      "x": 650,
+      "y": 680,
+      "patchSize": 5,
+      "expected": "visible",
+      "alphaMin": 253,
+      "alphaMax": 253,
+      "nonzeroPixels": 25,
+      "pass": true
+    },
+    {
+      "name": "first thigh band",
+      "x": 760,
+      "y": 960,
+      "patchSize": 5,
+      "expected": "visible",
+      "alphaMin": 253,
+      "alphaMax": 253,
+      "nonzeroPixels": 25,
+      "pass": true
+    },
+    {
+      "name": "second thigh band",
+      "x": 760,
+      "y": 1040,
+      "patchSize": 5,
+      "expected": "visible",
+      "alphaMin": 252,
+      "alphaMax": 253,
+      "nonzeroPixels": 25,
+      "pass": true
+    },
+    {
+      "name": "orange sleeve",
+      "x": 300,
+      "y": 350,
+      "patchSize": 5,
+      "expected": "visible",
+      "alphaMin": 254,
+      "alphaMax": 254,
+      "nonzeroPixels": 25,
+      "pass": true
+    },
+    {
+      "name": "opposite knee guard",
+      "x": 490,
+      "y": 1150,
+      "patchSize": 5,
+      "expected": "visible",
+      "alphaMin": 253,
+      "alphaMax": 254,
+      "nonzeroPixels": 25,
+      "pass": true
+    }
+  ],
+  "allOpeningSamplesFullyTransparent": false,
+  "allEquipmentSamplesVisible": true,
+  "sha256": "2515e99e7dd061889abda81a86729f90ca9db2f4d6834826d0e85f6a26377b9a",
+  "bytes": 786300,
+  "allOpeningSamplesEffectivelyClear": true,
+  "openingValidationNote": "Five 5x5 opening patches are exactly alpha0. The patch between thigh bands has 24 alpha0 pixels and one alpha1 pixel; strict all-alpha0 check is false. No opaque skin fill remains. Source PNG unchanged."
+}

@@ -1,0 +1,51 @@
+PASS CSV: BOM, Unicode, commas, quotes, multiline, CRLF and boolean/number text roundtrip
+PASS CSV: malformed quote, column count and duplicate headers are rejected
+PASS createEditor initializes a temporary project and source-bound catalog
+PASS Extraction: nested JSON values, booleans, strings and null preservation
+PASS Extraction: C# getters, scalar expression factors, negative suffix and comment/string exclusion
+PASS Validation: unknown IDs and changed readonly IDs are rejected
+PASS Validation: malformed mutation shapes, wrong primitive types and NaN/infinity are rejected
+PASS Validation: JSON integer field rejects fractional magazine and stack counts
+PASS Validation: C# integer rejects decimals, positive-only fire interval rejects zero
+PASS Validation: Settings serialized int rejects fractional and out-of-int32 values
+PASS Validation: related weapon, item drop and ammo tier/value limits reject invalid records
+PASS Validation: legacy armor with omitted default class accepts valid durability change
+PASS CSV import: full unchanged dataset including readonly identifiers succeeds
+PASS CSV import: duplicate, unknown and readonly ID edits rejected
+PASS CSV import: malicious type metadata cannot override source type
+PASS CSV-only save leaves every original source byte unchanged and reloads pending edits
+PASS Stale revision rejects save and apply before writing
+PASS Apply: exact JSON/C#/Settings changes, untouched bytes, complete backup, reload persistence
+PASS Source hash conflict blocks apply and preserves external modification
+PASS External source edit versus pending saved edit survives reload and blocks conflicting apply
+PASS Refresh: pending edits survive and source-deleted orphan remains blocked across repeated refresh
+PASS Backup restore: copied original bytes refresh cleanly and persist without pending differences
+PASS HTTP: loopback catalog, traversal protection, host/origin/token/content-type controls
+PASS Real project: read-only extraction covers catalog, settings and gameplay sources
+PASS Real Unity originals remain byte-identical after every test
+{
+  "total": 25,
+  "passed": 25,
+  "failed": 0,
+  "coverage": {
+    "datasets": 103,
+    "rows": 12931,
+    "sources": 103,
+    "copiedSourceFiles": 226,
+    "json": 9,
+    "groups": [
+      "플레이어",
+      "적",
+      "무기·탄약",
+      "경제·거래",
+      "인벤토리·장비",
+      "의료·생존",
+      "성장·연구",
+      "동료",
+      "전리품",
+      "스테이지",
+      "전투"
+    ]
+  },
+  "temporaryRoot": "C:\\Users\\ehoji\\AppData\\Local\\Temp\\extraction-editor-independent-oW4OUV"
+}

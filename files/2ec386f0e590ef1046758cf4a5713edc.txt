@@ -1,0 +1,8 @@
+Stage A roof visibility validation
+Building=ENV09_BUILDING_W_PARTS_LOCKER
+Footprint=(18.00, 12.00) yaw=-7
+Outside roof renderers=3/3
+Inside roof renderers=0/3
+Restored outside roof renderers=3/3
+Runtime center cap=present
+Result=PASS

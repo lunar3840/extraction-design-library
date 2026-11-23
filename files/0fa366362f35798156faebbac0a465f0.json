@@ -1,0 +1,158 @@
+{
+  "native_sha256": "253e45d8e0782197685f090625b02c5f7184477b4496848b6d24f2613aa121cc",
+  "reviewed_at_kst": "2026-11-21T00:04:31.807892+09:00",
+  "status": "Main visual review accepted within named views; independent final decision pending.",
+  "observed_files": [
+    {
+      "file": "review_media\\pass_20_v2\\BOARD_TEMPORAL_01.png",
+      "sha256": "98e0ea980ca538401365e0fb7dfc7dd81bb7d82fb41dfa9f9d7746afcba0b8b6"
+    },
+    {
+      "file": "review_media\\pass_20_v2\\BOARD_TEMPORAL_02.png",
+      "sha256": "83d1fd29fbf727472d8c585bca226fe6ac490116cb7a4802999158601f29df75"
+    },
+    {
+      "file": "review_media\\pass_20_v2\\BOARD_TEMPORAL_03.png",
+      "sha256": "27af1b579e5616982d588a1b6dff0be21c0f8d2c3a53688cd0b3bebc30001afb"
+    },
+    {
+      "file": "review_media\\pass_20_v2\\BOARD_TEMPORAL_04.png",
+      "sha256": "2767cdddc803d4ee7ac1bb331850b07275221477a19a10daca91195e1897eb1f"
+    },
+    {
+      "file": "review_media\\pass_20_v2\\BOARD_LEFT_HAND_DIRECTION.png",
+      "sha256": "2624dae65cd9d4246d4e4be57f371e6f722986bf1a9c4bd32c9dc30add474588"
+    },
+    {
+      "file": "review_media\\pass_20_v2\\BOARD_RELOAD_STAGES.png",
+      "sha256": "81f674a586d0cc4a81c75536c45fc7d5ef7ef6652c4eb24e3d65d17c7f14dd45"
+    },
+    {
+      "file": "review_media\\pass_20_v2\\BOARD_GRIP_DETAILS.png",
+      "sha256": "36a0d485b7ba3a66697cbc779e8cb5e6e6e8999a9870e0b32128ccea71805139"
+    },
+    {
+      "file": "review_media\\pass_20_v2\\BOARD_STOCK_CHEEK.png",
+      "sha256": "23de4cbbc094d16f69c5d8bf6a60e9e5e74800991f200cebc010f4210bbaed31"
+    },
+    {
+      "file": "review_media\\pass_20_v2\\BOARD_SIX_ACTIONS.png",
+      "sha256": "3970ffeabdbe945af1cb8873f4f14eee86326a711493de122c542cb6f799fe2e"
+    },
+    {
+      "file": "review_media\\pass_20_v2\\after_phase_Reload_100_front.png",
+      "sha256": "95d3ae6f3e89f8b7c27803c3b6c9d4986dcddb8e28822f2e6cab41c559d06f6a"
+    },
+    {
+      "file": "review_media\\pass_20_v2\\after_phase_Reload_100_reverse.png",
+      "sha256": "092386ac6e631526ead95f3b68e18f9df4224c847d84ba697f7b4ce8740b8099"
+    },
+    {
+      "file": "review_media\\pass_20_v2\\after_reload_065_hand.png",
+      "sha256": "244b163f8cf68bcc7e283936044401b4ac9c2ea152df111f90a57be1cd158c68"
+    },
+    {
+      "file": "review_media\\pass_20_v2\\after_Reload_100_L_outside.png",
+      "sha256": "df98e48b61f9ec42fd919bf325623ceaa6ff3d5d165ee19f287ee60531137cbe"
+    },
+    {
+      "file": "review_media\\pass_20_v2\\after_pouch_154_top.png",
+      "sha256": "f07ab4c82da0a14f1315a801b0f70b73d2a01fd5050c24b09ca34d298b87ea00"
+    },
+    {
+      "file": "review_media\\pass_20_v2\\after_pouch_162_top.png",
+      "sha256": "e0815719c75ff0820474450544bd98f1b9ba0a28f1158aaa245419716f19ebf3"
+    },
+    {
+      "file": "review_media\\pass_20_v2\\after_empty_magazine_121.png",
+      "sha256": "d8c7aeac3438f98d4998774274d50ee693d0584508800855ade71b14d25f6038"
+    },
+    {
+      "file": "review_media\\pass_20_v2\\after_reload_end_fullbody.png",
+      "sha256": "45f1ef4f114ae6246ff91667fb7120d21844b84ee399589017c17e6700548e19"
+    },
+    {
+      "file": "before_reload_065_hand.png",
+      "sha256": "6966ef7121038b6653a4c5152fb99c7be0051bdd010ce5593f8d76d41d8ef11c"
+    },
+    {
+      "file": "after_saved_transition_40_right.png",
+      "sha256": "d59314c61cee114494aa2aa1a27659cd2af3efce67e42d65bcf4f0f3d8560105"
+    }
+  ],
+  "review_method": "Directly opened 19 files, including 9 boards. Four temporal boards show91 original integer reload frames3apart. Specific actual full-resolution hand/pouch/floor/arm images were separately opened. Does not claim full-resolution visual inspection of all747images.",
+  "observations": [
+    "Thumb-up and dorsal-facing L approach replaces old palm-forward/thumb-down orientation.",
+    "Actual magazine lower pinch and held foregrip reviewed from two sides; free fingers remain.",
+    "R hand web rounded; no visible new pointed skin at the reviewed grip views.",
+    "Arm at40 clears torso in actual saved20 side view.",
+    "Stock and cheek separation visible from both sides of Idle/Aim/Fire boards.",
+    "Spare present in pouch and extracted by hand; pouch empty at271, spent stays on floor.",
+    "Temporal91frame boards show continuous extraction/release/pouch/carry/insertion/return; fast252.75 forearm region referred to independent additional check."
+  ],
+  "saved_media_images_verified": 747,
+  "official_before_after_pairs": [
+    {
+      "before": "before_idle_001_front.png",
+      "after": "review_media\\pass_20_v2\\after_idle_001_front.png",
+      "same_frame_camera_scale_resolution": true
+    },
+    {
+      "before": "before_idle_001_opposite.png",
+      "after": "review_media\\pass_20_v2\\after_idle_001_opposite.png",
+      "same_frame_camera_scale_resolution": true
+    },
+    {
+      "before": "before_idle_001_hand.png",
+      "after": "review_media\\pass_20_v2\\after_idle_001_hand.png",
+      "same_frame_camera_scale_resolution": true
+    },
+    {
+      "before": "before_reload_065_front.png",
+      "after": "review_media\\pass_20_v2\\after_reload_065_front.png",
+      "same_frame_camera_scale_resolution": true
+    },
+    {
+      "before": "before_reload_065_opposite.png",
+      "after": "review_media\\pass_20_v2\\after_reload_065_opposite.png",
+      "same_frame_camera_scale_resolution": true
+    },
+    {
+      "before": "before_reload_065_hand.png",
+      "after": "review_media\\pass_20_v2\\after_reload_065_hand.png",
+      "same_frame_camera_scale_resolution": true
+    },
+    {
+      "before": "before_reload_095_front.png",
+      "after": "review_media\\pass_20_v2\\after_reload_095_front.png",
+      "same_frame_camera_scale_resolution": true
+    },
+    {
+      "before": "before_reload_095_opposite.png",
+      "after": "review_media\\pass_20_v2\\after_reload_095_opposite.png",
+      "same_frame_camera_scale_resolution": true
+    },
+    {
+      "before": "before_reload_095_hand.png",
+      "after": "review_media\\pass_20_v2\\after_reload_095_hand.png",
+      "same_frame_camera_scale_resolution": true
+    },
+    {
+      "before": "before_reload_190_front.png",
+      "after": "review_media\\pass_20_v2\\after_reload_190_front.png",
+      "same_frame_camera_scale_resolution": true
+    },
+    {
+      "before": "before_reload_190_opposite.png",
+      "after": "review_media\\pass_20_v2\\after_reload_190_opposite.png",
+      "same_frame_camera_scale_resolution": true
+    },
+    {
+      "before": "before_reload_190_hand.png",
+      "after": "review_media\\pass_20_v2\\after_reload_190_hand.png",
+      "same_frame_camera_scale_resolution": true
+    }
+  ],
+  "lighting_verified_equal": true,
+  "unity_applied": false
+}

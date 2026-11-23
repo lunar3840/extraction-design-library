@@ -1,0 +1,1 @@
+D06 COUPLER SPACING: PowerYard/D06_MachinePowerCoupler_PC (470,120)->(470.8,121) terrain-grounded. Only this D06 holder position changed; rerun contacts, independent validation and play before saving.

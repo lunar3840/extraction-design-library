@@ -1,0 +1,18 @@
+{
+  "all_mesh_geometry_uv_weights_shape_coordinates_identical": true,
+  "mesh_hashes": {
+    "Eyebrow_L": "097992458c4755d5db18233cc75e0b81bef60ea4601b6517a4b37806781f2264",
+    "Eyebrow_R": "a58ba33460f9962dfd78fbb801d826442d670a2232493b8713e0a49e07a659f5",
+    "Eyelashes_L": "2a8c785ef7ca1cbf7ce0420c84669340149907d316925f688045dfeee8f6c202",
+    "Eyelashes_R": "d4ee3f1c382f331fd203bbf6ec72e3cd4c6f72e3d0a4cd7c54e0d4640865126d",
+    "Eyelid_Fold_L": "b19392356d2a21436ffc719e64e94e8008b1502f36a391893045289a6f3aeb0d",
+    "Eyelid_Fold_R": "9f7ee38b421adf04ebf331ecb0233d46c764b2dd92dd5d024b279baf938acb0f",
+    "FACE_MouthCavity": "2da7ffc436772cc9df96687f6990e635beb61f09f6d7e933eb3ad0d3a7021544",
+    "Face_Skin": "9474036162ceca76acab68b642c7a3cfaf36a14f8800ec7cd09ae284a6134cf8",
+    "Iris_L": "e560585128a69663c48e86bc931495e71c4fb1cfebf2af6f8023d56593a92fa9",
+    "Iris_R": "24201a7140fbac49f4c5f5e782f63c8b9422dc557bef98fe51e85e886a54fb77",
+    "Rest_Original": "13184d3f8f8f8c7559c6d3ab6d30dba11528f2ecb89dcaaea7713ffc96c4e8c1",
+    "Sclera_L": "07cd30059dbf8c0966caf0b4298cc6a204f9fbbdb96958c1e03e617f894018eb",
+    "Sclera_R": "e52f7dd50b185fca35f353278d26b2c6d0935a0b1cfafaeca38f88c90441e81c"
+  }
+}

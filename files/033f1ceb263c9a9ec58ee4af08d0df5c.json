@@ -1,0 +1,1258 @@
+[
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\roster-20261022\\models\\unity_ready\\Edel\\Edel_ImportReady.blend",
+    "package_path": "01_MODELS/Edel/AUTHORING/Edel_ImportReady.blend",
+    "role": "editable source; runtime corrections not baked",
+    "bytes": 47471946,
+    "sha256": "d57e7f6c0b1c4d8c67a7a08e05d0353a8a9701889a746e5f4433273d6696e64e",
+    "source_mtime_ns": 1792665868325745400
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\roster-20261022\\models\\unity_ready\\Edel\\manifest.json",
+    "package_path": "01_MODELS/Edel/AUTHORING/source_inventory.json",
+    "role": "historical source inventory",
+    "bytes": 8007,
+    "sha256": "512ab54d5892cf87937d4f4f3a4d9956c96565e0f03f7c7f345837504da6ce90",
+    "source_mtime_ns": 1792664985276217300
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Animations.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Animations.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 172,
+    "sha256": "15d8e126a0fa94e7b231c896e6fc95a64e0cc33527053084d3aecca0e382d800",
+    "source_mtime_ns": 1792664652543656300
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Edel.fbx",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Edel.fbx",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 2538332,
+    "sha256": "779ed67babb89920e190573c05e63faf484111a1a46a16c5861cb4e536f4949b",
+    "source_mtime_ns": 1792665868700663500
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Edel.fbx.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Edel.fbx.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 25980,
+    "sha256": "3f13b8b821250abf79fe88a3b3bc09e30dc4d812e3ae992cc7076ceb5b1aaa5e",
+    "source_mtime_ns": 1792666930967803000
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Edel_Roster.overrideController",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Edel_Roster.overrideController",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 876,
+    "sha256": "fd140567d472b982deb30025b64530fa0ee14d3eb7353b8c37fccdf462a3965f",
+    "source_mtime_ns": 1792666938202948600
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Edel_Roster.overrideController.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Edel_Roster.overrideController.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 189,
+    "sha256": "c7e91d9406bd18f7c9f75d609ef05560d7131268867932f22eff9d210de70192",
+    "source_mtime_ns": 1792664672384792300
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 172,
+    "sha256": "23a5df20336ea1cec4c423cffe799daec9867b17b09039adce4d3bc7c2929f42",
+    "source_mtime_ns": 1792664665254103200
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\material_map.json",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/material_map.json",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3462,
+    "sha256": "d384353f79f8bf074f7ea7d17288079bb9368a908ddd097c113aed7fadc8f620",
+    "source_mtime_ns": 1792664292268091800
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\material_map.json.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/material_map.json.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 158,
+    "sha256": "268359750576915166f93889e963543964b83c84b50911223056fc19f7fa90c2",
+    "source_mtime_ns": 1792664660160619100
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Textures.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 172,
+    "sha256": "e813b20f212f235ae0783935fd5afca4d316a6685f9ce271e3365f6af83d4ef2",
+    "source_mtime_ns": 1792664652467787700
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Animations\\R_AimIdle.fbx",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Animations/R_AimIdle.fbx",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3143004,
+    "sha256": "a1c19d16467688fbe21123f8df285d287e09d46afa725c5e864c53f6e031d36a",
+    "source_mtime_ns": 1792665892279538900
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Animations\\R_AimIdle.fbx.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Animations/R_AimIdle.fbx.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 26835,
+    "sha256": "ca72c4f2665515bef80bb3d462079c692aad6b377f9b4db09c1d07fb6947e755",
+    "source_mtime_ns": 1792666937093492500
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Animations\\R_Idle.fbx",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Animations/R_Idle.fbx",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3142268,
+    "sha256": "5183861707085ab20b33d3566c4a31afaac45d1a01021155676ae7e28bae8428",
+    "source_mtime_ns": 1792665891587229500
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Animations\\R_Idle.fbx.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Animations/R_Idle.fbx.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 26832,
+    "sha256": "5ac8e0e68e6c0d0eeb71b25a59d4b5e55346e5dc33738dc2ce6fc989f678e886",
+    "source_mtime_ns": 1792666937500661000
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Body_Skin_Clean.mat",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Body_Skin_Clean.mat",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3883,
+    "sha256": "77909da46410825093739fa28c1f72c922712f354ef521623946d74b246dc45d",
+    "source_mtime_ns": 1792666938210894000
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Body_Skin_Clean.mat.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Body_Skin_Clean.mat.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "26a6536db6e11cd96e69622d1a31c3bb4b8e4225de29eff0f79bb4ef627c5c54",
+    "source_mtime_ns": 1792664666639943000
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Eyebrow.mat",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Eyebrow.mat",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3875,
+    "sha256": "7262e994257047b5476b4da8036f3a12bef2659de267c589c2e8979053b5645e",
+    "source_mtime_ns": 1792666938237927700
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Eyebrow.mat.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Eyebrow.mat.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "729c40092bd9de23fb6600ed7fd868cdd9c299c373da3bca02e9bffc817a5303",
+    "source_mtime_ns": 1792664669412875100
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Eyelashes.mat",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Eyelashes.mat",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3878,
+    "sha256": "dcbdaabb292f36434e79e20f1734e38dd0f1ebd10a91061410b2d8e54cee53b6",
+    "source_mtime_ns": 1792666938244933000
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Eyelashes.mat.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Eyelashes.mat.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "14112b49e0cf0aa63bdf456c59f4fcc8516274f95799006f74cebaa4275cba80",
+    "source_mtime_ns": 1792664668701215800
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Eyelid_Fold.mat",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Eyelid_Fold.mat",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3879,
+    "sha256": "e6200d9dd22dc4213bd4adde1b9add5c1beee4dfd3604f407f303f9f1a5474a6",
+    "source_mtime_ns": 1792666938250955000
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Eyelid_Fold.mat.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Eyelid_Fold.mat.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "c1a63de83775224cbd22b88ac1961ad2c4332b3a571a92e5eb95b1e714d69b8d",
+    "source_mtime_ns": 1792664665349639400
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Face_MouthCavity_v16.mat",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Face_MouthCavity_v16.mat",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3790,
+    "sha256": "46705f89f757bb30f21c39d4589eb7ca0903d6876bc7b675960bf4cdee040b39",
+    "source_mtime_ns": 1792666938231326400
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Face_MouthCavity_v16.mat.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Face_MouthCavity_v16.mat.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "566e286b92625abf5757fbb309f176ae3efa6f99281c6fecfbc4f34a10f79f36",
+    "source_mtime_ns": 1792664670098175400
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Face_Skin.mat",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Face_Skin.mat",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3877,
+    "sha256": "0d677677463a1f7245d334ee7fc765daf351b505384540f58c4ae5cbd8ce8bc6",
+    "source_mtime_ns": 1792666938196918600
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Face_Skin.mat.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Face_Skin.mat.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "c2eff8e397edc3c4fc0377127591fad3f881a22450c2ac645a93d8ddb58731aa",
+    "source_mtime_ns": 1792664665973320800
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Innerwear_Bottom.mat",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Innerwear_Bottom.mat",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3885,
+    "sha256": "0e0f4b6cf273fd4ef1e2b6d3eaddef4860df9db8dde6e5199b9f7e626dfffef3",
+    "source_mtime_ns": 1792666938217267000
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Innerwear_Bottom.mat.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Innerwear_Bottom.mat.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "0098939df09576f4e48f2fc9d5cb5860380ef6e50776c238f7b0d4c6dd28cbc7",
+    "source_mtime_ns": 1792664670231180500
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Innerwear_Top.mat",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Innerwear_Top.mat",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3881,
+    "sha256": "8f0996530c579a6d776915c143f7242ffb2e176ee041bf63798580a09b073349",
+    "source_mtime_ns": 1792666938224309600
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Innerwear_Top.mat.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Innerwear_Top.mat.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "00b3214998f7efdc94c2193e0a72bd1f227c1d5b20fa7818609bde3157e13281",
+    "source_mtime_ns": 1792664667343118000
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Original_Rest_Iris.mat",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Original_Rest_Iris.mat",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3887,
+    "sha256": "ba13ff75746e50fcbe8d0f995f99a93508894ea114c71d954478cae516ae4027",
+    "source_mtime_ns": 1792666938188873700
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Original_Rest_Iris.mat.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Original_Rest_Iris.mat.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "7c9cab36aefe265fb3266dd8b22db4f9650aba5631de2ff6e105628791cbafde",
+    "source_mtime_ns": 1792664670884024400
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Sclera.mat",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Sclera.mat",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3873,
+    "sha256": "35988cb44ddab9bdd79184d3676143b941892c46e9fe96be10b79c00abeed98a",
+    "source_mtime_ns": 1792666938182330200
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Materials\\Sclera.mat.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Materials/Sclera.mat.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "b62926f5e3840843617ad6d24fee7b66a052f893276082239da0927346e62a28",
+    "source_mtime_ns": 1792664668012410100
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Body_Skin_Clean.png",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Textures/Body_Skin_Clean.png",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 654070,
+    "sha256": "397bdf0366ce455bfa2e5499566c8a3ee4c7178d0315dd4fe764dd54a5bb26dd",
+    "source_mtime_ns": 1792664981854905100
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Body_Skin_Clean.png.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Textures/Body_Skin_Clean.png.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3007,
+    "sha256": "52db02e7bbabab4ce3134f6f9671431ef250b8284f6b17dc5e0e4e461675ef09",
+    "source_mtime_ns": 1792664666786206100
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Edel_BaseColor_HairClean_v17.png",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Textures/Edel_BaseColor_HairClean_v17.png",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 10602211,
+    "sha256": "bc810b8a3c7e06f1e8611321e9b9093418d0faaf0dc94563192ffaac60420b16",
+    "source_mtime_ns": 1792664982246135200
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Edel_BaseColor_HairClean_v17.png.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Textures/Edel_BaseColor_HairClean_v17.png.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3007,
+    "sha256": "f943763ee860dae0bef6de652af1ab67877612f2dda5317fa783ccca024ec7f3",
+    "source_mtime_ns": 1792664671030447800
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Eyebrow.png",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Textures/Eyebrow.png",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 60078,
+    "sha256": "6ef94cc3e21d054c3e412123c9a6df729be8c7f735f716868de65c3a019d1933",
+    "source_mtime_ns": 1792664982355049400
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Eyebrow.png.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Textures/Eyebrow.png.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3007,
+    "sha256": "d1cda6241e1a498fc865a5903b1ce1cb84e5f060ee07a9b2b4e29bca3ffa1ac9",
+    "source_mtime_ns": 1792664669587136400
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Eyelashes.png",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Textures/Eyelashes.png",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 76721,
+    "sha256": "0ac25241a9abf874063234bd3a145a917d859f7321d0f51fcfd7d55c3e3ddfcf",
+    "source_mtime_ns": 1792664982468316300
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Eyelashes.png.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Textures/Eyelashes.png.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3007,
+    "sha256": "179c6523095a078a4e1dc1dbe31a13b382b922e15701a62256221173409a9069",
+    "source_mtime_ns": 1792664668900470400
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Eyelid_Fold.png",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Textures/Eyelid_Fold.png",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 58636,
+    "sha256": "c143310aa2d7842a83166830c350c0fae089af7e68e36c4b206d38cc6669ff72",
+    "source_mtime_ns": 1792664982566319500
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Eyelid_Fold.png.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Textures/Eyelid_Fold.png.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3007,
+    "sha256": "f79a06c4f36df25685ffce83b726b7b7e8b0d66c52f55f9d432df8cb818d8b8e",
+    "source_mtime_ns": 1792664665475307000
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Face_Skin.png",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Textures/Face_Skin.png",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 207012,
+    "sha256": "6023c9adf60ad2ebcfbc82e6349fae4d419128e6df8e7d1e44c632303ec33d97",
+    "source_mtime_ns": 1792664982669548000
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Face_Skin.png.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Textures/Face_Skin.png.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3007,
+    "sha256": "4acbc4bd01bfe6efe27e777d86b8ea0485a43d43f5070fb58626b96c584184d2",
+    "source_mtime_ns": 1792664666121389900
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Innerwear_Bottom.png",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Textures/Innerwear_Bottom.png",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 185176,
+    "sha256": "9d7893b8d199aa4be276ec82dd716cef43fac6e3cb8b01d46a746890a30efbeb",
+    "source_mtime_ns": 1792664982790845500
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Innerwear_Bottom.png.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Textures/Innerwear_Bottom.png.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3007,
+    "sha256": "995e3304065828152d96169ccbbb8d816a5359b5ffe5773c6e62dc9b3edea9b1",
+    "source_mtime_ns": 1792664670373842300
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Innerwear_Top.png",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Textures/Innerwear_Top.png",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 173899,
+    "sha256": "31d894f6fb3d50fa58d63fd5d936bcd2088463db8866a68f7481e05ff0794567",
+    "source_mtime_ns": 1792664982909780800
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Innerwear_Top.png.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Textures/Innerwear_Top.png.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3007,
+    "sha256": "748c244bb9d14f5b242f6fa8d0736494449de27900288c88cb86700ac83dd7c1",
+    "source_mtime_ns": 1792664667492227400
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Sclera.png",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Textures/Sclera.png",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 77272,
+    "sha256": "e615563277ec656d060e52fd86823f0f730b522e94430f1708f8ad0c4dbea9a1",
+    "source_mtime_ns": 1792664983032517600
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Sclera.png.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Textures/Sclera.png.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3007,
+    "sha256": "435311d9987a5234bea9677ea592a7f161ee5bdccd35742d535c52fd15da81e9",
+    "source_mtime_ns": 1792664668193861900
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Body_Skin_Clean.png",
+    "package_path": "01_MODELS/Edel/AUTHORING/Textures/Body_Skin_Clean.png",
+    "role": "external texture companion",
+    "bytes": 654070,
+    "sha256": "397bdf0366ce455bfa2e5499566c8a3ee4c7178d0315dd4fe764dd54a5bb26dd",
+    "source_mtime_ns": 1792664981854905100
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Edel_BaseColor_HairClean_v17.png",
+    "package_path": "01_MODELS/Edel/AUTHORING/Textures/Edel_BaseColor_HairClean_v17.png",
+    "role": "external texture companion",
+    "bytes": 10602211,
+    "sha256": "bc810b8a3c7e06f1e8611321e9b9093418d0faaf0dc94563192ffaac60420b16",
+    "source_mtime_ns": 1792664982246135200
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Eyebrow.png",
+    "package_path": "01_MODELS/Edel/AUTHORING/Textures/Eyebrow.png",
+    "role": "external texture companion",
+    "bytes": 60078,
+    "sha256": "6ef94cc3e21d054c3e412123c9a6df729be8c7f735f716868de65c3a019d1933",
+    "source_mtime_ns": 1792664982355049400
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Eyelashes.png",
+    "package_path": "01_MODELS/Edel/AUTHORING/Textures/Eyelashes.png",
+    "role": "external texture companion",
+    "bytes": 76721,
+    "sha256": "0ac25241a9abf874063234bd3a145a917d859f7321d0f51fcfd7d55c3e3ddfcf",
+    "source_mtime_ns": 1792664982468316300
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Eyelid_Fold.png",
+    "package_path": "01_MODELS/Edel/AUTHORING/Textures/Eyelid_Fold.png",
+    "role": "external texture companion",
+    "bytes": 58636,
+    "sha256": "c143310aa2d7842a83166830c350c0fae089af7e68e36c4b206d38cc6669ff72",
+    "source_mtime_ns": 1792664982566319500
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Face_Skin.png",
+    "package_path": "01_MODELS/Edel/AUTHORING/Textures/Face_Skin.png",
+    "role": "external texture companion",
+    "bytes": 207012,
+    "sha256": "6023c9adf60ad2ebcfbc82e6349fae4d419128e6df8e7d1e44c632303ec33d97",
+    "source_mtime_ns": 1792664982669548000
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Innerwear_Bottom.png",
+    "package_path": "01_MODELS/Edel/AUTHORING/Textures/Innerwear_Bottom.png",
+    "role": "external texture companion",
+    "bytes": 185176,
+    "sha256": "9d7893b8d199aa4be276ec82dd716cef43fac6e3cb8b01d46a746890a30efbeb",
+    "source_mtime_ns": 1792664982790845500
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Innerwear_Top.png",
+    "package_path": "01_MODELS/Edel/AUTHORING/Textures/Innerwear_Top.png",
+    "role": "external texture companion",
+    "bytes": 173899,
+    "sha256": "31d894f6fb3d50fa58d63fd5d936bcd2088463db8866a68f7481e05ff0794567",
+    "source_mtime_ns": 1792664982909780800
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Edel\\Textures\\Sclera.png",
+    "package_path": "01_MODELS/Edel/AUTHORING/Textures/Sclera.png",
+    "role": "external texture companion",
+    "bytes": 77272,
+    "sha256": "e615563277ec656d060e52fd86823f0f730b522e94430f1708f8ad0c4dbea9a1",
+    "source_mtime_ns": 1792664983032517600
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\Player_Edel.prefab",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Player_Edel.prefab",
+    "role": "live prefab mesh/material/bone mapping; reference only",
+    "bytes": 111917,
+    "sha256": "39dc490df8d8d1391186a8fabacfb29be215438ace58def382058478ad3d947e",
+    "source_mtime_ns": 1792666938031881900
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\Player_Edel.prefab.meta",
+    "package_path": "01_MODELS/Edel/CURRENT_GAME/Player_Edel.prefab.meta",
+    "role": "prefab guid",
+    "bytes": 154,
+    "sha256": "02d4a01eada2f74a76e9e37edeed0e9bf21fa8df8c928c3ece17589663d1a051",
+    "source_mtime_ns": 1792549898183891000
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\roster-20261022\\models\\unity_ready\\Serin\\Serin_ImportReady.blend",
+    "package_path": "01_MODELS/Serin/AUTHORING/Serin_ImportReady.blend",
+    "role": "editable source; runtime corrections not baked",
+    "bytes": 184594961,
+    "sha256": "853cbe6166bf31dff289b5afcc823af32a9d0f908c14d4514c63a84e6c829983",
+    "source_mtime_ns": 1792664269111474600
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\roster-20261022\\models\\unity_ready\\Serin\\manifest.json",
+    "package_path": "01_MODELS/Serin/AUTHORING/source_inventory.json",
+    "role": "historical source inventory",
+    "bytes": 6278,
+    "sha256": "dbc534da094b1319d7d7e91156210fc39f1ed9ce84d1ce3e6c7248b3f5ed0f00",
+    "source_mtime_ns": 1792664269868484000
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Animations.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Animations.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 172,
+    "sha256": "7b79935594da74cae6220616cafe8f968e84050412843333bdc55b184cf6427a",
+    "source_mtime_ns": 1792664652517969700
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Materials.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Materials.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 172,
+    "sha256": "ceddb68c1051ffcf9871a5e108d217c5a457e403ad8c8dea9fe4977fb2cd18e3",
+    "source_mtime_ns": 1792664661518285300
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\material_map.json",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/material_map.json",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 1058,
+    "sha256": "e310f1f7786d6f74f2bab78c5a3a189b51021306747cdcd192a4736281b3ceb2",
+    "source_mtime_ns": 1792664290511687700
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\material_map.json.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/material_map.json.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 158,
+    "sha256": "49f63f3b270ea67762f30d07f9e02500808cf9c7bceba94ba5c925fe0cabb777",
+    "source_mtime_ns": 1792664660210673800
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Repairs.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Repairs.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 172,
+    "sha256": "28c351d7ca0f77b7e3de1d434e97f756c7c66b36847a64869967d2788dddbe7e",
+    "source_mtime_ns": 1792701933960536200
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Serin.fbx",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Serin.fbx",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3894396,
+    "sha256": "ffb843cc8a1f74f7ac94924301ac4cb1594ac8faae4190556fde3ab2b0c3c7e6",
+    "source_mtime_ns": 1792664269862960800
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Serin.fbx.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Serin.fbx.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 37505,
+    "sha256": "9df392f94a2cf42ab588a1ae8d8c215dfbb95c3a5b704d0a9f23e3c3ce458424",
+    "source_mtime_ns": 1792665139800508700
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Serin_Roster.overrideController",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Serin_Roster.overrideController",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 877,
+    "sha256": "8243d87152cc4c22812b8af28304477114ee5597e966f84f1692949704d484f2",
+    "source_mtime_ns": 1792665159904387700
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Serin_Roster.overrideController.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Serin_Roster.overrideController.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 189,
+    "sha256": "d11b72dacf21e88a4d1517c46742f92e854157b70338b92da1940d0853220220",
+    "source_mtime_ns": 1792664664387308600
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Textures.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Textures.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 172,
+    "sha256": "335654ad099ced67674f7401d8ced1601f2fad5d1d849be7b180a4ea5d9118c0",
+    "source_mtime_ns": 1792664652605487400
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Animations\\PREVIEW_R_AimIdle.fbx",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Animations/PREVIEW_R_AimIdle.fbx",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 4690220,
+    "sha256": "5b6c7819276a53330d592484f4fbf9363660a5e5db015916de18aa683bd72725",
+    "source_mtime_ns": 1792665001136287700
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Animations\\PREVIEW_R_AimIdle.fbx.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Animations/PREVIEW_R_AimIdle.fbx.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 38368,
+    "sha256": "a4cc705724fb4653657ec566ba8568d32c52b33c984744db7aad6af3d5366105",
+    "source_mtime_ns": 1792664663328092100
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Animations\\PREVIEW_R_Idle.fbx",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Animations/PREVIEW_R_Idle.fbx",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 4689244,
+    "sha256": "6d98a79ac2f9d0d978f6f4a57d7c175fea6068c778341edd222abe0394ea84ea",
+    "source_mtime_ns": 1792665000300788100
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Animations\\PREVIEW_R_Idle.fbx.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Animations/PREVIEW_R_Idle.fbx.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 38365,
+    "sha256": "3f9bc53d3be698763570f4597ed2e246084c6cb4458c9ffcccb4e73ba6f958b9",
+    "source_mtime_ns": 1792664663870832200
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Materials\\FACE_MouthCavity_Matte.mat",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Materials/FACE_MouthCavity_Matte.mat",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3789,
+    "sha256": "6504aef2ce1d5dfea175f7b76aa947fde7879157996ccf40fd484aa41aa7c8ea",
+    "source_mtime_ns": 1792665160044528200
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Materials\\FACE_MouthCavity_Matte.mat.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Materials/FACE_MouthCavity_Matte.mat.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "14287bec5d2ed0274dfd3c007c0054eb70edec5c4226ba339a58c5e9895c8c61",
+    "source_mtime_ns": 1792664663189696200
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Materials\\Serin_Atlas_Clean_v01.mat",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Materials/Serin_Atlas_Clean_v01.mat",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3890,
+    "sha256": "f6b076b64d910ce934c20006b587dc1c03e03903019919df841a1b520922343b",
+    "source_mtime_ns": 1792665160094888900
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Materials\\Serin_Atlas_Clean_v01.mat.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Materials/Serin_Atlas_Clean_v01.mat.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "49634eabf71f0015f0d5b9f400c7faed93fbb4c353d7c418907272ca8622de79",
+    "source_mtime_ns": 1792664662410543900
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Materials\\Serin_v21g_Bottom_SkinTone.mat",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Materials/Serin_v21g_Bottom_SkinTone.mat",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3894,
+    "sha256": "d40821cfef123ecf28881493f23f1eca313c79f64ce9cdccb7ea5f93bef4d100",
+    "source_mtime_ns": 1792665159965481400
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Materials\\Serin_v21g_Bottom_SkinTone.mat.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Materials/Serin_v21g_Bottom_SkinTone.mat.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "7c729006773391771dbafffccf2f7d8e5543e52d2cbbd1570668aadb621e5e87",
+    "source_mtime_ns": 1792664661611960300
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Repairs\\BackSurface.asset",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Repairs/BackSurface.asset",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 54443,
+    "sha256": "02865a627e66bd30b529a17134f3249210f03a6ae2a161d9220cc59fde7d6f00",
+    "source_mtime_ns": 1792702242543299100
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Repairs\\BackSurface.asset.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Repairs/BackSurface.asset.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "ee358904687c06297c07241078080b4152fa5e81381f08ab7eb8c5933d342dd6",
+    "source_mtime_ns": 1792701934170682500
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Repairs\\Boundary_Basewear_Top_Surface.asset",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Repairs/Boundary_Basewear_Top_Surface.asset",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 238093,
+    "sha256": "770b4f3dc5346bc0b1426cf4345905f8d1b11235a415cf3e8b5d0fbce0c67c64",
+    "source_mtime_ns": 1792786819007065400
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Repairs\\Boundary_Basewear_Top_Surface.asset.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Repairs/Boundary_Basewear_Top_Surface.asset.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "b56710b0f8405190970d1c617646be14d9c89708ed41434015f41ad6ff6532d8",
+    "source_mtime_ns": 1792786669740959500
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Repairs\\Boundary_Body_Base.asset",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Repairs/Boundary_Body_Base.asset",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 2056498,
+    "sha256": "742502bd83138adc2e741a9fe3e2628d3bbe0ae815c6da9fe508e087d249443c",
+    "source_mtime_ns": 1792786818982066200
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Repairs\\Boundary_Body_Base.asset.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Repairs/Boundary_Body_Base.asset.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "7b42a3eca281b1bb1df2db663e4e7bc3ff915238db0f4cbc99209119a8c5ab5d",
+    "source_mtime_ns": 1792786669556185900
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Repairs\\Boundary_Rear_torso_seam_closure.asset",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Repairs/Boundary_Rear_torso_seam_closure.asset",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 60148,
+    "sha256": "3cc629a32d5b7289750c2ae536433ad2dc6dde0ce14c2deb6800285411912696",
+    "source_mtime_ns": 1792786819170135200
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Repairs\\Boundary_Rear_torso_seam_closure.asset.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Repairs/Boundary_Rear_torso_seam_closure.asset.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "1e61c453e00fa37971ece96850c95f1db017f8e433a86d3959cfda67a1c3740c",
+    "source_mtime_ns": 1792786669863101300
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Repairs\\Straight_Basewear_Bottom_Surface.asset",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Repairs/Straight_Basewear_Bottom_Surface.asset",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 603419,
+    "sha256": "63bf9e5d79eaa5f7187e2d8da93b29e100a7d69fe96269af50a61b12f28a2d91",
+    "source_mtime_ns": 1792819050176961600
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Repairs\\Straight_Basewear_Bottom_Surface.asset.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Repairs/Straight_Basewear_Bottom_Surface.asset.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "d8c8f41b634d290e6f2c959a69389842aa7761175a8876189a78f0292183b420",
+    "source_mtime_ns": 1792816843592937200
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Repairs\\Straight_Basewear_Top_Surface.asset",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Repairs/Straight_Basewear_Top_Surface.asset",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 314881,
+    "sha256": "dbdcfc60b1f4c965cf725c451d5c9c1efe6b93101c2cc029037a69a0f0f20f0e",
+    "source_mtime_ns": 1792822859176317300
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Repairs\\Straight_Basewear_Top_Surface.asset.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Repairs/Straight_Basewear_Top_Surface.asset.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "9257383d1724878dfa9317752e5927be784000ee8c897a88b073f3d413cf7e7c",
+    "source_mtime_ns": 1792816064491487600
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Repairs\\Straight_Body_Base.asset",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Repairs/Straight_Body_Base.asset",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 2443489,
+    "sha256": "f0806b86e7cc498de4dd8f1c1a7b07bd6b1a3870574c05ac474139481ac382cc",
+    "source_mtime_ns": 1792822859145206700
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Repairs\\Straight_Body_Base.asset.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Repairs/Straight_Body_Base.asset.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "a57d2cf800e926feeeebcf6d5c42c4e5cee0134fa603bd8e216ee4ba344052b9",
+    "source_mtime_ns": 1792816064189225900
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Repairs\\Straight_LowerSeam.asset",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Repairs/Straight_LowerSeam.asset",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 104818,
+    "sha256": "b61cf6f14fed0b4637d24ab935dd958ba5fa581372ae2a177d299bbf8b6eb550",
+    "source_mtime_ns": 1792819050122758200
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Repairs\\Straight_LowerSeam.asset.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Repairs/Straight_LowerSeam.asset.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "208382bfe68306c1e69ddc18580550f511ed1ce7ce920d8232195e92f0cb13ea",
+    "source_mtime_ns": 1792817104995093700
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Repairs\\Straight_Rear_torso_seam_closure.asset",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Repairs/Straight_Rear_torso_seam_closure.asset",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 64154,
+    "sha256": "3abd37985410ae7947b8ba3e15f6062a9f75c98210f86fd371dede4abda9c333",
+    "source_mtime_ns": 1792819050053037400
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Repairs\\Straight_Rear_torso_seam_closure.asset.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Repairs/Straight_Rear_torso_seam_closure.asset.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 188,
+    "sha256": "414ceb33ebf120b60a10048cbace220741b93b3736df4522e14de2e3c0d5b8e0",
+    "source_mtime_ns": 1792816064621734300
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Textures\\Serin_BaseColor_v06_BackSkinClean.png",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Textures/Serin_BaseColor_v06_BackSkinClean.png",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 9293436,
+    "sha256": "7e4be040b035d8548ddeea7fb062ca978691bd092a98e29f0ad316b494e4e538",
+    "source_mtime_ns": 1792664268609944100
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Textures\\Serin_BaseColor_v06_BackSkinClean.png.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Textures/Serin_BaseColor_v06_BackSkinClean.png.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3007,
+    "sha256": "b6a96b97c8cc4e41ca6e9e0934566dbf7ae328898a6d70a73be1969df829cf3b",
+    "source_mtime_ns": 1792664662547066800
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Textures\\Serin_v21g_SkinPanels.png",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Textures/Serin_v21g_SkinPanels.png",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 11176135,
+    "sha256": "abe5e7e801327f902b87efb272ace8433520f67580b1e8bf5345849ab2336c77",
+    "source_mtime_ns": 1792664268940720400
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Textures\\Serin_v21g_SkinPanels.png.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Textures/Serin_v21g_SkinPanels.png.meta",
+    "role": "current live asset snapshot, including meta and repair meshes",
+    "bytes": 3007,
+    "sha256": "aa088821fdaf702c9621bb4c41fc8c01be4b92a43f685d4a17dc942b81505deb",
+    "source_mtime_ns": 1792664661762666200
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Textures\\Serin_BaseColor_v06_BackSkinClean.png",
+    "package_path": "01_MODELS/Serin/AUTHORING/Textures/Serin_BaseColor_v06_BackSkinClean.png",
+    "role": "external texture companion",
+    "bytes": 9293436,
+    "sha256": "7e4be040b035d8548ddeea7fb062ca978691bd092a98e29f0ad316b494e4e538",
+    "source_mtime_ns": 1792664268609944100
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Roster20261022\\Serin\\Textures\\Serin_v21g_SkinPanels.png",
+    "package_path": "01_MODELS/Serin/AUTHORING/Textures/Serin_v21g_SkinPanels.png",
+    "role": "external texture companion",
+    "bytes": 11176135,
+    "sha256": "abe5e7e801327f902b87efb272ace8433520f67580b1e8bf5345849ab2336c77",
+    "source_mtime_ns": 1792664268940720400
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\Player_Serin.prefab",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Player_Serin.prefab",
+    "role": "live prefab mesh/material/bone mapping; reference only",
+    "bytes": 213215,
+    "sha256": "8a54952ce17b2640b68cd33b1ff1b75d69e905c69aceca53344bd884d8245cf5",
+    "source_mtime_ns": 1792819048345586000
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Resources\\SD\\Player_Serin.prefab.meta",
+    "package_path": "01_MODELS/Serin/CURRENT_GAME/Player_Serin.prefab.meta",
+    "role": "prefab guid",
+    "bytes": 154,
+    "sha256": "67c1ee686b489e6a616fb4935b2f3a3724db793117648126c4767495e68cf7d6",
+    "source_mtime_ns": 1788706091760226000
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\edel-shading-first-pass\\after_game_front.png",
+    "package_path": "02_REFERENCES/Edel/2026-10-29/after_game_front.png",
+    "role": "historical actual Unity screenshot; D15 skin-shading pass",
+    "bytes": 1995054,
+    "sha256": "98ec08b6be0b5d529bf2cbd149dc08870b6bffdb24fbac4b16f0f31a6c34e0e7",
+    "source_mtime_ns": 1793248954797628000
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\edel-shading-first-pass\\after_game_side.png",
+    "package_path": "02_REFERENCES/Edel/2026-10-29/after_game_side.png",
+    "role": "historical actual Unity screenshot; D15 skin-shading pass",
+    "bytes": 1659779,
+    "sha256": "8bf19690d5ff07de220957aea2966af56df4bafa0b79920f86f3357f92fea473",
+    "source_mtime_ns": 1793248955743923200
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\edel-shading-first-pass\\after_game_back.png",
+    "package_path": "02_REFERENCES/Edel/2026-10-29/after_game_back.png",
+    "role": "historical actual Unity screenshot; D15 skin-shading pass",
+    "bytes": 1596566,
+    "sha256": "edc52492fef46620b8c4a43ad382da46adae94b11d3cb005936349893c2dc2e7",
+    "source_mtime_ns": 1793248956627523300
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\edel-shading-first-pass\\after_inventory_close.png",
+    "package_path": "02_REFERENCES/Edel/2026-10-29/after_inventory_close.png",
+    "role": "historical actual Unity screenshot; D15 skin-shading pass",
+    "bytes": 385611,
+    "sha256": "4a7f5871cf2bd1a019a57e48b96da91532d189876a8a017047f9e6c0fde3dd80",
+    "source_mtime_ns": 1793248956890643300
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\edel-shading-first-pass\\after_outdoor_sun.png",
+    "package_path": "02_REFERENCES/Edel/2026-10-29/after_outdoor_sun.png",
+    "role": "historical actual Unity screenshot; D15 skin-shading pass",
+    "bytes": 2927114,
+    "sha256": "f47e74e19f869a9b8b6082f3f3d143759157e8babbe4bef06cc76ab95d2070c1",
+    "source_mtime_ns": 1793248946180379000
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\edel-shading-first-pass\\after_outdoor_shade.png",
+    "package_path": "02_REFERENCES/Edel/2026-10-29/after_outdoor_shade.png",
+    "role": "historical actual Unity screenshot; D15 skin-shading pass",
+    "bytes": 2743956,
+    "sha256": "37921cbf15006236a15306657737e1e87fbcf782a7d08bc034241348bfda6a6f",
+    "source_mtime_ns": 1793248947080376800
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\straight-innerwear-boundary\\after_serin_45.png",
+    "package_path": "02_REFERENCES/Serin/2026-10-24/after_serin_45.png",
+    "role": "actual Unity reference; front was subsequently restored, see separate latest front",
+    "bytes": 966375,
+    "sha256": "388eae0bd80bd9c31cd468c34f36c222ea39fbe5c908f5c58a951c75a9352865",
+    "source_mtime_ns": 1792819085499520300
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\straight-innerwear-boundary\\after_serin_45_portrait.png",
+    "package_path": "02_REFERENCES/Serin/2026-10-24/after_serin_45_portrait.png",
+    "role": "actual Unity reference; front was subsequently restored, see separate latest front",
+    "bytes": 485412,
+    "sha256": "d79254b0e8eb13916ab5b5edcf2e395c914e53b97081ea9e9cf88e74dd18da49",
+    "source_mtime_ns": 1792819085536039200
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\straight-innerwear-boundary\\after_serin_90.png",
+    "package_path": "02_REFERENCES/Serin/2026-10-24/after_serin_90.png",
+    "role": "actual Unity reference; front was subsequently restored, see separate latest front",
+    "bytes": 950190,
+    "sha256": "bc4520ccf2f492be3aaa8ec32c31b3ab37340b6e169f697db0d7c8b553f06bba",
+    "source_mtime_ns": 1792819085679428400
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\straight-innerwear-boundary\\after_serin_90_portrait.png",
+    "package_path": "02_REFERENCES/Serin/2026-10-24/after_serin_90_portrait.png",
+    "role": "actual Unity reference; front was subsequently restored, see separate latest front",
+    "bytes": 442527,
+    "sha256": "b1f49839ae38bc7efaebb9c1eaeb7c44a6d16f5eae1cdb83f4e665e20177a920",
+    "source_mtime_ns": 1792819085717170200
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\straight-innerwear-boundary\\after_serin_135.png",
+    "package_path": "02_REFERENCES/Serin/2026-10-24/after_serin_135.png",
+    "role": "actual Unity reference; front was subsequently restored, see separate latest front",
+    "bytes": 949611,
+    "sha256": "8439ace4914a9b5543087c05e1994f830ad1c5bc5efd6481381e77425637e218",
+    "source_mtime_ns": 1792819085865606500
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\straight-innerwear-boundary\\after_serin_135_portrait.png",
+    "package_path": "02_REFERENCES/Serin/2026-10-24/after_serin_135_portrait.png",
+    "role": "actual Unity reference; front was subsequently restored, see separate latest front",
+    "bytes": 430530,
+    "sha256": "817342de1a1df0e6d2664f50079d8c13fdbbcbc1895ce18dffbcd7fffe1c9f26",
+    "source_mtime_ns": 1792819085904380600
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\straight-innerwear-boundary\\after_serin_180.png",
+    "package_path": "02_REFERENCES/Serin/2026-10-24/after_serin_180.png",
+    "role": "actual Unity reference; front was subsequently restored, see separate latest front",
+    "bytes": 953142,
+    "sha256": "d186b39dc971fb6e5750e637c51c8033a56794d59e7e0ad5355de221d7ef26ca",
+    "source_mtime_ns": 1792819086043946300
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\straight-innerwear-boundary\\after_serin_180_portrait.png",
+    "package_path": "02_REFERENCES/Serin/2026-10-24/after_serin_180_portrait.png",
+    "role": "actual Unity reference; front was subsequently restored, see separate latest front",
+    "bytes": 457942,
+    "sha256": "d61b122a3993d866ca6ab2889ef15949f935da5036934bd3e1642b6a41b69976",
+    "source_mtime_ns": 1792819086081122000
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\straight-innerwear-boundary\\after_serin_225.png",
+    "package_path": "02_REFERENCES/Serin/2026-10-24/after_serin_225.png",
+    "role": "actual Unity reference; front was subsequently restored, see separate latest front",
+    "bytes": 960489,
+    "sha256": "69959d54596e5d1c19258542afe749a327a1abff0d3158fcd96480aeb6ec044d",
+    "source_mtime_ns": 1792819086220460000
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\straight-innerwear-boundary\\after_serin_225_portrait.png",
+    "package_path": "02_REFERENCES/Serin/2026-10-24/after_serin_225_portrait.png",
+    "role": "actual Unity reference; front was subsequently restored, see separate latest front",
+    "bytes": 478221,
+    "sha256": "e3f4a384b5a8626ce37fb9dc26e7e057f119d7d01c51511c89d9d3e12d79198b",
+    "source_mtime_ns": 1792819086258505000
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\straight-innerwear-boundary\\after_serin_270.png",
+    "package_path": "02_REFERENCES/Serin/2026-10-24/after_serin_270.png",
+    "role": "actual Unity reference; front was subsequently restored, see separate latest front",
+    "bytes": 943685,
+    "sha256": "dca19db1bb3c4315815bbbf36c33f03b0cfad7ee9120c2afa9a9abaa718b80b9",
+    "source_mtime_ns": 1792819086402568900
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\straight-innerwear-boundary\\after_serin_270_portrait.png",
+    "package_path": "02_REFERENCES/Serin/2026-10-24/after_serin_270_portrait.png",
+    "role": "actual Unity reference; front was subsequently restored, see separate latest front",
+    "bytes": 430703,
+    "sha256": "ab1edf4bcf5e04bdcb56a96e595f8ea5ad4eb1cb95a504160d784ae169178bf5",
+    "source_mtime_ns": 1792819086437496400
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\straight-innerwear-boundary\\after_serin_315.png",
+    "package_path": "02_REFERENCES/Serin/2026-10-24/after_serin_315.png",
+    "role": "actual Unity reference; front was subsequently restored, see separate latest front",
+    "bytes": 943256,
+    "sha256": "76fec2ad9c60ce23e957766b0cd39974743752a65e02bd8a9fdf3809f5b13a41",
+    "source_mtime_ns": 1792819086578055200
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\straight-innerwear-boundary\\after_serin_315_portrait.png",
+    "package_path": "02_REFERENCES/Serin/2026-10-24/after_serin_315_portrait.png",
+    "role": "actual Unity reference; front was subsequently restored, see separate latest front",
+    "bytes": 419695,
+    "sha256": "29cf3f64cc6b59dadfadb036531a5dc746d2c6d31f0f96ce0db10eca4b335c76",
+    "source_mtime_ns": 1792819086613844600
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\straight-innerwear-boundary\\verified-20261024\\candidate_front_serin_0_portrait.png",
+    "package_path": "02_REFERENCES/Serin/2026-10-24/latest_front_restored.png",
+    "role": "latest accepted restored front; original filename in manifest",
+    "bytes": 492978,
+    "sha256": "6457e321b2d2143161f097a0429d06425cda4f64e047a9f3e755deab3f16ce11",
+    "source_mtime_ns": 1792822945629570700
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-10-27\\EDEL_Animation_Handoff\\04_PREVIEWS\\Edel_CurrentLowReady_STATIC_REFERENCE.glb",
+    "package_path": "02_REFERENCES/Edel/2026-10-27/Edel_CurrentLowReady_STATIC_REFERENCE.glb",
+    "role": "historical static surface/weapon reference; no rig/animation/physics; not latest D15 shading",
+    "bytes": 14041296,
+    "sha256": "a25fd99f87ac391bf16f40159b49104ea2ebd4af2511b92eae9dc60985f77be3",
+    "source_mtime_ns": 1793092202350331500
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\equipment-art-model-handoff\\CHAT_PRO_HANDOFF_PROMPT.md",
+    "package_path": "03_DESIGN/CHAT_PRO_HANDOFF_PROMPT.md",
+    "role": "current equipment art/model instruction, all54 candidate items",
+    "bytes": 9938,
+    "sha256": "23bd8ff00d4c1d57e60d080a04fa3850e1751496bc821140ba58049b054d96d7",
+    "source_mtime_ns": 1793269451049882300
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\equipment-art-model-handoff\\COPY_PASTE_PROMPT.md",
+    "package_path": "03_DESIGN/PREVIOUS_COPY_PASTE_PROMPT.md",
+    "role": "previous short prompt; ZIP entry prompt takes precedence for attachment paths",
+    "bytes": 2919,
+    "sha256": "6a670ea6a68b19344d670e591e1b2217254bc5fe6a8fa8280c2a5eafd5f5c3e4",
+    "source_mtime_ns": 1793269537931076900
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\SdWeaponPose.cs",
+    "package_path": "04_GAME_REFERENCE/Runtime/SdWeaponPose.cs",
+    "role": "current runtime reference, project-dependent; do not execute/import automatically",
+    "bytes": 110190,
+    "sha256": "5f61536e38a21e011d416397c924fae41245fe70a3f6d091f774dc88d2bda465",
+    "source_mtime_ns": 1792942221893088100
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\SdIdlePresentation.cs",
+    "package_path": "04_GAME_REFERENCE/Runtime/SdIdlePresentation.cs",
+    "role": "current runtime reference, project-dependent; do not execute/import automatically",
+    "bytes": 18248,
+    "sha256": "2b1ce83883213b62c34a5271c4950cb14f0d999d413e02d3cc4b1c00a688e876",
+    "source_mtime_ns": 1792825726857657200
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\SdCharacterVisual.cs",
+    "package_path": "04_GAME_REFERENCE/Runtime/SdCharacterVisual.cs",
+    "role": "current runtime reference, project-dependent; do not execute/import automatically",
+    "bytes": 14692,
+    "sha256": "31489084827cd82f2e289263c3043fab3e42133f736e672c46a053971c1918ba",
+    "source_mtime_ns": 1793020654186860700
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\SdHairCollisionMotion.cs",
+    "package_path": "04_GAME_REFERENCE/Runtime/SdHairCollisionMotion.cs",
+    "role": "current runtime reference, project-dependent; do not execute/import automatically",
+    "bytes": 256990,
+    "sha256": "9a67d076ff030e06f18e79274e00d1bdbceb44ebaabf9dd2792d9cd44a04e837",
+    "source_mtime_ns": 1793027491067452100
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\EdelProximalHairBinding.cs",
+    "package_path": "04_GAME_REFERENCE/Runtime/EdelProximalHairBinding.cs",
+    "role": "current runtime reference, project-dependent; do not execute/import automatically",
+    "bytes": 12670,
+    "sha256": "6ca2e9011377b27e752c2715b775b5589f99192369ddd09d79bbdcbbeea88b95",
+    "source_mtime_ns": 1793027228799273000
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\EdelIndexSkinBinding.cs",
+    "package_path": "04_GAME_REFERENCE/Runtime/EdelIndexSkinBinding.cs",
+    "role": "current runtime reference, project-dependent; do not execute/import automatically",
+    "bytes": 8566,
+    "sha256": "0ffa3743ee352a2b3f1006296e7832780b23bcc2d2a37d858f52235670abf6a3",
+    "source_mtime_ns": 1792934690966728900
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\EdelSkinShadingMask.cs",
+    "package_path": "04_GAME_REFERENCE/Runtime/EdelSkinShadingMask.cs",
+    "role": "current runtime reference, project-dependent; do not execute/import automatically",
+    "bytes": 3008,
+    "sha256": "d32c48c254159d2cb587ed002115e8ddaddfda74b8821475205aca904fb32d1a",
+    "source_mtime_ns": 1793021094667742200
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Visuals\\ToonCharacterStyle.cs",
+    "package_path": "04_GAME_REFERENCE/Runtime/Visuals/ToonCharacterStyle.cs",
+    "role": "current runtime reference, project-dependent; do not execute/import automatically",
+    "bytes": 12619,
+    "sha256": "206e6a2d738685890d57505369f948c9b334d27b59927c6d570db41dfa9ab7fb",
+    "source_mtime_ns": 1793248496872581500
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\UI\\InventoryPortrait.cs",
+    "package_path": "04_GAME_REFERENCE/Runtime/UI/InventoryPortrait.cs",
+    "role": "current runtime reference, project-dependent; do not execute/import automatically",
+    "bytes": 39916,
+    "sha256": "aeb7b8f4612255c46e6ad43839fcd9d67a0bcce456e7478d03e9ed9af3c169cc",
+    "source_mtime_ns": 1792941291572802100
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\Toon\\HybridToon.shader",
+    "package_path": "04_GAME_REFERENCE/Art/Toon/HybridToon.shader",
+    "role": "current shader reference; not portable PBR rendering",
+    "bytes": 21448,
+    "sha256": "f8849ff9755225ca99f5948ec93e4e165e58e3b8c3b4a7821595bf1178b92b10",
+    "source_mtime_ns": 1793248496873537200
+  },
+  {
+    "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Art\\SubcultureD15\\CharacterHybridD15.shader",
+    "package_path": "04_GAME_REFERENCE/Art/SubcultureD15/CharacterHybridD15.shader",
+    "role": "current shader reference; not portable PBR rendering",
+    "bytes": 22450,
+    "sha256": "a841211530b0684dcb35ed1c5e8eb21b5998618cf8adc0955a158e3d1e0a2179",
+    "source_mtime_ns": 1793248496875041700
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\global-outline-cartoon-pass\\after_game_front.png",
+    "package_path": "02_REFERENCES/Edel/2026-10-29-outline/after_game_front.png",
+    "role": "latest actual Unity world outline follow-up; priority over prior same-day world screenshot",
+    "bytes": 1958302,
+    "sha256": "e1c3cffd508959d9288960d84cacb159b5c0b135b47a6d6c4714c57bb8d71d20",
+    "source_mtime_ns": 1793250737407909300
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\global-outline-cartoon-pass\\after_game_side.png",
+    "package_path": "02_REFERENCES/Edel/2026-10-29-outline/after_game_side.png",
+    "role": "latest actual Unity world outline follow-up; priority over prior same-day world screenshot",
+    "bytes": 1615345,
+    "sha256": "3bbbd96d5635b181d77a8929df353536e1f3561a5c9cc7462fe1bd77f2a4ee4c",
+    "source_mtime_ns": 1793250738556391600
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\global-outline-cartoon-pass\\after_game_back.png",
+    "package_path": "02_REFERENCES/Edel/2026-10-29-outline/after_game_back.png",
+    "role": "latest actual Unity world outline follow-up; priority over prior same-day world screenshot",
+    "bytes": 1626514,
+    "sha256": "3840ab4fcf13b2475147fbe76ce7448a6d79b68f7423ff9b0997ea78dadc8a3b",
+    "source_mtime_ns": 1793250739373660300
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\global-outline-cartoon-pass\\after_outdoor_sun.png",
+    "package_path": "02_REFERENCES/Edel/2026-10-29-outline/after_outdoor_sun.png",
+    "role": "latest actual Unity world outline follow-up; priority over prior same-day world screenshot",
+    "bytes": 2724539,
+    "sha256": "089fa88763056a214f42d38e907267f5589d698dd58926b6b711a4bb0995f221",
+    "source_mtime_ns": 1793250733940814800
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\global-outline-cartoon-pass\\after_outdoor_shade.png",
+    "package_path": "02_REFERENCES/Edel/2026-10-29-outline/after_outdoor_shade.png",
+    "role": "latest actual Unity world outline follow-up; priority over prior same-day world screenshot",
+    "bytes": 2549326,
+    "sha256": "09312d05ef5a1740b5879a4e1e17dea6d9ca458408ff93a84f6ab70a2a4d5b3c",
+    "source_mtime_ns": 1793250734774314300
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-29\\global-outline-cartoon-pass\\after_environment_overview.png",
+    "package_path": "02_REFERENCES/Edel/2026-10-29-outline/after_environment_overview.png",
+    "role": "latest actual Unity world outline follow-up; priority over prior same-day world screenshot",
+    "bytes": 2362088,
+    "sha256": "fa298fd7f688946996a9ad0b47abb60bd91a76028feddd18d81dc429963cdff9",
+    "source_mtime_ns": 1793250740302450800
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\equipment-art-model-package\\before_edel_authoring.png",
+    "package_path": "05_VALIDATION/before_edel_authoring.png",
+    "role": "source/copy Blender check render, not runtime game validation",
+    "bytes": 392826,
+    "sha256": "cf0e27832bb090c40211039159c1931bae10447324d538385307044f8a1ba128",
+    "source_mtime_ns": 1793300648341023900
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\equipment-art-model-package\\after_edel_authoring.png",
+    "package_path": "05_VALIDATION/after_edel_authoring.png",
+    "role": "source/copy Blender check render, not runtime game validation",
+    "bytes": 392858,
+    "sha256": "244b56ef66b72d075f6548a837f3a57e9c578c7afb8cbc2424a8b307d3098785",
+    "source_mtime_ns": 1793300652456965200
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\equipment-art-model-package\\before_serin_authoring.png",
+    "package_path": "05_VALIDATION/before_serin_authoring.png",
+    "role": "source/copy Blender check render, not runtime game validation",
+    "bytes": 304548,
+    "sha256": "ae23a24d1c1511ab58a75c4ee18a2c71844e3b31d80d625f56ac2e8826d767fc",
+    "source_mtime_ns": 1793300654838401100
+  },
+  {
+    "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\equipment-art-model-package\\after_serin_authoring.png",
+    "package_path": "05_VALIDATION/after_serin_authoring.png",
+    "role": "source/copy Blender check render, not runtime game validation",
+    "bytes": 304589,
+    "sha256": "65fa6cb0b06d39b23fbc610f3e2f5fa8d1901c9e01ea898f21cde02a076da64b",
+    "source_mtime_ns": 1793300658113603300
+  }
+]

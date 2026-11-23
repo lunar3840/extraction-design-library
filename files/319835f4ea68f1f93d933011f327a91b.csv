@@ -1,0 +1,13 @@
+﻿id,label,planned_containers,ordinary_sensory_candidates_min,ordinary_sensory_candidates_max,ordinary_home_activity_candidates_min,ordinary_home_activity_candidates_max,sensory_candidate_actor_ids,activity_candidate_actor_ids,named_sensory_candidates,scaffold_length_m_not_navmesh
+B1_local,B1→N01 비축함→X1,1,0,0,0,0,,,,100.66
+B1_clinic,B1→진료소 4개→X1,4,2,3,3,3,"G1_01,G1_02,H3_01","G1_01,G1_02,H3_01",,384.1
+B2_local,B2→W01 공구함→X2,1,0,0,1,1,,"G1_01,G1_02",,172.01
+B2_tools_N1,B2→TOOLS·W05→N1 선택→X2,3,7,8,9,10,"D_TOOLS_01,G2_01,G2_02,H1_01,H1_02,H1_03,H1_04,H4_01,N1","D_TOOLS_01,G2_01,G2_02,G6_01,G6_02,H1_01,H1_02,H1_03,H1_04,H4_01,H4_02,N1",N1,407.53
+B3_local,B3→S05 생활품→X3,1,0,0,0,0,,,,150.53
+B3_yard_N2,B3→남서 외곽→Y01→N2 선택→X3,3,2,2,6,6,"G4_01,G4_02,N2","D_G11_01,G11_01,G11_02,G11_03,G4_01,G4_02,N2",N2,519.87
+B4_local,B4→S08 생활품→X3,1,0,0,0,0,,,,68.31
+B4_hall_N5,B4→W5·남서 작업면→HALL/N5 선택→X3,3,10,12,12,15,"D_HALL_01,D_HALL_02,G12_01,G12_02,G12_03,G12_04,G12_05,G12_06,G8_01,G8_02,G8_03,N5,V4_G8_01","D_HALL_01,D_HALL_02,G12_01,G12_02,G12_03,G12_04,G12_05,G12_06,G4_01,G4_02,G8_01,G8_02,G8_03,H6_01,N5,V4_G8_01",N5,574.42
+CLINIC_interior_only,CLINIC 문·상자 주변만(접근/탈출 제외),4,0,1,0,1,H3_01,H3_01,,110.83
+HALL_interior_only,HALL 문·상자 주변만(접근/탈출 제외),3,6,6,8,9,"D_HALL_01,D_HALL_02,G12_01,G12_02,G12_04,G12_05,N5","D_HALL_01,D_HALL_02,G12_01,G12_02,G12_03,G12_04,G12_05,G12_06,H6_01,N5",N5,141.5
+POWER_interior_only,POWER 문·상자 주변만(접근/탈출 제외),4,1,1,6,6,D_POWER_01,"D_G9_01,D_POWER_01,G9_01,G9_02,G9_03,G9_04",,97.88
+PARTS_interior_only,PARTS 문·상자 주변만(접근/탈출 제외),5,4,5,5,6,"D_PARTS_01,G10_01,G10_02,G10_03,G10_04","D_PARTS_01,G10_01,G10_02,G10_03,G10_04,N4,V4_G10_01",,183.77

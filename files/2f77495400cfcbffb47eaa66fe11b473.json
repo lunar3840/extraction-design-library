@@ -1,0 +1,105 @@
+{
+  "targeted_rear_skin_verdict": "pass_observed_135_180_225_all_six_prior_alpha_holes_opaque",
+  "whole_model_watertight_claim": false,
+  "additional_points": [
+    {
+      "yaw": 180,
+      "xy": [
+        383,
+        785
+      ],
+      "classification": "original central clothing opening; excluded from repair",
+      "probe": "capped_liv180_center.txt",
+      "rest": [
+        -0.00387323,
+        -0.1068785,
+        0.3164367
+      ],
+      "texture_alpha": 1,
+      "first_clothing_front": false,
+      "unchanged_alpha_pixels": [
+        [
+          383,
+          785
+        ],
+        [
+          383,
+          786
+        ]
+      ]
+    },
+    {
+      "yaw": 225,
+      "xy": [
+        474,
+        708
+      ],
+      "classification": "original gray clothing-side backface, outside rear skin mask; an original pinhole remains",
+      "probe": "capped_liv225_edge.txt",
+      "rest": [
+        0.08017913,
+        -0.1144909,
+        0.3800957
+      ],
+      "texture_alpha": 1,
+      "first_clothing_front": false,
+      "original_polygon": 707,
+      "original_polygon_vertices": [
+        486,
+        172,
+        488
+      ],
+      "matches": [
+        {
+          "original_vertex": 486,
+          "original_unity_position": [
+            0.08516253530979156,
+            -0.11204113811254501,
+            0.3784133791923523
+          ],
+          "current_probe_position": [
+            0.08516249,
+            -0.112041,
+            0.3784128
+          ],
+          "distance": 5.971531070556238e-07
+        },
+        {
+          "original_vertex": 488,
+          "original_unity_position": [
+            0.08369839936494827,
+            -0.11252918839454651,
+            0.38231775164604187
+          ],
+          "current_probe_position": [
+            0.08369835,
+            -0.112529,
+            0.3823172
+          ],
+          "distance": 5.85015178226237e-07
+        },
+        {
+          "original_vertex": 172,
+          "original_unity_position": [
+            0.07832992821931839,
+            -0.1154574379324913,
+            0.3798774778842926
+          ],
+          "current_probe_position": [
+            0.07832988,
+            -0.1154573,
+            0.3798769
+          ],
+          "distance": 5.96071078345103e-07
+        }
+      ],
+      "max_source_position_difference": 5.971531070556238e-07,
+      "action": "No skin cap through original gray cloth. Document separately; no blanket zero-hole clearance."
+    }
+  ],
+  "provenance": {
+    "work\\straight-innerwear-20261024\\lower-audit\\Liv_all.json": "07cb0bfd9e60b5f624a5fcee71c7e6a5e11e7563ac09a83e1b54f0e2ff3e9fff",
+    "outputs\\change_records\\2026-10-24\\edel-natural-arm-pose\\capped_liv180_center.txt": "45011fd0c3033c4ccfd5f1d48cb6bfac68866070788ef489419e35c24d6a1a79",
+    "outputs\\change_records\\2026-10-24\\edel-natural-arm-pose\\capped_liv225_edge.txt": "fac64fbf75b837f1ddbde5e6c211f1ccd395e681902e0ebc4f955fe1049ef535"
+  }
+}

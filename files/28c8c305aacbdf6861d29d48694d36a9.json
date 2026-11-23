@@ -1,0 +1,16 @@
+{
+  "production": {
+    "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\UI\\InventoryPortrait.cs": "47accbfefd760dfb473c42be6f11e5141bc18408b914bae550dff6359edd11fc",
+    "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\SdIdlePresentation.cs": "e12b22174e2338b87946fc909846add7f47773e157564aef326fa52798956a26",
+    "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Stage\\SessionGlassView.cs": "cb042b69054dc33ab6435c2f5709eb5a8148d922939214364772dba5ab27ce52",
+    "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\Inventory\\InventoryGlassView.cs": "e4255f9a89801f5baf9ed8b5cd62046334eec5235286dc8b8ab325ad2b6823ca"
+  },
+  "removedTestFiles": [
+    "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\PortraitMotionWorld.cs",
+    "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\PortraitMotionWorld.cs.meta",
+    "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\PortraitMotionRuntime.cs",
+    "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\PortraitMotionRuntime.cs.meta",
+    "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\PortraitMotionEvidence.cs",
+    "C:\\UnityProject\\escape\\Assets\\Escape\\Editor\\PortraitMotionEvidence.cs.meta"
+  ]
+}

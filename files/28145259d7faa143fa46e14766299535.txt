@@ -1,0 +1,33 @@
+MODIFIED Runtime/PlayerMotor.cs
+MODIFIED Runtime/TopDownCamera.cs
+MODIFIED Runtime/Basecamp/ShopCatalog.cs
+MODIFIED Runtime/Combat/CombatSignals.cs
+MODIFIED Runtime/Core/PlayerRules.cs
+MODIFIED Runtime/Enemy/EnemyController.cs
+MODIFIED Runtime/Inventory/InventoryGlassView.cs
+MODIFIED Runtime/Inventory/InventoryGridPresentation.cs
+MODIFIED Runtime/Inventory/InventoryGroundPresentation.cs
+MODIFIED Runtime/Inventory/InventoryTestWorld.cs
+MODIFIED Runtime/Inventory/InventoryWeaponDetails.cs
+ADDED Runtime/Inventory/InventoryWeaponModding.cs
+MODIFIED Runtime/Inventory/ItemCatalog.cs
+MODIFIED Runtime/Inventory/PrototypeItems.cs
+MODIFIED Runtime/Inventory/Core/InventoryState.cs
+ADDED Runtime/Inventory/Core/InventoryWeaponAttachments.cs
+MODIFIED Runtime/Save/BasecampTransactions.cs
+ADDED Runtime/Save/WeaponModdingTransactions.cs
+MODIFIED Runtime/Stage/SessionInventoryPresentation.cs
+MODIFIED Runtime/Stage/SessionTestWorld.cs
+MODIFIED Runtime/UI/GlassIcons.cs
+MODIFIED Runtime/UI/UiTheme.cs
+ADDED Runtime/Weapon/RifleAttachmentPresentation.cs
+MODIFIED Runtime/Weapon/RifleController.cs
+MODIFIED Runtime/Weapon/WeaponTestWorld.cs
+MODIFIED Runtime/Weapon/Core/RifleState.cs
+ADDED Runtime/Weapon/Core/WeaponAttachments.cs
+MODIFIED Editor/InventoryChecks.cs
+ADDED Editor/WeaponAttachmentCoreChecks.cs (+meta)
+ADDED Editor/WeaponAttachmentInventoryChecks.cs (+meta)
+ADDED Editor/WeaponModdingIntegrationChecks.cs (+meta)
+ADDED Editor/WeaponModdingCameraChecks.cs (+meta)
+ADDED Editor/WeaponModdingWorkflow.cs (+meta)

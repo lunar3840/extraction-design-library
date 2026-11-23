@@ -1,0 +1,35 @@
+PASS six-column bag preserves sixty logical pitch
+PASS ten-column source preserves its current adaptive pitch
+PASS six-pixel visual gap at pitch 60
+PASS continuous 1x1 card at pitch 60
+PASS continuous 1x2 card at pitch 60
+PASS continuous 1x3 card at pitch 60
+PASS continuous 2x1 card at pitch 60
+PASS continuous 2x2 card at pitch 60
+PASS continuous 2x3 card at pitch 60
+PASS continuous 3x1 card at pitch 60
+PASS continuous 3x2 card at pitch 60
+PASS continuous 3x3 card at pitch 60
+PASS continuous 4x1 card at pitch 60
+PASS continuous 4x2 card at pitch 60
+PASS continuous 4x3 card at pitch 60
+PASS visual spacing preserves second-cell placement mapping at pitch 60
+PASS multi-cell card keeps original logical drag-grab origin at pitch 60
+PASS six-pixel visual gap at pitch 44.8
+PASS continuous 1x1 card at pitch 44.8
+PASS continuous 1x2 card at pitch 44.8
+PASS continuous 1x3 card at pitch 44.8
+PASS continuous 2x1 card at pitch 44.8
+PASS continuous 2x2 card at pitch 44.8
+PASS continuous 2x3 card at pitch 44.8
+PASS continuous 3x1 card at pitch 44.8
+PASS continuous 3x2 card at pitch 44.8
+PASS continuous 3x3 card at pitch 44.8
+PASS continuous 4x1 card at pitch 44.8
+PASS continuous 4x2 card at pitch 44.8
+PASS continuous 4x3 card at pitch 44.8
+PASS visual spacing preserves second-cell placement mapping at pitch 44.8
+PASS multi-cell card keeps original logical drag-grab origin at pitch 44.8
+PASS bag V and quantity fields fit with a four-pixel gap
+PASS extended weapon keeps existing equipment right edge
+TOTAL PASS 34

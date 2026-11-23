@@ -1,0 +1,6 @@
+2026-10-07T12:32:28.2079082Z
+playing=False
+scene=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity
+sceneDirty=False
+scene and prefab saved, reloaded geometry/material/shader checks passed
+RESULT PASS

@@ -1,0 +1,390 @@
+2026-10-07 오후 5:54:54
+STAGE_A_OUTDOOR_D03_INDEPENDENT_VALIDATION
+PASS retained Stage A scene is open
+PASS active D03 outdoor root exists
+PASS physical terrain surface is active
+PASS all authored outdoor cells have distinct IDs; count=10
+PASS physical before desire-line probe exists
+PASS all planned before desire lines were physically clear
+PASS active D03 authored cell root exists: SC_TRANSFER
+PASS before probe uses unchanged desire-line coordinates: SC_TRANSFER
+PASS D03 new colliders interrupt former open grass straight line SC_TRANSFER; newBlocked=42 ownBlocked=42 oldBlocked=0 missing=0 hits=SC_T_PipeRack,SC_T_Container,SC_T_Crates01
+PASS active D03 authored cell root exists: SC_SORTING
+PASS before probe uses unchanged desire-line coordinates: SC_SORTING
+PASS D03 new colliders interrupt former open grass straight line SC_SORTING; newBlocked=18 ownBlocked=18 oldBlocked=0 missing=0 hits=SC_S_Pipes01,SC_S_Container,SC_S_Pipes02
+PASS active D03 authored cell root exists: PC_TRANSFORMER
+PASS before probe uses unchanged desire-line coordinates: PC_TRANSFORMER
+PASS D03 new colliders interrupt former open grass straight line PC_TRANSFORMER; newBlocked=89 ownBlocked=89 oldBlocked=0 missing=0 hits=PC_T_Transformer01,PC_T_Wire01,PC_T_Wire02,PC_T_Transformer02,PC_T_Wire03,PC_T_Wire04
+PASS active D03 authored cell root exists: PC_CABLE
+PASS before probe uses unchanged desire-line coordinates: PC_CABLE
+PASS D03 new colliders interrupt former open grass straight line PC_CABLE; newBlocked=60 ownBlocked=60 oldBlocked=0 missing=0 hits=PC_C_PipeRack01,PC_C_Container,PC_C_PipeRack02
+PASS active D03 authored cell root exists: YC_DISMANTLE
+PASS before probe uses unchanged desire-line coordinates: YC_DISMANTLE
+PASS D03 new colliders interrupt former open grass straight line YC_DISMANTLE; newBlocked=43 ownBlocked=43 oldBlocked=0 missing=0 hits=YC_D_Engine01,YC_D_Truck,YC_D_EngineBayCrates
+PASS active D03 authored cell root exists: YC_PARTS
+PASS before probe uses unchanged desire-line coordinates: YC_PARTS
+PASS D03 new colliders interrupt former open grass straight line YC_PARTS; newBlocked=69 ownBlocked=69 oldBlocked=0 missing=0 hits=YC_P_Crates01,YC_P_WestContainer,YC_P_Container,YC_P_EastContainer,YC_P_PipeRack02
+PASS active D03 authored cell root exists: SW_RUIN_W
+PASS before probe uses unchanged desire-line coordinates: SW_RUIN_W
+PASS D03 new colliders interrupt former open grass straight line SW_RUIN_W; newBlocked=42 ownBlocked=42 oldBlocked=0 missing=0 hits=SW_W_Van,SW_W_Crates02,SW_W_SalvageCar
+PASS active D03 authored cell root exists: SW_RUIN_E
+PASS before probe uses unchanged desire-line coordinates: SW_RUIN_E
+PASS D03 new colliders interrupt former open grass straight line SW_RUIN_E; newBlocked=39 ownBlocked=39 oldBlocked=0 missing=0 hits=SW_E_Pipes01,SW_E_Container,SW_E_Pipes02
+PASS active D03 authored cell root exists: NORTH_SERVICE
+PASS before probe uses unchanged desire-line coordinates: NORTH_SERVICE
+PASS D03 new colliders interrupt former open grass straight line NORTH_SERVICE; newBlocked=15 ownBlocked=15 oldBlocked=0 missing=0 hits=NS_ContainerWest
+PASS active D03 authored cell root exists: NORTH_LOADING
+PASS before probe uses unchanged desire-line coordinates: NORTH_LOADING
+PASS D03 new colliders interrupt former open grass straight line NORTH_LOADING; newBlocked=11 ownBlocked=11 oldBlocked=0 missing=0 hits=NL_ContainerNose
+PASS D03 SC_TRANSFER forms a multi-obstacle 4m work band across at least two thirds; distinct=4 thirds=3 items=SC_T_PipeRack,SC_T_Drums,SC_T_Container,SC_T_Crates01
+PASS D03 SC_SORTING forms a multi-obstacle 4m work band across at least two thirds; distinct=3 thirds=3 items=SC_S_Pipes01,SC_S_Container,SC_S_Pipes02
+PASS D03 PC_TRANSFORMER forms a multi-obstacle 4m work band across at least two thirds; distinct=6 thirds=3 items=PC_T_Transformer01,PC_T_Wire01,PC_T_Wire02,PC_T_Transformer02,PC_T_Wire03,PC_T_Wire04
+PASS D03 PC_CABLE forms a multi-obstacle 4m work band across at least two thirds; distinct=5 thirds=3 items=PC_C_WestContainer02,PC_C_PipeRack01,PC_C_Container,PC_C_PipeRack02,PC_C_Crates02
+PASS D03 YC_DISMANTLE forms a multi-obstacle 4m work band across at least two thirds; distinct=4 thirds=3 items=YC_D_Engine01,YC_D_MidVan,YC_D_Truck,YC_D_EngineBayCrates
+PASS D03 YC_PARTS forms a multi-obstacle 4m work band across at least two thirds; distinct=7 thirds=3 items=YC_P_Crates01,YC_P_PipeRack01,YC_P_WestContainer,YC_P_Container,YC_P_EastContainer,YC_P_Crates02,YC_P_PipeRack02
+PASS D03 SW_RUIN_W forms a multi-obstacle 4m work band across at least two thirds; distinct=4 thirds=3 items=SW_W_Crates01,SW_W_Van,SW_W_Crates02,SW_W_SalvageCar
+PASS D03 SW_RUIN_E forms a multi-obstacle 4m work band across at least two thirds; distinct=4 thirds=3 items=SW_E_Pipes01,SW_E_Container,SW_E_Pipes02,SW_E_SalvageVan
+PASS D03 NORTH_SERVICE forms a multi-obstacle 4m work band across at least two thirds; distinct=3 thirds=3 items=NS_ContainerWest,NS_ContainerMid,NS_ContainerEast
+PASS D03 NORTH_LOADING forms a multi-obstacle 4m work band across at least two thirds; distinct=4 thirds=3 items=NL_Crates,NL_NorthFenceWest,NL_NorthFenceMid,NL_ContainerNose
+PASS density baseline was measured from this exact D03 plan; hash=BDDC5E4C41AB6B76DEC583274A626464805154DA5EEBD38618EA9BB8DD67F6CE
+NOTE physical area occupancy and five parallel obstacle transects per cell saved to D03_DENSITY_BEFORE/AFTER/DELTA.csv; numerical evidence only, not an automatic density PASS
+PASS D03 obstacle screens standing-height sight line from both ends SC_TRANSFER forward=Collision reverse=Collision
+PASS D03 obstacle screens standing-height sight line from both ends SC_SORTING forward=Collision reverse=Collision
+PASS D03 obstacle screens standing-height sight line from both ends PC_TRANSFORMER forward=Collision reverse=Collision
+PASS D03 obstacle screens standing-height sight line from both ends PC_CABLE forward=Collision reverse=Collision
+PASS D03 obstacle screens standing-height sight line from both ends YC_DISMANTLE forward=Collision reverse=Collision
+PASS D03 obstacle screens standing-height sight line from both ends YC_PARTS forward=Collision reverse=Collision
+PASS D03 obstacle screens standing-height sight line from both ends SW_RUIN_W forward=Collision reverse=Collision
+PASS D03 obstacle screens standing-height sight line from both ends SW_RUIN_E forward=Collision reverse=Collision
+PASS D03 obstacle screens standing-height sight line from both ends NORTH_SERVICE forward=Collision reverse=Collision
+PASS D03 obstacle screens standing-height sight line from both ends NORTH_LOADING forward=Collision reverse=Collision
+PASS SC_TRANSFER authored primary alley clear width >=2.8m; width=2.80
+PASS SC_TRANSFER alternative A shares desire-line start and end
+PASS SC_TRANSFER alternative A full 2.8m player-capsule corridor on real terrain; samples=117 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS SC_TRANSFER authored primary alley clear width >=2.8m; width=2.80
+PASS SC_TRANSFER alternative B shares desire-line start and end
+PASS SC_TRANSFER alternative B full 2.8m player-capsule corridor on real terrain; samples=132 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS two usable choice corridors diverge beyond shared start/end: SC_TRANSFER A=3.0m B=5.1m
+PASS SC_SORTING authored primary alley clear width >=2.8m; width=2.80
+PASS SC_SORTING alternative A shares desire-line start and end
+PASS SC_SORTING alternative A full 2.8m player-capsule corridor on real terrain; samples=126 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS SC_SORTING authored primary alley clear width >=2.8m; width=2.80
+PASS SC_SORTING alternative B shares desire-line start and end
+PASS SC_SORTING alternative B full 2.8m player-capsule corridor on real terrain; samples=222 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS two usable choice corridors diverge beyond shared start/end: SC_SORTING A=5.5m B=18.0m
+PASS PC_TRANSFORMER authored primary alley clear width >=2.8m; width=2.80
+PASS PC_TRANSFORMER alternative A shares desire-line start and end
+PASS PC_TRANSFORMER alternative A full 2.8m player-capsule corridor on real terrain; samples=177 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS PC_TRANSFORMER authored primary alley clear width >=2.8m; width=2.80
+PASS PC_TRANSFORMER alternative B shares desire-line start and end
+PASS PC_TRANSFORMER alternative B full 2.8m player-capsule corridor on real terrain; samples=174 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS two usable choice corridors diverge beyond shared start/end: PC_TRANSFORMER A=4.1m B=3.6m
+PASS PC_CABLE authored primary alley clear width >=2.8m; width=2.80
+PASS PC_CABLE alternative A shares desire-line start and end
+PASS PC_CABLE alternative A full 2.8m player-capsule corridor on real terrain; samples=435 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS PC_CABLE authored primary alley clear width >=2.8m; width=2.80
+PASS PC_CABLE alternative B shares desire-line start and end
+PASS PC_CABLE alternative B full 2.8m player-capsule corridor on real terrain; samples=252 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS two usable choice corridors diverge beyond shared start/end: PC_CABLE A=30.0m B=9.2m
+PASS YC_DISMANTLE authored primary alley clear width >=2.8m; width=2.80
+PASS YC_DISMANTLE alternative A shares desire-line start and end
+PASS YC_DISMANTLE alternative A full 2.8m player-capsule corridor on real terrain; samples=150 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS YC_DISMANTLE authored primary alley clear width >=2.8m; width=2.80
+PASS YC_DISMANTLE alternative B shares desire-line start and end
+PASS YC_DISMANTLE alternative B full 2.8m player-capsule corridor on real terrain; samples=168 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS two usable choice corridors diverge beyond shared start/end: YC_DISMANTLE A=9.0m B=11.0m
+PASS YC_PARTS authored primary alley clear width >=2.8m; width=2.80
+PASS YC_PARTS alternative A shares desire-line start and end
+PASS YC_PARTS alternative A full 2.8m player-capsule corridor on real terrain; samples=165 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS YC_PARTS authored primary alley clear width >=2.8m; width=2.80
+PASS YC_PARTS alternative B shares desire-line start and end
+PASS YC_PARTS alternative B full 2.8m player-capsule corridor on real terrain; samples=189 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS two usable choice corridors diverge beyond shared start/end: YC_PARTS A=4.1m B=7.1m
+PASS SW_RUIN_W authored primary alley clear width >=2.8m; width=2.80
+PASS SW_RUIN_W alternative A shares desire-line start and end
+PASS SW_RUIN_W alternative A full 2.8m player-capsule corridor on real terrain; samples=129 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS SW_RUIN_W authored primary alley clear width >=2.8m; width=2.80
+PASS SW_RUIN_W alternative B shares desire-line start and end
+PASS SW_RUIN_W alternative B full 2.8m player-capsule corridor on real terrain; samples=198 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS two usable choice corridors diverge beyond shared start/end: SW_RUIN_W A=4.0m B=10.1m
+PASS SW_RUIN_E authored primary alley clear width >=2.8m; width=2.80
+PASS SW_RUIN_E alternative A shares desire-line start and end
+PASS SW_RUIN_E alternative A full 2.8m player-capsule corridor on real terrain; samples=126 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS SW_RUIN_E authored primary alley clear width >=2.8m; width=2.80
+PASS SW_RUIN_E alternative B shares desire-line start and end
+PASS SW_RUIN_E alternative B full 2.8m player-capsule corridor on real terrain; samples=192 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS two usable choice corridors diverge beyond shared start/end: SW_RUIN_E A=5.1m B=13.1m
+PASS NORTH_SERVICE authored primary alley clear width >=2.8m; width=2.80
+PASS NORTH_SERVICE alternative A shares desire-line start and end
+PASS NORTH_SERVICE alternative A full 2.8m player-capsule corridor on real terrain; samples=189 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS NORTH_SERVICE authored primary alley clear width >=2.8m; width=2.80
+PASS NORTH_SERVICE alternative B shares desire-line start and end
+PASS NORTH_SERVICE alternative B full 2.8m player-capsule corridor on real terrain; samples=222 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS two usable choice corridors diverge beyond shared start/end: NORTH_SERVICE A=9.1m B=15.4m
+PASS NORTH_LOADING authored primary alley clear width >=2.8m; width=2.80
+PASS NORTH_LOADING alternative A shares desire-line start and end
+PASS NORTH_LOADING alternative A full 2.8m player-capsule corridor on real terrain; samples=192 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS NORTH_LOADING authored primary alley clear width >=2.8m; width=2.80
+PASS NORTH_LOADING alternative B shares desire-line start and end
+PASS NORTH_LOADING alternative B full 2.8m player-capsule corridor on real terrain; samples=210 blocked=0 missing=0 steep=0 new=0 old=0 first=
+PASS two usable choice corridors diverge beyond shared start/end: NORTH_LOADING A=9.5m B=11.5m
+NOTE all alternative corridor physical blockers saved to D03_ROUTE_OBSTRUCTIONS.csv
+PASS substantial connected work cell SC_TRANSFER items=9
+PASS cell SC_TRANSFER forms one localized proximity graph; far=0 linkedItems=9/9 maxInterItemGap=6m radius=22.5 farItems=
+PASS cell SC_TRANSFER references actual retained facility components
+PASS cell SC_TRANSFER is within 2m of named retained facility boundsGap=0.31
+PASS substantial connected work cell SC_SORTING items=10
+PASS cell SC_SORTING forms one localized proximity graph; far=0 linkedItems=10/10 maxInterItemGap=6m radius=20.5 farItems=
+PASS cell SC_SORTING references actual retained facility components
+PASS cell SC_SORTING documents a specific service-island design reason
+PASS cell SC_SORTING planned service island boundsGap=0.83 reason=Fenced incoming-material sorting island between E05 and E06, with separate north and south alleys
+PASS substantial connected work cell PC_TRANSFORMER items=10
+PASS cell PC_TRANSFORMER forms one localized proximity graph; far=0 linkedItems=10/10 maxInterItemGap=6m radius=28.0 farItems=
+PASS cell PC_TRANSFORMER references actual retained facility components
+PASS cell PC_TRANSFORMER documents a specific service-island design reason
+PASS cell PC_TRANSFORMER planned service island boundsGap=11.37 reason=Internal transformer and cable service island between E01 and E02, bounded by continuous wire segments
+PASS substantial connected work cell PC_CABLE items=11
+PASS cell PC_CABLE forms one localized proximity graph; far=0 linkedItems=11/11 maxInterItemGap=6m radius=34.5 farItems=
+PASS cell PC_CABLE references actual retained facility components
+PASS cell PC_CABLE documents a specific service-island design reason
+PASS cell PC_CABLE planned service island boundsGap=1.43 reason=Cable storage island just inside PC_W2, using its own short mesh edge and two approach alleys
+PASS substantial connected work cell YC_DISMANTLE items=12
+PASS cell YC_DISMANTLE forms one localized proximity graph; far=0 linkedItems=12/12 maxInterItemGap=6m radius=20.5 farItems=
+PASS cell YC_DISMANTLE references actual retained facility components
+PASS cell YC_DISMANTLE documents a specific service-island design reason
+PASS cell YC_DISMANTLE planned service island boundsGap=1.12 reason=Vehicle dismantling work island in the open space between Y01 and Y02, bounded by concrete work barriers
+PASS substantial connected work cell YC_PARTS items=8
+PASS cell YC_PARTS forms one localized proximity graph; far=0 linkedItems=8/8 maxInterItemGap=6m radius=26.5 farItems=
+PASS cell YC_PARTS references actual retained facility components
+PASS cell YC_PARTS documents a specific service-island design reason
+PASS cell YC_PARTS planned service island boundsGap=4.94 reason=Parts inventory island beside Y01 and the yard service gate, with a short mesh boundary
+PASS substantial connected work cell SW_RUIN_W items=11
+PASS cell SW_RUIN_W forms one localized proximity graph; far=0 linkedItems=11/11 maxInterItemGap=6m radius=23.0 farItems=
+PASS cell SW_RUIN_W references actual retained facility components
+PASS cell SW_RUIN_W documents a specific service-island design reason
+PASS cell SW_RUIN_W planned service island boundsGap=0.30 reason=Low ruined household salvage island in the S01-S05 gap, with a broken barrier workface and separate north and south alleys
+PASS substantial connected work cell SW_RUIN_E items=11
+PASS cell SW_RUIN_E forms one localized proximity graph; far=0 linkedItems=11/11 maxInterItemGap=6m radius=20.5 farItems=
+PASS cell SW_RUIN_E references actual retained facility components
+PASS cell SW_RUIN_E documents a specific service-island design reason
+PASS cell SW_RUIN_E planned service island boundsGap=1.23 reason=Abandoned household salvage island in the open S07-S04 backlot, offset from ruined walls to keep two walkable side alleys
+PASS substantial connected work cell NORTH_SERVICE items=10
+PASS cell NORTH_SERVICE forms one localized proximity graph; far=0 linkedItems=10/10 maxInterItemGap=6m radius=25.5 farItems=
+PASS cell NORTH_SERVICE references actual retained facility components
+PASS cell NORTH_SERVICE documents a specific service-island design reason
+PASS cell NORTH_SERVICE planned service island boundsGap=0.89 reason=Four touching storage faces make a 15 by 10 metre L-shaped service mass; N15 east wall flanks a west alley and the north alley remains available
+PASS substantial connected work cell NORTH_LOADING items=9
+PASS cell NORTH_LOADING forms one localized proximity graph; far=0 linkedItems=9/9 maxInterItemGap=6m radius=25.0 farItems=
+PASS cell NORTH_LOADING references actual retained facility components
+PASS cell NORTH_LOADING documents a specific service-island design reason
+PASS cell NORTH_LOADING planned service island boundsGap=4.92 reason=Two staggered touching container rows and a tall north nose replace EW5's display; N16 west wall forms the opposite side of an open alley, with north and full-width south road-side choices
+PASS D03 contains substantial visible, physical outdoor obstacles; solids=101 renderers=101 plannedItems=101
+PASS authored D03 item has active visual and physical mesh: SC_T_Container
+PASS authored D03 item has active visual and physical mesh: SC_T_PipeRack
+PASS authored D03 item has active visual and physical mesh: SC_T_Crates01
+PASS authored D03 item has active visual and physical mesh: SC_T_Crates02
+PASS authored D03 item has active visual and physical mesh: SC_T_Drums
+PASS authored D03 item has active visual and physical mesh: SC_T_MidRack
+PASS authored D03 item has active visual and physical mesh: SC_T_MidContainer
+PASS authored D03 item has active visual and physical mesh: SC_T_MidBundle
+PASS authored D03 item has active visual and physical mesh: SC_T_EdgeBarrier
+PASS authored D03 item has active visual and physical mesh: SC_S_Container
+PASS authored D03 item has active visual and physical mesh: SC_S_Pipes01
+PASS authored D03 item has active visual and physical mesh: SC_S_Pipes02
+PASS authored D03 item has active visual and physical mesh: SC_S_Barrier01
+PASS authored D03 item has active visual and physical mesh: SC_S_Barrier02
+PASS authored D03 item has active visual and physical mesh: SC_S_CableReel
+PASS authored D03 item has active visual and physical mesh: SC_S_Crates
+PASS authored D03 item has active visual and physical mesh: SC_S_E05SouthContainer
+PASS authored D03 item has active visual and physical mesh: SC_S_LinkContainer
+PASS authored D03 item has active visual and physical mesh: SC_S_LinkRack
+PASS authored D03 item has active visual and physical mesh: PC_T_Transformer01
+PASS authored D03 item has active visual and physical mesh: PC_T_Transformer02
+PASS authored D03 item has active visual and physical mesh: PC_T_Cable01
+PASS authored D03 item has active visual and physical mesh: PC_T_Cable02
+PASS authored D03 item has active visual and physical mesh: PC_T_Wire01
+PASS authored D03 item has active visual and physical mesh: PC_T_Wire02
+PASS authored D03 item has active visual and physical mesh: PC_T_Wire03
+PASS authored D03 item has active visual and physical mesh: PC_T_Wire04
+PASS authored D03 item has active visual and physical mesh: PC_T_ServiceRack01
+PASS authored D03 item has active visual and physical mesh: PC_T_ServiceRack02
+PASS authored D03 item has active visual and physical mesh: PC_C_Container
+PASS authored D03 item has active visual and physical mesh: PC_C_PipeRack01
+PASS authored D03 item has active visual and physical mesh: PC_C_PipeRack02
+PASS authored D03 item has active visual and physical mesh: PC_C_Crates01
+PASS authored D03 item has active visual and physical mesh: PC_C_Crates02
+PASS authored D03 item has active visual and physical mesh: PC_C_Fence01
+PASS authored D03 item has active visual and physical mesh: PC_C_Fence02
+PASS authored D03 item has active visual and physical mesh: PC_C_WestContainer01
+PASS authored D03 item has active visual and physical mesh: PC_C_WestContainer02
+PASS authored D03 item has active visual and physical mesh: PC_C_E02EastContainer01
+PASS authored D03 item has active visual and physical mesh: PC_C_E02EastContainer02
+PASS authored D03 item has active visual and physical mesh: YC_D_Truck
+PASS authored D03 item has active visual and physical mesh: YC_D_Engine01
+PASS authored D03 item has active visual and physical mesh: YC_D_Engine02
+PASS authored D03 item has active visual and physical mesh: YC_D_Drums
+PASS authored D03 item has active visual and physical mesh: YC_D_Barrier01
+PASS authored D03 item has active visual and physical mesh: YC_D_Barrier02
+PASS authored D03 item has active visual and physical mesh: YC_D_EngineBayCrates
+PASS authored D03 item has active visual and physical mesh: YC_D_NorthContainer
+PASS authored D03 item has active visual and physical mesh: YC_D_NorthCar
+PASS authored D03 item has active visual and physical mesh: YC_D_NorthParts
+PASS authored D03 item has active visual and physical mesh: YC_D_MidVan
+PASS authored D03 item has active visual and physical mesh: YC_D_NorthWallRack
+PASS authored D03 item has active visual and physical mesh: YC_P_Container
+PASS authored D03 item has active visual and physical mesh: YC_P_WestContainer
+PASS authored D03 item has active visual and physical mesh: YC_P_EastContainer
+PASS authored D03 item has active visual and physical mesh: YC_P_PipeRack01
+PASS authored D03 item has active visual and physical mesh: YC_P_PipeRack02
+PASS authored D03 item has active visual and physical mesh: YC_P_Crates01
+PASS authored D03 item has active visual and physical mesh: YC_P_Crates02
+PASS authored D03 item has active visual and physical mesh: YC_P_Fence02
+PASS authored D03 item has active visual and physical mesh: SW_W_Van
+PASS authored D03 item has active visual and physical mesh: SW_W_Crates01
+PASS authored D03 item has active visual and physical mesh: SW_W_Crates02
+PASS authored D03 item has active visual and physical mesh: SW_W_Barrier01
+PASS authored D03 item has active visual and physical mesh: SW_W_Barrier02
+PASS authored D03 item has active visual and physical mesh: SW_W_Drums
+PASS authored D03 item has active visual and physical mesh: SW_W_SalvageCar
+PASS authored D03 item has active visual and physical mesh: SW_W_LinkCrates
+PASS authored D03 item has active visual and physical mesh: SW_W_WS1Wall01
+PASS authored D03 item has active visual and physical mesh: SW_W_WS1Wall02
+PASS authored D03 item has active visual and physical mesh: SW_W_WallTurn
+PASS authored D03 item has active visual and physical mesh: SW_E_Container
+PASS authored D03 item has active visual and physical mesh: SW_E_Pipes01
+PASS authored D03 item has active visual and physical mesh: SW_E_Pipes02
+PASS authored D03 item has active visual and physical mesh: SW_E_Fence01
+PASS authored D03 item has active visual and physical mesh: SW_E_Fence02
+PASS authored D03 item has active visual and physical mesh: SW_E_Crates
+PASS authored D03 item has active visual and physical mesh: SW_E_SalvageVan
+PASS authored D03 item has active visual and physical mesh: SW_E_S07Wall01
+PASS authored D03 item has active visual and physical mesh: SW_E_S07Wall02
+PASS authored D03 item has active visual and physical mesh: SW_E_BrokenWallEast
+PASS authored D03 item has active visual and physical mesh: SW_E_BrokenWallMid
+PASS authored D03 item has active visual and physical mesh: NS_CornerBarrier
+PASS authored D03 item has active visual and physical mesh: NS_ContainerWest
+PASS authored D03 item has active visual and physical mesh: NS_ContainerEast
+PASS authored D03 item has active visual and physical mesh: NS_ContainerMid
+PASS authored D03 item has active visual and physical mesh: NS_ContainerSouth
+PASS authored D03 item has active visual and physical mesh: NS_RackWest
+PASS authored D03 item has active visual and physical mesh: NS_RackEast
+PASS authored D03 item has active visual and physical mesh: NS_CableReel
+PASS authored D03 item has active visual and physical mesh: NS_CratesSouth
+PASS authored D03 item has active visual and physical mesh: NS_OilDrums
+PASS authored D03 item has active visual and physical mesh: NL_ContainerWest
+PASS authored D03 item has active visual and physical mesh: NL_Container
+PASS authored D03 item has active visual and physical mesh: NL_ContainerEast
+PASS authored D03 item has active visual and physical mesh: NL_ContainerNose
+PASS authored D03 item has active visual and physical mesh: NL_ContainerSouthWest
+PASS authored D03 item has active visual and physical mesh: NL_ContainerSouthEast
+PASS authored D03 item has active visual and physical mesh: NL_NorthFenceWest
+PASS authored D03 item has active visual and physical mesh: NL_NorthFenceMid
+PASS authored D03 item has active visual and physical mesh: NL_Crates
+PASS D03 obstacle colliders contact physical terrain; floating=0
+PASS D03 obstacle colliders have visible counterparts; absent=0
+PASS D03 new solids do not penetrate one another; count=0
+PASS D03 new solids do not penetrate retained structures; count=0
+PASS material nonconvex AABB overlaps are resolved independently; count=0
+PASS V33 as-built road and D02 painted route source records exist
+PASS all 27 retained V33 as-built road routes loaded
+PASS all V33 road centers and full-width flanks avoid new D03 colliders; 0/11718 samples blocked
+PASS retained D02 painted route plan loaded
+PASS all D02 painted route centers and full-width flanks avoid new D03 colliders; 0/645 samples blocked
+PASS retained V33 equipment root exists
+PASS D03 replaced prior isolated equipment row without deleting it: EE1
+PASS D03 replaced prior isolated equipment row without deleting it: EE4
+PASS D03 replaced prior isolated equipment row without deleting it: EY1
+PASS D03 replaced prior isolated equipment row without deleting it: EY2
+PASS D03 replaced prior isolated equipment row without deleting it: EY3
+PASS D03 replaced prior isolated equipment row without deleting it: ES1
+PASS D03 replaced prior isolated equipment row without deleting it: ES2
+PASS D03 replaced prior isolated equipment row without deleting it: ES4
+PASS D03 replaced prior isolated equipment row without deleting it: EN3
+PASS D03 replaced prior isolated equipment row without deleting it: EN4
+PASS D03 replaced prior isolated equipment row without deleting it: EW5
+PASS retained 12 V33 exterior-to-interior gate approaches avoid new D03 solids; 12/12
+NOTE existing-collider gate sample count=0; separately validated by retained V33 gate tests
+PASS collision-derived NavMesh builds and activates
+PASS SC_TRANSFER choice A collision-derived NavMesh follows authored alley; nav=27.0m authored=27.0m navOverhead=0.0m maxDeviation=0.0m
+NOTE SC_TRANSFER choice A choice design: authored/direct=1.29 (27.0m/21.0m) within prior long-choice review threshold
+PASS SC_TRANSFER choice B collision-derived NavMesh follows authored alley; nav=30.1m authored=30.1m navOverhead=0.0m maxDeviation=0.0m
+NOTE SC_TRANSFER choice B choice design: authored/direct=1.43 (30.1m/21.0m) within prior long-choice review threshold
+PASS SC_SORTING choice A collision-derived NavMesh follows authored alley; nav=28.0m authored=28.0m navOverhead=0.0m maxDeviation=0.0m
+NOTE SC_SORTING choice A choice design: authored/direct=1.65 (28.0m/17.0m) within prior long-choice review threshold
+PASS SC_SORTING choice B collision-derived NavMesh follows authored alley; nav=53.0m authored=53.0m navOverhead=0.0m maxDeviation=0.0m
+NOTE SC_SORTING choice B choice design: authored/direct=3.12 (53.0m/17.0m) DESIGN_REVIEW_REQUIRED: long authored choice needs human route-design approval or shortening
+PASS PC_TRANSFORMER choice A collision-derived NavMesh follows authored alley; nav=41.3m authored=41.1m navOverhead=0.1m maxDeviation=0.0m
+NOTE PC_TRANSFORMER choice A choice design: authored/direct=1.29 (41.1m/32.0m) within prior long-choice review threshold
+PASS PC_TRANSFORMER choice B collision-derived NavMesh follows authored alley; nav=41.0m authored=40.6m navOverhead=0.4m maxDeviation=1.8m
+NOTE PC_TRANSFORMER choice B choice design: authored/direct=1.27 (40.6m/32.0m) within prior long-choice review threshold
+PASS PC_CABLE choice A collision-derived NavMesh follows authored alley; nav=105.4m authored=105.0m navOverhead=0.4m maxDeviation=0.0m
+NOTE PC_CABLE choice A choice design: authored/direct=2.33 (105.0m/45.0m) within prior long-choice review threshold
+PASS PC_CABLE choice B collision-derived NavMesh follows authored alley; nav=59.1m authored=59.0m navOverhead=0.1m maxDeviation=0.0m
+NOTE PC_CABLE choice B choice design: authored/direct=1.31 (59.0m/45.0m) within prior long-choice review threshold
+PASS YC_DISMANTLE choice A collision-derived NavMesh follows authored alley; nav=35.0m authored=35.0m navOverhead=0.0m maxDeviation=0.0m
+NOTE YC_DISMANTLE choice A choice design: authored/direct=2.06 (35.0m/17.0m) within prior long-choice review threshold
+PASS YC_DISMANTLE choice B collision-derived NavMesh follows authored alley; nav=39.0m authored=39.0m navOverhead=0.0m maxDeviation=0.0m
+NOTE YC_DISMANTLE choice B choice design: authored/direct=2.29 (39.0m/17.0m) within prior long-choice review threshold
+PASS YC_PARTS choice A collision-derived NavMesh follows authored alley; nav=38.1m authored=38.1m navOverhead=0.0m maxDeviation=0.0m
+NOTE YC_PARTS choice A choice design: authored/direct=1.31 (38.1m/29.0m) within prior long-choice review threshold
+PASS YC_PARTS choice B collision-derived NavMesh follows authored alley; nav=44.1m authored=44.1m navOverhead=0.0m maxDeviation=0.0m
+NOTE YC_PARTS choice B choice design: authored/direct=1.52 (44.1m/29.0m) within prior long-choice review threshold
+PASS SW_RUIN_W choice A collision-derived NavMesh follows authored alley; nav=29.1m authored=29.1m navOverhead=0.0m maxDeviation=0.0m
+NOTE SW_RUIN_W choice A choice design: authored/direct=1.32 (29.1m/22.0m) within prior long-choice review threshold
+PASS SW_RUIN_W choice B collision-derived NavMesh follows authored alley; nav=44.0m authored=44.0m navOverhead=0.0m maxDeviation=0.0m
+NOTE SW_RUIN_W choice B choice design: authored/direct=2.00 (44.0m/22.0m) within prior long-choice review threshold
+PASS SW_RUIN_E choice A collision-derived NavMesh follows authored alley; nav=27.0m authored=27.0m navOverhead=0.0m maxDeviation=0.0m
+NOTE SW_RUIN_E choice A choice design: authored/direct=1.59 (27.0m/17.0m) within prior long-choice review threshold
+PASS SW_RUIN_E choice B collision-derived NavMesh follows authored alley; nav=43.0m authored=43.0m navOverhead=0.0m maxDeviation=0.0m
+NOTE SW_RUIN_E choice B choice design: authored/direct=2.53 (43.0m/17.0m) within prior long-choice review threshold
+PASS NORTH_SERVICE choice A collision-derived NavMesh follows authored alley; nav=44.1m authored=44.1m navOverhead=0.1m maxDeviation=0.0m
+NOTE NORTH_SERVICE choice A choice design: authored/direct=1.63 (44.1m/27.0m) within prior long-choice review threshold
+PASS NORTH_SERVICE choice B collision-derived NavMesh follows authored alley; nav=51.7m authored=51.7m navOverhead=0.0m maxDeviation=0.0m
+NOTE NORTH_SERVICE choice B choice design: authored/direct=1.91 (51.7m/27.0m) within prior long-choice review threshold
+PASS NORTH_LOADING choice A collision-derived NavMesh follows authored alley; nav=46.6m authored=45.0m navOverhead=1.6m maxDeviation=0.0m
+NOTE NORTH_LOADING choice A choice design: authored/direct=1.73 (45.0m/26.0m) within prior long-choice review threshold
+PASS NORTH_LOADING choice B collision-derived NavMesh follows authored alley; nav=49.1m authored=49.0m navOverhead=0.1m maxDeviation=0.0m
+NOTE NORTH_LOADING choice B choice design: authored/direct=1.88 (49.0m/26.0m) within prior long-choice review threshold
+PASS retained V33 gate has both local navigation halves: CN_G2
+PASS retained V33 gate has both local navigation halves: CN_G1
+PASS retained V33 gate has both local navigation halves: WC_G2
+PASS retained V33 gate has both local navigation halves: WC_G1
+PASS retained V33 gate has both local navigation halves: PC_G1
+PASS retained V33 gate has both local navigation halves: PC_G2
+PASS retained V33 gate has both local navigation halves: PC_G3
+PASS retained V33 gate has both local navigation halves: SC_G1
+PASS retained V33 gate has both local navigation halves: SC_G2
+PASS retained V33 gate has both local navigation halves: YC_G1
+PASS retained V33 gate has both local navigation halves: YC_G3
+PASS retained V33 gate has both local navigation halves: YC_G2
+PASS retained B1-B4 and X1-X7 anchors exist
+PASS B1-B4 to X1-X7 preserved; 28/28
+PASS B1 reaches T1
+PASS B1 reaches T2
+PASS B1 reaches T3
+PASS west bridge remains traversable
+PASS east bridge remains traversable
+PASS primary indoor targets remain connected from B1; 5/5
+PASS retained D02 root is active
+PASS retained D02 segment P0->G1
+PASS retained D02 segment G1->A
+PASS retained D02 segment A->B1
+PASS retained D02 segment B1->B2_WEST
+PASS retained D02 segment A->B2_SOUTH
+PASS retained D02 segment B2_SOUTH->B2_EAST
+PASS retained D02 segment B2_EAST->B2_WEST
+PASS retained D02 segment B2_WEST->B2_NORTH
+PASS retained D02 segment B2_NORTH->G2
+PASS retained D02 segment B2_NORTH->C
+PASS retained D02 segment C->C_WORKFACE
+PASS retained D02 segment C->B2_NORTH
+PASS retained D02 segment B2_NORTH->G2
+PASS risk entry candidates remain excluded from random spawn policy
+NOTE B4/R8 spacing review: straight=62.2m; R8 remains inactive and is a risk entry candidate, not a danger boundary.
+NOTE B4/R8 path to X2=160.3m/226.6m
+NOTE B4/R8 path to X3=52.3m/114.6m
+NOTE B4/R8 path to X6=348.3m/309.7m
+NOTE Edit-mode capsule and navigation tests are supplemented by D03 Play with actual PlayerMotor.
+NOTE AI roaming, combat, R8 activation and pre-existing D02 indoor visibility are outside this outdoor geometry check.
+passed=357 failed=0
+RESULT PASS

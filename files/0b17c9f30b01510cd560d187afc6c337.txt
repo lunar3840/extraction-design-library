@@ -1,0 +1,10 @@
+PASS native bag chip drag to dedicated slot switches Yui to Liv
+PASS native slot drag to exact empty bag cell unequips Liv
+PASS native bag chip double-click re-equips Liv
+PASS native chip detail panel shows correct chip and storage actions
+PASS Stage bag-to-slot equip blocked
+PASS Stage bag-to-ground drop blocked
+PASS Stage slot-to-bag unequip blocked and buttons disabled
+PASS Stage before/after bag JSON exactly equal; equipped Edel unchanged
+PASS equipped helmet40/40 vest80/80 retain inventory data, Liv/Edel original model appearance visible
+PASS isolated extraction and disk save reload preserve equipped Edel and exact bag JSON

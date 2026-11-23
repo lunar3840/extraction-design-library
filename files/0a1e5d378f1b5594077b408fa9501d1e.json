@@ -1,0 +1,22 @@
+{
+  "scope": "Index repair and nonfiring recovery only, not whole hand/clearance acceptance",
+  "raw": "outputs/change_records/2026-10-24/edel-natural-arm-pose/r26_finalgrip_edel.json",
+  "sha256": "9EECDF8CB0CD671EA9A12E5BB30A5A8A75843322A5AA8081E3C172BDFD9DD39A",
+  "overallStatus": "REVIEW",
+  "overallFailures": [
+    "Actual ready contact error exceeds 5mm (not the internally clamped IK target)"
+  ],
+  "actualShotAccepted": true,
+  "firingIndexObserved": true,
+  "firingIndexSampleObserved": false,
+  "nonfiringIndexRecovered": true,
+  "invalidNonfiringIndexSamples": 0,
+  "nonFiniteSamples": 0,
+  "originalWeaponsUnchanged": true,
+  "loadoutReferencesRestored": true,
+  "inputFlagsRestored": true,
+  "transformRestored": true,
+  "selectedStateRestored": true,
+  "needsRestored": true,
+  "healthStaminaUnchanged": true
+}

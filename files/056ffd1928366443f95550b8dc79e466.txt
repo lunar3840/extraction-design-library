@@ -1,0 +1,15 @@
+CLINIC_V32_RELOADED_PERSISTENCE
+PASS dedicated floor, wall, supported shader reload
+PASS CLINIC FactoryFloor dedicated material persists without OnEnable rebinding
+PASS CORE_G1/Floor dedicated material persists without OnEnable rebinding
+PASS CORE_G1/North dedicated material persists without OnEnable rebinding
+PASS CORE_G1/South_A dedicated material persists without OnEnable rebinding
+PASS CORE_G1/South_B dedicated material persists without OnEnable rebinding
+PASS CORE_G1/East dedicated material persists without OnEnable rebinding
+PASS CORE_G1/West dedicated material persists without OnEnable rebinding
+PASS both clinic materials use intended shader after reload
+PASS one clinic shadow root and two enabled spotlights persist
+PASS shader diagnostic messages read; errors=0
+PASS all original shared material assets remain byte-identical; changed=0
+failures=0
+RESULT PASS

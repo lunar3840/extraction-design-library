@@ -1,0 +1,1065 @@
+PASS invert native=1 scale=<0.01, 0.01, 0.01>
+PASS hit/world-distance7 native=1 scale=<0.01, 0.01, 0.01> t=6.9999995
+PASS finite segment excludes farther triangle native=1 scale=<0.01, 0.01, 0.01>
+PASS outside barycentric void remains closed native=1 scale=<0.01, 0.01, 0.01>
+PASS negative winding accepted native=1 scale=<0.01, 0.01, 0.01>
+PASS BVH same scaled hit/worldt native=1 scale=<0.01, 0.01, 0.01>
+PASS BVH same finite cutoff native=1 scale=<0.01, 0.01, 0.01>
+PASS BVH same scaled void native=1 scale=<0.01, 0.01, 0.01>
+PASS invert native=1 scale=<1, 1, 1>
+PASS hit/world-distance7 native=1 scale=<1, 1, 1> t=7.0000005
+PASS finite segment excludes farther triangle native=1 scale=<1, 1, 1>
+PASS outside barycentric void remains closed native=1 scale=<1, 1, 1>
+PASS negative winding accepted native=1 scale=<1, 1, 1>
+PASS BVH same scaled hit/worldt native=1 scale=<1, 1, 1>
+PASS BVH same finite cutoff native=1 scale=<1, 1, 1>
+PASS BVH same scaled void native=1 scale=<1, 1, 1>
+PASS invert native=1 scale=<100, 100, 100>
+PASS hit/world-distance7 native=1 scale=<100, 100, 100> t=6.9999986
+PASS finite segment excludes farther triangle native=1 scale=<100, 100, 100>
+PASS outside barycentric void remains closed native=1 scale=<100, 100, 100>
+PASS negative winding accepted native=1 scale=<100, 100, 100>
+PASS BVH same scaled hit/worldt native=1 scale=<100, 100, 100>
+PASS BVH same finite cutoff native=1 scale=<100, 100, 100>
+PASS BVH same scaled void native=1 scale=<100, 100, 100>
+PASS invert native=1 scale=<10000, 10000, 10000>
+PASS hit/world-distance7 native=1 scale=<10000, 10000, 10000> t=6.9998927
+PASS finite segment excludes farther triangle native=1 scale=<10000, 10000, 10000>
+PASS outside barycentric void remains closed native=1 scale=<10000, 10000, 10000>
+PASS negative winding accepted native=1 scale=<10000, 10000, 10000>
+PASS BVH same scaled hit/worldt native=1 scale=<10000, 10000, 10000>
+PASS BVH same finite cutoff native=1 scale=<10000, 10000, 10000>
+PASS BVH same scaled void native=1 scale=<10000, 10000, 10000>
+PASS invert native=1 scale=<0.01, 10, 100>
+PASS hit/world-distance7 native=1 scale=<0.01, 10, 100> t=7
+PASS finite segment excludes farther triangle native=1 scale=<0.01, 10, 100>
+PASS outside barycentric void remains closed native=1 scale=<0.01, 10, 100>
+PASS negative winding accepted native=1 scale=<0.01, 10, 100>
+PASS BVH same scaled hit/worldt native=1 scale=<0.01, 10, 100>
+PASS BVH same finite cutoff native=1 scale=<0.01, 10, 100>
+PASS BVH same scaled void native=1 scale=<0.01, 10, 100>
+PASS invert native=1 scale=<100, 0.01, 10>
+PASS hit/world-distance7 native=1 scale=<100, 0.01, 10> t=6.999999
+PASS finite segment excludes farther triangle native=1 scale=<100, 0.01, 10>
+PASS outside barycentric void remains closed native=1 scale=<100, 0.01, 10>
+PASS negative winding accepted native=1 scale=<100, 0.01, 10>
+PASS BVH same scaled hit/worldt native=1 scale=<100, 0.01, 10>
+PASS BVH same finite cutoff native=1 scale=<100, 0.01, 10>
+PASS BVH same scaled void native=1 scale=<100, 0.01, 10>
+PASS invert native=1 scale=<-100, 30, 0.1>
+PASS hit/world-distance7 native=1 scale=<-100, 30, 0.1> t=7.000001
+PASS finite segment excludes farther triangle native=1 scale=<-100, 30, 0.1>
+PASS outside barycentric void remains closed native=1 scale=<-100, 30, 0.1>
+PASS negative winding accepted native=1 scale=<-100, 30, 0.1>
+PASS BVH same scaled hit/worldt native=1 scale=<-100, 30, 0.1>
+PASS BVH same finite cutoff native=1 scale=<-100, 30, 0.1>
+PASS BVH same scaled void native=1 scale=<-100, 30, 0.1>
+PASS invert native=1 scale=<-0.1, -20, 300>
+PASS hit/world-distance7 native=1 scale=<-0.1, -20, 300> t=7.0000005
+PASS finite segment excludes farther triangle native=1 scale=<-0.1, -20, 300>
+PASS outside barycentric void remains closed native=1 scale=<-0.1, -20, 300>
+PASS negative winding accepted native=1 scale=<-0.1, -20, 300>
+PASS BVH same scaled hit/worldt native=1 scale=<-0.1, -20, 300>
+PASS BVH same finite cutoff native=1 scale=<-0.1, -20, 300>
+PASS BVH same scaled void native=1 scale=<-0.1, -20, 300>
+PASS invert native=0.01 scale=<0.01, 0.01, 0.01>
+PASS hit/world-distance7 native=0.01 scale=<0.01, 0.01, 0.01> t=7
+PASS finite segment excludes farther triangle native=0.01 scale=<0.01, 0.01, 0.01>
+PASS outside barycentric void remains closed native=0.01 scale=<0.01, 0.01, 0.01>
+PASS negative winding accepted native=0.01 scale=<0.01, 0.01, 0.01>
+PASS BVH same scaled hit/worldt native=0.01 scale=<0.01, 0.01, 0.01>
+PASS BVH same finite cutoff native=0.01 scale=<0.01, 0.01, 0.01>
+PASS BVH same scaled void native=0.01 scale=<0.01, 0.01, 0.01>
+PASS invert native=0.01 scale=<1, 1, 1>
+PASS hit/world-distance7 native=0.01 scale=<1, 1, 1> t=7
+PASS finite segment excludes farther triangle native=0.01 scale=<1, 1, 1>
+PASS outside barycentric void remains closed native=0.01 scale=<1, 1, 1>
+PASS negative winding accepted native=0.01 scale=<1, 1, 1>
+PASS BVH same scaled hit/worldt native=0.01 scale=<1, 1, 1>
+PASS BVH same finite cutoff native=0.01 scale=<1, 1, 1>
+PASS BVH same scaled void native=0.01 scale=<1, 1, 1>
+PASS invert native=0.01 scale=<100, 100, 100>
+PASS hit/world-distance7 native=0.01 scale=<100, 100, 100> t=6.9999995
+PASS finite segment excludes farther triangle native=0.01 scale=<100, 100, 100>
+PASS outside barycentric void remains closed native=0.01 scale=<100, 100, 100>
+PASS negative winding accepted native=0.01 scale=<100, 100, 100>
+PASS BVH same scaled hit/worldt native=0.01 scale=<100, 100, 100>
+PASS BVH same finite cutoff native=0.01 scale=<100, 100, 100>
+PASS BVH same scaled void native=0.01 scale=<100, 100, 100>
+PASS invert native=0.01 scale=<10000, 10000, 10000>
+PASS hit/world-distance7 native=0.01 scale=<10000, 10000, 10000> t=6.999995
+PASS finite segment excludes farther triangle native=0.01 scale=<10000, 10000, 10000>
+PASS outside barycentric void remains closed native=0.01 scale=<10000, 10000, 10000>
+PASS negative winding accepted native=0.01 scale=<10000, 10000, 10000>
+PASS BVH same scaled hit/worldt native=0.01 scale=<10000, 10000, 10000>
+PASS BVH same finite cutoff native=0.01 scale=<10000, 10000, 10000>
+PASS BVH same scaled void native=0.01 scale=<10000, 10000, 10000>
+PASS invert native=0.01 scale=<0.01, 10, 100>
+PASS hit/world-distance7 native=0.01 scale=<0.01, 10, 100> t=7
+PASS finite segment excludes farther triangle native=0.01 scale=<0.01, 10, 100>
+PASS outside barycentric void remains closed native=0.01 scale=<0.01, 10, 100>
+PASS negative winding accepted native=0.01 scale=<0.01, 10, 100>
+PASS BVH same scaled hit/worldt native=0.01 scale=<0.01, 10, 100>
+PASS BVH same finite cutoff native=0.01 scale=<0.01, 10, 100>
+PASS BVH same scaled void native=0.01 scale=<0.01, 10, 100>
+PASS invert native=0.01 scale=<100, 0.01, 10>
+PASS hit/world-distance7 native=0.01 scale=<100, 0.01, 10> t=7.0000005
+PASS finite segment excludes farther triangle native=0.01 scale=<100, 0.01, 10>
+PASS outside barycentric void remains closed native=0.01 scale=<100, 0.01, 10>
+PASS negative winding accepted native=0.01 scale=<100, 0.01, 10>
+PASS BVH same scaled hit/worldt native=0.01 scale=<100, 0.01, 10>
+PASS BVH same finite cutoff native=0.01 scale=<100, 0.01, 10>
+PASS BVH same scaled void native=0.01 scale=<100, 0.01, 10>
+PASS invert native=0.01 scale=<-100, 30, 0.1>
+PASS hit/world-distance7 native=0.01 scale=<-100, 30, 0.1> t=7
+PASS finite segment excludes farther triangle native=0.01 scale=<-100, 30, 0.1>
+PASS outside barycentric void remains closed native=0.01 scale=<-100, 30, 0.1>
+PASS negative winding accepted native=0.01 scale=<-100, 30, 0.1>
+PASS BVH same scaled hit/worldt native=0.01 scale=<-100, 30, 0.1>
+PASS BVH same finite cutoff native=0.01 scale=<-100, 30, 0.1>
+PASS BVH same scaled void native=0.01 scale=<-100, 30, 0.1>
+PASS invert native=0.01 scale=<-0.1, -20, 300>
+PASS hit/world-distance7 native=0.01 scale=<-0.1, -20, 300> t=7.0000005
+PASS finite segment excludes farther triangle native=0.01 scale=<-0.1, -20, 300>
+PASS outside barycentric void remains closed native=0.01 scale=<-0.1, -20, 300>
+PASS negative winding accepted native=0.01 scale=<-0.1, -20, 300>
+PASS BVH same scaled hit/worldt native=0.01 scale=<-0.1, -20, 300>
+PASS BVH same finite cutoff native=0.01 scale=<-0.1, -20, 300>
+PASS BVH same scaled void native=0.01 scale=<-0.1, -20, 300>
+PASS invert native=0.001 scale=<0.01, 0.01, 0.01>
+PASS hit/world-distance7 native=0.001 scale=<0.01, 0.01, 0.01> t=7
+PASS finite segment excludes farther triangle native=0.001 scale=<0.01, 0.01, 0.01>
+PASS outside barycentric void remains closed native=0.001 scale=<0.01, 0.01, 0.01>
+PASS negative winding accepted native=0.001 scale=<0.01, 0.01, 0.01>
+PASS BVH same scaled hit/worldt native=0.001 scale=<0.01, 0.01, 0.01>
+PASS BVH same finite cutoff native=0.001 scale=<0.01, 0.01, 0.01>
+PASS BVH same scaled void native=0.001 scale=<0.01, 0.01, 0.01>
+PASS invert native=0.001 scale=<1, 1, 1>
+PASS hit/world-distance7 native=0.001 scale=<1, 1, 1> t=6.9999995
+PASS finite segment excludes farther triangle native=0.001 scale=<1, 1, 1>
+PASS outside barycentric void remains closed native=0.001 scale=<1, 1, 1>
+PASS negative winding accepted native=0.001 scale=<1, 1, 1>
+PASS BVH same scaled hit/worldt native=0.001 scale=<1, 1, 1>
+PASS BVH same finite cutoff native=0.001 scale=<1, 1, 1>
+PASS BVH same scaled void native=0.001 scale=<1, 1, 1>
+PASS invert native=0.001 scale=<100, 100, 100>
+PASS hit/world-distance7 native=0.001 scale=<100, 100, 100> t=6.9999995
+PASS finite segment excludes farther triangle native=0.001 scale=<100, 100, 100>
+PASS outside barycentric void remains closed native=0.001 scale=<100, 100, 100>
+PASS negative winding accepted native=0.001 scale=<100, 100, 100>
+PASS BVH same scaled hit/worldt native=0.001 scale=<100, 100, 100>
+PASS BVH same finite cutoff native=0.001 scale=<100, 100, 100>
+PASS BVH same scaled void native=0.001 scale=<100, 100, 100>
+PASS invert native=0.001 scale=<10000, 10000, 10000>
+PASS hit/world-distance7 native=0.001 scale=<10000, 10000, 10000> t=7
+PASS finite segment excludes farther triangle native=0.001 scale=<10000, 10000, 10000>
+PASS outside barycentric void remains closed native=0.001 scale=<10000, 10000, 10000>
+PASS negative winding accepted native=0.001 scale=<10000, 10000, 10000>
+PASS BVH same scaled hit/worldt native=0.001 scale=<10000, 10000, 10000>
+PASS BVH same finite cutoff native=0.001 scale=<10000, 10000, 10000>
+PASS BVH same scaled void native=0.001 scale=<10000, 10000, 10000>
+PASS invert native=0.001 scale=<0.01, 10, 100>
+PASS hit/world-distance7 native=0.001 scale=<0.01, 10, 100> t=7.000001
+PASS finite segment excludes farther triangle native=0.001 scale=<0.01, 10, 100>
+PASS outside barycentric void remains closed native=0.001 scale=<0.01, 10, 100>
+PASS negative winding accepted native=0.001 scale=<0.01, 10, 100>
+PASS BVH same scaled hit/worldt native=0.001 scale=<0.01, 10, 100>
+PASS BVH same finite cutoff native=0.001 scale=<0.01, 10, 100>
+PASS BVH same scaled void native=0.001 scale=<0.01, 10, 100>
+PASS invert native=0.001 scale=<100, 0.01, 10>
+PASS hit/world-distance7 native=0.001 scale=<100, 0.01, 10> t=7
+PASS finite segment excludes farther triangle native=0.001 scale=<100, 0.01, 10>
+PASS outside barycentric void remains closed native=0.001 scale=<100, 0.01, 10>
+PASS negative winding accepted native=0.001 scale=<100, 0.01, 10>
+PASS BVH same scaled hit/worldt native=0.001 scale=<100, 0.01, 10>
+PASS BVH same finite cutoff native=0.001 scale=<100, 0.01, 10>
+PASS BVH same scaled void native=0.001 scale=<100, 0.01, 10>
+PASS invert native=0.001 scale=<-100, 30, 0.1>
+PASS hit/world-distance7 native=0.001 scale=<-100, 30, 0.1> t=6.999999
+PASS finite segment excludes farther triangle native=0.001 scale=<-100, 30, 0.1>
+PASS outside barycentric void remains closed native=0.001 scale=<-100, 30, 0.1>
+PASS negative winding accepted native=0.001 scale=<-100, 30, 0.1>
+PASS BVH same scaled hit/worldt native=0.001 scale=<-100, 30, 0.1>
+PASS BVH same finite cutoff native=0.001 scale=<-100, 30, 0.1>
+PASS BVH same scaled void native=0.001 scale=<-100, 30, 0.1>
+PASS invert native=0.001 scale=<-0.1, -20, 300>
+PASS hit/world-distance7 native=0.001 scale=<-0.1, -20, 300> t=7
+PASS finite segment excludes farther triangle native=0.001 scale=<-0.1, -20, 300>
+PASS outside barycentric void remains closed native=0.001 scale=<-0.1, -20, 300>
+PASS negative winding accepted native=0.001 scale=<-0.1, -20, 300>
+PASS BVH same scaled hit/worldt native=0.001 scale=<-0.1, -20, 300>
+PASS BVH same finite cutoff native=0.001 scale=<-0.1, -20, 300>
+PASS BVH same scaled void native=0.001 scale=<-0.1, -20, 300>
+PASS invert native=0.0001 scale=<0.01, 0.01, 0.01>
+PASS hit/world-distance7 native=0.0001 scale=<0.01, 0.01, 0.01> t=6.9999995
+PASS finite segment excludes farther triangle native=0.0001 scale=<0.01, 0.01, 0.01>
+PASS outside barycentric void remains closed native=0.0001 scale=<0.01, 0.01, 0.01>
+PASS negative winding accepted native=0.0001 scale=<0.01, 0.01, 0.01>
+PASS BVH same scaled hit/worldt native=0.0001 scale=<0.01, 0.01, 0.01>
+PASS BVH same finite cutoff native=0.0001 scale=<0.01, 0.01, 0.01>
+PASS BVH same scaled void native=0.0001 scale=<0.01, 0.01, 0.01>
+PASS invert native=0.0001 scale=<1, 1, 1>
+PASS hit/world-distance7 native=0.0001 scale=<1, 1, 1> t=7
+PASS finite segment excludes farther triangle native=0.0001 scale=<1, 1, 1>
+PASS outside barycentric void remains closed native=0.0001 scale=<1, 1, 1>
+PASS negative winding accepted native=0.0001 scale=<1, 1, 1>
+PASS BVH same scaled hit/worldt native=0.0001 scale=<1, 1, 1>
+PASS BVH same finite cutoff native=0.0001 scale=<1, 1, 1>
+PASS BVH same scaled void native=0.0001 scale=<1, 1, 1>
+PASS invert native=0.0001 scale=<100, 100, 100>
+PASS hit/world-distance7 native=0.0001 scale=<100, 100, 100> t=6.9999995
+PASS finite segment excludes farther triangle native=0.0001 scale=<100, 100, 100>
+PASS outside barycentric void remains closed native=0.0001 scale=<100, 100, 100>
+PASS negative winding accepted native=0.0001 scale=<100, 100, 100>
+PASS BVH same scaled hit/worldt native=0.0001 scale=<100, 100, 100>
+PASS BVH same finite cutoff native=0.0001 scale=<100, 100, 100>
+PASS BVH same scaled void native=0.0001 scale=<100, 100, 100>
+PASS invert native=0.0001 scale=<10000, 10000, 10000>
+PASS hit/world-distance7 native=0.0001 scale=<10000, 10000, 10000> t=7.0000005
+PASS finite segment excludes farther triangle native=0.0001 scale=<10000, 10000, 10000>
+PASS outside barycentric void remains closed native=0.0001 scale=<10000, 10000, 10000>
+PASS negative winding accepted native=0.0001 scale=<10000, 10000, 10000>
+PASS BVH same scaled hit/worldt native=0.0001 scale=<10000, 10000, 10000>
+PASS BVH same finite cutoff native=0.0001 scale=<10000, 10000, 10000>
+PASS BVH same scaled void native=0.0001 scale=<10000, 10000, 10000>
+PASS invert native=0.0001 scale=<0.01, 10, 100>
+PASS hit/world-distance7 native=0.0001 scale=<0.01, 10, 100> t=7
+PASS finite segment excludes farther triangle native=0.0001 scale=<0.01, 10, 100>
+PASS outside barycentric void remains closed native=0.0001 scale=<0.01, 10, 100>
+PASS negative winding accepted native=0.0001 scale=<0.01, 10, 100>
+PASS BVH same scaled hit/worldt native=0.0001 scale=<0.01, 10, 100>
+PASS BVH same finite cutoff native=0.0001 scale=<0.01, 10, 100>
+PASS BVH same scaled void native=0.0001 scale=<0.01, 10, 100>
+PASS invert native=0.0001 scale=<100, 0.01, 10>
+PASS hit/world-distance7 native=0.0001 scale=<100, 0.01, 10> t=7
+PASS finite segment excludes farther triangle native=0.0001 scale=<100, 0.01, 10>
+PASS outside barycentric void remains closed native=0.0001 scale=<100, 0.01, 10>
+PASS negative winding accepted native=0.0001 scale=<100, 0.01, 10>
+PASS BVH same scaled hit/worldt native=0.0001 scale=<100, 0.01, 10>
+PASS BVH same finite cutoff native=0.0001 scale=<100, 0.01, 10>
+PASS BVH same scaled void native=0.0001 scale=<100, 0.01, 10>
+PASS invert native=0.0001 scale=<-100, 30, 0.1>
+PASS hit/world-distance7 native=0.0001 scale=<-100, 30, 0.1> t=7
+PASS finite segment excludes farther triangle native=0.0001 scale=<-100, 30, 0.1>
+PASS outside barycentric void remains closed native=0.0001 scale=<-100, 30, 0.1>
+PASS negative winding accepted native=0.0001 scale=<-100, 30, 0.1>
+PASS BVH same scaled hit/worldt native=0.0001 scale=<-100, 30, 0.1>
+PASS BVH same finite cutoff native=0.0001 scale=<-100, 30, 0.1>
+PASS BVH same scaled void native=0.0001 scale=<-100, 30, 0.1>
+PASS invert native=0.0001 scale=<-0.1, -20, 300>
+PASS hit/world-distance7 native=0.0001 scale=<-0.1, -20, 300> t=7
+PASS finite segment excludes farther triangle native=0.0001 scale=<-0.1, -20, 300>
+PASS outside barycentric void remains closed native=0.0001 scale=<-0.1, -20, 300>
+PASS negative winding accepted native=0.0001 scale=<-0.1, -20, 300>
+PASS BVH same scaled hit/worldt native=0.0001 scale=<-0.1, -20, 300>
+PASS BVH same finite cutoff native=0.0001 scale=<-0.1, -20, 300>
+PASS BVH same scaled void native=0.0001 scale=<-0.1, -20, 300>
+PASS old absolute1e-6 rejects centimeter-import scale case
+PASS new relative guard accepts same case at7worldmeters
+PASS parallel ray misses
+PASS degenerate triangle rejected
+PASS AABB-spanning doorway ray hits no actual wall triangles
+PASS dense BVH/linear nearest equivalence ray0
+PASS dense BVH any-hit equivalence ray0
+PASS dense BVH/linear nearest equivalence ray1
+PASS dense BVH any-hit equivalence ray1
+PASS dense BVH/linear nearest equivalence ray2
+PASS dense BVH any-hit equivalence ray2
+PASS dense BVH/linear nearest equivalence ray3
+PASS dense BVH any-hit equivalence ray3
+PASS dense BVH/linear nearest equivalence ray4
+PASS dense BVH any-hit equivalence ray4
+PASS dense BVH/linear nearest equivalence ray5
+PASS dense BVH any-hit equivalence ray5
+PASS dense BVH/linear nearest equivalence ray6
+PASS dense BVH any-hit equivalence ray6
+PASS dense BVH/linear nearest equivalence ray7
+PASS dense BVH any-hit equivalence ray7
+PASS dense BVH/linear nearest equivalence ray8
+PASS dense BVH any-hit equivalence ray8
+PASS dense BVH/linear nearest equivalence ray9
+PASS dense BVH any-hit equivalence ray9
+PASS dense BVH/linear nearest equivalence ray10
+PASS dense BVH any-hit equivalence ray10
+PASS dense BVH/linear nearest equivalence ray11
+PASS dense BVH any-hit equivalence ray11
+PASS dense BVH/linear nearest equivalence ray12
+PASS dense BVH any-hit equivalence ray12
+PASS dense BVH/linear nearest equivalence ray13
+PASS dense BVH any-hit equivalence ray13
+PASS dense BVH/linear nearest equivalence ray14
+PASS dense BVH any-hit equivalence ray14
+PASS dense BVH/linear nearest equivalence ray15
+PASS dense BVH any-hit equivalence ray15
+PASS dense BVH/linear nearest equivalence ray16
+PASS dense BVH any-hit equivalence ray16
+PASS dense BVH/linear nearest equivalence ray17
+PASS dense BVH any-hit equivalence ray17
+PASS dense BVH/linear nearest equivalence ray18
+PASS dense BVH any-hit equivalence ray18
+PASS dense BVH/linear nearest equivalence ray19
+PASS dense BVH any-hit equivalence ray19
+PASS dense BVH/linear nearest equivalence ray20
+PASS dense BVH any-hit equivalence ray20
+PASS dense BVH/linear nearest equivalence ray21
+PASS dense BVH any-hit equivalence ray21
+PASS dense BVH/linear nearest equivalence ray22
+PASS dense BVH any-hit equivalence ray22
+PASS dense BVH/linear nearest equivalence ray23
+PASS dense BVH any-hit equivalence ray23
+PASS dense BVH/linear nearest equivalence ray24
+PASS dense BVH any-hit equivalence ray24
+PASS dense BVH/linear nearest equivalence ray25
+PASS dense BVH any-hit equivalence ray25
+PASS dense BVH/linear nearest equivalence ray26
+PASS dense BVH any-hit equivalence ray26
+PASS dense BVH/linear nearest equivalence ray27
+PASS dense BVH any-hit equivalence ray27
+PASS dense BVH/linear nearest equivalence ray28
+PASS dense BVH any-hit equivalence ray28
+PASS dense BVH/linear nearest equivalence ray29
+PASS dense BVH any-hit equivalence ray29
+PASS dense BVH/linear nearest equivalence ray30
+PASS dense BVH any-hit equivalence ray30
+PASS dense BVH/linear nearest equivalence ray31
+PASS dense BVH any-hit equivalence ray31
+PASS dense BVH/linear nearest equivalence ray32
+PASS dense BVH any-hit equivalence ray32
+PASS dense BVH/linear nearest equivalence ray33
+PASS dense BVH any-hit equivalence ray33
+PASS dense BVH/linear nearest equivalence ray34
+PASS dense BVH any-hit equivalence ray34
+PASS dense BVH/linear nearest equivalence ray35
+PASS dense BVH any-hit equivalence ray35
+PASS dense BVH/linear nearest equivalence ray36
+PASS dense BVH any-hit equivalence ray36
+PASS dense BVH/linear nearest equivalence ray37
+PASS dense BVH any-hit equivalence ray37
+PASS dense BVH/linear nearest equivalence ray38
+PASS dense BVH any-hit equivalence ray38
+PASS dense BVH/linear nearest equivalence ray39
+PASS dense BVH any-hit equivalence ray39
+PASS dense BVH/linear nearest equivalence ray40
+PASS dense BVH any-hit equivalence ray40
+PASS dense BVH/linear nearest equivalence ray41
+PASS dense BVH any-hit equivalence ray41
+PASS dense BVH/linear nearest equivalence ray42
+PASS dense BVH any-hit equivalence ray42
+PASS dense BVH/linear nearest equivalence ray43
+PASS dense BVH any-hit equivalence ray43
+PASS dense BVH/linear nearest equivalence ray44
+PASS dense BVH any-hit equivalence ray44
+PASS dense BVH/linear nearest equivalence ray45
+PASS dense BVH any-hit equivalence ray45
+PASS dense BVH/linear nearest equivalence ray46
+PASS dense BVH any-hit equivalence ray46
+PASS dense BVH/linear nearest equivalence ray47
+PASS dense BVH any-hit equivalence ray47
+PASS dense BVH/linear nearest equivalence ray48
+PASS dense BVH any-hit equivalence ray48
+PASS dense BVH/linear nearest equivalence ray49
+PASS dense BVH any-hit equivalence ray49
+PASS dense BVH/linear nearest equivalence ray50
+PASS dense BVH any-hit equivalence ray50
+PASS dense BVH/linear nearest equivalence ray51
+PASS dense BVH any-hit equivalence ray51
+PASS dense BVH/linear nearest equivalence ray52
+PASS dense BVH any-hit equivalence ray52
+PASS dense BVH/linear nearest equivalence ray53
+PASS dense BVH any-hit equivalence ray53
+PASS dense BVH/linear nearest equivalence ray54
+PASS dense BVH any-hit equivalence ray54
+PASS dense BVH/linear nearest equivalence ray55
+PASS dense BVH any-hit equivalence ray55
+PASS dense BVH/linear nearest equivalence ray56
+PASS dense BVH any-hit equivalence ray56
+PASS dense BVH/linear nearest equivalence ray57
+PASS dense BVH any-hit equivalence ray57
+PASS dense BVH/linear nearest equivalence ray58
+PASS dense BVH any-hit equivalence ray58
+PASS dense BVH/linear nearest equivalence ray59
+PASS dense BVH any-hit equivalence ray59
+PASS dense BVH/linear nearest equivalence ray60
+PASS dense BVH any-hit equivalence ray60
+PASS dense BVH/linear nearest equivalence ray61
+PASS dense BVH any-hit equivalence ray61
+PASS dense BVH/linear nearest equivalence ray62
+PASS dense BVH any-hit equivalence ray62
+PASS dense BVH/linear nearest equivalence ray63
+PASS dense BVH any-hit equivalence ray63
+PASS dense BVH/linear nearest equivalence ray64
+PASS dense BVH any-hit equivalence ray64
+PASS dense BVH/linear nearest equivalence ray65
+PASS dense BVH any-hit equivalence ray65
+PASS dense BVH/linear nearest equivalence ray66
+PASS dense BVH any-hit equivalence ray66
+PASS dense BVH/linear nearest equivalence ray67
+PASS dense BVH any-hit equivalence ray67
+PASS dense BVH/linear nearest equivalence ray68
+PASS dense BVH any-hit equivalence ray68
+PASS dense BVH/linear nearest equivalence ray69
+PASS dense BVH any-hit equivalence ray69
+PASS dense BVH/linear nearest equivalence ray70
+PASS dense BVH any-hit equivalence ray70
+PASS dense BVH/linear nearest equivalence ray71
+PASS dense BVH any-hit equivalence ray71
+PASS dense BVH/linear nearest equivalence ray72
+PASS dense BVH any-hit equivalence ray72
+PASS dense BVH/linear nearest equivalence ray73
+PASS dense BVH any-hit equivalence ray73
+PASS dense BVH/linear nearest equivalence ray74
+PASS dense BVH any-hit equivalence ray74
+PASS dense BVH/linear nearest equivalence ray75
+PASS dense BVH any-hit equivalence ray75
+PASS dense BVH/linear nearest equivalence ray76
+PASS dense BVH any-hit equivalence ray76
+PASS dense BVH/linear nearest equivalence ray77
+PASS dense BVH any-hit equivalence ray77
+PASS dense BVH/linear nearest equivalence ray78
+PASS dense BVH any-hit equivalence ray78
+PASS dense BVH/linear nearest equivalence ray79
+PASS dense BVH any-hit equivalence ray79
+PASS dense BVH/linear nearest equivalence ray80
+PASS dense BVH any-hit equivalence ray80
+PASS dense BVH/linear nearest equivalence ray81
+PASS dense BVH any-hit equivalence ray81
+PASS dense BVH/linear nearest equivalence ray82
+PASS dense BVH any-hit equivalence ray82
+PASS dense BVH/linear nearest equivalence ray83
+PASS dense BVH any-hit equivalence ray83
+PASS dense BVH/linear nearest equivalence ray84
+PASS dense BVH any-hit equivalence ray84
+PASS dense BVH/linear nearest equivalence ray85
+PASS dense BVH any-hit equivalence ray85
+PASS dense BVH/linear nearest equivalence ray86
+PASS dense BVH any-hit equivalence ray86
+PASS dense BVH/linear nearest equivalence ray87
+PASS dense BVH any-hit equivalence ray87
+PASS dense BVH/linear nearest equivalence ray88
+PASS dense BVH any-hit equivalence ray88
+PASS dense BVH/linear nearest equivalence ray89
+PASS dense BVH any-hit equivalence ray89
+PASS dense BVH/linear nearest equivalence ray90
+PASS dense BVH any-hit equivalence ray90
+PASS dense BVH/linear nearest equivalence ray91
+PASS dense BVH any-hit equivalence ray91
+PASS dense BVH/linear nearest equivalence ray92
+PASS dense BVH any-hit equivalence ray92
+PASS dense BVH/linear nearest equivalence ray93
+PASS dense BVH any-hit equivalence ray93
+PASS dense BVH/linear nearest equivalence ray94
+PASS dense BVH any-hit equivalence ray94
+PASS dense BVH/linear nearest equivalence ray95
+PASS dense BVH any-hit equivalence ray95
+PASS dense BVH/linear nearest equivalence ray96
+PASS dense BVH any-hit equivalence ray96
+PASS dense BVH/linear nearest equivalence ray97
+PASS dense BVH any-hit equivalence ray97
+PASS dense BVH/linear nearest equivalence ray98
+PASS dense BVH any-hit equivalence ray98
+PASS dense BVH/linear nearest equivalence ray99
+PASS dense BVH any-hit equivalence ray99
+PASS dense BVH/linear nearest equivalence ray100
+PASS dense BVH any-hit equivalence ray100
+PASS dense BVH/linear nearest equivalence ray101
+PASS dense BVH any-hit equivalence ray101
+PASS dense BVH/linear nearest equivalence ray102
+PASS dense BVH any-hit equivalence ray102
+PASS dense BVH/linear nearest equivalence ray103
+PASS dense BVH any-hit equivalence ray103
+PASS dense BVH/linear nearest equivalence ray104
+PASS dense BVH any-hit equivalence ray104
+PASS dense BVH/linear nearest equivalence ray105
+PASS dense BVH any-hit equivalence ray105
+PASS dense BVH/linear nearest equivalence ray106
+PASS dense BVH any-hit equivalence ray106
+PASS dense BVH/linear nearest equivalence ray107
+PASS dense BVH any-hit equivalence ray107
+PASS dense BVH/linear nearest equivalence ray108
+PASS dense BVH any-hit equivalence ray108
+PASS dense BVH/linear nearest equivalence ray109
+PASS dense BVH any-hit equivalence ray109
+PASS dense BVH/linear nearest equivalence ray110
+PASS dense BVH any-hit equivalence ray110
+PASS dense BVH/linear nearest equivalence ray111
+PASS dense BVH any-hit equivalence ray111
+PASS dense BVH/linear nearest equivalence ray112
+PASS dense BVH any-hit equivalence ray112
+PASS dense BVH/linear nearest equivalence ray113
+PASS dense BVH any-hit equivalence ray113
+PASS dense BVH/linear nearest equivalence ray114
+PASS dense BVH any-hit equivalence ray114
+PASS dense BVH/linear nearest equivalence ray115
+PASS dense BVH any-hit equivalence ray115
+PASS dense BVH/linear nearest equivalence ray116
+PASS dense BVH any-hit equivalence ray116
+PASS dense BVH/linear nearest equivalence ray117
+PASS dense BVH any-hit equivalence ray117
+PASS dense BVH/linear nearest equivalence ray118
+PASS dense BVH any-hit equivalence ray118
+PASS dense BVH/linear nearest equivalence ray119
+PASS dense BVH any-hit equivalence ray119
+PASS dense BVH/linear nearest equivalence ray120
+PASS dense BVH any-hit equivalence ray120
+PASS dense BVH/linear nearest equivalence ray121
+PASS dense BVH any-hit equivalence ray121
+PASS dense BVH/linear nearest equivalence ray122
+PASS dense BVH any-hit equivalence ray122
+PASS dense BVH/linear nearest equivalence ray123
+PASS dense BVH any-hit equivalence ray123
+PASS dense BVH/linear nearest equivalence ray124
+PASS dense BVH any-hit equivalence ray124
+PASS dense BVH/linear nearest equivalence ray125
+PASS dense BVH any-hit equivalence ray125
+PASS dense BVH/linear nearest equivalence ray126
+PASS dense BVH any-hit equivalence ray126
+PASS dense BVH/linear nearest equivalence ray127
+PASS dense BVH any-hit equivalence ray127
+PASS dense BVH/linear nearest equivalence ray128
+PASS dense BVH any-hit equivalence ray128
+PASS dense BVH/linear nearest equivalence ray129
+PASS dense BVH any-hit equivalence ray129
+PASS dense BVH/linear nearest equivalence ray130
+PASS dense BVH any-hit equivalence ray130
+PASS dense BVH/linear nearest equivalence ray131
+PASS dense BVH any-hit equivalence ray131
+PASS dense BVH/linear nearest equivalence ray132
+PASS dense BVH any-hit equivalence ray132
+PASS dense BVH/linear nearest equivalence ray133
+PASS dense BVH any-hit equivalence ray133
+PASS dense BVH/linear nearest equivalence ray134
+PASS dense BVH any-hit equivalence ray134
+PASS dense BVH/linear nearest equivalence ray135
+PASS dense BVH any-hit equivalence ray135
+PASS dense BVH/linear nearest equivalence ray136
+PASS dense BVH any-hit equivalence ray136
+PASS dense BVH/linear nearest equivalence ray137
+PASS dense BVH any-hit equivalence ray137
+PASS dense BVH/linear nearest equivalence ray138
+PASS dense BVH any-hit equivalence ray138
+PASS dense BVH/linear nearest equivalence ray139
+PASS dense BVH any-hit equivalence ray139
+PASS dense BVH/linear nearest equivalence ray140
+PASS dense BVH any-hit equivalence ray140
+PASS dense BVH/linear nearest equivalence ray141
+PASS dense BVH any-hit equivalence ray141
+PASS dense BVH/linear nearest equivalence ray142
+PASS dense BVH any-hit equivalence ray142
+PASS dense BVH/linear nearest equivalence ray143
+PASS dense BVH any-hit equivalence ray143
+PASS dense BVH/linear nearest equivalence ray144
+PASS dense BVH any-hit equivalence ray144
+PASS dense BVH/linear nearest equivalence ray145
+PASS dense BVH any-hit equivalence ray145
+PASS dense BVH/linear nearest equivalence ray146
+PASS dense BVH any-hit equivalence ray146
+PASS dense BVH/linear nearest equivalence ray147
+PASS dense BVH any-hit equivalence ray147
+PASS dense BVH/linear nearest equivalence ray148
+PASS dense BVH any-hit equivalence ray148
+PASS dense BVH/linear nearest equivalence ray149
+PASS dense BVH any-hit equivalence ray149
+PASS dense BVH/linear nearest equivalence ray150
+PASS dense BVH any-hit equivalence ray150
+PASS dense BVH/linear nearest equivalence ray151
+PASS dense BVH any-hit equivalence ray151
+PASS dense BVH/linear nearest equivalence ray152
+PASS dense BVH any-hit equivalence ray152
+PASS dense BVH/linear nearest equivalence ray153
+PASS dense BVH any-hit equivalence ray153
+PASS dense BVH/linear nearest equivalence ray154
+PASS dense BVH any-hit equivalence ray154
+PASS dense BVH/linear nearest equivalence ray155
+PASS dense BVH any-hit equivalence ray155
+PASS dense BVH/linear nearest equivalence ray156
+PASS dense BVH any-hit equivalence ray156
+PASS dense BVH/linear nearest equivalence ray157
+PASS dense BVH any-hit equivalence ray157
+PASS dense BVH/linear nearest equivalence ray158
+PASS dense BVH any-hit equivalence ray158
+PASS dense BVH/linear nearest equivalence ray159
+PASS dense BVH any-hit equivalence ray159
+PASS dense BVH/linear nearest equivalence ray160
+PASS dense BVH any-hit equivalence ray160
+PASS dense BVH/linear nearest equivalence ray161
+PASS dense BVH any-hit equivalence ray161
+PASS dense BVH/linear nearest equivalence ray162
+PASS dense BVH any-hit equivalence ray162
+PASS dense BVH/linear nearest equivalence ray163
+PASS dense BVH any-hit equivalence ray163
+PASS dense BVH/linear nearest equivalence ray164
+PASS dense BVH any-hit equivalence ray164
+PASS dense BVH/linear nearest equivalence ray165
+PASS dense BVH any-hit equivalence ray165
+PASS dense BVH/linear nearest equivalence ray166
+PASS dense BVH any-hit equivalence ray166
+PASS dense BVH/linear nearest equivalence ray167
+PASS dense BVH any-hit equivalence ray167
+PASS dense BVH/linear nearest equivalence ray168
+PASS dense BVH any-hit equivalence ray168
+PASS dense BVH/linear nearest equivalence ray169
+PASS dense BVH any-hit equivalence ray169
+PASS dense BVH/linear nearest equivalence ray170
+PASS dense BVH any-hit equivalence ray170
+PASS dense BVH/linear nearest equivalence ray171
+PASS dense BVH any-hit equivalence ray171
+PASS dense BVH/linear nearest equivalence ray172
+PASS dense BVH any-hit equivalence ray172
+PASS dense BVH/linear nearest equivalence ray173
+PASS dense BVH any-hit equivalence ray173
+PASS dense BVH/linear nearest equivalence ray174
+PASS dense BVH any-hit equivalence ray174
+PASS dense BVH/linear nearest equivalence ray175
+PASS dense BVH any-hit equivalence ray175
+PASS dense BVH/linear nearest equivalence ray176
+PASS dense BVH any-hit equivalence ray176
+PASS dense BVH/linear nearest equivalence ray177
+PASS dense BVH any-hit equivalence ray177
+PASS dense BVH/linear nearest equivalence ray178
+PASS dense BVH any-hit equivalence ray178
+PASS dense BVH/linear nearest equivalence ray179
+PASS dense BVH any-hit equivalence ray179
+PASS dense BVH/linear nearest equivalence ray180
+PASS dense BVH any-hit equivalence ray180
+PASS dense BVH/linear nearest equivalence ray181
+PASS dense BVH any-hit equivalence ray181
+PASS dense BVH/linear nearest equivalence ray182
+PASS dense BVH any-hit equivalence ray182
+PASS dense BVH/linear nearest equivalence ray183
+PASS dense BVH any-hit equivalence ray183
+PASS dense BVH/linear nearest equivalence ray184
+PASS dense BVH any-hit equivalence ray184
+PASS dense BVH/linear nearest equivalence ray185
+PASS dense BVH any-hit equivalence ray185
+PASS dense BVH/linear nearest equivalence ray186
+PASS dense BVH any-hit equivalence ray186
+PASS dense BVH/linear nearest equivalence ray187
+PASS dense BVH any-hit equivalence ray187
+PASS dense BVH/linear nearest equivalence ray188
+PASS dense BVH any-hit equivalence ray188
+PASS dense BVH/linear nearest equivalence ray189
+PASS dense BVH any-hit equivalence ray189
+PASS dense BVH/linear nearest equivalence ray190
+PASS dense BVH any-hit equivalence ray190
+PASS dense BVH/linear nearest equivalence ray191
+PASS dense BVH any-hit equivalence ray191
+PASS dense BVH/linear nearest equivalence ray192
+PASS dense BVH any-hit equivalence ray192
+PASS dense BVH/linear nearest equivalence ray193
+PASS dense BVH any-hit equivalence ray193
+PASS dense BVH/linear nearest equivalence ray194
+PASS dense BVH any-hit equivalence ray194
+PASS dense BVH/linear nearest equivalence ray195
+PASS dense BVH any-hit equivalence ray195
+PASS dense BVH/linear nearest equivalence ray196
+PASS dense BVH any-hit equivalence ray196
+PASS dense BVH/linear nearest equivalence ray197
+PASS dense BVH any-hit equivalence ray197
+PASS dense BVH/linear nearest equivalence ray198
+PASS dense BVH any-hit equivalence ray198
+PASS dense BVH/linear nearest equivalence ray199
+PASS dense BVH any-hit equivalence ray199
+PASS dense BVH/linear nearest equivalence ray200
+PASS dense BVH any-hit equivalence ray200
+PASS dense BVH/linear nearest equivalence ray201
+PASS dense BVH any-hit equivalence ray201
+PASS dense BVH/linear nearest equivalence ray202
+PASS dense BVH any-hit equivalence ray202
+PASS dense BVH/linear nearest equivalence ray203
+PASS dense BVH any-hit equivalence ray203
+PASS dense BVH/linear nearest equivalence ray204
+PASS dense BVH any-hit equivalence ray204
+PASS dense BVH/linear nearest equivalence ray205
+PASS dense BVH any-hit equivalence ray205
+PASS dense BVH/linear nearest equivalence ray206
+PASS dense BVH any-hit equivalence ray206
+PASS dense BVH/linear nearest equivalence ray207
+PASS dense BVH any-hit equivalence ray207
+PASS dense BVH/linear nearest equivalence ray208
+PASS dense BVH any-hit equivalence ray208
+PASS dense BVH/linear nearest equivalence ray209
+PASS dense BVH any-hit equivalence ray209
+PASS dense BVH/linear nearest equivalence ray210
+PASS dense BVH any-hit equivalence ray210
+PASS dense BVH/linear nearest equivalence ray211
+PASS dense BVH any-hit equivalence ray211
+PASS dense BVH/linear nearest equivalence ray212
+PASS dense BVH any-hit equivalence ray212
+PASS dense BVH/linear nearest equivalence ray213
+PASS dense BVH any-hit equivalence ray213
+PASS dense BVH/linear nearest equivalence ray214
+PASS dense BVH any-hit equivalence ray214
+PASS dense BVH/linear nearest equivalence ray215
+PASS dense BVH any-hit equivalence ray215
+PASS dense BVH/linear nearest equivalence ray216
+PASS dense BVH any-hit equivalence ray216
+PASS dense BVH/linear nearest equivalence ray217
+PASS dense BVH any-hit equivalence ray217
+PASS dense BVH/linear nearest equivalence ray218
+PASS dense BVH any-hit equivalence ray218
+PASS dense BVH/linear nearest equivalence ray219
+PASS dense BVH any-hit equivalence ray219
+PASS dense BVH/linear nearest equivalence ray220
+PASS dense BVH any-hit equivalence ray220
+PASS dense BVH/linear nearest equivalence ray221
+PASS dense BVH any-hit equivalence ray221
+PASS dense BVH/linear nearest equivalence ray222
+PASS dense BVH any-hit equivalence ray222
+PASS dense BVH/linear nearest equivalence ray223
+PASS dense BVH any-hit equivalence ray223
+PASS dense BVH/linear nearest equivalence ray224
+PASS dense BVH any-hit equivalence ray224
+PASS dense BVH/linear nearest equivalence ray225
+PASS dense BVH any-hit equivalence ray225
+PASS dense BVH/linear nearest equivalence ray226
+PASS dense BVH any-hit equivalence ray226
+PASS dense BVH/linear nearest equivalence ray227
+PASS dense BVH any-hit equivalence ray227
+PASS dense BVH/linear nearest equivalence ray228
+PASS dense BVH any-hit equivalence ray228
+PASS dense BVH/linear nearest equivalence ray229
+PASS dense BVH any-hit equivalence ray229
+PASS dense BVH/linear nearest equivalence ray230
+PASS dense BVH any-hit equivalence ray230
+PASS dense BVH/linear nearest equivalence ray231
+PASS dense BVH any-hit equivalence ray231
+PASS dense BVH/linear nearest equivalence ray232
+PASS dense BVH any-hit equivalence ray232
+PASS dense BVH/linear nearest equivalence ray233
+PASS dense BVH any-hit equivalence ray233
+PASS dense BVH/linear nearest equivalence ray234
+PASS dense BVH any-hit equivalence ray234
+PASS dense BVH/linear nearest equivalence ray235
+PASS dense BVH any-hit equivalence ray235
+PASS dense BVH/linear nearest equivalence ray236
+PASS dense BVH any-hit equivalence ray236
+PASS dense BVH/linear nearest equivalence ray237
+PASS dense BVH any-hit equivalence ray237
+PASS dense BVH/linear nearest equivalence ray238
+PASS dense BVH any-hit equivalence ray238
+PASS dense BVH/linear nearest equivalence ray239
+PASS dense BVH any-hit equivalence ray239
+PASS dense BVH/linear nearest equivalence ray240
+PASS dense BVH any-hit equivalence ray240
+PASS dense BVH/linear nearest equivalence ray241
+PASS dense BVH any-hit equivalence ray241
+PASS dense BVH/linear nearest equivalence ray242
+PASS dense BVH any-hit equivalence ray242
+PASS dense BVH/linear nearest equivalence ray243
+PASS dense BVH any-hit equivalence ray243
+PASS dense BVH/linear nearest equivalence ray244
+PASS dense BVH any-hit equivalence ray244
+PASS dense BVH/linear nearest equivalence ray245
+PASS dense BVH any-hit equivalence ray245
+PASS dense BVH/linear nearest equivalence ray246
+PASS dense BVH any-hit equivalence ray246
+PASS dense BVH/linear nearest equivalence ray247
+PASS dense BVH any-hit equivalence ray247
+PASS dense BVH/linear nearest equivalence ray248
+PASS dense BVH any-hit equivalence ray248
+PASS dense BVH/linear nearest equivalence ray249
+PASS dense BVH any-hit equivalence ray249
+PASS dense BVH/linear nearest equivalence ray250
+PASS dense BVH any-hit equivalence ray250
+PASS dense BVH/linear nearest equivalence ray251
+PASS dense BVH any-hit equivalence ray251
+PASS dense BVH/linear nearest equivalence ray252
+PASS dense BVH any-hit equivalence ray252
+PASS dense BVH/linear nearest equivalence ray253
+PASS dense BVH any-hit equivalence ray253
+PASS dense BVH/linear nearest equivalence ray254
+PASS dense BVH any-hit equivalence ray254
+PASS dense BVH/linear nearest equivalence ray255
+PASS dense BVH any-hit equivalence ray255
+PASS dense BVH/linear nearest equivalence ray256
+PASS dense BVH any-hit equivalence ray256
+PASS dense BVH/linear nearest equivalence ray257
+PASS dense BVH any-hit equivalence ray257
+PASS dense BVH/linear nearest equivalence ray258
+PASS dense BVH any-hit equivalence ray258
+PASS dense BVH/linear nearest equivalence ray259
+PASS dense BVH any-hit equivalence ray259
+PASS dense BVH/linear nearest equivalence ray260
+PASS dense BVH any-hit equivalence ray260
+PASS dense BVH/linear nearest equivalence ray261
+PASS dense BVH any-hit equivalence ray261
+PASS dense BVH/linear nearest equivalence ray262
+PASS dense BVH any-hit equivalence ray262
+PASS dense BVH/linear nearest equivalence ray263
+PASS dense BVH any-hit equivalence ray263
+PASS dense BVH/linear nearest equivalence ray264
+PASS dense BVH any-hit equivalence ray264
+PASS dense BVH/linear nearest equivalence ray265
+PASS dense BVH any-hit equivalence ray265
+PASS dense BVH/linear nearest equivalence ray266
+PASS dense BVH any-hit equivalence ray266
+PASS dense BVH/linear nearest equivalence ray267
+PASS dense BVH any-hit equivalence ray267
+PASS dense BVH/linear nearest equivalence ray268
+PASS dense BVH any-hit equivalence ray268
+PASS dense BVH/linear nearest equivalence ray269
+PASS dense BVH any-hit equivalence ray269
+PASS dense BVH/linear nearest equivalence ray270
+PASS dense BVH any-hit equivalence ray270
+PASS dense BVH/linear nearest equivalence ray271
+PASS dense BVH any-hit equivalence ray271
+PASS dense BVH/linear nearest equivalence ray272
+PASS dense BVH any-hit equivalence ray272
+PASS dense BVH/linear nearest equivalence ray273
+PASS dense BVH any-hit equivalence ray273
+PASS dense BVH/linear nearest equivalence ray274
+PASS dense BVH any-hit equivalence ray274
+PASS dense BVH/linear nearest equivalence ray275
+PASS dense BVH any-hit equivalence ray275
+PASS dense BVH/linear nearest equivalence ray276
+PASS dense BVH any-hit equivalence ray276
+PASS dense BVH/linear nearest equivalence ray277
+PASS dense BVH any-hit equivalence ray277
+PASS dense BVH/linear nearest equivalence ray278
+PASS dense BVH any-hit equivalence ray278
+PASS dense BVH/linear nearest equivalence ray279
+PASS dense BVH any-hit equivalence ray279
+PASS dense BVH/linear nearest equivalence ray280
+PASS dense BVH any-hit equivalence ray280
+PASS dense BVH/linear nearest equivalence ray281
+PASS dense BVH any-hit equivalence ray281
+PASS dense BVH/linear nearest equivalence ray282
+PASS dense BVH any-hit equivalence ray282
+PASS dense BVH/linear nearest equivalence ray283
+PASS dense BVH any-hit equivalence ray283
+PASS dense BVH/linear nearest equivalence ray284
+PASS dense BVH any-hit equivalence ray284
+PASS dense BVH/linear nearest equivalence ray285
+PASS dense BVH any-hit equivalence ray285
+PASS dense BVH/linear nearest equivalence ray286
+PASS dense BVH any-hit equivalence ray286
+PASS dense BVH/linear nearest equivalence ray287
+PASS dense BVH any-hit equivalence ray287
+PASS dense BVH/linear nearest equivalence ray288
+PASS dense BVH any-hit equivalence ray288
+PASS dense BVH/linear nearest equivalence ray289
+PASS dense BVH any-hit equivalence ray289
+PASS dense BVH/linear nearest equivalence ray290
+PASS dense BVH any-hit equivalence ray290
+PASS dense BVH/linear nearest equivalence ray291
+PASS dense BVH any-hit equivalence ray291
+PASS dense BVH/linear nearest equivalence ray292
+PASS dense BVH any-hit equivalence ray292
+PASS dense BVH/linear nearest equivalence ray293
+PASS dense BVH any-hit equivalence ray293
+PASS dense BVH/linear nearest equivalence ray294
+PASS dense BVH any-hit equivalence ray294
+PASS dense BVH/linear nearest equivalence ray295
+PASS dense BVH any-hit equivalence ray295
+PASS dense BVH/linear nearest equivalence ray296
+PASS dense BVH any-hit equivalence ray296
+PASS dense BVH/linear nearest equivalence ray297
+PASS dense BVH any-hit equivalence ray297
+PASS dense BVH/linear nearest equivalence ray298
+PASS dense BVH any-hit equivalence ray298
+PASS dense BVH/linear nearest equivalence ray299
+PASS dense BVH any-hit equivalence ray299
+PASS dense BVH/linear nearest equivalence ray300
+PASS dense BVH any-hit equivalence ray300
+PASS dense BVH/linear nearest equivalence ray301
+PASS dense BVH any-hit equivalence ray301
+PASS dense BVH/linear nearest equivalence ray302
+PASS dense BVH any-hit equivalence ray302
+PASS dense BVH/linear nearest equivalence ray303
+PASS dense BVH any-hit equivalence ray303
+PASS dense BVH/linear nearest equivalence ray304
+PASS dense BVH any-hit equivalence ray304
+PASS dense BVH/linear nearest equivalence ray305
+PASS dense BVH any-hit equivalence ray305
+PASS dense BVH/linear nearest equivalence ray306
+PASS dense BVH any-hit equivalence ray306
+PASS dense BVH/linear nearest equivalence ray307
+PASS dense BVH any-hit equivalence ray307
+PASS dense BVH/linear nearest equivalence ray308
+PASS dense BVH any-hit equivalence ray308
+PASS dense BVH/linear nearest equivalence ray309
+PASS dense BVH any-hit equivalence ray309
+PASS dense BVH/linear nearest equivalence ray310
+PASS dense BVH any-hit equivalence ray310
+PASS dense BVH/linear nearest equivalence ray311
+PASS dense BVH any-hit equivalence ray311
+PASS dense BVH/linear nearest equivalence ray312
+PASS dense BVH any-hit equivalence ray312
+PASS dense BVH/linear nearest equivalence ray313
+PASS dense BVH any-hit equivalence ray313
+PASS dense BVH/linear nearest equivalence ray314
+PASS dense BVH any-hit equivalence ray314
+PASS dense BVH/linear nearest equivalence ray315
+PASS dense BVH any-hit equivalence ray315
+PASS dense BVH/linear nearest equivalence ray316
+PASS dense BVH any-hit equivalence ray316
+PASS dense BVH/linear nearest equivalence ray317
+PASS dense BVH any-hit equivalence ray317
+PASS dense BVH/linear nearest equivalence ray318
+PASS dense BVH any-hit equivalence ray318
+PASS dense BVH/linear nearest equivalence ray319
+PASS dense BVH any-hit equivalence ray319
+PASS dense BVH/linear nearest equivalence ray320
+PASS dense BVH any-hit equivalence ray320
+PASS dense BVH/linear nearest equivalence ray321
+PASS dense BVH any-hit equivalence ray321
+PASS dense BVH/linear nearest equivalence ray322
+PASS dense BVH any-hit equivalence ray322
+PASS dense BVH/linear nearest equivalence ray323
+PASS dense BVH any-hit equivalence ray323
+PASS dense BVH/linear nearest equivalence ray324
+PASS dense BVH any-hit equivalence ray324
+PASS dense BVH/linear nearest equivalence ray325
+PASS dense BVH any-hit equivalence ray325
+PASS dense BVH/linear nearest equivalence ray326
+PASS dense BVH any-hit equivalence ray326
+PASS dense BVH/linear nearest equivalence ray327
+PASS dense BVH any-hit equivalence ray327
+PASS dense BVH/linear nearest equivalence ray328
+PASS dense BVH any-hit equivalence ray328
+PASS dense BVH/linear nearest equivalence ray329
+PASS dense BVH any-hit equivalence ray329
+PASS dense BVH/linear nearest equivalence ray330
+PASS dense BVH any-hit equivalence ray330
+PASS dense BVH/linear nearest equivalence ray331
+PASS dense BVH any-hit equivalence ray331
+PASS dense BVH/linear nearest equivalence ray332
+PASS dense BVH any-hit equivalence ray332
+PASS dense BVH/linear nearest equivalence ray333
+PASS dense BVH any-hit equivalence ray333
+PASS dense BVH/linear nearest equivalence ray334
+PASS dense BVH any-hit equivalence ray334
+PASS dense BVH/linear nearest equivalence ray335
+PASS dense BVH any-hit equivalence ray335
+PASS dense BVH/linear nearest equivalence ray336
+PASS dense BVH any-hit equivalence ray336
+PASS dense BVH/linear nearest equivalence ray337
+PASS dense BVH any-hit equivalence ray337
+PASS dense BVH/linear nearest equivalence ray338
+PASS dense BVH any-hit equivalence ray338
+PASS dense BVH/linear nearest equivalence ray339
+PASS dense BVH any-hit equivalence ray339
+PASS dense BVH/linear nearest equivalence ray340
+PASS dense BVH any-hit equivalence ray340
+PASS dense BVH/linear nearest equivalence ray341
+PASS dense BVH any-hit equivalence ray341
+PASS dense BVH/linear nearest equivalence ray342
+PASS dense BVH any-hit equivalence ray342
+PASS dense BVH/linear nearest equivalence ray343
+PASS dense BVH any-hit equivalence ray343
+PASS dense BVH/linear nearest equivalence ray344
+PASS dense BVH any-hit equivalence ray344
+PASS dense BVH/linear nearest equivalence ray345
+PASS dense BVH any-hit equivalence ray345
+PASS dense BVH/linear nearest equivalence ray346
+PASS dense BVH any-hit equivalence ray346
+PASS dense BVH/linear nearest equivalence ray347
+PASS dense BVH any-hit equivalence ray347
+PASS dense BVH/linear nearest equivalence ray348
+PASS dense BVH any-hit equivalence ray348
+PASS dense BVH/linear nearest equivalence ray349
+PASS dense BVH any-hit equivalence ray349
+PASS dense BVH/linear nearest equivalence ray350
+PASS dense BVH any-hit equivalence ray350
+PASS dense BVH/linear nearest equivalence ray351
+PASS dense BVH any-hit equivalence ray351
+PASS dense BVH/linear nearest equivalence ray352
+PASS dense BVH any-hit equivalence ray352
+PASS dense BVH/linear nearest equivalence ray353
+PASS dense BVH any-hit equivalence ray353
+PASS dense BVH/linear nearest equivalence ray354
+PASS dense BVH any-hit equivalence ray354
+PASS dense BVH/linear nearest equivalence ray355
+PASS dense BVH any-hit equivalence ray355
+PASS dense BVH/linear nearest equivalence ray356
+PASS dense BVH any-hit equivalence ray356
+PASS dense BVH/linear nearest equivalence ray357
+PASS dense BVH any-hit equivalence ray357
+PASS dense BVH/linear nearest equivalence ray358
+PASS dense BVH any-hit equivalence ray358
+PASS dense BVH/linear nearest equivalence ray359
+PASS dense BVH any-hit equivalence ray359
+PASS dense BVH/linear nearest equivalence ray360
+PASS dense BVH any-hit equivalence ray360
+PASS dense BVH/linear nearest equivalence ray361
+PASS dense BVH any-hit equivalence ray361
+PASS dense BVH/linear nearest equivalence ray362
+PASS dense BVH any-hit equivalence ray362
+PASS dense BVH/linear nearest equivalence ray363
+PASS dense BVH any-hit equivalence ray363
+PASS dense BVH/linear nearest equivalence ray364
+PASS dense BVH any-hit equivalence ray364
+PASS dense BVH/linear nearest equivalence ray365
+PASS dense BVH any-hit equivalence ray365
+PASS dense BVH/linear nearest equivalence ray366
+PASS dense BVH any-hit equivalence ray366
+PASS dense BVH/linear nearest equivalence ray367
+PASS dense BVH any-hit equivalence ray367
+PASS dense BVH/linear nearest equivalence ray368
+PASS dense BVH any-hit equivalence ray368
+PASS dense BVH/linear nearest equivalence ray369
+PASS dense BVH any-hit equivalence ray369
+PASS dense BVH/linear nearest equivalence ray370
+PASS dense BVH any-hit equivalence ray370
+PASS dense BVH/linear nearest equivalence ray371
+PASS dense BVH any-hit equivalence ray371
+PASS dense BVH/linear nearest equivalence ray372
+PASS dense BVH any-hit equivalence ray372
+PASS dense BVH/linear nearest equivalence ray373
+PASS dense BVH any-hit equivalence ray373
+PASS dense BVH/linear nearest equivalence ray374
+PASS dense BVH any-hit equivalence ray374
+PASS dense BVH/linear nearest equivalence ray375
+PASS dense BVH any-hit equivalence ray375
+PASS dense BVH/linear nearest equivalence ray376
+PASS dense BVH any-hit equivalence ray376
+PASS dense BVH/linear nearest equivalence ray377
+PASS dense BVH any-hit equivalence ray377
+PASS dense BVH/linear nearest equivalence ray378
+PASS dense BVH any-hit equivalence ray378
+PASS dense BVH/linear nearest equivalence ray379
+PASS dense BVH any-hit equivalence ray379
+PASS dense BVH/linear nearest equivalence ray380
+PASS dense BVH any-hit equivalence ray380
+PASS dense BVH/linear nearest equivalence ray381
+PASS dense BVH any-hit equivalence ray381
+PASS dense BVH/linear nearest equivalence ray382
+PASS dense BVH any-hit equivalence ray382
+PASS dense BVH/linear nearest equivalence ray383
+PASS dense BVH any-hit equivalence ray383
+PASS dense BVH/linear nearest equivalence ray384
+PASS dense BVH any-hit equivalence ray384
+PASS dense BVH/linear nearest equivalence ray385
+PASS dense BVH any-hit equivalence ray385
+PASS dense BVH/linear nearest equivalence ray386
+PASS dense BVH any-hit equivalence ray386
+PASS dense BVH/linear nearest equivalence ray387
+PASS dense BVH any-hit equivalence ray387
+PASS dense BVH/linear nearest equivalence ray388
+PASS dense BVH any-hit equivalence ray388
+PASS dense BVH/linear nearest equivalence ray389
+PASS dense BVH any-hit equivalence ray389
+PASS dense BVH/linear nearest equivalence ray390
+PASS dense BVH any-hit equivalence ray390
+PASS dense BVH/linear nearest equivalence ray391
+PASS dense BVH any-hit equivalence ray391
+PASS dense BVH/linear nearest equivalence ray392
+PASS dense BVH any-hit equivalence ray392
+PASS dense BVH/linear nearest equivalence ray393
+PASS dense BVH any-hit equivalence ray393
+PASS dense BVH/linear nearest equivalence ray394
+PASS dense BVH any-hit equivalence ray394
+PASS dense BVH/linear nearest equivalence ray395
+PASS dense BVH any-hit equivalence ray395
+PASS dense BVH/linear nearest equivalence ray396
+PASS dense BVH any-hit equivalence ray396
+PASS dense BVH/linear nearest equivalence ray397
+PASS dense BVH any-hit equivalence ray397
+PASS dense BVH/linear nearest equivalence ray398
+PASS dense BVH any-hit equivalence ray398
+PASS dense BVH/linear nearest equivalence ray399
+PASS dense BVH any-hit equivalence ray399
+PASS dense central doorway remains miss despite enclosing BVH boxes
+PASS BVH prunes exact triangle tests mean=7.54 linear=14848
+METRIC dense triangles=14848 rays=400 meanExactLeafTests=7.54
+RESULT PASS passed=1063 failed=0

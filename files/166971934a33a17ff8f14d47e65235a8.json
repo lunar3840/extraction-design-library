@@ -1,0 +1,69 @@
+{
+  "status": "proposal_only_not_captured",
+  "coordinateBasis": "candidate02 actual Play reports; requested feet are authoring inputs and observed feet are historical settled results, not promises for the current map",
+  "sourceValidator": "outputs/change_records/2026-10-30/a-map-clinic-reclaimed-mood-trial/execution_tools/candidate02_final/StageAClinicMoodTrialValidation.cs",
+  "sourceRevealReport": "outputs/change_records/2026-10-30/a-map-clinic-reclaimed-mood-trial/rounds/post_ui_checkpoint/staging/validation_tool/play_sr_candidate02_reveal/PLAY_REPORT.json",
+  "sourceHudMatchedReport": "outputs/change_records/2026-10-30/a-map-clinic-reclaimed-mood-trial/rounds/post_ui_checkpoint/staging/validation_tool/play_after_candidate02_hudmatched/PLAY_REPORT.json",
+  "poses": [
+    {
+      "id": "clinic_north_reveal",
+      "purpose": "north wall ivy follows source shell while reveal is active",
+      "requestedFeet": [-168.35, 4.04, 139.6],
+      "historicalSettledFeet": [-168.35, 4.02, 139.6],
+      "eye": [-162.0, 11.0, 151.0],
+      "target": [-168.35, 5.3, 139.6],
+      "fov": 60,
+      "source": "sourceRevealReport"
+    },
+    {
+      "id": "clinic_north_reveal_restored",
+      "purpose": "same camera, move away from north wall and confirm wall ivy restoration",
+      "requestedFeet": [-168.35, 4.04, 145.0],
+      "historicalSettledFeet": [-168.35, 4.0744, 145.0],
+      "eye": [-162.0, 11.0, 151.0],
+      "target": [-168.35, 5.3, 141.95],
+      "fov": 60,
+      "source": "sourceRevealReport; also clinic_north_seam_close in sourceHudMatchedReport"
+    },
+    {
+      "id": "clinic_true_exterior",
+      "purpose": "visible north wall ivy and ground context with reveal inactive",
+      "requestedFeet": [-166.0, 4.5981, 155.0],
+      "historicalSettledFeet": [-166.0, 4.5418, 155.0],
+      "eye": [-158.0, 17.0, 167.0],
+      "target": [-166.0, 4.0, 149.0],
+      "fov": 60,
+      "source": "sourceHudMatchedReport"
+    },
+    {
+      "id": "remote_w05_control",
+      "purpose": "non-CLINIC reveal may be active; CLINIC ivy/source must remain restored",
+      "requestedFeet": [-132.0, 1.8, 9.0],
+      "historicalSettledFeet": [-132.0, 1.7606, 9.0],
+      "eye": [-121.0, 16.8, -6.0],
+      "target": [-132.0, 2.8, 9.0],
+      "fov": 60,
+      "source": "sourceHudMatchedReport"
+    },
+    {
+      "id": "remote_bridge_control",
+      "purpose": "remote non-target bridge view and CLINIC source/ivy isolation",
+      "requestedFeet": [102.5, 0.2, -125.0],
+      "historicalSettledFeet": [102.5, 0.02, -125.0],
+      "eye": [115.5, 19.2, -146.0],
+      "target": [102.5, 1.2, -125.0],
+      "fov": 60,
+      "source": "sourceHudMatchedReport"
+    },
+    {
+      "id": "HALL1_control",
+      "purpose": "other-building control and CLINIC source/ivy isolation",
+      "requestedFeet": [0.0, 2.0, -42.0],
+      "historicalSettledFeet": [0.0, 2.0175, -42.0],
+      "eye": [14.0, 19.0, -60.0],
+      "target": [0.0, 3.0, -42.0],
+      "fov": 60,
+      "source": "sourceHudMatchedReport"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+PASS old save migrates without invented events
+PASS legacy chain preserved plus three examples
+PASS example category Main
+PASS example category Side
+PASS example category Bond
+PASS valid scene main_briefing
+PASS valid scene main_return
+PASS valid scene main_report
+PASS valid scene side_briefing
+PASS valid scene side_ready
+PASS valid scene side_report
+PASS valid scene bond_invitation
+PASS valid scene bond_ready
+PASS valid scene bond_report
+PASS valid scene bond_serin
+PASS failed acceptance leaves quest and scene unchanged
+PASS acceptance atomically queues briefing
+PASS duplicate acceptance rejected
+PASS pending scene survives reload
+PASS scene save failure keeps pending event
+PASS completion exactly once
+PASS unfinished objective cannot report
+PASS sample sortie starts
+PASS camp-only actions rejected during sortie
+PASS failed extraction does not grant objective
+PASS successful extraction queues objective scene
+PASS report waits for pending story
+PASS commit pending scene 1
+PASS pending queue drained
+PASS sample completion does not unlock legacy stages
+PASS commit pending scene 1
+PASS pending queue drained
+PASS no duplicate completion reward
+PASS side accepted alongside main history
+PASS commit pending scene 1
+PASS pending queue drained
+PASS delivery requires carried water
+PASS side requirements included in inventory protection
+PASS delivery readiness persisted with scene
+PASS commit pending scene 1
+PASS pending queue drained
+PASS failed turn-in preserves water reward and event
+PASS side turn-in consumes one water and grants one food
+PASS commit pending scene 1
+PASS pending queue drained
+PASS reward cannot repeat
+PASS bond quest accepted
+PASS commit pending scene 1
+PASS pending queue drained
+PASS conversation queued once
+PASS unseen bond conversation cannot report
+PASS commit pending scene 1
+PASS commit pending scene 2
+PASS pending queue drained
+PASS conversation completion advances bond objective
+PASS commit pending scene 1
+PASS pending queue drained
+PASS completed story round-trips
+PASS completed conversation cannot award progress again
+PASS corrupt event rejected

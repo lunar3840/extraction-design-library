@@ -1,0 +1,709 @@
+[
+  {
+    "path": "Art/Loot/External/trade_a_006/manifest.json",
+    "before": null,
+    "after": "699cf16a9b837279219905a89cc4eaf17959a5c7628f0487a4c273b347d8fec6",
+    "changed": true,
+    "bytes": 16790
+  },
+  {
+    "path": "Art/Loot/External/trade_a_006/manifest.json.meta",
+    "before": null,
+    "after": "3e906eea37957e7164582376b44d6a6da241314475f7f55b3726f4b976848f5f",
+    "changed": true,
+    "bytes": 158
+  },
+  {
+    "path": "Art/Loot/External/trade_a_006/textures/trade_a_006_mat00_basecolor_1024.png",
+    "before": null,
+    "after": "87bd1fb189e521c93dd6b4b90df37659b4b6d00bc21ff1cbce4758a548539ebd",
+    "changed": true,
+    "bytes": 1245120
+  },
+  {
+    "path": "Art/Loot/External/trade_a_006/textures/trade_a_006_mat00_basecolor_1024.png.meta",
+    "before": null,
+    "after": "380f160d993582758678c885d8e8c1769c477908c01e1365c6f7ca4a16db7a02",
+    "changed": true,
+    "bytes": 3007
+  },
+  {
+    "path": "Art/Loot/External/trade_a_006/textures/trade_a_006_mat00_metallicroughness_1024.png",
+    "before": null,
+    "after": "8216dc1f6cb53619ba1bf1f3c8bf5d39eaff213e0cc6cbbf77fe67e1933a4b4e",
+    "changed": true,
+    "bytes": 987622
+  },
+  {
+    "path": "Art/Loot/External/trade_a_006/textures/trade_a_006_mat00_metallicroughness_1024.png.meta",
+    "before": null,
+    "after": "016adb1c12b007a8a88907f2a23ca29541ece3c6d737f5d52e2f75c24136a74b",
+    "changed": true,
+    "bytes": 3007
+  },
+  {
+    "path": "Art/Loot/External/trade_a_006/textures/trade_a_006_mat00_normal_1024.png",
+    "before": null,
+    "after": "cb191c7eb03332ffd73cb73f41f64cfe94d4523f35f3385d8b2c18270b5c29fd",
+    "changed": true,
+    "bytes": 771530
+  },
+  {
+    "path": "Art/Loot/External/trade_a_006/textures/trade_a_006_mat00_normal_1024.png.meta",
+    "before": null,
+    "after": "4a16288462c7303779ffd377d107cdfceb6549384934301607e4b6006f57a13d",
+    "changed": true,
+    "bytes": 3007
+  },
+  {
+    "path": "Art/Loot/External/trade_a_006/textures/trade_a_006_metallic_smoothness.png",
+    "before": null,
+    "after": "bef1cb8d9008816e1c3541855fd2590ea81dd6c3109d2d11de793620f50231cf",
+    "changed": true,
+    "bytes": 1275757
+  },
+  {
+    "path": "Art/Loot/External/trade_a_006/textures/trade_a_006_metallic_smoothness.png.meta",
+    "before": null,
+    "after": "0d620f4163dd6dfaa80feb6de103a0a406830724ead971cddb562bcec8b14311",
+    "changed": true,
+    "bytes": 3007
+  },
+  {
+    "path": "Art/Loot/External/trade_a_006/textures.meta",
+    "before": null,
+    "after": "2bd7308995f592dd9a2c46f4d78684c758880480501b36069f19025cf271180a",
+    "changed": true,
+    "bytes": 172
+  },
+  {
+    "path": "Art/Loot/External/trade_a_006/trade_a_006.fbx",
+    "before": null,
+    "after": "70f20f7cd7a361b4fcc4196d7945ef6e7fa0321a1968f0a41a686cfc564da2c1",
+    "changed": true,
+    "bytes": 289260
+  },
+  {
+    "path": "Art/Loot/External/trade_a_006/trade_a_006.fbx.meta",
+    "before": null,
+    "after": "050f6d4249251306907951cd1e70ee5c66e55808b889b04a79e23452da5d97c7",
+    "changed": true,
+    "bytes": 2979
+  },
+  {
+    "path": "Art/Loot/External/trade_a_006/trade_a_006.mat",
+    "before": null,
+    "after": "32ab2463be281a741df0a4b897d327633a654ecd8b8f530de318db1eec8cdd5e",
+    "changed": true,
+    "bytes": 3985
+  },
+  {
+    "path": "Art/Loot/External/trade_a_006/trade_a_006.mat.meta",
+    "before": null,
+    "after": "88cad6dea5f5dbb1febb97159f11f75bd21e2b130e48d3a41b363d6da5c59038",
+    "changed": true,
+    "bytes": 188
+  },
+  {
+    "path": "Art/Loot/External/trade_a_006.meta",
+    "before": null,
+    "after": "0f8e876f3befd5a195bbf252ad24b037abc1c3824e775620276a8a55252ed5d4",
+    "changed": true,
+    "bytes": 172
+  },
+  {
+    "path": "Art/Loot/External/trade_b_009/manifest.json",
+    "before": null,
+    "after": "0ed5e8febe339a4e70fc8e65ebef71682cfd7756b78f2fb203a10ab5f2bec5f7",
+    "changed": true,
+    "bytes": 16939
+  },
+  {
+    "path": "Art/Loot/External/trade_b_009/manifest.json.meta",
+    "before": null,
+    "after": "07198b7486fb94e7f13433b1f337bd607a563127a25c078ebe1d14cd91e542ef",
+    "changed": true,
+    "bytes": 158
+  },
+  {
+    "path": "Art/Loot/External/trade_b_009/textures/trade_b_009_mat00_basecolor_1024.png",
+    "before": null,
+    "after": "7770a5296c77389eb76f4fb38233105869bf4b55cc628e0687f49e1870c22b36",
+    "changed": true,
+    "bytes": 623834
+  },
+  {
+    "path": "Art/Loot/External/trade_b_009/textures/trade_b_009_mat00_basecolor_1024.png.meta",
+    "before": null,
+    "after": "0de68249b28bf06955a78493404a21b62a924bfec755f62153b9ad65b4d11d15",
+    "changed": true,
+    "bytes": 3007
+  },
+  {
+    "path": "Art/Loot/External/trade_b_009/textures/trade_b_009_mat00_metallicroughness_1024.png",
+    "before": null,
+    "after": "d7240a47b4e5cf53f768f63442a9f316c896f2057d0b9ed12fd7a13ca7e13a62",
+    "changed": true,
+    "bytes": 543776
+  },
+  {
+    "path": "Art/Loot/External/trade_b_009/textures/trade_b_009_mat00_metallicroughness_1024.png.meta",
+    "before": null,
+    "after": "0affe92c5b167361fb1f6f66b64e4b6c68afe6c5302b367723c6205636b67347",
+    "changed": true,
+    "bytes": 3007
+  },
+  {
+    "path": "Art/Loot/External/trade_b_009/textures/trade_b_009_mat00_normal_1024.png",
+    "before": null,
+    "after": "8cbe82294ab296087527d4f3f9c52712f9ebd46530ba55c2991a3b8ca6fb36d6",
+    "changed": true,
+    "bytes": 169514
+  },
+  {
+    "path": "Art/Loot/External/trade_b_009/textures/trade_b_009_mat00_normal_1024.png.meta",
+    "before": null,
+    "after": "6dd0f0ec91250180221a21d35396473b479b025908539bf1292757859ccd4cdf",
+    "changed": true,
+    "bytes": 3007
+  },
+  {
+    "path": "Art/Loot/External/trade_b_009/textures/trade_b_009_metallic_smoothness.png",
+    "before": null,
+    "after": "3c620589f913a43ead3820f7975384f1d50db26e1f4b21d978e01d124b2314dc",
+    "changed": true,
+    "bytes": 774202
+  },
+  {
+    "path": "Art/Loot/External/trade_b_009/textures/trade_b_009_metallic_smoothness.png.meta",
+    "before": null,
+    "after": "ce3367438157df636b983006f44235237ea3632d7fdfe713a2374c1dcb077658",
+    "changed": true,
+    "bytes": 3007
+  },
+  {
+    "path": "Art/Loot/External/trade_b_009/textures.meta",
+    "before": null,
+    "after": "ddb1591180802df2609d81961fcc7d276520f52c698e99f84c9ec88dd828b279",
+    "changed": true,
+    "bytes": 172
+  },
+  {
+    "path": "Art/Loot/External/trade_b_009/trade_b_009.fbx",
+    "before": null,
+    "after": "53502ccb9ce0d5670cb13d00b15440de462ae71b05b6c16ce108775ff040d3d0",
+    "changed": true,
+    "bytes": 198652
+  },
+  {
+    "path": "Art/Loot/External/trade_b_009/trade_b_009.fbx.meta",
+    "before": null,
+    "after": "daeffb0a341e223976eb94865807efd19b64fca8cf4a7a23ce43260b85969778",
+    "changed": true,
+    "bytes": 2979
+  },
+  {
+    "path": "Art/Loot/External/trade_b_009/trade_b_009.mat",
+    "before": null,
+    "after": "368f24ff45119fb8788294ad07a004f9a2bad81efe52b19e1b9e55d15faa6030",
+    "changed": true,
+    "bytes": 3986
+  },
+  {
+    "path": "Art/Loot/External/trade_b_009/trade_b_009.mat.meta",
+    "before": null,
+    "after": "0f6f4665150d77604ced78f6cbc45c668401359b870647464d83ea322508e30d",
+    "changed": true,
+    "bytes": 188
+  },
+  {
+    "path": "Art/Loot/External/trade_b_009.meta",
+    "before": null,
+    "after": "0f8d248929f8ea113bc7564891c13aadaca8339cb781964a8b7e0d66cf0bd523",
+    "changed": true,
+    "bytes": 172
+  },
+  {
+    "path": "Art/Loot/External/trade_b_023/manifest.json",
+    "before": null,
+    "after": "4f32fe8f175294159100e2259f5c01d9e6f7c32d4882f0798661ca780d007ea8",
+    "changed": true,
+    "bytes": 16969
+  },
+  {
+    "path": "Art/Loot/External/trade_b_023/manifest.json.meta",
+    "before": null,
+    "after": "45c42029a196ca45f45ce943d2362829002b2a8372d43828cf5f4330194a3d64",
+    "changed": true,
+    "bytes": 158
+  },
+  {
+    "path": "Art/Loot/External/trade_b_023/textures/trade_b_023_mat00_basecolor_1024.png",
+    "before": null,
+    "after": "26c93653ad735aac25b6f2a38f817e17c60fd3cf864fdc30207b4fdf05895ff1",
+    "changed": true,
+    "bytes": 1201306
+  },
+  {
+    "path": "Art/Loot/External/trade_b_023/textures/trade_b_023_mat00_basecolor_1024.png.meta",
+    "before": null,
+    "after": "f2fe000c83d713738c8bfc7ca43da1b11bd1d6e63d5fae71679867d95c169d4d",
+    "changed": true,
+    "bytes": 3007
+  },
+  {
+    "path": "Art/Loot/External/trade_b_023/textures/trade_b_023_mat00_metallicroughness_1024.png",
+    "before": null,
+    "after": "aa44b7c1938f72d47f7f2d54ae0ca42bd0aa3b193385361276e7a2491c8b72fd",
+    "changed": true,
+    "bytes": 1301093
+  },
+  {
+    "path": "Art/Loot/External/trade_b_023/textures/trade_b_023_mat00_metallicroughness_1024.png.meta",
+    "before": null,
+    "after": "82e03bad004d5276a28063dcdb32ba2781eb0f5621b57c8d48cb3a116f1b5596",
+    "changed": true,
+    "bytes": 3007
+  },
+  {
+    "path": "Art/Loot/External/trade_b_023/textures/trade_b_023_mat00_normal_1024.png",
+    "before": null,
+    "after": "82a45c3e6920d2886952463ea3f9353cbaefb2cb5a30a637730e38d2cf56f308",
+    "changed": true,
+    "bytes": 662567
+  },
+  {
+    "path": "Art/Loot/External/trade_b_023/textures/trade_b_023_mat00_normal_1024.png.meta",
+    "before": null,
+    "after": "c8ddfe850696314c2ee1d6893cc230ef43aeca3b609e8a2fd8de478bee298e29",
+    "changed": true,
+    "bytes": 3007
+  },
+  {
+    "path": "Art/Loot/External/trade_b_023/textures/trade_b_023_metallic_smoothness.png",
+    "before": null,
+    "after": "5fd8c995e539300e382b981914c48d0639a472112e466e52fccc11de0cc9329a",
+    "changed": true,
+    "bytes": 1560351
+  },
+  {
+    "path": "Art/Loot/External/trade_b_023/textures/trade_b_023_metallic_smoothness.png.meta",
+    "before": null,
+    "after": "e4eed5d1cf5d023af1f22a84d4fcd6058fe8e6da0cebfd691994bc6014a695ce",
+    "changed": true,
+    "bytes": 3007
+  },
+  {
+    "path": "Art/Loot/External/trade_b_023/textures.meta",
+    "before": null,
+    "after": "aff825ca8187a3d4b6b6ddd429f9d3fd90e0bdb93987672ef4c7cc13c5c3fe00",
+    "changed": true,
+    "bytes": 172
+  },
+  {
+    "path": "Art/Loot/External/trade_b_023/trade_b_023.fbx",
+    "before": null,
+    "after": "66e14547e7861988e6b95eefef1b1d999e296f212dbfc93b65df0f56f85f98bd",
+    "changed": true,
+    "bytes": 237116
+  },
+  {
+    "path": "Art/Loot/External/trade_b_023/trade_b_023.fbx.meta",
+    "before": null,
+    "after": "6647147f7798feb0d43c9539c4e6cc8edcdca45ea59644f0cb5b4b4123e63fa5",
+    "changed": true,
+    "bytes": 2979
+  },
+  {
+    "path": "Art/Loot/External/trade_b_023/trade_b_023.mat",
+    "before": null,
+    "after": "723114a7a5d6e93b8e9b4d1503d8315333f813f603c2e3014284317ff36937ac",
+    "changed": true,
+    "bytes": 3985
+  },
+  {
+    "path": "Art/Loot/External/trade_b_023/trade_b_023.mat.meta",
+    "before": null,
+    "after": "76b7fb50d76b1a6d5e1ebdbe8cfd55c4fdca0490bb800b576f31932122bab789",
+    "changed": true,
+    "bytes": 188
+  },
+  {
+    "path": "Art/Loot/External/trade_b_023.meta",
+    "before": null,
+    "after": "c6c2ed23e761c3bc0db1b19d37d36fec969fba8fcf467da56a1aafd14d20ea35",
+    "changed": true,
+    "bytes": 172
+  },
+  {
+    "path": "Art/Loot/External/trade_c_018/manifest.json",
+    "before": null,
+    "after": "4ea05857245fb956a5f12e4676e27ddfc4ea682ba3a060a000b3906803390c79",
+    "changed": true,
+    "bytes": 17062
+  },
+  {
+    "path": "Art/Loot/External/trade_c_018/manifest.json.meta",
+    "before": null,
+    "after": "d4b050a9c820ac01a22a0853eb5fd3280191cfe789f2f83472987652f435a396",
+    "changed": true,
+    "bytes": 158
+  },
+  {
+    "path": "Art/Loot/External/trade_c_018/textures/trade_c_018_mat00_basecolor_1024.png",
+    "before": null,
+    "after": "9c28ca20bfa6b896d2e374e033c2477a9f4db7954d23765cfa1754237fd6edf8",
+    "changed": true,
+    "bytes": 1157227
+  },
+  {
+    "path": "Art/Loot/External/trade_c_018/textures/trade_c_018_mat00_basecolor_1024.png.meta",
+    "before": null,
+    "after": "4e7d14a11c1ef1987d944e357942beecadb51fa4d561a775cb6a07746ad2f0ad",
+    "changed": true,
+    "bytes": 3007
+  },
+  {
+    "path": "Art/Loot/External/trade_c_018/textures/trade_c_018_mat00_metallicroughness_1024.png",
+    "before": null,
+    "after": "6120c8295ed9894fb0f86200242a9130b816241a22492b3f923042fab1fbc6f2",
+    "changed": true,
+    "bytes": 946707
+  },
+  {
+    "path": "Art/Loot/External/trade_c_018/textures/trade_c_018_mat00_metallicroughness_1024.png.meta",
+    "before": null,
+    "after": "aee3483d654a742febb650354664b968550ff042857793b1648cbfaabc7e1345",
+    "changed": true,
+    "bytes": 3007
+  },
+  {
+    "path": "Art/Loot/External/trade_c_018/textures/trade_c_018_mat00_normal_1024.png",
+    "before": null,
+    "after": "764a681d6b3abb8445d36023b65dc8104029a58b6190619dbf29f102e61f91c0",
+    "changed": true,
+    "bytes": 649336
+  },
+  {
+    "path": "Art/Loot/External/trade_c_018/textures/trade_c_018_mat00_normal_1024.png.meta",
+    "before": null,
+    "after": "cd6655448a8f37d178f70e66f5bdd26271c5c761f0545e7755579cc8c4ebe61e",
+    "changed": true,
+    "bytes": 3007
+  },
+  {
+    "path": "Art/Loot/External/trade_c_018/textures/trade_c_018_metallic_smoothness.png",
+    "before": null,
+    "after": "95889438d31fb05fd23e97d65ffed03642589708b47dd76cfe2c27341fd59696",
+    "changed": true,
+    "bytes": 1222315
+  },
+  {
+    "path": "Art/Loot/External/trade_c_018/textures/trade_c_018_metallic_smoothness.png.meta",
+    "before": null,
+    "after": "0466b3ceaff009f84406c8672665cabc422b22fa0dfb9cb929b9bb05a0f6a3f5",
+    "changed": true,
+    "bytes": 3007
+  },
+  {
+    "path": "Art/Loot/External/trade_c_018/textures.meta",
+    "before": null,
+    "after": "264cc4dac5f6da14061f9eb18f4920688f9fee5fe05f3e32d93551daa5203035",
+    "changed": true,
+    "bytes": 172
+  },
+  {
+    "path": "Art/Loot/External/trade_c_018/trade_c_018.fbx",
+    "before": null,
+    "after": "3805ffc6210da86c16fa5b9c35d2493537ba4a020576fe11d7baba21bf86b749",
+    "changed": true,
+    "bytes": 210860
+  },
+  {
+    "path": "Art/Loot/External/trade_c_018/trade_c_018.fbx.meta",
+    "before": null,
+    "after": "9a90cc7c8976abc322d1aac07b167d20dea68ad036c38ef1be9f17822f2bb11e",
+    "changed": true,
+    "bytes": 2979
+  },
+  {
+    "path": "Art/Loot/External/trade_c_018/trade_c_018.mat",
+    "before": null,
+    "after": "495f4aee45143b8a93894f439f628634d63b4c307cc8e1f5ab3c2cf8e09645d9",
+    "changed": true,
+    "bytes": 3985
+  },
+  {
+    "path": "Art/Loot/External/trade_c_018/trade_c_018.mat.meta",
+    "before": null,
+    "after": "885129ead34d2bb7f73f013474cf0acf26c6a8202b8e0adb2584412cbe686bae",
+    "changed": true,
+    "bytes": 188
+  },
+  {
+    "path": "Art/Loot/External/trade_c_018.meta",
+    "before": null,
+    "after": "61834d57b12bd3578d3282774f762d98d928b3d03b8aa3aaa411ba5f0255c388",
+    "changed": true,
+    "bytes": 172
+  },
+  {
+    "path": "Art/Loot/External.meta",
+    "before": null,
+    "after": "85624b64e299fdbb2657896dbc77aefc055812608db1fb6f69743650940572ce",
+    "changed": true,
+    "bytes": 172
+  },
+  {
+    "path": "Art/Loot/Items/trade_a_006.prefab",
+    "before": "dcfff0c6ea5a644fa3ddddaee38399b653923a235b3cdd64514fd63b9875cc77",
+    "after": "4cd98f98307e0d16934c2154faf541d31ae1e95ae8965bb6d4af4021fddb32e0",
+    "changed": true,
+    "bytes": 5363
+  },
+  {
+    "path": "Art/Loot/Items/trade_a_006.prefab.meta",
+    "before": "9348d3ba55d3bc26bd3e93ccb0c9641787c1d1da38f9f8f53d92bd3e87aa5b61",
+    "after": "9348d3ba55d3bc26bd3e93ccb0c9641787c1d1da38f9f8f53d92bd3e87aa5b61",
+    "changed": false,
+    "bytes": 154
+  },
+  {
+    "path": "Art/Loot/Items/trade_a_015.prefab",
+    "before": "c3f122df53293fb2298499e15c8de7de53e4c1b7c14cc352b24767cbc2981a38",
+    "after": "a70d6f27e88b4db4004a5273ac569aadfa5f0ea8a410012bbeb2593c7905d97f",
+    "changed": true,
+    "bytes": 17250
+  },
+  {
+    "path": "Art/Loot/Items/trade_a_015.prefab.meta",
+    "before": "c8f1cfb344699f8f6bbc50d4c75800b36bf24f069e760262ce12e4d1f6de4936",
+    "after": "c8f1cfb344699f8f6bbc50d4c75800b36bf24f069e760262ce12e4d1f6de4936",
+    "changed": false,
+    "bytes": 154
+  },
+  {
+    "path": "Art/Loot/Items/trade_b_009.prefab",
+    "before": "01580b72bf24791ac36661087bb86373de28d1dddaba8ac326112151a0977c81",
+    "after": "92e01ec410d385f6d07fbe28ad43979570b8b0832a2d30a88dc8f47f77632432",
+    "changed": true,
+    "bytes": 5399
+  },
+  {
+    "path": "Art/Loot/Items/trade_b_009.prefab.meta",
+    "before": "b004acff7074a466a496463191a6de4115627b20b9fc50bd5f0f0da90d1b8f9a",
+    "after": "b004acff7074a466a496463191a6de4115627b20b9fc50bd5f0f0da90d1b8f9a",
+    "changed": false,
+    "bytes": 154
+  },
+  {
+    "path": "Art/Loot/Items/trade_b_023.prefab",
+    "before": "6f67e7a08fecd9266f2dd29894c8fa9d0de558a8d1531dcfd273b599ea13dd1d",
+    "after": "9b1f6020619165f60567f5d652ec5f65e210ec8202342676f5e4b1a14d5cc847",
+    "changed": true,
+    "bytes": 5386
+  },
+  {
+    "path": "Art/Loot/Items/trade_b_023.prefab.meta",
+    "before": "0bd3bc361c6e05221fcdb3156a76fca853ee6876278830c4e4a6f3ac73d522d9",
+    "after": "0bd3bc361c6e05221fcdb3156a76fca853ee6876278830c4e4a6f3ac73d522d9",
+    "changed": false,
+    "bytes": 154
+  },
+  {
+    "path": "Art/Loot/Items/trade_c_018.prefab",
+    "before": "3e781a059be79b2ffae6926e00282538105894b7e4665962472e331dbfab56dc",
+    "after": "aea4393f9863026dad937021c962247799d33917b6375a2b2483226fb83ee09d",
+    "changed": true,
+    "bytes": 5395
+  },
+  {
+    "path": "Art/Loot/Items/trade_c_018.prefab.meta",
+    "before": "fdb6837b8be9610043827e393fbca3af336006f642cb4701faa9a26006b74137",
+    "after": "fdb6837b8be9610043827e393fbca3af336006f642cb4701faa9a26006b74137",
+    "changed": false,
+    "bytes": 154
+  },
+  {
+    "path": "Art/Loot/Items/trade_m_003.prefab",
+    "before": "c5c2693a09b2a5424e0ec638cd0dcb7c9699a28ad1bdc709ba54b56db2d74e07",
+    "after": "5cf5eefff47368a73a8a435fe886b35a357e00d135693c4b52713eb64ab31546",
+    "changed": true,
+    "bytes": 43267
+  },
+  {
+    "path": "Art/Loot/Items/trade_m_003.prefab.meta",
+    "before": "13267dffdb40bdf1c24c82a78c9e7abd78b43edb4b00a4c83db998f32e76264c",
+    "after": "13267dffdb40bdf1c24c82a78c9e7abd78b43edb4b00a4c83db998f32e76264c",
+    "changed": false,
+    "bytes": 154
+  },
+  {
+    "path": "Art/Loot/Meshes/LootMesh_Ingot.asset",
+    "before": "4d27a78f625201b9cb5ce922b0e646a444a975549cc8f255ede889e341154410",
+    "after": "79623303234817de26595f38fe3e5994b38b9656eb5dea12b6543b4485ddbc56",
+    "changed": true,
+    "bytes": 4414
+  },
+  {
+    "path": "Art/Loot/Meshes/LootMesh_Ingot.asset.meta",
+    "before": "dd568dff8fb25770eac444ae407adad54cef7d3e96c52bf7450efa2d1ece0b66",
+    "after": "dd568dff8fb25770eac444ae407adad54cef7d3e96c52bf7450efa2d1ece0b66",
+    "changed": false,
+    "bytes": 188
+  },
+  {
+    "path": "Resources/LootArt/Overrides/trade_a_006.prefab",
+    "before": null,
+    "after": "0d0a6dc22ff5a69c9fdeee088f2e5700bc09430548ba66f864fa322bc1bffb4e",
+    "changed": true,
+    "bytes": 4448
+  },
+  {
+    "path": "Resources/LootArt/Overrides/trade_a_006.prefab.meta",
+    "before": null,
+    "after": "f932e7571656fe5be416d9d855ae666311c802c50d0d753d0961d14e78b815d2",
+    "changed": true,
+    "bytes": 154
+  },
+  {
+    "path": "Resources/LootArt/Overrides/trade_b_009.prefab",
+    "before": null,
+    "after": "7cb6a448fd79eb644d8d60b2167d2021760cdeaaa54ddaeaabb419394a229d59",
+    "changed": true,
+    "bytes": 4469
+  },
+  {
+    "path": "Resources/LootArt/Overrides/trade_b_009.prefab.meta",
+    "before": null,
+    "after": "d53075acd2fcad52a1e7e42bc9fb56e6a3a1ab351f1c4f9e862d9e12b6050428",
+    "changed": true,
+    "bytes": 154
+  },
+  {
+    "path": "Resources/LootArt/Overrides/trade_b_023.prefab",
+    "before": null,
+    "after": "17d698db64b133bc1826390a3370bbd1a16c60a6ec0e899fac3e61640e9b418d",
+    "changed": true,
+    "bytes": 4463
+  },
+  {
+    "path": "Resources/LootArt/Overrides/trade_b_023.prefab.meta",
+    "before": null,
+    "after": "7ab6ecdbee689e2066c0729dcedad4307e8d3c545f6db915cc40a95c42462d5b",
+    "changed": true,
+    "bytes": 154
+  },
+  {
+    "path": "Resources/LootArt/Overrides/trade_c_018.prefab",
+    "before": null,
+    "after": "4fa791ac32701a5896fc659b9ea44b9c73c861234cacc4a25e14f086f78fa006",
+    "changed": true,
+    "bytes": 4460
+  },
+  {
+    "path": "Resources/LootArt/Overrides/trade_c_018.prefab.meta",
+    "before": null,
+    "after": "636a6825cb79fdd4c95b8c7939501e5c704b5f4948cde6103ac5523564740357",
+    "changed": true,
+    "bytes": 154
+  },
+  {
+    "path": "Resources/LootArt/Overrides.meta",
+    "before": null,
+    "after": "6548d5315d99461d65006cc80ecce63b7785b0c73f29177c6870a03800d97ce2",
+    "changed": true,
+    "bytes": 172
+  },
+  {
+    "path": "Resources/LootArt.meta",
+    "before": null,
+    "after": "2ab4c1342042cf22795431a7e305b1402d75f3be32db2d44d4c517c8c50a29b7",
+    "changed": true,
+    "bytes": 172
+  },
+  {
+    "path": "Resources/UI/ItemIcons/trade_a_006.png",
+    "before": "a6b1ac4adc25d274ea22b04c7bde3598c961d544167dfd88c9f0a452bc2adf6c",
+    "after": "15916f2b8a83a1eb4c34e47efd6067e70ab28a8656f623b3a4dda45e0e56a265",
+    "changed": true,
+    "bytes": 143009
+  },
+  {
+    "path": "Resources/UI/ItemIcons/trade_a_006.png.meta",
+    "before": "6648c51352864cc1dac331b2159bdb27508a68e7ab6cf0fdcfa0dcc7f315628f",
+    "after": "6648c51352864cc1dac331b2159bdb27508a68e7ab6cf0fdcfa0dcc7f315628f",
+    "changed": false,
+    "bytes": 3006
+  },
+  {
+    "path": "Resources/UI/ItemIcons/trade_a_015.png",
+    "before": "51b6e620145f71176eda876d8a0fa6eccaab01bf76c5fd4167edc236b2ebb880",
+    "after": "1e8424ea929adf63e24cb0e3753bbb026b45169161755424b3d03746fd62babc",
+    "changed": true,
+    "bytes": 24226
+  },
+  {
+    "path": "Resources/UI/ItemIcons/trade_a_015.png.meta",
+    "before": "8edbab81e9b104e6f6ba3d8179973a9b79f41041ceeb04c9eafee17144b5483c",
+    "after": "8edbab81e9b104e6f6ba3d8179973a9b79f41041ceeb04c9eafee17144b5483c",
+    "changed": false,
+    "bytes": 3006
+  },
+  {
+    "path": "Resources/UI/ItemIcons/trade_b_009.png",
+    "before": "9d58570ed548c8e61cdb3ff53fa60883182a82efce75e9257df68cbaeb1923a7",
+    "after": "c2fde0b5fe1b56dabdee9e4ed61e0d6022aa953e51496ebfd9963d5082d04856",
+    "changed": true,
+    "bytes": 139545
+  },
+  {
+    "path": "Resources/UI/ItemIcons/trade_b_009.png.meta",
+    "before": "c62e570eeaaa0d5d8729e3fb5e17d95234e1bb8779fc73893ede3faec18f8088",
+    "after": "c62e570eeaaa0d5d8729e3fb5e17d95234e1bb8779fc73893ede3faec18f8088",
+    "changed": false,
+    "bytes": 3006
+  },
+  {
+    "path": "Resources/UI/ItemIcons/trade_b_023.png",
+    "before": "5495de42f8d7f21ac915ef1169a624b157f8235829a7630131d70a62b9415d30",
+    "after": "cbb0d7139ed9773514302438b3df3aafdb281f72535f1b4d9eaa1d9302d19c11",
+    "changed": true,
+    "bytes": 219859
+  },
+  {
+    "path": "Resources/UI/ItemIcons/trade_b_023.png.meta",
+    "before": "561bfd88fcdce3a8d7cc534057fb923dab36eef295445781d80729048c562ae3",
+    "after": "561bfd88fcdce3a8d7cc534057fb923dab36eef295445781d80729048c562ae3",
+    "changed": false,
+    "bytes": 3006
+  },
+  {
+    "path": "Resources/UI/ItemIcons/trade_c_018.png",
+    "before": "c2d95084677ea2f7f0e5246d5ec9fec9089b49abd3b4e0753bb84455be3082fd",
+    "after": "96b9c8be7385abd81f0ef72bf080d776280f600e2eb3eb47c007d03fa41641bc",
+    "changed": true,
+    "bytes": 185706
+  },
+  {
+    "path": "Resources/UI/ItemIcons/trade_c_018.png.meta",
+    "before": "2f6706ffaa45155dca5070094eee053ee2bf6b46cefaeeb3f749fa5ad7412bf0",
+    "after": "2f6706ffaa45155dca5070094eee053ee2bf6b46cefaeeb3f749fa5ad7412bf0",
+    "changed": false,
+    "bytes": 3006
+  },
+  {
+    "path": "Resources/UI/ItemIcons/trade_m_003.png",
+    "before": "31f95e5abded39fe036dfdfa598f91b06c8fb6813f4e98c1641ebbcab69b8156",
+    "after": "21fefc09b320e0ec478ea9f53e214e02656213fe4335f8b6a4a89119b927ed1b",
+    "changed": true,
+    "bytes": 34461
+  },
+  {
+    "path": "Resources/UI/ItemIcons/trade_m_003.png.meta",
+    "before": "6375e379336717a3c65475018892332c5ae23745469c99c02b1536e25989a8b7",
+    "after": "6375e379336717a3c65475018892332c5ae23745469c99c02b1536e25989a8b7",
+    "changed": false,
+    "bytes": 3006
+  }
+]

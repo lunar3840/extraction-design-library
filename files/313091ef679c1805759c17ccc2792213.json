@@ -1,0 +1,266 @@
+{
+  "scope": "2D planned geometry only; no Unity, NavMesh, doors, height, visibility, combat or loot test.",
+  "plan_sha256": "35D392066623478FFD5866E64A81BBB043FD0605F09C8E2DC02E7E28078FBD61",
+  "counts": {
+    "boundaries": 5,
+    "walls": 35,
+    "gates": 12,
+    "buildings": 69,
+    "equipment": 29,
+    "terrain": 10,
+    "routes": 27
+  },
+  "boundary_checks": [
+    {
+      "id": "CN",
+      "segments": 11,
+      "gates_and_breaches": 2,
+      "geometry_failures": []
+    },
+    {
+      "id": "WC",
+      "segments": 14,
+      "gates_and_breaches": 2,
+      "geometry_failures": []
+    },
+    {
+      "id": "PC",
+      "segments": 10,
+      "gates_and_breaches": 3,
+      "geometry_failures": []
+    },
+    {
+      "id": "SC",
+      "segments": 11,
+      "gates_and_breaches": 2,
+      "geometry_failures": []
+    },
+    {
+      "id": "YC",
+      "segments": 13,
+      "gates_and_breaches": 3,
+      "geometry_failures": []
+    }
+  ],
+  "gate_checks": [
+    {
+      "id": "CN_G2",
+      "facility": "CN",
+      "width_m": 4.0,
+      "kind": "service"
+    },
+    {
+      "id": "CN_G1",
+      "facility": "CN",
+      "width_m": 9.0,
+      "kind": "main"
+    },
+    {
+      "id": "WC_G2",
+      "facility": "WC",
+      "width_m": 4.0,
+      "kind": "service"
+    },
+    {
+      "id": "WC_G1",
+      "facility": "WC",
+      "width_m": 9.0,
+      "kind": "main"
+    },
+    {
+      "id": "PC_G1",
+      "facility": "PC",
+      "width_m": 9.0,
+      "kind": "main"
+    },
+    {
+      "id": "PC_G2",
+      "facility": "PC",
+      "width_m": 5.0,
+      "kind": "service"
+    },
+    {
+      "id": "PC_G3",
+      "facility": "PC",
+      "width_m": 4.0,
+      "kind": "breach"
+    },
+    {
+      "id": "SC_G1",
+      "facility": "SC",
+      "width_m": 9.0,
+      "kind": "main"
+    },
+    {
+      "id": "SC_G2",
+      "facility": "SC",
+      "width_m": 5.0,
+      "kind": "service"
+    },
+    {
+      "id": "YC_G1",
+      "facility": "YC",
+      "width_m": 10.0,
+      "kind": "main"
+    },
+    {
+      "id": "YC_G3",
+      "facility": "YC",
+      "width_m": 3.0,
+      "kind": "breach"
+    },
+    {
+      "id": "YC_G2",
+      "facility": "YC",
+      "width_m": 4.0,
+      "kind": "service"
+    }
+  ],
+  "sealed_boundary_checks": [
+    {
+      "boundary": "CN",
+      "gate": "CN_G2",
+      "separated": true
+    },
+    {
+      "boundary": "CN",
+      "gate": "CN_G1",
+      "separated": true
+    },
+    {
+      "boundary": "WC",
+      "gate": "WC_G2",
+      "separated": true
+    },
+    {
+      "boundary": "WC",
+      "gate": "WC_G1",
+      "separated": true
+    },
+    {
+      "boundary": "PC",
+      "gate": "PC_G1",
+      "separated": true
+    },
+    {
+      "boundary": "PC",
+      "gate": "PC_G2",
+      "separated": true
+    },
+    {
+      "boundary": "PC",
+      "gate": "PC_G3",
+      "separated": true
+    },
+    {
+      "boundary": "SC",
+      "gate": "SC_G1",
+      "separated": true
+    },
+    {
+      "boundary": "SC",
+      "gate": "SC_G2",
+      "separated": true
+    },
+    {
+      "boundary": "YC",
+      "gate": "YC_G1",
+      "separated": true
+    },
+    {
+      "boundary": "YC",
+      "gate": "YC_G3",
+      "separated": true
+    },
+    {
+      "boundary": "YC",
+      "gate": "YC_G2",
+      "separated": true
+    }
+  ],
+  "alternative_access_checks": [
+    {
+      "boundary": "CN",
+      "closed_gate": "CN_G2",
+      "other_access": true
+    },
+    {
+      "boundary": "CN",
+      "closed_gate": "CN_G1",
+      "other_access": true
+    },
+    {
+      "boundary": "WC",
+      "closed_gate": "WC_G2",
+      "other_access": true
+    },
+    {
+      "boundary": "WC",
+      "closed_gate": "WC_G1",
+      "other_access": true
+    },
+    {
+      "boundary": "PC",
+      "closed_gate": "PC_G1",
+      "other_access": true
+    },
+    {
+      "boundary": "PC",
+      "closed_gate": "PC_G2",
+      "other_access": true
+    },
+    {
+      "boundary": "PC",
+      "closed_gate": "PC_G3",
+      "other_access": true
+    },
+    {
+      "boundary": "SC",
+      "closed_gate": "SC_G1",
+      "other_access": true
+    },
+    {
+      "boundary": "SC",
+      "closed_gate": "SC_G2",
+      "other_access": true
+    },
+    {
+      "boundary": "YC",
+      "closed_gate": "YC_G1",
+      "other_access": true
+    },
+    {
+      "boundary": "YC",
+      "closed_gate": "YC_G3",
+      "other_access": true
+    },
+    {
+      "boundary": "YC",
+      "closed_gate": "YC_G2",
+      "other_access": true
+    }
+  ],
+  "active_anchor_access": {
+    "B1": true,
+    "B2": true,
+    "B3": true,
+    "B4": true,
+    "X1": true,
+    "X2": true,
+    "X3": true,
+    "X4": true,
+    "X5": true,
+    "X6": true,
+    "X7": true,
+    "T1": true,
+    "T2": true,
+    "T3": true
+  },
+  "route_full_width_conflicts": [],
+  "solid_overlaps": [],
+  "route_self_intersections": [],
+  "repeated_route_pair_crossings": [],
+  "issues": [],
+  "warnings": [],
+  "pass": true
+}

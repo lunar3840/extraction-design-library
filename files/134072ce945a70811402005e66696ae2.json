@@ -1,0 +1,146 @@
+[
+  {
+    "Character": "edel",
+    "Context": "portrait",
+    "LastStepMs": 14.8751,
+    "CumulativeMeanStepMs": 20.47709020979021,
+    "PeakStepMs": 46.4173,
+    "NestedPhases_DoNotSum": {
+      "LastCoherentSolveMs": "12.3436",
+      "LastBraidSurfaceMs": "4.4374",
+      "LastBraidAdaptiveMs": "2.1999",
+      "LastBraidPopulateMs": "1.4956",
+      "LastCoherentAdaptiveMs": "4.2457",
+      "LastCoherentScoreMs": "3.9333",
+      "CurrentRootBudgetApplyMs": "1.1115"
+    },
+    "Source": "evidence/r26_finalgrip_edel_metrics.json",
+    "Frame": 202
+  },
+  {
+    "Character": "edel",
+    "Context": "live",
+    "LastStepMs": 33.6507,
+    "CumulativeMeanStepMs": 35.96378541666671,
+    "PeakStepMs": 67.2933,
+    "NestedPhases_DoNotSum": {
+      "LastCoherentSolveMs": "31.5863",
+      "LastBraidSurfaceMs": "23.6327",
+      "LastBraidAdaptiveMs": "9.4063",
+      "LastBraidPopulateMs": "4.4498",
+      "LastCoherentAdaptiveMs": "11.5753",
+      "LastCoherentScoreMs": "3.9005",
+      "CurrentRootBudgetApplyMs": "1.0597"
+    },
+    "Source": "evidence/r26_finalgrip_edel_metrics.json",
+    "Frame": 202
+  },
+  {
+    "Character": "serin",
+    "Context": "portrait",
+    "LastStepMs": 45.5731,
+    "CumulativeMeanStepMs": 61.27316082474228,
+    "PeakStepMs": 134.5705,
+    "NestedPhases_DoNotSum": {
+      "LastCoherentSolveMs": "42.2208",
+      "LastBraidSurfaceMs": "0",
+      "LastBraidAdaptiveMs": "0",
+      "LastBraidPopulateMs": "0",
+      "LastCoherentAdaptiveMs": "24.2014",
+      "LastCoherentScoreMs": "8.4944",
+      "CurrentRootBudgetApplyMs": "7.6013"
+    },
+    "Source": "evidence/r26_finalgrip_serin_metrics.json",
+    "Frame": 303
+  },
+  {
+    "Character": "serin",
+    "Context": "live",
+    "LastStepMs": 111.784,
+    "CumulativeMeanStepMs": 68.84873505154638,
+    "PeakStepMs": 132.9536,
+    "NestedPhases_DoNotSum": {
+      "LastCoherentSolveMs": "108.1125",
+      "LastBraidSurfaceMs": "0",
+      "LastBraidAdaptiveMs": "0",
+      "LastBraidPopulateMs": "0",
+      "LastCoherentAdaptiveMs": "22.2489",
+      "LastCoherentScoreMs": "9.4407",
+      "CurrentRootBudgetApplyMs": "74.1942"
+    },
+    "Source": "evidence/r26_finalgrip_serin_metrics.json",
+    "Frame": 303
+  },
+  {
+    "Character": "liv",
+    "Context": "portrait",
+    "LastStepMs": 18.4566,
+    "CumulativeMeanStepMs": 16.84584766355141,
+    "PeakStepMs": 20.6495,
+    "NestedPhases_DoNotSum": {
+      "LastCoherentSolveMs": "15.9524",
+      "LastBraidSurfaceMs": "0",
+      "LastBraidAdaptiveMs": "0",
+      "LastBraidPopulateMs": "0",
+      "LastCoherentAdaptiveMs": "6.4121",
+      "LastCoherentScoreMs": "7.8086",
+      "CurrentRootBudgetApplyMs": "0.8013"
+    },
+    "Source": "evidence/r26_finalgrip_liv_metrics.json",
+    "Frame": 414
+  },
+  {
+    "Character": "liv",
+    "Context": "live",
+    "LastStepMs": 18.0877,
+    "CumulativeMeanStepMs": 17.697215887850465,
+    "PeakStepMs": 19.3981,
+    "NestedPhases_DoNotSum": {
+      "LastCoherentSolveMs": "15.752",
+      "LastBraidSurfaceMs": "0",
+      "LastBraidAdaptiveMs": "0",
+      "LastBraidPopulateMs": "0",
+      "LastCoherentAdaptiveMs": "6.5639",
+      "LastCoherentScoreMs": "7.6489",
+      "CurrentRootBudgetApplyMs": "0.7415"
+    },
+    "Source": "evidence/r26_finalgrip_liv_metrics.json",
+    "Frame": 414
+  },
+  {
+    "Character": "yui",
+    "Context": "portrait",
+    "LastStepMs": 10.8623,
+    "CumulativeMeanStepMs": 12.387127619047618,
+    "PeakStepMs": 15.6528,
+    "NestedPhases_DoNotSum": {
+      "LastCoherentSolveMs": "8.6723",
+      "LastBraidSurfaceMs": "0",
+      "LastBraidAdaptiveMs": "0",
+      "LastBraidPopulateMs": "0",
+      "LastCoherentAdaptiveMs": "2.5559",
+      "LastCoherentScoreMs": "5.2532",
+      "CurrentRootBudgetApplyMs": "0.3522"
+    },
+    "Source": "evidence/r26_finalgrip_yui_metrics.json",
+    "Frame": 524
+  },
+  {
+    "Character": "yui",
+    "Context": "live",
+    "LastStepMs": 11.5733,
+    "CumulativeMeanStepMs": 12.497399999999995,
+    "PeakStepMs": 16.1533,
+    "NestedPhases_DoNotSum": {
+      "LastCoherentSolveMs": "9.2125",
+      "LastBraidSurfaceMs": "0",
+      "LastBraidAdaptiveMs": "0",
+      "LastBraidPopulateMs": "0",
+      "LastCoherentAdaptiveMs": "2.6346",
+      "LastCoherentScoreMs": "5.598",
+      "CurrentRootBudgetApplyMs": "0.4236"
+    },
+    "Source": "evidence/r26_finalgrip_yui_metrics.json",
+    "Frame": 524
+  }
+]

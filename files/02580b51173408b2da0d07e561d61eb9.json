@@ -1,0 +1,386 @@
+[
+  {
+    "thread": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+    "turn": "a4eacdff-eb39-44ed-98fa-a3df478b5b8f",
+    "url": "sandbox:/mnt/data/edel_v22/edel_rifle_animation_v22.blend",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+    "turn": "a4eacdff-eb39-44ed-98fa-a3df478b5b8f",
+    "url": "sandbox:/mnt/data/edel_v22/edel_v22_arm_closeup_1x.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+    "turn": "a4eacdff-eb39-44ed-98fa-a3df478b5b8f",
+    "url": "sandbox:/mnt/data/edel_v22/edel_v22_ready_aim_movement_1x.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+    "turn": "a4eacdff-eb39-44ed-98fa-a3df478b5b8f",
+    "url": "sandbox:/mnt/data/Edel_Rifle_Animation_v22_LeftArmRebuild.zip",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+    "turn": "a4eacdff-eb39-44ed-98fa-a3df478b5b8f",
+    "url": "sandbox:/mnt/data/edel_v22/edel_v21_v22_arm_comparison.jpg",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+    "turn": "a4eacdff-eb39-44ed-98fa-a3df478b5b8f",
+    "url": "sandbox:/mnt/data/edel_v22/REVIEW_ko.md",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+    "turn": "20bea937-f7e5-47e4-a0a3-028fc9d4610d",
+    "url": "sandbox:/mnt/data/edel_v23/edel_rifle_animation_v23.blend",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+    "turn": "20bea937-f7e5-47e4-a0a3-028fc9d4610d",
+    "url": "sandbox:/mnt/data/Edel_Rifle_Animation_v23_ReadyArmFix.zip",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+    "turn": "20bea937-f7e5-47e4-a0a3-028fc9d4610d",
+    "url": "sandbox:/mnt/data/edel_v23/edel_v22_v23_ready_arm_compare_1x.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+    "turn": "20bea937-f7e5-47e4-a0a3-028fc9d4610d",
+    "url": "sandbox:/mnt/data/edel_v23/edel_v23_ready_aim_fire_1x.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+    "turn": "20bea937-f7e5-47e4-a0a3-028fc9d4610d",
+    "url": "sandbox:/mnt/data/edel_v23/edel_v23_aim_preserved.jpg",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+    "turn": "3fe6873b-dd83-4aa6-9530-8183b63de92e",
+    "url": "sandbox:/mnt/data/EDEL_CrossCharacter_Handoff_v1.zip",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+    "turn": "3fe6873b-dd83-4aa6-9530-8183b63de92e",
+    "url": "sandbox:/mnt/data/EDEL_Character_Workflow_Handbook_ko.md",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+    "turn": "3fe6873b-dd83-4aa6-9530-8183b63de92e",
+    "url": "sandbox:/mnt/data/EDEL_Next_Chat_Start_ko.md",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "20fb2279-8c57-4ae7-a96c-dce5954c4268",
+    "url": "sandbox:/mnt/data/edel_armed_r8/output/previews/EDEL_r8_Armed_Forward_30fps.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "20fb2279-8c57-4ae7-a96c-dce5954c4268",
+    "url": "sandbox:/mnt/data/edel_armed_r8/output/previews/EDEL_r8_Armed_Backward_30fps.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "20fb2279-8c57-4ae7-a96c-dce5954c4268",
+    "url": "sandbox:/mnt/data/edel_armed_r8/output/previews/EDEL_r8_Armed_Left_30fps.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "20fb2279-8c57-4ae7-a96c-dce5954c4268",
+    "url": "sandbox:/mnt/data/edel_armed_r8/output/previews/EDEL_r8_Armed_Right_30fps.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "20fb2279-8c57-4ae7-a96c-dce5954c4268",
+    "url": "sandbox:/mnt/data/edel_armed_r8/output/previews/EDEL_r8_Armed_4Directions_30fps.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "20fb2279-8c57-4ae7-a96c-dce5954c4268",
+    "url": "sandbox:/mnt/data/edel_armed_r8/output/EDEL_ArmedRoll_r8.blend",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "20fb2279-8c57-4ae7-a96c-dce5954c4268",
+    "url": "sandbox:/mnt/data/edel_armed_r8/output/docs/READ_ME_KO.md",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "20fb2279-8c57-4ae7-a96c-dce5954c4268",
+    "url": "sandbox:/mnt/data/edel_armed_r8/output/DELIVERY_VERIFIED.json",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "20fb2279-8c57-4ae7-a96c-dce5954c4268",
+    "url": "sandbox:/mnt/data/EDEL_r8_ArmedRoll_Source_and_Report.zip",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "5bb081e4-3d77-4b86-b8c5-787a65487ee4",
+    "url": "sandbox:/mnt/data/edel_upperbody_r9/output/previews/EDEL_r9_01_Armed_UpperBodyYaw_30fps.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "5bb081e4-3d77-4b86-b8c5-787a65487ee4",
+    "url": "sandbox:/mnt/data/edel_upperbody_r9/output/previews/EDEL_r9_02_Unarmed_UpperBodyYaw_30fps.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "5bb081e4-3d77-4b86-b8c5-787a65487ee4",
+    "url": "sandbox:/mnt/data/edel_upperbody_r9/output/previews/EDEL_r9_06_Walk_Strafe_Comparison_30fps.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "5bb081e4-3d77-4b86-b8c5-787a65487ee4",
+    "url": "sandbox:/mnt/data/edel_upperbody_r9/output/previews/EDEL_r9_03_WalkForward_UpperBodyYaw_30fps.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "5bb081e4-3d77-4b86-b8c5-787a65487ee4",
+    "url": "sandbox:/mnt/data/edel_upperbody_r9/output/previews/EDEL_r9_04_StrafeLeft_UpperBodyYaw_30fps.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "5bb081e4-3d77-4b86-b8c5-787a65487ee4",
+    "url": "sandbox:/mnt/data/edel_upperbody_r9/output/previews/EDEL_r9_05_StrafeRight_UpperBodyYaw_30fps.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "5bb081e4-3d77-4b86-b8c5-787a65487ee4",
+    "url": "sandbox:/mnt/data/edel_upperbody_r9/output/EDEL_UpperBodyYaw_r9.blend",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "5bb081e4-3d77-4b86-b8c5-787a65487ee4",
+    "url": "sandbox:/mnt/data/EDEL_r9_UpperBodyYaw_Source_and_Validation.zip",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "5bb081e4-3d77-4b86-b8c5-787a65487ee4",
+    "url": "sandbox:/mnt/data/edel_upperbody_r9/output/docs/READ_ME_KO.md",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "5bb081e4-3d77-4b86-b8c5-787a65487ee4",
+    "url": "sandbox:/mnt/data/edel_upperbody_r9/output/unity/EdelUpperBodyYaw.cs",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "ad4c0f76-3b67-499e-bc48-b0000c336f3b",
+    "url": "sandbox:/mnt/data/EDEL_r10_Shotgun.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "ad4c0f76-3b67-499e-bc48-b0000c336f3b",
+    "url": "sandbox:/mnt/data/EDEL_r10_Pistol.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "ad4c0f76-3b67-499e-bc48-b0000c336f3b",
+    "url": "sandbox:/mnt/data/EDEL_r10_MachineGun.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "ad4c0f76-3b67-499e-bc48-b0000c336f3b",
+    "url": "sandbox:/mnt/data/EDEL_r10_Sniper.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "ad4c0f76-3b67-499e-bc48-b0000c336f3b",
+    "url": "sandbox:/mnt/data/edel_weapons_r10/output/previews/EDEL_r10_PoseOverview.jpg",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "ad4c0f76-3b67-499e-bc48-b0000c336f3b",
+    "url": "sandbox:/mnt/data/edel_weapons_r10/output/previews/EDEL_r10_RightEyeCheck.jpg",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "ad4c0f76-3b67-499e-bc48-b0000c336f3b",
+    "url": "sandbox:/mnt/data/EDEL_r10_Weapons_4Types_Yaw.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "ad4c0f76-3b67-499e-bc48-b0000c336f3b",
+    "url": "sandbox:/mnt/data/EDEL_WeaponSet_r10.blend",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "ad4c0f76-3b67-499e-bc48-b0000c336f3b",
+    "url": "sandbox:/mnt/data/EDEL_r10_Source_and_Weapons.zip",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "ad4c0f76-3b67-499e-bc48-b0000c336f3b",
+    "url": "sandbox:/mnt/data/edel_weapons_r10/output/docs/READ_ME_KO.md",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "ad4c0f76-3b67-499e-bc48-b0000c336f3b",
+    "url": "sandbox:/mnt/data/edel_weapons_r10/output/DELIVERY_VERIFIED.json",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "d9ebcc8b-3d33-4621-8553-5ef10568e107",
+    "url": "sandbox:/mnt/data/EDEL_r11_Shotgun.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "d9ebcc8b-3d33-4621-8553-5ef10568e107",
+    "url": "sandbox:/mnt/data/EDEL_r11_Shotgun_Reload.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "d9ebcc8b-3d33-4621-8553-5ef10568e107",
+    "url": "sandbox:/mnt/data/EDEL_r11_Pistol.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "d9ebcc8b-3d33-4621-8553-5ef10568e107",
+    "url": "sandbox:/mnt/data/EDEL_r11_Pistol_Reload.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "d9ebcc8b-3d33-4621-8553-5ef10568e107",
+    "url": "sandbox:/mnt/data/EDEL_r11_MachineGun.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "d9ebcc8b-3d33-4621-8553-5ef10568e107",
+    "url": "sandbox:/mnt/data/EDEL_r11_MachineGun_Reload.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "d9ebcc8b-3d33-4621-8553-5ef10568e107",
+    "url": "sandbox:/mnt/data/EDEL_r11_Sniper.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "d9ebcc8b-3d33-4621-8553-5ef10568e107",
+    "url": "sandbox:/mnt/data/EDEL_r11_Sniper_Reload.mp4",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "d9ebcc8b-3d33-4621-8553-5ef10568e107",
+    "url": "sandbox:/mnt/data/EDEL_r11_StanceOverview.jpg",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "d9ebcc8b-3d33-4621-8553-5ef10568e107",
+    "url": "sandbox:/mnt/data/EDEL_WeaponSpecific_r11.blend",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "d9ebcc8b-3d33-4621-8553-5ef10568e107",
+    "url": "sandbox:/mnt/data/EDEL_r11_Source_References_Validation.zip",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "d9ebcc8b-3d33-4621-8553-5ef10568e107",
+    "url": "sandbox:/mnt/data/edel_r11/output/docs/READ_ME_KO.md",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "d9ebcc8b-3d33-4621-8553-5ef10568e107",
+    "url": "sandbox:/mnt/data/edel_r11/output/docs/REFERENCES_KO.md",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+    "turn": "d9ebcc8b-3d33-4621-8553-5ef10568e107",
+    "url": "sandbox:/mnt/data/edel_r11/output/DELIVERY_VERIFIED.json",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6ad19e97-fff8-83ee-a88e-b2ce41f587df",
+    "turn": "ac745371-b48c-4f97-b2e1-3511b9a5c562",
+    "url": "sandbox:/mnt/data/Liv_Tripo_4Views_SerinBody.zip",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6ad19e97-fff8-83ee-a88e-b2ce41f587df",
+    "turn": "ac745371-b48c-4f97-b2e1-3511b9a5c562",
+    "url": "sandbox:/mnt/data/Liv_Tripo_Base/Liv_01_front.png",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6ad19e97-fff8-83ee-a88e-b2ce41f587df",
+    "turn": "ac745371-b48c-4f97-b2e1-3511b9a5c562",
+    "url": "sandbox:/mnt/data/Liv_Tripo_Base/Liv_02_left.png",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6ad19e97-fff8-83ee-a88e-b2ce41f587df",
+    "turn": "ac745371-b48c-4f97-b2e1-3511b9a5c562",
+    "url": "sandbox:/mnt/data/Liv_Tripo_Base/Liv_03_back.png",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6ad19e97-fff8-83ee-a88e-b2ce41f587df",
+    "turn": "ac745371-b48c-4f97-b2e1-3511b9a5c562",
+    "url": "sandbox:/mnt/data/Liv_Tripo_Base/Liv_04_right.png",
+    "status": "reference_only_not_downloaded_or_verified"
+  },
+  {
+    "thread": "6ab1142e-9aac-83ee-8525-8814ed92ed3d",
+    "turn": "1514d4af-8c4d-4cbb-bcd6-7a05c8fc341a",
+    "url": "sandbox:/mnt/data/Extraction_A_Indoor_Furniture_Tripo_10.zip",
+    "status": "reference_only_not_downloaded_or_verified"
+  }
+]

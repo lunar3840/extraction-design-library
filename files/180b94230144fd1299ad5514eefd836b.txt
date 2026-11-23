@@ -1,0 +1,105 @@
+PASS unseen target cannot trigger combat
+PASS configured route permits generic patrol
+PASS first sight enters reaction delay
+PASS reaction delay not bypassed
+PASS attack waits for aim time
+PASS aim complete requests burst shot
+PASS burst interval throttles fire
+PASS confirmed combat target ignores unrelated noise
+PASS lost LOS immediately searches last-known without blind fire
+PASS lost grace expires target memory
+PASS search duration measured after arrival
+PASS expired search returns home
+PASS home arrival resumes patrol
+PASS audible noise initiates investigate
+PASS lower-priority noise blocked inside memory window
+PASS investigate reaction .45 sec
+PASS investigate transitions to search
+PASS lower-priority noise accepted after memory expiry
+PASS ranged actor retreats below preferred lower bound
+PASS empty magazine requests reload, not free shot
+PASS active reload blocks shooting
+PASS death is terminal and ignores new stimuli
+PASS source noise radii and priorities
+PASS sniper type weights cautious temperament highest
+PASS melee type weights aggressive temperament highest
+PASS fresh enemy perception starts with a weak full-health assumption, not a player stat query
+PASS own confirmed damage updates personal target health estimate and confidence
+PASS target condition memory is private to each enemy
+PASS visible medical action raises uncertainty without revealing recovered HP
+PASS invalid or time-reversed perception evidence is ignored
+PASS balanced low-health actors randomly choose both recovery and decisive assault
+PASS cautious wounded actor withdraws before treatment
+PASS safe wounded actor requests recovery without shooting
+PASS withdrawn actor keeps treating after breaking line of sight
+PASS recovered actor clears survival plan and re-enters combat
+PASS wounded actor without recovery commits to decisive rush
+PASS aggressive actor presses a target only when low-health perception is confident
+PASS uncertain target health estimate cannot trigger a finishing rush
+PASS aggressive actor can exploit a visibly observed treatment opening
+PASS cautious actors react to aimed gunfire with strong but fallible roll chance
+PASS finite enemy recovery restores health without exceeding maximum
+PASS AR_001 NPC loaded/reserve/fire conservation
+PASS AR_001 death cancels reload
+PASS AR_002 NPC loaded/reserve/fire conservation
+PASS AR_002 death cancels reload
+PASS AR_003 NPC loaded/reserve/fire conservation
+PASS AR_003 death cancels reload
+PASS AR_004 NPC loaded/reserve/fire conservation
+PASS AR_004 death cancels reload
+PASS AR_011 NPC loaded/reserve/fire conservation
+PASS AR_011 death cancels reload
+PASS AR_012 NPC loaded/reserve/fire conservation
+PASS AR_012 death cancels reload
+PASS AR_013 NPC loaded/reserve/fire conservation
+PASS AR_013 death cancels reload
+PASS KN_001 NPC loaded/reserve/fire conservation
+PASS KN_001 death cancels reload
+PASS KN_002 NPC loaded/reserve/fire conservation
+PASS KN_002 death cancels reload
+PASS KN_003 NPC loaded/reserve/fire conservation
+PASS KN_003 death cancels reload
+PASS KN_004 NPC loaded/reserve/fire conservation
+PASS KN_004 death cancels reload
+PASS KN_011 NPC loaded/reserve/fire conservation
+PASS KN_011 death cancels reload
+PASS P_001 NPC loaded/reserve/fire conservation
+PASS P_001 death cancels reload
+PASS P_002 NPC loaded/reserve/fire conservation
+PASS P_002 death cancels reload
+PASS P_003 NPC loaded/reserve/fire conservation
+PASS P_003 death cancels reload
+PASS P_004 NPC loaded/reserve/fire conservation
+PASS P_004 death cancels reload
+PASS P_011 NPC loaded/reserve/fire conservation
+PASS P_011 death cancels reload
+PASS SG_001 NPC loaded/reserve/fire conservation
+PASS SG_001 death cancels reload
+PASS SG_002 NPC loaded/reserve/fire conservation
+PASS SG_002 death cancels reload
+PASS SG_003 NPC loaded/reserve/fire conservation
+PASS SG_003 death cancels reload
+PASS SG_004 NPC loaded/reserve/fire conservation
+PASS SG_004 death cancels reload
+PASS SG_011 NPC loaded/reserve/fire conservation
+PASS SG_011 death cancels reload
+PASS SG_012 NPC loaded/reserve/fire conservation
+PASS SG_012 death cancels reload
+PASS SG_013 NPC loaded/reserve/fire conservation
+PASS SG_013 death cancels reload
+PASS SR_001 NPC loaded/reserve/fire conservation
+PASS SR_001 death cancels reload
+PASS SR_002 NPC loaded/reserve/fire conservation
+PASS SR_002 death cancels reload
+PASS SR_003 NPC loaded/reserve/fire conservation
+PASS SR_003 death cancels reload
+PASS SR_004 NPC loaded/reserve/fire conservation
+PASS SR_004 death cancels reload
+PASS SR_011 NPC loaded/reserve/fire conservation
+PASS SR_011 death cancels reload
+PASS SR_012 NPC loaded/reserve/fire conservation
+PASS SR_012 death cancels reload
+PASS SR_013 NPC loaded/reserve/fire conservation
+PASS SR_013 death cancels reload
+PASS NPC shotgun does not load before full reload completes (15-round source magazine)
+PASS NPC shotgun uses source full-magazine reload policy

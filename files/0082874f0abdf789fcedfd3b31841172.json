@@ -1,0 +1,33 @@
+{
+  "accepted": true,
+  "accepted_at_kst": "2026-11-21T05:32:48.059237+09:00",
+  "native_sha256": "fb092cefcf962954540e41b5e4320f7123484fee49da4294f07b25ca9b04ecd8",
+  "action": "GR_AR_013_A_Reload_Spatial01",
+  "independent_report_read_by_main": true,
+  "independent_report": "qa-independent/QA_REPORT.md",
+  "independent_report_sha256": "eae91bc1a9b4b0f209f613259dafaa94bc3470354aa39303b50a6996c05937b2",
+  "independent_core": "qa-independent/CORE_VERIFICATION.json",
+  "independent_core_sha256": "bd099a3e97a2e92b434de11a2dcd6d2543ff55509bd14d648e38ef5c16f80bb4",
+  "independent_verdict": "PASS_SCOPED_CONNECTION_GRIP_EXTERNAL_CLEARANCE__LOCAL_SKIN_FOLDS_REMAIN",
+  "accepted_scope": "Changed14windows+guards: connection/grip/events/external-clearance sampled review and3preview movies. Existing113actions/static data and outside-window curves preserved.",
+  "unique_base_samples": 1610,
+  "unique_adaptive_samples": 846,
+  "unique_total_samples": 2456,
+  "duplicates_excluded": 15,
+  "new_external_body_prop_face_magazine_defect_counts": {
+    "body_prop_surface_frames": 0,
+    "closed_inside_frames": 0,
+    "arm_face_frames": 0,
+    "new_mag_surface_frames": 0,
+    "new_mag_inside_frames": 0
+  },
+  "raw_local_skin_fold_samples_remaining": 1071,
+  "raw_local_skin_fold_unique_pairs_remaining": 272,
+  "whole_skin_intersection_free": false,
+  "legacy_fold_limitation": "Local elbow/clavicle skin-fold intersections and small boundary changes remain. Three-time same-triangle comparisons and10original-material diagnostic views do not assert that all272pairs match source exactly. Finite segment length is not penetration depth.",
+  "motion_limit": "SavedLINEAR approximation, finite-difference connection improvement; not exactC2 or subjective-naturalness certification. Added boundary acceleration difference3.934m/s²/SO3 92.273rad/s² at±.75nativeframe.",
+  "main_actually_viewed": "6overview/temporal boards+10elbow diagnostic images,recorded inMAIN_VISUAL_REVIEW_01.json.",
+  "continuous_realtime_video_observed": false,
+  "unity_applied": false,
+  "other_characters_or_actions_certified": false
+}

@@ -1,0 +1,15 @@
+{
+  "generatedByActualUIButton": true,
+  "savedByActualUIButton": true,
+  "clearedByActualUIButton": true,
+  "savedPrefab": "Assets/Escape/Art/SurfaceRuin/Generated/StageA_v12_RustyVehicle_Car_RuinPreview_WeatheringPrevie_Ruin_fff3b405538d/StageA_v12_RustyVehicle_Car_RuinPreview_WeatheringPrevie_Ruin.prefab",
+  "seed": "1017124179",
+  "previewOpenedNative": true,
+  "profileSaveLoadButtonsNativeTested": false,
+  "profilePersistenceVerifiedByRunner": true,
+  "nativeEvidence": [
+    "before_ui_preview.png",
+    "after_ui_preview.png"
+  ],
+  "fontWarning": "Initial Unicode minus target-removal button triggered Unity TextCore atlas assertion; replaced by ASCII X. Final UI uses X; no global font settings changed."
+}

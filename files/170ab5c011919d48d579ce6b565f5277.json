@@ -1,0 +1,614 @@
+{
+  "plan_sha256": "2d9495e3712e530499d28dafa524732a75416e38af280565696564228379be8c",
+  "facts_sha256": "7a9d02a2eb8aa05d9e53bfec5b11b1f7d1c745aebe4bcf9c0bc49fbfeea5e5d3",
+  "method": "0.5m raster; 4-neighbor land components; 8-neighbor A* with no diagonal corner-cut for crossing samples",
+  "counts": {
+    "masses": 4,
+    "passages": 1,
+    "routes": 9,
+    "bridges": 2,
+    "tests": 3
+  },
+  "schema_errors": [],
+  "open_passages_connectivity": {
+    "component_count": 1,
+    "components_at_least_10m2": [
+      190852.75
+    ],
+    "largest_free_area_fraction": 1.0,
+    "seed_components": {
+      "P1": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "P2": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "P3": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "P4": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "P5": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "P6": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "P7": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "P8": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "P9": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "B1": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "B2": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "B3": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "B4": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "X1": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "X2": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "X3": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "X4": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "X5": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "X6": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "X7": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      }
+    }
+  },
+  "shut_passages_connectivity": {
+    "component_count": 1,
+    "components_at_least_10m2": [
+      190714.5
+    ],
+    "largest_free_area_fraction": 1.0,
+    "seed_components": {
+      "P1": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "P2": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "P3": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "P4": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "P5": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "P6": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "P7": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "P8": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "P9": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "B1": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "B2": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "B3": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "B4": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "X1": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "X2": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "X3": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "X4": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "X5": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "X6": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      },
+      "X7": {
+        "component": 1,
+        "seed_offset_m": 0.0
+      }
+    }
+  },
+  "mass_existing_building_contacts": [],
+  "bridge_deck_proximity": [
+    {
+      "mass": "A",
+      "bridge": "BRIDGE_EAST",
+      "bridge_aabb": [
+        447.5626,
+        259.4441,
+        465.4374,
+        317.5559
+      ],
+      "nearest_mass_edge_to_bridge_aabb_m": 214.83,
+      "any_mass_inside_bridge_aabb_m2": 0.0
+    },
+    {
+      "mass": "B",
+      "bridge": "BRIDGE_EAST",
+      "bridge_aabb": [
+        447.5626,
+        259.4441,
+        465.4374,
+        317.5559
+      ],
+      "nearest_mass_edge_to_bridge_aabb_m": 265.88,
+      "any_mass_inside_bridge_aabb_m2": 0.0
+    },
+    {
+      "mass": "C",
+      "bridge": "BRIDGE_EAST",
+      "bridge_aabb": [
+        447.5626,
+        259.4441,
+        465.4374,
+        317.5559
+      ],
+      "nearest_mass_edge_to_bridge_aabb_m": 66.24,
+      "any_mass_inside_bridge_aabb_m2": 0.0
+    },
+    {
+      "mass": "D",
+      "bridge": "BRIDGE_EAST",
+      "bridge_aabb": [
+        447.5626,
+        259.4441,
+        465.4374,
+        317.5559
+      ],
+      "nearest_mass_edge_to_bridge_aabb_m": 102.56,
+      "any_mass_inside_bridge_aabb_m2": 0.0
+    },
+    {
+      "mass": "A",
+      "bridge": "BRIDGE_WEST",
+      "bridge_aabb": [
+        346.2359,
+        291.8339,
+        378.7641,
+        358.1661
+      ],
+      "nearest_mass_edge_to_bridge_aabb_m": 179.5,
+      "any_mass_inside_bridge_aabb_m2": 0.0
+    },
+    {
+      "mass": "B",
+      "bridge": "BRIDGE_WEST",
+      "bridge_aabb": [
+        346.2359,
+        291.8339,
+        378.7641,
+        358.1661
+      ],
+      "nearest_mass_edge_to_bridge_aabb_m": 178.61,
+      "any_mass_inside_bridge_aabb_m2": 0.0
+    },
+    {
+      "mass": "C",
+      "bridge": "BRIDGE_WEST",
+      "bridge_aabb": [
+        346.2359,
+        291.8339,
+        378.7641,
+        358.1661
+      ],
+      "nearest_mass_edge_to_bridge_aabb_m": 57.29,
+      "any_mass_inside_bridge_aabb_m2": 0.0
+    },
+    {
+      "mass": "D",
+      "bridge": "BRIDGE_WEST",
+      "bridge_aabb": [
+        346.2359,
+        291.8339,
+        378.7641,
+        358.1661
+      ],
+      "nearest_mass_edge_to_bridge_aabb_m": 5.23,
+      "any_mass_inside_bridge_aabb_m2": 0.0
+    }
+  ],
+  "anchor_mass_clearance": [
+    {
+      "anchor": "B1",
+      "mass_occupies_anchor": false,
+      "nearest_mass_m": ">20"
+    },
+    {
+      "anchor": "B2",
+      "mass_occupies_anchor": false,
+      "nearest_mass_m": ">20"
+    },
+    {
+      "anchor": "B3",
+      "mass_occupies_anchor": false,
+      "nearest_mass_m": ">20"
+    },
+    {
+      "anchor": "B4",
+      "mass_occupies_anchor": false,
+      "nearest_mass_m": ">20"
+    },
+    {
+      "anchor": "R1",
+      "mass_occupies_anchor": false,
+      "nearest_mass_m": ">20"
+    },
+    {
+      "anchor": "R2",
+      "mass_occupies_anchor": false,
+      "nearest_mass_m": 14.0
+    },
+    {
+      "anchor": "R3",
+      "mass_occupies_anchor": false,
+      "nearest_mass_m": ">20"
+    },
+    {
+      "anchor": "R4",
+      "mass_occupies_anchor": false,
+      "nearest_mass_m": ">20"
+    },
+    {
+      "anchor": "R5",
+      "mass_occupies_anchor": false,
+      "nearest_mass_m": ">20"
+    },
+    {
+      "anchor": "R6",
+      "mass_occupies_anchor": false,
+      "nearest_mass_m": ">20"
+    },
+    {
+      "anchor": "R7",
+      "mass_occupies_anchor": false,
+      "nearest_mass_m": ">20"
+    },
+    {
+      "anchor": "R8",
+      "mass_occupies_anchor": false,
+      "nearest_mass_m": ">20"
+    },
+    {
+      "anchor": "X1",
+      "mass_occupies_anchor": false,
+      "nearest_mass_m": ">20"
+    },
+    {
+      "anchor": "X2",
+      "mass_occupies_anchor": false,
+      "nearest_mass_m": ">20"
+    },
+    {
+      "anchor": "X3",
+      "mass_occupies_anchor": false,
+      "nearest_mass_m": ">20"
+    },
+    {
+      "anchor": "X4",
+      "mass_occupies_anchor": false,
+      "nearest_mass_m": ">20"
+    },
+    {
+      "anchor": "X5",
+      "mass_occupies_anchor": false,
+      "nearest_mass_m": ">20"
+    },
+    {
+      "anchor": "X6",
+      "mass_occupies_anchor": false,
+      "nearest_mass_m": ">20"
+    },
+    {
+      "anchor": "X7",
+      "mass_occupies_anchor": false,
+      "nearest_mass_m": ">20"
+    }
+  ],
+  "route_intersections": [
+    {
+      "route": "N1",
+      "proposed_route_type": "main",
+      "sample_count": 648,
+      "blocked_samples": 0,
+      "existing_building_samples": 0,
+      "first_blocked_at": null
+    },
+    {
+      "route": "N2",
+      "proposed_route_type": "main",
+      "sample_count": 432,
+      "blocked_samples": 0,
+      "existing_building_samples": 0,
+      "first_blocked_at": null
+    },
+    {
+      "route": "W1",
+      "proposed_route_type": "alternate",
+      "sample_count": 249,
+      "blocked_samples": 0,
+      "existing_building_samples": 0,
+      "first_blocked_at": null
+    },
+    {
+      "route": "W2",
+      "proposed_route_type": "alternate",
+      "sample_count": 168,
+      "blocked_samples": 0,
+      "existing_building_samples": 0,
+      "first_blocked_at": null
+    },
+    {
+      "route": "E1",
+      "proposed_route_type": "alternate",
+      "sample_count": 424,
+      "blocked_samples": 0,
+      "existing_building_samples": 0,
+      "first_blocked_at": null
+    },
+    {
+      "route": "E2",
+      "proposed_route_type": "main",
+      "sample_count": 217,
+      "blocked_samples": 0,
+      "existing_building_samples": 0,
+      "first_blocked_at": null
+    },
+    {
+      "route": "S1",
+      "proposed_route_type": "main",
+      "sample_count": 576,
+      "blocked_samples": 0,
+      "existing_building_samples": 0,
+      "first_blocked_at": null
+    },
+    {
+      "route": "B1",
+      "proposed_route_type": "bridge",
+      "sample_count": 463,
+      "blocked_samples": 0,
+      "existing_building_samples": 0,
+      "first_blocked_at": null
+    },
+    {
+      "route": "S2",
+      "proposed_route_type": "alternate",
+      "sample_count": 97,
+      "blocked_samples": 0,
+      "existing_building_samples": 0,
+      "first_blocked_at": null
+    }
+  ],
+  "route_band_intersections": [
+    {
+      "route": "N1",
+      "proposed_width_m": 7,
+      "mass_overlap_m2": 0.0,
+      "water_overlap_m2": 0.0,
+      "saved_building_aabb_overlap_m2": 0.0,
+      "building_details": []
+    },
+    {
+      "route": "N2",
+      "proposed_width_m": 7,
+      "mass_overlap_m2": 0.0,
+      "water_overlap_m2": 0.0,
+      "saved_building_aabb_overlap_m2": 0.0,
+      "building_details": []
+    },
+    {
+      "route": "W1",
+      "proposed_width_m": 4,
+      "mass_overlap_m2": 0.0,
+      "water_overlap_m2": 0.0,
+      "saved_building_aabb_overlap_m2": 0.0,
+      "building_details": []
+    },
+    {
+      "route": "W2",
+      "proposed_width_m": 4,
+      "mass_overlap_m2": 0.0,
+      "water_overlap_m2": 0.0,
+      "saved_building_aabb_overlap_m2": 0.0,
+      "building_details": []
+    },
+    {
+      "route": "E1",
+      "proposed_width_m": 4,
+      "mass_overlap_m2": 0.0,
+      "water_overlap_m2": 0.0,
+      "saved_building_aabb_overlap_m2": 0.0,
+      "building_details": []
+    },
+    {
+      "route": "E2",
+      "proposed_width_m": 7,
+      "mass_overlap_m2": 0.0,
+      "water_overlap_m2": 0.0,
+      "saved_building_aabb_overlap_m2": 0.0,
+      "building_details": []
+    },
+    {
+      "route": "S1",
+      "proposed_width_m": 7,
+      "mass_overlap_m2": 0.0,
+      "water_overlap_m2": 0.0,
+      "saved_building_aabb_overlap_m2": 0.0,
+      "building_details": []
+    },
+    {
+      "route": "B1",
+      "proposed_width_m": 5,
+      "mass_overlap_m2": 0.0,
+      "water_overlap_m2": 19.75,
+      "saved_building_aabb_overlap_m2": 0.0,
+      "building_details": []
+    },
+    {
+      "route": "S2",
+      "proposed_width_m": 4,
+      "mass_overlap_m2": 0.0,
+      "water_overlap_m2": 0.0,
+      "saved_building_aabb_overlap_m2": 0.0,
+      "building_details": []
+    }
+  ],
+  "crossing_tests": [
+    {
+      "id": "T1",
+      "name": "능선을 가로지르는 북측 직선",
+      "target_mass": "A",
+      "direct_m": 74.33,
+      "direct_blocked_by_mass_cells": 70,
+      "saved_building_and_water_baseline_path": {
+        "path_m": 80.36,
+        "start_offset_m": 0.0,
+        "end_offset_m": 0.0
+      },
+      "open_passage_path": {
+        "path_m": 85.33,
+        "start_offset_m": 0.0,
+        "end_offset_m": 0.0
+      },
+      "shut_passage_path": {
+        "path_m": 130.5,
+        "start_offset_m": 0.0,
+        "end_offset_m": 0.0
+      },
+      "open_detour_ratio": 1.148,
+      "shut_detour_ratio": 1.756,
+      "open_extra_over_baseline_m": 4.97
+    },
+    {
+      "id": "T2",
+      "name": "작업장 정면 직선",
+      "target_mass": "B",
+      "direct_m": 35.0,
+      "direct_blocked_by_mass_cells": 28,
+      "saved_building_and_water_baseline_path": {
+        "path_m": 35.0,
+        "start_offset_m": 0.0,
+        "end_offset_m": 0.0
+      },
+      "open_passage_path": {
+        "path_m": 61.25,
+        "start_offset_m": 0.0,
+        "end_offset_m": 0.0
+      },
+      "shut_passage_path": {
+        "path_m": 61.25,
+        "start_offset_m": 0.0,
+        "end_offset_m": 0.0
+      },
+      "open_detour_ratio": 1.75,
+      "shut_detour_ratio": 1.75,
+      "open_extra_over_baseline_m": 26.25
+    },
+    {
+      "id": "T3",
+      "name": "중앙에서 창고 방향 직선",
+      "target_mass": "C",
+      "direct_m": 79.16,
+      "direct_blocked_by_mass_cells": 64,
+      "saved_building_and_water_baseline_path": {
+        "path_m": 81.07,
+        "start_offset_m": 0.0,
+        "end_offset_m": 0.0
+      },
+      "open_passage_path": {
+        "path_m": 112.74,
+        "start_offset_m": 0.0,
+        "end_offset_m": 0.0
+      },
+      "shut_passage_path": {
+        "path_m": 112.74,
+        "start_offset_m": 0.0,
+        "end_offset_m": 0.0
+      },
+      "open_detour_ratio": 1.424,
+      "shut_detour_ratio": 1.424,
+      "open_extra_over_baseline_m": 31.67
+    }
+  ],
+  "r_spawn_eligible_count": 0,
+  "scope_limit": "Planar proposal only: no Unity terrain height, actual collider, NavMesh, actor/AI motion, vision, or V27 new-asset collider test"
+}

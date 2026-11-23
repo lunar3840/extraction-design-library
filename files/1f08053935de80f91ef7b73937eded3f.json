@@ -1,0 +1,41 @@
+{
+  "work_date_kst": "2026-11-19",
+  "pdf_created_at_kst": "2026-11-19T19:58:22+09:00",
+  "document_pages": 40,
+  "page_size": [
+    1920,
+    1080
+  ],
+  "pdf_bytes": 16822846,
+  "pdf_sha256": "127f2fbfa8942668bb2901c3098bdca8b53fe8604e4602b21eb5dfcffeb1f9bf",
+  "native_pdf_export": true,
+  "quality": "high / sRGB",
+  "page_order_verified": true,
+  "rendered_pages": 40,
+  "visual_review": "40쪽 전체 렌더와 페이지 순서 확인 · 결론·영상·설문 페이지 확대 검수 · 누락·잘림·문자 깨짐 없음",
+  "bounds_issues": 0,
+  "text_overlaps": 0,
+  "footer_conflicts": 0,
+  "protected_survey_differences_in_structure_revision": [],
+  "remaining_personal_wish_wording": [],
+  "youtuber_credit_pages": [
+    7,
+    15,
+    16,
+    17
+  ],
+  "survey": {
+    "people": 7,
+    "scored_experiences": 83,
+    "paired_people": 4,
+    "paired_experiences": 60,
+    "urgent_tight_operation_grid": 3.3,
+    "urgent_tight_operation_uniform": 6.5
+  },
+  "verification_limits": [
+    "설문은 과거 경험에 대한 주관적 평가이며 통제 실험이나 작업 시간 실측이 아님",
+    "게임별 숙련도와 정보 표시·중첩 규칙이 다르므로 형태 하나의 인과 효과로 단정하지 않음",
+    "이번 수집에서는 Figma 편집이나 영상 재시청·재채점·설문 재수집을 진행하지 않음",
+    "라이브러리 파일 수신·색인 반영·공개 열람 검증은 게시 담당 채팅의 후속 범위"
+  ]
+}

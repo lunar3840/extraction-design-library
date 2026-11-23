@@ -1,0 +1,10 @@
+Weapon modding integrated rule checks
+PASS WeaponAttachmentCoreChecks
+PASS WeaponAttachmentInventoryChecks
+PASS WeaponModdingIntegrationChecks
+PASS WeaponChecks
+PASS InventoryChecks
+PASS TetrisInventoryChecks
+PASS BasecampChecks
+PASS SessionChecks
+RESULT PASS

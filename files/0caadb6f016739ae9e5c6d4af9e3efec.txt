@@ -1,0 +1,1 @@
+PASS actual isolated inventory Move; quiet=0.059703 -> 0.1735756; deadline=10.27585 unchanged

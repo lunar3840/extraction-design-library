@@ -1,0 +1,22 @@
+START phase=before_reconstructed feedbackPresent=False unity=6000.1.0f1 screen=1280x720
+PASS miss-fired 
+PASS miss-damage 
+PASS body-fired 
+PASS body-real-hit 
+PASS head-fired 
+PASS head-real-hit 
+PASS kill-fired 
+PASS kill-real-hit 
+PASS dead-target-fired 
+PASS dead-target-status 
+PASS protected-target-status 
+PASS pellets-real-hit 
+PASS mixed-pellets-real-regions 
+PASS actual-npc-attack-fired 
+PASS duplicate-status 
+PASS armor-absorbed-ledger 
+PASS paused-fire-blocked 
+PASS inventory-fire-blocked 
+PASS lethal-player-state 
+AUDIO frames=1126400 nonZero=0 peak=0
+COMPLETE failures=0 baseline=True allCapturesUseSameCamera=true

@@ -1,0 +1,1781 @@
+{
+    "version": "1.1",
+    "targetBuildingCount": 39,
+    "placedBuildingCount": 39,
+    "activeRendererCount": 495,
+    "activeColliderCount": 362,
+    "placementStats": {
+        "Requested": 39,
+        "Placed": 39,
+        "Shortfall": 0,
+        "CandidatesTested": 12651,
+        "ZoneRejected": 6952,
+        "ExistingEnvironmentRejected": 1099,
+        "DistrictSpacingRejected": 583,
+        "TerrainRangeRejected": 2383,
+        "LocalSlopeRejected": 1594,
+        "DoorGradeRejected": 1,
+        "NWClinicPlaced": 4,
+        "WMaintPlaced": 9,
+        "SWRuinsPlaced": 14,
+        "SScrapPlaced": 6,
+        "EUtilityPlaced": 6
+    },
+    "buildings": [
+        {
+            "id": "NWC_01",
+            "semanticId": "ENV11_BUILDING_NWC_01",
+            "region": "NW_CLINIC",
+            "style": "UtilityHut",
+            "mapCenter": {
+                "x": 124.39698028564453,
+                "y": 33.46534729003906
+            },
+            "footprint": {
+                "x": 9.067058563232422,
+                "y": 8.231779098510743
+            },
+            "yawDegrees": -12.904783248901368,
+            "doorWidth": 2.2667646408081056,
+            "centerElevation": 5.111468315124512,
+            "minimumElevation": 4.907503128051758,
+            "maximumElevation": 5.534563064575195,
+            "terrainHeightRange": 0.6270599365234375,
+            "clusterSeed": {
+                "x": 137.0,
+                "y": 37.0
+            },
+            "candidateAttempt": 37,
+            "doorMapPoints": [
+                {
+                    "x": 123.47777557373047,
+                    "y": 29.453414916992189
+                },
+                {
+                    "x": 125.3161849975586,
+                    "y": 37.47727966308594
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 123.14277648925781,
+                    "y": 27.991300582885743
+                },
+                {
+                    "x": 125.65118408203125,
+                    "y": 38.93939208984375
+                }
+            ]
+        },
+        {
+            "id": "NWC_02",
+            "semanticId": "ENV11_BUILDING_NWC_02",
+            "region": "NW_CLINIC",
+            "style": "UtilityHut",
+            "mapCenter": {
+                "x": 32.2178955078125,
+                "y": 23.58526611328125
+            },
+            "footprint": {
+                "x": 13.58185863494873,
+                "y": 8.43905258178711
+            },
+            "yawDegrees": -17.996231079101564,
+            "doorWidth": 3.200000047683716,
+            "centerElevation": 4.726506233215332,
+            "minimumElevation": 4.5212507247924809,
+            "maximumElevation": 4.7766289710998539,
+            "terrainHeightRange": 0.25537824630737307,
+            "clusterSeed": {
+                "x": 38.0,
+                "y": 33.0
+            },
+            "candidateAttempt": 19,
+            "doorMapPoints": [
+                {
+                    "x": 30.91425323486328,
+                    "y": 19.572172164916993
+                },
+                {
+                    "x": 33.52153778076172,
+                    "y": 27.598360061645509
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 30.450822830200197,
+                    "y": 18.145557403564454
+                },
+                {
+                    "x": 33.98497009277344,
+                    "y": 29.024974822998048
+                }
+            ]
+        },
+        {
+            "id": "NWC_03",
+            "semanticId": "ENV11_BUILDING_NWC_03",
+            "region": "NW_CLINIC",
+            "style": "ClinicAnnex",
+            "mapCenter": {
+                "x": 127.03607177734375,
+                "y": 98.59671020507813
+            },
+            "footprint": {
+                "x": 11.567602157592774,
+                "y": 8.792210578918457
+            },
+            "yawDegrees": -2.8807125091552736,
+            "doorWidth": 2.8919005393981935,
+            "centerElevation": 4.140023231506348,
+            "minimumElevation": 4.002668380737305,
+            "maximumElevation": 4.514196872711182,
+            "terrainHeightRange": 0.511528491973877,
+            "clusterSeed": {
+                "x": 142.0,
+                "y": 94.0
+            },
+            "candidateAttempt": 56,
+            "doorMapPoints": [
+                {
+                    "x": 126.81513977050781,
+                    "y": 94.20616149902344
+                },
+                {
+                    "x": 127.25700378417969,
+                    "y": 102.98725891113281
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 126.73975372314453,
+                    "y": 92.70805358886719
+                },
+                {
+                    "x": 127.33238983154297,
+                    "y": 104.48536682128906
+                }
+            ]
+        },
+        {
+            "id": "WM_01",
+            "semanticId": "ENV11_BUILDING_WM_01",
+            "region": "W_MAINT",
+            "style": "Workshop",
+            "mapCenter": {
+                "x": 96.89404296875,
+                "y": 236.61602783203126
+            },
+            "footprint": {
+                "x": 14.97089672088623,
+                "y": 9.9638090133667
+            },
+            "yawDegrees": -1.1849431991577149,
+            "doorWidth": 3.200000047683716,
+            "centerElevation": 0.44985973834991457,
+            "minimumElevation": 0.2902780771255493,
+            "maximumElevation": 0.6312679052352905,
+            "terrainHeightRange": 0.3409898281097412,
+            "clusterSeed": {
+                "x": 91.0,
+                "y": 243.0
+            },
+            "candidateAttempt": 4,
+            "doorMapPoints": [
+                {
+                    "x": 96.791015625,
+                    "y": 231.63519287109376
+                },
+                {
+                    "x": 96.9970703125,
+                    "y": 241.59686279296876
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 96.76000213623047,
+                    "y": 230.13551330566407
+                },
+                {
+                    "x": 97.02808380126953,
+                    "y": 243.09654235839845
+                }
+            ]
+        },
+        {
+            "id": "WM_02",
+            "semanticId": "ENV11_BUILDING_WM_02",
+            "region": "W_MAINT",
+            "style": "UtilityHut",
+            "mapCenter": {
+                "x": 123.51805114746094,
+                "y": 272.210693359375
+            },
+            "footprint": {
+                "x": 17.77483558654785,
+                "y": 9.392938613891602
+            },
+            "yawDegrees": 19.698612213134767,
+            "doorWidth": 3.200000047683716,
+            "centerElevation": 0.0246491227298975,
+            "minimumElevation": 0.0025141576770693065,
+            "maximumElevation": 0.0694187805056572,
+            "terrainHeightRange": 0.06690461933612824,
+            "clusterSeed": {
+                "x": 116.0,
+                "y": 274.0
+            },
+            "candidateAttempt": 6,
+            "doorMapPoints": [
+                {
+                    "x": 125.10110473632813,
+                    "y": 267.7890625
+                },
+                {
+                    "x": 121.93499755859375,
+                    "y": 276.63232421875
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 125.6067123413086,
+                    "y": 266.3768615722656
+                },
+                {
+                    "x": 121.42938995361328,
+                    "y": 278.0445251464844
+                }
+            ]
+        },
+        {
+            "id": "WM_03",
+            "semanticId": "ENV11_BUILDING_WM_03",
+            "region": "W_MAINT",
+            "style": "OpenShed",
+            "mapCenter": {
+                "x": 160.47320556640626,
+                "y": 162.4239501953125
+            },
+            "footprint": {
+                "x": 13.0,
+                "y": 11.418676376342774
+            },
+            "yawDegrees": 8.523332595825196,
+            "doorWidth": 3.200000047683716,
+            "centerElevation": 1.7362143993377686,
+            "minimumElevation": 1.5713623762130738,
+            "maximumElevation": 1.977722406387329,
+            "terrainHeightRange": 0.40636003017425539,
+            "clusterSeed": {
+                "x": 151.0,
+                "y": 151.0
+            },
+            "candidateAttempt": 24,
+            "doorMapPoints": [
+                {
+                    "x": 161.31939697265626,
+                    "y": 156.7776641845703
+                },
+                {
+                    "x": 159.62701416015626,
+                    "y": 168.0702362060547
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 161.54171752929688,
+                    "y": 155.2942352294922
+                },
+                {
+                    "x": 159.40469360351563,
+                    "y": 169.5536651611328
+                }
+            ]
+        },
+        {
+            "id": "WM_04",
+            "semanticId": "ENV11_BUILDING_WM_04",
+            "region": "W_MAINT",
+            "style": "Workshop",
+            "mapCenter": {
+                "x": 140.8729248046875,
+                "y": 250.29176330566407
+            },
+            "footprint": {
+                "x": 11.988908767700196,
+                "y": 9.603734970092774
+            },
+            "yawDegrees": 6.989542007446289,
+            "doorWidth": 2.997227191925049,
+            "centerElevation": 0.9037488102912903,
+            "minimumElevation": 0.6170801520347595,
+            "maximumElevation": 0.9890291094779968,
+            "terrainHeightRange": 0.3719489574432373,
+            "clusterSeed": {
+                "x": 151.0,
+                "y": 247.0
+            },
+            "candidateAttempt": 2,
+            "doorMapPoints": [
+                {
+                    "x": 141.45726013183595,
+                    "y": 245.52557373046876
+                },
+                {
+                    "x": 140.28858947753907,
+                    "y": 255.05795288085938
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 141.63978576660157,
+                    "y": 244.03672790527345
+                },
+                {
+                    "x": 140.10606384277345,
+                    "y": 256.5467834472656
+                }
+            ]
+        },
+        {
+            "id": "WM_05",
+            "semanticId": "ENV11_BUILDING_WM_05",
+            "region": "W_MAINT",
+            "style": "UtilityHut",
+            "mapCenter": {
+                "x": 40.35645294189453,
+                "y": 226.72824096679688
+            },
+            "footprint": {
+                "x": 11.80142593383789,
+                "y": 11.567769050598145
+            },
+            "yawDegrees": 15.210550308227539,
+            "doorWidth": 2.9503564834594728,
+            "centerElevation": 0.4486792981624603,
+            "minimumElevation": 0.35996609926223757,
+            "maximumElevation": 0.5488809943199158,
+            "terrainHeightRange": 0.18891489505767823,
+            "clusterSeed": {
+                "x": 45.0,
+                "y": 226.0
+            },
+            "candidateAttempt": 23,
+            "doorMapPoints": [
+                {
+                    "x": 41.87395095825195,
+                    "y": 221.14697265625
+                },
+                {
+                    "x": 38.83895492553711,
+                    "y": 232.30950927734376
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 42.26750183105469,
+                    "y": 219.69952392578126
+                },
+                {
+                    "x": 38.445404052734378,
+                    "y": 233.7569580078125
+                }
+            ]
+        },
+        {
+            "id": "WM_06",
+            "semanticId": "ENV11_BUILDING_WM_06",
+            "region": "W_MAINT",
+            "style": "Workshop",
+            "mapCenter": {
+                "x": 38.23811340332031,
+                "y": 275.856689453125
+            },
+            "footprint": {
+                "x": 17.10651397705078,
+                "y": 9.864763259887696
+            },
+            "yawDegrees": 6.444086074829102,
+            "doorWidth": 3.200000047683716,
+            "centerElevation": 0.012656748294830323,
+            "minimumElevation": 0.000008799020179139916,
+            "maximumElevation": 0.06330176442861557,
+            "terrainHeightRange": 0.0632929652929306,
+            "clusterSeed": {
+                "x": 50.0,
+                "y": 274.0
+            },
+            "candidateAttempt": 49,
+            "doorMapPoints": [
+                {
+                    "x": 38.791690826416019,
+                    "y": 270.9554748535156
+                },
+                {
+                    "x": 37.68453598022461,
+                    "y": 280.7579040527344
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 38.96004104614258,
+                    "y": 269.4649353027344
+                },
+                {
+                    "x": 37.51618576049805,
+                    "y": 282.2484436035156
+                }
+            ]
+        },
+        {
+            "id": "WM_07",
+            "semanticId": "ENV11_BUILDING_WM_07",
+            "region": "W_MAINT",
+            "style": "Workshop",
+            "mapCenter": {
+                "x": 45.64918899536133,
+                "y": 146.02496337890626
+            },
+            "footprint": {
+                "x": 12.015681266784668,
+                "y": 9.880566596984864
+            },
+            "yawDegrees": 7.741825103759766,
+            "doorWidth": 3.003920316696167,
+            "centerElevation": 1.1932963132858277,
+            "minimumElevation": 1.085113525390625,
+            "maximumElevation": 1.5320149660110474,
+            "terrainHeightRange": 0.44690144062042239,
+            "clusterSeed": {
+                "x": 44.0,
+                "y": 132.0
+            },
+            "candidateAttempt": 130,
+            "doorMapPoints": [
+                {
+                    "x": 46.314693450927737,
+                    "y": 141.1297149658203
+                },
+                {
+                    "x": 44.98368453979492,
+                    "y": 150.9202117919922
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 46.51675796508789,
+                    "y": 139.6433868408203
+                },
+                {
+                    "x": 44.781620025634769,
+                    "y": 152.4065399169922
+                }
+            ]
+        },
+        {
+            "id": "WM_08",
+            "semanticId": "ENV11_BUILDING_WM_08",
+            "region": "W_MAINT",
+            "style": "UtilityHut",
+            "mapCenter": {
+                "x": 78.99589538574219,
+                "y": 243.37513732910157
+            },
+            "footprint": {
+                "x": 9.619635581970215,
+                "y": 9.08410358428955
+            },
+            "yawDegrees": -5.521404266357422,
+            "doorWidth": 2.4049088954925539,
+            "centerElevation": 0.2696845829486847,
+            "minimumElevation": 0.21896187961101533,
+            "maximumElevation": 0.34395870566368105,
+            "terrainHeightRange": 0.12499682605266571,
+            "clusterSeed": {
+                "x": 91.0,
+                "y": 243.0
+            },
+            "candidateAttempt": 237,
+            "doorMapPoints": [
+                {
+                    "x": 78.55886840820313,
+                    "y": 238.85415649414063
+                },
+                {
+                    "x": 79.43292236328125,
+                    "y": 247.8961181640625
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 78.41454315185547,
+                    "y": 237.36111450195313
+                },
+                {
+                    "x": 79.5772476196289,
+                    "y": 249.38916015625
+                }
+            ]
+        },
+        {
+            "id": "WM_09",
+            "semanticId": "ENV11_BUILDING_WM_09",
+            "region": "W_MAINT",
+            "style": "Workshop",
+            "mapCenter": {
+                "x": 157.03480529785157,
+                "y": 260.62371826171877
+            },
+            "footprint": {
+                "x": 10.632128715515137,
+                "y": 10.111228942871094
+            },
+            "yawDegrees": 13.640304565429688,
+            "doorWidth": 2.658032178878784,
+            "centerElevation": 0.5721578001976013,
+            "minimumElevation": 0.31455597281455996,
+            "maximumElevation": 0.8337703347206116,
+            "terrainHeightRange": 0.519214391708374,
+            "clusterSeed": {
+                "x": 151.0,
+                "y": 247.0
+            },
+            "candidateAttempt": 349,
+            "doorMapPoints": [
+                {
+                    "x": 158.22705078125,
+                    "y": 255.710693359375
+                },
+                {
+                    "x": 155.84255981445313,
+                    "y": 265.5367431640625
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 158.58079528808595,
+                    "y": 254.2530059814453
+                },
+                {
+                    "x": 155.4888153076172,
+                    "y": 266.99444580078127
+                }
+            ]
+        },
+        {
+            "id": "SWR_01",
+            "semanticId": "ENV11_BUILDING_SWR_01",
+            "region": "SW_RUINS",
+            "style": "RuinedHome",
+            "mapCenter": {
+                "x": 85.4458999633789,
+                "y": 352.1919250488281
+            },
+            "footprint": {
+                "x": 9.219311714172364,
+                "y": 8.977029800415039
+            },
+            "yawDegrees": -9.405366897583008,
+            "doorWidth": 2.304827928543091,
+            "centerElevation": 0.041171252727508548,
+            "minimumElevation": 0.0046669491566717628,
+            "maximumElevation": 0.08627945929765701,
+            "terrainHeightRange": 0.08161251246929169,
+            "clusterSeed": {
+                "x": 75.0,
+                "y": 350.0
+            },
+            "candidateAttempt": 6,
+            "doorMapPoints": [
+                {
+                    "x": 84.71239471435547,
+                    "y": 347.7637634277344
+                },
+                {
+                    "x": 86.17940521240235,
+                    "y": 356.6200866699219
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 84.46726989746094,
+                    "y": 346.2839050292969
+                },
+                {
+                    "x": 86.42453002929688,
+                    "y": 358.0999450683594
+                }
+            ]
+        },
+        {
+            "id": "SWR_02",
+            "semanticId": "ENV11_BUILDING_SWR_02",
+            "region": "SW_RUINS",
+            "style": "RuinedHome",
+            "mapCenter": {
+                "x": 95.6806640625,
+                "y": 383.5414123535156
+            },
+            "footprint": {
+                "x": 12.814151763916016,
+                "y": 9.053744316101075
+            },
+            "yawDegrees": -3.4024906158447267,
+            "doorWidth": 3.200000047683716,
+            "centerElevation": 0.01072030607610941,
+            "minimumElevation": -0.0066309464164078239,
+            "maximumElevation": 0.03765932843089104,
+            "terrainHeightRange": 0.04429027438163757,
+            "clusterSeed": {
+                "x": 88.0,
+                "y": 379.0
+            },
+            "candidateAttempt": 9,
+            "doorMapPoints": [
+                {
+                    "x": 95.41199493408203,
+                    "y": 379.02252197265627
+                },
+                {
+                    "x": 95.94933319091797,
+                    "y": 388.060302734375
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 95.32296752929688,
+                    "y": 377.5251770019531
+                },
+                {
+                    "x": 96.03836059570313,
+                    "y": 389.5576477050781
+                }
+            ]
+        },
+        {
+            "id": "SWR_03",
+            "semanticId": "ENV11_BUILDING_SWR_03",
+            "region": "SW_RUINS",
+            "style": "RuinedHome",
+            "mapCenter": {
+                "x": 154.41323852539063,
+                "y": 375.1809387207031
+            },
+            "footprint": {
+                "x": 13.633232116699219,
+                "y": 8.813274383544922
+            },
+            "yawDegrees": -12.744086265563965,
+            "doorWidth": 3.200000047683716,
+            "centerElevation": 0.17174029350280763,
+            "minimumElevation": 0.14354214072227479,
+            "maximumElevation": 0.1977325975894928,
+            "terrainHeightRange": 0.05419045686721802,
+            "clusterSeed": {
+                "x": 153.0,
+                "y": 377.0
+            },
+            "candidateAttempt": 9,
+            "doorMapPoints": [
+                {
+                    "x": 153.44114685058595,
+                    "y": 370.88287353515627
+                },
+                {
+                    "x": 155.3853302001953,
+                    "y": 379.47900390625
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 153.11026000976563,
+                    "y": 369.4197998046875
+                },
+                {
+                    "x": 155.71621704101563,
+                    "y": 380.94207763671877
+                }
+            ]
+        },
+        {
+            "id": "SWR_04",
+            "semanticId": "ENV11_BUILDING_SWR_04",
+            "region": "SW_RUINS",
+            "style": "RowHouse",
+            "mapCenter": {
+                "x": 20.814834594726564,
+                "y": 260.11456298828127
+            },
+            "footprint": {
+                "x": 11.770257949829102,
+                "y": 11.468085289001465
+            },
+            "yawDegrees": 2.1364479064941408,
+            "doorWidth": 2.9425644874572756,
+            "centerElevation": 0.052182335406541827,
+            "minimumElevation": 0.001621696981601417,
+            "maximumElevation": 0.12394378334283829,
+            "terrainHeightRange": 0.12232208997011185,
+            "clusterSeed": {
+                "x": 25.0,
+                "y": 270.0
+            },
+            "candidateAttempt": 9,
+            "doorMapPoints": [
+                {
+                    "x": 21.028596878051759,
+                    "y": 254.38450622558595
+                },
+                {
+                    "x": 20.601072311401368,
+                    "y": 265.8446044921875
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 21.084514617919923,
+                    "y": 252.8855438232422
+                },
+                {
+                    "x": 20.545154571533204,
+                    "y": 267.34356689453127
+                }
+            ]
+        },
+        {
+            "id": "SWR_05",
+            "semanticId": "ENV11_BUILDING_SWR_05",
+            "region": "SW_RUINS",
+            "style": "RowHouse",
+            "mapCenter": {
+                "x": 165.54879760742188,
+                "y": 276.4925842285156
+            },
+            "footprint": {
+                "x": 9.640442848205567,
+                "y": 8.557785987854004
+            },
+            "yawDegrees": -5.235974311828613,
+            "doorWidth": 2.4101107120513918,
+            "centerElevation": 0.1555926352739334,
+            "minimumElevation": 0.02986435405910015,
+            "maximumElevation": 0.3711116909980774,
+            "terrainHeightRange": 0.3412473499774933,
+            "clusterSeed": {
+                "x": 167.0,
+                "y": 282.0
+            },
+            "candidateAttempt": 23,
+            "doorMapPoints": [
+                {
+                    "x": 165.15830993652345,
+                    "y": 272.2315368652344
+                },
+                {
+                    "x": 165.9392852783203,
+                    "y": 280.7536315917969
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 165.02142333984376,
+                    "y": 270.73779296875
+                },
+                {
+                    "x": 166.076171875,
+                    "y": 282.24737548828127
+                }
+            ]
+        },
+        {
+            "id": "SWR_06",
+            "semanticId": "ENV11_BUILDING_SWR_06",
+            "region": "SW_RUINS",
+            "style": "RuinedHome",
+            "mapCenter": {
+                "x": 140.83880615234376,
+                "y": 310.268310546875
+            },
+            "footprint": {
+                "x": 13.545783996582032,
+                "y": 10.567241668701172
+            },
+            "yawDegrees": -17.693260192871095,
+            "doorWidth": 3.200000047683716,
+            "centerElevation": 0.00889778882265091,
+            "minimumElevation": -0.0005775748868472874,
+            "maximumElevation": 0.05845958739519119,
+            "terrainHeightRange": 0.059037163853645328,
+            "clusterSeed": {
+                "x": 151.0,
+                "y": 314.0
+            },
+            "candidateAttempt": 0,
+            "doorMapPoints": [
+                {
+                    "x": 139.23300170898438,
+                    "y": 305.234619140625
+                },
+                {
+                    "x": 142.44461059570313,
+                    "y": 315.302001953125
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 138.77711486816407,
+                    "y": 303.8055725097656
+                },
+                {
+                    "x": 142.90049743652345,
+                    "y": 316.7310485839844
+                }
+            ]
+        },
+        {
+            "id": "SWR_07",
+            "semanticId": "ENV11_BUILDING_SWR_07",
+            "region": "SW_RUINS",
+            "style": "RuinedHome",
+            "mapCenter": {
+                "x": 175.0314178466797,
+                "y": 343.2703552246094
+            },
+            "footprint": {
+                "x": 12.964725494384766,
+                "y": 8.250532150268555
+            },
+            "yawDegrees": -11.776548385620118,
+            "doorWidth": 3.200000047683716,
+            "centerElevation": -0.07267173379659653,
+            "minimumElevation": -0.0857415720820427,
+            "maximumElevation": -0.02871846966445446,
+            "terrainHeightRange": 0.057023100554943088,
+            "clusterSeed": {
+                "x": 166.0,
+                "y": 347.0
+            },
+            "candidateAttempt": 14,
+            "doorMapPoints": [
+                {
+                    "x": 174.18946838378907,
+                    "y": 339.23193359375
+                },
+                {
+                    "x": 175.8733673095703,
+                    "y": 347.30877685546877
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 173.88333129882813,
+                    "y": 337.76348876953127
+                },
+                {
+                    "x": 176.17950439453126,
+                    "y": 348.7772216796875
+                }
+            ]
+        },
+        {
+            "id": "SWR_08",
+            "semanticId": "ENV11_BUILDING_SWR_08",
+            "region": "SW_RUINS",
+            "style": "RowHouse",
+            "mapCenter": {
+                "x": 32.277164459228519,
+                "y": 382.3467102050781
+            },
+            "footprint": {
+                "x": 12.361138343811036,
+                "y": 8.497350692749024
+            },
+            "yawDegrees": -15.71550178527832,
+            "doorWidth": 3.090284585952759,
+            "centerElevation": 0.26601120829582217,
+            "minimumElevation": 0.22983060777187348,
+            "maximumElevation": 0.2971394658088684,
+            "terrainHeightRange": 0.06730885803699494,
+            "clusterSeed": {
+                "x": 24.0,
+                "y": 378.0
+            },
+            "candidateAttempt": 2,
+            "doorMapPoints": [
+                {
+                    "x": 31.12636375427246,
+                    "y": 378.2568664550781
+                },
+                {
+                    "x": 33.42796325683594,
+                    "y": 386.4365539550781
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 30.720073699951173,
+                    "y": 376.81292724609377
+                },
+                {
+                    "x": 33.83425521850586,
+                    "y": 387.8804931640625
+                }
+            ]
+        },
+        {
+            "id": "SWR_09",
+            "semanticId": "ENV11_BUILDING_SWR_09",
+            "region": "SW_RUINS",
+            "style": "RuinedHome",
+            "mapCenter": {
+                "x": 71.04301452636719,
+                "y": 345.1774597167969
+            },
+            "footprint": {
+                "x": 9.363760948181153,
+                "y": 9.10632038116455
+            },
+            "yawDegrees": -14.54336929321289,
+            "doorWidth": 2.340940237045288,
+            "centerElevation": 0.12321501970291138,
+            "minimumElevation": 0.08246653527021408,
+            "maximumElevation": 0.1475713700056076,
+            "terrainHeightRange": 0.06510483473539353,
+            "clusterSeed": {
+                "x": 75.0,
+                "y": 350.0
+            },
+            "candidateAttempt": 10,
+            "doorMapPoints": [
+                {
+                    "x": 69.899658203125,
+                    "y": 340.77020263671877
+                },
+                {
+                    "x": 72.18637084960938,
+                    "y": 349.584716796875
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 69.52298736572266,
+                    "y": 339.3182678222656
+                },
+                {
+                    "x": 72.56304168701172,
+                    "y": 351.0366516113281
+                }
+            ]
+        },
+        {
+            "id": "SWR_10",
+            "semanticId": "ENV11_BUILDING_SWR_10",
+            "region": "SW_RUINS",
+            "style": "RuinedHome",
+            "mapCenter": {
+                "x": 114.67575073242188,
+                "y": 350.75958251953127
+            },
+            "footprint": {
+                "x": 10.44732666015625,
+                "y": 9.784003257751465
+            },
+            "yawDegrees": 7.002590179443359,
+            "doorWidth": 2.6118316650390627,
+            "centerElevation": 0.15697075426578523,
+            "minimumElevation": 0.12537787854671479,
+            "maximumElevation": 0.1737419068813324,
+            "terrainHeightRange": 0.048364028334617618,
+            "clusterSeed": {
+                "x": 126.0,
+                "y": 351.0
+            },
+            "candidateAttempt": 22,
+            "doorMapPoints": [
+                {
+                    "x": 115.27215576171875,
+                    "y": 345.9040832519531
+                },
+                {
+                    "x": 114.079345703125,
+                    "y": 355.6150817871094
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 115.45502471923828,
+                    "y": 344.4152526855469
+                },
+                {
+                    "x": 113.89647674560547,
+                    "y": 357.1039123535156
+                }
+            ]
+        },
+        {
+            "id": "SWR_11",
+            "semanticId": "ENV11_BUILDING_SWR_11",
+            "region": "SW_RUINS",
+            "style": "RuinedHome",
+            "mapCenter": {
+                "x": 19.10586929321289,
+                "y": 275.50384521484377
+            },
+            "footprint": {
+                "x": 13.516630172729493,
+                "y": 9.03770923614502
+            },
+            "yawDegrees": 5.259302139282227,
+            "doorWidth": 3.200000047683716,
+            "centerElevation": 0.1169208511710167,
+            "minimumElevation": 0.058380238711833957,
+            "maximumElevation": 0.14556767046451569,
+            "terrainHeightRange": 0.08718743175268173,
+            "clusterSeed": {
+                "x": 25.0,
+                "y": 270.0
+            },
+            "candidateAttempt": 146,
+            "doorMapPoints": [
+                {
+                    "x": 19.520082473754884,
+                    "y": 271.0040283203125
+                },
+                {
+                    "x": 18.6916561126709,
+                    "y": 280.003662109375
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 19.657577514648439,
+                    "y": 269.51031494140627
+                },
+                {
+                    "x": 18.554161071777345,
+                    "y": 281.49737548828127
+                }
+            ]
+        },
+        {
+            "id": "SWR_12",
+            "semanticId": "ENV11_BUILDING_SWR_12",
+            "region": "SW_RUINS",
+            "style": "RuinedHome",
+            "mapCenter": {
+                "x": 11.614058494567871,
+                "y": 299.2990417480469
+            },
+            "footprint": {
+                "x": 12.843249320983887,
+                "y": 10.659673690795899
+            },
+            "yawDegrees": -18.23419189453125,
+            "doorWidth": 3.200000047683716,
+            "centerElevation": 0.009068149141967297,
+            "minimumElevation": -0.0021049294155091049,
+            "maximumElevation": 0.04642670974135399,
+            "terrainHeightRange": 0.04853164032101631,
+            "clusterSeed": {
+                "x": 22.0,
+                "y": 306.0
+            },
+            "candidateAttempt": 5,
+            "doorMapPoints": [
+                {
+                    "x": 9.946343421936036,
+                    "y": 294.2368469238281
+                },
+                {
+                    "x": 13.281773567199707,
+                    "y": 304.3612365722656
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 9.476990699768067,
+                    "y": 292.8121643066406
+                },
+                {
+                    "x": 13.751126289367676,
+                    "y": 305.7859191894531
+                }
+            ]
+        },
+        {
+            "id": "SWR_13",
+            "semanticId": "ENV11_BUILDING_SWR_13",
+            "region": "SW_RUINS",
+            "style": "RuinedHome",
+            "mapCenter": {
+                "x": 177.05999755859376,
+                "y": 354.65362548828127
+            },
+            "footprint": {
+                "x": 10.001498222351075,
+                "y": 8.759618759155274
+            },
+            "yawDegrees": -12.038137435913086,
+            "doorWidth": 2.5003745555877687,
+            "centerElevation": -0.0005192074459046125,
+            "minimumElevation": -0.04301239550113678,
+            "maximumElevation": 0.05453187972307205,
+            "terrainHeightRange": 0.09754427522420883,
+            "clusterSeed": {
+                "x": 166.0,
+                "y": 347.0
+            },
+            "candidateAttempt": 488,
+            "doorMapPoints": [
+                {
+                    "x": 176.1465301513672,
+                    "y": 350.3701171875
+                },
+                {
+                    "x": 177.9734649658203,
+                    "y": 358.9371337890625
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 175.8336944580078,
+                    "y": 348.9031066894531
+                },
+                {
+                    "x": 178.2863006591797,
+                    "y": 360.4041442871094
+                }
+            ]
+        },
+        {
+            "id": "SWR_14",
+            "semanticId": "ENV11_BUILDING_SWR_14",
+            "region": "SW_RUINS",
+            "style": "RowHouse",
+            "mapCenter": {
+                "x": 95.36984252929688,
+                "y": 370.25006103515627
+            },
+            "footprint": {
+                "x": 8.788313865661621,
+                "y": 9.386088371276856
+            },
+            "yawDegrees": -9.637289047241211,
+            "doorWidth": 2.200000047683716,
+            "centerElevation": 0.07781577855348587,
+            "minimumElevation": 0.05145176127552986,
+            "maximumElevation": 0.09215757250785828,
+            "terrainHeightRange": 0.040705811232328418,
+            "clusterSeed": {
+                "x": 88.0,
+                "y": 379.0
+            },
+            "candidateAttempt": 129,
+            "doorMapPoints": [
+                {
+                    "x": 94.58417510986328,
+                    "y": 365.6232604980469
+                },
+                {
+                    "x": 96.15550994873047,
+                    "y": 374.8768615722656
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 94.33306121826172,
+                    "y": 364.1444091796875
+                },
+                {
+                    "x": 96.40662384033203,
+                    "y": 376.355712890625
+                }
+            ]
+        },
+        {
+            "id": "SS_01",
+            "semanticId": "ENV11_BUILDING_SS_01",
+            "region": "S_SCRAP",
+            "style": "OpenShed",
+            "mapCenter": {
+                "x": 281.0619812011719,
+                "y": 303.72625732421877
+            },
+            "footprint": {
+                "x": 13.913056373596192,
+                "y": 10.732697486877442
+            },
+            "yawDegrees": 7.463569641113281,
+            "doorWidth": 3.200000047683716,
+            "centerElevation": -0.03986738622188568,
+            "minimumElevation": -0.08546212315559387,
+            "maximumElevation": -0.006674318108707666,
+            "terrainHeightRange": 0.07878780364990235,
+            "clusterSeed": {
+                "x": 287.0,
+                "y": 301.0
+            },
+            "candidateAttempt": 2,
+            "doorMapPoints": [
+                {
+                    "x": 281.759033203125,
+                    "y": 298.4053649902344
+                },
+                {
+                    "x": 280.36492919921877,
+                    "y": 309.0471496582031
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 281.9538879394531,
+                    "y": 296.9180908203125
+                },
+                {
+                    "x": 280.1700744628906,
+                    "y": 310.534423828125
+                }
+            ]
+        },
+        {
+            "id": "SS_02",
+            "semanticId": "ENV11_BUILDING_SS_02",
+            "region": "S_SCRAP",
+            "style": "Workshop",
+            "mapCenter": {
+                "x": 322.6923522949219,
+                "y": 314.43572998046877
+            },
+            "footprint": {
+                "x": 12.856840133666993,
+                "y": 9.370664596557618
+            },
+            "yawDegrees": -5.86649227142334,
+            "doorWidth": 3.200000047683716,
+            "centerElevation": -0.10000000149011612,
+            "minimumElevation": -0.10518951714038849,
+            "maximumElevation": -0.059484515339136127,
+            "terrainHeightRange": 0.045705001801252368,
+            "clusterSeed": {
+                "x": 319.0,
+                "y": 318.0
+            },
+            "candidateAttempt": 8,
+            "doorMapPoints": [
+                {
+                    "x": 322.2134704589844,
+                    "y": 309.7749328613281
+                },
+                {
+                    "x": 323.1712341308594,
+                    "y": 319.0965270996094
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 322.0601501464844,
+                    "y": 308.2828063964844
+                },
+                {
+                    "x": 323.3245544433594,
+                    "y": 320.5886535644531
+                }
+            ]
+        },
+        {
+            "id": "SS_03",
+            "semanticId": "ENV11_BUILDING_SS_03",
+            "region": "S_SCRAP",
+            "style": "Warehouse",
+            "mapCenter": {
+                "x": 218.1237335205078,
+                "y": 279.06658935546877
+            },
+            "footprint": {
+                "x": 13.211731910705567,
+                "y": 9.973930358886719
+            },
+            "yawDegrees": 11.420461654663086,
+            "doorWidth": 3.3029329776763918,
+            "centerElevation": 0.5028867125511169,
+            "minimumElevation": 0.28454500436782839,
+            "maximumElevation": 0.7398989796638489,
+            "terrainHeightRange": 0.4553539752960205,
+            "clusterSeed": {
+                "x": 223.0,
+                "y": 279.0
+            },
+            "candidateAttempt": 251,
+            "doorMapPoints": [
+                {
+                    "x": 219.11119079589845,
+                    "y": 274.1783752441406
+                },
+                {
+                    "x": 217.1362762451172,
+                    "y": 283.9548034667969
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 219.408203125,
+                    "y": 272.70806884765627
+                },
+                {
+                    "x": 216.83926391601563,
+                    "y": 285.42510986328127
+                }
+            ]
+        },
+        {
+            "id": "SS_04",
+            "semanticId": "ENV11_BUILDING_SS_04",
+            "region": "S_SCRAP",
+            "style": "Warehouse",
+            "mapCenter": {
+                "x": 187.44613647460938,
+                "y": 287.69293212890627
+            },
+            "footprint": {
+                "x": 14.02580738067627,
+                "y": 9.969511032104493
+            },
+            "yawDegrees": 21.621076583862306,
+            "doorWidth": 3.5064518451690676,
+            "centerElevation": 0.28906020522117617,
+            "minimumElevation": 0.03825001046061516,
+            "maximumElevation": 0.43271195888519289,
+            "terrainHeightRange": 0.3944619596004486,
+            "clusterSeed": {
+                "x": 181.0,
+                "y": 284.0
+            },
+            "candidateAttempt": 9,
+            "doorMapPoints": [
+                {
+                    "x": 189.28285217285157,
+                    "y": 283.05889892578127
+                },
+                {
+                    "x": 185.6094207763672,
+                    "y": 292.32696533203127
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 189.83555603027345,
+                    "y": 281.6644287109375
+                },
+                {
+                    "x": 185.0567169189453,
+                    "y": 293.721435546875
+                }
+            ]
+        },
+        {
+            "id": "SS_05",
+            "semanticId": "ENV11_BUILDING_SS_05",
+            "region": "S_SCRAP",
+            "style": "OpenShed",
+            "mapCenter": {
+                "x": 244.59217834472657,
+                "y": 345.2078552246094
+            },
+            "footprint": {
+                "x": 13.0,
+                "y": 9.068609237670899
+            },
+            "yawDegrees": -5.124168395996094,
+            "doorWidth": 3.200000047683716,
+            "centerElevation": -0.10000000149011612,
+            "minimumElevation": -0.10000000149011612,
+            "maximumElevation": -0.10000000149011612,
+            "terrainHeightRange": 0.0,
+            "clusterSeed": {
+                "x": 238.0,
+                "y": 354.0
+            },
+            "candidateAttempt": 145,
+            "doorMapPoints": [
+                {
+                    "x": 244.18719482421876,
+                    "y": 340.6916809082031
+                },
+                {
+                    "x": 244.99716186523438,
+                    "y": 349.7240295410156
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 244.05322265625,
+                    "y": 339.1976623535156
+                },
+                {
+                    "x": 245.13113403320313,
+                    "y": 351.2180480957031
+                }
+            ]
+        },
+        {
+            "id": "EU_01",
+            "semanticId": "ENV11_BUILDING_EU_01",
+            "region": "E_UTILITY",
+            "style": "UtilityHut",
+            "mapCenter": {
+                "x": 497.0435485839844,
+                "y": 94.22415161132813
+            },
+            "footprint": {
+                "x": 11.347894668579102,
+                "y": 12.176520347595215
+            },
+            "yawDegrees": -6.000471115112305,
+            "doorWidth": 2.8369736671447756,
+            "centerElevation": 4.269927501678467,
+            "minimumElevation": 3.9585516452789308,
+            "maximumElevation": 4.5968523025512699,
+            "terrainHeightRange": 0.6383006572723389,
+            "clusterSeed": {
+                "x": 501.0,
+                "y": 103.0
+            },
+            "candidateAttempt": 26,
+            "doorMapPoints": [
+                {
+                    "x": 496.4071044921875,
+                    "y": 88.16925048828125
+                },
+                {
+                    "x": 497.67999267578127,
+                    "y": 100.279052734375
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 496.25030517578127,
+                    "y": 86.6774673461914
+                },
+                {
+                    "x": 497.8367919921875,
+                    "y": 101.77083587646485
+                }
+            ]
+        },
+        {
+            "id": "EU_02",
+            "semanticId": "ENV11_BUILDING_EU_02",
+            "region": "E_UTILITY",
+            "style": "Warehouse",
+            "mapCenter": {
+                "x": 377.069091796875,
+                "y": 255.9461212158203
+            },
+            "footprint": {
+                "x": 13.0,
+                "y": 9.223782539367676
+            },
+            "yawDegrees": 5.113056182861328,
+            "doorWidth": 3.25,
+            "centerElevation": 0.39467549324035647,
+            "minimumElevation": 0.17090070247650147,
+            "maximumElevation": 0.6225196123123169,
+            "terrainHeightRange": 0.45161890983581545,
+            "clusterSeed": {
+                "x": 382.0,
+                "y": 251.0
+            },
+            "candidateAttempt": 4,
+            "doorMapPoints": [
+                {
+                    "x": 377.4801025390625,
+                    "y": 251.3525848388672
+                },
+                {
+                    "x": 376.6580810546875,
+                    "y": 260.5396728515625
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 377.6138000488281,
+                    "y": 249.85855102539063
+                },
+                {
+                    "x": 376.5243835449219,
+                    "y": 262.03369140625
+                }
+            ]
+        },
+        {
+            "id": "NWC_04",
+            "semanticId": "ENV11_BUILDING_NWC_04",
+            "region": "NW_CLINIC",
+            "style": "UtilityHut",
+            "mapCenter": {
+                "x": 40.571834564208987,
+                "y": 52.67286682128906
+            },
+            "footprint": {
+                "x": 9.671316146850586,
+                "y": 8.600174903869629
+            },
+            "yawDegrees": -19.755428314208986,
+            "doorWidth": 2.4178290367126467,
+            "centerElevation": 2.264782667160034,
+            "minimumElevation": 2.0470659732818605,
+            "maximumElevation": 2.6111419200897219,
+            "terrainHeightRange": 0.5640759468078613,
+            "clusterSeed": {
+                "x": 46.0,
+                "y": 52.0
+            },
+            "candidateAttempt": 987,
+            "doorMapPoints": [
+                {
+                    "x": 39.11838150024414,
+                    "y": 48.6258659362793
+                },
+                {
+                    "x": 42.02528762817383,
+                    "y": 56.71986770629883
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 38.61137008666992,
+                    "y": 47.214149475097659
+                },
+                {
+                    "x": 42.53229904174805,
+                    "y": 58.13158416748047
+                }
+            ]
+        },
+        {
+            "id": "SS_06",
+            "semanticId": "ENV11_BUILDING_SS_06",
+            "region": "S_SCRAP",
+            "style": "OpenShed",
+            "mapCenter": {
+                "x": 300.2330322265625,
+                "y": 272.6314392089844
+            },
+            "footprint": {
+                "x": 12.764578819274903,
+                "y": 9.01486873626709
+            },
+            "yawDegrees": -10.902120590209961,
+            "doorWidth": 3.1911447048187258,
+            "centerElevation": -0.006209454964846373,
+            "minimumElevation": -0.03455435112118721,
+            "maximumElevation": 0.5621439218521118,
+            "terrainHeightRange": 0.5966982841491699,
+            "clusterSeed": {
+                "x": 303.0,
+                "y": 273.0
+            },
+            "candidateAttempt": 541,
+            "doorMapPoints": [
+                {
+                    "x": 299.3805236816406,
+                    "y": 268.2053527832031
+                },
+                {
+                    "x": 301.0855407714844,
+                    "y": 277.0575256347656
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 299.0968322753906,
+                    "y": 266.732421875
+                },
+                {
+                    "x": 301.3692321777344,
+                    "y": 278.53045654296877
+                }
+            ]
+        },
+        {
+            "id": "EU_03",
+            "semanticId": "ENV11_BUILDING_EU_03",
+            "region": "E_UTILITY",
+            "style": "Workshop",
+            "mapCenter": {
+                "x": 450.0,
+                "y": 250.0
+            },
+            "footprint": {
+                "x": 8.0,
+                "y": 7.0
+            },
+            "yawDegrees": -15.0,
+            "doorWidth": 2.200000047683716,
+            "centerElevation": 1.1980700492858887,
+            "minimumElevation": 1.0070258378982545,
+            "maximumElevation": 1.6177268028259278,
+            "terrainHeightRange": 0.6107009649276733,
+            "clusterSeed": {
+                "x": 434.0,
+                "y": 202.0
+            },
+            "candidateAttempt": 2066,
+            "doorMapPoints": [
+                {
+                    "x": 449.0941467285156,
+                    "y": 246.6192626953125
+                },
+                {
+                    "x": 450.9058532714844,
+                    "y": 253.3807373046875
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 448.7059020996094,
+                    "y": 245.1703643798828
+                },
+                {
+                    "x": 451.2940979003906,
+                    "y": 254.8296356201172
+                }
+            ]
+        },
+        {
+            "id": "EU_04",
+            "semanticId": "ENV11_BUILDING_EU_04",
+            "region": "E_UTILITY",
+            "style": "UtilityHut",
+            "mapCenter": {
+                "x": 455.0,
+                "y": 120.0
+            },
+            "footprint": {
+                "x": 9.0,
+                "y": 8.0
+            },
+            "yawDegrees": 15.0,
+            "doorWidth": 2.25,
+            "centerElevation": 8.035720825195313,
+            "minimumElevation": 7.615504741668701,
+            "maximumElevation": 8.186637878417969,
+            "terrainHeightRange": 0.5711331367492676,
+            "clusterSeed": {
+                "x": 465.0,
+                "y": 90.0
+            },
+            "candidateAttempt": 2788,
+            "doorMapPoints": [
+                {
+                    "x": 456.0352783203125,
+                    "y": 116.13629913330078
+                },
+                {
+                    "x": 453.9647216796875,
+                    "y": 123.86370086669922
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 456.4234924316406,
+                    "y": 114.68740844726563
+                },
+                {
+                    "x": 453.5765075683594,
+                    "y": 125.31259155273438
+                }
+            ]
+        },
+        {
+            "id": "EU_05",
+            "semanticId": "ENV11_BUILDING_EU_05",
+            "region": "E_UTILITY",
+            "style": "UtilityHut",
+            "mapCenter": {
+                "x": 490.0,
+                "y": 120.0
+            },
+            "footprint": {
+                "x": 9.0,
+                "y": 8.0
+            },
+            "yawDegrees": -15.0,
+            "doorWidth": 2.25,
+            "centerElevation": 3.463531970977783,
+            "minimumElevation": 3.2514994144439699,
+            "maximumElevation": 3.8675663471221926,
+            "terrainHeightRange": 0.6160669326782227,
+            "clusterSeed": {
+                "x": 465.0,
+                "y": 90.0
+            },
+            "candidateAttempt": 3089,
+            "doorMapPoints": [
+                {
+                    "x": 488.9647216796875,
+                    "y": 116.13629913330078
+                },
+                {
+                    "x": 491.0352783203125,
+                    "y": 123.86370086669922
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 488.5765075683594,
+                    "y": 114.68740844726563
+                },
+                {
+                    "x": 491.4234924316406,
+                    "y": 125.31259155273438
+                }
+            ]
+        },
+        {
+            "id": "EU_06",
+            "semanticId": "ENV11_BUILDING_EU_06",
+            "region": "E_UTILITY",
+            "style": "UtilityHut",
+            "mapCenter": {
+                "x": 460.0,
+                "y": 180.0
+            },
+            "footprint": {
+                "x": 8.0,
+                "y": 7.0
+            },
+            "yawDegrees": -15.0,
+            "doorWidth": 2.200000047683716,
+            "centerElevation": 3.0787699222564699,
+            "minimumElevation": 3.0047154426574709,
+            "maximumElevation": 3.4520812034606935,
+            "terrainHeightRange": 0.44736576080322268,
+            "clusterSeed": {
+                "x": 434.0,
+                "y": 202.0
+            },
+            "candidateAttempt": 2408,
+            "doorMapPoints": [
+                {
+                    "x": 459.0941467285156,
+                    "y": 176.6192626953125
+                },
+                {
+                    "x": 460.9058532714844,
+                    "y": 183.3807373046875
+                }
+            ],
+            "doorAccessMapPoints": [
+                {
+                    "x": 458.7059020996094,
+                    "y": 175.1703643798828
+                },
+                {
+                    "x": 461.2940979003906,
+                    "y": 184.8296356201172
+                }
+            ]
+        }
+    ]
+}

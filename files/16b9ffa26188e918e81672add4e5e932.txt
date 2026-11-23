@@ -1,0 +1,3 @@
+DENSITY / CQB ACTUAL UNITY VALIDATION
+PASS enemy, combat, faction targeting, visible threat recognition and human avoidance regression checks passed
+COMPLETE PASS

@@ -1,0 +1,37 @@
+Named machine visual weapons; original bodies untouched
+UTC 2026-10-16 04:22:51Z
+N2 base=SpiderTransformer body=(3.026, 2.400, 3.402) original=(3.026, 2.400, 3.402) weapon=(0.526, 0.792, 1.511) minY=0.000
+  originalMin=(-1.476, 0.000, -1.240) originalMax=(1.549, 2.400, 2.162)
+  bodyMin=(-1.476, 0.000, -1.240) bodyMax=(1.549, 2.400, 2.162)
+  weaponMin=(-1.002, 1.439, -0.511) weaponMax=(-0.476, 2.231, 1.000)
+  combinedMin=(-1.476, 0.000, -1.240) combinedMax=(1.549, 2.400, 2.162) outsideX=0.000 outsideZ=0.000 outsideTop=0.000 outsideBottom=0.000
+  muzzles=1 chassisController=Legs_Spider_Med_Ctrl
+  muzzle Barrel_end rootLocalPosition=(-0.711, 1.831, 0.440) rootLocalForward=(0.000, 0.000, 1.000) fallbackDistance=0.991 withinCombatSocketLimit=True
+  weaponMaterial=A_Spiders_Mat_8b80dc15_URP
+N3 base=Tank body=(3.165, 2.600, 3.756) original=(3.165, 2.600, 3.756) weapon=(0.577, 0.858, 0.967) minY=0.000
+  originalMin=(-1.583, 0.000, -2.024) originalMax=(1.583, 2.600, 1.732)
+  bodyMin=(-1.583, 0.000, -2.024) bodyMax=(1.583, 2.600, 1.732)
+  weaponMin=(-0.291, 1.210, -0.705) weaponMax=(0.286, 2.068, 0.261)
+  combinedMin=(-1.583, 0.000, -2.024) combinedMax=(1.583, 2.600, 1.732) outsideX=0.000 outsideZ=0.000 outsideTop=0.000 outsideBottom=0.000
+  muzzles=2 chassisController=Chassis_Tank_CTRL
+  muzzle Barrel_end_1 rootLocalPosition=(-0.103, 1.674, 0.205) rootLocalForward=(0.000, 0.000, 1.000) fallbackDistance=0.439 withinCombatSocketLimit=True
+  muzzle Barrel_end_2 rootLocalPosition=(0.094, 1.675, 0.203) rootLocalForward=(0.000, 0.000, 1.000) fallbackDistance=0.437 withinCombatSocketLimit=True
+  weaponMaterial=A_Spiders_Mat_8b80dc15_URP
+N4 base=SpiderMedium body=(2.674, 2.200, 3.006) original=(2.674, 2.200, 3.006) weapon=(0.430, 0.682, 1.443) minY=0.000
+  originalMin=(-1.305, 0.000, -1.095) originalMax=(1.369, 2.200, 1.911)
+  bodyMin=(-1.305, 0.000, -1.095) bodyMax=(1.369, 2.200, 1.911)
+  weaponMin=(0.420, 1.280, -0.394) weaponMax=(0.850, 1.962, 1.049)
+  combinedMin=(-1.305, 0.000, -1.095) combinedMax=(1.369, 2.200, 1.911) outsideX=0.000 outsideZ=0.000 outsideTop=0.000 outsideBottom=0.000
+  muzzles=1 chassisController=Legs_Spider_Med_Ctrl
+  muzzle Barrel_end rootLocalPosition=(0.563, 1.627, 0.394) rootLocalForward=(0.000, 0.000, 1.000) fallbackDistance=0.761 withinCombatSocketLimit=True
+  weaponMaterial=A_Spiders_Mat_8b80dc15_URP
+N5 base=SpiderHeavy body=(3.883, 3.000, 4.346) original=(3.883, 3.000, 4.346) weapon=(0.939, 0.622, 2.086) minY=0.000
+  originalMin=(-1.942, 0.000, -1.784) originalMax=(1.942, 3.000, 2.562)
+  bodyMin=(-1.942, 0.000, -1.784) bodyMax=(1.942, 3.000, 2.562)
+  weaponMin=(-0.461, 1.709, -0.920) weaponMax=(0.478, 2.330, 1.166)
+  combinedMin=(-1.942, 0.000, -1.784) combinedMax=(1.942, 3.000, 2.562) outsideX=0.000 outsideZ=0.000 outsideTop=0.000 outsideBottom=0.000
+  muzzles=2 chassisController=Legs_Spider_Hvy_Ctrl
+  muzzle Barrel_End_1 rootLocalPosition=(-0.216, 1.983, 1.166) rootLocalForward=(0.000, 0.000, 1.000) fallbackDistance=1.368 withinCombatSocketLimit=True
+  muzzle Barrel_End_2 rootLocalPosition=(0.222, 1.983, 1.166) rootLocalForward=(0.000, 0.000, 1.000) fallbackDistance=1.370 withinCombatSocketLimit=True
+  weaponMaterial=A_Spiders_Mat_8b80dc15_URP
+FAILURES 0

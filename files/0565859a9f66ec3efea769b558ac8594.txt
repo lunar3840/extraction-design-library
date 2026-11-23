@@ -1,0 +1,13 @@
+V31 actual Play camera. Fixed player and camera per boundary; atmosphere evaluation feet sampled across each edge.
+B_BASELINE ambient=Trilight sky=RGBA(0.340, 0.380, 0.400, 1.000) equator=RGBA(0.200, 0.240, 0.250, 1.000) ground=RGBA(0.110, 0.140, 0.150, 1.000) sunColor=RGBA(0.900, 0.940, 1.000, 1.000) sunIntensity=1.6 fog=True
+DISTRICT west_d02 player=(-121.0000, 1.3563, 16.0000) camera=(-116.6497, 16.4134, 23.5349) weight=0 tone=Neutral
+PASS west_d02 outside A interior look weight=0 tone=Neutral
+DISTRICT sc player=(112.0000, 2.9719, -3.0000) camera=(116.3503, 18.0291, 4.5349) weight=0 tone=Neutral
+PASS sc outside A interior look weight=0 tone=Neutral
+PASS Leave deactivates A active=False
+PASS B ambient mode restored expected=Trilight actual=Trilight
+PASS B ambient colors restored sky=RGBA(0.340, 0.380, 0.400, 1.000) equator=RGBA(0.200, 0.240, 0.250, 1.000) ground=RGBA(0.110, 0.140, 0.150, 1.000)
+PASS B sun restored sun=RGBA(0.900, 0.940, 1.000, 1.000) intensity=1.6
+PASS B fog restored expected=True actual=True
+defects=0
+RESULT PASS

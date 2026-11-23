@@ -1,0 +1,22 @@
+﻿{
+    "phase": "after",
+    "mode": "live_StageMapRouter_NavMesh",
+    "timestampUtc": "2026-10-29T17:50:52.9527320Z",
+    "scene": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+    "mapName": "StageA_Relay_Blockout_v08",
+    "source": "live_StageMapRouter_NavMesh",
+    "exception": "",
+    "sceneDirty": false,
+    "queryCount": 1205,
+    "queryPassed": 1205,
+    "queryFailed": 0,
+    "lootCount": 50,
+    "actorCount": 73,
+    "patrolVariantCount": 209,
+    "directComplete": 1130,
+    "directPartial": 75,
+    "directInvalid": 0,
+    "longRouteResolved": 75,
+    "navigationTileSize": 768,
+    "failures": []
+}

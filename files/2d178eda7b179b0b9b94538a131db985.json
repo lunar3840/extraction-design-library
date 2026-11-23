@@ -1,0 +1,37 @@
+{
+  "mode": "built-in image_gen edit",
+  "unityApplied": false,
+  "width": 1254,
+  "height": 1254,
+  "bitDepth": 8,
+  "colorType": 6,
+  "visibleAlphaThresholdExclusive": 24,
+  "visibleAlphaBounds": {
+    "minX": 187,
+    "minY": 57,
+    "maxX": 1027,
+    "maxY": 1218
+  },
+  "rawNonzeroAlphaBounds": {
+    "minX": 0,
+    "minY": 19,
+    "maxX": 1205,
+    "maxY": 1221
+  },
+  "transparentPixels": 915616,
+  "solidPixels": 1518,
+  "antialiasedPixels": 655382,
+  "borderNonzeroAlphaPixels": 4,
+  "borderMaximumAlpha": 1,
+  "outermostEdgeFullyTransparent": false,
+  "cornerAlpha": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "fourCornersTransparent": true,
+  "sha256": "5a5c5858e3dbb0430fc804084259487bc8ed82bde8cdc7fa311ab7235681ecec",
+  "bytes": 891736,
+  "visibleSubjectPadding": true
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "character": "serin",
+    "weapon2BottomY": 863,
+    "soleYRange": [
+      863.16,
+      864.34
+    ],
+    "weaponSlotAlphaOverlap": 0,
+    "samples": 19
+  },
+  {
+    "character": "prototype",
+    "weapon2BottomY": 863,
+    "soleYRange": [
+      863.16,
+      863.16
+    ],
+    "weaponSlotAlphaOverlap": 0,
+    "samples": 19
+  },
+  {
+    "character": "liv",
+    "weapon2BottomY": 863,
+    "soleYRange": [
+      863.16,
+      864.34
+    ],
+    "weaponSlotAlphaOverlap": 0,
+    "samples": 19
+  },
+  {
+    "character": "yui",
+    "weapon2BottomY": 863,
+    "soleYRange": [
+      863.16,
+      864.34
+    ],
+    "weaponSlotAlphaOverlap": 0,
+    "samples": 19
+  }
+]

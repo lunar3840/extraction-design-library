@@ -1,0 +1,4 @@
+STARTED 2026-10-14T03:07:58.0001670+09:00
+playing=False
+Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity dirty=True
+Original Stage A objects unchanged=31150; D11-owned roots excluded from original-object comparison.COMPLETE only unsuccessful D11 candidate discarded; all originals matched baseline.

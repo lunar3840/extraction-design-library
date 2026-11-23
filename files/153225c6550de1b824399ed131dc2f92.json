@@ -1,0 +1,169 @@
+{
+  "status": "copied unchanged, original files retained",
+  "instructionDateKst": "2026-10-26",
+  "instructionTimestamp": "not supplied",
+  "captureSession": "original r25 prior session documented2026-10-25; some raw output paths retain2026-10-24 folder naming",
+  "sourceMtimeNote": "file metadata is retained for provenance and is not asserted to equal the user instruction/capture timestamp",
+  "files": [
+    {
+      "file": "prior-session-20261025/INDEX_BINDING_VERIFICATION.json",
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-25\\character-hair-and-support\\INDEX_BINDING_VERIFICATION.json",
+      "sha256": "76b12cec83b790b6784dfadb5f7efcdaf987f8e49a0e60a19c8dbbe4fb83f7a3",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T12:28:04.689817+00:00",
+      "kind": "prior verification or camera"
+    },
+    {
+      "file": "prior-session-20261025/INDEX12_BINDING_VERIFICATION.json",
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-25\\character-hair-and-support\\INDEX12_BINDING_VERIFICATION.json",
+      "sha256": "2944cf672215beb6ee93c3cfce4e12fff43d76b174c41c4d68b3494d4da80e70",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T13:30:34.747062+00:00",
+      "kind": "prior verification or camera"
+    },
+    {
+      "file": "prior-session-20261025/before_index_binding_camera.json",
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-25\\character-hair-and-support\\before_index_binding_camera.json",
+      "sha256": "ba10abeab59a47bf0e44f3eabf5a6cccd116421f2dd29e0b81f4c859591cc0c4",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T12:05:42.319045+00:00",
+      "kind": "prior verification or camera"
+    },
+    {
+      "file": "prior-session-20261025/after_index_binding_camera.json",
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-25\\character-hair-and-support\\after_index_binding_camera.json",
+      "sha256": "1ebc8e6c4418e31627874d47b72651eef1bf73a8375023845ed05445dd8858f3",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T12:05:42.331718+00:00",
+      "kind": "prior verification or camera"
+    },
+    {
+      "file": "prior-session-20261025/before_left_index_binding_camera.json",
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-25\\character-hair-and-support\\before_left_index_binding_camera.json",
+      "sha256": "5dc7e748b9b51581176cdb2ee31631e76c13c67259d2760786b6ce8248ef7ef1",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T13:14:14.638253+00:00",
+      "kind": "prior verification or camera"
+    },
+    {
+      "file": "prior-session-20261025/after_left_index_binding_camera.json",
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-25\\character-hair-and-support\\after_left_index_binding_camera.json",
+      "sha256": "d30914da1f939dabdccd81343cf0a55617e8939e84bde7d573fd84a460d8cc20",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T13:30:01.159815+00:00",
+      "kind": "prior verification or camera"
+    },
+    {
+      "file": "prior-session-20261025/before_index_binding_0.png",
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-25\\character-hair-and-support\\before_index_binding_0.png",
+      "sha256": "4bfaae4aac2349abe83be99f4a609cd19356200c6ad0ac40cbc3a7c740996f29",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T12:05:42.285866+00:00",
+      "kind": "actual prior-session screenshot; not a new26 capture"
+    },
+    {
+      "file": "prior-session-20261025/before_index_binding_90.png",
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-25\\character-hair-and-support\\before_index_binding_90.png",
+      "sha256": "5d1e1ef3d25afd0de34dcfef4c7492db39e902417e75942b116c7cd2727c5c03",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T12:05:42.296092+00:00",
+      "kind": "actual prior-session screenshot; not a new26 capture"
+    },
+    {
+      "file": "prior-session-20261025/before_index_binding_270.png",
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-25\\character-hair-and-support\\before_index_binding_270.png",
+      "sha256": "22756e624ae05edcde7a6f72fa1e342048120da9e07cec6e6df1c76995684b8f",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T12:05:42.306288+00:00",
+      "kind": "actual prior-session screenshot; not a new26 capture"
+    },
+    {
+      "file": "prior-session-20261025/after_index_binding_0.png",
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-25\\character-hair-and-support\\after_index_binding_0.png",
+      "sha256": "4ac3c90f685e8e3a1321469a97c28c5785876be23a9ca971decf08221bfb9f3d",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T12:05:42.324075+00:00",
+      "kind": "actual prior-session screenshot; not a new26 capture"
+    },
+    {
+      "file": "prior-session-20261025/after_index_binding_90.png",
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-25\\character-hair-and-support\\after_index_binding_90.png",
+      "sha256": "a379f52fc7c6724e2057b793ac3b9d19462dc07e0bd9e200a4a0737b5a848305",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T12:05:42.328133+00:00",
+      "kind": "actual prior-session screenshot; not a new26 capture"
+    },
+    {
+      "file": "prior-session-20261025/after_index_binding_270.png",
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-25\\character-hair-and-support\\after_index_binding_270.png",
+      "sha256": "a1ba42690b4da77dd45db098b0f3a07828159d12bb51614aeebd60ab74d06fdd",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T12:05:42.330703+00:00",
+      "kind": "actual prior-session screenshot; not a new26 capture"
+    },
+    {
+      "file": "prior-session-20261025/before_left_index_binding_270.png",
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-25\\character-hair-and-support\\before_left_index_binding_270.png",
+      "sha256": "19be7ea3c663c44e17191118bae6a94d058ba7099aebc67ca514a6a0702cdf40",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T13:14:14.636272+00:00",
+      "kind": "actual prior-session screenshot; not a new26 capture"
+    },
+    {
+      "file": "prior-session-20261025/after_left_index_binding_270.png",
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-25\\character-hair-and-support\\after_left_index_binding_270.png",
+      "sha256": "658474ca8f5df64558b558e37aad035fd7689d0092f564bafeb58724518cf39a",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T13:30:01.158814+00:00",
+      "kind": "actual prior-session screenshot; not a new26 capture"
+    },
+    {
+      "file": "proof/REPAIR_PROOF.json",
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\character-resume-20261025\\index-skin\\REPAIR_PROOF.json",
+      "sha256": "76f4c5eae7b696ea21f82d4f075129681e6c3dbd1af2031fa28072b7a81389a6",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T11:57:50.065921+00:00",
+      "kind": "prior independent source/weight derivation"
+    },
+    {
+      "file": "proof/LEFT_REPAIR_PROOF.json",
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\character-resume-20261025\\index-skin\\LEFT_REPAIR_PROOF.json",
+      "sha256": "e250b2ca8af6eec53c3d85ac6ef52404c9b36371bccd034dd21193c3a6741e41",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T13:18:33.680512+00:00",
+      "kind": "prior independent source/weight derivation"
+    },
+    {
+      "file": "proof/EdelIndexSkinBinding_snapshot.cs.txt",
+      "source": "C:\\UnityProject\\escape\\Assets\\Escape\\Runtime\\EdelIndexSkinBinding.cs",
+      "sha256": "0ffa3743ee352a2b3f1006296e7832780b23bcc2d2a37d858f52235670abf6a3",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T13:24:50.966729+00:00",
+      "kind": "read-only current runtime snapshot"
+    },
+    {
+      "file": "user_reference_latest_index.png",
+      "source": "C:\\Users\\ehoji\\.codex\\attachments\\d659b275-4c67-488f-85ac-3c22b735ccd5\\codex-clipboard-6f350501-6310-4e1a-ba43-e1d9fd79982b.png",
+      "sha256": "81484aaaba081ac5fd7320108050b125b44b657ad4d61c97392cb1cfc23a2a83",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T11:50:51.383937+00:00",
+      "kind": "latest user attachment, not game before/after capture"
+    },
+    {
+      "file": "latest-20261026/r26_finalgrip_edel_detail_right_0.png",
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\edel-natural-arm-pose\\r26_finalgrip_edel_detail_right_0.png",
+      "sha256": "36ff82c595deedd45b6eeb51672dbe0e61b540f971bbdd7fac87106874fb05da",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T15:38:06.804465+00:00",
+      "kind": "new26 actual supplemental result; not matched earlier before"
+    },
+    {
+      "file": "latest-20261026/r26_finalgrip_edel_detail_right.json",
+      "source": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-24\\edel-natural-arm-pose\\r26_finalgrip_edel_detail_right.json",
+      "sha256": "566add7537927bb407f11ffeda7825249d60ce8cbccc601f445c49443a56f89f",
+      "byteIdentical": true,
+      "sourceMtimeUtc": "2026-10-25T15:38:07.028155+00:00",
+      "kind": "new26 actual supplemental result; not matched earlier before"
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+    "utc": "2026-11-03T21:24:49.9081520Z",
+    "manualAccepted": true,
+    "automaticObserved": true,
+    "fixedYawCamera": true,
+    "legacyActorsUnaffected": true,
+    "frames": [
+        {
+            "file": "portrait/before_reconstructed_inventory_front.png",
+            "companion": "prototype",
+            "reaction": "None",
+            "source": "E30_ArmedIdle",
+            "original": false,
+            "expectedNative": false,
+            "reconstructed": true,
+            "inventoryOpen": true,
+            "armorHidden": false,
+            "automaticCount": 0,
+            "visibleParts": 76,
+            "yaw": 0.0,
+            "cameraSize": 1.0446747541427613,
+            "framingHeight": 1.9710845947265626,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 0.9855422973632813,
+                "z": 8.0
+            }
+        },
+        {
+            "file": "portrait/before_reconstructed_inventory_side.png",
+            "companion": "prototype",
+            "reaction": "None",
+            "source": "E30_ArmedIdle",
+            "original": false,
+            "expectedNative": false,
+            "reconstructed": true,
+            "inventoryOpen": true,
+            "armorHidden": false,
+            "automaticCount": 0,
+            "visibleParts": 76,
+            "yaw": 90.0,
+            "cameraSize": 1.0446747541427613,
+            "framingHeight": 1.9710845947265626,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 0.9855422973632813,
+                "z": 8.0
+            }
+        },
+        {
+            "file": "portrait/after_inventory_front.png",
+            "companion": "prototype",
+            "reaction": "None",
+            "source": "E30_ArmedIdle",
+            "original": true,
+            "expectedNative": true,
+            "reconstructed": false,
+            "inventoryOpen": true,
+            "armorHidden": false,
+            "automaticCount": 0,
+            "visibleParts": 76,
+            "yaw": 0.0,
+            "cameraSize": 1.0446747541427613,
+            "framingHeight": 1.9710845947265626,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 0.9855422973632813,
+                "z": 8.0
+            }
+        },
+        {
+            "file": "portrait/after_inventory_yaw_90.png",
+            "companion": "prototype",
+            "reaction": "None",
+            "source": "E30_ArmedIdle",
+            "original": true,
+            "expectedNative": true,
+            "reconstructed": false,
+            "inventoryOpen": true,
+            "armorHidden": false,
+            "automaticCount": 0,
+            "visibleParts": 76,
+            "yaw": 90.0,
+            "cameraSize": 1.0446747541427613,
+            "framingHeight": 1.9710845947265626,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 0.9855422973632813,
+                "z": 8.0
+            }
+        },
+        {
+            "file": "portrait/after_inventory_yaw_180.png",
+            "companion": "prototype",
+            "reaction": "None",
+            "source": "E30_ArmedIdle",
+            "original": true,
+            "expectedNative": true,
+            "reconstructed": false,
+            "inventoryOpen": true,
+            "armorHidden": false,
+            "automaticCount": 0,
+            "visibleParts": 76,
+            "yaw": 180.0,
+            "cameraSize": 1.0446747541427613,
+            "framingHeight": 1.9710845947265626,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 0.9855422973632813,
+                "z": 8.0
+            }
+        },
+        {
+            "file": "portrait/after_inventory_yaw_0.png",
+            "companion": "prototype",
+            "reaction": "None",
+            "source": "E30_ArmedIdle",
+            "original": true,
+            "expectedNative": true,
+            "reconstructed": false,
+            "inventoryOpen": true,
+            "armorHidden": false,
+            "automaticCount": 0,
+            "visibleParts": 76,
+            "yaw": 0.0,
+            "cameraSize": 1.0446747541427613,
+            "framingHeight": 1.9710845947265626,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 0.9855422973632813,
+                "z": 8.0
+            }
+        },
+        {
+            "file": "portrait/after_inventory_manual_Shy.png",
+            "companion": "prototype",
+            "reaction": "Shy",
+            "source": "E30_A_Shy",
+            "original": true,
+            "expectedNative": true,
+            "reconstructed": false,
+            "inventoryOpen": true,
+            "armorHidden": false,
+            "automaticCount": 0,
+            "visibleParts": 76,
+            "yaw": 0.0,
+            "cameraSize": 1.0446747541427613,
+            "framingHeight": 1.9710845947265626,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 0.9855422973632813,
+                "z": 8.0
+            }
+        },
+        {
+            "file": "portrait/after_inventory_automatic_Curious.png",
+            "companion": "prototype",
+            "reaction": "Curious",
+            "source": "E30_A_Curious",
+            "original": true,
+            "expectedNative": true,
+            "reconstructed": false,
+            "inventoryOpen": true,
+            "armorHidden": false,
+            "automaticCount": 1,
+            "visibleParts": 76,
+            "yaw": 0.0,
+            "cameraSize": 1.0446747541427613,
+            "framingHeight": 1.9710845947265626,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 0.9855422973632813,
+                "z": 8.0
+            }
+        },
+        {
+            "file": "portrait/after_inventory_hidden_innerwear_front.png",
+            "companion": "prototype",
+            "reaction": "None",
+            "source": "E30_ArmedIdle",
+            "original": true,
+            "expectedNative": true,
+            "reconstructed": false,
+            "inventoryOpen": true,
+            "armorHidden": true,
+            "automaticCount": 1,
+            "visibleParts": 25,
+            "yaw": 0.0,
+            "cameraSize": 1.0446747541427613,
+            "framingHeight": 1.9710845947265626,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 0.9855422973632813,
+                "z": 8.0
+            }
+        },
+        {
+            "file": "portrait/after_inventory_hidden_innerwear_side.png",
+            "companion": "prototype",
+            "reaction": "None",
+            "source": "E30_ArmedIdle",
+            "original": true,
+            "expectedNative": true,
+            "reconstructed": false,
+            "inventoryOpen": true,
+            "armorHidden": true,
+            "automaticCount": 1,
+            "visibleParts": 25,
+            "yaw": 90.0,
+            "cameraSize": 1.0446747541427613,
+            "framingHeight": 1.9710845947265626,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 0.9855422973632813,
+                "z": 8.0
+            }
+        },
+        {
+            "file": "portrait/after_inventory_hidden_innerwear_rear.png",
+            "companion": "prototype",
+            "reaction": "None",
+            "source": "E30_ArmedIdle",
+            "original": true,
+            "expectedNative": true,
+            "reconstructed": false,
+            "inventoryOpen": true,
+            "armorHidden": true,
+            "automaticCount": 1,
+            "visibleParts": 25,
+            "yaw": 180.0,
+            "cameraSize": 1.0446747541427613,
+            "framingHeight": 1.9710845947265626,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 0.9855422973632813,
+                "z": 8.0
+            }
+        },
+        {
+            "file": "portrait/after_lobby_framing.png",
+            "companion": "prototype",
+            "reaction": "None",
+            "source": "E30_ArmedIdle",
+            "original": true,
+            "expectedNative": true,
+            "reconstructed": false,
+            "inventoryOpen": true,
+            "armorHidden": true,
+            "automaticCount": 1,
+            "visibleParts": 25,
+            "yaw": 0.0,
+            "cameraSize": 1.1432290077209473,
+            "framingHeight": 1.9710845947265626,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 0.9855422973632813,
+                "z": 8.0
+            }
+        },
+        {
+            "file": "portrait/after_regression_serin.png",
+            "companion": "serin",
+            "reaction": "None",
+            "source": "E30_ArmedIdle",
+            "original": false,
+            "expectedNative": false,
+            "reconstructed": false,
+            "inventoryOpen": true,
+            "armorHidden": true,
+            "automaticCount": 1,
+            "visibleParts": 36,
+            "yaw": 0.0,
+            "cameraSize": 1.0455886125564576,
+            "framingHeight": 1.972808837890625,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 0.9864044189453125,
+                "z": 8.0
+            }
+        },
+        {
+            "file": "portrait/after_regression_liv.png",
+            "companion": "liv",
+            "reaction": "None",
+            "source": "E30_ArmedIdle",
+            "original": false,
+            "expectedNative": false,
+            "reconstructed": false,
+            "inventoryOpen": true,
+            "armorHidden": true,
+            "automaticCount": 1,
+            "visibleParts": 19,
+            "yaw": 0.0,
+            "cameraSize": 1.0464377403259278,
+            "framingHeight": 1.9744110107421876,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 0.9872055053710938,
+                "z": 8.0
+            }
+        },
+        {
+            "file": "portrait/after_regression_yui.png",
+            "companion": "yui",
+            "reaction": "None",
+            "source": "E30_ArmedIdle",
+            "original": false,
+            "expectedNative": false,
+            "reconstructed": false,
+            "inventoryOpen": true,
+            "armorHidden": true,
+            "automaticCount": 1,
+            "visibleParts": 32,
+            "yaw": 0.0,
+            "cameraSize": 1.0600242614746094,
+            "framingHeight": 2.0000457763671877,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 1.0000228881835938,
+                "z": 8.0
+            }
+        }
+    ]
+}

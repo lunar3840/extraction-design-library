@@ -1,0 +1,33 @@
+STAGE_A_FACTORY_V12_NODE_POOL_DIAGNOSIS
+generatedUtc=2026-09-21T11:55:43.2000508Z
+scene=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity
+
+[NODE_POOL_2048]
+B1->X6 begin=InProgress update=OutOfNodes, Success end=OutOfNodes, PartialResult, Success outOfNodes=True partial=True iterations=2186 updateCalls=3 polygons=99 copied=99
+B1->X7 begin=InProgress update=OutOfNodes, Success end=OutOfNodes, PartialResult, Success outOfNodes=True partial=True iterations=2224 updateCalls=3 polygons=68 copied=68
+B2->X6_CONTROL begin=InProgress update=OutOfNodes, Success end=OutOfNodes, PartialResult, Success outOfNodes=True partial=True iterations=2173 updateCalls=3 polygons=77 copied=77
+B2->X7_CONTROL begin=InProgress update=OutOfNodes, Success end=OutOfNodes, PartialResult, Success outOfNodes=True partial=True iterations=2234 updateCalls=3 polygons=79 copied=79
+
+[NODE_POOL_4096]
+B1->X6 begin=InProgress update=OutOfNodes, Success end=OutOfNodes, PartialResult, Success outOfNodes=True partial=True iterations=4367 updateCalls=5 polygons=118 copied=118
+B1->X7 begin=InProgress update=OutOfNodes, Success end=OutOfNodes, PartialResult, Success outOfNodes=True partial=True iterations=4387 updateCalls=5 polygons=92 copied=92
+B2->X6_CONTROL begin=InProgress update=OutOfNodes, Success end=OutOfNodes, Success outOfNodes=True partial=False iterations=4235 updateCalls=5 polygons=108 copied=108
+B2->X7_CONTROL begin=InProgress update=Success end=Success outOfNodes=False partial=False iterations=3377 updateCalls=4 polygons=98 copied=98
+
+[NODE_POOL_8192]
+B1->X6 begin=InProgress update=Success end=Success outOfNodes=False partial=False iterations=5157 updateCalls=6 polygons=107 copied=107
+B1->X7 begin=InProgress update=Success end=Success outOfNodes=False partial=False iterations=4539 updateCalls=5 polygons=94 copied=94
+B2->X6_CONTROL begin=InProgress update=Success end=Success outOfNodes=False partial=False iterations=4269 updateCalls=5 polygons=108 copied=108
+B2->X7_CONTROL begin=InProgress update=Success end=Success outOfNodes=False partial=False iterations=3377 updateCalls=4 polygons=98 copied=98
+
+[NODE_POOL_16384]
+B1->X6 begin=InProgress update=Success end=Success outOfNodes=False partial=False iterations=5157 updateCalls=6 polygons=107 copied=107
+B1->X7 begin=InProgress update=Success end=Success outOfNodes=False partial=False iterations=4539 updateCalls=5 polygons=94 copied=94
+B2->X6_CONTROL begin=InProgress update=Success end=Success outOfNodes=False partial=False iterations=4269 updateCalls=5 polygons=108 copied=108
+B2->X7_CONTROL begin=InProgress update=Success end=Success outOfNodes=False partial=False iterations=3377 updateCalls=4 polygons=98 copied=98
+
+[NODE_POOL_65535]
+B1->X6 begin=InProgress update=Success end=Success outOfNodes=False partial=False iterations=5157 updateCalls=6 polygons=107 copied=107
+B1->X7 begin=InProgress update=Success end=Success outOfNodes=False partial=False iterations=4539 updateCalls=5 polygons=94 copied=94
+B2->X6_CONTROL begin=InProgress update=Success end=Success outOfNodes=False partial=False iterations=4269 updateCalls=5 polygons=108 copied=108
+B2->X7_CONTROL begin=InProgress update=Success end=Success outOfNodes=False partial=False iterations=3377 updateCalls=4 polygons=98 copied=98

@@ -1,0 +1,196 @@
+CinematicAfterProbe 1dcc558cca99418586be13cc57b26fb3 2026-10-19T06:23:55.8203145Z
+PASS fresh GUID-isolated slot 1 created
+PASS actual model and animator ready
+PASS save path belongs only to probe run
+PASS standalone focused for cinematic timing
+PASS main quest accepted
+PASS pending studio briefing starts: 슬롯 1 준비 완료 · 크래들 거점에 도착했습니다.
+PASS briefing uses dialogue stage
+PASS studio: time/audio/input locked
+PASS studio: motor simulation request blocked
+PASS studio: attack/reload requests blocked
+PASS studio: inventory/panels blocked
+PASS studio: slot/menu/departure blocked
+PASS studio: safe shot selected
+PASS studio: all 17 samples show frontal level face
+PASS gameplay inventory UI hidden during dialogue
+PASS four focused real seconds observed
+PASS studio gameplay clock paused across 4 real seconds
+PASS studio camera moves across 4 focused real seconds
+PASS studio late: safe shot selected
+PASS studio late: all 17 samples show frontal level face
+INFO studio framing=Face motion=PushIn duration=7 face=(20000.02, -19998.70, 20000.06) forward=(0.00, 0.00, 1.00) start=(19999.20, -19998.72, 20002.69) end=(19999.18, -19998.73, 20002.57) reason=Concern/Speaker: Face, PushIn; readable front face, eye-level composition, full motion path checked.
+PASS second studio actor selected
+PASS prototype studio: safe shot selected
+PASS prototype studio: all 17 samples show frontal level face
+PASS studio finish commits
+PASS studio finish: director/stage released
+PASS studio finish: same actual player/model/animator/camera
+PASS studio finish: all actual materials/meshes retained
+PASS studio finish: prior time/audio/sun restored exactly
+PASS studio finish: prior gameplay/UI flags restored
+PASS studio finish: noise freeze restored
+PASS studio finish: live root pose retained
+PASS studio finish: source camera controller ownership restored
+PASS studio finish: source camera transform untouched
+PASS studio finish: source camera settings untouched
+PASS studio finish: animator settings restored
+PASS briefing seen marker committed
+PASS studio finish: no cinematic root/camera/RT leak (0/0/0)
+PASS actual-world camp scene starts: 슬롯 1 준비 완료 · 크래들 거점에 도착했습니다.
+PASS camp scene films actual world
+PASS camp: same actual player/model/animator/camera
+PASS camp: all actual materials/meshes retained
+PASS camp: time/audio/input locked
+PASS camp: motor simulation request blocked
+PASS camp: attack/reload requests blocked
+PASS camp: inventory/panels blocked
+PASS camp: slot/menu/departure blocked
+PASS camp: safe shot selected
+PASS camp: all 17 samples show frontal level face
+PASS world view is actual 16:9 render texture
+PASS speaker thumbnail is actual separately filmed 256-square face
+PASS world camp keeps scene sun
+PASS camp stop: director/stage released
+PASS camp stop: same actual player/model/animator/camera
+PASS camp stop: all actual materials/meshes retained
+PASS camp stop: prior time/audio/sun restored exactly
+PASS camp stop: prior gameplay/UI flags restored
+PASS camp stop: noise freeze restored
+PASS camp stop: live root pose retained
+PASS camp stop: source camera controller ownership restored
+PASS camp stop: source camera transform untouched
+PASS camp stop: source camera settings untouched
+PASS camp stop: animator settings restored
+PASS camp stop: animator speed restored
+PASS camp stop: captured bones/equipment/morphs restored without accumulation
+PASS camp stop: no cinematic root/camera/RT leak (0/0/0)
+PASS seeded Stage A departure: A · 침수 정비구역: 외곽 탈출 지점에서 4초간 대기하면 귀환합니다.
+PASS actual Stage A active
+PASS comparison frame precedes field scene
+PASS field entry automatically starts scene: A · 침수 정비구역: 외곽 탈출 지점에서 4초간 대기하면 귀환합니다.
+PASS field arrival is actual-world scene
+PASS real field quest event pending
+PASS field: same actual player/model/animator/camera
+PASS field: all actual materials/meshes retained
+PASS field: time/audio/input locked
+PASS field: motor simulation request blocked
+PASS field: attack/reload requests blocked
+PASS field: inventory/panels blocked
+PASS field: slot/menu/departure blocked
+PASS field: safe shot selected
+PASS field: all 17 samples show frontal level face
+PASS world view is actual 16:9 render texture
+PASS speaker thumbnail is actual separately filmed 256-square face
+PASS four focused real seconds observed
+PASS field gameplay time/operation countdown paused across 4 real seconds
+PASS field player root/vitals/shots unchanged
+PASS all 71 field enemies retain position/vitals/clocks/shots
+PASS field late: safe shot selected
+PASS field late: all 17 samples show frontal level face
+PASS field camera moves or collision fallback explicitly holds
+INFO field framing=Wide motion=GentleArc duration=7 face=(-242.08, 2.50, -0.12) forward=(-0.48, 0.00, -0.88) start=(-242.08, 2.47, -4.94) end=(-241.50, 2.46, -4.79) reason=Discovery/Speaker: Wide, GentleArc; readable front face, eye-level composition, full motion path checked.
+PASS automatic field stop: director/stage released
+PASS automatic field stop: same actual player/model/animator/camera
+PASS automatic field stop: all actual materials/meshes retained
+PASS automatic field stop: prior time/audio/sun restored exactly
+PASS automatic field stop: prior gameplay/UI flags restored
+PASS automatic field stop: noise freeze restored
+PASS automatic field stop: animator settings restored
+PASS interruption retains pending event without seen marker
+PASS automatic field stop: no cinematic root/camera/RT leak (0/0/0)
+PASS interrupted field scene resumes
+PASS resume reaches resolve line
+PASS resolve: safe shot selected
+PASS resolve: all 17 samples show frontal level face
+PASS world view is actual 16:9 render texture
+PASS speaker thumbnail is actual separately filmed 256-square face
+PASS resolve commits
+PASS field finish: director/stage released
+PASS field finish: same actual player/model/animator/camera
+PASS field finish: all actual materials/meshes retained
+PASS field finish: prior time/audio/sun restored exactly
+PASS field finish: prior gameplay/UI flags restored
+PASS field finish: noise freeze restored
+PASS field finish: live root pose retained
+PASS field finish: source camera controller ownership restored
+PASS field finish: source camera transform untouched
+PASS field finish: source camera settings untouched
+PASS field finish: animator settings restored
+PASS field finish: animator speed restored
+PASS field finish: captured bones/equipment/morphs restored without accumulation
+PASS field seen marker committed exactly once
+PASS field finish: no cinematic root/camera/RT leak (0/0/0)
+PASS short two-line scene starts
+PASS AutoAdvance respects 3-second minimum despite short text
+PASS AutoAdvance waits for shot duration
+PASS short scene finishes automatically
+PASS auto finish: director/stage released
+PASS auto finish: same actual player/model/animator/camera
+PASS auto finish: all actual materials/meshes retained
+PASS auto finish: prior time/audio/sun restored exactly
+PASS auto finish: prior gameplay/UI flags restored
+PASS auto finish: noise freeze restored
+PASS auto finish: live root pose retained
+PASS auto finish: source camera controller ownership restored
+PASS auto finish: source camera transform untouched
+PASS auto finish: source camera settings untouched
+PASS auto finish: animator settings restored
+PASS auto finish: no cinematic root/camera/RT leak (0/0/0)
+PASS OnDisable scene starts
+PASS OnDisable stops scene
+PASS OnDisable: director/stage released
+PASS OnDisable: same actual player/model/animator/camera
+PASS OnDisable: all actual materials/meshes retained
+PASS OnDisable: prior time/audio/sun restored exactly
+PASS OnDisable: prior gameplay/UI flags restored
+PASS OnDisable: noise freeze restored
+PASS OnDisable: live root pose retained
+PASS OnDisable: source camera controller ownership restored
+PASS OnDisable: source camera transform untouched
+PASS OnDisable: source camera settings untouched
+PASS OnDisable: animator settings restored
+PASS OnDisable: animator speed restored
+PASS OnDisable: captured bones/equipment/morphs restored without accumulation
+PASS OnDisable: no cinematic root/camera/RT leak (0/0/0)
+PASS missing actual actor fails without substitute clone
+PASS missing actor reports preparation error
+PASS missing actor: director/stage released
+PASS missing actor: same actual player/model/animator/camera
+PASS missing actor: all actual materials/meshes retained
+PASS missing actor: prior time/audio/sun restored exactly
+PASS missing actor: prior gameplay/UI flags restored
+PASS missing actor: noise freeze restored
+PASS missing actor: live root pose retained
+PASS missing actor: source camera controller ownership restored
+PASS missing actor: source camera transform untouched
+PASS missing actor: source camera settings untouched
+PASS missing actor: animator settings restored
+PASS missing actor: animator speed restored
+PASS missing actor: captured bones/equipment/morphs restored without accumulation
+PASS missing actor: no cinematic root/camera/RT leak (0/0/0)
+PASS fully blocked actual world declines unsafe camera
+PASS blocked world preparation: director/stage released
+PASS blocked world preparation: same actual player/model/animator/camera
+PASS blocked world preparation: all actual materials/meshes retained
+PASS blocked world preparation: prior time/audio/sun restored exactly
+PASS blocked world preparation: prior gameplay/UI flags restored
+PASS blocked world preparation: noise freeze restored
+PASS blocked world preparation: live root pose retained
+PASS blocked world preparation: source camera controller ownership restored
+PASS blocked world preparation: source camera transform untouched
+PASS blocked world preparation: source camera settings untouched
+PASS blocked world preparation: animator settings restored
+PASS blocked world preparation: animator speed restored
+PASS blocked world preparation: captured bones/equipment/morphs restored without accumulation
+PASS blocked world preparation: no cinematic root/camera/RT leak (0/0/0)
+PASS screenshot saved: after_camp.png
+PASS screenshot saved: after_dialogue.png
+PASS screenshot saved: after_dialogue_late.png
+PASS screenshot saved: after_dialogue_prototype.png
+PASS screenshot saved: after_world_camp.png
+PASS screenshot saved: after_ingame.png
+PASS screenshot saved: after_world_arrival.png
+PASS screenshot saved: after_world_arrival_late.png
+PASS screenshot saved: after_world_resolve.png
+PASS screenshot saved: after_returngame.png

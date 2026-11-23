@@ -1,0 +1,26 @@
+[
+  {
+    "path": "Assets/Escape/Runtime/UI/GlassIcons.cs",
+    "hash": "53A5245D0357D25EEF7E288C17761E1CC3B7420A5E9766C909809DA0D6871203"
+  },
+  {
+    "path": "Assets/Escape/Runtime/UI/WeaponModelThumbnails.cs",
+    "hash": "0BD58E67A3471F16191A18E1F831D3887FAC5E23ADC9405704DE6E1ED3EE6334"
+  },
+  {
+    "path": "Assets/Escape/Runtime/SdArmorVisual.cs",
+    "hash": "9A8FF63D02873ADF5DEF77F8A4FFA944556E40E23360AAEB14033131743D04C6"
+  },
+  {
+    "path": "Assets/Escape/Runtime/EdelS4ArmorAppearance.cs",
+    "hash": "F476AEC7CE27A2977C0DE361060948F839C541BD72A9EEF09B2A43B5A49E9446"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Player_Edel.prefab",
+    "hash": "39DC490DF8D8D1391186A8FABACFB29BE215438ACE58DEF382058478AD3D947E"
+  },
+  {
+    "path": "Assets/Escape/Resources/SD/Armor/EdelS4/Outfit.prefab",
+    "hash": "902B4E4CE488D52EEC126DFA91D2C4AE9EEA434A854D85312363574075A8C14B"
+  }
+]

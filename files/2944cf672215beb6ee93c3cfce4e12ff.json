@@ -1,0 +1,37 @@
+{
+  "status": "PASS recognized twelve source skin bindings; full grasp and hair remain pending",
+  "changedOriginalSourceWeights": [
+    9360,
+    9362,
+    9365,
+    16079,
+    16082,
+    16085,
+    17440,
+    17442,
+    17444,
+    18194,
+    18198,
+    18203
+  ],
+  "changedSinceRightSixRepair": [
+    16079,
+    16082,
+    16085,
+    17440,
+    17442,
+    17444
+  ],
+  "sourcePositionsUVTrianglesUnchanged": true,
+  "rebindSameCorrectedWeights": true,
+  "sourceFbxHashUnchanged": "779ed67babb89920e190573c05e63faf484111a1a46a16c5861cb4e536f4949b",
+  "cameraSameBeforeAfter": true,
+  "visualReview": "Thin LEFT index bridge spike is absent in 270-degree comparison; earlier RIGHT vertical strip remains absent. Hair state differs and is not assessed by this comparison.",
+  "before": "before_left_index_binding_270.png",
+  "after": "after_left_index_binding_270.png",
+  "sourceBefore": "r25_grasp7a_edel_off_hands_right_270.png",
+  "sourceAfter": "r25_index12exact_hands_right_270.png",
+  "runtimeHash": "0ffa3743ee352a2b3f1006296e7832780b23bcc2d2a37d858f52235670abf6a3",
+  "gripAssetChange": "m_IsReadable 0 to 1 only, original vertices/triangles/UV unchanged; makes exact Grip geometry accessible in player builds",
+  "scope": "Finger binding correction only; do not treat as whole hand/hair completion."
+}

@@ -1,0 +1,94 @@
+D12 retained actual terrain audit of play 01 stopped positions. No scene changes.
+PASS bank_BankGuard_00_001 steps=120 actual=(-6.237, -0.080, -163.966) signedLandDistance=0.570 fall=0.020 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-0.1000 footToTerrain=0.0200 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_13 y=-0.1000
+PASS bank_BankGuard_00_020 steps=120 actual=(26.550, -0.816, -146.935) signedLandDistance=0.695 fall=-0.677 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-0.9882 footToTerrain=0.1722 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_14 y=-0.9882
+PASS bank_BankGuard_00_038 steps=120 actual=(57.715, -0.110, -131.021) signedLandDistance=0.570 fall=-0.010 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-0.7992 footToTerrain=0.6892 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_14 y=-0.7992
+PASS bank_BankGuard_01_001 steps=120 actual=(59.327, -0.776, -129.690) signedLandDistance=0.695 fall=-0.676 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-1.0661 footToTerrain=0.2901 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_14 y=-1.0662
+PASS bank_BankGuard_01_010 steps=120 actual=(71.703, -0.776, -117.314) signedLandDistance=0.695 fall=-0.676 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-1.0661 footToTerrain=0.2901 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_14 y=-1.0662
+PASS bank_BankGuard_01_018 steps=120 actual=(82.690, -0.717, -106.327) signedLandDistance=0.695 fall=-0.701 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-1.0253 footToTerrain=0.3083 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_14 y=-1.0254
+PASS bank_BankGuard_02_001 steps=120 actual=(84.838, -0.911, -105.091) signedLandDistance=0.695 fall=-0.790 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-1.0951 footToTerrain=0.1841 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_14 y=-1.0951
+PASS bank_BankGuard_02_019 steps=120 actual=(123.777, -0.110, -96.152) signedLandDistance=0.570 fall=-0.021 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-0.2444 footToTerrain=0.1344 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_10 y=-0.2444
+PASS bank_BankGuard_02_036 steps=120 actual=(155.728, -0.267, -88.589) signedLandDistance=0.689 fall=-0.497 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-0.4758 footToTerrain=0.2088 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_11 y=-0.4758
+PASS bank_BankGuard_03_001 steps=120 actual=(157.829, 0.103, -88.030) signedLandDistance=0.570 fall=-0.089 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=0.0394 footToTerrain=0.0636 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_11 y=0.0394
+PASS bank_BankGuard_03_014 steps=120 actual=(180.803, 0.718, -78.311) signedLandDistance=0.570 fall=-0.043 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=0.3014 footToTerrain=0.4166 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_11 y=0.3014
+PASS bank_BankGuard_03_027 steps=120 actual=(207.769, 0.870, -66.902) signedLandDistance=0.570 fall=-0.034 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-0.0824 footToTerrain=0.9524 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_11 y=-0.0824
+PASS bank_BankGuard_04_001 steps=120 actual=(209.973, 0.865, -66.164) signedLandDistance=0.570 fall=-0.031 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=0.6288 footToTerrain=0.2362 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/ChannelBed_11 y=0.6288
+PASS bank_BankGuard_04_014 steps=120 actual=(234.359, 1.017, -59.948) signedLandDistance=0.570 fall=0.018 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=0.9971 footToTerrain=0.0199 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_11 y=0.9971
+PASS bank_BankGuard_04_027 steps=120 actual=(258.745, 0.335, -53.732) signedLandDistance=0.570 fall=-0.038 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=0.3141 footToTerrain=0.0209 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_11 y=0.3141
+PASS bank_BankGuard_06_013 steps=120 actual=(238.370, -0.086, -97.931) signedLandDistance=0.570 fall=0.014 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-0.1656 footToTerrain=0.0796 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_11 y=-0.1656
+FAIL bank_BankGuard_06_024 steps=120 actual=(219.332, -0.178, -107.136) signedLandDistance=0.695 fall=-0.848 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-0.4633 footToTerrain=0.2853 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_15 y=-0.4633
+PASS bank_BankGuard_07_001 steps=120 actual=(217.196, 0.779, -107.923) signedLandDistance=0.570 fall=-0.007 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=0.6609 footToTerrain=0.1181 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_15 y=0.6608
+PASS bank_BankGuard_07_013 steps=120 actual=(191.847, 0.866, -117.753) signedLandDistance=0.570 fall=-0.009 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=0.5183 footToTerrain=0.3477 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/ChannelBed_15 y=0.5183
+PASS bank_BankGuard_07_025 steps=120 actual=(170.275, 0.270, -126.117) signedLandDistance=0.570 fall=-0.011 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=0.2494 footToTerrain=0.0206 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_15 y=0.2494
+PASS bank_BankGuard_08_001 steps=120 actual=(168.144, -0.302, -127.045) signedLandDistance=0.694 fall=-0.547 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-0.6714 footToTerrain=0.3694 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_15 y=-0.6714
+PASS bank_BankGuard_08_014 steps=120 actual=(144.193, -0.050, -135.536) signedLandDistance=0.570 fall=-0.015 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-0.4954 footToTerrain=0.4454 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/ChannelBed_15 y=-0.4954
+PASS bank_BankGuard_08_027 steps=120 actual=(120.284, 0.010, -144.144) signedLandDistance=0.570 fall=0.017 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-0.0101 footToTerrain=0.0201 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_14 y=-0.0101
+PASS bank_BankGuard_09_001 steps=120 actual=(118.340, -0.223, -144.989) signedLandDistance=0.670 fall=-0.218 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-0.6752 footToTerrain=0.4522 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_14 y=-0.6752
+PASS bank_BankGuard_09_014 steps=120 actual=(90.035, -0.012, -156.312) signedLandDistance=0.570 fall=0.014 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-0.0319 footToTerrain=0.0199 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_14 y=-0.0319
+PASS bank_BankGuard_09_026 steps=120 actual=(68.289, -0.058, -165.094) signedLandDistance=0.570 fall=-0.014 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-0.6499 footToTerrain=0.5919 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_14 y=-0.6499
+PASS bank_BankGuard_10_001 steps=120 actual=(66.503, -0.030, -166.192) signedLandDistance=0.570 fall=0.014 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-0.0498 footToTerrain=0.0198 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_14 y=-0.0498
+PASS bank_BankGuard_10_014 steps=120 actual=(47.375, -0.013, -182.929) signedLandDistance=0.570 fall=0.013 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-0.0327 footToTerrain=0.0197 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_14 y=-0.0327
+PASS bank_BankGuard_12_001 steps=120 actual=(-7.570, -0.110, -198.853) signedLandDistance=0.570 fall=-0.010 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-0.5085 footToTerrain=0.3985 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_13 y=-0.5085
+PASS bank_BankGuard_12_010 steps=120 actual=(-7.570, -0.110, -181.528) signedLandDistance=0.570 fall=-0.010 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-0.5085 footToTerrain=0.3985 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_13 y=-0.5085
+PASS bank_BankGuard_12_018 steps=120 actual=(-7.570, -0.110, -166.147) signedLandDistance=0.570 fall=-0.010 radius=0.4 (must approach barrier, stay landside, not fall)
+  actualTerrainY=-0.5085 footToTerrain=0.3985 insideWaterPolygon=False
+  supportHit=StageA_Landform_v09/SurfaceTiles/LandSurface_13 y=-0.5085

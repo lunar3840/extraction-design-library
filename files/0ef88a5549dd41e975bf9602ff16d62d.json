@@ -1,0 +1,441 @@
+{
+  "boards": [
+    {
+      "board": "TEMPORAL_initial_release.png",
+      "window": "initial_release",
+      "crop": [
+        300,
+        280,
+        1000,
+        790
+      ],
+      "source_type": "Actual old-movie decode and actual new saved-native render PNGs, not manipulated poses",
+      "sources": [
+        {
+          "frame_index": 3,
+          "role": "before",
+          "file": "comparison_old_frames/0004.png",
+          "sha256": "f1919059cd164fd707693c919d69802889235fd5f251bde5b9b57ee7af45fc71"
+        },
+        {
+          "frame_index": 3,
+          "role": "after",
+          "file": "spatial_01_frames/0004.png",
+          "sha256": "499d51628aace9ccac88c7cad39b6ca9a3536d21d20a24ffe6dc586050c6e956"
+        },
+        {
+          "frame_index": 4,
+          "role": "before",
+          "file": "comparison_old_frames/0005.png",
+          "sha256": "d977dd8e73e84f24fe4fff1f2bd754ae67a96c1b956855eedfab5bf405c43317"
+        },
+        {
+          "frame_index": 4,
+          "role": "after",
+          "file": "spatial_01_frames/0005.png",
+          "sha256": "2211a32a9915440c23761c49650f6633b2d01f88e5e7c2c03853751fc1518d9f"
+        },
+        {
+          "frame_index": 5,
+          "role": "before",
+          "file": "comparison_old_frames/0006.png",
+          "sha256": "badb535617803898d0828092846cf78ee8b72bac2d4292820107a333956892a5"
+        },
+        {
+          "frame_index": 5,
+          "role": "after",
+          "file": "spatial_01_frames/0006.png",
+          "sha256": "5c2629d895e2df64472079d0f99768e20882b192ac8752543080514fb74fdeaf"
+        },
+        {
+          "frame_index": 6,
+          "role": "before",
+          "file": "comparison_old_frames/0007.png",
+          "sha256": "dc96a1452d02101c5a23492295fb2ad1dd1cf4b502293cd55aff28e9093bc453"
+        },
+        {
+          "frame_index": 6,
+          "role": "after",
+          "file": "spatial_01_frames/0007.png",
+          "sha256": "090fcf3ea6c64c37e2a6b3cdf087a0405876775ea956186f89e18bf515d9a0c1"
+        },
+        {
+          "frame_index": 7,
+          "role": "before",
+          "file": "comparison_old_frames/0008.png",
+          "sha256": "5dc7696b3f3dd75efbf16c30871f2e1fc3bba5756d7363b7fd50768a24f6a67a"
+        },
+        {
+          "frame_index": 7,
+          "role": "after",
+          "file": "spatial_01_frames/0008.png",
+          "sha256": "0d7a8dcd9270028e115e776cbe68cbfc5fe038b33eda8f5ff085b79aebf47740"
+        },
+        {
+          "frame_index": 8,
+          "role": "before",
+          "file": "comparison_old_frames/0009.png",
+          "sha256": "61231d697979e66d50c7db4a02f5551bc357dab925dbc68ad227a61e18069dc3"
+        },
+        {
+          "frame_index": 8,
+          "role": "after",
+          "file": "spatial_01_frames/0009.png",
+          "sha256": "732ca5cd13bc7023a2df4be582ef8fc55bfc16330efb3f743a391bc84ccc40c8"
+        },
+        {
+          "frame_index": 9,
+          "role": "before",
+          "file": "comparison_old_frames/0010.png",
+          "sha256": "b7997cd68001f12c6bf86e03ba9bd283bcbfc038d39b8782b3df612f48b31ce0"
+        },
+        {
+          "frame_index": 9,
+          "role": "after",
+          "file": "spatial_01_frames/0010.png",
+          "sha256": "1eeec159dce7b980334f1f18cd7e1ec8f397644ff820788a9467a32dd1294db4"
+        },
+        {
+          "frame_index": 10,
+          "role": "before",
+          "file": "comparison_old_frames/0011.png",
+          "sha256": "930533b6726179a27b178b351f6d561c67e928b7492826c8f12e0f85f1b6f8e4"
+        },
+        {
+          "frame_index": 10,
+          "role": "after",
+          "file": "spatial_01_frames/0011.png",
+          "sha256": "00fb9a0969f2224e196e35cb653dfc85e05ed19e4154cc8a7d47e902c0f33b6e"
+        }
+      ]
+    },
+    {
+      "board": "TEMPORAL_pouch_turn.png",
+      "window": "pouch_turn",
+      "crop": [
+        300,
+        280,
+        1000,
+        790
+      ],
+      "source_type": "Actual old-movie decode and actual new saved-native render PNGs, not manipulated poses",
+      "sources": [
+        {
+          "frame_index": 74,
+          "role": "before",
+          "file": "comparison_old_frames/0075.png",
+          "sha256": "7c6f9d127e7aedd9ed02e7a21f033fef392ab36804c4f5e556d5cf350b8be20b"
+        },
+        {
+          "frame_index": 74,
+          "role": "after",
+          "file": "spatial_01_frames/0075.png",
+          "sha256": "2644217b64f48a774dbf18f9f9cdd8eea5f475d34bebcc8bc711042501416137"
+        },
+        {
+          "frame_index": 75,
+          "role": "before",
+          "file": "comparison_old_frames/0076.png",
+          "sha256": "77a81ce3c3d686e8cb052c8e742804a6ca95be8d6c60707168a5b42724d5f3d1"
+        },
+        {
+          "frame_index": 75,
+          "role": "after",
+          "file": "spatial_01_frames/0076.png",
+          "sha256": "4b924c48d7657ddf4769307f4af3247d295691ca9202224c6d4fc0fb95357996"
+        },
+        {
+          "frame_index": 76,
+          "role": "before",
+          "file": "comparison_old_frames/0077.png",
+          "sha256": "afde73469936e8ad50be922d1b96bda5b9e3491d1f96a54ee0464ae8aa961709"
+        },
+        {
+          "frame_index": 76,
+          "role": "after",
+          "file": "spatial_01_frames/0077.png",
+          "sha256": "721aeec66f9053a1c034e70b745029a907cc7b4e3e9825cfebbf608d26c06eeb"
+        },
+        {
+          "frame_index": 77,
+          "role": "before",
+          "file": "comparison_old_frames/0078.png",
+          "sha256": "0ee1d69a03816af0f3c14af8850972947ba5650f99290c0131e9ba13d3ca2dd9"
+        },
+        {
+          "frame_index": 77,
+          "role": "after",
+          "file": "spatial_01_frames/0078.png",
+          "sha256": "4a3615a5be31deb803a9550b4b31597b2862eec8d8479de8716fdb91a92197ba"
+        },
+        {
+          "frame_index": 78,
+          "role": "before",
+          "file": "comparison_old_frames/0079.png",
+          "sha256": "b892569d12dc1d760e71eea847a4c082dcadb6e1a326158aa973136908dea1a1"
+        },
+        {
+          "frame_index": 78,
+          "role": "after",
+          "file": "spatial_01_frames/0079.png",
+          "sha256": "64a5165a7458ab3eaec0d3ca2e010d6042f876d95b79186b5d3614d3ad3452f7"
+        },
+        {
+          "frame_index": 79,
+          "role": "before",
+          "file": "comparison_old_frames/0080.png",
+          "sha256": "08b58c2604abee3d1ad59cf9542560bfc66210cadf637b881625899de6711999"
+        },
+        {
+          "frame_index": 79,
+          "role": "after",
+          "file": "spatial_01_frames/0080.png",
+          "sha256": "89f7f2dc652de26642ed0a48b9cfb31b19c578de9fe9adf62eccc9059d18c201"
+        },
+        {
+          "frame_index": 80,
+          "role": "before",
+          "file": "comparison_old_frames/0081.png",
+          "sha256": "07844b40af9d4ed2c3bbf1f60fa37c82d0174173cf1f5828b0366a7ea7af650b"
+        },
+        {
+          "frame_index": 80,
+          "role": "after",
+          "file": "spatial_01_frames/0081.png",
+          "sha256": "7bc6800806610b7d3fbb268ba1c21ff182b7328dd61611e5295fc68dc612283c"
+        },
+        {
+          "frame_index": 81,
+          "role": "before",
+          "file": "comparison_old_frames/0082.png",
+          "sha256": "a880a45f1134eae14d965a8aa5a39d33b61dda3c6c4994be0cc2441bd3d835d4"
+        },
+        {
+          "frame_index": 81,
+          "role": "after",
+          "file": "spatial_01_frames/0082.png",
+          "sha256": "b2eff453554f94b4d6051090d7eff7fbb47f15ef6650134db9e2c9c66e7be288"
+        }
+      ]
+    },
+    {
+      "board": "TEMPORAL_carry_outer.png",
+      "window": "carry_outer",
+      "crop": [
+        300,
+        280,
+        1000,
+        790
+      ],
+      "source_type": "Actual old-movie decode and actual new saved-native render PNGs, not manipulated poses",
+      "sources": [
+        {
+          "frame_index": 145,
+          "role": "before",
+          "file": "comparison_old_frames/0146.png",
+          "sha256": "b05c2d20ab5b880e63f117ce5eacac6a0d6d3dde30b66a9b3f1f445e31be3313"
+        },
+        {
+          "frame_index": 145,
+          "role": "after",
+          "file": "spatial_01_frames/0146.png",
+          "sha256": "6e653c6f098db029c9d0bc1ee20553bb3d304c48e7b03c09593d69e46c5946a1"
+        },
+        {
+          "frame_index": 146,
+          "role": "before",
+          "file": "comparison_old_frames/0147.png",
+          "sha256": "80baddc4d93779832a45bfafa9856afa6f67ba4cd7a5feb61df5408ea45f6f7e"
+        },
+        {
+          "frame_index": 146,
+          "role": "after",
+          "file": "spatial_01_frames/0147.png",
+          "sha256": "14bb866534bc90acf89dc5ffe06655db7d4d762ea2f34378bc906da3d6c53d0f"
+        },
+        {
+          "frame_index": 147,
+          "role": "before",
+          "file": "comparison_old_frames/0148.png",
+          "sha256": "8073345fbe629fa67cf23606f45a38b551ee2e3e70863a799698c50b3348fd1a"
+        },
+        {
+          "frame_index": 147,
+          "role": "after",
+          "file": "spatial_01_frames/0148.png",
+          "sha256": "e9beb851bbfc9564dcf2c2a279c652625b1be17f7e30ee492c4ee09d32a44d9d"
+        },
+        {
+          "frame_index": 148,
+          "role": "before",
+          "file": "comparison_old_frames/0149.png",
+          "sha256": "a7bbbc360bfab840be76cc06fce424742f8f3dff6654a3082bc4b4af9e1571d6"
+        },
+        {
+          "frame_index": 148,
+          "role": "after",
+          "file": "spatial_01_frames/0149.png",
+          "sha256": "8f9d168f614fb1a715f4ebb9c9ec5d3624999f87db8404396c7c3ec8b7904592"
+        },
+        {
+          "frame_index": 149,
+          "role": "before",
+          "file": "comparison_old_frames/0150.png",
+          "sha256": "9534d6e7ff870347e9f9c1910cf1fb4f86d6d77696b1d3593dad2ddc103bff61"
+        },
+        {
+          "frame_index": 149,
+          "role": "after",
+          "file": "spatial_01_frames/0150.png",
+          "sha256": "12f85fe0c9f03662ac957f2715de43fbcc9b949ffa5484176ab802564d49a944"
+        },
+        {
+          "frame_index": 150,
+          "role": "before",
+          "file": "comparison_old_frames/0151.png",
+          "sha256": "539aaa55f788e7c92823ef51549905136f4f11d73211dc4976b3f3ca634b78a4"
+        },
+        {
+          "frame_index": 150,
+          "role": "after",
+          "file": "spatial_01_frames/0151.png",
+          "sha256": "d657df225f72f78ec926ec7f90e89ff8bd3bb46b91ab87c49b3a47901393011a"
+        },
+        {
+          "frame_index": 151,
+          "role": "before",
+          "file": "comparison_old_frames/0152.png",
+          "sha256": "0216020a89cc3f40e767501a5cbc99a5c7792031c34cb8426015c26fcf27b83d"
+        },
+        {
+          "frame_index": 151,
+          "role": "after",
+          "file": "spatial_01_frames/0152.png",
+          "sha256": "490b27207cea6db8c757994620ca9e190aa6b44f677ac0b83074d830361a1f9e"
+        },
+        {
+          "frame_index": 152,
+          "role": "before",
+          "file": "comparison_old_frames/0153.png",
+          "sha256": "1432a8c1e1544018a6e4802db303d77643193f82c3ff14aafa21c6aae13d3295"
+        },
+        {
+          "frame_index": 152,
+          "role": "after",
+          "file": "spatial_01_frames/0153.png",
+          "sha256": "d88fe1647f6d33c420be1a3765411c0dcd9b7399f5a443b43d463871002fd393"
+        }
+      ]
+    },
+    {
+      "board": "TEMPORAL_foregrip_rejoin.png",
+      "window": "foregrip_rejoin",
+      "crop": [
+        300,
+        280,
+        1000,
+        790
+      ],
+      "source_type": "Actual old-movie decode and actual new saved-native render PNGs, not manipulated poses",
+      "sources": [
+        {
+          "frame_index": 200,
+          "role": "before",
+          "file": "comparison_old_frames/0201.png",
+          "sha256": "90e3b226051d135979aef2bc54ed789c661b32f1b15df96661f85e9701bfcfb9"
+        },
+        {
+          "frame_index": 200,
+          "role": "after",
+          "file": "spatial_01_frames/0201.png",
+          "sha256": "4dfd5cddf2848fd71958faa5f3f153c9ad6297e3eef572578082e52347ad04de"
+        },
+        {
+          "frame_index": 201,
+          "role": "before",
+          "file": "comparison_old_frames/0202.png",
+          "sha256": "d49277d4c58940e5328ee09f2f6ab02bb24785685d51d0fa4b26865a3d8fe83d"
+        },
+        {
+          "frame_index": 201,
+          "role": "after",
+          "file": "spatial_01_frames/0202.png",
+          "sha256": "f0fb6ecc28bcade7872bc06235918f6280f05cc44b8ce7ca1a2e6655e7b48d8a"
+        },
+        {
+          "frame_index": 202,
+          "role": "before",
+          "file": "comparison_old_frames/0203.png",
+          "sha256": "52a84b5aba0c5a1bea18c155f69cd595677faf739cddb50c27743ac45454c3fc"
+        },
+        {
+          "frame_index": 202,
+          "role": "after",
+          "file": "spatial_01_frames/0203.png",
+          "sha256": "346a22e5537e4ee9c1b16195dcccdcfa5795f285bcf0a82f64c5f3faccaa756b"
+        },
+        {
+          "frame_index": 203,
+          "role": "before",
+          "file": "comparison_old_frames/0204.png",
+          "sha256": "bdcb961dd665a865a3fcb8faa19406a80ccc89a167a164d360df7b882fa7dbd7"
+        },
+        {
+          "frame_index": 203,
+          "role": "after",
+          "file": "spatial_01_frames/0204.png",
+          "sha256": "6372e4dddd6e03a6dea875c7e25b69d2fec4811d95a43e1f743da38c8936a2c3"
+        },
+        {
+          "frame_index": 204,
+          "role": "before",
+          "file": "comparison_old_frames/0205.png",
+          "sha256": "0a929827020871f10306afb71ecf89f9f8fddff5dad4264f651052a8433670d5"
+        },
+        {
+          "frame_index": 204,
+          "role": "after",
+          "file": "spatial_01_frames/0205.png",
+          "sha256": "48edb7ee784d91279b99d52e9d9d12b57b16b964d658d2a480bf2bf749539472"
+        },
+        {
+          "frame_index": 205,
+          "role": "before",
+          "file": "comparison_old_frames/0206.png",
+          "sha256": "bb7ba46dba2a585b8b41f11af1a3f439c13f4425509ee97fad3b450b27eb8095"
+        },
+        {
+          "frame_index": 205,
+          "role": "after",
+          "file": "spatial_01_frames/0206.png",
+          "sha256": "10ac000e96396e275d166f567f3ba834170e8f39ff18848913609b228d31fa64"
+        },
+        {
+          "frame_index": 206,
+          "role": "before",
+          "file": "comparison_old_frames/0207.png",
+          "sha256": "1df23e1f1811d6a0456936c152a0fed425c528ac5c990707a5d7381300a7c01a"
+        },
+        {
+          "frame_index": 206,
+          "role": "after",
+          "file": "spatial_01_frames/0207.png",
+          "sha256": "cd0413b15013d6f99e6b16a4f9fc5a4c6f9993781922755fd951eadc617c1365"
+        },
+        {
+          "frame_index": 207,
+          "role": "before",
+          "file": "comparison_old_frames/0208.png",
+          "sha256": "6fb4c0d3817175dccdb6f5d72f02c7c06e1b6d76f135aa90b14d0cf2142358b6"
+        },
+        {
+          "frame_index": 207,
+          "role": "after",
+          "file": "spatial_01_frames/0208.png",
+          "sha256": "52eed18c339b5a34f57d9f088b3bb6328463607b951ce28bb0cf42d3acefebc4"
+        }
+      ]
+    }
+  ],
+  "no_continuous_playback_claim": true
+}

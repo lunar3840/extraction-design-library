@@ -1,0 +1,500 @@
+{
+  "status": "verified_requested_low_ready_scope_root_accepted_publish_pending",
+  "static_pose_visual_verdict": "Current actual0/90/270 views acceptable for the shoulder origin correction; hidden trigger fingers not fully visible. Dynamic transition remains separate.",
+  "video_status": "deferred at user request; no motion-video acceptance claimed",
+  "ready": true,
+  "publish_status": "pending",
+  "shoulders": [
+    {
+      "side": "left",
+      "before_upper_origin_model": {
+        "x": -0.1578523963689804,
+        "y": 1.098531723022461,
+        "z": 0.12054824829101562
+      },
+      "after_upper_origin_model": {
+        "x": -0.19810517132282257,
+        "y": 1.1032191514968872,
+        "z": 0.011281013488769531
+      },
+      "after_preprocedural_source_origin_model": {
+        "x": -0.17014338076114655,
+        "y": 1.0984164476394653,
+        "z": 0.10540556907653809
+      },
+      "note": "Different actual breathing samples; bind-relative local rotation restore, not direct world/position snapping."
+    },
+    {
+      "side": "right",
+      "before_upper_origin_model": {
+        "x": 0.19073905050754547,
+        "y": 1.1014378070831299,
+        "z": 0.06119394302368164
+      },
+      "after_upper_origin_model": {
+        "x": 0.19808855652809143,
+        "y": 1.1032286882400513,
+        "z": 0.011273384094238281
+      },
+      "after_preprocedural_source_origin_model": {
+        "x": 0.19549697637557983,
+        "y": 1.1016334295272827,
+        "z": 0.04253125190734863
+      },
+      "note": "Different actual breathing samples; bind-relative local rotation restore, not direct world/position snapping."
+    }
+  ],
+  "torso": [
+    {
+      "source": "after_edel_low_torso.json",
+      "sha256": "0043295faf03fef86a4786ce354b330b448c51037b52b26a3e1170074e7c945c",
+      "context": "portrait",
+      "status": "REVIEW torso within 2cm",
+      "geometryRegion": "torso",
+      "targetTriangles": 10888,
+      "gunTriangles": 8087,
+      "triangleIntersections": 0,
+      "minimumGapWithin2cm": 0.006472983863204718,
+      "gunInsideTwoAxes": 0,
+      "gunInsideThreeAxes": 0,
+      "ambiguousContainmentSamples": 247,
+      "unavailable": [],
+      "limits": "Torso patch is open at limb/neck boundaries; containment rays may be ambiguous. Legacy headTriangles/headRenderer/headPoint JSON fields now mean the target TORSO (see geometryRegion). Actual surface crossings are tested; no approximate chest box or AABB-only pass. No intersections still needs actual skin/weapon visual review."
+    },
+    {
+      "source": "after_edel_inspection_torso.json",
+      "sha256": "e080203f68afe3aea67d0da4a040e8996e0b8dd32a77d8e2cf9dae84af074238",
+      "context": "portrait",
+      "status": "REVIEW torso within 2cm",
+      "geometryRegion": "torso",
+      "targetTriangles": 10888,
+      "gunTriangles": 8087,
+      "triangleIntersections": 0,
+      "minimumGapWithin2cm": 0.010385239496827126,
+      "gunInsideTwoAxes": 0,
+      "gunInsideThreeAxes": 0,
+      "ambiguousContainmentSamples": 255,
+      "unavailable": [],
+      "limits": "Torso patch is open at limb/neck boundaries; containment rays may be ambiguous. Legacy headTriangles/headRenderer/headPoint JSON fields now mean the target TORSO (see geometryRegion). Actual surface crossings are tested; no approximate chest box or AABB-only pass. No intersections still needs actual skin/weapon visual review."
+    }
+  ],
+  "arm_surface_probe": {
+    "model": "Player_Edel",
+    "style": "LowReady",
+    "status": "REVIEW actual silhouette required",
+    "method": "Actual skin matrices and active blendshapes. Torso-only triangles; arm surface samples below the joined shoulder. Unsigned nearest-surface distance plus paired orthogonal ray crossings. No closed-body assumption when a ray has an odd number of crossings.",
+    "limits": "Weight-based torso patch is open at limbs/neck. Odd rays are ambiguous; two agreeing inside axes are a review signal, not proof of watertight collision. A positive gap does not prove the requested visible silhouette. Dense snapshot must not be timed as a transition frame.",
+    "torsoTriangles": 10888,
+    "unreadableSkins": 0,
+    "readyWeight": 1.0,
+    "highBlend": 0.0,
+    "right": {
+      "side": "right",
+      "status": "MEASURED positive gap; actual silhouette review required",
+      "candidateSamples": 6230,
+      "samples": 2048,
+      "nearTouchSamples": 0,
+      "insideTwoAxes": 0,
+      "insideThreeAxes": 0,
+      "ambiguousRaySamples": 2029,
+      "minSurfaceGap": 0.013572588562965393,
+      "p05SurfaceGap": 0.041644275188446045,
+      "p50SurfaceGap": 0.09899096935987473,
+      "normalizedMinGap": 0.06878973543643951,
+      "elbowOutwardFromShoulder": 0.054450422525405884,
+      "worstArmPoint": {
+        "x": 0.1661040037870407,
+        "y": 1.0403543710708618,
+        "z": 0.06615591794252396
+      },
+      "nearestTorsoPoint": {
+        "x": 0.15434613823890686,
+        "y": 1.045156717300415,
+        "z": 0.06136997789144516
+      }
+    },
+    "left": {
+      "side": "left",
+      "status": "REVIEW near-touch under 5mm model-scaled",
+      "candidateSamples": 2446,
+      "samples": 2048,
+      "nearTouchSamples": 5,
+      "insideTwoAxes": 0,
+      "insideThreeAxes": 0,
+      "ambiguousRaySamples": 1875,
+      "minSurfaceGap": 0.002895655808970332,
+      "p05SurfaceGap": 0.02038753777742386,
+      "p50SurfaceGap": 0.07510364055633545,
+      "normalizedMinGap": 0.014675959013402462,
+      "elbowOutwardFromShoulder": 0.028189897537231445,
+      "worstArmPoint": {
+        "x": -0.1549483984708786,
+        "y": 1.0350341796875,
+        "z": 0.05618429556488991
+      },
+      "nearestTorsoPoint": {
+        "x": -0.1521795392036438,
+        "y": 1.035851240158081,
+        "z": 0.05595923215150833
+      }
+    },
+    "unavailable": []
+  },
+  "transitions": {
+    "edel": {
+      "status": "REVIEW",
+      "model": "Player_Edel",
+      "largeJointJumpCount": 1,
+      "largeRotationJumpCount": 1,
+      "maxLengthRelativeError": 2.61124296230264e-06,
+      "maxJointStepPerUpperLengthAt60Hz": 0.22958151996135712,
+      "maxActualReadyPalmError": 0.001913508865982294,
+      "nonFiniteSamples": 0,
+      "unexpectedManualSelectionSamples": 0,
+      "reloadAccepted": true,
+      "movementObserved": true,
+      "aimObserved": true,
+      "canceledHighBlocked": true,
+      "attemptedAutoEnableBlocked": true,
+      "highProfileArgumentBlocked": true,
+      "unexpectedHighSamples": 0,
+      "rightContactCheckedSamples": 432,
+      "leftContactCheckedSamples": 432,
+      "leftFreeSamples": 0,
+      "autoHighObserved": false,
+      "autoStayedLowObserved": true,
+      "quietProgressedWithInventoryFlag": true,
+      "originalWeaponsUnchanged": true,
+      "loadoutReferencesRestored": true,
+      "inputFlagsRestored": true,
+      "transformRestored": true,
+      "selectedStateRestored": true,
+      "needsRestored": true,
+      "healthStaminaUnchanged": true,
+      "originalHighBlend": 0.0,
+      "finalHighBlend": 0.0,
+      "failures": [
+        "Large cadence-normalized joint jump: review phaseMotion; smoothness not passed",
+        "Large cadence-normalized bone rotation jump: possible axial-roll/hinge branch; smoothness not passed"
+      ],
+      "source": "low_only_edel_final.json",
+      "sha256": "20930a3d3888279fc6b39ca718ca196088b5a6c0aeb5e94b060363076b8b9e3e",
+      "samples": 624,
+      "review_phases": [
+        {
+          "phase": "Movement interruption",
+          "peakJoint": "left elbow",
+          "samples": 60,
+          "peakSampleIndex": 8,
+          "largeJumpCount": 0,
+          "largeRotationJumpCount": 1,
+          "peakRotationJoint": "left lower",
+          "peakRotationSampleIndex": 1,
+          "maxAngularStep": 45.19355392456055,
+          "maxAngularSpeed": 942.6495361328125,
+          "maxAngularStepAt60Hz": 15.710824966430664,
+          "peakRotationActualDt": 0.047943115234375,
+          "elapsed": 3.00390625,
+          "maxJointStep": 0.07840808480978012,
+          "maxJointSpeed": 1.4810484647750854,
+          "maxNormalizedStepAt60Hz": 0.1251053810119629,
+          "peakActualDt": 0.04729461669921875,
+          "sparseCadence": false
+        },
+        {
+          "phase": "Reload interruption",
+          "peakJoint": "left wrist",
+          "samples": 60,
+          "peakSampleIndex": 53,
+          "largeJumpCount": 1,
+          "largeRotationJumpCount": 0,
+          "peakRotationJoint": "left upper",
+          "peakRotationSampleIndex": 53,
+          "maxAngularStep": 31.223875045776367,
+          "maxAngularSpeed": 631.0529174804688,
+          "maxAngularStepAt60Hz": 10.517548561096191,
+          "peakRotationActualDt": 0.049072265625,
+          "elapsed": 3.1492385864257812,
+          "maxJointStep": 0.133372500538826,
+          "maxJointSpeed": 2.717879295349121,
+          "maxNormalizedStepAt60Hz": 0.22958151996135712,
+          "peakActualDt": 0.049072265625,
+          "sparseCadence": false
+        }
+      ]
+    },
+    "serin": {
+      "status": "PASS numerical fixture checks; visual review separate",
+      "model": "Player_Serin",
+      "largeJointJumpCount": 0,
+      "largeRotationJumpCount": 0,
+      "maxLengthRelativeError": 2.8450190256990027e-06,
+      "maxJointStepPerUpperLengthAt60Hz": 0.12184562534093857,
+      "maxActualReadyPalmError": 5.962326667940943e-07,
+      "nonFiniteSamples": 0,
+      "unexpectedManualSelectionSamples": 0,
+      "reloadAccepted": true,
+      "movementObserved": true,
+      "aimObserved": true,
+      "canceledHighBlocked": true,
+      "attemptedAutoEnableBlocked": true,
+      "highProfileArgumentBlocked": true,
+      "unexpectedHighSamples": 0,
+      "rightContactCheckedSamples": 487,
+      "leftContactCheckedSamples": 487,
+      "leftFreeSamples": 0,
+      "autoHighObserved": false,
+      "autoStayedLowObserved": true,
+      "quietProgressedWithInventoryFlag": true,
+      "originalWeaponsUnchanged": true,
+      "loadoutReferencesRestored": true,
+      "inputFlagsRestored": true,
+      "transformRestored": true,
+      "selectedStateRestored": true,
+      "needsRestored": true,
+      "healthStaminaUnchanged": true,
+      "originalHighBlend": 0.0,
+      "finalHighBlend": 0.0,
+      "failures": [],
+      "source": "low_only_serin_current.json",
+      "sha256": "987c31f085bf7153df74bd5a8b3ac2be82f5e16ab62ac6058e1bc53c4176a6d6",
+      "samples": 624,
+      "review_phases": []
+    },
+    "edel_recovery": {
+      "status": "REVIEW",
+      "model": "Player_Edel",
+      "largeJointJumpCount": 1,
+      "largeRotationJumpCount": 2,
+      "maxLengthRelativeError": 2.521203441574471e-06,
+      "maxJointStepPerUpperLengthAt60Hz": 0.3865836560726166,
+      "maxActualReadyPalmError": 4.86289536638651e-07,
+      "nonFiniteSamples": 0,
+      "unexpectedManualSelectionSamples": 0,
+      "reloadAccepted": true,
+      "movementObserved": true,
+      "aimObserved": true,
+      "canceledHighBlocked": true,
+      "attemptedAutoEnableBlocked": true,
+      "highProfileArgumentBlocked": true,
+      "unexpectedHighSamples": 0,
+      "rightContactCheckedSamples": 399,
+      "leftContactCheckedSamples": 399,
+      "leftFreeSamples": 0,
+      "autoHighObserved": false,
+      "autoStayedLowObserved": true,
+      "quietProgressedWithInventoryFlag": true,
+      "originalWeaponsUnchanged": true,
+      "loadoutReferencesRestored": true,
+      "inputFlagsRestored": true,
+      "transformRestored": true,
+      "selectedStateRestored": true,
+      "needsRestored": true,
+      "healthStaminaUnchanged": true,
+      "originalHighBlend": 0.0,
+      "finalHighBlend": 0.0,
+      "failures": [
+        "Large cadence-normalized joint jump: review phaseMotion; smoothness not passed",
+        "Large cadence-normalized bone rotation jump: possible axial-roll/hinge branch; smoothness not passed"
+      ],
+      "source": "low_only_edel_recovery.json",
+      "sha256": "3854877c9c8fce1c5d3999d959fe20acbfe8610160d6aef4501c137b69157439",
+      "samples": 624,
+      "review_phases": [
+        {
+          "phase": "Reload release/manual retention",
+          "peakJoint": "left elbow",
+          "samples": 60,
+          "peakSampleIndex": 2,
+          "largeJumpCount": 1,
+          "largeRotationJumpCount": 2,
+          "peakRotationJoint": "left lower",
+          "peakRotationSampleIndex": 2,
+          "maxAngularStep": 51.625457763671875,
+          "maxAngularSpeed": 1665.2275390625,
+          "maxAngularStepAt60Hz": 27.75379180908203,
+          "peakRotationActualDt": 0.031002044677734375,
+          "elapsed": 2.073211669921875,
+          "maxJointStep": 0.14188212156295776,
+          "maxJointSpeed": 4.576540946960449,
+          "maxNormalizedStepAt60Hz": 0.3865836560726166,
+          "peakActualDt": 0.031002044677734375,
+          "sparseCadence": false
+        }
+      ]
+    },
+    "edel_continuous": {
+      "status": "PASS numerical fixture checks; visual review separate",
+      "model": "Player_Edel",
+      "largeJointJumpCount": 0,
+      "largeRotationJumpCount": 0,
+      "maxLengthRelativeError": 2.6112479645235e-06,
+      "maxJointStepPerUpperLengthAt60Hz": 0.13146083056926727,
+      "maxActualReadyPalmError": 0.0017352283466607332,
+      "nonFiniteSamples": 0,
+      "unexpectedManualSelectionSamples": 0,
+      "reloadAccepted": true,
+      "movementObserved": true,
+      "aimObserved": true,
+      "canceledHighBlocked": true,
+      "attemptedAutoEnableBlocked": true,
+      "highProfileArgumentBlocked": true,
+      "unexpectedHighSamples": 0,
+      "rightContactCheckedSamples": 398,
+      "leftContactCheckedSamples": 398,
+      "leftFreeSamples": 0,
+      "autoHighObserved": false,
+      "autoStayedLowObserved": true,
+      "quietProgressedWithInventoryFlag": true,
+      "originalWeaponsUnchanged": true,
+      "loadoutReferencesRestored": true,
+      "inputFlagsRestored": true,
+      "transformRestored": true,
+      "selectedStateRestored": true,
+      "needsRestored": true,
+      "healthStaminaUnchanged": true,
+      "originalHighBlend": 0.0,
+      "finalHighBlend": 0.0,
+      "failures": [],
+      "source": "low_only_edel_continuous.json",
+      "sha256": "3b80f59a2e5edc0b386d3470533bd3e4bfbf88e058a7b88aa39a466f45f72ca2",
+      "samples": 624,
+      "review_phases": []
+    }
+  },
+  "high_cancellation": {
+    "source": "after_high_cancelled.txt",
+    "sha256": "c347a27c1e411ace136aeb5049ff1cc92664d90c43d9d330159aa34130938e7f",
+    "text": "PASS requested High and automatic alternation: selected=LowReady highBlend=0 auto=False"
+  },
+  "images": [
+    {
+      "source": "outputs/change_records/2026-10-24/edel-natural-arm-pose/before_shoulder_anchor_edel_90_valid_portrait.png",
+      "copied_file": "before_shoulder_anchor_edel_90_valid_portrait.png",
+      "source_sha256": "d9e7e42b11d39f3a29d7e1d85dfe098704af9ade9e1c097a4ff14bd68f892f8e",
+      "copy_sha256": "d9e7e42b11d39f3a29d7e1d85dfe098704af9ade9e1c097a4ff14bd68f892f8e",
+      "dimensions": [
+        768,
+        1152
+      ],
+      "capture_metadata": "model=prototype\nyaw=90\nfallback=0\northo=1.040429",
+      "original_name_preserved": true,
+      "actual_capture": true
+    },
+    {
+      "source": "outputs/change_records/2026-10-24/edel-natural-arm-pose/after_edel_low_90_portrait.png",
+      "copied_file": "after_edel_low_90_portrait.png",
+      "source_sha256": "80b2004c36df23c0185b51204b39403998fdef279a360cffcc43836981e0e7b7",
+      "copy_sha256": "80b2004c36df23c0185b51204b39403998fdef279a360cffcc43836981e0e7b7",
+      "dimensions": [
+        768,
+        1152
+      ],
+      "capture_metadata": "model=prototype\nyaw=90\nfallback=0\northo=1.040429",
+      "original_name_preserved": true,
+      "actual_capture": true
+    },
+    {
+      "source": "outputs/change_records/2026-10-24/edel-natural-arm-pose/after_edel_low_0_portrait.png",
+      "copied_file": "after_edel_low_0_portrait.png",
+      "source_sha256": "e2de50b811a8d2a2eac41c545391c4ebb67a01845852c030a7ec58847f8aab16",
+      "copy_sha256": "e2de50b811a8d2a2eac41c545391c4ebb67a01845852c030a7ec58847f8aab16",
+      "dimensions": [
+        768,
+        1152
+      ],
+      "capture_metadata": "model=prototype\nyaw=0\nfallback=0\northo=1.040429",
+      "original_name_preserved": true,
+      "actual_capture": true
+    },
+    {
+      "source": "outputs/change_records/2026-10-24/edel-natural-arm-pose/after_edel_low_270_portrait.png",
+      "copied_file": "after_edel_low_270_portrait.png",
+      "source_sha256": "005cc84c099d33693c50ac22b38dd814000339a8c42f121306bd70e4d6cb3fd0",
+      "copy_sha256": "005cc84c099d33693c50ac22b38dd814000339a8c42f121306bd70e4d6cb3fd0",
+      "dimensions": [
+        768,
+        1152
+      ],
+      "capture_metadata": "model=prototype\nyaw=270\nfallback=0\northo=1.040429",
+      "original_name_preserved": true,
+      "actual_capture": true
+    }
+  ],
+  "comparison_policy": {
+    "selected_pair": [
+      "before_shoulder_anchor_edel_90_valid_portrait.png",
+      "after_edel_low_90_portrait.png"
+    ],
+    "same_ortho": 1.040429,
+    "limits": "Actual90 turntable views. Breathing/hair state differ; no artificial alignment or exact pixel registration. Before0/270 live-rig captures are preserved historically but use a different camera/lighting/framing and are not selected as direct portrait pairs.",
+    "failed_before_excluded": "before_shoulder_anchor_edel_90.png was captured before portrait initialization; no valid portrait output.",
+    "withdrawn_high_images_selected": false
+  },
+  "latest_edel_dynamic_source": "low_only_edel_continuous.json",
+  "failed_histories_retained": [
+    {
+      "file": "low_only_edel_final.json",
+      "sha256": "20930a3d3888279fc6b39ca718ca196088b5a6c0aeb5e94b060363076b8b9e3e",
+      "deleted_or_overwritten": false
+    },
+    {
+      "file": "low_only_edel_recovery.json",
+      "sha256": "3854877c9c8fce1c5d3999d959fe20acbfe8610160d6aef4501c137b69157439",
+      "deleted_or_overwritten": false
+    }
+  ],
+  "current_production_source_fingerprints": [
+    {
+      "file": "C:/UnityProject/escape/Assets/Escape/Runtime/SdWeaponPose.cs",
+      "sha256": "b5733a3c1dad92add025746bf9f24433f06475004942252a46f98bf39a60dde7",
+      "bytes": 46547
+    },
+    {
+      "file": "C:/UnityProject/escape/Assets/Escape/Runtime/UI/InventoryPortrait.cs",
+      "sha256": "9c72a04f14d12bbbc824b96553f04458672c158bfe69085138637f4dd921eebf",
+      "bytes": 35266
+    },
+    {
+      "file": "C:/UnityProject/escape/Assets/Escape/Runtime/SdIdlePresentation.cs",
+      "sha256": "2b1ce83883213b62c34a5271c4950cb14f0d999d413e02d3cc4b1c00a688e876",
+      "bytes": 18248
+    }
+  ],
+  "compile_validation": {
+    "errors": 0,
+    "evidence": "Parent confirmed actual current-source Unity compilation; independent pack author did not launch Unity or run a new compile."
+  },
+  "root_review": "Parent authorized ready after current continuous numerical PASS and confirmed current static image acceptance. All restoration flags independently read and verified true.",
+  "contact_scope_limit": {
+    "ready_reported_max_m": 0.0017352283466607332,
+    "applies_to": "near-full Ready acceptance only, not every transition sample",
+    "measured_all_samples": {
+      "final": {
+        "max_left_authored_socket_error_m": 0.07322923839092255,
+        "phase": "Movement interruption",
+        "index": 3,
+        "readyWeight": 0.5055868625640869,
+        "baseline_max_m": 4.814712610823335e-07,
+        "aim_end_m": 1.4057727071303816e-07
+      },
+      "recovery": {
+        "max_left_authored_socket_error_m": 0.06304692476987839,
+        "phase": "Movement interruption",
+        "index": 5,
+        "readyWeight": 0.5575962066650391,
+        "baseline_max_m": 4.7706993200336e-07,
+        "aim_end_m": 1.4466411357716424e-07
+      },
+      "continuous": {
+        "max_left_authored_socket_error_m": 0.059303101152181625,
+        "phase": "Movement interruption",
+        "index": 5,
+        "readyWeight": 0.6045413613319397,
+        "baseline_max_m": 4.807789650840277e-07,
+        "aim_end_m": 2.2351741790771484e-08
+      }
+    },
+    "interpretation": "Movement midtransition left hand can miss the authored gun support socket by59.303mm. Previous failed versions73.229/63.047mm. Baseline/aim end below0.001mm. Existing carry reach limitation; no matched pre-anchor attribution established. Do not claim gun contact maintained through every transition."
+  }
+}

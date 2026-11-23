@@ -1,0 +1,1152 @@
+{
+  "plan_sha256": "72fcb5b3275632d4115aef8602c3599a9e7d1677e3cf3bf1241b669953d68bf8",
+  "facts_sha256": "7a9d02a2eb8aa05d9e53bfec5b11b1f7d1c745aebe4bcf9c0bc49fbfeea5e5d3",
+  "method": "0.5m top-down 4-neighbor raster; saved 9/28 water polygon and proposed bridge decks; gate polygons subtract from proposed barrier mask",
+  "scope_limit": "Design-space connectivity only. Existing building interiors/doors, Unity runtime collision, slopes, NavMesh, actors, and vision not verified.",
+  "counts": {
+    "barriers": 11,
+    "gates": 22,
+    "zones": 9,
+    "bridges": 2
+  },
+  "schema_errors": [],
+  "gate_counts_by_zone": {
+    "Z1": 4,
+    "Z2": 6,
+    "Z4": 6,
+    "Z5": 9,
+    "Z7": 4,
+    "Z8": 6,
+    "Z3": 4,
+    "Z6": 7,
+    "Z9": 2
+  },
+  "closed_zone_components": {
+    "Z1": {
+      "component": 1,
+      "seed_offset_m": 0.0
+    },
+    "Z2": {
+      "component": 2,
+      "seed_offset_m": 0.0
+    },
+    "Z3": {
+      "component": 3,
+      "seed_offset_m": 0.0
+    },
+    "Z4": {
+      "component": 4,
+      "seed_offset_m": 0.0
+    },
+    "Z5": {
+      "component": 5,
+      "seed_offset_m": 0.0
+    },
+    "Z6": {
+      "component": 6,
+      "seed_offset_m": 0.0
+    },
+    "Z7": {
+      "component": 7,
+      "seed_offset_m": 0.0
+    },
+    "Z8": {
+      "component": 6,
+      "seed_offset_m": 0.0
+    },
+    "Z9": {
+      "component": 6,
+      "seed_offset_m": 0.0
+    }
+  },
+  "closed_leak_groups": [
+    [
+      "Z6",
+      "Z8",
+      "Z9"
+    ]
+  ],
+  "closed_zone_components_without_bridges": {
+    "Z1": {
+      "component": 1,
+      "seed_offset_m": 0.0
+    },
+    "Z2": {
+      "component": 2,
+      "seed_offset_m": 0.0
+    },
+    "Z3": {
+      "component": 3,
+      "seed_offset_m": 0.0
+    },
+    "Z4": {
+      "component": 4,
+      "seed_offset_m": 0.0
+    },
+    "Z5": {
+      "component": 5,
+      "seed_offset_m": 0.0
+    },
+    "Z6": {
+      "component": 6,
+      "seed_offset_m": 0.0
+    },
+    "Z7": {
+      "component": 7,
+      "seed_offset_m": 0.0
+    },
+    "Z8": {
+      "component": 8,
+      "seed_offset_m": 0.0
+    },
+    "Z9": {
+      "component": 9,
+      "seed_offset_m": 0.0
+    }
+  },
+  "closed_leak_groups_without_bridges": [],
+  "open_zone_components": {
+    "Z1": {
+      "component": 1,
+      "seed_offset_m": 0.0
+    },
+    "Z2": {
+      "component": 1,
+      "seed_offset_m": 0.0
+    },
+    "Z3": {
+      "component": 1,
+      "seed_offset_m": 0.0
+    },
+    "Z4": {
+      "component": 1,
+      "seed_offset_m": 0.0
+    },
+    "Z5": {
+      "component": 1,
+      "seed_offset_m": 0.0
+    },
+    "Z6": {
+      "component": 1,
+      "seed_offset_m": 0.0
+    },
+    "Z7": {
+      "component": 1,
+      "seed_offset_m": 0.0
+    },
+    "Z8": {
+      "component": 1,
+      "seed_offset_m": 0.0
+    },
+    "Z9": {
+      "component": 1,
+      "seed_offset_m": 0.0
+    }
+  },
+  "all_zones_open_connected": true,
+  "all_zones_open_connected_with_building_aabbs": true,
+  "gate_checks": [
+    {
+      "id": "G01",
+      "pair": [
+        "Z1",
+        "Z2"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G02",
+      "pair": [
+        "Z1",
+        "Z2"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G03",
+      "pair": [
+        "Z1",
+        "Z4"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G04",
+      "pair": [
+        "Z1",
+        "Z4"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G05",
+      "pair": [
+        "Z4",
+        "Z5"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G06",
+      "pair": [
+        "Z4",
+        "Z5"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G07",
+      "pair": [
+        "Z4",
+        "Z7"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G08",
+      "pair": [
+        "Z4",
+        "Z7"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G09",
+      "pair": [
+        "Z7",
+        "Z8"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G10",
+      "pair": [
+        "Z7",
+        "Z8"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G11",
+      "pair": [
+        "Z2",
+        "Z5"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G12",
+      "pair": [
+        "Z2",
+        "Z5"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G13",
+      "pair": [
+        "Z2",
+        "Z3"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G14",
+      "pair": [
+        "Z2",
+        "Z3"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G15",
+      "pair": [
+        "Z3",
+        "Z6"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G16",
+      "pair": [
+        "Z3",
+        "Z6"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G17",
+      "pair": [
+        "Z5",
+        "Z6"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G18",
+      "pair": [
+        "Z5",
+        "Z6"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G19",
+      "pair": [
+        "Z5",
+        "Z6"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G20",
+      "pair": [
+        "Z5",
+        "Z8"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G21",
+      "pair": [
+        "Z5",
+        "Z8"
+      ],
+      "closed_separate_with_permanent_bridges": true,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "G22",
+      "pair": [
+        "Z6",
+        "Z8"
+      ],
+      "closed_separate_with_permanent_bridges": false,
+      "closed_separate_without_bridges": true,
+      "open_connected": true,
+      "local_open_probe_connected": true,
+      "local_probe_offsets_m": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "local_gate_crossings": [
+    {
+      "gate": "G01",
+      "local_cut_open": true,
+      "path_m": 24.5,
+      "direct_m": 24.0,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G02",
+      "local_cut_open": true,
+      "path_m": 32.5,
+      "direct_m": 23.9,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G03",
+      "local_cut_open": true,
+      "path_m": 23.0,
+      "direct_m": 20.2,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G04",
+      "local_cut_open": true,
+      "path_m": 25.0,
+      "direct_m": 19.9,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G05",
+      "local_cut_open": true,
+      "path_m": 21.0,
+      "direct_m": 20.0,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G06",
+      "local_cut_open": true,
+      "path_m": 23.5,
+      "direct_m": 19.9,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G07",
+      "local_cut_open": true,
+      "path_m": 23.5,
+      "direct_m": 19.9,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G08",
+      "local_cut_open": true,
+      "path_m": 23.0,
+      "direct_m": 20.2,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G09",
+      "local_cut_open": true,
+      "path_m": 21.5,
+      "direct_m": 19.6,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G10",
+      "local_cut_open": true,
+      "path_m": 27.5,
+      "direct_m": 19.8,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G11",
+      "local_cut_open": true,
+      "path_m": 31.0,
+      "direct_m": 26.5,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G12",
+      "local_cut_open": true,
+      "path_m": 29.0,
+      "direct_m": 26.2,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G13",
+      "local_cut_open": true,
+      "path_m": 34.0,
+      "direct_m": 26.0,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G14",
+      "local_cut_open": true,
+      "path_m": 35.0,
+      "direct_m": 25.9,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G15",
+      "local_cut_open": true,
+      "path_m": 20.0,
+      "direct_m": 20.0,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G16",
+      "local_cut_open": true,
+      "path_m": 24.0,
+      "direct_m": 19.6,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G17",
+      "local_cut_open": true,
+      "path_m": 26.0,
+      "direct_m": 22.0,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G18",
+      "local_cut_open": true,
+      "path_m": 27.0,
+      "direct_m": 21.8,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G19",
+      "local_cut_open": true,
+      "path_m": 28.0,
+      "direct_m": 21.5,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G20",
+      "local_cut_open": true,
+      "path_m": 25.5,
+      "direct_m": 21.9,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G21",
+      "local_cut_open": true,
+      "path_m": 23.5,
+      "direct_m": 22.1,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G22",
+      "local_cut_open": true,
+      "path_m": 31.0,
+      "direct_m": 21.9,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    }
+  ],
+  "local_gate_crossings_with_building_aabbs": [
+    {
+      "gate": "G01",
+      "local_cut_open": true,
+      "path_m": 24.5,
+      "direct_m": 24.0,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G02",
+      "local_cut_open": true,
+      "path_m": 32.5,
+      "direct_m": 23.9,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G03",
+      "local_cut_open": true,
+      "path_m": 23.0,
+      "direct_m": 20.2,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G04",
+      "local_cut_open": true,
+      "path_m": 25.0,
+      "direct_m": 19.9,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G05",
+      "local_cut_open": true,
+      "path_m": 19.0,
+      "direct_m": 19.0,
+      "probe_offsets_m": [
+        1.4142135623730951,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G06",
+      "local_cut_open": true,
+      "path_m": 23.5,
+      "direct_m": 19.9,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G07",
+      "local_cut_open": true,
+      "path_m": 23.5,
+      "direct_m": 19.9,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G08",
+      "local_cut_open": true,
+      "path_m": 23.0,
+      "direct_m": 20.2,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G09",
+      "local_cut_open": true,
+      "path_m": 21.5,
+      "direct_m": 19.6,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G10",
+      "local_cut_open": true,
+      "path_m": 27.5,
+      "direct_m": 19.8,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G11",
+      "local_cut_open": true,
+      "path_m": 31.0,
+      "direct_m": 26.5,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G12",
+      "local_cut_open": true,
+      "path_m": 29.0,
+      "direct_m": 26.2,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G13",
+      "local_cut_open": true,
+      "path_m": 34.0,
+      "direct_m": 26.0,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G14",
+      "local_cut_open": true,
+      "path_m": 35.0,
+      "direct_m": 25.9,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G15",
+      "local_cut_open": true,
+      "path_m": 20.0,
+      "direct_m": 20.0,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G16",
+      "local_cut_open": true,
+      "path_m": 24.0,
+      "direct_m": 19.6,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G17",
+      "local_cut_open": true,
+      "path_m": 26.0,
+      "direct_m": 22.0,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G18",
+      "local_cut_open": true,
+      "path_m": 27.0,
+      "direct_m": 21.8,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G19",
+      "local_cut_open": true,
+      "path_m": 28.0,
+      "direct_m": 21.5,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G20",
+      "local_cut_open": true,
+      "path_m": 25.5,
+      "direct_m": 21.9,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G21",
+      "local_cut_open": true,
+      "path_m": 23.5,
+      "direct_m": 22.1,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    },
+    {
+      "gate": "G22",
+      "local_cut_open": true,
+      "path_m": 31.0,
+      "direct_m": 21.9,
+      "probe_offsets_m": [
+        0.0,
+        0.0
+      ],
+      "reason": null
+    }
+  ],
+  "basic_entry_and_exit_access": {
+    "B1": {
+      "component": 1,
+      "offset_m": 0.0,
+      "joins_zone_network": true
+    },
+    "B2": {
+      "component": 1,
+      "offset_m": 0.0,
+      "joins_zone_network": true
+    },
+    "B3": {
+      "component": 1,
+      "offset_m": 0.0,
+      "joins_zone_network": true
+    },
+    "B4": {
+      "component": 1,
+      "offset_m": 0.0,
+      "joins_zone_network": true
+    },
+    "X1": {
+      "component": 1,
+      "offset_m": 0.0,
+      "joins_zone_network": true
+    },
+    "X2": {
+      "component": 1,
+      "offset_m": 0.0,
+      "joins_zone_network": true
+    },
+    "X3": {
+      "component": 1,
+      "offset_m": 0.0,
+      "joins_zone_network": true
+    },
+    "X4": {
+      "component": 1,
+      "offset_m": 0.0,
+      "joins_zone_network": true
+    },
+    "X5": {
+      "component": 1,
+      "offset_m": 0.0,
+      "joins_zone_network": true
+    },
+    "X6": {
+      "component": 1,
+      "offset_m": 0.0,
+      "joins_zone_network": true
+    },
+    "X7": {
+      "component": 1,
+      "offset_m": 0.0,
+      "joins_zone_network": true
+    }
+  },
+  "anchor_barrier_clearance": [
+    {
+      "anchor": "B1",
+      "nearest_barrier": "H2",
+      "edge_clearance_m": 67.995,
+      "ten_m_protection_clear": true
+    },
+    {
+      "anchor": "B2",
+      "nearest_barrier": "H4",
+      "edge_clearance_m": 11.6,
+      "ten_m_protection_clear": true
+    },
+    {
+      "anchor": "B3",
+      "nearest_barrier": "H4",
+      "edge_clearance_m": 76.86,
+      "ten_m_protection_clear": true
+    },
+    {
+      "anchor": "B4",
+      "nearest_barrier": "H5",
+      "edge_clearance_m": 44.0,
+      "ten_m_protection_clear": true
+    },
+    {
+      "anchor": "R1",
+      "nearest_barrier": "H1",
+      "edge_clearance_m": 3.624,
+      "ten_m_protection_clear": false
+    },
+    {
+      "anchor": "R2",
+      "nearest_barrier": "H6",
+      "edge_clearance_m": 9.361,
+      "ten_m_protection_clear": false
+    },
+    {
+      "anchor": "R3",
+      "nearest_barrier": "H7",
+      "edge_clearance_m": 23.975,
+      "ten_m_protection_clear": true
+    },
+    {
+      "anchor": "R4",
+      "nearest_barrier": "H8",
+      "edge_clearance_m": 8.059,
+      "ten_m_protection_clear": false
+    },
+    {
+      "anchor": "R5",
+      "nearest_barrier": "H8",
+      "edge_clearance_m": 76.751,
+      "ten_m_protection_clear": true
+    },
+    {
+      "anchor": "R6",
+      "nearest_barrier": "H11",
+      "edge_clearance_m": 117.223,
+      "ten_m_protection_clear": true
+    },
+    {
+      "anchor": "R7",
+      "nearest_barrier": "H11",
+      "edge_clearance_m": 65.568,
+      "ten_m_protection_clear": true
+    },
+    {
+      "anchor": "R8",
+      "nearest_barrier": "H5",
+      "edge_clearance_m": 3.875,
+      "ten_m_protection_clear": false
+    },
+    {
+      "anchor": "X1",
+      "nearest_barrier": "H1",
+      "edge_clearance_m": 70.111,
+      "ten_m_protection_clear": true
+    },
+    {
+      "anchor": "X2",
+      "nearest_barrier": "H4",
+      "edge_clearance_m": 20.513,
+      "ten_m_protection_clear": true
+    },
+    {
+      "anchor": "X3",
+      "nearest_barrier": "H5",
+      "edge_clearance_m": 94.081,
+      "ten_m_protection_clear": true
+    },
+    {
+      "anchor": "X4",
+      "nearest_barrier": "H8",
+      "edge_clearance_m": 95.078,
+      "ten_m_protection_clear": true
+    },
+    {
+      "anchor": "X5",
+      "nearest_barrier": "H8",
+      "edge_clearance_m": 86.947,
+      "ten_m_protection_clear": true
+    },
+    {
+      "anchor": "X6",
+      "nearest_barrier": "H11",
+      "edge_clearance_m": 94.424,
+      "ten_m_protection_clear": true
+    },
+    {
+      "anchor": "X7",
+      "nearest_barrier": "H11",
+      "edge_clearance_m": 110.108,
+      "ten_m_protection_clear": true
+    }
+  ],
+  "barrier_endpoint_leak_candidates": [],
+  "barrier_centerline_building_contacts": [],
+  "barrier_halfwidth_building_contacts": [],
+  "gate_building_contacts": [],
+  "gate_graph": {
+    "all_zones_connected": true,
+    "north_bypass_without_central_Z5": true,
+    "south_bypass_without_central_Z5": true,
+    "west_to_east_without_central_Z5": true
+  },
+  "r_spawn_eligible_count": 0
+}

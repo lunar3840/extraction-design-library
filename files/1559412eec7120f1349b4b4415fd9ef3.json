@@ -1,0 +1,45 @@
+{
+  "images": [
+    {
+      "name": "after_editor_desktop.png",
+      "format": "jpeg",
+      "width": 1280,
+      "height": 720,
+      "bytes": 85161,
+      "sha256": "d9b09dbb153ca972cc5170c292dc82e191c01d99f244da90ef1935548cd81ef7"
+    },
+    {
+      "name": "after_editor_narrow.png",
+      "format": "jpeg",
+      "width": 953,
+      "height": 715,
+      "bytes": 59673,
+      "sha256": "c8bbf02f74f95c7203ee6a24cf55d714c5ae8398e91d8f7fcbaa13db94b220cb"
+    },
+    {
+      "name": "after_preview_narrow.png",
+      "format": "jpeg",
+      "width": 953,
+      "height": 715,
+      "bytes": 59945,
+      "sha256": "dc457dc5ab43ce30234b54c36627a7a24ea1eaa16d504eed921e8441b9161a48"
+    },
+    {
+      "name": "before_editor_desktop.png",
+      "format": "jpeg",
+      "width": 1280,
+      "height": 720,
+      "bytes": 85268,
+      "sha256": "8b56bc35742fcec5680b541148db639aa431df53eb0ddf657d5085fd4c7c8c34"
+    },
+    {
+      "name": "before_editor_narrow.png",
+      "format": "jpeg",
+      "width": 953,
+      "height": 715,
+      "bytes": 59683,
+      "sha256": "9214c15c6f43746be01d96e9c87f3960b0427b82989c7cb0b2ae05c61d41ff5f"
+    }
+  ],
+  "readWith": "sharp.metadata; original bytes unchanged"
+}

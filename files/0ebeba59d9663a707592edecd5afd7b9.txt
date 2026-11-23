@@ -1,0 +1,207 @@
+SIMULATED Unity Input System keyboard test; not OS input verification.
+key=V hold=0.8 seconds; production Update receives queued events.
+BEFORE
+UTC=2026-10-21T22:00:59.3288043Z
+scene=Assets/Escape/Scenes/SystemsTest.unity
+playing=True
+resolution=1920x1080
+rawScreen=1920x1080
+view=GameView #397834 position=(x:424.67, y:86.67, width:829.33, height:534.00) target=1920x1080 focused=GameView
+page=Stage
+location=Stage
+panel=-1
+save=C:\UnityProject\escape\Library\UiKitEvidence\input-0cd85ad0352a456f8a6af3ee3cc4ca6f
+position=(-119.00, 0.02, -129.00)
+inventory=False
+medicalWheelOpen=False
+medicalCaptureHold=False
+inventoryControllerEnabled=True
+applicationFocused=True
+useLiveInput=True
+simulationFrozen=False
+movementInputBlocked=False
+mapInputBlocked=False
+menuLocked=False
+frontEndBlocksGameplay=False
+abilitiesCanActivate=True
+abilitiesStatus=전방 관측 · 0개 표식
+tacticalCooldown=0
+tacticalRemaining=0
+ultimateRemaining=0
+ultimateCharge=0
+keyboardPresent=True
+keyboardCurrent=Keyboard
+simulatedInputActive=False
+simulatedInputKey=none
+simulatedDynamicDown=False
+simulatedDynamicUp=False
+interactiveOwned=True
+interactiveSaveOwned=True
+textInputFocused=False
+isDragging=False
+dragQuantity=2147483647
+detailsVisible=False
+cameras=Player Camera pixels=1920x1080
+operationTimerFit=PASS (logical units; clock bounds=92x33, caption bounds=90x22)
+operationTimerClock30:00=(65.31, 28.01)
+operationTimerClock88:88=(69.35, 28.01)
+operationTimerActual=29:23 size=(64.46, 28.01)
+operationTimerCaption=(78.67, 15.97)
+frame=10171
+vitals=health 72 stamina 100 hunger 34.63559 thirst 60.90685
+hoverCandidate= uid=
+hoverRegistrationFrame=-100
+bagViewportLogical=(x:664.00, y:302.00, width:380.00, height:360.00) scroll=(0.00, 0.00)
+itemCoordinates=game-render pixels from top left; native editor offset/zoom is separate
+item[0] item_018 uid=e3bd151e927848b9af52091ea26e79f3 qty=50 page=0 grid=0,0 rotated=False logical=(x:664.00, y:302.00, width:59.00, height:59.00) centerPixels=(832.20, 397.80)
+item[1] item_018 uid=f2ece4d768524577919513dd59ef4962 qty=50 page=0 grid=1,0 rotated=False logical=(x:724.00, y:302.00, width:59.00, height:59.00) centerPixels=(904.20, 397.80)
+item[2] med_injector_c uid=5541c7fda29146e3b1ebb720e15aa10f qty=1 page=0 grid=2,0 rotated=False logical=(x:784.00, y:302.00, width:59.00, height:59.00) centerPixels=(976.20, 397.80)
+item[3] med_field_kit_b uid=be67dfd1dc974f3abd2dc091d38a286f qty=1 page=0 grid=3,0 rotated=False logical=(x:844.00, y:302.00, width:59.00, height:59.00) centerPixels=(1048.20, 397.80)
+item[4] med_tactical_bag_a uid=e4676b78d4404cc49b2e357c4d1ce037 qty=1 page=0 grid=4,0 rotated=False logical=(x:904.00, y:302.00, width:59.00, height:119.00) centerPixels=(1120.20, 433.80)
+item[5] med_tourniquet_b uid=5d6db9422bde4a0b87712af186d66fb3 qty=1 page=0 grid=5,0 rotated=False logical=(x:964.00, y:302.00, width:59.00, height:59.00) centerPixels=(1192.20, 397.80)
+item[6] med_analgesic_b uid=8322247c916941f5b9a4098a1ea6fa7f qty=1 page=0 grid=0,1 rotated=False logical=(x:664.00, y:362.00, width:59.00, height:59.00) centerPixels=(832.20, 469.80)
+item[7] med_analgesic_a uid=caf94c38f47844d09e98f51ea9a72f08 qty=1 page=0 grid=1,1 rotated=False logical=(x:724.00, y:362.00, width:59.00, height:59.00) centerPixels=(904.20, 469.80)
+item[8] SURGERY_KIT uid=7363458cd5184587a1e05df888c00606 qty=1 page=0 grid=2,1 rotated=False logical=(x:784.00, y:362.00, width:59.00, height:59.00) centerPixels=(976.20, 469.80)
+item[9] med_surgery_b uid=58e4b346a7d84182a38c449b3ec26fa9 qty=1 page=0 grid=3,1 rotated=False logical=(x:844.00, y:362.00, width:59.00, height:119.00) centerPixels=(1048.20, 505.80)
+item[10] med_surgery_a uid=4901582f4ff541868de8b7fdcdabccde qty=1 page=0 grid=5,1 rotated=False logical=(x:964.00, y:362.00, width:59.00, height:119.00) centerPixels=(1192.20, 505.80)
+item[11] SD_BASIC_HELMET uid=bc0bfe7d140448e3bcf19d0ccf2cb163 qty=1 page=0 grid=0,2 rotated=False logical=(x:664.00, y:422.00, width:119.00, height:119.00) centerPixels=(868.20, 577.80)
+item[12] SD_BASIC_VEST uid=6716ac4338674ff38090488e4c3f4d93 qty=1 page=0 grid=2,3 rotated=False logical=(x:784.00, y:482.00, width:179.00, height:179.00) centerPixels=(1048.20, 685.80)
+DYNAMIC_KEYDOWN frame=10172 currentVirtual=True
+SIMULATED_V_SCREENSHOT_REQUESTED SIMULATED_INPUT_v_20261021T220059328.png
+HELD
+UTC=2026-10-21T22:00:59.6911948Z
+scene=Assets/Escape/Scenes/SystemsTest.unity
+playing=True
+resolution=1920x1080
+rawScreen=1920x1080
+view=GameView #397834 position=(x:424.67, y:86.67, width:829.33, height:534.00) target=1920x1080 focused=GameView
+page=Stage
+location=Stage
+panel=-1
+save=C:\UnityProject\escape\Library\UiKitEvidence\input-0cd85ad0352a456f8a6af3ee3cc4ca6f
+position=(-119.00, 0.02, -129.00)
+inventory=False
+medicalWheelOpen=True
+medicalCaptureHold=False
+inventoryControllerEnabled=True
+applicationFocused=True
+useLiveInput=True
+simulationFrozen=False
+movementInputBlocked=False
+mapInputBlocked=False
+menuLocked=False
+frontEndBlocksGameplay=False
+abilitiesCanActivate=False
+abilitiesStatus=전방 관측 · 0개 표식
+tacticalCooldown=0
+tacticalRemaining=0
+ultimateRemaining=0
+ultimateCharge=0
+keyboardPresent=True
+keyboardCurrent=UiKitEvidenceSimulatedKeyboard
+simulatedInputActive=True
+simulatedInputKey=V
+simulatedDynamicDown=True
+simulatedDynamicUp=False
+interactiveOwned=True
+interactiveSaveOwned=True
+textInputFocused=False
+isDragging=False
+dragQuantity=2147483647
+detailsVisible=False
+cameras=Player Camera pixels=1920x1080
+operationTimerFit=PASS (logical units; clock bounds=92x33, caption bounds=90x22)
+operationTimerClock30:00=(65.31, 28.01)
+operationTimerClock88:88=(69.35, 28.01)
+operationTimerActual=29:22 size=(64.11, 28.01)
+operationTimerCaption=(78.67, 15.97)
+frame=10186
+vitals=health 72 stamina 100 hunger 34.61709 thirst 60.85134
+hoverCandidate= uid=
+hoverRegistrationFrame=-100
+bagViewportLogical=(x:664.00, y:302.00, width:380.00, height:360.00) scroll=(0.00, 0.00)
+itemCoordinates=game-render pixels from top left; native editor offset/zoom is separate
+item[0] item_018 uid=e3bd151e927848b9af52091ea26e79f3 qty=50 page=0 grid=0,0 rotated=False logical=(x:664.00, y:302.00, width:59.00, height:59.00) centerPixels=(832.20, 397.80)
+item[1] item_018 uid=f2ece4d768524577919513dd59ef4962 qty=50 page=0 grid=1,0 rotated=False logical=(x:724.00, y:302.00, width:59.00, height:59.00) centerPixels=(904.20, 397.80)
+item[2] med_injector_c uid=5541c7fda29146e3b1ebb720e15aa10f qty=1 page=0 grid=2,0 rotated=False logical=(x:784.00, y:302.00, width:59.00, height:59.00) centerPixels=(976.20, 397.80)
+item[3] med_field_kit_b uid=be67dfd1dc974f3abd2dc091d38a286f qty=1 page=0 grid=3,0 rotated=False logical=(x:844.00, y:302.00, width:59.00, height:59.00) centerPixels=(1048.20, 397.80)
+item[4] med_tactical_bag_a uid=e4676b78d4404cc49b2e357c4d1ce037 qty=1 page=0 grid=4,0 rotated=False logical=(x:904.00, y:302.00, width:59.00, height:119.00) centerPixels=(1120.20, 433.80)
+item[5] med_tourniquet_b uid=5d6db9422bde4a0b87712af186d66fb3 qty=1 page=0 grid=5,0 rotated=False logical=(x:964.00, y:302.00, width:59.00, height:59.00) centerPixels=(1192.20, 397.80)
+item[6] med_analgesic_b uid=8322247c916941f5b9a4098a1ea6fa7f qty=1 page=0 grid=0,1 rotated=False logical=(x:664.00, y:362.00, width:59.00, height:59.00) centerPixels=(832.20, 469.80)
+item[7] med_analgesic_a uid=caf94c38f47844d09e98f51ea9a72f08 qty=1 page=0 grid=1,1 rotated=False logical=(x:724.00, y:362.00, width:59.00, height:59.00) centerPixels=(904.20, 469.80)
+item[8] SURGERY_KIT uid=7363458cd5184587a1e05df888c00606 qty=1 page=0 grid=2,1 rotated=False logical=(x:784.00, y:362.00, width:59.00, height:59.00) centerPixels=(976.20, 469.80)
+item[9] med_surgery_b uid=58e4b346a7d84182a38c449b3ec26fa9 qty=1 page=0 grid=3,1 rotated=False logical=(x:844.00, y:362.00, width:59.00, height:119.00) centerPixels=(1048.20, 505.80)
+item[10] med_surgery_a uid=4901582f4ff541868de8b7fdcdabccde qty=1 page=0 grid=5,1 rotated=False logical=(x:964.00, y:362.00, width:59.00, height:119.00) centerPixels=(1192.20, 505.80)
+item[11] SD_BASIC_HELMET uid=bc0bfe7d140448e3bcf19d0ccf2cb163 qty=1 page=0 grid=0,2 rotated=False logical=(x:664.00, y:422.00, width:119.00, height:119.00) centerPixels=(868.20, 577.80)
+item[12] SD_BASIC_VEST uid=6716ac4338674ff38090488e4c3f4d93 qty=1 page=0 grid=2,3 rotated=False logical=(x:784.00, y:482.00, width:179.00, height:179.00) centerPixels=(1048.20, 685.80)
+KEYUP_QUEUED frame=10200 downObserved=True
+DYNAMIC_KEYUP frame=10201
+END Scheduled simulated key sequence completed.
+dynamicDown=True dynamicUp=True wheelObserved=True
+AFTER
+UTC=2026-10-21T22:01:00.1897452Z
+scene=Assets/Escape/Scenes/SystemsTest.unity
+playing=True
+resolution=1920x1080
+rawScreen=1920x1080
+view=GameView #397834 position=(x:424.67, y:86.67, width:829.33, height:534.00) target=1920x1080 focused=GameView
+page=Stage
+location=Stage
+panel=-1
+save=C:\UnityProject\escape\Library\UiKitEvidence\input-0cd85ad0352a456f8a6af3ee3cc4ca6f
+position=(-119.00, 0.02, -129.00)
+inventory=False
+medicalWheelOpen=False
+medicalCaptureHold=False
+inventoryControllerEnabled=True
+applicationFocused=True
+useLiveInput=True
+simulationFrozen=False
+movementInputBlocked=False
+mapInputBlocked=False
+menuLocked=False
+frontEndBlocksGameplay=False
+abilitiesCanActivate=True
+abilitiesStatus=전방 관측 · 0개 표식
+tacticalCooldown=0
+tacticalRemaining=0
+ultimateRemaining=0
+ultimateCharge=0
+keyboardPresent=True
+keyboardCurrent=UiKitEvidenceSimulatedKeyboard
+simulatedInputActive=True
+simulatedInputKey=V
+simulatedDynamicDown=True
+simulatedDynamicUp=True
+interactiveOwned=True
+interactiveSaveOwned=True
+textInputFocused=False
+isDragging=False
+dragQuantity=2147483647
+detailsVisible=False
+cameras=Player Camera pixels=1920x1080
+operationTimerFit=PASS (logical units; clock bounds=92x33, caption bounds=90x22)
+operationTimerClock30:00=(65.31, 28.01)
+operationTimerClock88:88=(69.35, 28.01)
+operationTimerActual=29:22 size=(64.11, 28.01)
+operationTimerCaption=(78.67, 15.97)
+frame=10202
+vitals=health 72 stamina 100 hunger 34.59214 thirst 60.77648
+hoverCandidate= uid=
+hoverRegistrationFrame=-100
+bagViewportLogical=(x:664.00, y:302.00, width:380.00, height:360.00) scroll=(0.00, 0.00)
+itemCoordinates=game-render pixels from top left; native editor offset/zoom is separate
+item[0] item_018 uid=e3bd151e927848b9af52091ea26e79f3 qty=50 page=0 grid=0,0 rotated=False logical=(x:664.00, y:302.00, width:59.00, height:59.00) centerPixels=(832.20, 397.80)
+item[1] item_018 uid=f2ece4d768524577919513dd59ef4962 qty=50 page=0 grid=1,0 rotated=False logical=(x:724.00, y:302.00, width:59.00, height:59.00) centerPixels=(904.20, 397.80)
+item[2] med_injector_c uid=5541c7fda29146e3b1ebb720e15aa10f qty=1 page=0 grid=2,0 rotated=False logical=(x:784.00, y:302.00, width:59.00, height:59.00) centerPixels=(976.20, 397.80)
+item[3] med_field_kit_b uid=be67dfd1dc974f3abd2dc091d38a286f qty=1 page=0 grid=3,0 rotated=False logical=(x:844.00, y:302.00, width:59.00, height:59.00) centerPixels=(1048.20, 397.80)
+item[4] med_tactical_bag_a uid=e4676b78d4404cc49b2e357c4d1ce037 qty=1 page=0 grid=4,0 rotated=False logical=(x:904.00, y:302.00, width:59.00, height:119.00) centerPixels=(1120.20, 433.80)
+item[5] med_tourniquet_b uid=5d6db9422bde4a0b87712af186d66fb3 qty=1 page=0 grid=5,0 rotated=False logical=(x:964.00, y:302.00, width:59.00, height:59.00) centerPixels=(1192.20, 397.80)
+item[6] med_analgesic_b uid=8322247c916941f5b9a4098a1ea6fa7f qty=1 page=0 grid=0,1 rotated=False logical=(x:664.00, y:362.00, width:59.00, height:59.00) centerPixels=(832.20, 469.80)
+item[7] med_analgesic_a uid=caf94c38f47844d09e98f51ea9a72f08 qty=1 page=0 grid=1,1 rotated=False logical=(x:724.00, y:362.00, width:59.00, height:59.00) centerPixels=(904.20, 469.80)
+item[8] SURGERY_KIT uid=7363458cd5184587a1e05df888c00606 qty=1 page=0 grid=2,1 rotated=False logical=(x:784.00, y:362.00, width:59.00, height:59.00) centerPixels=(976.20, 469.80)
+item[9] med_surgery_b uid=58e4b346a7d84182a38c449b3ec26fa9 qty=1 page=0 grid=3,1 rotated=False logical=(x:844.00, y:362.00, width:59.00, height:119.00) centerPixels=(1048.20, 505.80)
+item[10] med_surgery_a uid=4901582f4ff541868de8b7fdcdabccde qty=1 page=0 grid=5,1 rotated=False logical=(x:964.00, y:362.00, width:59.00, height:119.00) centerPixels=(1192.20, 505.80)
+item[11] SD_BASIC_HELMET uid=bc0bfe7d140448e3bcf19d0ccf2cb163 qty=1 page=0 grid=0,2 rotated=False logical=(x:664.00, y:422.00, width:119.00, height:119.00) centerPixels=(868.20, 577.80)
+item[12] SD_BASIC_VEST uid=6716ac4338674ff38090488e4c3f4d93 qty=1 page=0 grid=2,3 rotated=False logical=(x:784.00, y:482.00, width:179.00, height:179.00) centerPixels=(1048.20, 685.80)
+Temporary virtual device removed; previous attached keyboard restored. No OS device state was changed.

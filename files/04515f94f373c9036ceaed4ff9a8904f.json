@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-30T03:18:25.899Z",
+  "requestedDateKst": "2026-10-30",
+  "sectionId": "83c06e5d-0edf-4f18-b774-bcbf73919451",
+  "sectionName": "익스트랙션 시나리오",
+  "targets": [
+    {
+      "id": "6ad518f3-eb50-83ee-8fbe-503d87819c4d",
+      "title": "블렌더 애니메이션 비교",
+      "topicId": "topic:chat/6a9d0fc0-0d14-83ee-b952-0959548603e3",
+      "category": "캐릭터",
+      "subcategory": "리깅·애니메이션"
+    },
+    {
+      "id": "6a9aa012-2568-83ee-b24a-38588f3e743a",
+      "title": "세계관 설정 작성",
+      "topicId": "topic:chat/6a9aa012-2568-83ee-b24a-38588f3e743a",
+      "category": "게임 개요·세계관",
+      "subcategory": "세계관·시나리오"
+    },
+    {
+      "id": "6a9cfb2c-d738-83e8-92f4-a2f5fee2435f",
+      "title": "주인공 캐릭터 제작",
+      "topicId": "topic:chat/6a9cfb2c-d738-83e8-92f4-a2f5fee2435f",
+      "category": "캐릭터",
+      "subcategory": "세린"
+    },
+    {
+      "id": "6a9d0fc0-0d14-83ee-b952-0959548603e3",
+      "title": "히로인 컨셉 리스트(1 - 메인부관)",
+      "topicId": "topic:chat/6a9d0fc0-0d14-83ee-b952-0959548603e3",
+      "category": "캐릭터",
+      "subcategory": "리깅·애니메이션"
+    },
+    {
+      "id": "6ad19e97-fff8-83ee-a88e-b2ce41f587df",
+      "title": "히로인 컨셉 리스트(2)",
+      "topicId": "topic:chat/6ad19e97-fff8-83ee-a88e-b2ce41f587df",
+      "category": "캐릭터",
+      "subcategory": "히로인 콘셉트(2)"
+    },
+    {
+      "id": "6ad822ac-0b28-83ee-92f6-de3cfe7e06da",
+      "title": "리브 모델 작업 완료",
+      "topicId": "topic:chat/6ad822ac-0b28-83ee-92f6-de3cfe7e06da",
+      "category": "캐릭터",
+      "subcategory": "리브"
+    },
+    {
+      "id": "6ad1a2cb-b0b0-83e8-86b5-3421dc898b6b",
+      "title": "히로인 컨셉 리스트(3)",
+      "topicId": "topic:chat/6ad1a2cb-b0b0-83e8-86b5-3421dc898b6b",
+      "category": "캐릭터",
+      "subcategory": "히로인 콘셉트(3)"
+    },
+    {
+      "id": "6ab1142e-9aac-83ee-8525-8814ed92ed3d",
+      "title": "익스트랙션 게임 에셋 분석",
+      "topicId": "topic:chat/6ab1142e-9aac-83ee-8525-8814ed92ed3d",
+      "category": "맵·레벨 디자인",
+      "subcategory": "건물·실내·외벽"
+    },
+    {
+      "id": "6ab11e2e-dabc-83e8-9094-4aed2579ba47",
+      "title": "맵 구조와 메인 미션 구상",
+      "topicId": "topic:chat/6ab11e2e-dabc-83e8-9094-4aed2579ba47",
+      "category": "맵·레벨 디자인",
+      "subcategory": "건물·실내·외벽"
+    },
+    {
+      "id": "6ae3a330-8400-83ee-966a-3947d7c326dc",
+      "title": "3D 장비 제작 plan",
+      "topicId": "topic:outputs/change_records/2026-10-19/weapon-ammo-tiers",
+      "category": "전투·적 AI",
+      "subcategory": "무기·사격"
+    }
+  ],
+  "excluded": [
+    {
+      "id": "01a160e3-a94c-77d2-bf60-ca7e6a528240",
+      "title": "Figma 자기 PR 포트폴리오 리터칭"
+    },
+    {
+      "id": "01a17862-52ec-7b41-8e9b-ccf1f95c5922",
+      "title": "Figma 기획서 포트폴리오 리터칭"
+    }
+  ],
+  "excludedTitlePatterns": [
+    "포트폴리오.*리터칭",
+    "자기 PR",
+    "FilmCraft",
+    "북시네마"
+  ],
+  "notes": "User screenshot identifies ten scenario Chat targets including Blender animation and equipment plan even if recency/sidebar section differs. Sidebar location alone does not authorize unrelated personal/othergame chats.",
+  "automationId": "automation-2",
+  "snapshotLimit": {
+    "turnLimit": 10,
+    "maxOutputCharsPerItem": 12000,
+    "coverage": "bounded recent returned data only; hasMorefalse does not guarantee full conversation"
+  },
+  "checkpointPath": "planning-library/SCENARIO_SYNC_LEDGER.json",
+  "procedurePath": "planning-library/SCENARIO_SYNC.md"
+}

@@ -1,0 +1,269 @@
+{
+  "scope": "same frontal rays through central underbust/abdomen; not global collision clearance",
+  "versions": {
+    "r10": {
+      "samples": [
+        {
+          "x": -0.025,
+          "z": 0.42,
+          "body_front_y": -0.09622928500175476,
+          "garment_front_y": -0.12492059171199799,
+          "front_depth_gap": 0.028691306710243225
+        },
+        {
+          "x": 0,
+          "z": 0.42,
+          "body_front_y": -0.09895750880241394,
+          "garment_front_y": -0.1323922723531723,
+          "front_depth_gap": 0.03343476355075836
+        },
+        {
+          "x": 0.025,
+          "z": 0.42,
+          "body_front_y": -0.09622429311275482,
+          "garment_front_y": -0.1266961544752121,
+          "front_depth_gap": 0.030471861362457275
+        },
+        {
+          "x": -0.025,
+          "z": 0.435,
+          "body_front_y": -0.09634952247142792,
+          "garment_front_y": -0.12211687862873077,
+          "front_depth_gap": 0.025767356157302856
+        },
+        {
+          "x": 0,
+          "z": 0.435,
+          "body_front_y": -0.10214455425739288,
+          "garment_front_y": -0.12984956800937653,
+          "front_depth_gap": 0.027705013751983643
+        },
+        {
+          "x": 0.025,
+          "z": 0.435,
+          "body_front_y": -0.09636594355106354,
+          "garment_front_y": -0.12472733855247498,
+          "front_depth_gap": 0.028361395001411438
+        },
+        {
+          "x": -0.025,
+          "z": 0.45,
+          "body_front_y": -0.09977604448795319,
+          "garment_front_y": -0.12251830101013184,
+          "front_depth_gap": 0.02274225652217865
+        },
+        {
+          "x": 0,
+          "z": 0.45,
+          "body_front_y": -0.10372769832611084,
+          "garment_front_y": -0.13066482543945312,
+          "front_depth_gap": 0.026937127113342285
+        },
+        {
+          "x": 0.025,
+          "z": 0.45,
+          "body_front_y": -0.09974773228168488,
+          "garment_front_y": -0.12543919682502747,
+          "front_depth_gap": 0.02569146454334259
+        },
+        {
+          "x": -0.025,
+          "z": 0.465,
+          "body_front_y": -0.09851790964603424,
+          "garment_front_y": -0.1375037580728531,
+          "front_depth_gap": 0.03898584842681885
+        },
+        {
+          "x": 0,
+          "z": 0.465,
+          "body_front_y": -0.10264661908149719,
+          "garment_front_y": -0.1389285773038864,
+          "front_depth_gap": 0.03628195822238922
+        },
+        {
+          "x": 0.025,
+          "z": 0.465,
+          "body_front_y": -0.09851790964603424,
+          "garment_front_y": -0.1381848305463791,
+          "front_depth_gap": 0.03966692090034485
+        }
+      ],
+      "min_gap": 0.02274225652217865,
+      "median_gap": 0.02852635085582733,
+      "max_gap": 0.03966692090034485
+    },
+    "r14": {
+      "samples": [
+        {
+          "x": -0.025,
+          "z": 0.42,
+          "body_front_y": -0.09622928500175476,
+          "garment_front_y": -0.10099761188030243,
+          "front_depth_gap": 0.0047683268785476685
+        },
+        {
+          "x": 0,
+          "z": 0.42,
+          "body_front_y": -0.09895750880241394,
+          "garment_front_y": -0.1035880297422409,
+          "front_depth_gap": 0.004630520939826965
+        },
+        {
+          "x": 0.025,
+          "z": 0.42,
+          "body_front_y": -0.09622429311275482,
+          "garment_front_y": -0.10092803835868835,
+          "front_depth_gap": 0.004703745245933533
+        },
+        {
+          "x": -0.025,
+          "z": 0.435,
+          "body_front_y": -0.09634952247142792,
+          "garment_front_y": -0.10102604329586029,
+          "front_depth_gap": 0.004676520824432373
+        },
+        {
+          "x": 0,
+          "z": 0.435,
+          "body_front_y": -0.10214455425739288,
+          "garment_front_y": -0.10675834119319916,
+          "front_depth_gap": 0.004613786935806274
+        },
+        {
+          "x": 0.025,
+          "z": 0.435,
+          "body_front_y": -0.09636594355106354,
+          "garment_front_y": -0.10105346143245697,
+          "front_depth_gap": 0.004687517881393433
+        },
+        {
+          "x": -0.025,
+          "z": 0.45,
+          "body_front_y": -0.09977604448795319,
+          "garment_front_y": -0.10438510775566101,
+          "front_depth_gap": 0.004609063267707825
+        },
+        {
+          "x": 0,
+          "z": 0.45,
+          "body_front_y": -0.10372769832611084,
+          "garment_front_y": -0.10832849144935608,
+          "front_depth_gap": 0.004600793123245239
+        },
+        {
+          "x": 0.025,
+          "z": 0.45,
+          "body_front_y": -0.09974773228168488,
+          "garment_front_y": -0.10443155467510223,
+          "front_depth_gap": 0.004683822393417358
+        },
+        {
+          "x": -0.025,
+          "z": 0.465,
+          "body_front_y": -0.09851790964603424,
+          "garment_front_y": -0.10312077403068542,
+          "front_depth_gap": 0.004602864384651184
+        },
+        {
+          "x": 0,
+          "z": 0.465,
+          "body_front_y": -0.10264661908149719,
+          "garment_front_y": -0.1072634607553482,
+          "front_depth_gap": 0.004616841673851013
+        },
+        {
+          "x": 0.025,
+          "z": 0.465,
+          "body_front_y": -0.09851790964603424,
+          "garment_front_y": -0.10319314897060394,
+          "front_depth_gap": 0.004675239324569702
+        }
+      ],
+      "min_gap": 0.004600793123245239,
+      "median_gap": 0.004652880132198334,
+      "max_gap": 0.0047683268785476685
+    }
+  },
+  "unchanged_object_data": {
+    "r10": {
+      "Rest_Original": "eaf4ad36547c1581038d5d22140c2f78c2e98d531e3c023a64ab0f76ab27cb3c",
+      "tripo_part_8": "73be594e588fcef1c263b4aafd24473c780126f985ac7e82937809aebe684b79",
+      "tripo_part_24": "7f251ace81e4148ebfa98d6cb0e0f0a28a0232397cd27e798947bf9920074d1e",
+      "tripo_part_25": "fc0049023af747663c91f348e480da99b6822aa2689d2d26da289a57bea0dcf3",
+      "tripo_part_26": "1887959facd9191c6e4d747843fb1fc8bc5506d20942cccc09f7423b23928e95",
+      "tripo_part_27": "8c66ff4f96d9a4ffe67618b7ddfed827f29ded882b326707fd3ba3420badc774",
+      "tripo_part_28": "603b61c95c09ca34a9fe034b9b9a700081acde992f5806054b169455f60a7309",
+      "tripo_part_29": "482cf8dc8b0e54b051702d998689ae7e267c3e04d4d55d02b0a068ff635344fd",
+      "tripo_part_30": "c3fa8072e56d475be227588c677c5625a42b0d31d43a0fd251cfe78308c62c06",
+      "tripo_part_31": "87c48de81839b716a514c7f422a6d6be2d616cd36c57a589195f5eb94914c258",
+      "tripo_part_33": "80c0d868abbeae74b145c833a2249fb96cd9184acb54bbb0fb52740b07ac7ae3",
+      "tripo_part_34": "f15749ac1e5959491b925f54c170cb97879230ed4a6e5a8fcc5d33cd78238702",
+      "tripo_part_35": "fae3552f1d4909a69e5b7a71fc9284e81db3402b371a060683904d8da63c0900",
+      "tripo_part_38": "e5f5ba518bfb3c410385ffdedc36e50236f5a0efd5c8b71492044ac6d51d425d",
+      "tripo_part_40": "b909f4bccf87657bbd56810b311d31d011e41327720cb218309d5a918b62e4ca",
+      "tripo_part_41": "ec8e9960f75275d71b4ac646215752576007cd850e8f89e5bfd21065c1fa2c70",
+      "tripo_part_42": "4145bd7fca545638d496d5c0bbfed9cdc478338b3ca84b3c23b737b2bbeab662",
+      "tripo_part_2": "a855fc5f5d9cb03e5f641c2d72c917e0a7bcdb83731af64b3f530beb9666c6ee",
+      "tripo_part_4": "0e8c8fc6721755dd3ab80a0800a2814dcbd2b9dabb70a7d80d84449f916d0b5d",
+      "tripo_part_6": "069e8bfdea5f9a0cb2fba0e7ddebe33ac7a520b6a2354f8844013b70297e98c8",
+      "Edel_S4_Fitted_FingerlessGlove_L": "dea25720012ccd66fda8b60c9b048b95fba50d7faac91fa4de14134f22e9f51e",
+      "Edel_S4_Fitted_FingerlessGlove_R": "4f3917e290bffe64717e2e1a65070f7a115cb2ff9f340ad7de7f894d88350392",
+      "Edel_S4_ContactFit_ThighBand_0": "d927734d214918730fc7594d351042fd68db81c6928faca462e4a251ab5925e1",
+      "Edel_S4_ContactFit_ThighBand_1": "b6f22a308438be324baa6333795e955ff1ce6c2b64c4806956d9345b5fdd94fa"
+    },
+    "r14": {
+      "Rest_Original": "eaf4ad36547c1581038d5d22140c2f78c2e98d531e3c023a64ab0f76ab27cb3c",
+      "tripo_part_8": "73be594e588fcef1c263b4aafd24473c780126f985ac7e82937809aebe684b79",
+      "tripo_part_24": "7f251ace81e4148ebfa98d6cb0e0f0a28a0232397cd27e798947bf9920074d1e",
+      "tripo_part_25": "fc0049023af747663c91f348e480da99b6822aa2689d2d26da289a57bea0dcf3",
+      "tripo_part_26": "1887959facd9191c6e4d747843fb1fc8bc5506d20942cccc09f7423b23928e95",
+      "tripo_part_27": "8c66ff4f96d9a4ffe67618b7ddfed827f29ded882b326707fd3ba3420badc774",
+      "tripo_part_28": "603b61c95c09ca34a9fe034b9b9a700081acde992f5806054b169455f60a7309",
+      "tripo_part_29": "482cf8dc8b0e54b051702d998689ae7e267c3e04d4d55d02b0a068ff635344fd",
+      "tripo_part_30": "c3fa8072e56d475be227588c677c5625a42b0d31d43a0fd251cfe78308c62c06",
+      "tripo_part_31": "87c48de81839b716a514c7f422a6d6be2d616cd36c57a589195f5eb94914c258",
+      "tripo_part_33": "80c0d868abbeae74b145c833a2249fb96cd9184acb54bbb0fb52740b07ac7ae3",
+      "tripo_part_34": "f15749ac1e5959491b925f54c170cb97879230ed4a6e5a8fcc5d33cd78238702",
+      "tripo_part_35": "fae3552f1d4909a69e5b7a71fc9284e81db3402b371a060683904d8da63c0900",
+      "tripo_part_38": "e5f5ba518bfb3c410385ffdedc36e50236f5a0efd5c8b71492044ac6d51d425d",
+      "tripo_part_40": "b909f4bccf87657bbd56810b311d31d011e41327720cb218309d5a918b62e4ca",
+      "tripo_part_41": "ec8e9960f75275d71b4ac646215752576007cd850e8f89e5bfd21065c1fa2c70",
+      "tripo_part_42": "4145bd7fca545638d496d5c0bbfed9cdc478338b3ca84b3c23b737b2bbeab662",
+      "tripo_part_2": "a855fc5f5d9cb03e5f641c2d72c917e0a7bcdb83731af64b3f530beb9666c6ee",
+      "tripo_part_4": "0e8c8fc6721755dd3ab80a0800a2814dcbd2b9dabb70a7d80d84449f916d0b5d",
+      "tripo_part_6": "069e8bfdea5f9a0cb2fba0e7ddebe33ac7a520b6a2354f8844013b70297e98c8",
+      "Edel_S4_Fitted_FingerlessGlove_L": "dea25720012ccd66fda8b60c9b048b95fba50d7faac91fa4de14134f22e9f51e",
+      "Edel_S4_Fitted_FingerlessGlove_R": "4f3917e290bffe64717e2e1a65070f7a115cb2ff9f340ad7de7f894d88350392",
+      "Edel_S4_ContactFit_ThighBand_0": "d927734d214918730fc7594d351042fd68db81c6928faca462e4a251ab5925e1",
+      "Edel_S4_ContactFit_ThighBand_1": "b6f22a308438be324baa6333795e955ff1ce6c2b64c4806956d9345b5fdd94fa"
+    }
+  },
+  "preserved_data_checks": {
+    "Rest_Original": true,
+    "tripo_part_8": true,
+    "tripo_part_24": true,
+    "tripo_part_25": true,
+    "tripo_part_26": true,
+    "tripo_part_27": true,
+    "tripo_part_28": true,
+    "tripo_part_29": true,
+    "tripo_part_30": true,
+    "tripo_part_31": true,
+    "tripo_part_33": true,
+    "tripo_part_34": true,
+    "tripo_part_35": true,
+    "tripo_part_38": true,
+    "tripo_part_40": true,
+    "tripo_part_41": true,
+    "tripo_part_42": true,
+    "tripo_part_2": true,
+    "tripo_part_4": true,
+    "tripo_part_6": true,
+    "Edel_S4_Fitted_FingerlessGlove_L": true,
+    "Edel_S4_Fitted_FingerlessGlove_R": true,
+    "Edel_S4_ContactFit_ThighBand_0": true,
+    "Edel_S4_ContactFit_ThighBand_1": true
+  },
+  "preserved_data_passed": true,
+  "frontal_gap_reduced_all_12_points": true
+}

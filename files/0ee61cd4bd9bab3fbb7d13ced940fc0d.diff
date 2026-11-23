@@ -1,0 +1,78 @@
+--- before/Assets\Escape\Resources\SD\Player_Serin.prefab
++++ after/Assets\Escape\Resources\SD\Player_Serin.prefab
+@@ -1599,7 +1599,7 @@
+   m_Quality: 0
+   m_UpdateWhenOffscreen: 1
+   m_SkinnedMotionVectors: 1
+-  m_Mesh: {fileID: -1079801745714767569, guid: 6ae0805cd77f13c4e92c5fcc5ec1c620, type: 3}
++  m_Mesh: {fileID: 4300000, guid: bc2f86ee4646c9b4d8ab9eed50182adb, type: 2}
+   m_Bones:
+   - {fileID: 5650484272259888318}
+   - {fileID: 5317881351777102825}
+@@ -3443,7 +3443,7 @@
+   m_Quality: 0
+   m_UpdateWhenOffscreen: 1
+   m_SkinnedMotionVectors: 1
+-  m_Mesh: {fileID: 1858264282906378274, guid: 6ae0805cd77f13c4e92c5fcc5ec1c620, type: 3}
++  m_Mesh: {fileID: 4300000, guid: af249d0fc556edf46bf65ddac4e95057, type: 2}
+   m_Bones:
+   - {fileID: 5650484272259888318}
+   - {fileID: 5317881351777102825}
+@@ -4102,7 +4102,7 @@
+   m_Quality: 0
+   m_UpdateWhenOffscreen: 1
+   m_SkinnedMotionVectors: 1
+-  m_Mesh: {fileID: 4300000, guid: 1dcf33cd56a7bf14d95502cdb737bc15, type: 2}
++  m_Mesh: {fileID: 4300000, guid: cf9bd98341ad64b438faaefa0194f3e7, type: 2}
+   m_Bones:
+   - {fileID: 5650484272259888318}
+   - {fileID: 5317881351777102825}
+--- before/Assets\Escape\Resources\SD\Player_Liv.prefab
++++ after/Assets\Escape\Resources\SD\Player_Liv.prefab
+@@ -754,7 +754,7 @@
+   m_Quality: 0
+   m_UpdateWhenOffscreen: 1
+   m_SkinnedMotionVectors: 1
+-  m_Mesh: {fileID: -1079801745714767569, guid: f04deed5ca15e7f4cbc4612a3313f56b, type: 3}
++  m_Mesh: {fileID: 4300000, guid: 3aacf94904c409e479898b998c6bd7cc, type: 2}
+   m_Bones:
+   - {fileID: 5887804084245845718}
+   - {fileID: 2651425155443725448}
+@@ -2355,7 +2355,7 @@
+   m_Quality: 0
+   m_UpdateWhenOffscreen: 1
+   m_SkinnedMotionVectors: 1
+-  m_Mesh: {fileID: 1858264282906378274, guid: f04deed5ca15e7f4cbc4612a3313f56b, type: 3}
++  m_Mesh: {fileID: 4300000, guid: df1f0265a24108f46871c0bffc62c609, type: 2}
+   m_Bones:
+   - {fileID: 5887804084245845718}
+   - {fileID: 2651425155443725448}
+@@ -2556,7 +2556,7 @@
+   m_Quality: 0
+   m_UpdateWhenOffscreen: 1
+   m_SkinnedMotionVectors: 1
+-  m_Mesh: {fileID: 4300000, guid: ebb7c3d808222e84c9c711d3f1ebd571, type: 2}
++  m_Mesh: {fileID: 4300000, guid: c612351f1ddc3434ebb3c71f031ea855, type: 2}
+   m_Bones:
+   - {fileID: 5887804084245845718}
+   - {fileID: 2651425155443725448}
+--- before/Assets\Escape\Resources\SD\Player_Yui.prefab
++++ after/Assets\Escape\Resources\SD\Player_Yui.prefab
+@@ -1215,7 +1215,7 @@
+   m_Quality: 0
+   m_UpdateWhenOffscreen: 1
+   m_SkinnedMotionVectors: 1
+-  m_Mesh: {fileID: 4300000, guid: 0d993ed6c7fbe7745af7aff42c7fbd39, type: 2}
++  m_Mesh: {fileID: 4300000, guid: 032adadd8b902424187eb40db75c002a, type: 2}
+   m_Bones:
+   - {fileID: 8625830235906127235}
+   - {fileID: 2292925680029899669}
+@@ -5675,7 +5675,7 @@
+   m_Quality: 0
+   m_UpdateWhenOffscreen: 1
+   m_SkinnedMotionVectors: 1
+-  m_Mesh: {fileID: -8508370900382451337, guid: 8de803116b73a024097a5b353b47445a, type: 3}
++  m_Mesh: {fileID: 4300000, guid: b9e9614486d26ed43b8cc4f958db0072, type: 2}
+   m_Bones:
+   - {fileID: 8625830235906127235}
+   - {fileID: 2292925680029899669}

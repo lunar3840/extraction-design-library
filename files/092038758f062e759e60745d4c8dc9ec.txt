@@ -1,0 +1,120 @@
+PASS acceptance fixture inputs
+PASS isolated deterministic input/ticks required
+PASS physical change serin: 세린 동료 칩 장착 · 현현 완료
+PASS visual identity serin
+PASS live controller bound to committed bag serin
+PASS chip change preserves player state/vitals serin
+NOTE ownership diagnostics C:\Users\ehoji\OneDrive\문서\ChatGPT\익스트랙션\outputs\change_records\2026-10-22\four-character-chips-idle\ownership_failure_serin semanticEqual=True rawEqual=False shotsBefore=0 shotsAfter=0
+PASS presentation conserves items weapon ammo and shots serin shots=0 -> 0
+PASS valid humanoid serin
+PASS bone serin Head
+PASS bone serin Hips
+PASS bone serin LeftHand
+PASS bone serin RightHand
+PASS bone serin LeftFoot
+PASS bone serin RightFoot
+PASS body hitboxes rebound serin
+PASS visible body serin
+NOTE imported morph names serin: Eyebrow_L:LidClose_L,Eyebrow_L:LidArc_L,Eyebrow_L:LidWide_L,Eyebrow_L:BrowUp_L,Eyebrow_L:BrowInner_L,Eyebrow_L:BrowIn,Eyebrow_R:LidClose_R,Eyebrow_R:LidArc_R,Eyebrow_R:LidWide_R,Eyebrow_R:BrowUp_R,Eyebrow_R:BrowInner_R,Eyebrow_R:BrowIn,Eyelashes_L:LidClose_L,Eyelashes_L:LidArc_L,Eyelashes_L:LidWide_L,Eyelashes_R:LidClose_R,Eyelashes_R:LidArc_R,Eyelashes_R:LidWide_R,Eyelid_Fold_L:LidClose_L,Eyelid_Fold_L:LidArc_L,Eyelid_Fold_L:LidWide_L,Eyelid_Fold_R:LidClose_R,Eyelid_Fold_R:LidArc_R,Eyelid_Fold_R:LidWide_R,Eyelid_Rim_L:LidClose_L,Eyelid_Rim_L:LidArc_L,Eyelid_Rim_L:LidWide_L,Eyelid_Rim_R:LidClose_R,Eyelid_Rim_R:LidArc_R,Eyelid_Rim_R:LidWide_R,FACE_MouthCavity:MouthOpen,FACE_MouthCavity:MouthWide,FACE_MouthCavity:MouthPress,FACE_MouthCavity:Smile,FACE_MouthCavity:Frown,Face_Skin:LidClose_R,Face_Skin:LidArc_R,Face_Skin:LidWide_R,Face_Skin:LidClose_L,Face_Skin:LidArc_L,Face_Skin:LidWide_L,Face_Skin:MouthOpen,Face_Skin:MouthWide,Face_Skin:MouthPress,Face_Skin:Smile,Face_Skin:Frown,Iris_L:LookX_Pos,Iris_L:LookX_Neg,Iris_L:LookY_Pos,Iris_L:LookY_Neg,Iris_R:LookX_Pos,Iris_R:LookX_Neg,Iris_R:LookY_Pos,Iris_R:LookY_Neg
+NOTE no fitted armor profile on serin; renderer/material appearance requires screenshot review
+PASS two-hand IK target errors <8cm serin R=1.192093E-07 L=6.332994E-08
+PASS idle component serin
+NOTE idle observed serin quietSeconds=6.633149 worldHeadDegrees=4.554708 previewHeadDegrees=4.512227
+PASS quiet inventory reaches visible gesture serin
+PASS imported blink channel actually animates serin peak=99.81041
+PASS world and portrait skeletons actually change over rendered frames serin
+PASS live inventory portrait renders serin
+PASS portrait grip solver serin
+PASS physical change prototype: 에델 동료 칩 장착 · 현현 완료
+PASS visual identity prototype
+PASS live controller bound to committed bag prototype
+PASS chip change preserves player state/vitals prototype
+NOTE ownership diagnostics C:\Users\ehoji\OneDrive\문서\ChatGPT\익스트랙션\outputs\change_records\2026-10-22\four-character-chips-idle\ownership_failure_prototype semanticEqual=True rawEqual=False shotsBefore=0 shotsAfter=0
+PASS presentation conserves items weapon ammo and shots prototype shots=0 -> 0
+PASS valid humanoid prototype
+PASS bone prototype Head
+PASS bone prototype Hips
+PASS bone prototype LeftHand
+PASS bone prototype RightHand
+PASS bone prototype LeftFoot
+PASS bone prototype RightFoot
+PASS body hitboxes rebound prototype
+PASS visible body prototype
+NOTE imported morph names prototype: Eyebrow_L:brow_up_L,Eyebrow_L:brow_inner_L,Eyebrow_L:BrowPinch,Eyebrow_R:brow_up_R,Eyebrow_R:brow_inner_R,Eyebrow_R:BrowPinch,Eyelashes_L:LidClose_L,Eyelashes_L:LidArc_L,Eyelashes_L:LidWide_L,Eyelashes_L:AngrySlope_L,Eyelashes_L:SadSlope_L,Eyelashes_L:HappyArc_L,Eyelashes_R:LidClose_R,Eyelashes_R:LidArc_R,Eyelashes_R:LidWide_R,Eyelashes_R:AngrySlope_R,Eyelashes_R:SadSlope_R,Eyelashes_R:HappyArc_R,Eyelid_Fold_L:LidClose_L,Eyelid_Fold_L:LidArc_L,Eyelid_Fold_L:LidWide_L,Eyelid_Fold_L:AngrySlope_L,Eyelid_Fold_L:SadSlope_L,Eyelid_Fold_L:HappyArc_L,Eyelid_Fold_R:LidClose_R,Eyelid_Fold_R:LidArc_R,Eyelid_Fold_R:LidWide_R,Eyelid_Fold_R:AngrySlope_R,Eyelid_Fold_R:SadSlope_R,Eyelid_Fold_R:HappyArc_R,FACE_MouthCavity:smile,FACE_MouthCavity:frown,FACE_MouthCavity:MouthOpen,FACE_MouthCavity:MouthWide,FACE_MouthCavity:MouthPress,Face_Skin:LidClose_L,Face_Skin:LidArc_L,Face_Skin:LidWide_L,Face_Skin:LidClose_R,Face_Skin:LidArc_R,Face_Skin:LidWide_R,Face_Skin:smile,Face_Skin:frown,Face_Skin:MouthOpen,Face_Skin:MouthWide,Face_Skin:MouthPress,Face_Skin:AngrySlope_L,Face_Skin:SadSlope_L,Face_Skin:HappyArc_L,Face_Skin:AngrySlope_R,Face_Skin:SadSlope_R,Face_Skin:HappyArc_R,Iris_L:EyeLook_look_x,Iris_L:EyeLook_look_y,Iris_R:EyeLook_look_x,Iris_R:EyeLook_look_y,Rest_Original:V23_ReadyUpperArmContour
+PASS equipped armor appearance hidden prototype
+PASS hidden armor preserves original hair materials and clothing meshes prototype
+PASS two-hand IK target errors <8cm prototype R=0 L=1.228781E-07
+PASS idle component prototype
+NOTE idle observed prototype quietSeconds=6.656656 worldHeadDegrees=1.704973 previewHeadDegrees=1.764975
+PASS quiet inventory reaches visible gesture prototype
+PASS imported blink channel actually animates prototype peak=99.80048
+PASS world and portrait skeletons actually change over rendered frames prototype
+PASS live inventory portrait renders prototype
+PASS portrait grip solver prototype
+PASS physical change liv: 리브 동료 칩 장착 · 현현 완료
+PASS visual identity liv
+PASS live controller bound to committed bag liv
+PASS chip change preserves player state/vitals liv
+NOTE ownership diagnostics C:\Users\ehoji\OneDrive\문서\ChatGPT\익스트랙션\outputs\change_records\2026-10-22\four-character-chips-idle\ownership_failure_liv semanticEqual=True rawEqual=False shotsBefore=0 shotsAfter=0
+PASS presentation conserves items weapon ammo and shots liv shots=0 -> 0
+PASS valid humanoid liv
+PASS bone liv Head
+PASS bone liv Hips
+PASS bone liv LeftHand
+PASS bone liv RightHand
+PASS bone liv LeftFoot
+PASS bone liv RightFoot
+PASS body hitboxes rebound liv
+PASS visible body liv
+NOTE imported morph names liv: LIV_Head_OriginalHair_CleanFace_20Morphs:LidClose_L,LIV_Head_OriginalHair_CleanFace_20Morphs:LidArc_L,LIV_Head_OriginalHair_CleanFace_20Morphs:LidWide_L,LIV_Head_OriginalHair_CleanFace_20Morphs:BrowUp_L,LIV_Head_OriginalHair_CleanFace_20Morphs:BrowInner_L,LIV_Head_OriginalHair_CleanFace_20Morphs:BrowIn,LIV_Head_OriginalHair_CleanFace_20Morphs:LidClose_R,LIV_Head_OriginalHair_CleanFace_20Morphs:LidArc_R,LIV_Head_OriginalHair_CleanFace_20Morphs:LidWide_R,LIV_Head_OriginalHair_CleanFace_20Morphs:BrowUp_R,LIV_Head_OriginalHair_CleanFace_20Morphs:BrowInner_R,LIV_Head_OriginalHair_CleanFace_20Morphs:MouthOpen,LIV_Head_OriginalHair_CleanFace_20Morphs:MouthWide,LIV_Head_OriginalHair_CleanFace_20Morphs:MouthPress,LIV_Head_OriginalHair_CleanFace_20Morphs:Smile,LIV_Head_OriginalHair_CleanFace_20Morphs:Frown,LIV_Head_OriginalHair_CleanFace_20Morphs:LookX_Pos,LIV_Head_OriginalHair_CleanFace_20Morphs:LookX_Neg,LIV_Head_OriginalHair_CleanFace_20Morphs:LookY_Pos,LIV_Head_OriginalHair_CleanFace_20Morphs:LookY_Neg
+NOTE no fitted armor profile on liv; renderer/material appearance requires screenshot review
+PASS two-hand IK target errors <8cm liv R=2.528811E-07 L=1.879334E-07
+PASS idle component liv
+NOTE idle observed liv quietSeconds=6.727368 worldHeadDegrees=4.658211 previewHeadDegrees=4.671638
+PASS quiet inventory reaches visible gesture liv
+PASS imported blink channel actually animates liv peak=99.99328
+PASS world and portrait skeletons actually change over rendered frames liv
+PASS live inventory portrait renders liv
+PASS portrait grip solver liv
+PASS physical change yui: 유이 동료 칩 장착 · 현현 완료
+PASS visual identity yui
+PASS live controller bound to committed bag yui
+PASS chip change preserves player state/vitals yui
+PASS presentation conserves items weapon ammo and shots yui shots=0 -> 0
+PASS valid humanoid yui
+PASS bone yui Head
+PASS bone yui Hips
+PASS bone yui LeftHand
+PASS bone yui RightHand
+PASS bone yui LeftFoot
+PASS bone yui RightFoot
+PASS body hitboxes rebound yui
+PASS visible body yui
+NOTE imported morph names yui: Eyebrow_L.001:LidClose_L,Eyebrow_L.001:LidClose_R,Eyebrow_L.001:LidArc_L,Eyebrow_L.001:LidArc_R,Eyebrow_L.001:LidWide_L,Eyebrow_L.001:LidWide_R,Eyebrow_L.001:Look_X_Pos,Eyebrow_L.001:Look_X_Neg,Eyebrow_L.001:Look_Y_Pos,Eyebrow_L.001:Look_Y_Neg,Eyebrow_L.001:BrowUp_L,Eyebrow_L.001:BrowDown_L,Eyebrow_L.001:BrowUp_R,Eyebrow_L.001:BrowDown_R,Eyebrow_L.001:BrowInnerUp_L,Eyebrow_L.001:BrowInnerDown_L,Eyebrow_L.001:BrowInnerUp_R,Eyebrow_L.001:BrowInnerDown_R,Eyebrow_L.001:BrowIn,Eyebrow_L.001:Smile,Eyebrow_L.001:Frown,Eyebrow_L.001:MouthOpen,Eyebrow_L.001:MouthWide,Eyebrow_L.001:MouthPress,Eyebrow_R.001:LidClose_L,Eyebrow_R.001:LidClose_R,Eyebrow_R.001:LidArc_L,Eyebrow_R.001:LidArc_R,Eyebrow_R.001:LidWide_L,Eyebrow_R.001:LidWide_R,Eyebrow_R.001:Look_X_Pos,Eyebrow_R.001:Look_X_Neg,Eyebrow_R.001:Look_Y_Pos,Eyebrow_R.001:Look_Y_Neg,Eyebrow_R.001:BrowUp_L,Eyebrow_R.001:BrowDown_L,Eyebrow_R.001:BrowUp_R,Eyebrow_R.001:BrowDown_R,Eyebrow_R.001:BrowInnerUp_L,Eyebrow_R.001:BrowInnerDown_L,Eyebrow_R.001:BrowInnerUp_R,Eyebrow_R.001:BrowInnerDown_R,Eyebrow_R.001:BrowIn,Eyebrow_R.001:Smile,Eyebrow_R.001:Frown,Eyebrow_R.001:MouthOpen,Eyebrow_R.001:MouthWide,Eyebrow_R.001:MouthPress,Eyelashes_L.001:LidClose_L,Eyelashes_L.001:LidClose_R,Eyelashes_L.001:LidArc_L,Eyelashes_L.001:LidArc_R,Eyelashes_L.001:LidWide_L,Eyelashes_L.001:LidWide_R,Eyelashes_L.001:Look_X_Pos,Eyelashes_L.001:Look_X_Neg,Eyelashes_L.001:Look_Y_Pos,Eyelashes_L.001:Look_Y_Neg,Eyelashes_L.001:BrowUp_L,Eyelashes_L.001:BrowDown_L,Eyelashes_L.001:BrowUp_R,Eyelashes_L.001:BrowDown_R,Eyelashes_L.001:BrowInnerUp_L,Eyelashes_L.001:BrowInnerDown_L,Eyelashes_L.001:BrowInnerUp_R,Eyelashes_L.001:BrowInnerDown_R,Eyelashes_L.001:BrowIn,Eyelashes_L.001:Smile,Eyelashes_L.001:Frown,Eyelashes_L.001:MouthOpen,Eyelashes_L.001:MouthWide,Eyelashes_L.001:MouthPress,Eyelashes_R.001:LidClose_L,Eyelashes_R.001:LidClose_R,Eyelashes_R.001:LidArc_L,Eyelashes_R.001:LidArc_R,Eyelashes_R.001:LidWide_L,Eyelashes_R.001:LidWide_R,Eyelashes_R.001:Look_X_Pos,Eyelashes_R.001:Look_X_Neg,Eyelashes_R.001:Look_Y_Pos,Eyelashes_R.001:Look_Y_Neg,Eyelashes_R.001:BrowUp_L,Eyelashes_R.001:BrowDown_L,Eyelashes_R.001:BrowUp_R,Eyelashes_R.001:BrowDown_R,Eyelashes_R.001:BrowInnerUp_L,Eyelashes_R.001:BrowInnerDown_L,Eyelashes_R.001:BrowInnerUp_R,Eyelashes_R.001:BrowInnerDown_R,Eyelashes_R.001:BrowIn,Eyelashes_R.001:Smile,Eyelashes_R.001:Frown,Eyelashes_R.001:MouthOpen,Eyelashes_R.001:MouthWide,Eyelashes_R.001:MouthPress,FACE_MouthCavity.001:LidClose_L,FACE_MouthCavity.001:LidClose_R,FACE_MouthCavity.001:LidArc_L,FACE_MouthCavity.001:LidArc_R,FACE_MouthCavity.001:LidWide_L,FACE_MouthCavity.001:LidWide_R,FACE_MouthCavity.001:Look_X_Pos,FACE_MouthCavity.001:Look_X_Neg,FACE_MouthCavity.001:Look_Y_Pos,FACE_MouthCavity.001:Look_Y_Neg,FACE_MouthCavity.001:BrowUp_L,FACE_MouthCavity.001:BrowDown_L,FACE_MouthCavity.001:BrowUp_R,FACE_MouthCavity.001:BrowDown_R,FACE_MouthCavity.001:BrowInnerUp_L,FACE_MouthCavity.001:BrowInnerDown_L,FACE_MouthCavity.001:BrowInnerUp_R,FACE_MouthCavity.001:BrowInnerDown_R,FACE_MouthCavity.001:BrowIn,FACE_MouthCavity.001:Smile,FACE_MouthCavity.001:Frown,FACE_MouthCavity.001:MouthOpen,FACE_MouthCavity.001:MouthWide,FACE_MouthCavity.001:MouthPress,Face_Skin.001:LidClose_L,Face_Skin.001:LidClose_R,Face_Skin.001:LidArc_L,Face_Skin.001:LidArc_R,Face_Skin.001:LidWide_L,Face_Skin.001:LidWide_R,Face_Skin.001:Look_X_Pos,Face_Skin.001:Look_X_Neg,Face_Skin.001:Look_Y_Pos,Face_Skin.001:Look_Y_Neg,Face_Skin.001:BrowUp_L,Face_Skin.001:BrowDown_L,Face_Skin.001:BrowUp_R,Face_Skin.001:BrowDown_R,Face_Skin.001:BrowInnerUp_L,Face_Skin.001:BrowInnerDown_L,Face_Skin.001:BrowInnerUp_R,Face_Skin.001:BrowInnerDown_R,Face_Skin.001:BrowIn,Face_Skin.001:Smile,Face_Skin.001:Frown,Face_Skin.001:MouthOpen,Face_Skin.001:MouthWide,Face_Skin.001:MouthPress,Iris_L.001:LidClose_L,Iris_L.001:LidClose_R,Iris_L.001:LidArc_L,Iris_L.001:LidArc_R,Iris_L.001:LidWide_L,Iris_L.001:LidWide_R,Iris_L.001:Look_X_Pos,Iris_L.001:Look_X_Neg,Iris_L.001:Look_Y_Pos,Iris_L.001:Look_Y_Neg,Iris_L.001:BrowUp_L,Iris_L.001:BrowDown_L,Iris_L.001:BrowUp_R,Iris_L.001:BrowDown_R,Iris_L.001:BrowInnerUp_L,Iris_L.001:BrowInnerDown_L,Iris_L.001:BrowInnerUp_R,Iris_L.001:BrowInnerDown_R,Iris_L.001:BrowIn,Iris_L.001:Smile,Iris_L.001:Frown,Iris_L.001:MouthOpen,Iris_L.001:MouthWide,Iris_L.001:MouthPress,Iris_R.001:LidClose_L,Iris_R.001:LidClose_R,Iris_R.001:LidArc_L,Iris_R.001:LidArc_R,Iris_R.001:LidWide_L,Iris_R.001:LidWide_R,Iris_R.001:Look_X_Pos,Iris_R.001:Look_X_Neg,Iris_R.001:Look_Y_Pos,Iris_R.001:Look_Y_Neg,Iris_R.001:BrowUp_L,Iris_R.001:BrowDown_L,Iris_R.001:BrowUp_R,Iris_R.001:BrowDown_R,Iris_R.001:BrowInnerUp_L,Iris_R.001:BrowInnerDown_L,Iris_R.001:BrowInnerUp_R,Iris_R.001:BrowInnerDown_R,Iris_R.001:BrowIn,Iris_R.001:Smile,Iris_R.001:Frown,Iris_R.001:MouthOpen,Iris_R.001:MouthWide,Iris_R.001:MouthPress
+NOTE no fitted armor profile on yui; renderer/material appearance requires screenshot review
+PASS two-hand IK target errors <8cm yui R=7.450581E-08 L=2.487032E-07
+PASS idle component yui
+NOTE idle observed yui quietSeconds=6.631812 worldHeadDegrees=5.113768 previewHeadDegrees=5.004353
+PASS quiet inventory reaches visible gesture yui
+PASS imported blink channel actually animates yui peak=99.9947
+PASS world and portrait skeletons actually change over rendered frames yui
+PASS live inventory portrait renders yui
+PASS portrait grip solver yui
+PASS two-hand IK target errors <8cm NeckStretch R=6.664002E-08 L=2.678326E-07
+PASS two-hand IK target errors <8cm BackStretch R=1.3328E-07 L=2.384477E-07
+PASS two-hand IK target errors <8cm WeaponInspection R=1.937151E-07 L=2.432874E-07
+PASS repeated natural idle cycle includes neck back and weapon inspection
+PASS inventory interaction fixture
+PASS real inventory protection action
+PASS inventory item action does not reset idle timer
+PASS direct control immediately cancels idle
+PASS post-LateUpdate control notification is consumed on the next rendered frame
+PASS movement fixture accepts simulation input; inventory=False menu=False movement=False weight=0.3716
+PASS real horizontal movement cancels gesture
+PASS accepted aim cancels idle in the same rendered frame
+PASS cloned session departs for guard checks
+PASS carried clean chip guard fixture
+PASS Stage equip/unequip/exact/drop guard ownership unchanged
+PASS presentation conserves items weapon ammo and shots final shots=0 -> 0
+NOTE Visual intersection and original hair-color review still require inspecting captured images; low IK errors alone do not prove no clipping.
+PASS four-character acceptance completed

@@ -1,0 +1,29 @@
+V13 retained scene physical corridor walks (axis tests, separate from NavMesh path checks)
+PASS actual live router selected basic entry B2
+PASS roof outside before entry 73/73
+CAPTURE after_game_outside camera=(6.89, 17.07, -25.76) player=(0.00, 2.01, -38.00) viewport=(0.50, 0.69, 19.77)
+PASS actual walk main_entrance steps=89 final=(0.00, 2.02, -26.13)
+PASS roof main_entrance 0/73
+CAPTURE after_game_main_entrance camera=(7.05, 17.08, -13.93) player=(0.00, 2.02, -26.13) viewport=(0.50, 0.69, 19.80)
+PASS actual walk west_up_to_2F steps=119 final=(-31.00, 8.02, 18.87)
+PASS roof west_up_to_2F 0/73
+CAPTURE after_game_west_up_to_2F camera=(-23.95, 23.08, 31.07) player=(-31.00, 8.02, 18.87) viewport=(0.50, 0.69, 19.80)
+PASS actual walk east_up_to_2F steps=119 final=(31.00, 8.02, 18.87)
+PASS roof east_up_to_2F 0/73
+CAPTURE after_game_east_up_to_2F camera=(38.05, 23.08, 31.07) player=(31.00, 8.02, 18.87) viewport=(0.50, 0.69, 19.80)
+PASS actual walk west_from_B1 steps=119 final=(-31.00, 2.02, -3.13)
+PASS roof west_from_B1 0/73
+CAPTURE after_game_west_from_B1 camera=(-23.95, 17.08, 9.07) player=(-31.00, 2.02, -3.13) viewport=(0.50, 0.69, 19.80)
+PASS actual walk east_from_B1 steps=119 final=(31.00, 2.02, -3.13)
+PASS roof east_from_B1 0/73
+CAPTURE after_game_east_from_B1 camera=(38.05, 17.08, 9.07) player=(31.00, 2.02, -3.13) viewport=(0.50, 0.69, 19.80)
+PASS actual walk secret_descent steps=120 final=(-49.07, -3.98, 5.92)
+PASS roof secret_descent 0/73
+CAPTURE after_game_secret_descent camera=(-42.02, 11.08, 18.14) player=(-49.07, -3.98, 5.92) viewport=(0.50, 0.69, 19.80)
+Secret vertical ray TunnelRoof_SoilCap_Structure y=0.05
+Secret vertical ray CheckpointFloor_Structure y=-4
+Secret vertical ray Player (Serin) y=-2.18
+PASS pointer ignores hidden upper layer; hit=1F_CenterSlab_Structure y=2
+PASS roof restored outside 73/73
+CAPTURE after_game_outside_restored camera=(7.03, 17.05, -27.76) player=(0.00, 1.99, -40.00) viewport=(0.50, 0.69, 19.81)
+RESULT PASS

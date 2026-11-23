@@ -1,0 +1,21 @@
+{
+  "verifiedAt": "2026-10-29 18:07:32 UTC",
+  "unityProject": "C:/UnityProject/escape",
+  "scene": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+  "nativeEvidence": "after_cleanup_editor.png",
+  "observedPlayStopped": true,
+  "observedSceneTitleHasNoDirtyMarker": true,
+  "pendingRolloutRequest": false,
+  "ownedTemporaryEditorScriptsRemoved": 11,
+  "archivedScriptAndMetaFiles": 22,
+  "archive": "execution_tools",
+  "compilation": "Unity completed asset refresh and returned to idle Edit after removal; pre-existing duplicate menu warning retained.",
+  "retainedMap": {
+    "ivyGroups": 226,
+    "leaves": 243327,
+    "weatherBindings": 7189,
+    "vehicleBacking": 20
+  },
+  "savedSceneAndPrefabVerification": "SAVED_RELOAD_VERIFICATION.json",
+  "scope": "Temporary execution tooling only; production authoring tools/runtime bindings and saved map retained."
+}

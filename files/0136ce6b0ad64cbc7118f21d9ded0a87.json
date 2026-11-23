@@ -1,0 +1,25 @@
+{
+  "dateKorea": "2026-10-23",
+  "url": "http://127.0.0.1:8890/",
+  "browser": "Codex in-app browser",
+  "result": "passed",
+  "checks": [
+    "실제 카탈로그가 로딩되고 초기 화면이 플레이어 실제 설정으로 열림",
+    "세 패널·분류 이름·표·상세 입력·페이지 표시 실제 PNG 검토",
+    "MaxHealth 입력 즉시 미저장 1개와 저장 버튼 상태가 갱신됨",
+    "CSV 저장110 / 게임 원본100 / PlayerDefaults.asset MaxHealth100 동시 확인",
+    "변경 비교창에 100→110과 정확한 대상 파일 표시; 게임 반영 버튼은 누르지 않음",
+    "검증용 CSV100으로 복구 저장 후 게임 반영 대기0 및 미저장0",
+    "실행 취소100·다시 실행110·재취소100 확인",
+    "검색 MaxHealth1행 / 무기 피해량37행 / 경제 거래 가격15000 확인",
+    "변경하지 않은 입력에서 다른 카테고리로 1회 클릭 이동 성공",
+    "변경한 입력에서 다른 카테고리로 이동해 미저장1개 유지 후 실행 취소로0 복구",
+    "CSV 가져오기 텍스트로 MaxHealth101을 미저장 대기에 올린 뒤 실행 취소로0 복구",
+    "최종 브라우저 오류 로그 조회 결과 빈 배열",
+    "최종 플레이어 화면을 캡처하고 전달할 탭으로 유지"
+  ],
+  "originalUnityApplyPerformed": false,
+  "pendingGameChangesFinal": 0,
+  "unsavedChangesFinal": 0,
+  "screenshots": ["before_editor.png", "after_editor.png", "before_test_player.png", "after_test_player.png", "after_player.png", "after_economy.png"]
+}

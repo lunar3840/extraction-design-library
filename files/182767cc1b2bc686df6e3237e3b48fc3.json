@@ -1,0 +1,67 @@
+[
+  {
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\soft-area-occlusion\\checkpoints\\final-after07\\executed_helpers\\SoftAreaOcclusionBlendProbe.cs",
+    "sha256": "4AC3B6247DC4EF413F92AAAD08C5A77E22BD9C4752C271D1921F6340FC003E2A",
+    "length": 31311
+  },
+  {
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\soft-area-occlusion\\checkpoints\\final-after07\\executed_helpers\\SoftAreaOcclusionBlendProbe.cs.meta",
+    "sha256": "117118E0434134ABB687E219339B4F159F4D5AFD4AFBA2C902CE40999814A7B4",
+    "length": 59
+  },
+  {
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\soft-area-occlusion\\checkpoints\\final-after07\\executed_helpers\\SoftAreaOcclusionClinic.request",
+    "sha256": "36DE394E17939E74E3C4F06907287701768315E9F13BAF6DD01172968EDBD576",
+    "length": 54
+  },
+  {
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\soft-area-occlusion\\checkpoints\\final-after07\\executed_helpers\\SoftAreaOcclusionClinicEvidence.cs",
+    "sha256": "4736D4691F982DCCF5FA1AD3C70C896922FC9D7365BE56D7D3888BB98ACF6A0C",
+    "length": 35974
+  },
+  {
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\soft-area-occlusion\\checkpoints\\final-after07\\executed_helpers\\SoftAreaOcclusionClinicEvidence.cs.meta",
+    "sha256": "95F987954288A0324897579648A1F64E06381CD17FA1B4D12505F556E9139586",
+    "length": 59
+  },
+  {
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\soft-area-occlusion\\checkpoints\\final-after07\\executed_helpers\\SoftAreaOcclusionClinicEvidence.request",
+    "sha256": "36DE394E17939E74E3C4F06907287701768315E9F13BAF6DD01172968EDBD576",
+    "length": 54
+  },
+  {
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\soft-area-occlusion\\checkpoints\\final-after07\\executed_helpers\\SoftAreaOcclusionEvidence.cs",
+    "sha256": "5AD504C718618C0F7E927BC229DCCFF727F8D0869D92939C979CB9FBF922FB25",
+    "length": 64426
+  },
+  {
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\soft-area-occlusion\\checkpoints\\final-after07\\executed_helpers\\SoftAreaOcclusionEvidence.cs.meta",
+    "sha256": "8835BEFBD51DF32B45F61747F7A4A18FD0627C032B31BC9CEFC73EB51E63667F",
+    "length": 59
+  },
+  {
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\soft-area-occlusion\\checkpoints\\final-after07\\executed_helpers\\SoftAreaOcclusionGeometry.request",
+    "sha256": "13B8A9F44325E113EEC6F790A698ABB697BCFB7DB5A68AD17B054307B27ABF6C",
+    "length": 55
+  },
+  {
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\soft-area-occlusion\\checkpoints\\final-after07\\executed_helpers\\SoftAreaOcclusionGeometryBlend.request",
+    "sha256": "E00AE5A86498AC208CBE65672CCD11B5D19ED3B9DAF57541731416C086ED7FDE",
+    "length": 53
+  },
+  {
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\soft-area-occlusion\\checkpoints\\final-after07\\executed_helpers\\SoftAreaOcclusionGeometryMotion.request",
+    "sha256": "EF3B1E45FC38EA4151D7BB156F8D838E46F69FB9B42949803E6C3FE39E891D52",
+    "length": 54
+  },
+  {
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\soft-area-occlusion\\checkpoints\\final-after07\\executed_helpers\\SoftAreaOcclusionMotionEvidence.cs",
+    "sha256": "3AB46F3019790B4DCC4350D5A346054BB69A54963E6B6CA5B2EF5FB278E6C973",
+    "length": 36341
+  },
+  {
+    "archive": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\change_records\\2026-10-30\\soft-area-occlusion\\checkpoints\\final-after07\\executed_helpers\\SoftAreaOcclusionMotionEvidence.cs.meta",
+    "sha256": "96F76EED0B15291A6418A8F2C986964788B61DA17FCB498D2FE184FFD7528D43",
+    "length": 59
+  }
+]

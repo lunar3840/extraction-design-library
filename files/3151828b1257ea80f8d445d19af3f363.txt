@@ -1,0 +1,1 @@
+Equipped DMR selected ammunition after native UI click: item_018_t6

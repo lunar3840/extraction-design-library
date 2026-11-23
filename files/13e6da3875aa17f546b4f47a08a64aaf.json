@@ -1,0 +1,22 @@
+[
+  {
+    "name": "FONT-LICENSE.txt",
+    "bytes": 442,
+    "sha256": "4cc0c694c1cffc0e18102e00ff1c86f202ca6e0143556053388ccd8235353a3f"
+  },
+  {
+    "name": "NotoSansKR-Bold.ttf",
+    "bytes": 6223192,
+    "sha256": "c86b1f8fc506f4c9f66b6a04e6a40384ddcb62f452e65492c48a418eb64e186c"
+  },
+  {
+    "name": "NotoSansKR-Regular.ttf",
+    "bytes": 6225344,
+    "sha256": "07e4df531059835049d494b1b116cb7e60a7be9b0fdadf5943b533778e9b0294"
+  },
+  {
+    "name": "OFL.txt",
+    "bytes": 4388,
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+  }
+]

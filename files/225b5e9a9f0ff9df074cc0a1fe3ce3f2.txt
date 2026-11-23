@@ -1,0 +1,55 @@
+WEAPON / AMMO / VALUE TIER IMPLEMENTATION NOTES — 2026-10-19
+
+Scope: six firearm classes plus retained melee. Existing31 IDs remain. Added DMR_001..003 and MG_001..003; enum Rifle0/Pistol1/Shotgun2/Sniper3/Melee4/Dmr5/MachineGun6. No elemental or other actual attributes were implemented. Descriptions distinguish general-purpose, cadence, precision, heavy-hit and sustained-fire roles.
+
+Balance: quality letters C/B/A/S remain legacy economy metadata; damage, cadence, capacity, reload, range and recoil now form sidegrades rather than a strong combat ladder. Mechanical handling differentiates classes via weapon core; no actual attribute system. Damage listed is per projectile; shotgun has six pellets. Numerical values are first tuning values, not permanently fixed user requirements.
+ID | NAME | DAMAGE | RPM | MAG | RANGE | RELOAD | SPREAD | PITCH/YAW | SELL | ROLE
+AR_001 | 회수 소총 | 10x1 | 300 | 30 | 60 | 2.8 | 1.2 | 1/0.35 | 700 | 범용 소총. 연사·사거리·탄창이 균형을 이룬다.
+AR_002 | M16 | 9.6x1 | 333 | 24 | 72 | 2.65 | 0.85 | 0.92/0.24 | 1700 | 정밀 소총. 긴 사거리와 낮은 산포 대신 탄창이 작다.
+AR_003 | M4A1 | 9.4x1 | 353 | 30 | 56 | 2.4 | 1.15 | 0.8/0.3 | 4200 | 기동 소총. 빠른 연사와 재장전 대신 유효 사거리가 짧다.
+AR_004 | AK 47 | 12x1 | 250 | 30 | 68 | 2.9 | 1.4 | 1.35/0.48 | 30000 | 중구경 소총. 단발 위력 대신 느린 연사와 큰 반동을 감수한다.
+AR_011 | K-2 | 9.7x1 | 316 | 30 | 64 | 2.7 | 1.05 | 0.9/0.31 | 750 | 안정형 소총. 탄창과 사거리를 유지하며 다루기 편하다.
+AR_012 | FAMAS | 8.2x1 | 400 | 25 | 50 | 2.9 | 1.5 | 0.85/0.42 | 1800 | 근거리 연사 소총. 빠른 탄 소모와 넓은 산포를 관리해야 한다.
+AR_013 | SCAR | 12.8x1 | 240 | 20 | 82 | 3 | 0.8 | 1.45/0.38 | 4600 | 장거리 소총. 정밀한 고위력 사격 대신 탄창과 연사가 제한된다.
+KN_001 | KM7 | 10x1 | 60 | 0 | 7 | 0 | 0 | 0.2/0.1 | 800 | 구문명 군대의 제식 대검. 보급망이 무너진 뒤에도 현장 도구로 쓰인다.
+KN_002 | 장미칼 | 15x1 | 60 | 0 | 7 | 0 | 0 | 0.2/0.1 | 4100 | 톱니형 칼날을 가진 가정용 주방칼. 무엇이든 자른다는 광고가 거짓말은 아니었던 모양이다.
+KN_003 | 야구 배트 | 20x1 | 60 | 0 | 7 | 0 | 0 | 0.15/0.05 | 9000 | 긴 손잡이와 단단한 타격부를 가진 목재 둔기. 홈런을 칠 수 있다. 공이 없어도.
+KN_004 | 태도 | 30x1 | 60 | 0 | 7 | 0 | 0 | 0.15/0.05 | 34000 | 먼 동쪽 어느 지역의 장인이 만든 검
+KN_011 | 쇠파이프 | 11x1 | 60 | 0 | 7 | 0 | 0 | 0.2/0.1 | 600 | 두꺼운 금속관을 그대로 휘두르는 둔기. 배관공은 수리를 위해 들고 생존자는 다른 이유로 든다.
+P_001 | 회수 권총 | 9x1 | 140 | 12 | 32 | 1.65 | 0.65 | 1.1/0.22 | 500 | 범용 권총. 가까운 거리에서 안정적인 보조 화력을 낸다.
+P_002 | B.92Fs | 8x1 | 176 | 15 | 30 | 1.9 | 0.7 | 0.9/0.2 | 1000 | 속사 권총. 큰 탄창과 빠른 연사 대신 한 발 위력이 낮다.
+P_003 | Anaconda | 15x1 | 83 | 6 | 43 | 2.4 | 0.48 | 1.8/0.36 | 3000 | 정밀 리볼버. 강한 한 발과 사거리 대신 탄창·연사가 제한된다.
+P_004 | D.Eagle | 16.5x1 | 80 | 7 | 40 | 2.6 | 0.7 | 2.3/0.45 | 10000 | 대구경 권총. 높은 단발 피해 대신 반동과 재장전 부담이 크다.
+P_011 | 새총 | 12.5x1 | 92 | 1 | 26 | 0.55 | 0.9 | 0.65/0.16 | 500 | 단발 새총. 짧은 사거리와 매 발 재장전이 필요한 경량 보조 무기다.
+SG_001 | 회수 산탄총 | 5.5x6 | 63 | 6 | 32 | 0.52 | 8 | 2.4/0.5 | 650 | 범용 산탄총. 근거리 여섯 발 산탄과 탄창 운용이 균형을 이룬다.
+SG_002 | Winchester 1880 | 6x6 | 54 | 5 | 40 | 0.55 | 6.8 | 2.7/0.5 | 1500 | 집탄 산탄총. 좁은 산포와 사거리 대신 연사와 탄수가 줄어든다.
+SG_003 | APS-12 | 4.8x6 | 97 | 8 | 27 | 0.62 | 9 | 2.3/0.65 | 3800 | 속사 산탄총. 연속 사격에 유리하지만 펠릿 위력과 사거리가 낮다.
+SG_004 | SG 870 | 6.1x6 | 56 | 5 | 37 | 0.58 | 7.1 | 3/0.55 | 21000 | 강타 산탄총. 강한 한 발 대신 반동과 후속 사격 간격이 크다.
+SG_011 | 소드오프 | 6.2x6 | 56 | 2 | 22 | 0.45 | 11 | 2.1/0.72 | 650 | 초근거리 소드오프. 넓은 산포와 작은 탄창을 감수하는 강한 근접 사격.
+SG_012 | 소드오프 II | 5.2x6 | 77 | 4 | 27 | 0.48 | 9.6 | 2.2/0.65 | 1600 | 경량 속사 산탄총. 후속 사격과 재장전은 빠르지만 탄창이 작다.
+SG_013 | Remington | 5.4x6 | 67 | 7 | 34 | 0.6 | 7.6 | 2.6/0.52 | 4200 | 지속형 산탄총. 여유 있는 탄창 대신 한 발씩 재장전하는 시간이 길다.
+SR_001 | 회수 저격총 | 36x1 | 36 | 5 | 110 | 3.4 | 0.08 | 3/0.5 | 750 | 범용 저격총. 긴 사거리와 높은 단발 위력 대신 후속 사격이 느리다.
+SR_002 | Mosin Nagant | 39x1 | 32 | 5 | 120 | 3.7 | 0.075 | 3.4/0.6 | 1900 | 장거리 저격총. 단발 위력과 사거리 대신 연사와 재장전이 느리다.
+SR_003 | AWP | 40x1 | 32 | 5 | 125 | 3.9 | 0.055 | 3.6/0.6 | 4600 | 정밀 저격총. 최대 사거리와 정확도 대신 취급과 재장전 부담이 크다.
+SR_004 | SV 98 | 35x1 | 41 | 6 | 105 | 3.5 | 0.07 | 3/0.5 | 28000 | 후속 사격 저격총. 빠른 재조준 대신 단발 피해와 사거리가 낮다.
+SR_011 | K-14 | 37x1 | 35 | 5 | 115 | 3.2 | 0.075 | 3.1/0.52 | 800 | 균형형 저격총. 보통 사거리와 위력을 유지하며 재장전이 조금 빠르다.
+SR_012 | Scout | 31x1 | 44 | 5 | 92 | 2.7 | 0.09 | 2.3/0.42 | 2000 | 경량 저격총. 빠른 후속 사격과 재장전 대신 위력과 사거리가 줄어든다.
+SR_013 | Dragunov | 29x1 | 52 | 8 | 90 | 3.5 | 0.13 | 2.6/0.55 | 5000 | 반자동 저격총. 지속 사격과 탄창 대신 단발 위력과 정밀도가 낮다.
+DMR_001 | 정찰 지정사수총 | 18x1 | 120 | 20 | 90 | 2.9 | 0.35 | 1.6/0.3 | 3000 | 범용 지정사수총. 소총탄을 사용하며 정밀도와 후속 사격을 절충한다.
+DMR_002 | M14 | 21x1 | 97 | 15 | 105 | 3.2 | 0.28 | 2.1/0.4 | 3500 | 장거리 지정사수총. 한 발 위력과 사거리 대신 반동·탄창·연사를 양보한다.
+DMR_003 | SR-25 | 16x1 | 143 | 20 | 80 | 2.6 | 0.42 | 1.3/0.28 | 3300 | 기동 지정사수총. 후속 사격과 재장전 대신 단발 위력과 사거리가 낮다.
+MG_001 | 분대 지원 기관총 | 9x1 | 333 | 60 | 66 | 5.2 | 1.65 | 1.25/0.55 | 3100 | 범용 기관총. 큰 탄창으로 지속 사격하지만 반동과 재장전 시간이 크다.
+MG_002 | RPK | 11x1 | 261 | 45 | 78 | 4.3 | 1.35 | 1.5/0.6 | 3400 | 정밀 지원 기관총. 단발 위력과 사거리 대신 탄창·연사가 줄어든다.
+MG_003 | M249 | 7.8x1 | 400 | 80 | 58 | 6.2 | 1.95 | 1.15/0.72 | 3800 | 고속 지원 기관총. 큰 탄창과 연사 대신 낮은 단발 위력·넓은 산포·긴 재장전.
+
+AMMUNITION: original item_017 pistol,018 rifle,019 shotgun,020 sniper are T1. Higher classes use originalID_t2 through _t6. DMR and MG share rifle family. 24 catalog definitions. All damageMultiplier=1; armorPenetrationPower T1..T6=0,1,2,3,4,5. Existing original ammo weights, maxstack and drop ranges preserved. Higher tiers preserve family weight and stack cap, cost factors1/2/4/8/16/30; lower drops at high tier are initial tuning. Slot icon reuses original transparent family icon.
+
+VALUE TIERS: monetary display derives per-unit ShopSellPrice, not stack total, C/B/A/S, combat stats or loaded ammo. V1<100 white; V2 100..499 green; V3 500..1999 blue; V4 2000..9999 purple; V5 10000..29999 gold; V6>=30000 red. Negative/unpriced values clamp0. Numeric thresholds are newly proposed tuning because exact original UI thresholds could not be verified. Value V and ammunition T are distinct, named separately in details and inventory footer. Ammo T badge uses its own tier color even when monetary V is lower.
+
+REFERENCE AUDIT (READ ONLY): consulted current work/reference/ItemCatalog.lua, ReplicatedStorage.Shop.ShopConfig.lua, ReplicatedStorage.Shop.ShopCatalog.lua and saved prior project C:/Users/ehoji/Documents/Codex/2026-09-04/referenced-chatgpt-conversation-this-is-an/work/basecamp-reference/ReplicatedStorage.CommonSystem.InventorySystem.Modules.ItemDatabase.lua plus available Lua dumps (47 files). These contained server/adaptor and catalog data, no saved inventory UI tier palette or value-threshold source. Roblox Studio had no connected studio per parent. Therefore RGB values are a fresh readable implementation of the user-requested white/green/blue/purple/gold/red order, NOT a claim of exact original Roblox palette. No unrelated Roblox gameplay imported.
+
+SAVE SAFETY: historical reduced-capacity weapons store original source_before magazine size in legacyMagazineSize for20 IDs. Old loaded rounds retained by core restore, no new refill above current cap. All catalog old IDs remain; original ammo IDs stay T1. ItemCatalog duplicate ignored combat fields synchronized to WeaponCatalog to avoid contradictory maintenance data. Existing169 items retained, plus6 weapons+20 ammo=195.
+
+UI: inventory/storage grid use shared value background and border; equipped armor, weapons, quick slots and HUD use the same tier tint. Inventory value badge V; ammo badge T in its own color; detail tooltips explain separation. Gun details show per-instance saved affixes, base/effective stats, next FIFO round T, selected next reload T, compatible ammo total and six-tier ammo choice. Equipped weapon right-click inspects it. Non-rifle old rifle-shaped thumbnails bypassed in favor of simple distinct pistol/shotgun/sniper/DMR/MG schematics; rifle thumbnails remain. Melee retained.
+
+Files: Resources/WeaponCatalog.json, ItemCatalog.json, AmmoCatalog.json; Runtime/Inventory/Core/ItemValueTier.cs; Runtime/UI/ItemTierPresentation.cs, GlassIcons.cs; Runtime/Inventory/InventoryGridPresentation.cs, InventoryGlassView.cs, InventoryTestWorld.cs, InventoryMedicalDetails.cs, InventoryWeaponDetails.cs and new .meta files. InventoryState/Equipment/Snapshot and live Unity project untouched by this subagent. Parent owns integration, screenshot records and tests.

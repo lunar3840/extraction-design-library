@@ -1,0 +1,11 @@
+source,role,samples,all_sale_mean,p10,p50,p90,pure_cash_trade_mean,research_opportunity_mean,t1_rifle_ammo_mean,heal_capacity_mean
+machine,Scout,20000,741.572,180,650,1300,0,741.572,0,0
+machine,Suppressor,20000,830.732,180,750,1600,0,830.732,0,0
+machine,Grenadier,20000,767.338,180,750,1500,0,767.338,0,0
+machine,Sniper,20000,692.226,180,650,1250,0,692.226,0,0
+machine,Discharger,20000,652.382,160,650,1250,0,652.382,0,0
+machine,ArcRifle,20000,652.382,160,650,1250,0,652.382,0,0
+machine,GuardTank,20000,800.918,180,750,1550,0,800.918,0,0
+human,,20000,291.137,80,220,700,125.876,0,0,12.615
+named_machine,,20000,3590.6,3000,3400,4350,0,3590.6,0,0
+named_human,,20000,3635.585,1210,2050,6300,2976.113,0,0,56.436

@@ -1,0 +1,5 @@
+BUILDING_V33_INDEPENDENT_PRESERVATION
+Original transforms, activeSelf, meshes and colliders must remain identical.
+originalLightingUnchanged=True
+ownedAdditionLines=0
+RESULT PASS

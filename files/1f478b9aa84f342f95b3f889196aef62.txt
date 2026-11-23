@@ -1,0 +1,53 @@
+SAME-SESSION PAIRED A-MAP COMPARISON
+6 rounds AB/BA/AB; same seed 61030, 3 s warmup + 12 s measured each; same saved layout and camera.
+Legacy = original resource models + role None on the Play map only. Current shared code/stats remain identical.
+Frame timings include Editor overhead; this is not a standalone build benchmark.
+SPAWN 0 renderers=675 animators=72 lights=0
+ROUND 0 model=legacy actors=72 frames=490 avgMs=24.533 medianMs=22.824 p95Ms=34.287 maxMs=120.802 roleStarts=0 roleShots=0
+  Main Thread valid=True meanMs=24.473
+  Render Thread valid=False meanMs=0.000
+  PlayerLoop valid=True meanMs=19.658
+  Gfx.WaitForPresentOnGfxThread valid=True meanMs=0.001
+  Animation.Update valid=True meanMs=0.000
+  Animator.Update valid=False meanMs=0.000
+SPAWN 1 renderers=725 animators=119 lights=100
+ROUND 1 model=roles actors=72 frames=444 avgMs=26.995 medianMs=25.741 p95Ms=38.378 maxMs=51.071 roleStarts=1 roleShots=3
+  Main Thread valid=True meanMs=26.954
+  Render Thread valid=False meanMs=0.000
+  PlayerLoop valid=True meanMs=22.504
+  Gfx.WaitForPresentOnGfxThread valid=True meanMs=0.001
+  Animation.Update valid=True meanMs=0.000
+  Animator.Update valid=False meanMs=0.000
+SPAWN 2 renderers=725 animators=119 lights=100
+ROUND 2 model=roles actors=72 frames=499 avgMs=24.077 medianMs=22.894 p95Ms=31.860 maxMs=46.679 roleStarts=1 roleShots=3
+  Main Thread valid=True meanMs=24.016
+  Render Thread valid=False meanMs=0.000
+  PlayerLoop valid=True meanMs=20.042
+  Gfx.WaitForPresentOnGfxThread valid=True meanMs=0.001
+  Animation.Update valid=True meanMs=0.000
+  Animator.Update valid=False meanMs=0.000
+SPAWN 3 renderers=675 animators=72 lights=0
+ROUND 3 model=legacy actors=72 frames=563 avgMs=21.324 medianMs=20.487 p95Ms=27.865 maxMs=57.641 roleStarts=0 roleShots=0
+  Main Thread valid=True meanMs=21.262
+  Render Thread valid=False meanMs=0.000
+  PlayerLoop valid=True meanMs=17.688
+  Gfx.WaitForPresentOnGfxThread valid=True meanMs=0.001
+  Animation.Update valid=True meanMs=0.000
+  Animator.Update valid=False meanMs=0.000
+SPAWN 4 renderers=675 animators=72 lights=0
+ROUND 4 model=legacy actors=72 frames=547 avgMs=21.954 medianMs=20.910 p95Ms=29.626 maxMs=41.509 roleStarts=0 roleShots=0
+  Main Thread valid=True meanMs=21.902
+  Render Thread valid=False meanMs=0.000
+  PlayerLoop valid=True meanMs=18.240
+  Gfx.WaitForPresentOnGfxThread valid=True meanMs=0.001
+  Animation.Update valid=True meanMs=0.000
+  Animator.Update valid=False meanMs=0.000
+SPAWN 5 renderers=725 animators=119 lights=100
+ROUND 5 model=roles actors=72 frames=440 avgMs=27.294 medianMs=26.773 p95Ms=38.144 maxMs=55.726 roleStarts=1 roleShots=3
+  Main Thread valid=True meanMs=27.241
+  Render Thread valid=False meanMs=0.000
+  PlayerLoop valid=True meanMs=22.664
+  Gfx.WaitForPresentOnGfxThread valid=True meanMs=0.001
+  Animation.Update valid=True meanMs=0.000
+  Animator.Update valid=False meanMs=0.000
+COMPLETE comparison

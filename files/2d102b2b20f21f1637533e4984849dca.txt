@@ -1,0 +1,45 @@
+STAGE_A_NATURE_D14_INDEPENDENT_VALIDATION
+PASS retained A scene is available in Edit mode
+PASS immutable pre-D14 current-V35 snapshot exists
+PASS current-V35 snapshot schema and source hash valid
+PASS same retained A scene is under review
+PASS all V35 original objects, transforms, collision, meshes, materials, gameplay fields unchanged; baseline=33901 missing=0 structure=0 appearance=0
+PASS new map objects belong only to D14 vegetation and outskirts roots; added=9037 unrelated=0
+PASS only allowlisted old nature renderers turn off; changed=953 invalid=0 allowlistDrift=0 oldNatureStillVisible=0
+PASS all pre-D14 referenced asset files remain byte-identical; changed=0
+PASS all preexisting scene Light/Volume and global sky, fog, ambient, and pipelines unchanged
+NOTE D14 prefab hash at this validation=CF2600AA293C363F0E5DCBABB81C298A8D25A5466A1AE4E2B4CB25A4BF4CF0F8; final acceptance requires save, reload and the same validation again.
+PASS one active D14 vegetation root and one active outskirts root
+PASS new nature/outskirts contain no physical, lighting, volume, or missing-script components; colliders=0 lights=0 volumes=0 missingScripts=0
+PASS new nature and outskirts render within broad D14 authoring budgets; natureRenderers=3745 outskirtsRenderers=890 triangles=10239342 ceilings=6000/12000000
+PASS new D14 renderers have meshes and supported materials and are visible; missingMeshes=0 brokenMaterials=0 disabled=0
+PASS outskirts individual renderer centers remain exterior; any L-shaped grass batch with an interior bounds center has every actual triangle exterior; individualInside=0 grassBatchCentersInside=1 unprovedGrassBatches=0
+PASS outside terrain and continued water channels have separate roots
+PASS compact outside ground/water reaches all four 50m edges, extends both rivers and never enters the retained map; meshes=24 unreadable=0 interiorVertices=0 beyondCompact=0 outerEdges=235/235/294/294 waterEnds=2/2
+PASS new outside ground stitches to actual saved original land triangles within 0.05m; samples=942 mismatches=0
+PASS outside trees, shrubs, and rocks use only imported Polytope prefabs; groupsMissing=0 instances=766 trees=439 shrubs=268 rocks=59 missingSource=0 unrelatedSource=0 wrongNearest=0 wrongMesh=0
+PASS outside batched grass has an accepted-source placement manifest
+PASS original Polytope PT_Grass_02 and three source LODs resolve
+PASS outside grass manifest records placement pass, source LOD, and chunk mesh
+PASS outside grass rows have original Polytope source, valid exterior positions and deterministic LOD/chunks; rows=35580 compactDense=30889 compactDistant=4691 denseLod1Fraction=0.0328 malformed=0 source=0 position=0 lod=0 chunk=0 pass=0
+PASS each outside grass chunk matches its CSV source-LOD vertex/triangle totals and stays beyond original map; listedChunks=100 found=100 badMeshes=0 unlisted=0 interiorVertices=0
+NOTE D14 generated vegetation mesh assets=2077 unreferenced=0; leftovers from failed attempts are recorded, not treated as changes to V35 originals
+PASS D14 accepted-placement manifest exists for independent vegetation review
+PASS plant manifest provides map position, type, source asset, visual group, and size
+PASS retained land, access anchors, and readable original D11 paving mask available
+PASS all accepted D14 plant rows are valid in-map placements sourced from the imported Polytope package; rows=404364 malformed=0 missingAssets=0 wrongSource=0 outside=0 unexpectedRecord=0 gapFillDimensions=0 carpetDimensions=0
+PASS new plants meet original terrain and avoid water/building zones; groundMismatch=0 waterOrBuilding=0
+PASS V09/V27/V33/D11-tree existing positions are retained for visual replacement; records=556 displaced=0
+PASS grass stays clear of paving, paver weeds stay on setts, and plants avoid doors/spawns/exits/B4/R8; wrongPaving=0 nearAnchor=0 fillPropOverlap=0
+PASS grass covers all four playable quadrants while paver weeds remain sparse; grass=402195 quadrants=100569/106246/111153/84227 newOvergrowth=112128 newGapFill=24264 newCarpet=146252 paverWeeds=31 trees=407 shrubs=1645 rocks=86
+PASS every manifest visual group resolves beneath D14_Vegetation; groups=2084 missing=0
+NOTE D14 plant kinds=grass:398372,highGrass:3823,paverWeed:31,rock:86,shrub:1645,tree:407; sourceAssets=6
+PASS four basic entry anchors, eight dormant risk anchors, and seven exits remain
+PASS B4 basic and R8 risk-dormant tiers and actual spawn selection policy retained
+PASS B4/R8 original coordinates and approximately 62m spacing retained
+NOTE B4 and inactive R8 still converge on W5. Compare early cover, line of sight, and route access in actual Play; the structural check does not establish a distinct R8 experience.
+VISUAL_ACCEPTANCE separate: matched actual-game and editor before/after views must show Polytope nature, sparse paver weeds, denser grass, and no visible bare map edge.
+PLAY_ACCEPTANCE separate: PlayerMotor routes, B4/R8 early exposure, seven exits, and save/reload are not proved by this structural audit.
+PERFORMANCE separate: triangle and renderer ceilings are authoring budgets, not measured frame time.
+passed=35 failed=0
+RESULT PASS

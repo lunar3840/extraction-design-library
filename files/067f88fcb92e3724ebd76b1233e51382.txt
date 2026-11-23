@@ -1,0 +1,5 @@
+SHA256 comparison of existing Assets/Escape/Art .mat and .shader files.
+Baseline count=277
+After count=277
+Changed/missing baseline files=0
+RESULT PASS

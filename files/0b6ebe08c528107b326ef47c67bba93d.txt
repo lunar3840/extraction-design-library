@@ -1,0 +1,1042 @@
+2026-10-02 오전 2:56:18
+STAGE_A_ENCLOSURES_V33_INDEPENDENT_VALIDATION
+PASS live Stage A map exists
+PASS derived data matches approved PLAN.json SHA256 35D392066623478FFD5866E64A81BBB043FD0605F09C8E2DC02E7E28078FBD61
+PASS approved 69 buildings / 35 walls / 12 open gaps / 29 equipment loaded
+PASS active V33 placement root exists
+PASS five authored hierarchy groups present
+PASS original terrain and structure components remain
+PASS actual facade-contact coordinate record exists
+PASS actual endpoint contact adjustments recorded; count=29
+PASS actual facade correction remains within documented 22m maximum; max=20.14m
+NOTE AS_BUILT endpoint corrections are not accepted as route/gate clearance proof; physical probes follow.
+PASS original landmark remains active and physical: CLINIC
+PASS retained landmark is not duplicated in new building group: CLINIC
+PASS original landmark remains active and physical: POWER
+PASS retained landmark is not duplicated in new building group: POWER
+PASS original landmark remains active and physical: PARTS
+PASS retained landmark is not duplicated in new building group: PARTS
+PASS original landmark remains active and physical: TOOLS
+PASS retained landmark is not duplicated in new building group: TOOLS
+PASS V13 replacement HALL remains active and physical
+PASS retained HALL is not duplicated
+PASS building footprint center follows plan: N01
+PASS building has visible physical geometry: N01
+PASS building footprint center follows plan: N02
+PASS building has visible physical geometry: N02
+PASS building footprint center follows plan: N03
+PASS building has visible physical geometry: N03
+PASS building footprint center follows plan: N04
+PASS building has visible physical geometry: N04
+PASS building footprint center follows plan: N05
+PASS building has visible physical geometry: N05
+PASS building footprint center follows plan: N06
+PASS building has visible physical geometry: N06
+PASS building footprint center follows plan: N07
+PASS building has visible physical geometry: N07
+PASS building footprint center follows plan: N08
+PASS building has visible physical geometry: N08
+PASS building footprint center follows plan: N09
+PASS building has visible physical geometry: N09
+PASS building footprint center follows plan: N10
+PASS building has visible physical geometry: N10
+PASS building footprint center follows plan: N11
+PASS building has visible physical geometry: N11
+PASS building footprint center follows plan: N12
+PASS building has visible physical geometry: N12
+PASS building footprint center follows plan: N13
+PASS building has visible physical geometry: N13
+PASS building footprint center follows plan: N14
+PASS building has visible physical geometry: N14
+PASS building footprint center follows plan: N15
+PASS building has visible physical geometry: N15
+PASS building footprint center follows plan: N16
+PASS building has visible physical geometry: N16
+PASS building footprint center follows plan: W01
+PASS building has visible physical geometry: W01
+PASS building footprint center follows plan: W02
+PASS building has visible physical geometry: W02
+PASS building footprint center follows plan: W03
+PASS building has visible physical geometry: W03
+PASS building footprint center follows plan: W04
+PASS building has visible physical geometry: W04
+PASS building footprint center follows plan: W05
+PASS building has visible physical geometry: W05
+PASS building footprint center follows plan: W06
+PASS building has visible physical geometry: W06
+PASS building footprint center follows plan: W07
+PASS building has visible physical geometry: W07
+PASS building footprint center follows plan: W08
+PASS building has visible physical geometry: W08
+PASS building footprint center follows plan: W09
+PASS building has visible physical geometry: W09
+PASS building footprint center follows plan: W10
+PASS building has visible physical geometry: W10
+PASS building footprint center follows plan: W11
+PASS building has visible physical geometry: W11
+PASS building footprint center follows plan: C01
+PASS building has visible physical geometry: C01
+PASS building footprint center follows plan: C02
+PASS building has visible physical geometry: C02
+PASS building footprint center follows plan: C03
+PASS building has visible physical geometry: C03
+PASS building footprint center follows plan: C04
+PASS building has visible physical geometry: C04
+PASS building footprint center follows plan: E01
+PASS building has visible physical geometry: E01
+PASS building footprint center follows plan: E02
+PASS building has visible physical geometry: E02
+PASS building footprint center follows plan: E03
+PASS building has visible physical geometry: E03
+PASS building footprint center follows plan: E04
+PASS building has visible physical geometry: E04
+PASS building footprint center follows plan: E05
+PASS building has visible physical geometry: E05
+PASS building footprint center follows plan: E06
+PASS building has visible physical geometry: E06
+PASS building footprint center follows plan: E07
+PASS building has visible physical geometry: E07
+PASS building footprint center follows plan: E08
+PASS building has visible physical geometry: E08
+PASS building footprint center follows plan: E09
+PASS building has visible physical geometry: E09
+PASS building footprint center follows plan: E10
+PASS building has visible physical geometry: E10
+PASS building footprint center follows plan: E11
+PASS building has visible physical geometry: E11
+PASS building footprint center follows plan: E12
+PASS building has visible physical geometry: E12
+PASS building footprint center follows plan: S01
+PASS building has visible physical geometry: S01
+PASS building footprint center follows plan: S02
+PASS building has visible physical geometry: S02
+PASS building footprint center follows plan: S03
+PASS building has visible physical geometry: S03
+PASS building footprint center follows plan: S04
+PASS building has visible physical geometry: S04
+PASS building footprint center follows plan: S05
+PASS building has visible physical geometry: S05
+PASS building footprint center follows plan: S06
+PASS building has visible physical geometry: S06
+PASS building footprint center follows plan: S07
+PASS building has visible physical geometry: S07
+PASS building footprint center follows plan: S08
+PASS building has visible physical geometry: S08
+PASS building footprint center follows plan: S09
+PASS building has visible physical geometry: S09
+PASS building footprint center follows plan: S10
+PASS building has visible physical geometry: S10
+PASS building footprint center follows plan: S11
+PASS building has visible physical geometry: S11
+PASS building footprint center follows plan: S12
+PASS building has visible physical geometry: S12
+PASS building footprint center follows plan: Y01
+PASS building has visible physical geometry: Y01
+PASS building footprint center follows plan: Y02
+PASS building has visible physical geometry: Y02
+PASS building footprint center follows plan: Y03
+PASS building has visible physical geometry: Y03
+PASS building footprint center follows plan: Y04
+PASS building has visible physical geometry: Y04
+PASS building footprint center follows plan: Y05
+PASS building has visible physical geometry: Y05
+PASS building footprint center follows plan: F01
+PASS building has visible physical geometry: F01
+PASS building footprint center follows plan: F02
+PASS building has visible physical geometry: F02
+PASS building footprint center follows plan: F03
+PASS building has visible physical geometry: F03
+PASS building footprint center follows plan: N17
+PASS building has visible physical geometry: N17
+PASS equipment footprint center follows plan: EN1
+PASS equipment collision exists: EN1
+PASS equipment footprint center follows plan: EN2
+PASS equipment collision exists: EN2
+PASS equipment footprint center follows plan: EN3
+PASS equipment collision exists: EN3
+PASS equipment footprint center follows plan: EN4
+PASS equipment collision exists: EN4
+PASS equipment footprint center follows plan: EW1
+PASS equipment collision exists: EW1
+PASS equipment footprint center follows plan: EW2
+PASS equipment collision exists: EW2
+PASS equipment footprint center follows plan: EW3
+PASS equipment collision exists: EW3
+PASS equipment footprint center follows plan: EW4
+PASS equipment collision exists: EW4
+PASS equipment footprint center follows plan: EW5
+PASS equipment collision exists: EW5
+PASS equipment footprint center follows plan: EW6
+PASS equipment collision exists: EW6
+PASS equipment footprint center follows plan: EC1
+PASS equipment collision exists: EC1
+PASS equipment footprint center follows plan: EC2
+PASS equipment collision exists: EC2
+PASS equipment footprint center follows plan: EC3
+PASS equipment collision exists: EC3
+PASS equipment footprint center follows plan: EE1
+PASS equipment collision exists: EE1
+PASS equipment footprint center follows plan: EE2
+PASS equipment collision exists: EE2
+PASS equipment footprint center follows plan: EE3
+PASS equipment collision exists: EE3
+PASS equipment footprint center follows plan: EE4
+PASS equipment collision exists: EE4
+PASS equipment footprint center follows plan: EE5
+PASS equipment collision exists: EE5
+PASS equipment footprint center follows plan: EE6
+PASS equipment collision exists: EE6
+PASS equipment footprint center follows plan: ES1
+PASS equipment collision exists: ES1
+PASS equipment footprint center follows plan: ES2
+PASS equipment collision exists: ES2
+PASS equipment footprint center follows plan: ES3
+PASS equipment collision exists: ES3
+PASS equipment footprint center follows plan: ES4
+PASS equipment collision exists: ES4
+PASS equipment footprint center follows plan: EY1
+PASS equipment collision exists: EY1
+PASS equipment footprint center follows plan: EY2
+PASS equipment collision exists: EY2
+PASS equipment footprint center follows plan: EY3
+PASS equipment collision exists: EY3
+PASS equipment footprint center follows plan: EY4
+PASS equipment collision exists: EY4
+PASS equipment footprint center follows plan: EF1
+PASS equipment collision exists: EF1
+PASS equipment footprint center follows plan: EF2
+PASS equipment collision exists: EF2
+PASS wall object exists: CN_W1
+PASS wall center follows plan: CN_W1
+PASS wall has actual collider: CN_W1
+PASS wall object exists: CN_W2
+PASS wall center follows plan: CN_W2
+PASS wall has actual collider: CN_W2
+PASS wall object exists: CN_W3
+PASS wall center follows plan: CN_W3
+PASS wall has actual collider: CN_W3
+PASS wall object exists: CN_W4
+PASS wall center follows plan: CN_W4
+PASS wall has actual collider: CN_W4
+PASS wall object exists: CN_W5
+PASS wall center follows plan: CN_W5
+PASS wall has actual collider: CN_W5
+PASS wall object exists: CN_W6
+PASS wall center follows plan: CN_W6
+PASS wall has actual collider: CN_W6
+PASS wall object exists: WC_W1
+PASS wall center follows plan: WC_W1
+PASS wall has actual collider: WC_W1
+PASS wall object exists: WC_W2
+PASS wall center follows plan: WC_W2
+PASS wall has actual collider: WC_W2
+PASS wall object exists: WC_W3
+PASS wall center follows plan: WC_W3
+PASS wall has actual collider: WC_W3
+PASS wall object exists: WC_W4
+PASS wall center follows plan: WC_W4
+PASS wall has actual collider: WC_W4
+PASS wall object exists: WC_W5
+PASS wall center follows plan: WC_W5
+PASS wall has actual collider: WC_W5
+PASS wall object exists: WC_W6
+PASS wall center follows plan: WC_W6
+PASS wall has actual collider: WC_W6
+PASS wall object exists: WC_W7
+PASS wall center follows plan: WC_W7
+PASS wall has actual collider: WC_W7
+PASS wall object exists: WC_W8
+PASS wall center follows plan: WC_W8
+PASS wall has actual collider: WC_W8
+PASS wall object exists: PC_W1
+PASS wall center follows plan: PC_W1
+PASS wall has actual collider: PC_W1
+PASS wall object exists: PC_W2
+PASS wall center follows plan: PC_W2
+PASS wall has actual collider: PC_W2
+PASS wall object exists: PC_W3
+PASS wall center follows plan: PC_W3
+PASS wall has actual collider: PC_W3
+PASS wall object exists: PC_W4
+PASS wall center follows plan: PC_W4
+PASS wall has actual collider: PC_W4
+PASS wall object exists: PC_W5
+PASS wall center follows plan: PC_W5
+PASS wall has actual collider: PC_W5
+PASS wall object exists: PC_W6
+PASS wall center follows plan: PC_W6
+PASS wall has actual collider: PC_W6
+PASS wall object exists: SC_W1
+PASS wall center follows plan: SC_W1
+PASS wall has actual collider: SC_W1
+PASS wall object exists: SC_W2
+PASS wall center follows plan: SC_W2
+PASS wall has actual collider: SC_W2
+PASS wall object exists: SC_W3
+PASS wall center follows plan: SC_W3
+PASS wall has actual collider: SC_W3
+PASS wall object exists: SC_W4
+PASS wall center follows plan: SC_W4
+PASS wall has actual collider: SC_W4
+PASS wall object exists: SC_W5
+PASS wall center follows plan: SC_W5
+PASS wall has actual collider: SC_W5
+PASS wall object exists: SC_W6
+PASS wall center follows plan: SC_W6
+PASS wall has actual collider: SC_W6
+PASS wall object exists: YC_W1
+PASS wall center follows plan: YC_W1
+PASS wall has actual collider: YC_W1
+PASS wall object exists: YC_W2
+PASS wall center follows plan: YC_W2
+PASS wall has actual collider: YC_W2
+PASS wall object exists: YC_W3
+PASS wall center follows plan: YC_W3
+PASS wall has actual collider: YC_W3
+PASS wall object exists: YC_W4
+PASS wall center follows plan: YC_W4
+PASS wall has actual collider: YC_W4
+PASS wall object exists: YC_W5
+PASS wall center follows plan: YC_W5
+PASS wall has actual collider: YC_W5
+PASS wall object exists: YC_W6
+PASS wall center follows plan: YC_W6
+PASS wall has actual collider: YC_W6
+PASS wall object exists: WS1
+PASS wall center follows plan: WS1
+PASS wall has actual collider: WS1
+PASS wall object exists: WS2
+PASS wall center follows plan: WS2
+PASS wall has actual collider: WS2
+PASS wall object exists: WS3
+PASS wall center follows plan: WS3
+PASS wall has actual collider: WS3
+PASS gate empty transform follows plan: CN_G2
+PASS gate contains no hidden wall collider: CN_G2
+PASS gate is explicitly always open: CN_G2
+PASS gate empty transform follows plan: CN_G1
+PASS gate contains no hidden wall collider: CN_G1
+PASS gate is explicitly always open: CN_G1
+PASS gate empty transform follows plan: WC_G2
+PASS gate contains no hidden wall collider: WC_G2
+PASS gate is explicitly always open: WC_G2
+PASS gate empty transform follows plan: WC_G1
+PASS gate contains no hidden wall collider: WC_G1
+PASS gate is explicitly always open: WC_G1
+PASS gate empty transform follows plan: PC_G1
+PASS gate contains no hidden wall collider: PC_G1
+PASS gate is explicitly always open: PC_G1
+PASS gate empty transform follows plan: PC_G2
+PASS gate contains no hidden wall collider: PC_G2
+PASS gate is explicitly always open: PC_G2
+PASS gate empty transform follows plan: PC_G3
+PASS gate contains no hidden wall collider: PC_G3
+PASS gate is explicitly always open: PC_G3
+PASS gate empty transform follows plan: SC_G1
+PASS gate contains no hidden wall collider: SC_G1
+PASS gate is explicitly always open: SC_G1
+PASS gate empty transform follows plan: SC_G2
+PASS gate contains no hidden wall collider: SC_G2
+PASS gate is explicitly always open: SC_G2
+PASS gate empty transform follows plan: YC_G1
+PASS gate contains no hidden wall collider: YC_G1
+PASS gate is explicitly always open: YC_G1
+PASS gate empty transform follows plan: YC_G3
+PASS gate contains no hidden wall collider: YC_G3
+PASS gate is explicitly always open: YC_G3
+PASS gate empty transform follows plan: YC_G2
+PASS gate contains no hidden wall collider: YC_G2
+PASS gate is explicitly always open: YC_G2
+PASS ordered boundary chain: CN
+PASS boundary chain endpoint joins: CN #0
+PASS actual facade/wall contact CN N03/CN_W1 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: CN #1
+PASS actual facade/wall contact CN N03/CN_W2 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: CN #2
+PASS AS_BUILT wall/gate chain remains physically continuous: CN #2 gap=0.00m
+PASS boundary chain endpoint joins: CN #3
+PASS AS_BUILT wall/gate chain remains physically continuous: CN #3 gap=0.00m
+PASS boundary chain endpoint joins: CN #4
+PASS actual facade/wall contact CN N04/CN_W3 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: CN #5
+PASS actual facade/wall contact CN N04/CN_W4 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: CN #6
+PASS AS_BUILT wall/gate chain remains physically continuous: CN #6 gap=0.00m
+PASS boundary chain endpoint joins: CN #7
+PASS AS_BUILT wall/gate chain remains physically continuous: CN #7 gap=0.00m
+PASS boundary chain endpoint joins: CN #8
+PASS AS_BUILT wall/gate chain remains physically continuous: CN #8 gap=0.00m
+PASS boundary chain endpoint joins: CN #9
+PASS actual facade/wall contact CN CLINIC/CN_W6 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: CN #10
+PASS actual facade/wall contact CN CLINIC/CN_W1 gaps=0.00/0.00m
+PASS facility connects to actual building facade: CN
+PASS ordered boundary chain: WC
+PASS boundary chain endpoint joins: WC #0
+PASS actual facade/wall contact WC W03/WC_W1 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: WC #1
+PASS AS_BUILT wall/gate chain remains physically continuous: WC #1 gap=0.00m
+PASS boundary chain endpoint joins: WC #2
+PASS AS_BUILT wall/gate chain remains physically continuous: WC #2 gap=0.00m
+PASS boundary chain endpoint joins: WC #3
+PASS actual facade/wall contact WC W04/WC_W2 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: WC #4
+PASS boundary chain endpoint joins: WC #5
+PASS actual facade/wall contact WC W04/WC_W3 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: WC #6
+PASS AS_BUILT wall/gate chain remains physically continuous: WC #6 gap=0.00m
+PASS boundary chain endpoint joins: WC #7
+PASS AS_BUILT wall/gate chain remains physically continuous: WC #7 gap=0.00m
+PASS boundary chain endpoint joins: WC #8
+PASS AS_BUILT wall/gate chain remains physically continuous: WC #8 gap=0.00m
+PASS boundary chain endpoint joins: WC #9
+PASS actual facade/wall contact WC W05/WC_W5 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: WC #10
+PASS actual facade/wall contact WC W05/WC_W6 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: WC #11
+PASS AS_BUILT wall/gate chain remains physically continuous: WC #11 gap=0.00m
+PASS boundary chain endpoint joins: WC #12
+PASS AS_BUILT wall/gate chain remains physically continuous: WC #12 gap=0.00m
+PASS boundary chain endpoint joins: WC #13
+PASS actual facade/wall contact WC W03/WC_W8 gaps=0.00/0.00m
+PASS facility connects to actual building facade: WC
+PASS ordered boundary chain: PC
+PASS boundary chain endpoint joins: PC #0
+PASS actual facade/wall contact PC POWER/PC_W1 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: PC #1
+PASS AS_BUILT wall/gate chain remains physically continuous: PC #1 gap=0.00m
+PASS boundary chain endpoint joins: PC #2
+PASS AS_BUILT wall/gate chain remains physically continuous: PC #2 gap=0.00m
+PASS boundary chain endpoint joins: PC #3
+PASS AS_BUILT wall/gate chain remains physically continuous: PC #3 gap=0.00m
+PASS boundary chain endpoint joins: PC #4
+PASS AS_BUILT wall/gate chain remains physically continuous: PC #4 gap=0.00m
+PASS boundary chain endpoint joins: PC #5
+PASS AS_BUILT wall/gate chain remains physically continuous: PC #5 gap=0.00m
+PASS boundary chain endpoint joins: PC #6
+PASS AS_BUILT wall/gate chain remains physically continuous: PC #6 gap=0.00m
+PASS boundary chain endpoint joins: PC #7
+PASS AS_BUILT wall/gate chain remains physically continuous: PC #7 gap=0.00m
+PASS boundary chain endpoint joins: PC #8
+PASS AS_BUILT wall/gate chain remains physically continuous: PC #8 gap=0.00m
+PASS boundary chain endpoint joins: PC #9
+PASS actual facade/wall contact PC POWER/PC_W6 gaps=0.00/0.00m
+PASS facility connects to actual building facade: PC
+PASS ordered boundary chain: SC
+PASS boundary chain endpoint joins: SC #0
+PASS actual facade/wall contact SC PARTS/SC_W1 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: SC #1
+PASS actual facade/wall contact SC E06/SC_W1 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: SC #2
+PASS actual facade/wall contact SC E06/SC_W2 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: SC #3
+PASS AS_BUILT wall/gate chain remains physically continuous: SC #3 gap=0.00m
+PASS boundary chain endpoint joins: SC #4
+PASS AS_BUILT wall/gate chain remains physically continuous: SC #4 gap=0.00m
+PASS boundary chain endpoint joins: SC #5
+PASS actual facade/wall contact SC E05/SC_W3 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: SC #6
+PASS actual facade/wall contact SC E05/SC_W4 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: SC #7
+PASS AS_BUILT wall/gate chain remains physically continuous: SC #7 gap=0.00m
+PASS boundary chain endpoint joins: SC #8
+PASS AS_BUILT wall/gate chain remains physically continuous: SC #8 gap=0.00m
+PASS boundary chain endpoint joins: SC #9
+PASS AS_BUILT wall/gate chain remains physically continuous: SC #9 gap=0.00m
+PASS boundary chain endpoint joins: SC #10
+PASS actual facade/wall contact SC PARTS/SC_W6 gaps=0.00/0.00m
+PASS facility connects to actual building facade: SC
+PASS ordered boundary chain: YC
+PASS boundary chain endpoint joins: YC #0
+PASS actual facade/wall contact YC Y01/YC_W1 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: YC #1
+PASS AS_BUILT wall/gate chain remains physically continuous: YC #1 gap=0.00m
+PASS boundary chain endpoint joins: YC #2
+PASS AS_BUILT wall/gate chain remains physically continuous: YC #2 gap=0.00m
+PASS boundary chain endpoint joins: YC #3
+PASS actual facade/wall contact YC Y02/YC_W2 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: YC #4
+PASS boundary chain endpoint joins: YC #5
+PASS actual facade/wall contact YC Y02/YC_W3 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: YC #6
+PASS AS_BUILT wall/gate chain remains physically continuous: YC #6 gap=0.00m
+PASS boundary chain endpoint joins: YC #7
+PASS AS_BUILT wall/gate chain remains physically continuous: YC #7 gap=0.00m
+PASS boundary chain endpoint joins: YC #8
+PASS AS_BUILT wall/gate chain remains physically continuous: YC #8 gap=0.00m
+PASS boundary chain endpoint joins: YC #9
+PASS AS_BUILT wall/gate chain remains physically continuous: YC #9 gap=0.00m
+PASS boundary chain endpoint joins: YC #10
+PASS AS_BUILT wall/gate chain remains physically continuous: YC #10 gap=0.00m
+PASS boundary chain endpoint joins: YC #11
+PASS actual facade/wall contact YC Y01/YC_W6 gaps=0.00/0.00m
+PASS boundary chain endpoint joins: YC #12
+PASS facility connects to actual building facade: YC
+PASS gate planned width agrees with endpoints: CN_G2
+PASS actual fence collision line is absent across gate interval: CN_G2
+PASS usable gate width excludes 0.7m player/post margin and is capsule-clear: CN_G2
+PASS gate planned width agrees with endpoints: CN_G1
+PASS actual fence collision line is absent across gate interval: CN_G1
+PASS usable gate width excludes 0.7m player/post margin and is capsule-clear: CN_G1
+PASS gate planned width agrees with endpoints: WC_G2
+PASS actual fence collision line is absent across gate interval: WC_G2
+PASS usable gate width excludes 0.7m player/post margin and is capsule-clear: WC_G2
+PASS gate planned width agrees with endpoints: WC_G1
+PASS actual fence collision line is absent across gate interval: WC_G1
+PASS usable gate width excludes 0.7m player/post margin and is capsule-clear: WC_G1
+PASS gate planned width agrees with endpoints: PC_G1
+PASS actual fence collision line is absent across gate interval: PC_G1
+PASS usable gate width excludes 0.7m player/post margin and is capsule-clear: PC_G1
+PASS gate planned width agrees with endpoints: PC_G2
+PASS actual fence collision line is absent across gate interval: PC_G2
+PASS usable gate width excludes 0.7m player/post margin and is capsule-clear: PC_G2
+PASS gate planned width agrees with endpoints: PC_G3
+PASS actual fence collision line is absent across gate interval: PC_G3
+PASS usable gate width excludes 0.7m player/post margin and is capsule-clear: PC_G3
+PASS gate planned width agrees with endpoints: SC_G1
+PASS actual fence collision line is absent across gate interval: SC_G1
+PASS usable gate width excludes 0.7m player/post margin and is capsule-clear: SC_G1
+PASS gate planned width agrees with endpoints: SC_G2
+PASS actual fence collision line is absent across gate interval: SC_G2
+PASS usable gate width excludes 0.7m player/post margin and is capsule-clear: SC_G2
+PASS gate planned width agrees with endpoints: YC_G1
+PASS actual fence collision line is absent across gate interval: YC_G1
+PASS usable gate width excludes 0.7m player/post margin and is capsule-clear: YC_G1
+PASS gate planned width agrees with endpoints: YC_G3
+PASS actual fence collision line is absent across gate interval: YC_G3
+PASS usable gate width excludes 0.7m player/post margin and is capsule-clear: YC_G3
+PASS gate planned width agrees with endpoints: YC_G2
+PASS actual fence collision line is absent across gate interval: YC_G2
+PASS usable gate width excludes 0.7m player/post margin and is capsule-clear: YC_G2
+PASS AS_BUILT route centers and both flanks remain capsule-clear; samples=6168 blocked=0
+PASS representative routes stay on actual MeshCollider terrain at <=45 degrees; missing=0 steep=0 max=33.3deg
+NOTE all remaining physical route obstruction samples saved to V33_ROUTE_OBSTRUCTIONS.csv
+NOTE A <=0.25m Curb side contact is provisionally stepable; actual two-way PlayerMotor crossing is separately required.
+PASS new physical solids have no unplanned mutual penetration; count=0
+PASS new solids do not penetrate retained active objects; count=0
+PASS no material nonconvex overlap remains unverified; count=0
+PASS new physical objects have visible counterparts; hidden=0
+PASS building/equipment bottoms contact the terrain envelope; outliers=0
+PASS height profile agrees with actual surface MeshCollider: N01 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: N01 maxDelta=0.04 unsupported=0 buried=0
+PASS two-sided door anchors exist: N01
+PASS door exterior follows real terrain/ramp walking surface: N01/0 rise=0.15m
+PASS door exterior physically clear: N01/0
+PASS door exterior follows real terrain/ramp walking surface: N01/1 rise=0.15m
+PASS door exterior physically clear: N01/1
+PASS height profile agrees with actual surface MeshCollider: N02 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: N02 maxDelta=0.58 unsupported=0 buried=0
+PASS two-sided door anchors exist: N02
+PASS door exterior follows real terrain/ramp walking surface: N02/0 rise=0.15m
+PASS door exterior physically clear: N02/0
+PASS door exterior follows real terrain/ramp walking surface: N02/1 rise=0.15m
+PASS door exterior physically clear: N02/1
+PASS height profile agrees with actual surface MeshCollider: N03 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: N03 maxDelta=0.04 unsupported=0 buried=0
+PASS two-sided door anchors exist: N03
+PASS door exterior follows real terrain/ramp walking surface: N03/0 rise=0.15m
+PASS door exterior physically clear: N03/0
+PASS door exterior follows real terrain/ramp walking surface: N03/1 rise=0.15m
+PASS door exterior physically clear: N03/1
+PASS height profile agrees with actual surface MeshCollider: N04 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: N04 maxDelta=1.41 unsupported=0 buried=0
+PASS two-sided door anchors exist: N04
+PASS door exterior follows real terrain/ramp walking surface: N04/0 rise=0.15m
+PASS door exterior physically clear: N04/0
+PASS door exterior follows real terrain/ramp walking surface: N04/1 rise=0.15m
+PASS door exterior physically clear: N04/1
+PASS height profile agrees with actual surface MeshCollider: N05 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: N05 maxDelta=1.36 unsupported=0 buried=0
+PASS two-sided door anchors exist: N05
+PASS door exterior follows real terrain/ramp walking surface: N05/0 rise=0.15m
+PASS door exterior physically clear: N05/0
+PASS door exterior follows real terrain/ramp walking surface: N05/1 rise=0.15m
+PASS door exterior physically clear: N05/1
+PASS height profile agrees with actual surface MeshCollider: N06 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: N06 maxDelta=1.41 unsupported=0 buried=0
+PASS two-sided door anchors exist: N06
+PASS door exterior follows real terrain/ramp walking surface: N06/0 rise=0.15m
+PASS door exterior physically clear: N06/0
+PASS door exterior follows real terrain/ramp walking surface: N06/1 rise=0.15m
+PASS door exterior physically clear: N06/1
+PASS height profile agrees with actual surface MeshCollider: N07 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: N07 maxDelta=0.04 unsupported=0 buried=0
+PASS two-sided door anchors exist: N07
+PASS door exterior follows real terrain/ramp walking surface: N07/0 rise=0.15m
+PASS door exterior physically clear: N07/0
+PASS door exterior follows real terrain/ramp walking surface: N07/1 rise=0.15m
+PASS door exterior physically clear: N07/1
+PASS height profile agrees with actual surface MeshCollider: N08 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: N08 maxDelta=1.34 unsupported=0 buried=0
+PASS two-sided door anchors exist: N08
+PASS door exterior follows real terrain/ramp walking surface: N08/0 rise=0.15m
+PASS door exterior physically clear: N08/0
+PASS door exterior follows real terrain/ramp walking surface: N08/1 rise=0.15m
+PASS door exterior physically clear: N08/1
+PASS height profile agrees with actual surface MeshCollider: N09 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: N09 maxDelta=1.51 unsupported=0 buried=0
+PASS two-sided door anchors exist: N09
+PASS door exterior follows real terrain/ramp walking surface: N09/0 rise=0.15m
+PASS door exterior physically clear: N09/0
+PASS door exterior follows real terrain/ramp walking surface: N09/1 rise=0.15m
+PASS door exterior physically clear: N09/1
+PASS height profile agrees with actual surface MeshCollider: N10 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: N10 maxDelta=0.04 unsupported=0 buried=0
+PASS two-sided door anchors exist: N10
+PASS door exterior follows real terrain/ramp walking surface: N10/0 rise=0.15m
+PASS door exterior physically clear: N10/0
+PASS door exterior follows real terrain/ramp walking surface: N10/1 rise=0.15m
+PASS door exterior physically clear: N10/1
+PASS height profile agrees with actual surface MeshCollider: N11 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: N11 maxDelta=0.04 unsupported=0 buried=0
+PASS two-sided door anchors exist: N11
+PASS door exterior follows real terrain/ramp walking surface: N11/0 rise=0.15m
+PASS door exterior physically clear: N11/0
+PASS door exterior follows real terrain/ramp walking surface: N11/1 rise=0.15m
+PASS door exterior physically clear: N11/1
+PASS height profile agrees with actual surface MeshCollider: N12 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: N12 maxDelta=0.04 unsupported=0 buried=0
+PASS two-sided door anchors exist: N12
+PASS door exterior follows real terrain/ramp walking surface: N12/0 rise=0.15m
+PASS door exterior physically clear: N12/0
+PASS door exterior follows real terrain/ramp walking surface: N12/1 rise=0.15m
+PASS door exterior physically clear: N12/1
+PASS height profile agrees with actual surface MeshCollider: N13 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: N13 maxDelta=0.04 unsupported=0 buried=0
+PASS two-sided door anchors exist: N13
+PASS door exterior follows real terrain/ramp walking surface: N13/0 rise=0.15m
+PASS door exterior physically clear: N13/0
+PASS door exterior follows real terrain/ramp walking surface: N13/1 rise=0.15m
+PASS door exterior physically clear: N13/1
+PASS height profile agrees with actual surface MeshCollider: N14 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: N14 maxDelta=0.04 unsupported=0 buried=0
+PASS two-sided door anchors exist: N14
+PASS door exterior follows real terrain/ramp walking surface: N14/0 rise=0.15m
+PASS door exterior physically clear: N14/0
+PASS door exterior follows real terrain/ramp walking surface: N14/1 rise=0.15m
+PASS door exterior physically clear: N14/1
+PASS height profile agrees with actual surface MeshCollider: N15 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: N15 maxDelta=0.04 unsupported=0 buried=0
+PASS two-sided door anchors exist: N15
+PASS door exterior follows real terrain/ramp walking surface: N15/0 rise=0.15m
+PASS door exterior physically clear: N15/0
+PASS door exterior follows real terrain/ramp walking surface: N15/1 rise=0.15m
+PASS door exterior physically clear: N15/1
+PASS height profile agrees with actual surface MeshCollider: N16 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: N16 maxDelta=0.05 unsupported=0 buried=0
+PASS two-sided door anchors exist: N16
+PASS door exterior follows real terrain/ramp walking surface: N16/0 rise=0.15m
+PASS door exterior physically clear: N16/0
+PASS door exterior follows real terrain/ramp walking surface: N16/1 rise=0.15m
+PASS door exterior physically clear: N16/1
+PASS height profile agrees with actual surface MeshCollider: W01 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: W01 maxDelta=1.38 unsupported=0 buried=0
+PASS two-sided door anchors exist: W01
+PASS door exterior follows real terrain/ramp walking surface: W01/0 rise=0.15m
+PASS door exterior physically clear: W01/0
+PASS door exterior follows real terrain/ramp walking surface: W01/1 rise=0.15m
+PASS door exterior physically clear: W01/1
+PASS height profile agrees with actual surface MeshCollider: W02 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: W02 maxDelta=0.47 unsupported=0 buried=0
+PASS two-sided door anchors exist: W02
+PASS door exterior follows real terrain/ramp walking surface: W02/0 rise=0.15m
+PASS door exterior physically clear: W02/0
+PASS door exterior follows real terrain/ramp walking surface: W02/1 rise=0.15m
+PASS door exterior physically clear: W02/1
+PASS height profile agrees with actual surface MeshCollider: W03 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: W03 maxDelta=1.25 unsupported=0 buried=0
+PASS two-sided door anchors exist: W03
+PASS door exterior follows real terrain/ramp walking surface: W03/0 rise=0.15m
+PASS door exterior physically clear: W03/0
+PASS door exterior follows real terrain/ramp walking surface: W03/1 rise=0.15m
+PASS door exterior physically clear: W03/1
+PASS height profile agrees with actual surface MeshCollider: W04 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: W04 maxDelta=0.90 unsupported=0 buried=0
+PASS two-sided door anchors exist: W04
+PASS door exterior follows real terrain/ramp walking surface: W04/0 rise=0.15m
+PASS door exterior physically clear: W04/0
+PASS door exterior follows real terrain/ramp walking surface: W04/1 rise=0.15m
+PASS door exterior physically clear: W04/1
+PASS height profile agrees with actual surface MeshCollider: W05 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: W05 maxDelta=0.72 unsupported=0 buried=0
+PASS two-sided door anchors exist: W05
+PASS door exterior follows real terrain/ramp walking surface: W05/0 rise=0.15m
+PASS door exterior physically clear: W05/0
+PASS door exterior follows real terrain/ramp walking surface: W05/1 rise=0.15m
+PASS door exterior physically clear: W05/1
+PASS height profile agrees with actual surface MeshCollider: W06 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: W06 maxDelta=0.37 unsupported=0 buried=0
+PASS two-sided door anchors exist: W06
+PASS door exterior follows real terrain/ramp walking surface: W06/0 rise=0.15m
+PASS door exterior physically clear: W06/0
+PASS door exterior follows real terrain/ramp walking surface: W06/1 rise=0.15m
+PASS door exterior physically clear: W06/1
+PASS height profile agrees with actual surface MeshCollider: W07 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: W07 maxDelta=0.41 unsupported=0 buried=0
+PASS two-sided door anchors exist: W07
+PASS door exterior follows real terrain/ramp walking surface: W07/0 rise=0.15m
+PASS door exterior physically clear: W07/0
+PASS door exterior follows real terrain/ramp walking surface: W07/1 rise=0.15m
+PASS door exterior physically clear: W07/1
+PASS height profile agrees with actual surface MeshCollider: W08 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: W08 maxDelta=0.26 unsupported=0 buried=0
+PASS two-sided door anchors exist: W08
+PASS door exterior follows real terrain/ramp walking surface: W08/0 rise=0.15m
+PASS door exterior physically clear: W08/0
+PASS door exterior follows real terrain/ramp walking surface: W08/1 rise=0.15m
+PASS door exterior physically clear: W08/1
+PASS height profile agrees with actual surface MeshCollider: W09 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: W09 maxDelta=0.36 unsupported=0 buried=0
+PASS two-sided door anchors exist: W09
+PASS door exterior follows real terrain/ramp walking surface: W09/0 rise=0.15m
+PASS door exterior physically clear: W09/0
+PASS door exterior follows real terrain/ramp walking surface: W09/1 rise=0.15m
+PASS door exterior physically clear: W09/1
+PASS height profile agrees with actual surface MeshCollider: W10 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: W10 maxDelta=0.44 unsupported=0 buried=0
+PASS two-sided door anchors exist: W10
+PASS door exterior follows real terrain/ramp walking surface: W10/0 rise=0.15m
+PASS door exterior physically clear: W10/0
+PASS door exterior follows real terrain/ramp walking surface: W10/1 rise=0.15m
+PASS door exterior physically clear: W10/1
+PASS height profile agrees with actual surface MeshCollider: W11 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: W11 maxDelta=0.27 unsupported=0 buried=0
+PASS two-sided door anchors exist: W11
+PASS door exterior follows real terrain/ramp walking surface: W11/0 rise=0.15m
+PASS door exterior physically clear: W11/0
+PASS door exterior follows real terrain/ramp walking surface: W11/1 rise=0.15m
+PASS door exterior physically clear: W11/1
+PASS height profile agrees with actual surface MeshCollider: C01 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: C01 maxDelta=0.47 unsupported=0 buried=0
+PASS two-sided door anchors exist: C01
+PASS door exterior follows real terrain/ramp walking surface: C01/0 rise=0.15m
+PASS door exterior physically clear: C01/0
+PASS door exterior follows real terrain/ramp walking surface: C01/1 rise=0.15m
+PASS door exterior physically clear: C01/1
+PASS height profile agrees with actual surface MeshCollider: C02 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: C02 maxDelta=1.80 unsupported=0 buried=0
+PASS two-sided door anchors exist: C02
+PASS door exterior follows real terrain/ramp walking surface: C02/0 rise=0.15m
+PASS door exterior physically clear: C02/0
+PASS door exterior follows real terrain/ramp walking surface: C02/1 rise=0.15m
+PASS door exterior physically clear: C02/1
+PASS height profile agrees with actual surface MeshCollider: C03 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: C03 maxDelta=0.04 unsupported=0 buried=0
+PASS two-sided door anchors exist: C03
+PASS door exterior follows real terrain/ramp walking surface: C03/0 rise=0.15m
+PASS door exterior physically clear: C03/0
+PASS door exterior follows real terrain/ramp walking surface: C03/1 rise=0.15m
+PASS door exterior physically clear: C03/1
+PASS height profile agrees with actual surface MeshCollider: C04 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: C04 maxDelta=0.04 unsupported=0 buried=0
+PASS two-sided door anchors exist: C04
+PASS door exterior follows real terrain/ramp walking surface: C04/0 rise=0.15m
+PASS door exterior physically clear: C04/0
+PASS door exterior follows real terrain/ramp walking surface: C04/1 rise=0.15m
+PASS door exterior physically clear: C04/1
+PASS height profile agrees with actual surface MeshCollider: E01 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: E01 maxDelta=0.04 unsupported=0 buried=0
+PASS two-sided door anchors exist: E01
+PASS door exterior follows real terrain/ramp walking surface: E01/0 rise=0.15m
+PASS door exterior physically clear: E01/0
+PASS door exterior follows real terrain/ramp walking surface: E01/1 rise=0.15m
+PASS door exterior physically clear: E01/1
+PASS height profile agrees with actual surface MeshCollider: E02 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: E02 maxDelta=0.04 unsupported=0 buried=0
+PASS two-sided door anchors exist: E02
+PASS door exterior follows real terrain/ramp walking surface: E02/0 rise=0.15m
+PASS door exterior physically clear: E02/0
+PASS door exterior follows real terrain/ramp walking surface: E02/1 rise=0.15m
+PASS door exterior physically clear: E02/1
+PASS height profile agrees with actual surface MeshCollider: E03 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: E03 maxDelta=0.04 unsupported=0 buried=0
+PASS two-sided door anchors exist: E03
+PASS door exterior follows real terrain/ramp walking surface: E03/0 rise=0.15m
+PASS door exterior physically clear: E03/0
+PASS door exterior follows real terrain/ramp walking surface: E03/1 rise=0.15m
+PASS door exterior physically clear: E03/1
+PASS height profile agrees with actual surface MeshCollider: E04 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: E04 maxDelta=0.66 unsupported=0 buried=0
+PASS two-sided door anchors exist: E04
+PASS door exterior follows real terrain/ramp walking surface: E04/0 rise=0.15m
+PASS door exterior physically clear: E04/0
+PASS door exterior follows real terrain/ramp walking surface: E04/1 rise=0.15m
+PASS door exterior physically clear: E04/1
+PASS height profile agrees with actual surface MeshCollider: E05 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: E05 maxDelta=0.04 unsupported=0 buried=0
+PASS two-sided door anchors exist: E05
+PASS door exterior follows real terrain/ramp walking surface: E05/0 rise=0.15m
+PASS door exterior physically clear: E05/0
+PASS door exterior follows real terrain/ramp walking surface: E05/1 rise=0.15m
+PASS door exterior physically clear: E05/1
+PASS height profile agrees with actual surface MeshCollider: E06 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: E06 maxDelta=1.28 unsupported=0 buried=0
+PASS two-sided door anchors exist: E06
+PASS door exterior follows real terrain/ramp walking surface: E06/0 rise=0.15m
+PASS door exterior physically clear: E06/0
+PASS door exterior follows real terrain/ramp walking surface: E06/1 rise=0.15m
+PASS door exterior physically clear: E06/1
+PASS height profile agrees with actual surface MeshCollider: E07 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: E07 maxDelta=0.04 unsupported=0 buried=0
+PASS two-sided door anchors exist: E07
+PASS door exterior follows real terrain/ramp walking surface: E07/0 rise=0.15m
+PASS door exterior physically clear: E07/0
+PASS door exterior follows real terrain/ramp walking surface: E07/1 rise=0.15m
+PASS door exterior physically clear: E07/1
+PASS height profile agrees with actual surface MeshCollider: E08 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: E08 maxDelta=1.69 unsupported=0 buried=0
+PASS two-sided door anchors exist: E08
+PASS door exterior follows real terrain/ramp walking surface: E08/0 rise=0.15m
+PASS door exterior physically clear: E08/0
+PASS door exterior follows real terrain/ramp walking surface: E08/1 rise=0.15m
+PASS door exterior physically clear: E08/1
+PASS height profile agrees with actual surface MeshCollider: E09 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: E09 maxDelta=0.95 unsupported=0 buried=0
+PASS two-sided door anchors exist: E09
+PASS door exterior follows real terrain/ramp walking surface: E09/0 rise=0.15m
+PASS door exterior physically clear: E09/0
+PASS door exterior follows real terrain/ramp walking surface: E09/1 rise=0.15m
+PASS door exterior physically clear: E09/1
+PASS height profile agrees with actual surface MeshCollider: E10 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: E10 maxDelta=1.09 unsupported=0 buried=0
+PASS two-sided door anchors exist: E10
+PASS door exterior follows real terrain/ramp walking surface: E10/0 rise=0.15m
+PASS door exterior physically clear: E10/0
+PASS door exterior follows real terrain/ramp walking surface: E10/1 rise=0.15m
+PASS door exterior physically clear: E10/1
+PASS height profile agrees with actual surface MeshCollider: E11 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: E11 maxDelta=1.10 unsupported=0 buried=0
+PASS two-sided door anchors exist: E11
+PASS door exterior follows real terrain/ramp walking surface: E11/0 rise=0.15m
+PASS door exterior physically clear: E11/0
+PASS door exterior follows real terrain/ramp walking surface: E11/1 rise=0.15m
+PASS door exterior physically clear: E11/1
+PASS height profile agrees with actual surface MeshCollider: E12 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: E12 maxDelta=0.68 unsupported=0 buried=0
+PASS two-sided door anchors exist: E12
+PASS door exterior follows real terrain/ramp walking surface: E12/0 rise=0.15m
+PASS door exterior physically clear: E12/0
+PASS door exterior follows real terrain/ramp walking surface: E12/1 rise=0.15m
+PASS door exterior physically clear: E12/1
+PASS height profile agrees with actual surface MeshCollider: S01 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: S01 maxDelta=0.08 unsupported=0 buried=0
+PASS two-sided door anchors exist: S01
+PASS door exterior follows real terrain/ramp walking surface: S01/0 rise=0.15m
+PASS door exterior physically clear: S01/0
+PASS door exterior follows real terrain/ramp walking surface: S01/1 rise=0.15m
+PASS door exterior physically clear: S01/1
+PASS height profile agrees with actual surface MeshCollider: S02 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: S02 maxDelta=0.15 unsupported=0 buried=0
+PASS two-sided door anchors exist: S02
+PASS door exterior follows real terrain/ramp walking surface: S02/0 rise=0.15m
+PASS door exterior physically clear: S02/0
+PASS door exterior follows real terrain/ramp walking surface: S02/1 rise=0.15m
+PASS door exterior physically clear: S02/1
+PASS height profile agrees with actual surface MeshCollider: S03 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: S03 maxDelta=0.15 unsupported=0 buried=0
+PASS two-sided door anchors exist: S03
+PASS door exterior follows real terrain/ramp walking surface: S03/0 rise=0.15m
+PASS door exterior physically clear: S03/0
+PASS door exterior follows real terrain/ramp walking surface: S03/1 rise=0.15m
+PASS door exterior physically clear: S03/1
+PASS height profile agrees with actual surface MeshCollider: S04 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: S04 maxDelta=0.09 unsupported=0 buried=0
+PASS two-sided door anchors exist: S04
+PASS door exterior follows real terrain/ramp walking surface: S04/0 rise=0.15m
+PASS door exterior physically clear: S04/0
+PASS door exterior follows real terrain/ramp walking surface: S04/1 rise=0.15m
+PASS door exterior physically clear: S04/1
+PASS height profile agrees with actual surface MeshCollider: S05 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: S05 maxDelta=0.17 unsupported=0 buried=0
+PASS two-sided door anchors exist: S05
+PASS door exterior follows real terrain/ramp walking surface: S05/0 rise=0.15m
+PASS door exterior physically clear: S05/0
+PASS door exterior follows real terrain/ramp walking surface: S05/1 rise=0.15m
+PASS door exterior physically clear: S05/1
+PASS height profile agrees with actual surface MeshCollider: S06 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: S06 maxDelta=0.28 unsupported=0 buried=0
+PASS two-sided door anchors exist: S06
+PASS door exterior follows real terrain/ramp walking surface: S06/0 rise=0.15m
+PASS door exterior physically clear: S06/0
+PASS door exterior follows real terrain/ramp walking surface: S06/1 rise=0.15m
+PASS door exterior physically clear: S06/1
+PASS height profile agrees with actual surface MeshCollider: S07 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: S07 maxDelta=0.21 unsupported=0 buried=0
+PASS two-sided door anchors exist: S07
+PASS door exterior follows real terrain/ramp walking surface: S07/0 rise=0.15m
+PASS door exterior physically clear: S07/0
+PASS door exterior follows real terrain/ramp walking surface: S07/1 rise=0.15m
+PASS door exterior physically clear: S07/1
+PASS height profile agrees with actual surface MeshCollider: S08 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: S08 maxDelta=0.15 unsupported=0 buried=0
+PASS two-sided door anchors exist: S08
+PASS door exterior follows real terrain/ramp walking surface: S08/0 rise=0.15m
+PASS door exterior physically clear: S08/0
+PASS door exterior follows real terrain/ramp walking surface: S08/1 rise=0.15m
+PASS door exterior physically clear: S08/1
+PASS height profile agrees with actual surface MeshCollider: S09 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: S09 maxDelta=0.10 unsupported=0 buried=0
+PASS two-sided door anchors exist: S09
+PASS door exterior follows real terrain/ramp walking surface: S09/0 rise=0.15m
+PASS door exterior physically clear: S09/0
+PASS door exterior follows real terrain/ramp walking surface: S09/1 rise=0.15m
+PASS door exterior physically clear: S09/1
+PASS height profile agrees with actual surface MeshCollider: S10 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: S10 maxDelta=0.17 unsupported=0 buried=0
+PASS two-sided door anchors exist: S10
+PASS door exterior follows real terrain/ramp walking surface: S10/0 rise=0.15m
+PASS door exterior physically clear: S10/0
+PASS door exterior follows real terrain/ramp walking surface: S10/1 rise=0.15m
+PASS door exterior physically clear: S10/1
+PASS height profile agrees with actual surface MeshCollider: S11 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: S11 maxDelta=0.43 unsupported=0 buried=0
+PASS two-sided door anchors exist: S11
+PASS door exterior follows real terrain/ramp walking surface: S11/0 rise=0.15m
+PASS door exterior physically clear: S11/0
+PASS door exterior follows real terrain/ramp walking surface: S11/1 rise=0.15m
+PASS door exterior physically clear: S11/1
+PASS height profile agrees with actual surface MeshCollider: S12 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: S12 maxDelta=0.11 unsupported=0 buried=0
+PASS two-sided door anchors exist: S12
+PASS door exterior follows real terrain/ramp walking surface: S12/0 rise=0.15m
+PASS door exterior physically clear: S12/0
+PASS door exterior follows real terrain/ramp walking surface: S12/1 rise=0.15m
+PASS door exterior physically clear: S12/1
+PASS height profile agrees with actual surface MeshCollider: Y01 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: Y01 maxDelta=0.19 unsupported=0 buried=0
+PASS two-sided door anchors exist: Y01
+PASS door exterior follows real terrain/ramp walking surface: Y01/0 rise=0.15m
+PASS door exterior physically clear: Y01/0
+PASS door exterior follows real terrain/ramp walking surface: Y01/1 rise=0.15m
+PASS door exterior physically clear: Y01/1
+PASS height profile agrees with actual surface MeshCollider: Y02 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: Y02 maxDelta=0.08 unsupported=0 buried=0
+PASS two-sided door anchors exist: Y02
+PASS door exterior follows real terrain/ramp walking surface: Y02/0 rise=0.15m
+PASS door exterior physically clear: Y02/0
+PASS door exterior follows real terrain/ramp walking surface: Y02/1 rise=0.15m
+PASS door exterior physically clear: Y02/1
+PASS height profile agrees with actual surface MeshCollider: Y03 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: Y03 maxDelta=0.12 unsupported=0 buried=0
+PASS two-sided door anchors exist: Y03
+PASS door exterior follows real terrain/ramp walking surface: Y03/0 rise=0.15m
+PASS door exterior physically clear: Y03/0
+PASS door exterior follows real terrain/ramp walking surface: Y03/1 rise=0.15m
+PASS door exterior physically clear: Y03/1
+PASS height profile agrees with actual surface MeshCollider: Y04 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: Y04 maxDelta=0.17 unsupported=0 buried=0
+PASS two-sided door anchors exist: Y04
+PASS door exterior follows real terrain/ramp walking surface: Y04/0 rise=0.15m
+PASS door exterior physically clear: Y04/0
+PASS door exterior follows real terrain/ramp walking surface: Y04/1 rise=0.15m
+PASS door exterior physically clear: Y04/1
+PASS height profile agrees with actual surface MeshCollider: Y05 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: Y05 maxDelta=0.17 unsupported=0 buried=0
+PASS two-sided door anchors exist: Y05
+PASS door exterior follows real terrain/ramp walking surface: Y05/0 rise=0.15m
+PASS door exterior physically clear: Y05/0
+PASS door exterior follows real terrain/ramp walking surface: Y05/1 rise=0.15m
+PASS door exterior physically clear: Y05/1
+PASS height profile agrees with actual surface MeshCollider: F01 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: F01 maxDelta=0.10 unsupported=0 buried=0
+PASS two-sided door anchors exist: F01
+PASS door exterior follows real terrain/ramp walking surface: F01/0 rise=0.15m
+PASS door exterior physically clear: F01/0
+PASS door exterior follows real terrain/ramp walking surface: F01/1 rise=0.15m
+PASS door exterior physically clear: F01/1
+PASS height profile agrees with actual surface MeshCollider: F02 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: F02 maxDelta=0.82 unsupported=0 buried=0
+PASS two-sided door anchors exist: F02
+PASS door exterior follows real terrain/ramp walking surface: F02/0 rise=0.15m
+PASS door exterior physically clear: F02/0
+PASS door exterior follows real terrain/ramp walking surface: F02/1 rise=0.15m
+PASS door exterior physically clear: F02/1
+PASS height profile agrees with actual surface MeshCollider: F03 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: F03 maxDelta=0.08 unsupported=0 buried=0
+PASS two-sided door anchors exist: F03
+PASS door exterior follows real terrain/ramp walking surface: F03/0 rise=0.15m
+PASS door exterior physically clear: F03/0
+PASS door exterior follows real terrain/ramp walking surface: F03/1 rise=0.15m
+PASS door exterior physically clear: F03/1
+PASS height profile agrees with actual surface MeshCollider: N17 maxError=0.00m
+PASS building footprint corners have physical foundation or natural grade: N17 maxDelta=0.04 unsupported=0 buried=0
+PASS two-sided door anchors exist: N17
+PASS door exterior follows real terrain/ramp walking surface: N17/0 rise=0.15m
+PASS door exterior physically clear: N17/0
+PASS door exterior follows real terrain/ramp walking surface: N17/1 rise=0.15m
+PASS door exterior physically clear: N17/1
+PASS 64 auxiliary buildings carry door metadata; count=64
+PASS B1-B4, inactive R1-R8 and X1-X7 registrations preserved
+PASS R1-R8 remain inactive risk-entry candidates
+NOTE B4-R8 straight distance=62.17m; shared early approach remains a design concern. R8 is not an active spawn or danger-area marker.
+PASS V33 solid leaves B/R/X/T/original door anchor clear: B1
+PASS V33 solid leaves B/R/X/T/original door anchor clear: B2
+PASS V33 solid leaves B/R/X/T/original door anchor clear: B3
+PASS V33 solid leaves B/R/X/T/original door anchor clear: B4
+PASS V33 solid leaves B/R/X/T/original door anchor clear: R1
+PASS V33 solid leaves B/R/X/T/original door anchor clear: R2
+PASS V33 solid leaves B/R/X/T/original door anchor clear: R3
+PASS V33 solid leaves B/R/X/T/original door anchor clear: R4
+PASS V33 solid leaves B/R/X/T/original door anchor clear: R5
+PASS V33 solid leaves B/R/X/T/original door anchor clear: R6
+PASS V33 solid leaves B/R/X/T/original door anchor clear: R7
+PASS V33 solid leaves B/R/X/T/original door anchor clear: R8
+PASS V33 solid leaves B/R/X/T/original door anchor clear: X1
+PASS V33 solid leaves B/R/X/T/original door anchor clear: X2
+PASS V33 solid leaves B/R/X/T/original door anchor clear: X3
+PASS V33 solid leaves B/R/X/T/original door anchor clear: X4
+PASS V33 solid leaves B/R/X/T/original door anchor clear: X5
+PASS V33 solid leaves B/R/X/T/original door anchor clear: X6
+PASS V33 solid leaves B/R/X/T/original door anchor clear: X7
+PASS V33 solid leaves B/R/X/T/original door anchor clear: T1
+PASS V33 solid leaves B/R/X/T/original door anchor clear: T2
+PASS V33 solid leaves B/R/X/T/original door anchor clear: T3
+PASS V33 solid leaves B/R/X/T/original door anchor clear: DOOR_C1
+PASS V33 solid leaves B/R/X/T/original door anchor clear: DOOR_C2
+PASS V33 solid leaves B/R/X/T/original door anchor clear: DOOR_TOOL
+PASS V33 solid leaves B/R/X/T/original door anchor clear: DOOR_HN
+PASS V33 solid leaves B/R/X/T/original door anchor clear: DOOR_HE
+PASS V33 solid leaves B/R/X/T/original door anchor clear: DOOR_HS
+PASS V33 solid leaves B/R/X/T/original door anchor clear: DOOR_HW
+PASS V33 solid leaves B/R/X/T/original door anchor clear: DOOR_P1
+PASS V33 solid leaves B/R/X/T/original door anchor clear: DOOR_P2
+PASS V33 solid leaves B/R/X/T/original door anchor clear: DOOR_L1
+PASS V33 solid leaves B/R/X/T/original door anchor clear: DOOR_L2
+PASS V33 solid leaves B/R/X/T/original door anchor clear: DOOR_G1_CORE
+PASS V33 solid leaves B/R/X/T/original door anchor clear: DOOR_G2_CORE
+PASS V33 solid leaves B/R/X/T/original door anchor clear: DOOR_G3_CORE
+PASS V33 solid leaves B/R/X/T/original door anchor clear: DOOR_G4
+PASS V33 solid leaves B/R/X/T/original door anchor clear: G1
+PASS V33 solid leaves B/R/X/T/original door anchor clear: G2
+PASS V33 solid leaves B/R/X/T/original door anchor clear: G3
+PASS V33 solid leaves B/R/X/T/original door anchor clear: G4
+PASS V33 solid leaves B/R/X/T/original door anchor clear: S-A
+PASS collision-derived NavMesh builds and activates
+PASS both halves of specific gate have complete physical NavMesh path: CN_G2
+PASS both halves of specific gate have complete physical NavMesh path: CN_G1
+PASS both halves of specific gate have complete physical NavMesh path: WC_G2
+PASS both halves of specific gate have complete physical NavMesh path: WC_G1
+PASS both halves of specific gate have complete physical NavMesh path: PC_G1
+PASS both halves of specific gate have complete physical NavMesh path: PC_G2
+PASS both halves of specific gate have complete physical NavMesh path: PC_G3
+PASS both halves of specific gate have complete physical NavMesh path: SC_G1
+PASS both halves of specific gate have complete physical NavMesh path: SC_G2
+PASS both halves of specific gate have complete physical NavMesh path: YC_G1
+PASS both halves of specific gate have complete physical NavMesh path: YC_G3
+PASS both halves of specific gate have complete physical NavMesh path: YC_G2
+PASS 64 building shells have both door approaches navigable; 128/128
+PASS B1-B4 to X1-X7 routes complete; 28/28
+PASS B1 reaches T1
+PASS B1 reaches T2
+PASS B1 reaches T3
+PASS west bridge remains traversable
+PASS east bridge remains traversable
+PASS existing indoor targets reachable from B1; 5/5
+PASS existing stair pair 1 remains connected
+PASS existing stair pair 2 remains connected
+PASS existing stair pair 3 remains connected
+PASS existing stair pair 4 remains connected
+NOTE map.HumanRoutes has no registered routes; route-waypoint geometry cannot be tested and AI patrol/evacuation behaviour was not run.
+NOTE Edit-mode geometry/NavMesh checks are not actual PlayerMotor traversal; run V33 Play separately.
+passed=1032 failed=0
+RESULT PASS

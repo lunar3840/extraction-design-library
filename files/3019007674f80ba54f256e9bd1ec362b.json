@@ -1,0 +1,22 @@
+{
+    "checks": [
+        {
+            "timestamp": "2026-10-30T01:43:28.1141880+09:00",
+            "scope": "reloaded_scene",
+            "ivyGroups": 226,
+            "leaves": 157099,
+            "weatherBindings": 7189,
+            "backingRenderers": 20,
+            "errors": []
+        },
+        {
+            "timestamp": "2026-10-30T01:43:28.4328961+09:00",
+            "scope": "saved_resource_prefab",
+            "ivyGroups": 226,
+            "leaves": 157099,
+            "weatherBindings": 7189,
+            "backingRenderers": 20,
+            "errors": []
+        }
+    ]
+}

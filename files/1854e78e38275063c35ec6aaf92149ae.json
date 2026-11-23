@@ -1,0 +1,107 @@
+[
+  {
+    "path": "Assets/Escape/Editor/UiKitEvidenceChecks.cs",
+    "sha256": "95B3642A05BCB1262227AAA52AC90D9C33F7043130A202769F722C8E1A6E0A19",
+    "bytes": 52201
+  },
+  {
+    "path": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs",
+    "sha256": "9BA021EC9F9A3BCD401B2A1B8C8F081D1FE0B9D0A822905468BDE5E2DD5C9DA7",
+    "bytes": 14309
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/InventoryGlassView.cs",
+    "sha256": "CB6D6E4008D61BBD535774CF0EE782EECD7FEB1DE651141F08E90C907BA87921",
+    "bytes": 39013
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/InventoryGridPresentation.cs",
+    "sha256": "3FFFC9D7937B87E7C79BEF281B78988458AF32F5271862426682BC9B70006ECC",
+    "bytes": 26306
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/InventoryHudLayout.cs",
+    "sha256": "0C8EAA13BB507BA8CE7BDF3EF31A73D20023C3755538386493A23B963704F907",
+    "bytes": 1892
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/InventoryHudView.cs",
+    "sha256": "6E76987A326B4D0D9B4CA90329F3D1E9CC958326E43F25923C02BDBB0E82A4CF",
+    "bytes": 10582
+  },
+  {
+    "path": "Assets/Escape/Runtime/Inventory/InventoryWeaponModding.cs",
+    "sha256": "B8D2900E8F2379CEEB75A18C7B038F764DE93896D773519F4D984C59B79B268B",
+    "bytes": 14174
+  },
+  {
+    "path": "Assets/Escape/Runtime/Loot/LootInteractor.cs",
+    "sha256": "A69C31E1D41FA692533971ED1D96F1B7253F59658ACC5F767C6619E4D9F08F8F",
+    "bytes": 21495
+  },
+  {
+    "path": "Assets/Escape/Runtime/Mapping/TacticalMapView.cs",
+    "sha256": "69176BEED5A28190D5683D7520CB6DE5F02C0EF8948D06D2BF115B3392330E91",
+    "bytes": 28925
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/SessionChipRecoveryView.cs",
+    "sha256": "E7DDE251BBAEA562F5FD4A9ECFEAD76B2876CE203D723A478472DA7A416F72A9",
+    "bytes": 3197
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/SessionGlassView.cs",
+    "sha256": "429EDBB94D23971597CA9562AC783C74FBFED1C74540353C3CF14BB9C925C022",
+    "bytes": 22931
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/SessionGrowthView.cs",
+    "sha256": "DA1A1AA38EF29D4DC4124FB4E3E414B28198118C7B615E2B085C7E6897DA556B",
+    "bytes": 11782
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/SessionInventoryPresentation.cs",
+    "sha256": "5053B7F27E7D147E53658C033F78C08DC55A8C020088BD9028FA3499CDED420E",
+    "bytes": 15767
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/SessionQuestView.cs",
+    "sha256": "93226FC62D5C2012DD3FFFAA7C54C6242F9D9BC3DADB2D3BDF8F11ACAD7AF870",
+    "bytes": 6987
+  },
+  {
+    "path": "Assets/Escape/Runtime/Stage/SessionTestWorld.cs",
+    "sha256": "23AD8B213331192E0026DEF35E58DA9CE76D608DACAC23F418BFECC8D610D102",
+    "bytes": 34240
+  },
+  {
+    "path": "Assets/Escape/Runtime/Story/CutsceneDirector.cs",
+    "sha256": "136D50638CBCE505BFADF5BEC56B1E7D3A4E0E594BED128DBB4E55D73EB9CF58",
+    "bytes": 9880
+  },
+  {
+    "path": "Assets/Escape/Runtime/UI/FrontEndController.cs",
+    "sha256": "892C3D1B047F34800A10D3F0599BFB7C8ED6E6ED3FA0536B16C66A3818E38C96",
+    "bytes": 13737
+  },
+  {
+    "path": "Assets/Escape/Runtime/UI/InventoryPortrait.cs",
+    "sha256": "4B017927DF1EDB40E85924D79B24C43B946284639E515A3C7B9A8A155BADAF50",
+    "bytes": 19149
+  },
+  {
+    "path": "Assets/Escape/Runtime/UI/ItemTierPresentation.cs",
+    "sha256": "67055015896C998699E4755F3BDEDFACD0CC2F694A41E3E6DBDF9DFDA8E93AE6",
+    "bytes": 4610
+  },
+  {
+    "path": "Assets/Escape/Runtime/UI/MedicalIcons.cs",
+    "sha256": "82531B3E45D7F062A4DE4D5035EEABBACB07D146C4CE016BC409BF5671C84CA0",
+    "bytes": 10153
+  },
+  {
+    "path": "Assets/Escape/Runtime/UI/UiTheme.cs",
+    "sha256": "29B73AC25C144F9C1C8DB7AC84798B8C61B5563186177B0D961C5ECF488EB2C5",
+    "bytes": 41377
+  }
+]

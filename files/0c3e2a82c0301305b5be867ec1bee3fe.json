@@ -1,0 +1,41 @@
+{
+  "compilingOrImporting": false,
+  "productionFiles": [
+    {
+      "path": "Assets/Escape/Resources/UI/ItemIcons/TEST_EDEL_S4_MAINTENANCE.png",
+      "sha": "2515E99E7DD061889ABDA81A86729F90CA9DB2F4D6834826D0E85F6A26377B9A"
+    },
+    {
+      "path": "Assets/Escape/Resources/UI/ItemIcons/TEST_EDEL_S4_MAINTENANCE.png.meta",
+      "sha": "3FD05C0FF77FB0C25DD47DB320BA403C95DC63ADEFBC8F28FFE7081A370F0532"
+    },
+    {
+      "path": "Assets/Escape/Editor/ArmorItemThumbnailBaker.cs",
+      "sha": "DBFE545444B01377226CA18E5D3752F0ABC8F0B40003BBE73E66D4700975C4D8"
+    },
+    {
+      "path": "Assets/Escape/Art/ItemThumbnailSources.meta",
+      "sha": "3120596DD28CC2EF9D101916961ED077797701129C1A75ECC1467DAE6DF30C48"
+    },
+    {
+      "path": "Assets/Escape/Art/ItemThumbnailSources/TEST_EDEL_S4_MAINTENANCE_model.png",
+      "sha": "CB39140DB49E7D691230A4B6E568AAA2D902A19264EB4B9523B1755DB1DC0331"
+    },
+    {
+      "path": "Assets/Escape/Art/ItemThumbnailSources/TEST_EDEL_S4_MAINTENANCE_model.png.meta",
+      "sha": "1AA9EF760602A53877B8BFED7D2F4C4DDB8A1EADD829E9EDFDBEA8A43F61FE33"
+    }
+  ],
+  "freeBytes": 1368862720,
+  "proof": "checkpoint_return_native.jpg",
+  "temporaryToolsAbsent": true,
+  "kst": "2026-11-03T08:17:16.1589968+09:00",
+  "prefabSha": "26C8E548B074D96A36A33BFB9CFA7D354BF1C220729D6BD3F1455710D65E98E9",
+  "sceneSha": "11C4100C8D129FFD04C83AAD7BBA97B20C1D7F703D4F84DE9E84754D9D988E6A",
+  "nativeCleanRelay": true,
+  "nativePlayOff": true,
+  "portraitSha": "A8B5D665DFBF6429C4030ED85D964C70DC9498E60D1F636D3CB0795911EF756D",
+  "status": "RETURNED_TO_PERFORMANCE",
+  "requestAbsent": true,
+  "nextOwner": "01a0c547-4360-7c33-8815-0f4244f312fa"
+}

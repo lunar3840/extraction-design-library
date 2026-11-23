@@ -1,0 +1,27 @@
+UTC=2026-10-22T22:40:53.8640412Z
+scene=Assets/Escape/Scenes/SystemsTest.unity playing=True dirty=False
+homeVerified=True active=True owned=True cleaning=False interactive=False nativeCapture= step=0/42
+gameTarget=1920x1080 rawScreen=1920x1080 lastPaint=1920x1080 paintFrame=5 frame=5
+page=Title busy=False location= panel=-1
+save=C:\UnityProject\escape\Library\UnifiedUiEvidence\after-1920x1080-aa7e7161dd0d42f29819114f637ad67e ownedSave=True
+position=(0.00, 0.05, 0.00) rotation=(0.00, 0.00, 0.00) camera=(3.31, 13.71, 5.47)
+inventory=False input=False frozen=True mapBlocked=False
+health=100 stamina=100 energy=100 water=100 bleeding=False traumas=0 analgesic=0
+using=False activeUid= rigUse=False useStatus=Ready medicalStatus=V: 체스트리그에서 필요한 치료 한 번
+wheel=False carried=False rig= 6x6 pack= packSize=0x0
+lootCandidates=0 lootActive=
+slot[0]=item_018 uid=2321521c384e428d8b2b279750204596 quantity=50 page=0 grid=0,0 rotated=False
+slot[1]=item_018 uid=f29cadc250b8495fa6c700c91dd848fb quantity=15 page=0 grid=1,0 rotated=False
+slot[2]=item_019 uid=02f4bd6dd360450b90976a56d4778da2 quantity=16 page=0 grid=2,0 rotated=False
+slot[3]=KN_001 uid=54d79badc1cc48acbafd4c4d46cc81c7 quantity=1 page=0 grid=3,0 rotated=False
+slot[4]=med_injector_c uid=a574ec71449a4764b2d2d7b817c65369 quantity=1 page=0 grid=4,0 rotated=False
+slot[5]=med_field_kit_b uid=524dc70e6c414eec9dc8a7344fab266b quantity=1 page=0 grid=5,0 rotated=False
+slot[6]=med_tactical_bag_a uid=1b537263171443cbb3994252789739f1 quantity=1 page=0 grid=0,1 rotated=False
+slot[7]=med_tourniquet_b uid=1d7961611e86405f971b95e751753b29 quantity=1 page=0 grid=1,1 rotated=False
+slot[8]=med_analgesic_b uid=0462add7bf7045e28ec5baa3a2728fa4 quantity=1 page=0 grid=2,1 rotated=False
+slot[9]=med_analgesic_a uid=332754c8f9a746368b0eea93b0593f1b quantity=1 page=0 grid=4,1 rotated=False
+slot[10]=SURGERY_KIT uid=87c7c85aea5d461ca86ae69bea299914 quantity=1 page=0 grid=5,1 rotated=False
+slot[11]=med_surgery_b uid=1d58ac1941eb4423b29ca195f3e97854 quantity=1 page=0 grid=1,2 rotated=False
+slot[12]=med_surgery_a uid=11ac54d1d71e465a82e45f802af363e2 quantity=1 page=0 grid=2,2 rotated=False
+weapon[0]=AR_001 mag=0 tier=0 reloading=False
+weapon[1]=SG_001 mag=0 tier=0 reloading=False

@@ -1,0 +1,3 @@
+lane,height_m,d03_item,collider,hit_distance_m,image
+SC_TRANSFER_B_forward,0.65,SC_T_Container,Collision,16.69,after_occlusion_SC_TRANSFER_B_forward_0.65m_1.png
+SC_TRANSFER_B_reverse,0.65,SC_T_Container,Collision,16.49,after_occlusion_SC_TRANSFER_B_reverse_0.65m_1.png

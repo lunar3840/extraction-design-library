@@ -1,0 +1,88 @@
+V24 ACTUAL GAMEPLAY CAMERA / PHYSICAL WALK VALIDATION
+mode=BEFORE observational
+utc=2026-09-24T02:22:28.9310545Z
+PASS basic spawn B2
+CAPTURE north_approach_center requested=(0.00, 2.00, 29.00) player=(0.000, 2.020, 29.000) camera=(4.350, 17.077, 36.535) floor=99
+PASS north_approach_center outside hall contains=False
+PASS north_approach_center player camera roof sight visibleRoofOnRay=False physicalRoofHits=0
+PASS north_approach_center visible wall sight opaqueHallPanelsOnPlayerSight=
+CAPTURE north_approach_west requested=(-22.00, 2.00, 29.00) player=(-22.000, 1.988, 29.000) camera=(-17.650, 17.045, 36.535) floor=99
+PASS north_approach_west outside hall contains=False
+PASS north_approach_west player camera roof sight visibleRoofOnRay=False physicalRoofHits=0
+PASS north_approach_west visible wall sight opaqueHallPanelsOnPlayerSight=
+CAPTURE north_approach_east requested=(22.00, 2.00, 29.00) player=(22.000, 1.966, 29.000) camera=(26.350, 17.023, 36.535) floor=99
+PASS north_approach_east outside hall contains=False
+PASS north_approach_east player camera roof sight visibleRoofOnRay=False physicalRoofHits=0
+PASS north_approach_east visible wall sight opaqueHallPanelsOnPlayerSight=
+CAPTURE south_main_approach requested=(0.00, 2.00, -38.00) player=(0.000, 2.051, -38.000) camera=(4.350, 17.109, -30.465) floor=99
+BASELINE_DEFECT south_main_approach player camera roof sight visibleRoofOnRay=True physicalRoofHits=1
+BASELINE_DEFECT south_main_approach visible wall sight opaqueHallPanelsOnPlayerSight=Factory2Wall04
+CAPTURE south_main_inside requested=(0.00, 2.00, -28.00) player=(0.000, 2.020, -28.000) camera=(4.350, 17.077, -20.465) floor=0
+PASS south_main_inside floor classification actual floor=0
+PASS south_main_inside player camera roof sight visibleRoofOnRay=False physicalRoofHits=1
+PASS south_main_inside visible wall sight opaqueHallPanelsOnPlayerSight=
+CAPTURE second_south requested=(-22.00, 8.00, -27.00) player=(-22.000, 8.020, -27.000) camera=(-17.650, 23.077, -19.465) floor=1
+PASS second_south correct floor actual floor=1
+BASELINE_DEFECT second_south edge retained edge=2F_SouthFacade visible=0/14 hiddenOffSight=Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass
+PASS second_south wall collision retained edge=2F_SouthFacade
+PASS second_south visible wall sight opaqueHallPanelsOnPlayerSight=
+CAPTURE second_north requested=(0.00, 8.00, 18.00) player=(0.000, 8.020, 18.000) camera=(4.350, 23.077, 25.535) floor=1
+PASS second_north correct floor actual floor=1
+BASELINE_DEFECT second_north edge retained edge=2F_NorthFacade visible=0/14 hiddenOffSight=Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass
+PASS second_north wall collision retained edge=2F_NorthFacade
+PASS second_north visible wall sight opaqueHallPanelsOnPlayerSight=
+CAPTURE second_west requested=(-34.00, 8.00, -4.00) player=(-34.000, 8.020, -4.920) camera=(-29.650, 23.077, 2.615) floor=1
+PASS second_west correct floor actual floor=1
+BASELINE_DEFECT second_west edge retained edge=2F_WestFacade visible=0/10 hiddenOffSight=Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass
+PASS second_west wall collision retained edge=2F_WestFacade
+PASS second_west visible wall sight opaqueHallPanelsOnPlayerSight=
+CAPTURE second_east requested=(34.00, 8.00, -4.00) player=(34.000, 8.020, -4.920) camera=(38.350, 23.077, 2.615) floor=1
+PASS second_east correct floor actual floor=1
+BASELINE_DEFECT second_east edge retained edge=2F_EastFacade visible=0/10 hiddenOffSight=Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass
+PASS second_east wall collision retained edge=2F_EastFacade
+PASS second_east visible wall sight opaqueHallPanelsOnPlayerSight=
+CAPTURE second_northeast_near_wall requested=(38.50, 8.00, 20.50) player=(38.500, 8.020, 20.500) camera=(42.850, 23.077, 28.035) floor=1
+PASS second_northeast_near_wall correct floor actual floor=1
+BASELINE_DEFECT second_northeast_near_wall edge retained edge=2F_EastFacade visible=0/10 hiddenOffSight=Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass,Factory2Wall04,Factory2Wall04Glass
+PASS second_northeast_near_wall wall collision retained edge=2F_EastFacade
+PASS second_northeast_near_wall visible wall sight opaqueHallPanelsOnPlayerSight=
+CAPTURE first_west_stair requested=(-31.00, 2.00, 3.00) player=(-31.000, 2.020, 3.000) camera=(-26.650, 17.077, 10.535) floor=0
+PASS first_west_stair floor classification actual floor=0
+PASS first_west_stair player camera roof sight visibleRoofOnRay=False physicalRoofHits=1
+PASS first_west_stair visible wall sight opaqueHallPanelsOnPlayerSight=
+CAPTURE first_east_stair requested=(31.00, 2.00, 3.00) player=(31.000, 2.020, 3.000) camera=(35.350, 17.077, 10.535) floor=0
+PASS first_east_stair floor classification actual floor=0
+PASS first_east_stair player camera roof sight visibleRoofOnRay=False physicalRoofHits=1
+PASS first_east_stair visible wall sight opaqueHallPanelsOnPlayerSight=
+CAPTURE first_northwest_near_wall requested=(-38.00, 2.00, 20.00) player=(-38.000, 2.020, 20.000) camera=(-33.650, 17.077, 27.535) floor=0
+PASS first_northwest_near_wall correct floor actual floor=0
+BASELINE_DEFECT first_northwest_near_wall edge retained edge=1F_WestFacade visible=0/5 hiddenOffSight=1F_WestFacade_-33.0_Panel_0,1F_WestFacade_-33.0_Panel_1,1F_WestFacade_-33.0_Panel_2,1F_WestFacade_-33.0_Panel_3,1F_WestFacade_-33.0_Panel_4
+PASS first_northwest_near_wall wall collision retained edge=1F_WestFacade
+PASS first_northwest_near_wall visible wall sight opaqueHallPanelsOnPlayerSight=
+CAPTURE first_northeast_near_wall requested=(38.00, 2.00, 20.00) player=(38.000, 2.020, 20.000) camera=(42.350, 17.077, 27.535) floor=0
+PASS first_northeast_near_wall correct floor actual floor=0
+BASELINE_DEFECT first_northeast_near_wall edge retained edge=1F_EastFacade visible=0/5 hiddenOffSight=1F_EastFacade_-33.0_Panel_0,1F_EastFacade_-33.0_Panel_1,1F_EastFacade_-33.0_Panel_2,1F_EastFacade_-33.0_Panel_3,1F_EastFacade_-33.0_Panel_4
+PASS first_northeast_near_wall wall collision retained edge=1F_EastFacade
+PASS first_northeast_near_wall visible wall sight opaqueHallPanelsOnPlayerSight=
+CAPTURE basement_west_stair requested=(-31.00, -4.00, -19.00) player=(-31.000, -3.980, -19.000) camera=(-26.650, 11.077, -11.465) floor=-1
+PASS basement_west_stair floor classification actual floor=-1
+PASS basement_west_stair player camera roof sight visibleRoofOnRay=False physicalRoofHits=0
+PASS basement_west_stair visible wall sight opaqueHallPanelsOnPlayerSight=
+CAPTURE basement_east_stair requested=(31.00, -4.00, -19.00) player=(31.000, -3.980, -19.000) camera=(35.350, 11.077, -11.465) floor=-1
+PASS basement_east_stair floor classification actual floor=-1
+PASS basement_east_stair player camera roof sight visibleRoofOnRay=False physicalRoofHits=0
+PASS basement_east_stair visible wall sight opaqueHallPanelsOnPlayerSight=
+PASS attached_canopy cutaway visible=0/7
+PASS attached_canopy player camera roof sight visibleRoofOnRay=False physicalRoofHits=2
+PASS attached_canopy physical roof retained physical=LoadingCanopy_Roof
+PASS attached_canopy pointer skips hidden roof pointer=Apron_TexturedConcrete
+CAPTURE attached_canopy player=(29.000, 1.850, -37.595) camera=(33.350, 16.908, -30.060)
+PASS physical walk main_entry steps=89 final=(0.00, 2.02, -26.13)
+PASS physical walk west_1F_to_2F steps=119 final=(-31.00, 8.02, 18.87)
+PASS physical walk east_1F_to_2F steps=119 final=(31.00, 8.02, 18.87)
+PASS physical walk west_B1_to_1F steps=119 final=(-31.00, 2.02, -3.13)
+PASS physical walk east_B1_to_1F steps=119 final=(31.00, 2.02, -3.13)
+BASELINE_DEFECT physical walk west_2F_room_crossing blocked at=(-27.59, 8.02, -1.00)
+BASELINE_DEFECT physical walk east_2F_room_crossing blocked at=(27.59, 8.02, -1.00)
+defects=11
+RESULT PASS

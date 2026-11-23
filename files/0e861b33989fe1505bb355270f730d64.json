@@ -1,0 +1,1331 @@
+{
+  "at": "2026-10-27T12:57:15.258Z",
+  "oracle": "Unity bundled Microsoft.CodeAnalysis.CSharp (Roslyn)",
+  "counts": {
+    "rows": 14685,
+    "number": 9993,
+    "boolean": 1640,
+    "string": 3052,
+    "csharp": 5686,
+    "json": 8942,
+    "asset": 57,
+    "fractional": 2201,
+    "leadingDot": 1125,
+    "negative": 342,
+    "scientific": 233,
+    "ratioOrPercentNamed": 710
+  },
+  "roslynLiterals": 83137,
+  "mismatches": [],
+  "spanMismatches": [],
+  "unsupported": [],
+  "csvMismatches": [],
+  "published": {
+    "rows": 12931,
+    "differences": [],
+    "changedSourceRows": [
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L152:1",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L152:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L152:3",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L152:4",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L157:1",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L157:2",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L158:1",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L158:2",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L159:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L162:1",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L162:2",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L162:3",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L162:4",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L163:1",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L163:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L163:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L163:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L164:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L166:1",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L166:2",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L166:3",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L166:4",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L166:5",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L166:6",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L166:7",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L166:8",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L166:9",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L167:1",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L167:2",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L167:3",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L168:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L168:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L168:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L168:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L169:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L169:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L169:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L169:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L176:1",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L176:2",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L176:3",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L176:4",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L178:1",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L178:2",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L178:3",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L178:4",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L178:5",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L179:1",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L179:2",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L179:3",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L179:4",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L179:5",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L180:1",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L180:2",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L180:3",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L180:4",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L180:5",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L181:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L181:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L181:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L181:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L181:5",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L182:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L182:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L182:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L182:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L187:1",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L187:2",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L187:3",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L188:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L188:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L188:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L188:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L189:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L189:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L189:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L189:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L196:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L196:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L196:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L196:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L197:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L197:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L197:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs#L197:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionChipCatalog.cs#L12:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionChipCatalog.cs#L21:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionChipCatalog.cs#L22:1",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionChipCatalog.cs#L52:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionChipCatalog.cs#L52:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionChipCatalog.cs#L52:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionChipCatalog.cs#L53:1",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionChipCatalog.cs#L53:2",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Companions/CompanionChipCatalog.cs#L53:3",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L162:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L162:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L162:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L162:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L165:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L165:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L165:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L165:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L167:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L169:1",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L169:2",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L169:3",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L169:4",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L169:5",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L169:6",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L169:7",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L169:8",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L169:9",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L173:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L173:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L174:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L174:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L174:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L174:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L175:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L175:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L175:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L175:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L175:5",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L175:6",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L175:7",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L175:8",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L175:9",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L175:10",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L175:11",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L175:12",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L176:1",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L176:2",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L176:3",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L176:4",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L176:5",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L176:6",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L176:7",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L176:8",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L176:9",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L180:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L181:1",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L181:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L181:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L181:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L182:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L182:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L182:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L182:5",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L186:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L186:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L186:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L186:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L200:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L203:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L203:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L203:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L203:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L204:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L204:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L204:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L204:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L204:5",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L204:6",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L204:7",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L204:8",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L204:9",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L205:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L207:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L207:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L207:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L207:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L208:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L208:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L208:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L208:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L208:5",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L208:6",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L208:7",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L208:8",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L208:9",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L209:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L209:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L209:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L209:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L210:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L210:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L210:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L210:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L212:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L212:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L212:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L212:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L212:5",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L212:6",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L214:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L214:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L217:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L218:1",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L218:2",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L227:1",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L227:2",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L231:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L231:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L231:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L231:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L231:5",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L232:1",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L232:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L232:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L232:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L238:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L243:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L243:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L243:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L243:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L243:5",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L243:6",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L266:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L273:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L283:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L284:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L284:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L285:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L285:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L285:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L286:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L286:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L288:1",
+        "reason": "identity moved"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L288:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L288:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L288:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L289:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L289:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L289:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L289:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L292:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L292:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L292:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L292:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L293:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L293:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L293:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L293:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L294:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L294:2",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L294:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L294:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L294:5",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L296:1",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L296:3",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L296:4",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L296:5",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Loot/LootInteractor.cs#L296:6",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L94:1",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L94:2",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L94:3",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L94:4",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L95:1",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L95:2",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L95:3",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L95:4",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L96:1",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L96:2",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L96:3",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L96:4",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L97:1",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L97:2",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L97:3",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L97:4",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L97:5",
+        "reason": "absent"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L104:1",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L104:2",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L104:3",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L104:4",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L105:1",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L105:2",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L105:3",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L105:4",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L108:1",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L108:2",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L108:3",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L108:4",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L108:5",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L109:1",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L109:2",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L109:3",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L109:4",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L110:1",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L110:2",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L110:3",
+        "reason": "code changed"
+      },
+      {
+        "id": "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs#L110:4",
+        "reason": "code changed"
+      }
+    ],
+    "noteRowsChecked": 291,
+    "noteErrors": []
+  },
+  "sourceHashes": {
+    "Assets/Escape/Resources/AmmoCatalog.json": "8aead8581292f4f71a026ae0288f2752ac631a5cc15f07c3b768bb806a4243d0",
+    "Assets/Escape/Resources/ArmorCatalog.json": "ff6086111251ea2e0ba0fb6210f51a8b48dae15705dee29f716d6f59f66dac6c",
+    "Assets/Escape/Resources/EnemyWeaponReserves.json": "3a47ec4e2f13358d8803b669d3c4db5f48adda4f68314c454b94614cc630ddac",
+    "Assets/Escape/Resources/ItemCatalog.json": "8a9d86424259c014d0c6a77b0d69602383b6fdf000eac6ac6813edc42f962984",
+    "Assets/Escape/Resources/ItemUseCatalog.json": "de6a58cd9bae95b8a8c24535e7a01d2a3a53e680bbe2f41743048602894cab8b",
+    "Assets/Escape/Resources/PrototypeItems.json": "5972f4de46abef26999df64cc9e6c32a5204cca39feb1009762b58090889f364",
+    "Assets/Escape/Resources/ShopCatalog.json": "6562d8d442360574777d6d780bc21c50098616b63146a2ffeb309f0e73755584",
+    "Assets/Escape/Resources/StageALootPlacements.json": "a96a474a9ed0bdad178bc4b137602bc50e37ee3ce44b467314f89e63bec962a0",
+    "Assets/Escape/Resources/WeaponCatalog.json": "58c052b1dbcf5afaa1ec40105521ee1a8e90c1a0dea6fcaa5f86d99c58617884",
+    "Assets/Escape/Runtime/Basecamp/GrowthRules.cs": "85a1dce8fc508d29c1a0ec5671810053361ed65f5a2b99736a71909f7bdd0ada",
+    "Assets/Escape/Runtime/Basecamp/MainQuestRules.cs": "521abd3a94463ef7a6236cfcadc3fe73cbaf56be729f40f548bef7c5c3aa2b24",
+    "Assets/Escape/Runtime/Basecamp/QuestCatalog.cs": "235448be84cb7a0c78529703f554b38e3a934802e8d0e5826a6252b9c3b09098",
+    "Assets/Escape/Runtime/Basecamp/QuestDefinitionAsset.cs": "ae2f1de5821f154b398b86499e34858db1900d389863a8009c8c6f258a8edf39",
+    "Assets/Escape/Runtime/Basecamp/ResearchCatalog.cs": "f3739eac9969828637a3ef5d40969e13e3d77aba0aea56855d3ba7ca30a6f714",
+    "Assets/Escape/Runtime/Basecamp/ShopCatalog.cs": "86aaf60d43275e3b152cd8f532fef3982b8488bfee55217adbdf0751954d15a7",
+    "Assets/Escape/Runtime/BodySurfaceProjector.cs": "6c295e67279bc9ed5314cf7123ab3f7dae67e4dc21f7c316e0ba0466688df33c",
+    "Assets/Escape/Runtime/BraidWarmStartProjectionMath.cs": "b29ad981a7c910352e8bc61d533d3e21969ade0da5737c336a2f10839c51fdc5",
+    "Assets/Escape/Runtime/ClosedWeaponSurfaceEscape.cs": "9134638ce2b418203a8d5730773d1d838442581ee0553a7e7d8c812ec81079d8",
+    "Assets/Escape/Runtime/Combat/AimTarget.cs": "6e918d13d84eaeda8d425e2e02af884272ea9b652ef49c82dd07266216d1ac17",
+    "Assets/Escape/Runtime/Combat/CombatDummy.cs": "1476595d66b1560fe590c02ca8c8f21a5fc711a597189fbca18425ea69041257",
+    "Assets/Escape/Runtime/Combat/CombatFeedbackAudio.cs": "f77c1753c199dd91375a9c0265c51ad23949d8975d42f866f8eb14ec2fa5aa37",
+    "Assets/Escape/Runtime/Combat/CombatFeedbackController.cs": "789272f5b2ed16b01dc263ede3cea2f81b7e4bcc27169a69624a1a654cc20ae5",
+    "Assets/Escape/Runtime/Combat/CombatSignals.cs": "7fb3044f01b60ffe5b287a81f29c5575daf25a9850be90c6bc37b1b961b6ca94",
+    "Assets/Escape/Runtime/Combat/Core/DamageRules.cs": "18c17aaf292d0fe3ddbcf800a6ef3260637f6aeb6d000cee781ab8294c43e254",
+    "Assets/Escape/Runtime/Combat/Core/InjuryState.cs": "42668ab4e8ef295559f9c147f79839ad7fd21aa86beb981a5e54c26aade2d395",
+    "Assets/Escape/Runtime/Combat/DamageReceiver.cs": "2c4b4f13b08cf649fc691cd15d8f6b9fb2504bf5db5cc9f8a4fa142c86ecbe79",
+    "Assets/Escape/Runtime/Combat/HitscanService.cs": "cd5fc2e94dcb86fb52c6ffd12a4ac3b92bda3b0315a0716781da724f5cca2844",
+    "Assets/Escape/Runtime/Companions/CompanionAbilityController.cs": "c5f7b3e560cfa7c8bfe315288790a33a29be1e4bd519aeb415a6b8e08fb4b10b",
+    "Assets/Escape/Runtime/Companions/CompanionAbilityState.cs": "269fc969d2cb617b595b18c4a36ae4c82eea279b809f9ced6bbb1177d9599f31",
+    "Assets/Escape/Runtime/Companions/CompanionChipCargoCatalog.cs": "f3001b816474a928581ec5eedab8a49e99e5d4e65aafb8f72c22afcc82a36ed3",
+    "Assets/Escape/Runtime/Companions/CompanionChipCatalog.cs": "fc27111a54d8fa08f802930300f766fdc10ff60193dbd2f00e04a78f73a0d46e",
+    "Assets/Escape/Runtime/Core/PlayerRules.cs": "f82872ba9ab535ad12bfb388c712a69ffe49a2c8aba6959c76eca0cbe51cedff",
+    "Assets/Escape/Runtime/CurrentSourceClearanceFieldBudget.cs": "6dd7d5f2a7ea03fa7a44c63dcd2e790f5e94bbc5c3fbcd696a924c9a251743a5",
+    "Assets/Escape/Runtime/EdelIndexSkinBinding.cs": "0ffa3743ee352a2b3f1006296e7832780b23bcc2d2a37d858f52235670abf6a3",
+    "Assets/Escape/Runtime/EdelLiveEvidence.cs": "cacb4c859d64150caaa562b4460c73eeaeda153557ae29e4b366ae174ff1b087",
+    "Assets/Escape/Runtime/EdelProximalHairBinding.cs": "6ca2e9011377b27e752c2715b775b5589f99192369ddd09d79bbdcbbeea88b95",
+    "Assets/Escape/Runtime/EdelSkinShadingMask.cs": "d32c48c254159d2cb587ed002115e8ddaddfda74b8821475205aca904fb32d1a",
+    "Assets/Escape/Runtime/EdelWeaponDiagnostics.cs": "64bf309e4c3bdffcaacf3d0ef9421962f89b1be260513232b200afc179c4d188",
+    "Assets/Escape/Runtime/Enemy/Core/EnemyBrain.cs": "bd3feb5b9c45657a137f453e522aa4d32072bf450088b7aa21a559224c6529de",
+    "Assets/Escape/Runtime/Enemy/Core/EnemyTargetPerception.cs": "1f13b0cf013d119d0e0e284e04953dd0a8b2d5ebea157d6ade426310f0488510",
+    "Assets/Escape/Runtime/Enemy/Core/EnemyWeaponState.cs": "9e934af5cb4ffb20f97c3b3a98471df70e0361e0067796de9f17a9a3a7de8596",
+    "Assets/Escape/Runtime/Enemy/EnemyController.FactionAwareness.cs": "f2920ad27e6d7368461bc315794a93690441acf16fc91c4dbe8a6955cc590c50",
+    "Assets/Escape/Runtime/Enemy/EnemyController.MachineRoles.cs": "620b7b17cd02db31a06c392658a37cba2845c65b39e5515d44fd3f55eeae264e",
+    "Assets/Escape/Runtime/Enemy/EnemyController.cs": "cee92151bc7f88cfa035be83b34a4f8e8f078beb7869bcead58ae2ce79254b4c",
+    "Assets/Escape/Runtime/Enemy/MachineAttackProjectile.cs": "593d0b30ce3082ab7100c6b5b4f6a150e9dc0fb4d97fbecd996fd2ec523ffc5b",
+    "Assets/Escape/Runtime/Enemy/PlayerNoiseEmitter.cs": "f6747420f743e76bfff3e3ad6cfdb0e1782862aeb50ddcf3252448cc28d7c6ca",
+    "Assets/Escape/Runtime/Enemy/StageAMachineRole.cs": "7b08c770ce78388a67c3d21462e7eba7ed6a35c706af9c31265e9a1aecf7e320",
+    "Assets/Escape/Runtime/Equipment/Core/ArmorState.cs": "143f28748c2b0c444f66538ba09db649ed603da21569cfea58154f8f0bab3cac",
+    "Assets/Escape/Runtime/Equipment/Core/RepairCalculator.cs": "7194e415e7f6fe03a54e9e2c9e4aa54ef34be141f90914c21bffc75722a907e9",
+    "Assets/Escape/Runtime/HairWeaponLifecycleAcceptance.cs": "3d6c5bb514b498c436f2c39596fea95adf885353d71e0630e9abd56e504021f8",
+    "Assets/Escape/Runtime/HeadSourceClearanceFieldBudget.cs": "e402bc739b5631a1cca0f678260ca841bc4d84cae8e97189a48b9b388e448a16",
+    "Assets/Escape/Runtime/Inventory/BackpackCatalog.cs": "de10e61093ed6a981c92c9930f1e92c0f340a4f309f0bc11b3406c7fa06951ab",
+    "Assets/Escape/Runtime/Inventory/Core/InventoryCarried.cs": "d7a222afdaf63739d44b9a15338205b5896fee65a37fb7dc9604128ffb9dba76",
+    "Assets/Escape/Runtime/Inventory/Core/InventoryEquipment.cs": "129536acda5e0ab44052b41ba496e9f6ef0670137a7a65de693a7287df3e2ede",
+    "Assets/Escape/Runtime/Inventory/Core/InventoryExternalEquipment.cs": "3f431be43e648d9f2df7c73f6eb657fee2c111a918debb4d36d3abc42340b17f",
+    "Assets/Escape/Runtime/Inventory/Core/InventoryGrid.cs": "de894beb0d9c5d5c4ed5d8530cd49ec2a498a8c28b445df6340ef309cba31851",
+    "Assets/Escape/Runtime/Inventory/Core/InventoryGroundTransfer.cs": "04be326dca89f64fc559ce4c81b86b20eb54f61be139ad0dde3368c5a1ef80ac",
+    "Assets/Escape/Runtime/Inventory/Core/InventorySnapshot.cs": "44ca5b83f29113e0b698bbf0c4d4575c4a8d8f40d1a082a5c5abee81e8426b1c",
+    "Assets/Escape/Runtime/Inventory/Core/InventoryState.cs": "2d4c4b11a97969ce3de6d83c5995f961fb896447c2a1f8a39ddaf84a7a98656f",
+    "Assets/Escape/Runtime/Inventory/Core/InventoryWeaponAttachments.cs": "4c788fb91ebdd300b9a81b54aae98996d8b047c0e96a4ffbfaf5865696970980",
+    "Assets/Escape/Runtime/Inventory/Core/ItemDefinition.cs": "961c9016249d7d909764cfe6a0ebd14870f7b24f5b95e7e2aad2417f6376fe9c",
+    "Assets/Escape/Runtime/Inventory/Core/ItemResourceState.cs": "d1370aa49dd1c5508ba41c091c749a6481ff83a42346be9c81d87192332022d9",
+    "Assets/Escape/Runtime/Inventory/Core/ItemUseState.cs": "252dde07c55244077119ac640a89fa1f51097460980455ad1baba13b6a1cad31",
+    "Assets/Escape/Runtime/Inventory/Core/ItemValueTier.cs": "8c8d75a7152ad0db7ab99ae98f99c9816b10e304e73b92cbb44b69de3d9ff05b",
+    "Assets/Escape/Runtime/Inventory/GameDefinitions.cs": "1214888530ef571b99b838a8a154b312ce541f7c968943db571114b1c0d4fd37",
+    "Assets/Escape/Runtime/Inventory/InventoryCompanionChips.cs": "ed1ef5b58ee36b8382691583f9288ee7d7c31d42595b49a2304ba759c6f6549d",
+    "Assets/Escape/Runtime/Inventory/InventoryController.cs": "4ca9414fb3de96cf7ba1fafd070c5a9d826fec64eb58de74778a0d6f4c8bd1f8",
+    "Assets/Escape/Runtime/Inventory/InventoryDoubleClick.cs": "7eaeeaf7bcd4919519d4463d59de33296ab33f293bec36464cce2e5da7451a7f",
+    "Assets/Escape/Runtime/Inventory/InventoryDoubleClickSequence.cs": "99cab2fc009808b929e17925737c20318aaa1ee43a0b726dd6cbc952b1d7ea1c",
+    "Assets/Escape/Runtime/Inventory/InventoryMedicalDetails.cs": "03d97e8d6706cd60b476bf6f016a56dc3c27fd5a6027acaf2f5a185fedc0aee0",
+    "Assets/Escape/Runtime/Inventory/InventoryWeaponDetails.cs": "d05e7be4da1750a02d82b0adee199643a46e2ede0537e7118ed4898cc4faf20f",
+    "Assets/Escape/Runtime/Inventory/InventoryWeaponModding.cs": "b8d2900e8f2379ceeb75a18c7b038f764de93896d773519f4d984c59b79b268b",
+    "Assets/Escape/Runtime/Inventory/ItemCatalog.cs": "2f776cc1ff9ad7494777f053052a7bfe558a1c4e4f16fb188d74977723779320",
+    "Assets/Escape/Runtime/LivFaceBoundComponentGuard.cs": "93f08a0ed5c31b36a355a718dd2970addaf20d1b17d4663b873de3c352c508c6",
+    "Assets/Escape/Runtime/Loot/Core/LootEquipment.cs": "18d5341734ba9d167b7e41a787149e74889f92b0b989cc21cb6c87dcc492a5ed",
+    "Assets/Escape/Runtime/Loot/Core/LootGroundTransfer.cs": "01961ecc9146ca78c7668cd6bc3297ba3d54f7a0035a4f80ce5a9c1e0ddf4f52",
+    "Assets/Escape/Runtime/Loot/Core/LootRegionSwap.cs": "5ade78569296b445da18492e5a3e9b80df71070ea874af46c9539e4ae15cdfc5",
+    "Assets/Escape/Runtime/Loot/Core/LootState.cs": "4318e4f308c93ad5e19f61da8cdb4165af447c074d44794147b7451ccf1a8989",
+    "Assets/Escape/Runtime/Loot/GroundLootDrop.cs": "6392b28c84cd75191c08deacd3ac90c93d3d935062c0bcf3bf4b4df5eb01fb57",
+    "Assets/Escape/Runtime/Loot/LootCatalog.cs": "b74d9cd88860a32797c4a9008c22124bd28a0051d7c81d5fbd206dbbafe616c5",
+    "Assets/Escape/Runtime/Loot/LootContainer.cs": "61c4c1030bc25b1b90df8ec07f86c125ad5e99ccb1eb46ebc1c09d28eaba37db",
+    "Assets/Escape/Runtime/Loot/LootInteractor.cs": "aca9c50dbdda02219b8a061f2846a27f7715aa8428a4f14402b6fb30c9bbb8d9",
+    "Assets/Escape/Runtime/Loot/LootPromptSelection.cs": "16bb614e64040d5e20f97c56aff10460509a08f894ad9771270bbfe644ac2d04",
+    "Assets/Escape/Runtime/Loot/StageALootRewards.cs": "49c30275148b8c326953011111368810ffd92229d2fb293a0b5aca2deca8a703",
+    "Assets/Escape/Runtime/PlayerMotor.cs": "34bb0cf80a9e8263d55ea0d7d0800d18b101255819fbc3d1477a8ad1628d5269",
+    "Assets/Escape/Runtime/PlayerSettings.cs": "78cb49564713659e32830c32efbd51a71642a3e9b312abc5580b5e262fe30583",
+    "Assets/Escape/Runtime/ReadyArmHingeAudit.cs": "360de8556b6dbc2d06c420362f9417199026fa21a6632b551d6b65a98f081388",
+    "Assets/Escape/Runtime/ReadyArmSurfaceClearance.cs": "6a7c03e7ec63c903c359af625feca6fdd239dafa13d58a334f7f6b10c60d7288",
+    "Assets/Escape/Runtime/ReadyArmTorsoExactAudit.cs": "d42496fecbcaf2b7a08d596fbaf92a73c0f79034e603f1fbd8ae7485a3634552",
+    "Assets/Escape/Runtime/ReadyContinuousHairAcceptance.cs": "8fcaf6a528624865768fdc90b8c6a9c0009920e76d77cf97ac8d91a66eeb4926",
+    "Assets/Escape/Runtime/ReadyCurrentSkinExport.cs": "a5ccf85b1f29d2c8eab6984b6d11764496b2e8466c8828339fb5dd20cea07eb2",
+    "Assets/Escape/Runtime/ReadyHairAdaptiveInputSnapshot.cs": "b11e5aa6af4551a35daeca5b250dceb7d9794b49d43d457cdf8a3d8681c93981",
+    "Assets/Escape/Runtime/ReadyHairArmSurfaceAudit.cs": "5bea31038d909d3683a9eba4ffae47c43d6a177b97962beac9fdb0f6e9a4df7c",
+    "Assets/Escape/Runtime/ReadyHairAudit.cs": "e943302fef76b03b7a7bd162998f1ba307b477ff752afb657c523bf4d06c7ae8",
+    "Assets/Escape/Runtime/ReadyHairObstacleSurfaceAudit.cs": "4a7e75798ccb0349d0f0a0403405f865355ade8b9f1ec6eb2c1db6876edf5838",
+    "Assets/Escape/Runtime/ReadyHairObstacleSurfaceAuditV2.cs": "303aadb90449e1ceeac87426b8547b1bd05048011e683ba0faa3d74da0561d42",
+    "Assets/Escape/Runtime/ReadyHairObstacleSurfaceAuditV22.cs": "c8e717e18d70ac90e79c12e42ce580b82908a270b2c0cd9a119b99d3e542c87e",
+    "Assets/Escape/Runtime/ReadyHairObstacleSurfaceAuditV23.cs": "e93ab19376bb5767be9840f8d2bd48881b92323bfb7c4d8dbf732f0f0d64046d",
+    "Assets/Escape/Runtime/ReadyHairProxyWitnessAudit.cs": "20909f8f975bff947f8c69232ea86f120066b87bf6ff475c8ade2d2e83d6ab33",
+    "Assets/Escape/Runtime/ReadyHairSurfaceDisplacementAudit.cs": "ef545a1058d2560239fac844a55278e0ee6987db21af13f6f2a8c3363cd5bd6d",
+    "Assets/Escape/Runtime/ReadyInventoryQuietAcceptance.cs": "a67dd31eb5e69dfc3c11bd2bffc7697a303c79168b44ee5523795cd6818c0ae8",
+    "Assets/Escape/Runtime/ReadyLowGeometryExport.cs": "3ba4cceb94254295b80f1ebbd3543d38d0f28c32af686dcce57beb2df7214a09",
+    "Assets/Escape/Runtime/ReadyShoulderAudit.cs": "503709a1a29aa1f2a9d97de8bac3b0367d910757109bee7796a5ce2705530395",
+    "Assets/Escape/Runtime/ReadySupportContactAudit.cs": "0dd8ed38e54bc10b232113d58f3eee4ec7455581bcde0d486bca8806dbd58296",
+    "Assets/Escape/Runtime/ReadyWeaponHeadClearance.cs": "75fe70f19f4654839d52754b9ed7e4f69207f53760c11e5de086729c6a7d60f4",
+    "Assets/Escape/Runtime/Save/BasecampTransactions.cs": "3588da271874da1f8458e6e736cbf3cacfbbd4276a8d48ef453505e5b19205f4",
+    "Assets/Escape/Runtime/Save/Core/ProfileData.cs": "a4eb45433c0d860040ade655a87e2745356bc05b0b7363b9284fbb9855236e7c",
+    "Assets/Escape/Runtime/Save/InventoryTransactions.cs": "d191fef9f5bad6d551b5308e5fa805efb57a2dcf7fe6ae92d3ad686ff91f3efa",
+    "Assets/Escape/Runtime/Save/LocalProfileStore.cs": "482d49217e38399833d0a984bb73fa5216e6277a07955a4426488aad79606def",
+    "Assets/Escape/Runtime/Save/ProfileChipRecovery.cs": "b9290b09dbc61bf7aa6d0c3d630638776044eb7c10d8775ac683e71a86e3153f",
+    "Assets/Escape/Runtime/Save/ProfileCompanions.cs": "47e4b094026e1e14b054846698db08397ec8e6000229c402e8e0231d9f4d257b",
+    "Assets/Escape/Runtime/Save/ProfileMigration.cs": "18483b704320d85563ffd553907a5d9d6c3634a8de67ef2c03e5e602a272292a",
+    "Assets/Escape/Runtime/Save/ProfileResearch.cs": "15ea3b67501393d7fc77cb405460ea8ea87f78c42c834c98182ea34d8fcc25cd",
+    "Assets/Escape/Runtime/Save/ProfileSession.cs": "0be948c75c1f084839ea3a0ae745a9fd456dee5e38101bba2c43ef2f370c3dee",
+    "Assets/Escape/Runtime/Save/ProfileStory.cs": "6405f221838a8212d433a487c293395ac9324d0a9741a879857ee30bf4fb5fc2",
+    "Assets/Escape/Runtime/Save/QuestTransactions.cs": "8276d6cc7857b0179dabaa0cd06782a7dc2fa7f22dce41baf080271e69e4d35c",
+    "Assets/Escape/Runtime/Save/WeaponModdingTransactions.cs": "9a6edcdf1172dc2a8f8a0b9c7c3116b85242c0e3eb8250768a88d4b443881078",
+    "Assets/Escape/Runtime/Stage/Blockout/StageAEncounterLayout.cs": "271989fdf72b58ceff2a8e251d721d2c58e77681a12a9ed454eaa131e0b1c532",
+    "Assets/Escape/Runtime/Stage/Blockout/StageAEncounterSpawner.cs": "5fb50e89285d7bb4a9bbb6d36902f182f4fb9ca46d6a44d8d50864924a8a14bc",
+    "Assets/Escape/Runtime/Stage/Blockout/StageALootSpawner.cs": "0769793c231e5e4df61401d84cf9fb1c59f39f77fc014ee74b4e93d7b89fb7fc",
+    "Assets/Escape/Runtime/Stage/Blockout/StageMapRouter.cs": "bfa99ccfc3fc1555796a825d07a2b7580de81276d67311f8def0230d1c0ae72b",
+    "Assets/Escape/Runtime/Stage/Core/ExtractionState.cs": "7d3d3964c0e500ba21e2b1df241a5839c1409e6f3590f564211cc401c166e260",
+    "Assets/Escape/Runtime/Stage/Core/InfectionState.cs": "193a7e0c33728fc2696509f29cae045dbbea46e0d164b34e6ec322e863419c60",
+    "Assets/Escape/Runtime/Stage/SessionBaseCamp.cs": "01b844452106189318c2980c7fa7c79403c2bc2378da677c250aa1f3e2bb5910",
+    "Assets/Escape/Runtime/Stage/SessionStory.cs": "4dbc2bcda13666735ceed9d845a8f3b5d00eefdb14db413d585e8d9345a09080",
+    "Assets/Escape/Runtime/Stage/SessionTestWorld.cs": "63f4882dbca08d578c02f6c4fb2d3e1b386e46019fac708e28a4549f611feb93",
+    "Assets/Escape/Runtime/Weapon/Core/AmmoRules.cs": "510cde19bef4343dde5499a1fdb4d9c70eedb427e366598cf0f9473218fc97ba",
+    "Assets/Escape/Runtime/Weapon/Core/RifleState.cs": "0f72c33761d9ff0abff4b84b9abc1f721e7b6d79cfca90560a98cb896565d715",
+    "Assets/Escape/Runtime/Weapon/Core/WeaponAffixes.cs": "ff345dc960ca0258a908a2f13a768d63a3e15d2ef6d4bf3fc90dc90d12c876c2",
+    "Assets/Escape/Runtime/Weapon/Core/WeaponAttachments.cs": "d817fed254f2840506c35f3ca3956f8305fa616c05e46dcde030cd594fa2754d",
+    "Assets/Escape/Runtime/Weapon/MeleeService.cs": "c326fb77bc622e521e703c79eeb0adb46a169926ea40701e1d0ade937ee07c9c",
+    "Assets/Escape/Runtime/Weapon/RifleController.cs": "bcf5754ce0beb20b044b5f87f92e292e6f63e89cc3e53eddef3863b0c2d58530",
+    "Assets/Escape/Settings/AR_001.asset": "46628f7e121383256460427cb94998fd59d1621993d7bd64de2a0393e2bd29aa",
+    "Assets/Escape/Settings/PlayerDefaults.asset": "ff958978bf348140d5d1460e08a9401d586cb8cf2e0a9266fc0663a6f9ebe8d3"
+  }
+}

@@ -1,0 +1,253 @@
+AFTER-ONLY LIVE LOOT LIFECYCLE
+PASS preparation occurs before the real departure
+PASS matched evidence begins with explicitly injected 50000 blank
+PASS matched AR starter equipment retained
+PASS large prop probe is initially absent
+PASS one additional robot-arm carry fixture fits before departure
+FIXTURE AR plus nine original junk types and 50000 blank are preexisting evidence setup, not earned loot.
+FIXTURE One robot arm was added AFTER matched camp screenshots, solely for large-ground-prop clearance. It is never counted as farmed loot.
+FIXTURE Actors stay frozen; lethal damage tests use the real DamageReceiver/defeat pipeline and do not claim normal combat performance.
+PASS the matched carry fixture was prepared before the real departure
+PASS running the actual A-map departure
+PASS player interaction simulation is live
+PASS one actual A_Loot_Raid root exists
+PASS actual live root contains exactly 42 unique placement identities
+PASS all 42 live containers have state and native container art
+PASS runtime geometry validation resolves all 42 placements against active map navigation
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_clinic_triage
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_clinic_dispensary
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_clinic_records
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_tools_bench
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_tools_parts
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_hall_service
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_hall_control
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_hall_overhaul
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_power_cells
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_power_service
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_power_control
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_parts_precision
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_parts_machining
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_parts_security
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_n01_food
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_n03_records
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_n05_medicine
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_n08_transformer
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_n09_cable
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_n11_data
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_n12_power
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_n14_control
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_w01_timber
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_w02_machine
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_w03_tools
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_w05_salvage
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_w07_office
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_w08_garage
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_w10_shipping
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_e01_battery
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_e03_transformer
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_e04_cables
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_e05_packing
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_e06_inspection
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_s01_dorm
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_s02_canteen
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_s05_home
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_s07_house
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_s08_store
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_y01_dismantle
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_y02_parts
+PASS real LootInteractor.CanOpen from same-floor navigation: loot_f01_water
+PASS disable/enable preserves every item identity, quantity and container count
+PASS duplicate Spawn refuses a reroll without changing actual live stock
+PASS can approach real finite food container
+PASS food source contains newly acquired IDs rather than initial nine junk fixtures
+PASS real interactor starts finite search
+PASS all search rows completed using current live Time.time only: loot_s02_canteen
+PASS saved fresh actual live screenshot after_loot_real_search.png
+PASS real searched row transfers fully to the live bag: item_003
+PASS real searched row transfers fully to the live bag: item_010
+PASS real container is depleted after actual transfers
+PASS closing and reopening an emptied container does not refill or reroll
+PASS empty container cannot award the first row twice
+EARNED_FROM_FINITE_MAP item_003x1, item_010x2
+PASS an actual uncollected map material can drive research without an initial fixture copy
+PASS open actual research-material source
+PASS all search rows completed using current live Time.time only: loot_n12_power
+PASS acquire exactly one real non-fixture research material
+EARNED_RESEARCH_MATERIAL trade_c_006 from loot_n12_power
+PASS empty-container probe has genuine floor support at the first intended native-drop point
+PASS available empty static trigger container is genuinely registered before native drop
+FIXTURE A temporary available EMPTY static LootContainer occupies the first drop candidate. Its trigger-only volume must cause an alternate position or atomic rejection; it is removed after this probe.
+PASS whole native ground-drop source has one stable identity and no duplicate stack: trade_c_001
+PASS normal pickup can reuse the source logical slot without rearranging other carried stock: trade_c_001
+PASS native ground drop succeeds through the real ownership transaction: trade_c_001
+PASS ownership moves exactly once to the native ground item: trade_c_001
+PASS ground item displays its native model instead of the primitive renderer: trade_c_001
+PASS native prop's measured mesh bounds avoid solid walls/furniture: trade_c_001
+PASS native ground prop avoids the full bounds of an AVAILABLE EMPTY static trigger container
+PASS saved fresh actual live screenshot after_ground_native_identity.png
+PASS detail-only capture found the actual player/companion presentation renderers: trade_c_001
+FIXTURE_DETAIL_CAPTURE_ONLY Player/companion body, armor and weapon renderers are temporarily hidden for model identification; floor, dropped item and lighting remain live. Original renderer/camera/inventory states are restored immediately after this screenshot: trade_c_001
+PASS model close view uses the actual dropped prop renderers: trade_c_001
+PASS detail-only capture hides player/companion renderers and places the camera outside their full mesh bounds with inventory closed: trade_c_001
+GROUND_MODEL_VIEW trade_c_001 target=(-240.00, 2.07, 146.72) size=(0.22, 0.13, 0.13) camera=(-240.00, 2.68, 147.13)
+PASS saved fresh actual live screenshot after_ground_trade_c_001_model.png
+PASS detail-only capture restored every character renderer, world camera and inventory-open state: trade_c_001
+PASS real ground interaction picks up the dropped native prop: trade_c_001
+PASS pickup preserves the original instance identity without duplication: trade_c_001
+PASS native drop/pickup restores the exact original bag identities, quantities, grid and equipment: trade_c_001
+FIXTURE Temporary narrow solid wall challenges the large prop's bounds; it is removed after this probe.
+PASS whole native ground-drop source has one stable identity and no duplicate stack: trade_a_006
+PASS normal pickup can reuse the source logical slot without rearranging other carried stock: trade_a_006
+PASS unsafe large-prop placement is rejected before ownership or inventory changes
+PASS saved fresh actual live screenshot after_ground_robotarm_rejection_fixture.png
+NOTE The clearance probe safely rejected placement; its temporary obstruction was disabled for the subsequent open-floor native round trip.
+PASS native ground drop succeeds through the real ownership transaction: trade_a_006
+PASS ownership moves exactly once to the native ground item: trade_a_006
+PASS ground item displays its native model instead of the primitive renderer: trade_a_006
+PASS real ground transaction instantiated the selected external prefab mesh: trade_a_006
+PASS native prop's measured mesh bounds avoid solid walls/furniture: trade_a_006
+PASS saved fresh actual live screenshot after_ground_robotarm_clearance_fixture.png
+PASS detail-only capture found the actual player/companion presentation renderers: trade_a_006
+FIXTURE_DETAIL_CAPTURE_ONLY Player/companion body, armor and weapon renderers are temporarily hidden for model identification; floor, dropped item and lighting remain live. Original renderer/camera/inventory states are restored immediately after this screenshot: trade_a_006
+PASS model close view uses the actual dropped prop renderers: trade_a_006
+PASS detail-only capture hides player/companion renderers and places the camera outside their full mesh bounds with inventory closed: trade_a_006
+GROUND_MODEL_VIEW trade_a_006 target=(-240.00, 2.34, 146.00) size=(0.73, 0.68, 0.27) camera=(-240.00, 4.50, 147.44)
+PASS saved fresh actual live screenshot after_ground_trade_a_006_model.png
+PASS detail-only capture restored every character renderer, world camera and inventory-open state: trade_a_006
+PASS real ground interaction picks up the dropped native prop: trade_a_006
+PASS pickup preserves the original instance identity without duplication: trade_a_006
+PASS native drop/pickup restores the exact original bag identities, quantities, grid and equipment: trade_a_006
+PASS external-model fixtures run before extraction in the existing isolated raid
+PASS all four final external models are loaded from their actual Resources overrides
+FIXTURE External-model probes are validation only. The robot arm already completed its real transaction; each other absent model gets one temporary owned item, removed by its exact returned UID before extraction. Genuine map earnings are unchanged.
+PASS one temporary external-model fixture fits without changing existing entries: trade_b_009
+PASS temporary external-model fixture has a new, precisely owned single-item UID: trade_b_009
+FIXTURE_TEMPORARY_GROUND_MODEL trade_b_009 uid=702bcd95963c4e3cb6061e3c4d5d41b8; not earned loot.
+PASS whole native ground-drop source has one stable identity and no duplicate stack: trade_b_009
+PASS normal pickup can reuse the source logical slot without rearranging other carried stock: trade_b_009
+PASS native ground drop succeeds through the real ownership transaction: trade_b_009
+PASS ownership moves exactly once to the native ground item: trade_b_009
+PASS ground item displays its native model instead of the primitive renderer: trade_b_009
+PASS real ground transaction instantiated the selected external prefab mesh: trade_b_009
+PASS native prop's measured mesh bounds avoid solid walls/furniture: trade_b_009
+PASS saved fresh actual live screenshot after_ground_trade_b_009_transaction.png
+PASS detail-only capture found the actual player/companion presentation renderers: trade_b_009
+FIXTURE_DETAIL_CAPTURE_ONLY Player/companion body, armor and weapon renderers are temporarily hidden for model identification; floor, dropped item and lighting remain live. Original renderer/camera/inventory states are restored immediately after this screenshot: trade_b_009
+PASS model close view uses the actual dropped prop renderers: trade_b_009
+PASS detail-only capture hides player/companion renderers and places the camera outside their full mesh bounds with inventory closed: trade_b_009
+GROUND_MODEL_VIEW trade_b_009 target=(-240.00, 2.09, 146.00) size=(0.12, 0.18, 0.07) camera=(-240.00, 2.69, 146.40)
+PASS saved fresh actual live screenshot after_ground_trade_b_009_model.png
+PASS detail-only capture restored every character renderer, world camera and inventory-open state: trade_b_009
+PASS real ground interaction picks up the dropped native prop: trade_b_009
+PASS pickup preserves the original instance identity without duplication: trade_b_009
+PASS native drop/pickup restores the exact original bag identities, quantities, grid and equipment: trade_b_009
+PASS remove only the exact returned temporary model fixture UID: trade_b_009
+PASS external-model probe leaves the preexisting bag signature exactly unchanged: trade_b_009
+PASS one temporary external-model fixture fits without changing existing entries: trade_b_023
+PASS temporary external-model fixture has a new, precisely owned single-item UID: trade_b_023
+FIXTURE_TEMPORARY_GROUND_MODEL trade_b_023 uid=5798bee06ee942deab60519fdbe4ae9e; not earned loot.
+PASS whole native ground-drop source has one stable identity and no duplicate stack: trade_b_023
+PASS normal pickup can reuse the source logical slot without rearranging other carried stock: trade_b_023
+PASS native ground drop succeeds through the real ownership transaction: trade_b_023
+PASS ownership moves exactly once to the native ground item: trade_b_023
+PASS ground item displays its native model instead of the primitive renderer: trade_b_023
+PASS real ground transaction instantiated the selected external prefab mesh: trade_b_023
+PASS native prop's measured mesh bounds avoid solid walls/furniture: trade_b_023
+PASS saved fresh actual live screenshot after_ground_trade_b_023_transaction.png
+PASS detail-only capture found the actual player/companion presentation renderers: trade_b_023
+FIXTURE_DETAIL_CAPTURE_ONLY Player/companion body, armor and weapon renderers are temporarily hidden for model identification; floor, dropped item and lighting remain live. Original renderer/camera/inventory states are restored immediately after this screenshot: trade_b_023
+PASS model close view uses the actual dropped prop renderers: trade_b_023
+PASS detail-only capture hides player/companion renderers and places the camera outside their full mesh bounds with inventory closed: trade_b_023
+GROUND_MODEL_VIEW trade_b_023 target=(-240.00, 2.15, 146.00) size=(0.46, 0.30, 0.32) camera=(-240.00, 3.49, 146.89)
+PASS saved fresh actual live screenshot after_ground_trade_b_023_model.png
+PASS detail-only capture restored every character renderer, world camera and inventory-open state: trade_b_023
+PASS real ground interaction picks up the dropped native prop: trade_b_023
+PASS pickup preserves the original instance identity without duplication: trade_b_023
+PASS native drop/pickup restores the exact original bag identities, quantities, grid and equipment: trade_b_023
+PASS remove only the exact returned temporary model fixture UID: trade_b_023
+PASS external-model probe leaves the preexisting bag signature exactly unchanged: trade_b_023
+PASS one temporary external-model fixture fits without changing existing entries: trade_c_018
+PASS temporary external-model fixture has a new, precisely owned single-item UID: trade_c_018
+FIXTURE_TEMPORARY_GROUND_MODEL trade_c_018 uid=fbfccc21cad94b799989a85817cdd5fb; not earned loot.
+PASS whole native ground-drop source has one stable identity and no duplicate stack: trade_c_018
+PASS normal pickup can reuse the source logical slot without rearranging other carried stock: trade_c_018
+PASS native ground drop succeeds through the real ownership transaction: trade_c_018
+PASS ownership moves exactly once to the native ground item: trade_c_018
+PASS ground item displays its native model instead of the primitive renderer: trade_c_018
+PASS real ground transaction instantiated the selected external prefab mesh: trade_c_018
+PASS native prop's measured mesh bounds avoid solid walls/furniture: trade_c_018
+PASS saved fresh actual live screenshot after_ground_trade_c_018_transaction.png
+PASS detail-only capture found the actual player/companion presentation renderers: trade_c_018
+FIXTURE_DETAIL_CAPTURE_ONLY Player/companion body, armor and weapon renderers are temporarily hidden for model identification; floor, dropped item and lighting remain live. Original renderer/camera/inventory states are restored immediately after this screenshot: trade_c_018
+PASS model close view uses the actual dropped prop renderers: trade_c_018
+PASS detail-only capture hides player/companion renderers and places the camera outside their full mesh bounds with inventory closed: trade_c_018
+GROUND_MODEL_VIEW trade_c_018 target=(-240.00, 2.08, 146.00) size=(0.22, 0.15, 0.15) camera=(-240.00, 2.73, 146.43)
+PASS saved fresh actual live screenshot after_ground_trade_c_018_model.png
+PASS detail-only capture restored every character renderer, world camera and inventory-open state: trade_c_018
+PASS real ground interaction picks up the dropped native prop: trade_c_018
+PASS pickup preserves the original instance identity without duplication: trade_c_018
+PASS native drop/pickup restores the exact original bag identities, quantities, grid and equipment: trade_c_018
+PASS remove only the exact returned temporary model fixture UID: trade_c_018
+PASS external-model probe leaves the preexisting bag signature exactly unchanged: trade_c_018
+PASS all four external models completed real ground transactions; temporary additions are absent before the original extraction/economy checks
+PASS real generated roster provides ordinary machine, ordinary human and fixed-home named machine
+PASS actual spawned actor reaches the real defeat event: G1_01_SpiderLight
+PASS one accessible drop is created for the real defeated actor: G1_01_SpiderLight
+PASS machine corpse owns mechanical materials without a fictitious human weapon/ammo: G1_01_SpiderLight
+PASS duplicate defeat callback seam exists
+PASS duplicate notification neither duplicates nor rerolls actor-owned loot: G1_01_SpiderLight
+PASS defeat drop has nearby real navigation: G1_01_SpiderLight
+DIAGNOSTIC Cannot open drop_G1_01_SpiderLight at (-209.66, 3.06, 79.53); player=(-209.67, 3.06, 79.07) target=(-211.41, 3.32, 79.53)
+PASS real player CanOpen and starts searching the defeated actor's drop: G1_01_SpiderLight
+PASS all search rows completed using current live Time.time only: drop_G1_01_SpiderLight
+PASS searching a real actor drop reveals stock without rerolling: G1_01_SpiderLight
+PASS saved fresh actual live screenshot after_enemy_machine.png
+PASS actual spawned actor reaches the real defeat event: H1_01_Scavenger
+PASS one accessible drop is created for the real defeated actor: H1_01_Scavenger
+PASS human corpse contains its physical weapon and exactly one matching ammo row: H1_01_Scavenger
+PASS duplicate defeat callback seam exists
+PASS duplicate notification neither duplicates nor rerolls actor-owned loot: H1_01_Scavenger
+PASS defeat drop has nearby real navigation: H1_01_Scavenger
+DIAGNOSTIC Cannot open drop_H1_01_Scavenger at (-104.81, 1.42, 1.77); player=(-104.82, 1.42, 1.30) target=(-106.56, 1.77, 1.77)
+PASS real player CanOpen and starts searching the defeated actor's drop: H1_01_Scavenger
+PASS all search rows completed using current live Time.time only: drop_H1_01_Scavenger
+PASS searching a real actor drop reveals stock without rerolling: H1_01_Scavenger
+PASS saved fresh actual live screenshot after_enemy_human.png
+PASS actual spawned actor reaches the real defeat event: N2
+PASS one accessible drop is created for the real defeated actor: N2
+PASS machine corpse owns mechanical materials without a fictitious human weapon/ammo: N2
+PASS named machine awards its guaranteed control core
+PASS duplicate defeat callback seam exists
+PASS duplicate notification neither duplicates nor rerolls actor-owned loot: N2
+PASS defeat drop has nearby real navigation: N2
+DIAGNOSTIC Cannot open drop_N2 at (1.75, -0.06, -112.00); player=(1.74, -0.06, -112.47) target=(0.00, 0.31, -112.00)
+PASS real player CanOpen and starts searching the defeated actor's drop: N2
+PASS all search rows completed using current live Time.time only: drop_N2
+PASS searching a real actor drop reveals stock without rerolling: N2
+PASS saved fresh actual live screenshot after_enemy_machine_named.png
+PASS actual character is grounded inside an authored extraction zone
+PASS real elapsed four-second hold extracts and returns to camp
+PASS extraction persisted the actual run outcome and identity
+PASS return to camp removes static stock and dynamic drops
+PASS reload extracted isolated profile through the real slot loader
+PASS extracted inventory identities, quantities, grid and equipment survive disk reload exactly
+PASS earned map contents survive extraction/reload: item_003
+PASS earned map contents survive extraction/reload: item_010
+PASS earned research ingredient survives extraction/reload
+PASS sell one actual extracted item for exact canonical sale value: item_010
+PASS canonical injector product supports the unlocked camp supply cycle
+PASS buy canonical medical supply with exact quantity and price
+PASS ordinary sale/purchase persists at the explicit camp save and reload
+PASS research starts with no credits and one earned ingredient
+PASS real common research consumes the harvested ingredient and exact blank cost
+PASS material research rank and consumption survive disk reload
+PASS saved fresh actual live screenshot after_extracted_supply_research_cycle.png
+PASS actual item detail remains visible after a settled inventory selection
+PASS actual selected item detail supplies source and tracked research requirement
+PASS saved fresh actual live screenshot after_item_source_research_detail.png
+FIXTURE The following two screenshots inject DISPLAY-ONLY Endurance rank4 and Serin training rank2 metadata. No materials or money are injected; these ranks are not claimed as earned progression.
+PASS display-only rank fixture saved to the explicitly isolated profile: 
+PASS open live four-material rank4 research view
+PASS saved fresh actual live screenshot after_research_rank4_fixture.png
+PASS saved fresh actual live screenshot after_training_rank2_fixture.png
+RESULT PASS All after-only live lifecycle checks completed.

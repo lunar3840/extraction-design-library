@@ -1,0 +1,23 @@
+{
+  "tool": "built-in image_gen",
+  "state": "Completed/visually reviewed; scalp tuft occluded by helmet, visible bangs/nape/braid/pony colors retained",
+  "reason": "Visible lavender ahoge above intact helmet crown in mobility/heavy outputs; keep original hair but occlude scalp tuft while helmet worn",
+  "prompt": "Use case: precise-object-edit / identity-preserve. Make a tiny helmet-wearing hair correction to this concept board.\nONLY correct EDEL's lavender loop/ahoge strands that float ABOVE or appear to poke THROUGH the solid helmet crown. Tuck/occlude those TOPMOST scalp strands UNDER the helmet shell in all main/side/rear/detail views where present. There must be NO lavender curl emerging through intact crown armor. The unhelmeted character still has her original ahoge; this is simply hidden while wearing the helmet.\nKEEP the helmet design/shape/palette/grade, original face/eyes/head proportions, front bangs BELOW rim, side bob, original lavender nape and long side BRAID. Do NOT remove visible original-color hair below helmet or recolor it as black padding. Do NOT change Serin's brown ponytail/face or add her pink cap under helmet. Original brown/lavender hair exit routes remain.\nPreserve every other helmet/visor/jaw-guard/armor-context detail, product code, layout, callout and illustration. No new designs, no changed shell/face/visor position, no extra accessories, no face marks. Helmets remain properly seated rather than hair sticking through shell. Same full board and view count; original concept-only/not3Dfitted state.",
+  "targets": [
+    "before_ahoge_mobility.png",
+    "before_ahoge_heavy.png"
+  ],
+  "otherRoles": "Balanced/maintenance visually reviewed separately; no requested redesign",
+  "outputs": [
+    {
+      "role": "mobility",
+      "generatedOriginal": "C:/Users/ehoji/.codex/generated_images/01a15c39-f07b-7dd3-b42e-97cae956862c/exec-b8c6e965-7531-479b-9f83-7eacfffccbd9.png",
+      "savedAs": "after_helmet_mobility.png"
+    },
+    {
+      "role": "heavy",
+      "generatedOriginal": "C:/Users/ehoji/.codex/generated_images/01a15c39-f07b-7dd3-b42e-97cae956862c/exec-8fc8326b-3d6d-4bde-b47b-fb92e52dcef9.png",
+      "savedAs": "after_helmet_heavy.png"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+STAGE_A_ACCESS_V26_AI_ACTUAL_PLAY
+startedUtc=2026-09-28T10:47:37.8678037Z
+player parked (190.00, 300.00, -130.00); existing enemies frozen; world automatic ticks disabled
+BATCH A02_Car
+ lane=0 mapX=164 start=(-96.00, 1.60, 18.50) goal=(-96.00, 1.61, 7.00) directBlocked=True calculated=True status=PathComplete corners=4
+ lane=1 mapX=165 start=(-95.00, 1.63, 18.50) goal=(-95.00, 1.63, 7.00) directBlocked=True calculated=True status=PathComplete corners=4
+ lane=2 mapX=166 start=(-94.00, 1.66, 18.50) goal=(-94.00, 1.65, 7.00) directBlocked=True calculated=True status=PathComplete corners=4
+ capture=A02_Car_start
+ PASS lane=2 reached=(-93.70, 1.66, 8.09) remaining=1.13m progress=10.42m elapsed=3.1s
+ PASS lane=1 reached=(-94.68, 1.64, 7.74) remaining=0.80m progress=10.77m elapsed=3.5s
+ PASS lane=0 reached=(-95.70, 1.62, 7.56) remaining=0.64m progress=10.94m elapsed=3.9s
+PASS A02_Car all three patrols detoured and arrived in 3.9s
+ capture=A02_Car_end
+BATCH A03_Van
+ lane=0 mapX=317 start=(57.00, 1.89, 14.00) goal=(57.00, 2.29, 0.00) directBlocked=True calculated=True status=PathComplete corners=4
+ lane=1 mapX=318 start=(58.00, 2.03, 14.00) goal=(58.00, 2.32, 0.00) directBlocked=True calculated=True status=PathComplete corners=4
+ lane=2 mapX=319 start=(59.00, 2.25, 14.00) goal=(59.00, 2.34, 0.00) directBlocked=True calculated=True status=PathComplete corners=4
+ capture=A03_Van_start
+ PASS lane=0 reached=(56.93, 2.22, 0.70) remaining=0.70m progress=13.30m elapsed=3.7s
+ PASS lane=2 reached=(59.05, 2.29, 0.54) remaining=0.54m progress=13.46m elapsed=3.7s
+ PASS lane=1 reached=(57.62, 2.22, 1.04) remaining=1.11m progress=12.97m elapsed=3.9s
+PASS A03_Van all three patrols detoured and arrived in 3.9s
+ capture=A03_Van_end
+RESULT PASS

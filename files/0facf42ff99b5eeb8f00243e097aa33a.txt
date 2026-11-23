@@ -1,0 +1,21 @@
+STAGE_A_REFERENCE_V34_INDEPENDENT_TECHNICAL_VALIDATION
+PASS retained map available in edit mode
+PASS pre-V34 current-D11 exact snapshot exists
+PASS original snapshot schema and entries valid
+PASS all current-D11 original transforms, meshes, colliders, components and gameplay fields retained; baseline=32381 missing=0 changed=0
+PASS authoritative retained V13 HALL exists
+PASS only existing HALL 1F factory floor and D11 SurfaceTiles renderers may bind dedicated V34 assets; allowed=61 rejected=0
+PASS all new objects have V34 names in the narrowly approved HALL/detail/lighting branches; added=109 rejected=0
+PASS V34 visual and lighting additions introduce no colliders; addedColliders=0
+PASS V34 has actual local visual detail and local lights; renderers=94 lights=12
+PASS all dedicated V34 materials use supported error-free shaders; materials=5 shaderFailures=0
+PASS every retained HALL roof/2F opaque source has one exact world-matrix/mesh/material ShadowsOnly copy; source=81 copies=81 matched=81 mismatched=0
+PASS no pre-existing material asset changed globally; changed=0
+PASS all pre-existing scene light and volume components unchanged
+PASS skybox, ambient, fog and reflection global rendering settings unchanged
+PASS B4 basic and R8 dormant risk spawn tiers retained; B4/R8 spacing remains the existing design issue
+NOTE A clean technical result is necessary but not visual approval. Door/aisle, cutaway, local-light quality and matched screenshots require separate review.
+VISUAL_ACCEPTANCE separate: compare matched HALL south/west/inside/stairs before and after plus actual game-camera views for material depth, local lighting, readable entry, stairs and equipment.
+PLAY_ACCEPTANCE separate: fresh post-V34 actual PlayerMotor door/route/cutaway validation; this snapshot alone proves no visual or walking quality.
+passed=15 failed=0
+RESULT PASS

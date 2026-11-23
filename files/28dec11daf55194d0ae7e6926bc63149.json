@@ -1,0 +1,24 @@
+{
+  "verifiedAt": "2026-10-29T17:51:27.8208047+09:00",
+  "installed": [
+    {
+      "path": "Assets/Escape/Editor/Environment/SurfaceIvyGenerator.cs",
+      "sha256": "95dc208225cdfb34ce2f1fd79c0534b287b9c3090e50f2b26354c9ce1451993d"
+    },
+    {
+      "path": "Assets/Escape/Editor/Environment/SurfaceIvyWindow.cs",
+      "sha256": "f91390ddd8c05e458e0eccb267f4be3e4994e180591923af7008c02a0c40b30a"
+    },
+    {
+      "path": "Assets/Escape/Editor/Environment/SurfaceIvyValidation.cs",
+      "sha256": "f4cb80a0b4b70d5828e595a63df3202a79f695e9ac6de17703b1979c1011742f"
+    },
+    {
+      "path": "Assets/Escape/Runtime/Environment/SurfaceIvyInstance.cs",
+      "sha256": "231e6fad039385e64239f5696b8b822c246a1b1c0059c9d6adeca0e5a5acc7f0"
+    }
+  ],
+  "temporaryWorkflowRemoved": true,
+  "auditCopyRemoved": true,
+  "pendingRequest": false
+}

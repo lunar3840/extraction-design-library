@@ -1,0 +1,8 @@
+{
+    "meshes": 50,
+    "bones": 52,
+    "bodyVertices": 27958,
+    "bodyTrianglesBefore": 45631,
+    "bodyTrianglesAfter": 31505,
+    "maximumCoverageMappingDistance": 1.2287812012345967e-7
+}

@@ -1,0 +1,60 @@
+PASS fresh isolated profile
+PASS main acceptance
+PASS acceptance automatically starts pending cutscene
+PASS cutscene freezes simulation and blocks panels
+PASS slot departure and front-end transitions blocked during dialogue
+PASS inventory toggle blocked
+PASS live actor and gameplay camera unchanged
+PASS three shot sequence reaches final line
+PASS confirmed skip commits result
+PASS world time input and journal restored
+PASS scene lighting restored after cutscene
+PASS seen scene replay starts
+PASS replay leaves progress and rewards unchanged
+PASS bond invitation starts
+PASS interruption restores world and retains event
+PASS interrupted scene can resume
+PASS bond objective dialogue starts
+PASS bond objective commit
+PASS bond ready scene
+PASS bond completion flow
+PASS side briefing
+PASS side delivery reward
+PASS side completion dialogue
+PASS successful extraction objective via real session transaction
+PASS return scene survives save reload
+PASS main report completion
+PASS no repeated scene and no unintended stage unlock
+PASS interactive replay ready
+PASS component disable restores time controls and light
+PASS final interactive replay ready
+PASS fresh isolated profile
+PASS main acceptance
+PASS acceptance automatically starts pending cutscene
+PASS cutscene freezes simulation and blocks panels
+PASS slot departure and front-end transitions blocked during dialogue
+PASS inventory toggle blocked
+PASS live actor and gameplay camera unchanged
+PASS three shot sequence reaches final line
+PASS confirmed skip commits result
+PASS world time input and journal restored
+PASS scene lighting restored after cutscene
+PASS seen scene replay starts
+PASS replay leaves progress and rewards unchanged
+PASS bond invitation starts
+PASS interruption restores world and retains event
+PASS interrupted scene can resume
+PASS bond objective dialogue starts
+PASS bond objective commit
+PASS bond ready scene
+PASS bond completion flow
+PASS side briefing
+PASS side delivery reward
+PASS side completion dialogue
+PASS successful extraction objective via real session transaction
+PASS return scene survives save reload
+PASS main report completion
+PASS no repeated scene and no unintended stage unlock
+PASS interactive replay ready
+PASS component disable restores time controls and light
+PASS final interactive replay ready

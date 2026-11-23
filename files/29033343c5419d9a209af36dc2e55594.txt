@@ -1,0 +1,3 @@
+Result=FAIL
+System.Exception: Play validation timed out.
+  at Escape.EditorTools.StageAFactoryV12PlayChecks.Poll () [0x00047] in C:\UnityProject\escape\Assets\Escape\Editor\StageAFactoryV12PlayChecks.cs:38 

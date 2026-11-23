@@ -1,0 +1,72 @@
+{
+  "verifiedAt": "2026-10-29T17:50:22.1622943+09:00",
+  "files": [
+    {
+      "path": "Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity",
+      "expected": "c9e3d324a6da7849188d1d92f9d79843b8e4820dcbe8325c3a0b227cd13d1874",
+      "actual": "c9e3d324a6da7849188d1d92f9d79843b8e4820dcbe8325c3a0b227cd13d1874",
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab",
+      "expected": "b849090f053449e3c64b1f8bf65d50b78311bc1bcf046d14fe0250422cad04b7",
+      "actual": "b849090f053449e3c64b1f8bf65d50b78311bc1bcf046d14fe0250422cad04b7",
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Enemy/EnemyController.cs",
+      "expected": "9282d7efa7e3dca2848d613fd211494143eb8ac6693e29d41ce02abb356de841",
+      "actual": "9282d7efa7e3dca2848d613fd211494143eb8ac6693e29d41ce02abb356de841",
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageABuildingV33Reveal.cs",
+      "expected": "a4d706077dbfe0f7759ac0ae829deb50465e425049feea485311276e6758139a",
+      "actual": "a4d706077dbfe0f7759ac0ae829deb50465e425049feea485311276e6758139a",
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageAWestD02OccludedPlayerSilhouette.cs",
+      "expected": "fece045974a89ae68eab7f33729b357768372f2e6eeaddfcee7645d2d1e29c3f",
+      "actual": "fece045974a89ae68eab7f33729b357768372f2e6eeaddfcee7645d2d1e29c3f",
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Art/BuildingV33/Reveal/BuildingV33LocalReveal.shader",
+      "expected": "1e443568bb3977cd4d8ea64189fb8dfce6601ad58c7ace3c0585913b93729909",
+      "actual": "1e443568bb3977cd4d8ea64189fb8dfce6601ad58c7ace3c0585913b93729909",
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Resources/EscapeVision/BuildingV33ActorMask.shader",
+      "expected": "a896f27a5202d92dc041b126e4e620456f457d320baada1f3f52e422f296fa5b",
+      "actual": "a896f27a5202d92dc041b126e4e620456f457d320baada1f3f52e422f296fa5b",
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Settings/PC_Renderer.asset",
+      "expected": "076f074c67b3e3ecdb0fcc2e868b99f00598859e0a6dbf738ae05ff098b4b26e",
+      "actual": "076f074c67b3e3ecdb0fcc2e868b99f00598859e0a6dbf738ae05ff098b4b26e",
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Stage/Blockout/StageALookV17RoofVisibility.cs",
+      "expected": "7d43380dca64e208673daccfb1899a4030e5be11b1fa8a42f8643256668d072f",
+      "actual": "7d43380dca64e208673daccfb1899a4030e5be11b1fa8a42f8643256668d072f",
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Runtime/Visuals/ToonCharacterStyle.cs",
+      "expected": "206e6a2d738685890d57505369f948c9b334d27b59927c6d570db41dfa9ab7fb",
+      "actual": "206e6a2d738685890d57505369f948c9b334d27b59927c6d570db41dfa9ab7fb",
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Art/SubcultureD15/CharacterHybridD15.shader",
+      "expected": "a841211530b0684dcb35ed1c5e8eb21b5998618cf8adc0955a158e3d1e0a2179",
+      "actual": "a841211530b0684dcb35ed1c5e8eb21b5998618cf8adc0955a158e3d1e0a2179",
+      "unchanged": true
+    }
+  ],
+  "allUnchanged": true
+}

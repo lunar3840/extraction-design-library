@@ -1,0 +1,30 @@
+{
+  "verifiedAt": "2026-10-29T20:08:32.6552436+09:00",
+  "allUnchanged": true,
+  "files": [
+    {
+      "path": "Assets/Escape/Art/BuildingD09/Shaders/D09WeatheredLit.shader",
+      "before": "1784f0bce404e28dbf5070b0bd51b71f7b7e581bb13c3b037dff18a850872fd6",
+      "after": "1784f0bce404e28dbf5070b0bd51b71f7b7e581bb13c3b037dff18a850872fd6",
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Art/BuildingD09/Shaders/D09LitInput.hlsl",
+      "before": "b8a8521d16b76902579b2b8ef393ded652354e2379f52c17b98ec43239772d7a",
+      "after": "b8a8521d16b76902579b2b8ef393ded652354e2379f52c17b98ec43239772d7a",
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Art/BuildingD09/Shaders/D09LitForwardPass.hlsl",
+      "before": "84a8b2e8d4eac0d0e8ffcc3c801501fdd9e6b6dff551cdc6997844a857d07e0b",
+      "after": "84a8b2e8d4eac0d0e8ffcc3c801501fdd9e6b6dff551cdc6997844a857d07e0b",
+      "unchanged": true
+    },
+    {
+      "path": "Assets/Escape/Art/BuildingD09/Shaders/D09Weathering.hlsl",
+      "before": "58ef6ddcfc90899fd6f0641ecf302138c6c3476a6497fb68e4b2422e52c3aaad",
+      "after": "58ef6ddcfc90899fd6f0641ecf302138c6c3476a6497fb68e4b2422e52c3aaad",
+      "unchanged": true
+    }
+  ]
+}

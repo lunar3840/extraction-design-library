@@ -1,0 +1,8 @@
+Controlled fixtures; NOT natural Stage A combat or player balance evidence.
+EXECUTED EnemyChecks success
+EXECUTED CombatChecks success
+EXECUTED EncounterCombat success
+EXECUTED FactionBehavior success
+EXECUTED MachineRoleCombat success
+EXECUTED ProductionHumanShotMultipliers success
+EXECUTED HumanHostileInterception success

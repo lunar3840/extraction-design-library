@@ -1,0 +1,66 @@
+STAGE_A_FACTORY_V12_NAVIGATION_DIAGNOSIS
+generatedUtc=2026-09-21T11:51:50.0101622Z
+scene=Assets/Escape/Scenes/StageA_Relay_Blockout_v08.unity
+factoryInteriorCollisionGroups=54
+barricadeRoot=present
+vehicleCollisionGroups=16
+
+[BASELINE_APPLIED] disabledGroups=0
+B1->X6 calculated=True status=PathPartial corners=18 path=427.83m terminal=(35.04, -0.39, -142.44) target=(59.00, 0.04, -189.00) remaining=52.37m
+B1->X7 calculated=True status=PathPartial corners=17 path=603.16m terminal=(220.96, 0.03, -169.47) target=(221.00, 0.03, -169.00) remaining=0.47m
+B2->X6 calculated=True status=PathComplete corners=14 path=485.08m terminal=(59.00, 0.04, -189.00) target=(59.00, 0.04, -189.00) remaining=0.00m
+B2->X7 calculated=True status=PathComplete corners=18 path=537.74m terminal=(221.00, 0.03, -169.00) target=(221.00, 0.03, -169.00) remaining=0.00m
+B3->X6 calculated=True status=PathComplete corners=18 path=457.17m terminal=(59.00, 0.04, -189.00) target=(59.00, 0.04, -189.00) remaining=0.00m
+B3->X7 calculated=True status=PathComplete corners=16 path=494.42m terminal=(221.00, 0.03, -169.00) target=(221.00, 0.03, -169.00) remaining=0.00m
+B4->X6 calculated=True status=PathComplete corners=13 path=347.89m terminal=(59.00, 0.04, -189.00) target=(59.00, 0.04, -189.00) remaining=0.00m
+B4->X7 calculated=True status=PathComplete corners=16 path=393.84m terminal=(221.00, 0.03, -169.00) target=(221.00, 0.03, -169.00) remaining=0.00m
+B1->MID INTERIOR_CLINIC calculated=True status=PathComplete corners=22 path=182.50m terminal=(-166.00, 4.05, 121.00) target=(-166.00, 4.05, 121.00) remaining=0.00m
+MID INTERIOR_CLINIC->X6 calculated=True status=PathPartial corners=38 path=526.46m terminal=(62.22, 0.03, -184.94) target=(59.00, 0.04, -189.00) remaining=5.18m
+MID INTERIOR_CLINIC->X7 calculated=True status=PathComplete corners=33 path=569.06m terminal=(221.00, 0.03, -169.00) target=(221.00, 0.03, -169.00) remaining=0.00m
+B1->MID INTERIOR_TOOLS calculated=True status=PathComplete corners=8 path=176.04m terminal=(-167.50, 1.05, 5.50) target=(-167.50, 1.05, 5.50) remaining=0.00m
+MID INTERIOR_TOOLS->X6 calculated=True status=PathComplete corners=19 path=427.16m terminal=(59.00, 0.04, -189.00) target=(59.00, 0.04, -189.00) remaining=0.00m
+MID INTERIOR_TOOLS->X7 calculated=True status=PathComplete corners=17 path=469.18m terminal=(221.00, 0.03, -169.00) target=(221.00, 0.03, -169.00) remaining=0.00m
+B1->MID INTERIOR_HALL calculated=True status=PathComplete corners=7 path=322.82m terminal=(0.00, 2.01, -5.00) target=(0.00, 2.01, -5.00) remaining=0.00m
+MID INTERIOR_HALL->X6 calculated=True status=PathComplete corners=12 path=274.73m terminal=(59.00, 0.04, -189.00) target=(59.00, 0.04, -189.00) remaining=0.00m
+MID INTERIOR_HALL->X7 calculated=True status=PathComplete corners=12 path=314.53m terminal=(221.00, 0.03, -169.00) target=(221.00, 0.03, -169.00) remaining=0.00m
+B1->MID INTERIOR_POWER calculated=True status=PathComplete corners=9 path=376.48m terminal=(128.50, 12.03, 107.00) target=(128.50, 12.03, 107.00) remaining=0.00m
+MID INTERIOR_POWER->X6 calculated=True status=PathComplete corners=16 path=366.85m terminal=(59.00, 0.04, -189.00) target=(59.00, 0.04, -189.00) remaining=0.00m
+MID INTERIOR_POWER->X7 calculated=True status=PathComplete corners=19 path=341.13m terminal=(221.00, 0.03, -169.00) target=(221.00, 0.03, -169.00) remaining=0.00m
+B1->MID INTERIOR_PARTS calculated=True status=PathComplete corners=15 path=486.76m terminal=(174.50, 3.03, -2.50) target=(174.50, 3.03, -2.50) remaining=0.00m
+MID INTERIOR_PARTS->X6 calculated=True status=PathComplete corners=17 path=285.75m terminal=(59.00, 0.04, -189.00) target=(59.00, 0.04, -189.00) remaining=0.00m
+MID INTERIOR_PARTS->X7 calculated=True status=PathComplete corners=14 path=200.38m terminal=(221.00, 0.03, -169.00) target=(221.00, 0.03, -169.00) remaining=0.00m
+B1->MID T1 calculated=True status=PathComplete corners=5 path=156.79m terminal=(-112.00, 4.04, 77.00) target=(-112.00, 4.04, 77.00) remaining=0.00m
+MID T1->X6 calculated=True status=PathComplete corners=19 path=414.22m terminal=(59.00, 0.04, -189.00) target=(59.00, 0.04, -189.00) remaining=0.00m
+MID T1->X7 calculated=True status=PathComplete corners=15 path=449.16m terminal=(221.00, 0.03, -169.00) target=(221.00, 0.03, -169.00) remaining=0.00m
+B1->MID T2 calculated=True status=PathComplete corners=7 path=378.37m terminal=(106.00, 7.06, 57.00) target=(106.00, 7.06, 57.00) remaining=0.00m
+MID T2->X6 calculated=True status=PathComplete corners=12 path=289.69m terminal=(59.00, 0.04, -189.00) target=(59.00, 0.04, -189.00) remaining=0.00m
+MID T2->X7 calculated=True status=PathComplete corners=8 path=266.81m terminal=(221.00, 0.03, -169.00) target=(221.00, 0.03, -169.00) remaining=0.00m
+B1->MID T3 calculated=True status=PathComplete corners=13 path=392.43m terminal=(62.00, 1.06, -67.00) target=(62.00, 1.06, -67.00) remaining=0.00m
+MID T3->X6 calculated=True status=PathComplete corners=9 path=170.52m terminal=(59.00, 0.04, -189.00) target=(59.00, 0.04, -189.00) remaining=0.00m
+MID T3->X7 calculated=True status=PathComplete corners=7 path=211.33m terminal=(221.00, 0.03, -169.00) target=(221.00, 0.03, -169.00) remaining=0.00m
+stateRestored=True
+
+[WITHOUT_FACTORY_INTERIOR_COLLISION] disabledGroups=54
+B1->X6 calculated=True status=PathComplete corners=17 path=563.80m terminal=(59.00, 0.04, -189.00) target=(59.00, 0.04, -189.00) remaining=0.00m
+B1->X7 calculated=True status=PathComplete corners=18 path=606.93m terminal=(221.00, 0.03, -169.00) target=(221.00, 0.03, -169.00) remaining=0.00m
+stateRestored=True
+
+[WITHOUT_RUSTY_BARRICADES] disabledGroups=1
+B1->X6 calculated=True status=PathPartial corners=16 path=429.48m terminal=(35.04, -0.39, -142.44) target=(59.00, 0.04, -189.00) remaining=52.37m
+B1->X7 calculated=True status=PathPartial corners=17 path=603.16m terminal=(220.96, 0.03, -169.47) target=(221.00, 0.03, -169.00) remaining=0.47m
+stateRestored=True
+
+[WITHOUT_RUSTY_VEHICLE_COLLISION] disabledGroups=16
+B1->X6 calculated=True status=PathPartial corners=16 path=436.97m terminal=(35.04, -0.39, -142.44) target=(59.00, 0.04, -189.00) remaining=52.37m
+B1->X7 calculated=True status=PathPartial corners=17 path=603.16m terminal=(220.96, 0.03, -169.47) target=(221.00, 0.03, -169.00) remaining=0.47m
+stateRestored=True
+
+[WITHOUT_ALL_NEW_COLLISION] disabledGroups=71
+B1->X6 calculated=True status=PathComplete corners=17 path=562.82m terminal=(59.00, 0.04, -189.00) target=(59.00, 0.04, -189.00) remaining=0.00m
+B1->X7 calculated=True status=PathComplete corners=18 path=606.93m terminal=(221.00, 0.03, -169.00) target=(221.00, 0.03, -169.00) remaining=0.00m
+stateRestored=True
+
+[RESTORED_BASELINE] disabledGroups=0
+B1->X6 calculated=True status=PathPartial corners=18 path=427.83m terminal=(35.04, -0.39, -142.44) target=(59.00, 0.04, -189.00) remaining=52.37m
+B1->X7 calculated=True status=PathPartial corners=17 path=603.16m terminal=(220.96, 0.03, -169.47) target=(221.00, 0.03, -169.00) remaining=0.47m
+stateRestored=True

@@ -1,0 +1,152 @@
+{
+  "master": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Edel_Fitted\\Edel_S4_Fitting_Master_r14.blend",
+  "original_source_preserve_volume_retained_in_master": true,
+  "native_body_coverage_counts": {
+    "original_polygons": 45631,
+    "worn_polygons": 31505
+  },
+  "gltf_validation_reference": "temporary native linear-skin evaluation because glTF does not encode Blender preserve-volume skin mode; native file is not changed",
+  "temporary_reference_objects_switched_to_linear": [
+    "Edel_S4_WornBody_OriginalUV",
+    "Face_Skin",
+    "Eyebrow_R",
+    "Eyebrow_L",
+    "Eyelashes_R",
+    "Eyelashes_L",
+    "Eyelid_Fold_R",
+    "Eyelid_Fold_L",
+    "Sclera_R",
+    "Sclera_L",
+    "Iris_R",
+    "Iris_L",
+    "Rest_Original",
+    "Edel_S4_Fitted_FingerlessGlove_L",
+    "Edel_S4_Fitted_FingerlessGlove_R",
+    "Edel_S4_ContactFit_LeftWristCuff",
+    "Edel_S4_ContactFit_ThighBand_0",
+    "Edel_S4_ThighBuckle_0",
+    "Edel_S4_ContactFit_ThighBand_1",
+    "Edel_S4_ThighBuckle_1",
+    "Edel_S4_Fitted_UpperFabric",
+    "Edel_S4_Fitted_Torso_HemBand",
+    "Edel_S4_Fitted_Seam_L_r11_Archive",
+    "Edel_S4_Fitted_Seam_R_r11_Archive",
+    "Edel_S4_Fitted_Underbust_Abdomen_r11_Archive",
+    "Edel_S4_Fitted_Underbust_LiningEdge_r11_Archive"
+  ],
+  "native_dual_quaternion_vs_linear_bounds_difference": {
+    "fitting": 5.960464477539063e-08,
+    "arm_flex": 1.6391277313232422e-07,
+    "knee_step": 0.00019728019833564758,
+    "left_knee_step": 0.0008007287979125977,
+    "hand_curl": 8.58008861541748e-05,
+    "torso_turn": 1.6391277313232422e-07
+  },
+  "exports": [
+    {
+      "file": "Edel_S4_Fitted_Skinned_r14.glb",
+      "bytes": 9393180,
+      "sha256": "dd9fcfb2b1808f453422b0c99ae58ef2c1bac23c38379c735393b12620c95730",
+      "mesh_count": 50,
+      "bone_count": 52,
+      "importer_generated_hidden_bone_display_helpers": [
+        "Icosphere"
+      ],
+      "missing_meshes": [],
+      "unexpected_meshes": [],
+      "poses": [
+        {
+          "pose": "fitting",
+          "max_world_bounds_axis_error": 2.384185791015625e-07,
+          "passed": true
+        },
+        {
+          "pose": "arm_flex",
+          "max_world_bounds_axis_error": 1.6391277313232422e-07,
+          "passed": true
+        },
+        {
+          "pose": "knee_step",
+          "max_world_bounds_axis_error": 2.384185791015625e-07,
+          "passed": true
+        },
+        {
+          "pose": "left_knee_step",
+          "max_world_bounds_axis_error": 1.817941665649414e-06,
+          "passed": true
+        },
+        {
+          "pose": "hand_curl",
+          "max_world_bounds_axis_error": 2.384185791015625e-07,
+          "passed": true
+        },
+        {
+          "pose": "torso_turn",
+          "max_world_bounds_axis_error": 2.086162567138672e-07,
+          "passed": true
+        }
+      ],
+      "passed": true
+    },
+    {
+      "file": "Edel_S4_Character_Fitted_r14.glb",
+      "bytes": 23011192,
+      "sha256": "4990d3ec57a30dd945fdee1079fa5526e895a5040d7fb1c9470aea50f207a015",
+      "mesh_count": 63,
+      "bone_count": 52,
+      "importer_generated_hidden_bone_display_helpers": [
+        "Icosphere"
+      ],
+      "missing_meshes": [],
+      "unexpected_meshes": [],
+      "poses": [
+        {
+          "pose": "fitting",
+          "max_world_bounds_axis_error": 2.384185791015625e-07,
+          "passed": true
+        },
+        {
+          "pose": "arm_flex",
+          "max_world_bounds_axis_error": 1.6391277313232422e-07,
+          "passed": true
+        },
+        {
+          "pose": "knee_step",
+          "max_world_bounds_axis_error": 2.384185791015625e-07,
+          "passed": true
+        },
+        {
+          "pose": "left_knee_step",
+          "max_world_bounds_axis_error": 1.817941665649414e-06,
+          "passed": true
+        },
+        {
+          "pose": "hand_curl",
+          "max_world_bounds_axis_error": 2.384185791015625e-07,
+          "passed": true
+        },
+        {
+          "pose": "torso_turn",
+          "max_world_bounds_axis_error": 2.086162567138672e-07,
+          "passed": true
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "input_sha256_after": [
+    {
+      "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\work\\equipment-fitting-20261102\\Edel_BASE.blend",
+      "sha256": "b315833e6a6ef5b86bd13499f85570aa9b7d46cd6b3eaf6827e20fe49d0b5c31"
+    },
+    {
+      "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-10-30\\Edel_Serin_Equipment_Art_Handoff\\01_MODELS\\Edel\\AUTHORING\\Edel_ImportReady.blend",
+      "sha256": "d57e7f6c0b1c4d8c67a7a08e05d0353a8a9701889a746e5f4433273d6696e64e"
+    },
+    {
+      "path": "C:\\Users\\ehoji\\OneDrive\\문서\\ChatGPT\\익스트랙션\\outputs\\handoffs\\2026-11-02\\S4_Tripo_Multiview_Pilot\\Source\\S4_Maintenance_Multiview_Textured_r1.glb",
+      "sha256": "be5aea91f2f8254d214ea08e3feb3aa57fd9e1461cf8d4ea11296aeb027ae903"
+    }
+  ],
+  "passed": true
+}

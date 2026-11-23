@@ -1,0 +1,75 @@
+STAGE_A_LANDSCAPE_V31_ACTUAL_PLAYER_MOTOR
+startedUtc=2026-10-01T15:18:48.5929811Z
+11 lanes: A north/south ends and saddle, two B and C bypasses, D from both sides, west/east bridges
+actual PlayerMotor.Simulate with enabled CharacterController; existing enemies frozen
+LANE A_north_end_bypass start=(-115.00, 6.01, 110.00) goal=(91.00, 6.68, 61.00) pathCorners=15
+camera=A_north_end_bypass_start viewport=(0.472, 0.701, 19.304) massRayBlocks head=False chest=False feet=False
+capture=A_north_end_bypass_start
+PASS A_north_end_bypass steps=2356 end=(90.82, 6.61, 61.60) elapsed=5.1s
+camera=A_north_end_bypass_end viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=A_north_end_bypass_end
+LANE A_south_end_bypass start=(-96.00, 7.08, 117.00) goal=(91.00, 6.68, 61.00) pathCorners=12
+camera=A_south_end_bypass_start viewport=(0.580, 0.701, 19.300) massRayBlocks head=False chest=False feet=False
+capture=A_south_end_bypass_start
+PASS A_south_end_bypass steps=1594 end=(90.41, 6.59, 61.00) elapsed=3.3s
+camera=A_south_end_bypass_end viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=A_south_end_bypass_end
+LANE S_saddle start=(-67.00, 8.47, 82.00) goal=(-11.00, 9.49, 138.00) pathCorners=5
+camera=S_saddle_start viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=S_saddle_start
+S midpoint entered map=(218.17, 92.83); waiting for game-camera follow before capture
+camera=S_saddle_mid viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=S_saddle_mid
+PASS S_saddle steps=590 end=(-11.37, 9.42, 137.63) elapsed=4.2s
+camera=S_saddle_end viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=S_saddle_end
+LANE B_north_bypass start=(-115.00, 1.40, 18.00) goal=(-53.00, 2.47, 33.00) pathCorners=7
+camera=B_north_bypass_start viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=B_north_bypass_start
+PASS B_north_bypass steps=898 end=(-53.02, 2.42, 33.57) elapsed=2.3s
+camera=B_north_bypass_end viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=B_north_bypass_end
+LANE B_south_bypass start=(-115.00, 1.40, 18.00) goal=(-69.00, 1.46, -29.00) pathCorners=7
+camera=B_south_bypass_start viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=B_south_bypass_start
+PASS B_south_bypass steps=607 end=(-69.50, 1.40, -29.20) elapsed=2.1s
+camera=B_south_bypass_end viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=B_south_bypass_end
+LANE C_north_bypass start=(50.00, 2.16, -5.00) goal=(135.00, 2.72, -31.00) pathCorners=9
+camera=C_north_bypass_start viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=C_north_bypass_start
+PASS C_north_bypass steps=1497 end=(134.95, 2.68, -30.38) elapsed=2.9s
+camera=C_north_bypass_end viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=C_north_bypass_end
+LANE C_south_bypass start=(50.00, 2.16, -5.00) goal=(135.00, 2.72, -31.00) pathCorners=7
+camera=C_south_bypass_start viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=C_south_bypass_start
+PASS C_south_bypass steps=777 end=(134.77, 2.65, -31.52) elapsed=2.1s
+camera=C_south_bypass_end viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=C_south_bypass_end
+LANE D_west_approach start=(53.00, 0.06, -91.00) goal=(89.00, 0.06, -93.00) pathCorners=4
+camera=D_west_approach_start viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=D_west_approach_start
+PASS D_west_approach steps=297 end=(88.42, 0.03, -93.14) elapsed=1.5s
+camera=D_west_approach_end viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=D_west_approach_end
+LANE D_east_approach start=(89.00, 1.81, -49.00) goal=(89.00, 0.06, -93.00) pathCorners=4
+camera=D_east_approach_start viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=D_east_approach_start
+PASS D_east_approach steps=343 end=(89.08, 0.03, -92.47) elapsed=1.7s
+camera=D_east_approach_end viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=D_east_approach_end
+LANE west_bridge start=(89.00, 0.06, -93.00) goal=(116.00, 0.06, -157.00) pathCorners=2
+camera=west_bridge_start viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=west_bridge_start
+PASS west_bridge steps=517 end=(115.79, 0.02, -156.51) elapsed=1.7s
+camera=west_bridge_end viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=west_bridge_end
+LANE east_bridge start=(203.00, 1.02, -117.00) goal=(190.00, 1.02, -60.00) pathCorners=2
+camera=east_bridge_start viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=east_bridge_start
+PASS east_bridge steps=434 end=(190.13, 1.02, -60.58) elapsed=1.7s
+camera=east_bridge_end viewport=(0.500, 0.705, 19.374) massRayBlocks head=False chest=False feet=False
+capture=east_bridge_end
+successes=11 failures=0 expected=11
+RESULT PASS

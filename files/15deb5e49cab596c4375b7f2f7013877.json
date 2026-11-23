@@ -1,0 +1,43 @@
+{
+    "phase": "after",
+    "status": "SUPPLEMENT_CAPTURED_VISUAL_REVIEW_REQUIRED",
+    "error": "",
+    "startedUtc": "2026-10-29T17:59:20.5893497Z",
+    "finishedUtc": "2026-10-29T17:59:24.1944481Z",
+    "store": "C:\\Users\\ehoji\\AppData\\Local\\Temp\\DefaultCompany\\escape\\StageMapPreview\\e3268c5e845f49c98148bd31d7372a8a\\slot-1.json",
+    "temporarySave": true,
+    "retainedRuntimeMap": true,
+    "controlledAI": true,
+    "views": [
+        {
+            "id": "CLINIC_true_exterior",
+            "status": "CAPTURED_REVIEW_REQUIRED",
+            "error": "",
+            "requested": "(-166.0000, 4.5211, 155.0000)",
+            "sampled": "(-166.0000, 4.5981, 155.0000)",
+            "player": "(-166.0000, 4.6381, 155.0000)",
+            "camera": "(-158.0000, 17.0000, 167.0000)",
+            "gameImage": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/a-map-large-building-ivy/staging/validation\\play_after_supplement\\after_play_game_CLINIC_true_exterior.png",
+            "cameraImage": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/a-map-large-building-ivy/staging/validation\\play_after_supplement\\after_play_camera_CLINIC_true_exterior.png",
+            "gameExists": true,
+            "cameraExists": true,
+            "horizontalSampleMetres": 0.0,
+            "verticalSampleMetres": 0.07695245742797852
+        },
+        {
+            "id": "SW_vehicle_close",
+            "status": "CAPTURED_REVIEW_REQUIRED",
+            "error": "",
+            "requested": "(-180.0000, 0.0129, -90.0000)",
+            "sampled": "(-180.0000, 0.0600, -90.0000)",
+            "player": "(-180.0000, 0.1000, -90.0000)",
+            "camera": "(-172.0000, 11.0000, -108.0000)",
+            "gameImage": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/a-map-large-building-ivy/staging/validation\\play_after_supplement\\after_play_game_SW_vehicle_close.png",
+            "cameraImage": "C:/Users/ehoji/OneDrive/문서/ChatGPT/익스트랙션/outputs/change_records/2026-10-30/a-map-large-building-ivy/staging/validation\\play_after_supplement\\after_play_camera_SW_vehicle_close.png",
+            "gameExists": true,
+            "cameraExists": true,
+            "horizontalSampleMetres": 0.0,
+            "verticalSampleMetres": 0.047053590416908267
+        }
+    ]
+}

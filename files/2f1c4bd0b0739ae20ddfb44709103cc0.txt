@@ -1,0 +1,40 @@
+PASS body damage
+PASS head multiplier
+PASS ammo and head multiplication
+PASS ammo multiplier clamp
+PASS invalid damage rejected -1
+PASS invalid damage rejected 0
+PASS invalid damage rejected NaN
+PASS invalid damage rejected Infinity
+PASS actual damage result
+PASS same hit ID cannot double apply across body/head
+PASS overkill clamped and death event once
+PASS dead target cannot die twice
+PASS protected target no damage
+PASS blocked hit cannot replay after protection ends
+PASS empty hit ID rejected
+PASS player roll setup
+PASS roll protects shared player HP
+PASS roll tail protects shared player HP
+PASS damage after protection expiry
+PASS BaseCamp combat protection
+PASS tutorial combat damage allowed
+PASS living player can fire
+PASS inventory blocks fire
+PASS menu blocks fire
+PASS input lock blocks fire
+PASS rolling blocks fire
+PASS dead player blocks fire
+PASS hitscan nearest body; self and triggers ignored
+PASS no penetration into rear target
+PASS head collider shares body health
+PASS range limit
+PASS thin wall blocks damage
+PASS muzzle beyond wall still blocked
+PASS embedded ray origin fails closed
+PASS dummy death feedback once
+PASS dead target solid and no repeated kill
+PASS explicit test target reset
+PASS protected hit reports zero actual damage
+PASS zero direction rejected
+PASS nonfinite ray rejected

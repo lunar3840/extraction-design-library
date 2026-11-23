@@ -1,0 +1,8 @@
+V22 effect isolation at identical camera/light/exposure. Full vs ParallaxDepth=0 isolates UV motion, not merely interior brightness; full vs ReflectionStrength=0 isolates cubemap reflection.
+frontal parallax mean8bitRGB=0.16982 pixelsDelta>=3=43743 maxChannelDelta=20
+frontal reflection mean8bitRGB=0.42297 pixelsDelta>=3=121516 maxChannelDelta=24
+left parallax mean8bitRGB=0.14810 pixelsDelta>=3=37451 maxChannelDelta=21
+left reflection mean8bitRGB=0.36123 pixelsDelta>=3=106740 maxChannelDelta=24
+right parallax mean8bitRGB=0.14154 pixelsDelta>=3=36837 maxChannelDelta=22
+right reflection mean8bitRGB=0.34008 pixelsDelta>=3=93243 maxChannelDelta=26
+All temporary property overrides restored; numeric differences alone are not visual approval.
