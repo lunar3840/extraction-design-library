@@ -1,0 +1,31 @@
+WALK CHECKS BEFORE (current map, current navigation)
+  B2->hall west: PathComplete length=183m straight=178m corners=7
+  B1->clinic door side: PathComplete length=199m straight=126m corners=17
+  B3->housing east: PathComplete length=186m straight=163m corners=17
+  main->north road: PathComplete length=249m straight=232m corners=12
+  main->housing: PathComplete length=185m straight=143m corners=12
+  north strip->old main road: PathComplete length=146m straight=130m corners=10
+  housing east->B4: PathComplete length=94m straight=93m corners=5
+  CLINIC new site (99,54) colliders from above: 4.03:LandSurface_00
+  CLINIC old site (94,79) colliders from above: 4.00:Floor_Collision | 4.00:Floor_Collision | 3.68:LandSurface_00
+  CLINIC walk street->interior anchor plan(94,79) floorY=4.02: PathComplete length=168m
+  TOOLS new site (40,196) colliders from above: 1.12:WalkableFloor | 0.70:LandSurface_04
+  TOOLS old site (93,195) colliders from above: 1.00:Floor_Collision | 0.68:LandSurface_04
+  TOOLS walk street->interior anchor plan(93,195) floorY=1.02: PathComplete length=85m
+  road main_street: centre points on walkable ground 28/32 blocked near (115,162) (121,162) (127,162) (132,161)
+  road main_joint_east: centre points on walkable ground 4/4
+  road west_ns: centre points on walkable ground 27/27
+  road north_road: centre points on walkable ground 45/45
+  road campus_east_ns: centre points on walkable ground 25/25
+  road b1_road: centre points on walkable ground 10/10
+  road hall_west_ns: centre points on walkable ground 23/23
+  road housing_north: centre points on walkable ground 29/30 blocked near (123,274)
+  road housing_east: centre points on walkable ground 17/17
+  road south_joint_east: centre points on walkable ground 4/4
+  road 복지·관리 단지_lane0: centre points on walkable ground 23/26 blocked near (176,51) (182,51) (188,51)
+  road 복지·관리 단지_lane1: centre points on walkable ground 33/36 blocked near (173,83) (178,83) (232,83)
+  road 작업장 거리_lane2: centre points on walkable ground 26/26
+  road 작업장 거리_lane3: centre points on walkable ground 26/26
+  road 사택 마을_lane4: centre points on walkable ground 26/26
+  road 사택 마을_lane5: centre points on walkable ground 26/26
+  road 복지·관리 단지_clinic_side: centre points on walkable ground 11/11
