@@ -1,0 +1,122 @@
+WEST REPLAN V4 APPLY (Play session only)
+knolls: TW1, TE1, TE2, TF1 raised as ground (828 vertices); prisms removed: TN1, TN2, TN3, TW1, TW2, TE1, TE2, TS1, TS2, TF1
+heights: changedVertices=25157 maxDelta=2.71m maxSlopeBetweenChangedVertices=54.9deg maxRoadCentreSlope=7.0deg
+  pad CLINIC level=4.15 (ground there before 4.03)
+  pad N01 level=6.30 (ground there before 6.74)
+  pad N02 level=6.55 (ground there before 6.38)
+  pad N03 level=7.15 (ground there before 7.19)
+  pad N04 level=7.75 (ground there before 7.72)
+  pad N05 level=8.35 (ground there before 9.26)
+  pad N06 level=6.75 (ground there before 6.59)
+  pad N07 level=7.35 (ground there before 7.56)
+  pad N08 level=7.95 (ground there before 8.27)
+  pad N09 level=8.55 (ground there before 8.98)
+  pad N10 level=8.90 (ground there before 9.44)
+  pad N11 level=4.50 (ground there before 3.84)
+  pad N12 level=5.10 (ground there before 4.06)
+  pad N13 level=5.70 (ground there before 5.77)
+  pad N14 level=6.30 (ground there before 8.06)
+  pad N15 level=6.90 (ground there before 8.18)
+  pad N16 level=7.50 (ground there before 7.21)
+  pad N17 level=7.90 (ground there before 7.72)
+  pad TOOLS level=0.80 (ground there before 0.70)
+  pad W01 level=0.90 (ground there before 0.87)
+  pad W02 level=0.90 (ground there before 0.68)
+  pad W03 level=1.15 (ground there before 1.07)
+  pad W04 level=1.40 (ground there before 1.28)
+  pad W05 level=0.35 (ground there before 0.38)
+  pad W06 level=0.40 (ground there before 0.29)
+  pad W07 level=0.65 (ground there before 0.44)
+  pad W08 level=0.95 (ground there before 1.00)
+  pad W09 level=1.20 (ground there before 1.10)
+  pad W10 level=0.20 (ground there before 0.24)
+  pad W11 level=0.30 (ground there before 0.28)
+  pad S01 level=0.00 (ground there before 0.00)
+  pad S02 level=0.05 (ground there before 0.00)
+  pad S03 level=0.10 (ground there before 0.09)
+  pad S04 level=0.05 (ground there before 0.04)
+  pad S05 level=0.00 (ground there before 0.00)
+  pad S06 level=0.05 (ground there before 0.01)
+  pad S07 level=0.05 (ground there before 0.08)
+  pad S08 level=0.10 (ground there before 0.22)
+  pad S09 level=0.15 (ground there before 0.19)
+  pad S10 level=0.00 (ground there before 0.00)
+  pad S11 level=0.10 (ground there before 0.02)
+  pad S12 level=0.10 (ground there before 0.11)
+rock-cut prisms hidden: 10
+block pilot: cut triangles=0 walls=61 props=52 solids=223 created=238 hidden=20
+primary CLINIC: 27 roots -> CLINIC, ROOF_CLINIC, DOOR_C1, DOOR_C2, INTERIOR_CLINIC, CLINIC__Collision, ROOF_CLINIC__Collision, DOOR_C1__Collision, DOOR_C2__Collision, INTERIOR_CLINIC__Collision, CLINIC__Visual, DOOR_C1__Visual, DOOR_C2__Visual, INTERIOR_CLINIC__Visual, ROOF_CLINIC__Visual, D08_TripoRef_CLINIC_T01, D08_TripoRef_CLINIC_T02, CORE_G1, DOOR_G1_CORE, G1, CORE_G1__Collision, DOOR_G1_CORE__Collision, G1__Collision, CORE_G1__Visual, DOOR_G1_CORE__Visual, Override_G1, V16_Clinic
+primary TOOLS: 21 roots -> TOOLS, ROOF_TOOLS, DOOR_TOOL, INTERIOR_TOOLS, TOOLS__Collision, ROOF_TOOLS__Collision, DOOR_TOOL__Collision, INTERIOR_TOOLS__Collision, TOOLS__Visual, DOOR_TOOL__Visual, INTERIOR_TOOLS__Visual, ROOF_TOOLS__Visual, D08_TripoRef_TOOLS_T05, D08_TripoRef_TOOLS_T06, V16_WestWorkshop, WP_00, WP_01, WP_00, WP_01, WP_00, WP_01
+old pieces: hidden=415 heightShifted=306 reshapedLargeMeshes=1317 grassTrianglesCut=2361958
+  01_Collision_Replaceable_Separately: hidden=0 heightShifted=1 reshapedMeshes=0
+  02_Visual_Replaceable: hidden=0 heightShifted=10 reshapedMeshes=0
+  StageA_Environment_v09: hidden=52 heightShifted=42 reshapedMeshes=23
+  FactoryV12_RustyBarricades: hidden=4 heightShifted=0 reshapedMeshes=0
+  EnclosuresV33_ConnectedFacilities: hidden=31 heightShifted=10 reshapedMeshes=0
+  WestD02_FunctionalYard: hidden=22 heightShifted=4 reshapedMeshes=0
+  OutdoorD03_ObstacleClusters: hidden=3 heightShifted=1 reshapedMeshes=0
+  TripoD06_Placements: hidden=4 heightShifted=0 reshapedMeshes=0
+  D08_TripoProps: hidden=9 heightShifted=0 reshapedMeshes=0
+  D11_Vegetation: hidden=57 heightShifted=81 reshapedMeshes=196
+  D14_Vegetation: hidden=180 heightShifted=140 reshapedMeshes=1094
+  BlenderExpansion_Outdoor_FactoryV12_RustyBarricades: hidden=4 heightShifted=0 reshapedMeshes=0
+  BlenderExpansion_Outdoor_OutdoorD03_ObstacleClusters: hidden=34 heightShifted=13 reshapedMeshes=0
+  BlenderExpansion_Outdoor_WestD02_FunctionalYard: hidden=15 heightShifted=4 reshapedMeshes=0
+  __A34_MapExtraIntertwinedIvy: hidden=0 heightShifted=0 reshapedMeshes=4
+old-road puddle / fragment sheets cut inside the region: 32
+  CLINIC plan(94.0,79.0) -> (99.0,54.0) yaw 0 floor 4.00 -> 4.15 roots=27
+  N01 (-220.0, 3.7, 165.0) -> (-105.5, 6.3, 163.0) yaw 0
+  N02 (-223.0, 2.4, 109.0) -> (-78.5, 6.6, 163.0) yaw 90
+  N03 (-115.0, 6.6, 146.0) -> (-50.5, 7.2, 163.0) yaw 0
+  N04 (-85.0, 8.2, 116.0) -> (-23.5, 7.8, 163.0) yaw 90
+  N05 (-157.0, 3.7, 72.0) -> (4.5, 8.4, 163.0) yaw 0
+  N06 (-191.0, 3.0, 64.0) -> (-105.5, 6.8, 134.5) yaw 0
+  N07 (-68.0, 8.2, 96.0) -> (-80.0, 7.4, 134.5) yaw 0
+  N08 (-74.0, 8.2, 145.0) -> (-56.0, 8.0, 134.5) yaw 0
+  N09 (-29.0, 9.3, 128.0) -> (-26.5, 8.6, 134.5) yaw 0
+  N10 (10.0, 7.8, 110.0) -> (5.5, 8.9, 134.5) yaw 0
+  N11 (46.0, 9.0, 92.0) -> (-166.5, 4.5, 99.0) yaw 0
+  N12 (72.0, 9.0, 119.0) -> (-139.5, 5.1, 99.0) yaw 90
+  N13 (19.0, 9.3, 161.0) -> (-108.0, 5.7, 99.0) yaw 0
+  N14 (68.0, 9.0, 85.0) -> (-81.0, 6.3, 99.0) yaw 0
+  N15 (-52.0, 8.6, 76.0) -> (-54.5, 6.9, 99.0) yaw 0
+  N16 (-11.0, 3.4, 59.0) -> (-23.5, 7.5, 99.0) yaw 0
+  N17 (35.0, 6.7, 53.0) -> (2.5, 7.9, 99.0) yaw 0
+  TOOLS plan(92.5,194.5) -> (40.1,196.5) yaw -3 floor 1.00 -> 0.80 roots=21
+  W01 (-214.0, 2.4, 50.0) -> (-193.5, 0.9, 4.9) yaw -3
+  W02 (-181.0, 1.9, 39.0) -> (-165.5, 0.9, 6.4) yaw -3
+  W03 (-136.0, 2.9, 42.0) -> (-137.1, 1.2, 7.9) yaw -3
+  W04 (-99.0, 2.3, 31.0) -> (-108.6, 1.4, 9.4) yaw 87
+  W05 (-132.0, 1.7, 9.0) -> (-218.0, 0.4, -33.4) yaw -3
+  W06 (-79.0, 1.8, -17.0) -> (-188.5, 0.4, -31.9) yaw 87
+  W07 (-99.0, 1.4, -37.0) -> (-160.6, 0.7, -30.4) yaw -3
+  W08 (-183.0, 0.5, -35.0) -> (-130.6, 1.0, -28.9) yaw -3
+  W09 (-213.0, 1.1, 11.0) -> (-102.2, 1.2, -27.4) yaw 87
+  W10 (-140.0, 1.0, -46.0) -> (-170.9, 0.2, -63.5) yaw -3
+  W11 (-84.0, 5.3, 77.0) -> (-146.4, 0.3, -62.2) yaw 87
+  S01 (-207.0, 0.1, -71.0) -> (-219.2, 0.0, -88.8) yaw 4
+  S02 (-172.0, 0.1, -79.0) -> (-190.3, 0.1, -90.9) yaw 4
+  S03 (-142.0, 0.2, -74.0) -> (-163.4, 0.1, -92.8) yaw 4
+  S04 (-112.0, 0.1, -83.0) -> (-138.4, 0.1, -94.5) yaw 4
+  S05 (-211.0, 0.2, -124.0) -> (-110.0, 0.0, -96.5) yaw 4
+  S06 (-174.0, 0.3, -118.0) -> (-221.6, 0.1, -115.8) yaw 4
+  S07 (-145.0, 0.3, -109.0) -> (-195.7, 0.1, -117.6) yaw 94
+  S08 (-145.0, 0.2, -147.0) -> (-169.2, 0.1, -119.4) yaw 4
+  S09 (-196.0, 0.2, -157.0) -> (-140.3, 0.2, -121.4) yaw 4
+  S10 (-105.0, 0.2, -160.0) -> (-110.9, 0.0, -123.5) yaw 4
+  S11 (-81.0, 0.4, -95.0) -> (-176.2, 0.1, -146.5) yaw 94
+  S12 (-52.0, 0.0, -111.0) -> (-153.2, 0.1, -148.1) yaw 4
+ground: landTilesReshaped=13 roadOverlayTilesReshaped=28 (runtime mesh copies; mesh assets untouched)
+masks: route=Assets/Escape/Art/OutdoorD03/D03_CombinedRouteMask.asset users=32 | surface=Assets/Escape/Art/OutdoorD11/Roads/D11_SurfaceMask.asset users=32 | repaintedPixels=401998 runtimeMaterialCopies=3 (asset textures and materials untouched)
+structures: wallPieces=120 closedGates=2 channelWater=True bankGuards=14 (runtime objects only)
+encounter points: total=627 movedWithBuilding=14 movedToV4Pocket=256 nudgedOffBuildingsOrWater=59 regrounded=245
+loot anchors that travelled with their buildings: 40
+  marker B1 plan(20,55) -> (9,70)
+  marker B2 plan(18,200) -> (9,172)
+  marker B3 plan(29,302) -> (9,280)
+  marker B4 plan(141,329) -> (151,376)
+  marker R1 plan(152,43) -> (161,48)
+  marker X3 plan(91,343) -> (88,334)
+navigation rebuilt for this Play session in 1.2s
+encounter points snapped onto walkable ground after the rebuild: 12 (no walkable ground within 12 m: 0)
+moved=42 notFound=0 oldPiecesHidden=415 heightShifted=306 landTiles=13 roadOverlayTiles=28
