@@ -1,0 +1,11 @@
+control_01 (pilot off, captured 2026-11-24 08:58 with StageASwBlockPilotPlay) vs before_01 (copied from the 2026-11-24 building review captures_01)
+Same stands, same camera formula.
+S01_exterior: pixels differing by more than 8/255 = 0.025 %
+S01_interior: pixels differing by more than 8/255 = 0.083 %
+S01_wide: pixels differing by more than 8/255 = 0.647 %
+S02_exterior: pixels differing by more than 8/255 = 0.034 %
+S02_interior: pixels differing by more than 8/255 = 0.053 %
+S02_wide: pixels differing by more than 8/255 = 0.527 %
+S06_exterior: pixels differing by more than 8/255 = 0.017 %
+S06_interior: pixels differing by more than 8/255 = 0.382 %
+S06_wide: pixels differing by more than 8/255 = 1.055 %

@@ -1,0 +1,24 @@
+SW RUINS BLOCK PILOT CAPTURE mode=after
+METHOD: actual Stage A play session, current look, player teleported; exterior/interior = regular TopDownCamera framing 1600x1000; wide = same view direction pulled back. Stands and wide focus are computed from the ORIGINAL buildings before the pilot is applied, so control and after share one camera.
+NOTE entered runtime map prefab directly without encounters/loot (pre-existing preview issue). map=A_Blockout__Partially_Flooded_Maintenance_District
+buildings=3 shots=18
+PILOT APPLIED: cut triangles=44283 walls=41 props=21 solids=131 created=155 hidden=11
+CAPTURED S01_exterior stand=(-204.4, 0.1, -58.9) player=(-204.4, 0.1, -58.9)
+CAPTURED S01_interior stand=(-207.0, 0.1, -71.0) player=(-207.0, 0.1, -71.0)
+CAPTURED S01_wide stand=(-204.4, 0.1, -58.9) player=(-204.4, 0.1, -58.9) focus=(-207.0, 3.2, -70.6) wide=x1.6
+CAPTURED S01_room stand=(-206.1, 0.1, -67.7) player=(-206.1, 0.1, -67.7)
+CAPTURED S01_lockers stand=(-215.0, 0.1, -74.8) player=(-215.0, 0.1, -74.8)
+CAPTURED S02_exterior stand=(-173.2, 0.2, -67.7) player=(-173.2, 0.1, -67.7)
+CAPTURED S02_interior stand=(-172.0, 0.2, -79.0) player=(-172.0, 0.2, -79.0)
+CAPTURED S02_wide stand=(-173.2, 0.2, -67.7) player=(-173.2, 0.1, -67.7) focus=(-171.9, 3.2, -79.0) wide=x1.6
+CAPTURED S02_kitchen stand=(-164.0, 0.2, -73.1) player=(-164.0, 0.2, -73.1)
+CAPTURED S02_hall stand=(-181.0, 0.2, -75.7) player=(-181.0, 0.2, -75.7)
+CAPTURED S06_exterior stand=(-171.6, 0.2, -105.8) player=(-171.6, 0.1, -105.8)
+CAPTURED S06_interior stand=(-174.0, 0.4, -118.0) player=(-174.0, 0.3, -118.0)
+CAPTURED S06_wide stand=(-171.6, 0.2, -105.8) player=(-171.6, 0.1, -105.8) focus=(-174.0, 3.3, -118.0) wide=x1.6
+CAPTURED S06_storage stand=(-180.0, 0.4, -122.5) player=(-180.0, 0.3, -122.5)
+CAPTURED S06_shop stand=(-169.9, 0.4, -115.5) player=(-169.9, 0.3, -115.5)
+CAPTURED yard stand=(-180.8, 0.1, -97.3) player=(-180.8, 0.0, -97.3)
+CAPTURED block_wide stand=(-180.8, 0.1, -97.3) player=(-180.8, 0.0, -97.3) focus=(-186.0, 3.0, -96.0) wide=x3.4
+CAPTURED block_close stand=(-180.8, 0.1, -97.3) player=(-180.8, 0.0, -97.3) focus=(-183.0, 2.0, -96.0) wide=x2.2
+RESULT COMPLETE captured=18

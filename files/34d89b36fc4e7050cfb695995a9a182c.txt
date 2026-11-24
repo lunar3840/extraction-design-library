@@ -1,0 +1,25 @@
+SW block pilot
+  prop bunk_bed mesh=7330v size (1.00, 0.78, 0.52) texture=2048px
+  prop gondola_shelf mesh=6471v size (0.40, 1.00, 0.86) texture=2048px
+  prop machine_nest mesh=8241v size (0.92, 0.56, 1.00) texture=2048px
+  rubble source=Debris01_1
+  visual parent scale (1.55, 1.00, 1.80) -> pilot root lossy (1.000, 1.000, 1.000)
+BUILDING S01
+  visual parent scale (1.99, 1.00, 1.61) -> pilot root lossy (1.000, 1.000, 1.000)
+BUILDING S02
+  visual parent scale (1.70, 1.00, 1.80) -> pilot root lossy (1.000, 1.000, 1.000)
+BUILDING S06
+  DIAG Pilot_Prop_Bunk parent=PilotSW_S01 lp=(-2.75, 0.04, 5.20) ls=(2.00, 2.00, 2.00) lossy=(2.00, 2.00, 2.00) meshC=(0.0, 0.4, 0.0) meshS=(1.0, 0.8, 0.5) worldC=(-208.6, 0.9, -65.3) worldS=(1.4, 1.6, 2.2) static=False batched=False
+  DIAG Pilot_Prop_Bunk parent=PilotSW_S01 lp=(2.75, 0.04, 4.60) ls=(2.00, 2.00, 2.00) lossy=(2.00, 2.00, 2.00) meshC=(0.0, 0.4, 0.0) meshS=(1.0, 0.8, 0.5) worldC=(-203.4, 0.9, -67.1) worldS=(1.4, 1.6, 2.2) static=False batched=False
+  DIAG Pilot_Prop_Bunk parent=PilotSW_S01 lp=(2.60, 0.04, 7.60) ls=(2.00, 2.00, 2.00) lossy=(2.00, 2.00, 2.00) meshC=(0.0, 0.4, 0.0) meshS=(1.0, 0.8, 0.5) worldC=(-202.9, 0.9, -64.1) worldS=(1.0, 1.6, 2.0) static=False batched=False
+  DIAG Pilot_Prop_Bunk parent=PilotSW_S01 lp=(9.75, 0.04, 6.60) ls=(2.00, 2.00, 2.00) lossy=(2.00, 2.00, 2.00) meshC=(0.0, 0.4, 0.0) meshS=(1.0, 0.8, 0.5) worldC=(-196.1, 0.9, -66.6) worldS=(1.4, 1.6, 2.2) static=False batched=False
+  DIAG Pilot_Prop_Bunk parent=PilotSW_S01 lp=(9.75, 0.04, 3.40) ls=(2.00, 2.00, 2.00) lossy=(2.00, 2.00, 2.00) meshC=(0.0, 0.4, 0.0) meshS=(1.0, 0.8, 0.5) worldC=(-196.8, 0.9, -69.7) worldS=(1.4, 1.6, 2.2) static=False batched=False
+  DIAG Pilot_Prop_Bunk parent=PilotSW_S01 lp=(4.40, 0.04, 4.40) ls=(2.00, 2.00, 2.00) lossy=(2.00, 2.00, 2.00) meshC=(0.0, 0.4, 0.0) meshS=(1.0, 0.8, 0.5) worldC=(-201.8, 0.9, -67.6) worldS=(1.4, 1.6, 2.2) static=False batched=False
+  DIAG Pilot_Exterior_S01 parent=PilotSW_S01 lp=(0.00, 0.00, 0.00) ls=(1.00, 1.00, 1.00) lossy=(1.00, 1.00, 1.00) meshC=(4.6, 3.5, -7.8) meshS=(13.8, 7.2, 8.2) worldC=(-204.1, 3.6, -79.6) worldS=(15.2, 7.2, 10.9) static=False batched=False
+  DIAG Pilot_Props_S01 parent=PilotSW_S01 lp=(0.00, 0.00, 0.00) ls=(1.00, 1.00, 1.00) lossy=(1.00, 1.00, 1.00) meshC=(0.3, 1.3, 0.9) meshS=(23.5, 3.9, 20.3) worldC=(-206.5, 1.4, -70.2) worldS=(27.2, 3.9, 24.7) static=False batched=False
+  DIAG Pilot_Exterior_S02 parent=PilotSW_S02 lp=(0.00, 0.00, 0.00) ls=(1.00, 1.00, 1.00) lossy=(1.00, 1.00, 1.00) meshC=(5.5, 3.8, 9.3) meshS=(15.2, 7.7, 2.1) worldC=(-167.5, 4.0, -69.2) worldS=(15.4, 7.7, 3.7) static=False batched=False
+  DIAG Pilot_Props_S02 parent=PilotSW_S02 lp=(0.00, 0.00, 0.00) ls=(1.00, 1.00, 1.00) lossy=(1.00, 1.00, 1.00) meshC=(0.0, 1.5, 0.7) meshS=(30.1, 3.5, 18.6) worldC=(-172.1, 1.6, -78.3) worldS=(31.9, 3.5, 21.7) static=False batched=False
+  DIAG Pilot_Exterior_S06 parent=PilotSW_S06 lp=(0.00, 0.00, 0.00) ls=(1.00, 1.00, 1.00) lossy=(1.00, 1.00, 1.00) meshC=(-5.8, 3.6, 10.7) meshS=(6.5, 2.9, 2.0) worldC=(-177.7, 3.9, -106.4) worldS=(6.7, 2.9, 3.2) static=False batched=False
+  DIAG Pilot_Props_S06 parent=PilotSW_S06 lp=(0.00, 0.00, 0.00) ls=(1.00, 1.00, 1.00) lossy=(1.00, 1.00, 1.00) meshC=(-0.7, 1.0, 0.3) meshS=(24.7, 2.5, 20.8) worldC=(-174.6, 1.2, -117.6) worldS=(28.2, 2.5, 25.1) static=False batched=False
+  DIAG Pilot_Yard_Structures parent=PilotSW_Yard lp=(0.00, 0.00, 0.00) ls=(1.00, 1.00, 1.00) lossy=(1.00, 1.00, 1.00) meshC=(-173.6, 4.0, -111.1) meshS=(37.1, 8.1, 38.4) worldC=(-173.6, 4.0, -111.1) worldS=(37.1, 8.1, 38.4) static=False batched=False
+cut triangles=44283 walls=41 props=21 solids=131 created=155 hidden=11
