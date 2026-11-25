@@ -1,0 +1,4 @@
+tree_1             differing >8/255: 0.002%  >2/255: 0.008%  max=34  mean=0.001
+bld_S05_close      differing >8/255: 0.072%  >2/255: 0.108%  max=71  mean=0.013
+pilot_block        differing >8/255: 0.823%  >2/255: 1.249%  max=71  mean=0.201
+prop_2             differing >8/255: 0.009%  >2/255: 0.032%  max=56  mean=0.003

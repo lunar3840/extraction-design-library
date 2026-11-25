@@ -1,0 +1,343 @@
+LOOK MOSS (candidate)
+amount=1.00 washAdd=0.38 sunDir=(0.46, 0.67, -0.59)
+  C01: triangles=7726 colonies=136 tufts=2600 foot=53 head=29 lintel=0 open=4 roof=39 top=11
+  C02: triangles=17737 colonies=132 tufts=2600 foot=53 head=23 lintel=0 open=5 roof=36 top=15
+  C03: triangles=20116 colonies=130 tufts=2600 foot=46 head=29 lintel=0 open=1 roof=44 top=10
+  C04: triangles=9089 colonies=154 tufts=2600 foot=52 head=44 lintel=1 open=5 roof=47 top=5
+  E01: triangles=19723 colonies=129 tufts=2600 foot=57 head=11 lintel=0 open=7 roof=41 top=13
+  E02: triangles=6259 colonies=146 tufts=2600 foot=42 head=35 lintel=3 open=6 roof=47 top=13
+  E03: triangles=6108 colonies=142 tufts=2600 foot=47 head=17 lintel=2 open=7 roof=53 top=16
+  E04: triangles=5747 colonies=149 tufts=2600 foot=43 head=32 lintel=1 open=3 roof=51 top=19
+  E05: triangles=23535 colonies=172 tufts=2600 foot=46 head=52 lintel=0 open=2 roof=45 top=27
+  E06: triangles=7200 colonies=167 tufts=2600 foot=45 head=39 lintel=1 open=6 roof=48 top=28
+  E07: triangles=6727 colonies=135 tufts=2600 foot=54 head=22 lintel=0 open=0 roof=42 top=17
+  E08: triangles=6720 colonies=132 tufts=2600 foot=25 head=24 lintel=0 open=1 roof=55 top=27
+  E09: triangles=6538 colonies=120 tufts=1466 foot=34 head=26 lintel=0 open=2 roof=16 top=42
+  E10: triangles=2131 colonies=64 tufts=1175 foot=31 head=11 lintel=1 open=2 roof=12 top=7
+  E11: triangles=6464 colonies=146 tufts=2600 foot=30 head=23 lintel=2 open=6 roof=53 top=32
+  E12: triangles=6126 colonies=139 tufts=2600 foot=45 head=35 lintel=0 open=2 roof=48 top=9
+  F01: triangles=6613 colonies=128 tufts=2600 foot=52 head=23 lintel=1 open=4 roof=38 top=10
+  F02: triangles=19968 colonies=128 tufts=2600 foot=33 head=22 lintel=1 open=6 roof=52 top=14
+  F03: triangles=5648 colonies=130 tufts=2600 foot=37 head=16 lintel=0 open=3 roof=48 top=26
+  N01: triangles=8569 colonies=175 tufts=2495 foot=47 head=25 lintel=2 open=3 roof=41 top=57
+  N02: triangles=15449 colonies=130 tufts=2600 foot=43 head=16 lintel=1 open=1 roof=51 top=18
+  N03: triangles=6169 colonies=112 tufts=2600 foot=38 head=9 lintel=0 open=3 roof=52 top=10
+  N04: triangles=5458 colonies=125 tufts=2600 foot=22 head=23 lintel=2 open=2 roof=59 top=17
+  N05: triangles=5750 colonies=123 tufts=2600 foot=26 head=14 lintel=1 open=0 roof=56 top=26
+  N06: triangles=8399 colonies=128 tufts=2600 foot=34 head=33 lintel=2 open=2 roof=46 top=11
+  N07: triangles=2343 colonies=117 tufts=2578 foot=35 head=3 lintel=0 open=1 roof=49 top=29
+  N08: triangles=5947 colonies=120 tufts=2080 foot=38 head=8 lintel=1 open=3 roof=35 top=35
+  N09: triangles=12136 colonies=138 tufts=2600 foot=31 head=34 lintel=1 open=4 roof=53 top=15
+  N10: triangles=23794 colonies=160 tufts=2600 foot=47 head=31 lintel=2 open=3 roof=48 top=29
+  N11: triangles=6386 colonies=129 tufts=2600 foot=45 head=22 lintel=1 open=3 roof=49 top=9
+  N12: triangles=19927 colonies=136 tufts=2600 foot=59 head=36 lintel=1 open=5 roof=29 top=6
+  N13: triangles=18458 colonies=139 tufts=2600 foot=49 head=33 lintel=0 open=3 roof=46 top=8
+  N14: triangles=2961 colonies=125 tufts=2046 foot=41 head=27 lintel=1 open=4 roof=32 top=20
+  N15: triangles=21376 colonies=124 tufts=2600 foot=39 head=18 lintel=0 open=4 roof=44 top=19
+  N16: triangles=5623 colonies=115 tufts=2305 foot=53 head=19 lintel=1 open=2 roof=30 top=10
+  N17: triangles=5411 colonies=128 tufts=2600 foot=44 head=22 lintel=0 open=5 roof=42 top=15
+  S01: triangles=1138 colonies=146 tufts=2600 foot=60 head=38 lintel=2 open=2 roof=40 top=4
+  S02: triangles=582 colonies=128 tufts=2600 foot=69 head=18 lintel=2 open=0 roof=32 top=7
+  S03: triangles=9442 colonies=147 tufts=2411 foot=24 head=27 lintel=0 open=2 roof=70 top=24
+  S04: triangles=13782 colonies=143 tufts=2600 foot=42 head=22 lintel=0 open=2 roof=55 top=22
+  S05: triangles=18981 colonies=136 tufts=2600 foot=38 head=17 lintel=0 open=1 roof=67 top=13
+  S06: triangles=568 colonies=124 tufts=2600 foot=64 head=23 lintel=1 open=1 roof=29 top=6
+  S07: triangles=10501 colonies=147 tufts=2600 foot=42 head=24 lintel=0 open=2 roof=50 top=29
+  S08: triangles=12020 colonies=154 tufts=2309 foot=44 head=27 lintel=2 open=6 roof=60 top=15
+  S09: triangles=15826 colonies=128 tufts=1664 foot=40 head=15 lintel=1 open=1 roof=37 top=34
+  S10: triangles=10898 colonies=148 tufts=2452 foot=50 head=17 lintel=0 open=1 roof=49 top=31
+  S11: triangles=24376 colonies=158 tufts=2600 foot=52 head=24 lintel=1 open=6 roof=54 top=21
+  S12: triangles=4244 colonies=83 tufts=1214 foot=20 head=7 lintel=0 open=2 roof=41 top=13
+  W01: triangles=7341 colonies=137 tufts=2600 foot=33 head=32 lintel=1 open=2 roof=54 top=15
+  W02: triangles=21207 colonies=145 tufts=2600 foot=45 head=20 lintel=0 open=3 roof=51 top=26
+  W03: triangles=20944 colonies=164 tufts=2600 foot=48 head=39 lintel=0 open=7 roof=53 top=17
+  W04: triangles=21983 colonies=137 tufts=2600 foot=36 head=42 lintel=0 open=3 roof=48 top=8
+  W05: triangles=8951 colonies=127 tufts=2600 foot=42 head=37 lintel=1 open=1 roof=42 top=4
+  W06: triangles=16876 colonies=132 tufts=2600 foot=36 head=25 lintel=1 open=4 roof=48 top=18
+  W07: triangles=8762 colonies=129 tufts=2600 foot=46 head=24 lintel=3 open=5 roof=45 top=6
+  W08: triangles=22438 colonies=136 tufts=2600 foot=38 head=22 lintel=0 open=3 roof=55 top=18
+  W09: triangles=7411 colonies=141 tufts=2600 foot=38 head=22 lintel=0 open=2 roof=51 top=28
+  W10: no shell or pilot wall, skipped
+  W11: triangles=5994 colonies=163 tufts=2600 foot=47 head=12 lintel=0 open=1 roof=58 top=45
+  Y01: triangles=24431 colonies=163 tufts=2600 foot=51 head=39 lintel=0 open=4 roof=54 top=15
+  Y02: triangles=9972 colonies=162 tufts=2600 foot=53 head=37 lintel=4 open=12 roof=39 top=17
+  Y03: triangles=7654 colonies=126 tufts=2600 foot=44 head=19 lintel=0 open=3 roof=43 top=17
+  Y04: triangles=7503 colonies=132 tufts=2600 foot=49 head=23 lintel=0 open=1 roof=41 top=18
+  Y05: triangles=21907 colonies=149 tufts=2600 foot=53 head=17 lintel=4 open=6 roof=49 top=20
+moss buildings=63 skipped=1 tufts=156795 colonies=8588 (foot 2720, head/sill 1555, lintel 52, open wall 203, roof 2892, wall top 1166) triangles=313590 washedMaterials=185
+SURVEY Boundaries path=EnclosuresV33_ConnectedFacilities/Boundaries children=47 renderers=2053 groups=50
+  8x tris=27624 max=(9.8, 3.0, 22.9) WC_W#/__A#_Ruin_Ivy_Generated/../Leaves | IvyLeaf:Lit
+  6x tris=21072 max=(20.5, 2.6, 15.9) SC_W#/__A#_Ruin_Ivy_Generated/../Leaves | IvyLeaf:Lit
+  6x tris=18192 max=(15.7, 3.0, 6.3) CN_W#/__A#_Ruin_Ivy_Generated/../Leaves | IvyLeaf:Lit
+  6x tris=7680 max=(3.2, 1.1, 6.0) YC_W#/__A#_Ruin_Ivy_Generated/../Leaves | IvyLeaf:Lit
+  6x tris=7200 max=(4.0, 0.7, 1.7) PC_W#/__A#_Ruin_Ivy_Generated/../Leaves | IvyLeaf:Lit
+  8x tris=5740 max=(9.7, 2.9, 22.7) WC_W#/__A#_Ruin_Ivy_Generated/../Stems | IvyStem:Lit
+  6x tris=4890 max=(20.4, 2.5, 15.7) SC_W#/__A#_Ruin_Ivy_Generated/../Stems | IvyStem:Lit
+  6x tris=4150 max=(15.7, 2.9, 6.1) CN_W#/__A#_Ruin_Ivy_Generated/../Stems | IvyStem:Lit
+  157x tris=1884 max=(0.0, 1.8, 0.0) PC_W#/PC_W#_#_#/../Wire | W_#cdbdcd#fd#e#c#d#a:Weathered Lit
+  157x tris=1884 max=(0.0, 1.8, 0.0) PC_W#/PC_W#_#_#/../Wire | W_ade#e#e#d#ca#:Weathered Lit
+  149x tris=1788 max=(0.0, 1.8, 0.0) PC_W#/PC_W#_#_#/../Wire | W_#c#f#ea#b#f#bf#:Weathered Lit
+  147x tris=1764 max=(0.0, 1.8, 0.0) PC_W#/PC_W#_#_#/../Wire | W_#b#e#fb#bed#ba#:Weathered Lit
+  131x tris=1572 max=(0.0, 1.8, 0.0) YC_W#/YC_W#_#_#/../Wire | W_#c#f#ea#b#f#bf#:Weathered Lit
+  121x tris=1452 max=(0.0, 1.8, 0.0) YC_W#/YC_W#_#_#/../Wire | W_#b#e#fb#bed#ba#:Weathered Lit
+  114x tris=1368 max=(0.0, 1.8, 0.0) YC_W#/YC_W#_#_#/../Wire | W_#cdbdcd#fd#e#c#d#a:Weathered Lit
+  110x tris=1320 max=(0.0, 1.8, 0.0) YC_W#/YC_W#_#_#/../Wire | W_ade#e#e#d#ca#:Weathered Lit
+  6x tris=880 max=(3.0, 0.9, 6.0) YC_W#/__A#_Ruin_Ivy_Generated/../Stems | IvyStem:Lit
+  67x tris=804 max=(3.4, 0.0, 3.4) PC_W#/PC_W#_#_#/../CrossWire | W_#b#e#fb#bed#ba#:Weathered Lit
+  67x tris=804 max=(3.4, 0.0, 3.4) PC_W#/PC_W#_#_#/../CrossWire | W_ade#e#e#d#ca#:Weathered Lit
+  6x tris=790 max=(4.0, 0.5, 1.5) PC_W#/__A#_Ruin_Ivy_Generated/../Stems | IvyStem:Lit
+  63x tris=756 max=(3.4, 0.0, 3.4) PC_W#/PC_W#_#_#/../CrossWire | W_#cdbdcd#fd#e#c#d#a:Weathered Lit
+  52x tris=624 max=(3.4, 0.0, 3.2) YC_W#/YC_W#_#_#/../CrossWire | W_ade#e#e#d#ca#:Weathered Lit
+  52x tris=624 max=(3.4, 0.0, 3.2) YC_W#/YC_W#_#_#/../CrossWire | W_#c#f#ea#b#f#bf#:Weathered Lit
+  50x tris=600 max=(3.4, 0.0, 3.4) PC_W#/PC_W#_#_#/../Rail_# | W_ade#e#e#d#ca#:Weathered Lit
+  48x tris=576 max=(3.4, 0.0, 3.2) YC_W#/YC_W#_#_#/../CrossWire | W_#b#e#fb#bed#ba#:Weathered Lit
+  47x tris=564 max=(3.4, 0.0, 3.4) PC_W#/PC_W#_#_#/../CrossWire | W_#c#f#ea#b#f#bf#:Weathered Lit
+  47x tris=564 max=(3.4, 0.0, 3.4) PC_W#/PC_W#_#_#/../Rail_# | W_#c#f#ea#b#f#bf#:Weathered Lit
+  45x tris=540 max=(3.4, 0.0, 3.4) PC_W#/PC_W#_#_#/../Rail_# | W_#b#e#fb#bed#ba#:Weathered Lit
+  45x tris=540 max=(3.4, 0.0, 3.3) YC_W#/YC_W#_#_#/../Rail_# | W_#b#e#fb#bed#ba#:Weathered Lit
+  44x tris=528 max=(3.4, 0.0, 3.2) YC_W#/YC_W#_#_#/../CrossWire | W_#cdbdcd#fd#e#c#d#a:Weathered Lit
+  41x tris=492 max=(3.4, 0.0, 3.4) PC_W#/PC_W#_#_#/../Rail_# | W_#cdbdcd#fd#e#c#d#a:Weathered Lit
+  37x tris=444 max=(3.4, 0.0, 3.3) YC_W#/YC_W#_#_#/../Rail_# | W_#c#f#ea#b#f#bf#:Weathered Lit
+  35x tris=420 max=(3.4, 0.0, 3.3) YC_W#/YC_W#_#_#/../Rail_# | W_#cdbdcd#fd#e#c#d#a:Weathered Lit
+  30x tris=360 max=(3.4, 0.0, 3.3) YC_W#/YC_W#_#_#/../Rail_# | W_ade#e#e#d#ca#:Weathered Lit
+  13x tris=156 max=(3.4, 2.4, 3.2) SC_W#/SC_W#_#_#/../Wall | W_#e#a#a:Weathered Lit
+  12x tris=144 max=(3.5, 2.4, 3.5) WC_W#/WC_W#_#_#/../Wall | W_d#bf#abc#e#a#f#cc#bb:Weathered Lit
+  12x tris=144 max=(3.4, 2.4, 3.2) SC_W#/SC_W#_#_#/../Wall | W_#da#b#a#b#cb#c#d:Weathered Lit
+  11x tris=132 max=(3.1, 2.4, 3.5) WC_W#/WC_W#_#_#/../Wall | W_#da#b#a#b#cb#c#d:Weathered Lit
+  11x tris=132 max=(3.4, 2.4, 3.2) SC_W#/SC_W#_#_#/../Wall | W_#e#cfb#c#ae#c#b:Weathered Lit
+  10x tris=120 max=(3.3, 2.4, 3.3) CN_W#/CN_W#_#_#/../Wall | W_#da#b#a#b#cb#c#d:Weathered Lit
+  10x tris=120 max=(3.1, 2.4, 3.5) WC_W#/WC_W#_#_#/../Wall | W_#e#cfb#c#ae#c#b:Weathered Lit
+  9x tris=108 max=(3.3, 2.4, 3.3) CN_W#/CN_W#_#_#/../Wall | W_#e#cfb#c#ae#c#b:Weathered Lit
+  9x tris=108 max=(3.2, 2.4, 3.2) SC_W#/SC_W#_#_#/../Wall | W_d#bf#abc#e#a#f#cc#bb:Weathered Lit
+  7x tris=84 max=(3.3, 2.4, 3.3) CN_W#/CN_W#_#_#/../Wall | W_#e#a#a:Weathered Lit
+  7x tris=84 max=(3.5, 2.4, 3.5) WC_W#/WC_W#_#_#/../Wall | W_#e#a#a:Weathered Lit
+  6x tris=72 max=(3.1, 2.0, 2.8) WS#/WS#_#_#/../Wall | W_#e#bfe#a#cf#dd#b#de#c#:Weathered Lit
+  6x tris=72 max=(3.1, 2.0, 2.8) WS#/WS#_#_#/../Wall | W_#bd#fd#afbd#:Weathered Lit
+  4x tris=48 max=(3.1, 2.0, 2.2) WS#/WS#_#_#/../Wall | W_#f#ce#cdf#db#b#:Weathered Lit
+  3x tris=36 max=(3.3, 2.4, 0.7) CN_W#/CN_W#_#_#/../Wall | W_d#bf#abc#e#a#f#cc#bb:Weathered Lit
+  3x tris=36 max=(2.6, 2.0, 2.8) WS#/WS#_#_#/../Wall | W_#bb#ddf#f#fbd#d#:Weathered Lit
+SURVEY 02_Visual_Replaceable path=02_Visual_Replaceable children=138 renderers=733 groups=294
+  1x tris=179064 max=(67.9, 6.1, 74.5) RoofVisualRoot_CutawayCapable/ROOF_PARTS__Visual/../Leaves | IvyLeaf:Lit
+  1x tris=130248 max=(60.4, 4.6, 56.7) RoofVisualRoot_CutawayCapable/ROOF_POWER__Visual/../Leaves | IvyLeaf:Lit
+  1x tris=124200 max=(36.3, 5.1, 19.7) RoofVisualRoot_CutawayCapable/ROOF_CLINIC__Visual/../Leaves | IvyLeaf:Lit
+  1x tris=87840 max=(54.7, 9.8, 55.1) POWER__Visual/BlenderExpansion_POWER_Shell/../Leaves | IvyLeaf:Lit
+  1x tris=77496 max=(71.2, 6.7, 76.5) PARTS__Visual/BlenderExpansion_PARTS_Shell/../Leaves | IvyLeaf:Lit
+  7x tris=67515 max=(0.9, 1.0, 0.8) PARTS__Visual/D#_Interiors_PARTS/../Visual | W_#c#e#f#b#a#b#d#f:Weathered Lit
+  8x tris=63008 max=(1.0, 1.1, 1.0) PARTS__Visual/D#_Interiors_PARTS/../Visual | W_#c#e#c#ff#d#:Weathered Lit
+  1x tris=49590 max=(67.8, 6.0, 74.3) RoofVisualRoot_CutawayCapable/ROOF_PARTS__Visual/../Stems | IvyStem:Lit
+  5x tris=48225 max=(0.9, 1.0, 0.8) PARTS__Visual/D#_Interiors_PARTS/../Visual | W_#ac#fd#f#a#aa#c:Weathered Lit
+  6x tris=47256 max=(1.0, 1.1, 1.0) PARTS__Visual/D#_Interiors_PARTS/../Visual | W_#c#a#d#b#d#daf#a:Weathered Lit
+  5x tris=44045 max=(0.6, 1.5, 0.7) CLINIC__Visual/D#_Interiors_CLINIC/../Visual | W_#ebfb#cf#c#dd#ba#e#b:Weathered Lit
+  5x tris=44045 max=(0.6, 1.5, 0.7) CLINIC__Visual/D#_Interiors_CLINIC/../Visual | W_#d#b#e#b#cc#:Weathered Lit
+  5x tris=39380 max=(0.9, 0.9, 0.9) PARTS__Visual/D#_Interiors_PARTS/../Visual | W_#b#a#accfc#a#d#:Weathered Lit
+  4x tris=38580 max=(0.9, 1.0, 0.8) PARTS__Visual/D#_Interiors_PARTS/../Visual | W_fe#bbcdb#ef#c#e:Weathered Lit
+  1x tris=37776 max=(58.7, 5.9, 52.7) CLINIC__Visual/BlenderExpansion_CLINIC_Shell/../Leaves | IvyLeaf:Lit
+  1x tris=35260 max=(60.1, 4.4, 56.2) RoofVisualRoot_CutawayCapable/ROOF_POWER__Visual/../Stems | IvyStem:Lit
+  4x tris=35236 max=(0.6, 1.5, 0.7) CLINIC__Visual/D#_Interiors_CLINIC/../Visual | W_#a#f#ae#c#e#:Weathered Lit
+  1x tris=34032 max=(22.0, 2.1, 22.0) RoofVisualRoot_CutawayCapable/ROOF_TOOLS__Visual/../Leaves | IvyLeaf:Lit
+  4x tris=31504 max=(0.9, 0.9, 0.9) PARTS__Visual/D#_Interiors_PARTS/../Visual | W_#a#a#fd#f#ccc#cf#d#:Weathered Lit
+  1x tris=29850 max=(35.6, 4.6, 19.1) RoofVisualRoot_CutawayCapable/ROOF_CLINIC__Visual/../Stems | IvyStem:Lit
+  1x tris=29752 max=(58.7, 5.7, 53.0) CLINIC__Visual/BlenderExpansion_CLINIC_Shell/../CLINIC_Shell_renderOpaque | W_#e#d#d#dc#fbe#d#f:Weathered Lit,W_#a#ef#ea#a#:Weathered Lit,W_#af#f#d#e#ea#d#e:Weathered Lit
+  3x tris=26427 max=(0.6, 1.5, 0.7) CLINIC__Visual/D#_Interiors_CLINIC/../Visual | W_#b#fad#d#da#:Weathered Lit
+  1x tris=21075 max=(73.6, 10.3, 77.9) PARTS__Visual/BlenderExpansion_PARTS_Shell/../PARTS_Shell_renderOpaque | W_#ee#a#aa#e#a#:Weathered Lit,W_#a#f#a#b#:Weathered Lit,W_e#e#b#f#f#e#cc#:Weathered Lit
+  2x tris=19290 max=(0.9, 1.0, 0.8) PARTS__Visual/D#_Interiors_PARTS/../Visual | W_#dca#ac#a#f#ef#a#b#:Weathered Lit
+  1x tris=18730 max=(71.0, 6.3, 76.3) PARTS__Visual/BlenderExpansion_PARTS_Shell/../Stems | IvyStem:Lit
+  2x tris=17320 max=(0.7, 1.1, 0.7) TOOLS__Visual/D#_Interiors_TOOLS/../Visual | W_f#eedd#be#e#:Weathered Lit
+  1x tris=16420 max=(21.7, 2.1, 21.6) RoofVisualRoot_CutawayCapable/ROOF_TOOLS__Visual/../Stems | IvyStem:Lit
+  1x tris=16380 max=(54.2, 9.4, 54.9) POWER__Visual/BlenderExpansion_POWER_Shell/../Stems | IvyStem:Lit
+  1x tris=12224 max=(70.6, 5.9, 76.4) RoofVisualRoot_CutawayCapable/ROOF_PARTS__Visual/../PARTS_Roof_renderOpaque | W_#b#e#a#c#b#:Weathered Lit,W_bcf#d#a#c#b#dafa#a#f#:Weathered Lit,W_#cf#eb#a#eda#d:Weathered Lit
+  1x tris=12010 max=(58.6, 5.5, 52.6) CLINIC__Visual/BlenderExpansion_CLINIC_Shell/../Stems | IvyStem:Lit
+  1x tris=10992 max=(25.3, 4.1, 21.5) TOOLS__Visual/BlenderExpansion_TOOLS_Shell/../TOOLS_Shell_renderOpaque | W_#cff#aa#e#e#f#b#ca#:Weathered Lit,W_e#bfb#e#d#c#:Weathered Lit,W_be#b#eeb#e#f#:Weathered Lit
+  1x tris=10902 max=(64.2, 16.6, 58.1) POWER__Visual/BlenderExpansion_POWER_Shell/../POWER_Shell_renderOpaque | W_be#b#eeb#e#f#:Weathered Lit,W_#e#fea#a#f#f#:Weathered Lit,W_bb#d#af#c#f#f#cb#:Weathered Lit
+  1x tris=8712 max=(0.9, 1.2, 0.9) POWER__Visual/D#_Interiors_POWER/../Visual | W_#a#d#c#e#c#c#:Weathered Lit
+  1x tris=8712 max=(0.9, 1.2, 0.9) POWER__Visual/D#_Interiors_POWER/../Visual | W_#ef#b#a#f#ed#d#f#e:Weathered Lit
+  1x tris=8660 max=(0.7, 1.1, 0.7) TOOLS__Visual/D#_Interiors_TOOLS/../Visual | W_#e#a#ad#bee#f#e#:Weathered Lit
+  1x tris=8520 max=(12.4, 3.5, 3.3) CLINIC__Visual/__A#_ClinicMoodTrial/../A#_GrowthLeaf | A#_IvyLeaf:Lit
+  1x tris=5034 max=(62.4, 7.8, 56.8) RoofVisualRoot_CutawayCapable/ROOF_POWER__Visual/../POWER_Roof_renderOpaque | W_b#edda#e#d#c#:Weathered Lit,W_#b#bb#c#db#f#a:Weathered Lit,W_#fcc#b#a#b#f#ab:Weathered Lit
+  5x tris=4280 max=(0.8, 1.9, 0.4) POWER__Visual/D#_Interiors_POWER/../PowerController | W_#dc#bae#f#c#bdca#:Weathered Lit
+  1x tris=4162 max=(1.7, 1.6, 1.2) POWER__Visual/Generated/../VentMotor_# | W_#d#e#facbb#e#ee#d#b:Weathered Lit,W_cc#a#eb#aac:Weathered Lit
+  1x tris=4162 max=(1.2, 1.6, 1.8) POWER__Visual/Generated/../UtilityVentAssembly | W_#d#e#facbb#e#ee#d#b:Weathered Lit,W_cc#a#eb#aac:Weathered Lit
+  1x tris=4162 max=(1.7, 1.6, 1.2) POWER__Visual/Generated/../VentMotor_# | W_a#bb#c#cd#c#e#:Weathered Lit,W_#a#e#c#dbde#:Weathered Lit
+  4x tris=3424 max=(0.8, 1.9, 0.4) POWER__Visual/D#_Interiors_POWER/../PowerController | W_f#f#ca#db#ae#a#ed#e:Weathered Lit
+  1x tris=3320 max=(59.7, 5.0, 53.8) RoofVisualRoot_CutawayCapable/ROOF_CLINIC__Visual/../CLINIC_Roof_renderOpaque | W_#b#e#a#c#b#:Weathered Lit,W_#cf#eb#a#eda#d:Weathered Lit,W_d#e#ecb#a#:Weathered Lit
+  1x tris=3080 max=(12.2, 4.8, 3.2) CLINIC__Visual/__A#_ClinicMoodTrial/../A#_GrowthStem | A#_Root:Lit
+  1x tris=2880 max=(21.9, 3.9, 21.7) TOOLS__Visual/BlenderExpansion_TOOLS_Shell/../Leaves | IvyLeaf:Lit
+  3x tris=2568 max=(0.8, 1.9, 0.4) POWER__Visual/D#_Interiors_POWER/../PowerController | W_#b#a#e#f#a#f#e#ce#c:Weathered Lit
+  6x tris=2088 max=(0.6, 1.7, 0.3) CLINIC__Visual/D#_Interiors_CLINIC/../Cabinet | W_e#a#dd#c#c#c#e#:Weathered Lit
+  1x tris=2021 max=(21.9, 3.8, 22.0) RoofVisualRoot_CutawayCapable/ROOF_TOOLS__Visual/../TOOLS_Roof_renderOpaque | W_b#e#beb#a#a#:Weathered Lit,W_#a#b#d#ced#f#d#ba#b#b:Weathered Lit,W_#cf#eb#a#eda#d:Weathered Lit
+  2x tris=1760 max=(1.0, 0.6, 0.7) TOOLS__Visual/D#_Interiors_TOOLS/../RepairMotor | W_#d#ea#f#af#f#f#:Weathered Lit
+  5x tris=1740 max=(0.6, 1.7, 0.3) CLINIC__Visual/D#_Interiors_CLINIC/../Cabinet | W_fdf#c#b#cd#c#e#c#cabbd:Weathered Lit
+  2x tris=1656 max=(0.4, 0.7, 0.4) CLINIC__Visual/Generated/../SafetyExtinguisher_# | W_#deab#f#edf#fec#:Weathered Lit
+  19x tris=1520 max=(0.3, 0.1, 0.3) POWER__Visual/D#_Interiors_POWER/../Meter_# | W_b#cf#e#f#f#dee#f:Weathered Lit
+  1x tris=1440 max=(8.4, 0.9, 3.7) CLINIC__Visual/__A#_ClinicMoodTrial/../A#_Roots | A#_Root:Lit
+  6x tris=1260 max=(0.7, 1.6, 0.3) POWER__Visual/D#_Interiors_POWER/../ControlMeters | W_b#c#c#b#a#cc#:Weathered Lit
+  2x tris=1192 max=(2.1, 0.3, 2.3) PARTS__Visual/Generated/../FloorDebris_# | W_#fa#a#f#d#debaf#a:Weathered Lit
+  1x tris=1174 max=(0.4, 1.0, 0.4) TOOLS__Visual/D#_Interiors_TOOLS/../ServiceGas | W_d#c#bb#a#f#f#d#dbab#a:Weathered Lit
+  1x tris=1174 max=(0.4, 1.0, 0.4) TOOLS__Visual/D#_Interiors_TOOLS/../ServiceGas | W_#cd#dcc#cf#c#ebf#:Weathered Lit
+  1x tris=1174 max=(0.4, 1.0, 0.4) TOOLS__Visual/D#_Interiors_TOOLS/../ServiceGas | W_#dfed#eb#a#d#f#c#f:Weathered Lit
+  3x tris=1044 max=(0.6, 1.7, 0.3) CLINIC__Visual/D#_Interiors_CLINIC/../Cabinet | W_#df#f#e#bb#:Weathered Lit
+  3x tris=1044 max=(0.6, 1.7, 0.3) CLINIC__Visual/D#_Interiors_CLINIC/../Cabinet | W_fa#f#c#b#b#:Weathered Lit
+  1x tris=1036 max=(0.5, 0.3, 0.5) CLINIC__Visual/Generated/../CeilingLamp_A | W_e#df#c#d#ae#d:Weathered Lit
+  1x tris=1036 max=(0.5, 0.3, 0.5) CLINIC__Visual/Generated/../CeilingLamp_B | W_#a#e#d#a#deaa:Weathered Lit
+  1x tris=1036 max=(0.5, 0.3, 0.5) TOOLS__Visual/Generated/../CeilingLamp_A | W_#a#e#d#a#deaa:Weathered Lit
+  1x tris=1036 max=(0.5, 0.3, 0.5) TOOLS__Visual/Generated/../CeilingLamp_B | W_ca#b#db#b#c#:Weathered Lit
+  1x tris=1036 max=(0.6, 0.3, 0.6) POWER__Visual/Generated/../CeilingLamp_A | W_#a#e#d#a#deaa:Weathered Lit
+  1x tris=1036 max=(0.6, 0.3, 0.6) POWER__Visual/Generated/../CeilingLamp_B | W_#bcc#f#d#ca#b#f#d#b:Weathered Lit
+  1x tris=1036 max=(0.6, 0.3, 0.6) PARTS__Visual/Generated/../CeilingLamp_A | W_#bcc#f#d#ca#b#f#d#b:Weathered Lit
+  1x tris=1036 max=(0.6, 0.3, 0.6) PARTS__Visual/Generated/../CeilingLamp_B | W_#a#e#d#a#deaa:Weathered Lit
+  1x tris=966 max=(9.3, 3.0, 0.3) TOOLS__Visual/Generated/../Factory#Wall# | W_d#f#e#deba#bacd#c:Weathered Lit,W_#aa#e#cdedcced#d#:Weathered Lit,W_d#ac#f#da#f#de#c#f:Weathered Lit
+  1x tris=966 max=(9.3, 3.0, 0.3) TOOLS__Visual/Generated/../Factory#Wall# | W_#d#fa#ef#e#c#bf#e:Weathered Lit,W_#f#e#d#b#a#b#b:Weathered Lit,W_b#e#d#c#ea#f#beaead#e:Weathered Lit
+SURVEY V13_HallRoot path=V13_HallRoot children=6 renderers=1022 groups=576
+  1x tris=222528 max=(81.1, 9.0, 57.1) Roof/TallCentralRoof/../Leaves | IvyLeaf:Lit
+  1x tris=85776 max=(80.7, 11.1, 56.7) Exterior/Facade/../Leaves | IvyLeaf:Lit
+  1x tris=61850 max=(80.8, 8.9, 56.9) Roof/TallCentralRoof/../Stems | IvyStem:Lit
+  1x tris=15530 max=(80.7, 10.7, 56.7) Exterior/Facade/../Stems | IvyStem:Lit
+  1x tris=10644 max=(12.0, 7.0, 7.0) Floor_#F/Props/../IndustrialGeneratorFrame | W_#f#bacbcefb#d#:Weathered Lit
+  1x tris=9087 max=(1.0, 0.6, 1.3) Floor_B#/Props/../Visual | W_bfa#c#d#f#d#b#a#:Weathered Lit
+  1x tris=9087 max=(1.0, 0.6, 1.3) Floor_#F/Props/../Visual | W_#c#a#d#c#db#ac:Weathered Lit
+  1x tris=9087 max=(0.9, 0.6, 1.3) Floor_#F/LookV#_HallDressing/../Visual | W_#c#a#d#c#db#ac:Weathered Lit
+  1x tris=8712 max=(2.7, 1.4, 1.3) Floor_#F/Props/../Visual | W_#ef#b#a#f#ed#d#f#e:Weathered Lit
+  1x tris=8712 max=(2.7, 1.4, 1.3) Floor_#F/Props/../Visual | W_ee#e#bda#b#e#d#:Weathered Lit
+  1x tris=7876 max=(1.1, 0.7, 1.4) Floor_B#/Props/../Visual | W_#a#a#fd#f#ccc#cf#d#:Weathered Lit
+  1x tris=7876 max=(1.0, 0.7, 1.3) Floor_#F/Props/../Visual | W_#a#a#fd#f#ccc#cf#d#:Weathered Lit
+  1x tris=7876 max=(1.0, 0.7, 1.3) Floor_#F/LookV#_HallDressing/../Visual | W_#b#a#accfc#a#d#:Weathered Lit
+  7x tris=6762 max=(11.6, 6.0, 11.4) Exterior/FoundationAndRetainingWalls/../Factory#Wall# | N_#a#a#b#dab#f:HallSurface,N_#de#c#e#dfbb#d#dce#c:HallSurface,N_ed#ae#e#bba#d#:HallSurface
+  6x tris=5904 max=(11.4, 5.2, 11.2) Exterior/Facade/../Factory#Wall# | N_#f#d#d#dabbac#d#:Concrete,N_#de#c#e#dfbb#d#dce#c:HallSurface,N_ed#ae#e#bba#d#:HallSurface
+  6x tris=5904 max=(11.4, 5.2, 11.2) Exterior/Facade/../Factory#Wall# | N_b#ea#b#ea#:Concrete,N_fed#becc#b#bc#d#fc#:HallSurface,N_d#f#ac#b#ededfb#:HallSurface
+  6x tris=5796 max=(11.6, 6.0, 11.4) Exterior/FoundationAndRetainingWalls/../Factory#Wall# | N_ae#ae#ab#c#f:HallSurface,N_fed#becc#b#bc#d#fc#:HallSurface,N_d#f#ac#b#ededfb#:HallSurface
+  6x tris=5796 max=(11.6, 6.0, 11.4) Exterior/FoundationAndRetainingWalls/../Factory#Wall# | N_#dc#afde#ac#b:HallSurface,N_#bf#d#b#eb#a#ae#dd#:HallSurface,N_#aa#bd#b#ffd#b#:HallSurface
+  5x tris=5180 max=(0.5, 0.3, 0.5) Floor_#F/#F_Lamps/../Lamp_# | W_#d#eab#e#b#d#ed#:Weathered Lit
+  5x tris=4830 max=(11.6, 6.0, 11.4) Exterior/FoundationAndRetainingWalls/../Factory#Wall# | N_#aa#de#c#a:HallSurface,N_ab#c#fd#db#def#:HallSurface,N_#b#d#b#bb#aff#:HallSurface
+  13x tris=4524 max=(0.9, 1.7, 0.9) Floor_#F/Props/../Cabinet | W_e#b#b#c#f#b:Weathered Lit
+  1x tris=4288 max=(80.9, 7.9, 56.9) Roof/TallCentralRoof/../HALL_Roof_renderOpaque | W_#f#d#a#af#e#e#:Weathered Lit,W_cb#c#e#b#aa#:Weathered Lit,W_aa#e#bc#fa#eb#e#a#:Weathered Lit
+  1x tris=4162 max=(2.2, 2.2, 1.1) Floor_B#/Props/../ExtractionFan | W_#f#a#db#de#c#b#e#a:Weathered Lit,W_bac#fc#d#cad#b:Weathered Lit
+  1x tris=4162 max=(1.1, 2.2, 2.2) Floor_#F/Props/../ElectronicsVent | W_aa#c#fe#b#d#c#e#a:Weathered Lit,W_c#f#fb#bebd#c#e#e#a#:Weathered Lit
+  1x tris=4162 max=(2.5, 2.5, 1.0) Exterior/LookV#_FacadeRoot/../FactoryPBR_FanBig#Motor# | W_ef#a#ad#c#f#c#:Weathered Lit,W_#e#b#e#:Weathered Lit
+  4x tris=3936 max=(11.4, 5.2, 0.4) Exterior/Facade/../Factory#Wall# | N_#a#a#fc#d#:Concrete,N_fed#becc#b#bc#d#fc#:HallSurface,N_d#f#ac#b#ededfb#:HallSurface
+  4x tris=3936 max=(0.4, 5.2, 11.2) Exterior/Facade/../Factory#Wall# | N_#e#ed#c#a#a#a#:Concrete,N_#bf#d#b#eb#a#ae#dd#:HallSurface,N_#aa#bd#b#ffd#b#:HallSurface
+  11x tris=3828 max=(0.9, 1.7, 0.9) Floor_#F/Props/../Cabinet | W_#c#dcf#ad#aca#c:Weathered Lit
+  24x tris=3456 max=(9.6, 3.7, 9.4) Exterior/FoundationAndRetainingWalls/../Factory#Wall#Glass | LookV#_HallFacade_#e#fed#b#db#d#eb#fbd#a:HallSurface
+  3x tris=3108 max=(0.5, 0.3, 0.5) Floor_B#/B#_Lamps/../Lamp_# | W_eb#e#ac#ce#f#b#c:Weathered Lit
+  3x tris=3108 max=(0.5, 0.3, 0.5) Floor_B#/B#_Lamps/../Lamp_# | W_#d#eab#e#b#d#ed#:Weathered Lit
+  3x tris=3108 max=(0.5, 0.3, 0.5) Floor_#F/#F_Lamps/../Lamp_# | W_#e#f#c#b#c#c#:Weathered Lit
+  4x tris=2560 max=(15.0, 4.0, 15.0) Roof/TallCentralRoof/../Factory#Wall# | N_e#b#d#ebff#a#dde#f#:HallSurface,N_ee#a#f#c#b#a:HallSurface,N_#b#cba#b#f#f#f:HallSurface
+  7x tris=2436 max=(0.9, 1.7, 0.9) Floor_#F/Props/../Cabinet | W_#b#c#df#cfb#cc:Weathered Lit
+  2x tris=2072 max=(0.5, 0.3, 0.5) Floor_#F/#F_Lamps/../Lamp_# | W_eb#e#ac#ce#f#b#c:Weathered Lit
+  2x tris=1968 max=(0.5, 3.4, 9.0) Roof/TallCentralRoof/../Factory#Wall# | N_#ae#d#ca#e#fd#d#f:Concrete,W_#e#db#a#c#c#:Weathered Lit,W_fc#a#b#ffd#c#ba#:Weathered Lit
+  2x tris=1968 max=(0.5, 3.4, 9.0) Roof/TallCentralRoof/../Factory#Wall# | N_#e#df#e#e#e#a#b:Concrete,W_#bd#b#cd#b#:Weathered Lit,W_baf#c#cc#d#dd#b#:Weathered Lit
+  2x tris=1968 max=(0.5, 3.4, 9.0) Roof/TallCentralRoof/../Factory#Wall# | N_#bcaa#d#a#f#d#:Concrete,W_afa#ef#c#d#b#c#c#:Weathered Lit,W_#bcf#dfe#ba#c#b#:Weathered Lit
+  2x tris=1968 max=(11.4, 5.2, 0.4) Exterior/Facade/../Factory#Wall# | N_aaeae#f#da#a#:Concrete,N_#de#c#e#dfbb#d#dce#c:HallSurface,N_ed#ae#e#bba#d#:HallSurface
+  2x tris=1816 max=(0.6, 10.0, 0.6) Exterior/RevealColumns/../NorthReveal_-# | W_#d#d#c#e#:Weathered Lit
+  2x tris=1816 max=(0.6, 10.0, 0.6) Exterior/RevealColumns/../SouthReveal_# | W_c#c#f#b#af#bbed#:Weathered Lit
+  2x tris=1816 max=(0.6, 10.0, 0.6) Exterior/RevealColumns/../EastReveal_-# | W_fd#dd#ed#aa#bc#:Weathered Lit
+  2x tris=1816 max=(0.6, 10.0, 0.6) Exterior/RevealColumns/../WestReveal_-# | W_#d#d#c#e#:Weathered Lit
+  2x tris=1816 max=(0.6, 10.0, 0.6) Exterior/RevealColumns/../WestReveal_# | W_ec#c#e#df#ba#:Weathered Lit
+  2x tris=1816 max=(0.6, 10.0, 0.6) Exterior/RevealColumns/../EastReveal_# | W_c#c#f#b#af#bbed#:Weathered Lit
+  5x tris=1740 max=(0.9, 1.7, 0.9) Floor_#F/Props/../Cabinet | W_a#d#a#dca#:Weathered Lit
+  2x tris=1536 max=(0.3, 0.3, 0.3) Floor_#F/LookV#_HallDressing/../Joint_West_#F | W_#f#ebf#b#b#aaa#e:Weathered Lit
+  4x tris=1392 max=(0.9, 1.7, 0.3) Floor_B#/Props/../Cabinet | W_#c#dcf#ad#aca#c:Weathered Lit
+  14x tris=1288 max=(0.5, 1.7, 0.5) Floor_#F/Props/../CabinetDoor | W_ea#db#dee#d#e#c#e:Weathered Lit
+  2x tris=1280 max=(0.4, 4.0, 15.0) Roof/TallCentralRoof/../Factory#Wall# | N_a#d#e#fe#ae#e#c#b#e#:HallSurface,N_#d#b#afe#df#cf#:HallSurface,N_#e#e#d#d#:HallSurface
+  1x tris=1174 max=(0.6, 1.1, 0.6) Floor_B#/Props/../ServiceBottle_A | W_d#e#c#f#d#e#b#:Weathered Lit
+  1x tris=1174 max=(0.6, 1.1, 0.6) Floor_B#/Props/../ServiceBottle_B | W_#b#ff#d#dbff#f#ca:Weathered Lit
+  3x tris=1044 max=(0.9, 1.7, 0.3) Floor_B#/Props/../Cabinet | W_#b#c#df#cfb#cc:Weathered Lit
+  3x tris=1044 max=(0.9, 1.7, 0.9) Floor_B#/Props/../Cabinet | W_a#d#a#dca#:Weathered Lit
+  3x tris=1044 max=(0.9, 1.7, 0.9) Floor_B#/Props/../Cabinet | W_e#b#b#c#f#b:Weathered Lit
+  1x tris=1036 max=(0.5, 0.3, 0.5) Floor_B#/SecretTunnel/../CheckpointLamp | W_c#ceb#b#ca#a#:Weathered Lit
+  1x tris=1036 max=(0.5, 0.3, 0.5) Floor_#F/#F_Lamps/../Lamp_# | W_c#ceb#b#ca#a#:Weathered Lit
+  1x tris=1036 max=(0.5, 0.3, 0.5) Floor_#F/V#_#FLighting/../V#_Fixture_SouthWest | W_#e#f#c#b#c#c#:Weathered Lit
+  1x tris=1036 max=(0.5, 0.3, 0.5) Floor_#F/V#_#FLighting/../V#_Fixture_SouthEast | W_eb#e#ac#ce#f#b#c:Weathered Lit
+  1x tris=1036 max=(0.5, 0.3, 0.5) Floor_#F/V#_#FLighting/../V#_Fixture_StairWest | W_#e#f#c#b#c#c#:Weathered Lit
+SURVEY OutdoorD03_ObstacleClusters path=OutdoorD03_ObstacleClusters children=10 renderers=28 groups=28
+  1x tris=94628 max=(4.7, 1.3, 2.1) SW_RUIN_E/SW_E_Container/../Model | W_#f#ca#d#f#e#ae#c:Weathered Lit
+  1x tris=91298 max=(2.1, 1.3, 4.7) SW_RUIN_W/SW_W_SalvageCar/../Model | W_#f#cd#afa#f#a#ba#:Weathered Lit
+  1x tris=91248 max=(2.1, 1.3, 4.7) YC_DISMANTLE/YC_D_NorthCar/../Model | W_#e#d#a#b#b#dd:Weathered Lit
+  1x tris=52723 max=(2.4, 2.5, 5.7) YC_DISMANTLE/YC_D_MidVan/../Model | W_b#d#da#ea#:Weathered Lit,W_#e#a#add#d#b#:Weathered Lit,W_c#d#efb#de#:Weathered Lit
+  1x tris=50825 max=(5.7, 2.5, 2.4) SW_RUIN_W/SW_W_Van/../Model | W_a#bbb#a#c#a#f#f#dfb#:Weathered Lit,W_#c#eb#cff#ac#a#:Weathered Lit,W_#b#c#ac#de#a#a#d:Weathered Lit
+  1x tris=50722 max=(2.4, 2.5, 5.7) SW_RUIN_E/SW_E_SalvageVan/../Model | W_#f#b#d#a#a:Weathered Lit,W_e#b#b#e#da#bfc#fe#:Weathered Lit,W_c#a#f#fc#e#:Weathered Lit
+  1x tris=50559 max=(3.0, 3.1, 7.1) YC_DISMANTLE/YC_D_Truck/../Model | W_caae#b#fad#:Weathered Lit,W_bf#e#d#ae#f#b#e#:Weathered Lit,W_fd#d#b#d#bc:Weathered Lit
+  1x tris=7200 max=(2.3, 3.5, 7.0) YC_DISMANTLE/YC_D_Truck/../Leaves | IvyLeaf:Lit
+  1x tris=5760 max=(1.9, 1.3, 4.9) YC_DISMANTLE/YC_D_NorthCar/../Leaves | IvyLeaf:Lit
+  1x tris=5760 max=(0.5, 2.0, 3.9) YC_DISMANTLE/YC_D_MidVan/../Leaves | IvyLeaf:Lit
+  1x tris=4800 max=(2.2, 1.2, 4.9) SW_RUIN_W/SW_W_SalvageCar/../Leaves | IvyLeaf:Lit
+  1x tris=4800 max=(4.2, 1.7, 2.2) SW_RUIN_E/SW_E_Container/../Leaves | IvyLeaf:Lit
+  1x tris=4560 max=(6.1, 1.8, 2.2) SW_RUIN_W/SW_W_Van/../Leaves | IvyLeaf:Lit
+  1x tris=4080 max=(2.8, 2.1, 5.5) SW_RUIN_E/SW_E_SalvageVan/../Leaves | IvyLeaf:Lit
+  1x tris=3644 max=(2.0, 1.2, 1.0) SW_RUIN_W/SW_W_Van/../__A#___RuinGenerated_VehicleBacking_Model | G_#f#a#f#d#d#d#c:Lit
+  1x tris=3544 max=(1.0, 1.5, 2.9) YC_DISMANTLE/YC_D_Truck/../__A#___RuinGenerated_VehicleBacking_Model | G_#c#f#cac#c#e#d#c:Lit
+  1x tris=3489 max=(0.8, 1.2, 2.4) SW_RUIN_E/SW_E_SalvageVan/../__A#___RuinGenerated_VehicleBacking_Model | G_c#b#a#ac#b:Lit
+  1x tris=3223 max=(0.8, 0.6, 1.7) SW_RUIN_W/SW_W_SalvageCar/../__A#___RuinGenerated_VehicleBacking_Model | G_#c#a#edd#b#bae#dd:Lit
+  1x tris=3133 max=(0.7, 0.6, 1.7) YC_DISMANTLE/YC_D_NorthCar/../__A#___RuinGenerated_VehicleBacking_Model | G_#bba#adc#c#e#cf#cf#:Lit
+  1x tris=2151 max=(0.8, 1.2, 2.3) YC_DISMANTLE/YC_D_MidVan/../__A#___RuinGenerated_VehicleBacking_Model | G_fd#a#cae#b#ee#:Lit
+  1x tris=1260 max=(2.3, 3.4, 6.8) YC_DISMANTLE/YC_D_Truck/../Stems | IvyStem:Lit
+  1x tris=994 max=(0.9, 0.2, 0.6) SW_RUIN_E/SW_E_Container/../__A#___RuinGenerated_VehicleBacking_Model | G_#fe#ab#b#a#d#a#dce#e#:Lit
+  1x tris=960 max=(0.4, 1.9, 3.7) YC_DISMANTLE/YC_D_MidVan/../Stems | IvyStem:Lit
+  1x tris=940 max=(1.7, 1.3, 4.8) YC_DISMANTLE/YC_D_NorthCar/../Stems | IvyStem:Lit
+  1x tris=790 max=(2.0, 1.2, 4.9) SW_RUIN_W/SW_W_SalvageCar/../Stems | IvyStem:Lit
+  1x tris=770 max=(5.9, 1.7, 2.0) SW_RUIN_W/SW_W_Van/../Stems | IvyStem:Lit
+  1x tris=770 max=(4.1, 1.6, 2.1) SW_RUIN_E/SW_E_Container/../Stems | IvyStem:Lit
+  1x tris=660 max=(2.7, 2.0, 5.4) SW_RUIN_E/SW_E_SalvageVan/../Stems | IvyStem:Lit
+SURVEY Equipment path=EnclosuresV33_ConnectedFacilities/Equipment children=29 renderers=96 groups=53
+  2x tris=105622 max=(2.1, 2.1, 5.0) EW#/Unit_#/ReplaceableVisual/../Model | W_b#d#da#ea#:Weathered Lit,W_#e#a#add#d#b#:Weathered Lit,W_c#d#efb#de#:Weathered Lit
+  2x tris=105442 max=(5.0, 2.1, 2.1) EE#/Unit_#/ReplaceableVisual/../Model | W_b#d#da#ea#:Weathered Lit,W_#e#a#add#d#b#:Weathered Lit,W_c#d#efb#de#:Weathered Lit
+  2x tris=103052 max=(5.0, 2.1, 2.1) EE#/Unit_#/ReplaceableVisual/../Model | W_caae#b#fad#:Weathered Lit,W_bf#e#d#ae#f#b#e#:Weathered Lit,W_fd#d#b#d#bc:Weathered Lit
+  1x tris=94989 max=(4.5, 1.2, 2.4) EC#/Unit_#/ReplaceableVisual/../Model | W_#f#ca#d#f#e#ae#c:Weathered Lit
+  1x tris=93505 max=(4.5, 1.2, 2.4) EC#/Unit_#/ReplaceableVisual/../Model | W_ebb#e#f#f#e#:Weathered Lit
+  1x tris=92606 max=(4.5, 1.2, 2.4) EC#/Unit_#/ReplaceableVisual/../Model | W_#e#d#a#b#b#dd:Weathered Lit
+  1x tris=50948 max=(5.0, 2.1, 2.1) EE#/Unit_#/ReplaceableVisual/../Model | W_a#bbb#a#c#a#f#f#dfb#:Weathered Lit,W_#c#eb#cff#ac#a#:Weathered Lit,W_#b#c#ac#de#a#a#d:Weathered Lit
+  1x tris=50655 max=(2.1, 2.1, 5.0) EW#/Unit_#/ReplaceableVisual/../Model | W_caae#b#fad#:Weathered Lit,W_bf#e#d#ae#f#b#e#:Weathered Lit,W_fd#d#b#d#bc:Weathered Lit
+  1x tris=50634 max=(2.1, 2.1, 5.0) EW#/Unit_#/ReplaceableVisual/../Model | W_#f#b#d#a#a:Weathered Lit,W_e#b#b#e#da#bfc#fe#:Weathered Lit,W_c#a#f#fc#e#:Weathered Lit
+  4x tris=36792 max=(4.2, 2.3, 4.2) EC#/Unit_#/ReplaceableVisual/../Visual | W_#d#c#aef#de#d#a#e:Weathered Lit
+  8x tris=29040 max=(5.3, 2.6, 2.5) EE#/Unit_#/ReplaceableVisual/../Leaves | IvyLeaf:Lit
+  3x tris=26223 max=(1.6, 2.3, 2.4) EE#/Unit_#/ReplaceableVisual/../Visual | W_b#f#bdd#da#b#b#fe#:Weathered Lit
+  4x tris=22320 max=(2.5, 2.4, 5.2) EW#/Unit_#/ReplaceableVisual/../Leaves | IvyLeaf:Lit
+  2x tris=18850 max=(1.6, 1.9, 2.2) EE#/Unit_#/ReplaceableVisual/../Visual | W_#bfcaf#d#af#:Weathered Lit
+  2x tris=18850 max=(1.6, 1.9, 2.2) EE#/Unit_#/ReplaceableVisual/../Visual | W_b#e#a#cffdb#f#bc#a#f#:Weathered Lit
+  2x tris=18396 max=(1.7, 2.3, 4.2) EC#/Unit_#/ReplaceableVisual/../Visual | W_#a#e#d#:Weathered Lit
+  5x tris=15360 max=(4.7, 1.4, 2.6) EC#/Unit_#/ReplaceableVisual/../Leaves | IvyLeaf:Lit
+  1x tris=9475 max=(2.4, 1.9, 1.1) EE#/Unit_#/ReplaceableVisual/../Visual | W_#ea#e#e#a#c#cfa#:Weathered Lit
+  1x tris=9475 max=(2.4, 1.9, 1.1) EF#/Unit_#/ReplaceableVisual/../Visual | W_ec#ed#ea#fa#bfc#a:Weathered Lit
+  1x tris=9448 max=(3.3, 1.2, 0.9) ES#/Unit_#/ReplaceableVisual/../Visual | W_#e#f#a#bc#cefdc#:Weathered Lit
+  1x tris=9425 max=(1.6, 1.9, 2.2) EE#/Unit_#/ReplaceableVisual/../Visual | W_#df#ec#ab#bcb#ec:Weathered Lit
+  1x tris=9425 max=(1.6, 1.9, 2.2) EE#/Unit_#/ReplaceableVisual/../Visual | W_#d#c#be#a#a#:Weathered Lit
+  1x tris=9198 max=(4.2, 2.3, 1.7) EN#/Unit_#/ReplaceableVisual/../Visual | W_#b#ba#fb#a#eae:Weathered Lit
+  1x tris=9198 max=(1.7, 2.3, 4.2) EC#/Unit_#/ReplaceableVisual/../Visual | W_#b#ba#fb#a#eae:Weathered Lit
+  1x tris=9198 max=(4.2, 2.3, 1.7) EF#/Unit_#/ReplaceableVisual/../Visual | W_#d#f#bbbfe#b#d#f#b#:Weathered Lit
+  1x tris=8765 max=(3.0, 1.8, 1.5) EN#/Unit_#/ReplaceableVisual/../Visual | W_#e#b#a#fde#fecfc#dbf:Weathered Lit
+  1x tris=8741 max=(1.6, 2.3, 2.4) EE#/Unit_#/ReplaceableVisual/../Visual | W_ad#cc#f#da#ec#:Weathered Lit
+  1x tris=8741 max=(1.6, 2.3, 2.4) EE#/Unit_#/ReplaceableVisual/../Visual | W_b#e#f#bff#e#a#:Weathered Lit
+  1x tris=8741 max=(1.6, 2.3, 2.4) EE#/Unit_#/ReplaceableVisual/../Visual | W_c#db#bf#d#e#dad#e:Weathered Lit
+  1x tris=8413 max=(6.5, 3.5, 3.2) EY#/Unit_#/ReplaceableVisual/../Visual | W_#f#ba#cec#a#fb#:Weathered Lit
+  8x tris=4560 max=(5.1, 2.5, 2.4) EE#/Unit_#/ReplaceableVisual/../Stems | IvyStem:Lit
+  1x tris=4560 max=(1.8, 3.4, 3.5) EY#/Unit_#/ReplaceableVisual/../Leaves | IvyLeaf:Lit
+  1x tris=3635 max=(1.7, 1.0, 0.8) EE#/Unit_#/ReplaceableVisual/../__A#___RuinGenerated_VehicleBacking_Model | G_#a#a#a#a#d#f#b#f#:Lit
+  1x tris=3562 max=(1.7, 1.0, 0.8) EE#/Unit_#/ReplaceableVisual/../__A#___RuinGenerated_VehicleBacking_Model | G_#ad#dc#c#d#e#:Lit
+  4x tris=3530 max=(2.5, 2.3, 5.0) EW#/Unit_#/ReplaceableVisual/../Stems | IvyStem:Lit
+  1x tris=3527 max=(0.7, 1.0, 2.0) EW#/Unit_#/ReplaceableVisual/../__A#___RuinGenerated_VehicleBacking_Model | G_f#b#e#bbf#efd#:Lit
+  1x tris=3476 max=(0.7, 1.0, 2.0) EW#/Unit_#/ReplaceableVisual/../__A#___RuinGenerated_VehicleBacking_Model | G_bb#cb#a#f#:Lit
+  1x tris=3467 max=(1.7, 1.0, 0.8) EE#/Unit_#/ReplaceableVisual/../__A#___RuinGenerated_VehicleBacking_Model | G_#acc#ddf#e#e#b#ebaa:Lit
+  1x tris=2761 max=(1.4, 0.5, 1.0) EC#/Unit_#/ReplaceableVisual/../__A#___RuinGenerated_VehicleBacking_Model | G_#db#a#d#cb#b:Lit
+  5x tris=2490 max=(4.5, 1.2, 2.5) EC#/Unit_#/ReplaceableVisual/../Stems | IvyStem:Lit
+  2x tris=2160 max=(0.6, 0.6, 0.6) EN#/Unit_#/ReplaceableVisual/../Leaves | IvyLeaf:Lit
+  1x tris=2141 max=(0.7, 1.0, 2.0) EW#/Unit_#/ReplaceableVisual/../__A#___RuinGenerated_VehicleBacking_Model | G_b#ce#caf#a#c#:Lit
+  1x tris=2127 max=(0.7, 1.0, 2.0) EW#/Unit_#/ReplaceableVisual/../__A#___RuinGenerated_VehicleBacking_Model | G_#a#d#eb#c#a#c#da#:Lit
+  1x tris=2081 max=(1.7, 1.0, 0.9) EE#/Unit_#/ReplaceableVisual/../__A#___RuinGenerated_VehicleBacking_Model | G_#de#b#:Lit
+  1x tris=2075 max=(1.7, 1.0, 0.9) EE#/Unit_#/ReplaceableVisual/../__A#___RuinGenerated_VehicleBacking_Model | G_#b#a#a#dab#b#a#a#:Lit
+  2x tris=1920 max=(1.2, 0.9, 0.4) EF#/Unit_#/ReplaceableVisual/../Leaves | IvyLeaf:Lit
+  1x tris=1375 max=(1.3, 0.3, 0.7) EC#/Unit_#/ReplaceableVisual/../__A#___RuinGenerated_VehicleBacking_Model | G_#d#cee#c#d#fcc#:Lit
+  1x tris=960 max=(0.8, 1.0, 0.3) ES#/Unit_#/ReplaceableVisual/../Leaves | IvyLeaf:Lit
+  1x tris=800 max=(1.6, 3.2, 3.5) EY#/Unit_#/ReplaceableVisual/../Stems | IvyStem:Lit
+  1x tris=636 max=(0.7, 0.1, 0.4) EC#/Unit_#/ReplaceableVisual/../__A#___RuinGenerated_VehicleBacking_Model | G_e#de#d#d#f#aab#c#:Lit
+SURVEY BlenderExpansion_Outdoor_FactoryV12_RustyBarricades path=BlenderExpansion_Outdoor_FactoryV12_RustyBarricades children=1 renderers=21 groups=21
+  1x tris=2176 max=(3.2, 1.5, 1.5) FactoryV#_RustyBarricades_FBX/SRC_Police_Barricade_#K_T#_U_#c# | W_#e#bd#a#fb#ea#:Weathered Lit
+  1x tris=2176 max=(3.2, 1.5, 1.2) FactoryV#_RustyBarricades_FBX/SRC_Police_Barricade_#K_T#_U_d#b#f# | W_#f#e#ea#c#d#a#:Weathered Lit
+  1x tris=2176 max=(3.2, 1.5, 1.5) FactoryV#_RustyBarricades_FBX/SRC_Police_Barricade_#K_T#_U_#be | W_#f#ccd#daa#b#f#bedea:Weathered Lit
+  1x tris=2176 max=(1.7, 1.5, 3.2) FactoryV#_RustyBarricades_FBX/SRC_Police_Barricade_#K_T#_U_#c#e# | W_f#f#f#c#eebab#b#d:Weathered Lit
+  1x tris=2176 max=(1.7, 1.5, 3.2) FactoryV#_RustyBarricades_FBX/SRC_Police_Barricade_#K_T#_U_#f#d# | W_#ef#cb#d#c#d#a#:Weathered Lit
+  1x tris=2176 max=(3.2, 1.5, 1.4) FactoryV#_RustyBarricades_FBX/SRC_Police_Barricade_#K_T#_U_#b#e# | W_#ac#e#dddb#e#:Weathered Lit
+  1x tris=2176 max=(3.2, 1.5, 1.2) FactoryV#_RustyBarricades_FBX/SRC_Police_Barricade_#K_T#_U_#be# | W_d#f#c#:Weathered Lit
+  1x tris=2176 max=(3.2, 1.5, 1.2) FactoryV#_RustyBarricades_FBX/SRC_Police_Barricade_#K_T#_U_#e#d#d# | W_#c#b#d#d#bfe#cee:Weathered Lit
+  1x tris=2176 max=(3.0, 1.5, 2.4) FactoryV#_RustyBarricades_FBX/SRC_Police_Barricade_#K_T#_U_#aff# | W_#b#d#ace#:Weathered Lit
+  1x tris=1200 max=(0.8, 0.6, 0.9) FactoryV#_RustyBarricades_FBX/SRC_Police_Barricade_#K_T#_U_#f#d#/../Leaves | IvyLeaf:Lit
+  1x tris=960 max=(0.5, 0.8, 0.6) FactoryV#_RustyBarricades_FBX/SRC_Police_Barricade_#K_T#_U_#c#/../Leaves | IvyLeaf:Lit
+  1x tris=768 max=(0.6, 0.4, 0.2) FactoryV#_RustyBarricades_FBX/SRC_Police_Barricade_#K_T#_U_#e#d#d#_BentRim/../Leaves | IvyLeaf:Lit

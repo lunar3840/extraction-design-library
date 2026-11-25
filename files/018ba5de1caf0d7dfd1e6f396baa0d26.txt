@@ -1,0 +1,154 @@
+LOOK MOSS (candidate, moss_03)
+amount=1.00 washAdd=0.38 sunDir=(0.46, 0.67, -0.59)
+  C01: triangles=7726 colonies=80 tufts=1500 foot=37 head=19 lintel=0 open=0 roof=19 top=5
+  C02: triangles=17737 colonies=72 tufts=1500 foot=28 head=11 lintel=1 open=1 roof=19 top=12
+  C03: triangles=20116 colonies=75 tufts=1500 foot=36 head=12 lintel=0 open=1 roof=22 top=4
+  C04: triangles=9089 colonies=102 tufts=1500 foot=36 head=31 lintel=1 open=0 roof=28 top=6
+  E01: triangles=19723 colonies=70 tufts=1500 foot=34 head=8 lintel=1 open=1 roof=25 top=1
+  E02: triangles=6259 colonies=73 tufts=1500 foot=30 head=7 lintel=1 open=1 roof=28 top=6
+  E03: triangles=6108 colonies=75 tufts=1500 foot=35 head=5 lintel=0 open=4 roof=21 top=10
+  E04: triangles=5747 colonies=94 tufts=1500 foot=26 head=16 lintel=2 open=3 roof=36 top=11
+  E05: triangles=23535 colonies=87 tufts=1500 foot=30 head=27 lintel=0 open=1 roof=17 top=12
+  E06: triangles=7200 colonies=104 tufts=1500 foot=26 head=24 lintel=0 open=2 roof=29 top=23
+  E07: triangles=6727 colonies=70 tufts=1500 foot=31 head=9 lintel=1 open=1 roof=21 top=7
+  E08: triangles=6720 colonies=90 tufts=1500 foot=19 head=16 lintel=0 open=0 roof=29 top=26
+  E09: triangles=6538 colonies=91 tufts=1251 foot=24 head=19 lintel=3 open=1 roof=12 top=32
+  E10: triangles=2131 colonies=39 tufts=744 foot=18 head=8 lintel=0 open=3 roof=9 top=1
+  E11: triangles=6464 colonies=79 tufts=1500 foot=19 head=10 lintel=0 open=0 roof=28 top=22
+  E12: triangles=6126 colonies=80 tufts=1500 foot=30 head=14 lintel=0 open=3 roof=30 top=3
+  F01: triangles=6613 colonies=79 tufts=1500 foot=40 head=5 lintel=0 open=2 roof=20 top=12
+  F02: triangles=19968 colonies=69 tufts=1500 foot=23 head=6 lintel=0 open=1 roof=24 top=15
+  F03: triangles=5648 colonies=79 tufts=1500 foot=30 head=14 lintel=0 open=1 roof=23 top=11
+  N01: triangles=8569 colonies=95 tufts=1500 foot=31 head=17 lintel=1 open=2 roof=23 top=21
+  N02: triangles=15449 colonies=64 tufts=1500 foot=34 head=7 lintel=0 open=1 roof=20 top=2
+  N03: triangles=6169 colonies=65 tufts=1500 foot=32 head=9 lintel=0 open=2 roof=19 top=3
+  N04: triangles=5458 colonies=76 tufts=1500 foot=14 head=19 lintel=0 open=1 roof=32 top=10
+  N05: triangles=5750 colonies=70 tufts=1500 foot=18 head=7 lintel=0 open=4 roof=30 top=11
+  N06: triangles=8399 colonies=83 tufts=1500 foot=27 head=22 lintel=2 open=3 roof=19 top=10
+  N07: triangles=2343 colonies=67 tufts=1255 foot=24 head=2 lintel=0 open=1 roof=23 top=17
+  N08: triangles=5947 colonies=78 tufts=1221 foot=26 head=10 lintel=0 open=2 roof=23 top=17
+  N09: triangles=12136 colonies=74 tufts=1500 foot=23 head=19 lintel=0 open=4 roof=21 top=7
+  N10: triangles=23794 colonies=88 tufts=1500 foot=32 head=17 lintel=1 open=1 roof=26 top=11
+  N11: triangles=6386 colonies=74 tufts=1500 foot=30 head=12 lintel=1 open=0 roof=26 top=5
+  N12: triangles=19927 colonies=76 tufts=1500 foot=36 head=15 lintel=0 open=3 roof=18 top=4
+  N13: triangles=18458 colonies=91 tufts=1500 foot=35 head=20 lintel=1 open=5 roof=23 top=7
+  N14: triangles=2961 colonies=72 tufts=1195 foot=32 head=18 lintel=0 open=1 roof=18 top=3
+  N15: triangles=21376 colonies=71 tufts=1500 foot=32 head=4 lintel=1 open=5 roof=22 top=7
+  N16: triangles=5623 colonies=65 tufts=1092 foot=31 head=12 lintel=0 open=2 roof=16 top=4
+  N17: triangles=5411 colonies=76 tufts=1500 foot=33 head=13 lintel=0 open=1 roof=22 top=7
+  S01: triangles=1138 colonies=94 tufts=1500 foot=39 head=28 lintel=2 open=2 roof=21 top=2
+  S02: triangles=582 colonies=70 tufts=1500 foot=43 head=5 lintel=0 open=1 roof=21 top=0
+  S03: triangles=9442 colonies=88 tufts=1500 foot=22 head=16 lintel=0 open=1 roof=35 top=14
+  S04: triangles=13782 colonies=89 tufts=1500 foot=35 head=12 lintel=0 open=0 roof=25 top=17
+  S05: triangles=18981 colonies=93 tufts=1500 foot=29 head=11 lintel=0 open=0 roof=37 top=16
+  S06: triangles=568 colonies=73 tufts=1500 foot=39 head=9 lintel=0 open=1 roof=18 top=6
+  S07: triangles=10501 colonies=72 tufts=1500 foot=30 head=13 lintel=0 open=0 roof=22 top=7
+  S08: triangles=12020 colonies=101 tufts=1500 foot=33 head=17 lintel=0 open=1 roof=37 top=13
+  S09: triangles=15826 colonies=79 tufts=1320 foot=25 head=12 lintel=0 open=1 roof=27 top=14
+  S10: triangles=10898 colonies=89 tufts=1500 foot=31 head=15 lintel=0 open=2 roof=29 top=12
+  S11: triangles=24376 colonies=85 tufts=1500 foot=32 head=15 lintel=2 open=3 roof=26 top=7
+  S12: triangles=4244 colonies=54 tufts=888 foot=15 head=8 lintel=0 open=0 roof=25 top=6
+  W01: triangles=7377 colonies=93 tufts=1500 foot=25 head=19 lintel=0 open=3 roof=35 top=11
+  W02: triangles=21225 colonies=67 tufts=1500 foot=26 head=9 lintel=0 open=1 roof=22 top=9
+  W03: triangles=20962 colonies=104 tufts=1500 foot=36 head=29 lintel=1 open=2 roof=27 top=9
+  W04: triangles=22019 colonies=82 tufts=1500 foot=30 head=17 lintel=1 open=3 roof=18 top=13
+  W05: triangles=8987 colonies=78 tufts=1500 foot=28 head=19 lintel=1 open=5 roof=21 top=4
+  W06: triangles=16876 colonies=77 tufts=1500 foot=24 head=14 lintel=0 open=3 roof=24 top=12
+  W07: triangles=8798 colonies=67 tufts=1500 foot=28 head=14 lintel=0 open=2 roof=19 top=4
+  W08: triangles=22438 colonies=83 tufts=1500 foot=22 head=21 lintel=1 open=1 roof=31 top=7
+  W09: triangles=7447 colonies=79 tufts=1500 foot=32 head=6 lintel=0 open=2 roof=22 top=17
+  W10: no shell or pilot wall, skipped
+  W11: triangles=5994 colonies=87 tufts=1500 foot=27 head=6 lintel=1 open=1 roof=30 top=22
+  Y01: triangles=24431 colonies=90 tufts=1500 foot=32 head=12 lintel=1 open=4 roof=33 top=8
+  Y02: triangles=9972 colonies=88 tufts=1500 foot=32 head=17 lintel=1 open=2 roof=28 top=8
+  Y03: triangles=7654 colonies=80 tufts=1500 foot=27 head=17 lintel=0 open=3 roof=21 top=12
+  Y04: triangles=7503 colonies=88 tufts=1500 foot=36 head=11 lintel=0 open=1 roof=18 top=22
+  Y05: triangles=21907 colonies=80 tufts=1500 foot=32 head=18 lintel=0 open=0 roof=23 top=7
+BUILDINGS 63 skipped=1 tufts=91466
+  CLINIC: cover triangles=1241 wall triangles=12116 outer=4342
+  CLINIC: triangles=4644 colonies=143 tufts=3000 foot=72 head=27 lintel=1 open=1 roof=42 top=0
+    CLINIC world min=(-195.3, 3.9, 94.3) max=(-136.6, 9.6, 147.3)
+  POWER: cover triangles=1808 wall triangles=6302 outer=2081
+  POWER: triangles=2983 colonies=134 tufts=3000 foot=69 head=19 lintel=0 open=5 roof=41 top=0
+    POWER world min=(95.9, 11.9, 78.3) max=(160.1, 28.6, 136.4)
+  PARTS: cover triangles=4648 wall triangles=12436 outer=3746
+  PARTS: triangles=6020 colonies=191 tufts=3000 foot=72 head=61 lintel=0 open=6 roof=52 top=0
+    PARTS world min=(136.5, 2.8, -41.9) max=(210.1, 13.2, 36.0)
+  TOOLS: cover triangles=547 wall triangles=4318 outer=1922
+  TOOLS: triangles=2202 colonies=121 tufts=2873 foot=43 head=30 lintel=0 open=0 roof=48 top=0
+    TOOLS world min=(-179.2, 0.9, -5.2) max=(-153.9, 5.0, 16.2)
+  HALL: cover triangles=2325 wall triangles=35640 outer=13588
+  HALL: triangles=14763 colonies=319 tufts=6000 foot=99 head=105 lintel=20 open=9 roof=86 top=0
+    HALL wallRenderers=62 roofRenderers=46 world min=(-40.8, -4.0, -33.8) max=(40.8, 17.2, 23.8)
+LANDMARKS+HALL tufts=17873
+  CN_W1: triangles=60 colonies=5 tufts=68 foot=4 head=0 lintel=0 open=0 roof=0 top=1
+    CN_W1 world min=(-143.8, 3.7, 134.1) max=(-126.7, 8.8, 138.6)
+  CN_W2: triangles=40 colonies=10 tufts=174 foot=10 head=0 lintel=0 open=0 roof=0 top=0
+    CN_W2 world min=(-104.8, 6.3, 136.4) max=(-93.0, 9.0, 137.1)
+  CN_W3: triangles=20 colonies=10 tufts=236 foot=9 head=0 lintel=0 open=0 roof=0 top=1
+    CN_W3 world min=(-93.1, 6.7, 127.0) max=(-92.9, 9.2, 133.0)
+  CN_W4: triangles=40 colonies=8 tufts=68 foot=5 head=0 lintel=0 open=0 roof=0 top=3
+    CN_W4 world min=(-93.1, 4.9, 92.0) max=(-92.9, 8.9, 105.0)
+  CN_W5: triangles=70 colonies=9 tufts=155 foot=7 head=0 lintel=0 open=0 roof=0 top=2
+    CN_W5 world min=(-119.0, 4.3, 88.9) max=(-93.0, 7.4, 92.1)
+  CN_W6: triangles=60 colonies=15 tufts=274 foot=13 head=0 lintel=0 open=0 roof=0 top=2
+    CN_W6 world min=(-139.8, 3.8, 88.9) max=(-127.9, 6.6, 106.4)
+  WC_W1: triangles=20 colonies=7 tufts=121 foot=5 head=0 lintel=0 open=0 roof=0 top=2
+  WC_W2: triangles=30 colonies=7 tufts=81 foot=7 head=0 lintel=0 open=0 roof=0 top=0
+  WC_W3: triangles=70 colonies=12 tufts=260 foot=12 head=0 lintel=0 open=0 roof=0 top=0
+  WC_W4: triangles=40 colonies=10 tufts=260 foot=9 head=0 lintel=0 open=1 roof=0 top=0
+  WC_W5: triangles=50 colonies=16 tufts=260 foot=16 head=0 lintel=0 open=0 roof=0 top=0
+  WC_W6: triangles=30 colonies=10 tufts=167 foot=10 head=0 lintel=0 open=0 roof=0 top=0
+  WC_W7: triangles=120 colonies=19 tufts=287 foot=15 head=0 lintel=0 open=1 roof=0 top=3
+  WC_W8: triangles=40 colonies=14 tufts=267 foot=11 head=0 lintel=0 open=1 roof=0 top=2
+  SC_W1: triangles=80 colonies=17 tufts=267 foot=14 head=0 lintel=0 open=0 roof=0 top=3
+  SC_W2: triangles=80 colonies=13 tufts=287 foot=9 head=0 lintel=0 open=0 roof=0 top=4
+  SC_W3: triangles=70 colonies=16 tufts=283 foot=12 head=0 lintel=0 open=0 roof=0 top=4
+  SC_W4: triangles=30 colonies=5 tufts=71 foot=3 head=0 lintel=0 open=0 roof=0 top=2
+  SC_W5: triangles=40 colonies=9 tufts=151 foot=6 head=0 lintel=0 open=1 roof=0 top=2
+  SC_W6: triangles=150 colonies=19 tufts=294 foot=12 head=0 lintel=0 open=0 roof=0 top=7
+  WS1: triangles=60 colonies=14 tufts=260 foot=14 head=0 lintel=0 open=0 roof=0 top=0
+  WS2: triangles=40 colonies=15 tufts=227 foot=12 head=0 lintel=0 open=0 roof=0 top=3
+  WS3: triangles=90 colonies=17 tufts=281 foot=15 head=0 lintel=0 open=0 roof=0 top=2
+BOUNDARY WALLS segments=23 tufts=4799
+  YC_DISMANTLE/YC_D_Truck: topTriangles=1670 tufts=150 at (-3.0, 1.4, -118.0) size (3.0, 3.1, 7.1)
+  YC_DISMANTLE/YC_D_MidVan: topTriangles=1293 tufts=28 at (-8.5, 1.1, -114.0) size (2.4, 2.5, 5.7)
+  SW_RUIN_W/SW_W_Van: topTriangles=1265 tufts=99 at (-186.5, 1.2, -96.0) size (5.7, 2.5, 2.4)
+  SW_RUIN_E/SW_E_SalvageVan: topTriangles=1275 tufts=0 at (-118.1, 1.2, -115.0) size (2.4, 2.5, 5.7)
+  EN1/Unit_00: topTriangles=431 tufts=64 at (-124.0, 5.6, 99.0) size (3.0, 1.8, 1.5)
+  EN2/Unit_00: topTriangles=495 tufts=39 at (-210.0, 4.0, 74.0) size (4.2, 2.3, 1.7)
+  EW1/Unit_00: topTriangles=1070 tufts=24 at (-234.3, 1.1, -60.0) size (2.1, 2.1, 5.0)
+  EW1/Unit_01: topTriangles=1043 tufts=91 at (-230.8, 1.1, -60.0) size (2.1, 2.1, 5.0)
+  EW1/Unit_02: topTriangles=1071 tufts=96 at (-227.3, 1.1, -60.0) size (2.1, 2.1, 5.0)
+  EW1/Unit_03: topTriangles=1030 tufts=0 at (-223.8, 1.1, -60.0) size (2.1, 2.1, 5.0)
+  EC1/Unit_00: topTriangles=495 tufts=28 at (5.9, 3.1, 29.0) size (1.7, 2.3, 4.2)
+  EC1/Unit_01: topTriangles=495 tufts=1 at (8.8, 3.1, 29.0) size (1.7, 2.3, 4.2)
+  EC1/Unit_02: topTriangles=495 tufts=6 at (11.6, 3.1, 29.0) size (1.7, 2.3, 4.2)
+  EC1/Unit_03: topTriangles=495 tufts=51 at (14.4, 3.1, 29.0) size (1.7, 2.3, 4.2)
+  EC1/Unit_04: topTriangles=495 tufts=55 at (17.3, 3.1, 29.0) size (1.7, 2.3, 4.2)
+  EC1/Unit_05: topTriangles=495 tufts=52 at (20.1, 3.1, 29.0) size (1.7, 2.3, 4.2)
+  EC2/Unit_00: topTriangles=495 tufts=10 at (36.0, 1.1, -72.0) size (4.2, 2.3, 1.7)
+  EE2/Unit_00: topTriangles=665 tufts=0 at (209.0, 8.1, 81.9) size (1.6, 2.3, 2.4)
+  EE2/Unit_01: topTriangles=665 tufts=0 at (209.0, 7.7, 86.8) size (1.6, 2.3, 2.4)
+  EE2/Unit_02: topTriangles=665 tufts=0 at (209.0, 7.8, 91.6) size (1.6, 2.3, 2.4)
+  EE2/Unit_03: topTriangles=665 tufts=0 at (209.0, 7.3, 96.4) size (1.6, 2.3, 2.4)
+  EE2/Unit_04: topTriangles=665 tufts=18 at (209.0, 7.6, 101.3) size (1.6, 2.3, 2.4)
+  EE2/Unit_05: topTriangles=665 tufts=11 at (209.0, 7.7, 106.1) size (1.6, 2.3, 2.4)
+  EE3/Unit_00: topTriangles=344 tufts=0 at (93.8, 5.3, 29.5) size (1.6, 1.9, 2.2)
+  EE3/Unit_01: topTriangles=344 tufts=0 at (96.3, 5.2, 29.5) size (1.6, 1.9, 2.2)
+  EE3/Unit_02: topTriangles=344 tufts=0 at (98.8, 5.0, 29.5) size (1.6, 1.9, 2.2)
+  EE3/Unit_03: topTriangles=344 tufts=2 at (101.3, 4.9, 29.5) size (1.6, 1.9, 2.2)
+  EE3/Unit_04: topTriangles=344 tufts=1 at (103.8, 4.7, 29.5) size (1.6, 1.9, 2.2)
+  EE3/Unit_05: topTriangles=344 tufts=0 at (106.3, 4.5, 29.5) size (1.6, 1.9, 2.2)
+  EE5/Unit_00: topTriangles=1040 tufts=48 at (222.0, 3.2, -25.6) size (5.0, 2.1, 2.1)
+  EE5/Unit_01: topTriangles=1054 tufts=27 at (222.0, 3.3, -21.8) size (5.0, 2.1, 2.1)
+  EE5/Unit_02: topTriangles=1077 tufts=103 at (222.0, 3.3, -18.0) size (5.0, 2.1, 2.1)
+  EE5/Unit_03: topTriangles=1037 tufts=74 at (222.0, 3.3, -14.2) size (5.0, 2.1, 2.1)
+  EE5/Unit_04: topTriangles=1081 tufts=103 at (222.0, 3.4, -10.4) size (5.0, 2.1, 2.1)
+  EE6/Unit_00: topTriangles=192 tufts=0 at (70.0, 2.9, -44.0) size (2.4, 1.9, 1.1)
+  ES3/Unit_00: topTriangles=116 tufts=0 at (-179.0, 0.6, -145.0) size (3.3, 1.2, 0.9)
+  EY4/Unit_00: topTriangles=858 tufts=35 at (18.0, 1.7, -134.0) size (6.5, 3.5, 3.2)
+  EF1/Unit_00: topTriangles=192 tufts=2 at (178.0, 1.0, -162.0) size (2.4, 1.9, 1.1)
+  EF2/Unit_00: topTriangles=495 tufts=0 at (133.0, 1.1, -176.0) size (4.2, 2.3, 1.7)
+VEHICLES/EQUIPMENT objects=39 tufts=1218
+moss tufts=115356 triangles=230712 (buildings 63: 91466, landmarks+hall: 17873, boundary walls 23: 4799, vehicles/equipment 39: 1218) colonies=6380 (foot 2437, head/sill 1116, lintel 49, open wall 134, roof/top 1957, wall top 687) washedMaterials=185

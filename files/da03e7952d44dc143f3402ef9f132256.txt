@@ -1,0 +1,57 @@
+STYLIZED LOOK PLAY CAPTURE label=after
+METHOD: actual Stage A play session; player teleported to recorded spots; enemies/world ticks frozen; regular TopDownCamera framing (no look-ahead); 1600x1000 render of player.view. after = control pass (look off) then look-on pass in the same session.
+NOTE preview used older inline geometry / departure failed (pre-existing); entered runtime map prefab directly without encounters/loot. map=A_Blockout__Partially_Flooded_Maintenance_District v33=True
+options=variants agingmoss only=bld_S05_close,pilot_block,tree_1,prop_2,close_car,moss_wall,moss_wall_s,moss_clinic,moss_hall,moss_tools,building_inside_1 variants=1
+PILOT cut triangles=0 walls=61 props=52 solids=223 created=238 hidden=20
+passes=control,aged,mossed,z_mid_deep
+spots=11 lookType=True cutoutType=True
+CAPTURED control_tree_1 pos=(-32.84, 7.00, 63.14) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_building_inside_1 pos=(-211.00, 0.24, -124.00) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_prop_2 pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_close_car pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_pilot_block pos=(-180.80, 0.10, -97.30) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_bld_S05_close pos=(-208.50, 0.20, -111.00) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_moss_wall pos=(-106.00, 5.55, 94.50) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_moss_wall_s pos=(-106.00, 4.36, 86.00) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_moss_clinic pos=(-166.00, 4.36, 151.50) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_moss_hall pos=(0.00, 2.04, 29.00) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_moss_tools pos=(-166.50, 1.07, 20.50) v33Revealing=False v33Active=0 look=off (never enabled)
+AGEING level=3 weathered renderers=73 slots=184 stains=254 ivyGroups=9 ivyLeaves=2524 | stock buildings=60 skipped=4 weatherRenderers=120 slots=772 heldByReveal=0 stains=5536
+PASS 1 prefix=aged aged=True moss=False look=off (never enabled)
+CAPTURED aged_tree_1 pos=(-32.84, 7.00, 63.14) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED aged_building_inside_1 pos=(-211.00, 0.24, -124.00) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED aged_prop_2 pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED aged_close_car pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED aged_pilot_block pos=(-180.80, 0.10, -97.30) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED aged_bld_S05_close pos=(-208.50, 0.20, -111.00) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED aged_moss_wall pos=(-106.00, 5.55, 94.50) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED aged_moss_wall_s pos=(-106.00, 4.36, 86.00) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED aged_moss_clinic pos=(-166.00, 4.36, 151.50) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED aged_moss_hall pos=(0.00, 2.04, 29.00) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED aged_moss_tools pos=(-166.50, 1.07, 20.50) v33Revealing=False v33Active=0 look=off (never enabled)
+MOSS moss tufts=115356 triangles=230712 (buildings 63: 91466, landmarks+hall: 17873, boundary walls 23: 4799, vehicles/equipment 39: 1218) colonies=6380 (foot 2437, head/sill 1116, lintel 49, open wall 134, roof/top 1957, wall top 687) washedMaterials=185
+PASS 2 prefix=mossed aged=True moss=True look=off (never enabled)
+CAPTURED mossed_tree_1 pos=(-32.84, 7.00, 63.14) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED mossed_building_inside_1 pos=(-211.00, 0.24, -124.00) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED mossed_prop_2 pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED mossed_close_car pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED mossed_pilot_block pos=(-180.80, 0.10, -97.30) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED mossed_bld_S05_close pos=(-208.50, 0.20, -111.00) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED mossed_moss_wall pos=(-106.00, 5.55, 94.50) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED mossed_moss_wall_s pos=(-106.00, 4.36, 86.00) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED mossed_moss_clinic pos=(-166.00, 4.36, 151.50) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED mossed_moss_hall pos=(0.00, 2.04, 29.00) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED mossed_moss_tools pos=(-166.50, 1.07, 20.50) v33Revealing=False v33Active=0 look=off (never enabled)
+PASS 3 prefix=z_mid_deep aged=True moss=True look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+CAPTURED z_mid_deep_tree_1 pos=(-32.84, 7.00, 63.14) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+CAPTURED z_mid_deep_building_inside_1 pos=(-211.00, 0.24, -124.00) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+CAPTURED z_mid_deep_prop_2 pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+CAPTURED z_mid_deep_close_car pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+CAPTURED z_mid_deep_pilot_block pos=(-180.80, 0.10, -97.30) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+CAPTURED z_mid_deep_bld_S05_close pos=(-208.50, 0.20, -111.00) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+CAPTURED z_mid_deep_moss_wall pos=(-106.00, 5.55, 94.50) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+CAPTURED z_mid_deep_moss_wall_s pos=(-106.00, 4.36, 86.00) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+CAPTURED z_mid_deep_moss_clinic pos=(-166.00, 4.36, 151.50) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+CAPTURED z_mid_deep_moss_hall pos=(0.00, 2.04, 29.00) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+CAPTURED z_mid_deep_moss_tools pos=(-166.50, 1.07, 20.50) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+RESULT COMPLETE captured=11 pass=3
