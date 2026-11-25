@@ -1,0 +1,7 @@
+DOOR LEAF (saved change to Assets/Escape/Art/BuildingDoorsV01/W02_DoorA.asset) 2026-11-26T02:56:05.3187959+09:00
+building W02 object EnclosuresV33_ConnectedFacilities/Buildings/W02 door 0: outside anchor DOOR_EXTERIOR_A (-179.79, 1.93, 48.82) plan(80.21, 151.18), inside anchor DOOR_INTERIOR_A (-180.13, 2.03, 46.05) plan(79.87, 153.95)
+floor 1.88 (WalkableFloor), wall W02_Shell_colliderOnly at 1.19 m from the outside anchor, doorway 1.50 x 2.20 m, facing (-0.122, 0.000, -0.993)
+free wall beside the doorway: full leaf right True left True, half leaf right True left True -> one leaf of 1.34 m, right (asked auto)
+LEAF added to W02_Shell_renderOpaque_W02_DoorA (EnclosuresV33_ConnectedFacilities/Buildings/W02/BlenderExpansion_W02_Shell/W02_Shell/W02_Shell_renderOpaque) in material slot 2 (W_1af2f6d537e787ea4d50868e): 7 boxes, triangles 10880 -> 10964, vertices +168; folded back flat against the outside wall, no collider
+asset before the leaf kept as C:/UnityProject/_backups/door_W02_DoorA/W02_DoorA.asset.before_leaf; map prefab untouched (sha256 dc3ed08fb27071132353aebf201aac11767b8862470b9020dcb286fd117ba359)
+RESULT SAVED
