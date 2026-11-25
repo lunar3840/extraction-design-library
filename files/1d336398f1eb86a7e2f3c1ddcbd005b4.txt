@@ -1,0 +1,9 @@
+WORKSHOP STREET COMBAT FLOW (Play session only)
+openings=6 (runtime wall pieces removed 8) wallRemainBricks=26 rubblePieces=44 (no colliders)
+round-7 props removed from new passages=0
+props placed=79 skipped: nearDoor=0 nearEnemyPoint=1 inBuilding=0 prefabMissing=0 maxTilt=7.2deg (existing MapAssetsV16 prefabs with their own colliders)
+  ConcreteBarrier 5, ConstructionBarrier 10, IndustrialCableReel 5, IndustrialEngine 5, IndustrialFlywheel 5, IndustrialPipeBundle 5, IndustrialTransformer 5, RustyOilBarrels 16, ShippingContainer 12, WeatheredIndustrialGenerator 7, WeatheredMilitaryCrates 4
+  skipped IndustrialCableReel@91.31,212.54 nearEnemyPoint
+navigation rebuilt with the changed colliders, 1.2s
+measure after: raySamples=8069 x 72 directions, walkable cells outdoor=30683 indoor=16037 (0.25 m2 each), doors=22 in 11 buildings, 1.9s
+openings=6 wallRemainBricks=26 propsRemoved=0 propsPlaced=79 skipped=1
