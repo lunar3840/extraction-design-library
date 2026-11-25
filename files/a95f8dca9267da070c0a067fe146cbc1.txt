@@ -1,0 +1,9 @@
+룩 끔 화면 확인 (nier_06은 설정만 바꿈, 셰이더·코드 수정 없음). after_16 control vs after_15 control, 같은 카메라
+tree_1             differing >8/255: 0.008%  >2/255: 0.025%  max=119  mean=0.003
+prop_2             differing >8/255: 0.005%  >2/255: 0.021%  max=62  mean=0.002
+close_open         differing >8/255: 0.273%  >2/255: 0.605%  max=106  mean=0.074
+close_car          differing >8/255: 0.262%  >2/255: 0.344%  max=48  mean=0.055
+pilot_block        differing >8/255: 1.007%  >2/255: 1.411%  max=101  mean=0.245
+bld_S05            differing >8/255: 0.121%  >2/255: 0.173%  max=52  mean=0.021
+bld_S05_close      differing >8/255: 0.101%  >2/255: 0.205%  max=115  mean=0.025
+bld_tree3_close    differing >8/255: 0.000%  >2/255: 0.000%  max=0  mean=0.000

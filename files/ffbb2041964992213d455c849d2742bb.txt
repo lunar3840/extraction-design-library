@@ -1,0 +1,62 @@
+STYLIZED LOOK PLAY CAPTURE label=after
+METHOD: actual Stage A play session; player teleported to recorded spots; enemies/world ticks frozen; regular TopDownCamera framing (no look-ahead); 1600x1000 render of player.view. after = control pass (look off) then look-on pass in the same session.
+NOTE preview used older inline geometry / departure failed (pre-existing); entered runtime map prefab directly without encounters/loot. map=A_Blockout__Partially_Flooded_Maintenance_District v33=True
+options=variants agingall only=bld_S05_close,bld_tree3_close,bld_S05,prop_2,tree_1,close_open,close_car,pilot_block variants=4
+PILOT cut triangles=0 walls=61 props=52 solids=223 created=238 hidden=20
+passes=control,aged,w_nier05,x_mid_soft,y_mid,z_mid_deep
+spots=8 lookType=True cutoutType=True
+CAPTURED control_tree_1 pos=(-32.84, 7.00, 63.14) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_prop_2 pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_close_car pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_close_open pos=(-239.30, 0.06, -64.60) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_pilot_block pos=(-180.80, 0.10, -97.30) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_bld_S05 pos=(-208.50, 0.20, -111.00) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_bld_S05_close pos=(-208.50, 0.20, -111.00) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED control_bld_tree3_close pos=(69.13, 10.74, 141.94) v33Revealing=False v33Active=0 look=off (never enabled)
+AGEING level=3 weathered renderers=73 slots=184 stains=254 ivyGroups=9 ivyLeaves=2524 | stock buildings=60 skipped=4 weatherRenderers=120 slots=772 heldByReveal=0 stains=5545
+PASS 1 prefix=aged aged=True look=off (never enabled)
+CAPTURED aged_tree_1 pos=(-32.84, 7.00, 63.14) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED aged_prop_2 pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED aged_close_car pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED aged_close_open pos=(-239.30, 0.06, -64.60) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED aged_pilot_block pos=(-180.80, 0.10, -97.30) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED aged_bld_S05 pos=(-208.50, 0.20, -111.00) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED aged_bld_S05_close pos=(-208.50, 0.20, -111.00) v33Revealing=False v33Active=0 look=off (never enabled)
+CAPTURED aged_bld_tree3_close pos=(69.13, 10.74, 141.94) v33Revealing=False v33Active=0 look=off (never enabled)
+PASS 2 prefix=w_nier05 aged=True look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.55x1693
+CAPTURED w_nier05_tree_1 pos=(-32.84, 7.00, 63.14) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.55x1693
+CAPTURED w_nier05_prop_2 pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.55x1693
+CAPTURED w_nier05_close_car pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.55x1693
+CAPTURED w_nier05_close_open pos=(-239.30, 0.06, -64.60) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.55x1693
+CAPTURED w_nier05_pilot_block pos=(-180.80, 0.10, -97.30) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.55x1693
+CAPTURED w_nier05_bld_S05 pos=(-208.50, 0.20, -111.00) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.55x1693
+CAPTURED w_nier05_bld_S05_close pos=(-208.50, 0.20, -111.00) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.55x1693
+CAPTURED w_nier05_bld_tree3_close pos=(69.13, 10.74, 141.94) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.55x1693
+PASS 3 prefix=x_mid_soft aged=True look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.48x1693
+CAPTURED x_mid_soft_tree_1 pos=(-32.84, 7.00, 63.14) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.48x1693
+CAPTURED x_mid_soft_prop_2 pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.48x1693
+CAPTURED x_mid_soft_close_car pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.48x1693
+CAPTURED x_mid_soft_close_open pos=(-239.30, 0.06, -64.60) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.48x1693
+CAPTURED x_mid_soft_pilot_block pos=(-180.80, 0.10, -97.30) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.48x1693
+CAPTURED x_mid_soft_bld_S05 pos=(-208.50, 0.20, -111.00) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.48x1693
+CAPTURED x_mid_soft_bld_S05_close pos=(-208.50, 0.20, -111.00) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.48x1693
+CAPTURED x_mid_soft_bld_tree3_close pos=(69.13, 10.74, 141.94) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.48x1693
+PASS 4 prefix=y_mid aged=True look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.42x1693
+CAPTURED y_mid_tree_1 pos=(-32.84, 7.00, 63.14) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.42x1693
+CAPTURED y_mid_prop_2 pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.42x1693
+CAPTURED y_mid_close_car pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.42x1693
+CAPTURED y_mid_close_open pos=(-239.30, 0.06, -64.60) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.42x1693
+CAPTURED y_mid_pilot_block pos=(-180.80, 0.10, -97.30) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.42x1693
+CAPTURED y_mid_bld_S05 pos=(-208.50, 0.20, -111.00) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.42x1693
+CAPTURED y_mid_bld_S05_close pos=(-208.50, 0.20, -111.00) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.42x1693
+CAPTURED y_mid_bld_tree3_close pos=(69.13, 10.74, 141.94) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.42x1693
+PASS 5 prefix=z_mid_deep aged=True look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+CAPTURED z_mid_deep_tree_1 pos=(-32.84, 7.00, 63.14) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+CAPTURED z_mid_deep_prop_2 pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+CAPTURED z_mid_deep_close_car pos=(-232.48, 0.06, -62.72) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+CAPTURED z_mid_deep_close_open pos=(-239.30, 0.06, -64.60) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+CAPTURED z_mid_deep_pilot_block pos=(-180.80, 0.10, -97.30) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+CAPTURED z_mid_deep_bld_S05 pos=(-208.50, 0.20, -111.00) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+CAPTURED z_mid_deep_bld_S05_close pos=(-208.50, 0.20, -111.00) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+CAPTURED z_mid_deep_bld_tree3_close pos=(69.13, 10.74, 141.94) v33Revealing=False v33Active=0 look=on=True litRenderers=10829 litClones=431 skippedV33=0 rimMaterials=50 sun=Test Sun shader=ok settings=Library/StylizedLook.json grassThin=0.34x1693
+RESULT COMPLETE captured=8 pass=5
