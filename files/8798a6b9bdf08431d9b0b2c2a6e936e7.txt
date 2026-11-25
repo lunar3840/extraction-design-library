@@ -1,0 +1,14 @@
+룩 끔 화면 확인 (nier_05 셰이더 수정 뒤: 풀 깊이 패스에 키워드 추가, 공용 조각 래퍼에 빈 매크로 추가)
+[after_15 control vs after_14 control (둘 다 시범 건물 포함, 같은 카메라)]
+tree_1             differing >8/255: 0.008%  >2/255: 0.023%  max=95  mean=0.003
+tree_3             differing >8/255: 0.000%  >2/255: 0.000%  max=0  mean=0.000
+building_inside_1  differing >8/255: 0.024%  >2/255: 0.061%  max=92  mean=0.007
+prop_2             differing >8/255: 0.008%  >2/255: 0.030%  max=62  mean=0.003
+close_open         differing >8/255: 0.144%  >2/255: 0.295%  max=97  mean=0.037
+close_car          differing >8/255: 0.127%  >2/255: 0.199%  max=55  mean=0.030
+pilot_S01          differing >8/255: 0.022%  >2/255: 0.112%  max=49  mean=0.008
+pilot_block        differing >8/255: 1.049%  >2/255: 1.502%  max=101  mean=0.284
+[기준 잡음: after_14 control vs after_12 control]
+close_open         differing >8/255: 0.203%  >2/255: 0.445%  max=112  mean=0.054
+close_car          differing >8/255: 0.185%  >2/255: 0.291%  max=56  mean=0.043
+pilot_block        differing >8/255: 0.894%  >2/255: 1.364%  max=84  mean=0.237
