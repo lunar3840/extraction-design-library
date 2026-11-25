@@ -1,0 +1,16 @@
+룩 끔 화면 확인 (nier_03 셰이더 수정 뒤). after_12 control에는 시범 건물이 얹혀 있어 그 건물이 안 보이는 지점만 비교한다.
+tree_1             differing >8/255: 0.010%  >2/255: 0.028%  max=65  mean=0.003
+tree_3             differing >8/255: 0.000%  >2/255: 0.000%  max=0  mean=0.000
+prop_1             differing >8/255: 0.005%  >2/255: 0.014%  max=117  mean=0.002
+building_inside_1  differing >8/255: 0.017%  >2/255: 0.076%  max=98  mean=0.006
+[after_12 control vs after_10 control: 둘 다 시범 건물 포함, 포장 셰이더 훅 전후]
+prop_2             differing >8/255: 0.003%  >2/255: 0.017%  max=33  mean=0.001
+pilot_S01          differing >8/255: 0.014%  >2/255: 0.057%  max=110  mean=0.006
+pilot_S02          differing >8/255: 0.021%  >2/255: 0.057%  max=68  mean=0.006
+pilot_S06          differing >8/255: 0.007%  >2/255: 0.024%  max=53  mean=0.003
+pilot_block        differing >8/255: 0.711%  >2/255: 1.346%  max=61  mean=0.133
+close_car          differing >8/255: 0.379%  >2/255: 0.580%  max=53  mean=0.078
+[기준 잡음: 셰이더가 같은 두 촬영끼리. after_08 control vs after_07 control / after_10 control vs after_09 control]
+close_car          differing >8/255: 0.180%  >2/255: 0.351%  max=74  mean=0.040
+pilot_block        differing >8/255: 1.078%  >2/255: 1.564%  max=94  mean=0.233
+close_car          differing >8/255: 0.369%  >2/255: 0.562%  max=58  mean=0.069
