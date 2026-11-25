@@ -1,0 +1,40 @@
+WALK CHECKS AFTER THE STRUCTURES (navigation rebuilt with the new colliders)
+  B2->hall west: PathComplete length=178m straight=178m corners=2
+  B1->clinic door side: PathComplete length=136m straight=126m corners=7
+  B3->housing east: PathComplete length=164m straight=163m corners=6
+  main->north road: PathComplete length=269m straight=232m corners=11
+  main->housing: PathComplete length=173m straight=143m corners=17
+  north strip->old main road: PathComplete length=130m straight=130m corners=2
+  housing east->B4: PathComplete length=93m straight=93m corners=2
+  main street->workshop lane through north gate: PathComplete length=77m straight=46m corners=11
+  workshop yard->housing lane through south gate: PathComplete length=58m straight=55m corners=10
+  main street->knoll top: PathComplete length=34m straight=34m corners=2
+  enemy spawn / patrol points in the west area that sit on walkable ground: 392/392
+  CLINIC new site (99,54) colliders from above: 4.15:Floor_Collision | 4.15:Floor_Collision | 4.03:LandSurface_00
+  CLINIC old site (94,79) colliders from above: 4.08:LandSurface_00
+  CLINIC walk street->interior anchor plan(99,54) floorY=4.20: PathComplete length=59m
+  TOOLS new site (40,196) colliders from above: 0.80:Floor_Collision | 0.68:LandSurface_04
+  TOOLS old site (93,195) colliders from above: 0.92:WalkableFloor | 0.78:LandSurface_04
+  TOOLS walk street->interior anchor plan(40,197) floorY=0.84: PathComplete length=63m
+  road main_street: centre points on walkable ground 32/32
+  road main_joint_east: centre points on walkable ground 4/4
+  road west_ns: centre points on walkable ground 27/27
+  road north_road: centre points on walkable ground 45/45
+  road campus_east_ns: centre points on walkable ground 25/25
+  road b1_road: centre points on walkable ground 10/10
+  road hall_west_ns: centre points on walkable ground 23/23
+  road housing_north: centre points on walkable ground 30/30
+  road housing_east: centre points on walkable ground 17/17
+  road south_joint_east: centre points on walkable ground 4/4
+  road boundary_joint_0: centre points on walkable ground 4/4
+  road boundary_joint_1: centre points on walkable ground 10/10
+  road boundary_joint_2: centre points on walkable ground 2/2
+  road boundary_joint_3: centre points on walkable ground 4/4
+  road boundary_joint_4: centre points on walkable ground 6/6
+  road 복지·관리 단지_lane0: centre points on walkable ground 26/26
+  road 복지·관리 단지_lane1: centre points on walkable ground 36/36
+  road 작업장 거리_lane2: centre points on walkable ground 26/26
+  road 작업장 거리_lane3: centre points on walkable ground 26/26
+  road 사택 마을_lane4: centre points on walkable ground 26/26
+  road 사택 마을_lane5: centre points on walkable ground 26/26
+  road 복지·관리 단지_clinic_side: centre points on walkable ground 11/11

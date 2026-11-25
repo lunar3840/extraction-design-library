@@ -1,0 +1,7 @@
+WORKSHOP STREET STRUCTURES (Play session only)
+props placed=98 skipped: nearDoor=6 nearEnemyPoint=2 inBuilding=0 prefabMissing=0 maxTilt=5.3deg (existing MapAssetsV16 prefabs with their own colliders)
+  ConcreteBarrier 6, ConstructionBarrier 2, FlexiblePipe 1, IndustrialCableReel 3, IndustrialEngine 4, IndustrialFlywheel 1, IndustrialPipe 7, IndustrialPipeBundle 6, IndustrialPipeCoupling 3, IndustrialPipeRack 4, IndustrialPlatform 1, IndustrialPump 5, IndustrialTransformer 2, IndustrialValve 6, PortableLightTower 1, RustedPhoneBooth 1, RustyFence 15, RustyOilBarrels 13, ShippingContainer 3, SteelCarport 1, TelephoneBooth 1, ToolCart 3, WeatheredIndustrialGenerator 1, WeatheredMilitaryCrates 8
+poles=19 (leaning 3, with lamp 11, with transformer can 2) spans=14 (fallen 1) serviceDrops=9 wireStrands=62 (primitives and one runtime mesh; capsule collider on each pole)
+pipe runs=4 frames and sleepers=7 pipe segments=44 (primitives; colliders only on frame columns, sleepers and the low run)
+navigation rebuilt with the new colliders in 1.2s
+props=98 poles=19 lamps=11 wireSpans=14 pipeRuns=4
