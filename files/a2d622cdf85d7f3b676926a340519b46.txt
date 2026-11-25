@@ -1,0 +1,51 @@
+== W01_0
+  outer face materials {'W_d358e5d297e9d9691be6ea8e': 26, 'W_d4b353f89f50e893f2038e37': 10}
+  protruding W_8462fdb71b1ffe9286064ef6 16 x -3.75..3.75 y 1.83..3.93 z -0.02..-0.02 rgb 0.85 0.86 0.81 tex 3ea261f1
+  free wall (y 0..2.3) from 0.00 to 0.00
+  inner face z []
+  open door W01_1 tall narrow W_8462fdb71b1ffe9286064ef6 32 x -2.64..1.22 y -0.50..2.90 rgb 0.85 0.86 0.81 tex 3ea261f1
+  open door W01_1 tall narrow W_37ee4df49f27cd26b9de8839 16 x -2.80..1.38 y -0.02..3.58 rgb 0.93 0.93 0.90 tex c2fb5c6d
+== W02_0
+  outer face materials {'W_90f4f3e5b6ceb981feec0ef5': 26, 'W_856ee53302a37aa205e2a988': 10}
+  protruding W_1af2f6d537e787ea4d50868e 16 x -4.00..4.00 y 1.83..3.93 z -0.02..-0.02 rgb 0.85 0.86 0.81 tex 3ea261f1
+  free wall (y 0..2.3) from 0.00 to 0.00
+  inner face z []
+  open door W02_1 tall narrow W_1af2f6d537e787ea4d50868e 32 x -1.93..1.93 y -0.36..3.04 rgb 0.85 0.86 0.81 tex 3ea261f1
+  open door W02_1 tall narrow W_e4973e22b3f75677f8e32cc4 16 x -2.09..2.09 y -0.02..3.58 rgb 0.93 0.93 0.90 tex c2fb5c6d
+== W03_0
+  outer face materials {'W_e5bfb7e03d2562593926c019': 16, 'W_5e4060952fea63638a8f90f4': 10}
+  protruding W_e5bfb7e03d2562593926c019 4 x -4.28..4.28 y 0.73..6.01 z -0.30..-0.30 rgb 0.78 0.75 0.72 tex beff59a3
+  protruding W_5e4060952fea63638a8f90f4 12 x -4.48..4.48 y -0.02..3.98 z -0.61..-0.07 rgb 0.82 0.85 0.78 tex 9c6a32df
+  free wall (y 0..2.3) from 0.00 to 0.00
+  inner face z []
+  open door W03_1 tall narrow W_be8950b740eeb29e53589f69 32 x -1.93..1.93 y -0.57..2.83 rgb 0.85 0.86 0.81 tex 3ea261f1
+== W04_0
+  outer face materials {'W_f585c9296ed5426515dfba6a': 26, 'W_575818f820cb39773841373e': 10}
+  protruding W_94164bb29a14f452d41504aa 16 x -3.75..3.75 y 1.83..3.93 z -0.02..-0.02 rgb 0.85 0.86 0.81 tex 3ea261f1
+  free wall (y 0..2.3) from 0.00 to 0.00
+  inner face z []
+  open door W04_1 tall narrow W_94164bb29a14f452d41504aa 32 x -2.65..1.21 y -0.50..2.90 rgb 0.85 0.86 0.81 tex 3ea261f1
+  open door W04_1 tall narrow W_9901afa61e58255b11d9a943 16 x -2.81..1.37 y -0.02..3.58 rgb 0.93 0.93 0.90 tex c2fb5c6d
+== W05_1
+  outer face materials {'W_3cff6aa4224e8e9f3b677ca2': 24, 'W_e5bfb7e03d2562593926c019': 10}
+  protruding W_be8950b740eeb29e53589f69 12 x -4.47..4.47 y 1.83..3.93 z -0.02..-0.02 rgb 0.85 0.86 0.81 tex 3ea261f1
+  protruding IvyStem 610 x -3.33..-1.65 y 2.32..4.21 z -0.25..-0.01 rgb 0.22 0.20 0.11
+  protruding IvyLeaf 3364 x -3.57..-1.50 y 2.18..4.14 z -0.27..-0.04 rgb 0.32 0.43 0.23 tex 8b2e6e0d
+  free wall (y 0..2.3) from 0.00 to 0.00
+  inner face z [0.13, 0.24, 0.42, 0.48, 0.52]
+  open door W05_0 tall narrow W_be8950b740eeb29e53589f69 32 x -1.93..1.93 y -0.18..3.22 rgb 0.85 0.86 0.81 tex 3ea261f1
+  open door W05_0 tall narrow W_bb29d0119545af8c9f9f8cb3 16 x -2.09..2.09 y -0.02..3.58 rgb 0.93 0.93 0.90 tex c2fb5c6d
+== W08_1
+  outer face materials {'W_1af2f6d537e787ea4d50868e': 16, 'W_195a73336f1a5295981b1439': 6}
+  protruding W_1af2f6d537e787ea4d50868e 4 x -3.01..3.01 y -0.02..3.88 z -0.37..-0.37 rgb 0.85 0.86 0.81 tex 3ea261f1
+  protruding W_e4973e22b3f75677f8e32cc4 8 x -2.85..2.85 y 3.68..5.08 z -0.37..-0.02 rgb 0.93 0.93 0.90 tex c2fb5c6d
+  protruding W_f2d808a3cd7a5f97f3e2e0ad 120 x -2.58..2.58 y 0.18..3.45 z -0.08..0.02 rgb 0.84 0.87 0.83 tex e0be3a13
+  free wall (y 0..2.3) from 0.00 to 0.00
+  inner face z [0.42]
+  open door W08_0 tall narrow W_1af2f6d537e787ea4d50868e 32 x -2.83..2.83 y -0.12..3.28 rgb 0.85 0.86 0.81 tex 3ea261f1
+== W09_1
+  outer face materials {'W_392454882315f41448250975': 16, 'W_5e4060952fea63638a8f90f4': 6}
+  protruding D09_WoodAged 8 x -0.88..0.88 y 1.83..3.93 z -0.02..-0.02 rgb 0.91 0.91 0.86 tex 3e72f05d
+  free wall (y 0..2.3) from 0.00 to 0.00
+  inner face z [0.13, 0.24, 0.42, 0.48, 0.52]
+  open door W09_0 tall narrow W_be8950b740eeb29e53589f69 32 x -1.93..1.93 y -0.22..3.18 rgb 0.85 0.86 0.81 tex 3ea261f1

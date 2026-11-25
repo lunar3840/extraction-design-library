@@ -1,0 +1,27 @@
+DOOR APPLY (saved change) 2026-11-25T22:45:08.2537981+09:00
+building W08 object EnclosuresV33_ConnectedFacilities/Buildings/W08 door 1: outside anchor DOOR_EXTERIOR_B (-181.62, 0.53, -44.81) plan(78.38, 244.81), inside anchor DOOR_INTERIOR_B (-182.01, 0.64, -42.03) plan(77.99, 242.03)
+floor 0.49 (WalkableFloor), wall W08_Shell_colliderOnly at 1.19 m from the outside anchor, doorway 5.16 x 2.38 m, facing (-0.139, 0.000, 0.990)
+left alone: (not the building's own) PICTURE  EnclosuresV33_ConnectedFacilities/Buildings/W08/Foundation/EntryRamp_B mesh V33_Ramp_W08_-1 (Assets/Escape/Art/EnclosuresV33/Meshes/V33_Ramp_W08_-1.asset, readable True, tris 12, submeshes 1) trianglesTheDoorwayCuts=2 depth 0.56..0.56 otherTrianglesInDoorway=0 renderer on materials [W_34ccdeae16bae4535ab2a24b]
+left alone: (not the building's own) PICTURE  D14_Vegetation/Grass/Chunk_03_09/grass_0777 mesh D14_Grass_grass_03_09_0777 (Assets/Escape/Art/NatureD14/Vegetation/Meshes/D14_Grass_grass_03_09_0777.asset, readable True, tris 6642, submeshes 1) trianglesTheDoorwayCuts=0 otherTrianglesInDoorway=4 renderer on materials [D14_PT_Grass_Mat_09473d06]
+left alone: (not the building's own) PICTURE  D14_Vegetation/Overgrowth/Chunk_03_09/grass_0778 mesh D14_Overgrowth_grass_03_09_0778 (Assets/Escape/Art/NatureD14/Vegetation/Meshes/D14_Overgrowth_grass_03_09_0778.asset, readable True, tris 6642, submeshes 1) trianglesTheDoorwayCuts=2 depth -0.62..-0.33 otherTrianglesInDoorway=6 renderer on materials [D14_PT_Grass_Mat_09473d06]
+left alone: (not the building's own) PICTURE  D14_Vegetation/GapFill/Chunk_03_09/grass_0185 mesh D14_GapFill_grass_03_09_0185 (Assets/Escape/Art/NatureD14/Vegetation/Meshes/D14_GapFill_grass_03_09_0185.asset, readable True, tris 738, submeshes 1) trianglesTheDoorwayCuts=2 depth -0.65..0.28 otherTrianglesInDoorway=0 renderer on materials [D14_PT_Grass_Mat_09473d06]
+left alone: (not the building's own) PICTURE  D14_Vegetation/GroupCarpet/Chunk_03_09/grass_0185 mesh D14_GroupCarpet_grass_03_09_0185 (Assets/Escape/Art/NatureD14/Vegetation/Meshes/D14_GroupCarpet_grass_03_09_0185.asset, readable True, tris 6750, submeshes 1) trianglesTheDoorwayCuts=17 depth -0.74..0.55 otherTrianglesInDoorway=6 renderer on materials [D14_PT_Grass_Mat_09473d06]
+left alone: (not the building's own) COLLIDER EnclosuresV33_ConnectedFacilities/Buildings/W08/Foundation/EntryRamp_B mesh V33_Ramp_W08_-1 (Assets/Escape/Art/EnclosuresV33/Meshes/V33_Ramp_W08_-1.asset, readable True, tris 12, submeshes 1) trianglesTheDoorwayCuts=2 depth 0.56..0.56 otherTrianglesInDoorway=0
+wall depth at the doorway -0.08..0.42 m (0 = outer collision face, + = into the building)
+leaf: none (asked none; free wall for a full leaf right False left False, for a half leaf right False left False)
+backup of the map prefab: C:/UnityProject/_backups/door_W08_DoorB sha256 488141b076a788b861b1cd7c160f75709e96d933d4e38de80a553f8318005a3a
+CUT W08_Shell_colliderOnly (Assets/Escape/Art/BlenderEnvironmentExpansion/Buildings/W08/W08_Shell.fbx): 50 triangles replaced by 86 around the doorway; triangles 2016 -> 2052, vertices 6010 -> 6208
+  MeshFilter EnclosuresV33_ConnectedFacilities/Buildings/W08/BlenderExpansion_W08_Shell/W08_Shell/W08_Shell_colliderOnly -> W08_DoorB
+FRAME added to W08_Shell_renderOpaque in material slot 2 (W_e4973e22b3f75677f8e32cc4): 3 boxes, 36 triangles (frame, leaf: none); opening between the posts 5.04 x 2.32 m, collision opening 5.16 x 2.38 m
+CUT W08_Shell_renderOpaque (Assets/Escape/Art/BlenderEnvironmentExpansion/Buildings/W08/W08_Shell.fbx): 130 triangles replaced by 150 around the doorway; triangles 5232 -> 5288, vertices 10434 -> 10928
+  MeshFilter EnclosuresV33_ConnectedFacilities/Buildings/W08/BlenderExpansion_W08_Shell/W08_Shell/W08_Shell_renderOpaque -> W08_Shell_renderOpaque_W08_DoorB
+  MeshCollider EnclosuresV33_ConnectedFacilities/Buildings/W08/BlenderExpansion_W08_Shell/W08_Shell/W08_Shell_colliderOnly -> W08_DoorB
+PLATE EnclosuresV33_ConnectedFacilities/Buildings/W08/Foundation/EntryFloorPlate_B: 5.04 m wide through the wall, 6.76 m wide inside, to 2.80 m from the outer face, 2.5 cm above the floor, material W_e4973e22b3f75677f8e32cc4, no collider
+saved Assets/Escape/Art/BuildingDoorsV01/W08_DoorB.asset and Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab
+VERIFY ok   EnclosuresV33_ConnectedFacilities/Buildings/W08/BlenderExpansion_W08_Shell/W08_Shell/W08_Shell_colliderOnly filter = W08_DoorB (Assets/Escape/Art/BuildingDoorsV01/W08_DoorB.asset)
+VERIFY ok   EnclosuresV33_ConnectedFacilities/Buildings/W08/BlenderExpansion_W08_Shell/W08_Shell/W08_Shell_renderOpaque filter = W08_Shell_renderOpaque_W08_DoorB (Assets/Escape/Art/BuildingDoorsV01/W08_DoorB.asset)
+VERIFY ok   EnclosuresV33_ConnectedFacilities/Buildings/W08/BlenderExpansion_W08_Shell/W08_Shell/W08_Shell_colliderOnly collider = W08_DoorB (Assets/Escape/Art/BuildingDoorsV01/W08_DoorB.asset)
+VERIFY ok   EnclosuresV33_ConnectedFacilities/Buildings/W08/Foundation/EntryFloorPlate_B floor plate
+saved map prefab sha256 dc3ed08fb27071132353aebf201aac11767b8862470b9020dcb286fd117ba359
+VERIFY reading the saved prefab again: no collider wall between the two anchors (2.80 m apart): this door is already open
+RESULT SAVED
