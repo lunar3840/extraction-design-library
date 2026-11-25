@@ -1,0 +1,20 @@
+DOOR APPLY (saved change) 2026-11-25T10:39:29.0471436+09:00
+building W07 object EnclosuresV33_ConnectedFacilities/Buildings/W07 door 0: outside anchor DOOR_EXTERIOR_A (-97.45, 1.44, -27.22) plan(162.55, 227.22), inside anchor DOOR_INTERIOR_A (-97.89, 1.58, -29.99) plan(162.11, 229.99)
+floor 1.43 (WalkableFloor), wall W07_Shell_colliderOnly at 1.19 m from the outside anchor, doorway 1.50 x 2.20 m, facing (-0.156, 0.000, -0.988)
+left alone: (not the building's own) PICTURE  EnclosuresV33_ConnectedFacilities/Buildings/W07/Foundation/EntryRamp_A mesh V33_Ramp_W07_1 (Assets/Escape/Art/EnclosuresV33/Meshes/V33_Ramp_W07_1.asset, readable True, tris 12, submeshes 1) trianglesTheDoorwayCuts=1 depth 0.56..0.56 otherTrianglesInDoorway=0 renderer on materials [W_f07bd14f643001e0bd3d147c]
+left alone: (not the building's own) COLLIDER EnclosuresV33_ConnectedFacilities/Buildings/W07/Foundation/EntryRamp_A mesh V33_Ramp_W07_1 (Assets/Escape/Art/EnclosuresV33/Meshes/V33_Ramp_W07_1.asset, readable True, tris 12, submeshes 1) trianglesTheDoorwayCuts=1 depth 0.56..0.56 otherTrianglesInDoorway=0
+wall depth at the doorway 0.00..0.42 m (0 = outer collision face, + = into the building)
+backup of the map prefab: C:/UnityProject/_backups/door_W07_DoorA sha256 26c8e548b074d96a36a33bfb9cfa7d354bf1c220729d6bd3f1455710d65e98e9
+CUT W07_Shell_colliderOnly (Assets/Escape/Art/BlenderEnvironmentExpansion/Buildings/W07/W07_Shell.fbx): 18 triangles replaced by 62 around the doorway; triangles 1464 -> 1508, vertices 4388 -> 4530
+  MeshFilter EnclosuresV33_ConnectedFacilities/Buildings/W07/BlenderExpansion_W07_Shell/W07_Shell/W07_Shell_colliderOnly -> W07_DoorA
+FRAME added to M_5ce29a781ab8d904e5f06315 in material slot 5 (W_be8950b740eeb29e53589f69): 4 boxes, 48 triangles; opening between the posts 1.38 x 2.14 m, collision opening 1.50 x 2.20 m
+CUT M_5ce29a781ab8d904e5f06315 (Assets/Escape/Art/SurfaceRuin/StageARollout/Meshes/M_5ce29a781ab8d904e5f06315.asset): 18 triangles replaced by 62 around the doorway; triangles 17824 -> 17916, vertices 53472 -> 53710
+  MeshFilter EnclosuresV33_ConnectedFacilities/Buildings/W07/BlenderExpansion_W07_Shell/W07_Shell/W07_Shell_renderOpaque -> M_5ce29a781ab8d904e5f06315_W07_DoorA
+  MeshCollider EnclosuresV33_ConnectedFacilities/Buildings/W07/BlenderExpansion_W07_Shell/W07_Shell/W07_Shell_colliderOnly -> W07_DoorA
+saved Assets/Escape/Art/BuildingDoorsV01/W07_DoorA.asset and Assets/Escape/Resources/StageMaps/StageA_Relay_Blockout_v08.prefab
+VERIFY ok   EnclosuresV33_ConnectedFacilities/Buildings/W07/BlenderExpansion_W07_Shell/W07_Shell/W07_Shell_colliderOnly filter = W07_DoorA (Assets/Escape/Art/BuildingDoorsV01/W07_DoorA.asset)
+VERIFY ok   EnclosuresV33_ConnectedFacilities/Buildings/W07/BlenderExpansion_W07_Shell/W07_Shell/W07_Shell_renderOpaque filter = M_5ce29a781ab8d904e5f06315_W07_DoorA (Assets/Escape/Art/BuildingDoorsV01/W07_DoorA.asset)
+VERIFY ok   EnclosuresV33_ConnectedFacilities/Buildings/W07/BlenderExpansion_W07_Shell/W07_Shell/W07_Shell_colliderOnly collider = W07_DoorA (Assets/Escape/Art/BuildingDoorsV01/W07_DoorA.asset)
+saved map prefab sha256 e37fccf1780ed9e4ed964146f60b226ac29e9bf5c84b2ab9bd020766d3cc7adf
+VERIFY reading the saved prefab again: no collider wall between the two anchors (2.80 m apart): this door is already open
+RESULT SAVED
