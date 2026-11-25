@@ -1,0 +1,48 @@
+WORKSHOP STREET COMBAT FLOW: measured in one Play session (run_03)
+                                       before      after
+walkable outdoor ground (m2)             8076       7374
+ground on a line >= 30 m                  98%        92%
+ground on a line >= 60 m                  90%        43%
+longest line, median (m)                122.1       55.4
+lane direction: line >= 30 m              82%        42%
+lane direction: median (m)              119.3       27.9
+walk to break sight, median (m)           3.8        3.1
+walk to break sight > 5 m                 28%        18%
+walk to break sight > 10 m                 2%         1%
+nearest collider > 6 m away                7%         2%
+seen share of the 27 m disc               32%        21%
+lane2 -> forecourt, max (m)             106.7       57.1
+lane2 -> forecourt, mean (m)             58.6       38.5
+lane2 -> lane3, max (m)                 107.7       64.6
+lane2 -> lane3, mean (m)                 60.4       43.3
+doors that reach the inside             14/22      15/22
+buildings you can walk through           3/11       4/11
+blocks you can walk round (loops)           8         15
+walkable cells cut off, left out (m2)        0.2        0.2
+detour points without a path              0+0        3+4
+
+forecourt (앞마당·1열 사이)
+  lane direction: line >= 30 m            60%        30%
+  line >= 30 m                            91%        84%
+  line >= 60 m                            84%        51%
+  lane direction: longest (m)           194.1      154.4
+lane2 (골목 2)
+  lane direction: line >= 30 m            97%        30%
+  line >= 30 m                           100%        83%
+  line >= 60 m                            96%        22%
+  lane direction: longest (m)           154.8       65.9
+midblock (2열 사이·뒷마당)
+  lane direction: line >= 30 m            56%         5%
+  line >= 30 m                           100%        98%
+  line >= 60 m                            85%        54%
+  lane direction: longest (m)           218.1       34.3
+lane3 (골목 3)
+  lane direction: line >= 30 m           100%        52%
+  line >= 30 m                           100%        98%
+  line >= 60 m                           100%        41%
+  lane direction: longest (m)           297.1      176.3
+south (마당·3열)
+  lane direction: line >= 30 m            82%        81%
+  line >= 30 m                           100%       100%
+  line >= 60 m                            77%        53%
+  lane direction: longest (m)           188.8       73.9
