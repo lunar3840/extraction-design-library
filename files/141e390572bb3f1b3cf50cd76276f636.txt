@@ -1,0 +1,35 @@
+WORKSHOP STREET PAVEMENT DETAIL (Play session only; runtime objects, meshes, textures and one runtime material)
+  bay lane_2: local (-4.00,27.00)-(150.50,33.00) slab 4.984 x 3.000 m, joint 3.5 cm, cracked share 0.16
+  bay lane_3: local (-4.00,63.98)-(150.50,69.98) slab 4.984 x 3.000 m, joint 3.5 cm, cracked share 0.18
+  bay apron_row1: local (-4.00,23.05)-(150.50,27.00) slab 3.962 x 3.953 m, joint 3.0 cm, cracked share 0.20
+  bay apron_row2: local (-4.00,33.00)-(150.50,36.95) slab 3.962 x 3.950 m, joint 3.0 cm, cracked share 0.20
+  bay yard_dismantle: local (104.03,69.98)-(150.50,89.50) slab 6.638 x 6.505 m, joint 5.0 cm, cracked share 0.28
+  bay yard_scrap: local (-4.00,69.98)-(47.96,89.50) slab 5.196 x 4.879 m, joint 4.0 cm, cracked share 0.45
+  bay row3_strip: local (47.96,69.98)-(104.03,89.50) slab 4.005 x 3.903 m, joint 3.0 cm, cracked share 0.20
+  bay forecourt: local (-4.00,-4.00)-(150.50,23.05) slab 4.544 x 4.508 m, joint 3.0 cm, cracked share 0.22
+  bay back_court: local (-4.00,36.95)-(150.50,63.98) slab 3.029 x 3.004 m, joint 2.5 cm, cracked share 0.30
+frame: origin (20,186) local plot (-4,-4)-(150.5,89.5) detail textures 1545x935 at 10 px/m (runtime only)
+slab bays=9 asphaltRepairs old=16 new=13 stainBlobs=39 stainLines=18
+runoff stains=66 followedGroundFall=60 ranAwayFromWall=6 pooledOnLevelGround=0 longest=10.2m
+doors in the plot=21 wornLinesToLane=14 (door anchors given: 128)
+detail layer: 4 meshes, 8123 triangles copied from BlenderExpansion_Outdoor_D11_Roads/D11_Roads_FBX (tile material D12_RoadFinish_ReplanV4, shader Escape/OutdoorD12/RoadFinish), lifted 0.004 m, uv check max 0.000 m, no colliders
+ground hollows found on open paving: 1233 grid points; used 6
+  puddle plan (69.4,181.8) radius 0.7 m standing water, ground span in the pool 6.5 cm [placed]
+  puddle plan (132.8,178.5) radius 1.5 m wet patch only, ground span in the pool 17.6 cm [placed]
+  puddle plan (111.3,212.5) radius 0.9 m standing water, ground span in the pool 7.3 cm [placed]
+  puddle plan (23.6,216.7) radius 0.8 m standing water, ground span in the pool 7.8 cm [placed]
+  puddle plan (145.4,247.7) radius 1.4 m standing water, ground span in the pool 6.5 cm [placed]
+  puddle plan (148.2,262.4) radius 2.4 m wet patch only, ground span in the pool 27.2 cm [placed]
+  puddle plan (40.5,271.5) radius 2.0 m standing water, ground span in the pool 2.2 cm [placed]
+  puddle plan (93.0,242.2) radius 1.1 m standing water, ground span in the pool 6.4 cm [placed]
+  puddle plan (63.5,252.2) radius 1.6 m standing water, ground span in the pool 2.6 cm [placed]
+  puddle plan (147.7,177.5) radius 1.4 m standing water, ground span in the pool 0.8 cm [placed]
+  puddle at plan (103.6,266.2) skipped: reaches into a building
+  puddle plan (81.6,214.8) radius 1.2 m standing water, ground span in the pool 5.1 cm [hollow 11.8 cm]
+  puddle plan (53.6,216.3) radius 2.4 m wet patch only, ground span in the pool 33.9 cm [hollow 10.7 cm]
+  puddle plan (38.6,216.1) radius 2.4 m wet patch only, ground span in the pool 37.6 cm [hollow 8.9 cm]
+  puddle plan (143.5,210.6) radius 2.4 m wet patch only, ground span in the pool 28.6 cm [hollow 7.7 cm]
+  puddle plan (124.6,251.6) radius 2.4 m wet patch only, ground span in the pool 16.0 cm [hollow 5.4 cm]
+  puddle plan (166.7,177.3) radius 2.4 m wet patch only, ground span in the pool 18.4 cm [hollow 5.2 cm]
+puddles: standingWater=9 wetOnly=7 skipped=1 rainRings=1 (runtime copy of Assets/Escape/Art/WeatherV38/Puddles/V38_Puddles.mat; the asset is not edited)
+slabBays=9 asphaltRepairs=29 stains=123 doors=21 puddles=16 (standingWater=9) detailMeshes=4
