@@ -1,0 +1,20 @@
+룩 끔 화면이 수정 전과 같은지 (같은 카메라, 픽셀 비교)
+[after_08 control (F1~F3·먼지 올림·풀 색조 수정 뒤, 시범 건물 없음) vs after_06 control (수정 전)]
+tree_1             differing >8/255: 0.017%  >2/255: 0.042%  max=116  mean=0.006
+tree_3             differing >8/255: 0.000%  >2/255: 0.000%  max=0  mean=0.000
+prop_2             differing >8/255: 0.007%  >2/255: 0.026%  max=62  mean=0.003
+[after_07 control (F1~F3 수정 뒤) vs after_06 control]
+tree_3             differing >8/255: 0.000%  >2/255: 0.000%  max=0  mean=0.000
+prop_2             differing >8/255: 0.051%  >2/255: 0.082%  max=43  mean=0.008
+[기준 잡음: after_06 control vs after_05 control (둘 다 수정 전)]
+tree_1             differing >8/255: 0.008%  >2/255: 0.023%  max=65  mean=0.003
+tree_3             differing >8/255: 0.000%  >2/255: 0.000%  max=0  mean=0.000
+prop_1             differing >8/255: 0.013%  >2/255: 0.034%  max=109  mean=0.004
+building_inside_1  differing >8/255: 0.021%  >2/255: 0.074%  max=61  mean=0.006
+prop_2             differing >8/255: 0.011%  >2/255: 0.022%  max=46  mean=0.003
+[after_10 control vs after_06 control: after_10은 control에도 시범 건물(S01·S02·S06)이 얹혀 있어 prop_2 화면 구석이 다르다]
+tree_1             differing >8/255: 0.011%  >2/255: 0.030%  max=100  mean=0.004
+tree_3             differing >8/255: 0.000%  >2/255: 0.000%  max=0  mean=0.000
+prop_1             differing >8/255: 0.059%  >2/255: 0.080%  max=118  mean=0.010
+building_inside_1  differing >8/255: 0.016%  >2/255: 0.067%  max=62  mean=0.005
+prop_2             differing >8/255: 1.279%  >2/255: 1.820%  max=33  mean=0.273

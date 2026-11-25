@@ -1,0 +1,35 @@
+LOOK BUILDING AGEING (candidate)
+assets weatheredShader=True damp=True rust=True ivyLeaf=True ivyStem=True
+pilot wall renderers=61 roof renderers=12
+weathering: renderers=73 slots=184 aged materials=20
+  ivy Pilot_Wall_S01_Ext01: leaves=123 segments=79 sourceTriangles=204
+  ivy Pilot_Wall_S01_Ext05: leaves=316 segments=211 sourceTriangles=240
+  stains Pilot_Wall_S01_Ext01: quads=3 (damp tris 4, rust tris 2) length=14.0 side=1
+  stains Pilot_Wall_S01_Ext02: quads=2 (damp tris 2, rust tris 2) length=8.1 side=-1
+  stains Pilot_Wall_S01_Ext03: quads=1 (damp tris 2, rust tris 0) length=2.8 side=-1
+  stains Pilot_Wall_S01_Ext04: quads=5 (damp tris 6, rust tris 4) length=8.1 side=-1
+  stains Pilot_Wall_S01_Ext05: quads=7 (damp tris 12, rust tris 2) length=14.0 side=-1
+  stains Pilot_Wall_S01_Ext06: quads=4 (damp tris 8, rust tris 0) length=7.0 side=-1
+  stains Pilot_Wall_S01_Ext07: quads=3 (damp tris 6, rust tris 0) length=8.1 side=1
+  stains Pilot_Wall_S01_Ext08: quads=2 (damp tris 2, rust tris 2) length=2.8 side=1
+  stains Pilot_Wall_S01_Ext09: quads=11 (damp tris 10, rust tris 12) length=21.0 side=1
+  stains Pilot_Wall_S01_Ext10: quads=10 (damp tris 10, rust tris 10) length=21.0 side=-1
+  stains Pilot_Wall_S01_Ext11: quads=4 (damp tris 8, rust tris 0) length=8.1 side=-1
+  ivy Pilot_Wall_S02_Ext29: leaves=280 segments=186 sourceTriangles=324
+  ivy Pilot_Wall_S02_Ext31: leaves=72 segments=47 sourceTriangles=240
+  stains Pilot_Wall_S02_Ext29: quads=10 (damp tris 16, rust tris 4) length=17.0 side=1
+  stains Pilot_Wall_S02_Ext30: quads=3 (damp tris 6, rust tris 0) length=10.0 side=1
+  stains Pilot_Wall_S02_Ext31: quads=11 (damp tris 18, rust tris 4) length=17.0 side=-1
+  stains Pilot_Wall_S02_Ext32: quads=4 (damp tris 6, rust tris 2) length=10.0 side=-1
+  stains Pilot_Wall_S02_Ext33: quads=3 (damp tris 6, rust tris 0) length=9.7 side=-1
+  stains Pilot_Wall_S02_Ext34: quads=3 (damp tris 6, rust tris 0) length=10.1 side=1
+  stains Pilot_Wall_S02_Ext35: quads=4 (damp tris 8, rust tris 0) length=17.0 side=-1
+  ivy Pilot_Wall_S06_Ext45: leaves=131 segments=86 sourceTriangles=288
+  ivy Pilot_Wall_S06_Ext50: leaves=80 segments=52 sourceTriangles=156
+  stains Pilot_Wall_S06_Ext45: quads=8 (damp tris 14, rust tris 2) length=23.0 side=1
+  stains Pilot_Wall_S06_Ext46: quads=5 (damp tris 4, rust tris 6) length=12.5 side=-1
+  stains Pilot_Wall_S06_Ext48: quads=4 (damp tris 4, rust tris 4) length=12.5 side=1
+  stains Pilot_Wall_S06_Ext49: quads=1 (damp tris 2, rust tris 0) length=6.5 side=1
+  stains Pilot_Wall_S06_Ext50: quads=5 (damp tris 10, rust tris 0) length=15.7 side=-1
+  stains Pilot_Wall_S06_Ext51: quads=4 (damp tris 8, rust tris 0) length=23.0 side=-1
+weathered renderers=73 slots=184 stains=117 ivyGroups=6 ivyLeaves=1002
