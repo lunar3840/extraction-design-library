@@ -1,0 +1,22 @@
+s/2026-11-26/a-map-building-door-leaves/run_02/MEASURE_before_rays.csv
+  samples 8401 | along the frame axis: over 30 m 82%, over 60 m 71%, median 116 m | across: over 30 m 59% | any direction: over 30 m 98%, over 60 m 89%, median of the longest line 120 m, longest 297 m
+ds/2026-11-26/a-map-building-door-leaves/run_02/MEASURE_after_rays.csv
+  samples 7757 | along the frame axis: over 30 m 42%, over 60 m 10%, median 28 m | across: over 30 m 60% | any direction: over 30 m 92%, over 60 m 43%, median of the longest line 56 m, longest 207 m
+
+v6 first pass (no wall, cover islands only)
+kshop-v6-candidate/unity_combat/run_01/MEASURE_before_rays.csv
+  whole frame            samples 10707 | along axis >30 m  87%, >60 m  82%, median 150 m | across >30 m  89% | any direction >30 m 100%, >60 m 100%, median longest 189 m
+  inside the wall        samples  8209 | along axis >30 m  83%, >60 m  76%, median 136 m | across >30 m  86% | any direction >30 m 100%, >60 m 100%, median longest 185 m
+  road side of the wall  samples  2498 | along axis >30 m  98%, >60 m  98%, median 181 m | across >30 m  98% | any direction >30 m 100%, >60 m 100%, median longest 197 m
+  court_west             samples  1542 | along axis >30 m  97%, >60 m  92%, median 136 m | across >30 m  71% | any direction >30 m 100%, >60 m 100%, median longest 170 m
+  court_east             samples  1458 | along axis >30 m  99%, >60 m  97%, median 170 m | across >30 m  67% | any direction >30 m 100%, >60 m 100%, median longest 193 m
+  yard_dismantle         samples  1791 | along axis >30 m  74%, >60 m  67%, median 109 m | across >30 m  94% | any direction >30 m 100%, >60 m 100%, median longest 177 m
+
+v6 second pass (broken boundary wall, things across the courts and the yard)
+kshop-v6-candidate/unity_combat/run_02/MEASURE_before_rays.csv
+  whole frame            samples 11287 | along axis >30 m  85%, >60 m  73%, median  87 m | across >30 m  80% | any direction >30 m 100%, >60 m  98%, median longest 148 m
+  inside the wall        samples  7963 | along axis >30 m  79%, >60 m  62%, median  71 m | across >30 m  72% | any direction >30 m 100%, >60 m  97%, median longest 122 m
+  road side of the wall  samples  3324 | along axis >30 m  99%, >60 m  99%, median 192 m | across >30 m  99% | any direction >30 m 100%, >60 m 100%, median longest 199 m
+  court_west             samples  1523 | along axis >30 m  93%, >60 m  70%, median  83 m | across >30 m  72% | any direction >30 m 100%, >60 m  92%, median longest 103 m
+  court_east             samples  1431 | along axis >30 m  92%, >60 m  69%, median  70 m | across >30 m  70% | any direction >30 m 100%, >60 m  96%, median longest 107 m
+  yard_dismantle         samples  1761 | along axis >30 m  76%, >60 m  65%, median  79 m | across >30 m  80% | any direction >30 m  99%, >60 m  98%, median longest 136 m

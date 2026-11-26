@@ -1,0 +1,13 @@
+HALL stays (authored hall); hall block laid around it: W11 (228.2, 255.2), G12a (268.2, 200.2), G12b (258.2, 260.2), N5 (226.2, 220.2), EX4 (280.0, 226.3), fence x 190.5-314.2 y 165.2-267.2
+moved out of the saved water: 야적장 by (-6, -9) m -> gap 6.1 m
+moved out of the saved water: 수문 관리소 by (-7, -18) m -> gap 6.3 m
+moved out of the saved water: 펌프 부속고 by (-11, -17) m -> gap 7.0 m
+H5 -> (441.0, 258.0) (north head of the saved east bridge), EX2 -> (466.0, 323.0) (its south end), H6 patrol -> [(246, 355), (287, 339), (327, 313), (366, 293)]
+channel strips dug: 2 ((260,368)-(170,381), (150,384)-(40,400)); road crossings left as causeways: east_road, hall_west_ns
+plateau wall along the plan channel bank: 26 pieces from (502,7) to (476,261)
+props: 215 (generators 3, cover clusters used 63 of 64, screens/piles 12); dropped cover clusters (in a building, on a road, wall, fence or water): 1 [(289.3, 268.1)]; skipped single props: 1
+named enemies indoors: ['N4', 'N5']
+marker R1 (152, 43) -> (152.8, 44.3)
+marker R8 (202, 341) -> (203.8, 347.2)
+marker T2 (366, 143) -> (373.5, 143.0)
+marker T3 (322, 267) -> (321.5, 266.1)

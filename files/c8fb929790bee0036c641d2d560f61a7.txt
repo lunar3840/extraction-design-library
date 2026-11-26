@@ -1,0 +1,29 @@
+A맵 v7 재구축 후보 — 시야 (unity_run/run_03, 같은 Play 세션)
+정의: StageAWorkshopCombat.Measure와 같음. 걸을 수 있는 바깥 지점마다 눈높이 1.2 m에서 72방향, 땅을 따라 3 m씩, 최대 160 m. 한 점을 지나는 직선 = 한 방향 + 반대 방향. 축 방향 = 틀 축에서 10도 안. 울타리·트리거·플레이어·적은 시야를 막지 않음.
+작업장 틀은 2 m 간격, 나머지 블록은 3 m 간격. 지금 맵 쪽은 같은 땅 테두리 안의 지금 맵을 잰 것(같은 블록 비교가 아님).
+
+SIGHT before (saved map)
+  workshop_walls: samples 2657 (step 2 m) | along axis >30 m 72%, >60 m 62% | any direction >60 m 88% | median longest line 167 m | skipped: indoors/covered 168, off navigation 123, inside a solid 94
+  진료소 뜰: samples 918 (step 3 m) | along axis >30 m 79%, >60 m 58% | any direction >60 m 82% | median longest line 169 m | skipped: indoors/covered 16, off navigation 26, inside a solid 29
+  관리동: samples 708 (step 3 m) | along axis >30 m 84%, >60 m 76% | any direction >60 m 92% | median longest line 172 m | skipped: indoors/covered 67, off navigation 34, inside a solid 19
+  발전동: samples 1032 (step 3 m) | along axis >30 m 76%, >60 m 61% | any direction >60 m 80% | median longest line 176 m | skipped: indoors/covered 21, off navigation 14, inside a solid 37
+  출하 야드: samples 1105 (step 3 m) | along axis >30 m 75%, >60 m 52% | any direction >60 m 79% | median longest line 163 m | skipped: indoors/covered 31, off navigation 29, inside a solid 39
+  윗마을: samples 404 (step 3 m) | along axis >30 m 91%, >60 m 74% | any direction >60 m 100% | median longest line 153 m | skipped: indoors/covered 55, off navigation 7, inside a solid 17
+  아랫마을: samples 434 (step 3 m) | along axis >30 m 92%, >60 m 73% | any direction >60 m 100% | median longest line 150 m | skipped: indoors/covered 8, off navigation 5, inside a solid 15
+  야적장: samples 864 (step 3 m) | along axis >30 m 73%, >60 m 52% | any direction >60 m 83% | median longest line 113 m | skipped: indoors/covered 32, off navigation 19, inside a solid 30
+  수문 관리소: samples 283 (step 3 m) | along axis >30 m 85%, >60 m 55% | any direction >60 m 95% | median longest line 189 m | skipped: indoors/covered 6, off navigation 29, inside a solid 2
+  time 5 s
+
+SIGHT after (v7 candidate)
+  workshop_walls: samples 2684 (step 2 m) | along axis >30 m 40%, >60 m 25% | any direction >60 m 52% | median longest line 61 m | skipped: indoors/covered 155, off navigation 38, inside a solid 165
+  진료소 뜰: samples 925 (step 3 m) | along axis >30 m 73%, >60 m 57% | any direction >60 m 76% | median longest line 174 m | skipped: indoors/covered 18, off navigation 24, inside a solid 22
+  관리동: samples 796 (step 3 m) | along axis >30 m 60%, >60 m 58% | any direction >60 m 81% | median longest line 197 m | skipped: indoors/covered 2, off navigation 13, inside a solid 17
+  발전동: samples 1058 (step 3 m) | along axis >30 m 65%, >60 m 53% | any direction >60 m 66% | median longest line 81 m | skipped: indoors/covered 13, off navigation 9, inside a solid 24
+  출하 야드: samples 1125 (step 3 m) | along axis >30 m 64%, >60 m 42% | any direction >60 m 72% | median longest line 85 m | skipped: indoors/covered 33, off navigation 19, inside a solid 27
+  윗마을: samples 340 (step 3 m) | along axis >30 m 80%, >60 m 70% | any direction >60 m 94% | median longest line 177 m | skipped: indoors/covered 108, off navigation 23, inside a solid 12
+  아랫마을: samples 423 (step 3 m) | along axis >30 m 93%, >60 m 75% | any direction >60 m 100% | median longest line 176 m | skipped: indoors/covered 0, off navigation 3, inside a solid 36
+  야적장: samples 893 (step 3 m) | along axis >30 m 72%, >60 m 56% | any direction >60 m 75% | median longest line 161 m | skipped: indoors/covered 0, off navigation 31, inside a solid 21
+  수문 관리소: samples 301 (step 3 m) | along axis >30 m 51%, >60 m 43% | any direction >60 m 67% | median longest line 111 m | skipped: indoors/covered 0, off navigation 10, inside a solid 9
+  time 10 s
+
+이전 같은 정의 Play 측정: v6 후보 담 안쪽 79% / 97% / 122 m, v4 후보 물건 86개 뒤 42% / 43% / 56 m, v4 손보기 전 82% / 89% / 120 m
