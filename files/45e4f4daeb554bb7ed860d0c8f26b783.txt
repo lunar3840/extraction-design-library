@@ -1,0 +1,6 @@
+prop_2             differing >8/255: 0.006%  >2/255: 0.018%  max=46  mean=0.002
+moss_wall_s        differing >8/255: 0.100%  >2/255: 0.212%  max=119  mean=0.024
+tree_1             differing >8/255: 0.009%  >2/255: 0.026%  max=116  mean=0.003
+bld_S05_close      differing >8/255: 0.007%  >2/255: 0.017%  max=71  mean=0.002
+pilot_block        differing >8/255: 0.366%  >2/255: 0.890%  max=33  mean=0.079
+close_car          missing
