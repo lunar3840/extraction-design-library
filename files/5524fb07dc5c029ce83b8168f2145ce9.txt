@@ -1,0 +1,23 @@
+성능 측정 요약 2차 (2026-11-27, Unity Editor Play, Game 1920x1080, i7-13700H / RTX 4050 Laptop 6GB)
+방법은 1차(2026-11-26\game-performance-optimization\MEASUREMENTS.txt)와 같다. 세린, 시드 61030, 적·전리품 생성, AI 진행.
+측정 중 시스템 메모리: 물리 26.3~28.0 / 31.8GB, 커밋 56.0~57.5 / 63.7GB (남은 커밋 6.2~7.7GB). 메모리가 거의 찬 상태라 프로파일러 수집은 지점당 약 1초(28~31프레임)로 줄였다.
+
+1) 함수별 (프로파일러 켠 값, 프레임당 ms)
+   항목                                   전                         후
+   Font.CacheFontForText (글리프 예열)     1.74~1.84 (11/26 step1)    0.14~0.25 (imgui_01, opt3_01) · 프로파일러 끈 값 0.16~0.19 (opt2_01)
+   InventoryTestWorld.OnGUI (위 포함)      2.88~3.07 (11/26 step1)    1.31~1.55
+   AMapRuinIvyRevealBinding.LateUpdate     0.64~0.72 (11/26)          목록 하한(0.12) 아래 (imgui_01, opt3_01)
+   StageMapRouter.LateUpdate               1.00 · GC 11,860B (imgui_01, 같은 날) → 0.54~0.57 · GC 438~466B (opt3_01)
+   StageARainV37.LateUpdate                1.14 indoor (11/26)        1.16 indoor, 0.34 entry (변화 없음)
+   CompanionAbilityController.OnGUI        1.95 · 2회 (imgui_01)      1.19~2.15 · 1회 (변화 확인 안 됨)
+   프레임당 GC                              102~131KB (opt2 전후 포함)  90~121KB (opt3_01, hudcheck_01)
+
+2) 전체 프레임 (세린, 중앙값 / p95 ms)
+   지점      11/26 최종(step3_fit_01)   11/27 최종(hudcheck_01)
+   entry     21.6 / 25.5                22.1 / 25.4
+   cluster   23.3 / 27.2                25.3 / 29.9
+   indoor    25.4 / 29.4                24.1 / 27.2
+   grove     26.2 / 30.7                25.8 / 29.6
+   전체 프레임 시간은 어제와 차이를 가릴 수 없다. 같은 코드인 헤어(3.4 → 3.9~4.3ms)·건물 가림(1.6 → 2.2~2.9ms)도 오늘 더 느리게 재져, 날짜 간 비교는 기계 상태 차이가 섞여 있다.
+
+3) 지금 큰 것 (opt3_01, 프로파일러 켠 값): 헤어 가벼운 경로 4.2 · 건물 가림 V33 2.2~2.9 · IMGUI 전체 약 4.3~4.9(동료 능력 1.2~2.2, 인벤토리 HUD 1.3~1.5) · 적 AI 1.2~1.5 · 비 0.3~1.2 · 에디터 자체 3.3
